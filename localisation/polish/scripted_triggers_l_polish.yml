@@ -1,0 +1,8 @@
+﻿l_polish:
+ has_war_with_non_exiled_country_tt:0 "Ve válce s neexilovanou zemí"
+ is_alpine_TT:0 "Je alpský stát"
+ is_at_peace_exiled_countries_excluded_tt:0 "Je v míru (válka s exilovými zeměmi vyloučena)"
+ is_controlled_by_ROOT_or_ally:0 "Řízeno §H[Root.GetNameDef]§! nebo jedním z jejich spojenců."
+ is_league_of_nations_member_tt:0 "Je členem Společnosti národů"
+ state_is_fully_controlled_by_ROOT_or_subject_tt:0 "Je plně řízena §Y[ROOT.GetFlag][ROOT.GetNameDef]§! nebo jakýmkoli §Y[ROOT.GetAdjective] subjektem§!"
+ state_is_fully_controlled_by_ROOT_subject_or_faction_member_tt: "Je plně řízena §Y[ROOT.GetFlag][ROOT.GetNameDef]§!, jakýmkoli §Y[ROOT.GetAdjective] subjektem§! nebo §Yfaction member§!"
