@@ -101,7 +101,7 @@
  HOL_STATE_977: "Antverpy"
  HUN_STATE_154: "Tiszántúl"
  HUN_STATE_45: "Délvidék"
- HUN_STATE_664: "Felvidék # byl Abaúj-Torna"
+ HUN_STATE_664: "Felvidék" # byl Abaúj-Torna
  HUN_STATE_73: "Kárpátalja"
  HUN_STATE_76: "Szeklerland"
  HUN_STATE_83: "Körösvidék"
@@ -222,10 +222,10 @@
  STATE_14:0 "Bretaně"
  STATE_150:1 "Kuopio"
  STATE_151:1 "Východní Švýcarské Alpy"
- STATE_152:0 "Horní Rakousko # bylo Horní Rakousko"
+ STATE_152:0 "Horní Rakousko" # bylo Horní Rakousko
  STATE_153:0 "Tyrol"
- STATE_154: "Transtisza # byl Alföld"
- STATE_155:1 "Severní Transdanubie # byla Transdanubie"
+ STATE_154: "Transtisza" # byl Alföld"
+ STATE_155:1 "Severní Transdanubie" # byla Transdanubie
  STATE_156:0 "Kalábria"
  STATE_157:0 "Abruzzo"
  STATE_158:2 "Piemont"
@@ -273,7 +273,7 @@
  STATE_196:0 "Cherson"
  STATE_197:0 "Mykolaiv"
  STATE_198:0 "Vinnycja"
- STATE_199:1 "Proskuriv # Byl Khmelnytskyi"
+ STATE_199:1 "Proskuriv" # Byl Khmelnytskyi
  STATE_19:0 "Akvitánie"
  STATE_1:0 "Korsika"
  STATE_200:0 "Záporoží"
@@ -361,7 +361,7 @@
  STATE_275:0 "Transvaal"
  STATE_276:0 "Jižní Ontario"
  STATE_277:0 "Mexiko Město"  
- STATE_278:0 "Buenos Aires # Byl Pampas"  
+ STATE_278:0 "Buenos Aires" # Byl Pampas
  STATE_279:0 "Santiago"
  STATE_27:0 "Burgundsko"
  STATE_280:0 "Mato Grosso"
@@ -387,7 +387,7 @@
  STATE_299:0 "Falklandy"
  STATE_29:1 "Nord-Pas-de-Calais"
  STATE_2:1 "Lazio"  
- STATE_300:0 "Montevideo # byl uruguay"
+ STATE_300:0 "Montevideo" # byl uruguay
  STATE_301:0 "Paraguay"
  STATE_302:0 "La Paz"
  STATE_303:0 "Lima"
@@ -613,16 +613,16 @@
  STATE_501:1 "São Paulo"
  STATE_502:1 "Rio Grande do Sul"
  STATE_503:0 "Santa Catarina"  
- STATE_504:1 "Punta Porá # Was Iguaçú"
+ STATE_504:1 "Punta Porá" # Was Iguaçú
  STATE_505:1 "Goiás"  
  STATE_506:0 "Antofagasta"
  STATE_507:0 "Magallanes"
  STATE_508:0 "Tucumán"
  STATE_509:0 "Chaco Austral"
  STATE_50:0 "Württemberg"
- STATE_510:0 "Mezopotámský region # Bylo Mezopotámie"
+ STATE_510:0 "Mezopotámský region" # Bylo Mezopotámie
  STATE_511:0 "Mendoza"
- STATE_512:0 "Río Negro # Bylo Patagonia"
+ STATE_512:0 "Río Negro" # Bylo Patagonia
  STATE_513:0 "Tlemcen"
  STATE_514:0 "Alžírská poušť"
  STATE_515:0 "Jižní Sahara"  

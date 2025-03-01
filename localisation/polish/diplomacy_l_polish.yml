@@ -234,7 +234,7 @@
  DIPLOMACY_CIVIL_WAR_ALREADY_AT_WAR_FAILED:0 "Nezdařilo se to kvůli již probíhající válce v zemi."
  DIPLOMACY_CIVIL_WAR_FAILED:0 "Svět už hoří v plamenech, lidé odmítají podporovat jakýkoli druh revolucí!"
  DIPLOMACY_CIVIL_WAR_INSTANT_FAILED:0 "Nezdařilo se to kvůli nízké politické podpoře naší ideologie."
- DIPLOMACY_CLOSE:0 "Blízko"
+ DIPLOMACY_CLOSE:0 "Zavřít"
  DIPLOMACY_CLOSED_MARKET: "$COUNTRY|H$ nemůže poskytnout přístup k jejich trhu z důvodu $REASON$"
  DIPLOMACY_CONDITIONAL_SURRENDER_POINT_FRACTION:0 "Obdrží $VALUE|%H$ z maximální dostupné konference."
  DIPLOMACY_CREATE_FACTION_ACTION_DESC:0 "Požádat o vytvoření frakce"

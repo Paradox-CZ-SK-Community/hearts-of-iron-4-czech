@@ -85,7 +85,7 @@
  MODIFIER_AIR_DEFENCE_NIGHT_FACTOR_DESC:0 "Vzdušná obrana během noci."
  MODIFIER_AIR_DEFENCE_WEATHER:0 "Počasí vzdušné obrany"
  MODIFIER_AIR_DEFENCE_WEATHER_FACTOR:0 "Počasí vzdušné obrany"
- MODIFIER_AIR_DETECTION:0 "Detekce vzduchu"
+ MODIFIER_AIR_DETECTION:0 "Detekce letadel"
  MODIFIER_AIR_DOCTRINE_COST_FACTOR:0 "Náklady na vzdušnou doktrínu"
  MODIFIER_AIR_EQUIPMENT_UPGRADE_XP_COST:0 "Náklady na zkušenosti s upgradem leteckého vybavení"
  MODIFIER_AIR_EQUIPMENT_UPGRADE_XP_COST_DESC:0 "Zkušenostní nákladový faktor při změně leteckého vybavení"

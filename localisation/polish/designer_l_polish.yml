@@ -154,7 +154,7 @@
  EQUIPMENT_DESIGNER_NO_XP:0 "§RŽádné zkušenostní body k utracení.§!"
  EQUIPMENT_DESIGNER_OBSOLETE_FILTER:0 "Klikněte pro přepnutí filtrování pro zastaralé designy."
  EQUIPMENT_DESIGNER_OWN_FILTER:0 "Klikněte pro přepnutí filtrování pro designy v nepřátelských skladech.\n\nBudete potřebovat vysokou úroveň zpravodajských informací pro jejich zobrazení."
- EQUIPMENT_DESIGNER_PLANE_ROLE_REQUIRE_WEAPON:0 "Přidejte hlavní výzbroj pro udělení role"
+ EQUIPMENT_DESIGNER_PLANE_ROLE_REQUIRE_WEAPON:0 "Přidejte moduly pro udělení role"
  EQUIPMENT_DESIGNER_PRODUCTION_COST_DESC:1 "Náklady na §HPrůmyslovou kapacitu§! pro §HProdukcí§! tohoto designu."
  EQUIPMENT_DESIGNER_PRODUCTION_RESOURCE_DESC: "§HZdroje§! použité při výrobě tohoto designu"
  EQUIPMENT_DESIGNER_REMOVE_DESC:1 "Náklady £$EXPERIENCE_TYPE$ $VALUE|H0$ na odstranění"
