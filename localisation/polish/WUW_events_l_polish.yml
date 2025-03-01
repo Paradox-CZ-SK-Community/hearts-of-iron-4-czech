@@ -425,7 +425,7 @@
  AUS_political_events.66.a: "Zní to jako férová dohoda"
  AUS_political_events.66.b: "To nám nijak nepomáhá!"
  AUS_political_events.66.desc: "[FROM.GetLeader] [FROM.GetNameDef] nás oslovil s tím, co nazývá nabídkou. Jak se federace rozrůstá, stává se stále důležitějším, aby všechny zúčastněné země pracovaly spolu bez selhání. Aby to zjednodušil, [FROM.GetLeader] navrhl, abychom se všichni sjednotili pod jeho vedením.\n\nUčinili bychom ústupky ohledně naší svrchovanosti, ale jako součást jedné federativní země bychom také užívali bezpečnost, která vyplývá z větší armády a silnějších diplomatických svalů."
- AUS_political_events.66.t: "[FROM.Get.GetNameDefCap] navrhuje federativní unii"
+ AUS_political_events.66.t: "[FROM.GetNameDefCap] navrhuje federativní unii"
  AUS_political_events.67.a: "Skvělé!"
  AUS_political_events.67.desc: "Slavné zprávy, že [FROM.GetNameDef] přijalo stát se součástí našeho nového federativního státu, k nám právě dorazily. To, co jsme mohli nabídnout, bylo zjevně dostatečné, aby zvážili nabídku jako výhodnou, ačkoliv to nepatrně zasáhlo jejich suverenitu."
  AUS_political_events.67.t: "[FROM.GetNameDefCap] Přijímá Federativní Unie"

@@ -1528,7 +1528,7 @@
  denmark_occupation_event.2.a: "Ochráníme je"
  denmark_occupation_event.2.b: "Je to sotva více než zpomalení"
  denmark_occupation_event.2.desc: "Obdrželi jsme telegram od dánské vlády a [DEN.GetLeader], který vytyčuje jejich podmínky kapitulace. Pokud budeme ochotni uznat a respektovat jejich svrchovanost a územní celistvost, souhlasí s tím, že složí zbraně a stanou se de facto protektorátem pod námi."
- denmark_occupation_event.2.t: "[DEN.Get.NameDefCap] se vzdává"
+ denmark_occupation_event.2.t: "[DEN.GetNameDefCap] se vzdává"
  denmark_occupation_event.20.a: "Tyto zbraně se nám hodí"
  denmark_occupation_event.20.desc: "Po pečlivém plánování a odvážné akci se skupina členů odboje vrátila z úspěšného přepadení se zbraněmi určenými pro naše nominální panovníky. Tato akce posílí náš trvalý boj za svobodu!"
  denmark_occupation_event.20.t: "Úspěšný útok na sklady zbraní"
