@@ -1044,7 +1044,7 @@
  ITA_ethiopian_war_logistics_bba:0 "Etiopské válečné logistika"
  ITA_ethiopian_war_logistics_bba_desc:0 "Z nedostatku pokroku v Etiopii se stává jasné, že jsme podcenili kolik zásob moderní armáda opravdu potřebuje. Musíme věnovat úsilí zlepšení silnic a přístavů v našich držbách ve východní Africe, abychom zajistili, že potřebné zásoby dorazí na frontu."
  ITA_european_democracies:0 "Evropské demokracie"
- ITA_european_democracies_bonus_per_ally_tt:0 "\nZískává §G+2.00%§! stabilitu a §G+25§! politickou moc na každou nezávislou demokratickou zemi ve frakci [ROOT.GetName] (maximálně §Y+10.00%§! stabilita a §Y+125§! politická moc).\n\n"
+ ITA_european_democracies_bonus_per_ally_tt:0 "\nZískává §G+2.00%§! stabilitu a §G+25§! politickou moc na každou nezávislou demokratickou zemi ve frakci [ROOT.GetName] (maximálně §Y+10.00%§! stabilita a §Y+125§! politická síla).\n\n"
  ITA_european_democracies_desc:1 "Musíme pokračovat v našich politikách solidarity a spolupráce mezi demokratickými evropskými zeměmi. Prostřednictvím diplomacie můžeme vytvořit silný spojenec schopný čelit jakékoli další."
  ITA_european_democracies_tt:0 "§YEvropské země§! budou více nakloněny akceptovat diplomatické žádosti od Itálie."
  ITA_expand_foggia_farm_fields:0 "Rozšířit pole farmy Foggia"

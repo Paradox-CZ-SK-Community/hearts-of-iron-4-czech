@@ -100,7 +100,7 @@
  DOD_hungary.121.a:0 "Akceptovatelná cena."
  DOD_hungary.121.b:0 "To jsou požadavky, proti kterým se musíme bránit!"
  DOD_hungary.121.desc:0 "Velvyslanci [HUN.GetNameDef] a [SOV.GetNameDef] nás oslovili se společnou nabídkou k zajištění našich hranic proti jakékoli nepřátelské agresi. Na oplátku bychom museli zaručit komunistům místa v vládě. Maďarsko také spojilo svůj závazek s návratem jižního Slovenska pod jejich kontrolu."
- DOD_hungary.121.t:0 "Kominterm nabízí záruku"
+ DOD_hungary.121.t:0 "Kominterna nabízí záruku"
  DOD_hungary.122.a:0 "Pochopitelná reakce."
  DOD_hungary.122.b:0 "Obraťte se na Němce"
  DOD_hungary.122.desc:0 "Naše nabídka záruky nebyla ze strany [CZE.GetAdjective]s přijata s velkým nadšením. Politické ústupky, které jsme požadovali, vyvolaly v [CZE.GetNameDef] rozruch, přičemž několik prominentních generálů a politických osobností hrozilo rezignací, pokud by vláda souhlasila.\n\nS poukazem na vážné obavy, že podpora by k nim mohla dorazit včas, [CZE.GetAdjective] vláda oficiálně odmítla naši nabídku."

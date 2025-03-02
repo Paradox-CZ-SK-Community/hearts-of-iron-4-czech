@@ -111,7 +111,7 @@
  DO_NOT_CONTAINS_TEMPLATE:0 "§RCannot delete this Template. Country does not contain this Template.§!"
  EDIT:0 "Upravit"
  EXCEEDING_DIVISION_CAP:0 "§RExceeding cap for division's template§!"
- GARRISONS:0 "Garnizony"
+ GARRISONS:0 "Okupační policie"
  GARRISONS_DESC:1 "§YGarnizony§!\n§TNastavte prioritu pro vybavení, které jde do garnizonů§!"
  GARRISONS_EMPTY:0 "§GNo current requests for garrisons.§!"
  HAS_ARMIES_WITH_OLD_TEMPLATE:0 "§RCannot delete this Template because $AMOUNT|H$ Division(s) are transitioning from this template to new one (Waiting for receiving equipment matching new template).§!"

@@ -445,7 +445,7 @@
  MODIFIER_HEAT_ATTRITION_FACTOR:0 "Ztráty z tepla"
  MODIFIER_IDEOLOGY_DRIFT_FROM_BOOST_IDEOLOGY_OPERATIVE_MISSION:0 "Z podvratných aktivit"
  MODIFIER_IMPROVE_RELATIONS_MAINTAIN_COST_FACTOR:0 "Náklady na udržování zlepšených vztahů"
- MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_FACTOR:0 "Výstup doků"
+ MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_FACTOR:0 "Výkon doků"
  MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_FACTOR_DESC:0 "To efektivně zvyšuje množství práce, kterou může každá loděnice vykonat za hodinu."
  MODIFIER_INDUSTRIAL_CAPACITY_FACTOR:0 "Výkon továren"
  MODIFIER_INDUSTRIAL_CAPACITY_FACTOR_DESC:0 "To efektivně zvyšuje množství práce, kterou může každá továrna vykonat za hodinu."

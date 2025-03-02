@@ -38,7 +38,7 @@
  TRADEOFFER_CONVOY:0 "§RNemáme žádné konvoje§!"
  TRADEOFFER_CONVOY_PENALTY_DESC_LABEL:0 "§RKonvoje z jiných obchodních tras budou převedeny na tuto obchodní trasu a sníží jejich efektivitu§!"
  TRADEOFFER_DESC:0 "$WHO|H$ může exportovat až $MAX|H$ jednotek $RES|H$.\nMůžeme obchodovat pouze za maximálně $LIM|H$ jednotek."
- TRADEOFFER_FACTORIES_DESC_LABEL:0 "Nákupní množství: $VALUE|Y$\nPro civilní továrny: $CIC|Y$"
+ TRADEOFFER_FACTORIES_DESC_LABEL:0 "Nákupní množství: $VALUE|Y$\nZa civilní továrny: $CIC|Y$"
  TRADEOFFER_FREE_CONVOY_DESC_LABEL:1 "Máme $VAL|H$ dostupných konvojů a potřebujeme $REQ|H$ pro tento obchod."
  TRADES_MODIFIED:0 "Obchod byl změněn"
  TRADEVIEW_EXPORT_DETAILS:1 "Z $TOT|H$ $RES|H$ @$TAG$$WHO|H$ má $AVAILABLE|H$ k dispozici pro export.\nAktuální exporty:"

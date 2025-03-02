@@ -885,7 +885,7 @@
  TRIGGER_PC_TOTAL_SCORE:0 "Celkové skóre mírové konference"
  TRIGGER_PLANNING_LEVEL_LESS_THAN:0 "Úroveň plánovací dovednosti pod $VALUE|H$"
  TRIGGER_PLANNING_LEVEL_MORE_THAN:0 "Úroveň plánovací dovednosti nad $VALUE|H$"
- TRIGGER_POLITICAL_POWER_DAILY:0 "§HPolitická moc denně§!"
+ TRIGGER_POLITICAL_POWER_DAILY:0 "§HPolitická síla denně§!"
  TRIGGER_POWER_BALANCE_ABOVE_RANGE:1 "$POWER_BALANCE|Y$ k £GFX_BoP_right_texticon£§Ypravo§! rozsahu $RANGE|Y$"
  TRIGGER_POWER_BALANCE_BELOW_RANGE:1 "$POWER_BALANCE|Y$ je £GFX_BoP_left_texticon£§Ynalevo§! od rozsahu $RANGE|Y$"
  TRIGGER_POWER_BALANCE_DAILY_LESS_THAN:1 "Denní změna $POWER_BALANCE|Y$ je nižší než $PERCENT|%1Y$ směrem k $SIDE|Y$ straně"

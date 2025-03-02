@@ -3435,7 +3435,7 @@
  amphibious_tank_equipment_desc:0 "Tanky, které byly upraveny tak, aby mohly projít vodou. Dělají mnohem lépe při amfibických výsadcích a překračování řek než ostatní tanky, ale vyžadují více paliva."
  amphibious_tank_equipment_short:0 "Amf. Tanky"
  anti_air_equipment:0 "Tahač protileteckých zbraní"
- anti_air_equipment_1:0 "Tahači protivzdušné"
+ anti_air_equipment_1:0 "Protivzdušná výzbroj"
  anti_air_equipment_1_desc:0 "Protivzdušná artilerie je primárně navržena k sestřelování nepřátelských letadel, i když rychlopalné děla mohou být také účinná proti pozemním cílům."
  anti_air_equipment_1_short:0 "Protitanková"
  anti_air_equipment_2:0 "Vylepšená protiletecká výstroj"
