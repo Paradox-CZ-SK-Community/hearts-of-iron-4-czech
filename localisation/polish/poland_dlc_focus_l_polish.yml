@@ -142,7 +142,7 @@
  POL_draw_closer_to_britain:0 "Přiblížit se k Británii"
  POL_draw_closer_to_britain_desc:0 "Britové se zavázali chránit naši nezávislost tváří v tvář agresorům. Musíme učinit nezbytné gesta uznání."
  POL_eastern_conscription_idea:0 "Východní odvod"
- POL_eastern_conscription_idea_desc:0 "Ti, kdo žijí ve východním Polsku, jsou rychle školeni k boji proti [RUS.GetNameDef] v případě války."
+ POL_eastern_conscription_idea_desc: "Ti, kteří žijí ve východním Polsku, jsou rychle školeni k boji proti [SOV.GetNameDef] v případě války."
  POL_eastern_conscripts:0 "Východní odvedenci"
  POL_eastern_conscripts_desc:0 "Mnozí na východním Polsku se spíše identifikují jako Ukrajinci nebo Bělorusové než Poláci, ale přesto je musíme přesvědčit, aby bojovali! I když najdeme málo těch, kteří by bojovali za Polsko, mezi nimi je nespočet těch, kteří by rádi vzali pušku proti [SOV.GetAdjective]ům!"
  POL_edward_rydz_smigly_chairman:0 "Vojenský předseda"
@@ -435,4 +435,3 @@
  the_king_of_the_castle:0 "Král hradu"
  uncontrolled_exports:0 "Embargovaná ekonomika"
  uncontrolled_exports_desc:0 "Cizí národ má téměř úplnou kontrolu nad našimi exporty a importy, což naše ekonomiku fakticky vkládá do stavu embarga; neschopné svobodně obchodovat se zbytkem světa."
- POL_eastern_conscription_idea_desc: "Ti, kteří žijí ve východním Polsku, jsou rychle školeni k boji proti [SOV.GetNameDef] v případě války."
