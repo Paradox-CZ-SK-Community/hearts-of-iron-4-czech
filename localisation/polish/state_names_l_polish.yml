@@ -396,7 +396,7 @@
  STATE_291:0 "Bagdád"
  STATE_292:0 "Nejd"
  STATE_293:0 "Jemen"
- STATE_294: "Maskat" # Byl Omán
+ STATE_294: "Maskat # Byl Omán"
  STATE_295: "Léopoldville"
  STATE_296:0 "Portugalská Guinea"
  STATE_297:0 "Rovníková Guinea"
