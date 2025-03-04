@@ -469,7 +469,7 @@
  TUR_integrated_german_officers:0 "Integrovaní němečtí úředníci"
  TUR_integrated_german_officers_desc:1 "Jelikož již není třeba skrývat roli německých vojenských úředníků v naší zemi, oficiálně jsme je integrováli do našeho velení se zvláštním souhlasem [GER.GetLeader]."
  TUR_investment_financing_spirit:0 "Financování investic"
- TUR_investment_financing_spirit_desc:1 "Svět se točí kolem výměny komodit za uspokojení potřeb. Odkud máme potřeby, ale abychom si zajistili benefit, musíme nejprve udělat něco jako je například zahájení.“"
+ TUR_investment_financing_spirit_desc:1 "Svět se točí kolem výměny komodit za uspokojení potřeb. Odkud máme potřeby, ale abychom si zajistili benefit, musíme nejprve udělat něco jako je například zahájení."
  TUR_ismet_inonu:0 "İsmet İnönü"
  TUR_italo_turkish_merchant_fleet:0 "Italo-[TUR.GetAdjective] obchodní flotila"
  TUR_italo_turkish_merchant_fleet_desc:0 "Dny dominace [ENG.GetAdjective] na mořích Středozemního moře jsou pryč. Středozemní moře patří [ITA.GetAdjective] a [GRE.GetAdjective]!"

@@ -53,7 +53,7 @@
  ARG_peronist_party: "Justicialist"
  ARG_peronist_party_long: "Justicialist"
  ARM_communism_party:0 "Komunistická strana Arménie"
- ARM_democratic_party:0 "Arménská revoluční federace #nebo ARF"
+ ARM_democratic_party:0 "Arménská revoluční federace"
  ARM_fascism_party:0 "Arménská legie"
  ARM_neutrality_party:0 "Centrální autorita"
  AST_communism_party:0 "CPA"

@@ -82,7 +82,7 @@
  DEN_securing_norway_ns_desc: "Nori byli součástí našeho království po mnoho století. Nastal čas znovu začlenit Norsko do [DEN.GetNameDefCap]. Naše armáda se na tento den připravila a usilovně trénovala, aby bojovala a zničila všechny nepřátelské norské síly."
  DEN_securing_sweden_ns: "Zajištění [SWE.GetNameDef]"
  DEN_securing_sweden_ns_desc: "Švédové byli kdysi součástí Kalmaru rebelie a pod dánskou vládou. Nastal čas znovu začlenit Švédska do našeho království. Naše armáda se na tento den připravila a usilovně trénovala, aby bojovala a zničila všechny nepřátelské švédské síly."
- DEN_sovaernet_dynamic_modifier: "Neglected Military"
+ DEN_sovaernet_dynamic_modifier: "Søværnet"
  DEN_sovaernet_dynamic_modifier_desc: "Dánsko bylo kdysi velmocí v Baltském moři, dominerujíc vlny našimi mocnými flotilami - ale máme dlouhou historii námořních aktivit i před tím. Vikingové pluli daleko a široko, aby šířili strach a dobývali země. S odhodláním a vytrvalostí můžeme znovu vybudovat naše námořnictvo, abychom opět vládli mořím."
  DEN_sovaernet_dynamic_modifier_improved: "$DEN_sovaernet_dynamic_modifier$"
  DEN_sovaernet_dynamic_modifier_improved_desc: "Dánsko bylo kdysi velkým mocností v Baltském moři, dominuje vlnám s našimi mocnými flotilami - ale měli jsme dlouhou historii námořnictví i předtím. Vikingové pluli daleko a široko, aby šířili strach a dobývali území. Ačkoli před námi stojí ještě mnoho práce, námořnictvo již znovu získalo část svého bývalého lesku a síly."

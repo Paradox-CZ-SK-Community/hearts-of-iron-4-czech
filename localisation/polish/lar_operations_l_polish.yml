@@ -23,7 +23,7 @@
  FRA_instigate_workers_revolution_spain:0 "Podnítit revoluci pracovníků ve Španělsku"
  GER_heavy_water_production_underway:0 "Produkce těžké vody probíhá"
  GER_rescued_mussolini:0 "Zachráněný Mussolini"
- OPERATION_BASE:0 "Operace:"
+ OPERATION_BASE:0 "Operace: "
  OPERATION_BONUS_REWARD:0 "Operace byla ohromným úspěchem a přinesla §Gbonusové odměny§!!"
  OPERATION_OUTCOME_HEADER:0 "§HBonuse výsledek:§! $VAL|+%0$"
  OPERATION_OUTLOOK_LABEL:0 "Výhled"
