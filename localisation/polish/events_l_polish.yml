@@ -3403,3 +3403,5 @@
  yugoslavia.9.a:0 "Musíme stát pevně"
  yugoslavia.9.b:0 "Ušetří to tolik životů"
  yugoslavia.9.d:0 "[From.GetNameDefCap] žádá, abychom postoupili území nově vzniklé chorvatské vládě, kontrolované [From.GetNameDef]. Také žádají, abychom provedli zásadní vládní reformy, které nám umožní spravovat občany Jugoslávie, ale s těžkým [From.GetAdjective] vlivem na naši politiku. Můžeme se rozhodnout, že zde obstojíme a doufáme, že pomoc přijde, ale to může být jediná možnost, jak se vyhnout masakru jugoslávského lidu."
+ generic_purchase_ships_events.04.desc.b: "[FROM.GetNameDefCap] se na nás obrátili s nabídkou na pořízení některých našich odstavených kapitálních lodí. Aktiva, o která mají zájem, již nejsou v provozu kvůli svému stáří a nedostatku moderního vybavení."
+ generic_purchase_ships_events.04.desc.a: "[FROM.GetNameDefCap] se na nás obrátili s nabídkou na pořízení některých našich odstavených kapitálních lodí. Aktiva, o která mají zájem, již nejsou v provozu kvůli svému stáří a nedostatku moderního vybavení. Nicméně, prodejem aktiv [FROM.GetNameDef] riskujeme eskalaci již tak zhoršujícího se námořního závodu ve zbrojení v regionu."

@@ -137,3 +137,7 @@
  tizard_mission_name:0 "Tizardova mise"
  us_research_desc:0 "Snížený výzkumný čas pro technologie zkoumané USA."
  us_research_name:0 "Výzkum USA"
+ RAJ_naval_tech_sharing_group_name: "Východní Indie - Londýnská výměna námořních technologií"
+ AFG_SOV_tech_sharing_group_name: "Afghánsko-sovětská dohoda o technologické spolupráci"
+ RAJ_naval_tech_sharing_group_desc: "Výměna námořního výzkumu mezi Východoindickou společností a Londýnem. Někteří diplomaté šeptají, že dávat tolik moci společnosti je nerozumné, ale co oni vědí?""
+ AFG_SOV_tech_sharing_group_desc: "Lidé [AFG.GetNameDef] a [SOV.GetNameDef] začali sdílet znalosti a vědecké průlomy pro zlepšení obou."

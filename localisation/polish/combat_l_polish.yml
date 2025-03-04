@@ -396,3 +396,5 @@
  tactical_withdrawal:0 "Taktické stažení"
  total_damage_dealt:0 "Celkové poškození: $NUM|.0H$ ($RATIO|%.0H$ nepřátelského zdraví)\n"
  total_damage_received:0 "\nCelkové poškození: $NUM|.0H$\n"
+ TACTICS_DEFENDER_ORG_DAMAGE_MODIFIER: "Modifikátor poškození organizace obránce:"
+ TACTICS_ATTACKER_ORG_DAMAGE_MODIFIER: "Modifikátor poškození organizace útočníka:"

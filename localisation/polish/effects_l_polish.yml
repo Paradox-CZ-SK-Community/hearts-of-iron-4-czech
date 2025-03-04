@@ -463,3 +463,4 @@
  if_we_accept_newline_tt: "\n§YÚčinky pokud přijmeme:§!\n"
  they_will_gain_tt: "§YZískají§!:"
  we_will_gain_tt: "§YZískáme§!:"
+ unlock_general_tt: "Stává se dostupným jako Generál"

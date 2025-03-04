@@ -774,3 +774,5 @@
  tooltip_socialist_marine_corps:0 "Socialistické námořní sbory"
  tooltip_spanish_civil_war_technical_knowledge:0 "Technické znalosti španělské občanské války"
  trotsky_not_welcome_in_mexico:1 "Politická klíma není příznivá pro Trockého"
+ ENG_reclaim_burma_desc: "[BRM.GetName]'s krátké období nezávislosti nyní musí skončit. Naše síly jsou na pozici, připraveny vrátit zemi jejímu právoplatnému vládci"
+ ENG_reclaim_burma: "Znovuzískat Burmu"

@@ -21,6 +21,8 @@
  ABILITY_ON_HOURLY:0 "Každou hodinu:"
  ABILITY_PROBING_ATTACK:0 "Průzkum bojem"
  ABILITY_PROBING_ATTACK_DESC:1 "Divize neztrácí svůj bonus za zakopání při útoku, ale plně se nezapojí do bitvy."
+ ABILITY_QUININE: "Distribuovat Chinin"
+ ABILITY_QUININE_DESC: "Chinin a další zásoby byly získány pro vojenské jednotky."
  ABILITY_REQUISITION_WINTER_GEAR:0 "Požadavek na zimní vybavení"
  ABILITY_REQUISITION_WINTER_GEAR_DESC:1 "Zimní vybavení poskytne bonus k aklimatizaci v chladném počasí."
  ABILITY_SIEGE_ARTILLERY:0 "Obléhací dělostřelectvo"

@@ -685,3 +685,5 @@
  super_heavy_tank_destroyer_brigade_desc:0 "Super těžký tankový podvozek s ještě větším kanónem ve stacionárním upevnění namísto věže."
  winter_logistics_support: "Zimní logistická společnost"
  winter_logistics_support_desc: "Zajištění vhodného vybavení pro pěchotu k boji v zimních podmínkách."
+ elephantry_desc: "Infanterie na slonech. Dražší, ale dobrá proti infanterii"
+ elephantry: "Infanterie na slonech"

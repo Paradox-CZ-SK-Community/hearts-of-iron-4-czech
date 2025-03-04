@@ -175,3 +175,7 @@
  sabotaged_resources:0 "Sabotované zdroje"
  secret_police_oversight:1 "Tajná policie"
  secretaries_general: "Generální tajemníci"
+ sabotage_nuclear_reactor_heavy_water:0 "Sabotáž jaderného reaktoru"
+ princely_subjugation: "Princovské podmanění"
+ independent_rule: "Nezávislá vláda"
+ sabotage_commercial_nuclear_reactor:0 "Sabotáž komerčního jaderného reaktoru"

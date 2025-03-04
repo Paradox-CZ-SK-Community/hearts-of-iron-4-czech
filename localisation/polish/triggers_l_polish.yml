@@ -963,3 +963,5 @@
  owns_or_subject_of_tt:1 "je vlastněn §Y[ROOT.GetFlag] [ROOT.GetNameDef]§! nebo je §Ysubjekt§!\n"
  owns_or_subject_of_tt_NOT:1 "není VLASTNĚN §Y[ROOT.GetFlag] [ROOT.GetNameDef]§! nebo je §Ypodřízen.§!\n"
  trade_partner_not_at_war_tt: "§Y[ROOT.GetNameWithFlag]§! nemůže kupovat nebo prodávat zbraně zemím ve válce"
+ TRIGGER_NOT_OWNS_ANY_STATE_OF: "Nevlastní žádný z následujících stavů:"
+ TRIGGER_OWNS_ANY_STATE_OF: "Vlastní některý z následujících stavů:"

@@ -1141,3 +1141,7 @@
  submarine_4_desc:0 "Zvýšená testovací hloubka a efektivní uspořádání budou rysy moderních ponorek, které využívají terénní zkušenosti k výběru vhodné výzbroje a motorů."
  torpedo_cruiser:0 "Torpédový křižník"
  torpedo_cruiser_desc:0 "Lehké křižníky vybavené velkým počtem torpédometů, na úkor menší hlavní baterie a menšího počtu protileteckých děl."
+ improved_ship_hull_submarine: "$ship_hull_submarine_3$"
+ early_ship_hull_submarine: "$ship_hull_submarine_1$"
+ basic_ship_hull_submarine: "$ship_hull_submarine_2$"
+ advanced_ship_hull_submarine: "$ship_hull_submarine_4$"
