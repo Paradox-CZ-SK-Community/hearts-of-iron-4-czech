@@ -40,7 +40,7 @@
  MANAGE_SUBJECTS_HEADER:0 "Subjekty"
  MASTER_SURRENDER_FREEDOM_EFFECT:0 "Mistr kapituloval"
  MISSING_AUTONOMY_SCORE:0 "Potřebujete £autonomy_texticon $VAL|2Y$ více autonomie"
- MONTHLY_LL_FREEDOM_DESC:0 "Měsíčně po úplném dodání $COUNTRY|H$ získá £autonomy_texticon $VALUE|+=2$ "
+ MONTHLY_LL_FREEDOM_DESC:0 "Měsíčně po úplném dodání $COUNTRY|H$ získá £autonomy_texticon $VALUE|+=2$"
  MONTHLY_LL_FREEDOM_TO_MASTER:0 "$VALUE|+2$"
  MONTHLY_LL_FREEDOM_TO_PUPPET:0 "$FLAG$ $VALUE|-2$"
  MONTHLY_LL_FREEDOM_VALUE_DESC:0 "Měsíční dopad na autonomii v případě plného dodání"

@@ -1,5 +1,4 @@
 ﻿l_polish:
-
  AFG_aalem_daana:0 "Aalem Daana"
  AFG_ali_muhammed_khan:0 "Ali Muhammed Khan"
  AFG_asadullah_seraj_khan:0 "Asadullah Seraj Khan"
@@ -829,7 +828,6 @@
  HUN_henrik_werth:0 "Henrik Werth"
  HUN_henschel: "Henschel"
  HUN_hti_turan: "Weiss Manfréd Tankosztály # byl HTI Turán"
- HUN_hti_turan:0 "Weiss Manfréd Tankosztály # byl HTI Turán"
  HUN_hugo_sonyi:0 "Hugó Sónyi"
  HUN_jeno_ratz:0 "Jenő Rátz"
  HUN_jozsef_szell:0 "József Széll"
@@ -2042,7 +2040,6 @@
  communist_pressure:0 "Komunistický tlak"
  communist_revolutionaries:0 "Komunističtí revolucionáři"
  communist_revolutionaries_desc:0 "Pokud podpora komunismu vzroste nad 70 %, národ se ponoří do občanské války. Pokud podpora komunismu klesne pod 30 %, revoluční aktivita se zastaví."
- compagnia_uniao_fabril:0 "Companhia União Fabril"
  companhia_uniao_fabril:0 "Společnost União Fabril"
  consolidated_aircraft:0 "Consolidated Aircraft"
  constanta_shipyard:0 "Constanta Shipyard"
