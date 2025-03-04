@@ -641,5 +641,5 @@
  south_american_army_modifier: "Fuerzas Armadas"
  south_american_navy_modifier: "Národní armáda"
  surveyor: "Geodet"
- when_expired: "když vyprší."
- will_be_upgraded_to: "Bude vylepšen na"
+ when_expired: "§Ykdyž vyprší.§!"
+ will_be_upgraded_to: "§YBude vylepšen na§! "
