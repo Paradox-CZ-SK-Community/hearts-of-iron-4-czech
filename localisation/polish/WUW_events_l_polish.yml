@@ -213,7 +213,7 @@
  AUS_political_events.16.a: "Musíme si ho pečlivě hlídat."
  AUS_political_events.16.a_tt: "Jmenuje §YArthur Seyss-Inquart§! jako poradce, kterého §Rnelze propustit§!\n"
  AUS_political_events.16.b: "Rozhodně ne!"
- AUS_political_events.16.desc: "Jak se očekávalo, [FROM.GetNameDef] reagoval špatně na náš nedávný zákaz DNSAP. Kromě zjevného požadavku, abychom okamžitě zrušili zákaz, také požadují, abychom jmenovali Arthura Seyss-Inquarta jako poradce. Jsou velmi neústupní ohledně toho a zatímco jsme vždy věděli, že je velmi odhodlaný vůči [FROM.GetAdjective] způsobu, vyvstává otázka, proč? "
+ AUS_political_events.16.desc: "Jak se očekávalo, [FROM.GetNameDef] reagoval špatně na náš nedávný zákaz DNSAP. Kromě zjevného požadavku, abychom okamžitě zrušili zákaz, také požadují, abychom jmenovali Arthura Seyss-Inquarta jako poradce. Jsou velmi neústupní ohledně toho a zatímco jsme vždy věděli, že je velmi odhodlaný vůči [FROM.GetAdjective] způsobu, vyvstává otázka, proč?"
  AUS_political_events.16.t: "Nacisté v vládě"
  AUS_political_events.17.a: "Nemají právo zasahovat do naší politiky."
  AUS_political_events.17.desc: "Jak se očekávalo, [FROM.GetNameDef] reagoval špatně na náš nedávný zákaz DNSAP. Považují to za útok na svou vlastní ideologii a vyjádřili velké zklamání a hněv nad naším rozhodnutím. Ačkoli jsme měli velké důvody k zákazu DNSAP, vedení [FROM.GetAdjective] nyní požaduje, abychom okamžitě zrušili zákaz."

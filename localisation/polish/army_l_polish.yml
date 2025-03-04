@@ -113,7 +113,7 @@
  CURRENT_YEAR:0 "Aktuální rok"
  FORCES_COMPARISON_DESC:0 "Srovnání našich jednotek vs nepřátelských jednotek podél hranice a jakýchkoli nepřátel vpředu v směru postupu, pokud vůbec existují."
  FORCES_COMPARISON_EQUAL:0 "zhruba §Yequal§!\n"
- FORCES_COMPARISON_HEADER:0 "§HPorovnání sil:§! "
+ FORCES_COMPARISON_HEADER:0 "§HPorovnání sil:§!"
  FORCES_COMPARISON_STRONGER:0 "jsme §Gsilnější§!\n"
  FORCES_COMPARISON_WEAKER:0 "Nepřítel je §Rsilnější§!\n"
  HISTORICAL_DIVISION_LORE_PLACEHOLDER_TEXT:0 "§gToto je popisová textová náhrada, která stručně říká pár slov o této historické divizi.§!"

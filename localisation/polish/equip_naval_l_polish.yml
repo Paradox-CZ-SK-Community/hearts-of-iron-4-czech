@@ -322,7 +322,7 @@
  GER_heavy_cruiser_2:0 "Třída Hipper"
  GER_heavy_cruiser_2_desc:0 "Těžké křižníky třídy Admiral Hipper byly prvními těžkými křižníky Kriegsmarine. Oficiálně měly výtlak 10,000 tun, ve skutečnosti však měly výtlak přes 16000 tun. Byly vyzbrojeny osmi 8" děly ve čtyřech dvojitých věžích, s sekundární baterií dvanácti 105mm děly."
  GER_heavy_cruiser_3:0 "Třída Prinz Eugen"
- GER_heavy_cruiser_3_desc:0 "Oficiálně součást třídy Hipper, podtřída Prinz Eugen zahrnuje mnoho vylepšení, včetně těžší protiletadlové výzbroje. Z tří lodí v podtřídě byla dokončena pouze Prinz Eugen. Účastnila se potopení HMS Hood během Operace Rheinübung. Po válce byla převedena do Spojených států a sloužila jako USS Prinz Eugen při atomových bombových teste
+ GER_heavy_cruiser_3_desc:0 "Oficiálně součást třídy Hipper, podtřída Prinz Eugen zahrnuje mnoho vylepšení, včetně těžší protiletadlové výzbroje. Z tří lodí v podtřídě byla dokončena pouze Prinz Eugen. Účastnila se potopení HMS Hood během Operace Rheinübung. Po válce byla převedena do Spojených států a sloužila jako USS Prinz Eugen při atomových bombových teste"
  GER_heavy_cruiser_4:0 "Křižník třídy P"
  GER_heavy_cruiser_4_desc:0 "Třída P byla velká konstrukce těžkého křižníku, oficiálně označována jako Panzerschiff (Pancéřované plavidlo) Kriegsmarine. Výtlak téměř 24 000 tun, byli by o 3 000 tun lehčí, ale o 55 metrů delší než americké bitevní lodě třídy New York. Výzbroj se skládala ze šesti 280mm děl ve dvou trojitých věžích."
  GER_light_cruiser_1:0 "Třída Emden"
@@ -1090,7 +1090,7 @@
  ship_hull_cruiser_submarine_desc:0 "Větší trup ponorky optimalizovaný pro delší dosah. Může být vybavena dodatečnými palivovými nádržemi pro ještě větší dosah, nebo malým průzkumným letounem."
  ship_hull_fleet_submarine:0 "Flotilová ponorka"
  ship_hull_fleet_submarine_desc:0 "Ponorky, které díky svému dlouhému operačnímu dosahu mohou fungovat jako eskorty povrchového loďstva a podporovat."
- ship_hull_heavy:0 "Těžká loď" 
+ ship_hull_heavy:0 "Těžká loď"
  ship_hull_heavy_1:1 "Raný trup těžké lodě"
  ship_hull_heavy_1_desc:0 "Někteří je považují za relikvii minulosti námořního válčení, jiní za nejimpozantnější lodě, které kdy byly postaveny, nikdo nemůže popřít, že tyto pozůstatky závodu ve vyzbrojování bitevních lodí představují některé z nejvíce vyzbrojených a pancéřovaných plavidel, která kdy byla postavena."
  ship_hull_heavy_2:1 "Těžký trup lodi 1936"

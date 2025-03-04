@@ -1,7 +1,7 @@
 ﻿l_polish:
- DESIGNER_CHASSIS_BASE:0 "Podvozek: "
- DESIGNER_FROM_MODULES:0 "Moduly: "
- DESIGNER_UNSAVED_CHANGES:0 "Neuložené změny: "
+ DESIGNER_CHASSIS_BASE:0 "Podvozek:"
+ DESIGNER_FROM_MODULES:0 "Moduly:"
+ DESIGNER_UNSAVED_CHANGES:0 "Neuložené změny:"
  EQUIPMENT_AMPHIBIOUS:0 "Amfibický tank"
  EQ_MOD_CAT_lc_additional_armament_TITLE: "Další výzbroj"
  EQ_MOD_CAT_lc_aerial_deployment_TITLE: "Vzdušné nasazení"

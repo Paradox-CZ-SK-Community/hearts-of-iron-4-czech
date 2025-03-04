@@ -1260,7 +1260,7 @@
  SOV_left_opposition_civil_war_name:0 "Sovětská občanská válka"
  SOV_left_opposition_coup:0 "Zapálit plameny"
  SOV_left_opposition_coup_desc:0 "Čas přišel. Zvedněme prapory proti tyranovi. Revoluce začne znovu!"
- SOV_left_opposition_coup_tt:0 "Přidává podporu pro Levou opozici v armádě, námořnictvu a letectvu.\nZačne §YSovětskou občanskou válku§!. "
+ SOV_left_opposition_coup_tt:0 "Přidává podporu pro Levou opozici v armádě, námořnictvu a letectvu.\nZačne §YSovětskou občanskou válku§!."
  SOV_left_opposition_name:0 "Levá opozice"
  SOV_left_purges:0 "Odstranit kontrarevolucionáře"
  SOV_left_purges_desc:0 "Existuje mnoho dalších, kteří chovali resentimenty vůči Stalinovi. Dokud stále konsolidujeme naši vládu, nesmíme dovolit těmto lidem začít formovat protirevoluční buňky, jinak se nám to brzy může vymknout z rukou."

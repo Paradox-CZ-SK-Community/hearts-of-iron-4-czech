@@ -175,7 +175,7 @@
  ENG_the_kings_party:1 "Králova strana"
  ENG_the_kings_party_desc:1 "Nyní, když je krize za námi a vláda padla, mohou být nejvášnivější podporovatelé krále schopni sestavit vlastní vládu, mnohem více... vstřícnou... vůči královým přáním. Tato Králova strana by se skládala z Davida Lloyda George, Winston Churchilla a Oswald Mosleyho, čímž by přešla přes politické strany a pomohla obnovit jednotu našeho národa."
  ENG_the_one_true_revolution:1 "Jedna pravá revoluce"
- ENG_the_one_true_revolution_desc:2 "Žádná spolupráce nikdy nebude možná s [SOU.Capital.GetCapitalVictoryPointName]. Korupce je rozšířená v [SOU.GetNameDef], a jedinou nadějí je vyříznout její srdce a převzít nesporné globální vedení Práce." 
+ ENG_the_one_true_revolution_desc:2 "Žádná spolupráce nikdy nebude možná s [SOU.Capital.GetCapitalVictoryPointName]. Korupce je rozšířená v [SOU.GetNameDef], a jedinou nadějí je vyříznout její srdce a převzít nesporné globální vedení Práce."
  ENG_the_sun_never_sets:1 "Slunce nikdy nezapadá"
  ENG_the_sun_never_sets_desc:1 "Říká se, že Britské impérium je tak rozlehlé, že na něm nikdy nezapadá slunce. Jeho silou je Královské námořnictvo, zabezpečující obchodní a dodavatelské trasy, které ho spojují a jsou zásadní pro náš blahobyt. Toto námořnictvo se musí naučit překonávat tyto obrovské vzdálenosti co nejrychleji, abychom mohli rychle reagovat na jakoukoli hrozbu, kdekoli."
  ENG_the_sun_never_sets_tt:0 "Tyto bonusy budou aplikovány na jakékoli nově prozkoumané typy lodí.\n"
@@ -693,7 +693,7 @@
  MEX_focus_rural_schools:0 "Venkovské školy"
  MEX_focus_rural_schools_desc:0 "Školy jsou místem, kde zpracováváme surovinu negramotných rolníků na vlastenecké občany ochotné bojovat proti nespravedlnosti a posilovat vlast. Escuelas Regionales Campesinas revolucionalizují rolníky, naučí je technické dovednosti a učiní je soběstačnými."
  MEX_focus_seize_the_panama_canal:0 "Zabrat Panamský průplav"
- MEX_focus_seize_the_panama_canal_desc:0 "Jedna z nejkritičtějších
+ MEX_focus_seize_the_panama_canal_desc:0 "Jedna z nejkritičtějších"
  MEX_focus_smash_the_bureaucrats:1 "Rozbít byrokraty"
  MEX_focus_smash_the_bureaucrats_desc:1 "Po smrti Lenina se korupční byrokracie vedená Stalinem v Sovětském svazu vyvinula v bonapartistický režim, který ukradl moc od pracujících. SSSR se proto vyvinul v degenerovaný stát pracujících, který přetváří ideály revoluce."
  MEX_focus_social_catholicism:0 "Sociální katolicismus"
