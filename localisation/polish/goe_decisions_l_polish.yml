@@ -301,7 +301,7 @@
  eic_high_investments_cost: "Když §YKonec fiskálního roku§! vyprší:\nTrvale odstranit $eic_high_investments_cost_tt$"
  tier_2_taxes: "  §W 2. třída:                        [?var:tier_two_taxes_threshold_plus_1]-[?var:tier_three_taxes_threshold] továren                    [?tier_two_taxes_tax_tt]%§!"
  RAJ_GOE_default_on_debt_tt: "Poškozuje všechny [ROOT.GetName] divize o §R-50%§!"
- AFG_relieve_quami_tt: "Dismantlovat všechny nepravidelné jednotky prozatím. Mohou být znovu povolány v budoucnu."
+ AFG_relieve_quami_tt: "Rozpustit všechny nepravidelné jednotky prozatím. Mohou být znovu povolány v budoucnu."
  IRQ_invite_to_federation: "Pozvat §Y[FROM.OWNER.GetNameDef]§! do [ROOT.GetNameDef]."
  RAJ_akhand_bharat_claim_srl: "Nárokovat [SRL.GetAdjective] státy"
  RAJ_akhand_bharat_claim_pak: "Nárokovat [PAK.GetAdjective] státy"

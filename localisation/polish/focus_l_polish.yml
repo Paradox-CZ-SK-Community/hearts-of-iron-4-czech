@@ -1257,7 +1257,7 @@
  RAJ_research_collaboration_desc:0 "Britové nám ukázali výhodu sdílení vědeckého pokroku mezi blízkými spojenci. Naše celá frakce bude schopna provádět válečný výzkum a vývoj efektivněji, pokud podnikneme nezbytné kroky k koordinaci této činnosti."
  RAJ_revive_the_screw_guns:0 "Obnovit šroubové děla"
  RAJ_revive_the_screw_guns_desc:0 "Horský terén severní Indie vedl k vývoji děla, které mohlo být rozloženo a přeneseno na mulách tam, kde bylo potřeba. Toto 7liberní dělo může být trochu zastaralé, ale neměli bychom ignorovat jeho užitečnost."
- mountain_guns_tt: "Povoluje §HHorský kanón§!\n§HArtillery (Mountains)§!\n    Útok: §G+8%§!\n    Pohyb: §G+15%§!\n§HAnti-Tank (Mountains)§!\n    Útok: §G+8%§!\n    Pohyb: §G+15%§!"
+ mountain_guns_tt: "Povoluje §HHorský kanón§!\n§Dělostřelectví (Hory)§!\n    Útok: §G+8%§!\n    Pohyb: §G+15%§!\n§Protitankové (Hory)§!\n    Útok: §G+8%§!\n    Pohyb: §G+15%§!"
  RAJ_royal_indian_air_force:0 "Královské indické letectvo"
  RAJ_royal_indian_air_force_desc:0 "Nastal čas vzít naši malou leteckou divizi a rozšířit ji do samostatné větve ozbrojených sil. Národní letectvo s nezávislým velením bude lépe schopné sloužit indickému lidu a Impériu."
  RAJ_royal_indian_artillery:0 "Královské [ROOT.GetAdjective] dělostřelectvo"
