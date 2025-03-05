@@ -112,7 +112,7 @@
  armor_tech_3_desc:0 "Zatímco limit nasazených protitankových děl byl pravděpodobně dosažen, nová generace tanků ponese pokročilejší zbraně, které jsou schopné prorazit jakoukoli současnou úroveň ochrany na dlouhou vzdálenost."
  armor_tech_3_tt:0 "Umožňuje hodnoty vylepšení pancíře 15 a výše."
  armor_tech_4:0 "Moderní ochrana pancíře"
- armor_tech_4_desc:0 "Během války se hrozby, kterým tanky čelily, mnohonásobně zvýšily, od nepřátelských tanků, protitankových děl, specializovaných ničiteli tanků, až po moderní pěchotní zbraně střílející tvarované střely, které mohou proniknout i silným pancéřováním. Musíme vyvinout nové ochranné metody, abychom udrželi naše vlastní tanky naživu tváří v tvář těmto hrozbám."
+ armor_tech_4_desc:0 "Během války se hrozby, kterým tanky čelily, mnohonásobně zvýšily, od nepřátelských tanků, protitankových děl, specializovaných ničiteli tanků, až po moderní pěchotní zbraně střílející tvarované střely, které mohou proniknout i silným pancéřováním. Musíme vyvinout nové obrněné metody, abychom udrželi naše vlastní tanky naživu tváří v tvář těmto hrozbám."
  armor_tech_4_tt:0 "Umožňuje Upgrade Armor hodnoty 18 a vyšší."
  auto_loader:0 "Automatický nabíječ"
  auto_loader_desc:0 "Automatický mechanismus, který nabíjí granáty a umožňuje tanku udržovat vysokou palebnou frekvenci po delší časové období."

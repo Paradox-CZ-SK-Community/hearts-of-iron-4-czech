@@ -46,7 +46,7 @@
  FE_DIFFICULTY_HARD_TOOLTIP:1 "§L„Třicet let od teď, až budete sedět u svého krbu se svým vnukem na klíně a on se zeptá: 'Co jste dělal ve velké druhé světové válce?' nebudete muset zakašlat a říct: 'No, tvůj dědeček házel hovno v Louisianě.'“§!"
  FE_DIFFICULTY_MODIFIER_AI_TOOLTIP:0 "\n\nAI:\n$AIMOD$"
  FE_DIFFICULTY_MODIFIER_PLAYER_TOOLTIP:0 "\n\nHráč:\n$PLAYERMOD$"
- FE_DIFFICULTY_NORMAL:1 "Obvyklý"
+ FE_DIFFICULTY_NORMAL:1 "Normální"
  FE_DIFFICULTY_NORMAL_TOOLTIP:0 "§L"Protože nepřítel je silný. Může odrazit naše síly. Úspěch nemusí přijít rychlostí, ale vrátíme se znovu a znovu."§!"
  FE_DIFFICULTY_UNKNOWN:0 "Tajná obtížnost"
  FE_DIFFICULTY_VERY_EASY:0 "Civilní"
