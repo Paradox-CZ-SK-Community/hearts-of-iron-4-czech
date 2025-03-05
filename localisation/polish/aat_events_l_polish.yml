@@ -591,7 +591,7 @@
  AAT_Sweden_nordic_defense_council.1.b: "Připojíme se jako člen frakce"
  AAT_Sweden_nordic_defense_council.1.c: "Zapojíme se jako integrovaní členové rady"
  AAT_Sweden_nordic_defense_council.1.desc: "Jak se svět připravuje na nevyhnutelný konflikt mezi hlavními evropskými mocnostmi, se severské země riskují, že budou přešlapovány v nadcházejícím útoku. Vláda [FROM.GetAdjective] navrhuje, abychom jako severské země vytvořily jednotnou armádu, abychom společně mohli vytvořit souvislejší obranu."
- AAT_Sweden_nordic_defense_council.1.t: "[SWE.GetNameDef] nás zve do severské obranné rady"
+ AAT_Sweden_nordic_defense_council.1.t: "Švédsko nás zve do severské obranné rady"
  AAT_Sweden_nordic_defense_council.2.a: "Skvělé"
  AAT_Sweden_nordic_defense_council.2.desc: "[FROM.GetName] se rozhodlo připojit se k nám v našem svazu. Aspoň teď, když se stane neuvěřitelné, nejsme sami."
  AAT_Sweden_nordic_defense_council.2.t: "[FROM.GetName] se připojuje k severskému obrannému svazu"

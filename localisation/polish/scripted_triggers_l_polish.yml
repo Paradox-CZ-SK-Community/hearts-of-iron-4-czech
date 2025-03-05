@@ -6,3 +6,4 @@
  is_league_of_nations_member_tt:0 "Je členem Společnosti národů"
  state_is_fully_controlled_by_ROOT_or_subject_tt:0 "Je plně řízena §Y[ROOT.GetFlag][ROOT.GetNameDef]§! nebo jakýmkoli §Y[ROOT.GetAdjective] subjektem§!"
  state_is_fully_controlled_by_ROOT_subject_or_faction_member_tt: "Je plně řízena §Y[ROOT.GetFlag][ROOT.GetNameDef]§!, jakýmkoli §Y[ROOT.GetAdjective] subjektem§! nebo §Yfaction member§!"
+ is_not_controlled_by_ROOT_or_ally: "Není §Yovládán§! §H[Root.GetNameDef]§! nebo jedním z jejich spojenců."

@@ -432,7 +432,7 @@
  EFFECT_UNLOCK_DECISION_TIMED_HEADER:0 "Odstraněno po $DAYS|H$ dnech."
  EFFECT_UPDATE_BORDER_WAR:0 "Aktualizuje hraniční válku mezi $STATE1|H$ a $STATE2|H$:"
  EFFECT_UPDATE_BORDER_WAR_CHANGE_STATE:0 "    Vítěz získá nepřátelský stát: $VAL|H$"
- EFFECT_UPDATE_BORDER_WAR_COMBAT_WIDTH:0 "    Combat Width : $NUM|.0H$"
+ EFFECT_UPDATE_BORDER_WAR_COMBAT_WIDTH:0 "    Bojová šířka : $NUM|.0H$"
  EFFECT_UPDATE_BORDER_WAR_MODIFIER:0 "    Bojový modifikátor : $NUM|H$"
  EFFECT_UPDATE_BORDER_WAR_NUM_UNITS:0 "    Maximální jednotky : $NUM|.0H$"
  EFFECT_UPGRADE_INTELLIGENCE_AGENCY:0 "Použijte vylepšení $UPGRADE|H$ na svou zpravodajskou agenturu."
@@ -463,3 +463,4 @@
  if_we_accept_newline_tt: "\n§YÚčinky pokud přijmeme:§!\n"
  they_will_gain_tt: "§YZískají§!:"
  we_will_gain_tt: "§YZískáme§!:"
+ unlock_general_tt: "Stává se dostupným jako Generál"

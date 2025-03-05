@@ -803,3 +803,4 @@
  wuw_HUN_does_not_have_trianon_tt: "Nemá žádnou formu §YTreaty of Trianon§! zbývající"
  wuw_HUN_not_has_trianon_for_laws_tt: "Nemá národní ducha §YTretí Krajinský zákon§!"
  wuw_connected_autobahn: "Propojila dálnici s námi"
+ is_controlled_by_ROOT_or_subject_NOT: "NENÍ řízen §Y[ROOT.GetNameDef]§! nebo subjektem"

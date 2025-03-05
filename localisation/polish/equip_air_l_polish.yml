@@ -1884,3 +1884,6 @@
  transport_plane_equipment_3_desc:0 "Letadla používaná k přepravě jednotek na parašutistické mise."
  transport_plane_equipment_3_short:0 "Transport III"
  transport_plane_equipment_desc:0 "Doručuje parašutisty na jejich cíl."
+ naval_bomber1: "Námořní bombardér I"
+ naval_bomber2: "Námořní bombardér II"
+ naval_bomber3: "Námořní bombardér III"
