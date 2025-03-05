@@ -958,7 +958,7 @@
  MODIFIER_TRADE_OPINION_FACTOR_DESC:0 "Faktor hodnoty názoru v obchodních dohodách"
  MODIFIER_TRADE_TO_OVERLORD_FACTOR:0 "Další obchod k overlordovi"
  MODIFIER_TRADE_TO_OVERLORD_FACTOR_DESC:0 "Extra vyrobené zdroje dostupné k obchodování s overlordem"
- MODIFIER_TRADE_TO_TARGET_FACTOR:0 "Dodatečný obchod s cílem #bylo 'Overlord', ale zdá se, že modifikátor je cílen na konkrétní značku"
+ MODIFIER_TRADE_TO_TARGET_FACTOR:0 "Dodatečný obchod s cílem"
  MODIFIER_TRADE_TO_TARGET_FACTOR_DESC:0 "Dodatečné vyprodukované zdroje dostupné pro obchod s cílovou zemí"
  MODIFIER_TRAINING_FACILITIES_ENABLED:0 "Odemknout rozhodnutí pro stavbu výcvikových zařízení"
  MODIFIER_TRAINING_TIME_AIR:0 "Čas výcviku vzduchu"

@@ -657,7 +657,7 @@
  rangers: "Specialisté na drsné terény"
  rangers_desc: "Specializací na infiltraci a taktickou pravomoc, budeme mít prospěch z akcentace nepřátelských prostředí, kterou naši Rangers obdrželi."
  rangers_support: "Rangers"
- rangers_support_desc: "Rangeri jsou elitní skirmish jednotky první linie, specializující se na infiltrace a boj v blízkosti. #TODO CD"
+ rangers_support_desc: "Rangeri jsou elitní skirmish jednotky první linie, specializující se na infiltrace a boj v blízkosti."
  recon:1 "Průzkumná jezdecká jednotka"
  recon_desc:0 "Posílání menších skupin, aby se před nástupem hlavních sil prozkoumalo okolí, nám umožňuje shromáždit informace o tom, kde se nepřítel nachází a kolik jich čelíme."
  river:0 "Řeka"

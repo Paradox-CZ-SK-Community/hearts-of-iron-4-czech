@@ -1108,7 +1108,7 @@
  bftb_news.1.desc:0 "Dnes dříve [BUL.GetAdjective] vůdce [BUL.GetLeader] vydal oficiální prohlášení, které vyjádřil svůj odmítavý postoj vůči vnitřní makedonské revoluční organizace a veřejně odsoudil jejich činnost. \n[BUL.GetAdjective] ministr vnitra také oznámil zavedení balíčku mimořádných opatření, která umožní vládě alokovat více zdrojů k aktivním akcím proti IMRO a úplně tuto teroristickou organizaci vykořenit. \nS tímto prohlášením se zdá, že konečně [BUL.GetAdjective] vláda hledá ukončit jeden z největších zdrojů konfliktu a napětí na Balkáně..."
  bftb_news.1.t:0 "Vláda [BUL.GetAdjective] odsuzuje IMRO"
  bftb_news.10.a:0 "Sen se stává skutečností!"
- bftb_news.10.b:1 "Potřebuje [THIS.GetNameDef] opravdu toto? #THIS"
+ bftb_news.10.b:1 "Potřebuje [THIS.GetNameDef] opravdu toto?"
  bftb_news.10.c:0 "Je to to, co Balkán skutečně potřebuje?"
  bftb_news.10.d:0 "Nonsene!"
  bftb_news.10.desc:0 "Bývalá vláda [BUL.GetOldNameDef] vyhlásila vytvoření [BUL.GetNameDef], s nímž chtějí posunout [BUL.GetFactionName] o krok dál, vyzývajíc členy aliance, aby se sjednotili pod jednou centralizovanou vládou. \nV souladu s [BUL.GetLeader] se [BUL.GetNameDef] snaží o plnou spolupráci mezi balkánskými národy, zanechávajíce jakékoliv konflikty minulosti a podporující jednotu mezi národy Balkánu."

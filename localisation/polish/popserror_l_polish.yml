@@ -2,7 +2,7 @@
  POPS_NO_MESSAGE:0 "Došlo k neočekávané chybě"
  POPS_UNEXPECTED_ERROR:0 "Došlo k neočekávané chybě."
  POPS_account-exists:0 "Účet s touto e-mailovou adresou již existuje"
- POPS_bad-password-length:0 "Heslo je příliš krátké #Může být také příliš dlouhé, ale maximální limit je 128 znaků (v době psaní)"
+ POPS_bad-password-length:0 "Heslo je příliš krátké"
  POPS_dynamodb-failure:0 "Nepodařilo se připojit"
  POPS_invalid-ISO-8601-format:0 "Formát data je neplatný"
  POPS_invalid-country-code:0 "Kód země je neplatný"

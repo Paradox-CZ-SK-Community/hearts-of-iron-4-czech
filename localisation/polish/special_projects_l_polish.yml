@@ -747,7 +747,7 @@
  sp_modern_carrier_eq_bonus_detection: "Moderní letadlová loď - Zvýšená detekční a povědomostní schopnost"
  sp_modern_carrier_eq_bonus_light_attack: "Moderní nosič - odstrašení lehkých lodí"
  sp_modern_carrier_eq_bonus_speed: "Moderní nosič - zlepšení rychlosti"
- sp_multi_charge_large_caliber_gun_small_size_ns: "$multi_charge_large_caliber_gun_small_size$ #Hidden NS: není potřeba popis"
+ sp_multi_charge_large_caliber_gun_small_size_ns: "$multi_charge_large_caliber_gun_small_size$"
  sp_naval_aip_engine: "Motor nezávislý na vzduchu"
  sp_naval_aip_engine_desc: "Nový pohonný systém, který by mohl eliminovat slabinu ponorek potřebujících vynořit se, aby dobily svá baterie a doplnily zásobu kyslíku."
  sp_naval_aip_engine_non_mtg_tt: "Umožňuje vylepšení motoru ponorky s hodnotou 6 a 7"

@@ -2909,7 +2909,7 @@
  SWE_artillery_equipment_1_short:0 "10.5 cm m/34"
  SWE_artillery_equipment_2:0 "10,5 cm Haubits m/40"
  SWE_artillery_equipment_3:0 "12 cm Haubits m/14"
- SWE_bofors_antitank_gun: "Bofors Anti-Tank gun #FOCUS unlock for Sweden"
+ SWE_bofors_antitank_gun: "Bofors Anti-Tank gun"
  SWE_gw_armored_car_equipment: "Landsverk L-185"
  SWE_gw_armored_car_equipment_short: "L-185"
  SWE_gw_tank_equipment:0 "Stridsvagn m/21"
