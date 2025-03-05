@@ -172,7 +172,7 @@
  STAT_COMMON_ARMOR_DIFF:0 " $VALUE|=+1$"
  STAT_COMMON_ARMOR_TRAIN_DESC:0 "§Harmor§! zvyšuje množství poškození, které může být způsobeno nepřátelskými logistickými údery, než bude tento vlak zničen."
  STAT_COMMON_ARMOR_VALUE:0 "$VALUE|H1$"
- STAT_COMMON_BUILD_COST_IC:0 "£výrobní_náklady  Výrobní náklady: "
+ STAT_COMMON_BUILD_COST_IC:0 "£production_cost  Výrobní náklady: "
  STAT_COMMON_BUILD_COST_IC_DESC:0 "§THodne výrobních kapacit potřebuje kus vybavení. §H1§! továrna má výrobní kapacitu $SPEED|H$ za den.§!"
  STAT_COMMON_BUILD_COST_IC_DIFF:0 " $VALUE|=-2$"
  STAT_COMMON_BUILD_COST_IC_MOD_DIFF:0 " $VALUE|=-2%$"

@@ -1,5 +1,5 @@
 ﻿l_polish:
- AIRWING_MANPOWER_TEXT:0 "£pracovní síla_textikon $AMOUNT|H^$"
+ AIRWING_MANPOWER_TEXT:0 "£manpower_texticon $AMOUNT|H^$"
  BECAME_EXILE_DESC:0 "Kapitulovali jsme.\n\nPokračujeme v boji jako §HVláda v exilu§! hostovaná $HOSTNAMEDEF|H$.\nZačáteční §Hlegitimita§! naší vlády je $LEGITIMACY|0H$"
  BECAME_EXILE_HEADER:0 "§HExilovaný§!"
  COUNTRYVIEW_GIE_INFO_BONUSES:0 "     - Útok: $ATTACK|%0+$\n     - obrana: $DEFENSE|%+0$"

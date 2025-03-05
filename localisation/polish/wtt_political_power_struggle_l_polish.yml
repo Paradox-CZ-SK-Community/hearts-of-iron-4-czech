@@ -222,7 +222,7 @@
  political_support_status:0 "Stav politické podpory"
  political_support_status_desc:0 "[This.GetFullPoliticalSupport_CHI][This.GetFullPoliticalSupport_PRC][This.GetFullPoliticalSupport_GXC][This.GetFullPoliticalSupport_YUN][This.GetFullPoliticalSupport_SHX][This.GetFullPoliticalSupport_XSM][This.GetFullPoliticalSupport_SIK][This.GetLiberationRule]"
  pp_per_day_neg_075:0 "£pol_power §Y-0.75/den  ($DAYS$)§!"
- pp_per_day_neg_075_blocked:0 "£politická síla §R-0.75/Den§!"
+ pp_per_day_neg_075_blocked:0 "£pol_power §R-0.75/Den§!"
  remove_support_in_state_3:0 "§HMístní podpora§! §Y-3§!\n"
  remove_support_in_state_4:0 "§HLokální Podpora§! §Y-4§!\n"
  remove_support_in_state_5:0 "§HLokální podpora§! §Y-5§!\n"

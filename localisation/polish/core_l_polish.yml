@@ -1666,7 +1666,7 @@
  STATE_SUPPLY_HEADER:2 "§HZásoby ze státu§! v $NAME|H$"
  STATE_SUPPLY_MODIFIER:0 "Dodávky jsou modifikovány o $VAL|.0%+$"
  STATE_VIEW_WICTORY_POINTS_DESC:0 "Kolik £victory_points §Hvítězných bodů§! je tato provincie hodna."
- STATE_VIEW_WICTORY_POINTS:0 "$VALUE$ £vítězství_points£"
+ STATE_VIEW_WICTORY_POINTS:0 "$VALUE$ £victory_points£"
  STATE_VP_SUPPLY_PLUR:0 "Z vítězných bodů: $VAL|.2H$"
  STATE_VP_SUPPLY_SING:0 "Z $NAME|H$ vítězného bodu: $VAL|.2H$"
  steel_desc:0 "Ocel je primární kov pro většinu typů vojenské techniky, ať už tanky či lodě."

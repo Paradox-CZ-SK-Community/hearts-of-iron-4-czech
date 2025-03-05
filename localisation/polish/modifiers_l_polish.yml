@@ -240,7 +240,7 @@
  MODIFIER_ARMY_STRENGTH:0 "HP"
  MODIFIER_ARMY_SUB_UNIT_CATEGORY_SPECIAL_FORCES_MAX_ORG_FACTOR: "Organizace speciálních sil"
  MODIFIER_ASSIGN_ARMY_LEADER_CP_COST:0 "Náklady na přidělení armádního vůdce (£command_power ): $VALUE|Y0$"
- MODIFIER_ASSIGN_NAVY_LEADER_CP_COST:0 "Náklady na přiřazení vůdce námořnictva (£příkazová síla): $VALUE|Y0$"
+ MODIFIER_ASSIGN_NAVY_LEADER_CP_COST:0 "Náklady na přiřazení vůdce námořnictva (£command_power ): $VALUE|Y0$"
  MODIFIER_ATTACK_BONUS_AGAINST_A_COUNTRY:0 "Útokový bonus proti zemi"
  MODIFIER_ATTACK_BONUS_AGAINST_A_COUNTRY_ON_ITS_CORES:0 "Útok na jejich jádrové území"
  MODIFIER_ATTRITION:0 "Ztráty divize"
