@@ -943,7 +943,7 @@
  TRIGGER_UNIT_HAS_NOT_TEMPLATE_MAJORITY:0 "Šablona není MAJORITY $TYPE$"
  TRIGGER_UNIT_HAS_OFFICER_NAME: "Divize má důstojníka: $OFFICER$"
  TRIGGER_UNIT_HAS_TEMPLATE_MAJORITY:0 "Šablona je většinově $TYPE$"
- TRIGGER_UNIT_IS_NOT_RESERVES:0 "Šablona divize není rezervní prioritou"
+ TRIGGER_UNIT_IS_NOT_RESERVES:0 "Šablona divize nemá prioritu rezervy"
  TRIGGER_UNIT_IS_RESERVES:0 "Šablona divize má prioritu rezervy"
  TRIGGER_UNIT_LEADER_HAS_ABILITY:0 "$LEADER|H$ má schopnost: $ABILITY|H$"
  TRIGGER_UNIT_ORGANIZATION:0 "Organizace"
@@ -965,3 +965,4 @@
  trade_partner_not_at_war_tt: "§Y[ROOT.GetNameWithFlag]§! nemůže kupovat nebo prodávat zbraně zemím ve válce"
  TRIGGER_NOT_OWNS_ANY_STATE_OF: "Nevlastní žádný z následujících států:"
  TRIGGER_OWNS_ANY_STATE_OF: "Vlastní některý z následujících států:"
+ TARGET_TRIGGER_COUNT_PREFIX: "Minimálně $COUNT|H$ "
