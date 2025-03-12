@@ -316,3 +316,4 @@
  united_arab_rep_core_state: "$IRQ_core_state$"
  united_arab_republic_cat_desc: "$IRQ_proclaim_united_arab_republic_desc$"
  united_arab_republic_cat: "$IRQ_proclaim_united_arab_republic$"
+ RAJ_akhand_bharat_claim_ban: "Nárok na [BAN.GetAdjective] státy"

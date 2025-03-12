@@ -1438,7 +1438,7 @@
  RAJ_reginald_savory:0 "Reginald Savory"
  RAJ_risk_of_famine:0 "Riziko hladu"
  RAJ_risk_of_famine_desc:1 "Indický systém výroby potravin je velmi křehký. I malá přerušení mohou způsobit kolaps."
- RAJ_risk_of_famine_instant_desc: "A §Rfamine§! bude spuštěn, pokud se splní některá z těchto podmínek:\n -Ztratíme klíčové území a nepodaří se nám ho vzít zpět do §Y30 dnů§!\n -§YBarma§! ztratí klíčový stát a nejsme ve válce s §YBarma§!"
+ RAJ_risk_of_famine_instant_desc: "Pokud platí některá z těchto podmínek, spustí se §Rhladomor§!:\n -Ztratíme počátečný indický stát a nepodaří se nám ho získat zpět během §Y30 dnů§! (s výjimkou Adenu)\n-Nový kontrolor není vypuštěným územím, ktoré je nami okupované na začiatku hry\n-Nový kontrolor není naším subjektem."
  RAJ_sir_frank_messervy:0 "Sir Frank Messervy"
  RAJ_sir_mohammed_iqbal:1 "Sir Muhammed Iqbal"
  RAJ_subhas_chanda_bose:0 "Subhas Chandra Bose"
