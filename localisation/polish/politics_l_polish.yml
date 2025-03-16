@@ -157,7 +157,7 @@
  SHOW_EXILED_STATUS_LEGITIMACY:0 "Legitimita: $VALUE|0H$"
  STABILITY_EFFECT_HEADER:0 "§HAktuálně ovlivněno:§!\n"
  STABILITY_WEEKLY_TOTAL_CHANGE:0 "Týdenní změna: $VAL$"
- TOPBAR_OFFICER_CORP:0 "Kapitánský sbor"
+ TOPBAR_OFFICER_CORP:0 "Generální štáb"
  TOPBAR_OFFICER_CORP_DESC:0 "Spravujte poradce a teoretiky, vyberte si svou armádu, námořnictvo a letectvo a odemkněte doktríny."
  UNITY_WEEKLY_TOTAL_CHANGE:0 "Týdenní změna: $VAL$"
  WAR_SUPPORT_EFFECT_HEADER:0 "§HAktuálně ovlivněno:§!\n"
