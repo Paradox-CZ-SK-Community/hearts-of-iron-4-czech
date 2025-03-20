@@ -241,7 +241,7 @@
  RAJ_GOE_pay_out_dividends_normal: "Vyplatit §Ynormální§! částku investorům do dividend"
  RAJ_GOE_pay_out_dividends_small_tt: "Na konci §Yfiskálního roku§! vyplatíme $eic_low_investments_cost_tt$, trvale jej odstraníme z náhodného státu. Na oplátku získáme malou částku dalších investic od soukromých investorů po celou dobu následujícího fiskálního roku.\n\n"
  RAJ_GOE_pay_out_dividends_small: "Vyplatit §Ymalou§! část investorům do dividend"
- RAJ_GOE_princely_state_timeout_tt: "Tlakem na ně můžeme diplomatically anexovat jejich území. Pokud budeme mít jasnou výhodu v tlaku, [FROM.GetName] se jistě přidá k nám.\n\n§YNa konci mise se každý stát rozhodne, ke komu se přidat. Pokud má země více než 50% tlaku než jakákoliv jiná země ve státě, ten stát se dobrovolně připojí k [ROOT.GetName]. Pokud žádná země nezíská jasnou většinu, veškerý tlak se vrátí [ROOT.GetName]. Toto se zopakuje 3krát nebo dokud nebude každý stát anektován.§!"
+ RAJ_GOE_princely_state_timeout_tt: "Nátlakem můžeme diplomaticky anektovat jejich území. Pokud budeme mít výraznou převahu v nátlaku, [FROM.GetName] se k nám jistě připojí.\n\n§YA Na konci mise se každý stát rozhodne, ke komu se připojí. Pokud má stát více než 25% nátlak než kterýkoli jiný stát v daném území, tento stát se ochotně připojí k [ROOT.GetName]."
  RAJ_GOE_princely_state_timeout: "Knížecí státy  rozhodující o svém osudu"
  RAJ_GOE_provide_working_opportunities: "Poskytovat pracovní příležitosti pro vojenský personál"
  RAJ_GOE_raise_war_taxes_condition_tt: "Aktuální nepřátelé (§Y[?var:enemies^num]§!) jsou méně než počet zvýšení válečných daní (§Y[?var:amount_of_times_raised_taxes]§!)"

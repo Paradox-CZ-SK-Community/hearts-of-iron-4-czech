@@ -2003,3 +2003,4 @@
  XP_OFFICER_CORPS_MAGNITUDE:0 "$VALUE|+=$"
  YEAR_UNIT_SHORT:0 "y"
  ZERO_ORG_MOVEMENT_MODIFIER:1 "Nízká organizace: $VALUE|+%$""
+ BYPASS_EFFECTS: "Efekty po přeskočení:"
