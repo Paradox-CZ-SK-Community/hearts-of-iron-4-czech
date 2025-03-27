@@ -1050,6 +1050,7 @@
  SPR_increase_arms_production_desc:0 "Abychom bránili ideálům komunismu, naše armáda potřebuje zbraně. Průmyslová kapacita našeho velkého národa musí být zlepšena, abychom mohli tyto zbraně poskytnout."
  SPR_international_brigades:0 "Mezinárodní brigády"
  SPR_international_brigades_desc:1 "Naše věc přitáhla mnoho mezinárodní pozornosti a lidé přicházejí z celého světa, aby bojovali proti fašistické hrozbě s námi. Nikdo nebude odmítnut, pokud udělá svou část pro zdraví komunity. Organizujeme je do mezinárodních brigád."
+ SPR_international_brigades_tt: "§YMáté Zalka§! dostupný jako level 2 §YField Marshal§!"
  SPR_invite_socialist_intellectuals:0 "Pozvat socialistické intelektuály"
  SPR_invite_socialist_intellectuals_desc:1 "Naše společnost bude útočištěm pro všechny intelektuály, kteří sdílejí naše odhodlání k socialistické věci. Tito jedinci musí být pozváni zdaleka a široka, aby jejich génius mohl poskytnout pokrok, z něhož budeme mít prospěch."
  SPR_join_the_global_fight_against_fascism:0 "Připojit se k globálnímu boji proti fašismu"
