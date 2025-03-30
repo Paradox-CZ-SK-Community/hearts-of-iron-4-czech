@@ -872,7 +872,7 @@
  LOAD_GFX_PDXMAP_TEXTURES:0 "Načítání mapy (vytváření textur)..."
  LOAD_GFX_PDXMAP_TREES:0 "Načítání mapy (vytváření stromů)..."
  LOAD_GFX:0 "Načítání grafiky"
- LOAD_INIT:0 "Inicializuji hru v češtině díky komunitě Paradox CZ/SK...
+ LOAD_INIT:0 "Inicializuji hru v češtině díky komunitě Paradox CZ/SK..."
  LOADING_DATABASES:0 "Načítání databází"
  LOADING_GUI:0 "Načítání rozhraní"
  LOADING_HISTORY:0 "Načítání historie"
