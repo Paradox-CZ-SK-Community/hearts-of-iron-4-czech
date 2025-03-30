@@ -145,7 +145,7 @@
  raid_category_header_paratrooper_raids: "Nájezdy parašutistů"
  raid_category_land_infiltration_raids: "Armádní útok"
  raid_category_naval_commando_raids: "Námořní komando"
- raid_category_nuclear_raids: "Nukleární útok"
+ raid_category_nuclear_raids: "Jaderný útok"
  raid_category_paratrooper_raids: "Vzdušné útočné jednotky"
  raid_command_cost_can_afford: "£command_power£$COST|H0$"
  raid_command_cost_cannot_afford: "£command_power£$COST|R0$"

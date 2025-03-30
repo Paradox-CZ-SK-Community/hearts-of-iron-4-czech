@@ -1604,7 +1604,7 @@
  SOV_soviet_atomic_bomb_project:0 "[ROOT.GetAdjective] atomový projekt"
  SOV_soviet_atomic_bomb_project_desc:0 "Víme, že vědci v jiných zemích usilovně pracují na vývoji metod, jak proměnit nejzákladnější síly ve vesmíru na nový typ zbraně. Ačkoli jsme pozadu, můžeme využít jejich práci k pokroku naší vlastní a zajistit, aby parita zničení zůstala."
  SOV_soviet_atomic_bomb_project_tech_bonus_name:0 "Národní atomový projekt"
- SOV_soviet_atomic_bomb_project_tt: "Pokud neexistují žádné jiné §YExperimental Facilities§! v §Y[588.GetName]§!, získáme §G1§! §YNukleární výzkumné zařízení§! v §Y[588.GetName]§!."
+ SOV_soviet_atomic_bomb_project_tt: "Pokud neexistují žádné jiné §YExperimental Facilities§! v §Y[588.GetName]§!, získáme §G1§! §YJaderné výzkumné zařízení§! v §Y[588.GetName]§!."
  SOV_soviet_atomic_bomb_project_unlock_operation_tt:0 "Odemyká operace pro infiltrace atomových programů velkých zemí. [GetAgencyRequirement]"
  SOV_soviet_chinese_relations:0 "Sovětsko-čínské vztahy"
  SOV_soviet_civil_war:0 "Občanská válka začala"
