@@ -1575,7 +1575,7 @@
  modifier_production_speed_naval_facility_factor_desc:0 "Upravuje rychlost výstavby námořní základny."
  modifier_production_speed_nuclear_facility_factor:0 "§YNuclear Facility§! rychlost výstavby"
  modifier_production_speed_nuclear_facility_factor_desc:0 "Modifikuje rychlost výstavby jaderného zařízení."
- modifier_production_speed_nuclear_reactor_factor:0 "Rychlost výstavby §YNukleárního reaktoru§!"
+ modifier_production_speed_nuclear_reactor_factor:0 "Rychlost výstavby §YJadernýho reaktoru§!"
  modifier_production_speed_nuclear_reactor_factor_desc:0 "Upravuje rychlost výstavby jaderného reaktoru"
  modifier_production_speed_radar_station_factor:0 "Rychlost výstavby §YRadar Station§!"
  modifier_production_speed_radar_station_factor_desc:0 "Upravuje rychlost výstavby radarové stanice."

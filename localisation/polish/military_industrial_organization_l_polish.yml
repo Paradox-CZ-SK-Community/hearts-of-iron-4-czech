@@ -533,6 +533,7 @@
  INDUSTRIAL_ORG_TASK_REFIT_DESC: "Přestavba: $NAME|H$"
  INDUSTRIAL_ORG_TASK_RESEARCH_DESC: "Výzkum: $RESEARCH|H$"
  INDUSTRIAL_ORG_TOOLTIP_CLICK_TO_ASSIGN: "§GKlikněte§! pro přiřazení."
+ INDUSTRIAL_ORG_TOOLTIP_IS_LICENSED: "§RLicencované vybavení není způsobilé§!"
  INDUSTRIAL_ORG_TOOLTIP_CLICK_TO_CHANGE: "§GKlikněte§! pro změnu."
  INDUSTRIAL_ORG_TOOLTIP_HEADER: "§YVojenská průmyslová organizace§!"
  INDUSTRIAL_ORG_TOOLTIP_NO_RELEVANT_ORGANISATION: "Nemáte žádnou §R, kterou§! byste mohli přidělit tomuto typu vybavení."
