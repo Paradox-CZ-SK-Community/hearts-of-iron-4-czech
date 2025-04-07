@@ -4,7 +4,7 @@
  POPS_account-exists:0 "Účet s touto e-mailovou adresou již existuje"
  POPS_bad-password-length:0 "Heslo je příliš krátké"
  POPS_dynamodb-failure:0 "Nepodařilo se připojit"
- POPS_invalid-ISO-8601-format:0 "Formát data je neplatný"
+ POPS_invalid-ISO-8601-format:0 "Formát dat je neplatný"
  POPS_invalid-country-code:0 "Kód země je neplatný"
  POPS_invalid-email:0 "E-mail není platný"
  POPS_invalid-language-code:0 "Kód jazyka je neplatný"
