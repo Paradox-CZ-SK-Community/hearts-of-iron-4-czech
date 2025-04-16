@@ -620,7 +620,7 @@
  TRIGGER_IS_NOT_IN_PEACE_CONFERENCE:0 "Není na mírové konferenci"
  TRIGGER_IS_NOT_IN_TECHNOLOGY_SHARING_GROUP:0 "Není členem $GROUPNAME|Y$"
  TRIGGER_IS_NOT_IRONMAN:0 "Hra není v režimu Ironman."
- TRIGGER_IS_NOT_JUSTIFYING_WARGOAL_AGAINST:0 "Neospravedlňuje válečný cíl proti @$TAG$$COUNTRY|H$"
+ TRIGGER_IS_NOT_JUSTIFYING_WARGOAL_AGAINST:0 "Neodůvodňuje válečný cíl proti @$TAG$$COUNTRY|H$"
  TRIGGER_IS_NOT_LEADING_ARMY:0 "Není velitelem armády"
  TRIGGER_IS_NOT_LEADING_ARMY_GROUP:0 "Není vůdcem armádní skupiny"
  TRIGGER_IS_NOT_LICENSING_ANY_TO:0 "Není licencován na $COUNTRY|Y$"
