@@ -966,3 +966,4 @@
  TRIGGER_NOT_OWNS_ANY_STATE_OF: "Nevlastní žádný z následujících států:"
  TRIGGER_OWNS_ANY_STATE_OF: "Vlastní některý z následujících států:"
  TARGET_TRIGGER_COUNT_PREFIX: "Minimálně $COUNT|H$ "
+ 
