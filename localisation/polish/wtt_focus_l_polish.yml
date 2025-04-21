@@ -733,7 +733,7 @@
  PRC_the_yanan_base_area:0 "Oblast základu Yan'an"
  PRC_the_yanan_base_area_desc:0 "Základem naší revoluce je oblast v Yan'an. Pokud chceme v nadcházejícím boji uspět, musí být rozšířena a zlepšena."
  SOV_communist_threat:0 "komunistické"
- SOV_communist_threatAlt:0 "Bolševik"
+ SOV_communist_threatAlt:0 "bolševické"
  SOV_country_threat:0 "[SOV.GetAdjective]"
  SOV_fascist_threat:0 "fašistický"
  SOV_fascist_threatAlt:0 "Imperialistický"
