@@ -2052,7 +2052,7 @@
  cyril_newall:0 "Cyril Newall"
  dagu_shipyard:0 "Dagu loděnice"
  damage_to_naval_base_high: "$damage_to_naval_base_low$""
- damage_to_naval_base_low: "$Námořní_základna$ byla přepadena"
+ damage_to_naval_base_low: "$naval_base$ byla přepadena"
  damage_to_naval_base_medium: "$damage_to_naval_base_low$"
  danieli:0 "Danieli"
  dar:0 "DAR"
