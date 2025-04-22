@@ -59,7 +59,7 @@
  ENG_expose_the_belly_of_the_bear:1 "Odkrytí břicha medvěda"
  ENG_expose_the_belly_of_the_bear_desc:1 "Postavit se Sovietům bez jakýchkoliv výsadkových základen je ohromná výzva. Budeme požadovat průchod přes země [PER.GetName] a [AFG.GetName], a udeřit na Sověty tam, kde to nejméně očekávají; po zemi a do jejich odhaleného břicha."
  ENG_federal_integration:0 "Federální integrace"
- ENG_follow_moscow:2 "Následujte [SOU.Capital.GetCapitalVictoryPointName]"
+ ENG_follow_moscow:2 "[SOU.Capital.GetCapitalVictoryPointName] - náš vzor"
  ENG_follow_moscow_desc:2 "V jeho kořenech vždy komunismus v Británii následoval příkazy [SOU.Capital.GetCapitalVictoryPointName]. Pokračovat v tom nyní je nejen logické, ale také nezbytné. Mezi Rudou armádou a naším námořnictvem budeme šířit slovo Marxova daleko a široko, a nikdo nás nemůže zastavit."
  ENG_for_the_good_of_the_revolution:1 "Pro blaho revoluce"
  ENG_for_the_good_of_the_revolution_desc:1 "Všichni musí být ochotni obětovat pohodlí pro dobro státu. Britský lid si udrží vysokou hlavu tváří v tvář přídělovému systému, přesvědčen, že to zajistí naši konečnou vítězství."
