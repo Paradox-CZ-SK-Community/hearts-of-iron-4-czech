@@ -434,7 +434,7 @@
  ROM_coastal_defense_navy_desc:0 "S našimi omezenými zdroji nemůžeme usilovat o nic víc než o zabezpečení našich břehů. Veškeré úsilí musí směřovat k tomuto cíli."
  ROM_coastal_defense_ships:0 "Pobřežní obranné lodě"
  ROM_coastal_defense_ships_desc:0 "Bude třeba vytvořit nové konstrukce lodí, které budou vynikat v oblasti pobřežní obrany."
- ROM_coastal_defense_ships_tech_tt:0 "Umožňuje §HPobrežní lodě§!\n§H Těžké křižníky§!\n    Armor: §G+20%§!\n    Námořní palebná síla: §G+10%§!\n    Náklady na výrobu: §G-10%§!"
+ ROM_coastal_defense_ships_tech_tt:0 "Umožňuje §HPobrežní lodě§!\n§H Těžké křižníky§!\n    Pancíř: §G+20%§!\n    Námořní palebná síla: §G+10%§!\n    Náklady na výrobu: §G-10%§!"
  ROM_constitutional_guarantees:0 "Ústavní záruky"
  ROM_constitutional_guarantees_desc:0 "Ústavní změny, které král prosadil, musí být zrušeny a musí být zavedeny záruky a rovnováhy, které zajistí, že se to nebude opakovat. Jinak z nás zůstane jen výsměch demokracii."
  ROM_crack_down_on_extremism:0 "Zásah proti extremismu"
