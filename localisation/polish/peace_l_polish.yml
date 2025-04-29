@@ -1,8 +1,8 @@
 ﻿l_polish:
- CAPITULATE_HOME_AREA_DESC:0 "Nadešel černý den pro $LOSER|Y$.\nHlavní síly kapitulovaly a $LOSER_ADJ$ vláda odešla do exilu. $WINNER|Y$ přebírá kontrolu nad jejich domácím územím."
+ CAPITULATE_HOME_AREA_DESC:0 "$LOSER|Y$ ohlašuje kapitulaci.\nHlavní síly složily zbraně a $LOSER_ADJ$ vláda odešla do exilu. $WINNER|Y$ přebírá kontrolu nad jejich domácím územím."
  CAPITULATE_NEW_FACTION_LEADER_DESC:0 "Nový vůdce frakce pro $FACTION_NAME|Y$ je $COUNTRY|Y$."
  CAPITULATE_TITLE:0 "$LOSER$ se vzdává"
- CONFERENCE_LOSER_IS_UNTOUCHED:0 "$NAME|Y$ má uzemí, které se nedostalo pod kontrolu vítězů. Není možné proti nim vznést žádné požadavky"
+ CONFERENCE_LOSER_IS_UNTOUCHED:0 "$NAME|Y$ má uzemí, které se nedostalo pod vojenskou kontrolu vítězů. Není možné proti nim vznést žádné požadavky"
  CONTESTED_STATES_GENERIC_TOOLTIP:2 "§HSporné požadavky§!\n\nNěkteré z vašich požadavků jsou považovány za £peace_conf_icons|3 §Rsporné§!, protože jiný národ vznesl požadavky na stejný stát. Pro pokračování vzneste další požadavek na tento stát nebo se vzdejte svých požadavků.\n\nVšechny body, které jste investovali do sporných požadavků, vám budou vráceny, pokud se vzdáte sporného požadavku již v prvním kole. S každým dalším kolem sporných požadavků se množství vrácených bodů sníží."
  DIPLOMACY_EFFECT_HEADER:0 "Při vyhlášení"
  HOLD_SHIFT_FOR_BREAKDOWN:0 "Podrž §GShift§! pro zobrazení přehledů nákladů."
