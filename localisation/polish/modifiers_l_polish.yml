@@ -435,7 +435,7 @@
  MODIFIER_GLOBAL_BUILDING_SLOTS_FACTOR_DESC:1 "Upravuje počet sdílených stavebních slotů ve všech státech."
  MODIFIER_GLOBAL_MONTHLY_POPULATION:0 "Měsíční populace"
  MODIFIER_GLOBAL_MONTHLY_POPULATION_DESC:0 "Upravuje množství celkové populace získané za měsíc"
- MODIFIER_GLOBAL_NON_CORE_MANPOWER:0 "Nepodstatná pracovní síla"
+ MODIFIER_GLOBAL_NON_CORE_MANPOWER:0 "Nedomovská pracovní síla"
  MODIFIER_GRANT_MEDAL_COST_FACTOR:0 "Náklady na udělení medaile"
  MODIFIER_GROUND_ATTACK:0 "Pozemní útočení"
  MODIFIER_GROUND_ATTACK_FACTOR:0 "Faktor pozemního útoku"
