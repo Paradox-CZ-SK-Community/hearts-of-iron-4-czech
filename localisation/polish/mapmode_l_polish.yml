@@ -38,7 +38,7 @@
  MAPMODE_PLAYERS_NAME:0 "Hráči"
  MAPMODE_RAIDS: "Mapa §Hleteckých náletů§!"
  MAPMODE_RAIDS_DESCRIPTION: "Ukazuje všechny plánované a probíhající nálety"
- MAPMODE_RAIDS_NAME: "Vojenské nálety"
+ MAPMODE_RAIDS_NAME: "Letecké nálety"
  MAPMODE_RESISTANCE:0 "Mapa §Hodboje§!"
  MAPMODE_RESISTANCE_DESCRIPTION:1 "Zobrazuje místní odboj v okupovaných oblastech. Ukazuje problémové oblasti, kde byste měli zvážit změnu vaší okupační politiky."
  MAPMODE_RESISTANCE_NAME:0 "Odboj"
