@@ -861,7 +861,7 @@
  MODIFIER_SEND_VOLUNTEERS_TENSION_LIMIT:0 "Limit napětí pro odesílání dobrovolníků"
  MODIFIER_SEND_VOLUNTEER_DIVISIONS_REQUIRED:0 "Divize potřebné k vyslání dobrovolnické jednotky"
  MODIFIER_SEND_VOLUNTEER_FACTOR:0 "Maximální počet divizí dobrovolníků"
- MODIFIER_SEND_VOLUNTEER_SIZE:0 "Maximální počet divizí dobrovolnicků"
+ MODIFIER_SEND_VOLUNTEER_SIZE:0 "Maximální počet divizí dobrovolníků"
  MODIFIER_SHIPS_AT_BATTLE_START_FACTOR:0 "Počet lodí při prvním kontaktu"
  MODIFIER_SHORE_BOMBARDMENT:0 "Bonus k bombardování pobřeží"
  MODIFIER_SICKNESS_CHANCE:0 "Šance na onemocnění"
