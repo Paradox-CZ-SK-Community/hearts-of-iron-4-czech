@@ -62,7 +62,7 @@
  MANPOWER_MONTHLY_BASE:0 "Základní hodnota: $VALUE|*Y0$"
  MANPOWER_MONTHLY_TECH_FACTOR:0 "Z technologie: $VALUE|+%$"
  MANPOWER_MONTHLY_TOTAL:2 "Měsíční zisk dostupného personálu: $VALUE|^+1$($PERC|2%H$)\nCelkový růst populace: $MAX|^2H$($FACTOR|2%H$ z celkové populace)\n\nZákladní míra růstu: $RATIO|%H$"
- MANPOWER_NON_CORE:0 "$NC_PERC|3%H$ z oprávněné nedomovské populace dostupné ($NC_ELIGIBLE|^H$)"
+ MANPOWER_NON_CORE:0 "$NC_PERC|3%H$ ze způsobilé dostupné nedomovské populace ($NC_ELIGIBLE|^H$)"
  MANPOWER_PROVINCE_TOOLTIP:0 "Personál: $VAL|*Y$"
  MANPOWER_RAILWAY_GUN:0 "Personál pro železniční dělo"
  MANPOWER_RAILWAY_GUN_DESC:0 "§TTohlo §Hželezniční dělo§! požaduje $AMOUNT|G$ personálu ve službě.§!"
