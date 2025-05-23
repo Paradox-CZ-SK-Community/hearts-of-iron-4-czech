@@ -63,7 +63,7 @@
  CHI_ship_torpedo_1:0 "2x 356mm torpédomet"
  CHL_heavy_ship_engine_1:0 "Brown-Curtis 37.000 Shp"
  CHL_light_ship_engine_1:0 "Parsons 28.000 Shp"
- CHL_ship_armor_bb_1:0 "229mm pás/37mm paluba"
+ CHL_ship_armor_bb_1:0 "Pancíř 229mm pás/37mm paluba"
  CHL_ship_heavy_battery_1:0 "35.6 cm/45 Armstrong A"
  CHL_ship_heavy_battery_2:0 "35.6 cm/50 kanón"
  CHL_ship_light_battery_1:0 "120mm/45 QF Vickers E"
