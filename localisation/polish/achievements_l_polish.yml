@@ -2,7 +2,7 @@
  AUS_annexed:0 "Dosáhl Anschlussu"
  AUS_von_trapp_hired_flag: "Georg von Trapp byl vrácen k námořnictvu"
  BRA_snakes_on_a_plane_achievement:0 "Získal §Y[2.GetName]§! pomocí výsadkářů."
- ETH_forced_ITA_peace_achievement:0 "Italy byla donucena uzavřít mír."
+ ETH_forced_ITA_peace_achievement:0 "Itálie byla donucena uzavřít mír."
  GER_won_naval_arms_race_flag: "Kapituloval §Y[ENG.GetNameDef]§! vedený námořnictvem"
  HOL_lost_starting_state:0 "Nizozemsko ztratilo jedno ze svých počátečních států."
  ITA_joined_faction_with_literally_hitler_achievement_flag:0 "[ITA.GetFlag] §Y[ITA.GetNameDefCap]§! se připojil frakci s fašistickým §Y[GER.GetName]§! v jakémkoliv okamžiku."
