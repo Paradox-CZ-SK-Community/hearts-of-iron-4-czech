@@ -42,7 +42,7 @@
  DESIGNER_EMPTY_NAME:0 "§RŠablona divize by neměla mít prázdný název§!"
  DESIGNER_EMPTY_REGIMENT:0 "§RVytvoření nové šablony divize vyžaduje přidání bojového praporu§!"
  DESIGNER_EQUIPMENT_CHANGE:2 "$UNITS|Y$ divize používají tuto šablonu.\nPožadavky na $EQ|Y$ se změní o $TOT|R$ celkem.\nMáme $STOCK|Y$ na skladě.\nPokud akceptujeme změny této šablony, odhadujeme, že budeme mít $END$ na skladě."
- DESIGNER_EQUIPMENT_STATS_LABEL:0 "Náklady na vybavení"
+ DESIGNER_EQUIPMENT_STATS_LABEL:0 "Cena vybavení"
  DESIGNER_EXPENSIVE:0 "Dizajn je příliš nákladný"
  DESIGNER_INFANTRY_LABEL:0 "Pěchota"
  DESIGNER_INFANTRY_RATIO:0 "Pěchota: $VALUE|%Y$"
