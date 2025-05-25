@@ -39,7 +39,7 @@
  GARRISON_LOG_ACTIVITY_STOPPED:0 "Aktivita zastavena posádkou"
  GARRISON_LOG_ACTIVITY_SUCCES:0 "Aktivita nebyla zastavena: $ACTIVITY|R$"
  GARRISON_LOG_EMPTY_ACTIVITY:0 "Žádná aktivita ve $TIME$."
- GARRISON_LOG_LOSSES_IN_IC:0 "§HEquipment lost:§! £production_cost£$NUM|*$"
+ GARRISON_LOG_LOSSES_IN_IC:0 "§HZtráty vybavení:§! £production_cost£$NUM|*$"
  GARRISON_LOG_RESISTANCE_ACTIVITY:0 "Aktivity odboje"
  LAW_BONUS_SCALED:0 "§RZákon nebude mít plný účinek, dokud nebudou zcela naplněny požadavky posádky.§!"
  LAW_IS_OVERRIDDEN_TOOLTIP:0 "Následující území převyšují tento zákon:"
