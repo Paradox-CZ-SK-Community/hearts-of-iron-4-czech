@@ -1001,7 +1001,7 @@
  NATIONAL_FOCUS_EXCLUSIVE_INFO_DESC:0 "Vzájemně se vylučující s"
  NATIONAL_FOCUS_EXCLUSIVE_INFO_ENTRY:0 "$FOCUS|Y$"
  NATIONAL_FOCUS_MUTUALLY_EXCLUSIVE_TREE:0 "Větve jsou vzájemně se vylučující."
- NATIONAL_FOCUS_NO_CURRENT_EFFECT:0 "Tento důraz v současnosti nemá žádný účinek. Změny v situaci ve světě mohou ovlivnit toto."
+ NATIONAL_FOCUS_NO_CURRENT_EFFECT:0 "Tohle zaměření v současnosti nemá žádný účinek. Změny ve světové situaci může tohle ovlivnit."
  NAV_effort:0 "Zaměření na námořní bombardéry"
  NAV_effort_desc:0 "Stejně jako se nová námořní válka odehrává částečně pod vodní hladinou, odehrává se částečně i ve vzduchu nad vodní hladinou."
  NZL_2nzef:0 "2NZEF"
