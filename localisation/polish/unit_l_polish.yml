@@ -15,7 +15,7 @@
  ADD_ATTACK_SKILL:0 "Přidat dovednost útoku: $NUM|+$"
  ADD_COORDINATION_SKILL:0 "Přidat dovednost koordinace: $NUM|+$"
  ADD_DEFENSE_SKILL:0 "Přidat dovednost obrany: $NUM|+$"
- ADD_LOGISTICS_SKILL:0 "Přidat dovednot logistiky: $NUM|+$"
+ ADD_LOGISTICS_SKILL:0 "Přidat dovednost logistiky: $NUM|+$"
  ADD_MANEUVER_SKILL:0 "Přidat dovednost manévrování: $NUM|+$"
  ADD_PLANNING_SKILL:0 "Přidat dovednost plánování: $NUM|+$"
  ADD_SKILL_LEVEL:0 "Přidat úroveň dovednosti: $NUM|+$"
