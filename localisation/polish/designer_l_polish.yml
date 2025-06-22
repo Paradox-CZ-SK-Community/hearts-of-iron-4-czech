@@ -11,7 +11,7 @@
  COST_RESTRICTED_DESIGN:0 "Jsme omezeni maximálními náklady $MAX|Y0$ na výrobu této třídy"
  CURRENT_EXPERIENCE:1 "Dostupné zkušenosti"
  DESIGNER_ADD:1 "§GKlikněte§! pro přidání"
- DESIGNER_ADD_DESC:0 "Cena přidání: $VALUE|H0$ £army_experience "
+ DESIGNER_ADD_DESC:0 "Cena přidání: $VALUE|H0$ £army_experience"
  DESIGNER_AIR_EXPERIENCE:1 "£air_experience  $VALUE$"
  DESIGNER_AIR_SAVE:1 "Uložit £air_experience $VALUE|Y0$"
  DESIGNER_ARMORED_LABEL:0 "Obrněný"
