@@ -2712,3 +2712,6 @@
  ww_congo.9.desc: "S naší nedávnou rostoucí střední třídou a mnoha lidmi ve městských oblastech, kteří mají postprimární vzdělání, mnozí [COG.GetAdjective] začali číst díla politických teoretiků a mnozí noví politici a zastánci nezávislosti začínají vstupovat na scénu. To znamená nový úsvit pro [COG.GetAdjective] národ!"
  ww_congo.9.t: "Évolué začít vstupovat do [ROOT.GetAdjective] politiky"
  yugoslavia_mefo_bills_tt: "Používá jugoslávské zlato k redukci nákladů na §Y[GetMilitaryProductionModifierName]§!.\n"
+ lithuania_mefo_bills_tt: "Využívá litevské zlato ke snížení nákladů na §Y[GetMilitaryProductionModifierName]§!.\n"
+ poland_mefo_bills_tt: "Využívá polské zlato ke snížení nákladů na §Y[GetMilitaryProductionModifierName]§!.\n"
+ generic_lower_mefo_bills_tt: "Využívá nově zabavené zlato ke snížení nákladů na §Y[GetMilitaryProductionModifierName]§!.\n"
