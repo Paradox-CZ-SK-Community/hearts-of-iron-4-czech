@@ -14,6 +14,7 @@
  AUTONOMY_FREEDOM_PROMOTE_COST:0 "Potřebujete o £autonomy_texticon $SCORE|H0$ více bodů k povýšení na tuto úroveň"
  AUTONOMY_MASTER_COUNTRY_EFFECT:0 "Vládce"
  AUTONOMY_MOVING_DESC:1 "§GZměnit úroveň autonomie na $LEVEL|H$§!"
+ AUTONOMY_NOT_ENOUGH_TIME: "§RÚroveň autonomie lze změnit pouze jednou za §Y$DURATION$ dní§! (§Y Zůstává $REMAINDER$ dní§!)§!"
  AUTONOMY_PROGRESS_DESC:1 "$OWNER|UH$ má progres £autonomy_texticon $CURRENT|H0$/$TOTAL|H0$ bodů, než bude moci získat úroveň $NEXTLEVEL|H$"
  AUTONOMY_PROGRESS_PREV_DESC:1 "$OWNER|UH$ má o $CURRENT|H0$ bodů víc, aby mohl být degradován na úroveň $PREVLEVEL|H$"
  AUTONOMY_RELATION_DESC2:1 "$SUBJECT|UH$ je $LEVEL|H$ cizí mocnosti"
@@ -71,3 +72,4 @@
  autonomy_wtt_imperial_associate:0 "Imperiální přidruženec"
  autonomy_wtt_imperial_protectorate:0 "Imperiální protektorát"
  autonomy_wtt_imperial_subject:1 "Imperiální subjekt"
+ 

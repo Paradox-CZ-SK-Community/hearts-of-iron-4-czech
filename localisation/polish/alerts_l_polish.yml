@@ -49,7 +49,7 @@
  AND_X_MORE_REPORT:0 "\nA $VAL|Y$ více reportů"
  ASK_TO_COOP_TITLE:0 "Požádat o kooperační hru"
  ASK_TO_COOP_TITLE_DESC:0 "Opravdu chcete požádat $PLAYER$ o kooperační hru za $COUNTRY$?"
- DIPLOMACY_REQUEST_CLICKS:0 "§GKlikněte pro otevření\nPravým tlačítkem klikněte pro odmítnutí§!"
+ DIPLOMACY_REQUEST_CLICKS:0 "§GKlikněte pro otevření\nhift-click pro přijmoutí\nPravým tlačítkem klikněte pro odmítnutí§!"
  DIPLOMACY_REQUEST_HEADER:0 "$NAME|Y$ žádost od $COUNTRY|Y$"
  FACTION_MEMBER_ABLE_TO_ASSUME_LEADERSHIP:0 "   $COUNTRY|Y$ (§R100%§!)"
  FACTION_MEMBER_NEAR_ASSUMING_LEADERSHIP:0 "   $COUNTRY|Y$ ($PROGRESS|0%Y$)"

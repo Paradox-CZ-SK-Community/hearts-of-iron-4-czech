@@ -39,3 +39,4 @@
  dardanelles_strait_blocked_tt:0 "§RPrůliv je uzavřen pro [ROOT.GetName] kvůli zhoršujícím se vztahům s kontrolorem průlivu.§!"
  disable_canal_tt:0 "§ROdpálený kanál musí být nejdříve opraven, než jím budou moci znovu proplouvat lodě.§!"
  suez_blocked_tt:0 "[GetSuezBlockText]"
+ suez_blocked_tt_NOT:0 "[GetSuezBlockText]

@@ -2063,6 +2063,7 @@
  change_focus_to_from_tt:0 "Přidává nové zaměření pro §Y[ROOT.GetNameDef]§!, které lze použít, když jsme v exilu v §Y[FROM.GetNameDef]§!."
  ethiopia_recognized_flag:0 "Etiopie může povolat spojence do války"
  generic_states_affected_tt:0 "\nOvlivněné státy:\n"
+ generic_states_affected_no_prev_line_tt: "Ovlivněné státy:\n"
  leave_the_league_of_nations_tt:0 "§Y[ROOT.GetName]§! opouští Společnost národů."
  stresa_front_ita:0 "Stresová fronta"
  suez_blocked_sanctions_tt:0 "§Y[ITA.GetName]§! bude zablokováno v používání Suezkého kanálu."
