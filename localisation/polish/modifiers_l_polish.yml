@@ -510,7 +510,7 @@
  modifier_army_sub_unit_irregular_infantry_defence_factor: "Obrana nepravidelné pěchoty"
  modifier_army_sub_unit_irregular_infantry_max_org_factor_tt: "$modifier_army_sub_unit_irregular_infantry_max_org_factor$: $RIGHT|+=%1$"
  modifier_army_sub_unit_irregular_infantry_max_org_factor: "Organizace nepravidelné pěchoty"
- modifier_army_sub_unit_irregular_infantry_speed_factor_tt: 
+ modifier_army_sub_unit_irregular_infantry_speed_factor_tt: "$modifier_army_sub_unit_irregular_infantry_speed_factor$: $RIGHT|+=%1$"
  modifier_army_sub_unit_irregular_infantry_speed_factor: "Rychlost nepravidelné pěchoty"
  modifier_army_sub_unit_light_tank_recon_attack_factor: "Útok obrněné průzkumné roty"
  modifier_army_sub_unit_light_tank_recon_defence_factor: "Obrana obrněné průzkumné roty"
