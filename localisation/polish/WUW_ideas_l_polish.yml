@@ -141,7 +141,7 @@
  BEL_belgian_legion_dynamic_modifier: "Belgická legie"
  BEL_belgian_legion_dynamic_modifier_desc: "Sbírka konzervativních a royalistických loajalistů připravených vzít do rukou zbraně ve jménu svého krále."
  BEL_belgian_miracle_dynamic_modifier: "Belgický zázrak"
- BEL_belgian_miracle_dynamic_modifier_desc: Politiky [ROOT.GetLeader] skutečně přinesly ovoce, a [ROOT.GetName] získala významné postavení na světové scéně, její průmysl je obdivován mnoha tzv. velmocemi."
+ BEL_belgian_miracle_dynamic_modifier_desc: "Politiky [ROOT.GetLeader] skutečně přinesly ovoce, a [ROOT.GetName] získala významné postavení na světové scéně, její průmysl je obdivován mnoha tzv. velmocemi."
  BEL_belgian_resistance_state_dynamic_modifier: "Belgický odpor"
  BEL_belgian_resistance_state_dynamic_modifier_desc: "Náš lid není cizí okupaci, mnozí se naučili lekce občanského neuposlechnutí a odporu během poslední války."
  BEL_burgundian_heritage_ns: "Burgundské dědictví"
