@@ -950,7 +950,7 @@
  CHL_establish_the_royal_mountaineers_desc: "Jižní Andy jsou určujícím rysem země a horalé našeho státu jsou elitní síly, na nichž stojí základ naší země. Měli bychom tuto organizaci rozšířit a zajistit jim všechnu potřebnou výbavu."
  CHL_establish_trade_relationships: "Navázat prospěšné obchodní vztahy"
  CHL_establish_trade_relationships_desc: "Pro úspěšný obchod je potřeba více než jen zdroje v poptávce. Potřebujeme také důvěryhodné obchodní partnery a smlouvy, které neprodávají naši práci a přírodní zdroje příliš levně. Proto bychom měli oslovit naše bratry a sestry v Americe, abychom si zajistili důvěru obchodních partnerů."
- CHL_expand_mining_prospection_tt: "Přidává výrobu §Y4£resources_strip|5 §Y$state_resource_steel$§!, £resources_strip|6 §Y$state_resource_chromium$§!, £resources_strip|4 §Y$state_resource_tungsten$§! nebo £resources_strip|2 §Y$state_resource_aluminium$§! §!v každé jádrové provincii, která již poskytuje jeden z těchto minerálů. \nAktuální efekt:"
+ CHL_expand_mining_prospection_tt: "Přidává výrobu §Y4£resources_strip|5 §Y$state_resource_steel$§!, £resources_strip|6 §Y$state_resource_chromium$§!, £resources_strip|4 §Y$state_resource_tungsten$§! nebo £resources_strip|2 §Y$state_resource_aluminium$§! §!v každé domovské provincii, která již poskytuje jeden z těchto minerálů. \nAktuální efekt:"
  CHL_expand_southern_infrastructure: "Rozšířit jižní infrastrukturu"
  CHL_expand_southern_infrastructure_desc: "V dalekém jihu Chile téměř není žádná infrastruktura a vůbec žádné železniční tratě. Musíme proto vynaložit značné úsilí na propojení přístavních měst Punta Arenas a Punta Delgada na jihu železniční sítí."
  CHL_expand_the_agricultural_field: "Rozšířit zemědělskou oblast"

@@ -843,7 +843,7 @@
  AAT_finland_motti.01.a: "Buďte ostražití a připravte se k boji!"
  AAT_finland_motti.01.desc: "[FROM.GetAdjective] jednotky začaly uplatňovat motti taktiku v oblasti [FROM.FROM.GetName]. Motti taktika je ničivá metoda, při které [FROM.GetAdjective] síly obklíčí nepřátelské jednotky a odříznou jejich zásobování, čímž je vystavují útoku. To činí útočníky vysoce zranitelnými vůči [FROM.GetAdjective] ofenzívě, a musíme rychle zareagovat, abychom jim nedovolili získat převahu, pokud chceme proniknout do Finska."
  AAT_finland_motti.01.t: "[FROM.GetAdjective] motti taktika"
- AAT_finland_motti_tt: "\n§Od nynějška bude mít [FROM.GetNameDefCap] možnost připravovat motti taktiku i v jiných jádrových státech.§"
+ AAT_finland_motti_tt: "\n§Od nynějška bude mít [FROM.GetNameDefCap] možnost připravovat motti taktiku i v jiných domovských státech.§"
  AAT_finland_national_defense.01.a: "Zbytečné opatření."
  AAT_finland_national_defense.01.desc: "Naše zpravodajské služby hlásí, že finské zbraně jsou ukryty v [?FIN_state_with_weapon_caches.GetName]. Můžeme očekávat, že vojenské operace tam budou výrazně ztíženy, a musíme dávat pozor na agresivnější taktiku místního odporu. V závislosti na jejich vnímaném úspěchu těchto operací můžeme nalézt podobná překvapení i v jiných finských státech."
  AAT_finland_national_defense.01.t: "[FROM.FROM.GetAdjective] zbraně ve skladu v [?FIN_state_with_weapon_caches.GetName]"

@@ -263,7 +263,7 @@
  BEL_scars_of_ww1_dynamic_modifier_desc: "[BEL.GetName] velmi utrpěla ve Velké válce, byla bojištěm Západní fronty a stále nese její jizvy."
  BEL_scars_of_ww1_ns_fake: "$BEL_scars_of_ww1_dynamic_modifier$"
  BEL_scars_of_ww1_ns_fake_desc: "$BEL_scars_of_ww1_dynamic_modifier_desc$"
- BEL_secretaries_general_tt: "§YStátní kontrolor§! získá speciální §YZákon o okupaci§!, dostupný pouze v §Ybelgických jádrových státech§!"
+ BEL_secretaries_general_tt: "§YStátní kontrolor§! získá speciální §YZákon o okupaci§!, dostupný pouze v §Ybelgických domovských státech§!"
  BEL_social_partner_to_engine_tt: "Nahraďte §Y$BEL_social_partners_modifier$§! §Y$BEL_engine_of_the_economy_dynamic_modifier$§!."
  BEL_social_partners_dynamic_modifier: "Sociální partneři"
  BEL_social_partners_dynamic_modifier_desc: "[ROOT.GetName] spojila odbory a zástupce firem a vyjednala kompromisní dohodu, která zavedla mimo jiné minimální mzdu a šest dní placené dovolené."
