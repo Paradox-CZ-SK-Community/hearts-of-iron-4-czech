@@ -1,7 +1,7 @@
 ﻿l_polish:
  ABANDON_GAME: "Opustit hru"
  ACTIVATE_OBSERVER_MODE: "Aktivovat režim pozorovatele"
- BANNED: "Byli jste v této hře zabanován"
+ BANNED: "Byli jste v této hře zabanováni"
  CONNECTED: "§GPřipojeno.§!"
  CONNECTING: "Připojuji se..."
  CONNECTION_FAILED: "§RChyba připojení!§!"
@@ -182,4 +182,5 @@
  YOUBANNED_TITLE: "Zablokováni na serveru"
  YOUKICKED: "Byli jste vyhozeni hostitelem."
  YOUKICKED_TITLE: "Vyhozen ze serveru"
+
 
