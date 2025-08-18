@@ -1536,7 +1536,7 @@
  wuw_GER_diplomacy.71.desc: "Naši vládcové v [FROM.GetNameDef] nás právě informovali o restrukturalizaci naší současné dohody. Ve snaze sjednotit dělníky napříč zemí budeme požádáni o zpřístupnění větší části našeho průmyslu k užití ve prospěch našich lidí. Ačkoliv s tím nesouhlasíme, není prostor na stížnosti. Když nám nabídli pomoc, věděli jsme, že to může být cena."
  wuw_GER_diplomacy.71.t: "Zřízení Volkskomissariátu [ROOT.GetNonIdeologyName]"
  wuw_GER_diplomacy.72.a: "Nemáme důvod jim nedůvěřovat"
- wuw_GER_diplomacy.72.a_tt: "§Pokud komunističtí podporovatelé vyhrají občanskou válku, [FROM.GetNameWithFlag] se nás možná pokusí podrobit!§"
+ wuw_GER_diplomacy.72.a_tt: "§RPokud komunističtí podporovatelé vyhrají občanskou válku, [FROM.GetNameWithFlag] se nás možná pokusí podrobit!§!"
  wuw_GER_diplomacy.72.b: "Nechystáme na to skočit!"
  wuw_GER_diplomacy.72.desc: "Zjistili jsme, že v naší zemi působí [FROM.GetAdjective] buňky šířící komunismus. I když to samo o sobě není neškodné, zdá se část propagandy být revoluční. Častěji jsou hlášeny pokusy dělníků organizovat se a spojit se, a historie nás učí, že to nemusí být záměr [GER.GetAdjective] vedení nás integrovat."
  wuw_GER_diplomacy.72.t: "Komunistické vlivy z [FROM.GetNameDef]"

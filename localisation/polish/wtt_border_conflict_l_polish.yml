@@ -3,7 +3,7 @@
  WTT_border_conflict_escalate_conflict:0 "Eskalovat konflikt"
  WTT_border_conflict_escalate_to_war:0 "Eskalovat do války"
  WTT_border_conflict_escalation_warning_defender:0 "[From.From.GetName] a [From.GetNameDef] mají mezi sebou pohraniční incident"
- WTT_border_conflict_escalation_warning_defender_desc:0 "§Zachovejte divize v §H[From.From.GetName]§!\n§H[From.GetNameDef]§! může eskalovat na §HPohraniční konflikt§!§!."
+ WTT_border_conflict_escalation_warning_defender_desc:0 "§WZachovejte divize v §H[From.From.GetName]§!\n§H[From.GetNameDef]§! může eskalovat na §HPohraniční konflikt§!§!."
  WTT_border_conflict_incident_warning_defender:0 "Incident na hranici [From.From.GetName] s [From.GetNameDef]"
  WTT_border_conflict_incident_warning_defender_desc:0 "§WPřesuňte divize do §H[From.From.GetName]§!§!"
  WTT_border_conflict_initiate_incident:0 "Zahájit pohraniční incident v [From.From.GetName]"

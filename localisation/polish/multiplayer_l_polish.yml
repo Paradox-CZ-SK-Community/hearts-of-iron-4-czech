@@ -1,7 +1,7 @@
 ﻿l_polish:
  ABANDON_GAME: "Opustit hru"
  ACTIVATE_OBSERVER_MODE: "Aktivovat režim pozorovatele"
- BANNED: "Byli jste v této hře zabanováni"
+ BANNED: "Byli jste zablokován v této hře"
  CONNECTED: "§GPřipojeno.§!"
  CONNECTING: "Připojuji se..."
  CONNECTION_FAILED: "§RChyba připojení!§!"
@@ -149,7 +149,7 @@
  QUIT: "Ukončit"
  RADIO_TITLE: "Stanice"
  SAVE: "Uložit"
- SAVEGAME_LOADED: "§Nahráno§!"
+ SAVEGAME_LOADED: "§GNahráno§!"
  SAVE_PROG: "$VALUE|%0$"
  SERVER_BOOKMARK: "Záložka: $BOOKMARK$"
  SERVER_FRIENDS_ONLY: "Pouze přátelé"

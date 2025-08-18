@@ -47,7 +47,7 @@
  LOG_OUT: "Odhlásit se"
  MISSING_REQUIRED_FIELD: "§RChybí povinné pole§!"
  MODTOOLS: "Nástroje pro modování"
- MOD_CREATE_SUCCESS: "§UMod byl úspěšně vytvořen v §!$PATH$"
+ MOD_CREATE_SUCCESS: "§GMod byl úspěšně vytvořen v §!$PATH$"
  MOD_DETAILS: "Detaily:"
  MOD_DIRECTORY: "Adresář:"
  MOD_DIRECTORY_HELP: "Podadresář pro váš mod (bez mezer a lomítek)."

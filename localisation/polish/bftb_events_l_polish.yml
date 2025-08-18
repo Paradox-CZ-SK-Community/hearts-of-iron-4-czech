@@ -60,7 +60,7 @@
  GRE_increased_influence_tt: "Tím se zvýší náš vliv na §Y[FROM.GetAdjective]§! vládu."
  GRE_megali_idea_option_tt: "Pokud návrh projde, pak po kapitulaci §Y[TUR.GetNameDefCap]§! §Y[GRE.GetNameDefCap]§! anektuje §YIstanbul§! a ostatní §Y[TUR.GetAdjective]§! státy sousedící s §YAigeánským mořem§!. §RPokud Řecku bude Megali Idea odepřena, veškeré dosud přijaté návrhy jsou neplatné!§!"
  GRE_metaxist_monarchist_fascism_tt: "§YGeorge II§! zůstane králem a §YVelké Řecko§! bude dostupné jako formovatelný národ. \n£faction_gre_monarchist §YMonarchisté§! se stanou loajálními."
- GRE_no_turkey_needed: "Pomocí padělání a klamu potopíme §Vturecké§! vztahy s §Vfašistickými mocnostmi§!."
+ GRE_no_turkey_needed: "Pomocí padělání a klamu potopíme §Yturecké§! vztahy s §Yfašistickými mocnostmi§!."
  GRE_republican_monarchist_alliance_tt: "Monarchističtí generálové a ministři zůstanou k dispozici venezelistické vládě. \n£faction_gre_monarchist §YMonarchisté§! se stali §Gpřátelskými§!. \n£faction_gre_communist §YKomunisté§! se stanou §Rnepřátelskými§!."
  GRE_republican_national_socialism_tt: "§YGeorge II§! bude svržen z trůnu a budeme schopni naplnit §YDědictví Argeádů§!. \n£faction_gre_monarchist §YMonarchisté§! se stanou bezvýznamnými."
  GRE_republican_victory_tt: "£faction_gre_monarchist §YMonarchisté§! se stávají §YSvětlými§!. \n£faction_gre_communist §YKoministé§! se stávají §YSvětlými§!."

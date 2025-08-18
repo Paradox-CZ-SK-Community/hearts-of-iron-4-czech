@@ -42,7 +42,7 @@
  AIRBASE_PLANE_NOT_CARRIER:0 "§RJe možné převést na letadlovou loď pouze palubní letadla.§!"
  AIRBASE_REINFORCEMENT_PRIORITY_DESC:0 "§TPriorita leteckých základen určuje pořadí příletu záložních letadel na letecké základny.§!"
  AIRBASE_SUPPLY_PENALTY_DETAIL:0 "Letecká základna má nedostatek zásob: $PERC|%0=+$"
- AIRWING_ATTACHED:0 "§Připojená letka:§!"
+ AIRWING_ATTACHED:0 "§HPřipojená letka:§!"
  AIRWING_ATTACHED_MANUAL_ORDER_DESC:0 "Chystáte se odpojit tuto letku od armády. To odstraní její aktuální příkazy. Jste si jisti?"
  AIRWING_ATTACHED_MANUAL_ORDER_TITLE:0 "Odpojit letku od armády?"
  AIRWING_AVERAGE_STR:0 "Průměrná síla: $VALUE|%0H$"
