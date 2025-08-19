@@ -169,7 +169,7 @@
  COG_freedom_at_gunpoint_category: "Svoboda za běžných podmínek"
  COG_freedom_at_gunpoint_category_desc: "Naši sousedé zůstávají uvězněni pod jhem imperialistů. Je čas využít naše válečné zkušenosti a nově získanou ekonomickou sílu k osvobození Afriky jediným jazykem, kterému koloniální mocnosti rozumí, hrubou silou."
  COG_freedom_at_gunpoint_dynamic: "Osvobodit [FROM.GetNameDef] od [FROM.Capital.OWNER.GetNameDef]"
- COG_freedom_at_gunpoint_dynamic_tt: "Získat §YVosvobodit válečný cíl§! proti §Y[FROM.Capital.OWNER.GetName]§!"
+ COG_freedom_at_gunpoint_dynamic_tt: "Získat §YOsvobodit válečný cíl§! proti §Y[FROM.Capital.OWNER.GetName]§!"
  COG_freedom_at_gunpoint_offer_peace: "Nabídnout mír [FROM.Capital.OWNER.GetName] za nezávislost [FROM.GetAdjective]"
  COG_freedom_at_gunpoint_offer_peace_tt: "§Y[FROM.Capital.OWNER.GetName]§! bude nabídnut mír výměnou za vzdání se nároků na §Y[FROM.GetAdjective]§! území, která momentálně kontroluje §Y[THIS.GetName]§!.\n\n§R[ROOT.GetFlag][ROOT.GetNameDefCap] opustí jakoukoli frakci, jejíž je členem, pokud mír bude přijat a frakce je ve válce s [FROM.Capital.OWNER.GetFlag][FROM.Capital.OWNER.GetName]!§!\n\n§R[FROM.Capital.OWNER.GetFlag][FROM.Capital.OWNER.GetName] zváží nabídku míru pouze, pokud [ROOT.GetFlag][ROOT.GetName] kontroluje [FROM.GetAdjective] území!§!"
  COG_freedom_at_gunpoint_subject_decision: "Osvobodit [FROM.GetAdjective] lid"
