@@ -837,5 +837,3 @@ SWI_anti_fascist_drive_desc: "Ve [ROOT.GetName] není místo pro fašisty, jako�
 SWI_ousted_councilor: "Byl odvolán z rady"
 SWI_decision_cost_medium_MR: "£GFX_SWI_military_readiness_text_icon  [?ROOT.SWI_mr_medium_amount]"
 ITA_italian_ljubljana_name: "Lubiana"
-
-
