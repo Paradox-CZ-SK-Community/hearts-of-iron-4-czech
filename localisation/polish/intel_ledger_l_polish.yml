@@ -165,7 +165,7 @@
  INTEL_THRESHOLD_UNLOCKED_LIMIT:0 "£trigger_yes£Při $LIMIT|.0%H$:\n"
  INTEL_YESTERDAY_INFO:0 "(Změna dnes: $CHANGE|+.2%%$)"
  LEDGER_CHART_DAMAGED_BOMBERS:0 "§RZtracené bombardéry:§! $NUM|H$ (do dnešního dne $UNTIL_TODAY|H$)"
- LEDGER_CHART_DAMAGED_CONVOYS:0 "§Ztracené konvoje:§! $NUM|H$ (do dnešního dne $UNTIL_TODAY|H$)"
+ LEDGER_CHART_DAMAGED_CONVOYS:0 "§RZtracené konvoje:§! $NUM|H$ (do dnešního dne $UNTIL_TODAY|H$)"
  LEDGER_CHART_DAMAGED_FACTORY:0 "§RPoškozené továrny:§! $NUM|H$"
  LEDGER_CHART_PRODUCED_BOMBERS:0 "§GVyrobené bombardéry:§! $NUM|H$ (do dnešního dne $UNTIL_TODAY|H$)"
  LEDGER_CHART_PRODUCED_CONVOYS:0 "§GVyrobené konvoje:§! $NUM|H$ (do dnešního dne $UNTIL_TODAY|H$)"

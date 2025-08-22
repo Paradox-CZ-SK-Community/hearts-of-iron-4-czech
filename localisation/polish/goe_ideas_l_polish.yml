@@ -98,7 +98,7 @@
  IRQ_anglo_iraqi_treaty_desc: "Ačkoliv byla v roce 1930 přenegociována, anglo-irácká smlouva zůstává jednostrannou dohodou, která činí Irák fakticky klientským státem Britského impéria. Smlouva dává Britům přednostní práva na zásoby ropy a umožňuje jim využívat vojenské zařízení po celé zemi. To stále vyvolává masivní nespokojenost mezi iráckým lidem, který touží po skutečné nezávislosti. Jakákoliv vláda, která se dostane k moci, se bude muset rozhodnout, zda smlouvu opět přenegociovat, nebo ji roztrhat a riskovat hněv britské armády."
  IRQ_agrarian_society: "Zemědělská společnost"
  IRQ_agrarian_society_desc: "Průmysl Iráku se točí kolem zemědělství a konzervativní vedení v regionu nemá zájem o rozvoj a industrializaci země. Bude třeba věnovat čas a úsilí k řešení problémů ve státě."
- IRQ_agrarian_society_modifier_level_down_tt: "§Snížení§! účinků $IRQ_agrarian_society$"
+ IRQ_agrarian_society_modifier_level_down_tt: "§GSnížení§! účinků $IRQ_agrarian_society$"
  IRQ_iraq_currency_board_idea: "[ROOT.GetName] měnová rada"
  IRQ_iraq_currency_board_idea_desc: "$IRQ_decouple_from_the_pound_desc$"
  IRQ_strenghtened_the_dinar: "Posílení dináru"
