@@ -53,7 +53,7 @@
  FACILITY_BUILDINGS: "Experimentální zařízení"
  FACILITY_FILTER_PROGRAM_SPECIALIZATION: "§GKlikněte§! pro filtr vlastněných zařízení na $SPECIALIZATION|Y$\n§GShift-Klik§! přidat do filtru"
  FACILITY_OVERVIEW_TITLE: "Dostupné projekty"
- FACILITY_OWNED_TITLE: "Vlastněná zařízení:"
+ FACILITY_OWNED_TITLE: "Naše zařízení:"
  FACILITY_WITH_SPECIALIZATION_MISSING: "§RChybí $SPECIALIZATION|Y$ zařízení§!"
  FILTER_ON_SPECIALIZATION_TOOLTIP: "§GKlikněte§! pro filtr na $SPECIALIZATION|Y$\n§GShift-Klik§! pro přidání do filtru\n\n$PROJECT_COUNT|Y$ projektů dostupných se specializací"
  FRA_sp_naval_nuclear_missile_submarine: "Ponorka třídy Triomphant"
