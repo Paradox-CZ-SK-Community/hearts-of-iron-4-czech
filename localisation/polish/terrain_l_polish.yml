@@ -1,8 +1,8 @@
 ﻿l_polish:
  MOVEMENT_COST:0 "Náklady na pohyb v tomto typu terénu x$VALUE|H$"
  TERRAIN_ADDITIONAL_WIDTH:0 "Šířka boje na dodatečný směr: $VALUE|=0Y$"
- TERRAIN_COMBAT_WIDTH:0 "Šířka boje: $VALUE|0Y$"
- TERRAIN_COMBAT_WIDTH_COMB:0 "Šířka boje: $VALUE|0Y$ (Dodatečné útoky: $ADD|0Y$)"
+ TERRAIN_COMBAT_WIDTH:0 "Šířka bojiště: $VALUE|0Y$"
+ TERRAIN_COMBAT_WIDTH_COMB:0 "Šířka bojiště: $VALUE|0Y$ (Dodatečné útoky: $ADD|0Y$)"
  UNIT_TERRAIN_MODIFIER:0 "Účinky jednotky:"
  desert:0 "Poušť"
  desert_desc:0 ""
