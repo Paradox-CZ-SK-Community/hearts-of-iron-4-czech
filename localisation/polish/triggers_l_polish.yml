@@ -957,7 +957,6 @@
  can_unlock_new_special_forces_tree_none: "£trigger_yes §HZaměření větve§! zbývá: §H1§!"
  controls_or_subject_of_tt_NOT: "§YNE§!ovládá ho §Y[ROOT.GetFlag] [ROOT.GetNameDef]§! ani jeho §Yzávislé území§!\n"
  controls_or_subject_of_tt: "Ovládá ho §Y[ROOT.GetFlag] [ROOT.GetNameDef]§! nebo jeho §Yzávislé území§!\n"
-
  french_communist_civil_war_intervention_tt: "Platí oboje:\n    Ve válce\n    Nezasahuje aktivně ve španělské občanské válce"
  has_same_ideology_tt: "Má stejnou §Yideologii§! jako §Y[ROOT.GetFlag] [ROOT.GetNameDef]§!\n"
  has_same_ideology_tt_NOT: "NEMÁ stejnou §Yideologii§! jako §Y[ROOT.GetFlag] [ROOT.GetNameDef]§!\n"
@@ -967,3 +966,4 @@
  owns_or_subject_of_tt: "vlastní ho §Y[ROOT.GetFlag] [ROOT.GetNameDef]§! nebo jeho §Yzávislé území§!\n"
  owns_or_subject_of_tt_NOT: "§YNE§!vlastní ho §Y[ROOT.GetFlag] [ROOT.GetNameDef]§! nebo jeho §Yzávislé území§!\n"
  trade_partner_not_at_war_tt: "§Y[ROOT.GetNameWithFlag]§! nemůže nakupovat nebo prodávat zbraně zemím ve válce"
+ 
