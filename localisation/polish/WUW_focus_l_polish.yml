@@ -1529,6 +1529,9 @@
  GER_army_indoctrination_desc: "Úplatky a finanční pobídky fungují dobře na naše vyšší důstojníky a vybrané osoby uvnitř Wehrmachtu. Na běžného vojáka se však na úplatky spoléhat nemůžeme, jinak se naše ekonomika zhroutí. Indoktrinace prostřednictvím propagandy, aby plně souhlasili s našimi rozhodnutími, může být rozumnější cestou."
  GER_artillery_bombardment: "Dělostřelecká palba"
  GER_artillery_bombardment_desc: "Pěchota je páteří naší armády a aby vynikla, potřebuje správnou podporu. Musíme značně investovat do dělostřelectva, aby naše pěchota mohla využít každé výhody a porazit každého nepřítele před sebou."
+ GER_ascended_advisor_1_name_text: "§Y[GetAscendedAdvisorName1]§!"
+ GER_ascended_advisor_2_name_text: "§Y[GetAscendedAdvisorName2]§!"
+ GER_ascended_advisor_3_name_text: "§Y[GetAscendedAdvisorName3]§!
  GER_ascended_character_trait_swap_tt: "§Y$CHARACTER$§! stoupá v rámci §YVnitřního kruhu§!:"
  GER_ascension_of_character_focus_tt: "§Y$CHARACTER$§! postupně začne pracovat na zaměřeních ve své větvi."
  GER_ascension_of_character_tt: "§Y$CHARACTER$§! je jmenován §YReichsleiterem§! a stoupá v rámci §YVnitřního kruhu§! jako:"
