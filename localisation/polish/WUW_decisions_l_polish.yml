@@ -570,7 +570,7 @@
  GER_unlock_seize_gold_reserves_tt: "Odemkne rozhodnutí: §Y$GER_seize_gold_reserves_cat$§!, které může snížit §Y$MODIFIER_CONSUMER_GOODS_FACTOR$§! po kapitulaci jiné země"
  GER_volkskommissariat_industrial_effort_decision: "Průmyslové snahy v [FROM.GetNameDef]"
  GER_volkskommissariats_cat: "Lidové komisariáty"
- GER_volkskommissariats_cat_desc: "Musíme zabezpečit Rudou revoluci a proletariát vytvořením nové formy protektorátu, lidového komisariátu. Díky spolupráci a investicím tyto satelitní státy vzkvétají a my s nimi, a Proletariát bude prosperovat."
+ GER_volkskommissariats_cat_desc: "Musíme zabezpečit Rudou revoluci a proletariát vytvořením nové formy protektorátu, lidového komisariátu. Díky spolupráci a investicím tyto satelitní státy vzkvétají, a my s nimi také. Proletariát bude prosperovat."
  GER_waning_patience_within_the_kriegsmarine_cat: "Klesající trpělivost v Kriegsmarine"
  GER_waning_patience_within_the_kriegsmarine_cat_desc: "Abychom získali loajalitu admirála Ericha Raedera a Kriegsmarine, slíbili jsme jim ústupky a investice do velké námořní síly. Pokud nesplníme své sliby, je pravděpodobné, že vezmou věci do vlastních rukou..."
  GER_weltpolitik_cat: "[GetColonialDecisionName]"
