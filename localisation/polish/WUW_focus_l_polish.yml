@@ -2347,7 +2347,7 @@
  GER_total_control_over_domestic_affairs_chancellors_tt: "Na základě jmenovaného kancléře strany v rámci §YVnitřního kruhu§!:"
  GER_total_control_over_domestic_affairs_desc: "Vyhlídka na to, že bychom zcela předali správu vnitřních záležitostí do rukou stranického kancléře, může působit troufale. Führer si je však jistý. Úkoly, které doposud plnil, zvládl nad očekávání dobře, a [ROOT.GetLeader] se cítí klidný, když to může nechat na něm a sám se soustředit na důležitější věci."
  GER_totaler_krieg: "Totální válka"
- GER_totaler_krieg_desc: "Chceme-li dosáhnout úplného vítězství, musíme zmobilizovat celou společnost a přinést nepříteli válku až na jeho práh. Je čas, aby [ROOT.GetNameDef] povstal - a nechal rozpoutat bouři!"
+ GER_totaler_krieg_desc: "Chceme-li dosáhnout úplného vítězství, musíme zmobilizovat celou společnost a přinést nepříteli válku až na jeho práh. [ROOT.GetNameDef] musí povstat - a rozpoutat bouři!"
  GER_trade_agreements: "Obchodní dohody"
  GER_trade_agreements_desc: "Mitteleuropa není jen vojenská aliance, ale také svazek, který má zlepšit obchodní vztahy a hospodářskou spolupráci. Měli bychom zdůraznit tuto roli a využít ji k navázání vztahů s těmi, kdo oplývají přírodními zdroji."
  GER_trade_agreements_tt: "Všichni spojenci obdrží §Ynárodní duch§!:"
