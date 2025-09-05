@@ -13,7 +13,7 @@
  ETH_Education_reform_decentralized_BoP: "Decentralizované reformy vzdělávání"
  ETH_anti_colonialism_category_desc: "Uděláme vše, co je v našich silách, abychom podpořili hnutí odporu v celém regionu, dokud nebude utrpení imperialismu konečně odstraněno."
  ETH_anti_colonialism_category: "Antikolonialismus"
- ETH_anti_colonialism_decision_desc: "[FROM.GetAdjective] imperialismus v Africe musí skončit. Svět se musí probudit a uvědomit si, že dny [FROM.GetAdjective] kolonialismu jsou pryč. Lidé z [FROM.GetNameDef] musí vyvíjet tlak na své vůdce, aby propustili své potlačované africké kolonie."
+ ETH_anti_colonialism_decision_desc: "[FROM.GetAdjectiveCap] imperialismus v Africe musí skončit. Svět se musí probudit a uvědomit si, že dny [FROM.GetAdjective] kolonialismu jsou pryč. Lidé z [FROM.GetNameDef] musí vyvíjet tlak na své vůdce, aby propustili své potlačované africké kolonie."
  ETH_anti_colonialism_decision: "Antipropaganda proti [FROM.GetAdjective]"
  ETH_anti_colonialism_map_category_name: "Koloniální státy, kde lze podporovat odpor"
  ETH_arm_resistance_decision_desc: "Ozbrojte bojovníky odporu v tomto státě."

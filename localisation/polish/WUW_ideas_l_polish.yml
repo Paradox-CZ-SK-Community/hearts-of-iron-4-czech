@@ -478,7 +478,7 @@
  GER_german_exploitation: "Německé vykořisťování"
  GER_german_influence: "Německý vliv"
  GER_german_trade_ns: "Německý obchod"
- GER_german_trade_offshore_tt: "([ROOT.GetFlag]§Y[ROOT.GetNameDefCap]§!) Přidá §G1§! offmap §Y$industrial_complex$§!."
+ GER_german_trade_offshore_tt: "([ROOT.GetFlag]§Y[ROOT.GetNameDefCap]§!) Přidá §G1§! mimo-mapovou §Y$industrial_complex$§!"
  GER_german_trade_opinion: "Německé obchodní vztahy"
  GER_gestapo_ns: "Gestapo"
  GER_goebbels_reich_minister_of_propaganda: "Říšský ministr propagandy"

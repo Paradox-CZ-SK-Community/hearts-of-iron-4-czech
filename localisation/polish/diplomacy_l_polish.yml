@@ -469,7 +469,7 @@
  DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_MILACC: "\n§Y$COUNTRY|U$§! §Rzamítlo§! naši žádost o vojenský přístup!"
  DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_NONAGGRESSIONPACT: "\nNaše nabídka vstupu do paktu o neútočení byla §Rodmítnuta§! §Y$COUNTRY$§!.\n\nTo může znamenat, že plánují útok."
  DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_OFFER_DOCKING_RIGHTS: "\n§Y$COUNTRY|U$§! §Rodmítla§! naši nabídku práv kotvení!"
- DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_OFFER_JOIN_FACTION: "\n§Y$COUNTRY|U$§! §Rodmítlo§! naši nabídku připojit se k naší frakci.\n\nBudou se hroutit sami."
+ DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_OFFER_JOIN_FACTION: "\n§Y$COUNTRY|U$§! §Rodmítlo§! naši nabídku připojit se k naší frakci.\n\nTak se rozhodli, že padnou osamotě."
  DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_PEACE_PROPOSAL: "\n§Y$COUNTRY|U$§! §Rodmítlo§! naši nabídku míru.\n\nVálka pokračuje."
  DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_REQUEST_FOREIGN_MANPOWER: "$COUNTRY|UY$ §Rodmítlo§! naši žádost o podporu posádek."
  DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_REQUEST_LICENSED_PRODUCTION: "Naše žádost o licenci na výrobu byla §Rzamítnuta§! §Y$COUNTRY$§!."

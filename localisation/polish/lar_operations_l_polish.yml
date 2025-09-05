@@ -250,7 +250,7 @@
  operation_steal_tech_civilian: "Ukrást průmyslové plány"
  operation_steal_tech_civilian_desc: "§LZdá se, že naše průmyslová základna zaostává za [From.GetNameDef] v několika oblastech. S trochou mazanosti a lstí bychom mohli tento rozdíl výrazně snížit.§!"
  operation_steal_tech_navy: "Ukrást námořní plány"
- operation_steal_tech_navy_desc: "§LJsou zprávy, že [From.GetAdjective] jsou před námi v některých oblastech lodního inženýrství. Možná bychom byli schopni část této technologie získat a využít k reverznímu inženýrství.§!"
+ operation_steal_tech_navy_desc: "§LJsou zprávy, že [From.GetNameDef] je před námi v některých oblastech lodního inženýrství. Možná bychom byli schopni část této technologie získat a využít k reverznímu inženýrství.§!"
  operation_targeted_sabotage_industry: "Sabotáž průmyslu"
  operation_targeted_sabotage_industry_desc: "§LOdboj na nepřátelském území žádá podporu při vyřazení místního průmyslového závodu.§!"
  operation_targeted_sabotage_infrastructure: "Sabotáž infrastruktury"
