@@ -151,7 +151,7 @@
  COG_anti_colonialism_category: "Antikoloniální politika"
  COG_anti_colonialism_category_desc: "Uděláme vše pro podporu odbojových hnutí v celém regionu, dokud nebude konečně odstraněno zlo imperialismu."
  COG_anti_colonialism_decision: "Anti-[FROM.GetAdjective] propaganda"
- COG_anti_colonialism_decision_desc: "[FROM.GetAdjective] imperialismus v Africe musí skončit. Svět se musí probudit a uvědomit si, že dny [FROM.GetAdjective] kolonialismu jsou za námi. Lidé [FROM.GetNameDef] musí tlačit na své vůdce, aby prohlásili své potlačované africké kolonie za svobodné."
+ COG_anti_colonialism_decision_desc: "[FROM.GetAdjectiveCap] imperialismus v Africe musí skončit. Svět se musí probudit a uvědomit si, že dny [FROM.GetAdjective] kolonialismu jsou za námi. Lidé [FROM.GetNameDef] musí tlačit na své vůdce, aby prohlásili své potlačované africké kolonie za svobodné."
  COG_anti_colonialism_map_category_name: "Koloniální státy, kde lze podporovat odpor"
  COG_arm_resistance_decision: "Vyznamenat anti-[FROM.OWNER.GetAdjective] odpor v [FROM.GetName]"
  COG_arm_resistance_decision_desc: "Vyznamenat bojovníky odporu v tomto státě."

@@ -1763,7 +1763,7 @@
  DEN_devalue_the_krone: "Devalvovat korunu"
  DEN_devalue_the_krone_desc: "Devalvací koruny by naše zemědělské produkty byly na mezinárodním trhu konkurenceschopnější a zlepšily by se exportní příležitosti, což by naopak ulehčilo trpícím farmářům."
  DEN_remove_economic_crisis_in_730_days_tt: "§Y$DEN_economic_crisis_dynamic_modifier$§! bude odstraněn za 730 dní"
- war_will_cancel_deal_tt: "§YOvá válka mezi našimi zeměmi tuto dohodu zruší§!"
+ war_will_cancel_deal_tt: "§YVálka mezi našimi zeměmi tuto dohodu zruší.§!"
  DEN_effects_after_fortify_our_borders_tt: "Dokončeno zaměření §Y$DEN_fortify_our_borders$§!:"
  DEN_trade_with_britain: "Obchodovat s Británií"
  DEN_trade_with_britain_desc: "[ENG.GetNameDefCap] byla historicky naším největším exportním trhem pro zemědělské produkty, ale po Velké depresi tento obchod téměř ustal. S devalvací koruny je čas oslovit Brity a pokusit se obnovit naše bývalé obchodní vztahy."
