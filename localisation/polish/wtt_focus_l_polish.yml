@@ -54,7 +54,7 @@
  CHI_control_yuan_desc:0 "Korupce je v každé vládě nevyhnutelná. Účinné vládnutí však vyžaduje snahu ji udržet pod kontrolou. Zřídíme proto samostatnou mocenskou složku, rovnocennou zákonodárné, výkonné a soudní moci."
  CHI_cooperation_with_the_communists:0 "Spolupráce s komunisty"
  CHI_cooperation_with_the_communists_desc:1 "KMT se pokusil vybudovat moderní stát, ale neuspěl. Země je rozdělená více než kdy jindy, rolníci žijí ve strachu z vlády, korupce bují na všech úrovních státní správy a japonští imperialisté se nacházejí hned za hranicemi. Možná je komunismus lepší vizí budoucnosti."
- CHI_cooperation_with_the_communists_effect_tooltip:0 "Vojevůdcii, kteří se postavili na stranu nacionalistů, mohou začít s námi §Hpohraniční konflikty§! jako odpověď.\n"
+ CHI_cooperation_with_the_communists_effect_tooltip:0 "Vojevůdci, kteří se postavili na stranu nacionalistů, mohou začít s námi §Hpohraniční konflikty§! jako odpověď.\n"
  CHI_cooperation_with_the_nationalists:0 "Spolupráce s nacionalisty"
  CHI_cooperation_with_the_nationalists_desc:1 "Nacionalisté nabízejí nejlepší šanci na sjednocení země a poražení Japonců. Měli bychom zajistit, aby nás nepovažovali za hrozbu."
  CHI_cooperation_with_the_nationalists_effect_tooltip:0 "[WTT_communist_china.GetNameDefCap] a vojevůdci, kteří se postavili na stranu komunistů, mohou začít s námi §Hpohraniční konflikty§! jako odpověď."
