@@ -316,7 +316,7 @@
  NAME_THEME_WEAPONS: "Zbraně"
  NAME_THEME_WEATHER: "Počasí"
  NAVAL_DIRECTORY: "Modul lodi"
- NAVAL_ROLE_SELECT_DESC: "Zde můžete klasifikovat své návrhy, abyste je uspořádali a umožnili specifická nastavení posílení ve složeních vašich úkolových sil."
+ NAVAL_ROLE_SELECT_DESC: "Zde můžete klasifikovat své návrhy, abyste je uspořádali a umožnili specifická nastavení posílení ve složeních vašich úderných skupin."
  NEW_EQUIPMENT_NOW_ALLOWED: "Použití nového vybavení je nyní povoleno\n"
  NEW_EQUIPMENT_NOW_FORBIDDEN: "Použití nového vybavení je nyní zakázáno\n"
  NO_INTERSECTED_EQUIPMENT_DESC: "Tato modifikace způsobí §RDISBAND§! existujících divizí s touto šablonou. Mezi upravenou a původní šablonou není žádný průnik vybavení."
