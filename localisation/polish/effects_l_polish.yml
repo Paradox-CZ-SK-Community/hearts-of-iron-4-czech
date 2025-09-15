@@ -96,7 +96,7 @@
  EFFECT_ADD_UNITS_TO_DIVISION_TEMPLATE: "Přidává jednotky do šablony $TEMPLATE_NAME|Y$ v $COUNTRY|Y$"
  EFFECT_ADD_UNIT_LEADER_TRAIT: "Získává $TRAITNAME|Y$\n$TRAITMODIFIER$"
  EFFECT_ADD_UNIT_LEADER_TRAIT_WITH_DURATION: "Získává $TRAITNAME|H$ na $NUMDAYS|H$ dní.\n$TRAITMODIFIER$"
- EFFECT_ADD_VP: "Přidat $VALUE|H$£victory_points£ do $PROVINCE|H$"
+ EFFECT_ADD_VP: "Přidat $VALUE|H$£victory_points£ do $PROVINCE|H$ "
  EFFECT_ADD_WAR_SUPPORT: "Získává základní váleční podporu: $VAL|+=%$."
  EFFECT_ANNEX_COUNTRY: "§Y$NAME|U$§! anektuje §Y$TARGET$§!."
  EFFECT_ASSIGN_ADVISOR: "Jmenovat poradce $NAME|H$ s efektem\n$DESC$\n"

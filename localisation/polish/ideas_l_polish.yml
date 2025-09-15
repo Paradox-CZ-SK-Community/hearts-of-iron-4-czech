@@ -2497,7 +2497,7 @@
  omar_bradley: "Omar Bradley"
  opel: "Opel"
  ordnance_factories_board: "Rada vojenských továren"
- organization_of_african_unity_member_idea: "Člen Organizace africké jednoty"
+ organization_of_african_unity_member_idea: "Člen $ETH_organization_of_african_unity_faction$"
  osaka_army_arsenal: "Osaka Army Arsenal"
  osami_nagano: "Osami Nagano"
  otto_ciliax: "Otto Ciliax"
