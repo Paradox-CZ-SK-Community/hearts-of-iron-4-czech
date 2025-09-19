@@ -546,7 +546,7 @@
  INDUSTRIAL_ORG_TOOLTIP_CLICK_TO_CHANGE: "§GKlepněte§! pro změnu."
  INDUSTRIAL_ORG_TOOLTIP_HEADER: "§YVojenská průmyslová organizace§!"
  INDUSTRIAL_ORG_TOOLTIP_IS_LICENSED: "§RLicencované zařízení není způsobilé§!"
- INDUSTRIAL_ORG_TOOLTIP_NO_RELEVANT_ORGANISATION: "§Rnemaáte žádnou vhodnou organizaci§! k přiřazení k tomuto typu zařízení."
+ INDUSTRIAL_ORG_TOOLTIP_NO_RELEVANT_ORGANISATION: "§Rnemáte žádnou vhodnou organizaci§! k přiřazení k tomuto typu zařízení."
  INDUSTRIAL_ORG_TOOLTIP_NO_UPGRADE_ALREADY_ASSIGNED_MIO: "Na toto zařízení nebyly použitelné žádné nové vlastnosti. Není třeba upgradovat."
  INDUSTRIAL_ORG_TOOLTIP_PRODUCTION_TASK_INFO: "Přiřazení §Yvojenské průmyslové organizace§! k výrobní lince aplikuje bonusy výroby na tuto linku."
  INDUSTRIAL_ORG_TOOLTIP_RESEARCH_TASK_INFO: "Přiřazení §Yvojenské průmyslové organizace§! k výzkumnému úkolu zvýší rychlost výzkumu a může aplikovat specifické bonusy zařízení."

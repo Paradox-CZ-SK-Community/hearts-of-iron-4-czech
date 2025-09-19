@@ -160,7 +160,7 @@
  COMBAT_LOG_OVERRUN_DESC:0 "§HZničení při ústupu§! znamená úplné zničení divize. Dojde k němu, když se divize stahuje do provincie, která je následně obsazena nepřítelem."
  COMBAT_LOG_PERIOD_DESC:1 "Data za $TIME$"
  COMBAT_LOG_RATIO:0 "$RATIO|%0$"
- COMBAT_LOG_RECOVERED:0 "§HZotaveno§!"
+ COMBAT_LOG_RECOVERED:0 "§HZískáno§!"
  COMBAT_LOG_TAB_COMBAT:0 "Boj"
  COMBAT_LOG_TAB_EQUIPMENT:0 "Vybavení"
  COMBAT_LOG_TAB_TEMPLATE:0 "Šabl. divizí"
