@@ -11,7 +11,7 @@
  PRC_provoke_japan_korea: "Korej"
  PRC_provoke_japan_manchuria: "Mandžusko"
  SOV_GREAT_RED_MENACE_EVENT_DESC_1_COMMUNIST: "[SOV.GetNameDef] je a byl největší hrozbou pro stabilitu Evropy od svého vzniku před dvěma desetiletími"
- SOV_GREAT_RED_MENACE_EVENT_DESC_1_EXILES: "[SOV.GetAdjective] imperialismus je a byl po celou nedávnou historii hlavní hrozbou pro stabilitu Evropy"
+ SOV_GREAT_RED_MENACE_EVENT_DESC_1_EXILES: "[SOV.GetAdjectiveCap] imperialismus je a byl po celou nedávnou historii hlavní hrozbou pro stabilitu Evropy"
  SOV_GREAT_RED_MENACE_EVENT_DESC_2_COMMUNIST: "hrozba komunismu"
  SOV_GREAT_RED_MENACE_EVENT_DESC_2_EXILES: "tato hrozba z Východu"
  attache_communism_tt: "Kvůli množství §Ykomunistické§! podpory v naší zemi bude mít následující efekt:\n"
