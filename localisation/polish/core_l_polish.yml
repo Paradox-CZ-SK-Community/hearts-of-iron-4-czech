@@ -1991,7 +1991,7 @@
  Wednesday: "Středa"
  WEEKLY_CHANGE_NUM: "(Týdně: $NUM|+%.2$)"
  WEEKLY_FROM_OTHER_SOURCES: "\n§HZískáváme také§!:\nTýdenní síly: $VALUE|G$"
- WHEN_FOCUS_COMPLETED: "a když je dokončen:\n"
+ WHEN_FOCUS_COMPLETED: " a když je dokončen:\n"
  WILL_BE_REMOVED: "Zbývající dny: $NUM|H$"
  WING_AIR_SUPPLY_CAPABILITY: "Kapacita leteckého zásobování: $VAL|+=$"
  WITHDRAW_SPEED_MODIFIER: "Stahování: $VALUE|+=%$"
