@@ -138,7 +138,7 @@
  CHI_influence_mongolia_desc:0 "Mongolsko jako nárazníkový stát mezi námi a Ruskem zajistí naše severní křídlo. Musíme jen zajistit, aby se o sebe dokázalo postarat samo."
  CHI_institute_cross_border_raids:0 "Zavést přeshraniční nájezdy"
  CHI_institute_cross_border_raids_desc:0 "Nebudeme bráni jako seriózní nezávislý uchazeč v boji o čínské vůdcovství, pokud světu neprokážeme, že jsme schopni a ochotni bojovat za svou zemi. Několik malých vpádů ukáže naše odhodlání a mohlo by nám umožnit zmocnit se některých nebráněných území."
- CHI_institute_cross_border_raids_effect_tooltip:0 "Odemkne £decision_icon_small §Hrozhhodnutí§! k zahájení §Hpohraničních konfliktů§! s militaristama a [WTT_communist_china.GetNameDef]\n"
+ CHI_institute_cross_border_raids_effect_tooltip:0 "Odemkne £decision_icon_small §Hrozhodnutí§! k zahájení §Hpohraničních konfliktů§! s militaristama a [WTT_communist_china.GetNameDef]\n"
  CHI_integrate_tibet:0 "Integrace Tibetu"
  CHI_integrate_tibet_desc:0 "Experiment tibetské nezávislosti skončil. Vojenská invaze je jednou z možností, ale měli bychom se pokusit přivést je zpět do svazku mírovou cestou."
  CHI_inter_party_coordination_council:0 "Mezistranická koordinační rada"
