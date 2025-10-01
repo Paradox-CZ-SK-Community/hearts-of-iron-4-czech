@@ -632,7 +632,7 @@
  DOD_romania.111.t: "[GER.GetLeader] přijímá"
  DOD_romania.111.desc: "Německá vláda schválila náš návrh smlouvy i navržené demarkační linie. Zbývá už jen zaslat ultimátum do Prahy."
  DOD_romania.111.a: "Pošleme nótu."
- DOD_romania.113.t: "[GER.GetLeader] odmítá" # tu som skončil „[CZE.GetNameDef]“
+ DOD_romania.113.t: "[GER.GetLeader] odmítá"
  DOD_romania.113.desc: "Na schůzce s našim velvyslancem [GER.GetLeader] rozhořčené odmítl na téma „[CZE.GetNameDef]“ cokoliv  probírat či vyjednávat. Německá vláda považuje tuto zemi za plně ve své sféře vlivu a varovala, že jakýkoli zásah by byl proti výslovné vůli, kterou sdělil [GER.GetLeader]."
  DOD_romania.113.a: "Je čas přehodnotit přístup."
  DOD_romania.113.b: "Udeříme sami."
@@ -707,7 +707,7 @@
  DOD_yugoslavia.36.desc: "Přestože jsme je znovu a znovu nutili, aby si vybrali stranu, [YUG.GetLeader] se pořád drží představy, že Jugoslávie může tento konflikt přečkat jako neutrální země. Teď musí čelit důsledkům své zbabělosti."
  DOD_yugoslavia.36.a: "Kdo není s námi, je proti nám!"
  DOD_yugoslavia.36.b: "Jsou a navždy zůstanou irelevantní."
- DOD_yugoslavia.40.desc: "Jugoslávie je klíčovým prvkem naší nové balkánské strategie. Dosud se držela stranou, obchodovala s Německem, ale zdaleka se nepřipojila k Osě. Měli bychom jí připomenout, že v případě vypuknutí války nebudeme tolerovat obchodování s nepřítelem."
+ DOD_yugoslavia.40.desc: "Jugoslávie je klíčovým prvkem naší nové balkánské strategie. Dosud se držela stranou, obchodovala s Německem, ale zdaleka se nepřipojila k Ose. Měli bychom jí připomenout, že v případě vypuknutí války nebudeme tolerovat obchodování s nepřítelem."
  DOD_yugoslavia.40.a: "Pošlete jim vzkaz."
  DOD_yugoslavia.40.b: "Nemůžeme zasahovat do záležitostí jiné země."
  DOD_yugoslavia.41.t: "Britský nátlak"
@@ -785,7 +785,7 @@
  DOD_yugoslavia.702.desc: "[YUG.GetAdjectiveCap] vláda se dnes připojila k fašistickým mocnostem podpisem Paktu tří. Ač to ještě neznamená, že [YUG.GetNameDef] vstoupila do frakce [From.GetFactionName], ukazuje to rostoucí sblížení obou států a to, že [YUG.GetLeader] může mít pro fašismus pochopení. Mnozí očekávají [Root.GetAdjective] reakci na tento znepokojivý vývoj, ale [Root.GetLeader] zatím mlčí..."
  DOD_yugoslavia.702.a: "[YUG.GetLeader] je nelegitimní zbabělec!"
  DOD_yugoslavia.702.b: "Nevidím důvod se starat."
- DOD_yugoslavia.80.t: "Zara za spojenectví" # tu som skončil
+ DOD_yugoslavia.80.t: "Zara za spojenectví"
  DOD_yugoslavia.80.desc: "[From.GetLeader] dnes oznámil, že [From.GetNameDef] je ochotná se s [Root.GetNameDef] sblížit a oficiálně vstoupit do frakce [Root.GetFactionName], ale pouze výměnou za náš odchod z Balkánu v podobě vzdání se kontroly nad [163.GetName]."
  DOD_yugoslavia.80.a: "Zní to fér."
  DOD_yugoslavia.80.b: "Ať raději odevzdají [103.GetName]."
@@ -881,7 +881,7 @@
  DOD_romania.999.desc: "Mimořádně opilý a plný emocí král Carol II. dnes ovládl strategickou schůzi a upoutal pozornost všech přítomných „brilantním“ nápadem, který mu přišel na mysl předchozí noc. \n\nKrál, který byl v jádru opravdovým romantikem, se slzami v očích prohlásil, že si přeje, aby ženy v jeho životě věděly, jak intenzivní a opravdovou lásku k nim cítí. V dlouhém, byť poněkud nezřetelném monologu oslovil náčelníky štábu a členy kabinetu a apeloval na jejich nejcitlivější a nejupřímnější city, aby nakonec slavnostně vyzval k přejmenování dvou velkých měst nepřítele na počest toho nejvznešenějšího a nejhlubšího pocitu, jaký člověk zná - lásky. n\nKrál se zjevně zcela upnul na tuto myšlenku a je velmi nepravděpodobné, že by se dal snadno přesvědčit, pokud bychom ho chtěli odradit."
  DOD_romania.a: "Je to skutečně z nebe seslaný génius!"
  DOD_romania.b: "Místo toho uspořádejte večírek, a to pořádně velký."
- DOD_romania.16.t: "[FROM.GetNameDefCap] chce vstoupit do frakce [ROOT.GetFactionName]" # tu som skončil
+ DOD_romania.16.t: "[FROM.GetNameDefCap] chce vstoupit do frakce [ROOT.GetFactionName]"
  DOD_romania.16.desc: "Ačkoli je v současné době jeho spojencem [romania_former_ally_target.GetNameDef], změny ve [FROM.GetAdjective] vládě přiblížily tuto zemi spíš k [ROOT.GetAdjective] ideálům a [FROM.GetLeader] projevil zájem o připojení se k frakci [ROOT.GetFactionName]. Jedná se o historickou příležitost, protože [FROM.GetNameDef] má práve svého nepřítele otočeného zády a to poslední, co by kdy očekával, je, že [FROM.GetAdjective] vojáci obrátí své zbraně proti němu."
  DOD_romania.16.a: "Vítejte, [FROM.GetAdjective] přátelé!"
  DOD_romania.161.t: "[FROM.GetNameDefCap] zrazuje [ROOT.GetNameDef]!"

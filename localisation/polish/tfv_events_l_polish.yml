@@ -352,7 +352,7 @@
  tfv_south_africa.3.a: "Copak nám nevěří?"
  tfv_south_africa.3.d: "S odkazem na nedostatek přímé hrozby pro své kolonie v Africe dalo [From.GetNameDef] zcela jasně najevo, že nám správu svých držav předat nehodlá."
  tfv_south_africa.3.t: "[From.GetNameDefCap] odmítá"
- tfv_south_africa.30.a: "Nemáme na výběr. Musíme se věnovat důležitějším záležitostem." # tu som skončil
+ tfv_south_africa.30.a: "Nemáme na výběr. Musíme se věnovat důležitějším záležitostem."
  tfv_south_africa.30.b: "Každý čtvereční metr [Root.GetAdjective] půdy je posvátný. Nevzdáme se!"
  tfv_south_africa.30.d: "Po otřesech v Evropě [From.GetAdjective] vláda otevřeně zpochybnila naše právo na svrchovanost nad Madagaskarem i naši schopnost chránit tamní obyvatelstvo. Toto chování konečně překročilo pouhou rétoriku: [From.GetAdjective] administrativa požaduje, abychom jim předali kontrolu nad ostrovem."
  tfv_south_africa.30.t: "[From.GetNameDefCap] požaduje Madagaskar"
@@ -439,7 +439,7 @@
  tfv_south_africa.77.d: "Když byla [RWA.GetGetNonIdeologyName] osvobozena z područí koloniálních utlačovatelů, jsou lidé připraveni převzít svůj osud do vlastních rukou. Vytvořili prozatímní vládu a sepsali ústavu. Zbývá už jen převést pravomoci z našich vojenských správců na novou [RWA.GetAdjective] vládu."
  tfv_south_africa.77.t: "[RWA.GetNonIdeologyName] je svobodná"
  tfv_south_africa.78.d: "Když bylo [BRD.GetGetNonIdeologyName] osvobozeno z područí koloniálních utlačovatelů, jsou lidé připraveni převzít svůj osud do vlastních rukou. Vytvořili prozatímní vládu a sepsali ústavu. Zbývá už jen převést pravomoci z našich vojenských správců na novou [BRD.GetAdjective] vládu."
- tfv_south_africa.78.t: "[BRD.GetNonIdeologyName] je svobodné" # tu som skončil
+ tfv_south_africa.78.t: "[BRD.GetNonIdeologyName] je svobodné"
  tfv_south_africa.79.d: "Když bylo [RCG.GetGetNonIdeologyName] osvobozeno z područí koloniálních utlačovatelů, jsou lidé připraveni převzít svůj osud do vlastních rukou. Vytvořili prozatímní vládu a sepsali ústavu. Zbývá už jen převést pravomoci z našich vojenských správců na novou [RCG.GetAdjective] vládu."
  tfv_south_africa.79.t: "[RCG.GetNonIdeologyName] je svobodné"
  tfv_south_africa.80.d: "Když byl [GAB.GetGetNonIdeologyName] osvobozen z područí koloniálních utlačovatelů, jsou lidé připraveni převzít svůj osud do vlastních rukou. Vytvořili prozatímní vládu a sepsali ústavu. Zbývá už jen převést pravomoci z našich vojenských správců na novou [GAB.GetAdjective] vládu."
