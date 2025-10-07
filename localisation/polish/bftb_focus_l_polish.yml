@@ -484,7 +484,7 @@
  GRE_FISCAL_RESPONSIBILITY_FOCUS_NAME_COMMUNIST: "Rozsáhlé přerozdělení bohatství"
  GRE_FISCAL_RESPONSIBILITY_FOCUS_NAME_STANDARD: "Fiskální odpovědnost"
  GRE_NENIKIKAMEN_FOCUS_DESCRIPTION_BYZANTINE: "Zvítězili jsme! Byzanc je pomstěna - po všech těch letech! Znovudobytím naší staré císařské metropole jsme o krok blíž k naplnění svého osudu! Stojíme na prahu nového věku pro Řecko - věku zrozeného z krve a ohně! Kosmídisy Nikas!"
- GRE_NENIKIKAMEN_FOCUS_DESCRIPTION_STANDARD: "Zvítězili jsme!  je po všech těch letech konečně očištěn! Megali idea triumfovala nad škarohlídy a těmi, kdo chtěli zmařit náš osud, a nyní stojíme na prahu nového věku pro Řecko - Zlatého věku!"
+ GRE_NENIKIKAMEN_FOCUS_DESCRIPTION_STANDARD: "Zvítězili jsme! Venizelos je po všech těch letech konečně očištěn! Megali idea triumfovala nad škarohlídy a těmi, kdo chtěli zmařit náš osud, a nyní stojíme na prahu nového věku pro Řecko - Zlatého věku!"
  GRE_PETITION_FOR_AID_FOCUS_DESCRIPTION_MONARCHIST: "Lůza dala najevo své mírné nesouhlasné brblání vůči králově vládě občanskou neposlušností a hrozbami občanské války. Naši nepřátelé mají nyní převahu, a proto není hanbou požádat naše spojence o pomoc v boji. S Brity a Němci po našem boku nemůžeme prohrát."
  GRE_PETITION_FOR_AID_FOCUS_DESCRIPTION_STANDARD: "Lůza dala najevo své mírné nesouhlasné brblání vůči králově vládě občanskou neposlušností a hrozbami občanské války. Naši nepřátelé mají nyní převahu, a proto není hanbou požádat naše britské spojence o pomoc v boji. S Brity po našem boku nemůžeme prohrát."
  GRE_PETITION_FOR_AID_FOCUS_NAME_MONARCHIST: "Požádat o pomoc Brity a Němce!"
@@ -1236,3 +1236,4 @@
  greek_turkish_friendship: "Podepsán řecko-turecký pakt přátelství"
  no_fascist_metaxism_spirit_tt: "Pokud nebylo zvoleno zaměření §Y$GRE_reviving_the_spartan_warrior_spirit$§!, národní duch §YMetaxismus§! nebude převeden na fašistický a místo toho bude §Rodstraněn§!."
  schachtplan_required_tt: "Nemá žádnou variantu §YSchachtplanu§!."
+
