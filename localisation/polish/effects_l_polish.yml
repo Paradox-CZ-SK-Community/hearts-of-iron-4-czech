@@ -353,7 +353,7 @@
  EFFECT_SET_CAPITAL: "Přesunout hlavní město do $STATE|Y$."
  EFFECT_SET_COLLABORATION: "Nastavit spolupráci v $TARGET|H$: $VALUE|+%0$"
  EFFECT_SET_COMPLIANCE: "Nastavit poslušnost: $VALUE|H$."
- EFFECT_SET_COSMETIC_TAG: "$COUNTRY|UH$ bude znám jako $COSMETIC_NAME|H$"
+ EFFECT_SET_COSMETIC_TAG: "$COUNTRY|UH$ bude odteď $COSMETIC_NAME|H$"
  EFFECT_SET_FACTION_LEADER: "Nastavit jako vůdce frakce $NAME|Y$."
  EFFECT_SET_FACTION_NAME: "$OLDNAME|H$ bude nyní znám jako $NEWNAME|H$."
  EFFECT_SET_FACTION_SPYMASTER: "Nastavit jako Šéfa špionáže frakce $NAME|Y$."
