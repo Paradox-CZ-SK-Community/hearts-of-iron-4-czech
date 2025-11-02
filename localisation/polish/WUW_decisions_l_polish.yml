@@ -263,7 +263,7 @@
  GER_a_fourth_silesian_uprising_cat_desc: "V důsledku nedávné nestability a občanské války v naší zemi začali zastánci nezávislého Slezska agitovat a připravovat se na možné povstání, pokud se naskytne příležitost. Bude moudré tyto blouznivé představy co nejrychleji rozdrtit."
  GER_annex_integrated_puppet_decision: "Integrovat [FROM.GetAdjective] civilní správu"
  GER_anti_colonialism_category: "Antikoloniální politika"
- GER_anti_colonialism_category_desc: "Učiníme vše pro podporu odbojových hnutí napříč Afrikou a Asií, dokud nebude mor imperialismu konečně vymýcen a dělníci světa se nesjednotí." # tu som skončil
+ GER_anti_colonialism_category_desc: "Učiníme vše pro podporu odbojových hnutí napříč Afrikou a Asií, dokud nebude mor imperialismu konečně vymýcen a dělníci světa se nesjednotí."
  GER_anti_colonialism_decision: "$COG_anti_colonialism_decision$"
  GER_anti_colonialism_map_category_name: "$ETH_anti_colonialism_map_category_name$"
  GER_arbeit_und_brot: "Spustit kampaň Arbeit und Brot"
