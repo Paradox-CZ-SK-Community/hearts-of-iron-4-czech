@@ -781,7 +781,7 @@
  idea_COG_river_navy_desc: "Máme největší říční flotilu v regionu, která zpomaluje či přímo brání nepřátelským průnikům do našich zemí. I když se nemůže rovnat oceánským námořnictvům, je klíčem k bezpečnosti naší země."
  increased_dutch_trade_opm: "Zvýšený obchod"
  is_controlled_by_ROOT_or_subject: "Ovládá jej §Y[ROOT.GetNameDef]§! nebo subjekt"
- is_controlled_by_ROOT_or_subject_NOT: "NEOVLÁDÁ joj §Y[ROOT.GetNameDef]§! nebo subjekt"
+ is_controlled_by_ROOT_or_subject_NOT: "NEOVLÁDÁ jej §Y[ROOT.GetNameDef]§! nebo subjekt"
  mio_cat_artillery: "Dělostřelectvo"
  modify_BEL_belgian_congo_colonial_returns_dynamic_modifier_tt: "Upraví §Y$BEL_belgian_congo_colonial_returns_dynamic_modifier$§! o:"
  modify_COG_COG_armee_nationale_congolaise_modifier_tt: "Upraví §Y$COG_armee_nationale_congolaise_modifier$§! o:"
