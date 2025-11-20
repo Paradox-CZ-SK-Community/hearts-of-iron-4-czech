@@ -2715,3 +2715,4 @@
  ww_congo.9.desc: "S rostoucí střední třídou a mnoha vzdělanými lidmi v městech začíná mnoho [COG.GetAdjective] studovat politické teorie a noví politici i zastánci nezávislosti se objevují. Tohle značí nový rozkvět [COG.GetAdjective] národa!"
  ww_congo.9.t: "Évolué vstupují do politiky [ROOT.GetAdjective]"
  yugoslavia_mefo_bills_tt: "Používá jugoslávské zlato ke snížení nákladů §Y[GetMilitaryProductionModifierName]§!.\n"
+ ww_BEL_event_diplomatic.15.c: "Pošleme jim $support_equipment$!" # todo: NEW TRANSLATION

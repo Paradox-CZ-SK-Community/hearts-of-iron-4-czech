@@ -1,0 +1,105 @@
+﻿l_polish:
+ HOME_BASE_RIGHT_CLICK: "§GKlikněte pravým tlačítkem§! pro přesun kamery na aktuální domovskou základnu." # todo: NEW TRANSLATION
+ HOME_BASE_NONE: "Žádná" # todo: NEW TRANSLATION
+ HOME_BASE_STATE_NAME: "$STATE$ ($LEVEL|Y$)" # todo: NEW TRANSLATION
+ NAVAL_DOMINANCE_CURRENT_VALUE: "Poměr kontroly: $RATIO|%2G$\nAktuální dominance: £naval_dominance_texticon£$CURRENT|0Y$" # todo: NEW TRANSLATION
+ NAVAL_DOMINANCE_TARGET_VALUE_INCREASING: "Zvyšuje se na £naval_dominance_texticon£$TARGET|0Y$ za $DAYS|0Y$ dní" # todo: NEW TRANSLATION
+ NAVAL_DOMINANCE_TARGET_VALUE_DECREASING: "Snižuje se na £naval_dominance_texticon£$TARGET|0Y$ za $DAYS|0Y$ dní" # todo: NEW TRANSLATION
+ NAVAL_DOMINANCE_BASE: "- Základní hodnota od lodí na §YHlídkách§!: £naval_dominance_texticon£ $VALUE|0Y$" # todo: NEW TRANSLATION
+ NAVAL_DOMINANCE_STRIKEFORCE_DESC: "   §G+§!$PERCENT|%0G$ (£naval_dominance_texticon£ $VALUE|0G$) z §YÚderných sil§! v regionu" # todo: NEW TRANSLATION
+ NAVAL_DOMINANCE_CONVOY_ESCORT_DESC: "   £naval_dominance_texticon£ $VALUE|0G$ zaručeno z misí §YEskorta konvojů§!" # todo: NEW TRANSLATION
+ NAVAL_DOMINANCE_CONVOY_RAIDING_DESC: "   £naval_dominance_texticon£ $VALUE|0R$ z nepřátelských §YNájezdů na konvoje§!" # todo: NEW TRANSLATION
+ NAVAL_DOMINANCE_AIRBASE_DESC: "   §G+§!$PERCENT|%2G$ (£naval_dominance_texticon£ $VALUE|0G$) z $AIRBASE|Y$ leteckých základen" # todo: NEW TRANSLATION
+ NAVAL_DOMINANCE_RADAR_DESC: "   §G+§!$PERCENT|%2G$ (£naval_dominance_texticon£ $VALUE|0G$) z $RADAR|Y$ radarů" # todo: NEW TRANSLATION
+ NAVAL_DOMINANCE_NAVALBASE_DESC: "   §G+§!$PERCENT|%2G$ (£naval_dominance_texticon£ $VALUE|0G$) z $NAVALBASE|Y$ námořních základen" # todo: NEW TRANSLATION
+ NAVAL_DOMINANCE_HEADQUARTER_DESC: "   £naval_dominance_texticon£ $VALUE|0G$ od námořního velitelství:" # todo: NEW TRANSLATION
+ NAVAL_DOMINANCE_TASKFORCE_VALUE: "£GFX_naval_dominance_texticon£ Tato §Yúderná skupina§! poskytuje $VALUE|0G$ námořní dominanci" # todo: NEW TRANSLATION
+ SHIP_DESIGNER_NAVAL_DOMINANCE_NAME: "§YNámořní dominance§!" # todo: NEW TRANSLATION
+ SHIP_DESIGNER_NAVAL_DOMINANCE_VALUE: "$VALUE|0G$" # todo: NEW TRANSLATION
+ NAVAL_DOMINANCE_TECH_TREE: "£GFX_naval_dominance_texticon£ Námořní dominance: " # todo: NEW TRANSLATION
+ NAVAL_DOMINANCE_SHIP_VALUE: "§YNámořní dominance§!\n£GFX_naval_dominance_texticon£ Tato §YLoď§! poskytuje $VALUE|0G$ námořní dominanci" # todo: NEW TRANSLATION
+ NAVAL_DOMINANCE_REDUCTION_VALUE: "§YNámořní dominance§!\n£GFX_naval_dominance_texticon£ Tato §YLoď§! snižuje nepřátelskou námořní dominanci o $VALUE|0R$" # todo: NEW TRANSLATION
+ NAVAL_DOMINANCE_CONTESTED: "§YSporná oblast§!" # todo: NEW TRANSLATION
+ NAVAL_DOMINANCE_ENEMY_CONTROLLED: "§RPod kontrolou nepřítele§!" # todo: NEW TRANSLATION
+ NAVAL_DOMINANCE_FRIENDLY_CONTROLLED: "§GPod naší kontrolou§!" # todo: NEW TRANSLATION
+ NAVAL_DOMINANCE_RATIO_HEADER: "§YZemě s dominancí§!" # todo: NEW TRANSLATION
+ NAVAL_DOMINANCE_RATIO: "$TAG|Y$ má $VALUE|Y$ dominanci" # todo: NEW TRANSLATION
+ NAVAL_DOMINANCE_SPOTTING_BASE_CHANCE: "  Námořní dominance v regionu: $VAL|1%+=$\n" # todo: NEW TRANSLATION
+ NAVAL_DOMINANCE_VALUE: "Námořní dominance: $VAL|=+$\n" # todo: NEW TRANSLATION
+ NAVAL_HEADQUARTER_PLACE_VALUE: "      $PLACE|Y$: $VALUE|0G$" # todo: NEW TRANSLATION
+ modifier_experience_gain_support_ship_training_factor: "TODO" # todo: NEW TRANSLATION
+ modifier_experience_gain_support_ship_mission_factor: "TODO" # todo: NEW TRANSLATION
+ modifier_experience_gain_support_ship_combat_factor: "TODO" # todo: NEW TRANSLATION
+ modifier_experience_gain_repair_ship_training_factor: "TODO" # todo: NEW TRANSLATION
+ modifier_experience_gain_repair_ship_mission_factor: "TODO" # todo: NEW TRANSLATION
+ modifier_experience_gain_repair_ship_combat_factor: "TODO" # todo: NEW TRANSLATION
+ NAVAL_BLOCKADE_COST: "Základní náklady: £pol_power $COST|Y$ a £pol_power $DAILY|Y$ denně" # todo: NEW TRANSLATION
+ NAVAL_BLOCKADE_COST_EXTRA: "To bude stát: £pol_power $COST|Y$" # todo: NEW TRANSLATION
+ TASKFORCE_SUPPORT_NEED: "Hodnota podpory ($SUPPORT_TYPE|Y$): $CURRENT|Y$/$TARGET|Y$" # todo: NEW TRANSLATION
+ naval_general_support: "Obecná námořní podpora" # todo: NEW TRANSLATION
+ naval_repair_support: "Námořní podpora oprav" # todo: NEW TRANSLATION
+ NAVAL_SHIP_SUPPORT: "Námořní podpora" # todo: NEW TRANSLATION
+ NAVAL_SHIP_SUPPORT_VALUE: "$TYPE|Y$: $VAL|Y$" # todo: NEW TRANSLATION
+ HAVING_NAVAL_DOMINANCE_IN_A_REGION: "Mít §YNámořní dominanci§! £GFX_naval_dominance_texticon£ v regionu poskytuje:" # todo: NEW TRANSLATION
+ NAVAL_DOMINANCE_BENEFITS: "£naval_dominance_texticon£ §YVýhody:§!" # todo: NEW TRANSLATION
+ SPOTTING_CHANCE_FOR_NAVAL_DOMINANCE: "   Šance na zpozorování: $VAL|1%+=$" # todo: NEW TRANSLATION
+ ORG_RECOVERY_FOR_NAVAL_DOMINANCE: "   Obnova organizace: $VAL|1%+=$" # todo: NEW TRANSLATION
+ SHIP_RECOVERY_CHANCE_FOR_NAVAL_DOMINANCE: "   Šance na obnovu lodi: $VAL|1%+=$" # todo: NEW TRANSLATION
+ NAVAL_DOMINANCE_MINES_PLANTING_BONUS_DESC: "   Rychlost pokládání min: $VALUE|1%+=$" # todo: NEW TRANSLATION
+ NAVAL_DOMINANCE_MINES_SWEEPING_BONUS_DESC: "   Rychlost odminování: $VALUE|1%+=$" # todo: NEW TRANSLATION
+ SUBJECT_NAVAL_BASES: "§HPodřízené státy§!" # todo: NEW TRANSLATION
+ FACTION_NAVAL_BASES: "§HČlenové frakce§!" # todo: NEW TRANSLATION
+ NAVAL_HEADQUARTER: "§YNámořní velitelství§!" # todo: NEW TRANSLATION
+ NAVAL_HEADQIARTER_HEADER: "Námořní velitelství" # todo: NEW TRANSLATION
+ NAVAL_DOMINANCE_TRAINING_BONUS_DESC: "   Pravděpodobnost havárií při výcviku: §G-$VALUE|1%$§!" # todo: NEW TRANSLATION
+ ASSIGN_ADMIRAL_TO_NAVAL_HEADQUARTER: "§GKlikněte§! pro přidělení admirála k námořnímu velitelství" # todo: NEW TRANSLATION
+ CHANGE_ADMIRAL_IN_NAVAL_HEADQUARTER: "§GKlikněte§! pro změnu admirála v námořním velitelství" # todo: NEW TRANSLATION
+ REMOVE_ADMIRAL_TO_NAVAL_HEADQUARTER: "§GKlikněte§! pro §ROdvolat§! admirála" # todo: NEW TRANSLATION
+ ADMIRAL_THRESHOLD_REACHED_NAVAL_HEADQUARTER: "§RDosáhli jste maximálního počtu admirálů, které lze přiřadit k námořnímu velitelství§!" # todo: NEW TRANSLATION
+ ACCESSIBLE_NAVAL_BASES: "§HPráva na kotvení§!" # todo: NEW TRANSLATION
+ TRIGGER_ENEMY_DOES_DOMINATE_REGION: "Nepřítel má námořní dominanci v $REGION|H$" # todo: NEW TRANSLATION
+ TRIGGER_ENEMY_DOES_NOT_DOMINATE_REGION: "Nepřítel nemá námořní dominanci v $REGION|H$" # todo: NEW TRANSLATION
+ TRIGGER_HAS_DOMINANCE_IN_REGION: "Má námořní dominanci v $REGION|H$" # todo: NEW TRANSLATION
+ TRIGGER_NOT_HAS_DOMINANCE_IN_REGION: "Nemá námořní dominanci v $REGION|H$" # todo: NEW TRANSLATION
+ SET_HOMEBASE_TASKFORCE_TOOLTIP: "§GLevým kliknutím§! nastavit jako domovskou základnu\n§GPravým kliknutím§! přejít na lokaci" # todo: NEW TRANSLATION
+ HOMEBASE_WINDOW_TITLE: "Nastavit domovskou základnu" # todo: NEW TRANSLATION
+ NAVAL_HEADQUARTER_IN_RANGE: "V dosahu §YNámořního velitelství§!" # todo: NEW TRANSLATION
+ NAVAL_HEADQUARTER_IN_RANGE_COMBAT: "§YNámořní velitelství v dosahu§!" # todo: NEW TRANSLATION
+ NAVAL_HEADQUARTER_NAME: " - $NAME|Y$" # todo: NEW TRANSLATION
+ NAVAL_MISSION_PATROL_DOMINANCE_DESC: "Hlídkování regionu poskytuje hodnotu §YNámořní dominance§! £GFX_naval_dominance_texticon£ §Yúderným skupinám§! jako přímé zvýšení cílové dominance v §Ystrategickém regionu§!.\n\n    Vybraná §Yúderná skupina§!(y): £GFX_naval_dominance_texticon£ $VALUE|0G$" # todo: NEW TRANSLATION
+ NAVAL_MISSION_STRIKE_FORCE_DOMINANCE_DESC: "Mít údernou skupinu v regionu poskytuje zlomek hodnoty §YNámořní dominance§! §Yúderných skupin§! jako multiplikativní zvýšení efektů §YHlídky§! a §YNájezdů na konvoje§! ve strategickém regionu.\n\nTento efekt se snižuje o $DECREASE|%0R$ za každé další přiřazené region.\n\n    Vybraná §Yúderná skupina§!(y): §G+§!$PERCENT|%2G$ (£GFX_naval_dominance_texticon£ $VALUE|0Y$)" # todo: NEW TRANSLATION
+ NAVAL_MISSION_CONVOY_RAIDING_DOMINANCE_DESC: "Úderná skupina provádějící nájezdy na konvoje snižuje nepřátelskou dominanci v regionu o hodnotu §YNámořní dominance§! §Yúderné skupiny§!.\n\n    Vybraná §Yúderná skupina§!(y): £GFX_naval_dominance_texticon£ $VALUE|0G$" # todo: NEW TRANSLATION
+ NAVAL_MISSION_CONVOY_ESCORT_DOMINANCE_DESC: " - §YEskorta konvojů§! poskytuje §YPozici§! úměrně přebytečné £GFX_naval_dominance_texticon£§YNámořní dominance§! v regionu. (Max $VALUE|1%+=$)" # todo: NEW TRANSLATION
+ NAVAL_MISSION_DOMINANCE_DESC: "§YNámořní dominance§! £GFX_naval_dominance_texticon£ v regionu se v průběhu času zvyšuje nebo snižuje, dokud nedosáhne cílové hodnoty." # todo: NEW TRANSLATION
+ NAVAL_HEADQUARTER_PROVINCE: "$PROVINCE$" # todo: NEW TRANSLATION
+ NAVAL_HEADQUARTER_TASKFORCE_IN_RANGE_COUNT: "$COUNT|Y$ úderná skupina(í) v dosahu" # todo: NEW TRANSLATION
+ NAVAL_HEADQUARTER_TASKFORCE_IN_RANGE_HEADER_TT: "Úderná skupina(í) v dosahu" # todo: NEW TRANSLATION
+ NAVAL_HEADQUARTER_TASKFORCE_IN_RANGE_TT: " $TASKFORCE|Y$" # todo: NEW TRANSLATION
+ NAVAL_HEADQUARTER_TASKFORCE_IN_RANGE_BONUS_TT: "Úderné skupiny v dosahu obdrží:" # todo: NEW TRANSLATION
+ NAVAL_HEADQUARTER_RANGE_BONUS_TT: "Bonus bude aplikován na úderné skupiny v dosahu $DISTANCE|Y$ strategických regionů" # todo: NEW TRANSLATION
+ NAVAL_HEADQUARTER_NO_ADMIRAL: "Žádný admirál přiřazen" # todo: NEW TRANSLATION
+ NAVAL_HEADQUARTER_ACTIVE: "Přiřazeno: $COUNT|Y$/$MAX|Y$" # todo: NEW TRANSLATION
+ NAVAL_HEADQUARTER_ACTIVE_TT: "Můžete mít současně až $MAX|Y$ velitelství s přiřazenými admirály.\n\nPřiřazení admirálové poskytují bonusy všem našim úderným skupinám v ovlivněných regionech." # todo: NEW TRANSLATION
+ NAVAL_HEADQUARTER_ENTRY_TT: "§GKlikněte§! pro zobrazení ovlivněných regionů.\n§GShift+Kliknutí§! pro výběr více." # todo: NEW TRANSLATION
+ NAVAL_HEADQUARTER_ON_ICON_CLICK: "§GLevým kliknutím§! přesunout kameru na budovu velitelství." # todo: NEW TRANSLATION
+ NAVAL_HEADQUARTERS_COMBAT_TT: "$STATE$: $LEADER|Y$ - (Dovednost: $SKILL|Y$)" # todo: NEW TRANSLATION
+ NAVAL_REGION_NAVAL_DOMINANCE: "§YNámořní dominance:§!" # todo: NEW TRANSLATION
+ NUMBER_OF_ENEMY_CONVOYS: "Odhadovaný počet nepřátelských konvojů procházejících regionem" # todo: NEW TRANSLATION
+ NUMBER_OF_ALLY_CONVOYS: "Počet přátelských konvojů procházejících regionem" # todo: NEW TRANSLATION
+ AIR_SUPERIORITY_IN_REGION_RATIO: "Přátelská vzdušná převaha v regionu" # todo: NEW TRANSLATION
+ ENEMY_AIR_SUPERIORITY_IN_REGION_RATIO: "Nepřátelská vzdušná převaha v regionu" # todo: NEW TRANSLATION
+ MINES_IN_REGION_RATIO: "Naše přítomnost min v regionu" # todo: NEW TRANSLATION
+ ENEMY_MINES_IN_REGION_RATIO: "Přítomnost nepřátelských min v regionu" # todo: NEW TRANSLATION
+ NAVAL_EXPERIENCE_HQ_GAIN: "Získané zkušenosti: $VALUE|0H$" # todo: NEW TRANSLATION
+ GAIN_XP_TOOLTIP: "$NAME$ získal $VALUE|H$ zkušeností z operací úderných skupin připojených k tomuto velitelství." # todo: NEW TRANSLATION
+ AUTOMATE_HOME_BASE: "Automaticky vybírat domovskou základnu: $VALUE$" # todo: NEW TRANSLATION
+ AUTOMATE_HOME_BASE_TOGGLE: "Přepnutí tohoto nastavení způsobí, že flotila automaticky vybere domovskou základnu, která nejlépe vyhovuje přiřazeným regionům." # todo: NEW TRANSLATION
+ AUTOMATION_HOMEBASE_ON: "§YZapnuto§!" # todo: NEW TRANSLATION
+ AUTOMATION_HOMEBASE_OFF: "§gVypnuto§!" # todo: NEW TRANSLATION
+ SEAZONE_MINIMUM_DOMINANCE: "Minimální £naval_dominance_texticon£ pro kontrolu zóny: $VALUE|H0$" # todo: NEW TRANSLATION
+ NAVAL_CONTROL_RATIO_MARKER_TOOLTIP: "§HNámořní dominance§!\nVyžadujeme poměr kontroly §Y66%§! nebo vyšší, abychom považovali region za plně pod naší kontrolou." # todo: NEW TRANSLATION
+ NAVAL_DOMINANCE_EXPLANATION: "§YNámořní dominance§! \nMíra toho, jak efektivní je plavidlo při uplatňování kontroly nad konkrétní námořní zónou." # todo: NEW TRANSLATION
+ NAVY_SUPPLY_USAGE_DESC_TOTAL: "§HSpotřeba zásob: $VAL$§!" # todo: NEW TRANSLATION
+ NAVY_SUPPLY_USAGE_DESC_BASE: "Základní hodnota: $VAL|H$" # todo: NEW TRANSLATION
+ NAVY_SUPPLY_USAGE_DESC_SUPPLY_HUB_REDUCTION: "Námořní zásobovací uzel: $VAL|%-$" # todo: NEW TRANSLATION
+ CONVOY_ESCORT_POSITIONING_BONUS: "§YEskorta konvojů s £GFX_naval_dominance_texticon£námořní dominancí:§! $VALUE|1%+=$"" # todo: NEW TRANSLATION

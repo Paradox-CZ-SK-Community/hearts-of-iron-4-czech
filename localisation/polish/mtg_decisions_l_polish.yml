@@ -522,7 +522,7 @@
  USA_raise_the_free_corps_desc: "Naše přípravy jsou dokončeny. Tisíce veteránů z Velké války jsou připraveny vytvořit jednotky, aby za nás bojovaly."
  USA_raise_the_free_corps_tt: "Povolá loajalistické pěší jednotky v oblastech, které zůstávají věrné vládě."
  USA_readmit_state: "Znovu přijmout stát do Unie"
- USA_readmit_state_tt: "Stát zahájí proces stát se opět jádrovým územím."
+ USA_readmit_state_tt: "Stát zahájí proces stát se opět domovským územím."
  USA_request_mandate_against_FROM: "Požádat o schválení intervence proti [From.GetNameDef]"
  USA_request_monroe_mandate_against_FROM: "Prosadit Monroeovu doktrínu proti [From.GetNameDef]"
  USA_research_grants: "Výzkumné granty"
@@ -629,3 +629,5 @@
  weapons_for_the_resistance: "Zbraně pro [From.GetAdjective] odboj"
  weapons_for_the_resistance_desc: "Vlastenecké [From.GetAdjective] skupiny za nepřátelskými liniemi zasadí našim společným nepřátelům těžké rány, pokud jim dodáme spolehlivé zbraně."
  won_british_civil_war: "Vyhrál občanskou válku před méně než rokem.\n"
+ MTG_abandon_treaty_japanese: "Zrušit námořní smlouvy" # todo: NEW TRANSLATION
+ MTG_abandon_treaty_japanese_desc: "Demokracie světa se pošetile připoutaly k vládě práva. Ale v boji národů platí jen jeden zákon: zákon přírody, a ten vyžaduje sílu. Nebudeme omezováni v naší touze vybudovat mocné loďstvo!" # todo: NEW TRANSLATION

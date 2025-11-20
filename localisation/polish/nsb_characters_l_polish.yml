@@ -437,14 +437,14 @@
  ITA_ugo_cavallero: "$ugo_cavallero$"
  ITA_vittorio_ambrosio: "$vittorio_ambrosio$"
  ITA_vittorio_emanuele_iii: "Vittorio Emanuele III."
- JAP_akira_muto: "Akira Mutó"
+ JAP_akira_muto: "Akira Muto" # todo: CHANGED
  JAP_chuichi_nagumo: "$chuichi_nagumo$"
  JAP_emperor_hirohito: "$JAP_hirohito$"
  JAP_fushimi_hiroyasu: "$fushimi_hiroyasu$"
  JAP_gengo_hyakutake: "Gengo Hjakutake"
  JAP_hajime_sugiyama: "$hajime_sugiyama$"
  JAP_harukichi_hyakutake: "Harukiči Hjakutake"
- JAP_hatazo_adachi: "Hatazó Adači"
+ JAP_hatazo_adachi: "Hatazo Adachi" # todo: CHANGED
  JAP_hideki_tojo: "$hideki_tojo$"
  JAP_hideo_itokawa: "$hideo_itokawa$"
  JAP_hino_kumazo: "$hino_kumazo$"
@@ -453,20 +453,20 @@
  JAP_hitoshi_imamura: "$hitoshi_imamura$"
  JAP_isoroku_yamamoto: "$isoroku_yamamoto$"
  JAP_iwane_matsui: "Iwane Macui"
- JAP_jisaburo_ozawa: "Džisaburó Ozawa"
- JAP_jo_iimura: "Džó Ímura"
+ JAP_jisaburo_ozawa: "Jisaburo Ozawa" # todo: CHANGED
+ JAP_jo_iimura: "Jo Iimura" # todo: CHANGED
  JAP_kanin_kotohito: "$kanin_kotohito$"
  JAP_kanji_ishiwara: "Kandži Išiwara"
  JAP_keisuke_fujie: "Keisuke Fudžie"
  JAP_kenji_doihara: "$kenji_doihara$"
  JAP_kenkichi_ueda: "Kenkiči Ueda"
- JAP_kiichiro_higuchi: "Kiičiró Higuči"
+ JAP_kiichiro_higuchi: "Kiichiro Higuchi" # todo: CHANGED
  JAP_kijuro_shidehara: "$kijuro_shidehara$"
  JAP_kingoro_hashimoto: "$kingoro_hashimoto$"
  JAP_kiyoshi_hasegawa: "Kijoši Hasegawa"
  JAP_korechika_anami: "$korechika_anami$"
  JAP_kuniaki_koiso: "Kuniaki Koiso"
- JAP_kyuichi_tokuda: "Kyuichi Tokuda"
+ JAP_kyuichi_tokuda: "Kyuichi Tokuda" # todo: CHANGED
  JAP_masaharu_homma: "Masaharu Homma"
  JAP_masatane_kanda: "Masatane Kanda"
  JAP_matome_ugaki: "$matome_ugaki$"
@@ -477,12 +477,12 @@
  JAP_nishizo_tsukahara: "$nishizo_tsukahara$"
  JAP_nobutake_kondo: "Nobutake Kondó"
  JAP_osami_nagano: "$osami_nagano$"
- JAP_otozo_yamada: "Otozó Jamada"
- JAP_rikichi_ando: "Rikiči Andó"
+ JAP_otozo_yamada: "Otozo Yamada" # todo: CHANGED
+ JAP_rikichi_ando: "Rikichi Ando" # todo: CHANGED
  JAP_sadao_araki: "Sadao Araki"
  JAP_sanzo_nosaka: "$sanzo_nosaka$"
- JAP_seishiro_itagaki: "Seishiro Itagaki"
- JAP_shigeru_honjo: "Šigeru Hondžó"
+ JAP_seishiro_itagaki: "Seishiro Itagaki" # todo: CHANGED
+ JAP_shigeru_honjo: "Shigeru Honjo" # todo: CHANGED
  JAP_shigetaro_shimada: "$shigetaro_shimada$"
  JAP_shigeyoshi_inoue: "Šigejoši Inoue"
  JAP_shizuichi_tanaka: "Šizuiči Tanaka"
@@ -496,9 +496,9 @@
  JAP_tetsu_katayama: "Tecu Katajama"
  JAP_tomoyuki_yamashita: "$tomoyuki_yamashita$"
  JAP_torashiro_kawabe: "$torashiro_kawabe$"
- JAP_toshizo_nishio: "Tošizó Nišio"
+ JAP_toshizo_nishio: "Toshizo Nishio" # todo: CHANGED
  JAP_yasuji_okamura: "$yasuji_okamura$"
- JAP_yoshijiro_umezu: "Jošidžiró Umezu"
+ JAP_yoshijiro_umezu: "Yoshijiro Umezu" # todo: CHANGED
  JAP_yoshio_nishina: "$yoshio_nishina$"
  JAP_yoshitoshi_tokugawa: "$yoshitoshi_tokugawa$"
  JAP_zengo_yoshida: "Zengo Jošida"
@@ -870,3 +870,8 @@
  YUN_hsia_wu: "Sia Wu"
  YUN_long_yun: "Lung Jün"
  YUN_mao_dong: "Mao Tung"
+ SOV_aleksandr_cherepanov: "Aleksandr Cherepanov" # todo: NEW TRANSLATION
+ MAN_urzhin_garmaev: "Urzhin Garmaev" # todo: NEW TRANSLATION
+ MAN_yu_zishan: "Yu Zhishan" # todo: NEW TRANSLATION
+ MAN_jonjurjab: "Jonjurjab" # todo: NEW TRANSLATION
+ MAN_pujie: "Pujie" # todo: NEW TRANSLATION

@@ -323,11 +323,6 @@
  success_modifier_interception: "nepřátelských §Hmisí zachycení§!"
  success_modifier_interception_improvement: "- Spusťte §Hmisi Zachycení§! v oblasti"
  success_modifier_interception_source: "$VAL|H0$/$MAX|H0$ letadla"
- success_modifier_naval_supremacy: "§Hnámořní převahy§!"
- success_modifier_naval_supremacy_counterplay: "- Snižte nepřátelskou §Hnámořní převahu§! v regionu"
- success_modifier_naval_supremacy_improvement: "- Zvyšte §Hnámořní převahu§! v regionu"
- success_modifier_naval_supremacy_source: "$VAL|H%0$ námořní převaha"
- success_modifier_naval_supremacy_source_counterplay: "$VAL|H%0$ nepřátelská námořní převaha"
  success_modifier_organisation: "§Horganizace§! jednotky"
  success_modifier_organisation_negative: "nízké §Horganizace§! jednotky"
  success_modifier_prep_time: "§Hpřípravy§!"
@@ -393,3 +388,21 @@
  tooltip_success_chance_base: "Základní šance: $VAL|%0H$"
  tooltip_success_chance_capped_by_risk: "§RŠance na úspěch omezena z důvodu vysokého rizika kritického selhání (§!$RISK|%0H$§R)§!"
  tooltip_success_chance_risk: "Základní riziko: $VAL|%0H$"
+ tooltip_raid_category_land_infiltration_raids: "§HPozemní nájezdy§! \nMalé nájezdy prováděné pozemními silami za nepřátelskými liniemi, využívající nenápadnost a podvodné triky k rychlým úderům a ústupům." # todo: NEW TRANSLATION
+ raid_type_nuclear_missile_strike_submarine: "$raid_type_nuclear_missile_strike$" # todo: NEW TRANSLATION
+ raid_type_nuclear_missile_strike_submarine_desc: "$raid_type_nuclear_missile_strike_desc$" # todo: NEW TRANSLATION
+ raid_type_thermonuclear_missile_strike_submarine: "$raid_type_thermonuclear_missile_strike$" # todo: NEW TRANSLATION
+ raid_type_thermonuclear_missile_strike_submarine_desc: "$raid_type_thermonuclear_missile_strike_desc$" # todo: NEW TRANSLATION
+ raid_type_CHI_tokyo_imperial_palace_bombing: "Bombardování císařského paláce v Tokiu" # todo: NEW TRANSLATION
+ raid_type_CHI_tokyo_imperial_palace_bombing_desc: "Posláním skupiny bombardérů k útoku na hlavní velení nepřítele a symbolické sídlo japonské císařské moci můžeme zvýšit morálku našeho lidu a zároveň zasáhnout morálku nepřítele." # todo: NEW TRANSLATION
+ raid_type_CHI_national_diet_bombing: "Bombardování Národního shromáždění" # todo: NEW TRANSLATION
+ raid_type_CHI_national_diet_bombing_desc: "Posláním skupiny bombardérů k útoku na hlavní velení nepřítele a symbolické místo japonské moci můžeme povzbudit morálku našeho lidu a zároveň zasáhnout morálku nepřítele." # todo: NEW TRANSLATION
+ raid_type_CHI_hakko_ichiu_bombing: "Bombardování Hakko Ichiu" # todo: NEW TRANSLATION
+ raid_type_CHI_hakko_ichiu_bombing_desc: "Posláním skupiny bombardérů k útoku na symbol imperialismu nepřítele ukážeme slabost Japonska a zároveň povzbudíme morálku našeho lidu." # todo: NEW TRANSLATION
+ raid_type_JAP_pearl_harbor_strike: "Útok na Pearl Harbor" # todo: NEW TRANSLATION
+ raid_type_JAP_pearl_harbor_strike_desc: "Posláním skupiny bombardérů k útoku na hlavní námořní velení a flotilu nepřítele v Tichém oceánu můžeme povzbudit morálku našeho lidu a zároveň zasáhnout morálku a námořní schopnosti nepřítele. Díky tomu se naše námořnictvo bude moci volně pohybovat po dobu 6 měsíců!" # todo: NEW TRANSLATION
+ raid_target_name_probe_defenses: "Obrany v $LOCATION|H$" # todo: NEW TRANSLATION
+ raid_target_name_supply_hub: "§H$supply_node$§!" # todo: NEW TRANSLATION
+ raid_type_PRC_weapons_depot_raid: "Nájezd na sklady zbraní" # todo: NEW TRANSLATION
+ raid_type_PRC_probe_border_defenses_raid: "Nájezd na pohraniční obrany" # todo: NEW TRANSLATION
+ raid_tooltip_trigger_title: "$TITLE|H$:" # todo: NEW TRANSLATION

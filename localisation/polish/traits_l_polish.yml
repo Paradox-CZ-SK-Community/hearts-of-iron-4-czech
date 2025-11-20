@@ -1,4 +1,4 @@
-﻿l_polish: 
+﻿l_polish:
  ABILITY_DESC: "$NAME|H$: $DETAILS$"
  adaptable_desc: "§LBezproblémové porozumění boji v různých terénech a přizpůsobení se různým prostředím.§!"
  adaptable: "Přizpůsobivý"
@@ -980,7 +980,7 @@
  IRQ_emir_of_taif: "Emír Táifu"
  IRQ_fliegerfuhrer: "Fliegerführer Irak\n(Expert)"
  IRQ_german_ambassador: "Německý velvyslanec"
- IRQ_golden_square_member_desc: "Zlaté náměstí je klika vysoce postavených vojenských úředníků, kteří touží po nové cestě pro Irák, naklánějící se k panarabské ideologii a ochotni pracovat s kýmkoli, aby dosáhli svých cílů."
+ IRQ_golden_square_member_desc: "Zlatý čtverec je klika vysoce postavených vojenských důstojníků, kteří touží po nové cestě pro Irák, přiklání se k panarabské ideologii a jsou ochotni spolupracovat s kýmkoli, aby dosáhli svých cílů."
  IRQ_golden_square_member: "Člen Zlatého náměstí"
  IRQ_great_iraqi_statesman: "Velký irácký státník"
  IRQ_hashemite_caliph: "Chalífa"
@@ -1006,7 +1006,7 @@
  irregulars_officer_desc: "§LSchopný vést nepravidelné jednotky v boji.§!"
  irregulars_officer: "Důstojník nepravidelných jednotek"
  is_using_battle_plans: "Používá bitevní plány"
- islamic_scholar: "Islamský učenec"
+ islamic_scholar: "Islámský učenec"
  ITA_aviation_hero_tt: "  - $air_equipment_research$: §G+5%§!"
  ITA_head_of_the_national_committee: "Předseda národního výboru"
  ITA_hierarch_bop_tt: "Když je najat, §Y$ITA_power_balance$§! posune o §Y15%§! směrem k §YVelké radě fašismu§!."
@@ -1746,7 +1746,7 @@
  SWI_anarchist: "Anarchista"
  SWI_anti_communist: "Komunista"
  SWI_anti_fascist: "Antifašista"
- SWI_brandy_the_st_bernard_trait: "Neschopný radní"
+ SWI_brandy_the_st_bernard_trait: "Neschopný poradce"
  SWI_cantonal_conservative: "Kantonální konzervativec"
  SWI_commander_in_chief: "Vrchní velitel"
  SWI_communist: "Komunista"
@@ -1977,3 +1977,308 @@
  womens_rights_activist: "Aktivista za práva žen"
  wounded_desc: "§LZ ošklivého zranění se bude nějakou dobu zotavovat.§!"
  wounded: "Zraněný"
+ brave: "Odvážný" # todo: NEW TRANSLATION
+ brave_desc: "K vedení těch nejnebezpečnějších misí je zapotřebí odvážného generála." # todo: NEW TRANSLATION
+ resource_development_company_2: "Společnost pro rozvoj surovin" # todo: NEW TRANSLATION
+ industrial_conglomerate: "Průmyslový Zaibacu" # todo: NEW TRANSLATION
+ armament_zaibatsu: "Zbrojařské Zaibacu" # todo: NEW TRANSLATION
+ zaibatsu_bank: "Banka Zaibacu" # todo: NEW TRANSLATION
+ monopolistic_bank: "Monopolistická banka" # todo: NEW TRANSLATION
+ colonial_investments_company: "Společnost pro rozvoj kolonií" # todo: NEW TRANSLATION
+ south_seas_development_company: "Společnost pro rozvoj Jižních moří" # todo: NEW TRANSLATION
+ national_news_agency: "Národní tisková agentura" # todo: NEW TRANSLATION
+ propaganda_agency: "Propagační agentura" # todo: NEW TRANSLATION
+ mining_zaibatsu: "Zaibacu pro těžbu a strojírenství" # todo: NEW TRANSLATION
+ motivated: "Motivovaný" # todo: NEW TRANSLATION
+ motivated_desc: "Schopný člověk je dobrý. Když je motivovaný, je to ještě lepší." # todo: NEW TRANSLATION
+ PRC_the_general_secretary: "Generální tajemník" # todo: NEW TRANSLATION
+ PRC_our_enemys_enemy: "Nepřítel našeho nepřítele" # todo: NEW TRANSLATION
+ PRC_head_of_the_personality_cult: "Hlava kultu osobnosti" # todo: NEW TRANSLATION
+ PRC_out_for_revenge: "Toužící po pomstě" # todo: NEW TRANSLATION
+ PRC_one_of_28: "Jeden z 28½" # todo: NEW TRANSLATION
+ PRC_maoism_1: "Maoismus" # todo: NEW TRANSLATION
+ PRC_maoism_2: "$PRC_maoism_1$" # todo: NEW TRANSLATION
+ PRC_maoism_3: "$PRC_maoism_1$" # todo: NEW TRANSLATION
+ PRC_maoism_4: "$PRC_maoism_1$" # todo: NEW TRANSLATION
+ PRC_maoism_5: "$PRC_maoism_1$" # todo: NEW TRANSLATION
+ PRC_de_facto_leader: "Faktický vůdce" # todo: NEW TRANSLATION
+ PRC_supreme_chairman_1: "Nejvyšší předseda" # todo: NEW TRANSLATION
+ PRC_supreme_chairman_2: "$PRC_supreme_chairman_1$" # todo: NEW TRANSLATION
+ PRC_supreme_chairman_3: "$PRC_supreme_chairman_1$" # todo: NEW TRANSLATION
+ PRC_supreme_chairman_4: "$PRC_supreme_chairman_1$" # todo: NEW TRANSLATION
+ PRC_supreme_chairman_5: "$PRC_supreme_chairman_1$" # todo: NEW TRANSLATION
+ PRC_agrarian_revolutionary: "Agrární revolucionář" # todo: NEW TRANSLATION
+ PRC_dubious_loyalty: "Pochybná loajalita" # todo: NEW TRANSLATION
+ PRC_multi_talented_diplomat_lar: "Multitalentovaný diplomat" # todo: NEW TRANSLATION
+ PRC_multi_talented_diplomat_no_lar: "$PRC_multi_talented_diplomat_lar$" # todo: NEW TRANSLATION
+ PRC_labor_rights_advocate: "Obhájce práv dělníků" # todo: NEW TRANSLATION
+ PRC_agricultural_reformist: "Zemědělský reformátor" # todo: NEW TRANSLATION
+ PRC_holding_the_line: "Držící linii" # todo: NEW TRANSLATION
+ PRC_charming_revoluionary: "Okouzlující revolucionář" # todo: NEW TRANSLATION
+ PRC_soviet_negotiator: "Sovětský vyjednavač" # todo: NEW TRANSLATION
+ PRC_avid_maoist: "Zarytý maoista" # todo: NEW TRANSLATION
+ PRC_head_of_state_bank: "Ředitel státní banky" # todo: NEW TRANSLATION
+ PRC_trained_by_the_nkvd: "Vyškolen NKVD" # todo: NEW TRANSLATION
+ PRC_medical_school: "Ministr zdravotnictví" # todo: NEW TRANSLATION
+ PRC_quartermaster: "Ředitel logistického oddělení" # todo: NEW TRANSLATION
+ PRC_hq_secretary: "Sekretář štábu" # todo: NEW TRANSLATION
+ PRC_guerilla_fighter: "Partyzán" # todo: NEW TRANSLATION
+ PRC_28_bolshevik_trait: "28½ potlačeno" # todo: NEW TRANSLATION
+ PRC_28_bolshevik_trait_bo_gu: "$PRC_28_bolshevik_trait$" # todo: NEW TRANSLATION
+ PRC_28_bolshevik_trait_wang_ming: "$PRC_28_bolshevik_trait$" # todo: NEW TRANSLATION
+ PRC_28_bolshevik_trait_improved: "28½ legalizováno" # todo: NEW TRANSLATION
+ PRC_28_bolshevik_trait_improved_wang_ming: "$PRC_28_bolshevik_trait_improved$" # todo: NEW TRANSLATION
+ PRC_28_bolshevik_trait_improved_bo_gu: "$PRC_28_bolshevik_trait_improved$" # todo: NEW TRANSLATION
+ PRC_pavel_mif_mentor_trait: "Mentor" # todo: NEW TRANSLATION
+ PRC_base_builder: "Budovatel základen" # todo: NEW TRANSLATION
+ PRC_rocket_force: "Otec raketových sil" # todo: NEW TRANSLATION
+ PRC_second_in_command_to_peng: "Druhý v velení Peng Dehuaie" # todo: NEW TRANSLATION
+ PRC_president_female_officers: "Ředitel školy pro ženské důstojnice" # todo: NEW TRANSLATION
+ PRC_promising_future: "Nadějná budoucnost" # todo: NEW TRANSLATION
+ PRC_minister_of_finance: "Ministr financí" # todo: NEW TRANSLATION
+ PRC_director_of_food_bureau: "Ředitel potravinového úřadu" # todo: NEW TRANSLATION
+ PRC_double_agent: "Dvojitý agent" # todo: NEW TRANSLATION
+ PRC_behind_enemy_lines_traits: "Za liniemi nepřítele" # todo: NEW TRANSLATION
+ PRC_organizier_aat: "Organizátor" # todo: NEW TRANSLATION
+ PRC_professor: "Profesor" # todo: NEW TRANSLATION
+ PRC_minister_interior_affairs: "Ministr vnitra" # todo: NEW TRANSLATION
+ PRC_secretary_of_womens_committee: "Generální tajemnice ženského výboru" # todo: NEW TRANSLATION
+ PRC_spymaster: "Mistr špionáže" # todo: NEW TRANSLATION
+ PRC_member_of_central_committee: "Člen ústředního výboru" # todo: NEW TRANSLATION
+ PRC_leadership_comeback: "Návrat vedení" # todo: NEW TRANSLATION
+ PRC_faction_diplomat: "Diplomat frakce" # todo: NEW TRANSLATION
+ PRC_survivor_of_the_long_march: "Přeživší Dlouhého pochodu" # todo: NEW TRANSLATION
+ PRC_survivor_of_the_long_march_desc: "§Zúčastnil se Dlouhého pochodu.§!" # todo: NEW TRANSLATION
+ PRC_zhang_guotao_in_kmt: "Bývalý komunista" # todo: NEW TRANSLATION
+ PRC_rural_survey_trait: "Venkovský průzkumník" # todo: NEW TRANSLATION
+ PRC_first_premier_trait: "První premiér" # todo: NEW TRANSLATION
+ PRC_socialist_journalist: "$socialist_journalist$" # todo: NEW TRANSLATION
+ PRC_magazine: "Stranický časopis" # todo: NEW TRANSLATION
+ PRC_nuclear_company: "Jaderná korporace" # todo: NEW TRANSLATION
+ king_father: "Král otec" # todo: NEW TRANSLATION
+ the_republican_rebel: "Vzpurný republikán" # todo: NEW TRANSLATION
+ khmer_issarak_leader: "Vůdce Khmer Issarak" # todo: NEW TRANSLATION
+ king_of_luang_prabang: "Král Luang Prabang" # todo: NEW TRANSLATION
+ champion_of_the_lao_issara: "Obhájce Laoského Issara" # todo: NEW TRANSLATION
+ LAO_the_red_prince: "Červený princ" # todo: NEW TRANSLATION
+ emperor_of_the_purple_forbidden_city: "Císař Purpurového Zakázaného města" # todo: NEW TRANSLATION
+ the_vietnamese_third_way: "Vietnamská třetí cesta" # todo: NEW TRANSLATION
+ renowned_revolutionary_poet: "Proslulý revoluční básník" # todo: NEW TRANSLATION
+ idealist_revolutionary: "Idealistický revolucionář" # todo: NEW TRANSLATION
+ defender_of_the_homeland: "Obránce vlasti" # todo: NEW TRANSLATION
+ the_dutch_nobleman: "Nizozemský šlechtic" # todo: NEW TRANSLATION
+ expert_unifier: "Expert sjednocení" # todo: NEW TRANSLATION
+ the_dragon_king: "Král draků" # todo: NEW TRANSLATION
+ inexperienced_socialist: "Nezkušený socialista" # todo: NEW TRANSLATION
+ TIB_strongman_of_tibet: "Silný muž Tibetu" # todo: NEW TRANSLATION
+ MAN_japanese_puppet: "Japonská loutka" # todo: NEW TRANSLATION
+ MAN_supreme_commander: "Vrchní velitel" # todo: NEW TRANSLATION
+ MAN_figurehead_emperor: "Figurální císař" # todo: NEW TRANSLATION
+ all_advisor_cost_very_small_reduction_tt: "Náklady na všechny poradce: §G-5%§!" # todo: NEW TRANSLATION
+ all_advisor_cost_small_reduction_tt: "Náklady na všechny poradce: §G-10%§!" # todo: NEW TRANSLATION
+ all_advisor_cost_medium_reduction_tt: "Náklady na všechny poradce: §G-15%§!" # todo: NEW TRANSLATION
+ all_advisor_cost_large_reduction_tt: "Náklady na všechny poradce: §G-20%§!" # todo: NEW TRANSLATION
+ all_advisor_cost_very_large_reduction_tt: "Náklady na všechny poradce: §G-25%§!" # todo: NEW TRANSLATION
+ PRC_guerilla_warfare_theorist: "Teoretik guerillového boje" # todo: NEW TRANSLATION
+ MAN_foreign_minister: "Ministr zahraničí" # todo: NEW TRANSLATION
+ MAN_speaker_of_the_senate: "Předseda senátu" # todo: NEW TRANSLATION
+ SIK_communist_in_name_only: "Komunista jen podle jména" # todo: NEW TRANSLATION
+ KHM_governor_of_sinkiang: "Guvernér Sinkiangu" # todo: NEW TRANSLATION
+ XSM_popular_governor: "Oblíbený guvernér" # todo: NEW TRANSLATION
+ XSM_loyal_warlord: "Loajální válečný pán" # todo: NEW TRANSLATION
+ SIC_governor_of_sichuan: "Guvernér Sichuanu" # todo: NEW TRANSLATION
+ GXC_fierce_leader: "Drsný vůdce" # todo: NEW TRANSLATION
+ GDC_king_of_the_southern_skies: "Král jižních nebes" # todo: NEW TRANSLATION
+ YUN_king_of_yunnan: "Král Yunnanu" # todo: NEW TRANSLATION
+ SIC_reckless_commander: "Bezohledný velitel" # todo: NEW TRANSLATION
+ SHX_model_governor: "Vzorový guvernér" # todo: NEW TRANSLATION
+ SND_unreliable_opportunist: "Nespolehlivý oportunista" # todo: NEW TRANSLATION
+ NXM_king_of_ningxia: "Král Ningxia" # todo: NEW TRANSLATION
+ GSM_staunch_anti_communist: "Zarytý antikomunista" # todo: NEW TRANSLATION
+ XSM_devout_leader: "Zbožný vůdce" # todo: NEW TRANSLATION
+ KHM_padishah: "Padischáh" # todo: NEW TRANSLATION
+ XIC_young_marshall: "Mladý maršál" # todo: NEW TRANSLATION
+ SND_traitor_warlord: "Zrádný válečný pán" # todo: NEW TRANSLATION
+ SND_proven_loyalty: "Prokázaná loajalita" # todo: NEW TRANSLATION
+ SIK_duban: "Duban" # todo: NEW TRANSLATION
+ SIK_the_king_of_sinkiang: "Král Sinkiangu" # todo: NEW TRANSLATION
+ KUM_wild_horse: "Divoký kůň" # todo: NEW TRANSLATION
+ MON_pan_mongolian_stalinist: "Pan-mongolský stalinista" # todo: NEW TRANSLATION
+ KUM_champion_father_of_the_faithful: "Obhájce — Otec věrných" # todo: NEW TRANSLATION
+ JAP_pacifist_baron: "Vlivný pacifistický baron" # todo: NEW TRANSLATION
+ JAP_paramilitary_leader: "Vůdce polovojenských sil" # todo: NEW TRANSLATION
+ JAP_ambassador_to_germany: "Velvyslanec v Německu" # todo: NEW TRANSLATION
+ naval_architect: "Námořní architekt" # todo: NEW TRANSLATION
+ trait_JAP_kodoha_sympathizer: "Sympatizant Kodoha" # todo: NEW TRANSLATION
+ trait_JAP_kodoha_sympathizer_desc: "This character is a supporter of the Imperial Way Faction." # todo: NEW TRANSLATION
+ JAP_governor_general_of_korea: "Guvernér Koreje" # todo: NEW TRANSLATION
+ JAP_moderate_politician_neu: "Mírný politik" # todo: NEW TRANSLATION
+ JAP_moderate_politician_dem: "Mírný politik" # todo: NEW TRANSLATION
+ JAP_asahi_shimbun_editor: "Místopředseda Asahi Shimbun" # todo: NEW TRANSLATION
+ JAP_kaiso: "Kaiso" # todo: NEW TRANSLATION
+ JAP_financial_genius: "Finanční génius" # todo: NEW TRANSLATION
+ JAP_marxist_theoretician: "Marxistický teoretik" # todo: NEW TRANSLATION
+ JAP_lord_keeper_of_the_privy_seal: "Pán držitel soukromé pečeti" # todo: NEW TRANSLATION
+ JAP_minister_for_greater_east_asia: "Ministr pro Velké Východní Asii" # todo: NEW TRANSLATION
+ JAP_radical_nichiren_preacher: "Radikální kazatel Nichirenu" # todo: NEW TRANSLATION
+ JAP_pan_asianist_national_socialist: "Panasijský národně-socialista" # todo: NEW TRANSLATION
+ JAP_god_of_constitutional_politics: "Bůh ústavní politiky" # todo: NEW TRANSLATION
+ JAP_shadow_shogun: "Stínový šógun" # todo: NEW TRANSLATION
+ liberal_economist: "Liberální ekonom" # todo: NEW TRANSLATION
+ JAP_father_of_the_economic_miracle: "Otec hospodářského zázraku" # todo: NEW TRANSLATION
+ JAP_state_shinto_advocate: "Zastánce státního šintoismu" # todo: NEW TRANSLATION
+ JAP_south_manchuria_railway_president: "Prezident Jiho-mandžuské železnice" # todo: NEW TRANSLATION
+ JAP_tokko_chief: "Šéf Tokkō" # todo: NEW TRANSLATION
+ JAP_showa_no_youkai: "Shōwa no Yōkai" # todo: NEW TRANSLATION
+ JAP_riken_institute_director: "Ředitel institutu RIKEN" # todo: NEW TRANSLATION
+ JAP_head_of_the_shinkansen_project: "Vedoucí projektu Šinkansen" # todo: NEW TRANSLATION
+ JAP_pan_asianist_writer: "Panasijský spisovatel" # todo: NEW TRANSLATION
+ JAP_yuakai_organizer: "Organizátor Yūaikai" # todo: NEW TRANSLATION
+ JAP_minister_of_finance: "Ministr financí" # todo: NEW TRANSLATION
+ JAP_mitsubishi_president: "Prezident Mitsubishi" # todo: NEW TRANSLATION
+ JAP_mitsubishi_president_2: "$JAP_mitsubishi_president$" # todo: NEW TRANSLATION
+ JAP_nakajima_president: "Prezident Nakajima" # todo: NEW TRANSLATION
+ JAP_nakajima_president_2: "$JAP_nakajima_president$" # todo: NEW TRANSLATION
+ JAP_godfather_of_the_yamaguchi_gumi: "Kmotr Yamaguchi-gumi" # todo: NEW TRANSLATION
+ JAP_nissan_president: "Prezident Nissan" # todo: NEW TRANSLATION
+ JAP_nissan_president_2: "$JAP_nissan_president$" # todo: NEW TRANSLATION
+ JAP_yasukawa_zaibatsu_president: "Prezident Yasukawa Zaibacu" # todo: NEW TRANSLATION
+ JAP_dadaist_nihilist: "Dadaistický nihilista" # todo: NEW TRANSLATION
+ JAP_anarcha_feminist: "Anarcha-feminista" # todo: NEW TRANSLATION
+ JAP_democratic_socialist: "Demokratický socialista" # todo: NEW TRANSLATION
+ JAP_fascist_poet: "Fašistický básník" # todo: NEW TRANSLATION
+ JAP_scholarly_ashigaru: "Vzdělaný ashigaru" # todo: NEW TRANSLATION
+ JAP_expert_propaganda_artist: "Zkušený propagandista" # todo: NEW TRANSLATION
+ JAP_oomoto_preacher: "Kazatel Oomoto" # todo: NEW TRANSLATION
+ JAP_genro: "Poslední genrō" # todo: NEW TRANSLATION
+ JAP_futurist_samurai: "Futuristický samuraj" # todo: NEW TRANSLATION
+ JAP_militarist: "Militarista" # todo: NEW TRANSLATION
+ JAP_JNR_president: "Prezident JNR" # todo: NEW TRANSLATION
+ JAP_nichiren_abbot: "Opát Nichirenu" # todo: NEW TRANSLATION
+ JAP_military_prime_minister: "Vojenský premiér" # todo: NEW TRANSLATION
+ JAP_anti_communist_pm: "Protikomunistický premiér" # todo: NEW TRANSLATION
+ JAP_IJA_prime_minister_trait: "IJA premiér" # todo: NEW TRANSLATION
+ JAP_IJN_prime_minister_trait: "IJN premiér" # todo: NEW TRANSLATION
+ emperor_showa_2: "Císař Šówa" # todo: NEW TRANSLATION
+ JAP_noble_prime_minister: "Urozený premiér" # todo: NEW TRANSLATION
+ JAP_diplomatic_prime_minister: "Diplomatický premiér" # todo: NEW TRANSLATION
+ JAP_kozo_the_ogre_trait: "Kōzō the Ogre" # todo: NEW TRANSLATION
+ JAP_protector_of_the_eternal_kingdom: "Ochránce věčného císařství" # todo: NEW TRANSLATION
+ JAP_buddhist_socialist_trait: "Buddhistický socialista" # todo: NEW TRANSLATION
+ JAP_royal_lineage: "Královská linie" # todo: NEW TRANSLATION
+ JAP_royal_lineage_desc: "Tato postava pochází z královské rodiny buď přímé, Miyake nebo Shinnōke větve." # todo: NEW TRANSLATION
+ JAP_kamikaze_proponent: "Zastánce kamikaze" # todo: NEW TRANSLATION
+ JAP_kamikaze_proponent_desc: "Tato postava podporuje použití kamikaze taktik" # todo: NEW TRANSLATION
+ JAP_soto_trait: "Sōtō" # todo: NEW TRANSLATION
+ JAP_staunch_traditionalist_trait: "Zarytý tradicionalista" # todo: NEW TRANSLATION
+ emperor_genka: "Císař Genka" # todo: NEW TRANSLATION
+ sessho_trait: "Sesshō" # todo: NEW TRANSLATION
+ JAP_meijis_true_successor_trait: "Pravý nástupce Meijiho" # todo: NEW TRANSLATION
+ JAP_the_heavenly_sovereign_trait: "Nebeský suverén" # todo: NEW TRANSLATION
+ JAP_guided_by_amaterasu_trait: "Vedený Amaterasu" # todo: NEW TRANSLATION
+ JAP_embodying_empress_jingu: "Ztělesnění císařovny Jingū" # todo: NEW TRANSLATION
+ JAP_embodying_empress_jingu_and_zheng_yi_sao: "$JAP_embodying_empress_jingu$" # todo: NEW TRANSLATION
+ JAP_popular_diplomat: "Oblíbený diplomat" # todo: NEW TRANSLATION
+ JAP_socialist_politician: "Socialistický politik" # todo: NEW TRANSLATION
+ JAP_tohokai_sympathies: "Sympatie k Tōhōkai" # todo: NEW TRANSLATION
+ JAP_tohokai_sympathies_desc: "§Podporovatel cíle Tōhōkai.§!" # todo: NEW TRANSLATION
+ JAP_IJA_loyalist: "Věrný armádě" # todo: NEW TRANSLATION
+ JAP_IJA_loyalist_desc: "§Bude se v případě občanské války stavět proti vládě.§!" # todo: NEW TRANSLATION
+ JAP_government_supporter: "Stoupenec civilní vlády" # todo: NEW TRANSLATION
+ JAP_government_supporter_desc: "§V případě občanské války se přidá k vládě.§!" # todo: NEW TRANSLATION
+ JAP_minseito_leader: "Vůdce Rikken Minseitō" # todo: NEW TRANSLATION
+ JAP_rikken_seiyukai_leader: "Vůdce Rikken Seiyūkai" # todo: NEW TRANSLATION
+ JAP_shakai_taishuto_leader: "Vůdce Shakai Taishūtō" # todo: NEW TRANSLATION
+ JAP_the_tokugawa_heir: "Dědic Tokugawa" # todo: NEW TRANSLATION
+ JAP_ldp_leader: "Vůdce Jimintō" # todo: NEW TRANSLATION
+ JAP_moderate_navy_leader: "Mírný námořní vůdce" # todo: NEW TRANSLATION
+ JAP_chairman_of_the_jcp_trait: "První předseda Japonské komunistické strany" # todo: NEW TRANSLATION
+ JAP_first_secretary_of_the_jcp_trait: "První tajemník Japonské komunistické strany" # todo: NEW TRANSLATION
+ JAP_marxist_writer: "Marxistický spisovatel" # todo: NEW TRANSLATION
+ JAP_socialist_revolutionary: "Socialistický revolucionář" # todo: NEW TRANSLATION
+ JAP_nichiren_marxist_trait: "Nichiren marxista" # todo: NEW TRANSLATION
+ JAP_modernist_architect: "Modernistický architekt" # todo: NEW TRANSLATION
+ JAP_tohokai_leader: "Vůdce Tōhōkai" # todo: NEW TRANSLATION
+ MEN_educated_ulanqb_nobleman: "Vzdělaný Ulanqabský šlechtic" # todo: NEW TRANSLATION
+ MEN_borjigin_descendant: "Potomek Borjiginů" # todo: NEW TRANSLATION
+ MEN_nationalist_education_enthusiast: "Nacionalistický nadšenec pro vzdělávání" # todo: NEW TRANSLATION
+ inner_mongol_prp_chairman: "Předseda Vnitřněmongolské lidové revoluční strany" # todo: NEW TRANSLATION
+ KOR_highness_yi_of_changdeokgung: "Jeho výsost král Yi z Changdeokgung" # todo: NEW TRANSLATION
+ KOR_unam: "Unam" # todo: NEW TRANSLATION
+ KOR_suryong: "Suryong" # todo: NEW TRANSLATION
+ KOR_mongyang: "Mongyang" # todo: NEW TRANSLATION
+ PHI_filipino_nightingale: "Filipínský slavík" # todo: NEW TRANSLATION
+ PHI_puppet_president: "Loutkový prezident" # todo: NEW TRANSLATION
+ PHI_nation_builder: "Budovatel národa" # todo: NEW TRANSLATION
+ PHI_social_reformer: "$social_reformer$" # todo: NEW TRANSLATION
+ PHI_social_reformer_improved: "$social_reformer$" # todo: NEW TRANSLATION
+ PHI_pioneer_marxist: "Průkopnický marxista" # todo: NEW TRANSLATION
+ PHI_socialist_lawyer: "Socialistický právník" # todo: NEW TRANSLATION
+ PHI_radical_leader: "Radikální vůdce" # todo: NEW TRANSLATION
+ PHI_political_hacendado: "Politický hacendado" # todo: NEW TRANSLATION
+ PHI_hacendado: "Hacendado" # todo: NEW TRANSLATION
+ PHI_hacendado_improved: "$PHI_hacendado$" # todo: NEW TRANSLATION
+ PHI_revolutionary_hero: "Revoluční hrdina" # todo: NEW TRANSLATION
+ PHI_revolutionary_president: "Revoluční prezident" # todo: NEW TRANSLATION
+ PHI_philippine_nationalist: "Filipínský nacionalista" # todo: NEW TRANSLATION
+ PHI_philippine_nationalist_leader: "Vůdce filipínských nacionalistů" # todo: NEW TRANSLATION
+ PHI_resident_commissioner: "Rezidentní komisař" # todo: NEW TRANSLATION
+ PHI_sakdalista_editor: "Redaktor Sakdalisty" # todo: NEW TRANSLATION
+ PHI_chief_justice: "Předseda Nejvyššího soudu" # todo: NEW TRANSLATION
+ PHI_mercantalist: "Merkantilista" # todo: NEW TRANSLATION
+ PHI_mercantalist_improved: "$PHI_mercantalist$" # todo: NEW TRANSLATION
+ PHI_resistance_engineer: "Inženýr odboje" # todo: NEW TRANSLATION
+ PHI_coconut_scientist: "Vědec specialista na kokosy" # todo: NEW TRANSLATION
+ PHI_the_silent_killer: "Tichý zabiják" # todo: NEW TRANSLATION
+ PHI_indonesian_communist_exile: "Indonéský komunistický exilant" # todo: NEW TRANSLATION
+ PHI_special_forces_proponent: "Zastánce speciálních sil" # todo: NEW TRANSLATION
+ PHI_intelligence_bureau_chief: "Šéf zpravodajského úřadu" # todo: NEW TRANSLATION
+ PHI_self_reliance_defense_character: "Zastánce soběstačné obrany" # todo: NEW TRANSLATION
+ PHI_chief_of_staff: "Šéf štábu" # todo: NEW TRANSLATION
+ PHI_supreme_marshal: "Vrchní maršál" # todo: NEW TRANSLATION
+ PHI_supreme_commissioner: "Vrchní komisař" # todo: NEW TRANSLATION
+ PHI_back_soon_trait: "Žádná vláda" # todo: NEW TRANSLATION
+ PHI_resistance_connections: "Spojení v odboji" # todo: NEW TRANSLATION
+ PHI_san_miguel_trait: "Váš svět se stal lepším" # todo: NEW TRANSLATION
+ PHI_marsman_and_company_trait: "Konglomerát těžby zlata" # todo: NEW TRANSLATION
+ CHI_generallissimo_sea: "Generálissimus" # todo: NEW TRANSLATION
+ CHI_all_china_generalisimo: "Generálissimus celého Číny" # todo: NEW TRANSLATION
+ CHI_winner_of_resistance: "Vítěz války odporu" # todo: NEW TRANSLATION
+ bridgebuilder: "Stavitel mostů" # todo: NEW TRANSLATION
+ CHI_shanghai_financier: "Šanghajský finančník" # todo: NEW TRANSLATION
+ CHI_shanghai_financier_2: "Šanghajský finančník" # todo: NEW TRANSLATION
+ CHI_former_police_officer: "Bývalý policista" # todo: NEW TRANSLATION
+ CHI_civilian_unifier: "Civilní sjednotitel" # todo: NEW TRANSLATION
+ CHI_civilian_unifier_upgraded: "$CHI_civilian_unifier$" # todo: NEW TRANSLATION
+ CHI_civilian_unifier_upgraded_2: "$CHI_civilian_unifier$" # todo: NEW TRANSLATION
+ CHI_asian_unifier_and_liberator: "Asijský sjednotitel a osvoboditel" # todo: NEW TRANSLATION
+ CHI_president_of_examination_yuan: "Prezident Examination Yuan" # todo: NEW TRANSLATION
+ CHI_national_defence_theorist: "Teoretik národní obrany" # todo: NEW TRANSLATION
+ blue_shirt_connections_0: "Spojení Modré košile" # todo: NEW TRANSLATION
+ blue_shirt_connections_1: "$blue_shirt_connections_0$" # todo: NEW TRANSLATION
+ spymaster: "Mistr špionáže" # todo: NEW TRANSLATION
+ spymaster_no_lar: "$spymaster$" # todo: NEW TRANSLATION
+ CHI_spymaster: "BIS mistr špionáže" # todo: NEW TRANSLATION
+ CHI_dubious_loyalty: "Pochybná loajalita" # todo: NEW TRANSLATION
+ CHI_dubious_loyalty_desc: "Loajalita této postavy není dobře známa a může se snadno přidat k komunistické straně, pokud se naskytne příležitost." # todo: NEW TRANSLATION
+ SIC_dubious_loyalty: "$CHI_dubious_loyalty$" # todo: NEW TRANSLATION
+ SIC_dubious_loyalty_desc: "$CHI_dubious_loyalty_desc$" # todo: NEW TRANSLATION
+ XSM_dubious_loyalty: "$CHI_dubious_loyalty$" # todo: NEW TRANSLATION
+ XSM_dubious_loyalty_desc: "$CHI_dubious_loyalty_desc$" # todo: NEW TRANSLATION
+ YUN_dubious_loyalty: "$CHI_dubious_loyalty$" # todo: NEW TRANSLATION
+ YUN_dubious_loyalty_desc: "$CHI_dubious_loyalty_desc$" # todo: NEW TRANSLATION
+ CHI_judicial_yuan_president: "Prezident Judicial Yuan" # todo: NEW TRANSLATION
+ CHI_vice_premier_trait: "Vicepremiér" # todo: NEW TRANSLATION
+ CHI_kuomintang_liberal: "Kuomintangský liberál" # todo: NEW TRANSLATION
+ CHI_the_third_force_trait: "Třetí síla" # todo: NEW TRANSLATION
+ CHI_the_third_force_leader_trait: "$CHI_the_third_force_trait$" # todo: NEW TRANSLATION
+ CHI_chinese_orthodox_chruch_bishop_trait: "Biskup čínské pravoslavné církve" # todo: NEW TRANSLATION
+ CHI_the_northern_bastion_trait: "Severní bašta" # todo: NEW TRANSLATION
+ CHI_leader_of_the_chinese_brotherhood_trait: "Vůdce Čínského bratrství" # todo: NEW TRANSLATION
+ CHI_blueshirt_spymaster: "Cesta k čínské rekonstrukci" # todo: NEW TRANSLATION
+ CHI_blueshirt_spymaster_no_lar: "$CHI_blueshirt_spymaster$" # todo: NEW TRANSLATION
+ CHI_cc_clique_leader_trait: "Vůdce CC kliky" # todo: NEW TRANSLATION
+ CHI_minister_of_education: "Technokratický ministr školství" # todo: NEW TRANSLATION
+ CHI_chairman_of_the_republic_trait: "Předseda republiky" # todo: NEW TRANSLATION
+ CHI_tsr_son_of_heaven: "Syn nebes" # todo: NEW TRANSLATION
+ CHI_tsr_the_celestial_emperor: "Nebeský císař" # todo: NEW TRANSLATION

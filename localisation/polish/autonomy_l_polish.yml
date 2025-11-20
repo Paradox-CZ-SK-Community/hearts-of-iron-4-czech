@@ -72,4 +72,6 @@
  autonomy_wtt_imperial_associate:0 "Imperiální přidruženec"
  autonomy_wtt_imperial_protectorate:0 "Imperiální protektorát"
  autonomy_wtt_imperial_subject:1 "Imperiální subjekt"
- 
+  SUBJECT_OF_NAME: "Podřízený:\n$VALUE|H$" # todo: NEW TRANSLATION
+ autonomy_sea_warlord_subject: "Podřízený válečného vůdce" # todo: NEW TRANSLATION
+ autonomy_sea_integrated_warlord_subject: "Integrovaný podřízený válečného vůdce" # todo: NEW TRANSLATION

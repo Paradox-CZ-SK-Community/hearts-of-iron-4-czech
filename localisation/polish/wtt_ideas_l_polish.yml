@@ -25,7 +25,7 @@
  CHI_hyper_inflation_none: "Stabilní ekonomika"
  CHI_hyper_inflation_none_desc: "Ekonomika nejeví žádné známky potíží."
  CHI_incompetent_officers: "Nezkušení důstojníci"
- CHI_incompetent_officers_desc:2 "Naši důstojníci ještě nejsou schopni řídit moderní válku. Než se skutečně vyrovnají svým kolegům v jiných zemích, budou se muset naučit tvrdé lekce. Jejich vzdělávání bude součástí širšího programu reformy armády."
+ CHI_incompetent_officers_desc: "Naši důstojníci ještě nejsou schopni řídit moderní válku. Než se skutečně vyrovnají svým kolegům v jiných zemích, budou se muset naučit tvrdé lekce. Jejich vzdělávání bude součástí širšího programu reformy armády."
  CHI_ineffective_bureaucracy: "Neefektivní byrokracie"
  CHI_ineffective_bureaucracy_desc: "Chaos občanské války narušil vytvoření účinného státního aparátu. Více než třetina dostupných rekrutů není povolána do armády jednoduše proto, že o jejich existenci nikdo neví. Reforma přijímacího řízení zajistí, že budeme přijímat kompetentní lidi."
  CHI_ineffective_bureaucracy_warlord: "Neefektivní byrokracie"
@@ -39,7 +39,6 @@
  CHI_warlord_state_idea: "Stát pod vládou militaristů"
  CHI_warlord_state_idea_desc: "Náš stát má daleko k definici tohoto slova. Je to region a lidé žijící svůj každodenní život pod ochranou nezávislé armády, která žádnému státu nepřísahá věrnost. To vede k tomu, že jako vláda můžeme dělat jen velmi málo, ale má to i své klady."
  CHI_warlord_state_idea_tt: "Tento duch bude odstraněn po dokončení kteréhokoliv ze zaměření §Y$CHI_power_struggle$§!, §Y$CHI_the_yanan_incident$§! a §Y$CHI_proclaim_rival_government$§!"
- JAP_duplicate_research_efforts: "Duplicitní výzkumná práce"
  JAP_hirohito: "Hirohito"
  JAP_interservice_rivalry_army_dominant: "Rivalita mezi složkami - Dominantní armáda"
  JAP_interservice_rivalry_army_strengthened: "Rivalita mezi složkami - Převaha armády"
@@ -102,3 +101,7 @@
  joseph_stilwell_sent_to_china: "Joseph Stilwell vyslán do Číny"
  shanghai_electronics: "Šanghajská elektronika"
  sino_soviet_resource_surveyors: "Čínsko-sovětský průzkum zdrojů"
+ JAP_separate_air_services: "Oddělené letectvo" # todo: NEW TRANSLATION
+ JAP_militarism_desc: "Militarismus dominuje politickému a společenskému životu národa a víra, že síla armády je rovna síle národa, je výrazná. Od zavedení branné povinnosti během Meidži restaurace se to nyní stalo základní zásadou našich národních přesvědčení." # todo: NEW TRANSLATION
+ MAN_the_kangde_emperor: "Císař Kangde" # todo: NEW TRANSLATION
+ MAN_the_kangde_emperor_desc: "V roce 1934 byl Puyi korunován císařem Manchukuo; změnil svůj titul z Chief Executive na císaře a bylo přijato nové jméno éry. Předtím vládl pod jménem Datong, nyní vládne Manchurii jako císař Kangde." # todo: NEW TRANSLATION

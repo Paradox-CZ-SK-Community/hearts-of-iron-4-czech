@@ -294,15 +294,15 @@
  ITA_bop_liturgical_reforms_cd_tt: "$BUL_days_re_enable_tt$ §Y[?ITA_bop_liturgical_reforms_cd] dní§!."
  ITA_bop_military_parade: "Uspořádat vojenskou přehlídku"
  ITA_bop_military_parade_desc: "Je nejvyšší čas oslavit naše vítězné a udatné vojáky a nechat italský lid, aby je zahrnul uznáním."
- ITA_bop_praise_the_airforce: "Pochválit letectvo"
+ ITA_bop_praise_the_airforce: "Chválit letectvo" # todo: CHANGED
  ITA_bop_praise_the_airforce_desc: "Stateční muži a ženy sloužící v našem letectvu jsou to, co [ITA.GetName] považuje za oporu své bezpečnosti a stability. Zaslouží si obdiv italského lidu!"
  ITA_bop_praise_the_army: "Pochválit armádu"
  ITA_bop_praise_the_army_desc: "Stateční muži a ženy sloužící v naší armádě jsou to, co [ITA.GetName] považuje za oporu své bezpečnosti a stability. Zaslouží si obdiv italského lidu!"
  ITA_bop_praise_the_navy: "Pochválit námořnictvo"
  ITA_bop_praise_the_navy_desc: "Stateční muži a ženy sloužící v našem námořnictvu jsou to, co [ITA.GetName] považuje za oporu své bezpečnosti a stability. Zaslouží si obdiv italského lidu!"
  ITA_bop_privileges_for_the_elites: "Privilegia pro elity"
- ITA_bop_question_the_airforce: "Zpochybnit loajalitu letectva"
- ITA_bop_question_the_airforce_desc: "Nedávné události odhalily neefektivitu letectva, takže si mnozí kladou otázku, nakolik jsou vojáci loajální Itálii a fašistickému systému."
+ ITA_bop_question_the_airforce: "Zpochybnit věrnost letectva" # todo: CHANGED
+ ITA_bop_question_the_airforce_desc: "Nedávné události, které odhalily neefektivitu letectva, přiměly mnohé lidi pochybovat o tom, jak věrní jsou vojáci Itálii a fašistickému systému." # todo: CHANGED
  ITA_bop_question_the_army: "Zpochybnit loajalitu armády"
  ITA_bop_question_the_army_desc: "Nedávné události odhalily neefektivitu armády, takže si mnozí kladou otázku, nakolik jsou vojáci loajální Itálii a fašistickému systému."
  ITA_bop_question_the_navy: "Zpochybnit loajalitu námořnictva"
@@ -417,7 +417,7 @@
  ITA_missiolini_occupy_greece_occupation_effects: "\nKaždý [GRE.GetFlag][GRE.GetAdjective] domovský stát, který plně kontroluje [ROOT.GetFlag][ROOT.GetNameDef]: \n   Poslušnost: §G+5,0 %§!. \n   Odboj: §G-5,0 %§! \n\nAktuální efekty:"
  ITA_missiolini_occupy_greece_subject_effects: "\nPokud je [GRE.GetFlag][GRE.GetName] podřízeným státem §Y[ROOT.GetFlag][ROOT.GetNameDef]§!: \n"
  ITA_missiolini_occupy_ticino: "Obsadit [846.GetName]"
- ITA_missiolini_occupy_ticino_desc: "„Od chvíle, kdy Hannibal překročil Alpy se svými slony, jsou hory dálnicí barbarů přímo do srdce Itálie. Musíme zajistit naši severní hranici.“"
+ ITA_missiolini_occupy_ticino_desc: "Od té doby, co Hannibal přešel Alpy se svými slony, slouží hory jako dálnice pro barbarské nájezdy přímo do srdce Itálie. Musíme zajistit naši severní hranici." # todo: CHANGED
  ITA_missiolini_occupy_ticino_occupation_effects: "\n[846.GetName] a každý [SWI.GetFlag][SWI.GetAdjective] domovský stát, který plně kontroluje [ROOT.GetFlag][ROOT.GetNameDef]: \n   Poslušnost: §G+5,0 %§!. \n   Odboj: §G-5,0 %§! \n\nAktuální efekty:"
  ITA_missiolini_occupy_ticino_subject_effects: "\nPokud je [SWI.GetFlag][SWI.GetName] podřízeným státem §Y[ROOT.GetFlag][ROOT.GetNameDef]§!: \n"
  ITA_missiolini_pacify_ethiopia: "Pacifikovat Etiopii"
@@ -431,9 +431,9 @@
  ITA_missiolini_strengthen_heavy_industry: "Program industrializace"
  ITA_missiolini_strengthen_heavy_industry_desc: "Aby Itálie skutečně vzkvétala, musíme postavit nové továrny, které uživí růst naší kypící říše, a rozšířit výrobní kapacity."
  ITA_missiolini_strengthen_heavy_industry_trigger_tt: "$TRIGGER_NUM_OF_CIVILIAN_FACTORIES_MORE_THAN$§Y[?ITA_missiolinis_required_civs]§!. (Aktuálně §[GetColorNumOfCivsMissiolinis][?ROOT.num_of_civilian_factories]§!.)"
- ITA_missiolini_strengthen_the_airforce: "Posílit letectvo"
+ ITA_missiolini_strengthen_the_airforce: "Posílit letectvo" # todo: CHANGED
  ITA_missiolini_strengthen_the_airforce_bombers_goal_tt: "Vyrobil nebo získal §Y[?ROOT.ITA_missiolinis_bombers_to_produce]§! nových letounů §Y$CAS_equipment$§!, §Y$nav_bomber_equipment$§! nebo §Y$tac_bomber_equipment$§! (pouze jeden typ). \nAktuálně nasazená §Yletecká podpora§!: §G[?ROOT.num_deployed_planes_with_type@small_plane_cas_airframe]§! - Aktuálně ve skladech §G[?ROOT.num_equipment@small_plane_cas_airframe]§! - Celkový cíl §Y[?ITA_missiolinis_cas_goal]§! \nAktuálně nasazeny §Ynámořní bombardéry§!: §G[?ROOT.num_deployed_planes_with_type@small_plane_naval_bomber_airframe]§! - Aktuálně ve skladech §G[?ROOT.num_equipment@small_plane_naval_bomber_airframe]§! - Celkový cíl §Y[?ITA_missiolinis_naval_bombers_goal]§! \nAktuálně nasazeny §Ytaktické bombardéry§!: §G[?ROOT.num_deployed_planes_with_type@medium_plane_airframe]§! - Aktuálně Aktuálně ve skladech §G[?ROOT.num_equipment@medium_plane_airframe]§! - Celkový cíl §Y[?ITA_missiolinis_tactical_bombers_goal]§!"
- ITA_missiolini_strengthen_the_airforce_desc: "Aeronautica se stala symbolem národní hrdosti a kdysi patřila k největším letectvům na světě. Musíme vyrobit další letouny, posílit naše letectvo a znovu je učinit velikým."
+ ITA_missiolini_strengthen_the_airforce_desc: "Regia Aeronautica se stala symbolem národní hrdosti a byla kdysi jedním z největších letectev na světě. Musíme vyrábět další letouny, abychom posílili naše letectvo a vrátili mu bývalou slávu." # todo: CHANGED
  ITA_missiolini_strengthen_the_airforce_fighters_goal_tt: "Vyrobil nebo získal §Y[?ROOT.ITA_missiolinis_fighters_to_produce]§! nových letounů §Y$fighter_equipment$§!. \nAktuálně nasazené §Ystíhačky§!: §G[?ROOT.num_deployed_planes_with_type@small_plane_airframe]§! - Aktuálně ve skladech §G[?ROOT.num_equipment@small_plane_airframe]§! - Celkový cíl §Y[?ITA_missiolinis_fighters_goal]§! \n\n"
  ITA_missiolini_strengthen_the_army: "Posílit armádu"
  ITA_missiolini_strengthen_the_army_desc: "Stejně jako starověká Římská říše se i naše rozvíjející se impérium rozprostírá široko daleko a potřebuje silnou armádu, která ho ochrání před hordami barbarů za hranicemi."
@@ -677,14 +677,14 @@
  SWI_publicly_appease_country: "Veřejně uklidnit [FROM.GetNameDef]"
  SWI_publicly_reject_country: "Veřejně odsoudit [FROM.GetNameDef]"
  SWI_purchase_democratic_planes_cas: "Zakoupit bombardéry od [FROM.GetName]"
- SWI_purchase_democratic_planes_cas_desc: "Dokud je naše průmyslová kapacita omezená, musíme se spolehnout na [FROM.GetName], aby zásoboval naše letectvo bombardéry potřebnými k podpoře jednotek na bojišti."
+ SWI_purchase_democratic_planes_cas_desc: "Zatímco je naše průmyslová kapacita stále omezená, musíme se spoléhat na [FROM.GetName], že našemu letectvu dodá bombardéry, které potřebujeme k podpoře našich jednotek na bojišti" # todo: CHANGED
  SWI_purchase_democratic_planes_fighters: "Zakoupit stíhačky od [FROM.GetName]"
- SWI_purchase_democratic_planes_fighters_desc: "Obrana nebe nad [ROOT.GetName] nemůže čekat, až budeme schopni vyrábět vlastní letectvo, proto se prozatím musíme spolehnout na [FROM.GetName] pro dodávky stíhacích letounů."
+ SWI_purchase_democratic_planes_fighters_desc: "Obrana vzdušného prostoru nad [ROOT.GetName] nesnese odklad, až budeme mít kapacity na výrobu vlastního letectva, takže mezitím se budeme muset spolehnout na [FROM.GetName] pro stíhací letouny." # todo: CHANGED
  SWI_purchase_democratic_planes_unlock_TT: "Odemkne rozhodnutí zakoupit §Ystíhačky a letouny blízké letecké podpory§! od §Y[?SWI.SWI_democratic_planes_seller.GetFlag][?SWI.SWI_democratic_planes_seller.GetNameDef]§!"
  SWI_purchase_fascist_planes_cas: "Zakoupit bombardéry od [FROM.GetName]"
- SWI_purchase_fascist_planes_cas_desc: "Dokud je naše průmyslová kapacita omezená, musíme se spolehnout na [FROM.GetName], aby zásoboval naše letectvo bombardéry potřebnými k podpoře jednotek na bojišti."
+ SWI_purchase_fascist_planes_cas_desc: "Zatímco je naše průmyslová kapacita stále omezená, musíme se spoléhat na [FROM.GetName], že našemu letectvu dodá bombardéry, které potřebujeme k podpoře našich jednotek na bojišti" # todo: CHANGED
  SWI_purchase_fascist_planes_fighters: "Zakoupit stíhačky od [FROM.GetName]"
- SWI_purchase_fascist_planes_fighters_desc: "Obrana nebe nad [ROOT.GetName] nemůže čekat, až budeme schopni vyrábět vlastní letectvo, proto se prozatím musíme spolehnout na [FROM.GetName] pro dodávky stíhacích letounů."
+ SWI_purchase_fascist_planes_fighters_desc: "Obrana vzdušného prostoru nad [ROOT.GetName] nesnese odklad, až budeme mít kapacity na výrobu vlastního letectva, takže mezitím se budeme muset spolehnout na [FROM.GetName] pro stíhací letouny." # todo: CHANGED
  SWI_purchase_fascist_planes_unlock_TT: "Odemkne rozhodnutí zakoupit §Ystíhačky a letouny blízké letecké podpory§! od §Y[?SWI.SWI_biggest_fascist.GetFlag][?SWI.SWI_biggest_fascist.GetNameDef]§!"
  SWI_push_for_centralization: "Prosadit centralizaci"
  SWI_rally_cantonal_defense: "Zmobilizovat kantonální obranu"
@@ -837,3 +837,5 @@
  war_escalation_icon_tt: "§YEskalace války§!\nEfekty spuštěné rostoucí eskalací války podle úrovně:\n Úroveň 3:\n §YSpolečnost národů§!: Odemčeno „Požadovat embargo“.\n §YEtiopie§!: Roste mezinárodní prestiž \nÚroveň 4:\n §YSpolečnost národů§!: Odemčeny „Nákupy zbraní“.\n §YItálie§!: Italská veřejnost je znepokojena\nÚroveň 5:\n §YSpolečnost národů§!: Odemčeno „Uzavření Suezského průplavu“.\n §YItálie§!: Africká armáda je demoralizovaná\nÚroveň 6: \n §YSpolečnost národů§!: Odemčeny „Mezinárodní brigády“.\n §YEtiopie§!: Morálka armády posílena\n §YItálie§!: Nepokoje v koloniích\nÚroveň 7: \n §YSpolečnost národů§!: Odemčena „Mezinárodní sprostředkování“.\n §YItálie§!: Italská veřejnost zpochybňuje válečné úsilí \nÚroveň 8:\n §YEtiopie§!: Dezerce nepřítele\n §YItálie§!: Masové dezerce \nÚroveň 9:\n §YEtiopie§!: Přežití navzdory všem předpokladům \nÚroveň 10:\n §YEtiopie§!: Lidová válka\n §YItálie§!: Vzpoury v koloniích"
  war_escalation_level_tt: "§YAktuální úroveň eskalace války§!\nÚroveň eskalace roste v čase a také v důsledku různých kroků Itálie.\n\nDélka války: §Y+[?ETH.ETH_escalation_time_increase_total]§!\nItálie zahájila velkou ofenzivu (+1) [GetItalianRenewedOffensiveText]\n\nItálie nasadila alespoň 25 pravidelných divizí (+1) [GetItalian20DivisionsText]\n\nItálie nasadila alespoň 300 letadel (+1) [GetItalianAircraftsText] [GetDefendTheNorthMissionText][GetDefendTheSouthMissionText][GetDefendHararMissionText][GetDefendTheCapitalMissionText]"
  war_escalation_text: "£generic_war_escalation_text_icon Úroveň eskalace války: §Y[?ETH.ETH_war_escalation_level]§!"
+ SWI_avoid_failing_country_angry_TT_NOT: "Ne: Názor [?SWI.SWI_angriest_country.GetName] na [ROOT.GetName] je vyšší než [?SWI.SWI_no_longer_angry_threshold]" # todo: NEW TRANSLATION
+ SWI_council_not_filled_TT_NOT: "Nejsou volná místa v radě" # todo: NEW TRANSLATION

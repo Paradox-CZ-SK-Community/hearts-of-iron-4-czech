@@ -70,7 +70,7 @@
  demand_indochina_focus: "Vznést požadavek na Francouzskou Indočínu"
  demand_indochina_focus_desc: "Po porážce ve Francii je francouzská kontrola nad zámořskými koloniemi více než chatrná. Přinuťme novou francouzskou vládu, aby poskytla Japonsku plný přístup k základnám v Indočíně. Tento region nám poslouží jako odrazový můstek pro budoucí tažení."
  demand_indochina_focus_short_desc: "§LZatlačte na novou francouzskou vládu, aby se vzdala Indočíny.§!"
- demand_indochina_focus_tt: "Francie vlastní Indočínu."
+ demand_indochina_focus_tt: "France vlastní §YIndochina§!" # todo: CHANGED
  demand_sudetenland: "Vznést požadavek na Sudety"
  demand_sudetenland_desc: "Německé obyvatelstvo Sudet je krutě utlačováno svými československými vládci – zločin, který už nesmí být dále tolerován! Sudety a jejich lid musí být okamžitě postoupeny Německu."
  demand_sudetenland_short_desc: "§LSoustřeďte jednotky na československé hranici a vyviňte tlak na Prahu.§!"

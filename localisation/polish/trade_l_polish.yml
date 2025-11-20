@@ -46,7 +46,7 @@
  TRADEVIEW_EXPORT_DETAILS_LINE_THEY: " - $NUM$/$TOT$ do @$TAG$$WHO|H$"
  TRADEVIEW_EXPORT_DETAILS_LINE_US: " - $NUM$/$TOT$ do §Hnás§!"
  TRADEVIEW_EXPORT_DETAILS_NONE: "§TNic§!"
- TRADEVIEW_EXPORT_DETAILS_US: "Z $TOT|H$ $RES|H$ §T§Hmy§! máme $AVAILABLE|H$ k vývozu.\nAktuální vývoz:§!"
+ TRADEVIEW_EXPORT_DETAILS_US: "Díky $RTM|H$ máme k vývozu $TOT|H$ $RES|H$§T, z čehož nám zbývá $AVAILABLE|H$.\nAktuální exporty:§!"
  TRADEVIEW_EXPORT_DETAILS_US_DEFICIT: "Z $TOT|H$ $RES|H$ §T§Hmy§! máme §H0§! k vývozu a deficit $AVAILABLE|H$ pro pokrytí všech stávajících vývozních smluv.\nAktuální vývoz:§!"
  TRADEVIEW_IMPORT_DETAILS: "$WHO|H$ dováží $TOT|H$ $RES|H$ z $NUM|H$ zemí:"
  TRADEVIEW_IMPORT_DETAILS_LINE_THEY: " - Dovoz $NUM$/$TOT$ od @$TAG$$WHO|H$"
@@ -165,3 +165,7 @@
  TRADE_WAS_TERMINATED: "Obchod s $RESOURCE|H$ s $COUNTRY|H$ byl ukončen."
  TRADE_WAS_TERMINATED_COUNTRY: "Obchod s $COUNTRY|H$ byl ukončen kvůli nízkému obchodnímu vlivu."
  TRADE_WITH_COUNTRY: "§GKlikněte pro obchod s @$TAG$$COUNTRY|H$§!"
+ TRADEVIEW_RES_TRANSFERRED_FROM_SUBJECT_DETAILS: "- $NUM|H$ $TYPE|H$ ($FACTOR|%0H$) přeneseno od $SUBJECT|H$" # todo: NEW TRANSLATION
+ TRADEVIEW_EXPORT_TO_OVERLORD_DETAILS: "$NUM|H$ $RES|H$ ($FACTOR|%0H$) je odesláno nadvládci $OVERLORD|H$" # todo: NEW TRANSLATION
+ CONVOY_DOMINANCE_COST_REDUCTION: "(£naval_dominance_texticon£: $REDUCTION|%0-=$)" # todo: NEW TRANSLATION
+ CONVOY_DOMINANCE_COST_REDUCTION_EXPLANATION: "£naval_dominance_texticon£ §YNámořní nadvláda§! může snížit potřebu konvojů až o $REDUCTION|%0+$ na plně kontrolovaných námořních trasách. \n" # todo: NEW TRANSLATION

@@ -40,7 +40,7 @@
  CZE_communist_support: "Podpora komunistů"
  CZE_communist_support_desc: "Naše levicové směřování nabírá na obrátkách. Podpora komunismu v celé zemi roste a s rostoucí vládní podporou se bude jen zvyšovat."
  CZE_cruiser__catchup_1: "Průlom na poli křižníku"
- CZE_cruiser__catchup_1_desc: "Naše nová potřeba námořnictva vedla k náhlému rozmachu konstrukce křižníků.
+ CZE_cruiser__catchup_1_desc: "Naše nová potřeba námořnictva vedla k náhlému rozmachu konstrukce křižníků."
  CZE_czech_fascism: "Český fašismus"
  CZE_czech_fascism_desc: "Podpora fašismu v celé zemi roste, a jak se do rukou fašistů dostává stále více moci, může být na disidenty, kteří se brání, vyvíjen stále větší a silnější nátlak."
  CZE_czech_socialism: "Český socialismus"
@@ -436,7 +436,7 @@
  ROM_coastal_defense_ships_desc: "Bude třeba vytvořit nové konstrukce lodí, které budou vynikat v oblasti pobřežní obrany."
  ROM_coastal_defense_ships_tech_tt: "Umožňuje §HPobrežní lodě§!\n§H Těžké křižníky§!\n    Pancíř: §G+20%§!\n    Námořní palebná síla: §G+10%§!\n    Náklady na výrobu: §G-10%§!"
  ROM_constitutional_guarantees: "Ústavní záruky"
- ROM_constitutional_guarantees_desc: "Ústavní změny, které král prosadil, musí být zrušeny a musí být zavedeny záruky a rovnováhy, které zajistí, že se to nebude opakovat. Jinak z nás zůstane jen výsměch demokracii."
+ ROM_constitutional_guarantees_desc: "Ústavní změny provedené králem musí být zrušeny a musí být zavedeny záruky a vyváženosti moci, aby se to neopakovalo. Jinak zůstane z demokracie pouze fraška." # todo: CHANGED
  ROM_crack_down_on_extremism: "Zásah proti extremismu"
  ROM_crack_down_on_extremism_desc: "Naše politická scéna se za vlády krále výrazně posunula doprava. To však znamená, že extremistické složky společnosti mají stále moc nad srdci a myslí našich lidí. Musíme proti těmto darebákům zakročit, abychom našim lidem zajistili umírněnější budoucnost."
  ROM_danubian_transport_network: "Dunajská dopravní síť"
@@ -476,7 +476,7 @@
  ROM_heavy_bombers: "Těžké bombardéry"
  ROM_heavy_bombers_desc: "Naše strategické bombardovací síly potřebují dostatečný dolet a nosnost pum. Velké bombardéry jsou jedinou reálnou možností, jak těchto požadavků dosáhnout."
  ROM_heavy_interceptors: "Těžké stíhačky"
- ROM_heavy_interceptors_desc: "Naše země nemůže podporovat velké letectvo. Musíme soustředit co největší palebnou sílu v každém letadle, abychom zničili každého útočníka."
+ ROM_heavy_interceptors_desc: "Naše země nemůže podporovat velké letectvo. Musíme soustředit co nejvíce palebné síly do každého letounu, aby dokázal zničit jakéhokoli útočníka." # todo: CHANGED
  ROM_his_majestys_loyal_government: "Loajální vláda Jeho Veličenstva"
  ROM_his_majestys_loyal_government_desc: "Domácí loajalita je prvořadá, a pokud národ stojí za svým králem, pragmatická zahraniční politika je zbytečná."
  ROM_hunedoara_steel_works: "Hutě Hunedoara"
@@ -486,7 +486,7 @@
  ROM_institute_royal_dictatorship: "Zavést královskou diktaturu"
  ROM_institute_royal_dictatorship_desc: "Nastal čas dále rozšířit už tak rozsáhlé pravomoci krále. To přinese zemi politickou stabilitu a umožní jí soustředit se na hrozby zvenčí."
  ROM_invest_in_the_iar: "Investovat do IAR"
- ROM_invest_in_the_iar_desc: "Je nezbytné držet krok s požadavky moderního letectva. Náš průmysl musí být schopen nejen vyrábět stroje, které potřebujeme v první řadě, ale také je vyrábět dostatečně rychle, aby nahradil provozní ztráty."
+ ROM_invest_in_the_iar_desc: "Je zásadní držet krok s požadavky moderního letectva. Náš průmysl musí být schopen nejen postavit stroje, které potřebujeme, ale také to dělat dostatečně rychle, aby nahrazoval provozní ztráty." # todo: CHANGED
  ROM_invite_foreign_motor_companies: "Pozvat zahraniční automobilky"
  ROM_invite_foreign_motor_companies_desc: "Namísto vynakládání prostředků na zvyšování výroby neověřených domácích automobilových modelů bychom měli větší užitek z výroby osvědčených a vyzkoušených zahraničních modelů na základě licence."
  ROM_invite_german_advisors: "Pozvat německé poradce"
@@ -612,7 +612,7 @@
  YUG_ban_fascists: "Zakázat fašistické strany"
  YUG_ban_fascists_desc: "I dnes jsou v našem národě strany, které staví jednu kulturu nad všechny ostatní a usilují o nadvládu v jugoslávském svazu. Tito lidé nemají v našem národě místo a musí být umlčeni."
  YUG_ban_slovene_nationalist_parties: "Zakázat slovinské nacionalistické strany"
- YUG_ban_slovene_nationalist_parties_desc: "Každé volání po nezávislosti musí být pro dobro našeho národa potlačeno. Nacionalistické politické živly budou postaveny mimo zákon a jejich příznivci pronásledováni, aby nás vnitřně neoslabovali.
+ YUG_ban_slovene_nationalist_parties_desc: "Každé volání po nezávislosti musí být pro dobro našeho národa potlačeno. Nacionalistické politické živly budou postaveny mimo zákon a jejich příznivci pronásledováni, aby nás vnitřně neoslabovali."
  YUG_banat_for_support: "Banát za podporu"
  YUG_banat_for_support_desc: "Není žádným tajemstvím, že Maďaři a Rumuni usilují o anexi severního Srbska, a vzhledem k nedostatku zahraniční podpory pro náš stát bychom se mohli těchto území vzdát výměnou za určitý stupeň uznání a podpory."
  YUG_bomber_license: "Licence na bombardéry"

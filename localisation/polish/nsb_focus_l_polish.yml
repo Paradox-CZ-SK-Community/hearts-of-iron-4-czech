@@ -29,8 +29,8 @@
  BALTIC_british_aircraft_alt: "Výroba zahraničních letadel"
  BALTIC_british_aircraft_default: "Britská výroba letadel"
  BALTIC_british_aircraft_desc: "[GetBritAircraftManufDesc]"
- BALTIC_british_aircraft_desc_alt: "Dosavadní snahy o domácí letecké konstrukce byly v nejlepším případě vlažné. Dosud se letectvo spoléhalo na letadla zabavená německým a sovětským silám, ale pokud chceme přežít, musíme zahájit domácí výrobu letadel a pomoc cizího letectva může být klíčem k vítězství…"
- BALTIC_british_aircraft_desc_default: "Dosavadní snahy o domácí letecké konstrukce byly v nejlepším případě vlažné. Dosud se letectvo spoléhalo na letadla zabavená německým a sovětským silám, ale pokud chceme přežít, musíme zahájit domácí výrobu letadel a britské letectvo může být klíčem k vítězství…"
+ BALTIC_british_aircraft_desc_alt: "Dosavadní snahy o domácí letecké konstrukce byly v lepším případě vlažné. Dosud se letectvo spoléhalo na letadla ukořistěná německými a sovětskými silami, ale pokud chceme přežít, musíme zahájit domácí výrobu letadel a pomoc cizího letectva může být klíčem k dosažení vítězství…" # todo: CHANGED
+ BALTIC_british_aircraft_desc_default: "Dosavadní snahy o domácí letecké konstrukce byly v lepším případě vlažné. Dosud se letectvo spoléhalo na letadla ukořistěná německými a sovětskými silami, ale pokud chceme přežít, musíme zahájit domácí výrobu letadel a britské letectvo může být klíčem k dosažení vítězství…" # todo: CHANGED
  BALTIC_british_designers: "Pozvat britské konstruktéry"
  BALTIC_british_designers_desc: "Podrobně jsme studovali britské návrhy a s podnikem [Root.Capital.GetName]-Crossley Motors, který se ukázal být nejúspěšnejším, by bylo vhodné rozšířit formální pozvání britským konstruktérům, aby se připojili k [Root.GetNonIdeologyAdjective] inženýrské společnosti."
  BALTIC_communist_opposition: "Vstoupit do opozice"
@@ -266,7 +266,7 @@
  EST_unite_our_nations: "Sjednotit naše národy"
  EST_unite_our_nations_desc: "S Finskem nyní v rukou jeho veteránů a s naším vlivem pevně vetkaným do samotné struktury nové finské vlády stačí zatáhnout za pár nití a budeme schopni sjednotit naše národy v jeden stát."
  EST_unite_the_finnic_identity: "Sjednotit ugrofinskou identitu"
- EST_unite_the_finnic_identity_desc: "Když máme všechny hlavní Finy na skandinávském subkontinentu pod kontrolou, můžeme sjednotit finskou identitu a vyhlásit nový stát, který budou Estonci, Finové, Sámové, Něnci a všechny ostatní ugrofinské národy nazývat domovem."
+ EST_unite_the_finnic_identity_desc: "S veškerými hlavními Finny na skandinávském podkontinentu pod naší kontrolou jsme schopni sjednotit ugrofinskou identitu a vyhlásit nový stát, který mohou Estonci, Finové, Sámové, Nenecové a všichni ostatní ugrofinské národy nazývat svým domovem." # todo: CHANGED
  EST_unite_the_sami: "Sjednotit Sámi"
  EST_unite_the_sami_desc: "Sámové jsou roztříštěný a široce utlačovaný národ žijící ve Finsku, Švédsku, Norsku a Rusku. Příliš dlouho jim bylo odpíráno právo mluvit jejich finským jazykem a postrádají sílu k boji proti svým utlačovatelům. Musíme Sámi začlenit do našeho státu, abychom je ochránili před severským imperialismem."
  EST_vapsid_youth: "Mládež Vapsů"
@@ -1033,7 +1033,7 @@
  SOV_cooperation_against_stalin_other_tt: "Stanou se dostupní noví poradci."
  SOV_cooperation_against_stalin_right_tt: "§Y$SOV_karl_radek$§! a §Y$SOV_yevgeny_preobrazhensky$§! se stanou dostupnými jako poradci."
  SOV_coup_detat: "Státní převrat"
- SOV_coup_detat_civil_war_tt: "Přidá podporu Pravé opozici v armádě, námořnictvu a letectvu.\nZačne §Ysovětská občanská válka§!."
+ SOV_coup_detat_civil_war_tt: "Přidává podporu Pravé opozici v armádě, námořnictvu a letectvu.\nZahajuje §YSovětskou občanskou válku§!. " # todo: CHANGED
  SOV_coup_detat_desc: "Nadešla hodina chopit se vlády nad zemí. Pokud vše půjde dobře, udeříme rychle a odstraníme největší překážky v bezkrevném převratu. Pokud ne, budeme muset o naši vlast bojovat."
  SOV_coup_detat_success_tt: "§YPravá opozice§! převezme moc prostřednictvím převratu. §Y$SOV_lavrenty_beriya$§! je odstraněn."
  SOV_covert_operations: "Tajné operace"
@@ -1260,7 +1260,7 @@
  SOV_left_opposition_civil_war_name: "Sovětská občanská válka"
  SOV_left_opposition_coup: "Zažehnout plameny"
  SOV_left_opposition_coup_desc: "Nastal čas. Povstaňme proti tyranovi. Revoluce začne znovu!"
- SOV_left_opposition_coup_tt: "Přidá podporu Levé opozici v armádě, námořnictvu a letectvu.\nZačíná §YSovětská občanská válka§!."
+ SOV_left_opposition_coup_tt: "Přidává podporu Levé opozici v armádě, námořnictvu a letectvu.\nZahajuje §YSovětskou občanskou válku§!. " # todo: CHANGED
  SOV_left_opposition_name: "Levá opozice"
  SOV_left_purges: "Odstranit kontrarevolucionáře"
  SOV_left_purges_desc: "Je tu mnoho dalších, kteří chovali zášť proti Stalinovi. Dokud stále upevňujeme svou moc, nesmíme dovolit, aby tito lidé začali tvořit kontrarevoluční buňky – jinak budeme mít brzy na krku další občanskou válku."
@@ -1721,7 +1721,7 @@
  SOV_the_iron_wall_of_russian_resolve: "Železná zeď ruského odhodlání"
  SOV_the_iron_wall_of_russian_resolve_desc: "Car si představuje stavbu legií obludných válečných strojů, které zastíní stávající tanky a nebudou mít na bojišti obdoby. Ruský lid je nepokořený; je nepokořitelný! Tyto stroje budou ztělesněním tohoto odhodlání - a na nich se zlomí každá armáda, která se proti nám vrhne."
  SOV_the_khakimov_proposal: "Chakimovův návrh"
- SOV_the_khakimov_proposal_desc: "Soudruh Chakimov neúnavně pracoval na zlepšení našeho postavení u [SAU.GetAdjective] vlády. Někteří odborníci spekulují, že region ukrývá velké množství přírodních zdrojů, které kapitalisté jistě dychtí využít. Měli bychom pokračovat ve vztahu vzájemné důvěry, abychom [SAU.GetNameDef] byla udržená mimo nepřátelské bloky a zajistili si přednostní práva na nově objevené zdroje."
+ SOV_the_khakimov_proposal_desc: "Khakimov neúnavně pracoval na zlepšení našeho postavení u vlády [SAU.GetNameDef]. Odborníci spekulují, že v regionu se nachází velké množství přírodních zdrojů, které kapitalisté bezpochyby touží využít. Měli bychom pokračovat ve budování vztahu vzájemné důvěry, abychom udrželi [SAU.GetNameDef] mimo každé nepřátelské spojenectví a zajistili si přednostní právo na případné zdroje." # todo: CHANGED
  SOV_the_komsomol: "Komsomol"
  SOV_the_komsomol_desc: "Nestavíme socialismus pro dospělé dneška, stavíme jej pro děti a generace, které se teprve narodí. Ty se musí naučit, jak zlepšovat a rozvíjet naše úspěchy, aby mohly dokončit práci, kterou jsme začali. Měli bychom vytvořit zvláštní mládežnickou organizaci, která je nejen vzdělá, ale i naučí, jak být dobrými komunistickými členy společnosti."
  SOV_the_last_break_southward: "Poslední úder na jih"
@@ -1932,7 +1932,7 @@
  promised_vilnius_tt: "Při splnění §YPaktu Molotov–Ribbentrop§! §Y[SOU.GetNameWithFlag]§! postoupí §Y[784.GetName]§! §Y[ROOT.GetNameWithFlag]§!."
  promoting_belarus_state_flag: "Již je sporná kontrola v jiném státě."
  propaganda_campaign_requirement_met_tt: ""
- propaganda_campaign_requirement_not_met_tt: "§RPropagandistické kampaně vyžadují dokončení zaměření§! '§Y$SOV_expand_the_agitprop$§!'." 
+ propaganda_campaign_requirement_not_met_tt: "§RPropagandistické kampaně vyžadují dokončení zaměření§! '§Y$SOV_expand_the_agitprop$§!'."
  propaganda_campaign_requirement_tt: "[GetPropagandaCampaignsRequirementTooltip]"
  queen: "královna"
  refineries: "rafinerie"
@@ -1956,3 +1956,6 @@
  volunteers_allowed_intro: "£GFX_trigger_yes  Může posílat dobrovolnické síly do"
  walery_slawek_is_dead: "$POL_walery_slawek$ je mrtev"
  warsaw_uprising_will_happen_tt: "Každý §Y[POL.GetAdjective] domovský stát§! povstane v §Rpovstání§! proti §Y[FROM.GetNameWithFlag]§!."
+ SOV_found_the_warsaw_pact: "Založení Varšavského paktu" # todo: NEW TRANSLATION
+ SOV_found_the_warsaw_pact_desc: "Jak nad Evropou vanou větry změn, je stále jasnější, že budeme potřebovat kolektivní obrannou smlouvu, abychom odvrátili jakoukoli agresi dekadentního západu. K tomuto účelu bychom měli formalizovat Organizaci Varšavského paktu, vojenský doplněk k COMECONu." # todo: NEW TRANSLATION
+ SOV_warsaw_pact_faction: "Varšavský pakt" # todo: NEW TRANSLATION

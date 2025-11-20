@@ -1,4 +1,4 @@
-﻿l_polish:  
+﻿l_polish:
  ABK_communism_party_long: "Komunistická strana Abcházie"
  ABK_communism_party: "KSA"
  ABK_democratic_party_long: "Lidové shromáždění Abcházie"
@@ -279,9 +279,9 @@
  centrism: "Centrismus"
  CHI_communism_party_long: "Komunistická strana Číny"
  CHI_communism_party: "CPC"
- CHI_democratic_party: "Čínská demokratická liga"
+ CHI_democratic_party: "CDL" # todo: CHANGED
  CHI_fascism_party_long: "Společnost Modrých košil"
- CHI_fascism_party: "BSB"
+ CHI_fascism_party: "BSS" # todo: CHANGED
  CHI_neutrality_party: "Kuomintang"
  CHL_communism_party_long: "Partido Comunista de Chile"
  CHL_communism_party: "PCCh"
@@ -730,13 +730,13 @@
  ITA_partito_democratico_del_lavoro: "PDL"
  ITA_partito_socialista_italiano_long: "Partito Socialista Italiano"
  ITA_partito_socialista_italiano: "PSI"
- JAP_communism_party: "Nihon Kjósantó"  
- JAP_democratic_party: "Rikken Minseitó"
- JAP_fascism_party: "Taisei Jokusankai"
- JAP_neutrality_party_kodoha_long: "Frakce Kódóha"
- JAP_neutrality_party_kodoha: "Frakce Kódóha"
- JAP_neutrality_party_long: "Frakce Císařské cesty"
- JAP_neutrality_party: "Kōdōha"
+ JAP_communism_party: "JCP" # todo: CHANGED
+ JAP_democratic_party: "Seiyūkai" # todo: CHANGED
+ JAP_fascism_party: "Kokumin Dōmei" # todo: CHANGED
+ JAP_neutrality_party_kodoha_long: "Frakce císařské cesty" # todo: CHANGED
+ JAP_neutrality_party_kodoha: "Kōdōha" # todo: CHANGED
+ JAP_neutrality_party_long: "Kabinet národní jednoty" # todo: CHANGED
+ JAP_neutrality_party: "Kyokoku Itchi Naikaku" # todo: CHANGED
  JOR_communism_party: "Jordánská dělnická společnost"
  JOR_democratic_party: "Národní liberální strana"
  JOR_fascism_party: "Jordánská falanga"
@@ -908,7 +908,7 @@
  moderatism_desc: "Moderatismus je forma vlády, která se vyhýbá extrémům levice i pravice a volí umírněný postup."
  moderatism: "Moderatismus"
  MON_communism_party_long: "Mongolský Ardiin Nam"
- MON_communism_party: "MAN"
+ MON_communism_party: "MAH" # todo: CHANGED
  NAV_communism_party_long: "Euskadiko Partidu Komunista"
  NAV_communism_party: "EPK-PCV"
  NAV_democratic_party_long: "Eusko Abertzale Ekintza"
@@ -927,7 +927,7 @@
  NEN_fascism_party: "NUM"
  NEN_neutrality_party_long: "Něnecký oblastní výbor"
  NEN_neutrality_party: "NRC"
- NEP_neutrality_party: "Dynastie Rána"
+ NEP_neutrality_party: "Šáhové z Gorkhy" # todo: CHANGED
  neutrality_desc: "Autoritářský režim"
  neutrality_noun: "Nezařazení"
  neutrality: "nezařaz."
@@ -1181,8 +1181,8 @@
  SHX_neutrality_party: "Kuomintang"
  SIA_neutrality_party_long: "Chana Ratsadon"
  SIA_neutrality_party: "Chana Ratsadon"
- SIK_communism_party_long: "Komunistická strana Sovětského svazu"
- SIK_communism_party: "CPSU"
+ SIK_communism_party_long: "Sin-ťiangská lidová protiimperialistická asociace" # todo: CHANGED
+ SIK_communism_party: "PAIA" # todo: CHANGED
  SIL_communism_party_long: "Slezská socialistická strana"
  SIL_communism_party: "ŚPS"
  SIL_democratic_party_long: "Slezská lidová strana"
@@ -1439,3 +1439,170 @@
  YUN_communism_party_long: "Komunistická strana Číny"
  YUN_communism_party: "CPC"
  YUN_neutrality_party: "Kuomintang"
+ JAP_communism_party_long: "Nihon Kyōsan-tō" # todo: NEW TRANSLATION
+ JAP_democratic_party_long: "Rikken Seiyūkai" # todo: NEW TRANSLATION
+ JAP_minseito_party: "Minseitō" # todo: NEW TRANSLATION
+ JAP_minseito_party_long: "Rikken Minseitō" # todo: NEW TRANSLATION
+ JAP_fascism_party_long: "Národní občanská aliance" # todo: NEW TRANSLATION
+ JAP_taisei_party: "Taisei Yokusankai" # todo: NEW TRANSLATION
+ JAP_taisei_party_long: "Asociace podpory císařské vlády" # todo: NEW TRANSLATION
+ JAP_military_coalition_party: "Renritsu Seiken" # todo: NEW TRANSLATION
+ JAP_military_coalition_party_long: "Nippon-gun Renritsu Seiken" # todo: NEW TRANSLATION
+ JAP_fascism_party_kodoha_long: "Frakce císařské cesty" # todo: NEW TRANSLATION
+ JAP_fascism_party_kodoha: "Kōdōha" # todo: NEW TRANSLATION
+ JAP_unity_cabinet_party: "Kyokoku Itchi Naikaku" # todo: NEW TRANSLATION
+ JAP_unity_cabinet_party_long: "Kabinet národní jednoty" # todo: NEW TRANSLATION
+ JAP_kozaha_party: "Kōza-ha" # todo: NEW TRANSLATION
+ JAP_kozaha_party_long: "Přednášková skupina" # todo: NEW TRANSLATION
+ JAP_rounouha_party: "Rōnō-ha" # todo: NEW TRANSLATION
+ JAP_rounouha_party_long: "Frakce dělníků a rolníků" # todo: NEW TRANSLATION
+ JAP_ldp_party: "Jimintō" # todo: NEW TRANSLATION
+ JAP_ldp_party_long: "Jiyū-Minshutō" # todo: NEW TRANSLATION
+ JAP_youth_league_for_buddhism_party: "Shinkō Bukkyō Seinen Dōmei" # todo: NEW TRANSLATION
+ JAP_youth_league_for_buddhism_party_long: "Shinkō Bukkyō Seinen Dōmei" # todo: NEW TRANSLATION
+ JAP_tohokai_party: "Tōhōkai" # todo: NEW TRANSLATION
+ JAP_tohokai_party_long: "Společnost Východu" # todo: NEW TRANSLATION
+ CHI_democratic_party_long: "Čínská demokratická liga" # todo: NEW TRANSLATION
+ CHI_left_kmt_party: "Levý Kuomintang" # todo: NEW TRANSLATION
+ CHI_left_kmt_party_long: "Revoluční výbor čínského Kuomintangu" # todo: NEW TRANSLATION
+ RNG_communism_party: "CPC" # todo: NEW TRANSLATION
+ RNG_communism_party_long: "Komunistická strana Číny" # todo: NEW TRANSLATION
+ RNG_democratic_party: "CDL" # todo: NEW TRANSLATION
+ RNG_democratic_party_long: "Čínská demokratická liga" # todo: NEW TRANSLATION
+ RNG_fascism_party: "BSS" # todo: NEW TRANSLATION
+ RNG_fascism_party_long: "Společnost modrých košil" # todo: NEW TRANSLATION
+ RNG_neutrality_party: "Kuomintang" # todo: NEW TRANSLATION
+ XSM_democratic_party: "CDL" # todo: NEW TRANSLATION
+ XSM_democratic_party_long: "Čínská demokratická liga" # todo: NEW TRANSLATION
+ XSM_fascism_party: "BSS" # todo: NEW TRANSLATION
+ XSM_fascism_party_long: "Společnost modrých košil" # todo: NEW TRANSLATION
+ GSM_neutrality_party: "Ma Clique" # todo: NEW TRANSLATION
+ GSM_communism_party: "CPC" # todo: NEW TRANSLATION
+ GSM_communism_party_long: "Komunistická strana Číny" # todo: NEW TRANSLATION
+ GSM_democratic_party: "CDL" # todo: NEW TRANSLATION
+ GSM_democratic_party_long: "Čínská demokratická liga" # todo: NEW TRANSLATION
+ GSM_fascism_party: "BSS" # todo: NEW TRANSLATION
+ GSM_fascism_party_long: "Společnost modrých košil" # todo: NEW TRANSLATION
+ KHM_neutrality_party: "Ma Clique" # todo: NEW TRANSLATION
+ KHM_communism_party: "CPC" # todo: NEW TRANSLATION
+ KHM_communism_party_long: "Komunistická strana Číny" # todo: NEW TRANSLATION
+ KHM_democratic_party: "CDL" # todo: NEW TRANSLATION
+ KHM_democratic_party_long: "Čínská demokratická liga" # todo: NEW TRANSLATION
+ KHM_fascism_party: "BSS" # todo: NEW TRANSLATION
+ KHM_fascism_party_long: "Společnost modrých košil" # todo: NEW TRANSLATION
+ NXM_neutrality_party: "Ma Clique" # todo: NEW TRANSLATION
+ NXM_communism_party: "CPC" # todo: NEW TRANSLATION
+ NXM_communism_party_long: "Komunistická strana Číny" # todo: NEW TRANSLATION
+ NXM_democratic_party: "CDL" # todo: NEW TRANSLATION
+ NXM_democratic_party_long: "Čínská demokratická liga" # todo: NEW TRANSLATION
+ NXM_fascism_party: "BSS" # todo: NEW TRANSLATION
+ NXM_fascism_party_long: "Společnost modrých košil" # todo: NEW TRANSLATION
+ NEP_neutrality_party_long: "Královský dům Gorkha" # todo: NEW TRANSLATION
+ PHI_neutrality_party: "PS" # todo: NEW TRANSLATION
+ PHI_neutrality_party_long: "Partido Sakdalista" # todo: NEW TRANSLATION
+ PSR_fascism_party: "Ganap" # todo: NEW TRANSLATION
+ PSR_fascism_party_long: "Strana Ganap" # todo: NEW TRANSLATION
+ PSR_democratic_party: "NP" # todo: NEW TRANSLATION
+ PSR_democratic_party_long: "Partido Nacionalista" # todo: NEW TRANSLATION
+ PSR_communism_party: "PKP" # todo: NEW TRANSLATION
+ PSR_communism_party_long: "Partido Komunista ng Pilipinas" # todo: NEW TRANSLATION
+ PSR_neutrality_party: "PS" # todo: NEW TRANSLATION
+ PSR_neutrality_party_long: "Partido Sakdalista" # todo: NEW TRANSLATION
+ SIK_CPSU_communism_party: "CPSU" # todo: NEW TRANSLATION
+ SIK_CPSU_communism_party_long: "Komunistická strana Sovětského svazu" # todo: NEW TRANSLATION
+ SIK_democratic_party: "CDL" # todo: NEW TRANSLATION
+ SIK_democratic_party_long: "Čínská demokratická liga" # todo: NEW TRANSLATION
+ SIK_fascism_party: "BSS" # todo: NEW TRANSLATION
+ SIK_fascism_party_long: "Společnost modrých košil" # todo: NEW TRANSLATION
+ SIK_neutrality_party: "Xinjiang Clique" # todo: NEW TRANSLATION
+ TIB_neutrality_party_long: "Retting Rinpoche" # todo: NEW TRANSLATION
+ TIB_democratic_party: "Kashag" # todo: NEW TRANSLATION
+ TIB_democratic_party_long: "Kashag" # todo: NEW TRANSLATION
+ TIB_fascism_party: "Ganden Podrang" # todo: NEW TRANSLATION
+ TIB_fascism_party_long: "Ganden Phodrang" # todo: NEW TRANSLATION
+ TIB_communism_party: "Tibetská demokratická mládežnická liga" # todo: NEW TRANSLATION
+ TIB_communism_party_long: "Tibetská demokratická mládežnická liga" # todo: NEW TRANSLATION
+ YUN_democratic_party: "CDL" # todo: NEW TRANSLATION
+ YUN_democratic_party_long: "Čínská demokratická liga" # todo: NEW TRANSLATION
+ YUN_fascism_party: "BSS" # todo: NEW TRANSLATION
+ YUN_fascism_party_long: "Společnost modrých košil" # todo: NEW TRANSLATION
+ SIC_neutrality_party: "Kuomintang" # todo: NEW TRANSLATION
+ SIC_democratic_party: "CDL" # todo: NEW TRANSLATION
+ SIC_democratic_party_long: "Čínská demokratická liga" # todo: NEW TRANSLATION
+ SIC_fascism_party: "BSS" # todo: NEW TRANSLATION
+ SIC_fascism_party_long: "Společnost modrých košil" # todo: NEW TRANSLATION
+ SIC_communism_party: "CPC" # todo: NEW TRANSLATION
+ SIC_communism_party_long: "Komunistická strana Číny" # todo: NEW TRANSLATION
+ SND_neutrality_party: "Kuomintang" # todo: NEW TRANSLATION
+ SND_democratic_party: "CDL" # todo: NEW TRANSLATION
+ SND_democratic_party_long: "Čínská demokratická liga" # todo: NEW TRANSLATION
+ SND_fascism_party: "BSS" # todo: NEW TRANSLATION
+ SND_fascism_party_long: "Společnost modrých košil" # todo: NEW TRANSLATION
+ SND_communism_party: "CPC" # todo: NEW TRANSLATION
+ SND_communism_party_long: "Komunistická strana Číny" # todo: NEW TRANSLATION
+ XIC_neutrality_party: "Kuomintang" # todo: NEW TRANSLATION
+ XIC_democratic_party: "CDL" # todo: NEW TRANSLATION
+ XIC_democratic_party_long: "Čínská demokratická liga" # todo: NEW TRANSLATION
+ XIC_fascism_party: "BSS" # todo: NEW TRANSLATION
+ XIC_fascism_party_long: "Společnost modrých košil" # todo: NEW TRANSLATION
+ XIC_communism_party: "CPC" # todo: NEW TRANSLATION
+ XIC_communism_party_long: "Komunistická strana Číny" # todo: NEW TRANSLATION
+ HBC_neutrality_party: "Kuomintang" # todo: NEW TRANSLATION
+ HBC_democratic_party: "CDL" # todo: NEW TRANSLATION
+ HBC_democratic_party_long: "Čínská demokratická liga" # todo: NEW TRANSLATION
+ HBC_fascism_party: "BSS" # todo: NEW TRANSLATION
+ HBC_fascism_party_long: "Společnost modrých košil" # todo: NEW TRANSLATION
+ HBC_communism_party: "CPC" # todo: NEW TRANSLATION
+ HBC_communism_party_long: "Komunistická strana Číny" # todo: NEW TRANSLATION
+ MON_neutrality_party: "Setsen Khan" # todo: NEW TRANSLATION
+ MON_neutrality_party_long: "Setsen Khan" # todo: NEW TRANSLATION
+ MON_democratic_party: "MDU" # todo: NEW TRANSLATION
+ MON_democratic_party_long: "Mongolská demokratická unie" # todo: NEW TRANSLATION
+ MON_fascism_party: "MIP" # todo: NEW TRANSLATION
+ MON_fascism_party_long: "Mongolská strana za nezávislost" # todo: NEW TRANSLATION
+ KOR_japanese_governor_general_neutrality_party: "Chōsen Sōtokufu" # todo: NEW TRANSLATION
+ KOR_japanese_governor_general_neutrality_party_long: "Generálguvernér Chōsen" # todo: NEW TRANSLATION
+ KOR_japanese_governor_general_democratic_party: "Joseon Chongdokbu" # todo: NEW TRANSLATION
+ KOR_japanese_governor_general_democratic_party_long: "Generální vláda Chōsen" # todo: NEW TRANSLATION
+ KOR_communism_namro_party: "Namro Party" # todo: NEW TRANSLATION
+ KOR_communism_namro_party_long: "Dělnická strana Jižní Koreje" # todo: NEW TRANSLATION
+ SHX_democratic_party: "CDL" # todo: NEW TRANSLATION
+ SHX_democratic_party_long: "Čínská demokratická liga" # todo: NEW TRANSLATION
+ SHX_fascism_party: "BSS" # todo: NEW TRANSLATION
+ SHX_fascism_party_long: "Společnost modrých košil" # todo: NEW TRANSLATION
+ GXC_democratic_party: "CDL" # todo: NEW TRANSLATION
+ GXC_democratic_party_long: "Čínská demokratická liga" # todo: NEW TRANSLATION
+ GXC_fascism_party: "BSS" # todo: NEW TRANSLATION
+ GXC_fascism_party_long: "Společnost modrých košil" # todo: NEW TRANSLATION
+ GDC_neutrality_party: "Kuomintang" # todo: NEW TRANSLATION
+ GDC_neutrality_party_long: "Jihozápadní politická rada a jihozápadní štáb Ústředního výkonného výboru Kuomintangu" # todo: NEW TRANSLATION
+ GDC_communism_party: "CPC" # todo: NEW TRANSLATION
+ GDC_communism_party_long: "Komunistická strana Číny" # todo: NEW TRANSLATION
+ GDC_democratic_party: "CDL" # todo: NEW TRANSLATION
+ GDC_democratic_party_long: "Čínská demokratická liga" # todo: NEW TRANSLATION
+ GDC_fascism_party: "BSS" # todo: NEW TRANSLATION
+ GDC_fascism_party_long: "Společnost modrých košil" # todo: NEW TRANSLATION
+ MAN_democratic_party: "Bandité" # todo: NEW TRANSLATION
+ MAN_democratic_party_long: "Bandité Ma Zhanshana" # todo: NEW TRANSLATION
+ MAN_communism_party: "NAJUA" # todo: NEW TRANSLATION
+ MAN_communism_party_long: "Severovýchodní protijaponská sjednocená armáda" # todo: NEW TRANSLATION
+ MAN_republican_party: "RPC" # todo: NEW TRANSLATION
+ MAN_republican_party_long: "Republikánská strana Číny" # todo: NEW TRANSLATION
+ MAN_cpc: "CPC" # todo: NEW TRANSLATION
+ MAN_cpc_long: "Komunistická strana Číny" # todo: NEW TRANSLATION
+ emperor_fascism: "Císařský fašismus" # todo: NEW TRANSLATION
+ emperor_fascism_desc: "Císařský fašismus je forma ultranacionalismu, v níž nemají masy slovo, často označovaná jako 'fašismus shora', kde vládu drží vojsko a aristokratická byrokracie, s velkou úctou k císaři země, monarchovi vnímanému jako neomylná božská postava." # todo: NEW TRANSLATION
+ japan_militarism_ideology: "Militarismus" # todo: NEW TRANSLATION
+ japan_militarism_ideology_desc: "Militarismus je ideologie, v níž má vůdce země jen formální kontrolu a chová se spíše jako loutka vojenských složek než jako nezávislý politik, neustále prosazující jejich agendu s cílem rychlé expanzionistické politiky." # todo: NEW TRANSLATION
+ buddhist_socialism: "Buddhistický socialismus" # todo: NEW TRANSLATION
+ buddhist_socialism_desc: "Buddhistický socialismus, také nazývaný dhamický nebo přírodní socialismus, je politická ideologie, která prosazuje socialismus založený na principech buddhismu. Jak buddhismus, tak socialismus usilují o ukončení utrpení tím, že analyzují jeho příčiny a odstraní jejich hlavní zdroje prostřednictvím praxe. Obě také usilují o transformaci osobního vědomí, aby odstranily lidskou odcizenost a sobectví." # todo: NEW TRANSLATION
+ MEN_democratic_party: "Ulanqab League" # todo: NEW TRANSLATION
+ MEN_democratic_party_long: "Ulančabská liga" # todo: NEW TRANSLATION
+ MEN_communism_party: "IMPRP" # todo: NEW TRANSLATION
+ MEN_communism_party_long: "Vnitřnomongolská lidová revoluční strana" # todo: NEW TRANSLATION
+ MEN_fascism_party: "Chinggisid" # todo: NEW TRANSLATION
+ MEN_fascism_party_long: "Dům Činggisidů" # todo: NEW TRANSLATION
+ MEN_neutrality_party: "Pailingmiao Council" # todo: NEW TRANSLATION
+ MEN_neutrality_party_long: "Mongolský výbor pro místní autonomii a politické záležitosti" # todo: NEW TRANSLATION
+ KUM_neutrality_party: "Beig" # todo: NEW TRANSLATION
+ KUM_neutrality_party_long: "Rada 12 begů" # todo: NEW TRANSLATION

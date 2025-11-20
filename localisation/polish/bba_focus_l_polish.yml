@@ -80,7 +80,7 @@
  ETH_assertiveness_gojjam: "Negus z $STATE_840$"
  ETH_assertiveness_jimma: "Garad z Jimmy"
  ETH_assertiveness_tt: "Pokud bylo dokončeno §Y$ETH_sway_the_warlords$§! a země je §Y$jimma$§!:\n§Y$ETH_balcho_safo$§! a §Y$ETH_tadesse_birru$§! se stanou loajálními."
- ETH_available_as_air_chief_tt: "Dostupný jako šéf letectva: "
+ ETH_available_as_air_chief_tt: "K dispozici jako náčelník letectva: " # todo: CHANGED
  ETH_befriend_goring: "Spřátelit se s Göringem"
  ETH_befriend_goring_desc: "Německá vláda je propletenec intrik a podrazů. Ten, komu [GER.GetLeader] naslouchá, může výrazně ovlivnit [GER.GetAdjective] politická rozhodnutí. Možná bychom mohli získat vliv i my, pokud se spřátelíme s některým z vládnoucí elity. $GER_hermann_goring$ je ideální kandidát."
  ETH_black_lions_resistance_tt: "Aktivní odboj Černých lvů: §R+10%§!"
@@ -278,7 +278,7 @@
  ETH_invest_in_the_west: "Investovat na západě"
  ETH_invest_in_the_west_desc: "Různé oblasti [ETH.GetName] mají přístup k pestré škále zdrojů. Investicemi na západě můžeme rychle urychlit industrializaci výroby oděvů a využít stávající odbornost v tomto oboru."
  ETH_invest_tt: "Odemkne investiční §Yrozhodnutí§! ve státě."
- ETH_investors: "průmyslníky"  
+ ETH_investors: "průmyslníky"
  ETH_invite_foreign_industrialists: "Pozvat zahraniční [ETH_GetInvestorName]"
  ETH_invite_foreign_industrialists_desc: "V posledních letech jsme masivně zlepšili infrastrukturu i průmysl, což výrazně zefektivnilo využití přírodních zdrojů. Rozvoj průmyslu můžeme dál urychlit pozváním zahraničních expertů a průmyslníků, aby [ETH.GetName] profitovala z jejich působení."
  ETH_invite_foreign_industrialists_tt: "Návrháři z jiných zemí budou k dispozici, pokud má cílová země §Ynázor na [ETH.GetFlag][ETH.GetNameDef] vyšší než§! §G75§!.\n\n§RVybraní návrháři budou deaktivováni, pokud je jejich domovská země ve válce s [ETH.GetNameDef]!§!\n\nPotenciální země zahrnují: §Y[ENG.GetFlag][ENG.GetName]§!, §Y[FRA.GetFlag][FRA.GetName]§!, §Y[GER.GetFlag][GER.GetName]§!, §Y[JAP.GetFlag][JAP.GetName]§!, §Y[CZE.GetFlag][CZE.GetName]§!, §Y[SWE.GetFlag][SWE.GetName]§!"
@@ -372,11 +372,11 @@
  ETH_our_own_path_desc: "Byli jsme příliš slabí, abychom se vzepřeli [SOV.GetAdjective] soudruhům, když nás zradili převzetím řízení našich záležitostí. Nyní jsme podstatně silnější a můžeme konečně podniknout kroky k obnovení nezávislosti. Musíme však být připraveni na možnou odvětu - tohle si [SOV.GetName] rozhodně líbit nenechá."
  ETH_our_own_path_tt: "§R[SOV.GetNameDefCap] bude tímto postupem rozzloben a může se pokusit přivést Etiopii zpět pod [SOV.GetAdjective] kontrolu!§!"
  ETH_outsourced_production: "Outsourcovaná výroba"
- ETH_outsourced_production_air_tt: "Letečtí konstruktéři:"
+ ETH_outsourced_production_air_tt: "Návrháři letectva:" # todo: CHANGED
  ETH_outsourced_production_army_tt: "\nPozemní konstruktéři:"
  ETH_outsourced_production_desc: "Náš průmysl je při výrobě válečných nástrojů stále malý a nezkušený. Nyní však pevně patříme do [ITA.GetAdjective] sféry vlivu, a tak můžeme situaci využít - zadáme výrobu externě a využijeme odbornost jejich zbrojařů."
  ETH_outsourced_production_factories_tt: "\n Pokud [ITA.GetFlag]§Y[ITA.GetNameDef]§! souhlasí, [ETH.GetFlag]§Y[ETH.GetNameDef]§! získá §Y4 vojenské továrny§!."
- ETH_outsourced_production_tt: "Požádat [ITA.GetFlag]§Y[ITA.GetAdjective]§! o pozemní či letecké konstruktéry:"
+ ETH_outsourced_production_tt: "Požádejte o [ITA.GetFlag]§Y[ITA.GetAdjective]§! návrháře armády nebo letectva:" # todo: CHANGED
  ETH_pan-africanism: "Panafrikanismus"
  ETH_pan-africanism_desc: "Cíl rovnosti, o nějž usilujeme, je opakem vykořisťování jednoho národa druhým, jímž jsou stránky nedávných afrických dějin proplněné. Ať už má jakoukoli podobu, tomuto zlu se musíme vyhýbat tam, kde neexistuje, a drtit je tam, kde ano. Je naší posvátnou povinností zajistit, aby se sen o rovnosti konečně stal skutečností pro všechny, jimž je dosud upírán."
  ETH_pan-africanism_liberate_tt: "Získá §Yválečné cíle na osvobození§! proti všem koloniálním mocnostem v Africe:"
@@ -385,8 +385,6 @@
  ETH_peace_negotiations_desc: "Náš lid mnoho obětoval, aby zastavil [ITA.GetAdjective] invazi. Nyní, když jsme Italům ukázali, že se před nimi nesesypeme, máme příležitost uzavřít mír - nebo přinejmenším příměří."
  ETH_peacekeeping_forces: "Mírové síly"
  ETH_peacekeeping_forces_desc: "Klíčem k naší bezpečnosti je zajistit, aby byla jakákoli krize v zahraničí rychle řešena dříve, než přeroste v něco nekontrolovatelného. Proto je zásadní udržovat mírové síly schopné kdykoli zasáhnout kdekoli na světě."
- ETH_peoples_army: "Lidová armáda"
- ETH_peoples_army_desc: "Navzdory počáteční slabosti v moderní válce se nám podařilo zpomalit [ITA.GetAdjective] invazi využitím nekonvenčních metod. Upevníme to v naší doktríně a vycvičíme důstojníky ve vedení asymetrického boje."
  ETH_preparing_for_the_inevitable: "Příprava na nevyhnutelné"
  ETH_preparing_for_the_inevitable_desc: "Mocní tohoto světa nestrpí naše radikální reformy, protože se obávají, že jejich vlastní lidé budou požadovat totéž. Musíme být připraveni na jejich nevyhnutelný pokus rozdrtit náš způsob života."
  ETH_promote_the_war_heroes: "Povýšit válečné hrdiny"
@@ -834,8 +832,8 @@
  ITA_army_leaders_re_tt: "$ITA_modify_regio_esercito_dynamic_modifier_ns_intro$ \n$MODIFIER_XP_GAIN_FACTOR$: §G+10.0%§! \n$MODIFIER_ARMY_LEADER_COST_FACTOR$: §G-15.0%§! \n$MODIFIER_UNIT_LEADER_PROMOTE_COST_FACTOR$: §G-25.0%§! \n$MODIFIER_ARMY_SPEED_FACTOR_FOR_CONTROLLER$: §G+5.00%§! \n\n"
  ITA_army_modernization: "Modernizace armády"
  ITA_army_modernization_desc: "Naše ozbrojené síly mohou těžit z nové výzbroje a výcvikových metod, které jim umožní držet krok s armádami a doktrínami ostatních velmocí."
- ITA_army_primacy_bba: "Nadřazenost armády"  
- ITA_army_primacy_bba_desc: "V konečné instanci se válka vyhrává tím, že postavíme vojáky na nepřátelskou půdu a vezmeme mu věci, které potřebuje k vedení války. Námořnictvo a letectvo jsou bezpochyby užitečné složky, ale je to armáda, kdo válku vyhraje."
+ ITA_army_primacy_bba: "Nadřazenost armády"
+ ITA_army_primacy_bba_desc: "V konečném důsledku se válka vyhrává tím, že vojáky postavíte na nepřátelské území a odeberete věci, které nepřítel potřebuje k vedení války. Námořnictvo a letectvo jsou bezpochyby užitečné složky, ale válku vyhraje armáda." # todo: CHANGED
  ITA_ascari: "Askari"
  ITA_ascari_create_units_tt: "Vytvoří až §Y10 [ROOT.GetFlag][ROOT.GetAdjective] koloniálních jednotek§! v ovládaných afrických státech a až §Y3 [ROOT.GetFlag][ROOT.GetAdjective] koloniální jednotky§! v každém africkém subjektu."
  ITA_ascari_desc: "Pravidelné divize složené z místních afrických vojáků se ukázaly vysoce efektivní nejen jako posádky či zálohy, ale i v operacích v obtížném terénu, kde by jiné divize tápaly."
@@ -1376,7 +1374,7 @@
  ITA_novus_ordo_military_industry_tt: "$ITA_modify_military_industry_dynamic_modifier_ns_intro$ \n$MODIFIER_PRODUCTION_FACTORY_EFFICIENCY_GAIN_FACTOR$: §G+5.00%§! \n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: §G+2.50%§! \n\n"
  ITA_novus_ordo_ricostruzione_industriale_tt: "$ITA_modify_ricostruzione_industriale_dynamic_modifier_ns_intro$ \n$MODIFIER_CONSUMER_GOODS_FACTOR$: §Y-2.5%§! \n\n"
  ITA_officers_of_the_service_role: "Důstojníci letecké služby"
- ITA_officers_of_the_service_role_desc: "Už nestačí brát důstojníky z armády a učit je létat. Naše letectvo vyžaduje nový typ důstojníka - takového, kterého služba vychovala a formovala od počátku."
+ ITA_officers_of_the_service_role_desc: "Už nestačí jen vzít důstojníky z armády a naučit je létat. Naše letectvo potřebuje nový druh důstojníka, takového, který byl vychován a formován službou místo toho, aby ji jen přijal." # todo: CHANGED
  ITA_officers_of_the_service_role_oob_tt: "§Y1 stíhací letka§! a §Y1 taktická bombardovací letka§! se aktivují ve státě [2.GetName]."
  ITA_officers_of_the_service_role_ra_tt: "$ITA_modify_regia_aeronautica_dynamic_modifier_ns_intro$ \n$MODIFIER_AIR_ACCIDENTS$: §G-10.0%§! \n$MODIFIER_AIR_NIGHT_PENALTY$: §G-5.00%§! \n$MODIFIER_AIR_WEATHER_PENALTY$: §G-5.00%§! \n\n"
  ITA_oil_in_tripoli: "Ropa v Tripolisu"
@@ -1458,7 +1456,7 @@
  ITA_refit_civilian_ships_desc: "Ačkoli skutečné letadlové lodě jsou mnohem výkonnější, pokud chceme letadlové lodě rychle, musíme udělat kompromisy. Přestavbou stávajících osobních lodí, jako jsou Rex a Conte di Savoia, můžeme rychle získat leteckou podporu pro naši flotilu."
  ITA_refit_civilian_ships_rm_tt: "$ITA_modify_military_industry_dynamic_modifier_ns_intro$ \n$ITA_deck_conversions_dynamic_modifier_tt$ \n\n"
  ITA_reggianes_exports: "Exporty společnosti Reggiane"
- ITA_reggianes_exports_desc: "Společnost Reggiane vyvinula řadu velmi schopných stíhacích letounů, které přitahují pozornost zahraničních armád usilujících o modernizaci letectva. Pokud jim dovolíme export, zkušenosti z úprav základních návrhů pro různé požadavky budou nepochybně cenné i pro naše vlastní projekty."
+ ITA_reggianes_exports_desc: "Společnost Reggiane vyvinula sérii velmi schopných stíhacích letounů, které upoutaly pozornost zahraničních armád usilujících o modernizaci svého letectva. Pokud jim povolíme exportovat jejich letadla, zkušenosti získané při přizpůsobování základního návrhu různým specifikacím by bezpochyby byly cenné pro naše vlastní vývojové projekty." # todo: CHANGED
  ITA_reggianes_exports_ricostruzione_industriale_tt: "$ITA_modify_ricostruzione_industriale_dynamic_modifier_ns_intro$ \n$MODIFIER_CONSUMER_GOODS_FACTOR$: §Y-1.0%§! \n\n"
  ITA_regia_aeronautica_name_alt: "$ITA_regia_aeronautica_alt_dynamic_modifier$"
  ITA_regia_aeronautica_name_default: "$ITA_regia_aeronautica_dynamic_modifier$"
@@ -1473,7 +1471,7 @@
  ITA_regional_development_occupation_law_tt: "Upravit okupační zákon §Y$colonial_police$§! o: \n $MODIFIER_LOCAL_RESOURCES$: §G+15%§! \n $MODIFIER_LOCAL_FACTORIES$: §G+15%§! \n $MODIFIER_RESISTANCE_TARGET$: §G-5%§! \n $MODIFIER_RESISTANCE_DAMAGE_TO_GARRISONS$: §G-5.00%§! \n $MODIFIER_REQUIRED_GARRISON_FACTOR$: §G-5%§! \n $MODIFIER_COMPLIANCE_GAIN_ADD$: §G+0.005%§! \n\n"
  ITA_reinforce_aeronautica_ra_tt: "$ITA_modify_regia_aeronautica_dynamic_modifier_ns_intro$ \n$MODIFIER_AIR_ACCIDENTS$: §G-10.0%§! \n$MODIFIER_AIR_ATTACK_FACTOR$: §G+5%§! \n $MODIFIER_AIR_AGILITY_FACTOR$: §G+5%§! \n$MODIFIER_AIR_SUPERIORITY_BONUS_IN_COMBAT$: §G+5.0%§! \n\n"
  ITA_reinforce_regia_aeronautica: "Posílit Regia Aeronautica"
- ITA_reinforce_regia_aeronautica_desc: "Regia Aeronautica je po celém světě respektována a obdivována, ale stále je co zlepšovat. S více dostupnými prostředky bychom měli investovat do výzbroje i výcviku, aby se stala nejobávanějším letectvem!"
+ ITA_reinforce_regia_aeronautica_desc: "Regia Aeronautica je po celém světě respektována a záviděna, ale stále je tu prostor ke zlepšení. Pokud budeme mít více dostupných prostředků, měli bychom investovat do vybavení a výcviku, aby se z ní stalo nejvíce obávané letectvo!" # todo: CHANGED
  ITA_reinforce_the_gustav_line: "Zesílit Gustavovu linii"
  ITA_reinforce_the_gustav_line_desc: "Musíme zpevnit naše obranné linie, aby se zabránilo postupu jakýchkoli nepřátelských jednotek. $RSI_DEF$ nyní nesmí selhat!"
  ITA_remove_balbo_as_advisor_tt: "§YItalo Balbo§! již nebude dostupný jako §Yporadce§! ani §Ypolní maršál§!."
@@ -1510,7 +1508,7 @@
  ITA_security_militias: "Bezpečnostní milice"
  ITA_security_militias_desc: "Nasazovat frontové jednotky k zabezpečení týlu je plýtvání dobrými vojáky. Měli bychom vytvořit jednotky určené výhradně k ochraně týlu armády, abychom uvolnili více vojáků pro boj s nepřítelem."
  ITA_seek_british_military_cooperation: "Usilovat o britskou vojenskou spolupráci"
- ITA_seek_british_military_cooperation_desc: "Ačkoli nás naši bývalí spojenci v poslední válce zradili, může mít smysl povznést se nad křivdy a nabídnout olivovou ratolest. Od Britů se můžeme mnohému přiučit, zejména o jejich námořnictvu a letectvu."
+ ITA_seek_british_military_cooperation_desc: "Ačkoliv jsme byli ve poslední válce zrazeni našimi bývalými spojenci, stále může mít smysl pohlédnout za naše křivdy a podat ruku smíření. Můžeme se od Britů mnoho naučit, zejména pokud jde o jejich námořnictvo a letectvo." # todo: CHANGED
  ITA_seek_papal_support: "Získat podporu papeže"
  ITA_seek_papal_support_desc: "Abychom zvládli rostoucí sociální a politickou nestabilitu, budeme se muset opřít o Církev, která měla na italský lid historicky obrovský vliv. Musíme požádat papeže o jeho souhlas a podporu."
  ITA_seize_old_equipment: "Zabavit starou výzbroj"
@@ -1589,7 +1587,7 @@
  ITA_support_albanian_irredentism_desc: "Musíme se pokusit legitimizovat italskou vládu nad Albánií. Podpora albánského iredentismu v Kosovu a Epiře, a dokonce i dále, nám jistě získá značnou podporu místního obyvatelstva a poskytne příležitost dále rozšířit naši sféru vlivu."
  ITA_support_albanian_irredentism_subject_effects_tt: "\nNásledující efekty se použijí, pokud je §Y[ALB.GetFlag][ALB.GetNameDefCap]§! §Ysubjektem§! §Y[ROOT.GetFlag][ROOT.GetName]§!:"
  ITA_supremacy_in_the_skies: "Nadvláda na obloze"
- ITA_supremacy_in_the_skies_desc: "Moderní armáda se neobejde bez podpory silného letectva. Je naprosto zásadní, aby naše země měla špičkové letouny a technologie k ovládnutí oblohy."
+ ITA_supremacy_in_the_skies_desc: "Moderní armáda nemůže úspěšně fungovat bez podpory silného letectva. Je naprosto zásadní, aby naše země měla špičková letadla a technologie, které nám umožní dominovat vzdušnému prostoru." # todo: CHANGED
  ITA_supremacy_in_the_skies_ra_tt: "$ITA_modify_regia_aeronautica_dynamic_modifier_ns_intro$ \n$MODIFIER_AIR_SUPERIORITY_EFFICIENCY$: §G+5%§!  \n$MODIFIER_AIR_INTERCEPT_EFFICIENCY$: §G+5%§! \n$MODIFIER_AIR_SUPERIORITY_BONUS_IN_COMBAT$: §G+5.0%§!\n\n"
  ITA_the_abyssinian_fiasco: "Habešské fiasko"
  ITA_the_abyssinian_fiasco_completion_tt: "Může být automaticky splněno po neúspěchu misí §Y$ITA_conquer_the_north_mission$§! a §Y$ITA_conquer_the_south_mission$§!, které zadal $ITA_benito_mussolini$ v lednu 1936.\n"
@@ -1860,7 +1858,7 @@
  SWI_gotthard_union: "Gotthardbund"
  SWI_gotthard_union_desc: "Čas hašteření a frakcí skončil. [ROOT.GetNonIdeologyName] se musí sjednotit pod jedinou demokracií s jasnou autoritou činit razantní kroky - vše ve jménu přežití [ROOT.GetAdjective] tradic a hodnot. Budeme vzdorovat a zvítězíme!"
  SWI_gotthardbund_party_name: "Gotthardbund"
- SWI_gotthardbund_party_name_long: "Gotthardbund" 
+ SWI_gotthardbund_party_name_long: "Gotthardbund"
  SWI_guisans_coup: "Guisanův převrat"
  SWI_guisans_coup_desc: "[?SWI.SWI_confederation_president.GetName] zavedl naši velkou a mírumilovnou zemi do války a bídy. To není [ROOT.GetNonIdeologyName], které známe a milujeme - bylo zkaženo ve jménu sebezáchovy. Existuje jen jediný muž dost populární a schopný, aby tuto válku ukončil a snad vrátil kdysi neutrální národ ke kořenům: Henri Guisan."
  SWI_has_fascist_neighbor_trigger_TT: "Má vhodného fašistického souseda"
@@ -1901,7 +1899,7 @@
  SWI_military_police: "Vojenská policie"
  SWI_military_police_desc: "Naše dlouhodobé federální instituce nebudou v těchto nejistých časech stačit k udržení pořádku. Pokud si chceme zachovat jednotu, budeme potřebovat vojenskou policii."
  SWI_militias_turned_into_regulars: "Občanské milice byly profesionalizovány"
- SWI_modernize_airforce: "Modernizovat letectvo"
+ SWI_modernize_airforce: "Modernizovat letectvo" # todo: CHANGED
  SWI_modernize_airforce_desc: "Je zřejmé, že moderní válku neurčuje jen to, co se děje na bojišti, ale i nad ním - v otevřeném nebi, které chceme bránit a ovládnout."
  SWI_mountaneer_paratroopers: "Horskí výsadkáři"
  SWI_mountaneer_paratroopers_desc: "[ROOT.GetNonIdeologyName] je po celém světě známá svými impozantními štíty a mnoho našich obyvatel nazývá hory domovem. Této výhody můžeme využít k výcviku nadřazených výsadkářů - síly, která seskočí v cizích nebesích a získá cizí hory ke slávě pro [ROOT.GetNameDef]."
@@ -2088,3 +2086,6 @@
  second_italo_ethiopian_war_flag: "Probíhá 2. italsko-etiopská válka"
  state_is_in_the_mediterranean_sea_tt: "Stát leží ve Středozemním moři"
  unlock_spirit_of_naval_academy_tt: "Odemkne §YDucha námořní akademie§!"
+ ETH_peoples_army_focus: "Lidová armáda" # todo: NEW TRANSLATION
+ ETH_peoples_army_focus_desc: "Navzdory naší počáteční slabosti ve vedení moderní války se nám podařilo zpomalit [ITA.GetAdjective] invazi díky použití nekonvenčních taktik. Můžeme to zakotvit v naší vojenské doktríně a vycvičit naše důstojníky, jak vést asymetrické boje." # todo: NEW TRANSLATION
+ add_faction_goal_secure_north_africa_tt: "Přidá cíl §Y$secure_north_africa_goal_name$§! pokud je [ROOT.GetName] ve frakci." # todo: NEW TRANSLATION
