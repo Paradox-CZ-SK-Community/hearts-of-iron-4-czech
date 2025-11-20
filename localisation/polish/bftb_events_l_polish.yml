@@ -716,7 +716,7 @@
  bftb_greece.179.a: "Oui, investujeme menší částku."
  bftb_greece.179.b: "Tentokrát ne."
  bftb_greece.179.c: "Nemáme o [FROM.GetAdjective] záležitosti sebemenší zájem!"
- bftb_greece.179.desc: "Když nás [FROM.GetAdjective] představitelé pozvali k dalšímu jednání o prohloubení hospodářských vazeb, nemohli jsme odmítnout. Není třeba dodávat, že předložili přesvědčivé argumenty, proč by bylo vhodné posílit [FROM.GetAdjective] průmyslové postavení. Zda do jejich země investujeme, nebo ponecháme jejich průmyslový potenciál osudu, je na našem rozhodnutí."
+ bftb_greece.179.desc: "Když se [FROM.GetAdjective]s rozhodli pozvat nás k dalším diskuzím o prohloubení našich ekonomických vazeb, nemohli jsme odmítnout. Není třeba dodávat, že předložili přesvědčivý argument, proč by bylo ideální posílit průmyslové postavení [FROM.GetAdjective]'s. Otázka, zda se rozhodneme investovat do jejich země, nebo ponechat jejich průmyslový potenciál osudu, je věcí, o které rozhodneme my." # todo: CHANGED
  bftb_greece.179.t: "[FROM.GetAdjectiveCap] představitelé nás v hlavním městě žádají o investici"
  bftb_greece.18.a: "Hlasujeme pro!"
  bftb_greece.18.b: "Hlasujeme proti!"
@@ -886,7 +886,7 @@
  bftb_greece.229.desc: "[GRE.GetNameDefCap] zahájilo útok na [TUR.GetNonIdeologyName] a vyzvalo nás, abychom splnili svůj slib a pomohli, jak jsme přislíbili. Přislíbené zisky jsou značné a vždy je možnost žádat víc, ale možná už nejsme v pozici své závazky naplnit - i kdyby to znamenalo zříci se vlastních nároků."
  bftb_greece.229.t: "[GRE.GetNameDefCap] nás vyzývá ke splnění závazku"
  bftb_greece.23.a: "Proti prošlo!"
- bftb_greece.23.desc: "Většina přítomných delegátů odhlasovala, že [ITA.GetNameDef] má být odepřeno právo zřídit jakékoli kolonie na [TUR.GetAdjective] jihu, a odsoudila samotný návrh jako další samoúčelné [ITA.GetAdjective] štváčství. [ITA.GetAdjectiveCap] představitelé rozhodnutí napadli a využili celou situaci k dokreslení toho, jak je to další důkaz správnosti víry [ITA.GetAdjective] lidu ve „vittoria mutilata“. Bez ohledu na jejich osobní názory byli [ITA.GetAdjective] delegáti instruováni, aby v jednáních konference pokračovali - bezpochyby v naději, že stále mohou ovlivnit verdikt o posledním a nejdůležitějším bodu programu."
+ bftb_greece.23.desc: "Většina přítomných delegátů hlasovala, že [ITA.GetNameDef] by mělo být odepřeno právo zakládat jakékoliv kolonie na jihu [TUR.GetNameDef], a odsoudili samotný návrh jako další pošetilé [ITA.GetAdjective] válečnické počínání. [ITA.GetAdjective] úředníci rozhodnutí napadli a využili celou situaci k tomu, aby ukázali, že je to další důkaz, že [ITA.GetAdjective] lidé mají pravdu věřit v 'vittoria mutilata'. Bez ohledu na jejich osobní názory byli [ITA.GetAdjective] delegáti nařízeni zůstat součástí průběhu konference – bezpochyby v naději, že stále mohou ovlivnit verdikt o závěrečné a nejdůležitější položce na programu." # todo: CHANGED
  bftb_greece.23.t: "Herakleionská konference - [ITA.GetNameDef] má odepřena jejich území!"
  bftb_greece.230.a: "Nemůžeme prohrát!"
  bftb_greece.230.desc: "[FROM.GetNameDefCap] se k nám připojuje ve válce, jak přislíbili. Společně srazíme [TUR.GetNonIdeologyName] na kolena."
@@ -1717,3 +1717,13 @@
  bftb_bulgaria_italian_influence.1.desc: "Dnes dorazila do našeho hlavního města [BUL.GetAdjective] delegace, která žádá schůzku s [ITA.GetAdjective] ministrem zahraničí, aby navrhla podpis dohody mezi našimi zeměmi. \nSmlouva předložená [BUL.GetAdjective] diplomaty zahrnuje mimo jiné program vojenské spolupráce zaměřený na technologický výzkum a zavedení nových hospodářských předpisů v [BUL.GetNameDef], které poskytnou významné výhody [ITA.GetAdjective] investorům." # todo: NEW TRANSLATION
  bftb_bulgaria_italian_influence.1.a: "Toto je výhodná dohoda pro [ITA.GetNameDef]." # todo: NEW TRANSLATION
  bftb_bulgaria_italian_influence.1.b: "Nechceme sdílet naše technologické pokroky s [BUL.GetAdjective]!" # todo: NEW TRANSLATION
+ bftb_greece.30.desc: "Z Athén k nám dorazily skvělé zprávy, kde [GRE.GetAdjective] komunisti převzali kontrolu nad vládou. Nyní usilují o pakt s námi proti [TUR.GetNameDef], protože společně chtějí [TUR.GetNameDef] přimět k ústupkům týkajícím se Bosporu, které by je v podstatě učinily naším loutkovým státem. Reakcí však byla panika ze strany [TUR.GetAdjective] vlády, která nám nyní zakazuje přístup do Černého moře." # todo: NEW TRANSLATION
+ bftb_greece.30.a: "Teď máme [TUR.GetNameDef] v koutě" # todo: NEW TRANSLATION
+ bftb_greece.30.b: "Jsou na to sami" # todo: NEW TRANSLATION
+ bftb_greece.236.t: "[SOV.GetNameDefCap] odmítá pomoci proti [TUR.GetNameDef]" # todo: NEW TRANSLATION
+ bftb_greece.236.desc: "Ačkoli bezpochyby má zájem rozšířit svůj vliv, [SOV.GetNameDef] se rozhodl nepodpořit naše plány ovlivnit [TUR.GetNonIdeologyName]. Místo toho chce soustředit pozornost na jiné záležitosti." # todo: NEW TRANSLATION
+ bftb_greece.236.a: "Přesto budeme pokračovat" # todo: NEW TRANSLATION
+ bftb_greece.236.b: "Možná jsme byli trochu příliš horliví" # todo: NEW TRANSLATION
+ bftb_greece.237.t: "[FROM.GetName] podporuje ambice proti [TUR.GetNonIdeologyName]" # todo: NEW TRANSLATION
+ bftb_greece.237.desc: "Diplomaté z [FROM.GetNameDef] nás informovali, že máme podporu [FROM.GetLeader] v našich plánech proti [TUR.GetNameDef]. Zprávy naší vojenské rozvědky také naznačují, že začali přesouvat jednotky směrem k [TUR.GetAdjective] hranici." # todo: NEW TRANSLATION
+ bftb_greece.237.a: "Skvělá zpráva!" # todo: NEW TRANSLATION

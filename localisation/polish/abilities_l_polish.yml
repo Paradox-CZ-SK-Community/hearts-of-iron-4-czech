@@ -47,3 +47,6 @@
  ABILITY_TOOLTIP_NAME_CANCEL:0 "§RZrušit: $NAME|H$§!"
  ABILITY_TOOLTIP_NOT_ENOUGH_CP:0 "§RNedostatek velitelské síly.§!"
  ALLOCATED_CP_ENTRY:0 "$NAME$ ($DURATION$)"
+ ABILITY_CHI_force_attack_no_entrenchment_loss: "$ABILITY_FORCE_ATTACK$" # todo: NEW TRANSLATION
+ ABILITY_CHI_force_attack_no_entrenchment_loss_TOOLTIP: "Nucený útok ($LEADER$)" # todo: NEW TRANSLATION
+ ABILITY_CHI_force_attack_no_entrenchment_loss_TOOLTIP_DESC: "Vaše armády získají útočný bonus na úkor některých nevýhod." # todo: NEW TRANSLATION

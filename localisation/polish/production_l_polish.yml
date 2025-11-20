@@ -308,3 +308,4 @@
  ROCKET_WING_LIMIT_DESC_UNDER: "§YKapacita tohoto odpalovače raket nebude plně využita§!"
  TRADE_FACTORIES_VALUE:0 "$VALUE$/$TOT$"
  WEEKLY_PRODUCTION:0 "Týdenní produkce"
+ PRODUCTION_MATERIALS_COAL: "Uhlí" # todo: NEW TRANSLATION

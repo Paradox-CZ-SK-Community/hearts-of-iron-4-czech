@@ -128,7 +128,7 @@
  LOADING_TIP_75: "Lidé, kteří jsou hladoví a bez práce, jsou materiálem, z něhož vznikají diktatury.\n- Franklin D. Roosevelt"
  LOADING_TIP_76: "Člověk musí být pořád ve střehu, pokud chce dýchat dál. Jinak se za ním nějaký německý hajzl připlíží a zmlátí ho ponožkou plnou hovínek.\n- George S. Patton"
  LOADING_TIP_77: "Pevnosti, dělostřelectvo, zahraniční pomoc — to všechno je bezcenné, pokud obyčejný voják neví, že ON brání svou vlast.\n- Carl Gustaf Emil Mannerheim"
- LOADING_TIP_78: "Skrze bláto a krev k zeleným polím za nimi.\n- Motto královského kanadského obrněného sboru"
+ LOADING_TIP_78: "Skrz bláto a krev k zeleným polím za nimi.\n- Neoficiální motto kanadského obrněného sboru" # todo: CHANGED
  LOADING_TIP_79: "Ve britské flotile vládne obecná zvědavost, zda Italové dosahují úrovně, na které byli v poslední válce, nebo zda se nějak propadli.\n- Winston Churchill (o italské výzvě k válce)"
  LOADING_TIP_7: "Nemůžete zabránit válce a zároveň se na ni připravovat.\n- Albert Einstein"
  LOADING_TIP_80: "A budeme s nimi bojovat i pažbami rozbitých lahví od piva, protože to je zatraceně všechno, co máme!\n - Winston Churchill (hned poté, co slíbil bojovat na polích a ulicích)"
@@ -140,7 +140,7 @@
  LOADING_TIP_86: "Na lidech nezáleží, důležité je jen to, co představují.\n - Ion Antonescu"
  LOADING_TIP_87: "V čase války je pravda tak cenná, že by ji měl vždycky doprovázet zástup lží.\n - Winston Churchill"
  LOADING_TIP_88: "Dnes jsme poraženi mechanickou silou, ale v budoucnu zvítězíme silou ještě větší. Na tom závisí osud světa.\n - Charles de Gaulle"
- LOADING_TIP_89: "Dlouhé vzlyky houslí podzimu. Konejší mé srdce jednotvárným steskem.\n - Šifra SOE pro francouzský odboj (báseň Verlaine)"
+ LOADING_TIP_89: "Dlouhé vzlyky houslí podzimu ranily mé srdce monotónní malátností.\n - Kódovaný přenos SOE do francouzského odboje" # todo: CHANGED
  LOADING_TIP_8: "Ti, kdo hlasují, nerozhodují o ničem. Ti, kdo počítají hlasy, rozhodují o všem.\n- Josif Stalin"
  LOADING_TIP_90: "Stát jako Švýcarsko, což je jen pupínek na tváři Evropy, nemůže být nadále tolerován.\n- Adolf Hitler"
  LOADING_TIP_91: "Ti, kdo umí dobře vyhrát válku, jen zřídka dokážou uzavřít dobrý mír – a ti, kdo dokážou uzavřít dobrý mír, by nikdy nevyhráli válku.\n- Winston Churchill"
@@ -153,3 +153,5 @@
  LOADING_TIP_98: "Nemohu předpovědět kroky Ruska. Je to hádanka zahalená tajemstvím uvnitř záhady.\n- Winston Churchill"
  LOADING_TIP_99: "Ať je strategie sebehezčí, občas byste se měli podívat na výsledky.\n- Winston Churchill"
  LOADING_TIP_9: "Historie ukazuje, že neexistují neporazitelné armády – a nikdy neexistovaly.\n- Josif Stalin"
+ LOADING_TIP_154: "Vztyčení té vlajky na Suribachi znamená, že Námořní sbor bude existovat dalších pět set let.\n- ministr námořnictva James Forrestal, Iwo Jima, 1945" # todo: NEW TRANSLATION
+ LOADING_TIP_155: "Připravme se tedy na plnění našich povinností a chovejme se tak, že kdyby Britské impérium a jeho společenství vydržely tisíc let, lidé by přesto řekli: 'Toto byla jejich nejlepší hodina.'\n- Winston Churchill"" # todo: NEW TRANSLATION

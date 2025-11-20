@@ -1,6 +1,6 @@
 ﻿l_polish:
  ARG_battleship_1: "Třída Rivadavia"
- ARG_battleship_1_desc: "Třída Rivadavia byla dvojice bitevních lodí typu dreadnought postavených v USA pro argentinské námořnictvo na počátku 10. let 20. století. Jejich výtlak činil 27 500 tun a jako hlavní děla byly vyzbrojeny dvanácti kanóny ráže 305 mm/50. Ve službě zůstaly až do 50. let 20. století.
+ ARG_battleship_1_desc: "Třída Rivadavia byla dvojice bitevních lodí typu dreadnought postavených v USA pro argentinské námořnictvo na počátku 10. let 20. století. Jejich výtlak činil 27 500 tun a jako hlavní děla byly vyzbrojeny dvanácti kanóny ráže 305 mm/50. Ve službě zůstaly až do 50. let 20. století."
  ARG_destroyer_1: "Třída Catamarca"
  ARG_destroyer_1_desc: "Torpédoborce třídy Catamarca byly objednány argentinským námořnictvem a postaveny ve Spojeném království těsně před první světovou válkou. Byly vyzbrojeny čtyřmi hlavními děly ráže 120 mm/50 a čtyřmi torpédovými trubicemi ráže 533 mm."
  ARG_destroyer_2: "Třída Buenos Aires"
@@ -1059,11 +1059,11 @@
  screen_ship: "Doprovodní lodě"
  ship_hull_carrier: "Letadlová loď"
  ship_hull_carrier_0: "Raný trup letadlové lodě"
- ship_hull_carrier_1: "1936 Trup letadlové lodě"
+ ship_hull_carrier_1: "Základní letadlová loď" # todo: CHANGED
  ship_hull_carrier_1_desc: "Mnozí vojenskí teoretici věří, že námořní letectví je budoucnost. Přestavba starých hlavních lodí a oceanických linerů na nošení letadel bude prvním krokem k využití těchto nových doktrín."
- ship_hull_carrier_2: "1940 Trup letadlové lodě"
+ ship_hull_carrier_2: "Vylepšená letadlová loď" # todo: CHANGED
  ship_hull_carrier_2_desc: "Jak práce začínají na prvních návrzích letadlových lodí, musíme zajistit, že tyto lodě budou mít dosah a rychlost, aby držely krok s ostatními loděmi našeho námořnictva, zatímco respektujeme poválečné námořní smlouvy."
- ship_hull_carrier_3: "1944 Trup letadlové lodě"
+ ship_hull_carrier_3: "Pokročilá letadlová loď" # todo: CHANGED
  ship_hull_carrier_3_desc: "Vylepšené konstrukční metody a specializovanější systémy jako výtahy na okraji paluby umožňují těmto letadlovým lodím přepravovat více letadel efektivněji."
  ship_hull_carrier_conversion_bb: "Přestavěný trup bitevní lodě"
  ship_hull_carrier_conversion_bb_desc: "Po letech experimentů se letadlová loď pomalu vyvinula do vlastní třídy lodí. Schopná podporovat rostoucí počet stále mocnějších letadel, letadlová loď je připravena stát se konečným nástrojem pro projekci námořní moci."
@@ -1075,11 +1075,11 @@
  ship_hull_cruiser: "Křižník"
  ship_hull_cruiser_1: "Raný trup křižníku"
  ship_hull_cruiser_1_desc: "Ačkoli je vázán ustanoveními Washingtonské námořní smlouvy, křižník je stále nejflexibilnější válečná loď. Tento trup umožňuje stavbu lehkého křižníku pro krytí a průzkum, nebo těžkého křižníku pro podporu bojové linie."
- ship_hull_cruiser_2: "1936 Trup křižníku"
+ ship_hull_cruiser_2: "Základní křižník" # todo: CHANGED
  ship_hull_cruiser_2_desc: "Další generace křižníků má nové uspořádání motorů, které zlepšuje přežití, a také prostor pro specializovaná letištní zařízení."
- ship_hull_cruiser_3: "1940 Trup křižníku"
+ ship_hull_cruiser_3: "Vylepšený křižník" # todo: CHANGED
  ship_hull_cruiser_3_desc: "Jak se křižníky po celém světě stávají silnějšími a schopnějšími, jsou potřebné nové a větší trupy, aby unesly veškeré další vybavení potřebné."
- ship_hull_cruiser_4: "1944 Trup křižníku"
+ ship_hull_cruiser_4: "Pokročilý křižník" # todo: CHANGED
  ship_hull_cruiser_4_desc: "Pod vlivem válečných zkušeností má poslední generace křižníků přeorganizovanou superstrukturu, aby umožnila širší palebná pole pro protiletadlové výzbroje a nové vnitřní uspořádání podporující použití radaru."
  ship_hull_cruiser_coastal_defense_ship: "Loď pobřežní obrany"
  ship_hull_cruiser_coastal_defense_ship_desc: "Příliš malá pro skutečné oceánské válčení, tato relativně levná loď obětovala dosah pro těžkou výzbroj a pancéřování."
@@ -1093,38 +1093,38 @@
  ship_hull_heavy: "Těžká loď"
  ship_hull_heavy_1: "Raný trup těžké lodě"
  ship_hull_heavy_1_desc: "Někteří je považují za relikvii minulosti námořního válčení, jiní za nejimpozantnější lodě, které kdy byly postaveny, nikdo nemůže popřít, že tyto pozůstatky závodu ve vyzbrojování bitevních lodí představují některé z nejvíce vyzbrojených a pancéřovaných plavidel, která kdy byla postavena."
- ship_hull_heavy_2: "1936 Trup těžké lodě"
+ ship_hull_heavy_2: "Základní těžká loď" # todo: CHANGED
  ship_hull_heavy_2_desc: "S vylepšenou stabilitou a dosahem nová generace bitevních lodí vylepšuje předchozí konstrukce a přitom zůstává v mezích stanovených námořními smlouvami."
- ship_hull_heavy_3: "1940 Trup těžké lodě"
+ ship_hull_heavy_3: "Vylepšená těžká loď" # todo: CHANGED
  ship_hull_heavy_3_desc: "Tlustší pancéřování, silnější motory, baterie těžkých kanónů a zlepšené schopnosti proti vzdušným útokům mohou umožnit bitevním lodím zůstat relevantní, pokud jsou správně nasazeny, v prostředí, kde námořní válka je stále více dominována vzdušnou podporou."
- ship_hull_heavy_4: "1944 Trup těžké lodě"
+ ship_hull_heavy_4: "Pokročilá těžká loď" # todo: CHANGED
  ship_hull_heavy_4_desc: "Jak svět vidí to, co může být poslední velká střetnutí dreadnoughtů, význam těžkých výzbrojí a protiletadlových věží je větší než kdy jindy."
  ship_hull_heavy_desc: "Konečný symbol námořní moci, tyto masivní, silně armorované behemoty stále vzbuzují respekt na otevřeném moři, i když někteří odborníci zpochybňují jejich roli v éře letadla a ponorky."
  ship_hull_heavy_modern: "Moderní bitevní loď"
  ship_hull_light_1: "Raný trup torpédoborce"
  ship_hull_light_1_desc: "Aby bylo zajištěno bezpečí konvojů, musí být torpédoborce z Velké války přepracovány a vyvinuty. Vyšší výzbroj torpédy umožní více příležitostí k zapojení."
- ship_hull_light_2: "1936 Trup torpédoborce"
+ ship_hull_light_2: "Základní torpédoborec" # todo: CHANGED
  ship_hull_light_2_desc: "Delší dosah torpéd a rychlejší doba nabíjení, spolu s novými typy výzbroje, jako jsou protiletadlové věže, umožní našim torpédoborcům zůstat efektivními a univerzálními."
- ship_hull_light_3: "1940 Trup torpédoborce"
+ ship_hull_light_3: "Vylepšený torpédoborec" # todo: CHANGED
  ship_hull_light_3_desc: "Aby lépe čelily hrozbám z výše a zespodu, nové torpédoborce musí být vybaveny radarem a moderními protiletadlovými a protiponorkovými zbraněmi."
- ship_hull_light_4: "1944 Trup torpédoborce"
+ ship_hull_light_4: "Pokročilý torpédoborec" # todo: CHANGED
  ship_hull_light_4_desc: "Moderní torpédoborec musí být vybaven různými detekčními technologiemi, novými systémy pro shazování hlubinných bomb a musí být postaven v větším měřítku než jejich předchůdci."
  ship_hull_mega_carrier: "Ledová loď"
  ship_hull_mega_carrier_desc: "Obří letadlová loď vytvořená z experimentálních ledových kompozitů, jako je pykret, která umožňuje provoz běžných letadel, čímž se zvyšuje dolet našeho námořního letectva."
  ship_hull_midget_submarine: "Malá ponorka"
  ship_hull_midget_submarine_desc: "Malá ponorka provozovaná malou posádkou. Její snížený dolet a kapacita zbraní je vyvážena vysokou produkční rychlostí."
  ship_hull_nuclear_submarine: "Jaderná ponorka"
- ship_hull_nuclear_submarine_desc: "S jadernými reaktory mohou naše ponorky operovat velmi dlouho pod vodou, při udržování vysoké rychlosti, čímž se stávají extrémně smrtícími nástroji v našem arzenálu."
+ ship_hull_nuclear_submarine_desc: "S jadernými reaktory mohou naše ponorky dlouho operovat pod vodou při zachování vysoké rychlosti, čímž se stávají mimořádně smrtící zbraní v našem arzenálu " # todo: CHANGED
  ship_hull_pre_dreadnought: "Trup z éry před Dreadnoughty"
  ship_hull_pre_dreadnought_desc: "Lodě z doby před vypuknutím závodu dreadnoughtů, který vedl k Velké válce, mají v dnešní době jen velmi omezenou bojovou hodnotu."
  ship_hull_submarine: "Ponorka"
  ship_hull_submarine_1: "Raný trup ponorky"
  ship_hull_submarine_1_desc: "Ponorky jsou stealthová plavidla navržená k likvidaci nechráněných konvojů. Rané modely z Velké války pavedly cestu novým metodám námořní války."
- ship_hull_submarine_2: "1936 Trup ponorky"
+ ship_hull_submarine_2: "Základní ponorka" # todo: CHANGED
  ship_hull_submarine_2_desc: "Lépe vyzbrojené a stabilnější, nové návrhy ponorek jsou navrženy tak, aby využily pokroku v námořní taktice a měly delší dosah, schopny útočit na vzdálené konvojové trasy."
- ship_hull_submarine_3: "1940 Trup ponorky"
+ ship_hull_submarine_3: "Vylepšená ponorka" # todo: CHANGED
  ship_hull_submarine_3_desc: "Úloha ponorky ve flotile mimo útoky na konvoje je stále predmetem diskuse. dosažení rovnováhy mezi kombinací rychlosti, dosahu a výzbroje bude klíčové pro nezbytný model."
- ship_hull_submarine_4: "1944 Trup ponorky"
+ ship_hull_submarine_4: "Pokročilá ponorka" # todo: CHANGED
  ship_hull_submarine_4_desc: "Zvýšená hloubka testů a efektivní uspořádání budou vlastnostmi moderních ponorek, které využijí zkušenosti z terénu k výběru vhodných výzbrojí a motorů."
  ship_hull_submarine_desc: "Moderní ponorka, která je na hony vzdálená primitivním člunům z dob Velké války, je schopnější než kdykoli předtím a dokáže ohrozit i tu největší loď za velmi nízké náklady."
  ship_hull_super_heavy_1: "Trup supertěžké bitevní lodě"
@@ -1145,3 +1145,21 @@
  early_ship_hull_submarine: "$ship_hull_submarine_1$"
  basic_ship_hull_submarine: "$ship_hull_submarine_2$"
  advanced_ship_hull_submarine: "$ship_hull_submarine_4$"
+ ship_hull_carrier_submarine: "Ponorkový nosič letadel" # todo: NEW TRANSLATION
+ ship_hull_carrier_submarine_desc: "Velký ponorkový trup, který může nést a vypouštět letadla schopná vykonávat různé letecké mise." # todo: NEW TRANSLATION
+ support_ship_hull: "Podpůrná loď" # todo: NEW TRANSLATION
+ support_ship: "Podpůrná loď" # todo: NEW TRANSLATION
+ support_ship_1: "Podpůrná loď" # todo: NEW TRANSLATION
+ support_ship_1_desc: "Podpůrné lodě jsou neválečné plavidla zaměřená na logistickou podporu hlavní flotily; prodlužují operační výdrž díky rezervám paliva a zásob." # todo: NEW TRANSLATION
+ support_ship_2: "Vylepšená podpůrná loď" # todo: NEW TRANSLATION
+ support_ship_2_desc: "Operační zkušenosti umožňují vyvinout pokročilejší a schopnější podpůrnou loď, která dokáže udržet hlavní flotilu i na ještě větší vzdálenosti." # todo: NEW TRANSLATION
+ repair_ship_hull: "Opravárenská loď" # todo: NEW TRANSLATION
+ repair_ship: "Opravárenská loď" # todo: NEW TRANSLATION
+ repair_ship_1: "Opravárenská loď" # todo: NEW TRANSLATION
+ repair_ship_1_desc: "Opravárenské lodě nesou těžké záchranné vybavení, které může znamenat rozdíl mezi těžce poškozenou lodí schopnou doplout do přístavu a lodí potopenou." # todo: NEW TRANSLATION
+ repair_ship_2: "Vylepšená opravárenská loď" # todo: NEW TRANSLATION
+ repair_ship_2_desc: "Ještě schopnější opravárenská loď s nejmodernějším vybavením, která dokáže zachránit přátelské válečné lodě kromě případů nejzávažnějšího poškození." # todo: NEW TRANSLATION
+ ship_hull_escort_carrier: "Eskortní letadlová loď" # todo: NEW TRANSLATION
+ ship_hull_escort_carrier_desc: "Menší, levnější letadlová loď, obvykle používaná k eskortě konvojů a proti-ponorkovému boji spíše než k přímým akcím flotily. Nese malou, ale užitečnou vzdušnou skupinu." # todo: NEW TRANSLATION
+ escort_carrier: "Eskortní letadlová loď" # todo: NEW TRANSLATION
+ escort_carrier_desc: "Menší, levnější letadlová loď, obvykle používaná k eskortě konvojů a proti-ponorkovému boji spíše než k přímým akcím flotily. Nese malou, ale užitečnou vzdušnou skupinu." # todo: NEW TRANSLATION

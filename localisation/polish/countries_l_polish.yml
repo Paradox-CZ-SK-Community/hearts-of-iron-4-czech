@@ -383,7 +383,7 @@
  BHU_fascism_DEF: "Říše hromového draka"
  BHU_fascism: "Říše hromového draka"
  BHU_neutrality_ADJ: "bhút."
- BHU_neutrality_DEF: "Bhútán"
+ BHU_neutrality_DEF: "Království Bhútánu" # todo: CHANGED
  BHU_neutrality: "Bhútán"
  BHU: "Bhútán"
  BIA_ADJ: "biafr."
@@ -639,8 +639,8 @@
  CAM_fascism_DEF: "Khmerská říše"
  CAM_fascism: "Khmerská říše"
  CAM_neutrality_ADJ: "kambodž."
- CAM_neutrality_DEF: "Kambodžská republika"
- CAM_neutrality: "Kambodžská republika"
+ CAM_neutrality_DEF: "Království Kambodže" # todo: CHANGED
+ CAM_neutrality: "Království Kambodže" # todo: CHANGED
  CAM: "Kambodža"
  CAN_ADJ: "kanad."
  CAN_communism_ADJ: "kanad."
@@ -760,7 +760,7 @@
  CHI_GER_autonomy_reichsprotectorate_DEF: "Čínský říšský protektorát"
  CHI_GER_autonomy_reichsprotectorate: "Čínský říšský protektorát"
  CHI_neutrality_ADJ: "čín."
- CHI_neutrality_DEF: "Čína"
+ CHI_neutrality_DEF: "Čínská republika" # todo: CHANGED
  CHI_neutrality: "Čína"
  CHI: "Čína"
  CHL_ADJ: "chil."
@@ -2098,11 +2098,11 @@
  JAP_democratic_DEF: "Japonský stát"
  JAP_democratic: "Japonský stát"
  JAP_fascism_ADJ: "japon."
- JAP_fascism_DEF: "Japonsko"
- JAP_fascism: "Japonsko"
+ JAP_fascism_DEF: "Japonské císařství" # todo: CHANGED
+ JAP_fascism: "Japonské císařství" # todo: CHANGED
  JAP_neutrality_ADJ: "japon."
- JAP_neutrality_DEF: "Japonský šógunát"
- JAP_neutrality: "Japonský šógunát"
+ JAP_neutrality_DEF: "Japonské císařství" # todo: CHANGED
+ JAP_neutrality: "Japonské císařství" # todo: CHANGED
  JAP_subject_DEF: "$OVERLORDADJ$ Japonsko"
  JAP_subject: "$OVERLORDADJ$ Japonsko"
  JAP: "Japonsko"
@@ -2437,8 +2437,8 @@
  LAO_democratic_DEF: "Laoská republika"
  LAO_democratic: "Laoská republika"
  LAO_fascism_ADJ: "laos."
- LAO_fascism_DEF: "Jednotný Laos"
- LAO_fascism: "Jednotný Laos"
+ LAO_fascism_DEF: "Království Luang Prabangu" # todo: CHANGED
+ LAO_fascism: "Království Luang Prabang" # todo: CHANGED
  LAO_neutrality_ADJ: "laos."
  LAO_neutrality_DEF: "Království Laos"
  LAO_neutrality: "Království Laos"
@@ -2935,17 +2935,17 @@
  NEN_SOV_communism_subject: "Něnecký národní okruh"
  NEP_ADJ: "nepál."
  NEP_communism_ADJ: "nepál."
- NEP_communism_DEF: "Komunistický Nepál"
- NEP_communism: "Komunistický Nepál"
+ NEP_communism_DEF: "Federativní demokratická republika Nepálu" # todo: CHANGED
+ NEP_communism: "Federativní demokratická republika Nepálu" # todo: CHANGED
  NEP_DEF: "Nepál"
  NEP_democratic_ADJ: "nepál."
  NEP_democratic_DEF: "Federativní demokratická republika Nepál"
  NEP_democratic: "Federativní demokratická republika Nepál"
  NEP_fascism_ADJ: "nepál."
- NEP_fascism_DEF: "Himalájská říše"
- NEP_fascism: "Himalájská říše"
+ NEP_fascism_DEF: "Gorkhské císařství" # todo: CHANGED
+ NEP_fascism: "Gorkhské císařství" # todo: CHANGED
  NEP_neutrality_ADJ: "nepál."
- NEP_neutrality_DEF: "Nepál"
+ NEP_neutrality_DEF: "Království Nepálu" # todo: CHANGED
  NEP_neutrality: "Nepál"
  NEP: "Nepál"
  NGA_ADJ: "nigerij."
@@ -3242,18 +3242,18 @@
  PER: "Írán"
  PHI_ADJ: "filip."
  PHI_communism_ADJ: "filip."
- PHI_communism_DEF: "Hukská komunita Filipín"
- PHI_communism: "Hukská komunita Filipín"
+ PHI_communism_DEF: "Společenství Filipín" # todo: CHANGED
+ PHI_communism: "Společenství Filipín" # todo: CHANGED
  PHI_DEF: "Filipíny"
  PHI_democratic_ADJ: "filip."
- PHI_democratic_DEF: "Filipíny"
- PHI_democratic: "Filipíny"
+ PHI_democratic_DEF: "Společenství Filipín" # todo: CHANGED
+ PHI_democratic: "Společenství Filipín" # todo: CHANGED
  PHI_fascism_ADJ: "filip."
- PHI_fascism_DEF: "Ganap Filipíny"
- PHI_fascism: "Ganap Filipíny"
+ PHI_fascism_DEF: "Filipínský stát" # todo: CHANGED
+ PHI_fascism: "Filipínský stát" # todo: CHANGED
  PHI_neutrality_ADJ: "filip."
- PHI_neutrality_DEF: "Nezávislé Filipíny"
- PHI_neutrality: "Nezávislé Filipíny"
+ PHI_neutrality_DEF: "Filipíny" # todo: CHANGED
+ PHI_neutrality: "Filipíny" # todo: CHANGED
  PHI: "Filipíny"
  PNG_ADJ: "papuán."
  PNG_communism_ADJ: "papuán."
@@ -3312,8 +3312,8 @@
  POR: "Portugalsko"
  PRC_ADJ: "čín."
  PRC_communism_ADJ: "čín."
- PRC_communism_DEF: "Komunistická Čína"
- PRC_communism: "Komunistická Čína"
+ PRC_communism_DEF: "Čínská sovětská republika" # todo: CHANGED
+ PRC_communism: "Čínská sovětská republika" # todo: CHANGED
  PRC_DEF: "Čína"
  PRC_democratic_ADJ: "čín."
  PRC_democratic_DEF: "Čínská republika"
@@ -4062,7 +4062,7 @@
  SHX_fascism_DEF: "Šan-si Jen"
  SHX_fascism: "Šan-si Jen"
  SHX_neutrality_ADJ: "šansij."
- SHX_neutrality_DEF: "Šan-si"
+ SHX_neutrality_DEF: "Šan-siská kliková skupina" # todo: CHANGED
  SHX_neutrality: "Šan-si"
  SHX: "Šan-si"
  SIA_ADJ: "siams."
@@ -4111,7 +4111,7 @@
  SIE: "Sierra Leone"
  SIK_ADJ: "sinťiang."
  SIK_communism_ADJ: "sinťiang."
- SIK_communism_DEF: "Sin-ťiang"
+ SIK_communism_DEF: "Sinkiangská kliková skupina" # todo: CHANGED
  SIK_communism_subject_ADJ: "sinťiang."
  SIK_communism_subject_DEF: "Sin-ťiangská sovětská socialistická republika"
  SIK_communism: "Sin-ťiang"
@@ -4510,7 +4510,7 @@
  TAJ: "Tádžikistán"
  TAN_ADJ: "tuvin."
  TAN_communism_ADJ: "tuvin."
- TAN_communism_DEF: "Tannu Tuva"
+ TAN_communism_DEF: "Tuvinská lidová republika" # todo: CHANGED
  TAN_communism: "Tannu Tuva"
  TAN_DEF: "Tannu Tuva"
  TAN_democratic_ADJ: "tuvin."
@@ -4934,8 +4934,8 @@
  VIN_fascism_DEF: "Vietnamská říše"
  VIN_fascism: "Vietnamská říše"
  VIN_neutrality_ADJ: "vietnam."
- VIN_neutrality_DEF: "Republika Vietnam"
- VIN_neutrality: "Republika Vietnam"
+ VIN_neutrality_DEF: "Království Dai Namu" # todo: CHANGED
+ VIN_neutrality: "Království Dai Nam" # todo: CHANGED
  VIN: "Vietnam"
  VLA_communism_ADJ: "vladivostok."
  VLA_communism_DEF: "Vladivostocký syndikalistický kolektiv"
@@ -5079,17 +5079,17 @@
  XSM_communism_ADJ: "mai."
  XSM_communism_DEF: "Lidová republika Ma"
  XSM_communism: "Lidová republika Ma"
- XSM_DEF: "Klika Ma"
+ XSM_DEF: "Qinghai Ma" # todo: CHANGED
  XSM_democratic_ADJ: "chuej."
  XSM_democratic_DEF: "Chuejská republika"
  XSM_democratic: "Chuejská republika"
  XSM_fascism_ADJ: "mai."
- XSM_fascism_DEF: "Si-pej San Ma"
- XSM_fascism: "Si-pej San Ma"
+ XSM_fascism_DEF: "Svobodný stát Qinghai Ma" # todo: CHANGED
+ XSM_fascism: "Svobodný stát Qinghai Ma" # todo: CHANGED
  XSM_neutrality_ADJ: "mai."
- XSM_neutrality_DEF: "Klika Ma"
- XSM_neutrality: "Klika Ma"
- XSM: "Klika Ma"
+ XSM_neutrality_DEF: "Kliková skupina Qinghai Ma" # todo: CHANGED
+ XSM_neutrality: "Qinghai Ma" # todo: CHANGED
+ XSM: "Qinghai Ma" # todo: CHANGED
  YAK_communism_ADJ: "jakut."
  YAK_communism_DEF: "Jakutský lidový sovět"
  YAK_communism: "Jakutský lidový sovět"
@@ -5191,7 +5191,7 @@
  YUN_fascism_DEF: "Svobodný Jün-nan"
  YUN_fascism: "Svobodný Jün-nan"
  YUN_neutrality_ADJ: "jün-nan."
- YUN_neutrality_DEF: "Jün-nan"
+ YUN_neutrality_DEF: "Yunnanská kliková skupina" # todo: CHANGED
  YUN_neutrality: "Jün-nan"
  YUN: "Jün-nan"
  ZAM_ADJ: "zambij."
@@ -5225,3 +5225,429 @@
  ZIM_neutrality: "Zimbabwe"
  ZIM: "Zimbabwe"
  CKK_democratic: "Čukotská republika" # todo: NEW TRANSLATION
+ CHI_PRC_subject: "Provincie Střední a Východní Číny" # todo: NEW TRANSLATION
+ CHI_PRC_subject_DEF: "provincie Střední a Východní Číny" # todo: NEW TRANSLATION
+ SIK_autonomy_sea_warlord_subject: "Klika Sinkiangu" # todo: NEW TRANSLATION
+ SIK_autonomy_sea_warlord_subject_DEF: "Klika Sinkiangu" # todo: NEW TRANSLATION
+ SIK_autonomy_sea_integrated_warlord_subject: "Provincie Sinkiang" # todo: NEW TRANSLATION
+ SIK_autonomy_sea_integrated_warlord_subject_DEF: "provincie Sinkiang" # todo: NEW TRANSLATION
+ YUN_autonomy_sea_warlord_subject: "Klika Yunnanu" # todo: NEW TRANSLATION
+ YUN_autonomy_sea_warlord_subject_DEF: "Klika Yunnanu" # todo: NEW TRANSLATION
+ YUN_autonomy_sea_integrated_warlord_subject: "Provincie Yunnan" # todo: NEW TRANSLATION
+ YUN_autonomy_sea_integrated_warlord_subject_DEF: "provincie Yunnan" # todo: NEW TRANSLATION
+ GXC_autonomy_sea_warlord_subject: "Klika Guangxi" # todo: NEW TRANSLATION
+ GXC_autonomy_sea_warlord_subject_DEF: "Klika Guangxi" # todo: NEW TRANSLATION
+ GXC_autonomy_sea_integrated_warlord_subject: "Provincie Guangxi" # todo: NEW TRANSLATION
+ GXC_autonomy_sea_integrated_warlord_subject_DEF: "provincie Guangxi" # todo: NEW TRANSLATION
+ GXC_PRC_communism_subject: "Provincie Guangxi" # todo: NEW TRANSLATION
+ GXC_PRC_communism_subject_DEF: "provincie Guangxi" # todo: NEW TRANSLATION
+ SHX_autonomy_sea_warlord_subject: "Klika Shanxi" # todo: NEW TRANSLATION
+ SHX_autonomy_sea_warlord_subject_DEF: "Klika Shanxi" # todo: NEW TRANSLATION
+ SHX_autonomy_sea_integrated_warlord_subject: "Provincie Shanxi" # todo: NEW TRANSLATION
+ SHX_autonomy_sea_integrated_warlord_subject_DEF: "provincie Shanxi" # todo: NEW TRANSLATION
+ SHX_PRC_communism_subject: "Provincie Shanxi" # todo: NEW TRANSLATION
+ SHX_PRC_communism_subject_DEF: "provincie Shanxi" # todo: NEW TRANSLATION
+ XSM_autonomy_sea_warlord_subject: "Klika Ma v Qinghai" # todo: NEW TRANSLATION
+ XSM_autonomy_sea_warlord_subject_DEF: "Klika Ma v Qinghai" # todo: NEW TRANSLATION
+ XSM_autonomy_sea_integrated_warlord_subject: "Provincie Qinghai" # todo: NEW TRANSLATION
+ XSM_autonomy_sea_integrated_warlord_subject_DEF: "provincie Qinghai" # todo: NEW TRANSLATION
+ XSM_PRC_communism_subject: "Provincie Qinghai" # todo: NEW TRANSLATION
+ XSM_PRC_communism_subject_DEF: "provincie Qinghai" # todo: NEW TRANSLATION
+ MEN_autonomy_sea_warlord_subject: "Autonomní rada Pailingmiao" # todo: NEW TRANSLATION
+ MEN_autonomy_sea_warlord_subject_DEF: "Autonomní rada Pailingmiao" # todo: NEW TRANSLATION
+ MEN_autonomy_sea_integrated_warlord_subject: "Provincie Chahar" # todo: NEW TRANSLATION
+ MEN_autonomy_sea_integrated_warlord_subject_DEF: "provincie Chahar" # todo: NEW TRANSLATION
+ EZO_fascism: "Císařský stát Hokkaido" # todo: NEW TRANSLATION
+ EZO_fascism_DEF: "císařský stát Hokkaido" # todo: NEW TRANSLATION
+ EZO_fascism_ADJ: "Ezo" # todo: NEW TRANSLATION
+ EZO_democratic: "Ezoská republika" # todo: NEW TRANSLATION
+ EZO_democratic_DEF: "Ezoská republika" # todo: NEW TRANSLATION
+ EZO_democratic_ADJ: "Ezo" # todo: NEW TRANSLATION
+ EZO_neutrality: "Šógunát Ezo" # todo: NEW TRANSLATION
+ EZO_neutrality_DEF: "Šógunát Ezo" # todo: NEW TRANSLATION
+ EZO_neutrality_ADJ: "Ezo" # todo: NEW TRANSLATION
+ EZO_communism: "Spojené komuny severního Japonska" # todo: NEW TRANSLATION
+ EZO_communism_DEF: "Spojené komuny severního Japonska" # todo: NEW TRANSLATION
+ EZO_communism_ADJ: "Ezo" # todo: NEW TRANSLATION
+ EZO: "Ezo" # todo: NEW TRANSLATION
+ EZO_DEF: "Ezo" # todo: NEW TRANSLATION
+ EZO_ADJ: "Ezo" # todo: NEW TRANSLATION
+ OKN_fascism: "Obnovené císařství Ryukyu" # todo: NEW TRANSLATION
+ OKN_fascism_DEF: "Obnovené císařství Ryukyu" # todo: NEW TRANSLATION
+ OKN_fascism_ADJ: "Okinawský" # todo: NEW TRANSLATION
+ OKN_democratic: "Okinawa" # todo: NEW TRANSLATION
+ OKN_democratic_DEF: "Okinawa" # todo: NEW TRANSLATION
+ OKN_democratic_ADJ: "Okinawský" # todo: NEW TRANSLATION
+ OKN_neutrality: "Království Ryukyu" # todo: NEW TRANSLATION
+ OKN_neutrality_DEF: "Království Ryukyu" # todo: NEW TRANSLATION
+ OKN_neutrality_ADJ: "Ryukyuánský" # todo: NEW TRANSLATION
+ OKN_communism: "Spojené komuny jižního Japonska" # todo: NEW TRANSLATION
+ OKN_communism_DEF: "Spojené komuny jižního Japonska" # todo: NEW TRANSLATION
+ OKN_communism_ADJ: "Okinawský" # todo: NEW TRANSLATION
+ OKN: "Okinawa" # todo: NEW TRANSLATION
+ OKN_DEF: "Okinawa" # todo: NEW TRANSLATION
+ OKN_ADJ: "Okinawský" # todo: NEW TRANSLATION
+ ANU_fascism: "Velké ainu území" # todo: NEW TRANSLATION
+ ANU_fascism_DEF: "Velké ainu území" # todo: NEW TRANSLATION
+ ANU_fascism_ADJ: "Ainu" # todo: NEW TRANSLATION
+ ANU_democratic: "Ainuská republika" # todo: NEW TRANSLATION
+ ANU_democratic_DEF: "Ainuská republika" # todo: NEW TRANSLATION
+ ANU_democratic_ADJ: "Ainu" # todo: NEW TRANSLATION
+ ANU_neutrality: "Spojené ainu náčelnictví" # todo: NEW TRANSLATION
+ ANU_neutrality_DEF: "Spojené ainu náčelnictví" # todo: NEW TRANSLATION
+ ANU_neutrality_ADJ: "Ainu" # todo: NEW TRANSLATION
+ ANU_communism: "Agrární republika Ainu" # todo: NEW TRANSLATION
+ ANU_communism_DEF: "Agrární republika Ainu" # todo: NEW TRANSLATION
+ ANU_communism_ADJ: "Ainu" # todo: NEW TRANSLATION
+ ANU: "Ainu" # todo: NEW TRANSLATION
+ ANU_DEF: "Ainu" # todo: NEW TRANSLATION
+ ANU_ADJ: "Ainu" # todo: NEW TRANSLATION
+ PLU_fascism: "Císařství Jižních moří" # todo: NEW TRANSLATION
+ PLU_fascism_DEF: "Císařství Jižních moří" # todo: NEW TRANSLATION
+ PLU_fascism_ADJ: "Palawský" # todo: NEW TRANSLATION
+ PLU_democratic: "Republika Palau" # todo: NEW TRANSLATION
+ PLU_democratic_DEF: "Republika Palau" # todo: NEW TRANSLATION
+ PLU_democratic_ADJ: "Palawský" # todo: NEW TRANSLATION
+ PLU_neutrality: "Palau" # todo: NEW TRANSLATION
+ PLU_neutrality_DEF: "Palau" # todo: NEW TRANSLATION
+ PLU_neutrality_ADJ: "Palawský" # todo: NEW TRANSLATION
+ PLU_communism: "Palawská rada vojáků" # todo: NEW TRANSLATION
+ PLU_communism_DEF: "Palawská rada vojáků" # todo: NEW TRANSLATION
+ PLU_communism_ADJ: "Palawský" # todo: NEW TRANSLATION
+ PLU: "Palau" # todo: NEW TRANSLATION
+ PLU_DEF: "Palau" # todo: NEW TRANSLATION
+ PLU_ADJ: "Palawský" # todo: NEW TRANSLATION
+ FOR_fascism: "Stát Formosa" # todo: NEW TRANSLATION
+ FOR_fascism_DEF: "Stát Formosa" # todo: NEW TRANSLATION
+ FOR_fascism_ADJ: "Formosanský" # todo: NEW TRANSLATION
+ FOR_democratic: "Aboridžinská republika Tchaj-wanu" # todo: NEW TRANSLATION
+ FOR_democratic_DEF: "Aboridžinská republika Tchaj-wanu" # todo: NEW TRANSLATION
+ FOR_democratic_ADJ: "tchajwanský domorodý" # todo: NEW TRANSLATION
+ FOR_neutrality: "Republika Tchaj-wanu" # todo: NEW TRANSLATION
+ FOR_neutrality_DEF: "Republika Tchaj-wanu" # todo: NEW TRANSLATION
+ FOR_neutrality_ADJ: "Tchajwanský" # todo: NEW TRANSLATION
+ FOR_communism: "Sovět dělníků, vojáků a bezpozemků na Tchaj-wanu" # todo: NEW TRANSLATION
+ FOR_communism_DEF: "Sovět dělníků, vojáků a bezpozemků na Tchaj-wanu" # todo: NEW TRANSLATION
+ FOR_communism_ADJ: "Tchajwanský" # todo: NEW TRANSLATION
+ FOR: "Formosa" # todo: NEW TRANSLATION
+ FOR_DEF: "Formosa" # todo: NEW TRANSLATION
+ FOR_ADJ: "Formosanský" # todo: NEW TRANSLATION
+ TML_fascism: "Nezávislý stát Timor" # todo: NEW TRANSLATION
+ TML_fascism_DEF: "Nezávislý stát Timor" # todo: NEW TRANSLATION
+ TML_fascism_ADJ: "Timorský" # todo: NEW TRANSLATION
+ TML_democratic: "Demokratická republika Timor-Leste" # todo: NEW TRANSLATION
+ TML_democratic_DEF: "Demokratická republika Timor-Leste" # todo: NEW TRANSLATION
+ TML_democratic_ADJ: "Timorský" # todo: NEW TRANSLATION
+ TML_neutrality: "Timorský národní svaz" # todo: NEW TRANSLATION
+ TML_neutrality_DEF: "Timorský národní svaz" # todo: NEW TRANSLATION
+ TML_neutrality_ADJ: "Timorský" # todo: NEW TRANSLATION
+ TML_communism: "Revoluční demokratická republika Timor-Leste" # todo: NEW TRANSLATION
+ TML_communism_DEF: "Revoluční demokratická republika Timor-Leste" # todo: NEW TRANSLATION
+ TML_communism_ADJ: "Timorský" # todo: NEW TRANSLATION
+ TML: "Východní Timor" # todo: NEW TRANSLATION
+ TML_DEF: "Východní Timor" # todo: NEW TRANSLATION
+ TML_ADJ: "Timorský" # todo: NEW TRANSLATION
+ CHM_fascism: "Velká Champa" # todo: NEW TRANSLATION
+ CHM_fascism_DEF: "Velká Champa" # todo: NEW TRANSLATION
+ CHM_fascism_ADJ: "Chamský" # todo: NEW TRANSLATION
+ CHM_democratic: "Republika Champa" # todo: NEW TRANSLATION
+ CHM_democratic_DEF: "Republika Champa" # todo: NEW TRANSLATION
+ CHM_democratic_ADJ: "Chamský" # todo: NEW TRANSLATION
+ CHM_neutrality: "Království Champa" # todo: NEW TRANSLATION
+ CHM_neutrality_DEF: "Království Champa" # todo: NEW TRANSLATION
+ CHM_neutrality_ADJ: "Chamský" # todo: NEW TRANSLATION
+ CHM_communism: "Republika lidové rady Cham" # todo: NEW TRANSLATION
+ CHM_communism_DEF: "Republika lidové rady Cham" # todo: NEW TRANSLATION
+ CHM_communism_ADJ: "Chamský" # todo: NEW TRANSLATION
+ CHM: "Champa" # todo: NEW TRANSLATION
+ CHM_DEF: "Champa" # todo: NEW TRANSLATION
+ CHM_ADJ: "Chamský" # todo: NEW TRANSLATION
+ SNG_fascism: "Sultanát Singapuru" # todo: NEW TRANSLATION
+ SNG_fascism_DEF: "Sultanát Singapuru" # todo: NEW TRANSLATION
+ SNG_fascism_ADJ: "Singapurský" # todo: NEW TRANSLATION
+ SNG_democratic: "Singapur" # todo: NEW TRANSLATION
+ SNG_democratic_DEF: "Singapur" # todo: NEW TRANSLATION
+ SNG_democratic_ADJ: "Singapurský" # todo: NEW TRANSLATION
+ SNG_neutrality: "Singapurský stát" # todo: NEW TRANSLATION
+ SNG_neutrality_DEF: "Singapurský stát" # todo: NEW TRANSLATION
+ SNG_neutrality_ADJ: "Singapurský" # todo: NEW TRANSLATION
+ SNG_communism: "Lidová republika Singapur" # todo: NEW TRANSLATION
+ SNG_communism_DEF: "Lidová republika Singapur" # todo: NEW TRANSLATION
+ SNG_communism_ADJ: "Singapurský" # todo: NEW TRANSLATION
+ SNG: "Singapur" # todo: NEW TRANSLATION
+ SNG_DEF: "Singapur" # todo: NEW TRANSLATION
+ SNG_ADJ: "Singapurský" # todo: NEW TRANSLATION
+ SAR_fascism: "Císařství Severního Bornea" # todo: NEW TRANSLATION
+ SAR_fascism_DEF: "Císařství Severního Bornea" # todo: NEW TRANSLATION
+ SAR_fascism_ADJ: "Sarawakský" # todo: NEW TRANSLATION
+ SAR_democratic: "Republika Sarawak" # todo: NEW TRANSLATION
+ SAR_democratic_DEF: "Republika Sarawak" # todo: NEW TRANSLATION
+ SAR_democratic_ADJ: "Sarawakský" # todo: NEW TRANSLATION
+ SAR_neutrality: "Rádžo Sarawak" # todo: NEW TRANSLATION
+ SAR_neutrality_DEF: "Rádžo Sarawak" # todo: NEW TRANSLATION
+ SAR_neutrality_ADJ: "Sarawakský" # todo: NEW TRANSLATION
+ SAR_communism: "Komuna Severního Kalimantanu" # todo: NEW TRANSLATION
+ SAR_communism_DEF: "Komuna Severního Kalimantanu" # todo: NEW TRANSLATION
+ SAR_communism_ADJ: "Sarawakský" # todo: NEW TRANSLATION
+ SAR: "Sarawak" # todo: NEW TRANSLATION
+ SAR_DEF: "Sarawak" # todo: NEW TRANSLATION
+ SAR_ADJ: "Sarawakský" # todo: NEW TRANSLATION
+ SAB_fascism: "Velký stát Severního Bornea" # todo: NEW TRANSLATION
+ SAB_fascism_DEF: "Velký stát Severního Bornea" # todo: NEW TRANSLATION
+ SAB_fascism_ADJ: "Sabahský" # todo: NEW TRANSLATION
+ SAB_democratic: "Republika Sabah" # todo: NEW TRANSLATION
+ SAB_democratic_DEF: "Republika Sabah" # todo: NEW TRANSLATION
+ SAB_democratic_ADJ: "Sabahský" # todo: NEW TRANSLATION
+ SAB_neutrality: "Stát Sabah" # todo: NEW TRANSLATION
+ SAB_neutrality_DEF: "Stát Sabah" # todo: NEW TRANSLATION
+ SAB_neutrality_ADJ: "Sabahský" # todo: NEW TRANSLATION
+ SAB_communism: "Komuna severovýchodního Kalimantanu" # todo: NEW TRANSLATION
+ SAB_communism_DEF: "Komuna severovýchodního Kalimantanu" # todo: NEW TRANSLATION
+ SAB_communism_ADJ: "Sabahský" # todo: NEW TRANSLATION
+ SAB: "Sabah" # todo: NEW TRANSLATION
+ SAB_DEF: "Sabah" # todo: NEW TRANSLATION
+ SAB_ADJ: "Sabahský" # todo: NEW TRANSLATION
+ BRN_fascism: "Velký brunejský sultanát" # todo: NEW TRANSLATION
+ BRN_fascism_DEF: "Velký brunejský sultanát" # todo: NEW TRANSLATION
+ BRN_fascism_ADJ: "Brunejský" # todo: NEW TRANSLATION
+ BRN_democratic: "Federace Bruneje" # todo: NEW TRANSLATION
+ BRN_democratic_DEF: "Federace Bruneje" # todo: NEW TRANSLATION
+ BRN_democratic_ADJ: "Brunejský" # todo: NEW TRANSLATION
+ BRN_neutrality: "Brunej Darussalam" # todo: NEW TRANSLATION
+ BRN_neutrality_DEF: "Brunej Darussalam" # todo: NEW TRANSLATION
+ BRN_neutrality_ADJ: "Brunejský" # todo: NEW TRANSLATION
+ BRN_communism: "Lidová republika Brunej" # todo: NEW TRANSLATION
+ BRN_communism_DEF: "Lidová republika Brunej" # todo: NEW TRANSLATION
+ BRN_communism_ADJ: "Brunejský" # todo: NEW TRANSLATION
+ BRN: "Brunej" # todo: NEW TRANSLATION
+ BRN_DEF: "Brunej" # todo: NEW TRANSLATION
+ BRN_ADJ: "Brunejský" # todo: NEW TRANSLATION
+ WPG_fascism: "Unitární stát Papua" # todo: NEW TRANSLATION
+ WPG_fascism_DEF: "Unitární stát Papua" # todo: NEW TRANSLATION
+ WPG_fascism_ADJ: "západopapuánský" # todo: NEW TRANSLATION
+ WPG_democratic: "Republika Západní Papua" # todo: NEW TRANSLATION
+ WPG_democratic_DEF: "Republika Západní Papua" # todo: NEW TRANSLATION
+ WPG_democratic_ADJ: "západopapuánský" # todo: NEW TRANSLATION
+ WPG_neutrality: "Stát Koreri Papuy" # todo: NEW TRANSLATION
+ WPG_neutrality_DEF: "Stát Koreri Papuy" # todo: NEW TRANSLATION
+ WPG_neutrality_ADJ: "západopapuánský" # todo: NEW TRANSLATION
+ WPG_communism: "Lidová komuna Západní Nové Guineje" # todo: NEW TRANSLATION
+ WPG_communism_DEF: "Lidová komuna Západní Nové Guineje" # todo: NEW TRANSLATION
+ WPG_communism_ADJ: "západopapuánský" # todo: NEW TRANSLATION
+ WPG: "Západní Papua" # todo: NEW TRANSLATION
+ WPG_DEF: "Západní Papua" # todo: NEW TRANSLATION
+ WPG_ADJ: "západopapuánský" # todo: NEW TRANSLATION
+ KUM_fascism: "Čagatajský chanát" # todo: NEW TRANSLATION
+ KUM_fascism_DEF: "Čagatajský chanát" # todo: NEW TRANSLATION
+ KUM_fascism_ADJ: "Kumullik" # todo: NEW TRANSLATION
+ KUM_democratic: "Kumulská republika" # todo: NEW TRANSLATION
+ KUM_democratic_DEF: "Kumulská republika" # todo: NEW TRANSLATION
+ KUM_democratic_ADJ: "Kumullik" # todo: NEW TRANSLATION
+ KUM_neutrality: "Kumulský chanát" # todo: NEW TRANSLATION
+ KUM_neutrality_DEF: "Kumulský chanát" # todo: NEW TRANSLATION
+ KUM_neutrality_ADJ: "Kumullik" # todo: NEW TRANSLATION
+ KUM_communism: "Turko-mongolská federativní lidová republika" # todo: NEW TRANSLATION
+ KUM_communism_DEF: "Turko-mongolská federativní lidová republika" # todo: NEW TRANSLATION
+ KUM_communism_ADJ: "Kumullik" # todo: NEW TRANSLATION
+ KUM: "Kumulský chanát" # todo: NEW TRANSLATION
+ KUM_DEF: "Kumulský chanát" # todo: NEW TRANSLATION
+ KUM_ADJ: "Kumullik" # todo: NEW TRANSLATION
+ KUM_autonomy_sea_warlord_subject: "Kumulský chanát" # todo: NEW TRANSLATION
+ KUM_autonomy_sea_warlord_subject_DEF: "Kumulský chanát" # todo: NEW TRANSLATION
+ KUM_autonomy_sea_integrated_warlord_subject: "Kumul" # todo: NEW TRANSLATION
+ KUM_autonomy_sea_integrated_warlord_subject_DEF: "Kumul" # todo: NEW TRANSLATION
+ GSM_fascism: "Svobodný stát Ma (Gansu)" # todo: NEW TRANSLATION
+ GSM_fascism_DEF: "Svobodný stát Ma (Gansu)" # todo: NEW TRANSLATION
+ GSM_democratic: "Republika Hui v Gansu" # todo: NEW TRANSLATION
+ GSM_democratic_DEF: "Republika Hui v Gansu" # todo: NEW TRANSLATION
+ GSM_neutrality: "Gansu Ma" # todo: NEW TRANSLATION
+ GSM_neutrality_DEF: "Klika Ma v Gansu" # todo: NEW TRANSLATION
+ GSM_communism: "Lidová republika Ma" # todo: NEW TRANSLATION
+ GSM_communism_DEF: "Lidová republika Ma" # todo: NEW TRANSLATION
+ GSM_fascism_ADJ: "Gansu Ma" # todo: NEW TRANSLATION
+ GSM_democratic_ADJ: "Gansu Ma" # todo: NEW TRANSLATION
+ GSM_neutrality_ADJ: "Gansu Ma" # todo: NEW TRANSLATION
+ GSM_communism_ADJ: "Gansu Ma" # todo: NEW TRANSLATION
+ GSM: "Gansu Ma" # todo: NEW TRANSLATION
+ GSM_DEF: "Gansu Ma" # todo: NEW TRANSLATION
+ GSM_ADJ: "Gansu Ma" # todo: NEW TRANSLATION
+ GSM_autonomy_sea_warlord_subject: "Klika Ma v Gansu" # todo: NEW TRANSLATION
+ GSM_autonomy_sea_warlord_subject_DEF: "Klika Ma v Gansu" # todo: NEW TRANSLATION
+ GSM_autonomy_sea_integrated_warlord_subject: "Provincie Gansu" # todo: NEW TRANSLATION
+ GSM_autonomy_sea_integrated_warlord_subject_DEF: "provincie Gansu" # todo: NEW TRANSLATION
+ GSM_PRC_communism_subject: "Provincie Gansu" # todo: NEW TRANSLATION
+ GSM_PRC_communism_subject_DEF: "provincie Gansu" # todo: NEW TRANSLATION
+ GDC_fascism: "Velká klika Guangdongu" # todo: NEW TRANSLATION
+ GDC_fascism_DEF: "Velká klika Guangdongu" # todo: NEW TRANSLATION
+ GDC_democratic: "Nezávislá republika Guangdong" # todo: NEW TRANSLATION
+ GDC_democratic_DEF: "Nezávislá republika Guangdong" # todo: NEW TRANSLATION
+ GDC_neutrality: "Klika Guangdongu" # todo: NEW TRANSLATION
+ GDC_neutrality_DEF: "Klika Guangdongu" # todo: NEW TRANSLATION
+ GDC_communism: "Socialistická republika Kanton" # todo: NEW TRANSLATION
+ GDC_communism_DEF: "Socialistická republika Kanton" # todo: NEW TRANSLATION
+ GDC_fascism_ADJ: "Kantonský" # todo: NEW TRANSLATION
+ GDC_democratic_ADJ: "Kantonský" # todo: NEW TRANSLATION
+ GDC_neutrality_ADJ: "Kantonský" # todo: NEW TRANSLATION
+ GDC_communism_ADJ: "Kantonský" # todo: NEW TRANSLATION
+ GDC: "Guangdong" # todo: NEW TRANSLATION
+ GDC_DEF: "Guangdong" # todo: NEW TRANSLATION
+ GDC_ADJ: "Kantonský" # todo: NEW TRANSLATION
+ GDC_autonomy_sea_warlord_subject: "Klika Guangdongu" # todo: NEW TRANSLATION
+ GDC_autonomy_sea_warlord_subject_DEF: "Klika Guangdongu" # todo: NEW TRANSLATION
+ GDC_autonomy_sea_integrated_warlord_subject: "Provincie Guangdong" # todo: NEW TRANSLATION
+ GDC_autonomy_sea_integrated_warlord_subject_DEF: "provincie Guangdong" # todo: NEW TRANSLATION
+ GDC_PRC_communism_subject: "Provincie Guangdong" # todo: NEW TRANSLATION
+ GDC_PRC_communism_subject_DEF: "provincie Guangdong" # todo: NEW TRANSLATION
+ KHM_fascism: "Svobodný stát Ma (Khotan)" # todo: NEW TRANSLATION
+ KHM_fascism_DEF: "Svobodný stát Ma (Khotan)" # todo: NEW TRANSLATION
+ KHM_democratic: "Republika Hui v Khotan" # todo: NEW TRANSLATION
+ KHM_democratic_DEF: "Republika Hui v Khotan" # todo: NEW TRANSLATION
+ KHM_neutrality: "Khotan Ma" # todo: NEW TRANSLATION
+ KHM_neutrality_DEF: "Klika Ma v Khotan" # todo: NEW TRANSLATION
+ KHM_communism: "Lidová republika Ma" # todo: NEW TRANSLATION
+ KHM_communism_DEF: "Lidová republika Ma" # todo: NEW TRANSLATION
+ KHM_fascism_ADJ: "Khotan Ma" # todo: NEW TRANSLATION
+ KHM_democratic_ADJ: "Khotan Ma" # todo: NEW TRANSLATION
+ KHM_neutrality_ADJ: "Khotan Ma" # todo: NEW TRANSLATION
+ KHM_communism_ADJ: "Khotan Ma" # todo: NEW TRANSLATION
+ KHM: "Khotan Ma" # todo: NEW TRANSLATION
+ KHM_DEF: "Khotan Ma" # todo: NEW TRANSLATION
+ KHM_ADJ: "Khotan Ma" # todo: NEW TRANSLATION
+ KHM_autonomy_sea_warlord_subject: "Klika Ma v Khotan" # todo: NEW TRANSLATION
+ KHM_autonomy_sea_warlord_subject_DEF: "Klika Ma v Khotan" # todo: NEW TRANSLATION
+ KHM_autonomy_sea_integrated_warlord_subject: "Provincie Khotan" # todo: NEW TRANSLATION
+ KHM_autonomy_sea_integrated_warlord_subject_DEF: "provincie Khotan" # todo: NEW TRANSLATION
+ KHM_PRC_communism_subject: "Provincie Khotan" # todo: NEW TRANSLATION
+ KHM_PRC_communism_subject_DEF: "provincie Khotan" # todo: NEW TRANSLATION
+ NXM_fascism: "Svobodný stát Ma (Ningxia)" # todo: NEW TRANSLATION
+ NXM_fascism_DEF: "Svobodný stát Ma (Ningxia)" # todo: NEW TRANSLATION
+ NXM_democratic: "Republika Hui v Ningxia" # todo: NEW TRANSLATION
+ NXM_democratic_DEF: "Republika Hui v Ningxia" # todo: NEW TRANSLATION
+ NXM_neutrality: "Ningxia Ma" # todo: NEW TRANSLATION
+ NXM_neutrality_DEF: "Klika Ma v Ningxia" # todo: NEW TRANSLATION
+ NXM_communism: "Lidová republika Ma" # todo: NEW TRANSLATION
+ NXM_communism_DEF: "Lidová republika Ma" # todo: NEW TRANSLATION
+ NXM_fascism_ADJ: "Ningxia Ma" # todo: NEW TRANSLATION
+ NXM_democratic_ADJ: "Ningxia Ma" # todo: NEW TRANSLATION
+ NXM_neutrality_ADJ: "Ningxia Ma" # todo: NEW TRANSLATION
+ NXM_communism_ADJ: "Ningxia Ma" # todo: NEW TRANSLATION
+ NXM: "Ningxia Ma" # todo: NEW TRANSLATION
+ NXM_DEF: "Ningxia Ma" # todo: NEW TRANSLATION
+ NXM_ADJ: "Ningxia Ma" # todo: NEW TRANSLATION
+ NXM_autonomy_sea_warlord_subject: "Klika Ma v Ningxia" # todo: NEW TRANSLATION
+ NXM_autonomy_sea_warlord_subject_DEF: "Klika Ma v Ningxia" # todo: NEW TRANSLATION
+ NXM_autonomy_sea_integrated_warlord_subject: "Provincie Ningxia" # todo: NEW TRANSLATION
+ NXM_autonomy_sea_integrated_warlord_subject_DEF: "provincie Ningxia" # todo: NEW TRANSLATION
+ NXM_PRC_communism_subject: "Provincie Ningxia" # todo: NEW TRANSLATION
+ NXM_PRC_communism_subject_DEF: "provincie Ningxia" # todo: NEW TRANSLATION
+ SND_fascism: "Svobodný stát Shandong" # todo: NEW TRANSLATION
+ SND_fascism_DEF: "Svobodný stát Shandong" # todo: NEW TRANSLATION
+ SND_democratic: "Republika Shandong" # todo: NEW TRANSLATION
+ SND_democratic_DEF: "Republika Shandong" # todo: NEW TRANSLATION
+ SND_neutrality: "Klika Shandong" # todo: NEW TRANSLATION
+ SND_neutrality_DEF: "Klika Shandong" # todo: NEW TRANSLATION
+ SND_communism: "Sovětská republika Shandong" # todo: NEW TRANSLATION
+ SND_communism_DEF: "Sovětská republika Shandong" # todo: NEW TRANSLATION
+ SND_fascism_ADJ: "Shandong" # todo: NEW TRANSLATION
+ SND_democratic_ADJ: "Shandong" # todo: NEW TRANSLATION
+ SND_neutrality_ADJ: "Shandong" # todo: NEW TRANSLATION
+ SND_communism_ADJ: "Shandong" # todo: NEW TRANSLATION
+ SND: "Shandong" # todo: NEW TRANSLATION
+ SND_DEF: "Shandong" # todo: NEW TRANSLATION
+ SND_ADJ: "Shandong" # todo: NEW TRANSLATION
+ SND_autonomy_sea_warlord_subject: "Klika Shandong" # todo: NEW TRANSLATION
+ SND_autonomy_sea_warlord_subject_DEF: "Klika Shandong" # todo: NEW TRANSLATION
+ SND_autonomy_sea_integrated_warlord_subject: "Provincie Shandong" # todo: NEW TRANSLATION
+ SND_autonomy_sea_integrated_warlord_subject_DEF: "provincie Shandong" # todo: NEW TRANSLATION
+ SND_PRC_communism_subject: "Provincie Shandong" # todo: NEW TRANSLATION
+ SND_PRC_communism_subject_DEF: "provincie Shandong" # todo: NEW TRANSLATION
+ SIC_fascism: "Svobodný stát Sichuan" # todo: NEW TRANSLATION
+ SIC_fascism_DEF: "Svobodný stát Sichuan" # todo: NEW TRANSLATION
+ SIC_democratic: "Republika Sichuan" # todo: NEW TRANSLATION
+ SIC_democratic_DEF: "Republika Sichuan" # todo: NEW TRANSLATION
+ SIC_neutrality: "Klika Sichuan" # todo: NEW TRANSLATION
+ SIC_neutrality_DEF: "Klika Sichuan" # todo: NEW TRANSLATION
+ SIC_communism: "Sovětská republika Sichuan" # todo: NEW TRANSLATION
+ SIC_communism_DEF: "Sovětská republika Sichuan" # todo: NEW TRANSLATION
+ SIC_fascism_ADJ: "sichuanský" # todo: NEW TRANSLATION
+ SIC_democratic_ADJ: "sichuanský" # todo: NEW TRANSLATION
+ SIC_neutrality_ADJ: "sichuanský" # todo: NEW TRANSLATION
+ SIC_communism_ADJ: "sichuanský" # todo: NEW TRANSLATION
+ SIC: "Sichuan" # todo: NEW TRANSLATION
+ SIC_DEF: "Sichuan" # todo: NEW TRANSLATION
+ SIC_ADJ: "sichuanský" # todo: NEW TRANSLATION
+ SIC_autonomy_sea_warlord_subject: "Klika Sichuan" # todo: NEW TRANSLATION
+ SIC_autonomy_sea_warlord_subject_DEF: "Klika Sichuan" # todo: NEW TRANSLATION
+ SIC_autonomy_sea_integrated_warlord_subject: "Provincie Sichuan" # todo: NEW TRANSLATION
+ SIC_autonomy_sea_integrated_warlord_subject_DEF: "provincie Sichuan" # todo: NEW TRANSLATION
+ SIC_PRC_communism_subject: "Provincie Sichuan" # todo: NEW TRANSLATION
+ SIC_PRC_communism_subject_DEF: "provincie Sichuan" # todo: NEW TRANSLATION
+ XIC_fascism: "Svobodný stát Xi'an" # todo: NEW TRANSLATION
+ XIC_fascism_DEF: "Svobodný stát Xi'an" # todo: NEW TRANSLATION
+ XIC_democratic: "Republika Xi'an" # todo: NEW TRANSLATION
+ XIC_democratic_DEF: "Republika Xi'an" # todo: NEW TRANSLATION
+ XIC_neutrality: "Severo-východní armáda" # todo: NEW TRANSLATION
+ XIC_neutrality_DEF: "Armáda severovýchodu a Shaanxi" # todo: NEW TRANSLATION
+ XIC_communism: "Sovětská republika Xi'an" # todo: NEW TRANSLATION
+ XIC_communism_DEF: "Sovětská republika Xi'an" # todo: NEW TRANSLATION
+ XIC_fascism_ADJ: "xianský" # todo: NEW TRANSLATION
+ XIC_democratic_ADJ: "xianský" # todo: NEW TRANSLATION
+ XIC_neutrality_ADJ: "xianský" # todo: NEW TRANSLATION
+ XIC_communism_ADJ: "xianský" # todo: NEW TRANSLATION
+ XIC: "Xi'an" # todo: NEW TRANSLATION
+ XIC_DEF: "Xi'an" # todo: NEW TRANSLATION
+ XIC_ADJ: "xianský" # todo: NEW TRANSLATION
+ XIC_autonomy_sea_warlord_subject: "Armáda severovýchodu a Shaanxi" # todo: NEW TRANSLATION
+ XIC_autonomy_sea_warlord_subject_DEF: "Armáda severovýchodu a Shaanxi" # todo: NEW TRANSLATION
+ XIC_autonomy_sea_integrated_warlord_subject: "Provincie Shaanxi" # todo: NEW TRANSLATION
+ XIC_autonomy_sea_integrated_warlord_subject_DEF: "provincie Shaanxi" # todo: NEW TRANSLATION
+ XIC_PRC_communism_subject: "Provincie Shaanxi" # todo: NEW TRANSLATION
+ XIC_PRC_communism_subject_DEF: "provincie Shaanxi" # todo: NEW TRANSLATION
+ RNG_fascism: "Přeorganizovaná národní vláda Čínské republiky" # todo: NEW TRANSLATION
+ RNG_fascism_DEF: "Přeorganizovaná národní vláda Čínské republiky" # todo: NEW TRANSLATION
+ RNG_democratic: "Prozatímní vláda Čínské republiky" # todo: NEW TRANSLATION
+ RNG_democratic_DEF: "Prozatímní vláda Čínské republiky" # todo: NEW TRANSLATION
+ RNG_neutrality: "Reformovaná vláda Čínské republiky" # todo: NEW TRANSLATION
+ RNG_neutrality_DEF: "Reformovaná vláda Čínské republiky" # todo: NEW TRANSLATION
+ RNG_communism: "Osvícená lidová republika Číny" # todo: NEW TRANSLATION
+ RNG_communism_DEF: "Osvícená lidová republika Číny" # todo: NEW TRANSLATION
+ RNG_fascism_ADJ: "čínský" # todo: NEW TRANSLATION
+ RNG_democratic_ADJ: "čínský" # todo: NEW TRANSLATION
+ RNG_neutrality_ADJ: "čínský" # todo: NEW TRANSLATION
+ RNG_communism_ADJ: "čínský" # todo: NEW TRANSLATION
+ RNG: "Čína" # todo: NEW TRANSLATION
+ RNG_DEF: "Čína" # todo: NEW TRANSLATION
+ RNG_ADJ: "čínský" # todo: NEW TRANSLATION
+ PSR_fascism: "Druhá filipínská republika" # todo: NEW TRANSLATION
+ PSR_fascism_DEF: "Druhá filipínská republika" # todo: NEW TRANSLATION
+ PSR_fascism_ADJ: "filipínský" # todo: NEW TRANSLATION
+ PSR_neutrality: "Druhá filipínská republika" # todo: NEW TRANSLATION
+ PSR_neutrality_DEF: "Druhá filipínská republika" # todo: NEW TRANSLATION
+ PSR_neutrality_ADJ: "filipínský" # todo: NEW TRANSLATION
+ PSR_democratic: "Druhá filipínská republika" # todo: NEW TRANSLATION
+ PSR_democratic_DEF: "Druhá filipínská republika" # todo: NEW TRANSLATION
+ PSR_democratic_ADJ: "filipínský" # todo: NEW TRANSLATION
+ PSR_communism: "Druhá lidová republika Filipín" # todo: NEW TRANSLATION
+ PSR_communism_DEF: "Druhá lidová republika Filipín" # todo: NEW TRANSLATION
+ PSR_communism_ADJ: "filipínský" # todo: NEW TRANSLATION
+ HBC_fascism: "Svobodný stát Hebei-Chahar" # todo: NEW TRANSLATION
+ HBC_fascism_DEF: "Svobodný stát Hebei-Chahar" # todo: NEW TRANSLATION
+ HBC_democratic: "Republika Hebei-Chahar" # todo: NEW TRANSLATION
+ HBC_democratic_DEF: "Republika Hebei-Chahar" # todo: NEW TRANSLATION
+ HBC_neutrality: "Hebei-Chahar" # todo: NEW TRANSLATION
+ HBC_neutrality_DEF: "Politická rada Hebei-Chahar" # todo: NEW TRANSLATION
+ HBC_communism: "Sovětská republika Hebei-Chahar" # todo: NEW TRANSLATION
+ HBC_communism_DEF: "Sovětská republika Hebei-Chahar" # todo: NEW TRANSLATION
+ HBC_fascism_ADJ: "Hebei-Chahar" # todo: NEW TRANSLATION
+ HBC_democratic_ADJ: "Hebei-Chahar" # todo: NEW TRANSLATION
+ HBC_neutrality_ADJ: "Hebei-Chahar" # todo: NEW TRANSLATION
+ HBC_communism_ADJ: "Hebei-Chahar" # todo: NEW TRANSLATION
+ HBC: "Hebei-Chahar" # todo: NEW TRANSLATION
+ HBC_DEF: "Hebei-Chahar" # todo: NEW TRANSLATION
+ HBC_ADJ: "Hebei-Chahar" # todo: NEW TRANSLATION
+ HBC_autonomy_sea_warlord_subject: "Politická rada Hebei-Chahar" # todo: NEW TRANSLATION
+ HBC_autonomy_sea_warlord_subject_DEF: "Politická rada Hebei-Chahar" # todo: NEW TRANSLATION
+ HBC_autonomy_sea_integrated_warlord_subject: "Region Hebei-Chahar" # todo: NEW TRANSLATION
+ HBC_autonomy_sea_integrated_warlord_subject_DEF: "region Hebei-Chahar" # todo: NEW TRANSLATION
+ HBC_PRC_communism_subject: "Region Hebei-Chahar" # todo: NEW TRANSLATION
+ HBC_PRC_communism_subject_DEF: "region Hebei-Chahar" # todo: NEW TRANSLATION

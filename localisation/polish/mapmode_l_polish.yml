@@ -65,3 +65,5 @@
  MAPMODE_TERRAIN_NAME:0 "Terén"
  MAPMODE_TOOLTIP_INFRASTRUCTURE:0 "£infrastructure_texticon  Infrastruktura $INF|Y$"
  MAPMODE_TOOLTIP_MANPOWER:1 "£population_texticon  Populace $MP|*Y$"
+ MAPMODE_DEBUG_NAVAL_ACCESSIBILITY: "Držte §GALT§! pro cache přístupnosti ponorek\nDržte §GSHIFT§! pro cache přístupnosti povrchových lodí" # todo: NEW TRANSLATION
+ STRATEGIC_LOCATION_MAPICON: "§HStrategická místa§!"" # todo: NEW TRANSLATION

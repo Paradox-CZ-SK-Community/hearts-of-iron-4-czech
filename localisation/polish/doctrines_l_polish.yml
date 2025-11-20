@@ -1,0 +1,761 @@
+﻿l_polish:
+ GRAND_DOCTRINE_MOBILE_WARFARE: "Mobilní válka" # todo: NEW TRANSLATION
+ GRAND_DOCTRINE_MOBILE_WARFARE_DESC: "Udeřte tam, kde to nečekají - doktrína mobilní války usiluje o prolomení zákopového patu první světové války pomocí agresivních manévrů, které předběhnou a naruší nepřítele." # todo: NEW TRANSLATION
+ GRAND_DOCTRINE_SUPERIOR_FIREPOWER: "Převaha palebné síly" # todo: NEW TRANSLATION
+ GRAND_DOCTRINE_SUPERIOR_FIREPOWER_DESC: "Posílejte granáty, ne muže - doktrína Převahy palebné síly zdůrazňuje použití drtivých mas palby, aby uvolnila cestu pro manévrové jednotky k postupu a obsazování území." # todo: NEW TRANSLATION
+ GRAND_DOCTRINE_GRAND_BATTLEPLAN: "Velký bojový plán" # todo: NEW TRANSLATION
+ GRAND_DOCTRINE_GRAND_BATTLEPLAN_DESC: "S dostatečnou přípravou není žádná překážka nepřekonatelná - Velký bojový plán se vyznačuje trpělivou, pečlivou přípravou všech druhů zbraní jak v útoku, tak v obraně." # todo: NEW TRANSLATION
+ GRAND_DOCTRINE_MASS_ASSAULT: "Masový útok" # todo: NEW TRANSLATION
+ GRAND_DOCTRINE_MASS_ASSAULT_DESC: "Ochota obětovat se zaručuje naše vítězství - Masový útok se zaměřuje na koncentrování číselné převahy k vynucení průlomu ve zvolený čas a na zvoleném místě." # todo: NEW TRANSLATION
+ SUBDOCTRINE_MOBILE_INFANTRY: "Mobilní pěchota" # todo: NEW TRANSLATION
+ SUBDOCTRINE_MOBILE_INFANTRY_DESC: "Zaměřme naši pěchotu na mobilitu, aby držela tempo postupu a vyhnula se uvíznutí v nákladném pozičním boji." # todo: NEW TRANSLATION
+ SUBDOCTRINE_DEFENSIVE_POSTURES: "Obranné postoje" # todo: NEW TRANSLATION
+ SUBDOCTRINE_DEFENSIVE_POSTURES_DESC: "Důraz v tréninku a doktríně na obranné taktiky určené k houževnatému držení území, působení ztrát a zpoždění útočníka." # todo: NEW TRANSLATION
+ SUBDOCTRINE_LARGE_UNIT_TACTICS: "Taktika velkých jednotek" # todo: NEW TRANSLATION
+ SUBDOCTRINE_LARGE_UNIT_TACTICS_DESC: "Pokud zvládneme koncentrované operace na úzkém úseku, můžeme vytvořit lokální převahu, která přemůže nepřítele v bodě hlavního úsilí a vyvolá průlom." # todo: NEW TRANSLATION
+ large_unit_tactics_wide_trench_networks: "Noční zákopování" # todo: NEW TRANSLATION
+ large_unit_tactics_flexible_division_structures: "Flexibilní struktury divizí" # todo: NEW TRANSLATION
+ large_unit_tactics_unit_knowledge_sharing: "Sdílení znalostí mezi jednotkami" # todo: NEW TRANSLATION
+ large_unit_tactics_large_front_offensive: "Ofenzíva na širokém frontu" # todo: NEW TRANSLATION
+ large_unit_tactics_motorization_initiative: "Iniciativa motorizace" # todo: NEW TRANSLATION
+ SUBDOCTRINE_ASSAULT_INFANTRY: "Útočná pěchota" # todo: NEW TRANSLATION
+ SUBDOCTRINE_ASSAULT_INFANTRY_DESC: "Organizujte armádu s přístupem kombinovaných zbraní, s integrační podporou palby zakomponovanou až do nejmenších taktických jednotek." # todo: NEW TRANSLATION
+ assault_infantry_low_echelon_fire_support: "Palebná podpora na nízké úrovni" # todo: NEW TRANSLATION
+ assault_infantry_organic_battalion_fire_support: "Organická palebná podpora praporu" # todo: NEW TRANSLATION
+ assault_infantry_integrated_support_batteries: "Výcvik pěších pozorovatelů" # todo: NEW TRANSLATION
+ assault_infantry_breakthrough_fireteams: "Stažení průzkumu" # todo: NEW TRANSLATION
+ assault_infantry_assault_detachments: "Útočná oddělení" # todo: NEW TRANSLATION
+ SUBDOCTRINE_MOUNTED_INFANTRY: "Jízdní pěchota" # todo: NEW TRANSLATION
+ SUBDOCTRINE_MOUNTED_INFANTRY_DESC: "Abychom aktualizovali naši kavalérii pro 20. století, potřebujeme přesunovou mobilitu v terénu při jízdě a boj pěchoty z koně po sestoupení s podporou rychlých moderních těžkých zbraní." # todo: NEW TRANSLATION
+ mounted_infantry_dragoon_traditions: "Tradice dragounů" # todo: NEW TRANSLATION
+ mounted_infantry_mounted_skirmish_groups: "Průzkumná rota pluku" # todo: NEW TRANSLATION
+ mounted_infantry_anti_mechanized_cavalry_groups: "Protomechanizované kavalerijní skupiny" # todo: NEW TRANSLATION
+ mounted_infantry_beasts_of_war: "Válečné bestie" # todo: NEW TRANSLATION
+ mounted_infantry_limbered_combat_support: "Tažená bojová podpora" # todo: NEW TRANSLATION
+ SUBDOCTRINE_COMMANDOS: "Individuální excelence" # todo: NEW TRANSLATION
+ SUBDOCTRINE_COMMANDOS_DESC: "Každý muž císař: Naše jednotky musí být schopné samostatně vykonávat obtížné a náročné úkoly a nést svůj podíl odpovědnosti za všech okolností. Způsob, jak je cvičíme, je zásadní pro náš úspěch na frontě." # todo: NEW TRANSLATION
+ commandos_isolated_combat_elements: "Izolované bojové prvky" # todo: NEW TRANSLATION
+ commandos_security_zone_operations: "Koordinace rozptýlených prvků" # todo: NEW TRANSLATION
+ commandos_rigorous_training_regimen: "Přísný výcvikový režim" # todo: NEW TRANSLATION
+ commandos_field_intel_retrieval: "Sběr polních zpravodajských informací" # todo: NEW TRANSLATION
+ commandos_integrated_assaults: "Integrované útoky" # todo: NEW TRANSLATION
+ SUBDOCTRINE_IRREGULARS: "Neregulérní jednotky" # todo: NEW TRANSLATION
+ SUBDOCTRINE_IRREGULARS_DESC: "Asymetrický přístup k pěchotnímu boji, v němž je vyhýbáno přímým střetům s převyšujícími silami a využívají se partyzánské taktiky přepadení, klamání a obtěžování k oslabování odhodlání nepřítele." # todo: NEW TRANSLATION
+ irregulars_service_by_lot: "Služba losováním" # todo: NEW TRANSLATION
+ irregulars_partisan_regiments: "Partizánské pluky" # todo: NEW TRANSLATION
+ irregulars_improvised_officer_groups: "Improvizované skupiny důstojníků" # todo: NEW TRANSLATION
+ irregulars_levee_en_masse: "Levée En Masse" # todo: NEW TRANSLATION
+ irregulars_standardization_efforts: "Snahy o standardizaci" # todo: NEW TRANSLATION
+ SUBDOCTRINE_GREAT_WAR_INFANTRY: "Pěchota Velké války" # todo: NEW TRANSLATION
+ SUBDOCTRINE_GREAT_WAR_INFANTRY_DESC: "Metodický přístup k pěchotnímu boji, zahrnující útoky s omezenými cíli následované rychlým zákopováním k úpornému držení dobytého území." # todo: NEW TRANSLATION
+ great_war_infantry_traverse_digging: "Zigzagové zákopy" # todo: NEW TRANSLATION
+ great_war_infantry_sapping_operations: "Spojovací zákopy" # todo: NEW TRANSLATION
+ great_war_infantry_centralized_artillery_control: "Postupující dělostřelecká palba" # todo: NEW TRANSLATION
+ great_war_infantry_field_fortification_emphasis: "Krytí nad hlavou" # todo: NEW TRANSLATION
+ great_war_infantry_redoubt_networks: "Redutové sítě" # todo: NEW TRANSLATION
+ SUBDOCTRINE_FIRE_CONCENTRATION: "Koncentrace palby" # todo: NEW TRANSLATION
+ SUBDOCTRINE_FIRE_CONCENTRATION_DESC: "Centralizací řízení palebných prostředků může naše armáda koncentrovat palebnou sílu v kritickém místě namísto jejího rozptylování v malých dávkách." # todo: NEW TRANSLATION
+ fire_concentration_standing_barrage: "Připravené palebné jámy" # todo: NEW TRANSLATION
+ fire_concentration_predicted_fire: "Předpokládaná palba" # todo: NEW TRANSLATION
+ fire_concentration_artillery_groups: "Místní zabezpečení baterie" # todo: NEW TRANSLATION
+ fire_concentration_dedicated_air_support: "Centralizovaná protiletadlová podpora" # todo: NEW TRANSLATION
+ fire_concentration_weakpoint_studies: "Palebné postavení na obkličování" # todo: NEW TRANSLATION
+ SUBDOCTRINE_ANTI_TANK_FRONT: "Protitanková fronta" # todo: NEW TRANSLATION
+ SUBDOCTRINE_ANTI_TANK_FRONT_DESC: "Jednotný přístup k protitankové obraně na všech taktických úrovních, bránění boků přátelských průlomů a směrování nepřátelských obrněných útoků do předem naplánovaných zón ničení." # todo: NEW TRANSLATION
+ anti_tank_frontline_pakfront: "Pakfront" # todo: NEW TRANSLATION
+ anti_tank_frontline_emplacement_rotation: "Rotace postavení" # todo: NEW TRANSLATION
+ anti_tank_frontline_weakpoint_studies: "Studie slabých míst" # todo: NEW TRANSLATION
+ anti_tank_frontline_offensive_deployments: "Ofenzivní nasazení" # todo: NEW TRANSLATION
+ anti_tank_frontline_assault_anti_tank: "Ničení bunkrů přímou palbou" # todo: NEW TRANSLATION
+ SUBDOCTRINE_FLYING_BATTERIES: "Pohyblivé baterie" # todo: NEW TRANSLATION
+ SUBDOCTRINE_FLYING_BATTERIES_DESC: "Iniciativa v celé armádě ke zvýšení mobility podpůrných složek, aby držely krok s rychlými motorizovanými postupy a rychle zasahovaly v podpoře." # todo: NEW TRANSLATION
+ flying_batteries_deployment_drills: "Cvičení rozmístění" # todo: NEW TRANSLATION
+ flying_batteries_counter_battery_tasks: "Úkoly proti-baterii" # todo: NEW TRANSLATION
+ flying_batteries_ballistics_corrections: "Pancéřovaná vozidla předních pozorovatelů" # todo: NEW TRANSLATION
+ flying_batteries_mobile_barrages: "Rychlé postavení děl" # todo: NEW TRANSLATION
+ flying_batteries_wide_dispersal_positions: "Široce rozptýlené baterie" # todo: NEW TRANSLATION
+ SUBDOCTRINE_AIR_CAVALRY: "Vzdušná kavalérie" # todo: NEW TRANSLATION
+ SUBDOCTRINE_AIR_CAVALRY_DESC: "Helikoptéra nabízí radikální možnost zavést do pozemního boje třetí, vertikální dimenzi. Můžeme přizpůsobit armádu tak, aby tento nový přístup využila pro maximální mobilitu a překvapení." # todo: NEW TRANSLATION
+ air_cavalry_airborne_observers: "Helikoptérově nesení pozorovatelé" # todo: NEW TRANSLATION
+ air_cavalry_service_and_support: "Servis a podpora" # todo: NEW TRANSLATION
+ air_cavalry_rescue_liasions: "Záchranné spojky" # todo: NEW TRANSLATION
+ air_cavalry_transport_assault: "Transportní úder" # todo: NEW TRANSLATION
+ air_cavalry_intervention_units: "Intervenční jednotky" # todo: NEW TRANSLATION
+ SUBDOCTRINE_MOBILE_RECON_AND_ASSAULT: "Mobilní průzkum a útok" # todo: NEW TRANSLATION
+ SUBDOCTRINE_MOBILE_RECON_AND_ASSAULT_DESC: "S přístupem kombinovaných zbraní podpořeným rozsáhlou motorizací můžeme využít průzkumné jednotky k nalezení nepřítele a mobilní těžké zbraně k jeho rychlému zničení." # todo: NEW TRANSLATION
+ mobile_recon_and_assault_motorization_support: "Organické motorizované zásobování" # todo: NEW TRANSLATION
+ mobile_recon_and_assault_long_range_reconnaissance: "Průzkum dlouhého dosahu" # todo: NEW TRANSLATION
+ mobile_recon_and_assault_mobile_operational_deployments: "Mobilní operační nasazení" # todo: NEW TRANSLATION
+ mobile_recon_and_assault_self_propelled_support_elements: "Palba za pohybu" # todo: NEW TRANSLATION
+ mobile_recon_and_assault_deep_reconnaissance_focus: "Zaměření na hluboký průzkum" # todo: NEW TRANSLATION
+ mobile_recon_and_assault_no_lar_motorization_support: "$mobile_recon_and_assault_motorization_support$" # todo: NEW TRANSLATION
+ mobile_recon_and_assault_no_lar_long_range_reconaissance: "$mobile_recon_and_assault_long_range_reconnaissance$" # todo: NEW TRANSLATION
+ mobile_recon_and_assault_no_lar_mobile_operational_deployments: "$mobile_recon_and_assault_mobile_operational_deployments$" # todo: NEW TRANSLATION
+ mobile_recon_and_assault_no_lar_self_propelled_elements: "$mobile_recon_and_assault_self_propelled_support_elements$" # todo: NEW TRANSLATION
+ mobile_recon_and_assault_no_lar_deep_reconnaissance_focus: "$mobile_recon_and_assault_deep_reconnaissance_focus$" # todo: NEW TRANSLATION
+ SUBDOCTRINE_SELF_PROPELLED_SUPPORT: "Samohybná podpora" # todo: NEW TRANSLATION
+ SUBDOCTRINE_SELF_PROPELLED_SUPPORT_DESC: "Zajištění pásové mobility a ochrany pro co nejvíce těžkých podpůrných zbraní armády: cesta do budoucnosti." # todo: NEW TRANSLATION
+ self_propelled_support_mobile_battery_management_platoons: "Mobilní centrum řízení palby" # todo: NEW TRANSLATION
+ self_propelled_support_screening_attacks: "Palebné mise čas-na-cíl" # todo: NEW TRANSLATION
+ self_propelled_support_all_terrain_mobility: "Mobilita napříč terénem" # todo: NEW TRANSLATION
+ self_propelled_support_multirole_support_vehicles: "Víceúčelová podpůrná vozidla" # todo: NEW TRANSLATION
+ self_propelled_support_shoot_and_scoot: "Palba a ústup" # todo: NEW TRANSLATION
+ SUBDOCTRINE_SIEGE_ARTILLERY: "Obléhací dělostřelectvo" # todo: NEW TRANSLATION
+ SUBDOCTRINE_SIEGE_ARTILLERY_DESC: "Žádná pevná fortifikace dlouho neodolá ocelovému dešti granátů ráže bitevních lodí." # todo: NEW TRANSLATION
+ siege_artillery_fortress_busters: "Likvidátory pevností" # todo: NEW TRANSLATION
+ siege_artillery_improved_transport_preparation: "Zlepšená příprava transportu" # todo: NEW TRANSLATION
+ siege_artillery_precomputed_firing_data: "Předem vypočtená palebná data" # todo: NEW TRANSLATION
+ siege_artillery_urban_strongpoint_sieges: "Pokročilá korekce palby" # todo: NEW TRANSLATION
+ siege_artillery_mobile_artillery_command: "Mobilní velení dělostřelectva" # todo: NEW TRANSLATION
+ SUBDOCTRINE_FIELD_ENGINEERING: "Polní inženýrství" # todo: NEW TRANSLATION
+ SUBDOCTRINE_FIELD_ENGINEERING_DESC: "Úkolem vojenských inženýrů je stavět mosty a klást miny, stejně jako ničit obdobné stavby nepřítele. S vhodným vybavením, výcvikem a ochotou prolít pot, abychom ušetřili krev, můžeme ovládnout moderní bojiště." # todo: NEW TRANSLATION
+ field_engineering_rapid_fire_lane_clearance: "Rychlé vyčištění palebných koridorů" # todo: NEW TRANSLATION
+ field_engineering_sapper_fieldcraft: "Saperské polní dovednosti" # todo: NEW TRANSLATION
+ field_engineering_engineerdug_gun_emplacements: "Inženýry vykopaná dělostřelecká postavení" # todo: NEW TRANSLATION
+ field_engineering_smoke_projector_training: "Výcvik obsluh dýmovnic" # todo: NEW TRANSLATION
+ field_engineering_charge_and_flame: "Plameny a pytlové nálože" # todo: NEW TRANSLATION
+ SUBDOCTRINE_ARMORED_SPEARHEAD: "Pancéřovaný hrot" # todo: NEW TRANSLATION
+ SUBDOCTRINE_ARMORED_SPEARHEAD_DESC: "Tank nabízí možnost vést válku pohybu místo pouhého vyčerpávání. Naše doktrína by měla zdůrazňovat rychlé využití průlomů k obklíčení a zničení nepřítele." # todo: NEW TRANSLATION
+ armored_spearhead_force_concentration: "Bod hlavního úsilí" # todo: NEW TRANSLATION
+ armored_spearhead_armored_breakthrough_exploits: "Využití průlomu" # todo: NEW TRANSLATION
+ armored_spearhead_tactical_reconnaissance: "Obcházení silných bodů" # todo: NEW TRANSLATION
+ armored_spearhead_local_reserves: "Místní rezervy" # todo: NEW TRANSLATION
+ armored_spearhead_assault_detachments: "Ochrana boků" # todo: NEW TRANSLATION
+ armored_spearhead_no_lar_force_concentration: "$armored_spearhead_force_concentration$" # todo: NEW TRANSLATION
+ armored_spearhead_no_lar_armored_breakthrough_exploits: "$armored_spearhead_armored_breakthrough_exploits$" # todo: NEW TRANSLATION
+ armored_spearhead_no_lar_tactical_reconnaissance: "$armored_spearhead_tactical_reconnaissance$" # todo: NEW TRANSLATION
+ armored_spearhead_no_lar_local_reserves: "$armored_spearhead_local_reserves$" # todo: NEW TRANSLATION
+ armored_spearhead_no_lar_assault_detachments: "$armored_spearhead_assault_detachments$" # todo: NEW TRANSLATION
+ SUBDOCTRINE_ARMORED_INFANTRY_SUPPORT: "Podpora obrněné pěchoty" # todo: NEW TRANSLATION
+ SUBDOCTRINE_ARMORED_INFANTRY_SUPPORT_DESC: "Díky palebné síle a ochraně mohou tanky rychle zlikvidovat kulomety a jiné zbraně, které brzdí postup pěchoty. Spolupráce tanků a pěchoty musí být bezproblémová." # todo: NEW TRANSLATION
+ armored_infantry_support_mobile_reserves: "Převálcující útok" # todo: NEW TRANSLATION
+ armored_infantry_support_armored_cohorts: "Pancéřované kohorty" # todo: NEW TRANSLATION
+ armored_infantry_support_maintenance_routines: "Údržbové postupy" # todo: NEW TRANSLATION
+ armored_infantry_support_fuel_rationing: "Racionování paliva" # todo: NEW TRANSLATION
+ armored_infantry_support_mobile_armored_strongpoints: "Mobilní obrněné opěrné body" # todo: NEW TRANSLATION
+ SUBDOCTRINE_ARMORED_CAVALRY: "Obrněná kavalérie" # todo: NEW TRANSLATION
+ SUBDOCTRINE_ARMORED_CAVALRY_DESC: "Mechanizované síly doplněné rychlými lehkými tanky a obrněnými vozidly mohou sondovat slabá místa a udeřit na nepřítele tam, kde je nejzranitelnější." # todo: NEW TRANSLATION
+ armored_cavalry_cruiser_tanks: "Křižníkové tanky" # todo: NEW TRANSLATION
+ armored_cavalry_quick_response_force: "Motorizované bezpečnostní síly" # todo: NEW TRANSLATION
+ armored_cavalry_speed_as_armour: "Rychlost jako pancíř" # todo: NEW TRANSLATION
+ armored_cavalry_fighting_reconnaissance: "Bojový průzkum" # todo: NEW TRANSLATION
+ armored_cavalry_sustained_deployments: "Vnější uložení" # todo: NEW TRANSLATION
+ armored_cavalry_no_lar_cruiser_tanks: "$armored_cavalry_cruiser_tanks$" # todo: NEW TRANSLATION
+ armored_cavalry_no_lar_quick_response_force: "$armored_cavalry_quick_response_force$" # todo: NEW TRANSLATION
+ armored_cavalry_no_lar_speed_as_armour: "$armored_cavalry_speed_as_armour$" # todo: NEW TRANSLATION
+ armored_cavalry_no_lar_fighting_reconaissance: "$armored_cavalry_fighting_reconnaissance$" # todo: NEW TRANSLATION
+ armored_cavalry_no_lar_sustained_deployments: "$armored_cavalry_sustained_deployments$" # todo: NEW TRANSLATION
+ SUBDOCTRINE_STREAMLINED_DEPLOYMENT: "Zefektivněné nasazení" # todo: NEW TRANSLATION
+ SUBDOCTRINE_STREAMLINED_DEPLOYMENT_DESC: "Ofenzivní výsledky na strategické úrovni lze dosáhnout pouze tehdy, když jsou všechny složky, včetně tanků, koncentrovány, aby soustředily svou útočnou sílu v rozhodujícím bodě." # todo: NEW TRANSLATION
+ streamlined_deployment_flexible_armored_battalions: "Kampaň za mechanizaci armády" # todo: NEW TRANSLATION
+ streamlined_deployment_mechanized_wave: "Mechanizovaná vlna" # todo: NEW TRANSLATION
+ streamlined_deployment_tank_desant: "Tankový desant" # todo: NEW TRANSLATION
+ streamlined_deployment_full_front_deployment: "Úsporná logistika" # todo: NEW TRANSLATION
+ streamlined_deployment_continuous_offensives: "Nepřetržité ofenzívy" # todo: NEW TRANSLATION
+ SUBDOCTRINE_MOBILE_DEFENSE: "Mobilní obrana" # todo: NEW TRANSLATION
+ SUBDOCTRINE_MOBILE_DEFENSE_DESC: "Pancéřované síly jsou užitečné v obraně i v útoku. Díky své mobilitě mohou rychle obsadit silný obranný terén nebo se přesunout do pozice k protiopatření při průlomech nepřítele." # todo: NEW TRANSLATION
+ mobile_defense_mechanized_offensive: "Bitevní taxi" # todo: NEW TRANSLATION
+ mobile_defense_advance_under_fire: "Postup pod palbou" # todo: NEW TRANSLATION
+ mobile_defense_attached_support: "Pásová bojová podpora" # todo: NEW TRANSLATION
+ mobile_defense_combined_anti_armor: "Kombinovaná protitanková obrana" # todo: NEW TRANSLATION
+ mobile_defense_tank_on_tank_engagement: "Souboj tank proti tanku" # todo: NEW TRANSLATION
+ SUBDOCTRINE_TANK_DESTROYER_FORCE: "Síla ničení tanků" # todo: NEW TRANSLATION
+ SUBDOCTRINE_TANK_DESTROYER_FORCE_DESC: "Když čelíme významným nepřátelským obrněným hrozbám, nemůžeme spoléhat, že naše obranná linie vždy zastaví nepřítele. Hlubinná obrana pomocí přepadových protitankových jednotek je zásadní." # todo: NEW TRANSLATION
+ tank_destroyer_force_mobile_anti_tank: "Mobilní protitankové rezervy" # todo: NEW TRANSLATION
+ tank_destroyer_force_committed_operational_units: "Organické čety bojových inženýrů" # todo: NEW TRANSLATION
+ tank_destroyer_force_redeployment_priority: "Rychlý protiútok" # todo: NEW TRANSLATION
+ tank_destroyer_force_independent_counterattacks: "Nezávislé protiútoky" # todo: NEW TRANSLATION
+ tank_destroyer_force_selfsufficient_battalion: "Rádiem řízené zadržení průlomu" # todo: NEW TRANSLATION
+ SUBDOCTRINE_MISSION_TYPE_TACTICS: "Taktika podle úkolu" # todo: NEW TRANSLATION
+ SUBDOCTRINE_MISSION_TYPE_TACTICS_DESC: "Naši velitelé by neměli být automaty. Musí inteligentně interpretovat rozkazy a odchylovat se od přísného dodržování, pokud to naplní úkol. Vítězství je důležitější než slepá poslušnost." # todo: NEW TRANSLATION
+ mission_type_tactics_low_level_delegation: "Delegování na nízké úrovni" # todo: NEW TRANSLATION
+ mission_type_tactics_flexible_command: "Flexibilní velení" # todo: NEW TRANSLATION
+ mission_type_tactics_maneouver_drills: "Skupiny kombinovaných zbraní" # todo: NEW TRANSLATION
+ mission_type_tactics_flexible_combat_formations: "Ofenzivní postoj" # todo: NEW TRANSLATION
+ mission_type_tactics_control_zone_responsibilities: "Odpovědnosti za kontrolní zóny" # todo: NEW TRANSLATION
+ SUBDOCTRINE_LAST_STAND: "Zoufalá obrana" # todo: NEW TRANSLATION
+ SUBDOCTRINE_LAST_STAND_DESC: "Když jsme s pátem u zdi a jde o přežití národa, jedinou možností je hořké, fanatické odpor celé populace, proměňující každé pole, ulici a město v bojiště." # todo: NEW TRANSLATION
+ last_stand_werwolf_groups: "Sabotažní skupiny" # todo: NEW TRANSLATION
+ last_stand_pocket_consolidation: "Konsolidace obklíčení" # todo: NEW TRANSLATION
+ last_stand_digging_in: "Schovávání v zákopu" # todo: NEW TRANSLATION
+ last_stand_stocking_up: "Vyhledávání zásobních skrýší" # todo: NEW TRANSLATION
+ last_stand_breaking_out: "Konečná ofenzíva" # todo: NEW TRANSLATION
+ SUBDOCTRINE_INFILTRATION_TACTICS: "Taktika infiltrace" # todo: NEW TRANSLATION
+ SUBDOCTRINE_INFILTRATION_TACTICS_DESC: "Místo narážení na nejsilnější části nepřátelských linií se budeme obtékat jako voda, udržovat útočné tempo a donutit nepřítele k ústupu hrozbou obklíčení." # todo: NEW TRANSLATION
+ infiltration_tactics_infiltration_assault: "Infiltrační útok" # todo: NEW TRANSLATION
+ infiltration_tactics_nightly_assaults: "Noční útoky" # todo: NEW TRANSLATION
+ infiltration_tactics_self_sustaining_infiltration_units: "Samostatné infiltrační jednotky" # todo: NEW TRANSLATION
+ infiltration_tactics_terrain_and_situation_assessment: "Hodnocení terénu a situace" # todo: NEW TRANSLATION
+ infiltration_tactics_infiltration_in_depth: "Hloubková infiltrace" # todo: NEW TRANSLATION
+ SUBDOCTRINE_GRAND_ASSAULT: "Velký útok" # todo: NEW TRANSLATION
+ SUBDOCTRINE_GRAND_ASSAULT_DESC: "Na základě tvrdě nabytých zkušeností z první světové války přijmeme důkladný a metodický přístup k předbitvenímu plánování. Poté, když bude každá výhoda využita, sesypeme se na nepřítele jako lavina." # todo: NEW TRANSLATION
+ grand_assault_central_planning: "Centrální plánování" # todo: NEW TRANSLATION
+ grand_assault_multiple_attack_directions: "Odváděcí útoky" # todo: NEW TRANSLATION
+ grand_assault_combined_arms_integration: "Integrace kombinovaných zbraní" # todo: NEW TRANSLATION
+ grand_assault_forward_command_posts: "Přední velitelské stanoviště" # todo: NEW TRANSLATION
+ grand_assault_c3i_theory: "C3I" # todo: NEW TRANSLATION
+ SUBDOCTRINE_DEEP_BATTLE: "Hluboká bitva" # todo: NEW TRANSLATION
+ SUBDOCTRINE_DEEP_BATTLE_DESC: "Dosah a úderná síla moderních zbraní umožňuje překonat nepřátelský obranný systém tím, že jej zasáhneme v celé jeho hloubce současně se všemi dostupnými zbraněmi." # todo: NEW TRANSLATION
+ deep_battle_bounding_overwatch: "Střídavé krytí" # todo: NEW TRANSLATION
+ deep_battle_operational_concentration: "Operační rezervy" # todo: NEW TRANSLATION
+ deep_battle_maskirovka: "Strategické klamání" # todo: NEW TRANSLATION
+ deep_battle_breakthrough_priority: "Priorita průlomu" # todo: NEW TRANSLATION
+ deep_battle_operational_depth_control: "Operační ofenzivní hybnost" # todo: NEW TRANSLATION
+ deep_battle_no_lar_bounding_overwatch: "$deep_battle_bounding_overwatch$" # todo: NEW TRANSLATION
+ deep_battle_no_lar_operational_concentration: "$deep_battle_operational_concentration$" # todo: NEW TRANSLATION
+ deep_battle_no_lar_maskirovka: "$deep_battle_maskirovka$" # todo: NEW TRANSLATION
+ deep_battle_no_lar_breakthrough_priority: "$deep_battle_breakthrough_priority$" # todo: NEW TRANSLATION
+ deep_battle_no_lar_operational_depth_control: "$deep_battle_operational_depth_control$" # todo: NEW TRANSLATION
+ SUBDOCTRINE_GUERILLA_WAR: "Partyznická válka" # todo: NEW TRANSLATION
+ SUBDOCTRINE_GUERILLA_WAR_DESC: "Oslabujte převyšujícího nepřítele neustálými nízkoúrovňovými útoky na jeho komunikační linie, které erodují jeho vůli pokračovat v boji. Vyhýbejte se velkým set-piece bitvám, abyste uchovali naše omezené síly." # todo: NEW TRANSLATION
+ guerilla_war_catch_and_seize: "Nepřítel nás bude zásobovat" # todo: NEW TRANSLATION
+ guerilla_war_galvanize_support: "Mobilizovat podporu" # todo: NEW TRANSLATION
+ guerilla_war_scorched_earth: "Spálená země" # todo: NEW TRANSLATION
+ guerilla_war_urban_assaults: "Taktiky městského boje" # todo: NEW TRANSLATION
+ guerilla_war_defense_of_gained_power: "Obrana získané moci" # todo: NEW TRANSLATION
+ SUBDOCTRINE_PEOPLES_WAR: "Lidová milice" # todo: NEW TRANSLATION
+ SUBDOCTRINE_PEOPLES_WAR_DESC: "Vůle lidu vzdorovat, mobilizovaná a vedená státem, zaručuje naše konečné vítězství nad imperialismem a kontrarevolucí." # todo: NEW TRANSLATION
+ peoples_war_revolutionary_base_area: "Revoluční základní oblast" # todo: NEW TRANSLATION
+ peoples_war_destruction_over_land_gains: "Destrukce před ziskem území" # todo: NEW TRANSLATION
+ peoples_war_quick_decision_offensive_warfare: "Rychlá rozhodující ofenzíva" # todo: NEW TRANSLATION
+ peoples_war_people_not_things: "Lidé, ne věci" # todo: NEW TRANSLATION
+ peoples_war_protracted_war: "Prodloužená válka" # todo: NEW TRANSLATION
+ SUBDOCTRINE_RAPID_DOMINATION: "Rychlá dominace" # todo: NEW TRANSLATION
+ SUBDOCTRINE_RAPID_DOMINATION_DESC: "Upevnění dominance v plném spektru nad nepřítelem činí jejich další odpor fyzicky i psychologicky nemožným." # todo: NEW TRANSLATION
+ rapid_domination_forward_observers: "Průzkumníci venku" # todo: NEW TRANSLATION
+ rapid_domination_advanced_firebases: "Pokročilá palebná stanoviště" # todo: NEW TRANSLATION
+ rapid_domination_centralized_fire_control: "Dynamické řízení palby" # todo: NEW TRANSLATION
+ rapid_domination_regimental_combat_teams: "Regimentní bojové týmy" # todo: NEW TRANSLATION
+ rapid_domination_shock_and_awe: "Šok a hrůza" # todo: NEW TRANSLATION
+ SUBDOCTRINE_EXPEDITIONARY_WARFARE: "Expediční válka" # todo: NEW TRANSLATION
+ SUBDOCTRINE_EXPEDITIONARY_WARFARE_DESC: "Veškerá bojová síla světa má malý význam, pokud se nedokáže dostat k boji. Vytvoříme organizační důraz na schopnost projektovat sílu v souladu s našimi strategickými cíli." # todo: NEW TRANSLATION
+ expeditionary_warfare_staging_area_security: "Zabezpečení předmostí" # todo: NEW TRANSLATION
+ expeditionary_warfare_landing_operations: "Výsadkové operace" # todo: NEW TRANSLATION
+ expeditionary_warfare_shore_fire_control_parties: "Skupiny řízení palby na břehu" # todo: NEW TRANSLATION
+ expeditionary_warfare_breakout_emphasis: "Důraz na doplňování zásob" # todo: NEW TRANSLATION
+ expeditionary_warfare_withdrawal_protocols: "Protokoly pro uspořádaný ústup" # todo: NEW TRANSLATION
+ GRAND_DOCTRINE_SELECTION_TITLE: "Vyberte velkou doktrínu" # todo: NEW TRANSLATION
+ SUB_DOCTRINE_SELECTION_TITLE: "Vyberte subdoktrínu" # todo: NEW TRANSLATION
+ DOCTRINE_TRACK_INFANTRY: "Pěchota" # todo: NEW TRANSLATION
+ DOCTRINE_TRACK_COMBAT_SUPPORT: "Dělostřelectvo a bojová podpora" # todo: NEW TRANSLATION
+ DOCTRINE_TRACK_ARMOR: "Obrněné jednotky" # todo: NEW TRANSLATION
+ DOCTRINE_TRACK_OPERATIONS: "Operace" # todo: NEW TRANSLATION
+ DOCTRINE_UNLOCK_REWARD_TITLE: "§HPoskytuje:§!" # todo: NEW TRANSLATION
+ DOCTRINE_UNLOCK_DOCTRINE_TITLE: "§HOkamžitě poskytuje:§!" # todo: NEW TRANSLATION
+ DOCTRINE_REWARD_ACTIVE: "§GAktivní odměny:§!" # todo: NEW TRANSLATION
+ DOCTRINE_ENABLE_TACTIC: "Umožňuje taktiku: $NAME|H$" # todo: NEW TRANSLATION
+ DOCTRINE_TITLE: "$NAME|H$" # todo: NEW TRANSLATION
+ DOCTRINE_TRACK_INACTIVE: "$TRACK_NAME|H$ větev: \n §g- Ještě není aktivní§!" # todo: NEW TRANSLATION
+ DOCTRINE_TRACK_NUM_REWARDS: "$TRACK_NAME|H$ větev: \n - $NUM_REWARDS|H$/$TOTAL_REWARDS|H$ úrovní £doctrine_mastery §HMistrovství§! dosaženo" # todo: NEW TRANSLATION
+ DOCTRINE_TRACK_COMPLETED: "$TRACK_NAME|H$ větev: \n - Dokončeno" # todo: NEW TRANSLATION
+ SELECT_GRAND_DOCTRINE_PROMPT: "§GKlikněte§! pro výběr §HVelké doktríny§!" # todo: NEW TRANSLATION
+ SELECT_SUB_DOCTRINE_PROMPT: "§GKlikněte§! pro výběr §HSubdoktríny§!" # todo: NEW TRANSLATION
+ DOCTRINE_MILESTONE_TITLE: "$DOCTRINE_NAME|H$ - §HMilník§!" # todo: NEW TRANSLATION
+ DOCTRINE_REWARD_TITLE: "$REWARD_TITLE|H$" # todo: NEW TRANSLATION
+ MILESTONE_UNLOCK_EXPLANATION: "Tento milník se odemkne, když větev dosáhne plného £doctrine_mastery §HMistrovství§!" # todo: NEW TRANSLATION
+ MODIFIER_DOCTRINE_PREFIX: "£doctrine_mod " # todo: NEW TRANSLATION
+ MODIFIER_REWARD_FORMAT: "£doctrine_mod $DOCTRINE$ Mistrovství" # todo: NEW TRANSLATION
+ MODIFIER_MILESTONE_FORMAT: "£doctrine_mod $DOCTRINE$ Milník" # todo: NEW TRANSLATION
+ DOCTRINE_ARMY_XP_COST: "£army_experience $COST$" # todo: NEW TRANSLATION
+ DOCTRINE_AIR_XP_COST: "£air_experience $COST$" # todo: NEW TRANSLATION
+ DOCTRINE_NAVY_XP_COST: "£navy_experience $COST$" # todo: NEW TRANSLATION
+ DOCTRINE_ARMY_XP_INSUFFICIENT: "§RNedostatečné £army_experience armádní zkušenosti§!" # todo: NEW TRANSLATION
+ DOCTRINE_AIR_XP_INSUFFICIENT: "§RNedostatečné £air_experience letecké zkušenosti§!" # todo: NEW TRANSLATION
+ DOCTRINE_NAVY_XP_INSUFFICIENT: "§RNedostatečné £navy_experience námořní zkušenosti§!" # todo: NEW TRANSLATION
+ DOCTRINE_XP_COST: "$COST|H$" # todo: NEW TRANSLATION
+ DOCTRINE_XP_COST_INSUFFICIENT: "$COST|R$" # todo: NEW TRANSLATION
+ ADVISOR_DOCTRINE_FAVOR: "$NAME|H$ podporuje tuto doktrínu:" # todo: NEW TRANSLATION
+ ADVISOR_MASTERY_GAIN_ACTIVE: "- Uděluje $VALUE|+=%2$ £doctrine_mastery §HMistrovství§!" # todo: NEW TRANSLATION
+ ADVISOR_MASTERY_GAIN_POTENTIAL: "- Udělí $VALUE|+=%2$ £doctrine_mastery §HMistrovství§! pokud bude přiřazen jako Teoretik" # todo: NEW TRANSLATION
+ DOCTRINE_MASTERY_LEVEL_COST: "$VALUE|H0$" # todo: NEW TRANSLATION
+ DOCTRINE_MASTERY: "£doctrine_mastery $VALUE|H0$" # todo: NEW TRANSLATION
+ DOCTRINE_MASTERY_UNKNOWN: "£doctrine_mastery ???" # todo: NEW TRANSLATION
+ DOCTRINE_MASTERY_INSUFFICIENT_INTEL: "§RNedostatečné zpravodajské informace pro zobrazení aktuálního §!£doctrine_mastery §HMistrovství§!" # todo: NEW TRANSLATION
+ DOCTRINE_BANKED_MASTERY: "£doctrine_mastery $VALUE|0+=$" # todo: NEW TRANSLATION
+ DOCTRINE_CURRENT_MASTERY: "§HAktuální Mistrovství:§! £doctrine_mastery $VALUE|H2$" # todo: NEW TRANSLATION
+ DOCTRINE_CURRENT_BANKED_MASTERY: "§HRezervované Mistrovství:§! £doctrine_mastery $VALUE|H2$" # todo: NEW TRANSLATION
+ DOCTRINE_MONTHLY_MASTERY_GAIN: "Získáváte £doctrine_mastery $VALUE|H1$ za měsíc" # todo: NEW TRANSLATION
+ DOCTRINE_MONTHLY_MASTERY_BANK: "§HRezervujete§! £doctrine_mastery $VALUE|H1$ za měsíc" # todo: NEW TRANSLATION
+ MASTERY_BANK_EXPLANATION_FULL: "§gDokud je tato větev dokončena, §!$PERCENT|H%0$§g z nabytého Mistrovství je §!§Hrezervováno§!§g, až do maxima §!$MAX|H0$" # todo: NEW TRANSLATION
+ MASTERY_BANK_EXPLANATION_EMPTY: "§gDokud nebude odemčena subdoktrína, §!$PERCENT|H%0$§g z nabytého Mistrovství je §!§Hrezervováno§!§g, až do maxima £doctrine_mastery §!$MAX|H0$." # todo: NEW TRANSLATION
+ MASTERY_BANK_CONVERSION_RATE: "Sazba převodu rezervovaného Mistrovství: $PERCENT|H%0$" # todo: NEW TRANSLATION
+ MASTERY_INITIAL_FROM_RESERVE: "Počáteční Mistrovství z rezervy: £doctrine_mastery $VALUE|H0$" # todo: NEW TRANSLATION
+ SWITCH_GRAND_DOCTRINE_MASTERY_RESET: "§RVeškeré§! £doctrine_mastery §HMistrovství§!§R se resetuje při přepnutí Velké doktríny.§!" # todo: NEW TRANSLATION
+ DOCTRINE_MONTHLY_MASTERY_GAIN_FROM_UNITS: "- Základní zisk z jednotek: $VALUE|H1$" # todo: NEW TRANSLATION
+ DOCTRINE_MONTHLY_MASTERY_GAIN_BONUS: "- $NAME$: $VALUE|+=1$ (zbývá $DAYS|H$ dní)" # todo: NEW TRANSLATION
+ DOCTRINE_MONTHLY_MASTERY_GAIN_BONUS_FACTOR: "- $NAME$: $VALUE|%+=1$ (zbývá $DAYS|H$ dní)" # todo: NEW TRANSLATION
+ DOCTRINE_MONTHLY_MASTERY_GAIN_FACTION_SHARING: "- Sdílení frakce: $VALUE|+=1$" # todo: NEW TRANSLATION
+ DOCTRINE_MONTHLY_MASTERY_GAIN_THEATER_COMMANDER: "- $LEADER_NAME|H$ (velitel divadla): $VALUE|+=1$" # todo: NEW TRANSLATION
+ DOCTRINE_MONTHS_UNTIL_NEXT_REWARD: "Další odměna bude dosažena přibližně za $VALUE|H1$ měsíců" # todo: NEW TRANSLATION
+ DOCTRINE_REWARD_MASTERY: "Odemčeno při £doctrine_mastery $VALUE|H0$ Mistrovství" # todo: NEW TRANSLATION
+ DOCTRINE_REWARD_ACTIVE_PREVIEW: "§GTato odměna bude okamžitě odemčena díky rezervovanému Mistrovství§!" # todo: NEW TRANSLATION
+ MASTERY_GAIN_CONDITION_HEADER: "§GZískávejte Mistrovství z:§!" # todo: NEW TRANSLATION
+ MASTERY_GAIN_EXPLANATION: "§gMistrovství získávají jednotky v akci. Výcvik přispívá k Mistrovství sníženým tempem ($TRAINING_RATE|%0H$).§!" # todo: NEW TRANSLATION
+ mobile_infantry_cavalry_charge: "Modernizovaná kavalérie" # todo: NEW TRANSLATION
+ mobile_infantry_combined_arms_planning: "Infiltrace" # todo: NEW TRANSLATION
+ mobile_infantry_decisive_operations: "Operace prvního úderu" # todo: NEW TRANSLATION
+ mobile_infantry_delegated_authority: "Delegovaná pravomoc" # todo: NEW TRANSLATION
+ mobile_infantry_maneuver_warfare: "Manévrové válčení" # todo: NEW TRANSLATION
+ defensive_postures_improvised_fighting_position: "Improvizovaná bojová stanoviště" # todo: NEW TRANSLATION
+ defensive_postures_elastic_operations: "Linie předních pozic" # todo: NEW TRANSLATION
+ defensive_postures_developed_trench_networking: "Síť silných bodů" # todo: NEW TRANSLATION
+ defensive_postures_field_emplacements: "Prolínající se palebná pole" # todo: NEW TRANSLATION
+ defensive_postures_field_construction_training: "Výcvik pěších inženýrů" # todo: NEW TRANSLATION
+ GRAND_DOCTRINE_FLEET_IN_BEING: "Flotila v pohotovosti" # todo: NEW TRANSLATION
+ GRAND_DOCTRINE_FLEET_IN_BEING_DESC: "Klub velkých děl – tradicionalistické zaměření na námořní dělostřelectvo a těžké pancéřování, přemoci nepřátelskou flotilu a utopit ji v bouři oceli." # todo: NEW TRANSLATION
+ GRAND_DOCTRINE_CONVOY_RAIDING: "Přerušení obchodu" # todo: NEW TRANSLATION
+ GRAND_DOCTRINE_CONVOY_RAIDING_DESC: "Soukromí válečníci moderní doby – nepřímý přístup k námořní válce zaměřený na škrcení námořního obchodu, zbavení nepřítele zdrojů potřebných k vedení války." # todo: NEW TRANSLATION
+ GRAND_DOCTRINE_BASE_STRIKE: "Úder na základny" # todo: NEW TRANSLATION
+ GRAND_DOCTRINE_BASE_STRIKE_DESC: "Udeřte silně, udeřte první – nové technologie námořního letectva nabízejí lákavou možnost zasáhnout nepřítele zpoza obzoru dříve, než si uvědomí, že bojuje." # todo: NEW TRANSLATION
+ DOCTRINE_TRACK_CAPITAL_SHIPS: "Bitevní lodě" # todo: NEW TRANSLATION
+ DOCTRINE_TRACK_CARRIERS: "Letadlové lodě" # todo: NEW TRANSLATION
+ DOCTRINE_TRACK_SCREENS: "Eskortní lodě" # todo: NEW TRANSLATION
+ DOCTRINE_TRACK_SUBMARINES: "Ponorky" # todo: NEW TRANSLATION
+ SUBDOCTRINE_LINE_OF_BATTLE: "Bitevní linie" # todo: NEW TRANSLATION
+ SUBDOCTRINE_LINE_OF_BATTLE_DESC: "S naší velkou flotou v linii a salvami z boku ukážeme, že velká děla stále vládnou vlnám." # todo: NEW TRANSLATION
+ line_of_battle_flagships: "Koordinace vlajkových lodí" # todo: NEW TRANSLATION
+ line_of_battle_ordnance_handling_training: "Výcvik obsluhy děl" # todo: NEW TRANSLATION
+ line_of_battle_blue_water_logistics: "Oceánská logistika" # todo: NEW TRANSLATION
+ line_of_battle_bulkhead_drills: "Vylepšené techniky protizaplavení" # todo: NEW TRANSLATION
+ line_of_battle_modernized_line_of_battle: "Aktualizované signální protokoly" # todo: NEW TRANSLATION
+ SUBDOCTRINE_BATTLECRUISER_SUPREMACY: "Rychlé bitevní lodě" # todo: NEW TRANSLATION
+ SUBDOCTRINE_BATTLECRUISER_SUPREMACY_DESC: "Ve světě, kde má každý velká děla, rychlé kapitální lodě nabízejí možnost vybírat si souboje, které chceme, a utíkat z těch, které nechceme." # todo: NEW TRANSLATION
+ battlecruiser_supremacy_ship_of_the_line: "Lodě linie" # todo: NEW TRANSLATION
+ battlecruiser_supremacy_coordinated_strike_protocol: "Výcvik rychlé palby" # todo: NEW TRANSLATION
+ battlecruiser_supremacy_open_water_patrolling: "Patrolní vzorce na volném moři" # todo: NEW TRANSLATION
+ battlecruiser_supremacy_planning_at_speed: "Plánování v rychlosti" # todo: NEW TRANSLATION
+ battlecruiser_supremacy_capital_drills: "Princip rychlých divizí" # todo: NEW TRANSLATION
+ SUBDOCTRINE_ARMORED_RAIDERS: "Pancéřovaní nájezdníci" # todo: NEW TRANSLATION
+ SUBDOCTRINE_ARMORED_RAIDERS_DESC: "Eskorty konvojů se primárně zaměřují na obranu proti ponorkám. Představte si jejich šok, když se mezi ně objeví plně vyzbrojená kapitální loď, vlk mezi ovcemi." # todo: NEW TRANSLATION
+ armored_raiders_expert_reconnaissance: "Expertní průzkum" # todo: NEW TRANSLATION
+ armored_raiders_speed_trials: "Efektivní cestovní rychlost" # todo: NEW TRANSLATION
+ armored_raiders_modernized_officer_education: "Modernizované postupy pátrání" # todo: NEW TRANSLATION
+ armored_raiders_capital_raiders: "Úder a ústup" # todo: NEW TRANSLATION
+ armored_raiders_crisis_management: "Krizové řízení" # todo: NEW TRANSLATION
+ SUBDOCTRINE_COASTAL_DEFENCE: "Pobřežní obranná flotila" # todo: NEW TRANSLATION
+ SUBDOCTRINE_COASTAL_DEFENCE_DESC: "Menší válečné lodě, upřednostňující palebnou sílu před dosahem a operující blízko přátelských břehů, mohou být značným odstrašujícím prvkem proti nepřátelské flotile." # todo: NEW TRANSLATION
+ coastal_defence_fleet_aging_navy: "Program modernizace" # todo: NEW TRANSLATION
+ coastal_defence_fleet_spare_part_logistics: "Osvědčené konstrukční principy" # todo: NEW TRANSLATION
+ coastal_defence_fleet_casemate_upgrades: "Modernizace sekundárního ozbrojení" # todo: NEW TRANSLATION
+ coastal_defence_fleet_escort_duties: "Ochrana námořního obchodu" # todo: NEW TRANSLATION
+ coastal_defence_fleet_hail_of_fire: "Přesila palby" # todo: NEW TRANSLATION
+ SUBDOCTRINE_NAVAL_GUNFIRE_SUPPORT: "Podpora palbou z lodí" # todo: NEW TRANSLATION
+ SUBDOCTRINE_NAVAL_GUNFIRE_SUPPORT_DESC: "Jakmile bude nepřátelská bitevní flotila neutralizována, naše těžká námořní děla mohou zaměřit svou zuřivost na pozemní cíle, aby podpořila naše jednotky na břehu." # todo: NEW TRANSLATION
+ naval_gunfire_support_landing_lane_clearance: "Vyčištění vylodění" # todo: NEW TRANSLATION
+ naval_gunfire_support_inshore_aa_screen: "Pobřežní AA kryt" # todo: NEW TRANSLATION
+ naval_gunfire_support_joint_operations: "Společné operace" # todo: NEW TRANSLATION
+ naval_gunfire_support_floating_base: "Plovoucí základna" # todo: NEW TRANSLATION
+ naval_gunfire_support_green_water_operations: "Operace v pobřežních vodách" # todo: NEW TRANSLATION
+ SUBDOCTRINE_BATTLESHIP_ANTIAIR_SCREEN: "Protiletecké bitevní lodě" # todo: NEW TRANSLATION
+ SUBDOCTRINE_BATTLESHIP_ANTIAIR_SCREEN_DESC: "Bitevní lodě nabízejí bezkonkurenční možnosti pro palubní výzbroj. Vybavit je pro ničení nepřátelských letadel by mělo být prioritou, aby udržely nebe čisté pro naše svazy." # todo: NEW TRANSLATION
+ battleship_antiair_screen_all_seas_anti_aircraft: "Protiletecká obrana na otevřeném moři" # todo: NEW TRANSLATION
+ battleship_antiair_screen_efficient_navigation: "Efektivní navigace" # todo: NEW TRANSLATION
+ battleship_antiair_screen_broad_air_cover: "Priorita detekce leteckých útoků" # todo: NEW TRANSLATION
+ battleship_antiair_screen_capital_screens: "Krytí kapitálních lodí" # todo: NEW TRANSLATION
+ battleship_antiair_screen_inaccessible_skies: "Nedostupné nebe" # todo: NEW TRANSLATION
+ SUBDOCTRINE_SCREEN_CONVOY_ESCORT: "Eskorta konvojů" # todo: NEW TRANSLATION
+ SUBDOCTRINE_SCREEN_CONVOY_ESCORT_DESC: "Hlavním úkolem lehkých lodí je zabezpečit námořní obchod, na němž závisí naše válečné úsilí. Vše ostatní je druhotné." # todo: NEW TRANSLATION
+ convoy_escort_escort_reclassification: "Odolná obrana konvojů" # todo: NEW TRANSLATION
+ convoy_escort_anti_submarine_sweep_training: "Preventivní odhalování ponorek" # todo: NEW TRANSLATION
+ convoy_escort_creeping_attack: "Postupné útočné vzorce" # todo: NEW TRANSLATION
+ convoy_escort_sweeping_duty: "Mapy vyčištění tras" # todo: NEW TRANSLATION
+ convoy_escort_as_below_so_above: "Zkušenost s univerzálními děly" # todo: NEW TRANSLATION
+ SUBDOCTRINE_SCREEN_INTEGRATED_OPERATIONS: "Integrované operace" # todo: NEW TRANSLATION
+ SUBDOCTRINE_SCREEN_INTEGRATED_OPERATIONS_DESC: "Eskortní síly nemají palebnou sílu kapitálních lodí, ale použitím rychlosti jako pancíře mohou poskytnout cenné služby i v těžké námořní bitvě." # todo: NEW TRANSLATION
+ support_integrated_operations_first_line_of_defense: "První linie obrany" # todo: NEW TRANSLATION
+ support_integrated_operations_first_line_of_attack: "První linie útoku" # todo: NEW TRANSLATION
+ support_integrated_operations_blue_water_training: "Oceánský výcvik" # todo: NEW TRANSLATION
+ support_integrated_operations_fleet_coordination: "Sourodá koordinace flotily" # todo: NEW TRANSLATION
+ support_integrated_operations_early_warning: "Hlídky včasného varování" # todo: NEW TRANSLATION
+ SUBDOCTRINE_SCREEN_HUNTER_KILLERS: "Skupiny lovců-zabijáků" # todo: NEW TRANSLATION
+ SUBDOCTRINE_SCREEN_HUNTER_KILLERS_DESC: "Zatímco nepřátelské ponorky hrozí škrcením naší válečné ekonomiky, dobře organizované a agresivní eskorty mohou proměnit lovce v lovené." # todo: NEW TRANSLATION
+ hunter_killers_search_and_destroy: "Vyhledat a zničit" # todo: NEW TRANSLATION
+ hunter_killers_flotilla_leader: "Centrální velení flotily" # todo: NEW TRANSLATION
+ hunter_killers_group_operations: "Delegované skupinové operace" # todo: NEW TRANSLATION
+ hunter_killers_escort_group_patrols: "Kombinované letecké/povrchové hlídky" # todo: NEW TRANSLATION
+ hunter_killers_combat_readiness: "Vysoké operační tempo" # todo: NEW TRANSLATION
+ SUBDOCTRINE_SCREEN_TORPEDO_PRIMACY: "Převaha torpéd" # todo: NEW TRANSLATION
+ SUBDOCTRINE_SCREEN_TORPEDO_PRIMACY_DESC: "Důraz na agresivní, odvážné torpédové útoky torpédoborců místo obranného krytí, aby oslabily nepřátelskou bitevní linii před hlavním střetnutím." # todo: NEW TRANSLATION
+ torpedo_primacy_modern_broadsides: "Moderní boční salvy" # todo: NEW TRANSLATION
+ torpedo_primacy_coordinated_fire_patterns: "Drzé útoky" # todo: NEW TRANSLATION
+ torpedo_primacy_dedicated_torpedo_task_forces: "Velitelé flotily" # todo: NEW TRANSLATION
+ torpedo_primacy_improved_escort_role: "Pozorování periskopem" # todo: NEW TRANSLATION
+ torpedo_primacy_task_force_integration: "Integrace svazů" # todo: NEW TRANSLATION
+ SUBDOCTRINE_SCREEN_ANTI_AIRCRAFT_CRUISERS: "Protiletečtí křižníky" # todo: NEW TRANSLATION
+ SUBDOCTRINE_SCREEN_ANTI_AIRCRAFT_CRUISERS_DESC: "Lehké křižníky nemají výdrž stát v linii bitev, ale mohou být vybaveny zbraněmi s vysokým úhlem a poskytnout silnou AA ochranu flotile." # todo: NEW TRANSLATION
+ anti_aircraft_cruisers_calibrated_deck_guns: "Rychlé sledování cíle" # todo: NEW TRANSLATION
+ anti_aircraft_cruisers_priority_air_targets: "Zručné dálkoměření" # todo: NEW TRANSLATION
+ anti_aircraft_cruisers_evasion_techniques: "Techniky vyhýbavého manévrování" # todo: NEW TRANSLATION
+ anti_aircraft_cruisers_air_interdiction_screening: "Krytí proti leteckému zásahu" # todo: NEW TRANSLATION
+ anti_aircraft_cruisers_sustained_engagements: "Dlouhotrvající souboje" # todo: NEW TRANSLATION
+ SUBDOCTRINE_SCREEN_SUPPORT_FOCUS: "Zaměření na podporu eskorty" # todo: NEW TRANSLATION
+ SUBDOCTRINE_SCREEN_SUPPORT_FOCUS_DESC: "Zlepšení výcviku a organizace našeho podpůrného loďstva nepřímo, ale dramaticky posílí naši hlavní bitevní flotilu." # todo: NEW TRANSLATION
+ screen_support_focus_close_support_integration: "Integrace přímé podpory" # todo: NEW TRANSLATION
+ screen_support_focus_sustainable_task_forces: "Soběstačné svazy" # todo: NEW TRANSLATION
+ screen_support_focus_maintenance_routines: "Přední námořní doplňování" # todo: NEW TRANSLATION
+ screen_support_focus_protected_naval_expansion: "Chráněná námořní expanze" # todo: NEW TRANSLATION
+ screen_support_focus_patrol_pattern_improvements: "Vylepšení hlídkovacích vzorců" # todo: NEW TRANSLATION
+ SUBDOCTRINE_SCREEN_JEUNE_ECOLE: "Nová škola" # todo: NEW TRANSLATION
+ SUBDOCTRINE_SCREEN_JEUNE_ECOLE_DESC: "Doktrinální koncept zdůrazňující zástupy malých lodí, torpédové útoky a nepřímou válku proti obchodu jako protijed proti starému pojetí souboje velkých děl na volném moři." # todo: NEW TRANSLATION
+ jeune_ecole_commerce_raiding_priority: "Priorita nájezdů na obchod" # todo: NEW TRANSLATION
+ jeune_ecole_large_torpedo_boats: "Velké torpédové čluny" # todo: NEW TRANSLATION
+ jeune_ecole_total_economic_warfare: "Totální ekonomická válka" # todo: NEW TRANSLATION
+ jeune_ecole_sea_scabs: "Mořští parazité" # todo: NEW TRANSLATION
+ jeune_ecole_autonomous_cruisers: "Autonomní křižníky" # todo: NEW TRANSLATION
+ SUBDOCTRINE_SCREEN_PATROL_BOATS: "Hlídací čluny" # todo: NEW TRANSLATION
+ SUBDOCTRINE_SCREEN_PATROL_BOATS_DESC: "Levné, rychlé útočné čluny vyzbrojené torpédy jsou silným nástrojem proti tradiční flotile těžkých lodí, zejména v pobřežních vodách, kde mohou útočit z léčky." # todo: NEW TRANSLATION
+ patrol_boats_hit_and_run: "Zásah a ústup" # todo: NEW TRANSLATION
+ patrol_boats_small_craft_harassment: "Obtěžování malými plavidly" # todo: NEW TRANSLATION
+ patrol_boats_lie_in_wait: "Číhání" # todo: NEW TRANSLATION
+ patrol_boats_home_waters_defense: "Obrana domácích vod" # todo: NEW TRANSLATION
+ patrol_boats_fast_sortie_turnaround: "Rychlý obrat výpadů" # todo: NEW TRANSLATION
+ SUBDOCTRINE_CARRIER_BATTLEGROUPS: "Svazy kolem letadlových lodí" # todo: NEW TRANSLATION
+ SUBDOCTRINE_CARRIER_BATTLEGROUPS_DESC: "Letadlovka rychle zastínila bitevní loď jako hlavní námořní zbraň naší doby. Naše flotily by měly být kolem nich soustředěny." # todo: NEW TRANSLATION
+ carrier_battlegroups_long_distance_logistics: "Přední logistika" # todo: NEW TRANSLATION
+ carrier_battlegroups_long_range_target_acquisition: "Získávání cílů pro letecké útoky" # todo: NEW TRANSLATION
+ carrier_battlegroups_personnel_management: "Správa personálu" # todo: NEW TRANSLATION
+ carrier_battlegroups_dedicated_record_keeping: "Pečlivé vedení záznamů" # todo: NEW TRANSLATION
+ carrier_battlegroups_floating_fortresses: "Hromadná protiletadlová palba" # todo: NEW TRANSLATION
+ SUBDOCTRINE_CARRIER_AIRFIELDS: "Plovoucí letiště" # todo: NEW TRANSLATION
+ SUBDOCTRINE_CARRIER_AIRFIELDS_DESC: "Paluba letadlové lodě je nejdražší kus pozemku na Zemi. Nesmí být šetřeno úsilí, aby se z ní vytěžilo maximum letecké síly." # todo: NEW TRANSLATION
+ floating_airfields_traffic_control_systems: "Koordinace letového provozu" # todo: NEW TRANSLATION
+ floating_airfields_floating_city: "Řízení operačního štábu" # todo: NEW TRANSLATION
+ floating_airfields_veteran_pilots: "Plánování útoků leteckých skupin" # todo: NEW TRANSLATION
+ floating_airfields_night_fighting_expertise: "Výcvik nočních operací" # todo: NEW TRANSLATION
+ floating_airfields_rough_weather_procedures: "Postupy pro drsné počasí" # todo: NEW TRANSLATION
+ SUBDOCTRINE_ESCORT_CARRIER_SUPPORT: "Podpora eskortních letadlovek" # todo: NEW TRANSLATION
+ SUBDOCTRINE_ESCORT_CARRIER_SUPPORT_DESC: "Malé, ekonomické eskortní letadlovky poskytují našim konvojům obranné letecké krytí po celou cestu. Žádná nepřátelská ponorka nesmí udeřit bez následků." # todo: NEW TRANSLATION
+ escort_carrier_support_evasive_convoy_maneuvers: "Vyhýbavé manévry konvojů" # todo: NEW TRANSLATION
+ escort_carrier_support_anti_submarine_escorts: "Eskorty proti ponorkám" # todo: NEW TRANSLATION
+ escort_carrier_support_civilian_hull_shapes: "Civilní tvary trupu" # todo: NEW TRANSLATION
+ escort_carrier_support_integrated_convoy_escorts: "Putující eskorty" # todo: NEW TRANSLATION
+ escort_carrier_support_convoy_carrier_support_groups: "Skupiny podpory konvoj-letadlovka" # todo: NEW TRANSLATION
+ SUBDOCTRINE_BROAD_NAVAL_SUPPORT: "Obecná podpora" # todo: NEW TRANSLATION
+ SUBDOCTRINE_BROAD_NAVAL_SUPPORT_DESC: "S průzkumem, nadvládou ve vzduchu a údernou schopností v jednom balíčku jsou letadlovky neocenitelným univerzálním nástrojem v rukou velitele svazu." # todo: NEW TRANSLATION
+ broad_naval_support_carrier_maneuvering: "Manévrování letadlovky" # todo: NEW TRANSLATION
+ broad_naval_support_task_force_concentration: "Koncentrace svazů" # todo: NEW TRANSLATION
+ broad_naval_support_organized_support_protocols: "Organizované podpůrné protokoly" # todo: NEW TRANSLATION
+ broad_naval_support_escorts_in_battle: "Soběstačnost eskortních letadlovek" # todo: NEW TRANSLATION
+ broad_naval_support_support_rotation: "Rotace podpory" # todo: NEW TRANSLATION
+ SUBDOCTRINE_MASSED_CARRIER_FLEET: "Hromadná letadlová flotila" # todo: NEW TRANSLATION
+ SUBDOCTRINE_MASSED_CARRIER_FLEET_DESC: "Stejně jako na zemi, i v námořním boji závisí úspěch na soustředění co nejvíce útočné síly v jednom rozhodujícím bodě. Rozdělení znamená porážku." # todo: NEW TRANSLATION
+ massed_carrier_fleet_deep_operative_support: "Projekce síly letadlové flotily" # todo: NEW TRANSLATION
+ massed_carrier_fleet_carrier_independence: "Nezávislost letadlovky" # todo: NEW TRANSLATION
+ massed_carrier_fleet_crew_shifts: "Směny posádek" # todo: NEW TRANSLATION
+ massed_carrier_fleet_efficient_rearming: "Efektivní doplňování munice" # todo: NEW TRANSLATION
+ massed_carrier_fleet_unceasing_airpower: "Nepřetržitá vzdušná síla" # todo: NEW TRANSLATION
+ SUBDOCTRINE_LIGHT_TASK_FORCES: "Lehké svazy" # todo: NEW TRANSLATION
+ SUBDOCTRINE_LIGHT_TASK_FORCES_DESC: "Letadlovky jsou silné, ale v přímém boji zranitelné. Aby doručily své nálože a přispěly k vítězství, musí být schopny přežít." # todo: NEW TRANSLATION
+ light_task_forces_direct_fire_avoidance: "Vyhýbání se přímé palbě" # todo: NEW TRANSLATION
+ light_task_forces_surface_fleets: "Pobřežní operace" # todo: NEW TRANSLATION
+ light_task_forces_screen_raiders: "Útoční jednotky krytu" # todo: NEW TRANSLATION
+ light_task_forces_evasive_engagements_focus: "Efektivní povrchové krytí" # todo: NEW TRANSLATION
+ light_task_forces_localized_sea_power: "Zesílená místní námořní síla" # todo: NEW TRANSLATION
+ SUBDOCTRINE_SUBMARINE_WOLFPACKS: "Vlčí smečky" # todo: NEW TRANSLATION
+ SUBDOCTRINE_SUBMARINE_WOLFPACKS_DESC: "Lovte rozptýleně – udeřte současně. Naše ponorky se mohou rozptýlit, aby pokryly obrovské úseky oceánu, a poté si navzájem signalizovat shromáždění při spatření vhodné kořisti." # todo: NEW TRANSLATION
+ wolfpacks_predictive_expertise: "Rychlý přístup" # todo: NEW TRANSLATION
+ wolfpacks_pack_search_patterns: "Hledací vzorce smečky" # todo: NEW TRANSLATION
+ wolfpacks_improvisation: "Kultura improvizace" # todo: NEW TRANSLATION
+ wolfpacks_rough_weather_procedure: "Postup pro drsné počasí" # todo: NEW TRANSLATION
+ wolfpacks_wolfpack_coordination: "Centralizovaná identifikace volacích znaků" # todo: NEW TRANSLATION
+ SUBDOCTRINE_SUBMARINE_FLEET_OPERATIONS: "Flotilní operace" # todo: NEW TRANSLATION
+ SUBDOCTRINE_SUBMARINE_FLEET_OPERATIONS_DESC: "Hromadná integrace ponorek do hlavní bitevní flotily, aby poskytovaly průzkum a zaskakovaly nepřátelské lodě během všeobecného střetu." # todo: NEW TRANSLATION
+ submarine_fleet_operations_long_range_patrol_schedule: "Rozvrh dálkových hlídek" # todo: NEW TRANSLATION
+ submarine_fleet_operations_sustained_operations: "Udržitelná operační činnost" # todo: NEW TRANSLATION
+ submarine_fleet_operations_ambush_tactics: "Taktika přepadu" # todo: NEW TRANSLATION
+ submarine_fleet_operations_diverse_operations: "Různorodé operace" # todo: NEW TRANSLATION
+ submarine_fleet_operations_predictive_search_patterns: "Prediktivní vyhledávací vzorce" # todo: NEW TRANSLATION
+ SUBDOCTRINE_SUBMARINE_CAPITAL_HUNTERS: "Lovci kapitálních lodí" # todo: NEW TRANSLATION
+ SUBDOCTRINE_SUBMARINE_CAPITAL_HUNTERS_DESC: "Správnou rolí ponorky v moderní válce je vyhýbat se rozptýlení menší kořistí a soustředit se především na potápění nepřátelských kapitálních lodí." # todo: NEW TRANSLATION
+ capital_hunters_fire_protocol_drills: "Cvičení palebných protokolů" # todo: NEW TRANSLATION
+ capital_hunters_battle_line_priority: "Priorita bitevní linie" # todo: NEW TRANSLATION
+ capital_hunters_quick_reload_procedures: "Cvičení rychlého přebíjení" # todo: NEW TRANSLATION
+ capital_hunters_battleship_chase: "Pronásledování bitevních lodí" # todo: NEW TRANSLATION
+ capital_hunters_escape_when_empty: "Útěk po vyprázdnění" # todo: NEW TRANSLATION
+ SUBDOCTRINE_SUBMARINE_COASTAL_DEFENSE: "Pobřežní obrana" # todo: NEW TRANSLATION
+ SUBDOCTRINE_SUBMARINE_COASTAL_DEFENSE_DESC: "Malé ponorky operující blízko pobřeží mohou být stálou trnem v boku možného invazního plánu." # todo: NEW TRANSLATION
+ submarine_coastal_defense_optimized_compartments: "Miniaturní systémy" # todo: NEW TRANSLATION
+ submarine_coastal_defense_patrol_vigilance: "Bdelost hlídek" # todo: NEW TRANSLATION
+ submarine_coastal_defense_maneuever_fire: "Tak blízko, že nelze minout" # todo: NEW TRANSLATION
+ submarine_coastal_defense_locals_knowledge: "Znalost místních poměrů" # todo: NEW TRANSLATION
+ submarine_coastal_defense_counter_submarine_operations: "Vyhýbání se eskortám" # todo: NEW TRANSLATION
+ SUBDOCTRINE_SUBMARINE_COASTAL_MINELAYING: "Pobřežní minování" # todo: NEW TRANSLATION
+ SUBDOCTRINE_SUBMARINE_COASTAL_MINELAYING_DESC: "Díky své nenápadnosti a hbitosti jsou ponorky ideální platformou pro zasévání min do námořních cest a omezování pohybu nepřítele." # todo: NEW TRANSLATION
+ coastal_minelaying_covert_buildup: "Tajné hromadění sil" # todo: NEW TRANSLATION
+ coastal_minelaying_placement_for_effect: "Umístění pro efekt" # todo: NEW TRANSLATION
+ coastal_minelaying_minefield_patrols: "Hlídky minových polí" # todo: NEW TRANSLATION
+ coastal_minelaying_overhead_protection: "Cvičení protiletadlových týmů" # todo: NEW TRANSLATION
+ coastal_minelaying_clearing_procedures: "Postupy likvidace" # todo: NEW TRANSLATION
+ SUBDOCTRINE_SUBMARINE_LONG_RANGE_SUBMARINES: "Dálkové ponorky" # todo: NEW TRANSLATION
+ SUBDOCTRINE_SUBMARINE_LONG_RANGE_SUBMARINES_DESC: "Když naše flotily operují na extrémní vzdálenosti, naše ponorky musí být schopny je následovat, aby poskytly plnou podporu povrchovým svazům." # todo: NEW TRANSLATION
+ long_range_submarines_ocean_patrols: "Dálkové hlídky" # todo: NEW TRANSLATION
+ long_range_submarines_improved_dive_protocols: "Cvičení rychlého ponoru" # todo: NEW TRANSLATION
+ long_range_submarines_support_the_surface: "Taktiky podpory bitevní flotily" # todo: NEW TRANSLATION
+ long_range_submarines_stowage_efficiency: "Efektivita uskladnění" # todo: NEW TRANSLATION
+ long_range_submarines_deep_water_supremacy: "Nadvláda v hlubokých vodách" # todo: NEW TRANSLATION
+ SET_GRAND_DOCTRINE_EFFECT: "Aktivovat hlavní doktrínu $NAME|H$" # todo: NEW TRANSLATION
+ SET_SUB_DOCTRINE_EFFECT: "Aktivovat subdoktrínu $NAME|H$" # todo: NEW TRANSLATION
+ ADD_MASTERY_EFFECT: "Přidat $AMOUNT|H0$ £doctrine_mastery §HMistrovství§!" # todo: NEW TRANSLATION
+ ADD_DAILY_MASTERY_EFFECT: "Přidat $AMOUNT|H2$ £doctrine_mastery §HMistrovství§! denně po dobu $DAYS|H$ dnů" # todo: NEW TRANSLATION
+ ADD_MASTERY_BONUS_EFFECT: "Přidat bonus $BONUS|+=%2$ £doctrine_mastery §HMistrovství§! na $DAYS|H$ dnů" # todo: NEW TRANSLATION
+ TRACK_EFFECT_ALL_TRACKS: "$TRACK_EFFECT_DESC$ ke všem aktivním větvím doktríny" # todo: NEW TRANSLATION
+ TRACK_EFFECT_ONLY_FOLDER: "$TRACK_EFFECT_DESC$ ke všem aktivním $NAME|H$ větvím" # todo: NEW TRANSLATION
+ TRACK_EFFECT_ONLY_TRACK: "$TRACK_EFFECT_DESC$ ke všem $NAME|H$ větvím" # todo: NEW TRANSLATION
+ TRACK_EFFECT_ONLY_GRAND_DOCTRINE: "$TRACK_EFFECT_DESC$ ke všem aktivním $NAME|H$ větvím" # todo: NEW TRANSLATION
+ TRACK_EFFECT_ONLY_SUBDOCTRINE: "$TRACK_EFFECT_DESC$ k $NAME|H$" # todo: NEW TRANSLATION
+ TRACK_EFFECT_COMPLEX_HEADER: "$TRACK_EFFECT_DESC$ ke všem větvím, které:" # todo: NEW TRANSLATION
+ TRACK_EFFECT_CONDITION_FOLDER: "- Jsou ve složce $NAME|H$" # todo: NEW TRANSLATION
+ TRACK_EFFECT_CONDITION_GRAND_DOCTRINE: "- Mají hlavní doktrínu $NAME|H$" # todo: NEW TRANSLATION
+ TRACK_EFFECT_CONDITION_SUBDOCTRINE: "- Mají subdoktrínu $NAME|H$" # todo: NEW TRANSLATION
+ TRACK_EFFECT_CONDITION_TRACK_TYPE: "- Jsou typu $NAME|H$" # todo: NEW TRANSLATION
+ TRACK_EFFECT_CONDITION_TRACK_INDEX: "- Mají index větve $INDEX|H$" # todo: NEW TRANSLATION
+ TRACK_COMPLETED_TRIGGER: "Dokončil větev doktríny: $NAME|H$" # todo: NEW TRANSLATION
+ TRACK_NOT_COMPLETED_TRIGGER: "Nedokončil větev doktríny: $NAME|H$" # todo: NEW TRANSLATION
+ TRACK_HAS_SUBDOCTRINE_TRIGGER: "Má jakoukoliv subdoktrínu v větvi: $NAME|H$" # todo: NEW TRANSLATION
+ TRACK_HAS_NOT_SUBDOCTRINE_TRIGGER: "Nemá žádnou subdoktrínu v větvi: $NAME|H$" # todo: NEW TRANSLATION
+ REWARD_MASTERY_HEADER: "£doctrine_mastery $MASTERY|0H$ odemyká $NAME|H$:" # todo: NEW TRANSLATION
+ MASTERY_CAPS_EXPLANATION: "Zisk mistrovství z těchto zdrojů bude minimálně $MIN|H2$ denně a maximálně $MAX|H1$ denně" # todo: NEW TRANSLATION
+ MASTERY_FROM_EQUIPMENT_CATEGORY_ENTRY: " $CATEGORY|H$" # todo: NEW TRANSLATION
+ DOCTRINE_FOLDER_TITLE: "$NAME|H$" # todo: NEW TRANSLATION
+ GRAND_DOCTRINE_TITLE: "Hlavní doktrína: $NAME|H$" # todo: NEW TRANSLATION
+ NO_GRAND_DOCTRINE_ASSIGNED: "Žádná hlavní doktrína přiřazena" # todo: NEW TRANSLATION
+ NO_GRAND_DOCTRINE_PROMPT: "Vyberte hlavní doktrínu" # todo: NEW TRANSLATION
+ OPEN_DOCTRINE_VIEW_PROMPT: "§GKlikněte§! pro otevření zobrazení doktrín" # todo: NEW TRANSLATION
+ AVAILABLE_GRAND_DOCTRINE: "$FOLDER_NAME$ - §HHlavní doktrína§!" # todo: NEW TRANSLATION
+ AVAILABLE_SUB_DOCTRINE: "$TRACK_NAME$ - §HSubdoktrína§!" # todo: NEW TRANSLATION
+ ASSIGN_DOCTRINE_PROMPT: "§GKlikněte§! pro odemknutí vybrané doktríny" # todo: NEW TRANSLATION
+ CANNOT_ASSIGN_DOCTRINE: "§RNelze§! odemknout vybranou doktrínu:" # todo: NEW TRANSLATION
+ UNLOCK_DOCTRINE_TEXT: "Odemknout $COST|H$" # todo: NEW TRANSLATION
+ HAS_COMPLETED_SUBDOCTRINE: "Dokončil subdoktrínu $NAME|H$" # todo: NEW TRANSLATION
+ HAS_NOT_COMPLETED_SUBDOCTRINE: "Nedokončil subdoktrínu $NAME|H$" # todo: NEW TRANSLATION
+ HAS_SUBDOCTRINE: "Má aktivní subdoktrínu: £doctrine_mod $NAME|H$" # todo: NEW TRANSLATION
+ HAS_NOT_SUBDOCTRINE: "Nemá aktivní subdoktrínu: £doctrine_mod $NAME|H$" # todo: NEW TRANSLATION
+ HAS_GRAND_DOCTRINE: "Má aktivní hlavní doktrínu: £doctrine_mod $NAME|H$" # todo: NEW TRANSLATION
+ HAS_NOT_GRAND_DOCTRINE: "Nemá aktivní hlavní doktrínu: £doctrine_mod $NAME|H$" # todo: NEW TRANSLATION
+ GRAND_DOCTRINE_DESCRIPTION: "Hlavní doktrína je pilíř naší vojenské strategie a určuje celkový přístup k vedení války." # todo: NEW TRANSLATION
+ GRAND_DOCTRINE_BENEFIT_DESCRIPTION: "§gPřiřaďte hlavní doktrínu, aby byla dostupná sada §Hsubdoktrín§! větví. Vyvíjejte své subdoktríny získáváním £doctrine_mastery §HMistrovství§! z jednotek v boji. Dokončené subdoktríny aktivují §Hmilníky§! a dál posilují vaši hlavní doktrínu.§!" # todo: NEW TRANSLATION
+ SUBDOCTRINE_DESCRIPTION: "Prostřednictvím subdoktríny se specializujeme a zdokonalujeme náš přístup k vedení války v určité oblasti." # todo: NEW TRANSLATION
+ SUBDOCTRINE_BENEFIT_DESCRIPTION: "§gPřiřazení subdoktríny umožní§! získávání £doctrine_mastery §HMistrovství§!§g v této větvi. Po dosažení určitých prahů mistrovství subdoktrína odemkne další efekty.§!" # todo: NEW TRANSLATION
+ DOCTRINE_COST_TITLE: "Doktrína " # todo: NEW TRANSLATION
+ GRAND_DOCTRINE_COST_REDUCTION: "Cena hlavní doktríny: $VALUE|%=-0$" # todo: NEW TRANSLATION
+ SUBDOCTRINE_COST_REDUCTION: "Cena subdoktríny: $VALUE|%=-0$" # todo: NEW TRANSLATION
+ DOCTRINE_COST_REDUCTION_DUE_TO: "Z důvodu:" # todo: NEW TRANSLATION
+ DOCTRINE_COST_REDUCTION_VALUE: "$VALUE|%=-0$" # todo: NEW TRANSLATION
+ land_doctrine_cost_factor: "Náklady pozemní doktríny" # todo: NEW TRANSLATION
+ naval_doctrine_cost_factor: "Náklady námořní doktríny" # todo: NEW TRANSLATION
+ DOCTRINE_TEMPORARY_COST_REDUCTION: "$NAME|H$: $VALUE|%-0$ ($USES$ použití zbývá)" # todo: NEW TRANSLATION
+ DOCTRINE_REWARD_MASTERY_REQUIREMENT: "Odemčeno při £doctrine_mastery $VALUE|H0$ Mistrovství" # todo: NEW TRANSLATION
+ GRAND_DOCTRINE_STRATEGIC_DESTRUCTION: "Strategické ničení" # todo: NEW TRANSLATION
+ GRAND_DOCTRINE_STRATEGIC_DESTRUCTION_DESC: "Hromadné bombardování továren, rafinérií a dopravní infrastruktury hluboko v nepřátelském vnitrozemí, aby se omezil jeho válečný potenciál u zdroje." # todo: NEW TRANSLATION
+ GRAND_DOCTRINE_BATTLEFIELD_SUPPORT: "Podpora na bojišti" # todo: NEW TRANSLATION
+ GRAND_DOCTRINE_BATTLEFIELD_SUPPORT_DESC: "Techniky a výcvik pro těsnou spolupráci armády a letectva, kde letecké údery fungují jako létající dělostřelectvo a razí cestu pro rychle postupující pozemní operace." # todo: NEW TRANSLATION
+ GRAND_DOCTRINE_OPERATIONAL_INTEGRITY: "Operační integrita" # todo: NEW TRANSLATION
+ GRAND_DOCTRINE_OPERATIONAL_INTEGRITY_DESC: "Získání a udržení vzdušné nadvlády jako předpokladu pro dominanci v operačním prostoru prováděnou středními bombardéry provádějícími operační údery." # todo: NEW TRANSLATION
+ DOCTRINE_TRACK_FIGHTER_AIRCRAFT: "Stíhací letouny" # todo: NEW TRANSLATION
+ DOCTRINE_TRACK_STRIKE_AIRCRAFT: "Útočné letouny" # todo: NEW TRANSLATION
+ DOCTRINE_TRACK_MEDIUM_AIRCRAFT: "Střední bombardéry" # todo: NEW TRANSLATION
+ DOCTRINE_TRACK_HEAVY_AIRCRAFT: "Těžké bombardéry" # todo: NEW TRANSLATION
+ SUBDOCTRINE_ESCORT_FIGHTER: "Eskorta na střední vzdálenost" # todo: NEW TRANSLATION
+ SUBDOCTRINE_ESCORT_FIGHTER_DESC: "Aby naše útočná letadla mohla operovat beztrestně, je nezbytné, aby je těsně podporovali stíhači, kteří pročistí nebe od nepřátelských letadel." # todo: NEW TRANSLATION
+ air_subdoctrine_escort_fighter_escort_procedures: "Horní krytí" # todo: NEW TRANSLATION
+ air_subdoctrine_escort_fighter_extended_search_patterns: "Ofenzivní stíhací průzkum" # todo: NEW TRANSLATION
+ air_subdoctrine_escort_fighter_improved_maintenance_protocols: "Pravidelné generální opravy motorů" # todo: NEW TRANSLATION
+ air_subdoctrine_escort_fighter_increased_sky_presence: "Potlačování nepřátelských letišť" # todo: NEW TRANSLATION
+ air_subdoctrine_escort_fighter_constant_air_offensive: "Nepřetržitá vzdušná ofenzíva" # todo: NEW TRANSLATION
+ SUBDOCTRINE_FIGHTER_HOMELAND_DEFENSE: "Domácí protiletecká obrana" # todo: NEW TRANSLATION
+ SUBDOCTRINE_FIGHTER_HOMELAND_DEFENSE_DESC: "Abychom účinně vedli válku, musí být náš průmysl a infrastruktura za každou cenu chráněny před strategickým bombardováním." # todo: NEW TRANSLATION
+ air_subdoctrine_fighter_homeland_defense_interception_priority: "Taktika velkého křídla" # todo: NEW TRANSLATION
+ air_subdoctrine_fighter_homeland_defense_air_defense_grids: "Systém včasného varování v letectví" # todo: NEW TRANSLATION
+ air_subdoctrine_fighter_homeland_defense_air_wing_knowledge_transfer: "Mentorství pilotů" # todo: NEW TRANSLATION
+ air_subdoctrine_fighter_homeland_defense_experienced_pilots_protection: "Soutěž o počet sestřelů" # todo: NEW TRANSLATION
+ air_subdoctrine_fighter_homeland_defense_mass_sorties: "Efektivní pozemní posádky" # todo: NEW TRANSLATION
+ SUBDOCTRINE_FIGHTER_BOMBERS: "Stíhací bombardéry" # todo: NEW TRANSLATION
+ SUBDOCTRINE_FIGHTER_BOMBERS_DESC: "Když nejsou potřeba k boji s nepřátelskými letadly, mohou naši stíhači přesměrovat úsilí na útoky proti pozemním cílům a podpořit armádu." # todo: NEW TRANSLATION
+ air_subdoctrine_fighter_bombers_target_prioritization: "Kanály pro komunikaci vzduch–země" # todo: NEW TRANSLATION
+ air_subdoctrine_fighter_bombers_strafing_runs: "Kroužení nad bojištěm" # todo: NEW TRANSLATION
+ air_subdoctrine_fighter_bombers_versatile_experience: "Rozsáhlé vyhodnocení po letu" # todo: NEW TRANSLATION
+ air_subdoctrine_fighter_bombers_multi_mission_assignment: "Víceúčelová schopnost" # todo: NEW TRANSLATION
+ air_subdoctrine_fighter_bombers_night_target_search: "Zkušenosti s nočním létáním" # todo: NEW TRANSLATION
+ SUBDOCTRINE_TACTICAL_FLEXIBILITY: "Dominance vzdušného prostoru" # todo: NEW TRANSLATION
+ SUBDOCTRINE_TACTICAL_FLEXIBILITY_DESC: "Zaměření na ofenzivní vzduch–vzduch taktiky navržené k převzetí kontroly nad nebem." # todo: NEW TRANSLATION
+ air_subdoctrine_tactical_flexibility_loose_formation: "Volné formace" # todo: NEW TRANSLATION
+ air_subdoctrine_tactical_flexibility_high_altitude_approach: "Nepředvídatelné vzorce leteckých hlídek" # todo: NEW TRANSLATION
+ air_subdoctrine_tactical_flexibility_combat_discipline: "Efektivní organizace pátrání a záchrany" # todo: NEW TRANSLATION
+ air_subdoctrine_tactical_flexibility_high_speed_dive: "Taktika 'boom and zoom'" # todo: NEW TRANSLATION
+ air_subdoctrine_tactical_flexibility_aces_of_the_sky: "Mentalita letecké elity" # todo: NEW TRANSLATION
+ SUBDOCTRINE_DOGFIGHTING_MASTERY: "Rytíři vzduchu" # todo: NEW TRANSLATION
+ SUBDOCTRINE_DOGFIGHTING_MASTERY_DESC: "Téměř výjimečně ve válečném letectví bojuje pilot sám. Musíme zajistit individuální dokonalost každého pilota." # todo: NEW TRANSLATION
+ air_subdoctrine_dogfighting_mastery_pilot_quality_focus: "Těleso veteránských instruktorů" # todo: NEW TRANSLATION
+ air_subdoctrine_dogfighting_mastery_force_rotation: "Rychlé navádění k zachycení" # todo: NEW TRANSLATION
+ air_subdoctrine_dogfighting_mastery_fighter_command_system: "Přehled v soubojích vzduch–vzduch" # todo: NEW TRANSLATION
+ air_subdoctrine_dogfighting_mastery_combat_routines: "Kontr–letecké hlídky" # todo: NEW TRANSLATION
+ air_subdoctrine_dogfighting_mastery_improved_support_integration: "Efektivita krátkých výpadů" # todo: NEW TRANSLATION
+ SUBDOCTRINE_FIGHTER_CENTRAL_FIELD: "Námořní letectvo" # todo: NEW TRANSLATION
+ SUBDOCTRINE_FIGHTER_CENTRAL_FIELD_DESC: "Vzdušná síla je dominantní zbraní tohoto věku a letadlovka umožňuje jejím ničivým úderům globální dosah." # todo: NEW TRANSLATION
+ air_subdoctrine_fighter_central_field_decoy_tactic: "Letecká hlídka" # todo: NEW TRANSLATION
+ air_subdoctrine_fighter_central_field_three_plane_formation: "Thach Weave" # todo: NEW TRANSLATION
+ air_subdoctrine_fighter_central_field_aggressive_spirit: "Námořní esa" # todo: NEW TRANSLATION
+ air_subdoctrine_fighter_central_field_naval_expertise: "Označování cílů eskortě stíhačů" # todo: NEW TRANSLATION
+ air_subdoctrine_fighter_central_field_all_weather_operations: "Operace za každého počasí" # todo: NEW TRANSLATION
+ SUBDOCTRINE_FLYING_ARTILLERY: "Létající dělostřelectvo" # todo: NEW TRANSLATION
+ SUBDOCTRINE_FLYING_ARTILLERY_DESC: "Generalistický přístup k prioritizaci úderů, zasahování cílů příležitosti od fronty až do operační hloubky." # todo: NEW TRANSLATION
+ air_subdoctrine_flying_artillery_suppression_runs: "Více denních výpadů" # todo: NEW TRANSLATION
+ air_subdoctrine_flying_artillery_terrain_familiarity: "Potlačování prioritních cílů" # todo: NEW TRANSLATION
+ air_subdoctrine_flying_artillery_effective_payloads: "Ničení bodových cílů" # todo: NEW TRANSLATION
+ air_subdoctrine_flying_artillery_rugged_airframes: "Zkušenosti z polních letišť" # todo: NEW TRANSLATION
+ air_subdoctrine_flying_artillery_movement_interdiction: "Útočná interdikce" # todo: NEW TRANSLATION
+ SUBDOCTRINE_DIVE_BOMBERS: "Údery na přesné cíle" # todo: NEW TRANSLATION
+ SUBDOCTRINE_DIVE_BOMBERS_DESC: "Letecké údery na cíle v první linii během probíhající pozemní bitvy vystavují letadla zemní palbě a mohou být rizikové pro přátelské jednotky, ale efekty přímo na frontě jsou dramatické." # todo: NEW TRANSLATION
+ air_subdoctrine_dive_bombers_forward_air_controllers: "Frontoví letečtí koordinátoři" # todo: NEW TRANSLATION
+ air_subdoctrine_dive_bombers_all_weather_drills: "Odolná doktrína podpory na frontě" # todo: NEW TRANSLATION
+ air_subdoctrine_dive_bombers_terrifying_precision: "Systematický letecký teror" # todo: NEW TRANSLATION
+ air_subdoctrine_dive_bombers_close_air_support_aces: "Esá blízké letecké podpory" # todo: NEW TRANSLATION
+ air_subdoctrine_dive_bombers_fighter_bomber_coordination: "Spolupráce stíhačů" # todo: NEW TRANSLATION
+ SUBDOCTRINE_CARRIER_STRIKES: "Vzdušná síla z moře na pobřeží" # todo: NEW TRANSLATION
+ SUBDOCTRINE_CARRIER_STRIKES_DESC: "Téměř veškerý světový průmysl a válečný potenciál je v dosahu leteckých úderů od pobřeží. Naše letadlové lodě mohou umístit leteckou sílu přímo do nepřátelského zázemí." # todo: NEW TRANSLATION
+ air_subdoctrine_carrier_strikes_deck_coordination: "Hromadné koordinované údery" # todo: NEW TRANSLATION
+ air_subdoctrine_carrier_strikes_specialized_torpedoes: "Výběr cílů torpéd" # todo: NEW TRANSLATION
+ air_subdoctrine_carrier_strikes_strike_wave_tactics: "Dvouúčelová munice" # todo: NEW TRANSLATION
+ air_subdoctrine_carrier_strikes_deck_cycle_training: "Dobře vycvičené posádky katapultů" # todo: NEW TRANSLATION
+ air_subdoctrine_carrier_strikes_optimized_deck_space_usage: "Optimalizace prostoru v hangáru" # todo: NEW TRANSLATION
+ SUBDOCTRINE_FLEXIBLE_FIRE_SUPPORT: "Pozemně-námořní koordinace" # todo: NEW TRANSLATION
+ SUBDOCTRINE_FLEXIBLE_FIRE_SUPPORT_DESC: "Díky své rychlosti a doletu mohou naše útočné letouny plnit více úkolů — podporovat armádu na souši nebo napadat nepřátelské lodě na moři." # todo: NEW TRANSLATION
+ air_subdoctrine_flexible_fire_support_cas_preservation: "Propracovaný výcvik palubních střelců" # todo: NEW TRANSLATION
+ air_subdoctrine_flexible_fire_support_adaptable_nav_bombers: "Útoky proti plavidlům" # todo: NEW TRANSLATION
+ air_subdoctrine_flexible_fire_support_forward_spotters: "Zjednodušený systém žádostí o podporu" # todo: NEW TRANSLATION
+ air_subdoctrine_flexible_fire_support_continuous_fire_support: "Priorita provozuschopných letounů" # todo: NEW TRANSLATION
+ air_subdoctrine_flexible_fire_support_quick_turnaround: "Techniky leteckého vyhnutí" # todo: NEW TRANSLATION
+ SUBDOCTRINE_NAVAL_STRIKE_TACTICS: "Přesné námořní bombardování" # todo: NEW TRANSLATION
+ SUBDOCTRINE_NAVAL_STRIKE_TACTICS_DESC: "Letadla z letadlových lodí musí proběhnout skrz obléhání nepřátelských stíhačů a protiletadlové obrany, aby doručila náklad. Náš výcvik bude klást důraz na přežití a houževnatost při dokončování útoku." # todo: NEW TRANSLATION
+ air_subdoctrine_naval_strike_tactics_naval_disruption: "Techniky vyhýbání se zachycení" # todo: NEW TRANSLATION
+ air_subdoctrine_naval_strike_tactics_attack_synchronization: "Uvolnění munice v poslední chvíli" # todo: NEW TRANSLATION
+ air_subdoctrine_naval_strike_tactics_naval_strike_aces: "Esá námořních úderů" # todo: NEW TRANSLATION
+ air_subdoctrine_naval_strike_tactics_safety_protocols: "Bezpečnostní opatření při vzletu a přistání" # todo: NEW TRANSLATION
+ air_subdoctrine_naval_strike_tactics_optimized_payload: "Dálkové uzavírání námořních cest" # todo: NEW TRANSLATION
+ SUBDOCTRINE_NAVAL_TORPEDO_TACTICS: "Taktika torpédových rojů" # todo: NEW TRANSLATION
+ SUBDOCTRINE_NAVAL_TORPEDO_TACTICS_DESC: "Několika torpédům se lze vyhnout. Desítky jich najednou mohou zatlačit i ten nejodolnější cíl díky čistému objemu." # todo: NEW TRANSLATION
+ air_subdoctrine_naval_torpedo_tactics_port_strikes: "Torpéda s mělkým ponorem" # todo: NEW TRANSLATION
+ air_subdoctrine_naval_torpedo_tactics_low_level_attack_runs: "Útoky těsně nad hladinou" # todo: NEW TRANSLATION
+ air_subdoctrine_naval_torpedo_tactics_extended_sea_patrols: "Rozsáhlé hlídkování" # todo: NEW TRANSLATION
+ air_subdoctrine_naval_torpedo_tactics_all_weather_training: "Výcvik za všech podmínek" # todo: NEW TRANSLATION
+ air_subdoctrine_naval_torpedo_tactics_naval_strike_mastery: "Mistrovství námořních úderů" # todo: NEW TRANSLATION
+ SUBDOCTRINE_BOMBER_INTERCEPTION: "Těžcí stíhači" # todo: NEW TRANSLATION
+ SUBDOCTRINE_BOMBER_INTERCEPTION_DESC: "Ačkoliv jim může chybět obratnost proti lehčím letadlům, těžcí stíhači mohou nést ničivou protibombardovací palebnou sílu." # todo: NEW TRANSLATION
+ air_subdoctrine_bomber_interception_night_interceptions: "Výcvik nočních stíhačů" # todo: NEW TRANSLATION
+ air_subdoctrine_bomber_interception_dispersed_fighting: "Rozbíjení formací bombardérů" # todo: NEW TRANSLATION
+ air_subdoctrine_bomber_interception_heavy_fighter_veteran_initiative: "Esá těžkých stíhačů" # todo: NEW TRANSLATION
+ air_subdoctrine_bomber_interception_high_altitude_approach: "Vyhýbání se obratovým soubojům" # todo: NEW TRANSLATION
+ air_subdoctrine_bomber_interception_bomber_interception_patrols: "Relé pro vzdušné hlídkování" # todo: NEW TRANSLATION
+ SUBDOCTRINE_LONG_RANGE_ESCORT: "Doprovod s dlouhým doletem" # todo: NEW TRANSLATION
+ SUBDOCTRINE_LONG_RANGE_ESCORT_DESC: "Nepřikrytá denní bombardování nepřátelského domova by znamenala zničující ztráty. Potřebujeme stíhače s dosahem, aby doprovázeli naše bombardéry tam i zpět." # todo: NEW TRANSLATION
+ air_subdoctrine_long_range_escort_efficient_fly_routes: "Rozšířené používání přídavných nádrží" # todo: NEW TRANSLATION
+ air_subdoctrine_long_range_escort_mutual_air_cover: "Obranná ochrana formace ze všech stran" # todo: NEW TRANSLATION
+ air_subdoctrine_long_range_escort_training_instructors: "Komplexní výcvik pilotů" # todo: NEW TRANSLATION
+ air_subdoctrine_long_range_escort_fighter_baiting: "Lákání stíhaček" # todo: NEW TRANSLATION
+ air_subdoctrine_long_range_escort_far_reaching_airforce: "Odbornost v úspoře paliva" # todo: NEW TRANSLATION
+ SUBDOCTRINE_OPERATIONAL_AIR_SUPPORT: "Operační letecká podpora" # todo: NEW TRANSLATION
+ SUBDOCTRINE_OPERATIONAL_AIR_SUPPORT_DESC: "Doktrína zaměřená na dominanci v operačním bojišti prostřednictvím trvalých útoků vysoce přeživších středních letounů." # todo: NEW TRANSLATION
+ air_subdoctrine_operational_air_support_efficient_support_crews: "Výcvik posádek v přežití a vyhýbání se" # todo: NEW TRANSLATION
+ air_subdoctrine_operational_air_support_ground_interdictions: "Bombardování na vyžádání" # todo: NEW TRANSLATION
+ air_subdoctrine_operational_air_support_operational_airforce_presence: "Obtěžování nepřátelských letišť" # todo: NEW TRANSLATION
+ air_subdoctrine_operational_air_support_heavy_fighter_support: "Těžké stíhačebombardéry" # todo: NEW TRANSLATION
+ air_subdoctrine_operational_air_support_tactical_bomber_preservation: "Techniky proti zachycení" # todo: NEW TRANSLATION
+ SUBDOCTRINE_TACTICAL_BATTLEFIELD_SUPPORT: "Taktická podpora na bojišti" # todo: NEW TRANSLATION
+ SUBDOCTRINE_TACTICAL_BATTLEFIELD_SUPPORT_DESC: "Flotila lehkých bombardérů lijících zkázu z nebe na nepřátelské opěrné body, čímž připravují cestu postupu našich jednotek." # todo: NEW TRANSLATION
+ air_subdoctrine_tactical_battlefield_support_keypoint_bombing: "Přípravné letecké bombardování" # todo: NEW TRANSLATION
+ air_subdoctrine_tactical_battlefield_support_logistical_bombing: "Logistické bombardování" # todo: NEW TRANSLATION
+ air_subdoctrine_tactical_battlefield_support_ship_hunters: "Dostupnost průbojových bomb" # todo: NEW TRANSLATION
+ air_subdoctrine_tactical_battlefield_support_dedicated_record_keeping: "Úspora paliva na krátký dolet" # todo: NEW TRANSLATION
+ air_subdoctrine_tactical_battlefield_support_bomber_aces: "Esá bombardérů" # todo: NEW TRANSLATION
+ SUBDOCTRINE_THEATER_INTERDICTION: "Interdikce na operačním divadle" # todo: NEW TRANSLATION
+ SUBDOCTRINE_THEATER_INTERDICTION_DESC: "Bez rizika zasažení přátelských jednotek může naše flotila bombardérů neomezeně operovat v zadních oblastech nepřítele, šířit zmatek a nepřímo podporovat bojiště." # todo: NEW TRANSLATION
+ air_subdoctrine_theater_interdiction_extended_reach: "Optimalizace letových tras" # todo: NEW TRANSLATION
+ air_subdoctrine_theater_interdiction_night_bombing: "Noční bombardování" # todo: NEW TRANSLATION
+ air_subdoctrine_theater_interdiction_precision_bombing: "Hloubkové nájezdy" # todo: NEW TRANSLATION
+ air_subdoctrine_theater_interdiction_port_raids: "Nájezdy na loděnice" # todo: NEW TRANSLATION
+ air_subdoctrine_theater_interdiction_improved_casualty_recovery: "Cvičení vyskočení z letadla" # todo: NEW TRANSLATION
+ SUBDOCTRINE_AERIAL_RECONNAISSANCE: "Letecký průzkum" # todo: NEW TRANSLATION
+ SUBDOCTRINE_AERIAL_RECONNAISSANCE_DESC: "Nejstarší formou vojenského letectví je průzkum. Stejně jako vždy i dnes může znát polohu a úmysly nepřítele být mocnější než jakákoli zbraň." # todo: NEW TRANSLATION
+ air_subdoctrine_aerial_reconnaissance_extended_reconnaissance_radius: "Široké vyhledávací vzory" # todo: NEW TRANSLATION
+ air_subdoctrine_aerial_reconnaissance_improved_observation_procedures: "Oddělení analýzy fotografií" # todo: NEW TRANSLATION
+ air_subdoctrine_aerial_reconnaissance_naval_recon: "Rozpoznávání siluet lodí" # todo: NEW TRANSLATION
+ air_subdoctrine_aerial_reconnaissance_distant_aerial_observation: "Shromažďování leteckého zpravodajství" # todo: NEW TRANSLATION
+ air_subdoctrine_aerial_reconnaissance_well_coordinated_strikes: "Hodnocení škod po bombardování" # todo: NEW TRANSLATION
+ SUBDOCTRINE_NIGHT_BOMBING: "Strategické noční bombardování" # todo: NEW TRANSLATION
+ SUBDOCTRINE_NIGHT_BOMBING_DESC: "Na rozdíl od Douheta bombardér ve skutečnosti ne vždy projde. Let v noci snižuje naši přesnost, ale značně zvyšuje šanci na přežití letadel a posádek." # todo: NEW TRANSLATION
+ air_subdoctrine_night_bombing_night_raids: "Výcvik nočního létání" # todo: NEW TRANSLATION
+ air_subdoctrine_night_bombing_stealth_approach: "Tichý přístup" # todo: NEW TRANSLATION
+ air_subdoctrine_night_bombing_shared_principles: "Výcvik v použití elektronických navigačních pomůcek" # todo: NEW TRANSLATION
+ air_subdoctrine_night_bombing_bombing_discipline: "Směs výbušných a zápalných pum" # todo: NEW TRANSLATION
+ air_subdoctrine_night_bombing_durable_airframes: "Vyhýbání se nočním stíhačům" # todo: NEW TRANSLATION
+ SUBDOCTRINE_CARPET_BOMBING: "Plošné bombardování" # todo: NEW TRANSLATION
+ SUBDOCTRINE_CARPET_BOMBING_DESC: "Snažit se zasáhnout bodové cíle z desetitisícových výšek je většinou plýtvání bombami. Let v bočním rozestavení a vytvoření širokého pásu zkázy je spolehlivější způsob, jak zasáhnout... něco." # todo: NEW TRANSLATION
+ air_subdoctrine_carpet_bombing_veteran_bomber_crews: "Veteránské posádky bombardérů" # todo: NEW TRANSLATION
+ air_subdoctrine_carpet_bombing_breaking_the_spirit: "Přerušení dopravní sítě" # todo: NEW TRANSLATION
+ air_subdoctrine_carpet_bombing_destruction_campaigns: "Letečtí průkopníci" # todo: NEW TRANSLATION
+ air_subdoctrine_carpet_bombing_coordinated_air_operations: "Označování sekundárních cílů" # todo: NEW TRANSLATION
+ air_subdoctrine_carpet_bombing_defensive_formation: "Těsné obranné formace" # todo: NEW TRANSLATION
+ SUBDOCTRINE_DEEP_AIR_RAIDS: "Hloubkové letecké nájezdy" # todo: NEW TRANSLATION
+ SUBDOCTRINE_DEEP_AIR_RAIDS_DESC: "S vhodným vybavením a výcvikem není žádný cíl v nepřátelském vnitrozemí příliš vzdálený, aby nebyl zasažen. Nepřítel se naučí, že žádné místo není před našimi bombami bezpečné." # todo: NEW TRANSLATION
+ air_subdoctrine_deep_air_raids_bad_weather_operations: "Vypouštění pum podle odhadu polohy" # todo: NEW TRANSLATION
+ air_subdoctrine_deep_air_raids_effective_targetting: "Bomby s odloženou detonací" # todo: NEW TRANSLATION
+ air_subdoctrine_deep_air_raids_improved_mission_control: "Rotace posádek" # todo: NEW TRANSLATION
+ air_subdoctrine_deep_air_raids_escort_cooperation: "Spolupráce doprovodných jednotek" # todo: NEW TRANSLATION
+ air_subdoctrine_deep_air_raids_long_range_missions: "Vyvažování pum a paliva" # todo: NEW TRANSLATION
+ SUBDOCTRINE_FLYING_FORTRESSES: "Létající pevnosti" # todo: NEW TRANSLATION
+ SUBDOCTRINE_FLYING_FORTRESSES_DESC: "Velké skupiny bombardérů létající v těsné formaci a vybavené těžkým obranným ozbrojením mohou donutit každého útočícího stíhače vzdorovat palbě desítek zbraní najednou." # todo: NEW TRANSLATION
+ air_subdoctrine_flying_fortresses_high_level_bombing: "Bojová formace" # todo: NEW TRANSLATION
+ air_subdoctrine_flying_fortresses_experienced_gunners: "Kolektivní palebná síla" # todo: NEW TRANSLATION
+ air_subdoctrine_flying_fortresses_pilot_rescue_missions: "Sklopení vrtule při výpadku motoru" # todo: NEW TRANSLATION
+ air_subdoctrine_flying_fortresses_extensive_training: "Týmová práce veteránských posádek" # todo: NEW TRANSLATION
+ air_subdoctrine_flying_fortresses_safety_landing_procedures: "Zlepšení spolehlivosti při hromadné výrobě" # todo: NEW TRANSLATION
+ SUBDOCTRINE_COASTAL_AIR_PATROL: "Pobřežní letecká hlídka" # todo: NEW TRANSLATION
+ SUBDOCTRINE_COASTAL_AIR_PATROL_DESC: "Tradiční prostředky pobřežní obrany na hladině jsou náročné na personál a neefektivní. Letecká mobilita nám umožňuje dohlížet na naše pobřeží a potrestat každého invazního pokusu." # todo: NEW TRANSLATION
+ air_subdoctrine_coastal_air_patrol_coastal_air_minelaying: "Letecké minování pobřeží" # todo: NEW TRANSLATION
+ air_subdoctrine_coastal_air_patrol_evasive_techniques: "Taktiky stažení" # todo: NEW TRANSLATION
+ air_subdoctrine_coastal_air_patrol_efficient_maritime_patrols: "Druhotná útočná role hlídkových letadel" # todo: NEW TRANSLATION
+ air_subdoctrine_coastal_air_patrol_fog_patrol: "Přístup bez ohledu na počasí" # todo: NEW TRANSLATION
+ air_subdoctrine_coastal_air_patrol_improved_targetting_techniques: "Zkušenosti s cílením námořní munice" # todo: NEW TRANSLATION
+ SUBDOCTRINE_OPEN_OCEAN_AIR_PATROL: "Letecké hlídky nad otevřeným oceánem" # todo: NEW TRANSLATION
+ SUBDOCTRINE_OPEN_OCEAN_AIR_PATROL_DESC: "Díky doletu moderních letadel lze provádět námořní pátrací a útočné mise proti nepřátelským silám daleko dříve, než ohrozí naše pobřeží." # todo: NEW TRANSLATION
+ air_subdoctrine_open_ocean_air_patrol_harbor_raids: "Nájezdy na přístavy" # todo: NEW TRANSLATION
+ air_subdoctrine_open_ocean_air_patrol_aerial_minesweeping: "Ofenzivní odminovávání námořních cest" # todo: NEW TRANSLATION
+ air_subdoctrine_open_ocean_air_patrol_self_reliance: "Nezávislost doprovodu" # todo: NEW TRANSLATION
+ air_subdoctrine_open_ocean_air_patrol_night_patrols: "Noční hlídky" # todo: NEW TRANSLATION
+ air_subdoctrine_open_ocean_air_patrol_naval_destruction: "Jeden torpédo - jeden zásah" # todo: NEW TRANSLATION
+ SUBDOCTRINE_HEAVY_AIRCRAFT_FOCUS: "Zaměření na víceúčelové těžké letouny" # todo: NEW TRANSLATION
+ SUBDOCTRINE_HEAVY_AIRCRAFT_FOCUS_DESC: "Velikost a nosnost velkých trupů dávají těmto letadlům bezkonkurenční schopnost nést širokou škálu vybavení přizpůsobeného misi pro jakoukoli vojenskou situaci." # todo: NEW TRANSLATION
+ air_subdoctrine_heavy_aircraft_focus_heavy_aircraft_application: "Šablony pumového nákladu" # todo: NEW TRANSLATION
+ air_subdoctrine_heavy_aircraft_focus_specialized_payloads: "Nálože přizpůsobené misi" # todo: NEW TRANSLATION
+ air_subdoctrine_heavy_aircraft_focus_developed_training_programs: "Přenos znalostí mezi posádkami" # todo: NEW TRANSLATION
+ air_subdoctrine_heavy_aircraft_focus_long_range_missions: "Kontinentální dosah" # todo: NEW TRANSLATION
+ air_subdoctrine_heavy_aircraft_focus_efficient_fuel_management: "Efektivní hospodaření s palivem" # todo: NEW TRANSLATION
+ MILITARY_ATTACHE_MASTERY: "- Vojenský atašé v $COUNTRY$: $VALUE|+=2$ ($FACTOR|H%0$ přenos mistrovství)" # todo: NEW TRANSLATION
+ NOTIFICATION_MILESTONE_UNLOCKED: "Milník doktríny odemčen" # todo: NEW TRANSLATION
+ NOTIFICATION_REWARD_UNLOCKED: "Odměna za mistrovství odemčena" # todo: NEW TRANSLATION
+ REWARD_UNLOCK_HEADER: "£doctrine_mastery $MASTERY|H0$ - $REWARD_NAME|H$:" # todo: NEW TRANSLATION
+ MILESTONE_UNLOCK_HEADER: "$DOCTRINE_NAME|H$ - $TRACK_NAME|H$ Milník:" # todo: NEW TRANSLATION
+ mod_grand_doctrine_mastery_gain_factor: "£doctrine_mod $ARG|H$ (hlavní doktrína) nárůst mistrovství" # todo: NEW TRANSLATION
+ mod_subdoctrine_mastery_gain_factor: "£doctrine_mod $ARG|H$ (subdoktrína) faktor nárůstu mistrovství" # todo: NEW TRANSLATION
+ mod_track_mastery_gain_factor: "£doctrine_mod $ARG|H$ faktor nárůstu mistrovství větve" # todo: NEW TRANSLATION
+ REWARD_SUMMARY_HEADER: "§HDokončení £doctrine_mastery mistrovství odemkne:§!" # todo: NEW TRANSLATION
+ REWARD_SUMMARY_HIDDEN: "£doctrine_mastery §HMistrovství§! odemkne další efekty" # todo: NEW TRANSLATION
+ MILESTONE_SUMMARY_HEADER: "§HDokončení všech milníků odemkne:§!" # todo: NEW TRANSLATION
+ MILESTONE_SUMMARY_HIDDEN: "§HMilníky§! odemknou další efekty" # todo: NEW TRANSLATION
+ DOCTRINE_DETAILS_BUTTON_ENABLE: "§GKlikněte§! pro zapnutí zobrazování dalších detailů doktríny" # todo: NEW TRANSLATION
+ DOCTRINE_DETAILS_BUTTON_DISABLE: "§GKlikněte§! pro vypnutí zobrazování dalších detailů doktríny" # todo: NEW TRANSLATION
+ DOCTRINE_DETAILS_BUTTON_PROMPT: "§gPřepněte tlačítko níže pro zobrazení pokročilých detailů§!" # todo: NEW TRANSLATION
+ NO_SUBDOCTRINE_ASSIGNED: "Žádná subdoktrína přiřazena" # todo: NEW TRANSLATION
+ NOT_ENOUGH_INTEL_TO_SHOW_DOCTRINES: "§RNedostatek zpravodajských informací pro zobrazení údajů o doktrínách§!" # todo: NEW TRANSLATION
+ CLICK_TO_SHOW_DOCTRINE_INTEL: "§GKlikněte§! pro zobrazení zpravodajských informací o doktríně" # todo: NEW TRANSLATION
+ DOCTRINE_EFFECT_SOURCE_GRAND_DOCTRINE: "$GRAND_DOCTRINE|H$ (Hlavní doktrína)" # todo: NEW TRANSLATION
+ DOCTRINE_EFFECT_SOURCE_SUBDOCTRINE: "$SUBDOCTRINE|H$ ($TRACK$ subdoktrína)" # todo: NEW TRANSLATION
+ DOCTRINE_EFFECT_SOURCE_MILESTONE: "$GRAND_DOCTRINE|H$ - $TRACK$ Milník" # todo: NEW TRANSLATION
+ DOCTRINE_EFFECT_SOURCE_REWARD: "$SUBDOCTRINE|H$ - £doctrine_mastery $MASTERY|H0$ ($TRACK$ subdoktrína)" # todo: NEW TRANSLATION
+ HAS_MASTERY_TRIGGER: "Má alespoň £doctrine_mastery $AMOUNT|H0$ mistrovství v $TRACK|H$" # todo: NEW TRANSLATION
+ HAS_NOT_MASTERY_TRIGGER: "Má méně než £doctrine_mastery $AMOUNT|H0$ mistrovství v $TRACK|H$" # todo: NEW TRANSLATION
+ UNLOCK_TACTIC_EFFECT: "Odemkne taktiku: $NAME|H$" # todo: NEW TRANSLATION
+ HAS_TACTIC_TRIGGER: "Má taktiku: $NAME|H$" # todo: NEW TRANSLATION
+ HAS_NOT_TACTIC_TRIGGER: "Nemá taktiku: $NAME|H$" # todo: NEW TRANSLATION
+ HAS_MASTERY_LEVEL_TRIGGER: "Dosáhl u $SUBDOCTRINE|H$ úrovně mistrovství $NUMBER|H$" # todo: NEW TRANSLATION
+ HAS_NOT_MASTERY_LEVEL_TRIGGER: "Nedosáhl u $SUBDOCTRINE|H$ úrovně mistrovství $NUMBER|H$" # todo: NEW TRANSLATION

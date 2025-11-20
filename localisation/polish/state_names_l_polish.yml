@@ -387,7 +387,7 @@
  STATE_283: "Kan-su"
  STATE_284: "Severní ostrov"
  STATE_285: "Nový Jižní Wales"
- STATE_286: "Jižní Indočína"
+ STATE_286: "Čampa" # todo: CHANGED
  STATE_287: "Taklamakan"
  STATE_288: "Magwe"
  STATE_289: "Siam"
@@ -440,10 +440,10 @@
  STATE_330: "Ulánbátar"
  STATE_331: "Newfoundland"
  STATE_332: "Labrador"
- STATE_333: "Severní Borneo"
+ STATE_333: "Sarawak" # todo: CHANGED
  STATE_334: "Kalimantan"
  STATE_335: "Jáva"
- STATE_336: "Singapur"
+ STATE_336: "Malajsko" # todo: CHANGED
  STATE_337: "Faerské ostrovy"
  STATE_338: "Gloucestershire"
  STATE_339: "Izmir"
@@ -653,18 +653,18 @@
  STATE_522: "Západní Austrálie"
  STATE_523: "Papua"
  STATE_524: "Tchaj-wan"
- STATE_525: "Jižní Korea"
+ STATE_525: "Gjonggi" # todo: CHANGED
  STATE_526: "Okinawa"
- STATE_527: "Severní Korea"
- STATE_528: "Kjúšú"
- STATE_529: "Čúgoku"
+ STATE_527: "Pjongan-Hvanghe" # todo: CHANGED
+ STATE_528: "Kitakyúšu" # todo: CHANGED
+ STATE_529: "Sanjó" # todo: CHANGED
  STATE_52: "Oberbayern"
  STATE_530: "Šikoku"
  STATE_531: "Kansai"
  STATE_532: "Tókai"
- STATE_533: "Tóhoku"
- STATE_534: "Hokuriku"
- STATE_535: "Kóšinecu"
+ STATE_533: "Kita-Tóhoku" # todo: CHANGED
+ STATE_534: "Košinetsu" # todo: CHANGED
+ STATE_535: "Hokuriku" # todo: CHANGED
  STATE_536: "Hokkaidó"
  STATE_537: "Jižní Sachalin"
  STATE_538: "Coquilhatville"
@@ -738,19 +738,19 @@
  STATE_59: "Hannover"
  STATE_5: "Ermland-Masuren"
  STATE_600: "Ťiang-si"
- STATE_601: "Si-kchang"
+ STATE_601: "Čamdo" # todo: CHANGED
  STATE_602: "Chu-nan"
  STATE_603: "Kuej-čou"
  STATE_604: "Čching-chaj"
  STATE_605: "S'-čuan"
  STATE_606: "An-chuej"
  STATE_607: "Che-nan"
- STATE_608: "Peking"
+ STATE_608: "Bejping" # todo: CHANGED
  STATE_609: "Východní Che-pej"
  STATE_60: "Thüringen"
  STATE_610: "Že-che"
- STATE_611: "Jižní Čachar"
- STATE_612: "Čachar"
+ STATE_611: "Čachar" # todo: CHANGED
+ STATE_612: "Silin-gol" # todo: CHANGED
  STATE_613: "Šanghaj"
  STATE_614: "Che-pej"
  STATE_615: "Šan-si"
@@ -761,13 +761,13 @@
  STATE_61: "Mecklenburg"
  STATE_620: "Chu-pej"
  STATE_621: "Suej-jüan"
- STATE_622: "Šen-si"
+ STATE_622: "Šanpej" # todo: CHANGED
  STATE_623: "Luzon"
- STATE_624: "Centrální ostrovy"
- STATE_625: "Samar"
+ STATE_624: "Centrální ostrovy" # todo: CHANGED
+ STATE_625: "Východní Visayas" # todo: CHANGED
  STATE_626: "Palawan"
- STATE_627: "Mindanao"
- STATE_628: "Cebu"
+ STATE_627: "Davao" # todo: CHANGED
+ STATE_628: "Západní Visayas" # todo: CHANGED
  STATE_629: "Havajské ostrovy"
  STATE_62: "Vorpommern"
  STATE_630: "Johnstonův atol"
@@ -864,14 +864,14 @@
  STATE_712: "Kokosové ostrovy"
  STATE_713: "Kergueleny"
  STATE_714: "Chej-lung-ťiang"
- STATE_715: "Liaoning"
- STATE_716: "Liaotung"
+ STATE_715: "Liaopej" # todo: CHANGED
+ STATE_716: "Liaoning" # todo: CHANGED
  STATE_717: "Sung-ťiang"
  STATE_718: "Stanleyville"
  STATE_719: "Natal"
  STATE_71: "Východní Slovensko"
  STATE_720: "Jižní Georgie"
- STATE_721: "Portugalský Timor"
+ STATE_721: "Východní Timor" # todo: CHANGED
  STATE_722: "Petsamo"
  STATE_723: "Jižní ostrov"
  STATE_724: "Severní Malajsie"
@@ -1179,7 +1179,7 @@
  STATE_996: "Iravádí"
  STATE_997: "Arakán"
  STATE_998: "Sagaing"
- STATE_999: "Federované šanské státy"
+ STATE_999: "Federovaný Šan" # todo: CHANGED
  STATE_99: "Jutsko"
  STATE_9: "Čechy"
  SWE_STATE_111: "Nylant"
@@ -1209,3 +1209,50 @@
  UKR_STATE_91: "Lviv"
  UKR_STATE_93: "Volyň"
  YUG_STATE_45: "Bačka"
+ 330_monarchist_name: "Urga" # todo: NEW TRANSLATION
+ 330_non_monarchist_name: "Ikh Khüree" # todo: NEW TRANSLATION
+ JAP_STATE_525: "Keiki" # todo: NEW TRANSLATION
+ JAP_STATE_527: "Heian-Koukai" # todo: NEW TRANSLATION
+ JAP_STATE_537: "Karafuto" # todo: NEW TRANSLATION
+ TIB_STATE_601: "Kham" # todo: NEW TRANSLATION
+ JAP_STATE_608: "Peking" # todo: NEW TRANSLATION
+ JAP_STATE_648: "Minamitorishima" # todo: NEW TRANSLATION
+ JAP_STATE_655: "Kita Karafuto" # todo: NEW TRANSLATION
+ POR_STATE_721: "Portugalský Timor" # todo: NEW TRANSLATION
+ FRA_STATE_728: "Kouang-Tchéou-Wan" # todo: NEW TRANSLATION
+ JAP_STATE_745: "Dairen" # todo: NEW TRANSLATION
+ SOV_STATE_745: "Dalniy" # todo: NEW TRANSLATION
+ STATE_1017: "Trung Bo" # todo: NEW TRANSLATION
+ STATE_1018: "Minami Kyūshū" # todo: NEW TRANSLATION
+ STATE_1019: "Minami Tohoku" # todo: NEW TRANSLATION
+ STATE_1020: "San'in" # todo: NEW TRANSLATION
+ STATE_1021: "Singapur" # todo: NEW TRANSLATION
+ STATE_1022: "Vnitrozemí Bornea" # todo: NEW TRANSLATION
+ STATE_1023: "Brunej" # todo: NEW TRANSLATION
+ STATE_1024: "Sabah" # todo: NEW TRANSLATION
+ STATE_1025: "Zamboanga" # todo: NEW TRANSLATION
+ STATE_1026: "Severní Mindanao" # todo: NEW TRANSLATION
+ STATE_1027: "Bataan" # todo: NEW TRANSLATION
+ JAP_STATE_1028: "Kankyou" # todo: NEW TRANSLATION
+ STATE_1028: "Hamgyong" # todo: NEW TRANSLATION
+ JAP_STATE_1029: "Kougen" # todo: NEW TRANSLATION
+ STATE_1029: "Gangwon" # todo: NEW TRANSLATION
+ JAP_STATE_1030: "Keishou" # todo: NEW TRANSLATION
+ STATE_1030: "Gyeongsang" # todo: NEW TRANSLATION
+ JAP_STATE_1031: "Chūsei-Zenra" # todo: NEW TRANSLATION
+ STATE_1031: "Chungcheong-Jeolla" # todo: NEW TRANSLATION
+ STATE_1032: "Yan'an" # todo: NEW TRANSLATION
+ STATE_1033: "Nanlu" # todo: NEW TRANSLATION
+ STATE_1034: "Suzhou" # todo: NEW TRANSLATION
+ STATE_1035: "Nanjing" # todo: NEW TRANSLATION
+ STATE_1036: "Wuhan" # todo: NEW TRANSLATION
+ STATE_1037: "Chongqing" # todo: NEW TRANSLATION
+ STATE_1038: "Jinan" # todo: NEW TRANSLATION
+ STATE_1039: "Hebei-Chahar" # todo: NEW TRANSLATION
+ STATE_1040: "Alxa" # todo: NEW TRANSLATION
+ STATE_1041: "Chengdu" # todo: NEW TRANSLATION
+ STATE_1042: "Khotan" # todo: NEW TRANSLATION
+ STATE_1043: "Pailingmiao" # todo: NEW TRANSLATION
+ STATE_1044: "Wuwei" # todo: NEW TRANSLATION
+ STATE_1045: "Guyuan" # todo: NEW TRANSLATION
+ STATE_1046: "Yulin" # todo: NEW TRANSLATION

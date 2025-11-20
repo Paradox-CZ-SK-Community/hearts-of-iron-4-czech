@@ -10,7 +10,7 @@
  ETH_african_central_bank_idea_2: "Africká centrální banka"
  ETH_aid_SPC: "Podpořit španělské anarchisty"
  ETH_aid_ethiopian_communists: "Podpořit etiopské komunisty"
- ETH_airforce_1_dynamic_modifier: "Letectvo v plenkách"
+ ETH_airforce_1_dynamic_modifier: "Letectvo v plenkách" # todo: CHANGED
  ETH_airforce_2_dynamic_modifier: "Nezkušené letectvo"
  ETH_airforce_3_dynamic_modifier: "Východoafričtí orli"
  ETH_arm_resistance_flag: "Vyzbrojování odboje v koloniálním státě."
@@ -160,7 +160,7 @@
  ITA_devaluated_lira_desc: "Naše nedávné války byly nákladné a brzdily ekonomiku. Devalvace měny učinila naše výrobky konkurenceschopnějšími na mezinárodním trhu a ekonomice poskytla tolik potřebný impuls."
  ITA_disgruntled_military: "Nespokojené vojsko"
  ITA_disgruntled_military_desc: "Čištění armády od roajalistických prvků, které mohly ohrozit naši novou republiku, nás stálo zkušené velení."
- ITA_disgruntlement_in_the_airforce: "Nespokojenost v letectvu"
+ ITA_disgruntlement_in_the_airforce: "Nespokojenost v letectvu" # todo: CHANGED
  ITA_disgruntlement_in_the_airforce_desc: "Letectvu byly slíbeny nové prostředky a finance na rozšíření sil, ale nic nepřišlo a nespokojenost se šíří mezi mužstvem."
  ITA_disgruntlement_in_the_army: "Nespokojenost v armádě"
  ITA_disgruntlement_in_the_army_desc: "Po obvinění, že se nedokázala dostatečně rychle rozrůst, prosakuje do armády nespokojenost."
@@ -315,7 +315,7 @@
  ITA_stockpiling_fuel_desc: "Velká zásoba paliva udrží naše vojsko v chodu déle."
  ITA_strengthened_heavy_industry: "Posílený těžký průmysl"
  ITA_strengthened_heavy_industry_desc: "Rozšíření našich kapacit zvýší průmyslovou produktivitu."
- ITA_strengthened_the_airforce: "Posílené letectvo"
+ ITA_strengthened_the_airforce: "Posílené letectvo" # todo: CHANGED
  ITA_strengthened_the_airforce_desc: "Italské letectvo je opět jednou z největších leteckých flotil na světě. Nově vycvičení piloti se těší, až ukážou, jak velkolepé letectvo nyní máme."
  ITA_strengthened_the_army: "Posílená armáda"
  ITA_strengthened_the_army_desc: "Rozšíření armády nás mnoho naučilo o mobilizaci vojáků a jejich organizaci do soudržné bojové síly."

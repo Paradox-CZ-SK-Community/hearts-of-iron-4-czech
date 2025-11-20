@@ -364,7 +364,6 @@
  GER_import_tariffs: "Dovozní cla"
  GER_independence_support_progress_flag: " Právě podporujeme hnutí za nezávislost"
  GER_industrial_relocation_cat: "Přesun průmyslu"
- GER_industrial_relocation_catdesc: "Náš program přesunu průmyslu, který má s náma [SOV.GetNameDef], může krátkodobě oslabit naši průmyslovou základnu, ale získané suroviny to bohatě vyváží a posílí naše výrobní linky."
  GER_industrial_relocation_chromium_decision: "Přesunout průmysl do [FROM.CONTROLLER.GetNameDef] výměnou za [FROM.GetAdjective] chrom"
  GER_industrial_relocation_descision_tt: "§Y5§! vybraných surovin bude uděleno §Y[ROOT.GetNameWithFlag]§!; na oplátku bude §Y1§! civilní továrna demontována a předána §Y[SOV.GetNameWithFlag]§!"
  GER_industrial_relocation_oil_decision: "Přesunout průmysl do [FROM.CONTROLLER.GetNameDef] výměnou za [FROM.GetAdjective] ropu"
@@ -762,3 +761,4 @@
  sweden_hungary_required_states: "Kontroluje všechny startovní maďarské státy"
  unite_latin_africa: "Sjednotit Latinskou Afriku"
  unite_the_antilles: "Sjednotit Antily"
+ GER_industrial_relocation_cat_desc: "Náš program přesunu průmyslu s [SOV.GetNameDef] může v krátkodobém horizontu snížit naši průmyslovou základnu, ale suroviny, které získáme, to více než vykompenzují a posílí naše výrobní linky." # todo: NEW TRANSLATION

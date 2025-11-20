@@ -181,3 +181,6 @@
  political_idea_desc:0 "Ideje, které nyní dominují politické scéně."
  technology:0 "Technologie"
  technology_idea_desc:0 "Ideje na pomoc technologickému pokroku."
+ POLITICS_IDEA_ONLY_DISABLED: "£trigger_no" # todo: NEW TRANSLATION
+ POLITICS_IDEA_STAT_ENERGY_CONSUMPTION: "£energy_consumption_texticon£  $VALUE|H0%$" # todo: NEW TRANSLATION
+ POLITICS_IDEA_STAT_CONSUMER_GOODS: " £consumer_goods_texticon£  $VALUE|H0%$" # todo: NEW TRANSLATION

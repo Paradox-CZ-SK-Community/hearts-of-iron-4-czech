@@ -33,7 +33,7 @@
  ATTRITION_DESC: "Šance na ztrátu vybavení každý den"
  ATTRITION_EQUIPMENT: "\n - Vybavení: $ATT|=-1$"
  ATTRITION_LOOSE_EQ_CHANCE: "Šance na ztrátu vybavení:"
- ATTRITION_LOOSE_EQ_ENTRY: "  - $EQ|G$: šance = $CH|Y%1$ (spolehlivost = $RE|Y1%$)"
+ ATTRITION_LOOSE_EQ_ENTRY: "  - $EQ|G$ Očekávané denní ztráty: $CH|Y1$ ($RE|Y1%$ spolehlivost)" # todo: CHANGED
  ATTRITION_MULMOD_BY: " vynásobeno $MOD|Y$ kvůli:\n$WHY$"
  ATTRITION_NAVAL_TRANSFER: "Námořní přeprava: $ATT|=-1%0$"
  ATTRITION_SINGLE_UNIT: "§RTato jednotka trpí ztrátami z opotřebení!\nAktuální opotřebení: $VALUE|Y0%$§!"
@@ -101,10 +101,6 @@
  DIVISION: "divize"
  DIVISION_PLURAL: "divizí"
  DIVISION_VIEW_SELECT_ARMY: "§GKlikněte§! pro výběr armády z této divize."
- EFFECT_OF_ENEMY_AIR_SUPERIORITY_ON_NAVAL_SUPREMACY: "Účinek nepřátelské vzdušné nadvlády na jejich námořní nadvládu"
- EFFECT_OF_ENEMY_MINES_ON_NAVAL_SUPREMACY: "Účinek nepřátelských min na jejich námořní nadvládu"
- EFFECT_OF_OUR_AIR_SUPERIORITY_ON_NAVAL_SUPREMACY: "Účinek naší vzdušné nadvlády na naši námořní nadvládu"
- EFFECT_OF_OUR_MINES_ON_NAVAL_SUPREMACY: "Efekt našich min na naši námořní nadvládu"
  EFFECT_ON_ALL: " na "
  ENABLE_TASK_FORCE_AUTO_REINFORCEMENT: "§GKlikněte§! pro §Hpovolení§! §HAutomatickho doplňovaní§! úderných skupin"
  ENABLE_TASK_FORCE_UNDERWAY_REPLENISHMENT: "§GKlikněte§! pro §Hpovolení§! §HZásobování během plavby§! pro vybrané úderné skupiny"
@@ -115,8 +111,6 @@
  EQUIPMENT_FILL: "$CURRENT|*0$/$TOTAL|*0$"
  EQUIPMENT_RATIO: "$VALUE|0%$"
  EQUIPMENT_TOTAL: "$CURRENT|0$"
- ESTIMATED_NAVAL_POWER: "  Přátelské lodě s rozkazy k zapojení: $US|0Y$\n  Nepřátelské lodě s rozkazy k zapojení: $THEM|Y$"
- ESTIMATED_NAVAL_POWER_SUPREMACY: "  Přátelská převaha: $US|0Y$\n  Nepřátelská převaha: $THEM|Y$"
  FIELD_MARSHAL_BONUS_INFO: "Bonusy od jiných než §Hpolních maršálů§! se uplatňují jen z $RATIO|%.0H$\n"
  FINAL_STAT_AVERAGE: "Průměrný základ:"
  FINAL_STAT_MAX: "Nejvyšší:"
@@ -155,7 +149,7 @@
  MODIFIER_NAVAL_COMMANDO_RAID_DISTANCE: "Vzdálenost námořních nájezdů komand"
  MODIFIER_NAVAL_COMMANDO_RAID_DISTANCE_DESC: "Maximální vzdálenost pro námořní nájezdy komand"
  MODIFIER_NAVAL_INVASION_CAPACITY: "Kapacita námořní invaze"
- MODIFIER_NAVAL_INVASION_CAPACITY_DESC: "Celkový počet divizí, které lze přiřadit k námořní invazi."
+ MODIFIER_NAVAL_INVASION_CAPACITY_DESC: "Celkový počet divizí, které lze přiřadit ke všem námořním invazním rozkazům." # todo: CHANGED
  MORALE_TITLE: "§HObnova za hodinu:§! $VAL|+=$"
  MOUNT_BUTTON_ERROR_DESC: "Naložit/Vyložit transportní lodě s jednotkami."
  MOUNT_BUTTON_MULT_LOAD_DESC: "Naložit všechny dostupné divize na transportní lodě."
@@ -166,11 +160,11 @@
  NAVAL_COMBAT_SHIP_ORGANIZATION: "Organizace: $CUR|0Y$/$MAX|0Y$\n"
  NAVAL_COMBAT_SHIP_ORGANIZATION_DESC: "Organizace ukazuje připravenost a souhru lodě v boji. Loď bez organizace není schopna boje."
  NAVAL_INVASION_BLOCKED_STRAIT: "§RNaše armády nemohou provést invazi kvůli blokaci $RULES|H$ mezi $FIRST|H$ a $SECOND|H$.§!"
- NAVAL_INVASION_CANT_TRANSFER: "\nProvádění námořních invazí vyžaduje námořní nadvládu podél oblastí v jejím směru. Toho lze dosáhnout:\n - Vzdušnou nadvládou\n - Loděmi na misích"
- NAVAL_INVASION_CAN_NOT_TRANSFER_THROUGH: " - $NAME|Y$ - Máme pouze $SUP|0%R$ námořní nadvládu, ale potřebujeme $NEEDED|0%Y$"
+ NAVAL_INVASION_CANT_TRANSFER: "\nPro provedení námořních invazí je potřeba £GFX_naval_dominance_texticon£ §YNámořní nadvláda§! podél oblastí na její cestě. To se získává:\n - lodě na hlídkových/úderných misích" # todo: CHANGED
+ NAVAL_INVASION_CAN_NOT_TRANSFER_THROUGH: " - $NAME|Y$ - Máme £GFX_naval_dominance_texticon£ $SUP|0R$ z požadovaných £GFX_naval_dominance_texticon£$NEEDED|0Y$" # todo: CHANGED
  NAVAL_INVASION_CAN_NOT_TRANSFER_THROUGH_NO_INTEL: "\n§R$WHO$ nemá dostatek informací pro vyslání invaze přes následující oblasti:§!"
  NAVAL_INVASION_CAN_NOT_TRANSFER_THROUGH_NO_INTEL_HINT: "\n§RPřidělte více lodí nebo leteckých jednotek na mise, nebo pokryjte uvedené oblasti radarem.§!\n"
- NAVAL_INVASION_CAN_NOT_TRANSFER_THROUGH_TITLE: "\n§RNedostatečná námořní nadvláda v regionech:§!\n"
+ NAVAL_INVASION_CAN_NOT_TRANSFER_THROUGH_TITLE: "\n§RNedostatečná £GFX_naval_dominance_texticon£§YNámořní nadvláda§! v oblastech:§!\n" # todo: CHANGED
  NAVAL_INVASION_LACK_PREPARATION: "Invaze se stále připravuje: $VAL|R0$ / $NEED|Y0$ dní."
  NAVAL_INVASION_LACK_TRANSPORT: "Vyčleněné konvoje: $VAL|R$ / $NEED|Y$."
  NAVAL_INVASION_NOT_REACHED_START: "§RNěkteré divize přiřazené k této invazi ještě nedorazily na výchozí pozici.§!\n"
@@ -187,8 +181,7 @@
  NAVAL_REGION_ACCESS_BLOCKED_DESC: " - Naše §Hobchodní trasy§! nikdy §Rnebudou procházet§! tímto regionem.\n - Naše §Hflotily§! nikdy §Rneprojdou§! tímto regionem, pokud existuje jiná trasa."
  NAVAL_REGION_ACCESS_LEVEL: "Úroveň přístupu: $LVL$"
  NAVAL_SUB_UNIT_DEF_SELECTION_WINDOW_TITLE: "Vyberte třídu lodě"
- NAVAL_SUPREMACY: "§HNámořní nadvláda:§! $VALUE|%H$"
- NAVAL_TRANSPORT_INTERCEPT_WARNING: "§RPrávě jsme ve válce a naše transporty riskují potopení při přesunu jednotek. Můžeme zajistit, aby lodě na doprovodních misích byly v oblasti a přispěchali na pomoc v případě útoku.§!\nPři přepravě touto konkrétní trasou je $ATTR|%R0$ šance na odhalení a zachycení.
+ NAVAL_TRANSPORT_INTERCEPT_WARNING: "§RPrávě jsme ve válce a naše transporty riskují potopení při přesunu jednotek. Můžeme zajistit, aby lodě na doprovodních misích byly v oblasti a přispěchali na pomoc v případě útoku.§!\nPři přepravě touto konkrétní trasou je $ATTR|%R0$ šance na odhalení a zachycení."
  NAVAL_TRANSPORT_MOVE_DESC: "Kliknutím §GPravým tlačítkem§! na §Ynámořnou ikonu§! přeneste jednotky do této §Ynámořní základny§!. Přeprava vyžaduje $CONVOYS|Y$ konvojů."
  NAVAL_TRANSPORT_MOVE_DESC_ICON: "§GPravým tlačítkem§! §Ypřesunete§! jednotky do této §Ynámořní základny§!. Přeprava vyžaduje $CONVOYS|Y$ konvojů."
  NAVAL_TRANSPORT_MOVE_DISALLOWED_DESC: "$UNIT_TYPE_PLURAL|U$ nemohou využívat námořní transport."
@@ -213,8 +206,6 @@
  NAV_ENEMY_AIR_SUPERIORITY: "  Nepřátelská vzdušná nadvláda zvyšuje vliv jejich lodí o: $VALUE|%=R$"
  NAV_MINES_EFFECT_ON_ENEMY: "  Pokrytí nepřátelskými minami zvyšuje vliv na jejich počet lodí o: $VALUE|%G=$"
  NAV_MINES_EFFECT_ON_US: "Naše pokrytí minami zvyšuje vliv našeho počtu lodí o: $VALUE|%G=$"
- NAV_SUPREMACY_INTEL: "§RZ této oblasti máme příliš málo informací!§!"
- NAV_SUPREMACY_INTEL_SCALED: "§RNámořní nadvláda je upravena na $RATIO|%.0R$ kvůli nedostatku informací o nepříteli§!"
  NEW_FLEET_NAME: "Nová flotila"
  NOT_ENOUGH_PP_TO_DISBAND_POTF: "\n\n§RNemáme dost politické moci na odebrání §HChlouby flotily§!"
  NOT_ENOUGH_PP_TO_UNASSIGN: "\n\n§RNedostatek politické síly§!"
@@ -229,7 +220,6 @@
  NO_MOVE_HEADING_HOME_TO_REPAIR_STAY: "Poté zůstane na základně.\n"
  NO_MOVE_IS_IN_HOME_REPAIRING: "$FLEET|H$ se aktuálně opravuje v $TARGET|H$."
  NO_MOVE_RETREAT: "Nemůžeme vydávat příkazy k pohybu při ústupu."
- NO_NAVAL_SUPREMACY_INFO: "V oblasti nejsou žádné nepřátelské ani přátelské lodě"
  NO_ORG_TO_FIGHT: "Potřebujeme alespoň §Y$VAL$§!% organizace k boji."
  NO_RAILWAY_ACCESS_STANDING_COOLDOWN: "Jednotka se nemůže pohybovat, protože je v provincii s nekonvertovanými železnicemi. Konverze bude dokončena za $DAYS$ dní."
  NO_RAILWAY_ACCESS_TO_TARGET: "Jednotka nemůže vstoupit do provincií bez železnic."
@@ -275,9 +265,9 @@
  RANDOM_AIR_ACCIDENT_CHANCE_CARRIER: "\n  - Koeficient letadlové lodi: §R$CAR|1$§!"
  RANDOM_AIR_ACCIDENT_CHANCE_GLOBAL: "\n  - Země: $VALUE|-=%$"
  RANDOM_AIR_ACCIDENT_CHANCE_HEADER: "Šance na nehodu při vzletu & přistání:"
- RANDOM_AIR_ACCIDENT_CHANCE_RELIABILITY: "\n  - Spolehlivost vybavení ($RE|Y%1$): $CH|R%1$\nVýsledná hodnota se pak násobí §Y100 %§! plus:"
- RANDOM_AIR_ACCIDENT_CHANCE_TOTAL: "\nVýsledek: $TOT|R%$"
- RANDOM_AIR_ACCIDENT_CHANCE_TRAINING: "\n  - Násobitel probíhajících §Yleteckých cvičení§!: $VALUE|2-=%$"
+ RANDOM_AIR_ACCIDENT_CHANCE_RELIABILITY: "\n  - Spolehlivost vybavení ($RE|Y%1$): $CH|R%1$\nVýsledkem je šance $TOTAL|R1%$, která je dále násobena:" # todo: CHANGED
+ RANDOM_AIR_ACCIDENT_CHANCE_TOTAL: "\nKonečná pravděpodobnost nehody: $TOT|R%$" # todo: CHANGED
+ RANDOM_AIR_ACCIDENT_CHANCE_TRAINING: "  - Multiplikátor §Yprobíhajících cvičení pilotů§!: $VALUE|2-=%$" # todo: CHANGED
  RANDOM_AIR_ACCIDENT_CHANCE_WEATHER: "\n  - Počasí:"
  REPLACE_SHIP_PRIDE_OF_FLEET: "§RZnovu přidělit§! $NAME|H$ jako aktuální §HChloubu flotily§!"
  REPLACE_SHIP_PRIDE_OF_FLEET_POPUP: "§HNahradit jako Chloubu flotily§!"
@@ -321,9 +311,9 @@
  STAT_FROM_TECH: "Z technologie: $VAL|+=1%$"
  STAT_SUBUNIT_COUNT: "$VAL$ x"
  SUBUNIT_CATEGORY_ADD: "§HModifikátor praporu: $CATEGORY$§!"
- SUBUNIT_CATEGORY_ADD_STAT: "$NAME$: $VALUE|+=$\n"
+ SUBUNIT_CATEGORY_ADD_STAT: "- $NAME$: $VALUE|+=$\n" # todo: CHANGED
  SUBUNIT_CATEGORY_ADD_STAT_VALUE: "$VALUE|+=$"
- SUBUNIT_CATEGORY_MULT_STAT: "$NAME$: $VALUE|+=%$\n"
+ SUBUNIT_CATEGORY_MULT_STAT: "- $NAME$: $VALUE|+=%$\n" # todo: CHANGED
  SUBUNIT_CATEGORY_MULT_STAT_VALUE: "$VALUE|+=%$"
  TASK_FORCE_ACTIVITY_DESC_DETACHED_MOVING_TO_REFIT: "£going_to_refit  Oddělená a směřující k opravám v $FLAG$ $NAVAL_BASE|H$"
  TASK_FORCE_ACTIVITY_DESC_DETACHED_REINFORCING: "£merging Spojení s $TARGET|H$"
@@ -532,8 +522,8 @@
  category_vehicle_infantry: "Motorizovaná a mechanizovaná pěchota"
  cavalry: "Jezdectvo"
  cavalry_desc: "Pěchota na koních. Dražší, ale s dobrou pohyblivostí."
- damaged_heavy_guns: "Zničena věž hlavní baterie"
- damaged_light_guns: "Poškozeny lafety hlavní baterie"
+ damaged_heavy_guns: "Věž hlavní baterie vyřazena" # todo: CHANGED
+ damaged_light_guns: "Montáž lehké baterie vyřazena" # todo: CHANGED
  damaged_secondaries: "Vedlejší děla vyřazena"
  damaged_torpedoes: "Torpédové trubice vyřazeny"
  destroyed_ammo_storage: "Zasažení zásobníka"
@@ -656,8 +646,8 @@
  pioneer_support_desc: "Pionýři jsou zkušení ženisté, kteří se vyznají ve vytváření předmostí, inženýrských projektech a upevňování získaných pozic."
  rangers: "Specialisté pro těžký terén"
  rangers_desc: "Díky specializaci na infiltrace a taktickou připravenost můžeme těžit z tvrdého výcviku našich Rangerů v nepřátelských podmínkách."
- rangers_support: "Rangeři"
- rangers_support_desc: "Rangeři jsou elitní průzkumné jednotky v první linii, specializované na infiltrace a boj zblízka."
+ rangers_support: "Průzkumní hraničáři" # todo: CHANGED
+ rangers_support_desc: "Průzkumní hraničáři jsou elitní lehké jednotky, specializované na infiltraci, průzkum a boj zblízka." # todo: CHANGED
  recon: "Průzkumný jezdecký oddíl"
  recon_desc: "Vysílání menších skupin k průzkumu před hlavními silami nám umožňuje získat zpravodajské informace o poloze a síle nepřítele."
  river: "Řeka"
@@ -687,3 +677,27 @@
  winter_logistics_support_desc: "Zajištění odpovídající výstroje pro pěchotu k boji v zimních podmínkách."
  elephantry_desc: "Pěchota na válečných slonech. Nákladnější, ale účinná proti nepřátelské pěchotě."
  elephantry: "Pěchota na slonech"
+ PLAN_PREPARATION_DECREASE: "Příprava klesá o $VALUE|1R%$ každý den." # todo: NEW TRANSLATION
+ category_anti_tank: "Veškeré protitankové dělostřelectvo" # todo: NEW TRANSLATION
+ category_mobile_anti_tank: "Mobilní protitankové dělostřelectvo" # todo: NEW TRANSLATION
+ category_rocket_artillery: "Veškeré raketové dělostřelectvo" # todo: NEW TRANSLATION
+ category_carrier_fighter: "Palubní stíhačka" # todo: NEW TRANSLATION
+ category_carrier_nav_bomber: "Palubní námořní bombardéry" # todo: NEW TRANSLATION
+ category_carrier_cas: "Palubní blízká letecká podpora" # todo: NEW TRANSLATION
+ category_maritime_patrol_bomber: "Námořní hlídkové bombardéry" # todo: NEW TRANSLATION
+ category_scout_plane: "Průzkumné letadlo" # todo: NEW TRANSLATION
+ MODIFIER_NAVAL_INVASION_DIVISION_CAP: "Kapacita divizí na námořní invazi" # todo: NEW TRANSLATION
+ MODIFIER_NAVAL_INVASION_DIVISION_CAP_DESC: "Maximální počet divizí, které lze přidělit k rozkazu námořní invaze." # todo: NEW TRANSLATION
+ MODIFIER_AIR_INVASION_DIVISION_CAP: "Kapacita divizí pro vzdušnou invazi" # todo: NEW TRANSLATION
+ MODIFIER_AIR_INVASION_DIVISION_CAP_DESC: "Maximální počet divizí, které lze přidělit k rozkazu vzdušné invaze." # todo: NEW TRANSLATION
+ MINIMUM_SEAZONE_DOMINANCE_NEEDED: "Tato námořní zóna vyžaduje alespoň $VALUE|0Y$ £naval_dominance_texticon£ §HNaval Dominance§! , aby byla považována za kontrolovanou přátelskými silami." # todo: NEW TRANSLATION
+ PREPARATION_BASE_DAILY_DECAY: "Základní denní úbytek: $VALUE|0%Y$" # todo: NEW TRANSLATION
+ PREPARATION_BASE_DAILY_DECAY_MANUAL_ORDER: "Základní denní úbytek (manuální rozkaz jednotky): $VALUE|0%Y$" # todo: NEW TRANSLATION
+ SELECT_COLOR: "Vybrat barvu mapy" # todo: NEW TRANSLATION
+ SUBUNIT_BONUS_HEADER: "$ICON$ $NAME|H$:" # todo: NEW TRANSLATION
+ SUBUNIT_BONUS_CATEGORY_ADD: " - $CATEGORY$ prapory:" # todo: NEW TRANSLATION
+ SUBUNIT_CATEGORY_NEG_ADD_STAT: "- $NAME$: $VALUE|-=$\n" # todo: NEW TRANSLATION
+ SUBUNIT_CATEGORY_NEG_MULT_STAT: "- $NAME$: $VALUE|-=%$\n" # todo: NEW TRANSLATION
+ category_rangers: "Všichni Rangerové" # todo: NEW TRANSLATION
+ ranger_battalion: "Rangerové" # todo: NEW TRANSLATION
+ ranger_battalion_desc: "Rangerové jsou špičkoví specialisté na boj v hustém a porostlém terénu." # todo: NEW TRANSLATION

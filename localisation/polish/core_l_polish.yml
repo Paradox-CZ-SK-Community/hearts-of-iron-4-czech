@@ -130,14 +130,14 @@
  AIR_WING_XP_TRAINING_MAX_REACHED: "Tato §Yletka§! již nemůže získat dodatečné zkušenosti z §Ycvičení pilotů§!."
  AIR_XP_TITLE: "§HDenní zisk leteckých zkušeností od důstojníků§!"
  AIRVIEW_DETAILS_CHANNEL_1: "Naše budovy bombardovány: $VAL|R1$"
- AIRVIEW_DETAILS_CHANNEL_10:3 "Ztraceny náklaďáky: $VAL|R1$"
- AIRVIEW_DETAILS_CHANNEL_11:4 "Ztraceny železniční děla: $VAL|R1$"
- AIRVIEW_DETAILS_CHANNEL_12:3 "Ztraceny rakety: $VAL|R1$"
- AIRVIEW_DETAILS_CHANNEL_13:3 "Nepřátelské budovy zničené: $VAL|G1$"
- AIRVIEW_DETAILS_CHANNEL_14:3 "Nepřátelské jednotky bombardovány: $VAL|G1$"
- AIRVIEW_DETAILS_CHANNEL_15:5 "Nepřátelské lodě potopené: $VAL|G0$"
- AIRVIEW_DETAILS_CHANNEL_16:3 "Zničena nepřátelská letadla: $VAL|G0$"
- AIRVIEW_DETAILS_CHANNEL_17:3 "Nepřátelské bombardéry zničeny: $VAL|G0$"
+ AIRVIEW_DETAILS_CHANNEL_10: "Ztraceny náklaďáky: $VAL|R1$"
+ AIRVIEW_DETAILS_CHANNEL_11: "Ztraceny železniční děla: $VAL|R1$"
+ AIRVIEW_DETAILS_CHANNEL_12: "Ztraceny rakety: $VAL|R1$"
+ AIRVIEW_DETAILS_CHANNEL_13: "Nepřátelské budovy zničené: $VAL|G1$"
+ AIRVIEW_DETAILS_CHANNEL_14: "Nepřátelské jednotky bombardovány: $VAL|G1$"
+ AIRVIEW_DETAILS_CHANNEL_15: "Nepřátelské lodě potopené: $VAL|G0$"
+ AIRVIEW_DETAILS_CHANNEL_16: "Zničena nepřátelská letadla: $VAL|G0$"
+ AIRVIEW_DETAILS_CHANNEL_17: "Nepřátelské bombardéry zničeny: $VAL|G0$"
  AIRVIEW_DETAILS_CHANNEL_18: "Nepřátelská podpora zničeny: $VAL|G0$"
  AIRVIEW_DETAILS_CHANNEL_19: "Nepřátelské transporty zničeny: $VAL|G0$"
  AIRVIEW_DETAILS_CHANNEL_2: "Naše jednotky bombardovány: $VAL|R1$"
@@ -150,9 +150,9 @@
  AIRVIEW_DETAILS_CHANNEL_4: "Ztraceni stíhači: $VAL|R0$"
  AIRVIEW_DETAILS_CHANNEL_5: "Ztraceny bombardéry: $VAL|R0$"
  AIRVIEW_DETAILS_CHANNEL_6: "Ztraceny podporní jednotky: $VAL|R0$"
- AIRVIEW_DETAILS_CHANNEL_7:3 "Ztraceny transporty: $VAL|R0$"
- AIRVIEW_DETAILS_CHANNEL_8:3 "Napadnuty bombardéry: $VAL|R1$"
- AIRVIEW_DETAILS_CHANNEL_9:4 "Ztraceny vlaky: $VAL|R0$"
+ AIRVIEW_DETAILS_CHANNEL_7: "Ztraceny transporty: $VAL|R0$"
+ AIRVIEW_DETAILS_CHANNEL_8: "Napadnuty bombardéry: $VAL|R1$"
+ AIRVIEW_DETAILS_CHANNEL_9: "Ztraceny vlaky: $VAL|R0$"
  AIRVIEW_GRAPH_VALUE: "$VALUE|1$"
  alert_battleplans_with_no_divs_delayed: "§HMěli byste přiřadit nějaké divize k bojovým plánům.§!"
  alert_battleplans_with_no_divs_instant: "§HBojový plán bez přiřazených jednotek.§!"
@@ -177,7 +177,7 @@
  ARMY_LEADER_CREATE_EXPEDITIONARY_FORCE_GROUP: "Klikněte pro vytvoření prázdné armády pro žádost o expediční síly."
  ARMY_LEADER_EXPEDITIONARY_FORCE_ICON: "Tato armáda je prázdná armáda vytvořená pro žádost o expediční síly."
  ARMY_UNIT_ORG: "Organizace: $VALUE|%H$"
- ARMY_UNIT_SUPPLY_DESC_BAD:3 "§TStav zásob:§! $VALUE|%0R$ (Uloženo: $BUFFER_VALUE|Y%0$)"
+ ARMY_UNIT_SUPPLY_DESC_BAD: "§TStav zásob:§! $VALUE|%0R$ (Uloženo: $BUFFER_VALUE|Y%0$)"
  ARMY_UNIT_SUPPLY_DESC_OK: "§TStav zásob:§! $VALUE|%0Y$ (Uloženo: $BUFFER_VALUE|Y%0$)"
  ARMY_UNIT_SUPPLY: "§TStav zásob: §! $VALUE|%0Y$"
  ARMY_XP_TITLE: "§HDenní zisk armádních zkušeností od důstojníků§!"
@@ -222,7 +222,7 @@
  BUTTON_DETAILS: "Detaily"
  BUTTON_DISMISS: "Odejít"
  BUTTON_OK: "Ok"
- BYPASS_FOCUS_TRIGER: "Následující zaměření bude přeskočeno:"
+ BYPASS_FOCUS_TRIGER: "Následující obejde fokus$AUTOMATIC_BYPASS_DISABLED$:" # todo: CHANGED
  BYPASS_FOCUS: "Obejít"
  CAN_BE_BUILT_IN_ALLIED_TERRITORY: "\n§GTuto budovu lze postavit na území spojence.§!"
  CAN_BE_CALLED_TO_WAR: "Tato země není ve válce, ale může být do ní povolána"
@@ -331,7 +331,6 @@
  CONFIRMCHANGE_GROUP_LEADER_IN_TRANSFER_TEXT: "$NAME|H$ je již přidělen k jiné §Garmádě§! která byla odeslána jako §Ydobrovolníci§!.\nJste si jisti, že chcete §Rpřevelit§! §Gvelitele§!?"
  CONFIRMCHANGE_GROUP_LEADER_TEXT: "$NAME|H$ je již přidělen jiné §Garmádě§! a bude přidělen znovu.\nJste si jisti, že chcete §Rpřevelit§! §Gvelitele§!?"
  CONFIRMCHANGE_GROUP_LEADER: "Převelit velitele"
- CONFIRMCHANGE_NAVY_LEADER_TEXT: "$NAME|H$ je již přidělen jiné §Gflotile§! a bude převelen.\nJste si jisti, že chcete §Rpřevelit§! §Gvelitele§!?"
  CONFIRMCHANGE_NAVY_LEADER: "Převelit velitele"
  CONFIRMCHANGE_UNIT_TEMPLATE_EQUIPMENT_GAIN_TITLE: "Získá:"
  CONFIRMCHANGE_UNIT_TEMPLATE_EQUIPMENT_NEEDED_ENOUGHT: "$AMOUNT|0H$ $EQUIPMENT$ (§G$STOCK|0*$ k dispozici§!)"
@@ -417,7 +416,7 @@
  CONVEYOR_ASSIGN_ORDER_SELECT_AREA: "§GKlikněte§! na mapový rozkaz nebo portrét velitele k přidělení nasazení."
  CONVOY_DEFENSE_EFFICIENCY_DESC: "$NAME|H$ může efektivně doprovázet až $NUM|H$ konvojů. V současnosti funguje s maximální efektivitou."
  CONVOY_ESCORT_EFFICIENCY_CONVOYS_IN_AREA_OF_OPERATION: "Počet doprovázených konvojů (počítány opakovaně v každém regionu): $VALUE|H$"
- CONVOY_ESCORT_EFFICIENCY_FLEET_DESC:4 "Flotila $FLEET|H$ má $NUM|.0H$ dostupných lodí a $NUM_TASKFORCES|.0H$ dostupných úderných skupin a může eskortovat až $COVERED_CONVOY|.0H$ konvojů nebo pokrýt až $COVERED_REGION|.0H$ regionů.($EFFICIENCY|H$)"
+ CONVOY_ESCORT_EFFICIENCY_FLEET_DESC: "Flotila $FLEET|H$ má $NUM|.0H$ dostupných lodí a $NUM_TASKFORCES|.0H$ dostupných úderných skupin a může eskortovat až $COVERED_CONVOY|.0H$ konvojů nebo pokrýt až $COVERED_REGION|.0H$ regionů.($EFFICIENCY|H$)"
  CONVOY_ESCORT_EFFICIENCY_IN_REGION: "Účinnost doprovodu konvojů v pokrytých regionech: $VALUE|H$"
  CONVOY_ESCORT_EFFICIENCY_NO_CONVOY_IN_FLEETS_AOO: "Žádný obchodní konvoj vyžadující doprovod v oblasti působení flotily"
  CONVOY_ESCORT_MISSION_EFFECTIVENESS: "Účinnost mise: $VALUE|H$"
@@ -448,15 +447,12 @@
  CULTURAL_GENERIC: "Kulturní generický"
  CURRENT_ACTIVE_SHIPS_FOR_NAVAL_INVASION_SUPPORT: "Celkem je $NUM|H$ úderných skupin pro $MISSION_NAME|H$ v této oblasti a aktuálně $NUM2|H$ z nich doprovází invazní armády a $NUM3|H$ z nich podporují pobřežní boje."
  CURRENT_ACTIVE_TASK_FORCE_FOR_MISSION: "Z těchto, $NUM|H$ je aktuálně aktivních v oblasti."
- CURRENT_ACTIVE_TASK_FORCE_FOR_SUPREMACY_WARNING: "§R£mapicon_unit_no_orders  Některé úderné skupiny jsou příliš daleko od této oblasti, aby poskytly §Hnámořní nadvládu§!§!"
- CURRENT_ACTIVE_TASK_FORCE_FOR_SUPREMACY: "Ale pouze $NUM|H$ z nich je dost blízko k zajištění §Hnámořní nadvlády§!."
  CURRENT_ALL_ACTIVE_TASK_FORCE_FOR_MISSION: "Všechny jsou v současnosti aktivní v oblasti."
  CURRENT_ASSIGNED_TASK_FORCE_FOR_MISSION: "V této oblasti je přiděleno $NUM|H$ úderných skupin pro misi $MISSION|H$."
  CURRENT_ASSIGNED_TASK_FORCE_FOR_PATROL: "Celkem je $NUM|H$ úderných skupin přiděleno k hlídkování oblasti operací flotily."
  CURRENT_FOCUS: "$FOCUS|H$"
  CURRENT_FUEL: "Aktuální palivo: $NUM|H$"
  CURRENT_NO_ACTIVE_TASK_FORCE_FOR_MISSION: "Ale v regionu momentálně žádné nejsou."
- CURRENT_NO_ACTIVE_TASK_FORCE_FOR_SUPREMACY: "Ale žádná z nich není dost blízko, aby poskytla §Hnámořní nadvládu§!."
  DAILY_FUEL_CONSUMPTION_MAX: "Potenciální spotřeba: $NUM|H$"
  DAILY_FUEL_CONSUMPTION_WITH_RECEIVED: "Současná spotřeba: $NUM|H$ §R(Přijato: $NUM2|%.0$)§!"
  DAILY_FUEL_CONSUMPTION: "Současná spotřeba: $NUM|H$"
@@ -491,7 +487,7 @@
  diff_very_hard_player: "Obtížnost pro elitu"
  DIMININSHING_RETURNS: "Při této popularitě jsou účinky škálovány na $SCALE|Y2%$"
  DIPLOMACY_CREATE_FACTION_NOT_RULE: "Nemůžete vytvářet frakce, pokud k tomu nemáte národního ducha."
- DIPLOMACY_CREATE_FACTION_OPP_IDEO: "$COUNTRY$ musí být $IDE$ ideologie, aby byl ve frakci s námi.\n"
+ DIPLOMACY_CREATE_FACTION_OPP_IDEO: "$COUNTRY$ musí být $IDE$, aby byl ve frakci s námi." # todo: CHANGED
  DIPLOMACY_NOT_ENOUGH_IDEOLOGY_POPULARITY: "$NAME|H$ vyžaduje, aby měla přistupující země popularitu $IDEOLOGY|H$ větší než $MIN|H%0$ (aktuálně $CUR|H%0$)"
  DIPLOMACY_RETURN_EXP_FORCE_ACTION_DESC: "Získejte kontrolu nad všemi expedičními jednotkami, které byly k nim poslány."
  DIPLOMACY_RETURN_EXP_FORCE_TITLE: "Vrátit expedičné jednotky"
@@ -708,7 +704,7 @@
  FRENCH_SUPPORTED: "Ano"
  FRENCH: "Francouzština"
  FREQUENCY_DAILY: "denně"
- FREQUENCY_DAY: "den(ů)" 
+ FREQUENCY_DAY: "den(ů)"
  FREQUENCY_INSTANT: "Okamžitě"
  FREQUENCY_MONTH: "§Tměsíc(e)§!"
  FREQUENCY_MONTHLY: "měsíčně"
@@ -997,7 +993,7 @@
  NAVAL_BASE_REPAIR_INFO: "Tato námořní základna má úroveň $SIZE|Y0$, z nichž $FUNCTIONAL|Y0$ je funkční, každá úroveň poskytuje $EFFECT|Y$ sílu oprav maximálně na úrovni místních zásob $SUPPLY|Y%$, celkový maximální opravárenský výkon za hodinu je $POWER|Y2%$.\n"
  NAVAL_BASE_TOOLTIP_GOTO_NAVALBASE: "§GPravým kliknutím§! se přesuňte na tuto námořní základnu."
  NAVAL_BASE_TOOLTIP_HOLD_AND_GOTO_NAVALBASE: "§GCtrl + pravý klik§! pro zrušení mise a přesun na tuto námořní základnu."
- NAVAL_BASE_TOOLTIP_SELECTION_INFO: "§GKlikněte§! pro výběr úderných skupin, které jsou založeny nebo přiděleny k opravám na této námořní základně.\n§GCtrl + Kliknutí§! pro přepínání stavu oprav.\n§GShift + Kliknutí§! pro zobrazení zařazení oprav."
+ NAVAL_BASE_TOOLTIP_SELECTION_INFO: "§GKlikněte§! pro výběr svazů, které jsou na této námořní základně nebo přiřazeny k opravám.\n§GCtrl + kliknutí§! pro přepnutí stavu opravy.\n§GShift + kliknutí§! pro zobrazení fronty oprav.\n§GCtrl + kliknutí pravým tlačítkem§! pro nastavení jako §Gdomovská základna§!." # todo: CHANGED
  NAVAL_BASE_TOOLTIP_SET_MAINBASE: "§GCtrl + pravým tlačítkem klikněte§! pro nastavení jako §Gdomovská základna§!.\n"
  NAVAL_BTN_REMOVE_REGIONS_NO_REGIONS: "§RŽádný region k odstranění.§!"
  NAVAL_BTN_REMOVE_REGIONS: "§HOdstranit region§!\n§GKlikněte§! na toto tlačítko, poté klikněte na region, který chcete odstranit pro aktuálně vybranou flotilu.\n§GPravým tlačítkem klikněte§! na toto tlačítko, abyste §Rodstranili všechny regiony§! pro aktuálně vybranou flotilu."
@@ -1005,8 +1001,8 @@
  NAVAL_COMBAT_AIRWING_TOOLTIP_DAMAGED_ENTRY: "\n   $NAVY|Y$: $PERC|G%$"
  NAVAL_COMBAT_AIRWING_TOOLTIP_DAMAGED_LAST_HIT: " (§GSmrtící úder§!)"
  NAVAL_COMBAT_AIRWING_TOOLTIP_DAMAGED: "\nPoškozené nepřátelské lodě:"
- NAVAL_COMBAT_AIRWING_TOOLTIP_HEADER_EXTERNAL: "$NUM|G$ $MOD|Y$ z $FROM|Y$. Připojeno před $HOUR|Y$ hodinama. $DEAD|R$ sestřeleno."
- NAVAL_COMBAT_AIRWING_TOOLTIP_HEADER:3 "$NUM|G$/$TOT|G$ $MOD|Y$ z $FROM|Y$. $DEAD|R$ sestřeleno."
+ NAVAL_COMBAT_AIRWING_TOOLTIP_HEADER_EXTERNAL: "$NUM|G$ $MOD|Y$ z $FROM|Y$. Připojeno před $HOUR|Y$ hodinami. $DEAD|R$ sestřeleno. $WINGS_STRIKING|H0$/$TOTAL_WINGS|G0$ křídel je schopno zasáhnout nepřátelskou flotilu." # todo: CHANGED
+ NAVAL_COMBAT_AIRWING_TOOLTIP_HEADER: "$NUM|G$/$TOT|G$ $MOD|Y$ z $FROM|Y$. $DEAD|R$ sestřeleno. $WINGS_STRIKING|H0$/$TOTAL_WINGS|G0$ křídel je schopno zasáhnout nepřátelskou flotilu." # todo: CHANGED
  NAVAL_COMBAT_AIRWING_TOOLTIP_SHOT_DOWN_ENTRY: "\n   $NUM|G$ x $MOD|Y$"
  NAVAL_COMBAT_AIRWING_TOOLTIP_SHOT_DOWN: "\nSestřeleno:"
  NAVAL_COMBAT_DIST_TO_ARRIVE: "\n  Vzdálenost do příjezdu: $DIST|0Y$km"
@@ -1095,7 +1091,7 @@
  NAVAL_MISSION_NAME_CONVOY_ESCORT: "Doprovod konvoje"
  NAVAL_MISSION_NAME_CONVOY_RAIDING_DESC: "Nařídí úderné skupině přepadávání nepřátelských konvojů ve vybraných regionech."
  NAVAL_MISSION_NAME_CONVOY_RAIDING: "Přepadávání konvojů"
- NAVAL_MISSION_NAME_HOLD_DESC:3 "§GKlikněte§! nebo £h \nZrušte aktuální misi a přesuňte se do nejbližšího přístavu.\n\n§GCtrl+Click§! nebo £ctrl +£h \nZrušte aktuální misi a zůstaňte na místě.\n--------------\nHlavní lodě zadržované v mořské provincii sousedící s pozemním bojem budou moci pomoci s §HBombardováním pobřeží§!.\nLetadlové lodě zadržované na moři budou moci používat své vzdušné síly pro standardní vzdušné mise."
+ NAVAL_MISSION_NAME_HOLD_DESC: "§GKlikněte§! nebo £h \nZrušte aktuální misi a přesuňte se do nejbližšího přístavu.\n\n§GCtrl+Click§! nebo £ctrl +£h \nZrušte aktuální misi a zůstaňte na místě.\n--------------\nHlavní lodě zadržované v mořské provincii sousedící s pozemním bojem budou moci pomoci s §HBombardováním pobřeží§!.\nLetadlové lodě zadržované na moři budou moci používat své vzdušné síly pro standardní vzdušné mise."
  NAVAL_MISSION_NAME_HOLD: "Držet"
  NAVAL_MISSION_NAME_INVASION_DESC: "Nařidte úderné skupině, aby aktivně podporovala přepravu vojsk a invaze v vybraných §YInvazních rozkazech§!.\n§GKlikněte§! pro aktivaci této mise, poté §Gklikněte§! na šipku invaze, pokud jste ji nakreslili."
  NAVAL_MISSION_NAME_INVASION: "Doprava/Invaze"
@@ -1112,9 +1108,9 @@
  NAVAL_MISSION_NAME_RESERVE_FLEET: "Rezerva"
  NAVAL_MISSION_NAME_SEARCH_AND_DESTROY_DESC: "Nařídíte úderné skupině, aby aktivně vyhledávala a napadala nepřátelské flotily v určených regionech."
  NAVAL_MISSION_NAME_SEARCH_AND_DESTROY: "Hledat a zničit"
- NAVAL_MISSION_NAME_STRIKE_FORCE_DESC:3 "Přikázat úderné skupině, aby čekala na nejbližší námořní základně, dokud nebude spatřena nepřátelská úderná skupina.\nJakmile je nepřítel spatřen jednou z vašich hlídkových úderných skupin, vaše úderná skupina se přesune k jeho zachycení."
+ NAVAL_MISSION_NAME_STRIKE_FORCE_DESC: "Rozkažte svazu, aby čekal v nejbližší námořní základně, dokud nebude spatřen nepřátelský svaz.\nJakmile jeden z vašich hlídkových svazů nepřítele zaznamená, váš útočný svaz se přesune, aby ho zachytil.\n\nKdyž se aktivně nezapojuje do boje, tato mise spotřebovává $PERCENT|%0G$ paliva." # todo: CHANGED
  NAVAL_MISSION_NAME_STRIKE_FORCE: "Úderná skupina"
- NAVAL_MISSION_NAME_TRAINING_DESC:3 "Přikázat úderné skupině, aby prováděla cvičení v oblasti sousedící s nejbližší námořní základnou.\nTo má šanci poškodit lodě v průběhu času.\nPosádka nezíská zkušenosti, jakmile dosáhne úrovně Vyškolená.\nBěhem výcviku získáte §YNámořní zkušenosti§!.\nPro §YChloubu flotily§! je méně pravděpodobné, že se ji stane nehoda.\n\nDržte §HShift§! a klikněte, abyste aktivovali §HNámořní cvičení§! dokud nejsou všechny lodě plně vycvičeny."
+ NAVAL_MISSION_NAME_TRAINING_DESC: "Přikázat úderné skupině, aby prováděla cvičení v oblasti sousedící s nejbližší námořní základnou.\nTo má šanci poškodit lodě v průběhu času.\nPosádka nezíská zkušenosti, jakmile dosáhne úrovně Vyškolená.\nBěhem výcviku získáte §YNámořní zkušenosti§!.\nPro §YChloubu flotily§! je méně pravděpodobné, že se ji stane nehoda.\n\nDržte §HShift§! a klikněte, abyste aktivovali §HNámořní cvičení§! dokud nejsou všechny lodě plně vycvičeny."
  NAVAL_MISSION_NAME_TRAINING: "Námořní cvičení"
  NAVAL_MISSION_SET_REASON_FOR_NO_WAR: "Musíte být §Rve válce§!, abyste aktivovali tuto misi."
  NAVAL_MISSION_SET_REASON_FOR_PLANTING_NO_SHIPS: "Pokládání min §Rnelze§! udělat, protože žádná z lodí ve vaší flotile nemá schopnost to udělat!"
@@ -1144,8 +1140,8 @@
  NAVAL_REPAIR_QUEUE_SHIP_TASKFORCE_TOOLTIP: "§GKlikněte§! pro výběr útoční skupiny této lodě"
  NAVAL_REPAIR_QUEUE_SHIP_TOOLTIP: "§GUchop a polož§! pro přesun lodí v rámci opravného seznamu nebo pro její přiřazení k jiné námořní základně"
  NAVAL_SERIES_AMOUNT_DESC: "Počet lodí, které zbývá vyrobit."
- NAVAL_SERIES_DECREASE_DESC:3 "Snižte počet lodí k výrobě.\n§GCtrl+Klik§! pro snížení o §H10§!\n§GShift+Klik§! pro snížení o §H100§!"
- NAVAL_SERIES_INCREASE_DESC:3 "Zvyšte počet lodí k výrobě.\n§GCtrl+Klik§! pro přidání §H10§!\n§GShift+Klik§! pro přidání §H100§!"
+ NAVAL_SERIES_DECREASE_DESC: "Snižte počet lodí k výrobě.\n§GCtrl+Klik§! pro snížení o §H10§!\n§GShift+Klik§! pro snížení o §H100§!"
+ NAVAL_SERIES_INCREASE_DESC: "Zvyšte počet lodí k výrobě.\n§GCtrl+Klik§! pro přidání §H10§!\n§GShift+Klik§! pro přidání §H100§!"
  NAVAL_SPOTTING_COORDINATION_FACTOR: "Koordinace: $VAL|0%H$"
  NAVAL_SPOTTING_DAILY_CHANGE: "Denní změna: $SPEED|%.2+=$"
  NAVAL_SPOTTING_DESC: "Pokud bude plně spatřen, úderná skupina se může připojit k probíhající bitvě."
@@ -1217,7 +1213,7 @@
  NAVY_REPAIR_CANCEL_TITLE: "Zrušit opravy."
  NAVY_REPAIR_NOW_CANCEL_RETURN: "\nNávrat a znovusloučení s $FLEET|H$."
  NAVY_REPAIR_NOW_CANCEL: "§RZrušit§! opravu."
- NAVY_REPAIR_NOW:3 "§HOpravit nyní!§!\nÚderná skupina se vrátí na blízkou námořní základnu na opravy.\n§GKlikněte§! pro odeslání. Vrátí se k aktuální úloze poté, co bude plně opravena.\n§GCtrl+klik§! pro odeslání. Po tom zůstanou v námořní základně."
+ NAVY_REPAIR_NOW: "§HOpravit nyní!§!\nÚderná skupina se vrátí na blízkou námořní základnu na opravy.\n§GKlikněte§! pro odeslání. Vrátí se k aktuální úloze poté, co bude plně opravena.\n§GCtrl+klik§! pro odeslání. Po tom zůstanou v námořní základně."
  NAVY_REPAIR_POLICY_0: "§RNikdy neopravovat.§!\nÚderná skupina se nikdy nerozhodne sama za sebe vrátit na domácí základnu."
  NAVY_REPAIR_POLICY_1: "§RPriorita opravy - Nízká.§!\nÚderná skupina se rozhodne vrátit na námořní základnu, pokud lodě utrpěly §RZávažné§! poškození."
  NAVY_REPAIR_POLICY_2: "§YPriorita opravy - Střední.§!\nÚderná skupina se rozhodne vrátit na námořní základnu, pokud lodě utrpěly §RStřední§! poškození."
@@ -1366,10 +1362,10 @@
  PROVINCE_ROCKET_TOOLTIP: "Kapacita raketového odpaliště: $CAPACITY|H$"
  PROVINCE_TERRAIN_TOOLTIP: "Terén: $NAME|Y$"
  PROVINCE_UNIT_ATTACK_FROM_NEUTRAL: "§RArmády nemohou útočit na nepřítele z neutrální země.§!"
- PROVINCE_UNIT_CLICK:3 "§GPravým klikem§! nařídit $UNIT_TYPE_PLURAL$ k §Ypohybovat se sem§!."
+ PROVINCE_UNIT_CLICK: "§GPravým klikem§! nařídit $UNIT_TYPE_PLURAL$ k §Ypohybovat se sem§!."
  PROVINCE_UNIT_CTRL_CLICK: "§GCtrl + Pravé kliknutí§! pro rozkaz divizím k §Ypodpoře útoku§! zde."
- PROVINCE_UNIT_MOVE_DAYS_HOURS:4 "První $UNIT_TYPE$ dorazí za: $DAYS|Y$ §Yden/dny§! a $HOURS|Y$ §Yhodin/hodiny§!."
- PROVINCE_UNIT_MOVE_HOURS:4 "První $UNIT_TYPE$ příchod: $HOURS|Y$ §Yhodin(ě)§!."
+ PROVINCE_UNIT_MOVE_DAYS_HOURS: "První $UNIT_TYPE$ dorazí za: $DAYS|Y$ §Yden/dny§! a $HOURS|Y$ §Yhodin/hodiny§!."
+ PROVINCE_UNIT_MOVE_HOURS: "První $UNIT_TYPE$ příchod: $HOURS|Y$ §Yhodin(ě)§!."
  PROVINCE_UNIT_MOVE_NAVAL_MISSION: "§GPravé kliknutí§! pro přidání oblasti do aktuální mise."
  PROVINCE_UNIT_MOVE_NO_RAILWAY: "§RDo této provincie nevede žádná upravená železniční trasa.§!"
  PROVINCE_UNIT_MOVE_NO_TIME: "§RNeexistuje žádná dostupná pozemní trasa do této provincie.§!"
@@ -1416,7 +1412,7 @@
  READY_TO_PLAY_MP: "$PLAYER|H$ je připraven"
  READY: "Připraven!"
  REASON_ACCIDENT: "Ztráty způsobené nehodou: $SUM|0H$"
- REASON_AIR_COMBAT: "Sestřeleno v letecké bitvě: $SUM|0H$"
+ REASON_AIR_COMBAT: "Sestřelen v leteckém boji: $SUM|0H$" # todo: CHANGED
  REASON_ARMORED_TRAINS: "Sestřeleno obrněnými vlaky: $SUM|0H$"
  REASON_BOMBED: "Bombardováno: $SUM|0H$"
  REASON_LAND_COMBAT: "Sestřeleno PVO: $SUM|0H$"
@@ -1683,7 +1679,7 @@
  SUPPLY_CAP_AVAILABLE: "Zbylé zásoby v provincii:"
  SUPPLY_CONTROL_EDGE: "§YKontrola příchozích okrajových provincií§!: $EDGE|0%$"
  SUPPLY_DIVISION_DEMAND: "Divize: §H$AMOUNT$§! (§H$VAL|.2$§!)"
- SUPPLY_FLOW_DELAYED_DESC:5 "§HZostatek zásob§! naznačuje, kolik zásob je poskytováno této provincii a skládá se z zásob státu a distribučních uzlů v dosahu. Dosah uzlu je ovlivněn počasím, pozemními podmínkami, infrastrukturou, úrovní železnice a motorizací. \n\n§Hdivize§! spotřebují provinční zásoby na základě jejich zásobovací váhy. Pokud je jejich §Hstav zásob§! nad poměrem dodávek poskytovaných na jejich místě, spotřebují ze svého interního skladu, dokud není skladovaná zásoba na stejné úrovni jako místní zásobování.\n\nDržte §GCtrl§! pro zobrazení zdrojů toku."
+ SUPPLY_FLOW_DELAYED_DESC: "§HZostatek zásob§! naznačuje, kolik zásob je poskytováno této provincii a skládá se z zásob státu a distribučních uzlů v dosahu. Dosah uzlu je ovlivněn počasím, pozemními podmínkami, infrastrukturou, úrovní železnice a motorizací. \n\n§Hdivize§! spotřebují provinční zásoby na základě jejich zásobovací váhy. Pokud je jejich §Hstav zásob§! nad poměrem dodávek poskytovaných na jejich místě, spotřebují ze svého interního skladu, dokud není skladovaná zásoba na stejné úrovni jako místní zásobování.\n\nDržte §GCtrl§! pro zobrazení zdrojů toku."
  SUPPLY_FLOW_DISRUPTION: "Narušeno nepřátelskými leteckými údery na logistiku: §R-$SUPPLY$§!"
  SUPPLY_FLOW_PROVINCE_ACCUMULATED_HEADER: "§HZásoby z distribučních uzlů§! v $PROVINCE|H$"
  SUPPLY_FLOW_PROVINCE_ACCUMULATED: "Celkem: $VALUE|H$ £supply_texticon£"
@@ -1758,7 +1754,6 @@
  SUPPLYMODE_TOOLTIP_SUPPLY_FROM_CAPITAL: "Dodávky z hlavního města: $CURRENT_SUPPLIES|H.1$ £supply_texticon£"
  SUPPLYMODE_TOOLTIP_SUPPLY_NODE_HEADER: "§YDistribuční uzel§! v $PROVINCE_NAME|H$:"
  SUPPLYMODE_TOOLTIP_TRAINS_NEEDED: "Potřebné vlaky: $ALLOCATED|H.0$/$NEEDED|H$ £GFX_infrastructure_texticon£ ($PERCENTAGE|H$)"
- SUPREMACY_DETAILS: "§HNámořní převaha§! se počítá jako součet celkové převahy přátelských lodí v oblasti proti celkové převaze nepřítele.\n\nCelková převaha námořnictva závisí na tom, jaký typ mise probíhá, jak efektivní je v oblasti, kolik lodí má a jak velké jsou.\n\n"
  SURRENDERED_DESC: "$TAG|H$ se vzdal, což nám dává přístup k $VALUE|0H%$ jejich uskladněného vybavení"
  SURRENDERED_OTHER: "Jiný"
  SURRENDERED_SPECIAL_ITEM_WITHOUT_TYPE: "$AMOUNT|H$ $EQUIPMENT|H$"
@@ -1888,7 +1883,7 @@
  UNITS_TOO_WEAK_TO_ATTACK: "§ROrganizace jednotky je příliš nízká na to, aby mohla postoupit.§!\nProsím počkejte, až se reorganizují, nebo zvažte změnu §Yagresivity§! provádění bojových plánů."
  UNITS_UNWILLING_ATTACK_WARNING: "§RJednotka považuje útok za příliš nebezpečný.\nExplictní povel pro pohyb může donutit jednotku ho provést i tak.§!"
  UNITS_VIEW_BORDER_CONFLICT: "Tato armáda je v pohraničným konfliktu"
- UNITS_VIEW_BTN_AREA_DEFENSE:3 "§HObrana oblasti§!\n - §GKlikněte§! na státy, abyste je přidali/odebrali z rozkazu armády.\nArmáda s tímto rozkazem nemůže mít v daný čas jiné typy rozkazu.\n\nDivize přidělené armádě s tímto rozkazem se rozprostřou po přidělené oblasti, aby chránily důležitá města, přístavy nebo jiné objekty a také se vypořádaly s menšími přítomnostmi nepřítele."
+ UNITS_VIEW_BTN_AREA_DEFENSE: "§HObrana oblasti§!\n - §GKlikněte§! na státy, abyste je přidali/odebrali z rozkazu armády.\nArmáda s tímto rozkazem nemůže mít v daný čas jiné typy rozkazu.\n\nDivize přidělené armádě s tímto rozkazem se rozprostřou po přidělené oblasti, aby chránily důležitá města, přístavy nebo jiné objekty a také se vypořádaly s menšími přítomnostmi nepřítele."
  UNITS_VIEW_BTN_DELETE_ORDER: "§HOdstranit rozkaz§!\n§GKlikněte§! na toto tlačítko, pak klikněte na rozkaz na mapě, který chcete odstranit.\n§GPravým kliknutím§! na toto tlačítko §Rodstránite všechny rozkazy§! aktuálně vybrané armády."
  UNITS_VIEW_BTN_DELTE_NOTHING: "§RNení zde nic k vymazání.§!"
  UNITS_VIEW_BTN_DISBAND_GROUP_TOOLTIP: "Klikněte pro §Rrozpustění§! této armády. Všechny její divize budou odpojeny."
@@ -1902,7 +1897,7 @@
  UNITS_VIEW_BTN_DRAW_NAVAL_INV_WITH_HARBOR: "§HRozkaz k námorní invazi (S podporou plovoucího přístavu)§!\nKrok 1) §GKlikněte§! na jednu z označených provincií pro nastavení zdroje invaze.\nKrok 2) §GPravým kliknutím§! na požadovanou pobřežní provincii pro invazi.\nJakmile bude plán aktivován, invaze se začne připravovat a rezervovat konvoje z vašich zásob."
  UNITS_VIEW_BTN_DRAW_NAVAL_INV: "§HRozkaz k námorní invazi§!\nKrok 1) §GKlikněte§! na jednu z označených provincií pro nastavení zdroje invaze.\nKrok 2) §GPravým kliknutím§! na požadovanou pobřežní provincii pro invazi.\nJakmile bude plán aktivován, invaze se začne připravovat a rezervovat konvoje z vašich zásob."
  UNITS_VIEW_BTN_DRAW_OFFENCE_FRONT_LINE_FIRST: "§RNejprve musíte vytvořit frontu.§!"
- UNITS_VIEW_BTN_DRAW_OFFENCE:3 "§HOfenzivní linie§!\n§GPravým kliknutím a tažením myši§! na mapě nakreslíte §YOfenzivní linii§!.\nČáry mohou být malovány pouze na území, kterému jste přidělili §HFrontovou linii§! nebo §HNámořní invazi§!.\n\nDivize přidělené k plánu s Ofenzivní linií se pokusí ovládnout území, aby posunuly svůj frontový řádek tam.\n\n§GPodržte tlačítko myši§! a §Gpustěte§! ho na tlačítko pro provádění chování pro změnu typu provádění plánu"
+ UNITS_VIEW_BTN_DRAW_OFFENCE: "§HOfenzivní linie§!\n§GPravým kliknutím a tažením myši§! na mapě nakreslíte §YOfenzivní linii§!.\nČáry mohou být malovány pouze na území, kterému jste přidělili §HFrontovou linii§! nebo §HNámořní invazi§!.\n\nDivize přidělené k plánu s Ofenzivní linií se pokusí ovládnout území, aby posunuly svůj frontový řádek tam.\n\n§GPodržte tlačítko myši§! a §Gpustěte§! ho na tlačítko pro provádění chování pro změnu typu provádění plánu"
  UNITS_VIEW_BTN_DRAW_PARADROP_NO_PARATROOPERS: "§RV rozkazu nejsou zahrnuti žádní parašutisté.§!"
  UNITS_VIEW_BTN_DRAW_PARADROP: "§HRozkaz k výsadku§!\nKrok 1) §GKlikněte§! na naši leteckou základnu, abyste určili výchozí bod. Letecká základna musí mít k dispozici transportní letadla.\nKrok 2) §GPravým kliknutím§! na provincii, která je v dosahu místních transportních letadel, abyste určili místo seskoku.\n§gPamatujte, že pouze jednotky s dovedností padákového vojska budou přepraveny.§!"
  UNITS_VIEW_BTN_EXECUTE_NONE_SET_TOOLTIP: "Tato armáda nemá žádné rozkazy k provedení. Musíte vytvořit plán, abyste to povolili."
@@ -2052,4 +2047,68 @@
  CHANGE_DESIGN_FOLDER_POPUP_TITLE: "Změna složky"
  CHANGE_DESIGN_FOLDER_POPUP_BODY: "Vyberte existující složku, do které chcete tento návrh přesunout, nebo zadejte název pro vytvoření nové složky."
  OVERWRITE_EXISTING: "Přepsat šablonu, ze které byla vytvořena?"
- OVERWRITE_EXISTING_DESIGN_DESC: "§GKliknuím§! přepnete  nastavení přepsání návrhu.\nTento návrh byl vytvořen z existující šablony. Pokud je tato možnost zaškrtnuta, bude stávající návrh přepsán."
+ OVERWRITE_EXISTING_DESIGN_DESC: "§GKlikněte§! pro přepnutí nastavení přepsání návrhu.\nTento návrh byl vytvořen z existující šablony. Pokud je toto zaškrtnuto, existující návrh bude přepsán." # todo: CHANGED
+ CONFIRMCHANGE_GROUP_LEADER_TEXT_SUPREME_COMMANDER: "$NAME|H$ je již přiřazen jako §GVrchní velitel§! vaší frakce a bude znovu přiřazen.\nOpravdu chcete §Rpřeřadit§! §Gvelitele§!?" # todo: NEW TRANSLATION
+ CONFIRMCHANGE_SC_TEXT: "$NAME|H$ je již přiřazen k jiné §Garmádě§! a bude znovu přiřazen.\nOpravdu chcete §Rpřeřadit§! §Gvelitele§!?" # todo: NEW TRANSLATION
+ CONFIRMCHANGE_SC_TEXT_SUPREME_COMMANDER: "$NAME|H$ je již přiřazen k jinému §GTheater§! a bude znovu přiřazen.\nOpravdu chcete §Rpřeřadit§! §Gvelitele§!?" # todo: NEW TRANSLATION
+ CONFIRMCHANGE_SC_IN_TRANSFER_TEXT: "$NAME|H$ je již přiřazen k jiné §Garmádě§!, která byla vyslána jako §Ydobrovolníci§!.\nOpravdu chcete §Rpřeřadit§! §Gvelitele§!?" # todo: NEW TRANSLATION
+ CONFIRMCHANGE_NAVY_LEADER_FLEET_TEXT: "$NAME|H$ je již přiřazen k jiné §Gflotile§! a bude znovu přiřazen.\nOpravdu chcete §Rpřeřadit§! §Gvelitele§!?" # todo: NEW TRANSLATION
+ CONFIRMCHANGE_NAVY_LEADER_HEADQUARTER_TEXT: "$NAME|H$ je již přiřazen k §Gnámornímu velitelství§! a bude znovu přiřazen.\nOpravdu chcete §Rpřeřadit§! §Gvelitele§!?" # todo: NEW TRANSLATION
+ CONFIRMCHANGE_NAVY_LEADER_SUPREME_COMMANDER: "$NAME|H$ je již přiřazen jako §GVrchní velitel§! vaší frakce a bude znovu přiřazen.\nOpravdu chcete §Rpřeřadit§! §Gvelitele§!?" # todo: NEW TRANSLATION
+ PROGRESS_TOOLTIP: "§YPokrok§!: $PROGRESS|%0$" # todo: NEW TRANSLATION
+ PROGRESS_RATIO_DESC: "\n$faction_divider_dashes$\n\nDokončení: $PROGRESS|Y%0$\nNáš současný pokrok je $COMPLETED|Y.0$/$TOTAL|Y.0$\n\n§gTyto hodnoty vycházejí z:§!\n$NAME|H$ ($COMPLETED|Y.0$)$TOTAL_DESC$ ($TOTAL|Y.0$)" # todo: NEW TRANSLATION
+ PROGRESS_RATIO_DESC_TOTAL: "\n z $TOTAL_NAME|Y$" # todo: NEW TRANSLATION
+ PROGRESS_RATIO_DESC_TOTAL_OF: "\n z $RANGE|%0Y$ z $TOTAL_NAME|Y$" # todo: NEW TRANSLATION
+ PROGRESS_TOTAL_AMOUNT: "§YCelkové množství§!" # todo: NEW TRANSLATION
+ PROGRESS_RATIO_OUT_OF: " z cíle" # todo: NEW TRANSLATION
+ PROGRESS_SECTION_DESC: "$NAME|Y$\nRozsah: $MIN|%Y$ - $MAX|%Y$\n$MODIFIER$\n$RULE$\n$ACTIVATION_EFFECT$\n$DEACTIVATION_EFFECT$" # todo: NEW TRANSLATION
+ PROGRESS_SECTION_MODIFIER: "§YModifikátory:§!\n$DESC$" # todo: NEW TRANSLATION
+ PROGRESS_SECTION_ACTIVATION_EFFECT: "\n§YEfekt aktivace:§!\n$DESC$" # todo: NEW TRANSLATION
+ PROGRESS_SECTION_DEACTIVATION_EFFECT: "\n§YEfekt deaktivace:§!\n$DESC$" # todo: NEW TRANSLATION
+ the_great_wall: "Velká čínská zeď" # todo: NEW TRANSLATION
+ NAVAL_BTN_SET_TARGET_NO_TASKFORCE: "§RŽádná flotila nebyla vybrána.§!" # todo: NEW TRANSLATION
+ NAVAL_BTN_SET_TARGET: "§HNastavení námořního cílení§!" # todo: NEW TRANSLATION
+ NAVAL_BTN_SET_TARGET_DELAYED_DESCRIPTION: "Umožňuje vám vybrat, proti jakým typům lodí se vaše úkolové síly budou zapojovat do boje a kterým se při setkání vyhnout a ustoupit." # todo: NEW TRANSLATION
+ NAVAL_MISSION_TARGET_IS_SELECTED: "$TYPE$ §Rnebude zapojeno do boje§!" # todo: NEW TRANSLATION
+ NAVAL_MISSION_TARGET_IS_DESELECTED: "$TYPE$ §GBude zapojeno do boje§!" # todo: NEW TRANSLATION
+ CURRENT_ACTIVE_TASK_FORCE_FOR_DOMINANCE: "Ale pouze $NUM|H$ z nich jsou dost blízko, aby poskytly §Hnámořní převahu§!." # todo: NEW TRANSLATION
+ CURRENT_NO_ACTIVE_TASK_FORCE_FOR_DOMINANCE: "Ale žádná z nich není dost blízko, aby poskytla §Hnámořní převahu§!." # todo: NEW TRANSLATION
+ CURRENT_NO_ACTIVE_TASK_FORCE_FOR_NAVAL_INVASION_SUPPORT: "Ale žádná z nich není dost blízko, aby poskytla §Hpodporu námořní invaze§!." # todo: NEW TRANSLATION
+ CURRENT_ACTIVE_TASK_FORCE_FOR_DOMINANCE_WARNING: "§R£mapicon_unit_no_orders  Některé úkolové síly jsou od této oblasti příliš vzdálené na to, aby poskytly §Hnámořní převahu!§!§!" # todo: NEW TRANSLATION
+ CURRENT_ACTIVE_TASK_FORCE_FOR_NAVAL_INVASION_SUPPORT_WARNING: "§R£mapicon_unit_no_orders  Některé úkolové síly jsou od této oblasti příliš vzdálené na to, aby poskytly §Hpodporu námořní invaze!§!§!" # todo: NEW TRANSLATION
+ NAVAL_INVASION_PLAN_CAP_REACHED: "§RDosažen limit plánů námořní invaze ($CAP|Y$).§!" # todo: NEW TRANSLATION
+ NAVAL_COMBAT_DEFENSE_AIRWING_TOOLTIP_SHOT_DOWN: "\nSestřeleno obrannými letouny:" # todo: NEW TRANSLATION
+ UNITS_VIEW_BTN_DRAW_NAVAL_INV_WITH_PLAN_CAP_REACHED: "§RDosažen limit plánů námořní invaze ($CAP|Y$).§!" # todo: NEW TRANSLATION
+ coal_desc: "Uhlí je surovina používaná k napájení průmyslové výroby." # todo: NEW TRANSLATION
+ EXP_MISSION_BONUS: "Bonus zkušeností z mise: $EFFECT|+=%0$" # todo: NEW TRANSLATION
+ FOCUS_AUTOMATIC_BYPASS_DISABLED: " (§Yautomatické přeskočení je vypnuto§!)" # todo: NEW TRANSLATION
+ DIPLOMACY_CREATE_FACTION_NOT_OPP_IDEO: "$COUNTRY$ nemusí být $IDE$, aby mohla být ve frakci s námi." # todo: NEW TRANSLATION
+ NAVY_REPAIR_PRIORITY: "§YVyberte prioritu oprav§!" # todo: NEW TRANSLATION
+ NAVY_CARRIER_DEFENSIVE_STANCE: "§YVyberte obranný postoj§!" # todo: NEW TRANSLATION
+ NAVY_CARRIER_DEFENSIVE_STANCE_CONFLICT: "Většina úkolových sil: $CURRENT|G$" # todo: NEW TRANSLATION
+ NAVY_CARRIER_DEFENSIVE_STANCE_CURRENT: "Aktuální obranný postoj - $CURRENT|G$" # todo: NEW TRANSLATION
+ CARRIER_DEFENSIVE_STANCE_SELECTION_0: "Čistě obranný" # todo: NEW TRANSLATION
+ CARRIER_DEFENSIVE_STANCE_SELECTION_1: "Opatrný" # todo: NEW TRANSLATION
+ CARRIER_DEFENSIVE_STANCE_SELECTION_2: "Vyvážený" # todo: NEW TRANSLATION
+ CARRIER_DEFENSIVE_STANCE_SELECTION_3: "Aktivní" # todo: NEW TRANSLATION
+ CARRIER_DEFENSIVE_STANCE_SELECTION_4: "Agresivní" # todo: NEW TRANSLATION
+ CARRIER_DEFENSIVE_STANCE_SELECTION_0_DESC: "Všechna letadla jsou používána pro obranné akce" # todo: NEW TRANSLATION
+ CARRIER_DEFENSIVE_STANCE_SELECTION_1_DESC: "§G75%§! letadel se používá pro obranné akce" # todo: NEW TRANSLATION
+ CARRIER_DEFENSIVE_STANCE_SELECTION_2_DESC: "§G50%§! letadel se používá pro obranné akce" # todo: NEW TRANSLATION
+ CARRIER_DEFENSIVE_STANCE_SELECTION_3_DESC: "§G25%§! letadel se používá pro obranné akce" # todo: NEW TRANSLATION
+ CARRIER_DEFENSIVE_STANCE_SELECTION_4_DESC: "Všechna letadla jsou používána pro útočné akce" # todo: NEW TRANSLATION
+ CARRIER_DEFENSIVE_STANCE_SORTIE_VALUES: "$OFFENSIVE|0%Y$ útočný let\n$DEFENSIVE|0%Y$ obranný let" # todo: NEW TRANSLATION
+ NAVY_AGGRESSIVENESS: "§YVyberte agresivitu§!" # todo: NEW TRANSLATION
+ AIR_INVASION_PLAN_CAP_REACHED: "§RDosažen limit plánů výsadkové invaze ($CAP|Y$).§!" # todo: NEW TRANSLATION
+ SUPPLYMODE_TOOLTIP_FOREIGN_HOMEBASE_NODE_HEADER: "§YZahraniční základna§! v $PROVINCE_NAME|H$, úroveň $LEVEL|H$:" # todo: NEW TRANSLATION
+ ALWAYS_SHOW_REGIONS: "Vždy zobrazovat názvy regionů" # todo: NEW TRANSLATION
+ ALWAYS_SHOW_REGIONS_DESC: "Režimy mapy zobrazující strategické názvy regionů budou, pokud je toto nastavení vypnuto, zobrazovat pouze název právě přejetého regionu." # todo: NEW TRANSLATION
+ LOCK_MAP_TOOLTIP: "Uzamknout pozici informace na mapě" # todo: NEW TRANSLATION
+ LOCK_MAP_TOOLTIP_DESC: "Info bubliny na mapě budou zobrazeny v pravém dolním rohu obrazovky místo na pozici myši." # todo: NEW TRANSLATION
+ DEBUG_CLICK_SWITCH_COUNTRY_TOOLTIP: "§GTab + klik§! pro přepnutí na tuto zemi (debug)" # todo: NEW TRANSLATION
+ RAID_RANGE_FACTOR_TOOLTIP: "Dodatečný faktor dosahu: $RANGE_FACTOR|+=%$" # todo: NEW TRANSLATION
+ RAID_MODIFIED_AIR_RANGE_TOOLTIP: "Upraveno na $RESULT$ kvůli dodatečnému faktoru dosahu typu náletu $RANGE_FACTOR|+=%$" # todo: NEW TRANSLATION
+ NOT_PARADROP_PREPARED: "Výsadkový seskok se stále připravuje $CURRENT|R0$/$REQUIRED|Y0$ dní." # todo: NEW TRANSLATION
+ JAP_emperor_hirohito_override_instant: "§H$JAP_hirohito$§!\nZatímco Japonskou civilní vládu vede §H$JAP_keisuke_okada$§!, uctívaná hlava státu Hirohito představuje zosobnění moci v zemi.\n\nMnohé frakce soupeří o §HImperial Influence§! dokud Impérium zůstává neporušené." # todo: NEW TRANSLATION
+ JAP_emperor_hirohito_override_delayed: """ # todo: NEW TRANSLATION
+ PROGRESS_SECTION_RULE: "§YPravidla:§!\n$DESC$" # todo: NEW TRANSLATION

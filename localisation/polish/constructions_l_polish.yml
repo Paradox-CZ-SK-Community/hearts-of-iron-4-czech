@@ -144,3 +144,4 @@
  supply_node:1 "Distribuční uzel"
  supply_node_desc:2 "Distribuční uzel je bod podél železnice, mimo existující města, kde lze čerpat zásoby."
  supply_node_plural: "Distribuční uzly"
+ LACK_OF_POWER_DESC: "Nedostatek energie: $VAL|R%$" # todo: NEW TRANSLATION

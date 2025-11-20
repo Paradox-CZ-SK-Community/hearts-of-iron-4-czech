@@ -106,7 +106,7 @@
  CHI_the_hump_closed_state: "Vzdušný most v tomto státě uzavřen."
  CHI_the_hump_reopen_state: "Znovu otevřít vzdušný most v tomto státě."
  CHI_warlord_in_opposition: "Vojevůdce v opozici"
- CHI_xian_fired: "Čínští vůdci pozváni do Si-anu"
+ CHI_xian_fired: "Čínští vůdci pozváni do Si-anu" # todo: CHANGED
  CHI_xian_incident: "Si-anský incident"
  CHI_xian_incident_desc: "Naši zemi oslabuje vnitřní boj, zatímco Japonsko má zjevné plány na naše území. Musíme přinutit nacionalisty a komunisty, aby se vzpamatovali a vytvořili sjednocenou frontu."
  ENG_invoke_the_alliance_of_1373: "Obnovit spojenectví z roku 1373"
@@ -550,7 +550,7 @@
  develop_shandong_aluminium_deposits: "Rozvíjet ložiska bauxitu v Šan-tungu"
  develop_sichuan_aluminium_deposits: "Rozvíjet ložiska bauxitu v S'-čchuanu"
  develop_sidamo_rubber_plantations: "Zakládat plantáže kaučuku v Sidamu"
- develop_singapore_aluminium_deposits: "Rozvíjet ložiska bauxitu v Singapuru"
+ develop_singapore_aluminium_deposits: "Rozvíjet bauxitová ložiska v Malajsku" # todo: CHANGED
  develop_sirte_oil_fields: "Rozvíjet ropná pole v Syrtě"
  develop_south_sakhalin_oil_deposits: "Rozvíjet ropná pole na jižním Sachalinu"
  develop_stalingrad_aluminium_deposits: "Rozšířit hliníkárnu ve Stalingradu"
@@ -1015,3 +1015,22 @@
  war_propaganda_desc: "Zatímco svět kolem nás hoří, náš lid je žalostně nepřipraven na válku. Musíme získat jejich podporu, aby pozvedli zbraně na obranu našeho národa."
  women_in_the_workforce: "Ženy v pracovním procesu"
  women_in_the_workforce_desc: "Jak muži odcházejí do války, tisíce žen nastupují do továren, aby udržely válečný stroj v běhu."
+ form_ottoman_syria_coring_states_tt: "Získat jádra na všech §YSyrian§! státech.\n" # todo: NEW TRANSLATION
+ CHI_communist_infiltration_state_1038: " [1038.GetName][1038.GetCommaIfMoreInfiltration]" # todo: NEW TRANSLATION
+ PRC_infiltrate_jinan: "Infiltrovat Jinan" # todo: NEW TRANSLATION
+ CHI_communist_infiltration_in_jinan: "Komunistická infiltrace v Jinanu" # todo: NEW TRANSLATION
+ PRC_infiltrate_hulunbuir: "Infiltrovat Hulunbuir" # todo: NEW TRANSLATION
+ PRC_infiltrate_pailingmiao: "Infiltrovat Pailingmiao" # todo: NEW TRANSLATION
+ communist_infiltration_in_hulunbuir: "Komunistická infiltrace v Hulunbuir" # todo: NEW TRANSLATION
+ communist_infiltration_in_pailingmiao: "Komunistická infiltrace v Pailingmiao" # todo: NEW TRANSLATION
+ JAP_southern_expansion_desc: "Pokračujíce v námořní doktríně Nanshin-ron je čas, abychom zasáhli proti imperialistům a kolonialistům na jihu a rozšířili náš vliv tak, aby zahrnoval celou jižní cestu." # todo: NEW TRANSLATION
+ JAP_colonial_independence_desc: "S obnoveným dobytím bývalých císařských držav je nejvyšší čas osvobodit jejich obyvatele a udělit jim nezávislost, kterou si zaslouží." # todo: NEW TRANSLATION
+ JAP_develop_tunguska_coal_deposits: "Rozvíjet uhelná ložiska Tungusky" # todo: NEW TRANSLATION
+ JAP_develop_irkutsk_coal_deposits: "Rozvíjet uhelná ložiska v Irkutsku" # todo: NEW TRANSLATION
+ develop_taiwan_oil_deposits: "Rozvíjet ropná pole na Formose" # todo: NEW TRANSLATION
+ develop_taiwan_aluminium_deposits: "Rozvíjet hlinířský průmysl u Sun Moon Lake" # todo: NEW TRANSLATION
+ JAP_develop_riau_oil_deposits: "Rozvíjet ropná pole v Riau" # todo: NEW TRANSLATION
+ JAP_develop_tuban_oil_deposits: "Prozkoumat ropná pole v Tubanu" # todo: NEW TRANSLATION
+ JAP_develop_west_papuan_oil_deposits: "Prozkoumat ropná pole v Západní Papui" # todo: NEW TRANSLATION
+ JAP_develop_kalimantan_oil_deposits: "Rozvíjet ropná pole v Kalimantanu" # todo: NEW TRANSLATION
+ CHI_industrial_evacuations_from_state: "Průmyslové evakuace z [FROM.GetName]" # todo: NEW TRANSLATION

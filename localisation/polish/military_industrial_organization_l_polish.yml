@@ -1,5 +1,5 @@
 ﻿l_polish:
- AFG_aircraft_organization: "Afghánská letecká společnost"
+ AFG_aircraft_organization: "Afghánská letecká společnost" # todo: CHANGED
  AFG_artillery_organization: "Kábulská slévárna"
  AFG_construct_mio_in_progress: "Probíhá výstavba VPO"
  AFG_infantry_organization: "Kábulská puškařská společnost"
@@ -57,7 +57,7 @@
  BALTIC_royal_arsenal_organization: "$BALTIC_royal_arsenal$"
  BALTIC_rsaf_enfield_organization: "$BALTIC_RSAF_enfield$"
  BEL_fn_herstal_organization: "FN Herstal"
- BEL_fonderie_royale_canons: "Fonderie Royale Canons"
+ BEL_fonderie_royale_canons: "Fonderie Royale Cannons" # todo: CHANGED
  BEL_fonderie_royale_de_canons_liege_organization: "Fonderie Royale de Canons Liege"
  BEL_laboratoire_aerotechnique_de_belgique_organization: "Laboratoire Aérotechnique de Belgique"
  BEL_minerva_imperia_armored_car_organization: "Minerva-Imperia obrněné vozy"
@@ -70,9 +70,9 @@
  BEL_mio_trait_belgium_congo_link: "Propojení Belgie a Konga"
  BEL_mio_trait_browning_automatic_rifles: "Automatické pušky Browning"
  BEL_mio_trait_browning_collaboration: "Spolupráce s Browning"
- BEL_mio_trait_excellent_machining_tools: "Výborné nástroje pro obrábění"
+ BEL_mio_trait_excellent_machining_tools: "Vynikající obráběcí nástroje" # todo: CHANGED
  BEL_mio_trait_flourishing_automobile_industry: "Rozkvétající automobilový průmysl"
- BEL_mio_trait_fonderie_royale_canons: "Fonderie Royale Canons"
+ BEL_mio_trait_fonderie_royale_canons: "Fonderie Royale Cannons" # todo: CHANGED
  BEL_mio_trait_heavy_machine_guns: "Těžké kulomety"
  BEL_mio_trait_high_grade_armor: "Vysoce kvalitný pancíř"
  BEL_mio_trait_high_speed_transport: "Rychlá přeprava"
@@ -182,8 +182,8 @@
  DEN_mio_trait_coastal_defense_ship_modernization: "Modernizace pobřežní obranné lodě"
  DEN_mio_trait_feltkanoner: "Feltkanoner"
  DEN_mio_trait_fodfolkskanoner: "Fodfolkskanoner"
- DEN_mio_trait_madsen_20_mm: "Dělostřelecký kanón Madsen 20 mm"
- DEN_mio_trait_madsen_heavy_machine_gun: "Těžký kulomet Madsen"
+ DEN_mio_trait_madsen_20_mm: "Vylepšené HE-AP munice" # todo: CHANGED
+ DEN_mio_trait_madsen_heavy_machine_gun: "Madsenův strojní kanón" # todo: CHANGED
  DEN_mio_trait_repurpose_triangel_factories: "Přepracované továrny Triangel"
  DEN_mio_trait_weibel_development: "Vylepšit prototyp Weibel"
  DEN_orlogsvaerftet_organization: "Orlogsværftet"
@@ -290,15 +290,15 @@
  GER_mio_trait_aerodynamic_research_insitute: "Integrovaný odbor aerodynamického výzkumu"
  GER_mio_trait_aerodynamic_research_insitute_taken_flag: "$generic_has_already_completed_this_trait$"
  GER_mio_trait_amerikabomber_learnings: "Zkušenosti z Amerikabomberu"
- GER_mio_trait_anti_tank_specialization: "Specializace na protitankové zbraně"
+ GER_mio_trait_anti_tank_specialization: "Protitanková specializace" # todo: CHANGED
  GER_mio_trait_armored_design: "Pancéřový design"
  GER_mio_trait_armored_superstructure_specialist: "Specialista pancéřové nadstavby"
  GER_mio_trait_atlantic_raiders: "Atlantské nájezdníky"
- GER_mio_trait_auxilliary_shipyard: "Pomocná loděnice"
+ GER_mio_trait_auxilliary_shipyard: "Pomocná loděnice" # todo: CHANGED
  GER_mio_trait_bomber_destroyer: "Ničitel bombardérů"
  GER_mio_trait_carrier_raiders: "Nájezdníci z letadlových lodí"
  GER_mio_trait_continental_ag_tires: "Pneumatiky Continental AG"
- GER_mio_trait_doppel_blitz: "Doppel Blitz"
+ GER_mio_trait_doppel_blitz: "Doppel-Blitz" # todo: CHANGED
  GER_mio_trait_dual_recoil_mechanism: "Dvojitý zpětný mechanismus"
  GER_mio_trait_early_jet_engine_adopter: "Brzký uživatel proudových motorů"
  GER_mio_trait_efficiency_in_mass_production: "Efektivita hromadné výroby"
@@ -318,7 +318,7 @@
  GER_mio_trait_historical_shipyard: "Historická loděnice"
  GER_mio_trait_history_of_battleships: "Historie bitevních lodí"
  GER_mio_trait_hoesch_facilities: "Zařízení Hoesch"
- GER_mio_trait_hotrolled_armor: "Železné válcované pancíře"
+ GER_mio_trait_hotrolled_armor: "Žárově válcovaný pancíř" # todo: CHANGED
  GER_mio_trait_improved_engines: "Vylepšené motory"
  GER_mio_trait_innovative_battleship_designs: "Inovativní design bitevních lodí"
  GER_mio_trait_innovative_safety_features: "Inovativní bezpečnostní prvky"
@@ -334,12 +334,12 @@
  GER_mio_trait_military_exclusivity: "Vojenská exkluzivita"
  GER_mio_trait_mobility_design_philosophy: "Filosofie designu mobility"
  GER_mio_trait_multi_role_tanks: "Víceúčelové tanky"
- GER_mio_trait_multilayer_armour: "Vícevrstvý pancíř"
+ GER_mio_trait_multilayer_armour: "Aplikovaný pancíř" # todo: CHANGED
  GER_mio_trait_o_class_battlecruisers: "Křižníky třídy O"
- GER_mio_trait_ocean_u_boats: "Oceánské ponorky"
+ GER_mio_trait_ocean_u_boats: "Oceánské ponorky" # todo: CHANGED
  GER_mio_trait_panzerjager: "Panzerjäger"
  GER_mio_trait_placeholder_helicopter: "STROM HELIKOPTÉROVÝCH VLASTNOSTÍ BRZY"
- GER_mio_trait_policiary_equipment: "Policajní vybavení"
+ GER_mio_trait_policiary_equipment: "Policejní vybavení" # todo: CHANGED
  GER_mio_trait_psychological_warfare: "Psychologická válka"
  GER_mio_trait_racing_pedigree: "Závodní původ"
  GER_mio_trait_radial_engine: "Radiální motory"
@@ -355,7 +355,7 @@
  GER_mio_trait_sturmhaubitze: "Sturmhaubitze"
  GER_mio_trait_technical_superiority: "Technická převaha"
  GER_mio_trait_telescopic_sight: "Teleskopický zaměřovač"
- GER_mio_trait_tungsten_tipped_rounds: "Střely s volfrámovou špičkou"
+ GER_mio_trait_tungsten_tipped_rounds: "Náboje s wolframovým jádrem" # todo: CHANGED
  GER_mio_trait_u_boat_yards: "Stavitelské loděnice ponorek"
  GER_mio_trait_unorthodox_transmission_design: "Netradiční design převodovky"
  GER_mio_trait_upgrade_panzerschiffs: "Modernizace Panzerschiffů"
@@ -618,7 +618,7 @@
  ITA_mio_trait_air_race_pedigree: "Původ v leteckých závodech"
  ITA_mio_trait_high_altitude_fighter_development: "Vývoj stíhaček pro vysoké nadmořské výšky"
  ITA_mio_trait_remote_operated: "Dálkově ovládaný"
- ITA_mio_trait_special_aerotorpedoes_unit: "Jednotka speciálních aerotorpéd"
+ ITA_mio_trait_special_aerotorpedoes_unit: "Speciální letecká torpédová jednotka" # todo: CHANGED
  ITA_navalmeccanica_organization: "$ITA_navalmeccanica$"
  ITA_new_ricostruzione_industriale_mechanized: "$ITA_new_ricostruzione_industriale$ (Mechanizované)"
  ITA_new_ricostruzione_industriale_motorized: "$ITA_new_ricostruzione_industriale$ (Motorové)"
@@ -636,7 +636,6 @@
  JAP_osaka_army_arsenal_organization: "$osaka_army_arsenal$"
  JAP_sasebo_naval_arsenal_organization: "$sasebo_naval_arsenal$"
  JAP_sasebo_naval_arsenall_organization: "$sasebo_naval_arsenall$"
- JAP_tokyo_arsenal_organization: "$tokyo_arsenal$"
  JAP_yokosuka_naval_arsenal_organization: "$yokosuka_naval_arsenal$"
  JAP_yokosuka_organization: "$yokosuka$"
  LAT_lkod_organization: "$lkod$"
@@ -897,7 +896,7 @@
  generic_cas_aircraft_organization: "Výrobce CAS letadel"
  generic_escort_ship_organization: "Výrobce lodí doprovodu"
  generic_general_aircraft_organization: "Obecný výrobce letadel"
- generic_has_already_completed_this_trait: "Tato vlastnost již byla dokončena v jiné organizaci"
+ generic_has_already_completed_this_trait: " Tento rys již byl dokončen v jiné organizaci" # todo: CHANGED
  generic_heavy_aircraft_organization: "Výrobce těžkých letadel"
  generic_heavy_tank_organization: "Výrobce těžkých tanků"
  generic_helicopter_organization: "Výrobce vrtulníků"
@@ -915,7 +914,7 @@
  generic_mio_armor_hardening_process_assault_guns: "Rozsáhlé procesy tvrzení pancíře"
  generic_mio_cluster_bombs: "Klastry bomb"
  generic_mio_engine_optimization: "Optimalizace motoru"
- generic_mio_enlarged_breech: "Zvětšený závěr"
+ generic_mio_enlarged_breech: "Vylepšené trhavé náboje" # todo: CHANGED
  generic_mio_gunner_sight_improvements: "Vylepšení mířidel střelce"
  generic_mio_heat_bombs: "HEAT bomby"
  generic_mio_high_capacity_ammunition_stores: "Velkokapacitní zásobníky munice"
@@ -924,11 +923,11 @@
  generic_mio_initial_trait_armored_car_manufacturer: "Návrhář obrněných vozů"
  generic_mio_initial_trait_artillery_manufacturer: "$generic_artillery_organization$"
  generic_mio_initial_trait_assault_guns_organization: "Výrobce útočných děl"
- generic_mio_initial_trait_battle_line_ship_builders: "Stavitelé liniových bitevních lodí"
- generic_mio_initial_trait_black_sea_fleet_designer: "Návrhář černomořské flotily"
+ generic_mio_initial_trait_battle_line_ship_builders: "Stavitelé bitevních lodí" # todo: CHANGED
+ generic_mio_initial_trait_black_sea_fleet_designer: "Stavitelé černomořských plavidel" # todo: CHANGED
  generic_mio_initial_trait_cas_aircraft_designer: "Návrhář podpůrnych letadel"
- generic_mio_initial_trait_escort_fleet: "Eskorta flotily"
- generic_mio_initial_trait_fast_tanks_designer: "Návrhář rychlých tanků"
+ generic_mio_initial_trait_escort_fleet: "Stavitelé eskortních lodí" # todo: CHANGED
+ generic_mio_initial_trait_fast_tanks_designer: "Návrhář rychlých tanků" # todo: CHANGED
  generic_mio_initial_trait_general_aircraft_designer: "Obecný návrhář letadel"
  generic_mio_initial_trait_heavy_aircraft_designer: "Návrhář těžkých letadel"
  generic_mio_initial_trait_heavy_tank_designer: "Návrhář těžkých tanků"
@@ -936,31 +935,31 @@
  generic_mio_initial_trait_helicopter_manufacturer: "Vývoj vrtulníků"
  generic_mio_initial_trait_high_agility_fighters_designer: "Návrhář vysoce obratných stíhaček"
  generic_mio_initial_trait_infantry_manufacturer: "Výrobce pěchotních zbraní"
- generic_mio_initial_trait_infantry_tanks_designer: "Návrhář tanků podpory pěchoty"
+ generic_mio_initial_trait_infantry_tanks_designer: "Návrhář pěchotních tanků" # todo: CHANGED
  generic_mio_initial_trait_light_aircraft_designer: "Návrhář lehkých letadel"
  generic_mio_initial_trait_medium_tank_designer: "Návrhář středních tanků"
  generic_mio_initial_trait_motorized_mechanized_manufacturer: "Výrobce automobilů"
  generic_mio_initial_trait_multi_role_aircraft_designer: "Návrhář víceúčelových letadel"
  generic_mio_initial_trait_multi_role_tactical_aircraft: "Návrhář středních letadel"
  generic_mio_initial_trait_naval_aircraft_designer: "Námořní návrhář letadel"
- generic_mio_initial_trait_raiding_fleet: "Útočná eskadra"
+ generic_mio_initial_trait_raiding_fleet: "Stavitelé nájezdních plavidel" # todo: CHANGED
  generic_mio_initial_trait_range_focused_aircraft_designer: "Návrhář letadel zaměřených na dolet"
  generic_mio_initial_trait_standardized_production: "Standardizovaná výroba"
- generic_mio_initial_trait_submarine_designer: "Návrhář ponorek"
+ generic_mio_initial_trait_submarine_designer: "Stavitelé ponorek" # todo: CHANGED
  generic_mio_initial_trait_support_equipment_manufacturer: "Výrobce podpůrného vybavení"
  generic_mio_initial_trait_tank_refurbishment_plant: "Továrna na renovaci tanků"
- generic_mio_initial_trait_task_force_ship_builders: "Stavitelé lodí úderných skupin"
+ generic_mio_initial_trait_task_force_ship_builders: "Stavitelé plavidel útočných svazů" # todo: CHANGED
  generic_mio_larger_bomb_loads: "Větší pumový náklad"
  generic_mio_lighter_materials: "Lehčí materiály"
  generic_mio_lighter_materials_assault_guns: "Lehčí materiály"
- generic_mio_medium_assault_gun_75_mm_43M_tank_gun: "75mm kanón tanku 43M"
- generic_mio_medium_assault_gun_low_slung_superstructure_and_fighting_compartment: "Nízká nadstavba a bojový oddíl"
- generic_mio_medium_assault_gun_rocket_tubes: "Namontované raketové tuby"
+ generic_mio_medium_assault_gun_75_mm_43M_tank_gun: "Binokulární optika" # todo: CHANGED
+ generic_mio_medium_assault_gun_low_slung_superstructure_and_fighting_compartment: "Nízkoprofilová nástavba" # todo: CHANGED
+ generic_mio_medium_assault_gun_rocket_tubes: "Opláštěný samohybný raketomet" # todo: CHANGED
  generic_mio_multi_stage_super_charger: "Vícefázové přeplňování"
  generic_mio_quality_assurance_routines: "Rutiny zajištění kvality"
- generic_mio_reduced_fuel_usage: "Snížená spotřeba paliva"
+ generic_mio_reduced_fuel_usage: "Palivová účinnost" # todo: CHANGED
  generic_mio_refurbishment_repair_organization: "$generic_refurbishment_repair_organization$"
- generic_mio_sloping_armor: "Šikmý pancíř"
+ generic_mio_sloping_armor: "Šikmý pancíř" # todo: CHANGED
  generic_mio_streamlined_production: "Zefektivněná výroba"
  generic_mio_strength_wing_design: "Návrh křídla pro pevnost"
  generic_mio_trait_24h_rotation_shifts: "24 hodinové rotační směny"
@@ -979,7 +978,7 @@
  generic_mio_trait_advanced_periscope: "Pokročilý periskop"
  generic_mio_trait_advanced_production_techniques: "Pokročilé výrobní techniky"
  generic_mio_trait_advanced_scanners: "Pokročilé skenery"
- generic_mio_trait_advanced_shells: "Pokročilé střely"
+ generic_mio_trait_advanced_shells: "Munice APCR" # todo: CHANGED
  generic_mio_trait_advanced_sonar: "Pokročilý sonar"
  generic_mio_trait_advanced_sub_scanners: "Pokročilé ponorkové skenery"
  generic_mio_trait_advanced_trajectory_calculations: "Pokročilé výpočty trajektorie"
@@ -991,7 +990,7 @@
  generic_mio_trait_all_round_cupola: "Kupola s výhledem všemi směry"
  generic_mio_trait_all_wheel_drive: "Pohon všech kol"
  generic_mio_trait_anti_air_defense: "Protiletadlová obrana"
- generic_mio_trait_anti_air_layout: "Usazení protiletadlového vybavení"
+ generic_mio_trait_anti_air_layout: "Optimalizované úhly palby protiletadlových děl" # todo: CHANGED
  generic_mio_trait_anti_air_ships: "Protiletadlové lodě"
  generic_mio_trait_anti_interception_tactics: "Taktiky proti zachycení"
  generic_mio_trait_anti_tank_rifle: "Protitanková puška"
@@ -999,18 +998,18 @@
  generic_mio_trait_anti_tank_specialization: "Specializace na protitankovou techniku"
  generic_mio_trait_anti_torpedo_bulge: "Protitorpédová nástavba"
  generic_mio_trait_anti_vechicle_land_mines: "Protivozidlové miny"
- generic_mio_trait_apcr_hvap_shells: "Granáty APCR/HVAP"
+ generic_mio_trait_apcr_hvap_shells: "Munice APCR/HVAP" # todo: CHANGED
  generic_mio_trait_armor_piercing_rounds: "Průbojné střely"
- generic_mio_trait_armor_steel_working: "Zpracování pancéřové oceli"
+ generic_mio_trait_armor_steel_working: "Hromadná výroba pancíře" # todo: CHANGED
  generic_mio_trait_armored_cockpit: "Pancéřovaná kabina"
  generic_mio_trait_armored_pulpit_mount: "Pancéřovaný stojan"
  generic_mio_trait_assault_gun_improved_tracks: "Posílené pásy"
  generic_mio_trait_attached_wood_gas_generator: "Připojený dřevoplynový generátor"
  generic_mio_trait_auto_levelled_bombsights: "Automaticky vyrovnávané zaměřovače bomb"
  generic_mio_trait_automatic_pull_out: "Automatické vytažení"
- generic_mio_trait_barrels_of_hell: "Pekelné hlavně"
+ generic_mio_trait_barrels_of_hell: "Konverze námořních děl" # todo: CHANGED
  generic_mio_trait_base_defense: "Obrana základny"
- generic_mio_trait_battle_tank_specifications: "Specifikace bojového tanku"
+ generic_mio_trait_battle_tank_specifications: "Specifikace průlomového tanku" # todo: CHANGED
  generic_mio_trait_belly_shackles: "Spodní podvěsy"
  generic_mio_trait_big_guns: "Velké zbraně"
  generic_mio_trait_bigger_engines: "Výkonnější motory"
@@ -1027,38 +1026,38 @@
  generic_mio_trait_canopies_and_firewalls: "Kabiny a požární stěny"
  generic_mio_trait_cantilever_wing_structure: "Konstrukce křídla bez vzpěr"
  generic_mio_trait_capital_destroyer_shells: "Granáty pro bitevní lodě"
- generic_mio_trait_carrier_flight_operations_center: "Operační centrum letecké přepravy"
+ generic_mio_trait_carrier_flight_operations_center: "Pokročilé hasicí čerpadla" # todo: CHANGED
  generic_mio_trait_close_air_support_expertise: "Odbornost v letecké podpoře"
  generic_mio_trait_close_air_support_specialization: "Specializace na leteckou podporu"
  generic_mio_trait_close_support_role: "Role letecké podpory"
- generic_mio_trait_closed_chassi: "Uzavřený podvozek"
+ generic_mio_trait_closed_chassi: "Uzavřený podvozek" # todo: CHANGED
  generic_mio_trait_co_axial_rotors: "Koaxiální rotory"
  generic_mio_trait_cockpit_controlled_remote_gun_turrets: "Dálkově ovládané věže se zbraněmi z kokpitu"
  generic_mio_trait_combat_group: "Bojová skupina"
  generic_mio_trait_combat_information_center: "Válečné informační centrum"
- generic_mio_trait_command_upgrades: "Vylepšení velení"
- generic_mio_trait_commander_cupola: "Kupola pro velitele"
+ generic_mio_trait_command_upgrades: "Vylepšení viditelnosti" # todo: CHANGED
+ generic_mio_trait_commander_cupola: "Velitelská kupola" # todo: CHANGED
  generic_mio_trait_composite_cargo_bed: "Kompozitní nákladová plošina"
  generic_mio_trait_conservative_designs: "Konzervativní návrhy"
  generic_mio_trait_counter_flooding_system: "Protipovodňový systém"
  generic_mio_trait_crash_dive_flood_tanks: "Nádrže pro rychlý ponor"
  generic_mio_trait_crew_ergonomics: "Ergonomie posádky"
- generic_mio_trait_crew_survival_layout: "Uspořádání pro přežití posádky"
+ generic_mio_trait_crew_survival_layout: "Přežitelnost osádky" # todo: CHANGED
  generic_mio_trait_decalin_fueled_torpedo: "Torpédo poháněné dekalinem"
  generic_mio_trait_deck_guns: "Palubní děla"
  generic_mio_trait_deck_guns_black_sea: "Palubní děla"
- generic_mio_trait_defensive_equipment: "Obranné vybavení"
+ generic_mio_trait_defensive_equipment: "Zbraně na otočném držáku" # todo: CHANGED
  generic_mio_trait_diesel_powerplants: "Naftové pohonné jednotky"
  generic_mio_trait_drop_hammer_alloy_straining: "Lisování slitin slévárenským kladivem"
  generic_mio_trait_drum_pattern_sights: "Bubnové zaměřovače"
- generic_mio_trait_dual_engine_redundancy: "Duální redundance motoru"
+ generic_mio_trait_dual_engine_redundancy: "Spolehlivé motory" # todo: CHANGED
  generic_mio_trait_dual_plant_main_armament_production: "Výroba hlavního ozbrojení ve dvou závodech"
  generic_mio_trait_efficient_fuel_engines: "Úsporné motory"
  generic_mio_trait_efficient_patrolling_scheme: "Efektivní režim hlídek"
  generic_mio_trait_efficient_scale_up: "Efektivní rozšiřování výroby"
  generic_mio_trait_efficient_scrap_recycling: "Efektivní recyklace šrotu"
  generic_mio_trait_emergency_main_ballast_tank_blow: "Nouzové vyfouknutí hlavních vyrovnávacích nádrží"
- generic_mio_trait_enemy_tank_refitting: "Úpravy tanků nepřítele"
+ generic_mio_trait_enemy_tank_refitting: "Přestavba zajatých tanků" # todo: CHANGED
  generic_mio_trait_escort_designs: "Doprovodné návrhy"
  generic_mio_trait_escort_in_force: "Eskorta v plné síle"
  generic_mio_trait_even_thicker_armor: "Ještě silnější pancíř"
@@ -1066,7 +1065,7 @@
  generic_mio_trait_expanded_production_facilities: "Rozšířené výrobní zařízení"
  generic_mio_trait_experimental_anechoic_tiles: "Experimentální anechonické obklady"
  generic_mio_trait_extended_rear_fuselage: "Prodloužený zadní trup"
- generic_mio_trait_external_armor_belt: "Vnější pás pancíře"
+ generic_mio_trait_external_armor_belt: "Vertikální pancéřový pás" # todo: CHANGED
  generic_mio_trait_extra_cargo_doors: "Dodatečné nákladové dveře"
  generic_mio_trait_extra_machine_guns: "Dodatečné kulomety"
  generic_mio_trait_extra_seating: "Dodatečná sedadla"
@@ -1080,7 +1079,7 @@
  generic_mio_trait_fire_extinguishers: "Hasiče"
  generic_mio_trait_fixed_tailwheels: "Pevná ocasní kola"
  generic_mio_trait_flash_suppressor: "Tlumič záblesku"
- generic_mio_trait_fleet_escorts: "Doprovody flotily"
+ generic_mio_trait_fleet_escorts: "Role eskorty flotily" # todo: CHANGED
  generic_mio_trait_flexible_design: "Flexibilní návrh"
  generic_mio_trait_flight_deck_edge_aa_mounts: "Protiletadlové lafety na okraji letové paluby"
  generic_mio_trait_flooding_boundries: "Zaplavování hranic"
@@ -1088,7 +1087,7 @@
  generic_mio_trait_foam_fire_extinguishers: "Hasicí pěnové přístroje"
  generic_mio_trait_fuel_injection_engines: "Motory s vstřikováním paliva"
  generic_mio_trait_fully_cast_turret: "Věž odlitá vcelku"
- generic_mio_trait_fully_cast_turret_assault_gun: "Věž odlitá vcelku"
+ generic_mio_trait_fully_cast_turret_assault_gun: "Uzavřená nástavba" # todo: CHANGED
  generic_mio_trait_fuselage_ordinance_rack: "Úložný prostor ve trupu pro výzbroj"
  generic_mio_trait_glacis_armor: "Šikmá pancéřová deska"
  generic_mio_trait_glider_hook_modifications: "Úpravy háků kluzáků"
@@ -1116,7 +1115,7 @@
  generic_mio_trait_high_capacity_ammunition: "Vysokokapacitní munice"
  generic_mio_trait_high_capacity_mine_storage: "Skladování min s vysokou kapacitou"
  generic_mio_trait_high_explosive_payload: "Vysoký výbušný náklad"
- generic_mio_trait_high_explosive_shells: "Granáty s vysokou výbušností"
+ generic_mio_trait_high_explosive_shells: "Granáty HE-Frag" # todo: CHANGED
  generic_mio_trait_high_frequency_direction_finding: "Vysokofrekvenční lokalizace"
  generic_mio_trait_high_octane_fuels: "Paliva s vysokým oktanovým číslem"
  generic_mio_trait_high_powered_engine: "Výkonný motor"
@@ -1128,7 +1127,7 @@
  generic_mio_trait_high_quality_optics: "Vysoce kvalitní optika"
  generic_mio_trait_high_speed_cruising: "Vysokorychlostní plavba"
  generic_mio_trait_high_speed_design: "Návrh pro vysokou rychlost"
- generic_mio_trait_high_speed_mine_hunting_equipment: "Vysoce rychlé zařízení pro lov min"
+ generic_mio_trait_high_speed_mine_hunting_equipment: "Vybavení pro rychlé odminování" # todo: CHANGED
  generic_mio_trait_high_speed_operation_stores: "Vysoce rychlé provozní zásoby"
  generic_mio_trait_high_speed_raiding: "Vysokorychlostní útočné akce"
  generic_mio_trait_high_speed_torpedo_release: "Vysokorychlostní vypouštění torpéd"
@@ -1137,7 +1136,7 @@
  generic_mio_trait_highly_efficient_diesel_electric_propulsion_systems: "Vysoce efektivní diesel-elektrické pohony"
  generic_mio_trait_improved_air_frame_strength: "Vylepšená pevnost trupu"
  generic_mio_trait_improved_anti_air_gun_mounting: "Vylepšené umístění protiletadlových děl"
- generic_mio_trait_improved_boogies: "Vylepšené podvozky"
+ generic_mio_trait_improved_boogies: "Vylepšená kola podvozku" # todo: CHANGED
  generic_mio_trait_improved_crew_ergonomics: "Vylepšená ergonomie posádky"
  generic_mio_trait_improved_direct_fire_targeting: "Vylepšené zaměřování přímé střelby"
  generic_mio_trait_improved_engine: "Vylepšený motor"
@@ -1153,8 +1152,8 @@
  generic_mio_trait_infantry_support_tanks: "Tanky podpory pěchoty"
  generic_mio_trait_integrated_armor_designs: "Integrované pancéřové konstrukce"
  generic_mio_trait_interceptor: "Stíhací letoun"
- generic_mio_trait_interleaved_track_wheels: "Prokládané kolíky pásů"
- generic_mio_trait_internal_armor_belt: "Vnitřní pás pancíře"
+ generic_mio_trait_interleaved_track_wheels: "Velká pojezdová kola" # todo: CHANGED
+ generic_mio_trait_internal_armor_belt: "Šikmý pancéřový pás" # todo: CHANGED
  generic_mio_trait_internal_torpedo_mountings: "Vnitřní upevnění torpéd"
  generic_mio_trait_isolated_firemains: "Izolované přívody palby"
  generic_mio_trait_land_mine_racks: "Nosiče pozemních min"
@@ -1164,17 +1163,17 @@
  generic_mio_trait_light_airframe: "Lehký trup"
  generic_mio_trait_light_anti_personnel_machinegun: "Lehký kulomet proti pěchotě"
  generic_mio_trait_light_armor_piercing_guns: "Kanóny k průniku pancíře"
- generic_mio_trait_light_assault_gun_10_5_iefh_ammunition: "Munice 10,5cm Leichte Feldhaubitze"
- generic_mio_trait_light_assault_gun_anti_tank_combo: "Výbušná protitanková munice"
- generic_mio_trait_light_assault_gun_improved_cannon_stabilization: "Vylepšená stabilizace děla"
- generic_mio_trait_light_assault_gun_improvements: "Mobilní dělostřelectvo"
+ generic_mio_trait_light_assault_gun_10_5_iefh_ammunition: "Vylepšení kompenzátoru zpětného rázu" # todo: CHANGED
+ generic_mio_trait_light_assault_gun_anti_tank_combo: "Vylepšená HEAP munice" # todo: CHANGED
+ generic_mio_trait_light_assault_gun_improved_cannon_stabilization: "Vylepšené HE náboje" # todo: CHANGED
+ generic_mio_trait_light_assault_gun_improvements: "Eskortní baterie pro pěchotu" # todo: CHANGED
  generic_mio_trait_light_flame_projectors: "Lehké plamenomety"
  generic_mio_trait_light_mortar: "Lehký minomet"
  generic_mio_trait_light_tank_specialization: "Specializace na lehké tanky"
  generic_mio_trait_light_weight_barrels: "Lehké hlavně"
  generic_mio_trait_liquid_cooled_engines: "Motory s kapalinovým chlazením"
  generic_mio_trait_long_barreled_guns: "Dlouhé hlavně"
- generic_mio_trait_long_distance_escort: "Dlouhodobá doprovodná ochrana vlaků"
+ generic_mio_trait_long_distance_escort: "Protiletadlový dělový vůz" # todo: CHANGED
  generic_mio_trait_long_range_cruising: "Dlouhý dolet plavby"
  generic_mio_trait_long_range_engagement_ethos: "Etos dlouhého doletu"
  generic_mio_trait_long_range_fighters: "Stíhací letouny s dlouhým doletem"
@@ -1192,7 +1191,7 @@
  generic_mio_trait_material_recycling: "Recyklace materiálů"
  generic_mio_trait_maximum_wing_loads: "Maximální zatížení křídel"
  generic_mio_trait_medium_airframe: "Střední trup"
- generic_mio_trait_medium_assault_gun_improvements: "Obrněné dělostřelectvo"
+ generic_mio_trait_medium_assault_gun_improvements: "Útočné dělostřelectvo" # todo: CHANGED
  generic_mio_trait_medium_machinegun_mounts: "Bočně upevněné střední kulomety"
  generic_mio_trait_medium_machineguns: "Výroba středních kulometů"
  generic_mio_trait_medium_tank_specialization: "Specializace na střední tanky"
@@ -1214,11 +1213,11 @@
  generic_mio_trait_navigation_equipment: "Navigační vybavení"
  generic_mio_trait_not_enough_guns_never_enough_guns: "Nikdy dost zbraní"
  generic_mio_trait_officer_support_car: "Podpůrné vozidlo důstojníků"
- generic_mio_trait_one_piece_hull_side_coverings: "Boční kryty trupu z jednoho kusu"
+ generic_mio_trait_one_piece_hull_side_coverings: "Modulární montáž" # todo: CHANGED
  generic_mio_trait_ongoing_developmental_upgrades: "Průběžné vývojové aktualizace"
- generic_mio_trait_open_chassi: "Otevřený podvozek"
+ generic_mio_trait_open_chassi: "Otevřený podvozek" # todo: CHANGED
  generic_mio_trait_open_cycle_propulsion: "Pohon s otevřeným cyklem"
- generic_mio_trait_overlapped_track_wheels: "Překryvné kolíky pásů"
+ generic_mio_trait_overlapped_track_wheels: "Malá pojezdová kola" # todo: CHANGED
  generic_mio_trait_oversized_propeller: "Nadměrná vrtule"
  generic_mio_trait_patrol_fuel_tanks: "Palivové nádrže pro hlídkování"
  generic_mio_trait_piercing_rounds: "Průbojné náboje"
@@ -1269,16 +1268,16 @@
  generic_mio_trait_simplified_suspension: "Zjednodušené zavěšení"
  generic_mio_trait_simplified_transmission_system: "Zjednodušený převodový systém"
  generic_mio_trait_simplified_turret_design: "Zjednodušený design věže"
- generic_mio_trait_single_engine: "Jednomotorový"
+ generic_mio_trait_single_engine: "Odolné motory" # todo: CHANGED
  generic_mio_trait_single_rotor_innovations: "Inovace jednokotoučových rotorů"
  generic_mio_trait_single_shot_man_portable_anti_tank_system: "Jednoranový přenosný protitankový systém"
  generic_mio_trait_skip_bombing: "Vybombardování skluzem"
  generic_mio_trait_sliding_breech_block: "Posuvný závěr"
  generic_mio_trait_sloped_side_armor: "Šikmý boční pancíř"
- generic_mio_trait_sloping_armor: "Šikmý pancíř"
+ generic_mio_trait_sloping_armor: "Šikmý pancíř" # todo: CHANGED
  generic_mio_trait_small_sidearms: "Malé ruční zbraně"
  generic_mio_trait_spaced_armor: "Prostorový pancíř"
- generic_mio_trait_specialist_shells: "Specializované střely"
+ generic_mio_trait_specialist_shells: "Munice APBC" # todo: CHANGED
  generic_mio_trait_splinter_protection: "Ochrana proti střepinám"
  generic_mio_trait_spotting_tops: "Vyhledávací plošiny"
  generic_mio_trait_stable_platforms: "Stabilní platformy"
@@ -1292,22 +1291,22 @@
  generic_mio_trait_stiffened_wings: "Zpevněná křídla"
  generic_mio_trait_strafing_techniques: "Techniky střelby na pozemní cíle"
  generic_mio_trait_streamlined_fuselage: "Aerodynamický trup"
- generic_mio_trait_submarine_hunters: "Lovci ponorek"
+ generic_mio_trait_submarine_hunters: "Optimalizace pro protiponorkový boj" # todo: CHANGED
  generic_mio_trait_submarine_hunters_black_sea: "Lovci ponorek Černého moře"
  generic_mio_trait_submarine_mass_production: "Masová výroba ponorek"
  generic_mio_trait_subsidiary_suppliers: "Dceřiní dodavatelé"
  generic_mio_trait_super_charges: "Nabíjení přeplněním"
- generic_mio_trait_super_heavy_shells: "Extra těžké granáty"
+ generic_mio_trait_super_heavy_shells: "Rázuvzdorný kryt" # todo: CHANGED
  generic_mio_trait_tactical_bomber_specialization: "Specializace na taktické bombardéry"
  generic_mio_trait_tactical_bombers: "Taktičtí bombardéři"
  generic_mio_trait_tandem_rotor_innovations: "Inovace tandemových rotorů"
  generic_mio_trait_thick_armor: "Silný pancíř"
  generic_mio_trait_transceiver_station: "Vysílačka"
- generic_mio_trait_transom_stern: "Čtvercově zakončený kýl"
+ generic_mio_trait_transom_stern: "Hydrodynamická vylepšení" # todo: CHANGED
  generic_mio_trait_transport_conversions: "Přestavby pro přepravu"
  generic_mio_trait_transport_duties: "Přepravní úkoly"
  generic_mio_trait_truck_engines: "Motory pro nákladní auta"
- generic_mio_trait_turret_sights: "Mířidla věže"
+ generic_mio_trait_turret_sights: "Zlepšená viditelnost velitelské kupoly" # todo: CHANGED
  generic_mio_trait_twin_tail: "Dvojitý ocas"
  generic_mio_trait_underway_replenishment_equipment: "Zařízení pro doplňování za plavby"
  generic_mio_trait_unescorted_raider_requirements: "Požadavky na nepřevážené útočníky"
@@ -1407,7 +1406,7 @@
  mio_policy_air_wind_tunnel_pioneers: "Průkopníci aerodynamických tunelů"
  mio_policy_general_assembly_line_optimisers: "Optimalizátoři montážní linky"
  mio_policy_general_experimental_development_teams: "Experimentální vývojové týmy"
- mio_policy_general_mechanical_genius: "Technický génius"
+ mio_policy_general_mechanical_genius: "Mechanický génius" # todo: CHANGED
  mio_policy_general_ruthless_contracts: "Tvrdé kontrakty"
  mio_policy_general_vertical_integration: "Vertikální integrace"
  mio_policy_land_armor_welding_specialists: "Specialisté na svařování pancíře"
@@ -1427,3 +1426,133 @@
  my_custom_mio_custom_1: "Má horní levá vlastnost"
  my_custom_mio_initial_trait: "Počáteční vlastnost"
  same_as_mio: "Všechna vybavení vojenských průmyslových organizací"
+ mio_cat_eq_all_tanks: "Veškeré tankové vybavení" # todo: NEW TRANSLATION
+ mio_cat_eq_all_ships_no_convoys: "Všechny válečné lodě" # todo: NEW TRANSLATION
+ mio_cat_eq_only_light_fighter_and_CAS_no_cv: "Stíhačky a CAS" # todo: NEW TRANSLATION
+ mio_cat_eq_all_artillery: "Veškeré dělostřelecké vybavení" # todo: NEW TRANSLATION
+ mio_cat_eq_all_infantry_and_support_equipment: "Veškeré pěchotní a podpůrné vybavení" # todo: NEW TRANSLATION
+ JAP_kokura_arsenal_organization: "$kokura_arsenal$" # todo: NEW TRANSLATION
+ JAP_tokyo_automobile_industries_organization: "$tokyo_automobile_industries$" # todo: NEW TRANSLATION
+ JAP_isuzu_motors_organization: "$isuzu_motors$" # todo: NEW TRANSLATION
+ JAP_sagami_army_arsenal_organization: "$sagami_army_arsenal$" # todo: NEW TRANSLATION
+ JAP_nagoya_arsenal_organization: "$nagoya_arsenal$" # todo: NEW TRANSLATION
+ JAP_kayaba_industry_organization: "$kayaba_industry$" # todo: NEW TRANSLATION
+ JAP_kawanishi_aircraft_company_organization: "$kawanishi_aircraft_company$" # todo: NEW TRANSLATION
+ JAP_hikari_naval_arsenal_organization: "$hikari_naval_arsenal$" # todo: NEW TRANSLATION
+ JAP_mitsubishi_heavy_industries_organization: "$mitsubishi_heavy_industries$" # todo: NEW TRANSLATION
+ JAP_hitachi_arms_department_organization: "$hitachi_arms_department$" # todo: NEW TRANSLATION
+ JAP_kawasaki_aircraft_industries_organization: "$kawasaki_aircraft_industries$" # todo: NEW TRANSLATION
+ JAP_mitsubishi_kobe_shipyard_organization: "$mitsubishi_kobe_shipyard$" # todo: NEW TRANSLATION
+ JAP_tachikawa_aircraft_company_organization: "$tachikawa_aircraft_company$" # todo: NEW TRANSLATION
+ JAP_kawasaki_dockyards_organization: "$kawasaki_dockyards$" # todo: NEW TRANSLATION
+ JAP_isuzu_motors: "Isuzu Motors" # todo: NEW TRANSLATION
+ JAP_kawasaki_dockyards_org_name: "Flotila pro útoky na letadlové lodě" # todo: NEW TRANSLATION
+ JAP_mio_trait_rapid_counterflooding_system: "Systém rychlého protizátápění" # todo: NEW TRANSLATION
+ JAP_generic_mio_trait_advanced_hydrodynamic_design: "Bulbová příď" # todo: NEW TRANSLATION
+ JAP_mio_trait_enhanced_optics: "Vylepšená optika" # todo: NEW TRANSLATION
+ JAP_mio_trait_armor_plating_to_hull_strength: "Pancéřování zvyšující pevnost trupu" # todo: NEW TRANSLATION
+ JAP_mio_trait_type_94_fire_control: "Řadič řízení palby Type 94 (HA)" # todo: NEW TRANSLATION
+ JAP_mio_trait_torpedo_reloads: "Doplňování torpéd" # todo: NEW TRANSLATION
+ JAP_mio_trait_type_97_torpedo_control_director: "Řadič řízení palby torpéd Type 97" # todo: NEW TRANSLATION
+ JAP_mio_trait_high_pressure_boilers: "Vysokotlaké kotle" # todo: NEW TRANSLATION
+ JAP_mio_trait_army_aircraft_manufacturer: "Výrobce armádních letadel" # todo: NEW TRANSLATION
+ JAP_mio_trait_unified_research_and_development: "Centralizovaný výzkum a vývoj" # todo: NEW TRANSLATION
+ JAP_mio_trait_unified_research_and_development_taken_flag: "$generic_has_already_completed_this_trait$" # todo: NEW TRANSLATION
+ JAP_mio_trait_type_91_aerial_torpedo_integration: "Integrace leteckých torpéd Type 91" # todo: NEW TRANSLATION
+ JAP_mio_trait_foreign_research_and_development_cooperation: "Zahraniční spolupráce ve výzkumu a vývoji" # todo: NEW TRANSLATION
+ JAP_mio_trait_foreign_research_and_development_cooperation_taken_flag: "$generic_has_already_completed_this_trait$" # todo: NEW TRANSLATION
+ JAP_mio_trait_strength_in_numbers: "Iniciativa masové výroby" # todo: NEW TRANSLATION
+ JAP_mio_trait_strength_in_numbers_taken_flag: "$generic_has_already_completed_this_trait$" # todo: NEW TRANSLATION
+ JAP_mio_trait_cooperation_with_kurogane: "Spolupráce s Tokyu Kogyo Kurogane" # todo: NEW TRANSLATION
+ JAP_mio_trait_military_arsenal_trait: "Armádní zbrojnice" # todo: NEW TRANSLATION
+ JAP_mio_trait_zaibatsu_production_capabilities_trait: "Výrobní kapacity zaibacu" # todo: NEW TRANSLATION
+ JAP_mio_trait_naval_arsenal_trait: "Námořní zbrojnice" # todo: NEW TRANSLATION
+ JAP_mio_trait_special_government_contracts_mitsubishi_trait: "Speciální vládní zakázky" # todo: NEW TRANSLATION
+ JAP_mio_trait_special_government_contracts_taken_flag: " Již dokončil tuto vlastnost v jiné organizaci Mitsubishi" # todo: NEW TRANSLATION
+ mitsubishi_trait_will_not_be_available_in_other_organizations: "§RTato vlastnost již nebude k dispozici v jiných organizacích Mitsubishi§!." # todo: NEW TRANSLATION
+ JAP_mio_trait_special_government_contracts_nissan_trait: "$JAP_mio_trait_special_government_contracts_mitsubishi_trait$" # todo: NEW TRANSLATION
+ JAP_mio_trait_special_government_contracts_nakajima_trait: "$JAP_mio_trait_special_government_contracts_mitsubishi_trait$" # todo: NEW TRANSLATION
+ CHI_camco_organization_sea: "$CHI_camco_1$" # todo: NEW TRANSLATION
+ CHI_sinaw_organization_sea: "SINAW" # todo: NEW TRANSLATION
+ CHI_shanghai_arsenal: "Šanghajská zbrojnice" # todo: NEW TRANSLATION
+ CHI_taiyuan_arsenal_organization_sea: "$CHI_taiyuan_arsenal_organization$" # todo: NEW TRANSLATION
+ CHI_liaoning_arsenal_organization_sea: "$CHI_liaoning_arsenal_organization$" # todo: NEW TRANSLATION
+ CHI_hanyan_arsenal_organization_sea: "$CHI_hanyan_arsenal_organization$" # todo: NEW TRANSLATION
+ CHI_mukden_arsenal_organization_sea: "$CHI_mukden_arsenal_organization$" # todo: NEW TRANSLATION
+ CHI_china_automobile_corporation_organization: "Čínská automobilová společnost" # todo: NEW TRANSLATION
+ CHI_kiangnan_shipyard_group_organization_sea: "Loděnice Kiangnan" # todo: NEW TRANSLATION
+ CHI_dagu_shipyard_organization_sea: "$CHI_dagu_shipyard_organization$" # todo: NEW TRANSLATION
+ CHI_jinling_arsenal_organization: "Jinlingská zbrojnice" # todo: NEW TRANSLATION
+ generic_mio_initial_trait_light_armored_manufacturer: "Výrobce lehkých obrněných vozidel" # todo: NEW TRANSLATION
+ generic_mio_trait_locally_sourced_alloys: "Místně získávané slitiny" # todo: NEW TRANSLATION
+ generic_mio_trait_reinforcing_plates: "Výztužné plechy" # todo: NEW TRANSLATION
+ generic_mio_trait_self_cycling_guns: "Samonabíjecí zbraně" # todo: NEW TRANSLATION
+ generic_mio_trait_superior_fuel_mix: "Lepší směs paliva" # todo: NEW TRANSLATION
+ generic_mio_trait_fully_auto_pistol: "Polosamoautomatické pistole" # todo: NEW TRANSLATION
+ generic_mio_trait_long_range_priority: "Priorita na dlouhý dosah" # todo: NEW TRANSLATION
+ generic_mio_trait_sufficient_armor: "Dostatečné pancéřování" # todo: NEW TRANSLATION
+ generic_mio_trait_simplified_hulls: "Zjednodušené trupy" # todo: NEW TRANSLATION
+ generic_mio_trait_modular_construction: "Modulární konstrukce" # todo: NEW TRANSLATION
+ generic_mio_trait_increased_amount_of_bulkheads: "Zvýšený počet přepážek" # todo: NEW TRANSLATION
+ CHI_local_bomber_production_tt: "Dokončil fokus §Y$CHI_local_bomber_production$§!" # todo: NEW TRANSLATION
+ CHI_local_fighter_production_tt: "Dokončil fokus §Y$CHI_local_fighter_production$§!" # todo: NEW TRANSLATION
+ CHI_camco_tt: "Dokončil fokus §Y$CHI_camco$§!" # todo: NEW TRANSLATION
+ CHI_chinese_panzers_TT: "Dokončil fokus §Y$CHI_chinese_panzers$§!" # todo: NEW TRANSLATION
+ PRC_factory_617_organization: "Továrna 617" # todo: NEW TRANSLATION
+ PRC_factory_617_early_mbt_trait: "Raná MBT" # todo: NEW TRANSLATION
+ PRC_first_tractor_company_organization: "První traktorová společnost" # todo: NEW TRANSLATION
+ PRC_first_tractor_company_peoples_tank_trait: "Lidový tank" # todo: NEW TRANSLATION
+ PRC_shipbuilding_industry_bureau_organization: "Úřad pro loděnický průmysl" # todo: NEW TRANSLATION
+ PRC_shipbuilding_industry_bureau_nascant_shipbuilding_trait: "Vznikající loděnictví" # todo: NEW TRANSLATION
+ PRC_dalian_shipbuilding_company_organization: "Společnost Dalian Shipbuilding" # todo: NEW TRANSLATION
+ PRC_dalian_shipbuilding_company_carrier_learners: "Program vývoje letadlových lodí" # todo: NEW TRANSLATION
+ PRC_dalian_shipbuilding_company_domestic_carriers_trait: "Domácí program letadlových lodí" # todo: NEW TRANSLATION
+ PRC_dalian_shipbuilding_company_mass_production_carriers_trait: "Hromadná výroba letadlových lodí" # todo: NEW TRANSLATION
+ PRC_peoples_aviation_company_of_china_organization: "Lidová letecká společnost Číny" # todo: NEW TRANSLATION
+ PRC_peoples_aviation_company_of_china_power_of_monopoly_trait: "Síla monopolu" # todo: NEW TRANSLATION
+ PRC_shenyang_aircraft_corporation_organization: "Společnost Shenyang Aircraft" # todo: NEW TRANSLATION
+ PRC_shenyang_aircraft_corporation_domestic_jet_manufacturer_trait: "Domácí výrobce proudových letadel" # todo: NEW TRANSLATION
+ PRC_harbin_aircraft_industry_group_organization: "Skupina Harbin Aircraft Industry" # todo: NEW TRANSLATION
+ PRC_harbin_aircraft_industry_group_harbin_aircraft_manufacturing_plant_trait: "Harbinský závod na výrobu letadel" # todo: NEW TRANSLATION
+ PRC_harbin_aircraft_industry_group_factory_122_trait: "Továrna 122" # todo: NEW TRANSLATION
+ PRC_harbin_aircraft_industry_group_organization_non_gtd: "Harbin Aircraft Industry Group" # todo: NEW TRANSLATION
+ PRC_ordenance_bureau_organization: "Úřad pro zbrojní materiál" # todo: NEW TRANSLATION
+ PRC_ordenance_bureau_central_planning_trait: "Centrální plánování" # todo: NEW TRANSLATION
+ PRC_huangyadong_arsenal_organization: "Huangyadongská zbrojnice" # todo: NEW TRANSLATION
+ PRC_huangyadong_arsenal_cave_industry_trait: "Jeskynní průmysl" # todo: NEW TRANSLATION
+ PRC_huangyadong_arsenal_jewell_in_the_crown_trait: "Klenot v koruně" # todo: NEW TRANSLATION
+ PRC_cmc_military_industry_bureau_organization: "Úřad vojenského průmyslu Ústřední vojenské komise" # todo: NEW TRANSLATION
+ PRC_cmc_military_industry_bureau_center_of_the_red_arsenal_trait: "Centrum Rudé zbrojnice" # todo: NEW TRANSLATION
+ PRC_first_automative_works_organization: "První automobilka" # todo: NEW TRANSLATION
+ PRC_first_automative_works_organization_non_lar: "First Automotive Works" # todo: NEW TRANSLATION
+ PRC_first_automative_works_soviet_advisors_trait: "Sovětští poradci" # todo: NEW TRANSLATION
+ PRC_harbin_aircraft_industry_group_organization_header: "Vrtulníky" # todo: NEW TRANSLATION
+ PRC_dalian_shipbuilding_company_organization_header: "Program letadlových lodí" # todo: NEW TRANSLATION
+ PRC_shipbuilding_industry_bureau_organization_header: "Průmysl" # todo: NEW TRANSLATION
+ PRC_huangyadong_arsenal_organization_header: "Průmysl" # todo: NEW TRANSLATION
+ PRC_shenyang_aircraft_corporation_factory_112_trait: "Továrna 112" # todo: NEW TRANSLATION
+ PRC_peoples_aviation_company_of_china_transport_planes_trait: "Flotila Ilyushin" # todo: NEW TRANSLATION
+ PRC_shipbuilding_industry_bureau_office_of_the_science_technology_committee_trait: "Úřad výboru pro vědu a technologie" # todo: NEW TRANSLATION
+ PHI_mio_trait_rugged_construction: "Robustní konstrukce" # todo: NEW TRANSLATION
+ PHI_mio_trait_use_local_materials: "Využití místních materiálů" # todo: NEW TRANSLATION
+ PHI_mio_trait_naval_caliber_artillery: "Dělostřelectvo námořního kalibru" # todo: NEW TRANSLATION
+ PHI_mio_trait_civilian_smugglers: "Civilní pašeráci" # todo: NEW TRANSLATION
+ PHI_mio_trait_ethanol_fuel_adaptations: "Úpravy na etanolové palivo" # todo: NEW TRANSLATION
+ PHI_mio_trait_coconut_fuel_adaptations: "Úpravy pro kokosové palivo" # todo: NEW TRANSLATION
+ PHI_mio_trait_coastal_specialization: "Pobřežní specializace" # todo: NEW TRANSLATION
+ PHI_mio_trait_employ_civilian_cargo: "Využití civilních nákladních lodí" # todo: NEW TRANSLATION
+ PHI_mio_trait_ad_hoc_armor_reinforcement: "Ad hoc posílení pancéřování" # todo: NEW TRANSLATION
+ PHI_mio_trait_widened_tracks: "Rozšířené pásy" # todo: NEW TRANSLATION
+ PHI_mio_trait_widened_tires: "Rozšířené pneumatiky" # todo: NEW TRANSLATION
+ PHI_mio_trait_improvised_bombs: "Improvizované bomby" # todo: NEW TRANSLATION
+ PHI_mio_trait_engine_filters: "Filtry motoru" # todo: NEW TRANSLATION
+ JAP_generic_mio_trait_rapid_fire_guns: "Trojitá protiletadlová lafeta Type 95 25mm" # todo: NEW TRANSLATION
+ JAP_generic_mio_trait_high_velocity_guns: "Spolehlivé zapalovače pro průbojné střely (AP)" # todo: NEW TRANSLATION
+ JAP_generic_mio_trait_hardened_critical_components: "Důkladné členění strojních celků" # todo: NEW TRANSLATION
+ JAP_generic_mio_trait_primary_battery_layout: "Pokročilá balistika" # todo: NEW TRANSLATION
+ JAP_generic_mio_trait_submarine_hunters: "Protiponorkové pumy Type 2" # todo: NEW TRANSLATION
+ JAP_generic_mio_trait_high_speed_mine_hunting_equipment: "Střední odminovací výzbroj Type 3" # todo: NEW TRANSLATION
+ JAP_generic_mio_trait_fleet_escorts: "Kvalitativní převaha" # todo: NEW TRANSLATION
+ JAP_generic_mio_trait_escort_in_force: "Krytá dělová lafeta" # todo: NEW TRANSLATION
+ JAP_generic_mio_trait_mass_production: "Svařovaná bloková konstrukce" # todo: NEW TRANSLATION
+ JAP_generic_mio_trait_improved_light_gun_mounting: "Trojitá protiletadlová lafeta Type 95 25mm" # todo: NEW TRANSLATION

@@ -115,7 +115,7 @@
  FIN_embraced_by_the_white_death_desc: "Simo Häyhä, navzdory několika setkáním se smrtí, dál uvaluje na naše nepřátele chladné objetí smrti a strachu."
  FIN_fascist_regime: "Fašistický režim"
  FIN_fascist_regime_desc: "$FIN_a_fascist_regime$"
- FIN_finnish_airforce: "Finské letectvo"
+ FIN_finnish_airforce: "Finské letectvo" # todo: CHANGED
  FIN_finnish_airforce_desc: "Navzdory malé velikosti a omezeným prostředkům se finské letectvo může pochlubit kádrem schopných pilotů a vynalézavých konstruktérů, kteří si své řemeslo vybrousili roky experimentů a improvizace. Díky houževnatosti a ochotě přizpůsobovat se měnícím se podmínkám si finské letectvo vybudovalo pověst síly, se kterou je třeba počítat - síly, jež bude bránit svou vlast se stejnou odvahou a zarputilostí jako pozemní vojska."
  FIN_finnish_airforce_dynamic_modifier_tt: "[GetCasOrFighterDesignsTooltip][GetNavalAirforceTooltip]"
  FIN_finnish_army: "Finská armáda"

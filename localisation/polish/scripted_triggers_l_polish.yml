@@ -7,3 +7,5 @@
  state_is_fully_controlled_by_ROOT_or_subject_tt:0 "Je plně řízena §Y[ROOT.GetFlag][ROOT.GetNameDef]§! nebo jakýmkoli §Y[ROOT.GetAdjective] závislým uzemím§!"
  state_is_fully_controlled_by_ROOT_subject_or_faction_member_tt: "Stát ovláda §Y[ROOT.GetFlag][ROOT.GetNameDef]§!, jakékoliv jeho §Y[ROOT.GetAdjective] závislé uzemí§! nebo §Yčlen frakce§!"
  is_not_controlled_by_ROOT_or_ally: "§YNeovládá§! ho §H[Root.GetNameDef]§! nebo jednen z jeho spojenců."
+ state_is_fully_controlled_by_ROOT_or_subject_tt_NOT: "NE: $state_is_fully_controlled_by_ROOT_or_subject_tt$" # todo: NEW TRANSLATION
+ state_is_fully_controlled_by_ROOT_subject_or_faction_member_tt_NOT: "NE: $state_is_fully_controlled_by_ROOT_subject_or_faction_member_tt$"" # todo: NEW TRANSLATION

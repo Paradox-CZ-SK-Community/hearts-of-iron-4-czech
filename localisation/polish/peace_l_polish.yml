@@ -282,3 +282,6 @@
  WAIT_END_TURN:1 "Zvažování"
  WAR_REPARATION_FACOTRY_USE_DESCRIPTION:0 "Válečné reparace pro @$TAG$$COUNTRY|Y$"
  peace_conference_spiritual_mob_modifier_japan:0 "\nPokud se věci nevyvinou nutně v náš prospěch, stane se výrazně §Hnákladnější§! pro zahraniční národy §Hanektovat§! naše území na §H Domovských ostrovech§!."
+ PEACE_COST_BREAKDOWN_MODIFIER_FACTION_POWER_PROJECTION: "Projekce síly frakce: $PERC$" # todo: NEW TRANSLATION
+ PEACE_WAR_SCORE_REDISTRIBUTION_FROM_TOP_FACTION_INFLUENCE: "Obdrženo za to, že jste mezi nejlepšími $AMOUNT|Y$ z hlediska vlivu ve vaší frakci" # todo: NEW TRANSLATION
+ PEACE_WAR_SCORE_REDISTRIBUTION_TO_TOP_FACTION_INFLUENCE: "Přiděleno nejvlivnějším $AMOUNT|Y$ z vaší frakce" # todo: NEW TRANSLATION

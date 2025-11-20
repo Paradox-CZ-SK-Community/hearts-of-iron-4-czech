@@ -56,3 +56,4 @@
  tactic_sf_fortify: "Zpevněná obrana"
  tactic_sf_defense: "Městská obrana"
  tactic_sf_barrage: "Palebná příprava ulice po ulici"
+ tactic_grand_banzai_charge: "Velký banzajský útok" # todo: NEW TRANSLATION

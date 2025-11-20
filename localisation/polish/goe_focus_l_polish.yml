@@ -36,7 +36,7 @@
  AFG_approach_foreign_inteligence_services_desc: "Sedíme na křižovatce velmocí a dlouho jsme byli jejich velkou hrou. Pokud založíme vlastní zpravodajskou službu, můžeme využít naši specifickou situaci a hrát sousedy proti sobě."
  AFG_asymmetric_warfare: "Asymetrická válka"
  AFG_asymmetric_warfare_desc: "Zatímco naši sousedé házejí svou tradici za hlavu v honbě za industrializací a většími armádami, my je překonáme použitím nekonvenčních taktik a lepší znalostí terénu. Spojeno s odhodláním našich vojáků odrazíme každou invazi."
- AFG_axis_airforce: "Letecké síly Osy"
+ AFG_axis_airforce: "Letectvo Osy" # todo: CHANGED
  AFG_axis_airforce_desc: "Po úzké spolupráci s [GER.GetAdjective] letectvem věříme, že bychom mohli vytvořit funkční sílu naším způsobem. Potřebujeme jen vybavení."
  AFG_axis_equipment: "Výzbroj Osy"
  AFG_axis_equipment_desc: "Naše vojenské vybavení je směs variant z různých zemí. S pomocí [GER.GetAdjective] konečně můžeme vše standardizovat a zároveň modernizovat."
@@ -793,7 +793,7 @@
  IRQ_strengthen_the_iraqi_dinar_KUR: "Posílit kurdský dinár"
  IRQ_strengthen_the_iraqi_dinar_desc: "Nyní, když jsme získali kontrolu nad naší měnou od [ENG.GetAdjective], můžeme konečně stanovit vlastní měnovou politiku způsobem, který prospívá domácí ekonomice."
  IRQ_support_from_skies_above: "Podpora z nebes"
- IRQ_support_from_skies_above_desc: "Vzhledem ke okolnostem spoléhat jen na pěchotu a pozemní jednotky by bylo nerozumné. Vybudování letectva sice bude stát hodně, ale je to opatření, které musíme přijmout."
+ IRQ_support_from_skies_above_desc: "Vzhledem na prostředí, které nás obklopuje, by bylo nerozumné spoléhat se výhradně na pěchotu a pozemní jednotky. Ačkoliv snaha vybudovat letectvo bude pravděpodobně nákladná, je to opatření, které musíme přijmout." # todo: CHANGED
  IRQ_support_from_skies_above_tt: "Být ve frakci s §Y[SOV.GetNameWithFlag]§! a mít §YZblízka podporující letecké jednotky§! přidá §Y50 Zblízka podporujících letadel§! pro §Y[ROOT.GetNameWithFlag]§!"
  IRQ_support_from_the_mountains: "Horská expertíza"
  IRQ_support_from_the_mountains_desc: "Obklopeni několika drsnými horskými pásmy bude výcvik a vybavení přizpůsobené bojům v těchto oblastech velkou pomocí. Počáteční náklady nemusí být odradzující."
@@ -981,7 +981,7 @@
  PER_entice_foreign_investment_desc: "Naše ekonomika má obrovský potenciál růstu díky bohatým přírodním zdrojům a rostoucímu městskému obyvatelstvu hledajícímu práci. Potřebujeme však větší investice ze zahraničí, abychom nastartovali tento růst."
  PER_establish_air_academy: "Založit leteckou akademii"
  PER_establish_air_academy_desc: "Máme základní pilotní výcvik pro vstup do letectva, ale potřebujeme specializovanější vzdělání, abychom byli skutečnými pány oblohy. Zřízení oficiální letecké akademie v Teheránu tento proces urychlí a zajistí kvalitní výcvik pilotů."
- PER_establish_airforce: "Založit letectvo"
+ PER_establish_airforce: "Zřídit letectvo" # todo: CHANGED
  PER_establish_airforce_desc: "Císařské [PER.Adjective] letectvo bylo oficiálně založeno v roce 1920 Reza Šáhem Pahlavím. Nyní, když hrozí světová válka, bychom měli upevnit schopnost země zapojit se do bojů na obloze, abychom zajistili bezpečnost [PER.GetNameDef] na desítky let."
  PER_establish_immortal_legion_tt: "Odemkne vzor divize §YNesmrtelné legie§! a nábor §Ytří§! jednotek v §Y[ROOT.capital.GetCapitalVictoryPointName]§!"
  PER_establish_motor_arms: "Založit průmysl motorových zbraní"
@@ -1154,7 +1154,7 @@
  PER_iranian_socialist_revolution: "Íránská socialistická revoluce"
  PER_iranian_socialist_revolution_desc: "Přišel čas, aby íránská dělnická třída povstala a zničila slabý šáhovský režim a jeho buržoazní vykonavatele. Na jejich místo povstane nový dělnický a sedlácký stát řízený samotným lidem."
  PER_islamic_restoration: "Odpor proti Gharbzadegi"
- PER_islamic_restoration_desc: "Nedávný zápal pro westernizaci narušuje samotné základy naší islámské kultury a íránské společnosti. Vláda musí proto více omezit přístup k západním neřestem a jejich nevěroucím ideologiím."
+ PER_islamic_restoration_desc: "Nedávné nadšení pro westernizaci podkopává samotné základy naší islámské kultury a íránské společnosti jako celku. Vláda proto musí více omezit přístup k západním neřestem a jejich bezbožným ideologiím." # todo: CHANGED
  PER_islamic_revolution: "Islámská revoluce"
  PER_islamic_revolution_desc: "Dny Šáha jsou sečteny. Mešity volají po změně, ulice už mu neslouží. Starý řád padne."
  PER_islamic_revolution_tt: "Spustí §RObčanskou válku§! mezi [PER.GetNameDef] a islámskými revolucionáři!"
@@ -1239,7 +1239,7 @@
  PER_pan_iranianism_desc: "Za našimi hranicemi zůstávají enklávy íránských národů, což nemůže být tolerováno. Nastal čas podporovat větší íránskou identitu a začít propagovat sjednocení našeho lidu."
  PER_path_through_iraq: "Probojovat cestu přes Irák"
  PER_path_through_iraq_desc: "[IRQ.GetNameDefCap] je naší branou k dobytí Severní Afriky a musí padnout jako první. S Bagdádem tak blízko u hranic by neměl být problém proniknout do země a ustavit náš nárok na jejich území."
- PER_perfect_iranian_airforce: "Zdokonalit [PER.GetAdjective] letectvo"
+ PER_perfect_iranian_airforce: "Zdokonalit [PER.GetAdjective] letectvo" # todo: CHANGED
  PER_perfect_iranian_airforce_desc: "Se všemi zdroji a časem investovanými do rozvoje naší letecké síly je načase tvrdit, že máme jedno z nejefektivnějších letectev na světě. Nic nepřekoná dovednosti našich pilotů a dokonalost našich letadel."
  PER_persian_german_trade: "Perská-německá obchodní komora"
  PER_persian_german_trade_desc: "[GER.GetNameDefCap] se opět rychle industrializoval po své porážce ve Velké válce. To by byl skvělý příklad, který bychom měli následovat, když se snažíme modernizovat [PER.GetNameDef]. Zdá se, že jejich nový vůdce si nás také váží, což umožňuje hladký přechod k navázání pozitivních vztahů."
@@ -2252,7 +2252,7 @@
  RAJ_seek_intial_funding_unlock_tt: "Odemkne §Y$RAJ_seek_intial_funding$§! fokus\n\n"
  RAJ_seek_japanese_support: "Hledat japonskou podporu"
  RAJ_seek_japanese_support_desc: "Nepřítel mého nepřítele může být naším nejsilnějším spojencem. Hledáním japonské podpory můžeme získat přístup ke zdrojům, výcviku a lidské síle pro boj proti britské nadvládě. Cesta je riziková, ale taková aliance může obrátit osud ve náš prospěch."
- RAJ_seek_japanese_support_tt: "Když začne válka za nezávislost, [JAP.GetName] nám poskytne:\n§Y120§! B4Y námořních bombardérů\n§Y135§! [Jap.GetAdjective]Ki-10 meziválečných stíhaček\nJejich odpovídající návrhy a\n"
+ RAJ_seek_japanese_support_tt: "Když začne válka za nezávislost, [JAP.GetNameDef] nám poskytne:\n§Y120§! B4Y Naval Bombers\n§Y135§! [Jap.GetAdjective]Ki-10 meziválečné stíhačky\nJejich odpovídající návrhy a\n" # todo: CHANGED
  RAJ_seven_shackles: "Sedm pout"
  RAJ_seven_shackles_2: "Čtvrté až šesté ze sedmi pout"
  RAJ_seven_shackles_desc: "Vyavasaybandi omezuje Indy ve svobodné volbě povolání, váže je na vykořisťovatelské systémy. Zrušením tohoto pouta osvobodíme pracovníky a umožníme jim přispět k opravdu nezávislé a spravedlivé ekonomice."
@@ -2566,3 +2566,4 @@
  revolutionary_mass_assault: "Revoluční hromadný útok"
  tech_recon_focus_bonus_tt: "£GFX_unit_recon_icon_small $category_recon$\nPrůzkum: §G+200%§!"
  unlock_decisions_silk_road_tt: "Odemkne rozhodnutí k získání jádra na více území §YHedvábné stezky§!"
+ RAJ_indian_prosperity_sphere: "Indická sféra prosperity" # todo: NEW TRANSLATION
