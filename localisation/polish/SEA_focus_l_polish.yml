@@ -310,7 +310,7 @@
  JAP_oppose_the_zaibatsus_tt: "Když se duch vyprší:\n" # todo: NEW TRANSLATION
  JAP_give_it_your_all_for_the_emperor: "Dej vše pro císaře!" # todo: NEW TRANSLATION
  JAP_give_it_your_all_for_the_emperor_desc: "[ROOT.GetAdjective] člověk je pilný pracovník, který horlivě věří v našeho velkého císaře. Měli bychom to propagovat a povýšit poctivou práci a pracovitost jako jádro [ROOT.GetAdjective] společnosti." # todo: NEW TRANSLATION
- JAP_give_it_your_all_for_the_emperor_tt: "Odemkne rozhodnutí ke Konstrukci §G1§! §YCivilní továrny§! v počátečních jádrových provinciích s úrovní §Y4§! nebo vyšší §YInfrastruktury§!. \n§RToto rozhodnutí lze v každé provincií provést pouze jednou§!" # todo: NEW TRANSLATION
+ JAP_give_it_your_all_for_the_emperor_tt: "Odemkne rozhodnutí ke Konstrukci §G1§! §YCivilní továrny§! v počátečních domovských provinciích s úrovní §Y4§! nebo vyšší §YInfrastruktury§!. \n§RToto rozhodnutí lze v každé provincií provést pouze jednou§!" # todo: NEW TRANSLATION
  JAP_revitalize_rural_areas: "Oživit venkovské oblasti" # todo: NEW TRANSLATION
  JAP_revitalize_rural_areas_desc: "Mnoho mladých důstojníků v našem hnutí pochází z chudých venkovských rodin. Abychom si udrželi jejich podporu, měli bychom zastavit vylidňování venkova a oživit venkovské oblasti." # todo: NEW TRANSLATION
  JAP_nationalize_western_corporations: "Zkonfiskovat západní korporace" # todo: NEW TRANSLATION
@@ -349,7 +349,7 @@
  JAP_subdue_the_kwantung_army_tt: "§GVláda§! nad §YKwantungskou armádou§! a zajišťuje, že nemohou jednat nezávisle na přáních naší vlády" # todo: NEW TRANSLATION
  JAP_subdue_the_kwantung_army_2_tt: "Několik §YGénralů Kwantungské armády§! je degradováno a penzionováno z aktivní služby:" # todo: NEW TRANSLATION
  JAP_hasten_the_integration_of_taiwan: "Urchlit integraci Tchaj-wanu" # todo: NEW TRANSLATION
- JAP_hasten_the_integration_of_taiwan_desc: "Naše integrační úsilí na Tchaj-wanu probíhá dobře, s jen několika hlavními zádrhely. Ostrov se časem stane stejně jádrovou součástí Japonska jako Rjúkjú. Měli bychom však pospíšit, pokud chceme brzy přesměrovat pozornost na jiné regiony." # todo: NEW TRANSLATION
+ JAP_hasten_the_integration_of_taiwan_desc: "Naše integrační úsilí na Tchaj-wanu probíhá dobře, s jen několika hlavními zádrhely. Ostrov se časem stane stejně domovskou součástí Japonska jako Rjúkjú. Měli bychom však pospíšit, pokud chceme brzy přesměrovat pozornost na jiné regiony." # todo: NEW TRANSLATION
  JAP_integrate_the_government_general: "Integrovat Generální správu" # todo: NEW TRANSLATION
  JAP_integrate_the_government_general_desc: "Autonomie Generální správy Chōsen byla velká chyba. Nechali zde existovat odbojové hnutí příliš dlouho, ničíce naše průmysly v oblasti. Musíme přímo zasáhnout a dát korejská území pod přímou kontrolu centrální vlády." # todo: NEW TRANSLATION
  JAP_integrate_the_government_general_tt: "Odemkne rozhodnutí k §YIntegraci korejských států§! jakmile budou mít dostatečnou poslušnost" # todo: NEW TRANSLATION
@@ -1012,7 +1012,7 @@
  PRC_USA_more_willing_to_send_lend_lease_tt: "§Y[USA.GetNameWithFlag]§! bude ochotnější posílat Lend-Lease" # todo: NEW TRANSLATION
  PRC_unlock_complete_infiltration_tt: "Odemkne §Yúroveň 3 $PRC_infiltration_sea_cat$§! rozhodnutí:" # todo: NEW TRANSLATION
  PRC_neighboring_SOV_tt: "§Y[ROOT.GetName]§! musí mít přímé nebo nepřímé hranice přes členy §Yfrakce§! s §Y[SOV.GetName]§!" # todo: NEW TRANSLATION
- PRC_request_territory_tt: "Požaduje, aby byly §Yjádrové státy§! předány do naší správy, pokud je §Yneovládá§! jejich současný správce nebo pokud je jejich vlastník §Y[ROOT.GetRulingIdeology]§!. \nAktuální efekt:" # todo: NEW TRANSLATION
+ PRC_request_territory_tt: "Požaduje, aby byly §Ydomovské území§! předány do naší správy, pokud je §Yneovládá§! jejich současný správce nebo pokud je jejich vlastník §Y[ROOT.GetRulingIdeology]§!. \nAktuální efekt:" # todo: NEW TRANSLATION
  PRC_said_no_to_cuf: "Odmítnutí Druhého sjednoceného frontu" # todo: NEW TRANSLATION
  PRC_put_an_end_to_the_sufan: "Ukončit Sufan" # todo: NEW TRANSLATION
  PRC_put_an_end_to_the_sufan_desc: "Když jsme dorazili do [622.GetName], místní vedení Ústředního výboru politbyra Liu Zhidan a ostatní lokální představitelé byli v procesu čistky v rámci protikontrarevoluční kampaně. $PRC_bo_gu$ bude pověřen ukončením tohoto nesmyslu." # todo: NEW TRANSLATION
@@ -1063,7 +1063,7 @@
  PRC_establish_friendly_bases: "Zřídit základny za nepřátelskými liniemi" # todo: NEW TRANSLATION
  PRC_establish_friendly_bases_desc: "Velké množství civilistů na okupovaném území našim infiltrátorům umožňuje snadno splynout s okolím při páchání sabotáží." # todo: NEW TRANSLATION
  PRC_establish_friendly_bases_1_tt: "Odemkne rozhodnutí: §YZřídit sabotážní operace§!" # todo: NEW TRANSLATION
- PRC_establish_friendly_bases_2_tt: "§RStáty okupované nepřítelem§!, které mají §Y$PRC_guerilla_cells_active_2$§! nebo jsou §Yjádrovým státem§! subjektu s cizím nadvládcem, nyní mohou získat §Y$PRC_anti_japanese_base$§!" # todo: NEW TRANSLATION
+ PRC_establish_friendly_bases_2_tt: "§RStáty okupované nepřítelem§!, které mají §Y$PRC_guerilla_cells_active_2$§! nebo jsou §Ydomovským územím§! subjektu s cizím nadvládcem, nyní mohou získat §Y$PRC_anti_japanese_base$§!" # todo: NEW TRANSLATION
  PRC_secure_the_peoples_support: "Zajistit podporu lidu" # todo: NEW TRANSLATION
  PRC_secure_the_peoples_support_desc: "I když nemáme kontrolu nad většinou Číny, musíme zajistit loajalitu jejích obyvatel pro případ, že by znovu vypukla občanská válka." # todo: NEW TRANSLATION
  PRC_secure_the_peoples_support_tt: "Odemkne všechny §Y3 úrovně§! rozhodnutí §Y$PRC_infiltration_sea_cat$§!." # todo: NEW TRANSLATION
@@ -1567,7 +1567,7 @@
  CHI_unify_as_the_china_democratic_league_desc: "Jako roztroušené malé skupiny nemůžeme čelit Kuomintangu, ale kdybychom se sjednotili, mohli bychom mít šanci. Kdo nás ale povede?" # todo: NEW TRANSLATION
  CHI_continue_the_ding_xian_experiment: "Pokračovat v experimentu Ding Xian" # todo: NEW TRANSLATION
  CHI_continue_the_ding_xian_experiment_desc: "Projekt Ding Xian v rámci Venkovské obnovy byl doposud sponzorován Hnutím pro masové vzdělávání Jamese Yena. Používaný jako sociální laboratoř vyvinul a ukázal způsoby, jak zvýšit životní úroveň, zdraví, politickou odpovědnost a kulturu na čínském venkově. Měli bychom tento program financovat, abychom přinesli modernizaci na venkov." # todo: NEW TRANSLATION
- CHI_continue_the_ding_xian_experiment_tt: "\n§YElektrifikace a Masové vzdělávání§! se bude časem rozšiřovat z §YHebei a Hunan§!, každé druhé měsíce získá jeden nový jádrový stát tento modifikátor." # todo: NEW TRANSLATION
+ CHI_continue_the_ding_xian_experiment_tt: "\n§YElektrifikace a Masové vzdělávání§! se bude časem rozšiřovat z §YHebei a Hunan§!, každé druhé měsíce získá jedno nové domovské území tento modifikátor." # todo: NEW TRANSLATION
  CHI_minsheng_focus: "Princip Minsheng" # todo: NEW TRANSLATION
  CHI_minsheng_focus_desc: "Moderní stát pečuje o své občany, aby v čase potřeby byli schopní a ochotní ho bránit. Proto musíme vykonat princip Minsheng a zajistit, aby všem občanům bylo poskytováno sociální zabezpečení." # todo: NEW TRANSLATION
  CHI_minzu_focus: "Princip Minzu" # todo: NEW TRANSLATION
@@ -1579,7 +1579,7 @@
  CHI_demand_regional_adherence_tt: "Odemkne rozhodnutí §YRozvíjet§! regiony ovládané válkami pány a vynutit jejich dodržování Tří principů lidu, zvýší jejich §Ydemokratickou§! podporu a nakonec je §Ypodrobí a integruje§!" # todo: NEW TRANSLATION
  CHI_zhonghua_minzu_focus: "Zhonghua Minzu" # todo: NEW TRANSLATION
  CHI_zhonghua_minzu_focus_desc: "Teď, když váleční pánové a regionální guvernéři byli přivedeni pod naši kontrolu, je čas zahájit řádné znovusjednocení a dívat se ven. Mnohé z našich práva náležících území byly ztraceny ve prospěch nacionalistického nepořádku a cizích mocností, a nyní musíme udělat vše, co je v našich silách, abychom je přivedli zpět do světla republiky." # todo: NEW TRANSLATION
- CHI_zhonghua_minzu_focus_tt: "Odemkne rozhodnutí pro převzetí jádrových států [MON.GetFlag] §Y[MON.GetAdjective]§!, [TAN.GetFlag] §Y[TAN.GetAdjective]§! a [TIB.GetFlag] §Y[TIB.GetAdjective]§!" # todo: NEW TRANSLATION
+ CHI_zhonghua_minzu_focus_tt: "Odemkne rozhodnutí pro převzetí domovských území [MON.GetFlag] §Y[MON.GetNameDef]§!, [TAN.GetFlag] §Y[TAN.GetNameDef]§! a [TIB.GetFlag] §Y[TIB.GetNameDef]§!" # todo: NEW TRANSLATION
  CHI_zhonghua_minzu_focus_2_tt: "Nahrazuje §Y$CHI_the_political_tutelage_dm$§! za §Y$CHI_the_political_tutelage_upgraded_dm$§!, účinná změna:" # todo: NEW TRANSLATION
  CHI_toward_a_socialist_economy: "Ke socialistické ekonomice" # todo: NEW TRANSLATION
  CHI_toward_a_socialist_economy_desc: "Abychom skutečně změnili naši společnost k lepšímu, musíme změnit tok peněz a odstranit hlavy korporací, které své pozice získaly jen díky protekci. Pracující člověk bude opět mít slovo ve své zemi a všichni [ROOT.GetAdjective] budou rovni!" # todo: NEW TRANSLATION
@@ -2167,7 +2167,7 @@
  CHI_develop_the_chemical_industry_desc: "Jedním z největších počinů moderní civilizace je ovládnutí přírody prostřednictvím chemie. Od zemědělství po výrobu může chemický průmysl posílit společnost - náš je však zatím teprve v plenkách. Pokud bychom tyto odvětví rozšířili, nelze předvídat, čeho bychom dosáhli." # todo: NEW TRANSLATION
  CHI_grow_the_coal_industry: "Rozvíjet uhelný průmysl" # todo: NEW TRANSLATION
  CHI_grow_the_coal_industry_desc: "Uhlí pohání naše továrny, vlaky a pece. Abychom udrželi zemi v chodu a posílili naši ekonomickou sílu, musíme najít nové zdroje energie. Národní komise pro suroviny identifikovala několik ložisek, která bychom měli těžit." # todo: NEW TRANSLATION
- CHI_grow_the_coal_industry_tt1: "Získat dodatečné §YUhlí§! v našich jádrových provinciích a ve spřátelených válečnických státech" # todo: NEW TRANSLATION
+ CHI_grow_the_coal_industry_tt1: "Získat dodatečné §YUhlí§! v našich domovskýchých provinciích a ve spřátelených válečnických státech" # todo: NEW TRANSLATION
  CHI_grow_the_coal_industry_tt2: "Odemkne rozhodnutí pro průzkum §YUhlí§! v našich a spřátelených válečnických státech" # todo: NEW TRANSLATION
  CHI_tungsten_and_antimony_extraction: "Těžba wolframu a antimonu" # todo: NEW TRANSLATION
  CHI_tungsten_and_antimony_extraction_desc: "Strategické kovy přinášejí strategická vítězství a my máme rozsáhlá ložiska — ložiska, která lze dobře využít, kdybychom dokázali rudy vytěžit." # todo: NEW TRANSLATION
@@ -2728,7 +2728,7 @@
  XSM_strike_at_the_detractors_desc: "Ostatním členům rodiny nelze důvěřovat a oznámení našich záměrů by jim jen dalo čas se připravit. Měli bychom udeřit první a až pak se ptát." # todo: NEW TRANSLATION
  XSM_a_united_ma_state: "Sjednocený stát Ma" # todo: NEW TRANSLATION
  XSM_a_united_ma_state_desc: "S celou rodinou sjednocenou pod jedním praporem jsme nyní síla, se kterou je třeba počítat, jak lokálně, tak mezinárodně. Ma klika vydrží tisíc let!" # todo: NEW TRANSLATION
- XSM_a_united_ma_state_tt: "Jakékoli naše loutkové Ma kliky budou §YAnektovány§! a §YZískají status jádrového území§!, a my získáme jejich §Ygenerály§!" # todo: NEW TRANSLATION
+ XSM_a_united_ma_state_tt: "Jakékoli naše loutkové Ma kliky budou §YAnektovány§! a §YZískají status domovského území§!, a my získáme jejich §Ygenerály§!" # todo: NEW TRANSLATION
  KUM_victory_in_tihwa: "Vítězství v Tihwa" # todo: NEW TRANSLATION
  KUM_victory_in_tihwa_desc: "S pádem [617.GetName] je naše pozice v provincii pevně upevněna. Dnes stojíme jako vítězové, ať žije chán!" # todo: NEW TRANSLATION
  KUM_restore_yettishar: "Obnovit Yettishar" # todo: NEW TRANSLATION
@@ -2890,7 +2890,7 @@
  XIC_withdraw_forces_from_yanan: "Stáhnout jednotky z Yan'anu" # todo: NEW TRANSLATION
  XIC_withdraw_forces_from_yanan_desc: "Abychom vyprovokovali hněv [CHI.GetLeader] a zajistili, že vedení KMT pojede do Xi'anu prošetřit naše jednotky, měli bychom způsobit incident stažením jednotek z Yan'anu a dovolit komunistům město obsadit." # todo: NEW TRANSLATION
  XIC_form_the_anti_japanese_comrades_association: "Založit Sdružení protijaponských soudruhů" # todo: NEW TRANSLATION
- XIC_form_the_anti_japanese_comrades_association_desc: "Abychom získali sílu a přesvědčili armádu, aby přestala bojovat proti CPC, musíme založit tajnou jádrovou organizaci, která sjednotí Severovýchodní armádu a absorbuje ty, kdo mají aktivní protijaponské postoje — něco, co Zhang pojmenoval Asociace protijaponských soudruhů. Zhang bude předsedou asociace, spojený s komunisty v boji proti Japonsku a ve výcviku protijaponských kádru." # todo: NEW TRANSLATION
+ XIC_form_the_anti_japanese_comrades_association_desc: "S cílem posílit naše síly a přesvědčit armádu, aby přestala bojovat proti ČKS, musíme založit tajnou ústřední organizaci, která sjednotí severovýchodní armádu a přijme ty, kteří aktivně podporují protijaponské myšlenky. Čang tuto organizaci nazval Sdružení protijaponských soudruhů. Čang bude předsedou sdružení, které se spojí s komunisty v boji proti Japonsku a bude školit protijaponské kádry." # todo: NEW TRANSLATION
  XIC_invite_chiang_for_troop_inspections: "Pozvat [CHI.GetLeader] na inspekci jednotek" # todo: NEW TRANSLATION
  XIC_invite_chiang_for_troop_inspections_desc: "Náš stát je oslabován vnitřními boji, zatímco Japonsko očividně má zájem o naše území. Přesto [CHI.GetLeader] odmítá spolupracovat s CPC a neustále požaduje pokračování naší kampaně proti banditům, navzdory našim zoufalým prosbám, abychom nebyli přemístěni na jih. Musíme donutit nacionalisty i komunisty, aby uznali rozum a vytvořili Jednotný front." # todo: NEW TRANSLATION
  XIC_sixth_encirclement_campaign: "Šestá obkličovací kampaň" # todo: NEW TRANSLATION

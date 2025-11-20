@@ -234,8 +234,8 @@
  expeditionary_warfare_shore_fire_control_parties: "Skupiny řízení palby na břehu" # todo: NEW TRANSLATION
  expeditionary_warfare_breakout_emphasis: "Důraz na doplňování zásob" # todo: NEW TRANSLATION
  expeditionary_warfare_withdrawal_protocols: "Protokoly pro uspořádaný ústup" # todo: NEW TRANSLATION
- GRAND_DOCTRINE_SELECTION_TITLE: "Vyberte velkou doktrínu" # todo: NEW TRANSLATION
- SUB_DOCTRINE_SELECTION_TITLE: "Vyberte subdoktrínu" # todo: NEW TRANSLATION
+ GRAND_DOCTRINE_SELECTION_TITLE: "Vyberte hlavní doktrínu" # todo: NEW TRANSLATION
+ SUB_DOCTRINE_SELECTION_TITLE: "Vyberte dílčí doktrínu" # todo: NEW TRANSLATION
  DOCTRINE_TRACK_INFANTRY: "Pěchota" # todo: NEW TRANSLATION
  DOCTRINE_TRACK_COMBAT_SUPPORT: "Dělostřelectvo a bojová podpora" # todo: NEW TRANSLATION
  DOCTRINE_TRACK_ARMOR: "Obrněné jednotky" # todo: NEW TRANSLATION
@@ -248,8 +248,8 @@
  DOCTRINE_TRACK_INACTIVE: "$TRACK_NAME|H$ větev: \n §g- Ještě není aktivní§!" # todo: NEW TRANSLATION
  DOCTRINE_TRACK_NUM_REWARDS: "$TRACK_NAME|H$ větev: \n - $NUM_REWARDS|H$/$TOTAL_REWARDS|H$ úrovní £doctrine_mastery §HMistrovství§! dosaženo" # todo: NEW TRANSLATION
  DOCTRINE_TRACK_COMPLETED: "$TRACK_NAME|H$ větev: \n - Dokončeno" # todo: NEW TRANSLATION
- SELECT_GRAND_DOCTRINE_PROMPT: "§GKlikněte§! pro výběr §HVelké doktríny§!" # todo: NEW TRANSLATION
- SELECT_SUB_DOCTRINE_PROMPT: "§GKlikněte§! pro výběr §HSubdoktríny§!" # todo: NEW TRANSLATION
+ SELECT_GRAND_DOCTRINE_PROMPT: "§GKlikněte§! pro výběr §HHlavní doktríny§!" # todo: NEW TRANSLATION
+ SELECT_SUB_DOCTRINE_PROMPT: "§GKlikněte§! pro výběr §HDílčí doktríny§!" # todo: NEW TRANSLATION
  DOCTRINE_MILESTONE_TITLE: "$DOCTRINE_NAME|H$ - §HMilník§!" # todo: NEW TRANSLATION
  DOCTRINE_REWARD_TITLE: "$REWARD_TITLE|H$" # todo: NEW TRANSLATION
  MILESTONE_UNLOCK_EXPLANATION: "Tento milník se odemkne, když větev dosáhne plného £doctrine_mastery §HMistrovství§!" # todo: NEW TRANSLATION
@@ -277,10 +277,10 @@
  DOCTRINE_MONTHLY_MASTERY_GAIN: "Získáváte £doctrine_mastery $VALUE|H1$ za měsíc" # todo: NEW TRANSLATION
  DOCTRINE_MONTHLY_MASTERY_BANK: "§HRezervujete§! £doctrine_mastery $VALUE|H1$ za měsíc" # todo: NEW TRANSLATION
  MASTERY_BANK_EXPLANATION_FULL: "§gDokud je tato větev dokončena, §!$PERCENT|H%0$§g z nabytého Mistrovství je §!§Hrezervováno§!§g, až do maxima §!$MAX|H0$" # todo: NEW TRANSLATION
- MASTERY_BANK_EXPLANATION_EMPTY: "§gDokud nebude odemčena subdoktrína, §!$PERCENT|H%0$§g z nabytého Mistrovství je §!§Hrezervováno§!§g, až do maxima £doctrine_mastery §!$MAX|H0$." # todo: NEW TRANSLATION
+ MASTERY_BANK_EXPLANATION_EMPTY: "§gDokud nebude odemčena dílčí doktrína, §!$PERCENT|H%0$§g z nabytého Mistrovství je §!§Hrezervováno§!§g, až do maxima £doctrine_mastery §!$MAX|H0$." # todo: NEW TRANSLATION
  MASTERY_BANK_CONVERSION_RATE: "Sazba převodu rezervovaného Mistrovství: $PERCENT|H%0$" # todo: NEW TRANSLATION
  MASTERY_INITIAL_FROM_RESERVE: "Počáteční Mistrovství z rezervy: £doctrine_mastery $VALUE|H0$" # todo: NEW TRANSLATION
- SWITCH_GRAND_DOCTRINE_MASTERY_RESET: "§RVeškeré§! £doctrine_mastery §HMistrovství§!§R se resetuje při přepnutí Velké doktríny.§!" # todo: NEW TRANSLATION
+ SWITCH_GRAND_DOCTRINE_MASTERY_RESET: "§RVeškeré§! £doctrine_mastery §HMistrovství§!§R se resetuje při přepnutí Hlavní doktríny.§!" # todo: NEW TRANSLATION
  DOCTRINE_MONTHLY_MASTERY_GAIN_FROM_UNITS: "- Základní zisk z jednotek: $VALUE|H1$" # todo: NEW TRANSLATION
  DOCTRINE_MONTHLY_MASTERY_GAIN_BONUS: "- $NAME$: $VALUE|+=1$ (zbývá $DAYS|H$ dní)" # todo: NEW TRANSLATION
  DOCTRINE_MONTHLY_MASTERY_GAIN_BONUS_FACTOR: "- $NAME$: $VALUE|%+=1$ (zbývá $DAYS|H$ dní)" # todo: NEW TRANSLATION
@@ -494,7 +494,7 @@
  long_range_submarines_stowage_efficiency: "Efektivita uskladnění" # todo: NEW TRANSLATION
  long_range_submarines_deep_water_supremacy: "Nadvláda v hlubokých vodách" # todo: NEW TRANSLATION
  SET_GRAND_DOCTRINE_EFFECT: "Aktivovat hlavní doktrínu $NAME|H$" # todo: NEW TRANSLATION
- SET_SUB_DOCTRINE_EFFECT: "Aktivovat subdoktrínu $NAME|H$" # todo: NEW TRANSLATION
+ SET_SUB_DOCTRINE_EFFECT: "Aktivovat dílčí doktrínu $NAME|H$" # todo: NEW TRANSLATION
  ADD_MASTERY_EFFECT: "Přidat $AMOUNT|H0$ £doctrine_mastery §HMistrovství§!" # todo: NEW TRANSLATION
  ADD_DAILY_MASTERY_EFFECT: "Přidat $AMOUNT|H2$ £doctrine_mastery §HMistrovství§! denně po dobu $DAYS|H$ dnů" # todo: NEW TRANSLATION
  ADD_MASTERY_BONUS_EFFECT: "Přidat bonus $BONUS|+=%2$ £doctrine_mastery §HMistrovství§! na $DAYS|H$ dnů" # todo: NEW TRANSLATION
@@ -506,13 +506,13 @@
  TRACK_EFFECT_COMPLEX_HEADER: "$TRACK_EFFECT_DESC$ ke všem větvím, které:" # todo: NEW TRANSLATION
  TRACK_EFFECT_CONDITION_FOLDER: "- Jsou ve složce $NAME|H$" # todo: NEW TRANSLATION
  TRACK_EFFECT_CONDITION_GRAND_DOCTRINE: "- Mají hlavní doktrínu $NAME|H$" # todo: NEW TRANSLATION
- TRACK_EFFECT_CONDITION_SUBDOCTRINE: "- Mají subdoktrínu $NAME|H$" # todo: NEW TRANSLATION
+ TRACK_EFFECT_CONDITION_SUBDOCTRINE: "- Mají dílčí doktrínu $NAME|H$" # todo: NEW TRANSLATION
  TRACK_EFFECT_CONDITION_TRACK_TYPE: "- Jsou typu $NAME|H$" # todo: NEW TRANSLATION
  TRACK_EFFECT_CONDITION_TRACK_INDEX: "- Mají index větve $INDEX|H$" # todo: NEW TRANSLATION
  TRACK_COMPLETED_TRIGGER: "Dokončil větev doktríny: $NAME|H$" # todo: NEW TRANSLATION
  TRACK_NOT_COMPLETED_TRIGGER: "Nedokončil větev doktríny: $NAME|H$" # todo: NEW TRANSLATION
- TRACK_HAS_SUBDOCTRINE_TRIGGER: "Má jakoukoliv subdoktrínu v větvi: $NAME|H$" # todo: NEW TRANSLATION
- TRACK_HAS_NOT_SUBDOCTRINE_TRIGGER: "Nemá žádnou subdoktrínu v větvi: $NAME|H$" # todo: NEW TRANSLATION
+ TRACK_HAS_SUBDOCTRINE_TRIGGER: "Má jakoukoliv dílčí doktrínu ve větvi: $NAME|H$" # todo: NEW TRANSLATION
+ TRACK_HAS_NOT_SUBDOCTRINE_TRIGGER: "Nemá žádnou dílčí doktrínu ve větvi: $NAME|H$" # todo: NEW TRANSLATION
  REWARD_MASTERY_HEADER: "£doctrine_mastery $MASTERY|0H$ odemyká $NAME|H$:" # todo: NEW TRANSLATION
  MASTERY_CAPS_EXPLANATION: "Zisk mistrovství z těchto zdrojů bude minimálně $MIN|H2$ denně a maximálně $MAX|H1$ denně" # todo: NEW TRANSLATION
  MASTERY_FROM_EQUIPMENT_CATEGORY_ENTRY: " $CATEGORY|H$" # todo: NEW TRANSLATION
@@ -522,23 +522,23 @@
  NO_GRAND_DOCTRINE_PROMPT: "Vyberte hlavní doktrínu" # todo: NEW TRANSLATION
  OPEN_DOCTRINE_VIEW_PROMPT: "§GKlikněte§! pro otevření zobrazení doktrín" # todo: NEW TRANSLATION
  AVAILABLE_GRAND_DOCTRINE: "$FOLDER_NAME$ - §HHlavní doktrína§!" # todo: NEW TRANSLATION
- AVAILABLE_SUB_DOCTRINE: "$TRACK_NAME$ - §HSubdoktrína§!" # todo: NEW TRANSLATION
+ AVAILABLE_SUB_DOCTRINE: "$TRACK_NAME$ - §HDílčí doktrína§!" # todo: NEW TRANSLATION
  ASSIGN_DOCTRINE_PROMPT: "§GKlikněte§! pro odemknutí vybrané doktríny" # todo: NEW TRANSLATION
  CANNOT_ASSIGN_DOCTRINE: "§RNelze§! odemknout vybranou doktrínu:" # todo: NEW TRANSLATION
  UNLOCK_DOCTRINE_TEXT: "Odemknout $COST|H$" # todo: NEW TRANSLATION
- HAS_COMPLETED_SUBDOCTRINE: "Dokončil subdoktrínu $NAME|H$" # todo: NEW TRANSLATION
- HAS_NOT_COMPLETED_SUBDOCTRINE: "Nedokončil subdoktrínu $NAME|H$" # todo: NEW TRANSLATION
- HAS_SUBDOCTRINE: "Má aktivní subdoktrínu: £doctrine_mod $NAME|H$" # todo: NEW TRANSLATION
- HAS_NOT_SUBDOCTRINE: "Nemá aktivní subdoktrínu: £doctrine_mod $NAME|H$" # todo: NEW TRANSLATION
+ HAS_COMPLETED_SUBDOCTRINE: "Dokončil dílčí doktrínu $NAME|H$" # todo: NEW TRANSLATION
+ HAS_NOT_COMPLETED_SUBDOCTRINE: "Nedokončil dílčí doktrínu $NAME|H$" # todo: NEW TRANSLATION
+ HAS_SUBDOCTRINE: "Má aktivní dílčí doktrínu: £doctrine_mod $NAME|H$" # todo: NEW TRANSLATION
+ HAS_NOT_SUBDOCTRINE: "Nemá aktivní dílčí doktrínu: £doctrine_mod $NAME|H$" # todo: NEW TRANSLATION
  HAS_GRAND_DOCTRINE: "Má aktivní hlavní doktrínu: £doctrine_mod $NAME|H$" # todo: NEW TRANSLATION
  HAS_NOT_GRAND_DOCTRINE: "Nemá aktivní hlavní doktrínu: £doctrine_mod $NAME|H$" # todo: NEW TRANSLATION
  GRAND_DOCTRINE_DESCRIPTION: "Hlavní doktrína je pilíř naší vojenské strategie a určuje celkový přístup k vedení války." # todo: NEW TRANSLATION
- GRAND_DOCTRINE_BENEFIT_DESCRIPTION: "§gPřiřaďte hlavní doktrínu, aby byla dostupná sada §Hsubdoktrín§! větví. Vyvíjejte své subdoktríny získáváním £doctrine_mastery §HMistrovství§! z jednotek v boji. Dokončené subdoktríny aktivují §Hmilníky§! a dál posilují vaši hlavní doktrínu.§!" # todo: NEW TRANSLATION
- SUBDOCTRINE_DESCRIPTION: "Prostřednictvím subdoktríny se specializujeme a zdokonalujeme náš přístup k vedení války v určité oblasti." # todo: NEW TRANSLATION
- SUBDOCTRINE_BENEFIT_DESCRIPTION: "§gPřiřazení subdoktríny umožní§! získávání £doctrine_mastery §HMistrovství§!§g v této větvi. Po dosažení určitých prahů mistrovství subdoktrína odemkne další efekty.§!" # todo: NEW TRANSLATION
+ GRAND_DOCTRINE_BENEFIT_DESCRIPTION: "§gPřiřaďte hlavní doktrínu, aby byla dostupná sada §Hdílčích doktrín§! větví. Vyvíjejte své Dílčí doktríny získáváním £doctrine_mastery §HMistrovství§! z jednotek v boji. Dokončené Dílčí doktríny aktivují §Hmilníky§! a dál posilují vaši hlavní doktrínu.§!" # todo: NEW TRANSLATION
+ SUBDOCTRINE_DESCRIPTION: "Prostřednictvím Dílčí doktríny se specializujeme a zdokonalujeme náš přístup k vedení války v určité oblasti." # todo: NEW TRANSLATION
+ SUBDOCTRINE_BENEFIT_DESCRIPTION: "§gPřiřazení Dílčí doktríny umožní§! získávání £doctrine_mastery §HMistrovství§!§g v této větvi. Po dosažení určitých prahů mistrovství dílčí doktrína odemkne další efekty.§!" # todo: NEW TRANSLATION
  DOCTRINE_COST_TITLE: "Doktrína " # todo: NEW TRANSLATION
  GRAND_DOCTRINE_COST_REDUCTION: "Cena hlavní doktríny: $VALUE|%=-0$" # todo: NEW TRANSLATION
- SUBDOCTRINE_COST_REDUCTION: "Cena subdoktríny: $VALUE|%=-0$" # todo: NEW TRANSLATION
+ SUBDOCTRINE_COST_REDUCTION: "Cena dílčí doktríny: $VALUE|%=-0$" # todo: NEW TRANSLATION
  DOCTRINE_COST_REDUCTION_DUE_TO: "Z důvodu:" # todo: NEW TRANSLATION
  DOCTRINE_COST_REDUCTION_VALUE: "$VALUE|%=-0$" # todo: NEW TRANSLATION
  land_doctrine_cost_factor: "Náklady pozemní doktríny" # todo: NEW TRANSLATION
@@ -736,7 +736,7 @@
  REWARD_UNLOCK_HEADER: "£doctrine_mastery $MASTERY|H0$ - $REWARD_NAME|H$:" # todo: NEW TRANSLATION
  MILESTONE_UNLOCK_HEADER: "$DOCTRINE_NAME|H$ - $TRACK_NAME|H$ Milník:" # todo: NEW TRANSLATION
  mod_grand_doctrine_mastery_gain_factor: "£doctrine_mod $ARG|H$ (hlavní doktrína) nárůst mistrovství" # todo: NEW TRANSLATION
- mod_subdoctrine_mastery_gain_factor: "£doctrine_mod $ARG|H$ (subdoktrína) faktor nárůstu mistrovství" # todo: NEW TRANSLATION
+ mod_subdoctrine_mastery_gain_factor: "£doctrine_mod $ARG|H$ (dílčí doktrína) faktor nárůstu mistrovství" # todo: NEW TRANSLATION
  mod_track_mastery_gain_factor: "£doctrine_mod $ARG|H$ faktor nárůstu mistrovství větve" # todo: NEW TRANSLATION
  REWARD_SUMMARY_HEADER: "§HDokončení £doctrine_mastery mistrovství odemkne:§!" # todo: NEW TRANSLATION
  REWARD_SUMMARY_HIDDEN: "£doctrine_mastery §HMistrovství§! odemkne další efekty" # todo: NEW TRANSLATION
@@ -745,13 +745,13 @@
  DOCTRINE_DETAILS_BUTTON_ENABLE: "§GKlikněte§! pro zapnutí zobrazování dalších detailů doktríny" # todo: NEW TRANSLATION
  DOCTRINE_DETAILS_BUTTON_DISABLE: "§GKlikněte§! pro vypnutí zobrazování dalších detailů doktríny" # todo: NEW TRANSLATION
  DOCTRINE_DETAILS_BUTTON_PROMPT: "§gPřepněte tlačítko níže pro zobrazení pokročilých detailů§!" # todo: NEW TRANSLATION
- NO_SUBDOCTRINE_ASSIGNED: "Žádná subdoktrína přiřazena" # todo: NEW TRANSLATION
+ NO_SUBDOCTRINE_ASSIGNED: "Nepřirazena žádná dílčí doktrína"
  NOT_ENOUGH_INTEL_TO_SHOW_DOCTRINES: "§RNedostatek zpravodajských informací pro zobrazení údajů o doktrínách§!" # todo: NEW TRANSLATION
  CLICK_TO_SHOW_DOCTRINE_INTEL: "§GKlikněte§! pro zobrazení zpravodajských informací o doktríně" # todo: NEW TRANSLATION
  DOCTRINE_EFFECT_SOURCE_GRAND_DOCTRINE: "$GRAND_DOCTRINE|H$ (Hlavní doktrína)" # todo: NEW TRANSLATION
- DOCTRINE_EFFECT_SOURCE_SUBDOCTRINE: "$SUBDOCTRINE|H$ ($TRACK$ subdoktrína)" # todo: NEW TRANSLATION
+ DOCTRINE_EFFECT_SOURCE_SUBDOCTRINE: "$SUBDOCTRINE|H$ ($TRACK$ dílčí doktrína)" # todo: NEW TRANSLATION
  DOCTRINE_EFFECT_SOURCE_MILESTONE: "$GRAND_DOCTRINE|H$ - $TRACK$ Milník" # todo: NEW TRANSLATION
- DOCTRINE_EFFECT_SOURCE_REWARD: "$SUBDOCTRINE|H$ - £doctrine_mastery $MASTERY|H0$ ($TRACK$ subdoktrína)" # todo: NEW TRANSLATION
+ DOCTRINE_EFFECT_SOURCE_REWARD: "$SUBDOCTRINE|H$ - £doctrine_mastery $MASTERY|H0$ ($TRACK$ dílčí doktrína)" # todo: NEW TRANSLATION
  HAS_MASTERY_TRIGGER: "Má alespoň £doctrine_mastery $AMOUNT|H0$ mistrovství v $TRACK|H$" # todo: NEW TRANSLATION
  HAS_NOT_MASTERY_TRIGGER: "Má méně než £doctrine_mastery $AMOUNT|H0$ mistrovství v $TRACK|H$" # todo: NEW TRANSLATION
  UNLOCK_TACTIC_EFFECT: "Odemkne taktiku: $NAME|H$" # todo: NEW TRANSLATION

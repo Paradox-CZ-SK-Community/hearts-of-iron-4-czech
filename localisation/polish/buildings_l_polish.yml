@@ -134,7 +134,7 @@
  naval_base_desc: "Rozšiřuje dosah vaší flotily a poskytuje opravy. Umožňuje na moři zásobování a export zdrojů. Vyšší úrovně zvyšují průtok zásob."
  naval_base_plural: "Námořní základny"
  naval_facility: "Středisko námorního výzkumu"
- naval_facility_desc: "Experimentální zařízení pro námořní inženýrství umožňují zahájit výzkumné projekty týkající se povrchových lodí a ponorek.\nZařízení námořního inženýrství lze vytvořit pouze v pobřežní provincii." # todo: CHANGED
+ naval_facility_desc: "Experimentální zařízení pro námořní inženýrství umožňují zahájit výzkumné projekty týkající se povrchových lodí a ponorek.\nStředisko lze vytvořit pouze v pobřežní provincii."
  naval_facility_plural: "Střediska námorního výzkumu"
  nuclear_facility: "Středisko pro jaderný výzkum"
  nuclear_facility_desc: "Experimentální zařízení pro jaderný výzkum vám umožní zahájit výzkumné projekty týkající se využití jaderné energie."
@@ -165,42 +165,42 @@
  landmark_sadabad_complex: "Komplex Sa'dabad"
  landmark_hagia_sophia: "Hagia Sophia"
  landmark_sadabad_complex_desc: "Komplex Sa'dabad v severní části Teheránu, postavený dynastií Kadžárovců a rozšířený dynastií Pahlaví, slouží jako královská rezidence a sídlo moci. Jeho paláce a zahrady odrážejí měnící se politickou situaci v Íránu, od konzervatismu po modernismus."
- landmark_tokyo_imperial_palace: "Císařský palác" # todo: NEW TRANSLATION
- landmark_tokyo_imperial_palace_plural: "$landmark_tokyo_imperial_palace$" # todo: NEW TRANSLATION
- landmark_tokyo_imperial_palace_desc: "Tokijský císařský palác je hlavním sídlem císaře a je jím od Meiji Restoration a sesazení posledního šógunátu. Je symbolem hrdosti a úcty japonského lidu a povzbuzuje jej k tvrdé práci." # todo: NEW TRANSLATION
- landmark_national_diet: "Budova Národního shromáždění" # todo: NEW TRANSLATION
- landmark_national_diet_plural: "$landmark_national_diet$" # todo: NEW TRANSLATION
- landmark_national_diet_desc: "Kokkai-gijidō je budova, kde se scházejí obě komory Národního shromáždění Japonska. Dokončena byla na začátku roku 1936 a je postavena téměř výhradně z japonských materiálů s pouze několika výjimkami. Její předchůdce byl zničen v roce 1925, když oblast opět postihl požár. Ačkoliv budova shromáždění mnohokrát padla, tentokrát jistě vydrží po staletí!" # todo: NEW TRANSLATION
- landmark_hakko_ichiu: "Pomník Hakkō Ichiu" # todo: NEW TRANSLATION
- landmark_hakko_ichiu_plural: "$landmark_hakko_ichiu$" # todo: NEW TRANSLATION
- landmark_hakko_ichiu_desc: "Věž Hakkō Ichiu byla postavena na památku 2600. výročí založení Japonska a jako památník symbolizující japonský osud sjednotit Osm koutů světa pod jednou střechou." # todo: NEW TRANSLATION
- naval_supply_hub: "Námořní zásobovací uzel" # todo: NEW TRANSLATION
- naval_supply_hub_desc: "Tato budova umožňuje vašim flotilám doplňovat zásoby a palivo v této základně kromě jejich domovských základen, čímž potenciálně prodlouží operační dosah vašich §YTask Forces§!.\nA Námořní zásobovací uzel lze postavit pouze v pobřežní provincii, která má námořní základnu alespoň na úrovni 8." # todo: NEW TRANSLATION
- naval_headquarters: "Námořní velitelství" # todo: NEW TRANSLATION
- naval_headquarters_desc: "Tato budova vám umožňuje přiřadit admirála, který zvýší efektivitu §YTask Forces§! operujících v dosahu Námořního velitelství.\n\nAž $MAXNUM|H$ velitelství může mít současně přiřazeného admirála.\n   Aktuálně přiřazeno: $CURRNUM|H$\n\nNámořní velitelství lze postavit pouze v pobřežní provincii, která má námořní základnu alespoň na úrovni 8. " # todo: NEW TRANSLATION
- landmark_great_wall_section: "Velká zeď" # todo: NEW TRANSLATION
- landmark_great_wall_section_desc: "Velká zeď, budovaná stovky let a za desítek vlád, je logistickým mistrovským dílem. Dnes by se dalo říci, že představuje velkou odvahu a vzdor čínského lidu tváří v tvář nepřízni osudu." # todo: NEW TRANSLATION
- landmark_great_wall_section_plural: "$landmark_great_wall_section$" # todo: NEW TRANSLATION
- landmark_nanjing_presidential_palace: "Prezidentský palác v Nankingu" # todo: NEW TRANSLATION
- landmark_nanjing_presidential_palace_desc: "Prezidentský palác v Nankingu je starobylý, prestižní komplex, kde byl po pádu dynastie Čching inaugurován sám velký Sun Yat-sen." # todo: NEW TRANSLATION
- landmark_nanjing_presidential_palace_plural: "$landmark_nanjing_presidential_palace$" # todo: NEW TRANSLATION
- landmark_forbidden_city: "Zakázané město" # todo: NEW TRANSLATION
- landmark_forbidden_city_plural: "$landmark_forbidden_city$" # todo: NEW TRANSLATION
- landmark_forbidden_city_desc: "Jako starobylé sídlo mingské moci je Zakázané město symbolem dlouhé čínské historie harmonie a prosperity. Dnes jsou poklady a artefakty uvnitř skryty ze strachu z další japonské invaze..." # todo: NEW TRANSLATION
- BUILDING_STATE_CATEGORY_MAX_LEVEL: "Maximální úroveň kategorie státu pro $CATEGORY|H$: $MAXLEVEL|H$" # todo: NEW TRANSLATION
- STATE_CATEGORY_tiny_island: "Velmi malý ostrov" # todo: NEW TRANSLATION
- STATE_CATEGORY_small_island: "Malý ostrov" # todo: NEW TRANSLATION
- STATE_CATEGORY_large_island: "Velký ostrov" # todo: NEW TRANSLATION
- STATE_CATEGORY_city: "Město" # todo: NEW TRANSLATION
- STATE_CATEGORY_large_city: "Velké město" # todo: NEW TRANSLATION
- STATE_CATEGORY_town: "Městečko" # todo: NEW TRANSLATION
- STATE_CATEGORY_large_town: "Velké městečko" # todo: NEW TRANSLATION
- STATE_CATEGORY_enclave: "Enkláva" # todo: NEW TRANSLATION
- STATE_CATEGORY_metropolis: "Metropole" # todo: NEW TRANSLATION
- STATE_CATEGORY_pastoral: "Zemědělská oblast" # todo: NEW TRANSLATION
- STATE_CATEGORY_rural: "Venkovská" # todo: NEW TRANSLATION
- STATE_CATEGORY_megalopolis: "Megalopolis" # todo: NEW TRANSLATION
- STATE_CATEGORY_wasteland: "Pustina" # todo: NEW TRANSLATION
- STRATEGIC_LOCATION_EXTRA_LEVEL: "Maximální úroveň $BUILDING|Y$: $AMOUNT|=+$" # todo: NEW TRANSLATION
- STRATEGIC_LOCATION_DESC: "§YStrategické místo§!" # todo: NEW TRANSLATION
- BUILDING_DEPENDENCY_ERROR_DESC: "V provincii je vyžadován $BUILDING|Y$ úrovně $LEVEL|Y$"" # todo: NEW TRANSLATION
+ landmark_tokyo_imperial_palace: "Císařský palác"
+ landmark_tokyo_imperial_palace_plural: "$landmark_tokyo_imperial_palace$"
+ landmark_tokyo_imperial_palace_desc: "Tokijský císařský palác je hlavním sídlem císaře a je jím od Restaurace Mejži Meidži a sesazení posledního šógunátu. Je symbolem hrdosti a úcty japonského lidu a povzbuzuje jej k tvrdé práci."
+ landmark_national_diet: "Budova Národního shromáždění"
+ landmark_national_diet_plural: "$landmark_national_diet$"
+ landmark_national_diet_desc: "Kokkai-gižidó je budova, kde se scházejí obě komory Národního shromáždění Japonska. Dokončena byla na začátku roku 1936 a je postavena téměř výhradně z japonských materiálů s pouze několika výjimkami. Její předchůdce byl zničen v roce 1925, když oblast opět postihl požár. Ačkoliv budova shromáždění mnohokrát padla, tentokrát jistě vydrží po staletí!"
+ landmark_hakko_ichiu: "Pomník Hakkó Ichiu"
+ landmark_hakko_ichiu_plural: "$landmark_hakko_ichiu$"
+ landmark_hakko_ichiu_desc: "Věž Hakkó Ichiu byla postavena na památku 2600. výročí založení Japonska a jako památník symbolizující japonský osud sjednotit Osm koutů světa pod jednou střechou."
+ naval_supply_hub: "Námořní zásobovací uzel"
+ naval_supply_hub_desc: "Tato budova umožňuje vašim flotilám doplňovat zásoby a palivo v této základně kromě jejich domovských základen, čímž potenciálně prodlouží operační dosah vašich §YÚderných skupin§!.\nA Námořní zásobovací uzel lze postavit pouze v pobřežní provincii, která má námořní základnu alespoň na úrovni 8."
+ naval_headquarters: "Námořní velitelství"
+ naval_headquarters_desc: "Tato budova vám umožňuje přiřadit admirála, který zvýší efektivitu §YÚderných skupin§! operujících v dosahu Námořního velitelství.\n\nAž $MAXNUM|H$ velitelství může mít současně přiřazeného admirála.\n   Aktuálně přiřazeno: $CURRNUM|H$\n\nNámořní velitelství lze postavit pouze v pobřežní provincii, která má námořní základnu alespoň na úrovni 8. "
+ landmark_great_wall_section: "Velká zeď"
+ landmark_great_wall_section_desc: "Velká zeď, budovaná stovky let a za desítek vlád, je logistickým mistrovským dílem. Dnes by se dalo říci, že představuje velkou odvahu a vzdor čínského lidu tváří v tvář nepřízni osudu."
+ landmark_great_wall_section_plural: "$landmark_great_wall_section$"
+ landmark_nanjing_presidential_palace: "Prezidentský palác v Nankingu"
+ landmark_nanjing_presidential_palace_desc: "Prezidentský palác v Nankingu je starobylý, prestižní komplex, kde byl po pádu dynastie Čching inaugurován sám velký Sunjatsen."
+ landmark_nanjing_presidential_palace_plural: "$landmark_nanjing_presidential_palace$"
+ landmark_forbidden_city: "Zakázané město"
+ landmark_forbidden_city_plural: "$landmark_forbidden_city$"
+ landmark_forbidden_city_desc: "Jako starobylé sídlo mingské moci je Zakázané město symbolem dlouhé čínské historie harmonie a prosperity. Dnes jsou poklady a artefakty uvnitř skryty ze strachu z další japonské invaze..."
+ BUILDING_STATE_CATEGORY_MAX_LEVEL: "Maximální úroveň kategorie státu pro $CATEGORY|H$: $MAXLEVEL|H$"
+ STATE_CATEGORY_tiny_island: "Velmi malý ostrov"
+ STATE_CATEGORY_small_island: "Malý ostrov"
+ STATE_CATEGORY_large_island: "Velký ostrov"
+ STATE_CATEGORY_city: "Město"
+ STATE_CATEGORY_large_city: "Velké město"
+ STATE_CATEGORY_town: "Městečko"
+ STATE_CATEGORY_large_town: "Velké městečko"
+ STATE_CATEGORY_enclave: "Enkláva"
+ STATE_CATEGORY_metropolis: "Metropole"
+ STATE_CATEGORY_pastoral: "Zemědělská oblast"
+ STATE_CATEGORY_rural: "Venkovská"
+ STATE_CATEGORY_megalopolis: "Megalopolis"
+ STATE_CATEGORY_wasteland: "Pustina"
+ STRATEGIC_LOCATION_EXTRA_LEVEL: "Maximální úroveň $BUILDING|Y$: $AMOUNT|=+$"
+ STRATEGIC_LOCATION_DESC: "§YStrategické místo§!"
+ BUILDING_DEPENDENCY_ERROR_DESC: "V provincii je vyžadován $BUILDING|Y$ úrovně $LEVEL|Y$"

@@ -87,7 +87,7 @@
  alert_decision_timeout_instant: "§HPředchozí události nebo Rozhodnutí vypršela§!"
  alert_deployment_ready_delayed: "§TMáte jednotky připravené k nasazení.§!"
  alert_deployment_ready_instant: "§HNasadit jednotky§!"
- alert_doctrine_unlock_delayed: "Můžete odemknout nové doktríny: \n$DOCTRINE$" # todo: CHANGED
+ alert_doctrine_unlock_delayed: "Můžete odemknout nové doktríny: \n$DOCTRINE$"
  alert_doctrine_unlock_instant: "§YNové doktriny dostupné§!"
  alert_enemy_air_superiority_delayed: "Nepřítel má vzdušnou převahu v jedné z vašich strategických oblastí.\nBoj v této oblasti pravděpodobně způsobí tvrdé postihy.\nZvažte převelení více letadel do této oblasti."
  alert_enemy_air_superiority_instant: "§RNepřítel má vzdušnou převahu§!"
@@ -216,21 +216,21 @@
  alert_volunteer_transfer_instant: "§HDobrovolné síly se přesouvají§!"
  defeat_color: "§R(Porážka)§!"
  victory_color: "§G(Vítězství)§!"
- alert_out_of_fuel_instant: "§HDošlo palivo§!" # todo: NEW TRANSLATION
- alert_out_of_fuel_delayed_header: "Potřeba: §YRopa ($VALUE$)§!\nRopa je nezbytná pro efektivní provoz motorových vozidel, letadel a lodí." # todo: NEW TRANSLATION
- alert_out_of_fuel_delayed_entry_army: "§YArmáda§!\nPři kapacitě paliva $LOW_THRESHOLD|Y1%$ začínají bojové statistiky klesat.\nPři §Y0%§! paliva:\nRychlost: $ARMY_SPEED_PENALTY|R1%$\nBojové statistiky (výbava spotřebovávající palivo): $ARMY_COMBAT_PENALTY|R1%$\nZisk zkušeností z výcviku: $ARMY_TRAINING_XP_GAIN|R1%$ denně" # todo: NEW TRANSLATION
- alert_out_of_fuel_delayed_entry_air: "§YLetectvo§!\nPři vyčerpání paliva:\nEfektivita mise: $AIR_EFFICIENCY_PENALTY|R1%$" # todo: NEW TRANSLATION
- alert_out_of_fuel_delayed_entry_navy: "§YNámořnictvo§!\nPři vyčerpání paliva:" # todo: NEW TRANSLATION
- alert_out_of_fuel_delayed_subentry_navy_speed: "Rychlost: $NAVAL_SPEED_PENALTY|R1%$" # todo: NEW TRANSLATION
- alert_out_of_fuel_delayed_subentry_navy_range: "Dosah: $NAVAL_RANGE_PENALTY|R1%$" # todo: NEW TRANSLATION
- alert_out_of_fuel_delayed_subentry_navy_attack: "Útok: $NAVAL_ATTACK_PENALTY|R1%$" # todo: NEW TRANSLATION
- alert_out_of_fuel_delayed_subentry_navy_torpedo: "Torpédový útok ponorek: $NAVAL_TORPEDO_PENALTY|R1%$" # todo: NEW TRANSLATION
- alert_headquarter_admiral_instant: "Do námořního velitelství může být přidělen admirál:" # todo: NEW TRANSLATION
- alert_headquarter_admiral_location: "  $LOCATION|Y$" # todo: NEW TRANSLATION
- alert_headquarter_admiral_delayed: "Přiřaďte admirála, aby zvýšil účinnost §Yúkolových sil§! působících v dosahu námořního velitelství" # todo: NEW TRANSLATION
- alert_lack_of_power_instant: "§HNedostatek energie§!" # todo: NEW TRANSLATION
- alert_lack_of_power_delayed_header: "Máme $COAL|R$£out_of_power_texticon Uhlí \nPrůmysl pokrývá $PERCENTAGE|.0H%$ poptávky po energii, což má následující dopady:" # todo: NEW TRANSLATION
- alert_lack_of_power_delayed_civ: "Každá £civ_factory civilní továrna poskytuje $VALUE|H$ £civ_factory_output  méně a modifikátor rychlosti výstavby je snížen o $PERCENTAGE|.0R%$" # todo: NEW TRANSLATION
- alert_lack_of_power_delayed_mil: "Každá £mil_factory vojenská továrna poskytuje $VALUE|H$ £production_cost  méně a modifikátor výstupu továren je snížen o $PERCENTAGE|.0R%$" # todo: NEW TRANSLATION
- alert_lack_of_power_delayed_nav: "Každá £nav_dockyard_texticon námořní loděnice poskytuje $VALUE|H$ £navprod_cost  méně a modifikátor výstupu loděnic je snížen o $PERCENTAGE|.0R%$" # todo: NEW TRANSLATION
- alert_faction_can_select_goal_instant: "§HMůžete zvolit nový cíl frakce§!"" # todo: NEW TRANSLATION
+ alert_out_of_fuel_instant: "§HNedostatek paliva§!"
+ alert_out_of_fuel_delayed_header: "Potřeba: §YRopa ($VALUE$)§!\nRopa je nutná pro efektivní provoz motorových vozidel, letadel a lodí."
+ alert_out_of_fuel_delayed_entry_army: "§YPozemní armáda§!\nPři kapacitě paliva pod $LOW_THRESHOLD|Y1%$ se začnou snižovat bojové hodnoty.\nPři §Y0 %§! paliva:\nRychlost: $ARMY_SPEED_PENALTY|R1%$\nBojové hodnoty (technika spotřebovávající palivo): $ARMY_COMBAT_PENALTY|R1%$\nZisk zkušeností z výcviku: $ARMY_TRAINING_XP_GAIN|R1%$ denně"
+ alert_out_of_fuel_delayed_entry_air: "§YLetectvo§!\nBez paliva:\nÚčinnost misí: $AIR_EFFICIENCY_PENALTY|R1%$"
+ alert_out_of_fuel_delayed_entry_navy: "§YNámořnictvo§!\nBez paliva:"
+ alert_out_of_fuel_delayed_subentry_navy_speed: "Rychlost: $NAVAL_SPEED_PENALTY|R1%$"
+ alert_out_of_fuel_delayed_subentry_navy_range: "Dosah: $NAVAL_RANGE_PENALTY|R1%$"
+ alert_out_of_fuel_delayed_subentry_navy_attack: "Útok: $NAVAL_ATTACK_PENALTY|R1%$"
+ alert_out_of_fuel_delayed_subentry_navy_torpedo: "Torpédový útok ponorek: $NAVAL_TORPEDO_PENALTY|R1%$"
+ alert_headquarter_admiral_instant: "K námořnímu velitelství lze přiřadit admirála:"
+ alert_headquarter_admiral_location: "  $LOCATION|Y$"
+ alert_headquarter_admiral_delayed: "Přiřazením admirála zvýšíte efektivitu §Yúderných skupin§! operujících v dosahu námořního velitelství."
+ alert_lack_of_power_instant: "§HNedostatek energie§!"
+ alert_lack_of_power_delayed_header: "Máme $COAL|R$£out_of_power_texticon uhlí\nPrůmysl má splněno $PERCENTAGE|.0H%$ energetické poptávky, což má následující efekty:"
+ alert_lack_of_power_delayed_civ: "Každá £civ_factory civilní továrna poskytuje o $VALUE|H$ £civ_factory_output  méně a rychlost výstavby je snížena o $PERCENTAGE|.0R%$"
+ alert_lack_of_power_delayed_mil: "Každá £mil_factory vojenská továrna poskytuje o $VALUE|H$ £production_cost méně a výstup továren je snížen o $PERCENTAGE|.0R%$"
+ alert_lack_of_power_delayed_nav: "Každý £nav_dockyard_texticon námořní dok poskytuje o $VALUE|H$ £navprod_cost méně a výstup doků je snížen o $PERCENTAGE|.0R%$"
+ alert_faction_can_select_goal_instant: "§HMůžete zvolit nový cíl frakce§!"

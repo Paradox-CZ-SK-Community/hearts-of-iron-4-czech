@@ -212,20 +212,19 @@
  LOGIN_DESCRIPTION_CUSTOMIZATION_BOLD: "Přihlaste se pomocí svého Paradox účtu a přizpůsobte svůj profil"
  LOGIN_DESCRIPTION_FRIENDS_BOLD: "Přihlaste se pomocí svého Paradox účtu a zobrazte statistiky svých přátel"
  CAREER_PROFILE_GRAND_STRATEGIKON_MEDAL: "Velký Strategikon" # todo: NEW TRANSLATION
- CAREER_PROFILE_GRAND_STRATEGIKON_MEDAL_DESCRIPTION: "Mějte určitý počet zvládnutých poddoktrín" # todo: NEW TRANSLATION
+ CAREER_PROFILE_GRAND_STRATEGIKON_MEDAL_DESCRIPTION: "Mějte určitý počet zvládnutých dílčích doktrín"
  CAREER_PROFILE_PACTWEAVER_MEDAL: "Tkalec paktů" # todo: NEW TRANSLATION
- CAREER_PROFILE_PACTWEAVER_MEDAL_DESCRIPTION: "Dosáhněte určitého procenta manifestu frakce." # todo: NEW TRANSLATION
- CAREER_PROFILE_OVERACHIEVER_MEDAL: "Perfekcionista" # todo: NEW TRANSLATION
- CAREER_PROFILE_OVERACHIEVER_MEDAL_DESCRIPTION: "Splňte určitý počet dlouhodobých cílů frakce." # todo: NEW TRANSLATION
- CAREER_PROFILE_GRAND_STRATEGIKON_BRONZE: "4 zvládnuté poddoktríny" # todo: NEW TRANSLATION
- CAREER_PROFILE_GRAND_STRATEGIKON_SILVER: "8 zvládnutých poddoktrín" # todo: NEW TRANSLATION
- CAREER_PROFILE_GRAND_STRATEGIKON_GOLD: "12 zvládnutých poddoktrín" # todo: NEW TRANSLATION
- CAREER_PROFILE_PACTWEAVER_BRONZE: "50%" # todo: NEW TRANSLATION
- CAREER_PROFILE_PACTWEAVER_SILVER: "75%" # todo: NEW TRANSLATION
- CAREER_PROFILE_PACTWEAVER_GOLD: "100%" # todo: NEW TRANSLATION
- CAREER_PROFILE_OVERACHIEVER_BRONZE: "1" # todo: NEW TRANSLATION
- CAREER_PROFILE_OVERACHIEVER_SILVER: "3" # todo: NEW TRANSLATION
- CAREER_PROFILE_OVERACHIEVER_GOLD: "5" # todo: NEW TRANSLATION
+ CAREER_PROFILE_PACTWEAVER_MEDAL_DESCRIPTION: "Dosáhněte určitého procenta manifestu frakce."
+ CAREER_PROFILE_OVERACHIEVER_MEDAL_DESCRIPTION: "Splňte určitý počet dlouhodobých cílů frakce."
+ CAREER_PROFILE_GRAND_STRATEGIKON_BRONZE: "4 zvládnuté dílčí doktríny"
+ CAREER_PROFILE_GRAND_STRATEGIKON_SILVER: "8 zvládnutých dílčích doktrín"
+ CAREER_PROFILE_GRAND_STRATEGIKON_GOLD: "12 zvládnutých dílčích doktrín"
+ CAREER_PROFILE_PACTWEAVER_BRONZE: "50%"
+ CAREER_PROFILE_PACTWEAVER_SILVER: "75%"
+ CAREER_PROFILE_PACTWEAVER_GOLD: "100%"
+ CAREER_PROFILE_OVERACHIEVER_BRONZE: "1"
+ CAREER_PROFILE_OVERACHIEVER_SILVER: "3"
+ CAREER_PROFILE_OVERACHIEVER_GOLD: "5"
  CAREER_PROFILE_ISLAND_HOPPER: "Skokan po ostrovech" # todo: NEW TRANSLATION
  CAREER_PROFILE_ISLAND_HOPPER_DESCRIPTION: "Získejte kontrolu nad 10 strategickými lokalitami" # todo: NEW TRANSLATION
  CAREER_PROFILE_ISLAND_HOPPER_QUOTE: ""Chceš žít?! Slez z pláže"\n\n - John Basilone, The Pacific" # todo: NEW TRANSLATION
@@ -234,7 +233,7 @@
  CAREER_PROFILE_IM_THE_CAPTAIN_NOW_QUOTE: ""Podívej se na mě, já jsem teď kapitán.\"\n\n - Muse, Captain Philips" # todo: NEW TRANSLATION
  CAREER_PROFILE_THREE_MUSKETEERS: "Tři mušketýři" # todo: NEW TRANSLATION
  CAREER_PROFILE_THREE_MUSKETEERS_DESCRIPTION: "Vytvořte tři frakční divadla operací, která jsou obsazena vašimi důstojníky" # todo: NEW TRANSLATION
- CAREER_PROFILE_THREE_MUSKETEERS_QUOTE: ""Všichni za jednoho a jeden za všechny, v jednotě stojíme, rozděleni padáme."\n\n - Alexander Dumas" # todo: NEW TRANSLATION
+ CAREER_PROFILE_THREE_MUSKETEERS_QUOTE: "„Jeden za všechny a všichni za jednoho.“\n\n- Alexandre Dumas"
  CAREER_PROFILE_THE_MORE_THE_MERRIER: "Čím víc, tím lépe" # todo: NEW TRANSLATION
  CAREER_PROFILE_THE_MORE_THE_MERRIER_DESCRIPTION: "Mějte bonus ke sdílení výzkumu frakce 30 %" # todo: NEW TRANSLATION
  CAREER_PROFILE_THE_MORE_THE_MERRIER_QUOTE: ""Žádný člověk není ostrov, sám o sobě; každý člověk je kus pevniny, část pevniny."\n\n - John Donne" # todo: NEW TRANSLATION

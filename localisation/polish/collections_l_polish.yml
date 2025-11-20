@@ -1,99 +1,99 @@
 ﻿l_polish:
- COLLECTION_OP_FACTION_MEMBERS: "Členové frakce" # todo: NEW TRANSLATION
- COLLECTION_OP_OWNED_STATES: "Vlastněné státy" # todo: NEW TRANSLATION
- COLLECTION_OP_CONTROLLED_STATES: "Ovládané státy" # todo: NEW TRANSLATION
- COLLECTION_OP_COUNTRY_AND_ALL_SUBJECTS: "[Country.GetNameWithFlag] a všechny jeho subjekty" # todo: NEW TRANSLATION
- COLLECTION_ALL_COUNTRIES: "Všechny země" # todo: NEW TRANSLATION
- COLLECTION_ALL_POSSIBLE_COUNTRIES: "Všechny možné země" # todo: NEW TRANSLATION
- COLLECTION_ALL_STATES: "Všechny státy" # todo: NEW TRANSLATION
- COLLECTION_FACTION_MEMBERS: "Členové frakce" # todo: NEW TRANSLATION
- COLLECTION_DEMOCRATIC_FACTION_MEMBERS: "Členové demokratické frakce" # todo: NEW TRANSLATION
- COLLECTION_UNCAPITULATED_DEMOCRATIC_FACTION_MEMBERS: "Nekapitulovaní členové demokratické frakce" # todo: NEW TRANSLATION
- COLLECTION_WORLD_DEMOCRATIC_COUNTRIES: "Demokratické země" # todo: NEW TRANSLATION
- COLLECTION_UNCAPITULATED_DEMOCRATIC_COUNTRIES_AND_DOMINIONS: "Nezávislé, nekapitulované demokratické země nebo dominia" # todo: NEW TRANSLATION
- COLLECTION_UNCAPITULATED_DEMOCRATIC_COUNTRIES: "Nekapitulované demokratické země" # todo: NEW TRANSLATION
- COLLECTION_NON_COMMUNIST_COUNTRIES: "Nekomunistické země" # todo: NEW TRANSLATION
- COLLECTION_WORLD_COMMUNIST_COUNTRIES: "Všechny komunistické země" # todo: NEW TRANSLATION
- COLLECTION_COUNTRIES_CHINA: "Čínské státy" # todo: NEW TRANSLATION
- COLLECTION_COUNTRIES_ASIA: "Země s hlavním městem v Asii" # todo: NEW TRANSLATION
- COLLECTION_COUNTRIES_ASIA_COMMUNIST: "Komunistické země s hlavním městem v Asii" # todo: NEW TRANSLATION
- COLLECTION_COUNTRIES_ASIA_NON_COMMUNIST: "Nekomunistické země s hlavním městem v Asii" # todo: NEW TRANSLATION
- COLLECTION_FACTION_OWNED_CORE_STATES: "Celkový počet jádrových států frakce" # todo: NEW TRANSLATION
- COLLECTION_FACTION_CONTROLLED_NON_CORE_STATES: "Cizí státy obsazené frakcí" # todo: NEW TRANSLATION
- COLLECTION_COUNTRY_AND_SUBJECTS_CONTROLLED_NON_CORE_STATES: "Nejádrové státy ovládané zemí a jejími subjekty" # todo: NEW TRANSLATION
- COLLECTION_POL_BETWEEN_THE_SEAS_STATES: "Státy v $STRATEGICREGION_37$, $STRATEGICREGION_38$, $STRATEGICREGION_39$, $STRATEGICREGION_27$, $STRATEGICREGION_26$, $STRATEGICREGION_131$ a $STRATEGICREGION_130$" # todo: NEW TRANSLATION
- COLLECTION_FACTION_BETWEEN_THE_SEAS_STATES: "$COLLECTION_POL_BETWEEN_THE_SEAS_STATES$ ovládané námi" # todo: NEW TRANSLATION
- COLLECTION_CHINA_CORE_STATES: "Čínské jádrové státy" # todo: NEW TRANSLATION
- COLLECTION_CHINA_CORE_STATES_MAINLAND: "Jádrové státy čínské pevniny" # todo: NEW TRANSLATION
- COLLECTION_CHINA_CORE_STATES_IDELOGY: "Jádrové státy čínské pevniny ovládané členy frakce s ideologií vůdce frakce" # todo: NEW TRANSLATION
- COLLECTION_CHINA_CORE_STATES_CONTROLLED_BY_FACTION_LEADER_IDEOLOGY: "Čínské jádrové státy ovládané ideologií vůdce naší frakce" # todo: NEW TRANSLATION
- COLLECTION_COUNTRY_AND_ALL_SUBJECTS: "§Y[Country.GetNameWithFlag]§! a všechny jeho subjekty" # todo: NEW TRANSLATION
- COLLECTION_CONTINENTAL_EUROPE_DEFEATED_OR_FACTION_MEMBERS: "Kontinentální evropské země, které jsou buď poražené, nebo se připojily k frakci" # todo: NEW TRANSLATION
- COLLECTION_UNCAPITULATED_INDEPENDENT_CHINESE_COUNTRIES: "Nejaponské subjekty v Číně, které nekapitulovaly" # todo: NEW TRANSLATION
- COLLECTION_WAR_WITH_COMMUNIST_COUNTRIES_ASIA: "Komunistické země v Asii, které nejsou ve válce s [ROOT.GetFactionName]" # todo: NEW TRANSLATION
- COLLECTION_COUNTRIES_AT_PEACE: "Země v míru" # todo: NEW TRANSLATION
- COLLECTION_OCCUPIED_STATES_BY_JAPAN_OR_FACTION_MEMBERS: "Nejádrové státy ovládané [THIS.GetNameDef] a jeho spojenci a jejich subjekty" # todo: NEW TRANSLATION
- COLLECTION_AMOUNT_OF_COMMUNIST_CONTROLLED_STATES_SAME_CONTINENT: "Státy na stejném kontinentu ovládané §YKomunistickými§! zeměmi" # todo: NEW TRANSLATION
- COLLECTION_AMOUNT_OF_FASCIST_CONTROLLED_STATES_SAME_CONTINENT: "Státy na stejném kontinentu ovládané §YFašistickými§! zeměmi" # todo: NEW TRANSLATION
- COLLECTION_STATES_MY_CONTINENT_CONTROLLED_DEMOCRATIC_FASCIST: "Státy na stejném kontinentu ovládané §YFašistickými§! nebo §YDemokratickými§! zeměmi" # todo: NEW TRANSLATION
- COLLECTION_STATES_MY_CONTINENT_CONTROLLED_DEMOCRATIC_COMMUNIST: "Státy na stejném kontinentu ovládané §YKomunistickými§! nebo §YDemokratickými§! zeměmi" # todo: NEW TRANSLATION
- COLLECTION_FACTION_BALKAN_STATES: "Balkánské státy" # todo: NEW TRANSLATION
- COLLECTION_STATES_MY_CONTINENT: "Státy v [ROOT.GetCountryContinent]" # todo: NEW TRANSLATION
- COLLECTION_FACTION_STATES_MY_CONTINENT: "Státy ovládané frakcí v [ROOT.GetCountryContinent]" # todo: NEW TRANSLATION
- COLLECTION_STATES_AFRICA: "Africké státy" # todo: NEW TRANSLATION
- COLLECTION_NON_FASCIST_STATES_MY_CONTINENT: "Státy v [ROOT.GetCountryContinent] ovládané nefašistickými zeměmi" # todo: NEW TRANSLATION
- COLLECTION_NON_COMMUNIST_STATES_MY_CONTINENT: "Státy v [ROOT.GetCountryContinent] ovládané nekomunistickými zeměmi" # todo: NEW TRANSLATION
- COLLECTION_NON_DEMOCRATIC_STATES_MY_CONTINENT: "Státy v [ROOT.GetCountryContinent] ovládané nedemokratickými zeměmi" # todo: NEW TRANSLATION
- COLLECTION_FACTION_CONTROLLED_BALKAN_STATES: "Balkánské státy ovládané frakcí" # todo: NEW TRANSLATION
- COLLECTION_CENTRAL_POWERS_BORDER_STATES: "Státy hraničící s [GER.GetName], [HUN.GetName], [AUS.GetName] a [BUL.GetName] v roce 1936" # todo: NEW TRANSLATION
- COLLECTION_CONTROLLED_CENTRAL_POWERS_BORDER_STATES: "Hraniční státy aktuálně ovládané [GER.GetName], [HUN.GetName], [AUS.GetName] a [BUL.GetName]" # todo: NEW TRANSLATION
- COLLECTION_NON_COLONIAL_CONTROLLED_AFRICAN_STATES: "Nekolonialně ovládané africké státy" # todo: NEW TRANSLATION
- COLLECTION_STATES_IN_AFRICA: "Všechny státy v Africe" # todo: NEW TRANSLATION
- COLLECTION_FACTION_CONTROLLED_STATES_IN_AFRICA: "Státy v Africe ovládané námi" # todo: NEW TRANSLATION
- COLLECTION_STATES_IN_ASIA: "Všechny státy v Asii" # todo: NEW TRANSLATION
- COLLECTION_FACTION_CONTROLLED_STATES_IN_ASIA: "Státy v Asii ovládané námi" # todo: NEW TRANSLATION
- COLLECTION_STATES_IN_MIDDLE_EAST: "Všechny státy na Blízkém východě" # todo: NEW TRANSLATION
- COLLECTION_FACTION_CONTROLLED_STATES_IN_MIDDLE_EAST: "Státy na Blízkém východě ovládané námi" # todo: NEW TRANSLATION
- COLLECTION_STATES_IN_OCEANIA: "Všechny státy v Oceánii" # todo: NEW TRANSLATION
- COLLECTION_STATES_IN_ASIA_AND_IN_OCEANIA: "Všechny státy v Asii a v Oceánii" # todo: NEW TRANSLATION
- COLLECTION_STATES_IN_AMERICAS: "Všechny státy v Severní a Jižní Americe" # todo: NEW TRANSLATION
- COLLECTION_FACTION_CONTROLLED_STATES_IN_AMERICAS: "Státy v Severní a Jižní Americe ovládané námi" # todo: NEW TRANSLATION
- COLLECTION_STATES_IN_EUROPE: "Všechny státy v Evropě" # todo: NEW TRANSLATION
- COLLECTION_FACTION_CONTROLLED_STATES_IN_EUROPE: "Státy v Evropě ovládané námi" # todo: NEW TRANSLATION
- COLLECTION_STATES_CONTROLLED_BY_FACTION_MEMBER_AND_CORE_HOLDER: "Státy, které jsou ovládány členem frakce a držitelem jádra" # todo: NEW TRANSLATION
- COLLECTION_FACTION_CONTROLS_NORTHERN_MANDATE: "Státy ve Východní Sibiři ovládané námi" # todo: NEW TRANSLATION
- COLLECTION_FACTION_CONTROLS_SOUTHERN_MANDATE: "Státy v jihovýchodní Asii ovládané námi" # todo: NEW TRANSLATION
- COLLECTION_FACTION_CONTROLS_GREATER_GAME: "Státy ve Střední Asii ovládané námi" # todo: NEW TRANSLATION
- COLLECTION_MAJORITY_ARE_SUBJECTS: "subjekty vůdce frakce" # todo: NEW TRANSLATION
- COLLECTION_NO_JAPANESE_IN_CHINA: "Státy čínské pevniny ovládané Japonskem a jeho spojenci" # todo: NEW TRANSLATION
- COLLECTION_AMOUNT_OF_SUBJECTS_TO_FACTION_LEADER: "Počet zemí, které jsou subjekty vůdce frakce" # todo: NEW TRANSLATION
- COLLECTION_COUNTRIES_EUROPE_NON_ALIGNED: "Nezařazené země v Evropě" # todo: NEW TRANSLATION
- COLLECTION_COMINTERN_BORDER_STATES: "Státy hraničící s námi na začátku hry" # todo: NEW TRANSLATION
- COLLECTION_CONTROLLED_COMINTERN_BORDER_STATES: "Počáteční hraniční státy ovládané námi" # todo: NEW TRANSLATION
- COLLECTION_NEIGHBORING_STATES: "Státy hraničící s vůdcem frakce" # todo: NEW TRANSLATION
- COLLECTION_CONTROLLED_PUPPET_BORDER_STATES: "Státy ovládané subjekty vůdce frakce" # todo: NEW TRANSLATION
- COLLECTION_FACTION_BORDER_STATES_FULL_INFRASTRUCTURE: "Hraniční státy ovládané frakcí bez maximální infrastruktury" # todo: NEW TRANSLATION
- COLLECTION_FACTION_LAND_FACILITY: "Pozemní válečná zařízení frakce:" # todo: NEW TRANSLATION
- COLLECTION_FACTION_NAVAL_FACILITY: "Námořní inženýrská zařízení frakce" # todo: NEW TRANSLATION
- COLLECTION_FACTION_AIR_FACILITY: "Letecká aerodynamická a avionická zařízení frakce" # todo: NEW TRANSLATION
- COLLECTION_FACTION_STATES_IN_NORTH_AMERICA: "Státy v Severní Americe ovládané frakcí" # todo: NEW TRANSLATION
- COLLECTION_FACTION_STATES_IN_EUROPE: "Státy v Evropě ovládané frakcí" # todo: NEW TRANSLATION
- COLLECTION_FACTION_STATES_IN_ASIA: "Státy v Asii ovládané frakcí" # todo: NEW TRANSLATION
- COLLECTION_FACTION_STATES_IN_EUROPE_OR_ASIA: "Státy v Evropě nebo Asii ovládané frakcí" # todo: NEW TRANSLATION
- COLLECTION_FACTION_STATES_IN_NORTH_AMERICA_OR_ASIA: "Státy v Severní Americe nebo v Asii ovládané frakcí" # todo: NEW TRANSLATION
- COLLECTION_FACTION_STATES_IN_MIDDLE_EAST: "Státy na Blízkém východě ovládané frakcí" # todo: NEW TRANSLATION
- COLLECTION_FACTION_STATES_IN_AUSTRALIA: "Státy v Austrálii ovládané frakcí" # todo: NEW TRANSLATION
- COLLECTION_FACTION_ISLAMIC_COUNTRIES: "Islámské země" # todo: NEW TRANSLATION
- COLLECTION_ISLAMIC_FACTION_MEMBERS: "Islámské země v naší frakci" # todo: NEW TRANSLATION
- COLLECTION_STATES_IN_BALTICS: "Všechny státy v Pobaltí" # todo: NEW TRANSLATION
- COLLECTION_FACTION_CONTROLLED_STATES_IN_BALTICS: "Státy v Pobaltí ovládané námi" # todo: NEW TRANSLATION
- COLLECTION_STATES_IN_NORDICS: "Všechny státy v severském regionu" # todo: NEW TRANSLATION
- COLLECTION_FACTION_CONTROLLED_STATES_IN_NORDICS: "Státy v severském regionu ovládané námi" # todo: NEW TRANSLATION
- COLLECTION_CASUALTIES_INFLICTED_BY_FACTION_MEMBERS: "Počet členů frakce, kteří způsobili nepříteli více než 250 000 obětí v obranné válce" # todo: NEW TRANSLATION
- COLLECTION_FACTION_MARE_NOSTRUM_STATES: "Středomořské státy" # todo: NEW TRANSLATION
- COLLECTION_FACTION_CONTROLLED_MARE_NOSTRUM_STATES: "Středomořské státy ovládané frakcí" # todo: NEW TRANSLATION
- COLLECTION_FACTION_PAX_ROMANA_STATES: "Bývalé římské státy" # todo: NEW TRANSLATION
- COLLECTION_FACTION_CONTROLLED_PAX_ROMANA_STATES: "Bývalé římské státy ovládané frakcí" # todo: NEW TRANSLATION
- COLLECTION_NON_COMMUNIST_STATES: "Státy ovládané nekomunisty" # todo: NEW TRANSLATION
- COLLECTION_ALL_SAME_CONTINENT_COUNTRIES: "Všechny země na stejném kontinentu" # todo: NEW TRANSLATION
- COLLECTION_ALL_COMMUNIST_OR_DEFEATED_SAME_CONTINENT_COUNTRIES: "Komunistické země na stejném kontinentu" # todo: NEW TRANSLATION
+ COLLECTION_OP_FACTION_MEMBERS: "Členové frakce"
+ COLLECTION_OP_OWNED_STATES: "Vlastněné státy"
+ COLLECTION_OP_CONTROLLED_STATES: "Kontrolované státy"
+ COLLECTION_OP_COUNTRY_AND_ALL_SUBJECTS: "[Country.GetNameWithFlag] a všichni jeho subjekti"
+ COLLECTION_ALL_COUNTRIES: "Všechny země"
+ COLLECTION_ALL_POSSIBLE_COUNTRIES: "Všechny možné země"
+ COLLECTION_ALL_STATES: "Všechny státy"
+ COLLECTION_FACTION_MEMBERS: "Členové frakce"
+ COLLECTION_DEMOCRATIC_FACTION_MEMBERS: "Demokratičtí členové frakce"
+ COLLECTION_UNCAPITULATED_DEMOCRATIC_FACTION_MEMBERS: "Nekapitulovaní demokratičtí členové frakce"
+ COLLECTION_WORLD_DEMOCRATIC_COUNTRIES: "Demokratické země"
+ COLLECTION_UNCAPITULATED_DEMOCRATIC_COUNTRIES_AND_DOMINIONS: "Nezávislé, nekapitulované demokratické země nebo dominiá"
+ COLLECTION_UNCAPITULATED_DEMOCRATIC_COUNTRIES: "Nekapitulované demokratické země"
+ COLLECTION_NON_COMMUNIST_COUNTRIES: "Nekomunistické země"
+ COLLECTION_WORLD_COMMUNIST_COUNTRIES: "Všechny komunistické země"
+ COLLECTION_COUNTRIES_CHINA: "Čínské země"
+ COLLECTION_COUNTRIES_ASIA: "Země s hlavním městem v Asii"
+ COLLECTION_COUNTRIES_ASIA_COMMUNIST: "Komunistické země s hlavním městem v Asii"
+ COLLECTION_COUNTRIES_ASIA_NON_COMMUNIST: "Nekomunistické země s hlavním městem v Asii"
+ COLLECTION_FACTION_OWNED_CORE_STATES: "Domovské státy frakce"
+ COLLECTION_FACTION_CONTROLLED_NON_CORE_STATES: "Cizí státy okupované frakcí"
+ COLLECTION_COUNTRY_AND_SUBJECTS_CONTROLLED_NON_CORE_STATES: "Země a subjekti kontrolující cizí státy"
+ COLLECTION_POL_BETWEEN_THE_SEAS_STATES: "Státy v $STRATEGICREGION_37$, $STRATEGICREGION_38$, $STRATEGICREGION_39$, $STRATEGICREGION_27$, $STRATEGICREGION_26$, $STRATEGICREGION_131$ a $STRATEGICREGION_130$"
+ COLLECTION_FACTION_BETWEEN_THE_SEAS_STATES: "$COLLECTION_POL_BETWEEN_THE_SEAS_STATES$ kontrolované námi"
+ COLLECTION_CHINA_CORE_STATES: "Čínská domovská území"
+ COLLECTION_CHINA_CORE_STATES_MAINLAND: "Čínská pevninská domovská území"
+ COLLECTION_CHINA_CORE_STATES_IDELOGY: "Čínská pevninská domovská území kontrolovaná členy frakce se stejnou ideologií jako vůdce frakce"
+ COLLECTION_CHINA_CORE_STATES_CONTROLLED_BY_FACTION_LEADER_IDEOLOGY: "Čínská domovská území kontrolovaná zeměmi s ideologií vůdce frakce"
+ COLLECTION_COUNTRY_AND_ALL_SUBJECTS: "§Y[Country.GetNameWithFlag]§! a všichni jeho subjekti"
+ COLLECTION_CONTINENTAL_EUROPE_DEFEATED_OR_FACTION_MEMBERS: "Země kontinentální Evropy, které buď kapitulovaly, nebo se připojily k frakci"
+ COLLECTION_UNCAPITULATED_INDEPENDENT_CHINESE_COUNTRIES: "Nejaponské subjekty v Číně, které nekapitulovaly"
+ COLLECTION_WAR_WITH_COMMUNIST_COUNTRIES_ASIA: "Komunistické země v Asii, které nejsou ve válce s [ROOT.GetFactionName]"
+ COLLECTION_COUNTRIES_AT_PEACE: "Země v míru"
+ COLLECTION_OCCUPIED_STATES_BY_JAPAN_OR_FACTION_MEMBERS: "Cizí státy kontrolované [THIS.GetNameDef] a jeho spojenci a subjekty"
+ COLLECTION_AMOUNT_OF_COMMUNIST_CONTROLLED_STATES_SAME_CONTINENT: "Státy na stejném kontinentu kontrolované §Ykomunistickými§! zeměmi"
+ COLLECTION_AMOUNT_OF_FASCIST_CONTROLLED_STATES_SAME_CONTINENT: "Státy na stejném kontinentu kontrolované §Yfašistickými§! zeměmi"
+ COLLECTION_STATES_MY_CONTINENT_CONTROLLED_DEMOCRATIC_FASCIST: "Státy na stejném kontinentu kontrolované §Yfašistickými§! nebo §Ydemokratickými§! zeměmi"
+ COLLECTION_STATES_MY_CONTINENT_CONTROLLED_DEMOCRATIC_COMMUNIST: "Státy na stejném kontinentu kontrolované §Ykomunistickými§! nebo §Ydemokratickými§! zeměmi"
+ COLLECTION_FACTION_BALKAN_STATES: "Balkánské státy"
+ COLLECTION_STATES_MY_CONTINENT: "Státy v [ROOT.GetCountryContinent]"
+ COLLECTION_FACTION_STATES_MY_CONTINENT: "Frakcí kontrolované státy v [ROOT.GetCountryContinent]"
+ COLLECTION_STATES_AFRICA: "Africké státy"
+ COLLECTION_NON_FASCIST_STATES_MY_CONTINENT: "Nefašistické kontrolované státy v [ROOT.GetCountryContinent]"
+ COLLECTION_NON_COMMUNIST_STATES_MY_CONTINENT: "Nekomunistické kontrolované státy v [ROOT.GetCountryContinent]"
+ COLLECTION_NON_DEMOCRATIC_STATES_MY_CONTINENT: "Nedemokratické kontrolované státy v [ROOT.GetCountryContinent]"
+ COLLECTION_FACTION_CONTROLLED_BALKAN_STATES: "Frakcí kontrolované balkánské státy"
+ COLLECTION_CENTRAL_POWERS_BORDER_STATES: "Státy sousedící s [GER.GetName], [HUN.GetName], [AUS.GetName] a [BUL.GetName] v roce 1936"
+ COLLECTION_CONTROLLED_CENTRAL_POWERS_BORDER_STATES: "Pohraniční státy aktuálně kontrolované [GER.GetName], [HUN.GetName], [AUS.GetName] a [BUL.GetName]"
+ COLLECTION_NON_COLONIAL_CONTROLLED_AFRICAN_STATES: "Nekoloniálně kontrolované africké státy"
+ COLLECTION_STATES_IN_AFRICA: "Všechny státy v Africe"
+ COLLECTION_FACTION_CONTROLLED_STATES_IN_AFRICA: "Státy v Africe kontrolované námi"
+ COLLECTION_STATES_IN_ASIA: "Všechny státy v Asii"
+ COLLECTION_FACTION_CONTROLLED_STATES_IN_ASIA: "Státy v Asii kontrolované námi"
+ COLLECTION_STATES_IN_MIDDLE_EAST: "Všechny státy na Blízkém východě"
+ COLLECTION_FACTION_CONTROLLED_STATES_IN_MIDDLE_EAST: "Státy na Blízkém východě kontrolované námi"
+ COLLECTION_STATES_IN_OCEANIA: "Všechny státy v Oceánii"
+ COLLECTION_STATES_IN_ASIA_AND_IN_OCEANIA: "Všechny státy v Asii a Oceánii"
+ COLLECTION_STATES_IN_AMERICAS: "Všechny státy v Severní a Jižní Americe"
+ COLLECTION_FACTION_CONTROLLED_STATES_IN_AMERICAS: "Státy v Severní a Jižní Americe kontrolované námi"
+ COLLECTION_STATES_IN_EUROPE: "Všechny státy v Evropě"
+ COLLECTION_FACTION_CONTROLLED_STATES_IN_EUROPE: "Státy v Evropě kontrolované námi"
+ COLLECTION_STATES_CONTROLLED_BY_FACTION_MEMBER_AND_CORE_HOLDER: "Státy kontrolované členem frakce a držitelem domovského území"
+ COLLECTION_FACTION_CONTROLS_NORTHERN_MANDATE: "Státy ve Východní Sibiři kontrolované námi"
+ COLLECTION_FACTION_CONTROLS_SOUTHERN_MANDATE: "Státy v Jihovýchodní Asii kontrolované námi"
+ COLLECTION_FACTION_CONTROLS_GREATER_GAME: "Státy ve Střední Asii kontrolované námi"
+ COLLECTION_MAJORITY_ARE_SUBJECTS: "většina jsou subjekti vůdce frakce"
+ COLLECTION_NO_JAPANESE_IN_CHINA: "Čínská pevninská území kontrolovaná Japonskem a jeho spojenci"
+ COLLECTION_AMOUNT_OF_SUBJECTS_TO_FACTION_LEADER: "Počet zemí, které jsou subjekty vůdce frakce"
+ COLLECTION_COUNTRIES_EUROPE_NON_ALIGNED: "Nezařazené země v Evropě"
+ COLLECTION_COMINTERN_BORDER_STATES: "Státy sousedící s námi na začátku hry"
+ COLLECTION_CONTROLLED_COMINTERN_BORDER_STATES: "Počáteční pohraniční státy kontrolované námi"
+ COLLECTION_NEIGHBORING_STATES: "Státy sousedící s vůdcem frakce"
+ COLLECTION_CONTROLLED_PUPPET_BORDER_STATES: "Státy kontrolované subjekty vůdce frakce"
+ COLLECTION_FACTION_BORDER_STATES_FULL_INFRASTRUCTURE: "Frakcí kontrolované pohraniční státy bez maximální infrastruktury"
+ COLLECTION_FACTION_LAND_FACILITY: "Pozemní válečná zařízení frakce:"
+ COLLECTION_FACTION_NAVAL_FACILITY: "Námořní inženýrská zařízení frakce"
+ COLLECTION_FACTION_AIR_FACILITY: "Aerodynamická a avionická zařízení frakce"
+ COLLECTION_FACTION_STATES_IN_NORTH_AMERICA: "Frakcí kontrolované státy v Severní Americe"
+ COLLECTION_FACTION_STATES_IN_EUROPE: "Frakcí kontrolované státy v Evropě"
+ COLLECTION_FACTION_STATES_IN_ASIA: "Frakcí kontrolované státy v Asii"
+ COLLECTION_FACTION_STATES_IN_EUROPE_OR_ASIA: "Frakcí kontrolované státy v Evropě nebo Asii"
+ COLLECTION_FACTION_STATES_IN_NORTH_AMERICA_OR_ASIA: "Frakcí kontrolované státy v Severní Americe nebo Asii"
+ COLLECTION_FACTION_STATES_IN_MIDDLE_EAST: "Frakcí kontrolované státy na Blízkém východě"
+ COLLECTION_FACTION_STATES_IN_AUSTRALIA: "Frakcí kontrolované státy v Austrálii"
+ COLLECTION_FACTION_ISLAMIC_COUNTRIES: "Islámské země"
+ COLLECTION_ISLAMIC_FACTION_MEMBERS: "Islámské země v naší frakci"
+ COLLECTION_STATES_IN_BALTICS: "Všechny státy v Pobaltí"
+ COLLECTION_FACTION_CONTROLLED_STATES_IN_BALTICS: "Státy v Pobaltí kontrolované námi"
+ COLLECTION_STATES_IN_NORDICS: "Všechny státy v severském regionu"
+ COLLECTION_FACTION_CONTROLLED_STATES_IN_NORDICS: "Státy v severském regionu kontrolované námi"
+ COLLECTION_CASUALTIES_INFLICTED_BY_FACTION_MEMBERS: "Počet členů frakce, kteří způsobili více než 250 000 ztrát nepříteli v obranné válce"
+ COLLECTION_FACTION_MARE_NOSTRUM_STATES: "Státy ve Středomoří"
+ COLLECTION_FACTION_CONTROLLED_MARE_NOSTRUM_STATES: "Frakcí kontrolované státy ve Středomoří"
+ COLLECTION_FACTION_PAX_ROMANA_STATES: "Bývalé římské státy"
+ COLLECTION_FACTION_CONTROLLED_PAX_ROMANA_STATES: "Frakcí kontrolované bývalé římské státy"
+ COLLECTION_NON_COMMUNIST_STATES: "Státy kontrolované Nekomunisty"
+ COLLECTION_ALL_SAME_CONTINENT_COUNTRIES: "Všechny země na stejném kontinentu"
+ COLLECTION_ALL_COMMUNIST_OR_DEFEATED_SAME_CONTINENT_COUNTRIES: "Komunistické nebo poražené země na stejném kontinentu"

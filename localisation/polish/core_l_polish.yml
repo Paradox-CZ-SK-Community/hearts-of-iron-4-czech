@@ -2085,7 +2085,7 @@
  DIPLOMACY_CREATE_FACTION_NOT_OPP_IDEO: "$COUNTRY$ nemusí být $IDE$, aby mohla být ve frakci s námi." # todo: NEW TRANSLATION
  NAVY_REPAIR_PRIORITY: "§YVyberte prioritu oprav§!" # todo: NEW TRANSLATION
  NAVY_CARRIER_DEFENSIVE_STANCE: "§YVyberte obranný postoj§!" # todo: NEW TRANSLATION
- NAVY_CARRIER_DEFENSIVE_STANCE_CONFLICT: "Většina úkolových sil: $CURRENT|G$" # todo: NEW TRANSLATION
+ NAVY_CARRIER_DEFENSIVE_STANCE_CONFLICT: "Většina úderných skupin: $CURRENT|G$"
  NAVY_CARRIER_DEFENSIVE_STANCE_CURRENT: "Aktuální obranný postoj - $CURRENT|G$" # todo: NEW TRANSLATION
  CARRIER_DEFENSIVE_STANCE_SELECTION_0: "Čistě obranný" # todo: NEW TRANSLATION
  CARRIER_DEFENSIVE_STANCE_SELECTION_1: "Opatrný" # todo: NEW TRANSLATION
@@ -2106,9 +2106,9 @@
  LOCK_MAP_TOOLTIP: "Uzamknout pozici informace na mapě" # todo: NEW TRANSLATION
  LOCK_MAP_TOOLTIP_DESC: "Info bubliny na mapě budou zobrazeny v pravém dolním rohu obrazovky místo na pozici myši." # todo: NEW TRANSLATION
  DEBUG_CLICK_SWITCH_COUNTRY_TOOLTIP: "§GTab + klik§! pro přepnutí na tuto zemi (debug)" # todo: NEW TRANSLATION
- RAID_RANGE_FACTOR_TOOLTIP: "Dodatečný faktor dosahu: $RANGE_FACTOR|+=%$" # todo: NEW TRANSLATION
- RAID_MODIFIED_AIR_RANGE_TOOLTIP: "Upraveno na $RESULT$ kvůli dodatečnému faktoru dosahu typu náletu $RANGE_FACTOR|+=%$" # todo: NEW TRANSLATION
+ RAID_RANGE_FACTOR_TOOLTIP: "Dodatečný faktor doletu: $RANGE_FACTOR|+=%$"
+ RAID_MODIFIED_AIR_RANGE_TOOLTIP: "Upraveno na $RESULT$ kvůli dodatečnému faktoru doletu typu náletu $RANGE_FACTOR|+=%$"
  NOT_PARADROP_PREPARED: "Výsadkový seskok se stále připravuje $CURRENT|R0$/$REQUIRED|Y0$ dní." # todo: NEW TRANSLATION
  JAP_emperor_hirohito_override_instant: "§H$JAP_hirohito$§!\nZatímco Japonskou civilní vládu vede §H$JAP_keisuke_okada$§!, uctívaná hlava státu Hirohito představuje zosobnění moci v zemi.\n\nMnohé frakce soupeří o §HImperial Influence§! dokud Impérium zůstává neporušené." # todo: NEW TRANSLATION
- JAP_emperor_hirohito_override_delayed: """ # todo: NEW TRANSLATION
+ JAP_emperor_hirohito_override_delayed: ""
  PROGRESS_SECTION_RULE: "§YPravidla:§!\n$DESC$" # todo: NEW TRANSLATION

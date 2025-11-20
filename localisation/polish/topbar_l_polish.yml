@@ -9,8 +9,8 @@
  GUARANTEE_TENSION_DESC: "Potřebuje $VAL|%Y0$ napětí pro garantování nezávislosti jiných národů.\n"
  JOIN_FACTION_TENSION_DESC: "Potřebuje $VAL|%Y0$ napětí pro připojení nebo vytvoření frakce.\n"
  LEND_LEASE_TENSION_DESC: "Potřebuje $VAL|%Y0$ napětí pro zaslání pomoci v režimu půjčování a pronájmu.\n"
- MILITARY_FACTORIES_STATUS: "£mil_factory Vojenské továrny v provozu: §Y$USED$§!/§Y$TOTAL$§!" # todo: CHANGED
- NAVAL_FACTORIES_STATUS: "£nav_dockyard_texticon Loděnice v provozu: §Y$USED$§!/§Y$TOTAL$§!" # todo: CHANGED
+ MILITARY_FACTORIES_STATUS: "£mil_factory Vojenské továrny v provozu: §Y$USED$§!/§Y$TOTAL$§!"
+ NAVAL_FACTORIES_STATUS: "£nav_dockyard_texticon Loděnice v provozu: §Y$USED$§!/§Y$TOTAL$§!"
  NO_THREAT_SOURCES: "§HNení aktuální zdroje napětí§!"
  NO_THREAT_SOURCES_WINDOW: "Historie je prázdná"
  NUKES_COUNT_NO_PROGRESS: "$NUM$"
@@ -34,7 +34,7 @@
  THREAT_WINDOW_NAME: "Historie světového napětí"
  TOB_BAR_THREAT: "$VAL|%0$"
  TOPBAR_AIR: "Letecké síly"
- TOPBAR_AIR_DESC: "Zobrazit přehled vašich leteckých sil." # todo: CHANGED
+ TOPBAR_AIR_DESC: "Zobrazit přehled vašich leteckých sil."
  TOPBAR_ARMY: "Armáda"
  TOPBAR_ARMY_DESC: "Podívejte se na přehled svých divizí."
  TOPBAR_CONSTRUCTION: "Výstavba"
@@ -77,8 +77,8 @@
  TOPBAR_TIMEOUT_ITEM_LOC: "$NAME$ ($DAYS|R0$ dní zbývá)"
  TOPBAR_TRADE: "Obchod"
  TOPBAR_TRADE_DESC: "Obchodujte se zdroji z celého světa."
- TOPBAR_ENERGY_DEMAND: "Poptávka po energii: $DEMAND_VAL|H1$ ($ENERGY_RATIO|H1%$)" # todo: NEW TRANSLATION
- TOPBAR_ENERGY_GENERATED: "Vyrobená energie: $ENERGY_GENERATED|H1$" # todo: NEW TRANSLATION
+ TOPBAR_ENERGY_DEMAND: "Poptávka po energii: $DEMAND_VAL|H1$ ($ENERGY_RATIO|H1%$)"
+ TOPBAR_ENERGY_GENERATED: "Vyrobená energie: $ENERGY_GENERATED|H1$"
  TOPBAR_COAL_CURRENTLY_USED: "Z §Y$COUNT$§! £energy_consumption_texticon uhlí aktuálně spotřebované" # todo: NEW TRANSLATION
  TOPBAR_MAXIMUM_ENERGY_GENERATED: "Maximální vyrobená energie: $ENERGY_GENERATED|H1$" # todo: NEW TRANSLATION
  TOPBAR_TOTAL_COAL: "Z §Y$COUNT$§! £energy_consumption_texticon uhlí dostupné k použití" # todo: NEW TRANSLATION

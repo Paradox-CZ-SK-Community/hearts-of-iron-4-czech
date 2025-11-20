@@ -23,7 +23,7 @@
  RESOURCES_ADDITIONAL_FROM_BUILDING_TOOLTIP: "Budovy: $NUM|.0H$ $RESOURCE$"
  RESOURCES_ADDITIONAL_TOOLTIP: "Další zdroje: $NUM|.0H$ $RESOURCE$"
  RESOURCES_BASE_TOOLTIP: "Základ: $NUM|.0H$ $RESOURCE$"
- RESOURCE_BALANCE_VALUE: "$VALUE$"" # todo: CHANGED
+ RESOURCE_BALANCE_VALUE: "$VALUE$"
  RESOURCE_DETAILS_DEFICIT: "Máme k dispozici $TOTAL|H$ jednotek $RESOURCE|H$.\n\nPotřebné pro speciální projekty: $PROJECTS|H$\nPotřebné pro výrobní linky: $PRODUCTION|H$\nDeficit: $DEFICIT|R$"
  RESOURCE_DETAILS_FUEL: "Máme k dispozici $TOTAL|H$ jednotek $RESOURCE|H$.\n\nAktuální spotřeba: $ACTIVE_FUEL|H$\nMaximální spotřeba: $POTENTIAL_FUEL|H$"
  RESOURCE_DETAILS_NET_DEFICIT: "Máme čistý deficit $DEFICIT|R$ jednotek $RESOURCE|H$."
@@ -46,7 +46,7 @@
  TRADEVIEW_EXPORT_DETAILS_LINE_THEY: " - $NUM$/$TOT$ do @$TAG$$WHO|H$"
  TRADEVIEW_EXPORT_DETAILS_LINE_US: " - $NUM$/$TOT$ do §Hnás§!"
  TRADEVIEW_EXPORT_DETAILS_NONE: "§TNic§!"
- TRADEVIEW_EXPORT_DETAILS_US: "Díky $RTM|H$ máme k vývozu $TOT|H$ $RES|H$§T, z čehož nám zbývá $AVAILABLE|H$.\nAktuální exporty:§!" # todo: CHANGED
+ TRADEVIEW_EXPORT_DETAILS_US: "Díky $RTM|H$ máme k vývozu $TOT|H$ $RES|H$§T, z čehož nám zbývá $AVAILABLE|H$.\nAktuální exporty:§!"
  TRADEVIEW_EXPORT_DETAILS_US_DEFICIT: "Z $TOT|H$ $RES|H$ §T§Hmy§! máme §H0§! k vývozu a deficit $AVAILABLE|H$ pro pokrytí všech stávajících vývozních smluv.\nAktuální vývoz:§!"
  TRADEVIEW_IMPORT_DETAILS: "$WHO|H$ dováží $TOT|H$ $RES|H$ z $NUM|H$ zemí:"
  TRADEVIEW_IMPORT_DETAILS_LINE_THEY: " - Dovoz $NUM$/$TOT$ od @$TAG$$WHO|H$"

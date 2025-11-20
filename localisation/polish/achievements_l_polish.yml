@@ -116,14 +116,14 @@
  im_just_passing_by_tt: "Jako [RAJ.GetNonIdeologyName] vlastněte území na každém kontinentu, zatímco budete v míru."
  media_mughal_tt: "Jako Mughalská říše dokončete vylepšení agentury §Y$upgrade_psycho_warfare$§!, staňte se §YŠéfem špionáže§! a mějte alespoň 8 operativců."
  i_shall_either_find_a_way_or_make_one_tt: "Jako [RAJ.GetNonIdeologyName] plně ovládněte [2.GetName] a mějte jednotku slonů ve státě."
- battle_royale_tt: "Jako [PRC.GetName] bojuj s oběma [CHI.GetNonIdeologyName] a [JAP.GetNonIdeologyName] před rokem 1940; mezi vyhlášením války s jedním a s druhým musí uplynout nejvýše 90 dnů a donuť je oba kapitulovat" # todo: NEW TRANSLATION
- the_winner_takes_it_all_tt: "Jako [PRC.GetNonIdeologyName] vlastni a kontroluj všechny počáteční jádrové státy [PRC.GetNonIdeologyName]" # todo: NEW TRANSLATION
- master_infiltrator_tt: "Jako [PRC.GetNonIdeologyName] nerozšiřuj se za hranice Yan'an a infiltrovat alespoň 5 čínských států a převést je pod svou kontrolu při útoku na zbytek Číny" # todo: NEW TRANSLATION
- its_all_coming_together_tt: "Jako [CHI.GetNonIdeologyName] plně ovládni všechny jádrové státy sám nebo se svými vazaly" # todo: NEW TRANSLATION
- the_coast_is_clear_tt: "Jako [CHI.GetNonIdeologyName] nikdy neztratíš žádný počáteční pobřežní stát před 2. zářím 1945" # todo: NEW TRANSLATION
- paradisus_paradoxum_tt: "Jako [JAP.GetNonIdeologyName] vyhlásit vznik Čisté buddhistické země" # todo: NEW TRANSLATION
- an_equivalent_exchange_tt: "Jako demokratická [JAP.GetNonIdeologyName] dokonči fokus $JAP_democratic_foreign_exchange_allocation_policy$ a donuť k kapitulaci fašistickou [GER.GetNonIdeologyName]" # todo: NEW TRANSLATION
- declare_military_emergency_tt: "Jako [PHI.GetNonIdeologyName] mít $PHI_military_emergency_flag$" # todo: NEW TRANSLATION
- cobalt_sea_tt: "Jako [PHI.GetNonIdeologyName] spusť úspěšný jaderný nebo termonukleární nájezd z ponorky" # todo: NEW TRANSLATION
- the_neverending_story_tt: "Jako válečný pán ovládni všechny čínské počáteční jádrové státy a obnov Čínské císařství" # todo: NEW TRANSLATION
- doctrine_of_choice_tt: "Dokončil tři poddoktríny ve stejné větvi"" # todo: NEW TRANSLATION
+ battle_royale_tt: "Jako [PRC.GetName], ať je tvým protivníkem současně [CHI.GetNonIdeologyName] i [JAP.GetNonIdeologyName] před rokem 1940 během 90 dní od vstupu do války s jedním z nich a přinuť oba kapitulovat"
+ the_winner_takes_it_all_tt: "Jako [PRC.GetNonIdeologyName], vlastni a kontroluj všechna domovská území, s kterými [PRC.GetNonIdeologyName] začíná"
+ master_infiltrator_tt: "Jako [PRC.GetNonIdeologyName], nerozšiřuj se za hranice Jen-anu, infiltruj alespoň 5 čínských států a převeď je pod svou kontrolu při útoku na zbytek Číny"
+ its_all_coming_together_tt: "Jako [CHI.GetNonIdeologyName], plně kontroluj všechna domovská území — osobně nebo se svými subjekty"
+ the_coast_is_clear_tt: "Jako [CHI.GetNonIdeologyName], neztrať žádný počáteční pobřežní stát před 2. zářím 1945"
+ paradisus_paradoxum_tt: "Jako [JAP.GetNonIdeologyName], vyhlaš vytvoření Čisté buddhistické krajiny"
+ an_equivalent_exchange_tt: "Jako demokratické [JAP.GetNonIdeologyName], dokonči Zaměření $JAP_democratic_foreign_exchange_allocation_policy$ a přinuť kapitulovat fašistické [GER.GetNonIdeologyName]"
+ declare_military_emergency_tt: "Jako [PHI.GetNonIdeologyName], měj aktivní příznak $PHI_military_emergency_flag$"
+ cobalt_sea_tt: "Jako [PHI.GetNonIdeologyName], proveď úspěšný jaderný nebo termonukleární nálet z ponorky"
+ the_neverending_story_tt: "Jako čínský militarista, kontroluj všechna počáteční čínská domovská území a obnov Čínskou říši"
+ doctrine_of_choice_tt: "Dokončil tři dílčí doktriny v jedné větvi"

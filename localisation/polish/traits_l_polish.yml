@@ -569,7 +569,7 @@
  emperor_and_autocrat_of_all_the_russias: "Císař a vládce všech Rusů"
  emperor_of_ethiopia: "Císař Etiopie"
  emperor_of_france_and_the_americas: "Pravý císař Francie a Ameriky"
- emperor_showa: "Císař Šówa" # todo: CHANGED
+ emperor_showa: "Císař Šówa"
  empire_builder: "Stavitel říše"
  ENABLES_ABILITY: "Povoluje schopnost: $NAME|H$"
  energy_company_trait: "Energetická společnost"
@@ -980,7 +980,7 @@
  IRQ_emir_of_taif: "Emír Táifu"
  IRQ_fliegerfuhrer: "Fliegerführer Irak\n(Expert)"
  IRQ_german_ambassador: "Německý velvyslanec"
- IRQ_golden_square_member_desc: "Zlatý čtverec je klika vysoce postavených vojenských důstojníků, kteří touží po nové cestě pro Irák, přiklání se k panarabské ideologii a jsou ochotni spolupracovat s kýmkoli, aby dosáhli svých cílů." # todo: CHANGED
+ IRQ_golden_square_member_desc: "Zlatý čtverec je klika vysoce postavených vojenských důstojníků, kteří touží po nové cestě pro Irák, přiklání se k panarabské ideologii a jsou ochotni spolupracovat s kýmkoli, aby dosáhli svých cílů."
  IRQ_golden_square_member: "Člen Zlatého náměstí"
  IRQ_great_iraqi_statesman: "Velký irácký státník"
  IRQ_hashemite_caliph: "Chalífa"
@@ -1006,7 +1006,7 @@
  irregulars_officer_desc: "§LSchopný vést nepravidelné jednotky v boji.§!"
  irregulars_officer: "Důstojník nepravidelných jednotek"
  is_using_battle_plans: "Používá bitevní plány"
- islamic_scholar: "Islámský učenec" # todo: CHANGED
+ islamic_scholar: "Islámský učenec"
  ITA_aviation_hero_tt: "  - $air_equipment_research$: §G+5%§!"
  ITA_head_of_the_national_committee: "Předseda národního výboru"
  ITA_hierarch_bop_tt: "Když je najat, §Y$ITA_power_balance$§! posune o §Y15%§! směrem k §YVelké radě fašismu§!."
@@ -1746,7 +1746,7 @@
  SWI_anarchist: "Anarchista"
  SWI_anti_communist: "Komunista"
  SWI_anti_fascist: "Antifašista"
- SWI_brandy_the_st_bernard_trait: "Neschopný poradce" # todo: CHANGED
+ SWI_brandy_the_st_bernard_trait: "Neschopný poradce"
  SWI_cantonal_conservative: "Kantonální konzervativec"
  SWI_commander_in_chief: "Vrchní velitel"
  SWI_communist: "Komunista"
@@ -1980,15 +1980,15 @@
  brave: "Odvážný" # todo: NEW TRANSLATION
  brave_desc: "K vedení těch nejnebezpečnějších misí je zapotřebí odvážného generála." # todo: NEW TRANSLATION
  resource_development_company_2: "Společnost pro rozvoj surovin" # todo: NEW TRANSLATION
- industrial_conglomerate: "Průmyslový Zaibatsu" # todo: NEW TRANSLATION
- armament_zaibatsu: "Zbrojařské Zaibatsu" # todo: NEW TRANSLATION
- zaibatsu_bank: "Banka Zaibatsu" # todo: NEW TRANSLATION
+ industrial_conglomerate: "Průmyslový Zaibacu" # todo: NEW TRANSLATION
+ armament_zaibatsu: "Zbrojařské Zaibacu" # todo: NEW TRANSLATION
+ zaibatsu_bank: "Banka Zaibacu" # todo: NEW TRANSLATION
  monopolistic_bank: "Monopolistická banka" # todo: NEW TRANSLATION
  colonial_investments_company: "Společnost pro rozvoj kolonií" # todo: NEW TRANSLATION
  south_seas_development_company: "Společnost pro rozvoj Jižních moří" # todo: NEW TRANSLATION
  national_news_agency: "Národní tisková agentura" # todo: NEW TRANSLATION
  propaganda_agency: "Propagační agentura" # todo: NEW TRANSLATION
- mining_zaibatsu: "Zaibatsu pro těžbu a strojírenství" # todo: NEW TRANSLATION
+ mining_zaibatsu: "Zaibacu pro těžbu a strojírenství" # todo: NEW TRANSLATION
  motivated: "Motivovaný" # todo: NEW TRANSLATION
  motivated_desc: "Schopný člověk je dobrý. Když je motivovaný, je to ještě lepší." # todo: NEW TRANSLATION
  PRC_the_general_secretary: "Generální tajemník" # todo: NEW TRANSLATION
@@ -2142,7 +2142,7 @@
  JAP_godfather_of_the_yamaguchi_gumi: "Kmotr Yamaguchi-gumi" # todo: NEW TRANSLATION
  JAP_nissan_president: "Prezident Nissan" # todo: NEW TRANSLATION
  JAP_nissan_president_2: "$JAP_nissan_president$" # todo: NEW TRANSLATION
- JAP_yasukawa_zaibatsu_president: "Prezident Yasukawa Zaibatsu" # todo: NEW TRANSLATION
+ JAP_yasukawa_zaibatsu_president: "Prezident Yasukawa Zaibacu" # todo: NEW TRANSLATION
  JAP_dadaist_nihilist: "Dadaistický nihilista" # todo: NEW TRANSLATION
  JAP_anarcha_feminist: "Anarcha-feminista" # todo: NEW TRANSLATION
  JAP_democratic_socialist: "Demokratický socialista" # todo: NEW TRANSLATION

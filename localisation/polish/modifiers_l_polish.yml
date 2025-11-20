@@ -2398,9 +2398,9 @@
  modifier_production_speed_naval_supply_hub_factor: "§YNámořní zásobovací uzel§! rychlost výstavby" # todo: NEW TRANSLATION
  modifier_production_speed_naval_supply_hub_factor_desc: "Mění rychlost výstavby námořního zásobovacího uzlu." # todo: NEW TRANSLATION
  production_speed_naval_supply_hub_factor_tt: " $modifier_production_speed_naval_supply_hub_factor$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
- amphibious_invasion_tt: " $MODIFIER_AMPHIBIOUS_INVASION$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
- MODIFIERS_ARMY_CLAIM_ATTACK_FACTOR: "Útok divizí na nárokované území" # todo: NEW TRANSLATION
- MODIFIERS_ARMY_CLAIM_DEFENCE_FACTOR: "Obrana divizí na nárokovaném území" # todo: NEW TRANSLATION
+ amphibious_invasion_tt: " $MODIFIER_AMPHIBIOUS_INVASION$: $RIGHT|+=%1$"
+ MODIFIERS_ARMY_CLAIM_ATTACK_FACTOR: "Útok divizí na nárokovaném území"
+ MODIFIERS_ARMY_CLAIM_DEFENCE_FACTOR: "Obrana divizí na nárokovaném území"
  sortie_efficiency_tt: " $CARRIER_SORTIE_EFFICIENCY_FACTOR$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
  air_interception_detect_factor_tt: " $MODIFIER_AIR_INTERCEPTION_DETECT_FACTOR$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
  MODIFIER_INDUSTRIAL_CAPACITY_POWERED_FACTOR: "Výstup napájených továren" # todo: NEW TRANSLATION
@@ -2505,9 +2505,9 @@
  MODIFIER_AUTONOMY_MANPOWER_SHARE_FROM_SUBJECTS: "Požadavek na vojenské síly od subjektů" # todo: NEW TRANSLATION
  MODIFIER_AUTONOMY_MANPOWER_SHARE_FROM_SUBJECTS_DESC: "Množství vojenské síly požadované od subjektů" # todo: NEW TRANSLATION
  autonomy_manpower_share_from_subjects_tt: " $MODIFIER_AUTONOMY_MANPOWER_SHARE_FROM_SUBJECTS$: $RIGHT|Y=%1$" # todo: NEW TRANSLATION
- fascism_drift_from_guarantees: "Růst fašismu v zahraničí z důvodu garancí" # todo: NEW TRANSLATION
- communism_drift_from_guarantees: "Růst komunismu v zahraničí z důvodu garancí" # todo: NEW TRANSLATION
- democratic_drift_from_guarantees: "Růst demokracie v zahraničí z důvodu garancí" # todo: NEW TRANSLATION
- neutrality_drift_from_guarantees: "Růst nestrannosti v zahraničí z důvodu garancí" # todo: NEW TRANSLATION
- MODIFIER_GUARANTEE_OTHER_IDEOLOGIES: "Může garantovat jiné ideologie"" # todo: NEW TRANSLATION
- naval_mines_planting_by_air_factor_tt: " $MODIFIER_MINES_PLANTING_BY_AIR_FACTOR$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
+ fascism_drift_from_guarantees: "Růst fašismu v zahraničí z důvodu garancí"
+ communism_drift_from_guarantees: "Růst komunismu v zahraničí z důvodu garancí"
+ democratic_drift_from_guarantees: "Růst demokracie v zahraničí z důvodu garancí"
+ neutrality_drift_from_guarantees: "Růst nestrannosti v zahraničí z důvodu garancí"
+ MODIFIER_GUARANTEE_OTHER_IDEOLOGIES: "Může garantovat jiné ideologie"
+ naval_mines_planting_by_air_factor_tt: " $MODIFIER_MINES_PLANTING_BY_AIR_FACTOR$: $RIGHT|+=%1$"
