@@ -2350,3 +2350,4 @@
  weekly_manpower_tt: " $MODIFIER_WEEKLY_MANPOWER$: $RIGHT|+=0$"
  whitespace_tt: " "
  winter_attrition_factor_tt: " $MODIFIER_WINTER_ATTRITION_FACTOR$: $RIGHT|-=%1$"
+ MODIFIER_AIR_AGILITY_NIGHT_FACTOR:0 "Noční obratnost letadel" # todo: NEW TRANSLATION

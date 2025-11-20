@@ -1,4 +1,4 @@
-﻿l_polish: 
+﻿l_polish:
  AFG_amanullah_caliphate_fascism_DEF: "Amanulláhův chalífát"
  AFG_amanullah_caliphate_fascism: "Amanulláhův chalífát"
  AFG_amanullah_caliphate_neutrality_DEF: "Amanulláhův chalífát"
@@ -839,7 +839,6 @@
  EST_UGRA_neutrality_DEF: "Ugrofinsko"
  EST_UGRA_neutrality: "Ugrofinsko"
  EST_UGRA: "Ugrofinsko"
- ESU_POR_unified_ADJ: "iber."
  ESU_POR_unified_communism_adj: "iber."
  ESU_POR_unified_communism_def: "Iberská socialistická unie"
  ESU_POR_unified_communism: "Iberská socialistická unie"
@@ -2747,3 +2746,9 @@
  ZIM_GER_autonomy_satellite: "Mittelafrika"
  ZIM_GER_fascism_autonomy_puppet_DEF: "Říšský protektorát Mittelafrika"
  ZIM_GER_fascism_autonomy_puppet: "Říšský protektorát Mittelafrika"
+ USA_REBEL_communism_ADJ: "Americký" # todo: NEW TRANSLATION
+ ESU_POR_unified_adj: "Iberský" # todo: NEW TRANSLATION
+ WES_autonomy_collaboration_government_DEF: "$OVERLORDADJ$ $NONIDEOLOGY$" # todo: NEW TRANSLATION
+ BRA_union_of_latin_american_socialist_republics_cos_tag: "Unie latinskoamerických socialistických republik" # todo: NEW TRANSLATION
+ BRA_union_of_latin_american_socialist_republics_cos_tag_def: "Unie latinskoamerických socialistických republik" # todo: NEW TRANSLATION
+ indigenous_brazil_neutrality: "Velká Pindorama" # todo: NEW TRANSLATION

@@ -460,10 +460,6 @@
  bftb_bulgaria_imro.2.a: "Nastal čas znovu se vypořádat s VMRO..."
  bftb_bulgaria_imro.2.desc: "Aktivisté VMRO a další promakedonští Bulhaři právě šíří probulharský sentiment mezi makedonským obyvatelstvem.\nV důsledku toho region sužuje nová vlna nestability a odporu vůči [ROOT.GetAdjective] vládě."
  bftb_bulgaria_imro.2.t: "Probuzení bulharského sentiment v Makedonii"
- bftb_bulgaria_Italian_influence.1.a: "Z této dohody bude [ITA.GetNameDef] jenom profitovat."
- bftb_bulgaria_Italian_influence.1.b: "Nebudeme se s Bulhary dělit o naše technologické pokroky!"
- bftb_bulgaria_Italian_influence.1.desc: "[BUL.GetAdjectiveCap] delegace dnes dorazila do naší metropole se žádostí o schůzku s [ITA.GetAdjective] ministrem zahraničí, aby navrhla podpis dohody mezi našimi zeměmi. \nSmlouva, kterou předkládají [BUL.GetAdjective] diplomaté, zahrnuje mimo jiné program vojenské spolupráce zaměřený na technologický výzkum a že [BUL.GetNameDef] zavede nové ekonomické regulace, jež poskytnou významné výhody [ITA.GetAdjective] investorům."
- bftb_bulgaria_Italian_influence.1.t: "[BUL.GetAdjectiveCap] návrh výzkumné dohody"
  bftb_bulgaria_nationalization.1.a: "Teď s tím nic nenaděláme..."
  bftb_bulgaria_nationalization.1.b: "Obchodní embargo je naučí respektu!"
  bftb_bulgaria_nationalization.1.c: "Pošleme diplomatickou delegaci... v čele s tanky!"
@@ -645,7 +641,7 @@
  bftb_greece.12.a: "[ROOT.GetAdjectiveCap] ruce budou formovat svět."
  bftb_greece.12.desc: "Úředníci shromáždění v hlavním městě s potěšením vyslechli, že delegáty na naši Herakleionskou konferenci vyšlou jak [ENG.GetNameDef], tak [FRA.GetNameDef]. Přípravy na summit jsou dokončeny a konference začne během několika dní. \n\nSpolečně naši delegáti vytyčí sféry vlivu pro [TUR.GetAdjective] sever a jih, než nakonec rozhodnou, zda nám mají být udělena naše právoplatná území podél Egejského moře. Píše se historie - a [ROOT.GetNameDef] bude v jejím samotném srdci."
  bftb_greece.12.t: "[ENG.GetNameDefCap] a [FRA.GetNameDef] se účastní Herakleionské konference"
- bftb_greece.13.a: "To bude zajímavé..." 
+ bftb_greece.13.a: "To bude zajímavé..."
  bftb_greece.13.desc: "Úředníci shromáždění v hlavním městě s potěšením vyslechli, že delegáty na naši Herakleionskou konferenci vyšlou jak [ENG.GetNameDef], tak [FRA.GetNameDef], avšak nadšení zchladila nervozita, jelikož účast potvrdila i [ITA.GetNameDef]. Řada našich politiků soukromě vyjádřila obavy, že [ITA.GetAdjective] intriky mohou celý podnik sabotovat, [ROOT.GetLeader] však trvá na tom, že [ITA.GetNameDef] musela být pozvána. Přípravy na summit jsou hotové a konference oficiálně začne během několika dní. \n\nSpolečně naši delegáti vytyčí sféry vlivu pro [TUR.GetAdjective] sever a jih, než nakonec rozhodnou, zda nám mají být udělena naše právoplatná území podél Egejského moře. Píše se historie - a [ROOT.GetNameDef] bude v jejím samotném srdci."
  bftb_greece.13.t: "Všichni signatáři Sèvres se účastní Herakleionské konference"
  bftb_greece.14.a: "Naše pýcha nás přivedla do záhuby."
@@ -1717,3 +1713,7 @@
  megali_idea_honoured_greece_tt: "Území slíbená našim spojencům během §YHerakleionské konvence§! již byla předána.\n"
  megali_idea_honoured_tt: "Území slíbená nám §Y[GRE.GetNameDef]§! během §YHerakleionské konvence§! již byla předána."
  potential_war_with_turkey_tt: "§RPokud souhlasíme s účastí, je značná šance, že budeme v blízké budoucnosti zataženi do války s [TUR.GetNameDef] výměnou za tamní územní zisky§!."
+ bftb_bulgaria_italian_influence.1.t: "[BUL.GetAdjective] návrh na dohodu o výzkumu" # todo: NEW TRANSLATION
+ bftb_bulgaria_italian_influence.1.desc: "Dnes dorazila do našeho hlavního města [BUL.GetAdjective] delegace, která žádá schůzku s [ITA.GetAdjective] ministrem zahraničí, aby navrhla podpis dohody mezi našimi zeměmi. \nSmlouva předložená [BUL.GetAdjective] diplomaty zahrnuje mimo jiné program vojenské spolupráce zaměřený na technologický výzkum a zavedení nových hospodářských předpisů v [BUL.GetNameDef], které poskytnou významné výhody [ITA.GetAdjective] investorům." # todo: NEW TRANSLATION
+ bftb_bulgaria_italian_influence.1.a: "Toto je výhodná dohoda pro [ITA.GetNameDef]." # todo: NEW TRANSLATION
+ bftb_bulgaria_italian_influence.1.b: "Nechceme sdílet naše technologické pokroky s [BUL.GetAdjective]!" # todo: NEW TRANSLATION

@@ -1036,7 +1036,6 @@
  PER_communist_events.4.a: "Kdo za tím stojí?"
  PER_communist_events.4.desc: "V posledních dnech zaznamenáváme výrazný nárůst odporu proti naší okupaci území u [PER.GetAdjective] hranice. Příčina je nejasná, ale roste obava, že někdo podněcuje protinárodní nálady s cílem oslabit naši přítomnost."
  PER_communist_events.4.t: "Zvýšený odpor na [PER.GetAdjective] hranici"
- PER_communist_events.4_tt: "§RNaše státy v Perském zálivu mohou čelit zvýšenému odporu v následujících měsících!§!"
  PER_communist_events.5.a: "Stáhneme se, s protestem."
  PER_communist_events.5.b: "A kdo má jejich námořnictvo?"
  PER_communist_events.5.desc: "Zdá se, že většina nedávných nepokojů v Perském zálivu a okolí má svůj původ v [FROM.GetNameDef]. Po řadě strategických vítězství v regionu se nyní cítí natolik sebevědomí, aby učinili svůj největší krok. Režim [FROM.GetAdjective] požaduje naši úplnou evakuaci z Arabského poloostrova a Perského zálivu a dokonce naznačili ochotu uzavřít záliv blokádou, pokud neuposlechneme."
@@ -1375,3 +1374,4 @@
  goe_japan.1.t: "Bós nabízí podporu pro kampaň v Barmě"
  rejected_hashemite_federation_tt: "§RUž nebudeme moci zvát [FROM.GetNameDef] do naší federace!§!"
  the_1936_PAL_revolt_has_happened: "§YProběhlo palestinské povstání a [ENG.GetAdjective] vojska byli vyhnány.§!"
+ PER_communist_events_4_tt: "§RNaše státy v Perském zálivu se mohou v nadcházejících měsících setkat se zvýšeným odporem!§!" # todo: NEW TRANSLATION

@@ -843,7 +843,6 @@
  CKK_communism: "Čukotská lidová republika"
  CKK_democratic_ADJ: "čukots."
  CKK_democratic_DEF: "Republika Čukotka"
- CCK_democratic: "Republika Čukotka"
  CKK_fascism_ADJ: "čukč."
  CKK_fascism_DEF: "Čukčové"
  CKK_fascism: "Čukčové"
@@ -3504,7 +3503,7 @@
  RAR_neutrality_ADJ: "arab."
  RAR_neutrality_DEF: "Velkovévodství Arábie"
  RAR_neutrality: "Velkovévodství Arábie"
- RAR: "Říšský komisariát Arabien
+ RAR: "Říšský komisariát Arabien"
  RAS_ADJ: "madrás."
  RAS_communism_ADJ: "madrás."
  RAS_communism_DEF: "Demokratická republika Madrás"
@@ -5225,3 +5224,4 @@
  ZIM_neutrality_DEF: "Zimbabwe"
  ZIM_neutrality: "Zimbabwe"
  ZIM: "Zimbabwe"
+ CKK_democratic: "Čukotská republika" # todo: NEW TRANSLATION
