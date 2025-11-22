@@ -2,7 +2,7 @@
  CAREER_PROFILE_1940_TO_1944: "1940-1944"
  CAREER_PROFILE_1945_AND_LATER: "1945 a později"
  CAREER_PROFILE_AIRSPACE_SUPERIORITY_RATING_LABEL: "Rating vzdušné převahy"
- CAREER_PROFILE_AIR_DOCTRINE: "Nejčastěji používaná letecká hlavní doktrína" # todo: CHANGED
+ CAREER_PROFILE_AIR_DOCTRINE: "Nejčastěji používaná letecká hlavní doktrína"
  CAREER_PROFILE_AIR_PRODUCTION: "Výroba letadel"
  CAREER_PROFILE_BACKGROUNDS: "Pozadí profilu"
  CAREER_PROFILE_BACKUP_QUOTE_31: "\"...mnozí z nás si tehdy mysleli, že jsme nikdy neslyšeli vítanější zvuk než to hluboké dunění a burácení, které se ozvalo za našimi zády.\"\n\n- Fritz Kreisler"
@@ -13,7 +13,7 @@
  CAREER_PROFILE_BEFORE_1940: "Před rokem 1940"
  CAREER_PROFILE_BLITZ_THIS: "Zblitzuj tohle..."
  CAREER_PROFILE_BLITZ_THIS_DESCRIPTION: "Zvolte elastickou obranu jako preferovanou strategii u generála, maršála nebo celé země."
- CAREER_PROFILE_BLITZ_THIS_QUOTE: "\"Stáhněte linie jako lukostřelec natahující tětivu – a pak uvolněte.\"\n\n- Neznámý"
+ CAREER_PROFILE_BLITZ_THIS_QUOTE: "\"Stáhněte linie jako lukostřelec natahující tětivu - a pak uvolněte.\"\n\n- Neznámý"
  CAREER_PROFILE_BRAINS_AND_BRUTE_FORCE_MEDAL: "Mozky a hrubá síla"
  CAREER_PROFILE_BRAINS_AND_BRUTE_FORCE_MEDAL_DESCRIPTION: "Dešifrujte stanovený počet šifer."
  CAREER_PROFILE_CAPITAL_SHIP_LABEL: "Těžké křižníky a bitevní lodě"
@@ -77,11 +77,11 @@
  CAREER_PROFILE_KNOWLEDGE_IS_POWER_DESCRIPTION: "Mějte alespoň následující počet kvalifikovaných vědců"
  CAREER_PROFILE_KNOWLEDGE_IS_POWER_GOLD: "$VALUE|0H$ vědec úrovně 5"
  CAREER_PROFILE_KNOWLEDGE_IS_POWER_SILVER: "$VALUE|0H$ vědci úrovně 4"
- CAREER_PROFILE_LAND_DOCTRINE: "Nejčastěji používaná pozemní hlavní doktrína" # todo: CHANGED
+ CAREER_PROFILE_LAND_DOCTRINE: "Nejčastěji používaná pozemní hlavní doktrína"
  CAREER_PROFILE_LIGHT_TANK_LABEL: "Lehké tanky"
  CAREER_PROFILE_MARE_NOSTRUM: "Mare Nostrum"
- CAREER_PROFILE_MARE_NOSTRUM_DESCRIPTION: "Získejte námořní nadvládu ve šesti hlavních mořských oblastech Středozemního moře, z nichž alespoň jedna je sporná." # todo: CHANGED
- CAREER_PROFILE_MARE_NOSTRUM_QUOTE: ""Když jsem ztratil pušku, armáda mi účtovala 85 dolarů. To je důvod, proč ve námořnictvu jde kapitán ku dnu i s lodí."\n\n- Dick Gregory"
+ CAREER_PROFILE_MARE_NOSTRUM_DESCRIPTION: "Získejte námořní nadvládu ve šesti hlavních mořských oblastech Středozemního moře, z nichž alespoň jedna je sporná."
+ CAREER_PROFILE_MARE_NOSTRUM_QUOTE: "\"Když jsem ztratil pušku, armáda mi účtovala 85 dolarů. To je důvod, proč ve námořnictvu jde kapitán ku dnu i s lodí.\"\n\n- Dick Gregory"
  CAREER_PROFILE_MASS_ASSAULT_XP_LABEL: "Masivní útok"
  CAREER_PROFILE_MEDIUM_TANK_LABEL: "Střední tanky"
  CAREER_PROFILE_MILITARY_FACTORIES_BUILT_LABEL: "Postavené vojenské továrny"
@@ -95,13 +95,13 @@
  CAREER_PROFILE_MODERN_VERDUN_DESCRIPTION: "Nechte bitvu pokračovat bez přerušení po stanovený počet dní."
  CAREER_PROFILE_MOST_USED_COMBAT_WIDTH_LABEL: "Nejvíce používaná šířka boje"
  CAREER_PROFILE_NAVAL_BOMBER_LABEL: "Námořní bombardéry"
- CAREER_PROFILE_NAVAL_DOCTRINE: "Nejčastěji používaná námořní hlavní doktrína" # todo: CHANGED
+ CAREER_PROFILE_NAVAL_DOCTRINE: "Nejčastěji používaná námořní hlavní doktrína"
  CAREER_PROFILE_NAVAL_PRODUCTION: "Výroba lodí"
  CAREER_PROFILE_NEVERMINE_ME_MEDAL: "Nikdy mě nemine"
- CAREER_PROFILE_NEVERMINE_ME_MEDAL_DESCRIPTION: "Umístěte přes 500 min v určitém počtu námořních zón." # todo: CHANGED
+ CAREER_PROFILE_NEVERMINE_ME_MEDAL_DESCRIPTION: "Umístěte přes 500 min v určitém počtu námořních zón."
  CAREER_PROFILE_OPERATIONAL_INTEGRITY_XP_LABEL: "Provozní integrita"
  CAREER_PROFILE_ORCHESTRA_OF_BOOM: "Orchestr hřmění"
- CAREER_PROFILE_ORCHESTRA_OF_BOOM_DESCRIPTION: "Nasadit divizi obsahující alespoň jeden "Protivzdušný", "Dělostřelecký", "Raketový" a "Protitankový" prapor, podporovanou spojovací rotou."
+ CAREER_PROFILE_ORCHESTRA_OF_BOOM_DESCRIPTION: "Nasadit divizi obsahující alespoň jeden \"Protivzdušný\", \"Dělostřelecký\", \"Raketový\" a \"Protitankový\" prapor, podporovanou Spojovací rotou."
  CAREER_PROFILE_ORCHESTRA_OF_BOOM_QUOTE: "\n\n\"Pravé crescendo zvuků, tak nepřetržité, že se spojují a splývají v jediný ničivý řev, řev vlaku v tunelu zesílený milionkrát.\"\n\n- Arnold D. Harvey"
  CAREER_PROFILE_OTHER_LABEL: "Ostatní"
  CAREER_PROFILE_PICTURES: "Profilové obrázky"
@@ -128,14 +128,14 @@
  CAREER_PROFILE_RACE_FOR_THE_BOMB_SILVER: "Konec roku 1944"
  CAREER_PROFILE_ROCKETS_REIGN: "Vláda raket"
  CAREER_PROFILE_ROCKETS_REIGN_DESCRIPTION: "Postavte více než 10 raketových základen."
- CAREER_PROFILE_ROCKETS_REIGN_QUOTE: "\"Raketa fungovala perfektně – až na to, že přistála na špatné planetě.\"\n\n- Wernher Von Braun"
+ CAREER_PROFILE_ROCKETS_REIGN_QUOTE: "\"Raketa fungovala perfektně - až na to, že přistála na špatné planetě.\"\n\n- Wernher Von Braun"
  CAREER_PROFILE_ROCKET_SITES_BUILT_LABEL: "Vybudované raketové základny"
  CAREER_PROFILE_RUBBER_BARON: "Kaučukový baron"
  CAREER_PROFILE_RUBBER_BARON_DESCRIPTION: "Ovládejte alespoň 1000 jednotek gumy při uzavřené ekonomice."
  CAREER_PROFILE_RUBBER_BARON_QUOTE: "\"...obsazení hlavních oblastí produkce kaučuku na Dálném východě v roce 1942 eliminovalo 90 % světové výroby přírodní gumy.\"\n\n- Southern Economic Journal, leden 1947"
  CAREER_PROFILE_RULED_BY_FURNITURE: "Vláda nábytku"
  CAREER_PROFILE_RULED_BY_FURNITURE_DESCRIPTION: "Nemějte jedinou osobu nebo skupinu lidí zobrazenou jako odpovědné za vaši zemi."
- CAREER_PROFILE_RULED_BY_FURNITURE_QUOTE: "\"Starosti jsou jako houpací křeslo – zaměstnají vás, ale nikam vás neposunou.\"\n\n- Staré anglické přísloví"
+ CAREER_PROFILE_RULED_BY_FURNITURE_QUOTE: "\"Starosti jsou jako houpací křeslo - zaměstnají vás, ale nikam vás neposunou.\"\n\n- Staré anglické přísloví"
  CAREER_PROFILE_SCORCHED_EARTH: "Spálená země"
  CAREER_PROFILE_SCORCHED_EARTH_DESCRIPTION: "Zničte železnice pomocí funkce \"Spálená země\", abyste zpomalili postup nepřítele."
  CAREER_PROFILE_SCORCHED_EARTH_QUOTE: "\"Nepříteli nesmí být ponechán ani jediná lokomotiva, ani jediný železniční vagon, ani libra obilí, ani galon paliva.\"\n\n- Joseph Stalin, rozhlasový projev, 3. července 1941"
@@ -163,7 +163,7 @@
  CAREER_PROFILE_SWITCHER_PUBLIC: "Veřejné"
  CAREER_PROFILE_SYNTHETIC_SECURITY: "Syntetická bezpečnost"
  CAREER_PROFILE_SYNTHETIC_SECURITY_DESCRIPTION: "Získejte více než 30 jednotek gumy z umělých zdrojů (syntetické rafinerie)."
- CAREER_PROFILE_SYNTHETIC_SECURITY_QUOTE: "\"Kdyby ženy ve fabrikách přestaly pracovat na dvacet minut, Spojenci by prohráli válku.\"\n\n– Maršál Joseph Joffre, první světová válka"
+ CAREER_PROFILE_SYNTHETIC_SECURITY_QUOTE: "\"Kdyby ženy ve fabrikách přestaly pracovat na dvacet minut, Spojenci by prohráli válku.\"\n\n- Maršál Joseph Joffre, první světová válka"
  CAREER_PROFILE_TACTICAL_BOMBER_LABEL: "Taktické bombardéry"
  CAREER_PROFILE_TANK_PRODUCTION: "Výroba tanků"
  CAREER_PROFILE_TASK_FAILED_SUCCESSFULLY: "Úkol úspěšně selhal"
@@ -211,9 +211,9 @@
  CHAT_YOUWEREBANNED: "$OP$ vás vyloučil z $CHANNEL$"
  LOGIN_DESCRIPTION_CUSTOMIZATION_BOLD: "Přihlaste se pomocí svého Paradox účtu a přizpůsobte svůj profil"
  LOGIN_DESCRIPTION_FRIENDS_BOLD: "Přihlaste se pomocí svého Paradox účtu a zobrazte statistiky svých přátel"
- CAREER_PROFILE_GRAND_STRATEGIKON_MEDAL: "Velký Strategikon" # todo: NEW TRANSLATION
+ CAREER_PROFILE_GRAND_STRATEGIKON_MEDAL: "Velký Strategikon"
  CAREER_PROFILE_GRAND_STRATEGIKON_MEDAL_DESCRIPTION: "Mějte určitý počet zvládnutých dílčích doktrín"
- CAREER_PROFILE_PACTWEAVER_MEDAL: "Tkalec paktů" # todo: NEW TRANSLATION
+ CAREER_PROFILE_PACTWEAVER_MEDAL: "Tkalec paktů"
  CAREER_PROFILE_PACTWEAVER_MEDAL_DESCRIPTION: "Dosáhněte určitého procenta manifestu frakce."
  CAREER_PROFILE_OVERACHIEVER_MEDAL_DESCRIPTION: "Splňte určitý počet dlouhodobých cílů frakce."
  CAREER_PROFILE_GRAND_STRATEGIKON_BRONZE: "4 zvládnuté dílčí doktríny"
@@ -225,18 +225,18 @@
  CAREER_PROFILE_OVERACHIEVER_BRONZE: "1"
  CAREER_PROFILE_OVERACHIEVER_SILVER: "3"
  CAREER_PROFILE_OVERACHIEVER_GOLD: "5"
- CAREER_PROFILE_ISLAND_HOPPER: "Skokan po ostrovech" # todo: NEW TRANSLATION
- CAREER_PROFILE_ISLAND_HOPPER_DESCRIPTION: "Získejte kontrolu nad 10 strategickými lokalitami" # todo: NEW TRANSLATION
- CAREER_PROFILE_ISLAND_HOPPER_QUOTE: ""Chceš žít?! Slez z pláže"\n\n - John Basilone, The Pacific" # todo: NEW TRANSLATION
- CAREER_PROFILE_IM_THE_CAPTAIN_NOW: "Teď jsem kapitán" # todo: NEW TRANSLATION
- CAREER_PROFILE_IM_THE_CAPTAIN_NOW_DESCRIPTION: "Jako malý stát převezměte vedení frakce" # todo: NEW TRANSLATION
- CAREER_PROFILE_IM_THE_CAPTAIN_NOW_QUOTE: ""Podívej se na mě, já jsem teď kapitán.\"\n\n - Muse, Captain Philips" # todo: NEW TRANSLATION
- CAREER_PROFILE_THREE_MUSKETEERS: "Tři mušketýři" # todo: NEW TRANSLATION
- CAREER_PROFILE_THREE_MUSKETEERS_DESCRIPTION: "Vytvořte tři frakční divadla operací, která jsou obsazena vašimi důstojníky" # todo: NEW TRANSLATION
+ CAREER_PROFILE_ISLAND_HOPPER: "Skokan mezi ostrovy"
+ CAREER_PROFILE_ISLAND_HOPPER_DESCRIPTION: "Získejte kontrolu nad 10 strategickými lokalitami"
+ CAREER_PROFILE_ISLAND_HOPPER_QUOTE: "\"Chceš žít?! Slez z pláže\"\n\n - John Basilone, The Pacific"
+ CAREER_PROFILE_IM_THE_CAPTAIN_NOW: "Teď jsem kapitán"
+ CAREER_PROFILE_IM_THE_CAPTAIN_NOW_DESCRIPTION: "Jako malý stát převezměte vedení frakce"
+ CAREER_PROFILE_IM_THE_CAPTAIN_NOW_QUOTE: "\"Podívej se na mě, já jsem teď kapitán.\"\n\n - Muse, Captain Philips"
+ CAREER_PROFILE_THREE_MUSKETEERS: "Tři mušketýři"
+ CAREER_PROFILE_THREE_MUSKETEERS_DESCRIPTION: "Vytvořte tři frakční válčiště, která jsou obsazena vašimi důstojníky"
  CAREER_PROFILE_THREE_MUSKETEERS_QUOTE: "„Jeden za všechny a všichni za jednoho.“\n\n- Alexandre Dumas"
- CAREER_PROFILE_THE_MORE_THE_MERRIER: "Čím víc, tím lépe" # todo: NEW TRANSLATION
- CAREER_PROFILE_THE_MORE_THE_MERRIER_DESCRIPTION: "Mějte bonus ke sdílení výzkumu frakce 30 %" # todo: NEW TRANSLATION
- CAREER_PROFILE_THE_MORE_THE_MERRIER_QUOTE: ""Žádný člověk není ostrov, sám o sobě; každý člověk je kus pevniny, část pevniny."\n\n - John Donne" # todo: NEW TRANSLATION
- CAREER_PROFILE_FACTION_GOALS_COMPLETED_LABEL: "Splněné cíle frakce" # todo: NEW TRANSLATION
- CAREER_PROFILE_MASTERY_GAINED_LABEL: "Získané mistrovství doktrín" # todo: NEW TRANSLATION
- CAREER_PROFILE_NAVAL_HEADQUARTERS_BUILT_LABEL: "Postavená námořní velitelství" # todo: NEW TRANSLATION
+ CAREER_PROFILE_THE_MORE_THE_MERRIER: "Čím víc, tím lépe"
+ CAREER_PROFILE_THE_MORE_THE_MERRIER_DESCRIPTION: "Mějte bonus ke sdílení výzkumu frakce 30 %"
+ CAREER_PROFILE_THE_MORE_THE_MERRIER_QUOTE: "\"Žádný člověk není ostrov sám o sobě; každý člověk je kus pevniny, část pevniny.\"\n\n - John Donne"
+ CAREER_PROFILE_FACTION_GOALS_COMPLETED_LABEL: "Splněné frakční cíle"
+ CAREER_PROFILE_MASTERY_GAINED_LABEL: "Získané mistrovství doktrín"
+ CAREER_PROFILE_NAVAL_HEADQUARTERS_BUILT_LABEL: "Postavená námořní velitelství"

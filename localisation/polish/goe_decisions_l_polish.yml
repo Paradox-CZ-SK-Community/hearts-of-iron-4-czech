@@ -35,10 +35,10 @@
  AFG_nationalize_oil: "Znacionalizovat ropný průmysl"
  AFG_oil_concession_here_flag: "Ropa kontrolovaná zahraniční mocností"
  AFG_oil_concessions_category: "Ropné koncese"
- AFG_oil_deal_negotiation_in_progress: " Probíhají jednání o rozvoji ropy" # todo: CHANGED
+ AFG_oil_deal_negotiation_in_progress: " Probíhají jednání o ropě"
  AFG_placate_the_graduates: "Nabídnout absolventům práci ve státní správě"
  AFG_promoted_resistance_here: "Afghánistán zde podpořil protivládní odpor."
- AFG_propose_oil_concession_deal: "Nabídnout dohodu o ropné koncesi §Y[FROM.GetName]§!" # todo: CHANGED
+ AFG_propose_oil_concession_deal: "Nabídnout dohodu o ropné koncesi §Y[FROM.GetName]§!"
  AFG_propose_peace_for_state: "Navrhnout mír pro §Y[FROM.GetName]§!"
  AFG_propose_peace_for_tajikistan: "Nabídnout mír pro [FROM.GetName]"
  AFG_purchase_capital_ships_tt: "Odemyká rozhodnutí o §YNákupu dreadnoughtů§! a dalších §YSTARÝCH válečných lodí§! od velmocí."

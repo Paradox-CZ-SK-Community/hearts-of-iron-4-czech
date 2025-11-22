@@ -596,7 +596,7 @@
  GER_a_new_and_better_germany_desc: "Při obnově našeho národa bychom se měli snažit jít nad rámec toho, co je nezbytné, aby to, co nyní budujeme, obstálo ve zkoušce času."
  GER_accept_british_naval_dominance: "Akceptovat britskou námořní nadvládu"
  GER_accept_british_naval_dominance_desc: "V boji proti komunismu potřebujeme spojence a Britové jsou hlavním kandidátem. V zájmu zlepšení vztahů zmírníme jejich obavy tím, že uznáme jejich námořní převahu a zřekneme se rozsáhlého budování námořnictva."
- GER_air_doctrine_shortcut: "Vzdušné síly" # todo: CHANGED
+ GER_air_doctrine_shortcut: "Vojenské letectvo"
  GER_air_innovation_2: "Vzdušné inovace II"
  GER_air_innovation_2_desc: "Úkoly říšského ministerstva letectví mají prvořadý význam. Luftwaffe musí být nejvyspělejším letectvem na světě!"
  GER_align_hungary: "Sladit Maďarsko"
@@ -740,7 +740,7 @@
  GER_low_countries_membership: "Beneluxské členství"
  GER_low_countries_membership_desc: "Ačkoli jsou země Beneluxu daleko od východních hranic Evropy, vědí, že pokud padne střední Evropa, budou další na řadě. Nabídneme jim členství, aby se mohly postavit hrozbě komunismu po našem boku."
  GER_mackensen_dead: "Von Mackensen je mrtvý."
- GER_military_doctrine_shortcut: "Pozemní síly" # todo: CHANGED
+ GER_military_doctrine_shortcut: "Pozemní síly"
  GER_modular_construction: "Modulární výstavba"
  GER_modular_construction_desc: "Tím, že se části našich ponorek vyrábějí v různých konstrukčních zařízeních, se výrazně zvyšuje rychlost montáže a výstavby."
  GER_mol_rib_pact: "[GER.GetMolotovRibbentropName]"
@@ -749,7 +749,7 @@
  GER_nationalist_spain_ally: "Aliance se Španělskem"
  GER_nationalist_spain_ally_desc: "Vítězství nacionalistů ve španělské občanské válce otevřelo cestu k užším vztahům mezi našimi zeměmi. Franco má v rukou klíč ke Středozemnímu moři."
  GER_nationalist_spain_ally_tt: "Posílit diplomatické vztahy s §YNacionalistickým Španělskem§!"
- GER_naval_doctrine_shortcut: "Námořnictvo" # todo: CHANGED
+ GER_naval_doctrine_shortcut: "Námořnictvo"
  GER_naval_effort2: "Rozšířit loděnice"
  GER_naval_effort2_desc: "Abychom skutečně obnovili důstojné námořnictvo, musíme výrazně rozšířit naše kapacity pro stavbu lodí."
  GER_naval_effort2_tt: "Buduje §Y2 Loděnice§! v §Y2§! pobřežních státech, které momentálně kontroluje §Y[ROOT.GetFlag][ROOT.GetNameDef]§!"
@@ -1871,7 +1871,7 @@
  USA_unrestricted_submarine_warfare_desc: "Historie ukázala, že jakákoli dobře míněná smlouva, která se snaží kontrolovat ponorkovou válku, nemá cenu papíru, na kterém je napsána. Neměli bychom se považovat za vázány něčím, co budou naši nepřátelé stejně ignorovat."
  USA_us_air_force: "Letectvo Spojených států"
  USA_us_air_force_desc: "Základním cílem vojenského letectva je vyhrávat války. Strategické bombardování stále ničivějšími zbraněmi buď zlomí vůli nepřítele k odporu, nebo mu ho znemožní."
- USA_us_army_airforce: "Armádní letectvo USA" # todo: CHANGED
+ USA_us_army_airforce: "Armádní letectvo USA"
  USA_us_army_airforce_desc: "Základním cílem vojenského letectva je umožnit pozemním silám dobýt a udržet pozice. Vše ostatní je podružné."
  USA_us_ussr_economic_cooperation: "Ekonomická spolupráce mezi USA a SSSR"
  USA_us_ussr_economic_cooperation_desc: "Navzdory chaotickému a krvavému zrodu dosáhl Sovětský svaz pozoruhodného pokroku při budování moderní, industrializované společnosti. Měli bychom mu v tom pomoci."
@@ -2477,7 +2477,7 @@
  why_we_fight: "Za co se bijeme"
  why_we_fight_desc: "Svět je stále nebezpečnější. Naši lidé musí vidět zvěrstva páchaná těmi, kdo touží po moci. Je načase, abychom lidi shromáždili pro naši věc a zajistili, aby byl každý připraven bojovat za naši svobodu."
  why_we_fight_effect: "Pokud nebudeme mít ducha §YNeutrální zahraniční politika§!, budeme schopni vytvořit frakce.\n"
- USA_unlock_contain_japan_tt: "Aktuálně neaktivní odměny, které budou uděleny, pokud se §Y[JAP.GetNameDef]§! nebezpečně rozšíří:" # todo: NEW TRANSLATION
- JAP_military_doctrine_shortcut: "Vojenské" # todo: NEW TRANSLATION
- JAP_revere_the_emperor_shortcut: "Politika: Císařská cesta" # todo: NEW TRANSLATION
- JAP_okadas_military_purge_speech_shortcut: "Politika:\nVojenská čistka" # todo: NEW TRANSLATION
+ USA_unlock_contain_japan_tt: "Aktuálně neaktivní bonusy, které budou uděleny, pokud se §Y[JAP.GetNameDef]§! nebezpečně rozšíří:"
+ JAP_military_doctrine_shortcut: "Armáda"
+ JAP_revere_the_emperor_shortcut: "Politika: Císařská cesta"
+ JAP_okadas_military_purge_speech_shortcut: "Politika:\nVojenská čistka"

@@ -38,7 +38,7 @@
  EXPERIENCE_DAILY_GAIN_TOPBAR: "§TDenní zisk: $VALUE|Y2$§!\n"
  EXPERIENCE_FROM_ATTACHES: "Naši atašé v $COUNTRIES$ nám dávají $XPSHARE|H%0$ jejich vojenských zkušeností"
  INDUSTRIAL_CAPACITY: "Továrny"
- INDUSTRIAL_CAPACITY_DESC: "Fabriky tvoří základ §Hprůmyslové kapacity§! země. §HVojenské továrny§! produkují vybavení pro armádu a letectvo, zatímco §HNámořní loděnice§! vyrábějí a opravují lodě pro námořnictvo. §HCivilní továrny§! stavějí a opravují budovy a infrastrukturu a také usnadňují obchod." # todo: CHANGED
+ INDUSTRIAL_CAPACITY_DESC: "Fabriky tvoří základ §Hprůmyslové kapacity§! země. §HVojenské továrny§! produkují vybavení pro armádu a letectvo, zatímco §HNámořní loděnice§! vyrábějí a opravují lodě pro námořnictvo. §HCivilní továrny§! stavějí a opravují budovy a infrastrukturu a také usnadňují obchod."
  INDUSTRIAL_CAPACITY_DESC_OCCUPATION: "Počet továren, které získáte z okupovaných států, je ovlivněn vaší okupační politikou."
  MANPOWER: "Personál"
  MANPOWER_AIRWING: "Služební personál vzdušných křídel"
@@ -53,7 +53,7 @@
  MANPOWER_DIVISION_SIZE_BREAKDOWN_DESC: "§TTato §HDivize§! obsahuje $AMOUNT|G$ vojáků. Má personál z:§!"
  MANPOWER_DIVISION_SIZE_DESC: "§TTato §HDivize§! obsahuje $AMOUNT|G$ vojáků. Jak vojáci umírají, obdrží posily z rezerv §Hpersonálu§! vaší země.§!"
  MANPOWER_GARRISON_BREAKDOWN_ENTRY: "$NUMBER|H*$ z $COUNTRY|H$"
- MANPOWER_GROWTH: "§YMěsíční růst ve státech§!\nK naverbování: $RECRUITABLE|^G$\n$TOFACTION|$Civilní: $CIVILIAN|^G$" # todo: CHANGED
+ MANPOWER_GROWTH: "§YMěsíční nárůst ve státech§!\nK naverbování: $RECRUITABLE|^G$\n$TOFACTION|$Civilní: $CIVILIAN|^G$"
  MANPOWER_IN_USE: "Personál v terénu"
  MANPOWER_IN_USE_DESC: "§THlavní počet vojáků v terénu. Jak vojáci umírají, obdrží posily z rezerv §Hpersonálu§! vaší země.§!"
  MANPOWER_IN_USE_GARRISON: "Personál v posádkách"
@@ -98,25 +98,25 @@
  WAR_SUPPORT_AT_DEFENSIVE_WAR: "Obraná válka: $VALUE|+=2%$"
  WAR_SUPPORT_AT_OFFENSIVE_WAR: "Útočná válka: $VALUE|+=2%$"
  WAR_SUPPORT_BEING_BOMBED: "Nálet nepřítele: $VALUE|+=2%$"
- WAR_SUPPORT_CONVOYS_BEING_RAIDED: "Útočící konvoje: $VALUE|+=2%$"
+ WAR_SUPPORT_CONVOYS_BEING_RAIDED: "Napadeny konvoje: $VALUE|+=2%$"
  WAR_SUPPORT_DESC: "Válečná podpora představuje ochotu lidí absolvovat válku do konce. Přijetí mnoha zákonů a příprava vaší země na válku efektivně vyžaduje vysokou válečnou podporu."
  WAR_SUPPORT_EFFECT_TITLE: "\n§HEfekty z naší aktuální válečné podpory:§!\n"
  WAR_SUPPORT_HEROES_BEING_KILLED: "Ztráty v boji: $VALUE|+=2%$"
  WAR_SUPPORT_INTERCEPTION: "Záchyt: $VALUE|+=2%$"
  WAR_SUPPORT_PROPAGANDA: "£operative_mission_icons_small|8£ Zahraniční propaganda: $VALUE|+=2%$"
  WAR_SUPPORT_TENSION: "Světové napětí: $VALUE|+=2%$"
- STABILITY_CORE_COASTAL_STATES_PROTECTION_FACTOR: "Ochrana hlavních pobřežních států: $VALUE|=+2%$" # todo: NEW TRANSLATION
- MANPOWER_GROWTH_TO_FACTION: "Rekrutovatelná populace přidělená frakci: $TOFACTION|^R$\n" # todo: NEW TRANSLATION
- INDUSTRIAL_ENERGY_RATIO: "Průmyslový poměr energie: $VAL|H1%$" # todo: NEW TRANSLATION
- DOCKYARD_ENERGY_RATIO: "Poměr energie loděnic: $VAL|H1%$" # todo: NEW TRANSLATION
- MILITARY_ENERGY_RATIO: "Poměr energie pro armádu: $VAL|H1%$" # todo: NEW TRANSLATION
- BUILDING_IC: "Napájené IC budov: $VAL|H1$" # todo: NEW TRANSLATION
- MILITARY_IC: "Napájené IC pro armádu: $VAL|H1$" # todo: NEW TRANSLATION
- NAVAL_IC: "Napájené IC pro námořnictvo: $VAL|H1$" # todo: NEW TRANSLATION
- ENERGY_DEMAND: "Poptávka po energii: $VAL|H1$" # todo: NEW TRANSLATION
- RECEIVED_ENERGY: "Přijatá energie: $VAL|H1$" # todo: NEW TRANSLATION
- ARMY_EXPERIENCE_GAIN_COMBAT: "Ze §Hpozemního boje§!: $VALUE|=+3$ denně" # todo: NEW TRANSLATION
- NAVY_EXPERIENCE_GAIN_COMBAT: "Ze §Hnámořního boje§!: $VALUE|=+3$ denně" # todo: NEW TRANSLATION
- NAVY_EXPERIENCE_GAIN_MISSIONS: "Ze §Hnámořních misí§!: $VALUE|=+3$ denně" # todo: NEW TRANSLATION
- AIR_EXPERIENCE_GAIN_COMBAT: "Ze §HLeteckého boje§!: $VALUE|=+3$ denně" # todo: NEW TRANSLATION
- AIR_EXPERIENCE_GAIN_MISSIONS: "Ze §HLeteckých misí§!: $VALUE|=+3$ denně" # todo: NEW TRANSLATION
+ STABILITY_CORE_COASTAL_STATES_PROTECTION_FACTOR: "Ochrana hlavních pobřežních států: $VALUE|=+2%$"
+ MANPOWER_GROWTH_TO_FACTION: "Rekrutovatelná populace přidělená frakci: $TOFACTION|^R$\n"
+ INDUSTRIAL_ENERGY_RATIO: "Poměr energie pro průmysl: $VAL|H1%$"
+ DOCKYARD_ENERGY_RATIO: "Poměr energie pro loděnice: $VAL|H1%$"
+ MILITARY_ENERGY_RATIO: "Poměr energie pro armádu: $VAL|H1%$"
+ BUILDING_IC: "Napájená továrny: $VAL|H1$"
+ MILITARY_IC: "Napájená vojenské továrny: $VAL|H1$"
+ NAVAL_IC: "Napájená námořní továrny: $VAL|H1$"
+ ENERGY_DEMAND: "Poptávka po energii: $VAL|H1$"
+ RECEIVED_ENERGY: "Přijatá energie: $VAL|H1$"
+ ARMY_EXPERIENCE_GAIN_COMBAT: "Ze §Hpozemního boje§!: $VALUE|=+3$ denně"
+ NAVY_EXPERIENCE_GAIN_COMBAT: "Ze §Hnámořního boje§!: $VALUE|=+3$ denně"
+ NAVY_EXPERIENCE_GAIN_MISSIONS: "Ze §Hnámořních misí§!: $VALUE|=+3$ denně"
+ AIR_EXPERIENCE_GAIN_COMBAT: "Ze §Hleteckého boje§!: $VALUE|=+3$ denně"
+ AIR_EXPERIENCE_GAIN_MISSIONS: "Ze §Hleteckých misí§!: $VALUE|=+3$ denně"

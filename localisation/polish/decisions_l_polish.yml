@@ -21,7 +21,7 @@
  EVENT_POPUP_CHECKBOX_TOOLTIP: "§GKlikněte§! pro přepnutí notifikací událostí."
  FRA_civil_unrest_category: "Občanské nepokoje"
  FRA_communist_civil_war_decision: "Hrozící komunistické povstání"
- FRA_communist_civil_war_decision_desc: "Narůstající zuřivost radikální politiky je čím dál těžší utišit – dříve či později se tomu budeme muset postavit."
+ FRA_communist_civil_war_decision_desc: "Narůstající zuřivost radikální politiky je čím dál těžší utišit - dříve či později se tomu budeme muset postavit."
  FRA_fascist_civil_war_decision: "Hrozící fašistické povstání"
  FRA_fascist_civil_war_decision_desc: "Sílící populistické nálady se stávají nezastavitelnou vlnou. Nevyhnutelné už nelze odvrátit."
  IMPORTED_FILM_INDUSTRY: "Dovoz propagandistických filmů"
@@ -226,7 +226,7 @@
  war_propaganda_casualties: "Podporovat hrdinství"
  war_propaganda_casualties_desc: "I když stoupá počet obětí, musíme lidem ukázat, že hrdinové se rodí jen v bitvě."
  war_propaganda_convoys: "Podporovat střídmost"
- war_propaganda_convoys_desc: "I civilisté mohou pomoci vyhrát válku – pečlivým hospodařením se surovinami může být každý gram oceli pro válečné úsilí dvojnásobně cenný."
+ war_propaganda_convoys_desc: "I civilisté mohou pomoci vyhrát válku - pečlivým hospodařením se surovinami může být každý gram oceli pro válečné úsilí dvojnásobně cenný."
  war_propaganda_film_industry: "[ROOT.GetImportOrDomesticFilmIndustry]"
  war_propaganda_film_industry_desc: "[ROOT.GetImportOrDomesticFilmIndustryDesc]"
  war_propaganda_radio_industry: "Rádiová propaganda"
@@ -239,37 +239,37 @@
  yellow_river_blown: "Extrémní záplavy"
  yellow_river_blown_desc: "Tato oblast je silně zaplavena kvůli sabotáži protipovodňových opatření na Žluté řece."
  unlock_mio_tt: "\n§YZaložit vojensko-průmyslovou organizaci§!"
- decision_cost_CP_30: "£command_power  §Y30§!" # todo: NEW TRANSLATION
- decision_cost_CP_30_blocked: "£command_power  §R30§!" # todo: NEW TRANSLATION
- decision_cost_CP_30_tooltip: "Stojí to £command_power  §Y30§! k přijetí rozhodnutí" # todo: NEW TRANSLATION
- decision_cost_CP_40: "£command_power  §Y40§!" # todo: NEW TRANSLATION
- decision_cost_CP_40_blocked: "£command_power  §R40§!" # todo: NEW TRANSLATION
- decision_cost_CP_40_tooltip: "Stojí to £command_power  §Y40§! k přijetí rozhodnutí" # todo: NEW TRANSLATION
- decision_cost_CP_15_pp_15:0 "£command_power  §Y15§! £pol_power  §Y15§!" # todo: NEW TRANSLATION
- decision_cost_CP_15_pp_15_blocked:0 "£command_power  §R15§! £pol_power  §R15§!" # todo: NEW TRANSLATION
- decision_cost_CP_15_pp_15_tooltip:0 "Stojí to £command_power  §Y15§! £pol_power  §Y15§! k přijetí rozhodnutí" # todo: NEW TRANSLATION
- decision_cost_CP_50_pp_35: "£command_power  §Y50§! £pol_power  §Y35§!" # todo: NEW TRANSLATION
- decision_cost_CP_50_pp_35_blocked: "£command_power  §R50§! £pol_power  §R35§!" # todo: NEW TRANSLATION
- decision_cost_CP_50_pp_35_tooltip: "Stojí to £command_power  §Y50§! £pol_power  §Y35§! k přijetí rozhodnutí" # todo: NEW TRANSLATION
- decision_cost_CP_100_pp_75: "£command_power  §Y100§! £pol_power  §Y75§!" # todo: NEW TRANSLATION
- decision_cost_CP_100_pp_75_blocked: "£command_power  §R100§! £pol_power  §R75§!" # todo: NEW TRANSLATION
- decision_cost_CP_100_pp_75_tooltip: "Stojí to £command_power  §Y100§! £pol_power  §Y75§! k přijetí rozhodnutí" # todo: NEW TRANSLATION
- decision_cost_ArmXP_50: "£army_experience  §Y50§!" # todo: NEW TRANSLATION
- decision_cost_ArmXP_50_blocked: "£army_experience  §R50§!" # todo: NEW TRANSLATION
- decision_cost_ArmXP_50_tooltip: "Stojí to £army_experience  §Y50§! k přijetí rozhodnutí" # todo: NEW TRANSLATION
- decision_cost_ArmXP_75: "£army_experience  §Y75§!" # todo: NEW TRANSLATION
- decision_cost_ArmXP_75_blocked: "£army_experience  §R75§!" # todo: NEW TRANSLATION
- decision_cost_ArmXP_75_tooltip: "Stojí to £army_experience  §Y75§! k přijetí rozhodnutí" # todo: NEW TRANSLATION
- decision_cost_ArmXP_200: "£army_experience  §Y200§!" # todo: NEW TRANSLATION
- decision_cost_ArmXP_200_blocked: "£army_experience  §R200§!" # todo: NEW TRANSLATION
- decision_cost_ArmXP_200_tooltip: "Stojí to £army_experience  §Y200§! k přijetí rozhodnutí" # todo: NEW TRANSLATION
- decision_cost_faction_influence_15_PP_125: "£faction_initiative_texticon  §Y15%§! £pol_power  §Y125§!" # todo: NEW TRANSLATION
- decision_cost_faction_influence_15_PP_125_blocked: "£faction_initiative_texticon  §R15%§! £pol_power  §R125§!" # todo: NEW TRANSLATION
- decision_cost_faction_influence_15_PP_125_tooltip: "Stojí to £faction_initiative_texticon  §Y15%§! £pol_power  §Y125§! k přijetí rozhodnutí" # todo: NEW TRANSLATION
- decision_cost_faction_influence_10_PP_75: "£faction_initiative_texticon  §Y10%§! £pol_power  §Y75§!" # todo: NEW TRANSLATION
- decision_cost_faction_influence_10_PP_75_blocked: "£faction_initiative_texticon  §R10%§! £pol_power  §R75§!" # todo: NEW TRANSLATION
- decision_cost_faction_influence_10_PP_75_tooltip: "Stojí to £faction_initiative_texticon  §Y10%§! £pol_power  §Y75§! k přijetí rozhodnutí" # todo: NEW TRANSLATION
- decision_cost_faction_influence_5_PP_25: "£faction_initiative_texticon  §Y5%§! £pol_power  §Y25§!" # todo: NEW TRANSLATION
- decision_cost_faction_influence_5_PP_25_blocked: "£faction_initiative_texticon  §R5%§! £pol_power  §R25§!" # todo: NEW TRANSLATION
- decision_cost_faction_influence_5_PP_25_tooltip: "Stojí to £faction_initiative_texticon  §Y5%§! £pol_power  §Y25§! k přijetí rozhodnutí" # todo: NEW TRANSLATION
- momotarou_umi_no_shinpei: "Momotarův božští námořní válečníci" # todo: NEW TRANSLATION
+ decision_cost_CP_30: "£command_power  §Y30§!"
+ decision_cost_CP_30_blocked: "£command_power  §R30§!"
+ decision_cost_CP_30_tooltip: "Stojí £command_power  §Y30§! k přijetí rozhodnutí"
+ decision_cost_CP_40: "£command_power  §Y40§!"
+ decision_cost_CP_40_blocked: "£command_power  §R40§!"
+ decision_cost_CP_40_tooltip: "Stojí £command_power  §Y40§! k přijetí rozhodnutí"
+ decision_cost_CP_15_pp_15: "£command_power  §Y15§! £pol_power  §Y15§!"
+ decision_cost_CP_15_pp_15_blocked: "£command_power  §R15§! £pol_power  §R15§!"
+ decision_cost_CP_15_pp_15_tooltip: "Stojí £command_power  §Y15§! £pol_power  §Y15§! k přijetí rozhodnutí"
+ decision_cost_CP_50_pp_35: "£command_power  §Y50§! £pol_power  §Y35§!"
+ decision_cost_CP_50_pp_35_blocked: "£command_power  §R50§! £pol_power  §R35§!"
+ decision_cost_CP_50_pp_35_tooltip: "Stojí £command_power  §Y50§! £pol_power  §Y35§! k přijetí rozhodnutí"
+ decision_cost_CP_100_pp_75: "£command_power  §Y100§! £pol_power  §Y75§!"
+ decision_cost_CP_100_pp_75_blocked: "£command_power  §R100§! £pol_power  §R75§!"
+ decision_cost_CP_100_pp_75_tooltip: "Stojí £command_power  §Y100§! £pol_power  §Y75§! k přijetí rozhodnutí"
+ decision_cost_ArmXP_50: "£army_experience  §Y50§!"
+ decision_cost_ArmXP_50_blocked: "£army_experience  §R50§!"
+ decision_cost_ArmXP_50_tooltip: "Stojí £army_experience  §Y50§! k přijetí rozhodnutí"
+ decision_cost_ArmXP_75: "£army_experience  §Y75§!"
+ decision_cost_ArmXP_75_blocked: "£army_experience  §R75§!"
+ decision_cost_ArmXP_75_tooltip: "Stojí £army_experience  §Y75§! k přijetí rozhodnutí"
+ decision_cost_ArmXP_200: "£army_experience  §Y200§!"
+ decision_cost_ArmXP_200_blocked: "£army_experience  §R200§!"
+ decision_cost_ArmXP_200_tooltip: "Stojí £army_experience  §Y200§! k přijetí rozhodnutí"
+ decision_cost_faction_influence_15_PP_125: "£faction_initiative_texticon  §Y15%§! £pol_power  §Y125§!"
+ decision_cost_faction_influence_15_PP_125_blocked: "£faction_initiative_texticon  §R15%§! £pol_power  §R125§!"
+ decision_cost_faction_influence_15_PP_125_tooltip: "Stojí £faction_initiative_texticon  §Y15%§! £pol_power  §Y125§! k přijetí rozhodnutí" 
+ decision_cost_faction_influence_10_PP_75: "£faction_initiative_texticon  §Y10%§! £pol_power  §Y75§!"
+ decision_cost_faction_influence_10_PP_75_blocked: "£faction_initiative_texticon  §R10%§! £pol_power  §R75§!"
+ decision_cost_faction_influence_10_PP_75_tooltip: "Stojí £faction_initiative_texticon  §Y10%§! £pol_power  §Y75§! k přijetí rozhodnutí"
+ decision_cost_faction_influence_5_PP_25: "£faction_initiative_texticon  §Y5%§! £pol_power  §Y25§!"
+ decision_cost_faction_influence_5_PP_25_blocked: "£faction_initiative_texticon  §R5%§! £pol_power  §R25§!"
+ decision_cost_faction_influence_5_PP_25_tooltip: "Stojí £faction_initiative_texticon  §Y5%§! £pol_power  §Y25§! k přijetí rozhodnutí"
+ momotarou_umi_no_shinpei: "Božští mořští válečníci Momotara"

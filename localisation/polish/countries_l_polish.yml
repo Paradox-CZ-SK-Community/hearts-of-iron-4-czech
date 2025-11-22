@@ -383,7 +383,7 @@
  BHU_fascism_DEF: "Říše hromového draka"
  BHU_fascism: "Říše hromového draka"
  BHU_neutrality_ADJ: "bhút."
- BHU_neutrality_DEF: "Království Bhútánu" # todo: CHANGED
+ BHU_neutrality_DEF: "Království Bhútán"
  BHU_neutrality: "Bhútán"
  BHU: "Bhútán"
  BIA_ADJ: "biafr."
@@ -639,8 +639,8 @@
  CAM_fascism_DEF: "Khmerská říše"
  CAM_fascism: "Khmerská říše"
  CAM_neutrality_ADJ: "kambodž."
- CAM_neutrality_DEF: "Království Kambodže" # todo: CHANGED
- CAM_neutrality: "Království Kambodže" # todo: CHANGED
+ CAM_neutrality_DEF: "Království Kambodža"
+ CAM_neutrality: "Království Kambodža"
  CAM: "Kambodža"
  CAN_ADJ: "kanad."
  CAN_communism_ADJ: "kanad."
@@ -760,7 +760,7 @@
  CHI_GER_autonomy_reichsprotectorate_DEF: "Čínský říšský protektorát"
  CHI_GER_autonomy_reichsprotectorate: "Čínský říšský protektorát"
  CHI_neutrality_ADJ: "čín."
- CHI_neutrality_DEF: "Čínská republika" # todo: CHANGED
+ CHI_neutrality_DEF: "Čínská republika"
  CHI_neutrality: "Čína"
  CHI: "Čína"
  CHL_ADJ: "chil."

@@ -121,7 +121,7 @@
  master_infiltrator_tt: "Jako [PRC.GetNonIdeologyName], nerozšiřuj se za hranice Jen-anu, infiltruj alespoň 5 čínských států a převeď je pod svou kontrolu při útoku na zbytek Číny"
  its_all_coming_together_tt: "Jako [CHI.GetNonIdeologyName], plně kontroluj všechna domovská území — osobně nebo se svými subjekty"
  the_coast_is_clear_tt: "Jako [CHI.GetNonIdeologyName], neztrať žádný počáteční pobřežní stát před 2. zářím 1945"
- paradisus_paradoxum_tt: "Jako [JAP.GetNonIdeologyName], vyhlaš vytvoření Čisté buddhistické krajiny"
+ paradisus_paradoxum_tt: "Jako [JAP.GetNonIdeologyName], vyhlaš vytvoření Čisté buddhistické země"
  an_equivalent_exchange_tt: "Jako demokratické [JAP.GetNonIdeologyName], dokonči Zaměření $JAP_democratic_foreign_exchange_allocation_policy$ a přinuť kapitulovat fašistické [GER.GetNonIdeologyName]"
  declare_military_emergency_tt: "Jako [PHI.GetNonIdeologyName], měj aktivní příznak $PHI_military_emergency_flag$"
  cobalt_sea_tt: "Jako [PHI.GetNonIdeologyName], proveď úspěšný jaderný nebo termonukleární nálet z ponorky"

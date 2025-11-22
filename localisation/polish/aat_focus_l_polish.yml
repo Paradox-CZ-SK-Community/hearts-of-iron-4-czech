@@ -35,12 +35,12 @@
  FIN_social_democracy_desc: "Viděli jsme selhání a hrůzy, které se rozvinou, když je na národ uvolněna bolševická revoluce. Pokud chceme vytvořit trvalou společnost, která prospívá dělnické třídě, musí to být demokratickými a mírovými prostředky, kdykoli je to možné."
  FIN_pragmatic_socialism: "Pragmatický socialismus"
  FIN_pragmatic_socialism_desc: "Ačkoli se děsíme metod bolševiků a jim podobných, nepopíráme, že je třeba udělat víc pro osvobození dělnické třídy od hrůz moderního kapitalismu. Prostřednictvím pečlivého uplatnění demokratického, pragmatického socialismu toho dosáhneme."
- FIN_sosialistinen_eduskuntaryhma: "Socialistinen Eduskuntaryhmä" # dobre
+ FIN_sosialistinen_eduskuntaryhma: "Socialistinen Eduskuntaryhmä"
  FIN_sosialistinen_eduskuntaryhma_desc: "Socialistická parlamentní skupina prosazuje sblížení s [SOU.GetNameDef] spíše než konfrontaci. Jejich návrhy mohou nabídnout nejlepší naději, jak si uchovat naši vlastní formu socialismu bez zásahů [SOU.GetAdjective]."
- FIN_social_democratic_womens_union: "Sociálnědemokratická ženská unie" # zle
+ FIN_social_democratic_womens_union: "Sociálnědemokratická ženská unie"
  FIN_social_democratic_womens_union_desc: "Utrpení žen ve společnosti bylo od nepaměti zanedbáváno. Začleněním Sociálnědemokratické ženské unie hlouběji do srdce vlády můžeme konečně řešit jejich problémy a vytvořit spravedlivější společnost pro všechny."
  FIN_mineral_wealth: "Nerostné bohatství"
- FIN_mineral_wealth_desc: "[ROOT.GetNameDefCap] má hojnost přírodních zdrojů, které dosud nebyly využity. Pokud si chceme udržet důvěryhodnou vojenskou sílu, měli bychom tyto zdroje využít a zlepšit naši hospodářskou soběstačnost." FIN_funds_from_kalevala_koru_oy: "Financování od Kalevala Koru Oy"
+ FIN_mineral_wealth_desc: "[ROOT.GetNameDefCap] má hojnost přírodních zdrojů, které dosud nebyly využity. Pokud si chceme udržet důvěryhodnou vojenskou sílu, měli bychom tyto zdroje využít a zlepšit naši hospodářskou soběstačnost." 
  FIN_funds_from_kalevala_koru_oy: "Financování z Kalevala Koru Oy"
  FIN_funds_from_kalevala_koru_oy_desc: "Kalevala Koru Oy, výrobce kvalitních šperků, založený členkami Sociálnědemokratické ženské unie, se stal ohromným úspěchem. Využitím jejich odborných znalostí můžeme podpořit naši ekonomiku a použít zisk k financování dalších iniciativ."
  FIN_join_the_comintern: "Připojit se k [GetSovietFactionForFinland]"
@@ -288,8 +288,8 @@
  FIN_expand_air_bases_desc: "S tím, jak kolem [ROOT.GetName] stoupá napětí, musíme zajistit, aby obranné síly měly odpovídající zázemí. \nPodpoříme letectvo v rozšíření počtu leteckých základen po celé zemi, aby jeho piloti mohli v době konfliktu rychle operovat."
  FIN_pilot_training: "Výcvik pilotů"
  FIN_pilot_training_desc: "Se vzrůstající poptávkou po vzdušné síle v moderní válce potřebují naši piloti pokročilejší a specializovanější výcvik. Investicemi do nových metod a vybavení zajistí [ROOT.GetAdjective] letectvo, že jeho piloti budou mezi nejlepšími na světě."
- FIN_naval_airforce: "Námořní letectvo" # todo: CHANGED
- FIN_naval_airforce_desc: "Jak rostou námořní síly [ROOT.GetName], musí růst i jeho letecké schopnosti. Založení specializovaného námořního letectva zajistí, že finské námořnictvo bude mít podporu potřebnou k tomu, aby dominovalo v Baltském moři, koordinací letecké síly a povrchových flotil k odvrácení všech hrozeb." # todo: CHANGED
+ FIN_naval_airforce: "Námořní letectvo"
+ FIN_naval_airforce_desc: "Jak rostou [ROOT.GetAdjective] námořní síly, musí růst i jeho letecké schopnosti. Založení specializovaného námořního letectva zajistí, že finské námořnictvo bude mít podporu potřebnou k tomu, aby dominovalo v Baltském moři, koordinací letecké síly a povrchových flotil k odvrácení všech hrozeb."
  FIN_national_aircraft_production: "Národní výroba letadel"
  FIN_national_aircraft_production_desc: "Tváří v tvář hrozbě války je stále jasnější, že moderní letectvo je pro obranu země nezbytné. Proto byl zahájen program národní výroby letadel s cílem poskytnout [ROOT.GetAdjective] konstruktérům a výrobcům potřebné zdroje a podporu, aby se [ROOT.GetName] vyrovnal velmocím Evropy."
  FIN_expand_air_force_academy: "Rozšířit leteckou akademii"
@@ -1306,7 +1306,7 @@
  NORDIC_mutual_guarantees: "Vzájemné záruky"
  NORDIC_mutual_guarantees_desc: "TODO_NORDIC"
  NORDIC_strengthen_ties: "Posílit vztahy"
- NORDIC_strengthen_ties_desc: "TODO_NORDIC" # tu som skončil
+ NORDIC_strengthen_ties_desc: "TODO_NORDIC"
  NORDIC_form_joint_alliance: "Založit [NORDIC_get_alliance_name]"
  NORDIC_form_joint_alliance_desc: "Panseverský sen utrpěl vážnou ránu neochotou stát při sobě v roce 1864. [NORDIC_GetFormAllianceSecondParagraph]"
  NORDIC_form_joint_alliance_desc_dem: "Nicméně založení nového svazku založeného na demokratických hodnotách, které sdílíme, může být majákem pro demokracie všude — zároveň nám umožní bránit se a rychle zvítězit nad nepřáteli svobody."
@@ -1362,7 +1362,7 @@
  NORDIC_nordic_airforce: "[NORDIC_get_nordic_airforce_name]"
  NORDIC_nordic_airforce_desc: "Obloha je novou hranicí naší aliance. [NORDIC_get_nordic_airforce_desc]"
  NORDIC_nordic_airforce_desc_dem: "Právě proto bude [NORDIC_get_nordic_airforce_name] spravovat zdroje potřebné k ochraně občanů každé z našich zemí v rámci [NORDIC_get_alliance_name]. Zajistí také spolupráci a hladké fungování našich letectev."
- NORDIC_nordic_airforce_desc_com: "Nemůžeme dovolit silám kapitalismu, aby uchvátily vzor svobody, který musíme všichni sdílet rovným dílem. Naše letectvo zaplaví nebe našich nepřátel a sesype na ně přikrývku pekelného ohně." # todo: CHANGED
+ NORDIC_nordic_airforce_desc_com: "Nemůžeme dovolit silám kapitalismu, aby uchvátily vzor svobody, který musíme všichni sdílet rovným dílem. Naše letectvo zaplaví nebe našich nepřátel a sesype na ně pekelný oheň."
  NORDIC_nordic_airforce_desc_mon: "Rozvineme-li naše letecké schopnosti, lépe nasměrujeme svou sílu. Přinutíme nepřátele sklonit hlavy před mocí našich společných leteckých sil."
  NORDIC_nordic_research_democratic: "Severská výzkumná rada"
  NORDIC_nordic_research_communist: "Lidová univerzita severu"
@@ -1400,9 +1400,9 @@
  NORDIC_monarchist_first_selector_right: "Baronství zbrojní výroby"
  NORDIC_second_selector_left: "[NORDIC_get_second_selector_left]"
  NORDIC_second_selector_left_desc: "TODO_NORDIC"
- NORDIC_democratic_second_selector_left: "Nordický letecký výbor" # todo: CHANGED
+ NORDIC_democratic_second_selector_left: "Severský letecký výbor"
  NORDIC_communist_second_selector_left: "Severní akademie pokročilých věd"
- NORDIC_monarchist_second_selector_left: "Velkovévodství letectva" # todo: CHANGED
+ NORDIC_monarchist_second_selector_left: "Velkovévodství letectva"
  NORDIC_second_selector_right: "[NORDIC_get_second_selector_right]"
  NORDIC_second_selector_right_desc: "TODO_NORDIC"
  NORDIC_democratic_second_selector_right: "Severské společné námořní velení"
@@ -2110,9 +2110,9 @@
  DEN_foreign_designs: "Zahraniční konstrukce"
  DEN_foreign_designs_desc: "Ani jedna z našich dvou leteckých složek neumí navrhnout a postavit plnohodnotný stíhač či bombardér. Měli bychom se poohlédnout v zahraničí a letouny nakoupit; osvědčí-li se, můžeme usilovat o výrobní licenci."
  DEN_unify_flyvevabnet: "Sjednotit Flyvevåbnet"
- DEN_unify_flyvevabnet_desc: "V současné době máme dvě odlišné a zcela oddělené letectva: armádní Hærens Flyvertropper a námořní Marinens Flyvevæsen. Obě složky jsou často v rozporu. Jejich sjednocení do jediné letecké jednotky by vytvořilo soudržnou strategii a založilo novou složku ozbrojených sil." # todo: CHANGED
+ DEN_unify_flyvevabnet_desc: "V současné době máme dvě odlišné a zcela oddělené letectva: armádní Hærens Flyvertropper a námořní Marinens Flyvevæsen. Obě složky jsou často v rozporu. Jejich sjednocení do jediné letecké jednotky by vytvořilo soudržnou strategii a založilo novou složku ozbrojených sil."
  DEN_flyvertaktisk_kommando: "Flyvertaktisk Kommando"
- DEN_flyvertaktisk_kommando_desc: "Sjednotit obě různé letecké složky do jedné jednotky nestačí. Aby byla tato nová vojenská složka co nejefektivnější a nejjednotnější, musíme vytvořit centrální velitelskou strukturu, která bude schopna letectvo řádně koordinovat." # todo: CHANGED
+ DEN_flyvertaktisk_kommando_desc: "Sjednotit obě různé letecké složky do jedné jednotky nestačí. Aby byla tato nová vojenská složka co nejefektivnější a nejjednotnější, musíme vytvořit centrální velitelskou strukturu, která bude schopna letectvo řádně koordinovat."
  DEN_air_force_power_projection: "Projekce síly letectva"
  DEN_air_force_power_projection_desc: "Nyní, když je Flyvevåbnet třetí hlavní větví ozbrojených sil, se můžeme soustředit na zabezpečení nebe nad naším rozlehlým panstvím. I velké a úspěšné letectvo je závislé na leteckých základnách pro vzlety a přistání."
  DEN_flyveskolen: "Flyveskolen"
@@ -2189,4 +2189,4 @@
  DEN_advanced_flight_modifier_tt: "$DEN_modify_flyvevabnet_dynamic_modifier$: \n$MODIFIER_AIR_MISSION_EFFICIENCY$: §G+5.0%§! \n$MODIFIER_AIR_NIGHT_PENALTY$: §G-5.00%§! \n$MODIFIER_AIR_WEATHER_PENALTY$: §G-5.00%§!\n\n"
  DEN_undermine_overlord_continuous_focus: "Podkopávat vliv vládce"
  DEN_undermine_overlord_continuous_focus_desc: "Musíme dělat vše pro to, abychom se svému vládci vzepřeli a podkopali jeho vliv, a tím zajistili dánskou suverenitu."
- SWE_swedish_finnish_defense_agreement_faction: "Švédsko-finská obranná dohoda" # todo: NEW TRANSLATION
+ SWE_swedish_finnish_defense_agreement_faction: "Švédsko-finská obranná dohoda"

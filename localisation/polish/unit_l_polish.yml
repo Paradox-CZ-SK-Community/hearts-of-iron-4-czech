@@ -690,7 +690,7 @@
  MODIFIER_NAVAL_INVASION_DIVISION_CAP_DESC: "Maximální počet divizí, které lze přidělit k rozkazu námořní invaze." # todo: NEW TRANSLATION
  MODIFIER_AIR_INVASION_DIVISION_CAP: "Kapacita divizí pro vzdušnou invazi" # todo: NEW TRANSLATION
  MODIFIER_AIR_INVASION_DIVISION_CAP_DESC: "Maximální počet divizí, které lze přidělit k rozkazu vzdušné invaze." # todo: NEW TRANSLATION
- MINIMUM_SEAZONE_DOMINANCE_NEEDED: "Tato námořní zóna vyžaduje alespoň $VALUE|0Y$ £naval_dominance_texticon£ §HNaval Dominance§! , aby byla považována za kontrolovanou přátelskými silami." # todo: NEW TRANSLATION
+ MINIMUM_SEAZONE_DOMINANCE_NEEDED: "Tato námořní zóna vyžaduje alespoň $VALUE|0Y$ £naval_dominance_texticon£ §HNámořní převahy§!, aby byla považována za kontrolovanou přátelskými silami."
  PREPARATION_BASE_DAILY_DECAY: "Základní denní úbytek: $VALUE|0%Y$" # todo: NEW TRANSLATION
  PREPARATION_BASE_DAILY_DECAY_MANUAL_ORDER: "Základní denní úbytek (manuální rozkaz jednotky): $VALUE|0%Y$" # todo: NEW TRANSLATION
  SELECT_COLOR: "Vybrat barvu mapy" # todo: NEW TRANSLATION

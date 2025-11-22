@@ -444,9 +444,9 @@
  type_xxi_class: "Typ XXI"
  v_class: "Třída V"
  vanguard_class: "Třída Vanguard"
- EQUIPMENT_DESIGNER_NAVAL_DOMINANCE_BREAKDOWN: "§YNámořní převaha§! \nKolik námořní převahy poskytuje tato loď." # todo: NEW TRANSLATION
- HULL_NAME: "$NAME$: $VALUE|+=0$" # todo: NEW TRANSLATION
- DOMINANCE_SPEED_FACTOR: "Maximální rychlost: $VALUE|+=%$" # todo: NEW TRANSLATION
- DOMINANCE_RANGE_FACTOR: "Maximální dosah: $VALUE|+=%$" # todo: NEW TRANSLATION
- DOMINANCE_HG_FACTOR: "Těžký útok: $VALUE|+=%$" # todo: NEW TRANSLATION
- DOMINANCE_CARRIER_SIZE_FACTOR: "Velikost letadlové lodi: $VALUE|+=%$" # todo: NEW TRANSLATION
+ EQUIPMENT_DESIGNER_NAVAL_DOMINANCE_BREAKDOWN: "§YNámořní převaha§! \nKolik námořní převahy poskytuje tato loď."
+ HULL_NAME: "$NAME$: $VALUE|+=0$"
+ DOMINANCE_SPEED_FACTOR: "Maximální rychlost: $VALUE|+=%$"
+ DOMINANCE_RANGE_FACTOR: "Maximální dosah: $VALUE|+=%$"
+ DOMINANCE_HG_FACTOR: "Těžký útok: $VALUE|+=%$"
+ DOMINANCE_CARRIER_SIZE_FACTOR: "Kapacita letadlové lodi: $VALUE|+=%$"

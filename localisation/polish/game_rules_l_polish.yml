@@ -145,7 +145,7 @@
  GER_AI_BEHAVIOR: "@GER Německo"
  JAP_AI_BEHAVIOR: "@JAP Japonsko"
  CHI_AI_BEHAVIOR: "@CHI Nacionalistická Čína"
- PRC_AI_BEHAVIOR: "@PRC Čínská sovětská republika" # todo: CHANGED
+ PRC_AI_BEHAVIOR: "@PRC Čínská sovětská republika"
  ENG_AI_BEHAVIOR: "@ENG Británie"
  USA_AI_BEHAVIOR: "@USA Spojené státy"
  SOV_AI_BEHAVIOR: "@SOV Sovětský svaz"
@@ -222,9 +222,9 @@
  RULE_OPTION_DEFAULT_AI_DESC: "AI bude rozhodovat podle ostatních nastavení hry, jako je možnost vynutit historické zaměření a další herní scénáře. Toto je stejné chování jako ve verzi 1.5 a starších."
  RULE_OPTION_RANDOM_AI_DESC: "AI náhodně zvolí herní plán na začátku hry a pokusí se jej realizovat."
  RULE_OPTION_FASCIST_GER_AI_DESC: "Německá AI zůstane fašistická a pokusí se ovládnout Evropu tím, že půjde relevantní větví národního stromu zaměření."
- RULE_FASCIST_JAP_AI_DESC: "Japonské AI bude následovat historickou cestu a pokusí se udeřit na jih proti západním spojencům tím, že půjde odpovídající větví ve stromu národních fokusů." # todo: CHANGED
+ RULE_FASCIST_JAP_AI_DESC: "Japonská AI bude následovat historickou cestu a pokusí se udeřit na jih proti západním spojencům tím, že půjde odpovídající větví národního stromu zaměření."
  RULE_OPTION_COMMUNIST_JAP_AI_DESC: "Japonská AI se pokusí stát se komunistickou a podporovat jiné komunistické režimy v Asii tím, že půjde relevantní větví národního stromu zaměření."
- RULE_OPTION_NEUTRALITY_JAP_AI_DESC: "Japonské AI se pokusí udeřit na sever proti Sovětskému svazu a pravděpodobně se spojí s Osy tím, že půjde odpovídající větví ve stromu národních fokusů." # todo: CHANGED
+ RULE_OPTION_NEUTRALITY_JAP_AI_DESC: "Japonská AI se pokusí udeřit na sever proti Sovětskému svazu a pravděpodobně se spojí s Osy tím, že půjde odpovídající větví národního stromu zaměření."
  RULE_DEMOCRATIC_JAP_AI_DESC: "Japonská AI se pokusí přeměnit v demokracii tím, že půjde relevantní větví v stromě zaměření."
  RULE_KAISER_GER_AI_DESC: "Německá AI se pokusí vrátit císaře na trůn tím, že půjde relevantní větví národního stromu zaměření."
  RULE_DEMOCRATIC_GER_AI_DESC: "Německá AI se pokusí vytvořit ústavní monarchii tím, že půjde relevantními větvemi národního stromu zaměření."
@@ -337,7 +337,7 @@
  RULE_DEMOCRATIC_ALTERNATE_USA_AI_DESC: "Americká AI se pokusí hrát aktivnější roli ve světových záležitostech tím, že půjde relevantní cestou v národním stromu zaměření."
  RULE_FASCIST_USA_AI_DESC: "Americká AI se pokusí stát fašistickým a převzít svět prostřednictvím národního stromu zaměření."
  RULE_OPTION_OBEDIENCE_MAN_AI_DESC: "Mandžuská AI se pokusí zůstat co nejvíce loajální a sledovat relevantní větev v národním stromu zaměření."
- RULE_OPTION_INDEPENDENCE_MAN_AI_DESC: "Mandžuské AI se pokusí osvobodit a ovládnout celou Čínu tím, že půjde odpovídající větví stromu národních fokusů." # todo: CHANGED
+ RULE_OPTION_INDEPENDENCE_MAN_AI_DESC: "Mandžuská AI se pokusí osvobodit a ovládnout celou Čínu tím, že půjde odpovídající větví národního stromu zaměření."
  RULE_ALLOW_GUARANTEES_SAME_IDEOLOGY_TOOLTIP: "Pravidlo hry: §RZemě mohou zaručit pouze země, které sdílí jejich vládnoucí ideologii.§!"
  RULE_ALLOW_GUARANTEES_BLOCKED_TOOLTIP: "Pravidlo hry: §RZemě nikdy nemohou zaručit jiné země.§!"
  RULE_ALLOW_MILITARY_ACCESS_SAME_IDEOLOGY_TT: "Pravidlo hry: §RZemě mohou získat vojenský přístup a přístup k dokování od zemí, které sdílí stejnou vládnoucí ideologii.§!"
@@ -766,44 +766,44 @@
  RULE_OPTION_COMMUNISM_PER_AI: "Komunismus - Tudeh"
  RULE_OPTION_COMMUNISM_PER_DESC: "AI se zapojí do revoluce, která nechá u moci sověti podporovanou stranu Tudeh. Komunistický režim se pokusí destabilizovat region."
  RULE_OPTION_FASCISM_PER_AI: "Fašismus - SUMKA"
- RULE_OPTION_FASCISM_PER_DESC: "AI sjednotí nacionalisty v zemi a vytvoří SUMKA, čímž do země přivede fašistický režim. Pokusí se vstoupit do fašistické frakce a vyhlásit válku svým sousedům." # todo: CHANGED
- RULE_OPTION_OBEDIENCE_CHINA: "Dva císaři" # todo: NEW TRANSLATION
- RULE_OPTION_INDEPENDENCE_FAS: "Císařská božskost" # todo: NEW TRANSLATION
- RULE_OPTION_INDEPENDENCE_NEU: "Nová ústava" # todo: NEW TRANSLATION
- RULE_OPTION_INDEPENDENCE_DEM: "Nová vláda Beiyang" # todo: NEW TRANSLATION
- RULE_OPTION_INDEPENDENCE_COM: "Převrat Zhao Shangzhiho" # todo: NEW TRANSLATION
- RULE_OPTION_COMMUNIST_JAP_AI: "Vychází rudé slunce" # todo: NEW TRANSLATION
- RULE_OPTION_COMMUNIST_RONOHA_JAP_AI: "Vzestup dělnicko-rolnické frakce" # todo: NEW TRANSLATION
- RULE_OPTION_COMMUNIST_RONOHA_JAP_AI_DESC: "Japonské AI se pokusí přejít ke komunismu a ustanovit vládu vedenou Ronoha, která povede křížovou výpravu proti imperialismu v Asii tím, že se vydá po příslušné větvi stromu národních fokusů." # todo: NEW TRANSLATION
- RULE_OPTION_JAP_NEUTRALITY: "Vítězství frakce Kodoha" # todo: NEW TRANSLATION
- RULE_OPTION_JAP_DEMOCRATIC: "Čistá demokracie" # todo: NEW TRANSLATION
- RULE_OPTION_JAP_FASCIST: "Asociace pro podporu císařské vlády" # todo: NEW TRANSLATION
- RULE_OPTION_BOLSHEVIK_PRC: "28 ½ bolševik" # todo: NEW TRANSLATION
- RULE_OPTION_BOLSHEVIK_PRC_DESC: "AI se vydá cestou 28 ½ bolševiků a pokusí se sladit se Sovětským svazem. Pokud bude v Druhém sjednoceném frontu, AI se pokusí diplomaticky ovlivnit frakci." # todo: NEW TRANSLATION
- RULE_OPTION_ALTERNATE_GUOMAO: "Neochotná diarchie" # todo: NEW TRANSLATION
- RULE_OPTION_ALTERNATE_GUOMAO_DESC: "AI se vydá cestou Neochotné diarchie, kdy se Mao a Guotao pokusí spolupracovat proti válečným pánům. AI nebude usilovat o vstup do Druhého sjednoceného frontu." # todo: NEW TRANSLATION
- RULE_OPTION_HISTORICAL_SEA: "Historické" # todo: NEW TRANSLATION
- RULE_OPTION_HISTORICAL_SEA_DESC: "Čínské AI se bude snažit co nejvíce následovat historický sled událostí." # todo: NEW TRANSLATION
- RULE_OPTION_FASCIST_SEA: "Fašistické" # todo: NEW TRANSLATION
- RULE_OPTION_FASCIST_SEA_DESC: "Čínské AI se pokusí vydat po fašistické větvi stromu národních fokusů." # todo: NEW TRANSLATION
- RULE_OPTION_WANG_JINGWEI_SEA: "Wang Jingweiho fronta" # todo: NEW TRANSLATION
- RULE_OPTION_WANG_JINGWEI_SEA_DESC: "Čínské AI se pokusí vydat po větvi stromu národních fokusů Wanga Jingweie." # todo: NEW TRANSLATION
- RULE_OPTION_DEMOCRATIC_SEA: "Čínská demokratická liga" # todo: NEW TRANSLATION
- RULE_OPTION_DEMOCRATIC_SEA_DESC: "Čínské AI se pokusí vydat po větvi stromu národních fokusů Čínské demokratické ligy." # todo: NEW TRANSLATION
- RULE_OPTION_OBEDIENCE_CHINA_MAN_AI_DESC: "Mandžuské AI se bude snažit zůstat co nejvěrnější a následovat příslušnou větev ve stromu národních fokusů, nakonec se stát Císařstvím Číny." # todo: NEW TRANSLATION
- RULE_OPTION_INDEPENDENCE_FAS_MAN_AI_DESC: "Mandžuské AI se pokusí odtrhnout a ovládnout celou Čínu a Vnější Mandžusko tím, že se vydá po příslušné větvi stromu národních fokusů." # todo: NEW TRANSLATION
- RULE_OPTION_INDEPENDENCE_NEU_MAN_AI_DESC: "Mandžuské AI se pokusí odtrhnout a ovládnout celou Čínu jako ústavní monarchii tím, že půjde po příslušné větvi stromu národních fokusů." # todo: NEW TRANSLATION
- RULE_OPTION_INDEPENDENCE_DEM_MAN_AI_DESC: "Mandžuské AI se pokusí odtrhnout a převzít úlohu nové vlády Beiyang tím, že se vydá po příslušné větvi stromu národních fokusů." # todo: NEW TRANSLATION
- RULE_OPTION_INDEPENDENCE_COM_MAN_AI_DESC: "Mandžuské AI se pokusí odtrhnout a stát se Čínskou lidovou republikou tím, že půjde po příslušné větvi stromu národních fokusů." # todo: NEW TRANSLATION
- PHI_AI_BEHAVIOR: "@PHI Filipíny" # todo: NEW TRANSLATION
- RULE_OPTION_HISTORICAL_PHI_AI: "Historické" # todo: NEW TRANSLATION
- RULE_OPTION_HISTORICAL_PHI_AI_DESC: "Filipíny zůstanou spojené se Spojenými státy." # todo: NEW TRANSLATION
- RULE_OPTION_FLEXIBLE_PHI_AI: "Flexibilní" # todo: NEW TRANSLATION
- RULE_OPTION_FLEXIBLE_PHI_AI_DESC: "Filipíny budou hrát Spojené státy proti Japonsku, aby maximalizovaly svůj potenciál." # todo: NEW TRANSLATION
- RULE_OPTION_FASCIST_PHI_AI: "Fašismus" # todo: NEW TRANSLATION
- RULE_OPTION_FASCIST_PHI_AI_DESC: "Filipíny se sblíží s Japonskem a samy se mohou přiklonit k fašismu." # todo: NEW TRANSLATION
- RULE_OPTION_MONARCHIST_PHI_AI_DESC: "Volby na Filipínách budou zvráceny, $PHI_neutrality_party_long$ převezme moc až do doby, kdy nakonec proběhne válka za nezávislost s podporou přátelských hispánských zemí a Filipíny se stanou monarchií." # todo: NEW TRANSLATION
- RULE_OPTION_COMMUNIST_PHI_AI: "Námořní komunismus" # todo: NEW TRANSLATION
- RULE_OPTION_COMMUNIST_PHI_AI_DESC: "Nad Filipínami vyjde rudé slunce, protože námořní komunismus se uchytí a usiluje o šíření ducha rovnosti po oceánech světa." # todo: NEW TRANSLATION
- RULE_OPTION_MACARTHUR_PHI_AI: "Vyhlásit vojenský nouzový stav" # todo: NEW TRANSLATION
- RULE_OPTION_MACARTHUR_PHI_AI_DESC: "Po pádu filipínské vlády vystoupí vojenská osobnost a povede národ proti všem útočníkům."" # todo: NEW TRANSLATION
+ RULE_OPTION_FASCISM_PER_DESC: "AI sjednotí nacionalisty v zemi a vytvoří SUMKA, čímž do země přivede fašistický režim. Pokusí se vstoupit do fašistické frakce a vyhlásit válku svým sousedům."
+ RULE_OPTION_OBEDIENCE_CHINA: "Dva císaři"
+ RULE_OPTION_INDEPENDENCE_FAS: "Císařská božskost"
+ RULE_OPTION_INDEPENDENCE_NEU: "Nová ústava"
+ RULE_OPTION_INDEPENDENCE_DEM: "Nová vláda Pejjang"
+ RULE_OPTION_INDEPENDENCE_COM: "Převrat Čao Šang-čchiho"
+ RULE_OPTION_COMMUNIST_JAP_AI: "Východ rudého slunce" 
+ RULE_OPTION_COMMUNIST_RONOHA_JAP_AI: "Vzestup dělnicko-rolnické frakce"
+ RULE_OPTION_COMMUNIST_RONOHA_JAP_AI_DESC: "Japonská AI se pokusí přejít ke komunismu a ustanovit vládu vedenou Ronoha, která povede křížovou výpravu proti imperialismu v Asii tím, že se vydá po příslušné větvi národního stromu zaměření."
+ RULE_OPTION_JAP_NEUTRALITY: "Vítězství frakce Kodoha"
+ RULE_OPTION_JAP_DEMOCRATIC: "Čistá demokracie"
+ RULE_OPTION_JAP_FASCIST: "Asociace pro podporu císařské vlády"
+ RULE_OPTION_BOLSHEVIK_PRC: "28 ½ bolševik"
+ RULE_OPTION_BOLSHEVIK_PRC_DESC: "AI se vydá cestou 28 ½ bolševiků a pokusí se sladit se Sovětským svazem. Pokud bude v Druhém sjednoceném frontu, AI se pokusí diplomaticky ovlivnit frakci."
+ RULE_OPTION_ALTERNATE_GUOMAO: "Neochotná diarchie"
+ RULE_OPTION_ALTERNATE_GUOMAO_DESC: "AI se vydá cestou Neochotné diarchie, kdy se Mao a Kuo-tchao pokusí spolupracovat proti militaristům. AI nebude usilovat o vstup do Druhého sjednoceného frontu."
+ RULE_OPTION_HISTORICAL_SEA: "Historické"
+ RULE_OPTION_HISTORICAL_SEA_DESC: "Čínská AI se bude snažit co nejvíce následovat historický sled událostí."
+ RULE_OPTION_FASCIST_SEA: "Fašismus"
+ RULE_OPTION_FASCIST_SEA_DESC: "Čínská AI se pokusí vydat po fašistické větvi národního stromu zaměření."
+ RULE_OPTION_WANG_JINGWEI_SEA: "Wang Ťin-wejova fronta"
+ RULE_OPTION_WANG_JINGWEI_SEA_DESC: "Čínská AI se pokusí vydat po větvi národního stromu zaměření Wang Ťin-weje."
+ RULE_OPTION_DEMOCRATIC_SEA: "Čínská demokratická liga"
+ RULE_OPTION_DEMOCRATIC_SEA_DESC: "Čínská AI se pokusí vydat po větvi národního stromu zaměření Čínské demokratické ligy."
+ RULE_OPTION_OBEDIENCE_CHINA_MAN_AI_DESC: "Mandžuská AI se bude snažit zůstat co nejvěrnější a následovat příslušnou větev ve národního stromu zaměření, nakonec se stát Čínskou říší."
+ RULE_OPTION_INDEPENDENCE_FAS_MAN_AI_DESC: "Mandžuská AI se pokusí odtrhnout a ovládnout celou Čínu a Vnější Mandžusko tím, že se vydá po příslušné větvi národního stromu zaměření."
+ RULE_OPTION_INDEPENDENCE_NEU_MAN_AI_DESC: "Mandžuská AI se pokusí odtrhnout a ovládnout celou Čínu jako ústavní monarchii tím, že půjde po příslušné větvi národního stromu zaměření."
+ RULE_OPTION_INDEPENDENCE_DEM_MAN_AI_DESC: "Mandžuská AI se pokusí odtrhnout a převzít úlohu nové vlády Pejjang tím, že se vydá po příslušné větvi národního stromu zaměření."
+ RULE_OPTION_INDEPENDENCE_COM_MAN_AI_DESC: "Mandžuská AI se pokusí odtrhnout a stát se Čínskou lidovou republikou tím, že půjde po příslušné větvi národního stromu zaměření."
+ PHI_AI_BEHAVIOR: "@PHI Filipíny"
+ RULE_OPTION_HISTORICAL_PHI_AI: "Historické"
+ RULE_OPTION_HISTORICAL_PHI_AI_DESC: "Filipíny zůstanou spojené se Spojenými státy."
+ RULE_OPTION_FLEXIBLE_PHI_AI: "Flexibilní"
+ RULE_OPTION_FLEXIBLE_PHI_AI_DESC: "Filipíny budou tlačit Spojené státy proti Japonsku, aby maximalizovaly svůj potenciál."
+ RULE_OPTION_FASCIST_PHI_AI: "Fašismus"
+ RULE_OPTION_FASCIST_PHI_AI_DESC: "Filipíny se sblíží s Japonskem a samy se mohou přiklonit k fašismu."
+ RULE_OPTION_MONARCHIST_PHI_AI_DESC: "Volby na Filipínách budou zvráceny, $PHI_neutrality_party_long$ převezme moc až do doby, kdy nakonec proběhne válka za nezávislost s podporou přátelských hispánských zemí a Filipíny se stanou monarchií."
+ RULE_OPTION_COMMUNIST_PHI_AI: "Námořní komunismus"
+ RULE_OPTION_COMMUNIST_PHI_AI_DESC: "Nad Filipínami vyjde rudé slunce, protože námořní komunismus se uchytí a usiluje o šíření ducha rovnosti po oceánech světa."
+ RULE_OPTION_MACARTHUR_PHI_AI: "Vojenský nouzový stav"
+ RULE_OPTION_MACARTHUR_PHI_AI_DESC: "Po pádu filipínské vlády vystoupí vojenská osobnost a povede národ proti všem útočníkům."
