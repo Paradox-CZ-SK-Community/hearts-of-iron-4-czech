@@ -89,7 +89,7 @@
  lar_align_belgium.2.t: "[From.GetNameDefCap] se podvolila"
  lar_align_belgium.3.a: "To ještě uvidíme."
  lar_align_belgium.3.b: "Belgie nestojí za jediný výstřel ani kapku krve."
- lar_align_belgium.3.desc: "Místo diplomatické odpovědi na naši nótu se zdá, že [From.GetAdjective] vláda nařídila armádě plnou pohotovost a uzavřela hranice. Bruselské noviny, ačkoli realisticky hodnotí vyhlídky na vítězství, jsou plné odkazů na bitvu u Waterloo a předpovídají hanebnou porážku francouzských sil, pokud bychom vtrhli do země.
+ lar_align_belgium.3.desc: "Místo diplomatické odpovědi na naši nótu se zdá, že [From.GetAdjective] vláda nařídila armádě plnou pohotovost a uzavřela hranice. Bruselské noviny, ačkoli realisticky hodnotí vyhlídky na vítězství, jsou plné odkazů na bitvu u Waterloo a předpovídají hanebnou porážku francouzských sil, pokud bychom vtrhli do země."
  lar_align_belgium.3.t: "[From.GetNameDefCap] slibuje boj"
  lar_appeal_to_overseas_territories.10.desc: "Guvernér ostrova vyzval obyvatele k zachování klidu a poslušnosti rozkazům legitimní vlády ve Vichy. Zdá se, že na ostrově panuje jen malá nespokojenost a většina obyvatel se tímto rozkazem řídí."
  lar_appeal_to_overseas_territories.10.t: "Madagaskar zůstává s Vichy"
@@ -478,7 +478,7 @@
  lar_news.5.a: "Když promluví Itálie, svět naslouchá."
  lar_news.5.b: "Naše aliance sílí."
  lar_news.5.c: "Kruh kolem Německa se uzavírá."
- lar_news.5.d: "Naše jižní křídlo je zajištěno." #tu som prestal
+ lar_news.5.d: "Naše jižní křídlo je zajištěno."
  lar_news.5.desc: "Navzdory počátečním neúspěchům a neshodám ohledně italské invaze do Etiopie se [This.GetStresaMembers] sešli, aby proměnili dohody dosažené v dubnu 1935 ve formální slib spojenectví.\n\nSoučástí jednání bylo i [This.GetStresaConcessions]. I když lídři nové aliance tvrdí, že dohoda má za cíl pouze udržet mír v Evropě, mnozí diplomaté se shodují, že jejím hlavním cílem bylo omezit Německo."
  lar_news.5.e: "Itálie je stejně spolehlivý spojenec jako vždy."
  lar_news.5.t: "Streská fronta ratifikována"

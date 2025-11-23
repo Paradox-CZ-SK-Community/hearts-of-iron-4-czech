@@ -278,7 +278,7 @@
  CHI_gao_zhihang: "Kao Č’-chang"
  CHI_generic_democratic_reformer: "Po Si-Laj"
  CHI_generic_fascist_demagogue: "Tan Chuang"
- CHI_hanyan_arsenal: "Hanyang Arsenal" # todo: CHANGED
+ CHI_hanyan_arsenal: "Arzenál Chan-jang"
  CHI_he_yingqin: "Che Jing-čchin"
  CHI_huang_shen: "Chuang Šen"
  CHI_illegal_regime: "Nelegální režim"
@@ -882,7 +882,7 @@
  ITA_serafino_mazzolini: "Serafino Mazzolini"
  JAP_chiune_sugihara: "Čiune Sugihara"
  JAP_hiroshi_oshima: "Hiroši Óšima"
- JAP_idemitsu_kosan: "Idemitsu Kōsan" # todo: CHANGED
+ JAP_idemitsu_kosan: "Idemicu Kósan"
  JAP_mitsumasa_yonai: "Micumasa Jonai"
  KUR_ahmed_barzani: "Ahmed Barzání"
  KUR_haji_baba: "Hadží Baba"
@@ -1321,7 +1321,7 @@
  PRC_zhang_wei: "Čang Wej"
  PRC_zhou_enlai: "Čou En-laj"
  PRC_zhu_de: "Ču Te"
- PRC_ziao_jingguang: "Xiao Jinguang" # todo: CHANGED
+ PRC_ziao_jingguang: "Siao Ťin-kuang"
  PRU_alberto_lopez_flores: "Alberto Lopez Flores"
  PRU_alberto_roque_saldias: "Alberto Roque Saldías"
  PRU_armando_reveredo_iglesias: "Armando Reveredo Iglesias"
@@ -1692,7 +1692,7 @@
  TIB_jigme_taring: "Džigme Taring"
  TIB_khemey_sonam_wangdi: "Khemej Sonam Wangdi"
  TIB_lhalu_tsewang_dorje: "Lhalu Cevang Dordže"
- TIB_lobsang_tenzin: "Lobsang Tenzin" # todo: CHANGED
+ TIB_lobsang_tenzin: "Lobsang Tenzin"
  TIB_reting_rimpoche: "Réting Rinpočhe"
  TIB_sampo_tsewang_rigzin: "Sampo Cevang Rigzin"
  TIB_sogyal_rinpoche: "Sogjal Rinpočhe"
@@ -1872,9 +1872,9 @@
  YUN_zhang_wu: "Čang Wu"
  YUN_zhou_zhirou: "Čou Č'-žou"
  YUN_zhu_hu: "Ču Chu"
- aichi: "Aichi Kokuki" # todo: CHANGED
+ aichi: "Aiči Kókúki"
  aioc: "AIOC"
- air_chief: "Náčelník letectva" # todo: CHANGED
+ air_chief: "Náčelník letectva"
  air_support_focus: "Letecká podpora"
  air_war_plans_division_focus: "Plány letecké války"
  air_war_plans_division_focus_desc: "Mocnosti Osy mohou být poraženy pouze díky převaze ve vzduchu. Dlouhodobé plány výroby a nasazení stíhaček a strategických bombardérů to nejen umožňují, ale i dokážou."
@@ -1917,7 +1917,7 @@
  andrew_cunningham: "Andrew Cunningham"
  angelo_iachino: "Angelo Iachino"
  anti_german_military: "Protiněmecké nálady v armádě"
- anti_german_military_desc: "Frakce v jugoslávském letectvu jsou proti spolupráci s Německem. Mohou se pokusit svrhnout režim, pokud země otevře své hranice nebo vstoupí do aliance s Třetí říší." # todo: CHANGED
+ anti_german_military_desc: "Frakce v jugoslávském letectvu jsou proti spolupráci s Německem. Mohou se pokusit svrhnout režim, pokud země otevře své hranice nebo vstoupí do aliance s Třetí říší."
  anti_nazi_coup: "Protinacistický převrat"
  anti_nazi_coup_desc: "Po svržení prince Pavla, které mělo zabránit spolupráci s Německem, se nový režim postavil proti profašistické diplomacii."
  anti_soviet_pact: "Anti[SOV.GetAdjective] pakt"
@@ -1973,7 +1973,7 @@
  charles_portal: "Charles Portal"
  chester_nimitz: "Chester W. Nimitz"
  chrysler: "Chrysler"
- chuichi_nagumo: "Chūichi Nagumo" # todo: CHANGED
+ chuichi_nagumo: "Čúiči Nagumo"
  civilian_economy: "Civilní ekonomika"
  claire_lee_chennault: "Claire Lee Chennault"
  claude_auchinleck: "Claude Auchinleck"
@@ -2093,7 +2093,7 @@
  frederick_bowhill: "Frederick Bowhill"
  free_trade: "Svobodný obchod"
  full_employment: "Úplné zaměstnání"
- fushimi_hiroyasu: "Prince Hiroyasu Fushimi" # todo: CHANGED
+ fushimi_hiroyasu: "Princ Hirojasu Fušimi"
  gaetano_crocco: "Gaetano Crocco"
  garden_reach_shipbuilders: "Garden Reach Shipbuilders"
  gaz: "GAZ"
@@ -2162,7 +2162,7 @@
  guderian: "Heinz Guderian"
  guiseppe_fioravanzo: "Guiseppe Fioravanzo"
  gunther_lutjens: "Günther Lütjens"
- hajime_sugiyama: "Hajime Sugiyama"
+ hajime_sugiyama: "Hadžime Sugijama"
  halifax_shipyard_limited: "Halifax Shipyard Limited"
  harland_wolff: "Harland & Wolff"
  harold_alexander: "Harold Alexander"
@@ -2183,12 +2183,12 @@
  henschel_desc: "Firma Henschel byla zodpovědná za všechny sériově vyráběné modely Tigerů, tanků, které se po vyřešení počátečních problémů se spolehlivostí chovaly pozoruhodně dobře."
  hermann_gortz: "Hermann Görtz"
  hermann_gortz_desc: "§HHermann Görtz§! je zručný německý špion."
- hideki_tojo: "Hideki Tōjō" # todo: CHANGED
+ hideki_tojo: "Hideki Tódžó"
  hideo_itokawa: "Hideo Itokawa"
  high_command: "Vojenské vrchní velení"
  hih_siderius: "H. I. H. Siderius"
  hindustan_aircraft: "Hindustan Aircraft Corporation"
- hino_kumazo: "Kumazō Hino" # todo: CHANGED
+ hino_kumazo: "Kumazó Hino"
  hisaichi_terauchi: "Hisaiči Terauči"
  hitoshi_imamura: "Hitoši Imamura"
  hjalmar_schacht: "Hjalmar Schacht"
@@ -2306,8 +2306,8 @@
  junkers: "Junkers"
  junkers_desc: "Junkers je nejvíce známý pro vývoj bombardéru Stuka."
  kaiser_challenge_met: "Císařská výzva ztroskotala"
- kaiser_challenge_met_desc: "Po předpovědích, že Císař může být propuštěn z Nizozemí bez zásahu Spojenců, se Německo pod tlakem rozhodlo ustoupit poté, co se ukázalo, že to byl omyl."
- kanin_kotohito: "Prince Kotohito Kan'in" # todo: CHANGED
+ kaiser_challenge_met_desc: "Po předpovědích, že Kaiser může být propuštěn z Nizozemí bez zásahu Spojenců, se Německo pod tlakem rozhodlo ustoupit poté, co se ukázalo, že to byl omyl."
+ kanin_kotohito: "Princ Kan'in Kotohito"
  kawasaki: "Kawasaki"
  kenji_doihara: "Kenži Doihara"
  kenneth_anderson: "Kenneth Anderson"
@@ -2389,14 +2389,14 @@
  military_youth_focus: "Vojenská mládež"
  minerva_imperia_motorized: "Minerva-Imperia Automobiles"
  minoru_genda: "Minoru Genda"
- mitsubishi: "Mitsubishi Aircraft Industries" # todo: CHANGED
+ mitsubishi: "Letecký průmysl Mitsubishi"
  mitsuo_fuchida: "Micuo Fučida"
  mobilization_laws: "Zákon o mobilizaci"
  montreal_lab: "Montreal Lab"
  morane_saulnier: "Morane-Saulnier"
  morozov_design_bureau: "Morozov"
  mw_aircraft: "M.W. Aircraft"
- nakajima: "Nakajima Aircraft Company" # todo: CHANGED
+ nakajima: "Nakajima Aircraft Company"
  nationalism: "Nacionalismus"
  nationalism_desc: "Srdce našeho lidu hoří národnou hrdostí a bude tvrdě bojovat, aby chránili naši domovinu"
  navy_chief: "Náčelník námořnictva"
@@ -2412,7 +2412,7 @@
  newport_news_shipbuilding: "Nová loděnice Newport News"
  nikita_khrushchev: "Nikita Chruščov"
  nikolay_kuznetsov: "Nikolaj Kuzněcov"
- nishizo_tsukahara: "Nishizō Tsukahara" # todo: CHANGED
+ nishizo_tsukahara: "Nišizó Cukahara"
  nissan: "Nissan"
  nkvd: "NKVD"
  nkvd_2: "NKVD"
@@ -2574,9 +2574,9 @@
  tactic_relentless_assault_preferred_weight_factor: "Dodatečná šance na taktiku §Y$tactic_relentless_assault$§!, pokud je táto taktika preferovanou"
  tactic_seize_bridge_preferred_weight_factor: "Dodatečná šance na taktiku §Y$tactic_seize_bridge$§!, pokud je táto taktika preferovanou"
  tactic_unexpected_thrust_preferred_weight_factor: "Dodatečná šance na taktiku §Y$tactic_unexpected_thrust$§!, pokud je táto taktika preferovanou"
- takuo_godo: "Takuo Godō"
+ takuo_godo: "Takao Godó"
  tank_destroyer_board: "Komise pro stihače tanků"
- tateo_kato: "Tateo Katō" # todo: CHANGED
+ tateo_kato: "Tateo Kató"
  tga: "TGA"
  the_long_lance: "Dlouhé kopí"
  the_long_lance_desc: "§LTorpédo Type-93, obecně přezdívané Dlouhé kopí, bylo nejmodernějším torpédem své doby. Bylo vyvinuto v Japonsku a Západ se mu nikdy nevyrovnal, protože poskytovalo menším lodím účinný způsob, jak na dálku zasáhnout větší, lépe pancéřované válečné lodě.§!"
@@ -2655,41 +2655,41 @@
  yakovlev_design_bureau: "Jakovlev"
  yarrow_shipbuilders: "Yarrow Shipbuilders"
  yasuji_okamura: "Yasuji Okamura"
- yokosuka: "Yokosuka Naval Air Arsenal" # todo: CHANGED
+ yokosuka: "Námořní letecký arzenál Jokosuka"
  yokosuka_naval_arsenal: "Námořní arzenál Jokosuka"
  yoshio_nishina: "Jošio Nišina"
  yoshitoshi_tokugawa: "Jošitóši Tokugawa"
  zastava_arms: "Zastava Arms"
  zmaj: "Zmaj"
- mitsubishi_civilian: "Mitsubishi" # todo: NEW TRANSLATION
- kokura_arsenal: "Kokura Arsenal" # todo: NEW TRANSLATION
- tokyo_automobile_industries: "Tokyo Automobile Industries" # todo: NEW TRANSLATION
- isuzu_motors: "Isuzu Motors" # todo: NEW TRANSLATION
- sagami_army_arsenal: "Sagami Army Arsenal" # todo: NEW TRANSLATION
- hitachi_civilian: "Hitachi" # todo: NEW TRANSLATION
- imperial_japanese_airways: "Imperial Japanese Airways" # todo: NEW TRANSLATION
- mitsui_bank: "Mitsui" # todo: NEW TRANSLATION
- tetsudou_shou: "Tetsudō-shō" # todo: NEW TRANSLATION
- oriental_development_company: "Oriental Development Company" # todo: NEW TRANSLATION
- nanyou_kouhatsu: "Nan'yō Kōhatsu" # todo: NEW TRANSLATION
- japan_steel_works: "Japan Steel Works" # todo: NEW TRANSLATION
- doumei_tsushin: "Dōmei Tsushin" # todo: NEW TRANSLATION
- nagoya_arsenal: "Nagoya Arsenal" # todo: NEW TRANSLATION
- kayaba_industry: "Kayaba Industry" # todo: NEW TRANSLATION
- kawanishi_aircraft_company: "Kawanishi Aircraft Company" # todo: NEW TRANSLATION
- hikari_naval_arsenal: "Hikari Naval Arsenal" # todo: NEW TRANSLATION
- mitsubishi_heavy_industries: "Mitsubishi Heavy Industries" # todo: NEW TRANSLATION
- hitachi_arms_department: "Hitachi Arms Department" # todo: NEW TRANSLATION
- kawasaki_aircraft_industries: "Kawasaki Aircraft Industries" # todo: NEW TRANSLATION
- mitsubishi_kobe_shipyard: "Mitsubishi Kobe Shipyard" # todo: NEW TRANSLATION
- tachikawa_aircraft_company: "Tachikawa Aircraft Company" # todo: NEW TRANSLATION
- yasuda_zaibatsu: "Yasuda" # todo: NEW TRANSLATION
- kawasaki_dockyards: "Kawasaki Dockyards" # todo: NEW TRANSLATION
- national_defense_state: "Stát národní obrany" # todo: NEW TRANSLATION
- QHM_ma_lin: "Ma Lin" # todo: NEW TRANSLATION
- MAN_zhang_yanqing: "Zhang Yanqing" # todo: NEW TRANSLATION
- MAN_zhang_shiyi: "Zang Shiyi" # todo: NEW TRANSLATION
- MAN_manchurian_ministry_of_posts: "Ministerstvo pošt a komunikací" # todo: NEW TRANSLATION
- MAN_manchukuo_film_association: "Manchukuoská filmová asociace" # todo: NEW TRANSLATION
- tactic_tactical_withdrawal_preferred_weight_factor: "Dodatečná §YTaktika: Ústup§! Šance použití této taktiky, pokud je preferovaná" # todo: NEW TRANSLATION
- tactic_breakthrough_preferred_weight_factor: "Dodatečná §YTaktika: Průlom§! Šance použití této taktiky, pokud je preferovaná" # todo: NEW TRANSLATION
+ mitsubishi_civilian: "Mitsubishi"
+ kokura_arsenal: "Arzenál Kokura"
+ tokyo_automobile_industries: "Tokyo Automobile Industries"
+ isuzu_motors: "Isuzu Motors"
+ sagami_army_arsenal: "Armádní arzenál Sagami"
+ hitachi_civilian: "Hitachi"
+ imperial_japanese_airways: "Imperial Japanese Airways"
+ mitsui_bank: "Mitsui"
+ tetsudou_shou: "Tecudóšó"
+ oriental_development_company: "Oriental Development Company"
+ nanyou_kouhatsu: "Nanjó Kóhacu"
+ japan_steel_works: "Japan Steel Works"
+ doumei_tsushin: "Dómei Cušin"
+ nagoya_arsenal: "Arzenál Nagoja"
+ kayaba_industry: "Kayaba Industry"
+ kawanishi_aircraft_company: "Kawanishi Aircraft Company"
+ hikari_naval_arsenal: "Námořní arzenál Hikari"
+ mitsubishi_heavy_industries: "Těžký průmysl Mitsubishi"
+ hitachi_arms_department: "Zbrojní oddělení Hitachi"
+ kawasaki_aircraft_industries: "Letecký průmysl Kawasaki"
+ mitsubishi_kobe_shipyard: "Loděnice Mitsubishi Kobe"
+ tachikawa_aircraft_company: "Tachikawa Aircraft Company"
+ yasuda_zaibatsu: "Jasuda"
+ kawasaki_dockyards: "Loděnice Kawasaki"
+ national_defense_state: "Stát národní obrany"
+ QHM_ma_lin: "Ma Lin"
+ MAN_zhang_yanqing: "Čang Jen-čching"
+ MAN_zhang_shiyi: "Čang Ši-i"
+ MAN_manchurian_ministry_of_posts: "Ministerstvo pošt a komunikací"
+ MAN_manchukuo_film_association: "Mančukuoská filmová asociace"
+ tactic_tactical_withdrawal_preferred_weight_factor: "Dodatečná §YTaktika: Ústup§! Šance použití této taktiky, pokud je preferovaná"
+ tactic_breakthrough_preferred_weight_factor: "Dodatečná §YTaktika: Průlom§! Šance použití této taktiky, pokud je preferovaná"

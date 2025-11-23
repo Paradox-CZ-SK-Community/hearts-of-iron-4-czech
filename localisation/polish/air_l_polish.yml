@@ -3,7 +3,7 @@
  ACE_PILOT_WING_SIZE_EFFECT_SMALLER: "Eso je přiděleno k letce menší než $DEFINE|0Y$, takže se všechny účinky zvyšují o $MOD|0%Y$ jako kompenzace."
  ADD_AIR_MISSION_INSTANT: "§GProtáhněte letky sem, abyste je přiřadili k této strategické oblasti.\nPravým tlačítkem klikněte na letku, abyste ji přiřadili k této strategické oblasti.§!"
  ADD_MINES_EFFECT: "Přidat $NUM|H$ min do $REGION|H$"
- AGGRESSIVE_CLICK_TO: "§GKlikněte§! pro změnu agresivity" # todo: CHANGED
+ AGGRESSIVE_CLICK_TO: "§GKlikněte§! pro změnu agresivity"
  AGGRESSIVE_HIGH: "§HŽádný ústup§!"
  AGGRESSIVE_HIGH_DESC: "Pokračujte v misi bez ohledu na oběti."
  AGGRESSIVE_LOW: "§HNízká intenzita§!"
@@ -71,15 +71,15 @@
  AIRWING_MISSION_CLICK_TO: "§GKlikněte§! pro změnu na $NEXT|H$"
  AIRWING_MISSION_DAY: "Mise jsou vykonávány pouze během §Hdne§!."
  AIRWING_MISSION_DAY_NIGHT: "Mise jsou vykonávány §Hden§! a §Hnoc§!."
- AIRWING_MISSION_DAY_NIGHT_SINGLE: "§HDen§! a §HNoc§!" # todo: CHANGED
- AIRWING_MISSION_DAY_SINGLE: "§HDen§!" # todo: CHANGED
+ AIRWING_MISSION_DAY_NIGHT_SINGLE: "§HDen§! a §HNoc§!"
+ AIRWING_MISSION_DAY_SINGLE: "§HDen§!"
  AIRWING_MISSION_EFFICIENCY: "§TEfektivita mise: $AMOUNT|H1%$§!"
  AIRWING_MISSION_EFFICIENCY_TOT: "§TEfektivita mise: $AMOUNT|H1%$§!\n"
  AIRWING_MISSION_IDLE: "V pohotovosti"
  AIRWING_MISSION_IN_REGION: "Na misi v $REG|G$"
  AIRWING_MISSION_NIGHT: "Mise jsou vykonávány pouze v §Hnoci§!."
  AIRWING_MISSION_NIGHT_BOMBING_DESC: "\n\nPokud je tato mise provedena v noci, má mnohem menší šanci na odhalení, ale je znevýhodněna při plnění cílů."
- AIRWING_MISSION_NIGHT_SINGLE: "§HNoc§!" # todo: CHANGED
+ AIRWING_MISSION_NIGHT_SINGLE: "§HNoc§!"
  AIRWING_MISSION_NONE: "Žádná mise"
  AIRWING_MISSION_ON_RAID: "§RNelze vykonávat mise, když jsou přiřazeny k náletu.§!"
  AIRWING_MISSION_OUT_OF_RANGE: "§RMimo dosah této strategické oblasti!§!"
@@ -269,11 +269,11 @@
  AIR_REINFORCEMENT_HIGH_PRIORITY: "Vysoká priorita posil"
  AIR_REINFORCEMENT_LOW_PRIORITY: "Nízká priorita posil"
  AIR_REINFORCEMENT_MEDIUM_PRIORITY: "Střední priorita posil"
- AIR_REINFORCE_ANY: "Použít současné i zastaralé modely k doplnění §Hleteckého křídla§!." # todo: CHANGED
+ AIR_REINFORCE_ANY: "Použít současné i zastaralé modely k doplnění §Hletky§!."
  AIR_REINFORCE_DESC: "Pro změnu pravidla pro posily §HPřeorganizujte§! letku."
- AIR_REINFORCE_OBSOLETE_ONLY: "Povolit k doplnění §Hleteckého křídla§! pouze zastaralá letadla." # todo: CHANGED
- AIR_REINFORCE_ONLY_NEW: "Povolit k doplnění §Hleteckého křídla§! pouze současné modely letadel." # todo: CHANGED
- AIR_REINFORCE_ONLY_SAME: "K doplnění jsou povoleny pouze modely letadel, které již jsou v §Hleteckém křídle§!." # todo: CHANGED
+ AIR_REINFORCE_OBSOLETE_ONLY: "Povolit k doplnění §Hletky§! pouze zastaralá letadla."
+ AIR_REINFORCE_ONLY_NEW: "Povolit k doplnění §Hletky§! pouze současné modely letadel."
+ AIR_REINFORCE_ONLY_SAME: "K doplnění jsou povoleny pouze modely letadel, které již jsou v §Hletce§!."
  AIR_REMOVE_COUNT: "$NUM|H$"
  AIR_RESERVES_BASE_ITEM_NAME: "Rezervy (nepoužívané)"
  AIR_SELECT_ALL_NO_WINGS_IN_REGION: "§RNeexistují žádné letky přiřazene do této oblasti.§!"
@@ -449,23 +449,23 @@
  adjuster_mission_port_strike: "$AIRWING_MISSION_TYPE_PORT_STRIKE$"
  adjuster_mission_recon: "$AIRWING_MISSION_TYPE_RECON$"
  adjuster_mission_strategic_bomber: "$AIRWING_MISSION_TYPE_STRATEGIC_BOMBER$"
- AIRWING_OFFENSIVE_SORTIE_AMOUNT: "Ofenzivní let: $RATIO|0%Y$\n$AMOUNT|Y$ letadel na misi\n" # todo: NEW TRANSLATION
- DAY_NIGHT_CLICK_TO: "§GKlikněte§! pro změnu období" # todo: NEW TRANSLATION
- AIR_REINFORCE_SELECTION: "§GKlikněte§! pro změnu posil" # todo: NEW TRANSLATION
- AIR_REINFORCE_OBSOLETE_ONLY_SHORT: "§HRezervní letecké křídlo§!" # todo: NEW TRANSLATION
- AIR_REINFORCE_ANY_SHORT: "§HBěžné letecké křídlo§!" # todo: NEW TRANSLATION
- AIR_REINFORCE_ONLY_NEW_SHORT: "§HElitní letecké křídlo§!" # todo: NEW TRANSLATION
- AIR_REINFORCE_ONLY_SAME_SHORT: "§HSpecializované letecké křídlo§!" # todo: NEW TRANSLATION
- AIR_REINFORCE_OBSOLETE_MIXED: "Většina křídel: $AIR_REINFORCE_OBSOLETE_ONLY_SHORT$" # todo: NEW TRANSLATION
- AIR_REINFORCE_ANY_MIXED: "Většina křídel: $AIR_REINFORCE_ANY_SHORT$" # todo: NEW TRANSLATION
- AIR_REINFORCE_ONLY_NEW_MIXED: "Většina křídel: $AIR_REINFORCE_ONLY_NEW_SHORT$" # todo: NEW TRANSLATION
- AIR_REINFORCE_ONLY_SAME_MIXED: "Většina křídel: $AIR_REINFORCE_ONLY_SAME_SHORT$" # todo: NEW TRANSLATION
- SELECT_NICHE_INDEX: "Vyberte specializaci" # todo: NEW TRANSLATION
- NICHE_INDEX_1: "§YJestřáb§!" # todo: NEW TRANSLATION
- NICHE_INDEX_2: "§YRacek§!" # todo: NEW TRANSLATION
- NICHE_INDEX_3: "§YSova§!" # todo: NEW TRANSLATION
- NICHE_INDEX_4: "§YOrel§!" # todo: NEW TRANSLATION
- NICHE_INDEX_5: "§YObranný pták§!" # todo: NEW TRANSLATION
- NICHE_INDEX_6: "§YPrůzkumný pták§!" # todo: NEW TRANSLATION
- NICHE_INDEX_7: "§YÚtočný pták§!" # todo: NEW TRANSLATION
- NICHE_INDEX_8: "§YOrel bělohlavý§!" # todo: NEW TRANSLATION
+ AIRWING_OFFENSIVE_SORTIE_AMOUNT: "Ofenzivní vzlet: $RATIO|0%Y$\n$AMOUNT|Y$ letadel na misi\n"
+ DAY_NIGHT_CLICK_TO: "§GKlikněte§! pro změnu období"
+ AIR_REINFORCE_SELECTION: "§GKlikněte§! pro změnu posil"
+ AIR_REINFORCE_OBSOLETE_ONLY_SHORT: "§HRezervní letka§!"
+ AIR_REINFORCE_ANY_SHORT: "§HBěžná letka§!"
+ AIR_REINFORCE_ONLY_NEW_SHORT: "§HElitní letka§!"
+ AIR_REINFORCE_ONLY_SAME_SHORT: "§HSpecializovaná letka§!"
+ AIR_REINFORCE_OBSOLETE_MIXED: "Většina letky: $AIR_REINFORCE_OBSOLETE_ONLY_SHORT$"
+ AIR_REINFORCE_ANY_MIXED: "Většina letky: $AIR_REINFORCE_ANY_SHORT$"
+ AIR_REINFORCE_ONLY_NEW_MIXED: "Většina letky: $AIR_REINFORCE_ONLY_NEW_SHORT$"
+ AIR_REINFORCE_ONLY_SAME_MIXED: "Většina letky: $AIR_REINFORCE_ONLY_SAME_SHORT$"
+ SELECT_NICHE_INDEX: "Vyberte specializaci"
+ NICHE_INDEX_1: "§YJestřáb§!"
+ NICHE_INDEX_2: "§YRacek§!"
+ NICHE_INDEX_3: "§YSova§!"
+ NICHE_INDEX_4: "§YOrel§!"
+ NICHE_INDEX_5: "§YObranný pták§!"
+ NICHE_INDEX_6: "§YPrůzkumný pták§!"
+ NICHE_INDEX_7: "§YÚtočný pták§!"
+ NICHE_INDEX_8: "§YOrel bělohlavý§!"

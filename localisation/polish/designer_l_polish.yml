@@ -110,7 +110,7 @@
  DIVISION_PRODUCTION_COST_VAL: "Odhadované výrobní náklady: £production_cost£ $MINVALUE|0$ do £production_cost£ $MAXVALUE|0$"
  DIVISION_PRODUCTION_RESOURCE_DESC: "§HZdroje§! použité při výrobě vybavení potřebného pro divizi této šablony."
  DIVISION_REFIT_COST_LAND: "Náklady na konverzi: £production_cost $VALUE|2$"
- DIVISION_REFIT_COST_NAVAL: "Náklady na přezbrojení: £navprod_cost£ $VALUE|0$"
+ DIVISION_REFIT_COST_NAVAL: "Cena přezbrojení: £navprod_cost£ $VALUE|0$"
  EQUIPMENT_ARCHETYPE_DESELECTED: "§RŠablona postrádá vybavení:§!\n"
  EQUIPMENT_COMPARISON: "Porovnání vybavení"
  EQUIPMENT_DESIGNER_ADD_DESC: "Cena £$EXPERIENCE_TYPE$ $VALUE|H0$ za přidání"
@@ -444,9 +444,9 @@
  type_xxi_class: "Typ XXI"
  v_class: "Třída V"
  vanguard_class: "Třída Vanguard"
- EQUIPMENT_DESIGNER_NAVAL_DOMINANCE_BREAKDOWN: "§YNámořní převaha§! \nKolik námořní převahy poskytuje tato loď." # todo: NEW TRANSLATION
- HULL_NAME: "$NAME$: $VALUE|+=0$" # todo: NEW TRANSLATION
- DOMINANCE_SPEED_FACTOR: "Maximální rychlost: $VALUE|+=%$" # todo: NEW TRANSLATION
- DOMINANCE_RANGE_FACTOR: "Maximální dosah: $VALUE|+=%$" # todo: NEW TRANSLATION
- DOMINANCE_HG_FACTOR: "Těžký útok: $VALUE|+=%$" # todo: NEW TRANSLATION
- DOMINANCE_CARRIER_SIZE_FACTOR: "Velikost letadlové lodi: $VALUE|+=%$" # todo: NEW TRANSLATION
+ EQUIPMENT_DESIGNER_NAVAL_DOMINANCE_BREAKDOWN: "§YNámořní převaha§! \nKolik námořní převahy poskytuje tato loď."
+ HULL_NAME: "$NAME$: $VALUE|+=0$"
+ DOMINANCE_SPEED_FACTOR: "Maximální rychlost: $VALUE|+=%$"
+ DOMINANCE_RANGE_FACTOR: "Maximální dosah: $VALUE|+=%$"
+ DOMINANCE_HG_FACTOR: "Těžký útok: $VALUE|+=%$"
+ DOMINANCE_CARRIER_SIZE_FACTOR: "Kapacita letadlové lodi: $VALUE|+=%$"

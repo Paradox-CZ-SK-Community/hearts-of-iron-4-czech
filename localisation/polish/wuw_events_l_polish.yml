@@ -2190,7 +2190,7 @@
  wuw_HUN_news_events.3.b: "Vrátíme naši minulou slávu!"
  wuw_HUN_news_events.3.c: "Nesou naše dědictví"
  wuw_HUN_news_events.3.desc: "\nProtože v bezprostředním okolí nenašli vhodné spojence, [HUN.GetNameDef] se rozhodlo znovu vytvořit Ústřední mocnosti. Poté, co se vymanili z omezení uložených poválečnými smlouvami, se země vydala cestou rychlé remilitarizace. Zda tato nová aliance bude skutečně připomínat svého jmenovce z Velké války, se teprve ukáže."
- wuw_HUN_news_events.3.t: "[HUN.GetNameDefCap] reformuje Centrální mocnosti" #
+ wuw_HUN_news_events.3.t: "[HUN.GetNameDefCap] reformuje Centrální mocnosti"
  wuw_HUN_news_events.4.a: "Musí být zničeni!"
  wuw_HUN_news_events.4.b: "Svět nám leží u nohou."
  wuw_HUN_news_events.4.desc: "[HUN.GetLeader] oznámil ambice země ovládnout svět a nastolit [HUN.GetAdjective] hegemonii na všech kontinentech. Tvrdí, že jde o dědictví lidu apoštolského království a že už nikdy nepodlehnou cizím mocnostem."
@@ -2715,4 +2715,4 @@
  ww_congo.9.desc: "S rostoucí střední třídou a mnoha vzdělanými lidmi v městech začíná mnoho [COG.GetAdjective] studovat politické teorie a noví politici i zastánci nezávislosti se objevují. Tohle značí nový rozkvět [COG.GetAdjective] národa!"
  ww_congo.9.t: "Évolué vstupují do politiky [ROOT.GetAdjective]"
  yugoslavia_mefo_bills_tt: "Používá jugoslávské zlato ke snížení nákladů §Y[GetMilitaryProductionModifierName]§!.\n"
- ww_BEL_event_diplomatic.15.c: "Pošleme jim $support_equipment$!" # todo: NEW TRANSLATION
+ ww_BEL_event_diplomatic.15.c: "Pošleme jim $support_equipment$!"

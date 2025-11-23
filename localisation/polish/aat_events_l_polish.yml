@@ -487,8 +487,8 @@
  AAT_Sweden_flashpoints.82.a: "Nezbytné náklady"
  AAT_Sweden_flashpoints.82.desc: "[SWE.GetName] souhlasilo s finančním odškodněním za Åland. Během probíhající transakce se konal malý obřad a i když někteří obyvatelé Åland samozřejmě mají obavy o svou budoucnost, [SWE.GetAdjective] úřady uvedly, že přechod bude co nejplynulejší a že respektují jejich způsob života."
  AAT_Sweden_flashpoints.82.t: "[SWE.GetName] souhlasí"
- AAT_Sweden_flashpoints.83.a: "Takže to příliš nechtěli" # todo: CHANGED
- AAT_Sweden_flashpoints.83.desc: "[SWE.GetName] se rozhodlo, že není ochotno utratit tolik svých rezerv na předání Åland." # todo: CHANGED
+ AAT_Sweden_flashpoints.83.a: "Takže to příliš nechtěli"
+ AAT_Sweden_flashpoints.83.desc: "[SWE.GetName] se rozhodlo, že není ochotno utratit tolik svých rezerv na předání Åland."
  AAT_Sweden_flashpoints.83.t: "[SWE.GetName] odmítá"
  AAT_Sweden_flashpoints_civil_war_tt: "§R Snížení stability [SWE.GetFlag][SWE.GetName] může vést k občanské válce, pokud komunisté udrží vysokou podporu! §!"
  AAT_Sweden_flashpoints_tt_arne_beurling: "Odemyká §YArne Beurling§! ($MODIFIER_DECRYPTION_POWER$: §G+15§!) jako poradce"
@@ -1808,14 +1808,14 @@
  denmark_protection_event.2.desc: "Vyslanec, kterého jsme poslali do [FROM.GetNameDef], se vrátil s dobrými zprávami! [FROM.GetAdjective] vláda se rozhodla naši smlouvu podepsat a nyní jsme oba vstoupili do paktu o neútočení. Je to velký den pro obě naše národy."
  denmark_protection_event.2.t: "[FROM.GetNameDefCap] podepsal pakt o neútočení"
  denmark_protection_event.200.a: "Pěkné!"
- denmark_protection_event.200.desc: "Tváří v tvář válce je důležité připravit armádu na cokoliv, co na ně bude svrženo. Prováděním těchto cvičení budou naše jednotky připraveny bránit hranice [DEN.GetNameDef] vždy, když to bude potřeba."
+ denmark_protection_event.200.desc: "Tváří v tvář válce je důležité připravit armádu na cokoliv, co na ně bude svrženo. Prováděním těchto cvičení budou naše jednotky připraveny bránit [DEN.GetAdjective] hranice vždy, když to bude potřeba."
  denmark_protection_event.200.t: "Armádní cvičení"
  denmark_protection_event.201.a: "Pěkné!"
- denmark_protection_event.201.desc: "Tváří v tvář válce je důležité připravit námořnictvo na cokoliv, co na ně bude svrženo. Prováděním těchto cvičení budou naši námořníci připraveni bránit vody [DEN.GetNameDef] vždy, když to bude potřeba."
+ denmark_protection_event.201.desc: "Tváří v tvář válce je důležité připravit námořnictvo na cokoliv, co na ně bude svrženo. Prováděním těchto cvičení budou naši námořníci připraveni bránit [DEN.GetAdjective] vody vždy, když to bude potřeba."
  denmark_protection_event.201.t: "Námořní cvičení"
  denmark_protection_event.202.a: "Příjemné!"
- denmark_protection_event.202.desc: "V době války je důležité připravit letectvo na vše, co je může potkat. Díky těmto cvičením budou naši piloti více než připraveni bránit nebe [DEN.GetNameDef], kdykoli to bude potřeba." # todo: CHANGED
- denmark_protection_event.202.t: "Cvičení letectva" # todo: CHANGED
+ denmark_protection_event.202.desc: "V době války je důležité připravit letectvo na vše, co je může potkat. Díky těmto cvičením budou naši piloti více než připraveni bránit [DEN.GetAdjective] nebe, kdykoli to bude potřeba."
+ denmark_protection_event.202.t: "Letecké cvičení"
  denmark_protection_event.3.a: "Ztráta času..."
  denmark_protection_event.3.desc: "Vyslanec, kterého jsme poslali do [FROM.GetNameDef], se vrátil se špatnými zprávami. [FROM.GetAdjectiveCap] vláda rozhodla, že pakt o neútočení není momentálně v jejich nejlepším zájmu. Je to nešťastné, ale nemůžeme je přesvědčit."
  denmark_protection_event.3.t: "[FROM.GetNameDefCap] odmítl pakt o neútočení"
@@ -1967,7 +1967,7 @@
  iceland_events.18.t: "[FROM.GetNameDefCap] Akceptuje [ROOT.GetAdjective] nezávislost"
  iceland_events.19.a: "Ať to zkusí"
  iceland_events.19.desc: "Váleční štváči z [FROM.GetNameDefCap] se rozhodli neratifikovat smlouvu o nezávislosti, kterou jim předložili. Místo toho trvají na tom, že [ROOT.GetName] je součástí [FROM.GetName], a hrozí obnovením podřízenosti silou. Musíme se připravit na nadcházející bouři."
- iceland_events.19.t: "[FROM.GetNameDefCap] odmítá uznat [ROOT.GetAdjective] nezávislost" # todo: CHANGED
+ iceland_events.19.t: "[FROM.GetNameDefCap] odmítá uznat [ROOT.GetAdjective] nezávislost"
  iceland_events.2.a: "Skvělá příležitost"
  iceland_events.2.b: "Ne, ať si řeší své vlastní problémy"
  iceland_events.2.c: "Nezhoršujme vztahy mezi [ROOT.GetAdjective] a [FROM.OVERLORD.GetAdjective]"

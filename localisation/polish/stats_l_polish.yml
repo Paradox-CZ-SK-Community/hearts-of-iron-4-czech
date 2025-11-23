@@ -56,7 +56,7 @@
  STAT_AIR_SUPERIORITY_DESC: "Příspěvek letadla k získání nebo udržení vzdušné nadvlády v dané strategické oblasti."
  STAT_AIR_SUPERIORITY_DIFF: "$VALUE|=+2$"
  STAT_AIR_SUPERIORITY_VALUE: "$VALUE|H2$"
- STAT_ARMY_ADDITIONAL_COLLATERAL_DAMAGE: "Dodatečné vedlejší poškození: " # todo: CHANGED
+ STAT_ARMY_ADDITIONAL_COLLATERAL_DAMAGE: "Dodatečné vedl. škody: "
  STAT_ARMY_ADDITIONAL_COLLATERAL_DAMAGE_DESC: "Čím vyšší je hodnota, tím více vedlejšího poškození jednotka způsobí opevněním a infrastruktuře během boje."
  STAT_ARMY_ADDITIONAL_COLLATERAL_DAMAGE_DIFF: "$VALUE|=+1$"
  STAT_ARMY_ADDITIONAL_COLLATERAL_DAMAGE_VALUE: "$VALUE|H1$"
@@ -101,7 +101,7 @@
  STAT_ARMY_FUEL_CAPACITY_DESC: "Maximální množství paliva, které jednotka může nést. Vyšší kapacita umožňuje delší operace bez zásobování."
  STAT_ARMY_FUEL_CAPACITY_DIFF: " $VALUE|=+$"
  STAT_ARMY_FUEL_CAPACITY_VALUE: "$VALUE|H1$"
- STAT_ARMY_FUEL_CONSUMPTION: "Spotřeba paliva: " # todo: CHANGED
+ STAT_ARMY_FUEL_CONSUMPTION: "Spotřeba paliva: "
  STAT_ARMY_FUEL_CONSUMPTION_DESC: "Denní spotřeba paliva touto jednotkou během aktivních operací."
  STAT_ARMY_FUEL_CONSUMPTION_DIFF: " $VALUE|=-1$"
  STAT_ARMY_FUEL_CONSUMPTION_VALUE: "$VALUE|H1$"
@@ -109,7 +109,7 @@
  STAT_ARMY_HARDNESS_DESC: "§T§HTvrdost§! určuje, jaký podíl jednotky tvoří obrněná nebo chráněná vozidla.\n\nJednotky s vyšší tvrdostí přijímají méně §HMěkkých útoků§! a více §HTvrdých útoků§!, což ovlivňuje typ poškození, které utrpí.§!"
  STAT_ARMY_HARDNESS_DIFF: " $VALUE|=+1%$"
  STAT_ARMY_HARDNESS_VALUE: "$VALUE|H1%$"
- STAT_ARMY_HARD_ATTACK: "Tvrdý útok: " # todo: CHANGED
+ STAT_ARMY_HARD_ATTACK: "Tvrdý útok: "
  STAT_ARMY_HARD_ATTACK_DESC: "Kolik útoků může jednotka provést proti nepřátelům s vysokou tvrdostí."
  STAT_ARMY_HARD_ATTACK_DIFF: " $VALUE|=+1$"
  STAT_ARMY_HARD_ATTACK_VALUE: "$VALUE|H1$"
@@ -129,11 +129,11 @@
  STAT_ARMY_RESISTANCE_SUPPRESS: "Potlačení odboje: "
  STAT_ARMY_RESISTANCE_SUPPRESS_DIFF: " $VALUE|=+1$"
  STAT_ARMY_RESISTANCE_SUPPRESS_VALUE: "$VALUE|H1$"
- STAT_ARMY_SOFT_ATTACK: "Měkký útok: " # todo: CHANGED
+ STAT_ARMY_SOFT_ATTACK: "Měkký útok: "
  STAT_ARMY_SOFT_ATTACK_DESC: "Počet útoků, které může jednotka provést proti nepřátelům s nízkou tvrdostí (např. pěchotě)."
  STAT_ARMY_SOFT_ATTACK_DIFF: " $VALUE|=+1$"
  STAT_ARMY_SOFT_ATTACK_VALUE: "$VALUE|H1$"
- STAT_ARMY_SUPPLY_CONSUMPTION: "Spotřeba zásob: " # todo: CHANGED
+ STAT_ARMY_SUPPLY_CONSUMPTION: "Spotřeba zásob: "
  STAT_ARMY_SUPPLY_CONSUMPTION_DESC: "Denní množství zásob, které jednotka spotřebuje pro svou činnost."
  STAT_ARMY_SUPPLY_CONSUMPTION_DIFF: " $VALUE|=-2$"
  STAT_ARMY_SUPPLY_CONSUMPTION_FACTOR: "Faktor spotřeby zásob: "
@@ -159,18 +159,18 @@
  STAT_CASUALTY_TRICKLEBACK: "Záchrana personálu: "
  STAT_CASUALTY_TRICKLEBACK_DESC: "Procento zraněného personálu, který se po boji vrátí do personální rezervy. Tito vojáci se nepočítají do ztrát, které negativně ovlivňují válečnou podporu."
  STAT_CASUALTY_TRICKLEBACK_VALUE: "$VALUE|H0%$"
- STAT_COMMON_ACCLIMATIZATION_COLD_GAIN: "Faktor získávání aklimatizace v chladu: " # todo: CHANGED
+ STAT_COMMON_ACCLIMATIZATION_COLD_GAIN: "Rychlost aklimatizace na chlad:"
  STAT_COMMON_ACCLIMATIZATION_COLD_GAIN_DESC: "Rychlost, jak rychle se jednotka přizpůsobuje působení nízkých teplot a mrazivého klimatu."
  STAT_COMMON_ACCLIMATIZATION_COLD_GAIN_DIFF: " $VALUE|=+1%$"
  STAT_COMMON_ACCLIMATIZATION_COLD_GAIN_VALUE: "$VALUE|H1%$"
- STAT_COMMON_ACCLIMATIZATION_HOT_GAIN: "Faktor získávání aklimatizace v teplu: " # todo: CHANGED
+ STAT_COMMON_ACCLIMATIZATION_HOT_GAIN: "Rychlost aklimatizace na horko:"
  STAT_COMMON_ACCLIMATIZATION_HOT_GAIN_DESC: "Rychlost, jak rychle se jednotka přizpůsobuje horkému a tropickému prostředí."
  STAT_COMMON_ACCLIMATIZATION_HOT_GAIN_DIFF: " $VALUE|=+1%$"
  STAT_COMMON_ACCLIMATIZATION_HOT_GAIN_VALUE: "$VALUE|H1%$"
  STAT_COMMON_ARMOR: "Pancíř: "
  STAT_COMMON_ARMOR_DESC: "Máte-li §Hpancíř§! vyšší než je §Hprůbojnost§! nepřítele, utrpíte menší poškození a získáte větší svobodu pohybu, což umožňuje provádět více útoků v boji."
  STAT_COMMON_ARMOR_DIFF: " $VALUE|=+1$"
- STAT_COMMON_ARMOR_TRAIN_DESC: "§HPancíř§! zvyšuje odolnost vlaku vůči útokům na logistiku – čím vyšší hodnota, tím více poškození vydrží, než bude zničen."
+ STAT_COMMON_ARMOR_TRAIN_DESC: "§HPancíř§! zvyšuje odolnost vlaku vůči útokům na logistiku - čím vyšší hodnota, tím více poškození vydrží, než bude zničen."
  STAT_COMMON_ARMOR_VALUE: "$VALUE|H1$"
  STAT_COMMON_BUILD_COST_IC: "£production_cost  Výrobní náklady: "
  STAT_COMMON_BUILD_COST_IC_DESC: "§TKolik výrobní kapacity je potřeba k vyrobení jednoho kusu vybavení. §H1§! továrna má výrobní kapacitu $SPEED|H$ za den.§!"
@@ -238,14 +238,14 @@
  STAT_NAVY_AMPHIBIOUS_DEFENSE: "Obojživelná obrana"
  STAT_NAVY_AMPHIBIOUS_DEFENSE_DESC: "Dodatečná obrana poskytovaná jednotkám při provádění obojživelných invazí."
  STAT_NAVY_AMPHIBIOUS_DEFENSE_VALUE: "$VALUE|H0%$"
- STAT_NAVY_ANTI_AIR_ATTACK: "Protivzdušná obrana: " # todo: CHANGED
+ STAT_NAVY_ANTI_AIR_ATTACK: "Protivzdušná obrana: "
  STAT_NAVY_ANTI_AIR_ATTACK_DESC: "Množství protiletadlové palebné síly, kterou loď nese pro sestřelení nepřátelských letadel."
  STAT_NAVY_ANTI_AIR_ATTACK_DIFF: " $VALUE|=+1$"
  STAT_NAVY_ANTI_AIR_ATTACK_VALUE: "$VALUE|H1$"
- STAT_NAVY_ANTI_AIR_TARGETTING: "Zaměřování protivzdušné obrany: " # todo: CHANGED
+ STAT_NAVY_ANTI_AIR_TARGETTING: "Protivzdušné zaměřování:"
  STAT_NAVY_ANTI_AIR_TARGETTING_DESC: "Schopnost lodi sledovat a zaměřit nepřátelská letadla pro účely jejich sestřelení."
  STAT_NAVY_ANTI_AIR_TARGETTING_VALUE: "$VALUE|H1$"
- STAT_NAVY_ATTACK: "Námořní palebná síla: " # todo: CHANGED
+ STAT_NAVY_ATTACK: "Palebná síla: "
  STAT_NAVY_ATTACK_DESC: "Úroveň poškození, které loď dokáže způsobit při průniku obrany nepřátelských lodí."
  STAT_NAVY_ATTACK_DIFF: " $VALUE|=+1$"
  STAT_NAVY_ATTACK_VALUE: "$VALUE|H1$"
@@ -257,7 +257,7 @@
  STAT_NAVY_FIRE_RANGE_DESC: "Dostřel hlavních děl lodi."
  STAT_NAVY_FIRE_RANGE_DIFF: " $VALUE|=+1$"
  STAT_NAVY_FIRE_RANGE_VALUE: "$VALUE|H1$"
- STAT_NAVY_HEAVY_GUN_HIT_CHANCE: "Šance zásahu těžkých děl: " # todo: CHANGED
+ STAT_NAVY_HEAVY_GUN_HIT_CHANCE: "Šance zásahu těžkých děl: "
  STAT_NAVY_HEAVY_GUN_HIT_CHANCE_DESC: "Úspěšnost těžkých děl při zasahování cíle."
  STAT_NAVY_HEAVY_GUN_HIT_CHANCE_DIFF: " $VALUE|=+1$"
  STAT_NAVY_HEAVY_GUN_HIT_CHANCE_VALUE: "$VALUE|=+1%$"
@@ -280,7 +280,7 @@
  STAT_NAVY_LG_ATTACK_DESC: "Poškození způsobené lehkými děly. Lehké děly jsou lepší v cílení na menší lodě."
  STAT_NAVY_LG_ATTACK_DIFF: " $VALUE|=+1$"
  STAT_NAVY_LG_ATTACK_VALUE: "$VALUE|H1$"
- STAT_NAVY_LIGHT_GUN_HIT_CHANCE: "Šance zásahu lehkých děl: " # todo: CHANGED
+ STAT_NAVY_LIGHT_GUN_HIT_CHANCE: "Šance zásahu lehkých děl: "
  STAT_NAVY_LIGHT_GUN_HIT_CHANCE_DESC: "Jak pravděpodobné je, že naše lehké dělostřelectvo zasáhne cíl."
  STAT_NAVY_LIGHT_GUN_HIT_CHANCE_DIFF: " $VALUE|=+1$"
  STAT_NAVY_LIGHT_GUN_HIT_CHANCE_VALUE: "$VALUE|=+1%$"
@@ -323,21 +323,21 @@
  STAT_NAVY_SHORE_BOMBARDMENT_DESC: "Schopnost jednotky provádět bombardování pobřeží k podpoře pozemních operací v blízkosti jejího mořského území během misí na podporu držení."
  STAT_NAVY_SHORE_BOMBARDMENT_DIFF: " $VALUE|=+1$"
  STAT_NAVY_SHORE_BOMBARDMENT_VALUE: "$VALUE|H1$"
- STAT_NAVY_SUB_ATTACK: "Hloubkové nálože: " # todo: CHANGED
+ STAT_NAVY_SUB_ATTACK: "Hloubkové nálože: "
  STAT_NAVY_SUB_ATTACK_DESC: "Množství poškození, které může loď způsobit nepřátelským ponorkám pomocí hlubinných pum."
  STAT_NAVY_SUB_ATTACK_DIFF: " $VALUE|=+1$"
  STAT_NAVY_SUB_ATTACK_VALUE: "$VALUE|H1$"
- STAT_NAVY_SUB_DETECTION: "Detekce ponorek: " # todo: CHANGED
+ STAT_NAVY_SUB_DETECTION: "Detekce ponorek: "
  STAT_NAVY_SUB_DETECTION_DESC: "Schopnost jednotky odhalit nepřátelské ponorky."
  STAT_NAVY_SUB_DETECTION_DIFF: " $VALUE|=+1$"
  STAT_NAVY_SUB_DETECTION_VALUE: "$VALUE|H1$"
- STAT_NAVY_SUB_VISIBILITY: "Viditelnost ponorky: "
+ STAT_NAVY_SUB_VISIBILITY: "Odhalitelnost ponorky: "
  STAT_NAVY_SUB_VISIBILITY_DESC: "Jak snadno může být ponorka detekována nepřítelem."
  STAT_NAVY_SUB_VISIBILITY_DIFF: " $VALUE|=-1$"
  STAT_NAVY_SUB_VISIBILITY_MOD_DIFF: " $VALUE|=-1%$"
  STAT_NAVY_SUB_VISIBILITY_MOD_VALUE: "$VALUE|=-1%$"
  STAT_NAVY_SUB_VISIBILITY_VALUE: "$VALUE|H1$"
- STAT_NAVY_SURFACE_DETECTION: "Detekce na hladině: " # todo: CHANGED
+ STAT_NAVY_SURFACE_DETECTION: "Hladinová detekce:"
  STAT_NAVY_SURFACE_DETECTION_DESC: "Schopnost detekovat nepřátelská plavidla operující na hladině."
  STAT_NAVY_SURFACE_DETECTION_DIFF: " $VALUE|+=1$"
  STAT_NAVY_SURFACE_DETECTION_VALUE: "$VALUE|H1$"
@@ -347,19 +347,19 @@
  STAT_NAVY_SURFACE_VISIBILITY_MOD_DIFF: " $VALUE|=-1%$"
  STAT_NAVY_SURFACE_VISIBILITY_MOD_VALUE: "$VALUE|=-1%$"
  STAT_NAVY_SURFACE_VISIBILITY_VALUE: "$VALUE|H1$"
- STAT_NAVY_TORPEDO_ATTACK: "Torpédový útok: " # todo: CHANGED
+ STAT_NAVY_TORPEDO_ATTACK: "Torpédový útok: "
  STAT_NAVY_TORPEDO_ATTACK_DESC: "Množství poškození, které může loď způsobit pomocí torpéd."
  STAT_NAVY_TORPEDO_ATTACK_DIFF: " $VALUE|=+1$"
  STAT_NAVY_TORPEDO_ATTACK_VALUE: "$VALUE|H1$"
- STAT_NAVY_TORPEDO_DAMAGE_REDUCTION: "Redukce poškození od torpéd: " # todo: CHANGED
+ STAT_NAVY_TORPEDO_DAMAGE_REDUCTION: "Redukce poškození od torpéd: "
  STAT_NAVY_TORPEDO_DAMAGE_REDUCTION_DESC: "Snižuje poškození utržené zásahem torpédem."
  STAT_NAVY_TORPEDO_DAMAGE_REDUCTION_DIFF: " $VALUE|=+1$"
  STAT_NAVY_TORPEDO_DAMAGE_REDUCTION_VALUE: "$VALUE|H1$"
- STAT_NAVY_TORPEDO_ENEMY_CRIT_CHANCE: "Šance kritického zásahu od přicházejících torpéd: " # todo: CHANGED
+ STAT_NAVY_TORPEDO_ENEMY_CRIT_CHANCE: "Šance na kritický zásah nepřátelským torpédem: "
  STAT_NAVY_TORPEDO_ENEMY_CRIT_CHANCE_DESC: "Jak pravděpodobné je, že nepřátelské torpédo způsobí kritický zásah."
  STAT_NAVY_TORPEDO_ENEMY_CRIT_CHANCE_DIFF: " $VALUE|=+1$"
  STAT_NAVY_TORPEDO_ENEMY_CRIT_CHANCE_VALUE: "$VALUE|=-1%$"
- STAT_NAVY_TORPEDO_HIT_CHANCE: "Šance zásahu torpédem: " # todo: CHANGED
+ STAT_NAVY_TORPEDO_HIT_CHANCE: "Šance zásahu torpédem: "
  STAT_NAVY_TORPEDO_HIT_CHANCE_DESC: "Jak pravděpodobné je, že naše torpéda zasáhnou cíl."
  STAT_NAVY_TORPEDO_HIT_CHANCE_DIFF: " $VALUE|=+1$"
  STAT_NAVY_TORPEDO_HIT_CHANCE_VALUE: "$VALUE|=+1%$"
@@ -403,16 +403,16 @@
  STAT_VALUE_DIFF_NEGATIVE: " $VALUE|=-0$"
  STAT_VALUE_DIFF_NEUTRAL: " $VALUE|H0$"
  STAT_VALUE_DIFF_POSITIVE: " $VALUE|=+0$"
- STAT_NAVY_CARRIER_SUB_DETECTION: "Detekce ponorek letadlovými letadly: " # todo: NEW TRANSLATION
- STAT_NAVY_CARRIER_SUB_DETECTION_DESC: "Schopnost detekovat ponorky zajištěná letadly z letadlových lodí." # todo: NEW TRANSLATION
- STAT_NAVY_CARRIER_SUB_DETECTION_VALUE: "$VALUE|H1$" # todo: NEW TRANSLATION
- STAT_NAVY_CARRIER_SUB_DETECTION_DIFF: " $VALUE|=+1$" # todo: NEW TRANSLATION
- STAT_NAVY_CARRIER_SURFACE_DETECTION: "Detekce povrchových lodí letadlovými letadly: " # todo: NEW TRANSLATION
- STAT_NAVY_CARRIER_SURFACE_DETECTION_DESC: "Schopnost detekovat povrchové lodě zajištěná letadly z letadlových lodí." # todo: NEW TRANSLATION
- STAT_NAVY_CARRIER_SURFACE_DETECTION_VALUE: "$VALUE|H1$" # todo: NEW TRANSLATION
- STAT_NAVY_CARRIER_SURFACE_DETECTION_DIFF: " $VALUE|=+1$" # todo: NEW TRANSLATION
- STAT_SUB_CARRIER_SIZE: "Velikost paluby ponorky: " # todo: NEW TRANSLATION
- STAT_SUB_CARRIER_SIZE_DESC: "Kolik letadel může ponorkový dopravník nést." # todo: NEW TRANSLATION
- STAT_SUB_CARRIER_SIZE_VALUE: "$VALUE|H0$" # todo: NEW TRANSLATION
- STAT_SUB_CARRIER_SIZE_DIFF: " $VALUE|=+0$" # todo: NEW TRANSLATION
- STAT_SUB_CARRIER_SIZE_MOD_DIFF: " $VALUE|=+0$" # todo: NEW TRANSLATION
+ STAT_NAVY_CARRIER_SUB_DETECTION: "Detekce ponorek letadlovou lodí: "
+ STAT_NAVY_CARRIER_SUB_DETECTION_DESC: "Schopnost detekovat ponorky poskytovaná palubními letouny letadlové lodě."
+ STAT_NAVY_CARRIER_SUB_DETECTION_VALUE: "$VALUE|H1$"
+ STAT_NAVY_CARRIER_SUB_DETECTION_DIFF: " $VALUE|=+1$"
+ STAT_NAVY_CARRIER_SURFACE_DETECTION: "Detekce hladinových lodí letadlovou lodí: "
+ STAT_NAVY_CARRIER_SURFACE_DETECTION_DESC: "Schopnost detekovat hladinové lodě poskytovaná palubními letouny letadlové lodě."
+ STAT_NAVY_CARRIER_SURFACE_DETECTION_VALUE: "$VALUE|H1$"
+ STAT_NAVY_CARRIER_SURFACE_DETECTION_DIFF: " $VALUE|=+1$"
+ STAT_SUB_CARRIER_SIZE: "Kapacita paluby letadlové ponorky: "
+ STAT_SUB_CARRIER_SIZE_DESC: "Udává, kolik letounů je letadlová ponorka schopna nést na palubě."
+ STAT_SUB_CARRIER_SIZE_VALUE: "$VALUE|H0$"
+ STAT_SUB_CARRIER_SIZE_DIFF: " $VALUE|=+0$"
+ STAT_SUB_CARRIER_SIZE_MOD_DIFF: " $VALUE|=+0$"

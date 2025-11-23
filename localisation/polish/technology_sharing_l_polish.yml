@@ -39,7 +39,7 @@
  FIN_joint_research_and_development_program_name: "Společný výzkumný a vývojový program"
  FRA_legitimist_tech_sharing_desc: "Zkrácená doba výzkumu technologií vyvinutých druhou částí království."
  FRA_legitimist_tech_sharing_name: "Královská komise pro technologie"
- GER_JAP_naval_tech_sharing_desc: "Iniciováno námořními inženýry v [GER.GetNameDef], vedení [GER.GetAdjective] nabídlo ruku Japoncům při usilování o dokonalost v námořních technologiích."
+ GER_JAP_naval_tech_sharing_desc: "Iniciováno námořními inženýry v [GER.GetNameDef], [GER.GetAdjective] vedení nabídlo ruku Japoncům při usilování o dokonalost v námořních technologiích."
  GER_JAP_naval_tech_sharing_name: "Německo-japonská námořní technologická výměna"
  GER_SOV_industrial_development_group: "Sovětsko-německý průmyslový rozvoj"
  GER_SOV_industrial_development_group_desc: "[GER.GetNameDef] a [SOV.GetNameDef] postupně prohlubují své průmyslové vztahy, proto [GER.GetAdjective] průmyslníci nabídli ruku [SOV.GetAdjective] kolegům k dalšímu společnému rozvoji průmyslu."

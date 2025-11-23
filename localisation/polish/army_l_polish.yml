@@ -1,21 +1,21 @@
 ﻿l_polish:
  AIR_GENERATE_ADVISOR: "Najměte vzdušné £pol_power $COST|-0$"
  AIR_GROUP_NAME_PATTERN: "$NUMBER$. $ADJECTIVE$ letecká skupina"
- AIR_OVERVIEW_CATEGORY_0: "Máme $COUNT|H$ §HCAS§! letadel v našem letectvu:" # todo: CHANGED
- AIR_OVERVIEW_CATEGORY_1: "Máme $COUNT|H$ §HFighter§! letadel v našem letectvu:" # todo: CHANGED
- AIR_OVERVIEW_CATEGORY_2: "Máme $COUNT|H$ §HNaval bomber§! letadel v našem letectvu:" # todo: CHANGED
- AIR_OVERVIEW_CATEGORY_3: "Máme $COUNT|H$ §HHeavy fighter§! letadel v našem letectvu:" # todo: CHANGED
- AIR_OVERVIEW_CATEGORY_4: "Máme $COUNT|H$ §HTactical bomber§! letadel v našem letectvu:" # todo: CHANGED
- AIR_OVERVIEW_CATEGORY_5: "Máme $COUNT|H$ §HStrategic bomber§! letadel v našem letectvu:" # todo: CHANGED
- AIR_OVERVIEW_CATEGORY_6: "Máme $COUNT|H$ §HTransport§! letadel v našem letectvu:" # todo: CHANGED
- AIR_OVERVIEW_CATEGORY_7: "Máme $COUNT|H$ §HScout§! letadel v našem letectvu:" # todo: CHANGED
- AIR_OVERVIEW_CATEGORY_8: "Máme $COUNT|H$ §HNaval Patrol Bomber§! letadel v našem letectvu:" # todo: CHANGED
+ AIR_OVERVIEW_CATEGORY_0: "Máme $COUNT|H$ letadel typu §HLetecká podpora§! v našem letectvu:"
+ AIR_OVERVIEW_CATEGORY_1: "Máme $COUNT|H$ letadel typu §HStíhač§! v našem letectvu:"
+ AIR_OVERVIEW_CATEGORY_2: "Máme $COUNT|H$ letadel typu §HNámořní bombardér§! v našem letectvu:"
+ AIR_OVERVIEW_CATEGORY_3: "Máme $COUNT|H$ letadel typu §HTěžký stíhač§! v našem letectvu:"
+ AIR_OVERVIEW_CATEGORY_4: "Máme $COUNT|H$ letadel typu §HTaktický bombardér§! v našem letectvu:"
+ AIR_OVERVIEW_CATEGORY_5: "Máme $COUNT|H$ letadel typu §HStrategický bombardér§! v našem letectvu:"
+ AIR_OVERVIEW_CATEGORY_6: "Máme $COUNT|H$ letadel typu §HTransportní letadlo§! v našem letectvu:"
+ AIR_OVERVIEW_CATEGORY_7: "Máme $COUNT|H$ letadel typu §HPrůzkumné letadlo§! v našem letectvu:"
+ AIR_OVERVIEW_CATEGORY_8: "Máme $COUNT|H$ letadel typu §HNámořní průzkumní bombardér§! v našem letectvu:"
  AIR_OVERVIEW_CATEGORY_CARRIER_0: "$COUNT|H$ jsou §HPalubní letecká podpora§!"
  AIR_OVERVIEW_CATEGORY_CARRIER_1: "$COUNT|H$ jsou §HPalubní stíhač§!"
  AIR_OVERVIEW_CATEGORY_CARRIER_2: "$COUNT|H$ jsou §HPalubní námořní bombardér§!"
  AIR_OVERVIEW_CATEGORY_CARRIER_3: "$COUNT|H$ jsou §HPalubní těžký stíhač§!"
  AIR_OVERVIEW_CATEGORY_CARRIER_4: "$COUNT|H$ jsou §HPalubní taktický bombardér§!"
- AIR_OVERVIEW_CATEGORY_CARRIER_5: "$COUNT|H$ jsou §HPalubní strategické bombardér§!"
+ AIR_OVERVIEW_CATEGORY_CARRIER_5: "$COUNT|H$ jsou §HPalubní strategický bombardér§!"
  AIR_OVERVIEW_CATEGORY_CARRIER_6: "$COUNT|H$ jsou §HPalubní transportní letadlo§!"
  AIR_OVERVIEW_CATEGORY_CARRIER_7: "$COUNT|H$ jsou §HPalubní průzkumné letadlo§!"
  AIR_OVERVIEW_CATEGORY_REGULAR_0: "$COUNT|H$ jsou §HLetecké podpory§!"
@@ -247,7 +247,7 @@
  UNASSIGNED_RAILWAY_GUNS_DESCRIPTION: "§GPravý klik§! na portrét velitele pro přidělení železničních děl k armádě, nebo klikněte na tlačítko §GPřiřadit k armádě§! nahoře u portrétu velitele"
  UNASSIGNED_UNIT_DESCRIPTION: "Tyto divize nejsou přiřazeny. Pravým klikem na existující armádu nebo vytvořte novou, abyste je přiřadili."
  VOLUNTEER_THEATER_GROUP_NAME_PATTERN: "$NUMBER$. $VOLADJECTIVE$ dobrovolnícká armáda"
- NAVAL_HEADQUARTER_ROSTER: "Velitelství" # todo: NEW TRANSLATION
- NAVAL_HEADQUARTER_ROSTER_COLORED: "§YNámořní velitelství§!" # todo: NEW TRANSLATION
- NAVAL_HEADQUARTER_ROSTER_DELAYED: "Klikněte pro otevření seznamu §YNámořního velitelství§!" # todo: NEW TRANSLATION
- NAVAL_HEADQUARTER_ASSIGN_ADMIRAL: "Klikněte pro přiřazení admirála" # todo: NEW TRANSLATION
+ NAVAL_HEADQUARTER_ROSTER: "Velitelství"
+ NAVAL_HEADQUARTER_ROSTER_COLORED: "§YNámořní velitelství§!"
+ NAVAL_HEADQUARTER_ROSTER_DELAYED: "Klikněte pro otevření seznamu §YNámořního velitelství§!"
+ NAVAL_HEADQUARTER_ASSIGN_ADMIRAL: "Klikněte pro přiřazení admirála"

@@ -47,7 +47,7 @@
  aerial_hangars: "Letecké hangáry"
  air_defence_desc: "Výcvikem našich pilotů, aby byli neustále ve střehu, i když zdánlivě nehrozí žádné nebezpečí, se zvyšuje jejich šance na zachycení nepřátelských letadel."
  air_defence: "Protivzdušná obrana"
- air_doctrine_folder_desc: "Letecká doktrína — jak bojuje vaše letectvo." # todo: CHANGED
+ air_doctrine_folder_desc: "Letecká doktrína — jak bojuje vaše letectvo."
  air_doctrine_folder: "Letecká doktrína"
  air_doctrine: "Letecká doktrína"
  air_equipment_research: "Rychlost leteckého výzkumu"
@@ -207,7 +207,7 @@
  basic_ship_hull_cruiser: "1936 Trup křižníku"
  basic_ship_hull_heavy_short: "1936 Těžký trup lodi"
  basic_ship_hull_heavy: "1936 Trup těžké lodě"
- basic_submarine_snorkel_desc: "Jednoduchá vzduchová trubice vedoucí ze strojovny do řídicí věže. Po prodloužení umožňuje ponorce provozovat motory a nabíjet baterie i při ponoření.\n\nNamontování tohoto modulu na §YSubmarines§! snižuje jejich §YVisibility§!, díky čemuž jsou hůře detekovatelné." # todo: CHANGED
+ basic_submarine_snorkel_desc: "Jednoduchá vzduchová trubice vedoucí ze strojovny do řídicí věže. Po prodloužení umožňuje ponorce provozovat motory a nabíjet baterie i při ponoření.\n\nNamontování tohoto modulu na §YPonorky§! snižuje jejich §YOdhalitelnost§!, díky čemuž jsou hůře detekovatelné."
  basic_submarine_snorkel: "Základní ponorkový šnorchl"
  basic_torpedo_desc: "Samohybná zbraň s výbušnou hlavicí, která se pohybuje po předem stanovené trase, dokud nenarazí na cíl pod vodní hladinou.\n\nInstalace tohoto modulu na §YLehké lodě§! nebo §YKřižníky§! jim umožňuje způsobit značné škody nepřátelským §YHlavním lodím§!."
  basic_torpedo: "Základní torpédo"
@@ -242,7 +242,7 @@
  breakthrough_priority: "Priorita průlomu"
  c3i_theory_desc: "Efektivní štábní důstojníci zajišťují tok velení, řízení, komunikace a zpravodajství mezi velícím důstojníkem a jím řízenými jednotkami."
  c3i_theory: "C3I"
- ca_tech: "Modely křižníků" # todo: CHANGED
+ ca_tech: "Modely křižníků"
  camicie_nere_security_militias: "$ITA_camicie_nere$"
  capital_ship_raiders_desc: "S našimi nejmocnějšími loděmi na lovu obchodních konvojů nepřítel již nenajde bezpečí v číslech. Jsou jako sedící kachny, modlí se, že je nenajdeme."
  capital_ship_raiders: "Útočníci na hlavní bojové lodě"
@@ -636,7 +636,7 @@
  improved_special_forces: "Rozšířený program speciálních jednotek"
  improved_submarine_mine_laying_desc: "Předělání min pro umístění do torpédových trubic umožňuje každé ponorce stát se minonoskou, byť na úkor nesených torpéd."
  improved_submarine_mine_laying: "Pokládání min z torpédových trubic"
- improved_submarine_snorkel_desc: "Vylepšený design zabraňuje nasátí vody do motorů a navíc snižuje radarový podpis hlavy šnorchlu.\n\nNamontování tohoto modulu na §YSubmarines§! snižuje jejich §YVisibility§!, díky čemuž jsou hůře detekovatelné." # todo: CHANGED
+ improved_submarine_snorkel_desc: "Vylepšený design zabraňuje nasátí vody do motorů a navíc snižuje radarovou stopu hlavy šnorchlu.\n\nNamontování tohoto modulu na §YPonorky§! snižuje jejich §YOdhalitelnost§!, díky čemuž jsou hůře detekovatelné."
  improved_submarine_snorkel: "Vylepšený šnorchl ponorky"
  industry_folder_desc: "Průmysl a výroba."
  industry_folder: "Průmysl"
@@ -919,7 +919,7 @@
  paras_keystone_1: "Nejlepší z nejlepších"
  paras_keystone_2_desc: "Naše ozbrojené síly budou nově stavět na dovednostech a výcviku výsadkových jednotek. Až potemní obloha jejich příchodem, nepřítel pocítí strach."
  paras_keystone_2: "Páteř ozbrojených sil"
- paratroopers_desc: "Začleněním výsadkových sil do naší armády můžeme provádět průlomy a rozmístit klíčové jednotky i do oblastí, které byly dosud nepřístupné – a tím získat nové taktické příležitosti."
+ paratroopers_desc: "Začleněním výsadkových sil do naší armády můžeme provádět průlomy a rozmístit klíčové jednotky i do oblastí, které byly dosud nepřístupné - a tím získat nové taktické příležitosti."
  PARATROOPERS_DOCTRINE_DESC: "Vzdušný výsadek je budoucností války. Posílením výsadkářů dosáhneme dokonalé souhry letecké síly a pozemního útoku."
  PARATROOPERS_DOCTRINE_LABEL: "Výsadkáři"
  paratroopers: "Výsadkáři I"
@@ -1058,7 +1058,7 @@
  ski_troops: "Specialisté na chladné počasí"
  smoke_generator_desc: "Některé drobné úpravy motorů a komínů lehkých a středních lodí jim umožňují vytvářet velké množství kouře, aby se vyhnuly nebo přerušily kontakt s nepřítelem."
  smoke_generator: "Kouřové generátory"
- snorkel_advice_tt: "\nMontáž §Yšnorchlů§! na §YPonorky§! dramaticky snižuje jejich §YViditelnost§!, což je činí obtížně viditelnými a cílenými pro nepřátelské lodě."
+ snorkel_advice_tt: "\nMontáž §Yšnorchlů§! na §YPonorky§! dramaticky snižuje jejich §YOdhalitelnost§!, což je činí obtížně viditelnými a zacílitelnými pro nepřátelské lodě."
  sonar_advice_tt: "\nInstalací modulu §YSonar§! na §YLehké lodě§! a §YKřižníky§! budou schopny detekovat nepřátelské §YPonorky§!."
  sonar_desc: "Základní souprava hydrofonů umožňuje sledovat podvodní cíle detekováním zvuku, který vydávají.\n\nInstalace tohoto modulu do §YElektronického slotu§! na §YLehkých lodích§! nebo §YKřižnících§! jim pomůže detekovat nepřátelské §YPonorky§!."
  sonar: "Pasivní sonar"
@@ -1072,9 +1072,9 @@
  sp_armored_engineer_tech: "Obrněná ženijní rota"
  sp_armored_lc_high_impact_obliterator_cannon_tech_desc: "$lc_high_impact_obliterator_cannon_desc$"
  sp_armored_lc_high_impact_obliterator_cannon_tech: "Těžký ničivý kanón"
- sp_armored_lc_naval_engine_conversion_tech_desc: "Využití námořního strojírenství – zesílené klikové hřídele, vysoký točivý moment a speciální chlazení – pro zvýšení výkonu a odolnosti motorů těžkých pozemních křižníků."
+ sp_armored_lc_naval_engine_conversion_tech_desc: "Využití námořního strojírenství - zesílené klikové hřídele, vysoký točivý moment a speciální chlazení - pro zvýšení výkonu a odolnosti motorů těžkých pozemních křižníků."
  sp_armored_lc_naval_engine_conversion_tech: "Konverze námořních motorů"
- sp_armored_lc_specialized_field_manuals_tech_desc: "Vývoj podrobných výcvikových manuálů pro osádky pozemních křižníků – zaměřených na obsluhu, údržbu i bojové nasazení těchto obrněných kolosů."
+ sp_armored_lc_specialized_field_manuals_tech_desc: "Vývoj podrobných výcvikových manuálů pro osádky pozemních křižníků - zaměřených na obsluhu, údržbu i bojové nasazení těchto obrněných kolosů."
  sp_armored_lc_specialized_field_manuals_tech: "Speciální polní příručky"
  sp_armored_lc_transmission_improvements_tech_desc: "Vylepšené převodové poměry, spojky a měniče točivého momentu umožňují efektivnější převodovky pro zvládání extrémních sil a hmotnosti pozemních křižníků."
  sp_armored_lc_transmission_improvements_tech: "Zlepšení převodovky"
@@ -1098,11 +1098,11 @@
  sp_helicopter_med_evac_tech: "Helikoptérová medevac jednotka"
  sp_helicopter_transport_pods_tech_desc: "Vrtulníky vybavené transportními moduly nebo vlečením zboží pod nimi mohou rychle a bez ohledu na terén přepravovat zásoby a vybavení. Zaseknutí v blátě je věcí minulosti!"
  sp_helicopter_transport_pods_tech: "Jednotka dopravních vrtulníků"
- sp_ice_composite_runawayas_desc: "S pokračujícím vývojem ledových kompozitů hledáme nejlepší materiály a stavební postupy, které poskytnou ochranu našemu letadlovému nosiči a letadlům." # todo: CHANGED
+ sp_ice_composite_runawayas_desc: "S pokračujícím vývojem ledových kompozitů hledáme nejlepší materiály a stavební postupy, které poskytnou ochranu našim letadlovým lodím a letadlům."
  sp_ice_composite_runawayas: "Kompozitní ledové dráhy"
  sp_multi_product_supply_ships_desc: "Nasazením nově vyrobených zásobovacích lodí zajišťujeme plynulejší přepravu paliva, munice a zásob."
  sp_multi_product_supply_ships: "Víceúčelová zásobovací loď"
- sp_refined_pykrete_desc: "Díky dalšímu vylepšení Pykrete nyní dokážeme zajistit mnohem lepší izolaci a ochranu pro naše letadla na Ice Carrier." # todo: CHANGED
+ sp_refined_pykrete_desc: "Díky zdokonalení pykretu dosahujeme mnohem lepší izolaci a ochranu pro naše letadla na ledových letadlových lodích."
  sp_refined_pykrete: "Rafinovaný pykret"
  sp_rockets_dual_chamber_rocket_engine_1_desc: "Přidáním druhé spalovací komory prodlužujeme dobu letu a zvyšujeme účinnost raketových motorů."
  sp_rockets_dual_chamber_rocket_engine_1: "Dvoukomorové raketové motory"
@@ -1114,9 +1114,9 @@
  sp_rockets_improved_rocket_bomber: "$improved_rocket_propelled_bombs$"
  sp_rockets_rocket_bomber_desc: "$rocket_propelled_bombs_desc$"
  sp_rockets_rocket_bomber: "$rocket_propelled_bombs$"
- sp_shock_hardening_techniques_desc: "Použitím technik tlumení otřesů a vyrovnání napětí jsme snížili riziko předčasných výbuchů – střely jsou nyní spolehlivější a účinnější."
+ sp_shock_hardening_techniques_desc: "Použitím technik tlumení otřesů a vyrovnání napětí jsme snížili riziko předčasných výbuchů - střely jsou nyní spolehlivější a účinnější."
  sp_shock_hardening_techniques: "Techniky odolnosti proti otřesům"
- sp_standard_tenshioned_replenishment_alongside_method_desc: "Standardizovaná metoda napnutého doplňování bok po boku, známá jako STREAM, je dalším krokem ve vývoji zajišťování stabilního zásobování našich námořních operací na velké vzdálenosti" # todo: CHANGED
+ sp_standard_tenshioned_replenishment_alongside_method_desc: "Standardizovaná metoda zásobování podél paluby, známá jako STREAM, představuje další vývoj při zajištění plynulého zásobování našich dálkových námořních operací."
  sp_standard_tenshioned_replenishment_alongside_method: "Standardizovaná metoda zásobování podél paluby"
  sp_variable_time_fuze_shells_desc: "Nasazením granátů s variabilním časovým zapalovačem dosáhneme explozí ve vzduchu a tím výrazně větší účinné zóny zásahu. "
  sp_variable_time_fuze_shells: "Granáty s časovým zapalovačem"
@@ -1277,7 +1277,7 @@
  trade_interdiction: "Přerušení obchodních tras"
  train_tech: "Vlaky a železnice"
  transport_desc: "Loď navržená výhradně pro přesun vojenského personálu, bez jakýchkoli obranných schopností."
- transport_planes_cat: "Transportní letadla" # todo: CHANGED
+ transport_planes_cat: "Transportní letadla"
  transport: "Transportní loď"
  trench_warfare_desc: "Lopatka je často nejlepší zbraní pěchoty. Jednotky se učí hodnotu zakopání se v jakékoli pozici, kterou zaujmou."
  trench_warfare: "Zákopová válka"
@@ -1298,49 +1298,49 @@
  werwolf_guerillas: "Partyzáni Werwolf"
  wolfpacks_desc: "Díky tomu, že jsou naše ponorky organizovány do skupin, se výrazně zlepšila jejich vzájemná koordinace. Jakmile je nepřítel lokalizován, naše ponorka vyčkává, dokud nedorazí zbytek smečky, a zaútočí pouze tehdy, když je převaha v náš prospěch."
  wolfpacks: "Vlčí smečky"
- rangers_tech: "Rangeri I" # todo: NEW TRANSLATION
- rangers_tech_desc: "Specializací na boj v lesním terénu a výcvikem naší lehké pěchoty v přizpůsobení se terénu a rostlinstvu můžeme nasadit méně jednotek k držení některých úseků fronty, nebo dokonce prorazit nepřátelské linie tam, kde to nejméně čekají." # todo: NEW TRANSLATION
- rangers_tech2: "Rangeri II" # todo: NEW TRANSLATION
- rangers_tech2_desc: "Nasazení lesních specialistů ve velkém měřítku místo malých průzkumných jednotek nám dává možnost provádět masivní útoky proti lehce bráněným sektorům." # todo: NEW TRANSLATION
- rangers_tech3: "Rangeri III" # todo: NEW TRANSLATION
- rangers_tech3_desc: "Působení v obtížných oblastech vyžaduje speciální vybavení a speciální výcvikové metody. Musíme zajistit, aby naše jednotky byly vybaveny nejnovějšími pomůckami a cvičeny podle nejmodernějších postupů." # todo: NEW TRANSLATION
- POWERED_BUILDING: "Napájená výstavba: $VAL|+=%2$" # todo: NEW TRANSLATION
- POWERED_DOCKYARD: "Výstup napájené loděnice: $VAL|+=%2$" # todo: NEW TRANSLATION
- POWERED_FACTORY: "Výstup napájené továrny: $VAL|+=%2$" # todo: NEW TRANSLATION
- rangers_tech_cat: "Technologie Rangerů" # todo: NEW TRANSLATION
- cat_mass_mobilization_research: "Doktrína hromadné mobilizace" # todo: NEW TRANSLATION
- cat_deep_battle_research: "Doktrína hluboké bitvy" # todo: NEW TRANSLATION
- cat_mass_mobilization: "Doktrína hromadné mobilizace" # todo: NEW TRANSLATION
- cat_deep_battle: "Doktrína hluboké bitvy" # todo: NEW TRANSLATION
- advanced_sonar: "Pokročilý sonar" # todo: NEW TRANSLATION
- advanced_sonar_desc: "Vylepšená pole hydrofonů a techniky aktivního pingování sonarem přinášejí výrazné zlepšení přesnosti a dosahu proti nepřátelským ponorkám. \n\nNamontování tohoto modulu do §YElektronického slotu§! na §Ylehké lodě§! nebo §YKřižníky§! jim pomůže odhalit nepřátelské §YPonorky§!." # todo: NEW TRANSLATION
- modern_sonar: "Moderní sonar" # todo: NEW TRANSLATION
- modern_sonar_desc: "Pokroky ve filtrování signálu a směrovém skenování dávají tomuto novému modelu sonaru bezkonkurenční přesnost, což nám umožňuje lovit nepřátelské ponorky s ničivou přesností. \n\nNamontování tohoto modulu do §YElektronického slotu§! na §Ylehké lodě§! nebo §YKřižníky§! jim pomůže odhalit nepřátelské §YPonorky§!." # todo: NEW TRANSLATION
- improved_seaplane_tender: "Vylepšený hydroplánový tender" # todo: NEW TRANSLATION
- improved_seaplane_tender_desc: "Pokroky v technologiích doplňování na moři a v jeřábech pro záchranu zvyšují efektivitu operací hydroplánů. \n\nNamontování modulu §YHydroplánového tenderu§! na §Ytorpédoborec§! zlepšuje jejich schopnost odhalovat nepřátelské lodě." # todo: NEW TRANSLATION
- seaplane_tender_advice_tt: "\nNamontování modulu §YHydroplánového tenderu§! na §Ytorpédoborce§! zlepšuje jejich schopnost odhalovat nepřátelské lodě." # todo: NEW TRANSLATION
- grand_banzai_charge: "Velký banzai nápor" # todo: NEW TRANSLATION
- RANGERS_DOCTRINE_LABEL: "Rangeri" # todo: NEW TRANSLATION
- RANGERS_DOCTRINE_DESC: "Schopností operovat s velkými silami v hustě zalesněných oblastech může naše armáda obkličovat a přelstít nepřátelské síly." # todo: NEW TRANSLATION
- special_forces_rangers: "Posílit Rangery" # todo: NEW TRANSLATION
- special_forces_rangers_desc: "Lehká pěchota je klíčem k našemu úspěchu. Tradice ostrostřelců a infiltrační taktiky by měly být jádrem při budování našich elitních formací." # todo: NEW TRANSLATION
- rangers_jaegers_training: "Začlenit tradice jägrů" # todo: NEW TRANSLATION
- rangers_jaegers_training_desc: "Lehká pěchota vycvičená v boji v lesích, žijící z toho, co území nabízí, odborníci na stavění pastí, léček a vynikající střelci." # todo: NEW TRANSLATION
- rangers_jungle_training: "Džunglový výcvik rangerů" # todo: NEW TRANSLATION
- rangers_jungle_training_desc: "Zdatní nejen v přežití, ale i v boji v nejhustších lesích a tropickém horku — tito rangeri jsou klíčoví pro operace v oblastech, do kterých se běžné jednotky neodváží vstoupit." # todo: NEW TRANSLATION
- rangers_guerilla_doctrine: "Lesní partyzáni" # todo: NEW TRANSLATION
- rangers_guerilla_doctrine_desc: "Iniciativa a pohyb jsou klíčové pro schopnost útočit na nepřítele. Naši rangeri by měli excelovat v používání ticha a překvapení." # todo: NEW TRANSLATION
- rangers_recon_terrain_training: "Mistrovství terénu průzkumných rangerů" # todo: NEW TRANSLATION
- rangers_recon_terrain_training_desc: "Základním předpokladem taktik rangerů je schopnost překonat nejobtížnější terén a udeřit na nepřítele tam, kde to nečeká." # todo: NEW TRANSLATION
- rangers_fire_support_integration: "Integrace palebné podpory" # todo: NEW TRANSLATION
- rangers_fire_support_integration_desc: "Začlenění předních pozorovatelů s přenosným signálním zařízením do týmů rangerů znamená, že ani malé izolované jednotky nemusí bojovat bez dělostřelecké palebné podpory." # todo: NEW TRANSLATION
- rangers_urban_combat: "Městský boj rangerů" # todo: NEW TRANSLATION
- rangers_urban_combat_desc: "Boje v lesích a ve městech mají určité podobnosti — krátké vzdálenosti zapojení a omezené možnosti pozorování. Jednotky zdatné v jednom prostředí lze vycvičit tak, aby se přizpůsobily i druhému." # todo: NEW TRANSLATION
- elite_rangers_doctrine: "Elitní rangeri" # todo: NEW TRANSLATION
- elite_rangers_doctrine_desc: "Naši rangeri jsou pýchou ozbrojených sil. Musíme i nadále náborovat pouze ty nejlepší a hnát je k ještě větším výkonům." # todo: NEW TRANSLATION
- rangers_backbone_doctrine: "Specializace lehké pěchoty" # todo: NEW TRANSLATION
- rangers_backbone_doctrine_desc: "Dovednosti, které si osvojili naši lesní specialisté, mohou využít všechny naše elitní jednotky. Musíme toto poznání uplatnit napříč všemi větvemi lehkých a elitních sil." # todo: NEW TRANSLATION
- cat_rangers_doctrine: "Doktrína Rangerů" # todo: NEW TRANSLATION
- RESEARCH_SHARING_VALUE_SCIENTISTS: "$VALUE|H1%$" # todo: NEW TRANSLATION
- naval_minelaying_research: "Výzkum kladení min" # todo: NEW TRANSLATION
- naval_minelaying_research_desc: "Vývoj v magnetické detekci a stabilních zdrojích zapalování pro námořní výbušniny."" # todo: NEW TRANSLATION
+ rangers_tech: "Hraničáři I"
+ rangers_tech_desc: "Specializací na boj v lesnatém terénu a výcvikem na přizpůsobení se terénu a vegetaci umožníme naší lehké pěchotě držet některé úseky fronty s menším počtem vojáků, nebo dokonce pronikat tam, kde to nepřítel nejméně očekává."
+ rangers_tech2: "Hraničáři II"
+ rangers_tech2_desc: "Nasazení lesních specialistů ve velkém počtu namísto malých průzkumných jednotek nám dává možnost provádět rozsáhlé útoky proti lehce bráněným sektorům."
+ rangers_tech3: "Hraničáři III"
+ rangers_tech3_desc: "Operace v obtížném terénu vyžadují zvláštní vybavení a specifické výcvikové metody. Musíme zajistit, aby byli naši vojáci vybaveni nejnovějšími prostředky a cvičeni podle nejmodernějších postupů."
+ POWERED_BUILDING: "Napájená výstavba: $VAL|+=%2$"
+ POWERED_DOCKYARD: "Výstup napájené loděnice: $VAL|+=%2$"
+ POWERED_FACTORY: "Výstup napájené továrny: $VAL|+=%2$"
+ rangers_tech_cat: "Technologie hraničárů"
+ cat_mass_mobilization_research: "Doktrína totální mobilizace"
+ cat_deep_battle_research: "Doktrína hlubokého prostoru"
+ cat_mass_mobilization: "Doktrína totální mobilizace"
+ cat_deep_battle: "Doktrína hlubokého prostoru"
+ advanced_sonar: "Pokročilý sonar"
+ advanced_sonar_desc: "Vylepšené hydrofonové soustavy a techniky aktivního sonarového „pingování“ poskytují výrazně lepší přesnost a dosah při hledání nepřátelských ponorek. \n\nUmístění tohoto modulu do §YEelektronického slotu§! na §YLehkých lodích§! nebo §YKřižnících§! jim pomůže odhalovat nepřátelské §YPonorky§!."
+ modern_sonar: "Moderní sonar"
+ modern_sonar_desc: "Pokroky ve filtrování signálu a směrovém skenování dávají tomuto novému typu sonaru bezkonkurenční přesnost a umožňují nám lovit nepřátelské ponorky s ničivou přesností. \n\nUmístění tohoto modulu do §YEelektronického slotu§! na §YLehkých lodích§! nebo §YKřižnících§! jim pomůže odhalovat nepřátelské §YPonorky§!."
+ improved_seaplane_tender: "Vylepšený nosič hydroplánů"
+ improved_seaplane_tender_desc: "Pokrok v zásobování na moři a technologii jeřábů pro vyzvedávání zvyšuje efektivitu provozu hydroplánů. \n\nUmístění modulu §YNosič hydroplánů§! na §YTorpédoborce§! zlepšuje jejich schopnost odhalovat nepřátelské lodě."
+ seaplane_tender_advice_tt: "\nUmístění modulu §YNosič hydroplánů§! na §YTorpédoborce§! zlepšuje jejich schopnost odhalovat nepřátelské lodě."
+ grand_banzai_charge: "Velký banzai útok"
+ RANGERS_DOCTRINE_LABEL: "Hraničáři"
+ RANGERS_DOCTRINE_DESC: "Schopností operovat s velkými silami v hustě zalesněných oblastech může naše armáda obkličovat a přelstít nepřátelské síly."
+ special_forces_rangers: "Posílit hraničáře"
+ special_forces_rangers_desc: "Lehká pěchota je klíčem k našemu úspěchu. Tradice ostrostřelců a infiltrační taktiky by měly tvořit základ při budování našich elitních jednotek."
+ rangers_jaegers_training: "Začlenit tradice myslivců"
+ rangers_jaegers_training_desc: "Lehká pěchota vycvičená k boji v lesích, žijící z toho, co území nabízí, odborníci na stavění pastí, léček a vynikající střelci."
+ rangers_jungle_training: "Džunglový výcvik hraničářů"
+ rangers_jungle_training_desc: "Zdatní nejen v přežití, ale i v boji v nejhustších lesích a tropickém horku — tito hraničáři jsou klíčoví pro operace v oblastech, kam se běžné jednotky neodváží vstoupit."
+ rangers_guerilla_doctrine: "Lesní partyzáni"
+ rangers_guerilla_doctrine_desc: "Iniciativa a pohyb jsou klíčové pro schopnost útočit na nepřítele. Naši hraničáři by měli excelovat v používání ticha a překvapení."
+ rangers_recon_terrain_training: "Mistrovství terénu průzkumných hraničářů"
+ rangers_recon_terrain_training_desc: "Základním předpokladem taktik hraničářů je schopnost překonat nejobtížnější terén a udeřit na nepřítele tam, kde to nečeká."
+ rangers_fire_support_integration: "Integrace palebné podpory"
+ rangers_fire_support_integration_desc: "Začlenění předsunutých pozorovatelů s přenosným spojařským vybavením do hraničářských týmů znamená, že ani malé, izolované jednotky nemusí bojovat bez podpory dělostřelecké palby."
+ rangers_urban_combat: "Městský boj hraničářů"
+ rangers_urban_combat_desc: "Boj v lese a ve městě má určité podobnosti, jako je krátký dosah a omezená viditelnost. Vojáci, kteří jsou zběhlí v jednom prostředí, mohou být vycvičeni, aby se přizpůsobili i druhému."
+elite_rangers_doctrine: "Elitní hraničáři"
+elite_rangers_doctrine_desc: "Naši hraničáři jsou chloubou našich ozbrojených sil. Musíme i nadále přijímat pouze ty nejlepší a motivovat je k ještě větším výkonům."
+rangers_backbone_doctrine: "Specializace lehké pěchoty"
+rangers_backbone_doctrine_desc: "Dovednosti, které si naši lesní specialisté osvojili, mohou využít všechny naše elitní jednotky. Musíme tyto znalosti využít ve všech složkách lehkých a elitních jednotek."
+cat_rangers_doctrine: "Doktrína hraničářů"
+RESEARCH_SHARING_VALUE_SCIENTISTS: "$VALUE|H1%$"
+naval_minelaying_research: "Výzkum pokládání min"
+naval_minelaying_research_desc: "Vývoj v oblasti magnetické detekce a stabilních zdrojů zapalování pro námořní výbušniny."

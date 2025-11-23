@@ -2047,68 +2047,68 @@
  CHANGE_DESIGN_FOLDER_POPUP_TITLE: "Změna složky"
  CHANGE_DESIGN_FOLDER_POPUP_BODY: "Vyberte existující složku, do které chcete tento návrh přesunout, nebo zadejte název pro vytvoření nové složky."
  OVERWRITE_EXISTING: "Přepsat šablonu, ze které byla vytvořena?"
- OVERWRITE_EXISTING_DESIGN_DESC: "§GKlikněte§! pro přepnutí nastavení přepsání návrhu.\nTento návrh byl vytvořen z existující šablony. Pokud je toto zaškrtnuto, existující návrh bude přepsán." # todo: CHANGED
- CONFIRMCHANGE_GROUP_LEADER_TEXT_SUPREME_COMMANDER: "$NAME|H$ je již přiřazen jako §GVrchní velitel§! vaší frakce a bude znovu přiřazen.\nOpravdu chcete §Rpřeřadit§! §Gvelitele§!?" # todo: NEW TRANSLATION
- CONFIRMCHANGE_SC_TEXT: "$NAME|H$ je již přiřazen k jiné §Garmádě§! a bude znovu přiřazen.\nOpravdu chcete §Rpřeřadit§! §Gvelitele§!?" # todo: NEW TRANSLATION
- CONFIRMCHANGE_SC_TEXT_SUPREME_COMMANDER: "$NAME|H$ je již přiřazen k jinému §GTheater§! a bude znovu přiřazen.\nOpravdu chcete §Rpřeřadit§! §Gvelitele§!?" # todo: NEW TRANSLATION
- CONFIRMCHANGE_SC_IN_TRANSFER_TEXT: "$NAME|H$ je již přiřazen k jiné §Garmádě§!, která byla vyslána jako §Ydobrovolníci§!.\nOpravdu chcete §Rpřeřadit§! §Gvelitele§!?" # todo: NEW TRANSLATION
- CONFIRMCHANGE_NAVY_LEADER_FLEET_TEXT: "$NAME|H$ je již přiřazen k jiné §Gflotile§! a bude znovu přiřazen.\nOpravdu chcete §Rpřeřadit§! §Gvelitele§!?" # todo: NEW TRANSLATION
- CONFIRMCHANGE_NAVY_LEADER_HEADQUARTER_TEXT: "$NAME|H$ je již přiřazen k §Gnámornímu velitelství§! a bude znovu přiřazen.\nOpravdu chcete §Rpřeřadit§! §Gvelitele§!?" # todo: NEW TRANSLATION
- CONFIRMCHANGE_NAVY_LEADER_SUPREME_COMMANDER: "$NAME|H$ je již přiřazen jako §GVrchní velitel§! vaší frakce a bude znovu přiřazen.\nOpravdu chcete §Rpřeřadit§! §Gvelitele§!?" # todo: NEW TRANSLATION
- PROGRESS_TOOLTIP: "§YPokrok§!: $PROGRESS|%0$" # todo: NEW TRANSLATION
- PROGRESS_RATIO_DESC: "\n$faction_divider_dashes$\n\nDokončení: $PROGRESS|Y%0$\nNáš současný pokrok je $COMPLETED|Y.0$/$TOTAL|Y.0$\n\n§gTyto hodnoty vycházejí z:§!\n$NAME|H$ ($COMPLETED|Y.0$)$TOTAL_DESC$ ($TOTAL|Y.0$)" # todo: NEW TRANSLATION
- PROGRESS_RATIO_DESC_TOTAL: "\n z $TOTAL_NAME|Y$" # todo: NEW TRANSLATION
- PROGRESS_RATIO_DESC_TOTAL_OF: "\n z $RANGE|%0Y$ z $TOTAL_NAME|Y$" # todo: NEW TRANSLATION
- PROGRESS_TOTAL_AMOUNT: "§YCelkové množství§!" # todo: NEW TRANSLATION
- PROGRESS_RATIO_OUT_OF: " z cíle" # todo: NEW TRANSLATION
- PROGRESS_SECTION_DESC: "$NAME|Y$\nRozsah: $MIN|%Y$ - $MAX|%Y$\n$MODIFIER$\n$RULE$\n$ACTIVATION_EFFECT$\n$DEACTIVATION_EFFECT$" # todo: NEW TRANSLATION
- PROGRESS_SECTION_MODIFIER: "§YModifikátory:§!\n$DESC$" # todo: NEW TRANSLATION
- PROGRESS_SECTION_ACTIVATION_EFFECT: "\n§YEfekt aktivace:§!\n$DESC$" # todo: NEW TRANSLATION
- PROGRESS_SECTION_DEACTIVATION_EFFECT: "\n§YEfekt deaktivace:§!\n$DESC$" # todo: NEW TRANSLATION
- the_great_wall: "Velká čínská zeď" # todo: NEW TRANSLATION
- NAVAL_BTN_SET_TARGET_NO_TASKFORCE: "§RŽádná flotila nebyla vybrána.§!" # todo: NEW TRANSLATION
- NAVAL_BTN_SET_TARGET: "§HNastavení námořního cílení§!" # todo: NEW TRANSLATION
- NAVAL_BTN_SET_TARGET_DELAYED_DESCRIPTION: "Umožňuje vám vybrat, proti jakým typům lodí se vaše úkolové síly budou zapojovat do boje a kterým se při setkání vyhnout a ustoupit." # todo: NEW TRANSLATION
- NAVAL_MISSION_TARGET_IS_SELECTED: "$TYPE$ §Rnebude zapojeno do boje§!" # todo: NEW TRANSLATION
- NAVAL_MISSION_TARGET_IS_DESELECTED: "$TYPE$ §GBude zapojeno do boje§!" # todo: NEW TRANSLATION
- CURRENT_ACTIVE_TASK_FORCE_FOR_DOMINANCE: "Ale pouze $NUM|H$ z nich jsou dost blízko, aby poskytly §Hnámořní převahu§!." # todo: NEW TRANSLATION
- CURRENT_NO_ACTIVE_TASK_FORCE_FOR_DOMINANCE: "Ale žádná z nich není dost blízko, aby poskytla §Hnámořní převahu§!." # todo: NEW TRANSLATION
- CURRENT_NO_ACTIVE_TASK_FORCE_FOR_NAVAL_INVASION_SUPPORT: "Ale žádná z nich není dost blízko, aby poskytla §Hpodporu námořní invaze§!." # todo: NEW TRANSLATION
- CURRENT_ACTIVE_TASK_FORCE_FOR_DOMINANCE_WARNING: "§R£mapicon_unit_no_orders  Některé úkolové síly jsou od této oblasti příliš vzdálené na to, aby poskytly §Hnámořní převahu!§!§!" # todo: NEW TRANSLATION
- CURRENT_ACTIVE_TASK_FORCE_FOR_NAVAL_INVASION_SUPPORT_WARNING: "§R£mapicon_unit_no_orders  Některé úkolové síly jsou od této oblasti příliš vzdálené na to, aby poskytly §Hpodporu námořní invaze!§!§!" # todo: NEW TRANSLATION
- NAVAL_INVASION_PLAN_CAP_REACHED: "§RDosažen limit plánů námořní invaze ($CAP|Y$).§!" # todo: NEW TRANSLATION
- NAVAL_COMBAT_DEFENSE_AIRWING_TOOLTIP_SHOT_DOWN: "\nSestřeleno obrannými letouny:" # todo: NEW TRANSLATION
- UNITS_VIEW_BTN_DRAW_NAVAL_INV_WITH_PLAN_CAP_REACHED: "§RDosažen limit plánů námořní invaze ($CAP|Y$).§!" # todo: NEW TRANSLATION
- coal_desc: "Uhlí je surovina používaná k napájení průmyslové výroby." # todo: NEW TRANSLATION
- EXP_MISSION_BONUS: "Bonus zkušeností z mise: $EFFECT|+=%0$" # todo: NEW TRANSLATION
- FOCUS_AUTOMATIC_BYPASS_DISABLED: " (§Yautomatické přeskočení je vypnuto§!)" # todo: NEW TRANSLATION
- DIPLOMACY_CREATE_FACTION_NOT_OPP_IDEO: "$COUNTRY$ nemusí být $IDE$, aby mohla být ve frakci s námi." # todo: NEW TRANSLATION
- NAVY_REPAIR_PRIORITY: "§YVyberte prioritu oprav§!" # todo: NEW TRANSLATION
- NAVY_CARRIER_DEFENSIVE_STANCE: "§YVyberte obranný postoj§!" # todo: NEW TRANSLATION
+ OVERWRITE_EXISTING_DESIGN_DESC: "§GKlikněte§! pro přepnutí nastavení přepsání návrhu.\nTento návrh byl vytvořen z existující šablony. Pokud je toto zaškrtnuto, existující návrh bude přepsán."
+ CONFIRMCHANGE_GROUP_LEADER_TEXT_SUPREME_COMMANDER: "$NAME|H$ je již přiřazen jako §GVrchní velitel§! vaší frakce a bude znovu přiřazen.\nOpravdu chcete §Rpřeřadit§! §Gvelitele§!?"
+ CONFIRMCHANGE_SC_TEXT: "$NAME|H$ je již přiřazen k jiné §Garmádě§! a bude znovu přiřazen.\nOpravdu chcete §Rpřeřadit§! §Gvelitele§!?"
+ CONFIRMCHANGE_SC_TEXT_SUPREME_COMMANDER: "$NAME|H$ je již přiřazen k jinému §GVálčišti§! a bude znovu přiřazen.\nOpravdu chcete §Rpřeřadit§! §Gvelitele§!?"
+ CONFIRMCHANGE_SC_IN_TRANSFER_TEXT: "$NAME|H$ je již přiřazen k jiné §Garmádě§!, která byla vyslána jako §Ydobrovolníci§!.\nOpravdu chcete §Rpřeřadit§! §Gvelitele§!?"
+ CONFIRMCHANGE_NAVY_LEADER_FLEET_TEXT: "$NAME|H$ je již přiřazen k jiné §Gflotile§! a bude znovu přiřazen.\nOpravdu chcete §Rpřeřadit§! §Gvelitele§!?"
+ CONFIRMCHANGE_NAVY_LEADER_HEADQUARTER_TEXT: "$NAME|H$ je již přiřazen k §Gnámornímu velitelství§! a bude znovu přiřazen.\nOpravdu chcete §Rpřeřadit§! §Gvelitele§!?"
+ CONFIRMCHANGE_NAVY_LEADER_SUPREME_COMMANDER: "$NAME|H$ je již přiřazen jako §GVrchní velitel§! vaší frakce a bude znovu přiřazen.\nOpravdu chcete §Rpřeřadit§! §Gvelitele§!?"
+ PROGRESS_TOOLTIP: "§YPokrok§!: $PROGRESS|%0$"
+ PROGRESS_RATIO_DESC: "\n$faction_divider_dashes$\n\nDokončení: $PROGRESS|Y%0$\nNáš současný pokrok je $COMPLETED|Y.0$/$TOTAL|Y.0$\n\n§GTyto hodnoty vycházejí z:§!\n$NAME|H$ ($COMPLETED|Y.0$)$TOTAL_DESC$ ($TOTAL|Y.0$)"
+ PROGRESS_RATIO_DESC_TOTAL: "\n z $TOTAL_NAME|Y$"
+ PROGRESS_RATIO_DESC_TOTAL_OF: "\n z $RANGE|%0Y$ z $TOTAL_NAME|Y$"
+ PROGRESS_TOTAL_AMOUNT: "§YCelkové množství§!"
+ PROGRESS_RATIO_OUT_OF: " z cíle"
+ PROGRESS_SECTION_DESC: "$NAME|Y$\nRozsah: $MIN|%Y$ - $MAX|%Y$\n$MODIFIER$\n$RULE$\n$ACTIVATION_EFFECT$\n$DEACTIVATION_EFFECT$"
+ PROGRESS_SECTION_MODIFIER: "§YModifikátory:§!\n$DESC$"
+ PROGRESS_SECTION_ACTIVATION_EFFECT: "\n§YEfekt po aktivaci:§!\n$DESC$"
+ PROGRESS_SECTION_DEACTIVATION_EFFECT: "\n§YEfekt po deaktivaci:§!\n$DESC$"
+ the_great_wall: "Velká čínská zeď"
+ NAVAL_BTN_SET_TARGET_NO_TASKFORCE: "§RŽádná flotila nebyla vybrána.§!"
+ NAVAL_BTN_SET_TARGET: "§HNastavení námořních cílů§!"
+ NAVAL_BTN_SET_TARGET_DELAYED_DESCRIPTION: "Umožňuje vám vybrat, proti jakým typům lodí se vaše úderné skupiny budou zapojovat do boje a kterým se při setkání vyhnout a ustoupit."
+ NAVAL_MISSION_TARGET_IS_SELECTED: "$TYPE$ §Rnebude zapojeno do boje§!"
+ NAVAL_MISSION_TARGET_IS_DESELECTED: "$TYPE$ §GBude zapojeno do boje§!"
+ CURRENT_ACTIVE_TASK_FORCE_FOR_DOMINANCE: "Ale pouze $NUM|H$ z nich jsou dost blízko, aby poskytly §Hnámořní nadvládu§!."
+ CURRENT_NO_ACTIVE_TASK_FORCE_FOR_DOMINANCE: "Ale žádná z nich není dost blízko, aby poskytla §Hnámořní nadvládu§!."
+ CURRENT_NO_ACTIVE_TASK_FORCE_FOR_NAVAL_INVASION_SUPPORT: "Ale žádná z nich není dost blízko, aby poskytla §Hpodporu námořní invaze§!."
+ CURRENT_ACTIVE_TASK_FORCE_FOR_DOMINANCE_WARNING: "§R£mapicon_unit_no_orders  Některé úderné skupiny jsou od této oblasti příliš vzdálené na to, aby poskytly §Hnámořní nadvládu!§!§!"
+ CURRENT_ACTIVE_TASK_FORCE_FOR_NAVAL_INVASION_SUPPORT_WARNING: "§R£mapicon_unit_no_orders  Některé úderné skupiny jsou od této oblasti příliš vzdálené na to, aby poskytly §Hpodporu námořní invaze!§!§!"
+ NAVAL_INVASION_PLAN_CAP_REACHED: "§RDosažen limit plánů námořní invaze ($CAP|Y$).§!"
+ NAVAL_COMBAT_DEFENSE_AIRWING_TOOLTIP_SHOT_DOWN: "\nSestřeleno obrannými letouny:"
+ UNITS_VIEW_BTN_DRAW_NAVAL_INV_WITH_PLAN_CAP_REACHED: "§RDosažen limit plánů námořní invaze ($CAP|Y$).§!"
+ coal_desc: "Uhlí je surovina používaná k napájení průmyslové výroby."
+ EXP_MISSION_BONUS: "Bonus zkušeností z mise: $EFFECT|+=%0$"
+ FOCUS_AUTOMATIC_BYPASS_DISABLED: " (§Yautomatické přeskočení je vypnuto§!)"
+ DIPLOMACY_CREATE_FACTION_NOT_OPP_IDEO: "$COUNTRY$ nemusí být $IDE$ ideologie, aby mohla být ve frakci s námi."
+ NAVY_REPAIR_PRIORITY: "§YVyberte prioritu oprav§!"
+ NAVY_CARRIER_DEFENSIVE_STANCE: "§YVyberte obranný postoj§!"
  NAVY_CARRIER_DEFENSIVE_STANCE_CONFLICT: "Většina úderných skupin: $CURRENT|G$"
- NAVY_CARRIER_DEFENSIVE_STANCE_CURRENT: "Aktuální obranný postoj - $CURRENT|G$" # todo: NEW TRANSLATION
- CARRIER_DEFENSIVE_STANCE_SELECTION_0: "Čistě obranný" # todo: NEW TRANSLATION
- CARRIER_DEFENSIVE_STANCE_SELECTION_1: "Opatrný" # todo: NEW TRANSLATION
- CARRIER_DEFENSIVE_STANCE_SELECTION_2: "Vyvážený" # todo: NEW TRANSLATION
- CARRIER_DEFENSIVE_STANCE_SELECTION_3: "Aktivní" # todo: NEW TRANSLATION
- CARRIER_DEFENSIVE_STANCE_SELECTION_4: "Agresivní" # todo: NEW TRANSLATION
- CARRIER_DEFENSIVE_STANCE_SELECTION_0_DESC: "Všechna letadla jsou používána pro obranné akce" # todo: NEW TRANSLATION
- CARRIER_DEFENSIVE_STANCE_SELECTION_1_DESC: "§G75%§! letadel se používá pro obranné akce" # todo: NEW TRANSLATION
- CARRIER_DEFENSIVE_STANCE_SELECTION_2_DESC: "§G50%§! letadel se používá pro obranné akce" # todo: NEW TRANSLATION
- CARRIER_DEFENSIVE_STANCE_SELECTION_3_DESC: "§G25%§! letadel se používá pro obranné akce" # todo: NEW TRANSLATION
- CARRIER_DEFENSIVE_STANCE_SELECTION_4_DESC: "Všechna letadla jsou používána pro útočné akce" # todo: NEW TRANSLATION
- CARRIER_DEFENSIVE_STANCE_SORTIE_VALUES: "$OFFENSIVE|0%Y$ útočný let\n$DEFENSIVE|0%Y$ obranný let" # todo: NEW TRANSLATION
- NAVY_AGGRESSIVENESS: "§YVyberte agresivitu§!" # todo: NEW TRANSLATION
- AIR_INVASION_PLAN_CAP_REACHED: "§RDosažen limit plánů výsadkové invaze ($CAP|Y$).§!" # todo: NEW TRANSLATION
- SUPPLYMODE_TOOLTIP_FOREIGN_HOMEBASE_NODE_HEADER: "§YZahraniční základna§! v $PROVINCE_NAME|H$, úroveň $LEVEL|H$:" # todo: NEW TRANSLATION
- ALWAYS_SHOW_REGIONS: "Vždy zobrazovat názvy regionů" # todo: NEW TRANSLATION
- ALWAYS_SHOW_REGIONS_DESC: "Režimy mapy zobrazující strategické názvy regionů budou, pokud je toto nastavení vypnuto, zobrazovat pouze název právě přejetého regionu." # todo: NEW TRANSLATION
- LOCK_MAP_TOOLTIP: "Uzamknout pozici informace na mapě" # todo: NEW TRANSLATION
- LOCK_MAP_TOOLTIP_DESC: "Info bubliny na mapě budou zobrazeny v pravém dolním rohu obrazovky místo na pozici myši." # todo: NEW TRANSLATION
- DEBUG_CLICK_SWITCH_COUNTRY_TOOLTIP: "§GTab + klik§! pro přepnutí na tuto zemi (debug)" # todo: NEW TRANSLATION
+ NAVY_CARRIER_DEFENSIVE_STANCE_CURRENT: "Aktuální obranný postoj - $CURRENT|G$"
+ CARRIER_DEFENSIVE_STANCE_SELECTION_0: "Čistě obranný"
+ CARRIER_DEFENSIVE_STANCE_SELECTION_1: "Opatrný"
+ CARRIER_DEFENSIVE_STANCE_SELECTION_2: "Vyvážený"
+ CARRIER_DEFENSIVE_STANCE_SELECTION_3: "Aktivní"
+ CARRIER_DEFENSIVE_STANCE_SELECTION_4: "Agresivní"
+ CARRIER_DEFENSIVE_STANCE_SELECTION_0_DESC: "Všechna letadla jsou používána pro obranné akce"
+ CARRIER_DEFENSIVE_STANCE_SELECTION_1_DESC: "§G75%§! letadel se používá pro obranné akce"
+ CARRIER_DEFENSIVE_STANCE_SELECTION_2_DESC: "§G50%§! letadel se používá pro obranné akce"
+ CARRIER_DEFENSIVE_STANCE_SELECTION_3_DESC: "§G25%§! letadel se používá pro obranné akce"
+ CARRIER_DEFENSIVE_STANCE_SELECTION_4_DESC: "Všechna letadla jsou používána pro útočné akce"
+ CARRIER_DEFENSIVE_STANCE_SORTIE_VALUES: "$OFFENSIVE|0%Y$ útočný let\n$DEFENSIVE|0%Y$ obranný let"
+ NAVY_AGGRESSIVENESS: "§YVyberte agresivitu§!"
+ AIR_INVASION_PLAN_CAP_REACHED: "§RDosažen limit plánů výsadkové invaze ($CAP|Y$).§!"
+ SUPPLYMODE_TOOLTIP_FOREIGN_HOMEBASE_NODE_HEADER: "§YZahraniční základna§! v $PROVINCE_NAME|H$, úroveň $LEVEL|H$:"
+ ALWAYS_SHOW_REGIONS: "Vždy zobrazovat názvy regionů"
+ ALWAYS_SHOW_REGIONS_DESC: "Režimy mapy zobrazující strategické názvy regionů budou, pokud je toto nastavení vypnuto, zobrazovat pouze název právě přejetého regionu."
+ LOCK_MAP_TOOLTIP: "Uzamknout pozici informace na mapě"
+ LOCK_MAP_TOOLTIP_DESC: "Info bubliny na mapě budou zobrazeny v pravém dolním rohu obrazovky místo na pozici myši."
+ DEBUG_CLICK_SWITCH_COUNTRY_TOOLTIP: "§GTab + klik§! pro přepnutí na tuto zemi (debug)"
  RAID_RANGE_FACTOR_TOOLTIP: "Dodatečný faktor doletu: $RANGE_FACTOR|+=%$"
- RAID_MODIFIED_AIR_RANGE_TOOLTIP: "Upraveno na $RESULT$ kvůli dodatečnému faktoru doletu typu náletu $RANGE_FACTOR|+=%$"
- NOT_PARADROP_PREPARED: "Výsadkový seskok se stále připravuje $CURRENT|R0$/$REQUIRED|Y0$ dní." # todo: NEW TRANSLATION
- JAP_emperor_hirohito_override_instant: "§H$JAP_hirohito$§!\nZatímco Japonskou civilní vládu vede §H$JAP_keisuke_okada$§!, uctívaná hlava státu Hirohito představuje zosobnění moci v zemi.\n\nMnohé frakce soupeří o §HImperial Influence§! dokud Impérium zůstává neporušené." # todo: NEW TRANSLATION
+ RAID_MODIFIED_AIR_RANGE_TOOLTIP: "Upraveno na $RESULT$ kvůli dodatečnému faktoru doletu pro typ náletu $RANGE_FACTOR|+=%$"
+ NOT_PARADROP_PREPARED: "Výsadek se připravuje $CURRENT|R0$/$REQUIRED|Y0$ dní."
+ JAP_emperor_hirohito_override_instant: "§H$JAP_hirohito$§!\nZatímco Japonskou civilní vládu vede §H$JAP_keisuke_okada$§!, uctívaná hlava státu Hirohito představuje zosobnění moci v zemi.\n\nMnohé frakce soupeří o §HImperiální vliv§!, dokud Impérium zůstává nedotčené."
  JAP_emperor_hirohito_override_delayed: ""
- PROGRESS_SECTION_RULE: "§YPravidla:§!\n$DESC$" # todo: NEW TRANSLATION
+ PROGRESS_SECTION_RULE: "§YPravidla:§!\n$DESC$"

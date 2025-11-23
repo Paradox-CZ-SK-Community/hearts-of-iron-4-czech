@@ -53,10 +53,10 @@
  YUG_propaganda_in_target_desc: "Náš cíl byl vybrán, teď už jen stačí dodat našim socialistickým spojencům účinnou propagandu a brzy zasijeme semínka vzpoury, která jsou nezbytná ke svržení horních tříd na Balkáně."
  YUG_strong_communists: "§GSilní§!"
  YUG_uprising_strength_tt: "S jejich současnou podporou bude síla §Ykomunistů§! [YUG_communist_coup_target.Get_Yugo_Uprising_strength].\nTo vychází z jejich současné §Ykomunistické§! podpory a počtu, kolikrát byli rolníci vyzbrojeni."
- YUG_very_strong_communists: "§GVelmi silní§!" # todo: CHANGED
+ YUG_very_strong_communists: "§GVelmi silní§!"
  YUG_weak_communists: "§RSlabí§!"
  newline_tt: "\n "
  no_other_country_claimed_tt: "Žádná jiná země, která byla pozvána k rozdělení Jugoslávie, nemá nárok na §Y[This.GetName]§!"
  romania_add_claims_tt: "\n§Y[Root.GetName]§! síla nároku se zvýší o §G1§!"
  romania_total_claims_tt: "[This.GetRomanianStrengthinState][This.GetGermanStrengthinState][This.GetItalianStrengthinState][This.GetHungarianStrengthinState]"
- ROM_country_and_all_subjects_trigger: "[Country.GetName] a všechny jeho vazaly"" # todo: NEW TRANSLATION
+ ROM_country_and_all_subjects_trigger: "[Country.GetName] a všechny jeho subjekty"

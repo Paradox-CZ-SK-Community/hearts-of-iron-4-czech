@@ -86,7 +86,7 @@
  BUL_hindered_planned_expansion: "Zmařená plánovaná expanze"
  BUL_honored_bulgarian_claims: "Uznány bulharské nároky"
  BUL_industrial_investments_in_bulgaria: "Průmyslové investice v Bulharsku"
- BUL_kicked_us_from_faction: "Vyloučili nás ze své frakce" # todo: CHANGED
+ BUL_kicked_us_from_faction: "Vyloučili nás ze své frakce"
  BUL_lifted_arms_restrictions: "Zrušení omezení na naše zbraně"
  BUL_old_enemies: "Staří nepřátelé"
  BUL_old_quarrels_left_behind: "Staré spory ponechány za námi"
@@ -134,15 +134,15 @@
  COUP_STRENGTH_TOOLTIP: "§HSíla převratu§! je určena popularitou podporované ideologie v cílové zemi.\n\nPokus o převrat bude silnější, čím nižší je £stability_texticon §Ystabilita§! cíle, a slabší pokud neposkytnete vše potřebné vybavení."
  CP_ATTACHE: "Posílání atašé do $COUNTRY|H$"
  DAYS_TRANSFER: "$DAYS|H$ dní"
- DEN_cooperative_subject: "Spolupracující závislé uzemí"
+ DEN_cooperative_subject: "Spolupracující subjekty"
  DEN_deepening_partnership: "Prohloubení partnerství"
- DEN_deteriorating_overlord_relations: "To zhorší vztahy s [?DEN.DEN_overlord_nation.GetFlag][?DEN.DEN_overlord_nation.GetAdjective] vládcem"
+ DEN_deteriorating_overlord_relations: "To zhorší vztahy s [?DEN.DEN_overlord_nation.GetFlag][?DEN.DEN_overlord_nation.GetAdjective] suzerénem"
  DEN_deteriorating_subject_relations: "To zhorší vztahy s [DEN.GetNameDef]"
  DEN_unruly_subject_high: "$DEN_unruly_subject_very_low$"
  DEN_unruly_subject_low: "$DEN_unruly_subject_very_low$"
  DEN_unruly_subject_medium: "$DEN_unruly_subject_very_low$"
  DEN_unruly_subject_very_high: "$DEN_unruly_subject_very_low$"
- DEN_unruly_subject_very_low: "Velmi neposlušné závislé uzemí"
+ DEN_unruly_subject_very_low: "Velmi neposlušné subjekty"
  DIPLOMACY_ACTION_COST: "Cena £pol_power  $VALUE|-0$"
  DIPLOMACY_ACTION_CP_NEGATIVE_COST_COMPACT: "£command_power  $VALUE|-0$ "
  DIPLOMACY_ACTION_CP_NEUTRAL_COST_COMPACT: "£command_power  $VALUE|Y0$ "
@@ -165,11 +165,11 @@
  DIPLOMACY_ASSUME_FACTION_LEADERSHIP_FACTORY_PROGRESS: "   $CURRENT|R$ továren z $NEEDED|Y$ potřebných."
  DIPLOMACY_ASSUME_FACTION_LEADERSHIP_HAS_CAPITULATED: "Nesmíme být po kapitulaci."
  DIPLOMACY_ASSUME_FACTION_LEADERSHIP_IN_ALL_WARS_PROGRESS: "   $CURRENT|R$ nepřátel z $NEEDED|Y$ sdílených s vůdcem frakce."
- DIPLOMACY_ASSUME_FACTION_LEADERSHIP_IS_SUBJECT: "Nemůžeme být závislým uzemím jiné země."
+ DIPLOMACY_ASSUME_FACTION_LEADERSHIP_IS_SUBJECT: "Nemůžeme být subjektem jiné země."
  DIPLOMACY_ASSUME_FACTION_LEADERSHIP_MANPOWER_PROGRESS: "   $CURRENT|*R$ nasazených sil z $NEEDED|*Y$ potřebných."
  DIPLOMACY_ASSUME_FACTION_LEADERSHIP_NOT_CAPITULATED_PROGRESS: "   §RKapituloval§! v probíhající válce."
  DIPLOMACY_ASSUME_FACTION_LEADERSHIP_NOT_ENOUGH_FACTORIES: "Abychom významně překonali počet továren současného vůdce, potřebujeme $NEEDED|*Y$ továren, ale máme jich pouze $CURRENT|*Y$."
- DIPLOMACY_ASSUME_FACTION_LEADERSHIP_NOT_ENOUGH_MANPOWER: "Abychom významně překonali nasazené síly současného vůdce a jeho závislých uzemí, my a naše závislé uzemí potřebujeme efektivních $NEEDED|*Y$ nasazených sil, ale máme pouze $CURRENT|*Y$."
+ DIPLOMACY_ASSUME_FACTION_LEADERSHIP_NOT_ENOUGH_MANPOWER: "Abychom významně překonali nasazené síly současného vůdce a jeho subjektů, my a naše subjekty potřebujeme efektivních $NEEDED|*Y$ nasazených sil, ale máme pouze $CURRENT|*Y$."
  DIPLOMACY_ASSUME_FACTION_LEADERSHIP_NOT_IN_ALL_WARS: "Musíme být ve všech válkách současného vůdce frakce."
  DIPLOMACY_ASSUME_FACTION_LEADERSHIP_NOT_SUBJECT_PROGRESS: "   §RSubjekt§! jiné země."
  DIPLOMACY_ASSUME_FACTION_LEADERSHIP_OTHERS_DESC: "$COUNTRY|U$ převzalo vedení frakce $FACTION$."
@@ -194,16 +194,16 @@
  DIPLOMACY_CALL_ALLY_NOT_ALLY: "$COUNTRY|UY$ není členem vaší frakce."
  DIPLOMACY_CALL_ALLY_NO_FACTION: "Musíme být ve frakci, abychom mohli volat spojence."
  DIPLOMACY_CALL_ALLY_NO_LEADING_WAR: "Nemůžete volat spojence, pokud nejste váleční vůdce."
- DIPLOMACY_CALL_ALLY_OTHER_PUPPETS: "Nemůžete volat závislé uzemí jiných národů do války."
- DIPLOMACY_CALL_ALLY_PUPPET_MASTER: "Jste závislým uzemím, takže můžete volat jen svého vládce."
+ DIPLOMACY_CALL_ALLY_OTHER_PUPPETS: "Nemůžete volat subjekty jiných národů do války."
+ DIPLOMACY_CALL_ALLY_PUPPET_MASTER: "Jste subjektem, takže můžete volat jen svého suzeréna."
  DIPLOMACY_CALL_ALLY_REQUEST_DESC: "$COUNTRY|UY$ chce naši pomoc ve své válce."
  DIPLOMACY_CALL_ALLY_TITLE: "Výzva k zbrani"
  DIPLOMACY_CALL_ALL_ALLIES: "Zavolat spojence"
  DIPLOMACY_CALL_FLAG_CALL_ALLY: "Je spojencem $COUNTRY|H$"
  DIPLOMACY_CALL_FLAG_CALL_GUARANTY: "Zaručuje $COUNTRY|H$"
- DIPLOMACY_CALL_FLAG_CALL_OVERLORD: "Je vládcem $COUNTRY|H$"
- DIPLOMACY_CALL_FLAG_CALL_PUPPET: "Je loutkou $COUNTRY|H$"
- DIPLOMACY_CALL_FLAG_CALL_SAME_OVERLORD: "Má stejného vládce jako $COUNTRY|H$"
+ DIPLOMACY_CALL_FLAG_CALL_OVERLORD: "Je suzerénem pro $COUNTRY|H$"
+ DIPLOMACY_CALL_FLAG_CALL_PUPPET: "Je loutkou pro $COUNTRY|H$"
+ DIPLOMACY_CALL_FLAG_CALL_SAME_OVERLORD: "Má stejného suzeréna jako $COUNTRY|H$"
  DIPLOMACY_CANCEL: "Zrušit"
  DIPLOMACY_CANCEL_ACCESS_TO_LICENCE_PRODUCTION_ACTION_DESC: "Zrušit jejich přístup k našim výrobním licencím"
  DIPLOMACY_CANCEL_ACCESS_TO_LICENCE_PRODUCTION_TITLE: "Zrušit přístup k licenci"
@@ -242,11 +242,11 @@
  DIPLOMACY_CREATE_FACTION_TITLE: "Vytvořit frakci"
  DIPLOMACY_DEFENDERS: "Obránci"
  DIPLOMACY_DEM_NO_THREAT_JUSTIFYING_WAR: "Demokracie nemohou ospravedlňovat válečné cíle proti zemím, které nezpůsobily světové napětí."
- DIPLOMACY_DEM_NO_THREAT_ON_DEPENDENDY: "Není možné ospravedlnit válečné cíle proti sobě ve vztahu loutka-vládce."
+ DIPLOMACY_DEM_NO_THREAT_ON_DEPENDENDY: "Není možné ospravedlnit válečné cíle proti sobě ve vztahu loutka-suzeréna."
  DIPLOMACY_DIPLOMACY: "Diplomacie"
  DIPLOMACY_DISMANTLE_FACTION_ACTION_DESC: "Naše frakce přestane existovat."
  DIPLOMACY_DISMANTLE_FACTION_DESC: "Rozpad frakce $FACTION|H$"
- DIPLOMACY_DISMANTLE_FACTION_LEADER_NOT_ALONE: "Vůdce frakce může frakci rozpustit pouze pokud obsahuje jen sebe a své loutky" # todo: CHANGED
+ DIPLOMACY_DISMANTLE_FACTION_LEADER_NOT_ALONE: "Vůdce frakce může frakci rozpustit pouze pokud obsahuje jen sebe a své loutky"
  DIPLOMACY_DISMANTLE_FACTION_TITLE: "Rozpad frakce"
  DIPLOMACY_DOCKING_RIGHTS: "Práva kotvení"
  DIPLOMACY_DOCKING_RIGHTS_ACTION_DESC: "Žádat o povolení zásobovat naši flotilu v jejich přístavech."
@@ -276,9 +276,9 @@
  DIPLOMACY_FACTION_LEADER: "§T@$TAG$$TARGET|UH$ je vůdcem frakce $FACTION|H$§!"
  DIPLOMACY_FACTION_NAME_LABEL: "§TNázev frakce: §!"
  DIPLOMACY_FACTION_OTHER_MEMBERS: "§TOstatní členové frakce $FACTION|H$ jsou:§!"
- DIPLOMACY_FACTION_UNAVAILABLE_THEM_PUPPET: "Není povoleno, protože jsou závislým územím pro $MASTER|H$"
+ DIPLOMACY_FACTION_UNAVAILABLE_THEM_PUPPET: "Není povoleno, protože jsou subjektem pro $MASTER|H$"
  DIPLOMACY_FACTION_UNAVAILABLE_THEY_CAPITULATED: "Nepovolené pro kapitulované země"
- DIPLOMACY_FACTION_UNAVAILABLE_US_PUPPET: "Není povoleno, protože jsme závislým územím pro $MASTER|H$"
+ DIPLOMACY_FACTION_UNAVAILABLE_US_PUPPET: "Není povoleno, protože jsme subjektem pro $MASTER|H$"
  DIPLOMACY_FAILED_COUP_DESC: "$COUNTRY1|UH$ neuspělo s pokusem o převrat v $COUNTRY2|H$. $REASON$. Všichni organizátoři byli zatčeni policií a popraveni."
  DIPLOMACY_FAILED_COUP_REASON_EQUIPMENT: "Pokus selhal kvůli nedostatku vybavení rebelů"
  DIPLOMACY_FAILED_COUP_REASON_POPULARITY: "Pokus selhal kvůli nízké politické podpoře naší ideologie"
@@ -311,7 +311,7 @@
  DIPLOMACY_INCOMING_LEND_LEASE_EXISTING_ACTION_DESC: "Můžeme žádat jiné země o podporu vybavením."
  DIPLOMACY_INCOMING_LEND_LEASE_EXISTING_TITLE: "Upravit příchozí Lend Lease"
  DIPLOMACY_INCOMING_LEND_LEASE_REASON_ENEMY: "Nemůžeme žádat Lend Lease od našich nepřátel."
- DIPLOMACY_INCOMING_LEND_LEASE_REASON_PUPPET: "Naše úroveň autonomie snižuje limit světového napětí s naším vládcem"
+ DIPLOMACY_INCOMING_LEND_LEASE_REASON_PUPPET: "Naše úroveň autonomie snižuje limit světového napětí s naším suzerénem"
  DIPLOMACY_INCOMING_LEND_LEASE_REASON_PUPPET_DESC: "Sníží naši autonomii"
  DIPLOMACY_INCOMING_LEND_LEASE_REASON_TARGET_AT_WAR: "Pro žádost o Lend Lease musíme být ve válce."
  DIPLOMACY_INCOMING_LEND_LEASE_TITLE: "Žádost o Lend Lease"
@@ -331,8 +331,8 @@
  DIPLOMACY_JOIN_ALLY_NOT_ALLY: "$COUNTRY|UY$ není členem vaší frakce."
  DIPLOMACY_JOIN_ALLY_NO_FACTION: "Musíme být ve frakci, abychom se mohli připojit ke členům frakce ve válkách."
  DIPLOMACY_JOIN_ALLY_NO_LEADING_WAR: "Musíte poslat svůj §Yžádost o připojení do války§! vůdci války."
- DIPLOMACY_JOIN_ALLY_OTHER_PUPPETS: "Nemůžete připojit závislé uzemí jiných národů do války."
- DIPLOMACY_JOIN_ALLY_PUPPET_MASTER: "Jste závislým uzemím, takže se můžete připojit jen ke konfliktům vašeho vládce."
+ DIPLOMACY_JOIN_ALLY_OTHER_PUPPETS: "Nemůžete připojit subjekty jiných národů do války."
+ DIPLOMACY_JOIN_ALLY_PUPPET_MASTER: "Jste subjektem, takže se můžete připojit jen ke konfliktům vašeho suzeréna."
  DIPLOMACY_JOIN_ALLY_REQUEST_DESC: "$COUNTRY|UY$ chce pomoci v naší válce."
  DIPLOMACY_JOIN_ALLY_TITLE: "Připojení do válek"
  DIPLOMACY_JOIN_FACTION_ACTION_DESC: "Připojením se k frakci budeme moci vstoupit do jejich válek a oni do našich. Budeme pak bojovat společně!"
@@ -344,14 +344,14 @@
  DIPLOMACY_JOIN_FACTION_OTHERS_DESC: "$COUNTRY|U$ se připojil k $FACTION$"
  DIPLOMACY_JOIN_FACTION_REQUEST_DESC: "$COUNTRY|UY$ chce přistoupit k naší frakci $FACTION|Y$.\nPokud byli zasláni nebo přijímáni dobrovolníci mezi členy frakce, budou vráceni.\nPřipravené převraty mezi $COUNTRY|H$ a námi budou automaticky zrušeny."
  DIPLOMACY_JOIN_FACTION_TITLE: "Požádat o připojení k frakci"
- DIPLOMACY_JUSTIFY_WARGOAL_NO_OTHERS_AS_SUBJECT: "Nelze ospravedlnit válečný cíl, když jste závislým uzemím."
- DIPLOMACY_KICK_FROM_FACTION_ACTION_DESC: "Vyloučit je z naší frakce." # todo: CHANGED
- DIPLOMACY_KICK_FROM_FACTION_IS_A_NEW_MEMBER: "$COUNTRY|UY$ se nedávno připojil k frakci. Nemůžete je vyloučit před $DATE|Y$" # todo: CHANGED
- DIPLOMACY_KICK_FROM_FACTION_IS_A_SUBJECT: "$COUNTRY|UY$ je závislým uzemím $MASTER|H$"
- DIPLOMACY_KICK_FROM_FACTION_PLAYER_MESSAGE: "$COUNTRY|U$ vás vyloučil z $FACTION$" # todo: CHANGED
- DIPLOMACY_KICK_FROM_FACTION_POPUP_DESC: "$COUNTRY|UY$ bude nucen opustit $FACTION|Y$.\n\nZemě, které vyloučíte, se vám mohou pomstít.\n\nOpravdu chcete vyloučit $COUNTRY|Y$ z vaší frakce?" # todo: CHANGED
- DIPLOMACY_KICK_FROM_FACTION_TITLE: "Vyloučit z frakce" # todo: CHANGED
- DIPLOMACY_LEAVE_FACTION_ACTION_DESC: "Opravdu chcete opustit svou frakci?\n\nToto způsobí §Rpenalizaci vztahů§! s vůdcem frakce." # todo: CHANGED
+ DIPLOMACY_JUSTIFY_WARGOAL_NO_OTHERS_AS_SUBJECT: "Nelze ospravedlnit válečný cíl, když jste subjektem."
+ DIPLOMACY_KICK_FROM_FACTION_ACTION_DESC: "Vyloučit je z naší frakce."
+ DIPLOMACY_KICK_FROM_FACTION_IS_A_NEW_MEMBER: "$COUNTRY|UY$ se nedávno připojil k frakci. Nemůžete je vyloučit před $DATE|Y$"
+ DIPLOMACY_KICK_FROM_FACTION_IS_A_SUBJECT: "$COUNTRY|UY$ je subjektem $MASTER|H$"
+ DIPLOMACY_KICK_FROM_FACTION_PLAYER_MESSAGE: "$COUNTRY|U$ vás vyloučil z frakce $FACTION$"
+ DIPLOMACY_KICK_FROM_FACTION_POPUP_DESC: "$COUNTRY|UY$ bude nucen opustit frakci $FACTION|Y$.\n\nZemě, které vyloučíte, se vám mohou pomstít.\n\nOpravdu chcete vyloučit $COUNTRY|Y$ z vaší frakce?"
+ DIPLOMACY_KICK_FROM_FACTION_TITLE: "Vyloučit z frakce"
+ DIPLOMACY_LEAVE_FACTION_ACTION_DESC: "Opravdu chcete opustit svou frakci?\n\nToto způsobí §Rpenalizaci vztahů§! s vůdcem frakce."
  DIPLOMACY_LEAVE_FACTION_DESC: "Opustit $FACTION|H$"
  DIPLOMACY_LEAVE_FACTION_FIGHTING_WAR_TOGETHER: "Není povoleno, pokud bojujete ve válce společně"
  DIPLOMACY_LEAVE_FACTION_NOT_LEADER: "$LEADER|UH$ je vůdcem frakce"
@@ -511,7 +511,7 @@
  DIPLOMACY_MESSAGE_REPLYED_INCOMING_LEND_LEASE_TITLE: "Odpověď na žádost Lend Lease"
  DIPLOMACY_MESSAGE_SUBJECT_AUTONOMY_CHANGE_MANPOWER: "To bude vyžadovat $VALUE|^2H$ pracovní síly z naší strany."
  DIPLOMACY_MESSAGE_SUBJECT_AUTONOMY_INCREASED_BODY: "$SUBJECT|UY$ změnil úroveň autonomie z $FROM_LEVEL|Y$ na $TO_LEVEL|Y$.\n\n"
- DIPLOMACY_MESSAGE_SUBJECT_AUTONOMY_INCREASED_TITLE: "Úroveň autonomie závislého uzemí byla zvýšena"
+ DIPLOMACY_MESSAGE_SUBJECT_AUTONOMY_INCREASED_TITLE: "Úroveň autonomie subjektu byla zvýšena"
  DIPLOMACY_MESSAGE_SUBJECT_AUTONOMY_LOWERED_BODY: "$OVERLORD|UY$ změnil naši úroveň autonomie z $FROM_LEVEL|Y$ na $TO_LEVEL|Y$.\n\n"
  DIPLOMACY_MESSAGE_SUBJECT_AUTONOMY_LOWERED_TITLE: "Naše úroveň autonomie byla snížena"
  DIPLOMACY_MESSAGE_TIMED_WARGOAL_FINISH_DESC: "Ospravedlnění dobytí $STATE|H$ pro $OWNER|H$ je dokončeno"
@@ -542,7 +542,7 @@
  DIPLOMACY_OFFER_JOIN_FACTION_ACTION_DESC: "Pozvat je k připojení k naší frakci."
  DIPLOMACY_OFFER_JOIN_FACTION_ACTION_DETAILED_DESC: "Připravené převraty mezi vámi a nimi budou automaticky zrušeny, pokud se připojí k vaší frakci"
  DIPLOMACY_OFFER_JOIN_FACTION_DESC: "Pozvat $COUNTRY|UH$ do $FACTION|H$. To umožní vzájemné volání do války. Vůdce frakce je $LEADER|H$.\nPokud byli zasláni nebo přijímáni dobrovolníci mezi členy frakce, budou vráceni."
- DIPLOMACY_OFFER_JOIN_FACTION_KICKED_BY_YOU_RECENTLY: "$COUNTRY|UY$ byl nedávno vyloučen z frakce. Nemůžete je znovu pozvat před $DATE|Y$" # todo: CHANGED
+ DIPLOMACY_OFFER_JOIN_FACTION_KICKED_BY_YOU_RECENTLY: "$COUNTRY|UY$ byl nedávno vyloučen z frakce. Nemůžete je znovu pozvat dřív než $DATE|Y$"
  DIPLOMACY_OFFER_JOIN_FACTION_OTHERS_DESC: "$COUNTRY|U$ se připojil k $FACTION$"
  DIPLOMACY_OFFER_JOIN_FACTION_REQUEST_DESC: "$COUNTRY|UH$ chce, abychom se připojili k jejich frakci: $FACTION|Y$.\nPokud byli zasláni nebo přijímáni dobrovolníci mezi členy frakce, budou vráceni.\nPřipravené převraty mezi $COUNTRY|H$ a námi budou automaticky zrušeny."
  DIPLOMACY_OFFER_JOIN_FACTION_TITLE: "Pozvat do frakce"
@@ -556,7 +556,7 @@
  DIPLOMACY_OPINION_LEASED_EQUIPMENT: "Nedávno dodané vybavení: $VALUE|+=$"
  DIPLOMACY_OPINION_SENT_VOLUNTEERS: "$COUNT|H$ dobrovolníků: $VALUE|+=$"
  DIPLOMACY_OPINION_VALUE: "$VALUE|+=$"
- DIPLOMACY_OUR_PUPPET_NO: "Jsou naším závislým uzemím"
+ DIPLOMACY_OUR_PUPPET_NO: "Jsou naším subjektem"
  DIPLOMACY_PEACE_PROPOSAL_ACTION_DESC: "Podmíněně kapitulovat této zemi.\nObdrží $AMOUNT|%H$ z maximálních dostupných konferenčních bodů."
  DIPLOMACY_PEACE_PROPOSAL_DESC: "Podmíněná kapitulace\n$AMOUNT$"
  DIPLOMACY_PEACE_PROPOSAL_DURATION_TO_SHORT: "Válka trvá pouze $DURATION|Y$ z $LIMIT|Y$ měsíců potřebných k kapitulaci"
@@ -567,8 +567,8 @@
  DIPLOMACY_PEACE_PROPOSAL_TITLE: "Podmíněná kapitulace"
  DIPLOMACY_PEACE_PROPOSAL_YOU_NOT_WAR_LEADER: "Nejsi vůdce války pro poraženou stranu."
  DIPLOMACY_PUPPET_NO: "Jsme loutka"
- DIPLOMACY_REDUCEAUTONOMY_ACTION_DESC: "Snížit úroveň autonomie závislého uzemí"
- DIPLOMACY_REDUCEAUTONOMY_TITLE: "Snížit autonomii závislého uzemí"
+ DIPLOMACY_REDUCEAUTONOMY_ACTION_DESC: "Snížit úroveň autonomie subjektu"
+ DIPLOMACY_REDUCEAUTONOMY_TITLE: "Snížit autonomii subjektu"
  DIPLOMACY_RELATIONS_TAB: "Diplomacie"
  DIPLOMACY_RELATION_IMPROVEMENT_DEFAULT_DESC: "To také vyžaduje denní náklady £pol_power $VALUE|1H$\nProtože @$TAG1$$COUNTRY1|H$ a @$TAG2$$COUNTRY2|H$ mají různé ideologické skupiny, náklady na zlepšení vztahů jsou vyšší."
  DIPLOMACY_RELATION_IMPROVEMENT_INVALID: "Jedna ze zemí není platná, zlepšení vztahů nebude."
@@ -619,8 +619,8 @@
  DIPLOMACY_REVOKE_GUARANTEE_TITLE: "Zrušit záruku"
  DIPLOMACY_REVOKE_INTERNATIONAL_MARKET_ACCESS_RIGHTS_ACTION_DESC: "Zrušit náš přístup na trh i jejich.\n\nUž nebudeme moci navzájem nakupovat vybavení."
  DIPLOMACY_REVOKE_INTERNATIONAL_MARKET_ACCESS_RIGHTS_ACTION_DESC_FACTION: "§RNelze zrušit přístup na trh členům frakce.§!"
- DIPLOMACY_REVOKE_INTERNATIONAL_MARKET_ACCESS_RIGHTS_ACTION_DESC_OVERLORD: "§RNelze zrušit přístup na trh svému vládcovi.§!"
- DIPLOMACY_REVOKE_INTERNATIONAL_MARKET_ACCESS_RIGHTS_ACTION_DESC_SAME_OVERLORD: "§RNelze zrušit přístup na trh ostatním podřízeným stejného vládce.§!"
+ DIPLOMACY_REVOKE_INTERNATIONAL_MARKET_ACCESS_RIGHTS_ACTION_DESC_OVERLORD: "§RNelze zrušit přístup na trh svému suzerénovi.§!"
+ DIPLOMACY_REVOKE_INTERNATIONAL_MARKET_ACCESS_RIGHTS_ACTION_DESC_SAME_OVERLORD: "§RNelze zrušit přístup na trh ostatním podřízeným stejného suzeréna.§!"
  DIPLOMACY_REVOKE_INTERNATIONAL_MARKET_ACCESS_RIGHTS_ACTION_DESC_SUBJECT: "§RNelze zrušit přístup na trh podřízeným.§!"
  DIPLOMACY_REVOKE_INTERNATIONAL_MARKET_ACCESS_RIGHTS_DESC: "Už nebudeme moci navzájem nakupovat vybavení."
  DIPLOMACY_REVOKE_INTERNATIONAL_MARKET_ACCESS_RIGHTS_TITLE: "Zrušit přístup na trh"
@@ -647,7 +647,7 @@
  DIPLOMACY_SEND_ATTACHE_COST_INVALID: "Jedna ze zemí není platná, attaché nelze poslat."
  DIPLOMACY_SEND_ATTACHE_CP_IMMEDIATE_COST: "Bude použito £command_power $VALUE$ k udržení attaché."
  DIPLOMACY_SEND_ATTACHE_DESC: "Obdržíme:"
- DIPLOMACY_SEND_ATTACHE_DETAILED_DESC: "- Sdílení vojenských zpravodajských dat\n- $XPSHARE|0%H$ z jejich získaných zkušeností armády\n-$MASTERY|0%H$ z jejich získaného £doctrine_mastery §HMastery§!\n- $MODIFIER$\n" # todo: CHANGED
+ DIPLOMACY_SEND_ATTACHE_DETAILED_DESC: "- Sdílení vojenských zpravodajských dat\n- $XPSHARE|0%H$ z jejich získaných zkušeností armády\n-$MASTERY|0%H$ z jejich získaného £doctrine_mastery §HMastery§!\n- $MODIFIER$\n"
  DIPLOMACY_SEND_ATTACHE_IMMEDIATE_COST: "Odeslání atašé bude stát £pol_power $VALUE$."
  DIPLOMACY_SEND_ATTACHE_REQUEST_DESC: "$COUNTRY|UY$ chce pomoci ve válce tím, že pošle vojenského atašé. Za to od nás získají zpravodajské a vojenské zkušenosti."
  DIPLOMACY_SEND_ATTACHE_SHOULD_BE_AT_WAR: "Pro poslání vojenského atašé musí být @$TAG$$WHO|H$ ve válce."
@@ -702,12 +702,12 @@
  DIPLOMACY_WAR_NO_WAR_NONAGRESSIONPACT_BLOCK_2: "\n\n - Mezi $MONTH_FIRST|Y$-$MONTH_SECOND|Y$ měsíci můžete smlouvu porušit, pokud máte $RATIO_BALANCE|%0Y$ z jejich počtu divizí rozmístěných podél naší společné hranice."
  DIPLOMACY_WAR_NO_WAR_NONAGRESSIONPACT_DESC: "$DESC$"
  DIPLOMACY_WAR_NO_WAR_NONAGRESSIONPACT_LEADER: "Máte dohodu o neútočení s vůdcem jejich frakce"
- DIPLOMACY_WAR_NO_WAR_NONAGRESSIONPACT_MASTER: "Máte dohodu o neútočení s jejich vládcem"
+ DIPLOMACY_WAR_NO_WAR_NONAGRESSIONPACT_MASTER: "Máte dohodu o neútočení s jejich suzerénem"
  DIPLOMACY_WAR_NO_WAR_NONAGRESSIONPACT_YOUR_LEADER: "Oni mají dohodu o neútočení s vaším vůdcem frakce"
  DIPLOMACY_WAR_NO_WAR_NO_WARGOAL: "Neexistuje válečný cíl k ospravedlnění války."
  DIPLOMACY_WAR_NO_WAR_NO_WARGOAL_OR_WAR: "Neexistuje válečný cíl pro ospravedlnění vyhlášení války, nebo jste momentálně ve válce se smysluplnou hrozbou."
- DIPLOMACY_WAR_NO_WAR_ON_FOREIGN_STATES: "Nelze vyhlásit válku závislým územím."
- DIPLOMACY_WAR_NO_WAR_ON_OTHERS_AS_SUBJECT: "Nelze vyhlásit osobní válku, když jste závislým uzemím."
+ DIPLOMACY_WAR_NO_WAR_ON_FOREIGN_STATES: "Nelze vyhlásit válku subjektům."
+ DIPLOMACY_WAR_NO_WAR_ON_OTHERS_AS_SUBJECT: "Nelze vyhlásit osobní válku, když jste subjektem."
  DIPLOMACY_WAR_NO_WAR_ON_SUBJECTS: "Jsou loutku, takže musíš vyhlásit válku $OVERLORD|Y$ místo nich."
  DIPLOMACY_WAR_NO_WAR_TROOPS_IN_TERRITORY: "Máme divize na jejich území."
  DIPLOMACY_WAR_NO_WAR_TRUCE: "Máte s nimi příměří"
@@ -757,7 +757,7 @@
  DR_HAS_NON_AGGRESSION_PACT: "§Y$THEM$§! má pakt o neútočení s §Y$US$§!: "
  DR_HELP_IS_NICE: "Pomoc je oceněna: "
  DR_IDEOLOGICAL_ACCEPTANCE: "§Y$US|U$§! pravděpodobně akceptuje $IDEOLOGY|Y$ nátlak: "
- DR_KICKED_FROM_FACTION: "Nedávno vyloučen z frakce: " # todo: CHANGED
+ DR_KICKED_FROM_FACTION: "Nedávno vyloučen z frakce: "
  DR_LEND_LEASE: "Pomoc je vítána: "
  DR_LEND_LEASE_NO_EQUIPMENT_OR_REQUEST_HAS: "$SENDER|UH$ nemá dostatek vybavení nebo §Ymáme§! příliš mnoho na skladě."
  DR_LICENSE_ACCEPTANCE: "§Y$THEM|U$§! pravděpodobně přijme §YVýrobní licenci§! od §Y$US$§!: "
@@ -1023,7 +1023,7 @@
  MAPMODE_FACTION_TARGET: "§T$COUNTRY|UH$ je členem frakce s $FROM|H$.§!"
  MAPMODE_GOOD_OPINION: "§T$COUNTRY|UH$ má na nás velmi dobrý názor.§!"
  MAPMODE_GOOD_OPINION_TARGET: "§T$COUNTRY|UH$ má velmi dobrý názor na $FROM|H$.§!"
- MASTER_CALLED_US_TO_WAR: "Náš vládce $MASTER|Y$ potřebuje naši pomoc a zavolal nás do $WAR|Y$."
+ MASTER_CALLED_US_TO_WAR: "Náš suzerén $MASTER|Y$ potřebuje naši pomoc a zavolal nás do $WAR|Y$."
  MEMBERS_LABEL: "Členové:"
  MISSING_PP: "Potřebujete £pol_power §Y$PP|0$§! více politické moci."
  MR_pact: "Pakt Ribbentrop-Molotov"
@@ -1104,13 +1104,13 @@
  REQUEST_EXP_KILLING_MY_EXPEDITIONARIES: "Pod naší rozkazem utrpěli velké ztráty"
  REQUEST_EXP_MUST_BE_IN_SAME_FACTION: "Nejsou ve stejné frakci jako vy."
  REQUEST_EXP_NOT_AI: "Můžete požadovat expediční síly pouze od států ovládaných AI."
- REQUEST_EXP_NOT_A_MASTER: "Jako loutka mohou poslat expediční síly pouze svému vládci."
+ REQUEST_EXP_NOT_A_MASTER: "Jako loutka mohou poslat expediční síly pouze svému suzerénovi."
  REQUEST_EXP_NOT_LEADER: "Nejste vůdcem frakce."
  REQUEST_EXP_NOT_SHARING_WAR: "Posílání expedičních sil je považováno za akt války a nemůže tak učinit země, která není ve válce."
  REQUEST_EXP_TOO_MANY_EXP_FORCES: "Tento požadavek přesahuje jejich limit expedičních sil"
  REQUEST_EXP_WE_ARE_NOT_AT_WAR: "Musíte být ve válce, abyste získali expediční síly."
  REQUEST_EXP_WE_NEED_OUR_FORCES: "Tvrdí, že potřebují své armády jinde"
- REQUEST_FOREIGN_MANPOWER_MUST_BE_IN_SAME_FACTION: "Musíme být ve stejné frakci nebo jejich vládcem, abychom mohli požádat o podporu posádek."
+ REQUEST_FOREIGN_MANPOWER_MUST_BE_IN_SAME_FACTION: "Musíme být ve stejné frakci nebo jejich suzerénem, abychom mohli požádat o podporu posádek."
  REQUEST_SLIDER: "$VAL$"
  RETURN_ALL_EXPEDITIONARY_FORCES_DESC: "Vrátit všechny expediční síly z $TARGET|H$. Máte $COUNT|H$ divizí a ihned nad nimi získáte kontrolu."
  REVOKE_GUARANTEE_ACTION_THREAT: "Zrušit záruku nezávislosti $TARGET|Y$"
@@ -1124,7 +1124,7 @@
  SEND_EXPEDITIONARY_DESCRIPTION_NO_DIVISIONS: "§RMusíte vybrat jednu nebo více armád k poslání.§!\nPouze divize momentálně v provinciích ovládaných cílem mohou být přemístěny.\nMomentálně máte $CURRENT|H$ divizí jako expediční síly."
  SEND_EXPEDITIONARY_REQUEST: "$FROM|UH$ chce poslat $COUNT|H$ divizí jako expediční síly."
  SEND_EXP_MUST_BE_IN_SAME_FACTION: "Musíme být ve stejné frakci, abychom mohli poslat expediční síly."
- SEND_EXP_NOT_A_MASTER: "Jako loutka můžeme posílat expediční síly pouze našemu vládci."
+ SEND_EXP_NOT_A_MASTER: "Jako loutka můžeme posílat expediční síly pouze našemu suzerénovi."
  SEND_EXP_TARGET_AT_WAR: "Pro poslání expediční síly musí být @$TAG$$WHO|H$ ve válce."
  SEND_EXP_WE_NOT_AT_WAR: "Posílání expedičních sil je akt agrese. Musíme nejdříve společně bojovat ve válce s @$TAG$$WHO|H$."
  SEND_VOLUNTEERS_CAP_REASON_DIVISIONS: "počet vašich divizí"
@@ -1508,9 +1508,9 @@
  protest_action: "Protestní akce"
  protest_action_light: "Lehký protest"
  protest_action_strong: "Tvrdý protest"
- puppet_active: "je vládcem"
- puppet_initiator_desc: "$COUNTRY|UY$ má jiné země jako závislé uzemí"
- puppet_initiator_extended_desc: "$COUNTRY2|UY$ je závislým uzemím $COUNTRY1|Y$"
+ puppet_active: "je suzerénem"
+ puppet_initiator_desc: "$COUNTRY|UY$ má jiné země jako subjekty"
+ puppet_initiator_extended_desc: "$COUNTRY2|UY$ je subjektem $COUNTRY1|Y$"
  puppet_opinion: "Loutka:"
  puppet_receiver_desc: "$COUNTRY|UY$ je loutkovým státem cizí mocnosti"
  puppet_receiver_extended_desc: "$COUNTRY2|UY$ je loutkou $COUNTRY1|Y$"
@@ -1527,7 +1527,7 @@
  refused_tripartite_pact_opinion: "Odmítnutí protisovětského paktu"
  rejected_demands: "Odmítnutí požadavků"
  resource_rights_initiator_desc: "$COUNTRY|UY$ převádí práva na zdroje"
- resource_rights_initiator_extended_desc: "$COUNTRY1|UY$ převádí práva k surovinám na $COUNTRY2|Y$:" # todo: CHANGED
+ resource_rights_initiator_extended_desc: "$COUNTRY1|UY$ převádí práva k surovinám na $COUNTRY2|Y$:"
  resource_rights_receiver_desc: "$COUNTRY|UY$ přijímá práva na zdroje"
  resource_rights_receiver_extended_desc: "$COUNTRY2|UY$ přijímá práva na zdroje od $COUNTRY1|Y$:"
  revoked_GER_transit_rights: "Odvolány tranzitní a komunikační přístupy"
@@ -1595,90 +1595,90 @@
  western_betrayal: "Zrada Západu"
  withdrew_advisors: "Stažení poradců"
  worse_pact_against_us: "Signatář protisovětského paktu"
- DIPLOMACY_NAVAL_BLOCKADE_TITLE: "Uvalit námořní blokádu" # todo: NEW TRANSLATION
- DIPLOMACY_NAVAL_BLOCKADE_DESC: "Námořně zablokovat zemi" # todo: NEW TRANSLATION
- DIPLOMACY_NAVAL_BLOCKADE_ACTION_DESC: "Můžeme zabránit zemi v námořním obchodu, pokud dokážeme udržet námořní nadvládu nad jejich námořními trasami." # todo: NEW TRANSLATION
- DIPLOMACY_NAVAL_BLOCKADE_REVOKE_TITLE: "Zrušit námořní blokádu" # todo: NEW TRANSLATION
- DIPLOMACY_NAVAL_BLOCKADE_REVOKE_ACTION_DESC: "Zrušit námořní blokádu proti zemi" # todo: NEW TRANSLATION
- DIPLOMACY_NAVAL_BLOCKADE_DAILY_COST: "Námořní blokáda: §R-$TOTAL|2$§! (§R-$COST|2$§! za blokádu)" # todo: NEW TRANSLATION
- DIPLOMACY_NAVAL_BLOCKADE_TENSION_DESC: "Námořní blokáda $TARGET|Y$" # todo: NEW TRANSLATION
- DIPLOMACY_CREATE_FACTION_AT_WAR_WITH: "Někteří členové frakce jsou ve válce s $FACTION|UY$" # todo: NEW TRANSLATION
- DIPLOMACY_KICK_FROM_FACTION_RULE_SET: "Vyžaduje splnění jednoho nebo více z následujících §HPravidel frakce§!:" # todo: NEW TRANSLATION
- DIPLOMACY_ACTION_NEUTRAL_COST_COMPACT_FI: "£faction_initiative_texticon£  $VALUE|Y0$ " # todo: NEW TRANSLATION
- DIPLOMACY_ACTION_NEGATIVE_COST_COMPACT_FI: "£faction_initiative_texticon£  $VALUE|-0$ " # todo: NEW TRANSLATION
- DIPLOMACY_STOP_KICKING_YOURSELF: "Neměli byste vyhodit sami sebe" # todo: NEW TRANSLATION
- KICK_FROM_FACTION_ACTION_TEXT: "§HOdstranit z frakce§!\nTato akce odstraní $KICKEE$ z naší frakce. Tato akce může mít §Rvážné důsledky§!, pokud spolu vedeme válku.\n\n" # todo: NEW TRANSLATION
- MISSING_FACTION_INITIATIVE: "Potřebujeme £faction_initiative_texticon£ §Y$INITIATIVE|0$§! více iniciativy frakce" # todo: NEW TRANSLATION
- DIPLOMACY_DISMANTLE_FACTION_CONFIRMATION_DESC: "Opravdu chcete rozpušit $FACTION|H$?\n\nNaše frakce přestane existovat. To bude mít diplomatické důsledky pro všechny členy." # todo: NEW TRANSLATION
- DIPLOMACY_ASSUME_FACTION_LEADERSHIP_POLITICAL_POWER_COST_DESC: "Přebrat vedení bude stát £pol_power $COST|Y$" # todo: NEW TRANSLATION
- DIPLOMACY_ASSUME_FACTION_LEADERSHIP_COOLDOWN_DESC: "Ostatní členové frakce nebudou moci převzít vedení po dobu následujících $COOLDOWN|Y$ dnů." # todo: NEW TRANSLATION
- DIPLOMACY_ASSUME_FACTION_LEADERSHIP_NOT_ENOUGH_INFLUENCE: "Abychom výrazně překročili vliv současného vůdce, potřebujeme $NEEDED|%Y$ vlivu, ale máme pouze $CURRENT|%Y$." # todo: NEW TRANSLATION
- DIPLOMACY_ASSUME_FACTION_LEADERSHIP_NOT_HIGHEST_INFLUENCE: "Musíme mít v frakci nejvyšší hodnost vlivu, která je nyní $CURRENT|Y$." # todo: NEW TRANSLATION
- DIPLOMACY_ASSUME_FACTION_LEADERSHIP_INFLUENCE_PROGRESS: "   $CURRENT|R1%$ vlivu ze $NEEDED|Y1%$ potřebných." # todo: NEW TRANSLATION
- cheat_opinion_modifier_bad: "cheat_opinion_modifier_bad" # todo: NEW TRANSLATION
- naval_blockade_initiator_desc: "$COUNTRY|UY$ uvaluje námořní blokádu na ostatní státy." # todo: NEW TRANSLATION
- naval_blockade_initiator_extended_desc: "$COUNTRY1|UY$ uvaluje námořní blokádu na $COUNTRY2|Y$" # todo: NEW TRANSLATION
- naval_blockade_receiver_desc: "Na $COUNTRY|UY$ je uvalena námořní blokáda ostatními státy." # todo: NEW TRANSLATION
- naval_blockade_receiver_extended_desc: "Na $COUNTRY2|UY$ je uvalena námořní blokáda ze strany $COUNTRY1|Y$" # todo: NEW TRANSLATION
- DIPLOMACY_AIR_BASE_ACCESS: "Přístup k leteckým základnám" # todo: NEW TRANSLATION
- DIPLOMACY_AIR_BASE_ACCESS_TITLE: "Požádat o přístup k leteckým základnám" # todo: NEW TRANSLATION
- DIPLOMACY_AIR_BASE_ACCESS_DESC: "Přístup k leteckým základnám by umožnil našim letadlům být umístěna na jejich základnách." # todo: NEW TRANSLATION
- DIPLOMACY_AIR_BASE_ACCESS_ACTION_DESC: "Požádat o povolení používat jejich letecké základny." # todo: NEW TRANSLATION
- DIPLOMACY_AIR_BASE_ACCESS_REQUEST_DESC: "$COUNTRY|UY$ chce používat naše letecké základny." # todo: NEW TRANSLATION
- DIPLOMACY_REVOKE_AIR_BASE_ACCESS_TITLE: "Zrušit náš přístup k leteckým základnám" # todo: NEW TRANSLATION
- DIPLOMACY_REVOKE_AIR_BASE_ACCESS_DESC: "Už nebudeme moci používat letecké základny v $COUNTRY|Y$?" # todo: NEW TRANSLATION
- DIPLOMACY_REVOKE_AIR_BASE_ACCESS_ACTION_DESC: "Zrušit náš přístup k leteckým základnám" # todo: NEW TRANSLATION
- DIPLOMACY_OFFER_AIR_BASE_ACCESS_TITLE: "Nabídnout přístup k leteckým základnám" # todo: NEW TRANSLATION
- DIPLOMACY_OFFER_AIR_BASE_ACCESS_DESC: "Nabídnutí přístupu k leteckým základnám by umožnilo jejich letadlům být umístěna na našich základnách." # todo: NEW TRANSLATION
- DIPLOMACY_OFFER_AIR_BASE_ACCESS_ACTION_DESC: "Nabídnout jim možnost používat naše letecké základny." # todo: NEW TRANSLATION
- DIPLOMACY_OFFER_AIR_BASE_ACCESS_REQUEST_DESC: "$COUNTRY|UY$ navrhuje, aby naše letadla mohla používat jejich letecké základny." # todo: NEW TRANSLATION
- DIPLOMACY_REVOKE_OFFER_AIR_BASE_ACCESS_TITLE: "Zrušit jejich přístup k leteckým základnám" # todo: NEW TRANSLATION
- DIPLOMACY_REVOKE_OFFER_AIR_BASE_ACCESS_DESC: "Zamezme odpornému $COUNTRY|Y$ přístup k našim leteckým základnám." # todo: NEW TRANSLATION
- DIPLOMACY_REVOKE_OFFER_AIR_BASE_ACCESS_ACTION_DESC: "Zrušit jejich přístup k leteckým základnám" # todo: NEW TRANSLATION
- air_base_access_initiator_desc: "$COUNTRY|UY$ má přístup k leteckým základnám jiných států" # todo: NEW TRANSLATION
- air_base_access_initiator_extended_desc: "$COUNTRY1|UY$ má přístup k leteckým základnám v $COUNTRY2|Y$" # todo: NEW TRANSLATION
- air_base_access_receiver_desc: "$COUNTRY|UY$ poskytuje přístup k leteckým základnám jiným státům" # todo: NEW TRANSLATION
- air_base_access_receiver_extended_desc: "$COUNTRY1|UY$ má přístup k leteckým základnám v $COUNTRY2|Y$" # todo: NEW TRANSLATION
- offer_air_base_access_receiver_desc: "$COUNTRY|UY$ má přístup k leteckým základnám jiných států" # todo: NEW TRANSLATION
- offer_air_base_access_receiver_extended_desc: "$COUNTRY2|UY$ má přístup k leteckým základnám v $COUNTRY1|Y$" # todo: NEW TRANSLATION
- offer_air_base_access_initiator_desc: "$COUNTRY|UY$ poskytuje přístup k leteckým základnám jiným státům" # todo: NEW TRANSLATION
- offer_air_base_access_initiator_extended_desc: "$COUNTRY1|UY$ poskytuje přístup k leteckým základnám v $COUNTRY2|Y$" # todo: NEW TRANSLATION
- NAVAL_BLOCKADE_TRADE_ROUTE_TITLE: "Naše současná obchodní trasa je pod námořní blokádou" # todo: NEW TRANSLATION
- NAVAL_BLOCKADE_TRADE_ROUTE_INFO: "Naše obchodní trasa s $TARGET|Y$ je blokována $BLOCKER|Y$ v oblasti $REGION|Y$" # todo: NEW TRANSLATION
- NAVAL_BLOCKADE_TRADE_ROUTE_REESTABLISHED_TITLE: "Naše obchodní trasa už není pod námořní blokádou" # todo: NEW TRANSLATION
- NAVAL_BLOCKADE_TRADE_ROUTE_REESTABLISHED_INFO: "Naše obchodní trasa s $TARGET|Y$ byla obnovena" # todo: NEW TRANSLATION
- DIPLOMACY_HEAD_OF_COUNTERINTEL_TITLE: "Převzít post vedoucího protizpravodajství" # todo: NEW TRANSLATION
- DIPLOMACY_HEAD_OF_COUNTERINTEL_ACTION_DESC: "Jsou současným §Hvedoucím protizpravodajství§! naší frakce.\nPožádejte je, aby se stali novým §Hvedoucím protizpravodajství§!." # todo: NEW TRANSLATION
- DIPLOMACY_HEAD_OF_COUNTERINTEL_REQUEST_DESC: "$COUNTRY|UY$ se chce stát naším §Hvedoucím protizpravodajství§!." # todo: NEW TRANSLATION
- DIPLOMACY_MESSAGE_ACCEPTED_TITLE_DIPLOMACY_HEAD_OF_COUNTERINTEL: "Převzetí postu vedoucího protizpravodajství přijato" # todo: NEW TRANSLATION
- DIPLOMACY_MESSAGE_ACCEPTED_MESSAGE_DIPLOMACY_HEAD_OF_COUNTERINTEL: "Nyní jste vedoucím protizpravodajství." # todo: NEW TRANSLATION
- DIPLOMACY_MESSAGE_DECLINED_TITLE_DIPLOMACY_HEAD_OF_COUNTERINTEL: "Převzetí vedoucího protizpravodajství odmítnuto" # todo: NEW TRANSLATION
- DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_HEAD_OF_COUNTERINTEL: "$COUNTRY|UY$ §Rodmítl§! naši žádost stát se §Hvedoucím protizpravodajství§!." # todo: NEW TRANSLATION
- DIPLOMACY_HEAD_OF_CRYPTOLOGY_TITLE: "Převzít post vedoucího kryptologie" # todo: NEW TRANSLATION
- DIPLOMACY_HEAD_OF_CRYPTOLOGY_ACTION_DESC: "Jsou současným §Hvedoucím kryptologie§! naší frakce.\nPožádejte je, aby se stali novým §Hvedoucím kryptologie§!." # todo: NEW TRANSLATION
- DIPLOMACY_HEAD_OF_CRYPTOLOGY_REQUEST_DESC: "$COUNTRY|UY$ se chce stát naším §Hvedoucím kryptologie§!." # todo: NEW TRANSLATION
- DIPLOMACY_MESSAGE_ACCEPTED_TITLE_DIPLOMACY_HEAD_OF_CRYPTOLOGY: "Převzetí vedoucího kryptologie přijato" # todo: NEW TRANSLATION
- DIPLOMACY_MESSAGE_ACCEPTED_MESSAGE_DIPLOMACY_HEAD_OF_CRYPTOLOGY: "Nyní jste vedoucím kryptologie." # todo: NEW TRANSLATION
- DIPLOMACY_MESSAGE_DECLINED_TITLE_DIPLOMACY_HEAD_OF_CRYPTOLOGY: "Převzetí vedoucího kryptologie odmítnuto" # todo: NEW TRANSLATION
- DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_HEAD_OF_CRYPTOLOGY: "$COUNTRY|UY$ §Rodmítl§! naši žádost stát se §Hvedoucím kryptologie§!." # todo: NEW TRANSLATION
- DIPLOMACY_HEAD_OF_OPERATIONS_TITLE: "Převzít post vedoucího operací" # todo: NEW TRANSLATION
- DIPLOMACY_HEAD_OF_OPERATIONS_ACTION_DESC: "Jsou současným §Hvedoucím operací§! naší frakce.\nPožádejte je, aby se stali novým §Hvedoucím operací§!." # todo: NEW TRANSLATION
- DIPLOMACY_HEAD_OF_OPERATIONS_REQUEST_DESC: "$COUNTRY|UY$ se chce stát naším §Hvedoucím operací§!." # todo: NEW TRANSLATION
- DIPLOMACY_MESSAGE_ACCEPTED_TITLE_DIPLOMACY_HEAD_OF_OPERATIONS: "Převzetí vedoucího operací přijato" # todo: NEW TRANSLATION
- DIPLOMACY_MESSAGE_ACCEPTED_MESSAGE_DIPLOMACY_HEAD_OF_OPERATIONS: "Nyní jste vedoucím operací." # todo: NEW TRANSLATION
- DIPLOMACY_MESSAGE_DECLINED_TITLE_DIPLOMACY_HEAD_OF_OPERATIONS: "Převzetí vedoucího operací odmítnuto" # todo: NEW TRANSLATION
- DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_HEAD_OF_OPERATIONS: "$COUNTRY|UY$ §Rodmítl§! naši žádost stát se §Hvedoucím operací§!." # todo: NEW TRANSLATION
- DIPLOMACY_MESSAGE_DECLINED_MESSAGE_IN_THE_SAME_FACTION: "$COUNTRY|UY$ je členem naší frakce." # todo: NEW TRANSLATION
- DIPLOMACY_MESSAGE_DECLINED_MESSAGE_IS_SUBJECT: "$COUNTRY|UY$ je naším závislým státem." # todo: NEW TRANSLATION
- DIPLOMACY_MESSAGE_DECLINED_MESSAGE_IS_SUBJECT_OF_FACTION_MEMBER: "$COUNTRY|UY$ je závislým státem $OVERLOARD|UY$, což je jeden z členů naší frakce." # todo: NEW TRANSLATION
- DIPLOMACY_MESSAGE_DECLINED_MESSAGE_AT_WAR_WITH: "Jsme ve válce s $COUNTRY|UY$." # todo: NEW TRANSLATION
- DIPLOMACY_MESSAGE_DECLINED_MESSAGE_LANDLOCKED_COUNTRY: "$COUNTRY|UY$ je vnitrozemský stát." # todo: NEW TRANSLATION
- DIPLOMACY_MESSAGE_DECLINED_MESSAGE_NO_ACCESS_TO_SEA: "Jsme vnitrozemský stát." # todo: NEW TRANSLATION
- DIPLOMACY_MESSAGE_DECLINED_MESSAGE_NO_FLEET: "Nemáme námořnictvo." # todo: NEW TRANSLATION
- DIPLOMACY_MESSAGE_DECLINED_MESSAGE_IS_OVERLORD: "$COUNTRY|UY$ je naším vrchním vládcem." # todo: NEW TRANSLATION
- DIPLO_FORBID_REVOKE_ACCESS: "Nastavit pravidlo: £GFX_trigger_no  Lze odvolat $TARGET$ $TYPE$." # todo: NEW TRANSLATION
- PHI_dockworker_infiltration_mod: "Infiltrace přístavních dělníků" # todo: NEW TRANSLATION
- PHI_decoupled_peso_from_dollar: "Odpojení pesa od dolaru" # todo: NEW TRANSLATION
- PHI_seized_migrant_property: "Zabavení majetku migrantů" # todo: NEW TRANSLATION
- PHI_welcomed_chinese_migrants: "Přivítání čínských migrantů" # todo: NEW TRANSLATION
- PHI_legalized_communist_party: "Legalizace komunistické strany" # todo: NEW TRANSLATION
+ DIPLOMACY_NAVAL_BLOCKADE_TITLE: "Uvalit námořní blokádu"
+ DIPLOMACY_NAVAL_BLOCKADE_DESC: "Námořně blokovat zemi"
+ DIPLOMACY_NAVAL_BLOCKADE_ACTION_DESC: "Můžeme zabránit zemi v námořním obchodu, pokud dokážeme udržet námořní převahu nad jejich námořními trasami."
+ DIPLOMACY_NAVAL_BLOCKADE_REVOKE_TITLE: "Odvolat námořní blokádu"
+ DIPLOMACY_NAVAL_BLOCKADE_REVOKE_ACTION_DESC: "Odvolat námořní blokádu proti zemi"
+ DIPLOMACY_NAVAL_BLOCKADE_DAILY_COST: "Námořní blokáda: §R-$TOTAL|2$§! (§R-$COST|2$§! za blokádu)"
+ DIPLOMACY_NAVAL_BLOCKADE_TENSION_DESC: "Námořní blokáda $TARGET|Y$"
+ DIPLOMACY_CREATE_FACTION_AT_WAR_WITH: "Někteří členové frakce jsou ve válce s frakcí $FACTION|UY$"
+ DIPLOMACY_KICK_FROM_FACTION_RULE_SET: "Vyžaduje splnění jednoho nebo více z následujících §HPravidel frakce§!:"
+ DIPLOMACY_ACTION_NEUTRAL_COST_COMPACT_FI: "£faction_initiative_texticon£  $VALUE|Y0$ "
+ DIPLOMACY_ACTION_NEGATIVE_COST_COMPACT_FI: "£faction_initiative_texticon£  $VALUE|-0$ "
+ DIPLOMACY_STOP_KICKING_YOURSELF: "Neměli byste vyhodit sami sebe"
+ KICK_FROM_FACTION_ACTION_TEXT: "§HVyhodit z frakce§!\nTato akce odstraní $KICKEE$ z naší frakce. Tato akce může mít §Rvážné důsledky§!, pokud spolu vedeme válku.\n\n"
+ MISSING_FACTION_INITIATIVE: "Potřebujeme £faction_initiative_texticon£ §Y$INITIATIVE|0$§! více iniciativy frakce"
+ DIPLOMACY_DISMANTLE_FACTION_CONFIRMATION_DESC: "Opravdu chcete rozpušit frakci $FACTION|H$?\n\nNaše frakce přestane existovat. To bude mít diplomatické důsledky pro všechny členy."
+ DIPLOMACY_ASSUME_FACTION_LEADERSHIP_POLITICAL_POWER_COST_DESC: "Přebrat vedení bude stát £pol_power $COST|Y$"
+ DIPLOMACY_ASSUME_FACTION_LEADERSHIP_COOLDOWN_DESC: "Ostatní členové frakce nebudou moci převzít vedení po dobu následujících $COOLDOWN|Y$ dnů."
+ DIPLOMACY_ASSUME_FACTION_LEADERSHIP_NOT_ENOUGH_INFLUENCE: "Abychom výrazně překročili vliv současného vůdce, potřebujeme $NEEDED|%Y$ vlivu, ale máme pouze $CURRENT|%Y$."
+ DIPLOMACY_ASSUME_FACTION_LEADERSHIP_NOT_HIGHEST_INFLUENCE: "Musíme mít v frakci nejvyšší hodnotu vlivu, která je nyní $CURRENT|Y$."
+ DIPLOMACY_ASSUME_FACTION_LEADERSHIP_INFLUENCE_PROGRESS: "   $CURRENT|R1%$ vlivu ze $NEEDED|Y1%$ potřebných."
+ cheat_opinion_modifier_bad: "cheat_opinion_modifier_bad"
+ naval_blockade_initiator_desc: "$COUNTRY|UY$ uvaluje námořní blokádu na ostatní státy."
+ naval_blockade_initiator_extended_desc: "$COUNTRY1|UY$ uvaluje námořní blokádu na $COUNTRY2|Y$"
+ naval_blockade_receiver_desc: "Na $COUNTRY|UY$ je uvalena námořní blokáda ostatními státy."
+ naval_blockade_receiver_extended_desc: "Na $COUNTRY2|UY$ je uvalena námořní blokáda ze strany $COUNTRY1|Y$"
+ DIPLOMACY_AIR_BASE_ACCESS: "Přístup k leteckým základnám"
+ DIPLOMACY_AIR_BASE_ACCESS_TITLE: "Požádat o přístup k leteckým základnám"
+ DIPLOMACY_AIR_BASE_ACCESS_DESC: "Přístup k leteckým základnám by umožnil našim letadlům být umístěna na jejich základnách."
+ DIPLOMACY_AIR_BASE_ACCESS_ACTION_DESC: "Požádat o povolení používat jejich letecké základny."
+ DIPLOMACY_AIR_BASE_ACCESS_REQUEST_DESC: "$COUNTRY|UY$ chce používat naše letecké základny."
+ DIPLOMACY_REVOKE_AIR_BASE_ACCESS_TITLE: "Zrušit náš přístup k leteckým základnám"
+ DIPLOMACY_REVOKE_AIR_BASE_ACCESS_DESC: "Už nebudeme moci používat letecké základny v $COUNTRY|Y$?"
+ DIPLOMACY_REVOKE_AIR_BASE_ACCESS_ACTION_DESC: "Zrušit náš přístup k leteckým základnám"
+ DIPLOMACY_OFFER_AIR_BASE_ACCESS_TITLE: "Nabídnout přístup k leteckým základnám"
+ DIPLOMACY_OFFER_AIR_BASE_ACCESS_DESC: "Nabídnutí přístupu k leteckým základnám by umožnilo jejich letadlům být umístěna na našich základnách."
+ DIPLOMACY_OFFER_AIR_BASE_ACCESS_ACTION_DESC: "Nabídnout jim možnost používat naše letecké základny."
+ DIPLOMACY_OFFER_AIR_BASE_ACCESS_REQUEST_DESC: "$COUNTRY|UY$ navrhuje, aby naše letadla mohla používat jejich letecké základny."
+ DIPLOMACY_REVOKE_OFFER_AIR_BASE_ACCESS_TITLE: "Zrušit jejich přístup k leteckým základnám"
+ DIPLOMACY_REVOKE_OFFER_AIR_BASE_ACCESS_DESC: "Zamezme, aby měl $COUNTRY|Y$ přístup k našim leteckým základnám."
+ DIPLOMACY_REVOKE_OFFER_AIR_BASE_ACCESS_ACTION_DESC: "Zrušit jejich přístup k leteckým základnám"
+ air_base_access_initiator_desc: "$COUNTRY|UY$ má přístup k leteckým základnám jiných států"
+ air_base_access_initiator_extended_desc: "$COUNTRY1|UY$ má přístup k leteckým základnám v $COUNTRY2|Y$"
+ air_base_access_receiver_desc: "$COUNTRY|UY$ poskytuje přístup k leteckým základnám jiným státům"
+ air_base_access_receiver_extended_desc: "$COUNTRY1|UY$ má přístup k leteckým základnám v $COUNTRY2|Y$"
+ offer_air_base_access_receiver_desc: "$COUNTRY|UY$ má přístup k leteckým základnám jiných států"
+ offer_air_base_access_receiver_extended_desc: "$COUNTRY2|UY$ má přístup k leteckým základnám v $COUNTRY1|Y$"
+ offer_air_base_access_initiator_desc: "$COUNTRY|UY$ poskytuje přístup k leteckým základnám jiným státům"
+ offer_air_base_access_initiator_extended_desc: "$COUNTRY1|UY$ poskytuje přístup k leteckým základnám v $COUNTRY2|Y$"
+ NAVAL_BLOCKADE_TRADE_ROUTE_TITLE: "Naše současná obchodní trasa je pod námořní blokádou"
+ NAVAL_BLOCKADE_TRADE_ROUTE_INFO: "Naše obchodní trasa s $TARGET|Y$ blokuje $BLOCKER|Y$ v oblasti $REGION|Y$"
+ NAVAL_BLOCKADE_TRADE_ROUTE_REESTABLISHED_TITLE: "Naše obchodní trasa už není pod námořní blokádou"
+ NAVAL_BLOCKADE_TRADE_ROUTE_REESTABLISHED_INFO: "Naše obchodní trasa s $TARGET|Y$ byla obnovena"
+ DIPLOMACY_HEAD_OF_COUNTERINTEL_TITLE: "Převzít post vedoucího kontrašpionáže"
+ DIPLOMACY_HEAD_OF_COUNTERINTEL_ACTION_DESC: "Jsou současným §Hvedoucím kontrašpionáže§! naší frakce.\nPožádejte je, aby se stali novým §Hvedoucím kontrašpionáže§!."
+ DIPLOMACY_HEAD_OF_COUNTERINTEL_REQUEST_DESC: "$COUNTRY|UY$ se chce stát naším §Hvedoucím kontrašpionáže§!."
+ DIPLOMACY_MESSAGE_ACCEPTED_TITLE_DIPLOMACY_HEAD_OF_COUNTERINTEL: "Převzetí postu vedoucího kontrašpionáže přijato"
+ DIPLOMACY_MESSAGE_ACCEPTED_MESSAGE_DIPLOMACY_HEAD_OF_COUNTERINTEL: "Nyní jste vedoucím kontrašpionáže."
+ DIPLOMACY_MESSAGE_DECLINED_TITLE_DIPLOMACY_HEAD_OF_COUNTERINTEL: "Převzetí vedoucího kontrašpionáže odmítnuto"
+ DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_HEAD_OF_COUNTERINTEL: "$COUNTRY|UY$ §Rodmítl§! naši žádost stát se §Hvedoucím kontrašpionáže§!."
+ DIPLOMACY_HEAD_OF_CRYPTOLOGY_TITLE: "Převzít post vedoucího kryptologie"
+ DIPLOMACY_HEAD_OF_CRYPTOLOGY_ACTION_DESC: "Jsou současným §Hvedoucím kryptologie§! naší frakce.\nPožádejte je, aby se stali novým §Hvedoucím kryptologie§!."
+ DIPLOMACY_HEAD_OF_CRYPTOLOGY_REQUEST_DESC: "$COUNTRY|UY$ se chce stát naším §Hvedoucím kryptologie§!."
+ DIPLOMACY_MESSAGE_ACCEPTED_TITLE_DIPLOMACY_HEAD_OF_CRYPTOLOGY: "Převzetí vedoucího kryptologie přijato"
+ DIPLOMACY_MESSAGE_ACCEPTED_MESSAGE_DIPLOMACY_HEAD_OF_CRYPTOLOGY: "Nyní jste vedoucím kryptologie."
+ DIPLOMACY_MESSAGE_DECLINED_TITLE_DIPLOMACY_HEAD_OF_CRYPTOLOGY: "Převzetí vedoucího kryptologie odmítnuto"
+ DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_HEAD_OF_CRYPTOLOGY: "$COUNTRY|UY$ §Rodmítl§! naši žádost stát se §Hvedoucím kryptologie§!."
+ DIPLOMACY_HEAD_OF_OPERATIONS_TITLE: "Převzít post vedoucího operací"
+ DIPLOMACY_HEAD_OF_OPERATIONS_ACTION_DESC: "Jsou současným §Hvedoucím operací§! naší frakce.\nPožádejte je, aby se stali novým §Hvedoucím operací§!."
+ DIPLOMACY_HEAD_OF_OPERATIONS_REQUEST_DESC: "$COUNTRY|UY$ se chce stát naším §Hvedoucím operací§!."
+ DIPLOMACY_MESSAGE_ACCEPTED_TITLE_DIPLOMACY_HEAD_OF_OPERATIONS: "Převzetí vedoucího operací přijato"
+ DIPLOMACY_MESSAGE_ACCEPTED_MESSAGE_DIPLOMACY_HEAD_OF_OPERATIONS: "Nyní jste vedoucím operací."
+ DIPLOMACY_MESSAGE_DECLINED_TITLE_DIPLOMACY_HEAD_OF_OPERATIONS: "Převzetí vedoucího operací odmítnuto"
+ DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_HEAD_OF_OPERATIONS: "$COUNTRY|UY$ §Rodmítl§! naši žádost stát se §Hvedoucím operací§!."
+ DIPLOMACY_MESSAGE_DECLINED_MESSAGE_IN_THE_SAME_FACTION: "$COUNTRY|UY$ je členem naší frakce."
+ DIPLOMACY_MESSAGE_DECLINED_MESSAGE_IS_SUBJECT: "$COUNTRY|UY$ je naším subjektem."
+ DIPLOMACY_MESSAGE_DECLINED_MESSAGE_IS_SUBJECT_OF_FACTION_MEMBER: "$COUNTRY|UY$ je subjekt pro $OVERLOARD|UY$, což je jeden z členů naší frakce."
+ DIPLOMACY_MESSAGE_DECLINED_MESSAGE_AT_WAR_WITH: "Jsme ve válce s $COUNTRY|UY$."
+ DIPLOMACY_MESSAGE_DECLINED_MESSAGE_LANDLOCKED_COUNTRY: "$COUNTRY|UY$ je vnitrozemský stát."
+ DIPLOMACY_MESSAGE_DECLINED_MESSAGE_NO_ACCESS_TO_SEA: "Jsme vnitrozemský stát."
+ DIPLOMACY_MESSAGE_DECLINED_MESSAGE_NO_FLEET: "Nemáme námořnictvo."
+ DIPLOMACY_MESSAGE_DECLINED_MESSAGE_IS_OVERLORD: "$COUNTRY|UY$ je naším suzerénem."
+ DIPLO_FORBID_REVOKE_ACCESS: "Nastavit pravidlo: £GFX_trigger_no  Lze odvolat $TARGET$ $TYPE$."
+ PHI_dockworker_infiltration_mod: "Infiltrace přístavních dělníků"
+ PHI_decoupled_peso_from_dollar: "Odpojení pesa od dolaru"
+ PHI_seized_migrant_property: "Zabavení majetku migrantů"
+ PHI_welcomed_chinese_migrants: "Přivítání čínských migrantů"
+ PHI_legalized_communist_party: "Legalizace komunistické strany"

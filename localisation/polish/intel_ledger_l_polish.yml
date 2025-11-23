@@ -104,8 +104,8 @@
  INTEL_LEDGER_DAMAGED_MIL_FACTORY_RATIO_WITH_CAP: "Poměr poškozených vojenských továren: $VALUE|H$ (vyžaduje civilní zpravodajství: $MIN|H.0%$)"
  INTEL_LEDGER_DAMAGED_NAV_FACTORY_RATIO: "Poměr poškozených doků: $VALUE|H%.0$"
  INTEL_LEDGER_DAMAGED_NAV_FACTORY_RATIO_WITH_CAP: "Poměr poškozených doků: $VALUE|H$ (Vyžaduje civilní zpravodajství: $MIN|H.0%$)"
- INTEL_LEDGER_DEPLOYED_AIR_MANPOWER_COUNT: "Nasazený letecký personál: $AMOUNT|H$" # todo: CHANGED
- INTEL_LEDGER_DEPLOYED_AIR_MANPOWER_COUNT_WITH_CAP: "Nasazený letecký personál: $AMOUNT|H$ (Vyžaduje letecké zpravodajství: $MIN|H.0%$)" # todo: CHANGED
+ INTEL_LEDGER_DEPLOYED_AIR_MANPOWER_COUNT: "Nasazený letecký personál: $AMOUNT|H$"
+ INTEL_LEDGER_DEPLOYED_AIR_MANPOWER_COUNT_WITH_CAP: "Nasazený letecký personál: $AMOUNT|H$ (Vyžaduje letecké zpravodajství: $MIN|H.0%$)"
  INTEL_LEDGER_DEPLOYED_EQUIPMENT_RATIO_COUNT: "Nasazené armádní zásoby: $AMOUNT|H$"
  INTEL_LEDGER_DEPLOYED_EQUIPMENT_RATIO_COUNT_WITH_CAP: "Nasazené armádní zásoby: $AMOUNT|H$ (Vyžaduje armádní zpravodajství: $MIN|H.0%$)"
  INTEL_LEDGER_DEPLOYED_MANPOWER_COUNT: "Nasazené vojenské síly: $AMOUNT|H$"
@@ -255,7 +255,7 @@
  TOTAL_INTEL_ARMY: "§HCelkové informace o armádě:§! $AMOUNT|.1+%%$"
  TOTAL_INTEL_CIVILIAN: "§HCelkové informace o vládě:§! $AMOUNT|.1%%+$"
  TOTAL_INTEL_NAVY: "§HCelkové informace o námořnictvu:§! $AMOUNT|.1+%%$"
- MIN_INTEL_REQUIRED_FOR_GRAND_DOCTRINE: "Požadované zpravodajské informace ke zobrazení Velké doktríny: $MIN|H.0%$" # todo: NEW TRANSLATION
- MIN_INTEL_REQUIRED_FOR_SUBDOCTRINES: "Požadované zpravodajské informace ke zobrazení Poddoktrín: $MIN|H.0%$" # todo: NEW TRANSLATION
- MIN_INTEL_REQUIRED_FOR_MASTERY: "Požadované zpravodajské informace pro zobrazení £doctrine_mastery úrovní mistrovství: $MIN|H.0%$" # todo: NEW TRANSLATION
- NAVY_LEDGER_THRESHOLD_FULL_DOMINANCE: "Žádné postihy za námořní dominanci" # todo: NEW TRANSLATION
+ MIN_INTEL_REQUIRED_FOR_GRAND_DOCTRINE: "Požadované zpravodajské informace ke zobrazení Hlavní doktríny: $MIN|H.0%$"
+ MIN_INTEL_REQUIRED_FOR_SUBDOCTRINES: "Požadované zpravodajské informace ke zobrazení Dílčích doktrín: $MIN|H.0%$"
+ MIN_INTEL_REQUIRED_FOR_MASTERY: "Požadované zpravodajské informace pro zobrazení £doctrine_mastery Úrovní mistrovství: $MIN|H.0%$"
+ NAVY_LEDGER_THRESHOLD_FULL_DOMINANCE: "Žádné postihy za námořní převahu"

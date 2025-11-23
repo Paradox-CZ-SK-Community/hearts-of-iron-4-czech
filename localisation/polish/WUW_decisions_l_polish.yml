@@ -761,4 +761,4 @@
  sweden_hungary_required_states: "Kontroluje všechny startovní maďarské státy"
  unite_latin_africa: "Sjednotit Latinskou Afriku"
  unite_the_antilles: "Sjednotit Antily"
- GER_industrial_relocation_cat_desc: "Náš program přesunu průmyslu s [SOV.GetNameDef] může v krátkodobém horizontu snížit naši průmyslovou základnu, ale suroviny, které získáme, to více než vykompenzují a posílí naše výrobní linky." # todo: NEW TRANSLATION
+ GER_industrial_relocation_cat_desc: "Náš program přesunu průmyslu na [SOV.GetNameDef] může v krátkodobém horizontu snížit naši průmyslovou základnu, ale suroviny, které získáme, to více než vykompenzují a posílí naše výrobní linky."

@@ -1,7 +1,7 @@
 ﻿l_polish:
  CHI_vietnam_FRA: "francouzské úřady"
  CHI_vietnam_JAP: "japonská armáda"
- CHI_xian_warlords_upset: "To rozčílí válečné pány. Mohou se rozhodnout §Ropustit vaši frakci§!, odmítnout vaše pokusy je ovládat a budou si tuto urážku pamatovat do budoucna." # todo: CHANGED
+ CHI_xian_warlords_upset: "To rozčílí militaristy. Mohou se rozhodnout §Ropustit vaši frakci§!, odmítnout vaše pokusy je ovládat a budou si tuto urážku pamatovat do budoucna."
  GER_fascism_civil_war_tt: "Fašističtí stoupenci zahájili občanskou válku.\n"
  GER_soviet_military_exercises: "Vojenská cvičení"
  GER_soviet_reiterated_claims: "Zopakované nároky"
@@ -167,7 +167,7 @@
  wtt_china.10.a: "Nemáme na výběr."
  wtt_china.10.b: "Budeme bojovat!"
  wtt_china.10.desc: "[From.GetLeader] nám zaslala ostrou zprávu, v níž zmiňuje řadu kroků, které jsme v posledních měsících učinili a které podle nich odporují národním zájmům, jaké si představuje [From.GetNameDef]. Pokud více nesladíme své politiky s [From.GetAdjective] vládou, přijmou „opatření, která považují za nutná“."
- wtt_china.10.t: "[FROM.GetName] požaduje podrobení" # todo: CHANGED
+ wtt_china.10.t: "[FROM.GetName] požaduje podrobení"
  wtt_china.11.a: "Skvělé!"
  wtt_china.11.desc: "[From.GetNameDef] odpověděl na naši nótu a slíbila, že nás bude o všech dalších rozhodnutích konzultovat. Náš velvyslanec byl povýšen na zvláštního zástupce se zadáním dohlédnout, aby [From.GetAdjective] vláda příliš neodbočila od svého závazku."
  wtt_china.11.t: "[From.GetNameDefCap] se podřizuje"
@@ -577,7 +577,7 @@
  wtt_japan.21.desc: "[From.GetAdjective] představitelé se rozhodli stáhnout své levicově smýšlející úředníky a generály a místo nich nám poslali pravicově smýšlející generály a úředníky do neoficiálního exilu."
  wtt_japan.21.t: "Výměna [From.GetAdjective] generálů"
  wtt_japan.22.a: "[Root.GetNameDef] se ocitne pod naši silnější kontrolouo."
- wtt_japan.22.desc: "Proces výměny našich pravicově orientovaných generálů a státních úředníků za levicově orientované, které jsme dříve poslali do neoficiálního vyhnanství v [From.GetNameDef], byl nyní dokončen." # todo: CHANGED
+ wtt_japan.22.desc: "Proces výměny našich pravicově orientovaných generálů a státních úředníků za levicově orientované, které jsme dříve poslali do neoficiálního [From.GetAdjective] vyhnanství, byl nyní dokončen."
  wtt_japan.22.t: "Vyměněni [Root.GetAdjective] generálové"
  wtt_japan.3.a: "Uvidíme, jak se jim to vyplatí."
  wtt_japan.3.desc: "[From.GetAdjectiveCap] představitelé pečlivě zvážili naši nabídku „udržovat pořádek“ v jejich koloniích a rozhodli se ji odmítnout."
@@ -623,10 +623,10 @@
  wtt_manchukou.3.desc: "[From.GetLeader] odpověděl na naši štědrou nabídku proudem urážek a kleteb, přičemž pronesl výroky o původu a osobních kvalitách císaře [MAN.GetLeader], které jsou jak nepravdivé, tak krajně urážlivé."
  wtt_manchukou.3.t: "[From.GetLeader] odmítá"
  wtt_manchukou_bandit_sabotage.21.a: "Tyto teroristy je třeba vystopovat!"
- wtt_manchukou_bandit_sabotage.21.desc: "Došly zprávy z jednoho z našich závodů v [FROM.GetName], že se minulou noc rozhořel rozsáhlý požár. Místní hasiči sice stále hasí plameny, ale jsou přesvědčeni, že požár budou mít do konce dne pod kontrolou. Škoda na závodu se zdá být značná, protože požár zřejmě začal v skladovací části, kde byly uskladněny vysoce hořlavé chemikálie.\n\nVojenská rozvědka zahájila důkladné vyšetřování, aby zjistila, jak mohl požár propuknout navzdory nejpřísnějším bezpečnostním opatřením. První indicie nasvědčují úmyslnému zapálení jako pravděpodobné možnosti." # todo: CHANGED
+ wtt_manchukou_bandit_sabotage.21.desc: "Došly zprávy z jednoho z našich závodů v [FROM.GetName], že se minulou noc rozhořel rozsáhlý požár. Místní hasiči sice stále hasí plameny, ale jsou přesvědčeni, že požár budou mít do konce dne pod kontrolou. Škoda na závodu se zdá být značná, protože požár zřejmě začal v skladovací části, kde byly uskladněny vysoce hořlavé chemikálie.\n\nVojenská rozvědka zahájila důkladné vyšetřování, aby zjistila, jak mohl požár propuknout navzdory nejpřísnějším bezpečnostním opatřením. První indicie nasvědčují úmyslnému zapálení jako pravděpodobné možnosti."
  wtt_manchukou_bandit_sabotage.21.t: "Zbrojovka sabotována"
  wtt_manchukou_bandit_sabotage.22.t: "Civilní továrna sabotována"
- wtt_manchukou_bandit_sabotage.23.desc: "Během uplynulé noci se v [FROM.GetName] zřítil větší železniční most pod vahou projíždějícího vlaku s municí. Záchranné a vyprošťovací práce ztěžují sekundární výbuchy munice. Posádka vlaku je stále pohřešována, předpokládá se, že je mrtvá.\n\nVojenská rozvědka vyslala tým, aby místo prozkoumal, jakmile to bude bezpečné, a zjistil, jak mohl pevný most zkolabovat bez varovných příznaků.\n\nMístní svědci hlásí, že den před zřícením viděli v údolí pod mostem malou skupinu. Jejich současné místo pobytu není známo." # todo: CHANGED
+ wtt_manchukou_bandit_sabotage.23.desc: "Během uplynulé noci se v [FROM.GetName] zřítil větší železniční most pod vahou projíždějícího vlaku s municí. Záchranné a vyprošťovací práce ztěžují sekundární výbuchy munice. Posádka vlaku je stále pohřešována, předpokládá se, že je mrtvá.\n\nVojenská rozvědka vyslala tým, aby místo prozkoumal, jakmile to bude bezpečné, a zjistil, jak mohl pevný most zkolabovat bez varovných příznaků.\n\nMístní svědci hlásí, že den před zřícením viděli v údolí pod mostem malou skupinu. Jejich současné místo pobytu není známo."
  wtt_manchukou_bandit_sabotage.23.t: "Most vyhozen do vzduchu"
  wtt_news.1.a: "Teď už není cesty zpět."
  wtt_news.1.b: "Zradila je armáda! Nesmíme dopadnout stejně."
@@ -750,7 +750,7 @@
  wtt_news.32.e: "Tohle bychom mohli využít."
  wtt_news.32.t: "Čankajšek propuštěn z domácího vězení"
  wtt_news.33.b: "Proč jsme si kdy mysleli, že se změní?"
- wtt_news.33.desc: "\nPo schůzce mezi [CHI.GetLeader] a [PRC.GetLeader] posledně jmenovaný odsoudil to, co nazývá "zjevnou a průhlednou snahou podrobit Rudou armádu nacionalistickým a protirevolučním cílům." [CHI.GetLeader] odmítl k věci cokoli komentovat a pouze prohlásil, že nacionalistické armády jsou připraveny bránit Čínu před jakýmkoliv útočníkem. \n\nPodle zpráv oba vůdci diskutovali možnost vytvoření sjednoceného frontu proti Japonsku.\n\nZda tento rozkol povede k obnovení konfliktu mezi oběma stranami, ukáže čas." # todo: CHANGED
+ wtt_news.33.desc: "\nPo schůzce mezi [CHI.GetLeader] a [PRC.GetLeader] posledně jmenovaný odsoudil to, co nazývá „zjevnou a průhlednou snahou podrobit Rudou armádu nacionalistickým a protirevolučním cílům.“ [CHI.GetLeader] odmítl k věci cokoli komentovat a pouze prohlásil, že nacionalistické armády jsou připraveny bránit Čínu před jakýmkoliv útočníkem. \n\nPodle zpráv oba vůdci diskutovali možnost vytvoření sjednoceného frontu proti Japonsku.\n\nZda tento rozkol povede k obnovení konfliktu mezi oběma stranami, ukáže čas."
  wtt_news.33.t: "[PRC.GetLeader] odsuzuje nacionalistickou zradu"
  wtt_news.34.a: "Lovu zdar!"
  wtt_news.34.b: "Jsou více než vítáni."
@@ -1107,7 +1107,7 @@
  wtt_xian_incident.7.a: "Požádejte Sověty o souhlas."
  wtt_xian_incident.7.b: "Srazte mu hlavu!"
  wtt_xian_incident.7.c: "Měli bychom se s ním spojit proti Japoncům."
- wtt_xian_incident.7.d: "Odmítněte tyto představy o Druhé sjednocené frontě" # todo: CHANGED
+ wtt_xian_incident.7.d: "Odmítněte tyto představy o Druhé sjednocené frontě"
  wtt_xian_incident.7.desc_a: "[CHI_xian_instigator.GetLeader] zaslal vzkaz, že [CHI.GetLeader] je jeho vězněm a je ochoten nám ho předat.\n\nTo může být nejlepší příležitost, jakou kdy budeme mít, abychom tohoto nepřítele lidu popravili!"
  wtt_xian_incident.7.desc_b: "[From.GetLeader] odmítl náš návrh, aby byl [CHI.GetLeader] popraven. Místo toho se máme s nacionalisty spojit, jelikož prý ještě nejsme připraveni vést revoluci a zároveň se sami bránit Japoncům."
  wtt_xian_incident.7.t: "[CHI.GetLeader] zatčen v [CHI_xian_instigator.GetNameDef]!"
@@ -1119,5 +1119,5 @@
  wtt_xian_incident.9.b: "Je stále potřebný."
  wtt_xian_incident.9.desc: "[PRC.GetLeader] vzkázal, že komunisté mají jedinečnou příležitost, aby [CHI.GetLeader] stanul před soud za jeho zločiny proti lidu a revoluci. Jeho poprava by znamenala obrovské vítězství komunistické strany v boji o vůdčí roli v Číně.\n\nSoučasně by to však oslabilo nacionalisty v kritickém okamžiku a možná umožnilo Japoncům další postup v Číně."
  wtt_xian_incident.9.t: "[CHI.GetLeader] zatčen v [CHI_xian_instigator.GetNameDef]!"
- reject_second_united_front_tt: "§RVolbou této možnosti se Druhý sjednocený front nevytvoří§!" # todo: NEW TRANSLATION
- wtt_xian_incident.7.e: "$PRC_mao_zedong$ a $PRC_zhang_guotao$ se oba shodují, že [CHI.GetLeader] nelze věřit." # todo: NEW TRANSLATION
+ reject_second_united_front_tt: "§RVolbou této možnosti se Druhý sjednocený front nevytvoří§!"
+ wtt_xian_incident.7.e: "$PRC_mao_zedong$ a $PRC_zhang_guotao$ se oba shodují, že [CHI.GetLeader] je nedůvěryhodný."

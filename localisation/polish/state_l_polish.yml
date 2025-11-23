@@ -38,7 +38,7 @@
  STATE_OWNER_RESISTANCE_NON_CORE_INFO_WITH_MODIFIERS: "$COUNTRY|H$ získá jen $MANPOWER|-%.0$ branné síly z tohoto území a k tomu navíc se uplatní následující modifikátory kvůli okupaci."
  STATE_POPULATION: "§HZpůsobilá populace§!: $AVAIL|*Y$/$MAXAVAIL|*Y$\n§HCivilisté§!: $LOCKED|*Y$/$MAXLOCKED|*Y$\n"
  STATE_POPULATION_DESC: "Počet obyvatel žijících v tomto státě. Vaše branné zákony vám umožňují využít určité % jako personál pro vaše divize, lodě a letadla."
- STATE_POPULATION_GROWTH: "§HMěsíční růst§!: $VALUE|%2$ ($AVAIL|*+$ k náboru, $LOCKED|*+$ civilistů)" # todo: CHANGED
+ STATE_POPULATION_GROWTH: "§HMěsíční nárůst§!: $VALUE|%2$ ($AVAIL|*+$ k náboru, $LOCKED|*+$ civilistů)"
  STATE_POPULATION_VALUE: "$VAL|*H$"
  STATE_RESISTANCE_GUI: "$STRENGTH|%0-$ ($GROWTH|=%0-$)"
  STATE_SET_POLICY: "§GKlikněte pro správu okupační politiky $STATE|H$§!"
