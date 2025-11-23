@@ -1,5 +1,5 @@
 ﻿l_polish:
- CIVILIAN_FACTORIES_STATUS: "£civ_factory Civilní továrny v provozu: §Y$USED$§!/§Y$TOTAL$§!" # todo: CHANGED
+ CIVILIAN_FACTORIES_STATUS: "£civ_factory Civilní továrny v provozu: §Y$USED$§!/§Y$TOTAL$§!"
  COUNTRY_NUCLEAR_PRODUCTION_INFO: "Postavené jaderné reaktory: $NUM|Y$"
  DECISIONVIEW_AMOUNT_CAN_TAKE_ITEMS: "$AMOUNT$"
  DECISIONVIEW_AMOUNT_TIMEOUT_ITEMS: "$AMOUNT|R$"
@@ -79,6 +79,6 @@
  TOPBAR_TRADE_DESC: "Obchodujte se zdroji z celého světa."
  TOPBAR_ENERGY_DEMAND: "Poptávka po energii: $DEMAND_VAL|H1$ ($ENERGY_RATIO|H1%$)"
  TOPBAR_ENERGY_GENERATED: "Vyrobená energie: $ENERGY_GENERATED|H1$"
- TOPBAR_COAL_CURRENTLY_USED: "Z §Y$COUNT$§! £energy_consumption_texticon uhlí aktuálně spotřebované" # todo: NEW TRANSLATION
- TOPBAR_MAXIMUM_ENERGY_GENERATED: "Maximální vyrobená energie: $ENERGY_GENERATED|H1$" # todo: NEW TRANSLATION
- TOPBAR_TOTAL_COAL: "Z §Y$COUNT$§! £energy_consumption_texticon uhlí dostupné k použití" # todo: NEW TRANSLATION
+ TOPBAR_COAL_CURRENTLY_USED: "Z §Y$COUNT$§! £energy_consumption_texticon uhlí aktuálně spotřebované"
+ TOPBAR_MAXIMUM_ENERGY_GENERATED: "Maximální vyrobená energie: $ENERGY_GENERATED|H1$"
+ TOPBAR_TOTAL_COAL: "Z §Y$COUNT$§! £energy_consumption_texticon uhlí dostupné k použití"

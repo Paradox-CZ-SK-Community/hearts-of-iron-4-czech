@@ -18,7 +18,7 @@
  PLAYER_HAS_CUSTOM_DIFFICULTY_ON: "Hráč používá vlastní obtížnost: $DIFFICULTY$"
  POLITICAL_POWER_GROWTH: "Přírůstek politické síly za den"
  STABILITY_TRIGGER: "Stabilita"
- TARGET_TRIGGER_COUNT_PREFIX: "Alespoň $COUNT|H$ z " # todo: CHANGED
+ TARGET_TRIGGER_COUNT_PREFIX: "Alespoň $COUNT|H$ z "
  TRIGGER_AGENCY_UPGRADE_NUMBER: "Vylepšení zpravodajské agentury"
  TRIGGER_AI_WANTS_DIVISIONS_LESS_THAN: "Chce méně divizí než $AMOUNT|H.0$"
  TRIGGER_AI_WANTS_DIVISIONS_MORE_THAN: "Chce více divizí než $AMOUNT|H.0$"
@@ -44,7 +44,7 @@
  TRIGGER_ALL_OWNED_STATE_STARTS: "Všechny vlastněné státy"
  TRIGGER_ALL_PROVINCE: "Všechny provincie: "
  TRIGGER_ALL_STATE_STARTS: "Všechny státy"
- TRIGGER_ALL_SUBJECT_COUNTRIES_STARTS: "Všechny závislé země"
+ TRIGGER_ALL_SUBJECT_COUNTRIES_STARTS: "Všechny subjekty"
  TRIGGER_ALL_UNIT_LEADER_STARTS: "Všichni velitelé jednotek"
  TRIGGER_ALL_enemy_COUNTRY_STARTS: "Všechny nepřátelské země"
  TRIGGER_ALREADY_HIRED: "$NAME|Y$ je již někde najat"
@@ -75,14 +75,14 @@
  TRIGGER_ANY_STATE_ARMY_STARTS: "Jakákoli státní divize"
  TRIGGER_ANY_STATE_IN_STARTS: "Jakýkoliv stát v $NAME|H$"
  TRIGGER_ANY_STATE_STARTS: "Jakýkoliv stát"
- TRIGGER_ANY_SUBJECT_COUNTRY_STARTS: "Jakákoli závislá země"
+ TRIGGER_ANY_SUBJECT_COUNTRY_STARTS: "Jakýkoliv subjekt"
  TRIGGER_ANY_UNIT_LEADER_STARTS: "Jakýkoli velitel jednotky"
  TRIGGER_ANY_enemy_COUNTRY_STARTS: "Jakákoli nepřátelská země"
  TRIGGER_ARMY_MANPOWER_IN_STATE: "personál nasazen ve $STATE|H$."
  TRIGGER_ARMY_MANPOWER_IN_STATE_OF_TYPE: "personál nasazen ve $STATE|H$ z divizí typu $TYPE|H$."
  TRIGGER_ATTACK_LEVEL_LESS_THAN: "Úroveň útoku pod $VALUE|H$"
  TRIGGER_ATTACK_LEVEL_MORE_THAN: "Úroveň útoku nad $VALUE|H$"
- TRIGGER_AT_LEAST: "Alespoň" # todo: CHANGED
+ TRIGGER_AT_LEAST: "Alespoň"
  TRIGGER_AT_LEAST_DIVISIONS_IN_STATE: "Nejméně $AMOUNT|H$ divizí v $STATE|H$"
  TRIGGER_AT_LEAST_DIVISIONS_IN_STATE_AGAINST: "Nejméně $AMOUNT|H$ divizí v $STATE|H$ proti hranici $STATE_2|H$"
  TRIGGER_AT_LEAST_DIVISIONS_OF_TYPE_IN_STATE: "Nejméně $AMOUNT|H$ $TYPE|H$ divizí v $STATE|H$"
@@ -98,7 +98,7 @@
  TRIGGER_AT_LEAST_SHIPS_OF_TYPE_IN_STATE: "Nejméně $AMOUNT|H$ $TYPE|H$ lodí v $AREA|H$"
  TRIGGER_AT_LEAST_X_BUILDINGS: "Nejméně $AMOUNT|H$ $BUILDING|H$"
  TRIGGER_AT_LEAST_X_RESOURCES: "Nejméně $AMOUNT|H$ $RESOURCE|H$"
- TRIGGER_AT_MOST: "Ne více než" # todo: CHANGED
+ TRIGGER_AT_MOST: "Ne více než"
  TRIGGER_AT_MOST_DIVISIONS_IN_STATE: "Nejméně $AMOUNT|H$ divizí ve $STATE|H$"
  TRIGGER_AT_MOST_DIVISIONS_IN_STATE_AGAINST: "Nejméně $AMOUNT|H$ divizí ve $STATE|H$ proti hranici $STATE_2|H$"
  TRIGGER_AT_MOST_DIVISIONS_OF_TYPE_IN_STATE: "Nejméně $AMOUNT|H$ $TYPE|H$ divizí v $STATE|H$"
@@ -487,8 +487,8 @@
  TRIGGER_HAS_WAR: "Je ve válce"
  TRIGGER_HAS_WARGOAL_AGAINST: "Má válečný cíl proti @$TAG$$COUNTRY|H$"
  TRIGGER_HAS_WARGOAL_OF_TYPE_AGAINST: "Má $TYPE|H$ válečný cíl proti @$TAG$$COUNTRY|H$"
- TRIGGER_HAS_WAR_LENGTH_WITH_LESS_THAN: "Je ve válce s $COUNTRY2|H$ kratší dobu než $VALUE|H$ měsíců" # todo: CHANGED
- TRIGGER_HAS_WAR_LENGTH_WITH_MORE_THAN: "Je ve válce s $COUNTRY2|H$ déle než $VALUE|H$ měsíců" # todo: CHANGED
+ TRIGGER_HAS_WAR_LENGTH_WITH_LESS_THAN: "Je ve válce s $COUNTRY2|H$ kratší dobu než $VALUE|H$ měsíců"
+ TRIGGER_HAS_WAR_LENGTH_WITH_MORE_THAN: "Je ve válce s $COUNTRY2|H$ déle než $VALUE|H$ měsíců"
  TRIGGER_HAS_WAR_OCCUPIED_TAG_IS: "Obsazená země je @$TAG$$COUNTRY|H$"
  TRIGGER_HAS_WAR_TOGETHER_WITH: "Bojuje ve stejné válce po boku @$TAG$$COUNTRY|H$"
  TRIGGER_HAS_WAR_WITH: "Je ve válce s @$TAG$$COUNTRY|H$"
@@ -684,7 +684,7 @@
  TRIGGER_LEADER_OPERATION: "Je na operaci $OPERATION|H$"
  TRIGGER_LEADER_OPERATION_NOT: "Není na operaci $OPERATION|H$"
  TRIGGER_LEGITIMACY: "Legitimita"
- TRIGGER_LESS_THAN: "Méně než" # todo: CHANGED
+ TRIGGER_LESS_THAN: "Méně než"
  TRIGGER_LESS_THAN_ARTILLERY_RATIO: "Poměr dělostřelectva méně než $NUM|%H$"
  TRIGGER_LESS_THAN_CAVALRY_RATIO: "Poměr jízdy méně než $NUM|%H$"
  TRIGGER_LESS_THAN_NUM_BATTALIONS_IN_STATES: "Má méně než $NUM|Y$ praporů ve státech"
@@ -743,7 +743,7 @@
  TRIGGER_MIO_NOT_IS_TRAIT_AVAILABLE: "Vlastnost $TRAIT|H$ není dostupná"
  TRIGGER_MIO_NOT_IS_TRAIT_COMPLETED: "Vlastnost $TRAIT|H$ není dokončena"
  TRIGGER_MODIFIER_LIST_ENTRY: "$MODIFIER|H$"
- TRIGGER_MORE_THAN: "Více než" # todo: CHANGED
+ TRIGGER_MORE_THAN: "Více než"
  TRIGGER_MORE_THAN_ARTILLERY_RATIO: "Poměr dělostřelectva více než $NUM|%H$"
  TRIGGER_MORE_THAN_CAVALRY_RATIO: "Poměr jízdy více než $NUM|%H$"
  TRIGGER_MORE_THAN_NUM_BATTALIONS_IN_STATES: "Má více než $NUM|Y$ praporů ve státech"
@@ -966,43 +966,43 @@
  owns_or_subject_of_tt: "vlastní ho §Y[ROOT.GetFlag] [ROOT.GetNameDef]§! nebo jeho §Ysubjekty§!\n"
  owns_or_subject_of_tt_NOT: "§YNE§!vlastní ho §Y[ROOT.GetFlag] [ROOT.GetNameDef]§! nebo jeho §Ysubjekty§!\n"
  trade_partner_not_at_war_tt: "§Y[ROOT.GetNameWithFlag]§! nemůže nakupovat nebo prodávat zbraně zemím ve válce"
- TRIGGER_HAS_NOT_OFFENSIVE_WAR_WITHOUT_FRIEND: "Není v ofenzivní válce, kde by byl $COUNTRY|H$ spojencem" # todo: NEW TRANSLATION
- TRIGGER_HAS_OFFENSIVE_WAR_WITHOUT_FRIEND: "Je v ofenzivní válce bez $COUNTRY|H$ jako spojence" # todo: NEW TRANSLATION
- TRIGGER_ANY_COUNTRY_OF_STARTS: "Libovolný z ($COUNTRIES$)" # todo: NEW TRANSLATION
- TRIGGER_ALL_COUNTRY_OF_STARTS: "Všechny z ($COUNTRIES$)" # todo: NEW TRANSLATION
- TRIGGER_ANY_STATES_OF_STARTS: "Libovolný z ($STATES$)" # todo: NEW TRANSLATION
- TRIGGER_ALL_CLAIMANT_STARTS: "Všechny země s nárokem na $STATE$" # todo: NEW TRANSLATION
- TRIGGER_IN_TECHNOLOGY_SHARING_FACTION_NAME: "Frakční výzkumná skupina" # todo: NEW TRANSLATION
- TRIGGER_HAVE_RESOURCES_IN_COLLECTION: "$SIGN$ $AMOUNT|H$ $RESOURCE|H$ v $COLLECTION$" # todo: NEW TRANSLATION
- TRIGGER_COUNT_IN_COLLECTION: "$SIGN$ $SIZE|H*$ $TYPE|H$ v $COLLECTION$. Aktuálně: $CURRENT|H*$" # todo: NEW TRANSLATION
- TRIGGER_FIELDED_MANPOWER: "Nasazená lidská síla" # todo: NEW TRANSLATION
- TRIGGER_IS_LEADING_ARMY_IN_PROVINCE: "Je velitelem armády v $NAME|H$" # todo: NEW TRANSLATION
- TRIGGER_IS_NOT_LEADING_ARMY_IN_PROVINCE: "Není velitelem armády v $NAME|H$" # todo: NEW TRANSLATION
- TRIGGER_FACTION_SUPPORTIVE_SCIENTIST_SPOTS: "Má volná $TYPE$ podpůrná místa ve frakci $FACTIONNAME$, která může použít $COUNTRY|H$" # todo: NEW TRANSLATION
- TRIGGER_FACTION_SUPPORTIVE_SCIENTIST_SPOTS_NO: "Nemá žádná volná $TYPE$ podpůrná místa pro frakci $FACTIONNAME$, která by mohl využít $COUNTRY|H$" # todo: NEW TRANSLATION
- TRIGGER_IS_SAME_CONTINENT_AS: "$COUNTRY|H$ je na stejném kontinentu" # todo: NEW TRANSLATION
- TRIGGER_IS_NOT_SAME_CONTINENT_AS: "$COUNTRY|H$ není na stejném kontinentu" # todo: NEW TRANSLATION
- TRIGGER_VALUE_LESS_THAN: "menší než $VALUE|H$" # todo: NEW TRANSLATION
- TRIGGER_VALUE_LESS_THAN_OR_EQUAL: "menší nebo rovno $VALUE|H$" # todo: NEW TRANSLATION
- TRIGGER_VALUE_EQUAL: "rovno $VALUE|H$" # todo: NEW TRANSLATION
- TRIGGER_VALUE_GREATER_THAN: "větší než $VALUE|H$" # todo: NEW TRANSLATION
- TRIGGER_VALUE_GREATER_THAN_OR_EQUAL: "větší nebo rovno $VALUE|H$" # todo: NEW TRANSLATION
- TRIGGER_VALUE_NOT_EQUAL: "není rovno $VALUE|H$" # todo: NEW TRANSLATION
- TRIGGER_COLLECTION_SIZE_INLINE: "Počet $COLLECTION|H$ ($VALUE|H$) je $CONSTRAINT$" # todo: NEW TRANSLATION
- TRIGGER_COLLECTION_CONTAINS_MANY: "Kolekce $COLLECTION|H$ obsahuje všechny z následujících:$VALUES$" # todo: NEW TRANSLATION
- TRIGGER_COLLECTION_CONTAINS_MANY_VALUE: "$VALUE|H$" # todo: NEW TRANSLATION
- TRIGGER_COLLECTION_CONTAINS: "Kolekce $COLLECTION|H$ obsahuje $VALUE|H$" # todo: NEW TRANSLATION
- TRIGGER_COLLECTION_DO_NOT_CONTAIN_MANY: "Kolekce $COLLECTION|H$ neobsahuje všechny z následujících:$VALUES$" # todo: NEW TRANSLATION
- TRIGGER_COLLECTION_DO_NOT_CONTAIN: "Kolekce $COLLECTION|H$ neobsahuje $VALUE|H$" # todo: NEW TRANSLATION
- TRIGGER_COLLECTION_SIZE: "Počet $COLLECTION|H$ ($VALUE|H$) je:" # todo: NEW TRANSLATION
- TRIGGER_ALL_COLLECTION_ELEMENTS_STARTS: "Všechny $COLLECTION$" # todo: NEW TRANSLATION
- TRIGGER_ANY_COLLECTION_ELEMENT_STARTS: "Libovolný $COLLECTION$" # todo: NEW TRANSLATION
- TRIGGER_LESS_THAN_EQ_IDEOLOGY_SUPPORT: "Podpora ideologie vůdce frakce ($IDEOLOGY|H$) je menší nebo rovna $REQUIRED|H%0$ (aktuálně $CURRENT|H%0$)" # todo: NEW TRANSLATION
- TRIGGER_MORE_THAN_EQ_IDEOLOGY_SUPPORT: "Podpora ideologie vůdce frakce ($IDEOLOGY|H$) je větší nebo rovna $REQUIRED|H%0$ (aktuálně $CURRENT|H%0$)" # todo: NEW TRANSLATION
- TRIGGER_NOT_EQ_IDEOLOGY_SUPPORT: "Podpora ideologie vůdce frakce ($IDEOLOGY|H$) není rovna $REQUIRED|H%0$ (aktuálně $CURRENT|H%0$)" # todo: NEW TRANSLATION
- TRIGGER_MORE_THAN_IDEOLOGY_SUPPORT: "Podpora ideologie vůdce frakce ($IDEOLOGY|H$) je větší než $REQUIRED|H%0$ (aktuálně $CURRENT|H%0$)" # todo: NEW TRANSLATION
- TRIGGER_LESS_THAN_IDEOLOGY_SUPPORT: "Podpora ideologie vůdce frakce ($IDEOLOGY|H$) je menší než $REQUIRED|H%0$ (aktuálně $CURRENT|H%0$)" # todo: NEW TRANSLATION
- TRIGGER_HAS_EQ_IDEOLOGY_SUPPORT: "Podpora ideologie vůdce frakce ($IDEOLOGY|H$) je rovna $REQUIRED|H%0$ (aktuálně $CURRENT|H%0$)" # todo: NEW TRANSLATION
- GOAL_T_TRIGGER_A: "Počet známých technologií ve frakci ($LEFT|0H$) je větší než $RIGHT|0H$" # todo: NEW TRANSLATION
- GOAL_T_TRIGGER_B: "Počet divizí ve frakci ($LEFT|0H$) je větší než $RIGHT|0H$" # todo: NEW TRANSLATION
- TRIGGER_EQUIPMENT_CURRENT_VALUE: " (aktuální zásoby: $CURRENT|H$)" # todo: NEW TRANSLATION
+ TRIGGER_HAS_NOT_OFFENSIVE_WAR_WITHOUT_FRIEND: "Není v utočné válce, kde je $COUNTRY|H$ jeho spojencem"
+ TRIGGER_HAS_OFFENSIVE_WAR_WITHOUT_FRIEND: "Je v utočné válce, kde není $COUNTRY|H$ jeho spojencem"
+ TRIGGER_ANY_COUNTRY_OF_STARTS: "Libovolný z ($COUNTRIES$)"
+ TRIGGER_ALL_COUNTRY_OF_STARTS: "Všechny z ($COUNTRIES$)"
+ TRIGGER_ANY_STATES_OF_STARTS: "Libovolný z ($STATES$)"
+ TRIGGER_ALL_CLAIMANT_STARTS: "Všechny země s nárokem na $STATE$"
+ TRIGGER_IN_TECHNOLOGY_SHARING_FACTION_NAME: "Frakční výzkumná skupina"
+ TRIGGER_HAVE_RESOURCES_IN_COLLECTION: "$SIGN$ $AMOUNT|H$ $RESOURCE|H$ v $COLLECTION$"
+ TRIGGER_COUNT_IN_COLLECTION: "$SIGN$ $SIZE|H*$ $TYPE|H$ v $COLLECTION$. Aktuálně: $CURRENT|H*$"
+ TRIGGER_FIELDED_MANPOWER: "Nasazený personál"
+ TRIGGER_IS_LEADING_ARMY_IN_PROVINCE: "Je velitelem armády v $NAME|H$"
+ TRIGGER_IS_NOT_LEADING_ARMY_IN_PROVINCE: "Není velitelem armády v $NAME|H$"
+ TRIGGER_FACTION_SUPPORTIVE_SCIENTIST_SPOTS: "Má volná $TYPE$ podpůrná místa ve frakci $FACTIONNAME$, která může použít $COUNTRY|H$"
+ TRIGGER_FACTION_SUPPORTIVE_SCIENTIST_SPOTS_NO: "Nemá žádná volná $TYPE$ podpůrná místa pro frakci $FACTIONNAME$, která by mohl využít $COUNTRY|H$"
+ TRIGGER_IS_SAME_CONTINENT_AS: "$COUNTRY|H$ je na stejném kontinentu"
+ TRIGGER_IS_NOT_SAME_CONTINENT_AS: "$COUNTRY|H$ není na stejném kontinentu"
+ TRIGGER_VALUE_LESS_THAN: "menší než $VALUE|H$"
+ TRIGGER_VALUE_LESS_THAN_OR_EQUAL: "menší nebo rovno $VALUE|H$"
+ TRIGGER_VALUE_EQUAL: "rovno $VALUE|H$"
+ TRIGGER_VALUE_GREATER_THAN: "větší než $VALUE|H$"
+ TRIGGER_VALUE_GREATER_THAN_OR_EQUAL: "větší nebo rovno $VALUE|H$"
+ TRIGGER_VALUE_NOT_EQUAL: "není rovno $VALUE|H$"
+ TRIGGER_COLLECTION_SIZE_INLINE: "Počet $COLLECTION|H$ ($VALUE|H$) je $CONSTRAINT$"
+ TRIGGER_COLLECTION_CONTAINS_MANY: "Kolekce $COLLECTION|H$ obsahuje všechny z následujících:$VALUES$"
+ TRIGGER_COLLECTION_CONTAINS_MANY_VALUE: "$VALUE|H$"
+ TRIGGER_COLLECTION_CONTAINS: "Kolekce $COLLECTION|H$ obsahuje $VALUE|H$"
+ TRIGGER_COLLECTION_DO_NOT_CONTAIN_MANY: "Kolekce $COLLECTION|H$ neobsahuje všechny z následujících:$VALUES$"
+ TRIGGER_COLLECTION_DO_NOT_CONTAIN: "Kolekce $COLLECTION|H$ neobsahuje $VALUE|H$"
+ TRIGGER_COLLECTION_SIZE: "Počet $COLLECTION|H$ ($VALUE|H$) je:"
+ TRIGGER_ALL_COLLECTION_ELEMENTS_STARTS: "Všechny $COLLECTION$"
+ TRIGGER_ANY_COLLECTION_ELEMENT_STARTS: "Libovolný $COLLECTION$"
+ TRIGGER_LESS_THAN_EQ_IDEOLOGY_SUPPORT: "Podpora ($IDEOLOGY|H$) ideologie vůdce frakce je menší nebo rovna $REQUIRED|H%0$ (aktuálně $CURRENT|H%0$)"
+ TRIGGER_MORE_THAN_EQ_IDEOLOGY_SUPPORT: "Podpora ($IDEOLOGY|H$) ideologie vůdce frakce je větší nebo rovna $REQUIRED|H%0$ (aktuálně $CURRENT|H%0$)"
+ TRIGGER_NOT_EQ_IDEOLOGY_SUPPORT: "Podpora ($IDEOLOGY|H$) ideologie vůdce frakce není rovna $REQUIRED|H%0$ (aktuálně $CURRENT|H%0$)"
+ TRIGGER_MORE_THAN_IDEOLOGY_SUPPORT: "Podpora ($IDEOLOGY|H$) ideologie vůdce frakce je větší než $REQUIRED|H%0$ (aktuálně $CURRENT|H%0$)"
+ TRIGGER_LESS_THAN_IDEOLOGY_SUPPORT: "Podpora ($IDEOLOGY|H$) ideologie vůdce frakce je menší než $REQUIRED|H%0$ (aktuálně $CURRENT|H%0$)"
+ TRIGGER_HAS_EQ_IDEOLOGY_SUPPORT: "Podpora ($IDEOLOGY|H$) ideologie vůdce frakce je rovna $REQUIRED|H%0$ (aktuálně $CURRENT|H%0$)"
+ GOAL_T_TRIGGER_A: "Počet známých technologií ve frakci ($LEFT|0H$) je větší než $RIGHT|0H$"
+ GOAL_T_TRIGGER_B: "Počet divizí ve frakci ($LEFT|0H$) je větší než $RIGHT|0H$"
+ TRIGGER_EQUIPMENT_CURRENT_VALUE: " (aktuální zásoby: $CURRENT|H$)"

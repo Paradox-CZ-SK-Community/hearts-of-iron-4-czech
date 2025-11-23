@@ -15,7 +15,7 @@
  CHI_army_reform: "Reforma armády"
  CHI_army_reform_desc: "Korupce, nekompetentnost a zbabělost jsou v naší armádě rozšířené na všech úrovních velení. Řešení tohoto problému bude během na dlouhou trať."
  CHI_british_cooperation: "Spolupráce s Brity"
- CHI_british_cooperation_desc: "I když mohou být hlavními imperialisty, spolupráce s Brity nabízí nejlepší šanci modernizovat naše letectvo a zajistit stabilní tok zásob." # todo: CHANGED
+ CHI_british_cooperation_desc: "I když mohou být hlavními imperialisty, spolupráce s Brity nabízí nejlepší šanci modernizovat naše letectvo a zajistit stabilní tok zásob."
  CHI_bureau_of_investigation_and_statistics: "Úřad pro vyšetřování a statistiku"
  CHI_bureau_of_investigation_and_statistics_desc: "Nemůžeme dovolit, aby po naší zemi pobíhali zrádci a špioni, zatímco vedeme válku o budoucnost našeho národa. Metody používané touto novou agenturou se mohou zdát nepřijatelné, ale práci je přesto třeba vykonat."
  CHI_burma_road: "Barmská cesta"
@@ -68,8 +68,8 @@
  CHI_demand_mongolia_desc: "Mongolsko, které je uvězněno mezi námi a Ruskem, jim může kdykoli připadnout. Musíme udeřit první."
  CHI_democracy: "Demokracie"
  CHI_democracy_desc: "Cesta, kterou započal doktor Sunjatsen, musí jednou vést k republice. Bude to bezpochyby dlouhá cesta, ale my ji podnikáme krok za krokem."
- CHI_develop_the_hanyan_arsenal: "Rozvíjet Hanyangův arzenál" # todo: CHANGED
- CHI_develop_the_hanyan_arsenal_desc: "Hanyangský arzenál dlouho zásoboval čínské armády zbraněmi. Jeho rozšíření zajistí, že tomu tak bude i v budoucnu." # todo: CHANGED
+ CHI_develop_the_hanyan_arsenal: "Rozšířit Chan-jangský arzenál"
+ CHI_develop_the_hanyan_arsenal_desc: "Chan-jangský arzenál dlouhodobě zásobuje čínské armády zbraněmi. Jeho rozšíření zajistí, že tomu tak bude i nadále."
  CHI_dominate_japan: "Zlomit moc Japonska"
  CHI_dominate_japan_desc: "Po desetiletí představovalo Japonsko největší hrozbu pro naši nezávislost. Již dříve se spojilo se západními mocnostmi, aby si nás podrobilo. Nemůžeme jim dovolit, aby se o to pokusili znovu. Musíme udeřit jako první."
  CHI_elite_mountaineers: "Elitní horská pěchota"
@@ -119,7 +119,7 @@
  CHI_heavy_weapons_development: "Vývoj těžkých zbraní"
  CHI_heavy_weapons_development_desc: "Vzhledem k nedostatku zdrojů musíme maximálně využít i to málo těžké palebné síly, kterou máme. Měli bychom objednat vývoj nových dělostřeleckých zbraní."
  CHI_hire_chennault: "Najmout Chennaulta"
- CHI_hire_chennault_desc: "Claire Chennault je americký teoretik leteckého boje, který projevil zájem pracovat pro nás. Měli bychom ho najmout, aby obnovil naše letectvo." # todo: CHANGED
+ CHI_hire_chennault_desc: "Claire Chennault je americký teoretik leteckého boje, který projevil zájem pracovat pro nás. Měli bychom ho najmout, aby obnovil naše letectvo."
  CHI_hire_soviet_designer: "Najmout sovětského konstruktéra"
  CHI_hire_soviet_designer_desc: "Sověti dlouho experimentovali s tanky a mají jedny z nejlepších tankových konstruktérů na světě. Mohli bychom si některého z nich najmout, aby pro nás navrhl obrněná bojová vozidla."
  CHI_ideological_education: "Ideologické vzdělávání"
@@ -342,7 +342,7 @@
  JAP_anti_communist_volunteers_desc: "Musíme bojovat proti komunismu všude, kde se vyskytuje, i když nejsme sami oficiálně zapojeni do konfliktu. Místo toho vyšleme dobrovolníky, aby se v těchto případech zasadili o naši věc."
  JAP_approach_the_young_officers: "Oslovit mladé důstojníky"
  JAP_approach_the_young_officers_desc: "Starší generace jsou příliš zaběhnuté, než aby se daly snadno přesvědčit o novém způsobu myšlení. Začneme tedy s mladšími generacemi."
- JAP_approach_the_young_officers_tt: "Získá §G3§! komunistické generály.\n" # todo: CHANGED
+ JAP_approach_the_young_officers_tt: "Získá §G3§! komunistické generály.\n"
  JAP_armored_divisions: "Obrněné divize"
  JAP_armored_divisions_desc: "Ostatní národy již poznaly sílu obrněné divize. Nesmíme zůstat pozadu a musíme vyvinout pokročilejší a výkonnější modely obrněných vozidel, které nám umožní udeřit na nepřítele jak razantně, tak rychle."
  JAP_army_expansion: "Rozšířit armádu"
@@ -614,7 +614,7 @@
  MAN_obedience: "Poslušnost"
  MAN_obedience_desc: "Někteří nás označují za pouhou loutku Japonců, ale zásadně nechápou náš blízký a rovnocenný vztah. Jít proti našim chlebodárcům by bylo stejné, jako kdyby dítě šlo proti svým rodičům."
  MAN_offer_vassalization: "Nabídnout vazalství"
- MAN_offer_vassalization_desc: "Válka zemi roztrhala. Můžeme ji ukončit, pokud nabídneme těm, kteří se doposud odmítali přidat na stranu, místo na našem dvoře."" # todo: CHANGED
+ MAN_offer_vassalization_desc: "Válka zemi roztrhala. Můžeme ji ukončit, pokud nabídneme těm, kteří se doposud odmítali přidat na stranu, místo na našem dvoře."
  MAN_pacify_the_countryside: "Uklidnit venkov"
  MAN_pacify_the_countryside_desc: "Od chvíle, kdy jsme se dostali k moci, se v odlehlých oblastech země pokoušeli naši vládu zpochybnit psanci a rebelové. Pokud chceme, aby nás jako vládu brali vážně, musíme tyto teroristy vymýtit a ukázat obyvatelstvu, že dokážeme prosadit svou moc."
  MAN_pacify_the_countryside_effect_tooltip: "Udržujte vojáky v určitých státech, aby neutralizovali bandity na venkově.\n"
@@ -669,7 +669,7 @@
  PRC_focus_on_china: "Zaměřit se na Čínu"
  PRC_focus_on_china_desc: "Nemůžeme doufat, že se postavíme Japoncům, když stále bojujeme proti nacionalistům a militaristům. Nejdříve je musíme porazit, než se můžeme postavit Japoncům."
  PRC_form_the_academy_of_sciences: "Založit Akademii věd"
- PRC_form_the_academy_of_sciences_desc: "Spojíme všechna naše různá výzkumná zařízení a univerzity a vytvoříme novou organizaci, která je bude spravovat efektivněji." # todo: CHANGED
+ PRC_form_the_academy_of_sciences_desc: "Spojíme všechna naše různá výzkumná zařízení a univerzity a vytvoříme novou organizaci, která je bude spravovat efektivněji."
  PRC_government_of_national_defense: "Vláda národní obrany"
  PRC_government_of_national_defense_desc: "Rozdělená země je předurčena k porážce. Musíme spojit síly s nacionalisty a koordinovat naši obranu."
  PRC_infiltration: "Infiltrace"
@@ -739,9 +739,9 @@
  cost_reduced_last_stand: "Umožňuje použití schopnosti §YPoslední obrana§! za výrazně sníženou cenu.\n"
  falkenhausen_tt: "Jakákoli jiná země již nabídla občanství von Falkenhausena."
  soviet_advisers_tt: "Sověti již poslali vojenskou misi jiné frakci v Číně"
- CHI_personal_leadership_tt: "§YChen Jitang§! je nyní dostupný jako polní maršál úrovně §Y3§!" # todo: NEW TRANSLATION
- CHI_the_soviet_volunteer_group_focus: "Sovětská dobrovolnická skupina" # todo: NEW TRANSLATION
- CHI_the_soviet_volunteer_group_focus_desc: "Naše letectvo je ve srovnání s ostatními mocnostmi v regionu žalostně slabé. Sověti se zdají být otevření možnosti poslat dobrovolnickou skupinu." # todo: NEW TRANSLATION
- PRC_social_democracy_focus: "Sociální demokracie" # todo: NEW TRANSLATION
- PRC_social_democracy_focus_desc: "Radikální politika strany situaci zhoršila, ne zlepšila. Nacionalisté, přes své nedostatky, jsou našimi spojenci v boji za lepší budoucnost. Musíme se k nim přiblížit v politické oblasti." # todo: NEW TRANSLATION
- JAP_cleaning_up_our_own_mess: "Dokončit to, co jsme začali" # todo: NEW TRANSLATION
+ CHI_personal_leadership_tt: "§YČchen Ťi-tchang§! se stane dostupným jako polní maršál úrovně §Y3§!"
+ CHI_the_soviet_volunteer_group_focus: "Sovětská dobrovolnická skupina"
+ CHI_the_soviet_volunteer_group_focus_desc: "Naše letectvo je ve srovnání s ostatními mocnostmi v regionu žalostně slabé. Sověti se zdají být otevření možnosti poslat dobrovolnickou skupinu."
+ PRC_social_democracy_focus: "Sociální demokracie"
+ PRC_social_democracy_focus_desc: "Radikální politika strany situaci zhoršila, ne zlepšila. Nacionalisté, přes své nedostatky, jsou našimi spojenci v boji za lepší budoucnost. Musíme se k nim přiblížit v politické oblasti."
+ JAP_cleaning_up_our_own_mess: "Dokončit to, co jsme začali"
