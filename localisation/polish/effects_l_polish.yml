@@ -145,8 +145,8 @@
  EFFECT_CREATE_IMPORT_HAS_DATA: "Vytvořit import $RESOURCE|H$ pro $IMPORTER|H$ od $EXPORTER|H$ od $DATE|H$."
  EFFECT_CREATE_INTELLIGENCE_AGENCY: "Vytvořit zpravodajskou agenturu."
  EFFECT_CREATE_LICENSE_PRODUCTION: "Vytvořit licencovanou výrobu $NAME|H$ pro $TARGET|H$"
- EFFECT_CREATE_NAVY_LEADER: "$NAME|H$ se stává admirálem.\n" # todo: CHANGED
- EFFECT_CREATE_OPERATIVE_LEADER: "$NAME|H$ se stává operativcem.\n" # todo: CHANGED
+ EFFECT_CREATE_NAVY_LEADER: "$NAME|H$ se stává admirálem.\n"
+ EFFECT_CREATE_OPERATIVE_LEADER: "$NAME|H$ se stává operativcem.\n"
  EFFECT_CREATE_RAILWAY_GUN: "Vytvořit $OWNER|H$ železniční dělo"
  EFFECT_CREATE_RAILWAY_GUN_LOCATION: "Vytvořit $OWNER|H$ železniční dělo v $STATE|H$\n"
  EFFECT_CREATE_SHIP: "Vytvořit $VARIANT|H$ loď z $COUNTRY|H$"
@@ -194,7 +194,7 @@
  EFFECT_EVERY_OWNED_STATE_STARTS: "Každý vlastněný stát"
  EFFECT_EVERY_STATE_ARMY_STARTS: "Každá divize státu"
  EFFECT_EVERY_STATE_STARTS: "Každý stát"
- EFFECT_EVERY_SUBJECT_COUNTRY_STARTS: "Každá závislá země"
+ EFFECT_EVERY_SUBJECT_COUNTRY_STARTS: "Každý subjekt"
  EFFECT_EVERY_UNIT_LEADER_STARTS: "Každý velitel jednotky"
  EFFECT_EVERY_UNIT_STARTS: "Každá divize"
  EFFECT_FINALIZE_BORDER_WAR: "$STATE1|H$ vyhrál pohraniční válku proti $STATE2|H$."
@@ -463,21 +463,21 @@
  if_they_refuse_tt: "\n§YEfekty pokud odmítnou:§!"
  if_we_accept_newline_tt: "\n§YEfekty pokud přijmeme:§!\n"
  they_will_gain_tt: "§YOni získají§!:"
- unlock_general_tt: "Stává se dostupným jako generál" # todo: CHANGED
+ unlock_general_tt: "Stává se dostupným jako generál"
  we_will_gain_tt: "§YZískáme§!:"
- EFFECT_ADD_STATE_RESISTANCE_MODIFIER: "$STATE|H$ získá $MODIFIERNAME|H$, který při $THRESHOLD|.0H$ úrovni odporu poskytne:\n$MODIFIERDESC$." # todo: NEW TRANSLATION
- EFFECT_REMOVE_STATE_RESISTANCE_MODIFIER: "$STATE|H$ bude mít odstraněn $MODIFIERNAME|H$, který při $THRESHOLD|.0H$ úrovni odporu poskytoval:\n$MODIFIERDESC$." # todo: NEW TRANSLATION
- EFFECT_ADD_STATE_COMPLIANCE_MODIFIER: "$STATE|H$ získá $MODIFIERNAME|H$, který při $THRESHOLD|.0H$ úrovni loajality poskytne:\n$MODIFIERDESC$." # todo: NEW TRANSLATION
- EFFECT_REMOVE_STATE_COMPLIANCE_MODIFIER: "$STATE|H$ bude mít odstraněn $MODIFIERNAME|H$, který při $THRESHOLD|.0H$ úrovni loajality poskytoval:\n$MODIFIERDESC$." # todo: NEW TRANSLATION
- generic_less_threatening_to_accept_tt: "\n§YČím méně hrozivě působíme, tím větší je pravděpodobnost, že tuto nabídku přijmou§!\n" # todo: NEW TRANSLATION
- possible_actions_FROM_can_take_tt: "§YMožné akce§! [FROM.GetNameWithFlag] §Ymůže podniknout§!:" # todo: NEW TRANSLATION
- possible_outcomes_tt: "§YMožné výsledky§!:" # todo: NEW TRANSLATION
- REDUCE_FOCUS_DAYS_EFFECT: "Zkrátí dobu potřebnou pro fokus $FOCUS|Y$ o $DAYS|0Y$ dní" # todo: NEW TRANSLATION
- REDUCE_FOCUS_DAYS_MULTIPLE_HEADER: "Zkraťte dobu o $DAYS|0Y$ dní pro:" # todo: NEW TRANSLATION
- REDUCE_FOCUS_DAYS_MULTIPLE_FOCUS: "  $FOCUS|Y$" # todo: NEW TRANSLATION
- EFFECT_SET_UNIT_ORGANIZATION: "Nastaví organizaci jednotky na $VAL|H%$" # todo: NEW TRANSLATION
- STRATEGIC_LOCATION_BUILDING_HEADER: "$LOCATION|Y$" # todo: NEW TRANSLATION
- is_literally_china_tt: "Původní země je §YČína§!" # todo: NEW TRANSLATION
- is_literally_china_tt_NOT: "NENÍ: $is_literally_china_tt$" # todo: NEW TRANSLATION
- is_chinese_warlord_tt: "Původní země je §Yčínský válečný pán§!" # todo: NEW TRANSLATION
- is_chinese_warlord_tt_NOT: "NENÍ: $is_chinese_warlord_tt$" # todo: NEW TRANSLATION
+ EFFECT_ADD_STATE_RESISTANCE_MODIFIER: "$STATE|H$ získá $MODIFIERNAME|H$, který při $THRESHOLD|.0H$ úrovni odboje poskytne:\n$MODIFIERDESC$."
+ EFFECT_REMOVE_STATE_RESISTANCE_MODIFIER: "$STATE|H$ bude mít odstraněn $MODIFIERNAME|H$, který při $THRESHOLD|.0H$ úrovni odboje poskytoval:\n$MODIFIERDESC$."
+ EFFECT_ADD_STATE_COMPLIANCE_MODIFIER: "$STATE|H$ získá $MODIFIERNAME|H$, který při $THRESHOLD|.0H$ úrovni poslušnosti poskytne:\n$MODIFIERDESC$."
+ EFFECT_REMOVE_STATE_COMPLIANCE_MODIFIER: "$STATE|H$ bude mít odstraněn $MODIFIERNAME|H$, který při $THRESHOLD|.0H$ úrovni poslušnosti poskytoval:\n$MODIFIERDESC$."
+ generic_less_threatening_to_accept_tt: "\n§YČím méně působíme jako hrozba, tím větší je pravděpodobnost, že tuto nabídku přijmou§!\n"
+ possible_actions_FROM_can_take_tt: "§YMožné akce§!, které [FROM.GetNameWithFlag] §Ymůže podniknout§!:"
+ possible_outcomes_tt: "§YMožné výsledky§!:"
+ REDUCE_FOCUS_DAYS_EFFECT: "Zkrátí dobu potřebnou pro zaměření $FOCUS|Y$ o $DAYS|0Y$ dní"
+ REDUCE_FOCUS_DAYS_MULTIPLE_HEADER: "Zkraťte dobu o $DAYS|0Y$ dní pro:"
+ REDUCE_FOCUS_DAYS_MULTIPLE_FOCUS: "  $FOCUS|Y$"
+ EFFECT_SET_UNIT_ORGANIZATION: "Nastaví organizaci jednotky na $VAL|H%$"
+ STRATEGIC_LOCATION_BUILDING_HEADER: "$LOCATION|Y$"
+ is_literally_china_tt: "Původní země je §YČína§!"
+ is_literally_china_tt_NOT: "NENÍ: $is_literally_china_tt$"
+ is_chinese_warlord_tt: "Původní země je §Yčínský militarista§!"
+ is_chinese_warlord_tt_NOT: "NENÍ: $is_chinese_warlord_tt$"

@@ -6,7 +6,7 @@
  AAT_germany.1.b: "Nikdo nic neztratí!"
  AAT_germany.1.desc: "[FROM.GetNameDefCap] nás oslovilo s dohodou, která bude podle nich k užitku pro obě ekonomiky. Potřebují naše přírodní zdroje pro své průmysly a my potřebujeme jejich investice k rozšíření těch našich. Výhodná nabídka, ale není to smlouva s ďáblem?"
  AAT_germany.1.t: "[FROM.GetNameDefCap] žádá práva na zdroje"
- AAT_germany.10.desc: "Po nedávné okupaci [144.GetName] ze strany [FROM.GetNameDef] a jeho poskoků zvýšil [GER.GetLeader] na nás tlak, abychom s nimi více obchodovali a dodávali suroviny pro jejich válečné stroje. Nabízená dohoda není zcela jednostranná a její odmítnutí by nás mohlo zatáhnout do války..." # todo: CHANGED
+ AAT_germany.10.desc: "Po nedávné [FROM.GetAdjective] okupaci [144.GetName] a začal na nás [GER.GetLeader] tlačit, abychom s nimi více obchodovali a dodávali suroviny pro jejich válečné stroje. Nabízená dohoda není zcela jednostranná a její odmítnutí by nás mohlo zatáhnout do války..."
  AAT_germany.2.a: "Škoda"
  AAT_germany.2.desc: "[FROM.GetName] odmítá naši nabídku a uvedl, že to momentálně není v jejich nejlepším zájmu.\nZdůrazňují, že proti nám nepřechovávájí žádné nepřátelství, ale nyní mají jiné priority."
  AAT_germany.2.t: "[FROM.GetName] odmítá naši dohodu"
@@ -579,7 +579,7 @@
  generic.5.d.c: "Naši ideologičtí spojenci v [alliance_inviter.GetNameDef] si povšimli našich cenných příspěvků k dělnické věci a dnes ráno jsme obdrželi pozvání vstoupit do frakce [alliance_inviter.GetFactionName]. Spolu s ostatními socialistickými republikami bychom mohli šířit revoluci s novou silou."
  generic.5.d.e: "Zdá se, že [alliance_inviter.GetAdjective] politici nás považují za strategicky významných a že je pro ně výhodnější, abychom spolupracovali, než abychom se nechali rozdělit ideologickými rozdíly. Dnes ráno nám [alliance_inviter.GetAdjective] velvyslanec doručil pozvání stát se členským státem frakce [alliance_inviter.GetFactionName]."
  generic.5.e: "Je to výhodná volba."
- generic.5.t: "[From.GetNameDefCap] zve [Root.GetNameDef] do [From.GetFactionName]" # todo: CHANGED
+ generic.5.t: "[From.GetNameDefCap] zve [Root.GetNameDef] do frakce [From.GetFactionName]"
  generic.6.d: "[alliance_applicant.GetNameDefCap] přijímá naši nabídku na vstup do frakce [alliance_inviter.GetFactionName]. Od této chvíle budeme stát či padat společně."
  generic.6.t: "[alliance_applicant.GetNameDefCap] přijímá pozvání do frakce [alliance_inviter.GetFactionName]"
  generic.7.a: "Naši pomoc nechtějí."
@@ -712,7 +712,7 @@
  germany.119.d: "Jak válka proti [GER.GetNameDef] kráčí ke svému nevyhnutelnému závěru, [yalta_origin.GetNameDef] nás oslovili s konferencí o budoucnosti Evropy.\n\nNavrhují, aby bylo [GER.GetNameDef] rozděleno na východ a západ. To by umožnilo, aby se naše sféra vlivu rozšířila hluboko do Evropy, což by vyvážilo část ztrát, které jsme v tomto krutém boji utrpěli."
  germany.119.t: "Konference na Jaltě"
  germany.1190.desc: "Jak válka proti [GER.GetNameDef] směřuje ke svému nevyhnutelnému konci, [yalta_origin.GetNameDef] nás oslovili s konferencí o budoucnosti Evropy.\n\nNavrhují, aby bylo [GER.GetNameDef] rozděleno na tři části, v němž získáme omezený vliv nad východní oblastí. Hlavní průmyslová oblast by připadla spojencům a ti by zároveň měli omezenou kontrolu nad jižní oblastí. Snížilo by to sílu Německa, avšak náš vliv ve střední Evropě by zůstal nejistý."
- germany.1190.t: "Torontská konference" # todo: CHANGED
+ germany.1190.t: "Torontská konference"
  germany.12.a: "Výtečně."
  germany.12.d: "[SOV.GetNameDefCap] moudře souhlasil s podpisem našeho paktu o neútočení. To znamená, že můžeme jednat bez rizika sovětské intervence.\n\nBohužel někteří naši přátelé nyní zpochybňují německé odhodlání k definitivnímu zničení komunismu. Až budou vyřešeny záležitosti s Polskem a Francií, možná se k této smlouvě budeme muset vrátit, ale to je debata na jindy..."
  germany.12.t: "Moskva podepisuje pakt"
@@ -2332,7 +2332,7 @@
  news.330.desc: "Jelikož nesouhlasí se zásadními aspekty sovětského komunismu, zvolili Jugoslávci vlastní pojetí ideologie. Místo členství v Kominterně oznámila jugoslávská vláda, že chce vést jižní Slovany v boji za práva dělníků. Je pravděpodobné, že se brzy pokusí přivést sousedy do svého tábora, což by mohlo vážně narušit rovnováhu sil v regionu."
  news.330.e: "Možná to přinese stabilitu?"
  news.330.t: "Panslavský dělnický kongres"
- news.334.a: "Nemá [JAP.GetNonIdeologyName] žádná omezení?" # todo: CHANGED
+ news.334.a: "Má [JAP.GetNonIdeologyName] vůbec nějaké nepřekročitelné hranice?"
  news.334.b: "To by mohlo vše zkomplikovat."
  news.334.c: "[JAP.GetAdjectiveCap] hrozba roste."
  news.334.d: "[USA.GetAdjectiveCap] a [ENG.GetAdjective] dělové čluny byly dnes v samostatných incidentech napadeny [JAP.GetAdjective] letouny při evakuaci západních civilistů z válečné oblasti, když se do sebe pustili [JAP.GetName] a [CHI.GetName]. Přestože byla jasně označena jako [USA.GetAdjective] plavidlo, USS Panay zasáhly dvě bomby a loď se potopila; zahynuli tři Američané a jeden italský občan a další byli zraněni. Při separátnem útoku na HMS Ladybird byl zabit jeden [ENG.GetAdjective] námořník.\n\nVlády [USA.GetName] i [ENG.GetNameDef] podaly ostré protesty. Incident podtrhuje rostoucí napětí mezi třemi předními námořními mocnostmi."
@@ -3404,7 +3404,7 @@
  yugoslavia.9.a: "Musíme vydržet"
  yugoslavia.9.b: "Ušetří to tolik životů"
  yugoslavia.9.d: "[From.GetNameDefCap] požaduje, abychom postoupili území nově vytvořené chorvatské vládě, řízené [From.GetNameDef]. Požadují také zásadní vládní reformy, které nám umožní dál spravovat občany Jugoslávie, avšak s výrazným [From.GetAdjective] vlivem na naši politiku. Můžeme se zde postavit na odpor a doufat v pomoc, ale tohle může být jediný způsob, jak zabránit jatkám jugoslávského lidu."
- war_justification.7.d: "'Soudruzi, ačkoli byli největší revolucionáři kdysi nazýváni zrádci, stalo se zřejmým, že sama revoluce byla zrazena. Jak jinak byste vysvětlili vládu [From.GetRulingParty] v [From.GetName], kteří odhodili každý náznak marxistických myšlenek, aby vybudovali degenerovaný dělnický stát, kde mohou panovat na falešných předpokladech? Posilováním své vlastní moci za cenu mezinárodní revoluce ukázali, že jim na ideálech, které tvrdí, že vyznávají, málo záleží. Musíme jim přinést pravou revoluci.'\n\nAčkoli byl [ROOT.GetLeader] zpočátku nakloněn [From.GetAdjective] revoluci, vyjádřil rostoucí zklamání nad tím, jak se vyvíjí. [ROOT.GetRulingParty] možná bude muset zasáhnout dříve, než bude pozdě." # todo: NEW TRANSLATION
- china.1.b_tt_SND: "§Y[SND.GetNameDefCap]§! bude donucen předat své území §Y[JAP.GetName]§!" # todo: NEW TRANSLATION
- china.1.b_tt_HBC: "§Y[HBC.GetNameDefCap]§! bude donucen předat své území §Y[JAP.GetName]§!" # todo: NEW TRANSLATION
- wtt_xian_incident_warning_8: "§R[CHI.GetNameDef] se může rozhodnout kvůli tomu vstoupit do války!§!"" # todo: NEW TRANSLATION
+ war_justification.7.d: "'Soudruzi, ačkoli byli největší revolucionáři kdysi nazýváni zrádci, stalo se zřejmým, že sama revoluce byla zrazena. Jak jinak byste vysvětlili vládu [From.GetRulingParty], která ovládá [From.GetName], a kteří odhodili každý náznak marxistických myšlenek, aby vybudovali degenerovaný dělnický stát, kde mohou panovat na falešných předpokladech? Posilováním své vlastní moci za cenu mezinárodní revoluce ukázali, že jim na ideálech, které tvrdí, že vyznávají, jen málo záleží. Musíme k nim přinést pravou revoluci.'\n\nAčkoli byl [ROOT.GetLeader] zpočátku nakloněn [From.GetAdjective] revoluci, vyjádřil rostoucí zklamání nad tím, jak se vyvíjí. [ROOT.GetRulingParty] možná bude muset zasáhnout dříve, než bude pozdě."
+ china.1.b_tt_SND: "§Y[SND.GetNameDefCap]§! bude donucen předat své území na §Y[JAP.GetName]§!"
+ china.1.b_tt_HBC: "§Y[HBC.GetNameDefCap]§! bude donucen předat své území na §Y[JAP.GetName]§!"
+ wtt_xian_incident_warning_8: "§R[CHI.GetNameDef] se může rozhodnout kvůli tomu vstoupit do války!§!"

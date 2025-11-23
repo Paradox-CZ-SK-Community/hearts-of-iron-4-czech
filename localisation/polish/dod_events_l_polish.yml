@@ -777,7 +777,7 @@
  DOD_yugoslavia.70.a: "Souhlasíme."
  DOD_yugoslavia.70.b: "[FROM.GetNameDef] figuruje v našich plánoch poněkud odlišně."
  DOD_yugoslavia.701.t: "[FROM.GetNameDefCap] namítá!"
- DOD_yugoslavia.701.tripartite_rejection: "[FROM.GetLeader] odmítl [ROOT.GetAdjective] návrh na podpis Paktu tří se slovy, že mají „jiné představy“ o budoucnosti našeho státu." 
+ DOD_yugoslavia.701.tripartite_rejection: "[FROM.GetLeader] odmítl [ROOT.GetAdjective] návrh na podpis Paktu tří se slovy, že mají „jiné představy“ o budoucnosti našeho státu."
  DOD_yugoslavia.701.allied_objection: "Rozhodnutí podepsat Pakt tří je hluboce kontroverzní doma i v zahraničí a zpochybnilo legitimitu práva, jakým [ROOT.GetLeader] jedná jako regent krále Petra II., nebo zda je vůbec taková regentská vláda nutná. Skupina důstojníků Královské jugoslávské armády prohlásila Petra II. za plnoletého a s [From.GetAdjective] podporou vytáhla na Bělehrad. Jejich požadavky jsou jednoznačné - [ROOT.GetLeader] musí odstoupit."
  DOD_yugoslavia.701.a: "Nemáme jinou možnost než to přijmout."
  DOD_yugoslavia.701.b: "Do zbraně!"

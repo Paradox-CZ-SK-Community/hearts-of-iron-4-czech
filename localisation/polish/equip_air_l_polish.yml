@@ -1005,8 +1005,8 @@
  PRC_CAS_equipment_2_short: "Q-2"
  PRC_CAS_equipment_3: "Q-3"
  PRC_CAS_equipment_3_short: "Q-3"
- PRC_fighter_equipment_0: "V-65C Lenin" # todo: CHANGED
- PRC_fighter_equipment_0_short: "Lenin" # todo: CHANGED
+ PRC_fighter_equipment_0: "V-65C Lenin"
+ PRC_fighter_equipment_0_short: "Lenin"
  PRC_fighter_equipment_1: "J-1"
  PRC_fighter_equipment_1_short: "J-1"
  PRC_fighter_equipment_2: "J-2"

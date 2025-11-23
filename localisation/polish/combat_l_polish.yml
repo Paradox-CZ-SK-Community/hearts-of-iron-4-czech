@@ -73,7 +73,7 @@
  BM_WIDTH_DESC: "Množství divizí zapojených do bitvy překračuje možnou šířku bitvy, což snižuje jejich bojovou efektivitu."
  BORDER_CONFLICT: "Pohraniční konflikt"
  BORDER_CONFLICT_CHANGE_STATE: "$STATE|H$ získá pod kontrolu $COUNTRY|H$"
- BORDER_CONFLICT_DIG_IN_FACTOR: "Faktor modifikátoru zákopování: $VAL$" # todo: CHANGED
+ BORDER_CONFLICT_DIG_IN_FACTOR: "Faktor modifikátoru zákopání: $VAL$"
  BORDER_CONFLICT_FACTOR_ENTRY: "$VAL|%.0$"
  BORDER_CONFLICT_FOR_ENEMY: "Pro nepřítele ($COUNTRY|H$):"
  BORDER_CONFLICT_IF_YOU_LOSE: "§HPokud prohrajete:§!"
@@ -95,7 +95,7 @@
  CARRIER_PLANE_SCREEN: "Letadlové lodě"
  CARRIER_PLANE_SCREEN_DESC: "Naše letadlové lodě omezí, jak volně se nepřítel může pohybovat, a tím podpoří doprovod našich lodí."
  CARRIER_PLANE_SCREEN_DETAIL: "Naše letadlové lodě mohou pomoci krýt $NUM|.0H$ lodí a aktuálně kryjí $NUM_2|.0H$."
- CARRIER_STACK_PENALTY_DESC: " §HPenalizace úderu z letadlové lodi§!\n\n$PERC|H%0$ letových křídel je schopno zasáhnout nepřítele.\n\nTato hodnota je odvozena z počtu letadel, která máme momentálně ve vzduchu, a ze složení nepřátelské flotily.\n\nNejméně $MINIMUM|H$ letadel musí být ve vzduchu, než mohou být uplatněny penalizace. Složení nepřátelské flotily umožňuje efektivní použití $ENEMY_FLEET|H$ letadel. Použije se vyšší z těchto dvou čísel." # todo: CHANGED
+ CARRIER_STACK_PENALTY_DESC: " §HPenalizace úderu z letadlové lodi§!\n\n$PERC|H%0$ letek je schopno zasáhnout nepřítele.\n\nTato hodnota je odvozena z počtu letadel, která máme momentálně ve vzduchu, a ze složení nepřátelské flotily.\n\nNejméně $MINIMUM|H$ letadel musí být ve vzduchu, než mohou být uplatněny penalizace. Složení nepřátelské flotily umožňuje efektivní použití $ENEMY_FLEET|H$ letadel. Použije se vyšší z těchto dvou čísel."
  CHANCE_TO_ESCAPE: "Denní šance na únik z bitvy:: $NUM|%+$"
  COMBAT_ARMOR_DESC: "$PIERCING|H$ z $TOTAL|H$ nepřátelských divizí může prorazit touto divizí."
  COMBAT_ATTACKER_WINNING: "§YÚtočník vítězí.§!"
@@ -256,10 +256,10 @@
  NAVAL_COMBAT_RESULT_SURVIVOR_DMG: "$FLAG$ $TYPE$ ($DMG|%0R$)\n"
  NAVAL_COMBAT_RESULT_SURVIVOR_TYPE: "$NUMBER|H$ typu $TYPE$"
  NAVAL_COMBAT_RESULT_VICTORY: "Vítězství"
- NAVAL_COMBAT_TOOLTIP_ATTACKER: "Útočník: \n $TCOUNT|Y$ úderných skupin ($COUNTRIES$)\n $HQCOUNT|Y$ námořních velitelství v dosahu ($COUNTRIES$)\n" # todo: CHANGED
- NAVAL_COMBAT_TOOLTIP_ATTACKER_WITH_CONVOYS: "Útočník: \n $TCOUNT|Y$ úderných skupin a $CONVOY_COUNT|Y$ konvojů ($COUNTRIES$)\n $HQCOUNT|Y$ námořních velitelství v dosahu ($COUNTRIES$)\n" # todo: CHANGED
- NAVAL_COMBAT_TOOLTIP_DEFENDER: "Obránce: \n $TCOUNT|Y$ úderných skupin ($COUNTRIES$)\n $HQCOUNT|Y$ námořních velitelství v dosahu ($COUNTRIES$)\n" # todo: CHANGED
- NAVAL_COMBAT_TOOLTIP_DEFENDER_WITH_CONVOYS: "Obránce: \n $TCOUNT|Y$ úderných skupin a $CONVOY_COUNT|Y$ konvojů ($COUNTRIES$)\n $HQCOUNT|Y$ námořních velitelství v dosahu ($COUNTRIES$)\n" # todo: CHANGED
+ NAVAL_COMBAT_TOOLTIP_ATTACKER: "Útočník: \n $TCOUNT|Y$ úderných skupin ($COUNTRIES$)\n $HQCOUNT|Y$ námořních velitelství v dosahu ($COUNTRIES$)\n"
+ NAVAL_COMBAT_TOOLTIP_ATTACKER_WITH_CONVOYS: "Útočník: \n $TCOUNT|Y$ úderných skupin a $CONVOY_COUNT|Y$ konvojů ($COUNTRIES$)\n $HQCOUNT|Y$ námořních velitelství v dosahu ($COUNTRIES$)\n"
+ NAVAL_COMBAT_TOOLTIP_DEFENDER: "Obránce: \n $TCOUNT|Y$ úderných skupin ($COUNTRIES$)\n $HQCOUNT|Y$ námořních velitelství v dosahu ($COUNTRIES$)\n"
+ NAVAL_COMBAT_TOOLTIP_DEFENDER_WITH_CONVOYS: "Obránce: \n $TCOUNT|Y$ úderných skupin a $CONVOY_COUNT|Y$ konvojů ($COUNTRIES$)\n $HQCOUNT|Y$ námořních velitelství v dosahu ($COUNTRIES$)\n"
  NAVAL_INVASION_ATTACK_SCALE: "Celková útočná schopnost: $VALUE|=+0%$"
  NAVAL_INVASION_COMBAT_PROGRESS_DESC: "Tato jednotka provádí námořní invazi. Její útok je snížen a její obrana je zlepšena díky pancéřování transportních lodí."
  NAVAL_INVASION_DEFEND_SCALE: "Celková obranná schopnost: $VALUE|=+0%$"
