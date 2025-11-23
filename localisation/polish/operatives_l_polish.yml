@@ -16,14 +16,14 @@
  AGENCY_UPGRADE_NO_FACTORIES: "§RNemáte dostatek §HCivilních továren§! na vylepšení vaší agentury§! (můžete použít pouze $CURRENT|H$ továren a potřebujete $NEEDED|H$)."
  AGENCY_UPGRADE_RESEARCHED: "§GVylepšení dokončeno§!"
  AVAILABLE_SLOTS: "Dostupné sloty: $SLOTS|H$"
- BECOME_SPY_MASTER_ALREADY_MASTER: "§RUž jste $HEADOF$.§!" # todo: CHANGED
+ BECOME_SPY_MASTER_ALREADY_MASTER: "§RJiž ste $HEADOF$.§!"
  BECOME_SPY_MASTER_BUTTON: "Stát se Šéfem špionáže"
- BECOME_SPY_MASTER_COOLDOWN: "§RJiná země převzala tuto pozici v naší frakci před méně než $COOLDOWN|H$ dny. Musíme počkat do $DATE|H$, než budeme moci převzít $HEADOF$.§!" # todo: CHANGED
- BECOME_SPY_MASTER_COST: "Stát se $HEADOF|H$ bude stát £pol_power $VALUE$." # todo: CHANGED
+ BECOME_SPY_MASTER_COOLDOWN: "§RJiná země převzala tuto pozici v naší frakci před méně než $COOLDOWN|H$ dny. Musíme počkat do $DATE|H$, než budeme moci být $HEADOF$.§!"
+ BECOME_SPY_MASTER_COST: "$HEADOF|H$ bude stát £pol_power $VALUE$."
  BECOME_SPY_MASTER_DESC: "Jako §HŠéf Špionáže§! můžete ovládat více operativců, přičemž jejich počet závisí na velikosti vaší frakce. V každé frakci může být pouze jeden §HŠéf špionáže§! a pokud vaše frakce již má §HŠéfa špionáže§!, musí to přijmout, aby jste se ujali vedení."
- BECOME_SPY_MASTER_FACTION_NEEDED: "§RMusíte být ve frakci, abyste se mohli stát $HEADOF$.§!" # todo: CHANGED
+ BECOME_SPY_MASTER_FACTION_NEEDED: "§RMusíte být ve frakci, abyste se mohli stát $HEADOF$.§!"
  BECOME_SPY_MASTER_NO_SUBJECT: "§RSubjekty se nemohou stát Šéfem špionáže.§!"
- BECOME_SPY_MASTER_UPGRADES_NEEDED: "§RMusíte mít agenturu s $NUMBER$ různými vylepšeními oddělení, abyste se mohli stát $HEADOF$.§!" # todo: CHANGED
+ BECOME_SPY_MASTER_UPGRADES_NEEDED: "§RMusíte mít agenturu s $NUMBER$ různými vylepšeními oddělení, abyste se mohli stát $HEADOF$.§!"
  CANCEL_AGENCY_CREATION_MESSAGE: "Jste si jisti, že chcete §Rzrušit§! založení zpravodajské agentury?"
  CANCEL_AGENCY_CREATION_TOOLTIP: "Zrušit založení zpravodajské agentury"
  CANCEL_AGENCY_UPGRADE_MESSAGE: "Jste si jisti, že chcete §Rzrušit§! tento upgrade Zpravodajské agentury?"
@@ -34,7 +34,7 @@
  CANNOT_RECRUITE_OPERATIVE_NOT_TRAINED: "§RProbíhá tréning operativce a bude dokončen za $DAYS|H$ dní§!"
  CANNOT_RECRUITE_OPERATIVE_NOT_TRAINED_SPY_MASTER: "§RŽádný operativec není k dispozici v žádné frakci. Operativec se školí a bude k dispozici za $DAYS|H$ dní§!"
  CANNOT_RECRUITE_OPERATIVE_NO_SLOT: "§RŽádné dostupné sloty pro nábor operativce§!"
- CANNOT_RECRUITE_OPERATIVE_NO_SLOT_DESC: "První slot můžete získat vybudováním zpravodajské agentury. Další sloty budou dostupné po 5. vylepšení nebo po přidělení poradce s rysem §HIluzorní gentleman§!\nJako šéf zpravodajců se více slotů pro operativce odemkne tím, že budete mít více zemí ve své frakci. Loutkové státy nebo země s velmi nízkým počtem továren nepřispívají k většímu počtu slotů pro operativce."
+ CANNOT_RECRUITE_OPERATIVE_NO_SLOT_DESC: "První slot můžete získat vybudováním zpravodajské agentury. Další sloty budou dostupné po 5. vylepšení nebo po přidělení poradce s rysem §H$head_of_intelligence$§!\nJako šéf zpravodajců se více slotů pro operativce odemkne tím, že budete mít více zemí ve své frakci. Loutkové státy nebo země s velmi nízkým počtem továren nepřispívají k většímu počtu slotů pro operativce."
  CANNOT_RECRUITE_OPERATIVE_NO_USABLE_SLOTS: "§RŽádné volné sloty nejsou k dispozici§!"
  CAN_RECRUITE_OPERATIVE: "§GKlikněte§! pro najmutí operativce do tohoto slotu."
  CHANGE_INTELLIGENCE_AGENCY_NAME_BUTTON: "§GKlikněte§! pro změnu názvu a insignie."
@@ -156,8 +156,8 @@
  OPERATION_REQUIREMENT_CIVILIAN_FACTORIES_NOT_MET: "Váš pokrok je v současnosti zpomalen, protože nemáte k dispozici dostatek civilních továren."
  OPERATION_REQUIREMENT_FULFILLED: "Shromáždili jste $HAS|H$/$NUM|H$ jednotek $NAME|H$."
  OPERATION_REQUIREMENT_NEEDED: "Budete muset shromáždit $NUM|H$ jednotek $NAME|H$."
- OPERATION_TOKEN_INFILTRATED_AIRFORCE: "Infiltrace letectva" # todo: CHANGED
- OPERATION_TOKEN_INFILTRATED_AIRFORCE_DESC: "Infiltrovalo letectvo této země." # todo: CHANGED
+ OPERATION_TOKEN_INFILTRATED_AIRFORCE: "Infiltrace letectva"
+ OPERATION_TOKEN_INFILTRATED_AIRFORCE_DESC: "Infiltrovalo letectvo této země."
  OPERATION_TOKEN_INFILTRATED_ARMY: "Infiltrace armády"
  OPERATION_TOKEN_INFILTRATED_ARMY_DESC: "Infiltroval armádu země."
  OPERATION_TOKEN_INFILTRATED_CIVILIAN: "Infiltrace vlády"
@@ -360,8 +360,8 @@
  lar_decryption_bonus_tech: "Bonus dešifrování"
  lar_decryption_bonus_tech_desc: "Získáme §G+10 Rychlost dešifrování§!"
  lar_decryption_bonus_tt: "Získáme §G+10 Rychlost dešifrování§!"
- upgrade_airforce_department: "Oddělení leteckého zpravodajství" # todo: CHANGED
- upgrade_airforce_department_desc: "§LOddělení leteckého zpravodajství bude užitečnou složkou naší agentury; bude zodpovědné za infiltraci nepřátelského letectva a shromažďování informací o pohybu jejich letadel.§!" # todo: CHANGED
+ upgrade_airforce_department: "Oddělení leteckého zpravodajství"
+ upgrade_airforce_department_desc: "§LOddělení leteckého zpravodajství bude užitečnou složkou naší agentury; bude zodpovědné za infiltraci nepřátelského letectva a shromažďování informací o pohybu jejich letadel.§!"
  upgrade_anti_partisan: "Potláčení odboje"
  upgrade_anti_partisan_desc: "§LPropaganda je mocným nástrojem k zajištění loajality našich vlastních občanů, ale vytvoření poslušnosti v nepřátelských zemích je mnohem složitější. Vyškolením našich agentů k infiltraci nepřátelských hnutí odporu můžeme začít být schopni účinně zatýkat a ukončit jejich rozvratnou činnost. Zahraniční partyzáni pak jistě ztratí naději na návrat starého režimu.§!"
  upgrade_army_department: "Armádní oddělení"
@@ -402,8 +402,8 @@
  upgrade_suicide_pills_desc: "§LAčkoli je to nežádoucí, je nevyhnutelné, že hrstka agentů bude zajata naším nepřítelem. Musíme našim agentům nabídnout způsob, jak se vyhnout hrůze, která je čeká ve výslechové místnosti, a kyanidová pilulka místo zubu jim tento únik umožní, pokud k němu někdy dojde.§!"
  upgrade_training_centers: "Místní výcviková centra"
  upgrade_training_centers_desc: "§LZatímco naši pracovníci jsou schopni přizpůsobit se jakémukoli prostředí, kulturní normy a jazyky cizích zemí jsou přirozenější pro ty, kteří se v dané kultuře narodili a vyrostli. Pokud chceme vybudovat celosvětovou síť špionů, musíme rozšířit naše náborová a výcviková střediska po celém světě a získávat agenty všech kultur a prostředí.§!"
- BECOME_SPY_MASTER_COST_FI: "Stát se $HEADOF|H$ bude stát £faction_initiative_texticon£ $VALUE$." # todo: NEW TRANSLATION
- OPERATIVE_CAPTURED_FACTION: "Operativci vaší frakce zajati nepřítelem" # todo: NEW TRANSLATION
- OPERATIVE_KILLED_FACTION: "Operativci vaší frakce zabiti nepřítelem" # todo: NEW TRANSLATION
- AVAILABLE_SLOTS_FACTION: "Celkový počet dostupných slotů ve frakci: $SLOTS|H$" # todo: NEW TRANSLATION
- OPERATIVE_COUNT_FACTION: "Počet rekrutovaných operativců ve frakci: $COUNT|H$" # todo: NEW TRANSLATION
+ BECOME_SPY_MASTER_COST_FI: "Stát se $HEADOF|H$ bude stát £faction_initiative_texticon£ $VALUE$."
+ OPERATIVE_CAPTURED_FACTION: "Operativci vaší frakce zajati nepřítelem"
+ OPERATIVE_KILLED_FACTION: "Operativci vaší frakce zabiti nepřítelem"
+ AVAILABLE_SLOTS_FACTION: "Celkový počet dostupných slotů ve frakci: $SLOTS|H$"
+ OPERATIVE_COUNT_FACTION: "Počet rekrutovaných operativců ve frakci: $COUNT|H$"

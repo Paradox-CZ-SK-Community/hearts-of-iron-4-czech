@@ -1,12 +1,12 @@
 ﻿l_polish:
- SEA_japan.1.t: "Incident 26. února" # todo: NEW TRANSLATION
- SEA_japan.1.desc: "Mladí důstojníci loajální frakci Kōdōha v IJA zorganizovali státní převrat, s cílem očistit vládu a vojenské vedení od těch, kteří odporují jejich étosu militarismu a přímé císařské kontrole státu. Již obklíčili rezidence nejvyšších úředníků a obsadili vládní centrum Tokia. Císař však mlčí, navzdory nadějím rebelů, že by promluvil a podpořil je. Jak se tato událost vyvine?" # todo: NEW TRANSLATION
+ SEA_japan.1.t: "Incident z 26. února" # todo: NEW TRANSLATION
+ SEA_japan.1.desc: "Mladí důstojníci loajální frakci Kódóha v IJA zorganizovali státní převrat, s cílem očistit vládu a vojenské vedení od těch, kteří odporují jejich étosu militarismu a přímé císařské kontrole státu. Již obklíčili rezidence nejvyšších úředníků a obsadili vládní centrum Tokia. Císař však mlčí, navzdory nadějím rebelů, že by promluvil a podpořil je. Jak se tato událost vyvine?" # todo: NEW TRANSLATION
  SEA_japan.1.a: "Ukončete tuto frašku hned!" # todo: NEW TRANSLATION
- JAP_kodoha_coup_will_fail_historically_tt: "Vyhlásíme výjimečný stav a nasadíme pluk Yokosuka Císařského japonského námořnictva k potlačení povstání. Byly hlášeny minimální ztráty, avšak někteří z cílů Kōdōha byli potvrzeni jako mrtví:" # todo: NEW TRANSLATION
+ JAP_kodoha_coup_will_fail_historically_tt: "Vyhlásíme výjimečný stav a nasadíme pluk Yokosuka Císařského japonského námořnictva k potlačení povstání. Byly hlášeny minimální ztráty, avšak někteří z cílů Kódóha byli potvrzeni jako mrtví:" # todo: NEW TRANSLATION
  SEA_japan.1.b: "Nastal čas návratu k tradicím!" # todo: NEW TRANSLATION
- JAP_kodoha_coup_will_succeed_tt: "Kōdōha obsadí Ministerstvo války, Imperial Hotel, Národní sněm (Diet) i Císařský palác. Mnoho z hlavních cílů Kōdōha bylo potvrzeno jako mrtvé:" # todo: NEW TRANSLATION
+ JAP_kodoha_coup_will_succeed_tt: "Kódóha obsadí Ministerstvo války, Imperial Hotel, Národní sněm (Diet) i Císařský palác. Mnoho z hlavních cílů Kódóha bylo potvrzeno jako mrtvé:" # todo: NEW TRANSLATION
  SEA_japan.1.c: "Armádu je třeba zkrotit!" # todo: NEW TRANSLATION
- JAP_kodoha_coup_will_fail_non_historically_tt: "Vyhlásíme výjimečný stav a pokusíme se povstání potlačit nasazením jednotek nouzových služeb Tokijské metropolitní policie, čímž omezíme zapojení armády při vynášení spravedlnosti vůči Kōdōha. Byly hlášeny malé ztráty, přesto byli někteří z cílů Kōdōha potvrzeni jako mrtví:" # todo: NEW TRANSLATION
+ JAP_kodoha_coup_will_fail_non_historically_tt: "Vyhlásíme výjimečný stav a pokusíme se povstání potlačit nasazením jednotek nouzových služeb Tokijské metropolitní policie, čímž omezíme zapojení armády při vynášení spravedlnosti vůči Kódóha. Byly hlášeny malé ztráty, přesto byli někteří z cílů Kódóha potvrzeni jako mrtví:" # todo: NEW TRANSLATION
  SEA_japan.1.d: "Armádu je třeba zkrotit!" # todo: NEW TRANSLATION
  SEA_japan.1.e: "Lid si musí uvědomit, že je podvrhován ze všech stran!" # todo: NEW TRANSLATION
  SEA_japan_foreign_policy.1.t: "[FROM.GetNameDefCap] požaduje naše podrobení" # todo: NEW TRANSLATION
@@ -266,10 +266,10 @@
  SEA_japan_foreign_policy.74.a: "Dobrá" # todo: NEW TRANSLATION
  SEA_japan_foreign_policy.74.b: "Nepotřebujeme je" # todo: NEW TRANSLATION
  SEA_japan_foreign_policy.75.t: "Dorazilo [FROM.GetAdjective] vybavení" # todo: NEW TRANSLATION
- SEA_japan_foreign_policy.75.desc: "Zdá se, že naše kontakty v [FROM.GetNameDef] konečně uzavřely dohodu s vedením země poté, co frakce Kōdōha, v níž působila většina našich kontaktů, nedávno převzala vládu po úspěšném státním převratu. Ať žijí oba císaři!" # todo: NEW TRANSLATION
+ SEA_japan_foreign_policy.75.desc: "Zdá se, že naše kontakty v [FROM.GetNameDef] konečně uzavřely dohodu s vedením země poté, co frakce Kódóha, v níž působila většina našich kontaktů, nedávno převzala vládu po úspěšném státním převratu. Ať žijí oba císaři!" # todo: NEW TRANSLATION
  SEA_japan_foreign_policy.75.a: "Jsme velmi vděční!" # todo: NEW TRANSLATION
  SEA_japan_foreign_policy.76.t: "[FROM.GetNameDefCap] požaduje plnou integraci" # todo: NEW TRANSLATION
- SEA_japan_foreign_policy.76.desc: "[FROM.GetLeader] prohlásil, že vzhledem k nouzovému stavu vyhlášenému po převratu Kōdōha a možnosti, že se nespokojení důstojníci skrývají v našich spravovaných regionech, bychom se měli stát integrální součástí národa. To by zase umožnilo úplnou správu ze strany [FROM.GetAdjective] státu. Přijímáme?" # todo: NEW TRANSLATION
+ SEA_japan_foreign_policy.76.desc: "[FROM.GetLeader] prohlásil, že vzhledem k nouzovému stavu vyhlášenému po převratu Kódóha a možnosti, že se nespokojení důstojníci skrývají v našich spravovaných regionech, bychom se měli stát integrální součástí národa. To by zase umožnilo úplnou správu ze strany [FROM.GetAdjective] státu. Přijímáme?" # todo: NEW TRANSLATION
  SEA_japan_foreign_policy.76.a: "Budeme se muset smířit se situací" # todo: NEW TRANSLATION
  SEA_japan_foreign_policy.76.b: "Příliš se přeceňují" # todo: NEW TRANSLATION
  SEA_japan_foreign_policy.77.t: "[FROM.GetNameDefCap] přijímá úplnou integraci" # todo: NEW TRANSLATION
@@ -310,7 +310,7 @@
  SEA_japan_foreign_policy.86.b: "To není naše válka." # todo: NEW TRANSLATION
  SEA_japan_foreign_policy.86.b_tt: "§YToto bude považováno za zradu všemi zeměmi, které ctí pakt (§!§R-50§!§Y vztah)§!" # todo: NEW TRANSLATION
  SEA_japan_foreign_policy.87.t: "Anexe [FROM.GetAdjective]" # todo: NEW TRANSLATION
- SEA_japan_foreign_policy.87.desc: "Poté, co Asociace Concordia nedávno souhlasila s požadavky Kōdōha, bylo jen otázkou času, než k tomu dojde. Dnes dorazila [FROM.GetAdjective] delegace s dokumenty, které usnadní naši úplnou integraci do jejich národa, a které již byly podepsány i našimi delegáty." # todo: NEW TRANSLATION
+ SEA_japan_foreign_policy.87.desc: "Poté, co Asociace Concordia nedávno souhlasila s požadavky Kódóha, bylo jen otázkou času, než k tomu dojde. Dnes dorazila [FROM.GetAdjective] delegace s dokumenty, které usnadní naši úplnou integraci do jejich národa, a které již byly podepsány i našimi delegáty." # todo: NEW TRANSLATION
  SEA_japan_foreign_policy.87.a: "To je to, s čím jsme souhlasili" # todo: NEW TRANSLATION
  SEA_japan_foreign_policy.88.t: "Anexe [FROM.GetNameDef]" # todo: NEW TRANSLATION
  SEA_japan_foreign_policy.88.desc: "[FROM.GetLeader], vůdce [FROM.GetNameDef], dnes dříve přijal plnou integraci do našeho státu. To znamená, že naše vláda může konečně získat plnou kontrolu i nad místními správami našich mandžurských regionů." # todo: NEW TRANSLATION
@@ -510,7 +510,7 @@
  SEA_japan_popup_events.7.desc: "Dnes dříve údajně naši důstojníci nalezli císaře Shōwa mrtvého v jeho rezidenci. Tvrdí, že byl zavražděn zahraničními agenty, ale nemůžeme si být jisti, protože pravda nám může ublížit více, než by nám prospěla. V důsledku této hrozby vyhlásila armáda výjimečný stav a prohlásila, že princ Chichibu, generál Impériální armády, bude korunován, protože by bylo příliš nebezpečné pokračovat v následnictví a předat korunu Akihitovi, když útočníci mohou být stále na svobodě. Je to součást větší konspirace, nebo jde skutečně o cizího útočníka?" # todo: NEW TRANSLATION
  SEA_japan_popup_events.7.a: "Yasuhito zaujme jeho místo" # todo: NEW TRANSLATION
  SEA_japan_popup_events.8.t: "Otázka vedení vojenské kliky" # todo: NEW TRANSLATION
- SEA_japan_popup_events.8.desc: "S ustavením naší nové vojenské vlády znovu vyvstává otázka vedení. Zakladatel Kōdōha Sadao Araki prohlásil, že si přeje zastávat funkci premiéra a navrhl to císaři, ale jelikož Jinzaburō Masaki je mezi muži i obecnou veřejností populárnější než Araki, může být moudřejší svěřit funkci premiéra jemu, zatímco Araki by přijal spíše ceremoniální post. Co uděláme?" # todo: NEW TRANSLATION
+ SEA_japan_popup_events.8.desc: "S ustavením naší nové vojenské vlády znovu vyvstává otázka vedení. Zakladatel Kódóha Sadao Araki prohlásil, že si přeje zastávat funkci premiéra a navrhl to císaři, ale jelikož Jinzaburō Masaki je mezi muži i obecnou veřejností populárnější než Araki, může být moudřejší svěřit funkci premiéra jemu, zatímco Araki by přijal spíše ceremoniální post. Co uděláme?" # todo: NEW TRANSLATION
  SEA_japan_popup_events.8.a: "Masaki je mezi muži populárnější" # todo: NEW TRANSLATION
  SEA_japan_popup_events.8.b: "Araki by měl být jmenován Sōtō národa" # todo: NEW TRANSLATION
  SEA_japan_popup_events.9.t: "Otázka morálky, bushida a fašismu" # todo: NEW TRANSLATION
@@ -518,7 +518,7 @@
  SEA_japan_popup_events.9.a: "Musíme se takovým západním konceptům vyhnout!" # todo: NEW TRANSLATION
  SEA_japan_popup_events.9.b: "Araki má pravdu a měli bychom tyto myšlenky přijmout" # todo: NEW TRANSLATION
  SEA_japan_popup_events.10.t: "Pověsti o vojenském převratu" # todo: NEW TRANSLATION
- SEA_japan_popup_events.10.desc: "V poslední době kolují pověsti o možném plánovaném převratu frakcí Kōdōha, radikální tradicionalistické frakce v rámci armády. Zdá se pravděpodobné, že počkají na ukončení soudu nad podplukovníkem Saburō Aizawou, který je integrální součástí jejich organizace. Vzhledem k jejich možným motivům se zdá pravděpodobné, že se při tomto převratu pokusí o atentáty na mnohé z těch, které považují za hrozbu pro své hodnoty. Budeme muset jednat rychle, abychom předešli krvavému řešení v blízké budoucnosti." # todo: NEW TRANSLATION
+ SEA_japan_popup_events.10.desc: "V poslední době kolují pověsti o možném plánovaném převratu frakcí Kódóha, radikální tradicionalistické frakce v rámci armády. Zdá se pravděpodobné, že počkají na ukončení soudu nad podplukovníkem Saburō Aizawou, který je integrální součástí jejich organizace. Vzhledem k jejich možným motivům se zdá pravděpodobné, že se při tomto převratu pokusí o atentáty na mnohé z těch, které považují za hrozbu pro své hodnoty. Budeme muset jednat rychle, abychom předešli krvavému řešení v blízké budoucnosti." # todo: NEW TRANSLATION
  SEA_japan_popup_events.10.a: "Jak nečestné! Musíme jednat rychle!" # todo: NEW TRANSLATION
  SEA_japan_popup_events.11.t: "Pověsti o lidovém povstání" # todo: NEW TRANSLATION
  SEA_japan_popup_events.11.desc: "Přestože je císař stále v domácím vězení i přes dlouhou dobu, která uplynula od založení naší vlády, nespokojenost rychle roste. Zdá se, že náš lid chce, aby byl Hirohito řádně obnoven na trůnu, a možná se i připravují podniknout kroky k jeho osvobození, pokud s tím brzy nic neuděláme. Možná by se trochu uklidnili, kdyby tu nebyla postava, kterou by bylo možné obnovit na trůn, i kdyby to pro nás bylo nepopulární. Jak bychom měli postupovat?" # todo: NEW TRANSLATION
@@ -528,8 +528,8 @@
  SEA_japan_popup_events.12.desc: "Dnes dopoledne oznámil předseda vlády, že bývalý císař Shōwa byl nedávno nalezen mrtvý v císařské rezidenci. Mnozí podezřívají, že to mohla být úmyslná akce armády k upevnění jejich moci, i když oficiální tvrzení je, že zemřel přirozenou smrtí; tokijské policii však nebylo dovoleno vstoupit a potvrdit příčinu smrti. To přece musí být vlastizrada ze strany samotné armády?" # todo: NEW TRANSLATION
  SEA_japan_popup_events.12.a: "Národ truchlí" # todo: NEW TRANSLATION
  SEA_japan_popup_events.12.b: "Najděte pachatele, Nagako požaduje odpovědi!" # todo: NEW TRANSLATION
- SEA_japan_popup_events.13.t: "Důstojníci Kōdōha obžalováni z vraždy Hirohita" # todo: NEW TRANSLATION
- SEA_japan_popup_events.13.desc: "Díky nedávnému vyšetřování tokijské metropolitní policie na příkaz Nagako, manželky zesnulého císaře Shōwa, bylo zjištěno, že frakce Kōdōha je skutečně odpovědná za chladnokrevné zabití bývalého císaře. S více než dostatečnými důvody k označení toho za vysoce zrádný čin je čas tuto zrádnou klikou sesadit z moci." # todo: NEW TRANSLATION
+ SEA_japan_popup_events.13.t: "Důstojníci Kódóha obžalováni z vraždy Hirohita" # todo: NEW TRANSLATION
+ SEA_japan_popup_events.13.desc: "Díky nedávnému vyšetřování tokijské metropolitní policie na příkaz Nagako, manželky zesnulého císaře Shōwa, bylo zjištěno, že frakce Kódóha je skutečně odpovědná za chladnokrevné zabití bývalého císaře. S více než dostatečnými důvody k označení toho za vysoce zrádný čin je čas tuto zrádnou klikou sesadit z moci." # todo: NEW TRANSLATION
  SEA_japan_popup_events.13.a: "Vyhlaste výjimečný stav, Nagako vyřeší nestabilitu národa!" # todo: NEW TRANSLATION
  SEA_japan_popup_events.14.t: "Závěr všeobecných voleb 1936" # todo: NEW TRANSLATION
  SEA_japan_popup_events.14.desc: "Navzdory nebezpečným časům byly všeobecné volby dokončeny a náš lid rozhodl, kdo je bude zastupovat v Poslanecké sněmovně. Rikken Minseitō pod vedením Machida Chūji vyšlo z voleb jako nejsilnější strana, zatímco Rikken Seiyūkai ztratila většinu. Ačkoliv to nemá velký význam vzhledem k nedávnému úpadku moci občanské vlády, tyto volby ukazují, že naše demokracie stále existuje, byť křehká." # todo: NEW TRANSLATION
@@ -723,7 +723,7 @@
  SEA_imperial_influence_events.1.desc: "Mezi různými vnitřními frakcemi v [ROOT.GetNameDef] vypukl tvrdý boj o moc, všechny usilují o přízeň [GetImperialInfluenceRulerTitle] a snaží se přesvědčit [GetImperialInfluenceGenderHimHer], aby se přiklonil k jejich věci. Všichni se ptají: kterou frakci [GetImperialInfluenceRulerTitle] nakonec upřednostní a kterou [GetImperialInfluenceGenderHeShe] odmítne?" # todo: NEW TRANSLATION
  SEA_imperial_influence_events.1.a: "Odmítnout armádní frakci" # todo: NEW TRANSLATION
  SEA_imperial_influence_events.1.b: "Odmítnout námořní frakci" # todo: NEW TRANSLATION
- SEA_imperial_influence_events.1.c: "Odmítnout frakci zaibatsu" # todo: NEW TRANSLATION
+ SEA_imperial_influence_events.1.c: "Odmítnout frakci zaibacu" # todo: NEW TRANSLATION
  SEA_imperial_influence_events.1.d: "Odmítnout frakci civilní vlády" # todo: NEW TRANSLATION
  SEA_imperial_influence_events.00.a: "[GetNameImperialInfluenceDemandOptions]" # todo: NEW TRANSLATION
  SEA_imperial_influence_demand_event_option_1: "Ověříme naši odhodlanost" # todo: NEW TRANSLATION
@@ -777,16 +777,16 @@
  SEA_imperial_influence_events.241.desc: "Námořnictvo předložilo své požadavky. Zdá se, že chce rozšířit své výrobní kapacity a zvýšit svůj vliv na [GetImperialInfluenceRulerTitle], a proto požaduje, abychom zadali výstavbu více námořních loděnic pro jejich potřeby expanze. Zdá se, že jsou ochotni projevit nějakou trpělivost, ale nečekají věčně." # todo: NEW TRANSLATION
  SEA_imperial_influence_events.242.t: "Námořní frakce požaduje zvýšení výroby bitevních lodí" # todo: NEW TRANSLATION
  SEA_imperial_influence_events.242.desc: "Námořnictvo předložilo své požadavky. Zdá se, že chce rozšířit svou flotilu bitevních lodí a zvýšit svůj vliv na [GetImperialInfluenceRulerTitle], a proto požaduje, abychom zadali výstavbu více bitevních lodí pro jejich potřeby expanze. Zdá se, že jsou ochotni projevit nějakou trpělivost, ale nečekají věčně." # todo: NEW TRANSLATION
- SEA_imperial_influence_events.300.t: "Frakce Zaibatsu ztrácí vliv" # todo: NEW TRANSLATION
- SEA_imperial_influence_events.300.desc: "Zaibatsu se snažili zvýšit svůj vliv na [GetImperialInfluenceRulerTitle], ale kvůli svým nedostatkům v tom selhali. Kvůli tomu nyní ztratili tvář a tím i prestiž, což znamená pokles jejich vlivu." # todo: NEW TRANSLATION
- SEA_imperial_influence_events.310.t: "Frakce Zaibatsu usiluje o rozšíření našeho průmyslového základu" # todo: NEW TRANSLATION
- SEA_imperial_influence_events.310.desc: "Vedoucí představitelé zaibatsu předložili své požadavky. Zdá se, že chtějí rozšířit svá holdingu a průmyslové kapacity a zvýšit svůj vliv na [GetImperialInfluenceRulerTitle], a proto požadují, abychom postavili více civilních továren k posílení našeho průmyslového základu. Zdá se, že jsou ochotni projevit trochu trpělivosti, ale nečekají věčně." # todo: NEW TRANSLATION
- SEA_imperial_influence_events.320.t: "Frakce Zaibatsu žádá politická jmenování" # todo: NEW TRANSLATION
- SEA_imperial_influence_events.320.desc: "Vedoucí zaibatsu předali své požadavky. Zdá se, že chtějí, aby byl alespoň jeden z jejich členů umístěn v poradním sboru [GetImperialInfluenceRulerTitle], aby mohli řídit industrializaci a směřování národa. Zdá se, že jsou ochotni projevit trochu trpělivosti, ale nečekají věčně." # todo: NEW TRANSLATION
- SEA_imperial_influence_events.330.t: "Frakce Zaibatsu žádá změny hospodářských zákonů" # todo: NEW TRANSLATION
- SEA_imperial_influence_events.330.desc: "Vedoucí zaibatsu předložili své požadavky. Chtějí, abychom upravili ekonomickou strategii země a aby více prostředků šlo směrem k průmyslovým konglomerátům. Navzdory záminkám o posílení ekonomiky se zdá, že také touží zvýšit svou kontrolu a vliv na [GetImperialInfluenceRulerTitle]. Zdá se, že jsou ochotni projevit trochu trpělivosti, ale nečekají věčně." # todo: NEW TRANSLATION
- SEA_imperial_influence_events.340.t: "Frakce Zaibatsu požaduje, abychom najali průmyslovou společnost" # todo: NEW TRANSLATION
- SEA_imperial_influence_events.340.desc: "Vedoucí zaibatsu předložili své požadavky. Zdá se, že chtějí, aby byla alespoň jedna z jejich společností najata pro přímé zakázky [GetImperialInfluenceRulerTitle], aby mohli řídit industrializaci a směřování národa. Zdá se, že jsou ochotni projevit trochu trpělivosti, ale nečekají věčně." # todo: NEW TRANSLATION
+ SEA_imperial_influence_events.300.t: "Frakce Zaibacu ztrácí vliv" # todo: NEW TRANSLATION
+ SEA_imperial_influence_events.300.desc: "Zaibacu se snažili zvýšit svůj vliv na [GetImperialInfluenceRulerTitle], ale kvůli svým nedostatkům v tom selhali. Kvůli tomu nyní ztratili tvář a tím i prestiž, což znamená pokles jejich vlivu." # todo: NEW TRANSLATION
+ SEA_imperial_influence_events.310.t: "Frakce Zaibacu usiluje o rozšíření našeho průmyslového základu" # todo: NEW TRANSLATION
+ SEA_imperial_influence_events.310.desc: "Vedoucí představitelé zaibacu předložili své požadavky. Zdá se, že chtějí rozšířit svá holdingu a průmyslové kapacity a zvýšit svůj vliv na [GetImperialInfluenceRulerTitle], a proto požadují, abychom postavili více civilních továren k posílení našeho průmyslového základu. Zdá se, že jsou ochotni projevit trochu trpělivosti, ale nečekají věčně." # todo: NEW TRANSLATION
+ SEA_imperial_influence_events.320.t: "Frakce Zaibacu žádá politická jmenování" # todo: NEW TRANSLATION
+ SEA_imperial_influence_events.320.desc: "Vedoucí zaibacu předali své požadavky. Zdá se, že chtějí, aby byl alespoň jeden z jejich členů umístěn v poradním sboru [GetImperialInfluenceRulerTitle], aby mohli řídit industrializaci a směřování národa. Zdá se, že jsou ochotni projevit trochu trpělivosti, ale nečekají věčně." # todo: NEW TRANSLATION
+ SEA_imperial_influence_events.330.t: "Frakce Zaibacu žádá změny hospodářských zákonů" # todo: NEW TRANSLATION
+ SEA_imperial_influence_events.330.desc: "Vedoucí zaibacu předložili své požadavky. Chtějí, abychom upravili ekonomickou strategii země a aby více prostředků šlo směrem k průmyslovým konglomerátům. Navzdory záminkám o posílení ekonomiky se zdá, že také touží zvýšit svou kontrolu a vliv na [GetImperialInfluenceRulerTitle]. Zdá se, že jsou ochotni projevit trochu trpělivosti, ale nečekají věčně." # todo: NEW TRANSLATION
+ SEA_imperial_influence_events.340.t: "Frakce Zaibacu požaduje, abychom najali průmyslovou společnost" # todo: NEW TRANSLATION
+ SEA_imperial_influence_events.340.desc: "Vedoucí zaibacu předložili své požadavky. Zdá se, že chtějí, aby byla alespoň jedna z jejich společností najata pro přímé zakázky [GetImperialInfluenceRulerTitle], aby mohli řídit industrializaci a směřování národa. Zdá se, že jsou ochotni projevit trochu trpělivosti, ale nečekají věčně." # todo: NEW TRANSLATION
  SEA_imperial_influence_events.400.t: "Civilní vláda ztrácí vliv" # todo: NEW TRANSLATION
  SEA_imperial_influence_events.400.desc: "Civilní vláda se snažila zvýšit svůj vliv na [GetImperialInfluenceRulerTitle], ale kvůli svým nedostatkům v tom selhala. Kvůli tomu nyní ztratila tvář a tím i prestiž, což znamená pokles jejich vlivu." # todo: NEW TRANSLATION
  SEA_imperial_influence_events.420.t: "Frakce civilní vlády žádá politická jmenování" # todo: NEW TRANSLATION
@@ -797,25 +797,25 @@
  SEA_imperial_influence_events.440.desc: "Vůdci stran předložili své požadavky. Zdá se, že jsou znepokojeni rostoucí mocí a vlivem armády na [GetImperialInfluenceRulerTitle] a požadují rychlé kroky k omezení jejich růstu a moci. Zdá se, že jsou ochotni projevit trochu trpělivosti, ale nečekají věčně." # todo: NEW TRANSLATION
  SEA_imperial_influence_events.450.t: "Frakce civilní vlády usiluje o omezení vlivu námořnictva" # todo: NEW TRANSLATION
  SEA_imperial_influence_events.450.desc: "Vůdci stran předložili své požadavky. Zdá se, že jsou znepokojeni rostoucí mocí a vlivem námořnictva na [GetImperialInfluenceRulerTitle] a požadují rychlé kroky k omezení jejich růstu a moci. Zdá se, že jsou ochotni projevit trochu trpělivosti, ale nečekají věčně." # todo: NEW TRANSLATION
- SEA_imperial_influence_events.460.t: "Frakce civilní vlády usiluje o omezení vlivu zaibatsu" # todo: NEW TRANSLATION
- SEA_imperial_influence_events.460.desc: "Vůdci stran předložili své požadavky. Zdá se, že jsou znepokojeni rostoucí mocí a vlivem zaibatsu na [GetImperialInfluenceRulerTitle] a požadují rychlé kroky k omezení jejich růstu a moci. Zdá se, že jsou ochotni projevit trochu trpělivosti, ale nečekají věčně." # todo: NEW TRANSLATION
+ SEA_imperial_influence_events.460.t: "Frakce civilní vlády usiluje o omezení vlivu zaibacu" # todo: NEW TRANSLATION
+ SEA_imperial_influence_events.460.desc: "Vůdci stran předložili své požadavky. Zdá se, že jsou znepokojeni rostoucí mocí a vlivem zaibacu na [GetImperialInfluenceRulerTitle] a požadují rychlé kroky k omezení jejich růstu a moci. Zdá se, že jsou ochotni projevit trochu trpělivosti, ale nečekají věčně." # todo: NEW TRANSLATION
  SEA_japan_air_accidents_events.01.t: "Tragická smrt $JAP_isoroku_yamamoto$" # todo: NEW TRANSLATION
  SEA_japan_air_accidents_events.01.desc: "Admirál Isoroku Yamamoto byl dnes dříve sestřelen nepřátelskou palbou. Skupina [USA.GetAdjective] stíhaček ho zachytila poté, co odposlechly naše zpravodajské přenosy. Svůj skandální útok pojmenovali 'Operation Vengeance', což jasně ukazuje, že chtěli vyslat zprávu. Zatímco národ oplakává ztrátu tohoto velkého bojovníka, nesmíme zapomenout na povinnost porazit tohoto nečestného nepřítele!" # todo: NEW TRANSLATION
  SEA_japan_air_accidents_events.01.a: "Zničující rána..." # todo: NEW TRANSLATION
  SEA_japan_air_accidents_events.02.t: "Operace Pomsta zmařena" # todo: NEW TRANSLATION
  SEA_japan_air_accidents_events.02.desc: "Admirál Isoroku Yamamoto se dnes dříve ocitl pod palbou nepřítele při přeletu. Dokázal kontaktovat námořní letectvo v regionu, vyhnout se zasypání palbou a podařilo se mu uniknout a bezpečně přistát se svým letadlem. Admirál byl chválen za svou odvahu a zachování klidu v tak vypjaté situaci." # todo: NEW TRANSLATION
  SEA_japan_air_accidents_events.02.a: "Jeho čest byla zachována" # todo: NEW TRANSLATION
- SEA_japan_news_events.01.t: "[JAP.GetLeader] se postavil proti vojenskému vměšování" # todo: NEW TRANSLATION
- SEA_japan_news_events.01.desc: "\n Ve vášnivé řeči pronesené [JAP.GetLeader], prohlašuje, že vojsko tentokrát přehnalo svou moc po nedávném pokusu o státní převrat frakce Kōdōha v armádě. Dále tvrdí, že 'pokud nespočet atentátů a pokusů o sesazení naší vlády okrajovými skupinami nestačil, nyní se také snaží využít nedávné události k zesílení vlastní moci a strhnout kontrolu nad naším národem z rukou jeho obyvatel. To nemůže být ponecháno!' \n\nVypadá to, že v [JAP.GetNameDef] může vznikat konflikt." # todo: NEW TRANSLATION
- SEA_japan_news_events.01.a: "Musíme se vrátit k způsobům éry Taishō!" # todo: NEW TRANSLATION
- SEA_japan_news_events.01.b: "Vypadá to, že někdo konečně dostal odvahu" # todo: NEW TRANSLATION
- SEA_japan_news_events.02.t: "Vznik Velké východoasijské sféry společného blahobytu" # todo: NEW TRANSLATION
- SEA_japan_news_events.02.desc: "\nS navrhovanými cíli zajistit ekonomickou soběstačnost a spolupráci mezi členskými státy, spolu s odoláváním vlivu západního imperialismu a sovětského komunismu, dnes [JAP.GetLeader] oznámil založení Dai Tōa Kyōeiken. Zda je toto skutečným cílem unie, nebo jen dalším důmyslným tahem [JAP.GetAdjective] propagandistického stroje, je stále na myslích všech." # todo: NEW TRANSLATION
- SEA_japan_news_events.02.a: "Přineseme prosperitu celé Asii!" # todo: NEW TRANSLATION
- SEA_japan_news_events.02.b: "Další lest propagandistického stroje" # todo: NEW TRANSLATION
- SEA_japan_news_events.03.t: "Pád Rangúnu" # todo: NEW TRANSLATION
- SEA_japan_news_events.03.d: "Japonské ofenzívy pokračují v Barmě a nedávno došlo k pádu Rangúnu. Jako hlavní město Britské Barmy má toto město obrovský strategický význam a jeho ztráta se může ukázat jako rozhodující faktor v probíhající kampani v Barmě.\n\nGuvernér kolonií měl být údajně zajat japonskými předvoji, když dohlížel na přemístění svých věcí z Guvernérského domu na konvoj nákladních automobilů, ale toto zatím nebylo potvrzeno." # todo: NEW TRANSLATION
- SEA_japan_news_events.03.a: "Další vítězství proti imperialismu!" # todo: NEW TRANSLATION
+ SEA_japan_news_events.01.t: "[JAP.GetLeader] odsuzuje vměšování armády"
+ SEA_japan_news_events.01.desc: "\nV ohnivém projevu, který pronesl [JAP.GetLeader], prohlásil, že armáda tentokrát zachází příliš daleko - a to po nedávném pokusu o převrat provedeném frakcí Kódóha uvnitř armády. Dále uvedl, že „pokud nestačila bezpočetná atentátní spiknutí a pokusy extremistů svrhnout naši vládu, nyní se snaží využít posledního incidentu k posílení vlastní moci a odtržení naší země z rukou jejího lidu. To nesmí pokračovat!“\n\nZdá  se, že [JAP.GetNameDef] je na pokraji vnitřního konfliktu."
+ SEA_japan_news_events.01.a: "Musíme se vrátit k duchu éry Taišó!"
+ SEA_japan_news_events.01.b: "Vypadá to, že se konečně někdo ozval."
+ SEA_japan_news_events.02.t: "Vznik Velké východoasijské sféry společné prosperity"
+ SEA_japan_news_events.02.desc: "\nS deklarovaným cílem zajistit hospodářskou soběstačnost a spolupráci mezi členskými státy a zároveň čelit vlivu západního imperialismu a sovětského komunismu dnes [JAP.GetLeader] oznámil založení Dai Tóa Kjóejken. Zda je to skutečný cíl tohoto svazku, nebo jen další promyšlený tah [JAP.GetAdjective]  propagandistického aparátu, zůstává otázkou na rtech všech."
+ SEA_japan_news_events.02.a: "Přineseme Asii prosperitu!"
+ SEA_japan_news_events.02.b: "Další trik propagandistů."
+ SEA_japan_news_events.03.t: "Pád Rangúnu"
+ SEA_japan_news_events.03.d: "Japonské ofenzivy v Barmě pokračují a nedávno došlo k pádu Rangúnu. Jako hlavní město Britské Barmy má nesmírný strategický význam a jeho ztráta se může stát rozhodujícím faktorem probíhající barmské kampaně.\n\nPodle zpráv byl koloniální guvernér údajně zajat japonskými předvojovými jednotkami, když dohlížel na  nakládku svých osobních věcí z guvernérského sídla do kolonny nákladních vozů - to však dosud nebylo potvrzeno."
+ SEA_japan_news_events.03.a: "Další vítězství nad imperialismem!"
  SEA_china.1.t: "[FROM.GetNameDefCap] žádá naši podporu" # todo: NEW TRANSLATION
  SEA_china.1.desc: "Obdrželi jsme žádost od [FROM.GetNameDef], abychom poslali materiální podporu. Ačkoliv [FROM.GetLeader] v minulosti učinil pochybné výroky o nás, může to být příležitost vázat zahraniční zájmy v regionu." # todo: NEW TRANSLATION
  SEA_china.1.a: "Podpoříme je" # todo: NEW TRANSLATION

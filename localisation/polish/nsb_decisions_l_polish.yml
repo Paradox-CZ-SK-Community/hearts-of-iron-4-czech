@@ -160,7 +160,7 @@
  SOV_SOB_civil_war_divisions_value: "[?SOV.SOV_right_opposition_army_support|%Y0]"
  SOV_SOP_civil_war_divisions_tt: "Podpora armády: [?SOV.SOV_exiles_army_support|%Y0] \nPodpora námořnictva: [?SOV.SOV_exiles_navy_support|%Y0] \nPodpora letectva: [?SOV.SOV_exiles_air_support|%Y0] \n\nPodpora obyvatelstva: [?SOV_opposition_popular_support|Y1]§Y%§!\n (Podpora obyvatelstva ovlivňuje úroveň kapitulace [FROM.GetLeader]a a přidává partyzánské jednotky během války)"
  SOV_SOP_civil_war_divisions_value: "[?SOV.SOV_exiles_army_support|%Y0]"
- SOV_SOS_civil_war_divisions_tt: "Kdyby nyní vypukla občanská válka, [?SOV.SOV_centre_army_support|%Y0] armády, [?SOV.SOV_centre_navy_support|%Y0] námořnictva a [?SOV.SOV_centre_air_support|%Y0] letectva by zůstaly loajální vůči [SOV.GetLeader].\n----\nKaždý den existuje §Y20%§! riziko, že Stalin zahájí válku, pokud paranoia přesáhne §R90%§!\n" # todo: CHANGED
+ SOV_SOS_civil_war_divisions_tt: "Kdyby nyní vypukla občanská válka, [SOV.GetLeader] by se mohl spolehnout na věrnost [?SOV.SOV_centre_army_support|%Y0] armády, [?SOV.SOV_centre_navy_support|%Y0] námořnictva a [?SOV.SOV_centre_air_support|%Y0] letectva.\n----\nKaždý den existuje §Y20%§! riziko, že Stalin zahájí válku, pokud paranoia přesáhne §R90%§!\n"
  SOV_SOS_civil_war_divisions_tt_long: "§YPodpora v občanské válce§!\n§LJe nesmírně důležité zajistit co největší podporu v případě vypuknutí občanské války - jak v ozbrojených silách, tak mezi obyvatelstvem.\n\n§![GetArmedForcesText]\n\n----\nExistuje denní riziko §Y20%§!, že Stalin zahájí válku, pokud je paranoia nad §R90%§!\n----\n[GetCategoryStateText]"
  SOV_SOS_civil_war_divisions_value: "[?SOV.SOV_centre_army_support|%Y0]"
  SOV_SOT_civil_war_divisions_tt: "Podpora armády: [?SOV.SOV_left_opposition_army_support|%Y0] \nPodpora námořnictva: [?SOV.SOV_left_opposition_navy_support|%Y0] \nPodpora letectva: [?SOV.SOV_left_opposition_air_support|%Y0] \n\nPodpora obyvatelstva: [?SOV_opposition_popular_support|Y1]§Y%§!\n (Podpora obyvatelstva ovlivňuje úroveň kapitulace [FROM.GetLeader]a a přidává partyzánské jednotky během války)"
@@ -363,10 +363,10 @@
  SOV_infiltrate_foreign_atomic_programs_dec_cat: "Infiltrujte zahraniční atomové programy"
  SOV_infiltrate_stalinist_plans_in_spain_poum: "Infiltrujte stalinistické velení ve Španělsku"
  SOV_infiltrate_stalinist_plans_in_spain_poum_desc: "Brzy bude do Španělska vyslána nová várka sovětských vojenských poradců, aby pomohli buržoazní republikánské vládě, a my máme šanci mezi nimi propašovat několik antistalinistických agentů.\nTito agenti navážou kontakt a zverbují vojáky, brigadisty a milicionáře sympatizující s POUM na buržoazní republikánské straně, aby vytvořili síť informátorů, která nám umožní znát nepřátelské plány dřív, než budou provedeny."
- SOV_influence_air_opposition_level_tt: "Podpora v letectvu je nižší než §Y70%§!" # todo: CHANGED
+ SOV_influence_air_opposition_level_tt: "Podpora v letectvu je nižší než §Y70%§!"
  SOV_influence_airforce_opposition: "Zvýšit podporu v letectvu"
  SOV_influence_airforce_opposition_desc: "Díky našim kontaktům v ozbrojených silách bychom měli najít piloty a velitele, kteří sympatizují s naší věcí. Mít letectvo na naší straně nám válku nepochybně značně usnadní."
- SOV_influence_airforce_opposition_tt: "Podpora letectva roste" # todo: CHANGED
+ SOV_influence_airforce_opposition_tt: "Podpora letectva roste"
  SOV_influence_army_opposition: "Zvýšit podporu v armádě"
  SOV_influence_army_opposition_desc: "Protože jsme se již infiltrovali do armády, můžeme začít vyhledávat nižší důstojníky a vojáky sympatizující s naší věcí a zajistit, aby se v případě války přidali na naši stranu."
  SOV_influence_army_opposition_level_tt: "Podpora v armádě je menší než §Y70%§!"
@@ -378,7 +378,7 @@
  SOV_influence_navy_opposition_tt: "Podpora v námořnictvu se zvýší"
  SOV_inspection_in_the_administration: "Inspekce ve správě"
  SOV_inspection_in_the_administration_desc: "Provedeme inspekci místních a centrálních správních orgánů, abychom odhalili možné odpůrce a sabotéry."
- SOV_inspection_in_the_airforce: "Inspekce v letectvu" # todo: CHANGED
+ SOV_inspection_in_the_airforce: "Inspekce v letectvu"
  SOV_inspection_in_the_airforce_desc: "Musíme umožnit NKVD provést inspekci v letectvu, aby našla možné odpůrce a sabotéry."
  SOV_inspection_in_the_army: "Inspekce v armádě"
  SOV_inspection_in_the_army_desc: "Musíme umožnit NKVD provést inspekci v armádě, aby našla možné odpůrce a sabotéry."
@@ -549,7 +549,7 @@
  SOV_organize_popular_speeches_poum: "Zorganizovat lidové projevy"
  SOV_organize_popular_speeches_poum_desc: "Naši španělští soudruzi potřebují plnou spolupráci lidu, aby mohli pokračovat ve válečném úsilí. Musíme ve spolupráci s vlivnými členy místních organizací provést informační a agitační kampaň, která znovu zažehne plamen revoluce mezi španělskými masami."
  SOV_paranoia_administration_purgeable_tt: "Podezřelé záležitosti ve správě lze vyšetřit"
- SOV_paranoia_airforce_purgeable_tt: "Podezřelé záležitosti v letectvu lze vyšetřit" # todo: CHANGED
+ SOV_paranoia_airforce_purgeable_tt: "Podezřelé záležitosti v letectvu lze vyšetřit"
  SOV_paranoia_army_purgeable_tt: "Podezřelé záležitosti v armádě lze vyšetřit"
  SOV_paranoia_bg_tooltip: "Pokud hodnota £SOV_paranoia_text_icon §YParanoie§! přesáhne §Y25§!, mohou nastat náhodné čistky. \nČím vyšší £SOV_paranoia_text_icon §YParanoie§! je, a čím déle zůstává na této úrovni, tím je pravděpodobnější, že k čistce dojde. \nPokud hodnota £SOV_paranoia_text_icon §YParanoie§! přesáhne §R75§!, mohou nastat velké čistky. \n\nNěkterá §Yzaměření§!, §Yrozhodnutí§! a §Yefekty§! způsobí okamžité zvýšení/snížení £SOV_paranoia_text_icon §YParanoie§!, a určité rysy poradců či vůdců země budou postupně zvyšovat §YParanoii§!. \n\nDokončení zaměření §Y[GetAppropriateLastPurgeFocusName]§! odstraní systém £SOV_paranoia_text_icon §YParanoie§!."
  SOV_paranoia_calm_down_stalin_cd_tt: "\nToto rozhodnutí bude znovu dostupné za §Y[?SOV_paranoia_calm_down_stalin_re_enable_days] dní§!."
@@ -774,12 +774,12 @@
  SOV_sinkiang_mineral_prospection_sik_desc: "[ROOT.GetAdjectiveCap] úředníci projevili zájem o zlato a vzácné minerály těžené v Altaji, [SIK.GetNameDef]. Abychom získali přístup na trh Sin-ťiangu, navrhneme hledání nových ložisek a zlepšení infrastruktury v oblasti [619.GetName], bohaté na minerály, ale využívané naším sousedem velmi zastaralými metodami."
  SOV_sinkiang_oil_prospection: "Průzkum ropy v severním Sin-ťiangu"
  SOV_sinkiang_oil_prospection_desc: "Oblast [618.GetName] v severní části bývalého Sin-ťiangu je bohatá na ropu a nerosty, ale žádné z těchto ložisek nejsou v současnosti využívány. Musíme provést průzkum zdrojů a vybudovat infrastrukturu, abychom usnadnili těžbu."
- SOV_sinkiang_oil_prospection_flag: "Byl proveden průzkum ropy v severním Sinkiangu" # todo: CHANGED
+ SOV_sinkiang_oil_prospection_flag: "Byl proveden průzkum ropy v severním Sin-ťiangu"
  SOV_sinkiang_oil_prospection_mission_dummy: "[SOV.GetAdjectiveCap] průzkum ropy a nerostů"
  SOV_sinkiang_oil_prospection_rejected_flag: "$SOV_sinkiang_prospection_rejected_flag$"
  SOV_sinkiang_oil_prospection_sik: "Navrhnout průzkum ropy v severním [SIK.GetNameDef]"
  SOV_sinkiang_oil_prospection_sik_desc: "Oblast [618.GetName] v severní části [SIK.GetNameDef] je bohatá na ropu a nerosty, ale žádné z těchto ložisek nejsou naším sousedem využívány. Požádáme o povolení k průzkumu zdrojů v regionu a k těžbě nalezených ložisek."
- SOV_sinkiang_prospection_flag: "Byl proveden průzkum nerostných surovin v jižním Sinkiangu" # todo: CHANGED
+ SOV_sinkiang_prospection_flag: "Byl proveden průzkum nerostných surovin v jižním Sin-ťiangu"
  SOV_sinkiang_prospection_rejected_flag: "Náš návrh byl zamítnut"
  SOV_sinkiang_support_expansion_flag: "Podpořili jsme expanzi Sin-ťiangu vybudováním infrastruktury na nově získaných územích"
  SOV_sinkiang_support_expansion_mission_dummy: "[SOV.GetAdjectiveCap] podpora územní expanze"
@@ -929,4 +929,4 @@
  support_polish_falange_decisions: "Podpora polského falangismu"
  support_polish_falange_decisions_desc: "Fašismus zvítězil v Litvě a nevidíme důvod, proč opustit naše bývalé bratry v Polsku. Šířením falangistických myšlenek mezi obyvatelstvem můžeme posílit [POL.GetFascistParty] a odtud pracovat na prosazení polsko-litevské nadvlády na kontinentu."
  unite_azeris: "Znovusjednotit ázerbájdžánskou diasporu"
- SOV_soviet_civil_war_not_started_tt_NOT: "Sovětská občanská válka začala" # todo: NEW TRANSLATION
+ SOV_soviet_civil_war_not_started_tt_NOT: "Sovětská občanská válka začala"

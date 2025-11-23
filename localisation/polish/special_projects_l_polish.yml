@@ -205,9 +205,9 @@
  SCIENTIST_ADD_XP_SPECIALIZATION_EFFECT: "získává $XP|0Y$ zkušeností v $SPECIALIZATION|Y$"
  SCIENTIST_ALREADY_ASSIGNED: "£trigger_no Již přiřazen k zařízení v $STATE|Y$"
  SCIENTIST_CANT_CLICK: "§RNelze přiřadit tohoto vědce k zařízení v $STATE$§!"
- SCIENTIST_IS_ASSIGNED_TO_A_PROJECT: "Vědec $NAME|Y$ je přiřazen k projektu" # todo: CHANGED
+ SCIENTIST_IS_ASSIGNED_TO_A_PROJECT: "Vědec $NAME|Y$ je přiřazen k projektu"
  SCIENTIST_IS_INJURED: "$NAME|Y$ je zraněn"
- SCIENTIST_IS_NOT_ASSIGNED_TO_A_PROJECT: "Vědec $NAME|Y$ není přiřazen k žádnému projektu" # todo: CHANGED
+ SCIENTIST_IS_NOT_ASSIGNED_TO_A_PROJECT: "Vědec $NAME|Y$ není přiřazen k žádnému projektu"
  SCIENTIST_IS_NOT_INJURED: "$NAME|Y$ je zdravý"
  SCIENTIST_LACKING_SKILL: "§RVědec nemá požadovanou dovednost: §! $SKILL|Y$"
  SCIENTIST_RECRUIT_COST: "£pol_power §Y$AMOUNT$§!"
@@ -471,7 +471,7 @@
  sp_air_earthshaker_bomb_preference_naval_targetting: "Přesnost je klíčová"
  sp_air_earthshaker_bomb_preference_raw_power: "Destruktivní síla"
  sp_air_earthshaker_bomb_unique_reward: "Směr vývoje"
- sp_air_earthshaker_bomb_unique_reward_desc: "Během našeho vývoje jsme si uvědomili, že naše nové poznatky můžeme využít k dalšímu zvýšení ničivé síly našich bomb. Můžeme se zaměřit na zlepšení přesnosti bomb, nebo na zvýšení jejich ničivé síly." # todo: CHANGED
+ sp_air_earthshaker_bomb_unique_reward_desc: "Během našeho vývoje jsme si uvědomili, že naše nové poznatky můžeme využít k dalšímu zvýšení ničivé síly našich bomb. Můžeme se zaměřit na zlepšení přesnosti bomb, nebo na zvýšení jejich ničivé síly."
  sp_air_generic_aerodynamics_advancements_reward: "Pokroky v aerodynamice"
  sp_air_generic_aerodynamics_advancements_reward_desc: "Během práce jsme učinili mnoho poznatků v oblasti aerodynamiky, které mohou prospět výrobě našich letadel."
  sp_air_generic_aerodynamics_advancements_reward_option: "Dobrá zpráva"
@@ -746,7 +746,7 @@
  sp_modern_carrier_eq_bonus_anti_torpedo: "Moderní letadlová loď - Zvýšená ochrana proti torpédům"
  sp_modern_carrier_eq_bonus_armor: "Moderní letadlová loď - Moderní pancíř letadlové paluby"
  sp_modern_carrier_eq_bonus_detection: "Moderní letadlová loď - Zvýšená detekce a povědomí"
- sp_modern_carrier_eq_bonus_light_attack: "Moderní letadlová loď - odstrašení lehkých lodí" # todo: CHANGED
+ sp_modern_carrier_eq_bonus_light_attack: "Moderní letadlová loď - Odstrašení lehkých lodí"
  sp_modern_carrier_eq_bonus_speed: "Moderní letadlová loď - Zlepšení rychlosti"
  sp_multi_charge_large_caliber_gun_small_size_ns: "$multi_charge_large_caliber_gun_small_size$"
  sp_naval_aip_engine: "Pohon nezávislý na vzduchu"
@@ -764,7 +764,7 @@
  sp_naval_anechoic_tiles_preference_b: "Snížená akustická stopa"
  sp_naval_anechoic_tiles_preference_c: "Snížené náklady na trup"
  sp_naval_anechoic_tiles_unique_reward_a: "Nové poznatky - Konstrukce ponorkového trupu"
- sp_naval_anechoic_tiles_unique_reward_a_desc: "Během vývoje anechoických dlaždic jsme zjistili, že naše poznatky můžeme přizpůsobit konstrukci konvenčních ponorek, abychom zlepšili naše schopnosti utajení, nebo trochu ušetřili náklady, přičemž zachováme současnou úroveň viditelnosti" # todo: CHANGED
+ sp_naval_anechoic_tiles_unique_reward_a_desc: "Během vývoje anechoických dlaždic jsme zjistili, že naše poznatky můžeme přizpůsobit konstrukci konvenčních ponorek, abychom zlepšili naše schopnosti utajení, nebo trochu ušetřili náklady, přičemž zachováme současnou úroveň odhalitelnosti."
  sp_naval_cruiser_submarine: "Křižníková ponorka"
  sp_naval_cruiser_submarine_desc: "Ponorka s větším dosahem, navržená k překonávání dlouhých vzdáleností bez podpory, ideální pro útoky na nepřátelskou lodní dopravu."
  sp_naval_cruiser_submarine_free_design: "Křižníková ponorka"
@@ -814,7 +814,7 @@
  sp_naval_midget_submarine_preference_a: "O něco tišší"
  sp_naval_midget_submarine_preference_b: "Méně náchylné k výbuchu"
  sp_naval_midget_submarine_preference_c: "O něco delší dosah"
- sp_naval_midget_submarine_unique_reward_a: "Vtěsnat více" # todo: CHANGED
+ sp_naval_midget_submarine_unique_reward_a: "Vtěsnat více"
  sp_naval_midget_submarine_unique_reward_a_desc: "Uvědomili jsme si, že můžeme specializovat části našich miniponorek, i když to přinese určité kompromisy."
  sp_naval_modern_battleship: "Moderní bitevní loď"
  sp_naval_modern_battleship_desc: "Někdo možná věří, že budoucnost námořního boje bude dominována letadlovými loděmi, my je chceme přesvědčit, že se mýlí."
@@ -830,13 +830,13 @@
  sp_naval_modern_battleship_unique_reward_b: "Moderní bitevní loď - Vrací úder!"
  sp_naval_modern_battleship_unique_reward_b_desc: "Abychom prokázali naši pravdu a udrželi svou pozici, budeme muset odolat nepřátelským útokům. Co bychom měli zlepšit, abychom mohli zasáhnout zpět ty, kteří si dovolí nám stát v cestě?"
  sp_naval_modern_carrier: "Moderní letadlová loď"
- sp_naval_modern_carrier_desc: "Díky nejnovějším pokrokům v lodní výrobě bychom mohli postavit novou generaci letadlových lodí s výrazně většími rozměry a schopnostmi." # todo: CHANGED
+ sp_naval_modern_carrier_desc: "Díky nejnovějším pokrokům v lodní výrobě bychom mohli postavit novou generaci letadlových lodí s výrazně většími rozměry a schopnostmi."
  sp_naval_modern_carrier_free_design: "Moderní letadlová loď"
  sp_naval_modern_carrier_preference_a_a: "Povědomí"
  sp_naval_modern_carrier_preference_a_b: "Nepřátelská dělostřelba"
  sp_naval_modern_carrier_preference_b_a: "Rychlost a odolnost vůči počasí"
  sp_naval_modern_carrier_preference_b_b: "Nepřátelská letadla"
- sp_naval_modern_carrier_preference_c_a: "Odstrašení lehkých lodí" # todo: CHANGED
+ sp_naval_modern_carrier_preference_c_a: "Odstrašení lehkých lodí"
  sp_naval_modern_carrier_preference_c_b: "Nepřátelská torpéda"
  sp_naval_modern_carrier_unique_reward_a: "Moderní letadlová loď - Účel"
  sp_naval_modern_carrier_unique_reward_a_desc: "S novou generací letadlových lodí bychom se mohli zaměřit na určité aspekty naší lodi, abychom lépe vyhověli našim potřebám. Kam bychom měli soustředit naše úsilí?"
@@ -957,7 +957,7 @@
  sp_nuclear_minor_progress_generic_reward: "Menší průlom"
  sp_nuclear_minor_progress_generic_reward_desc: "Naši vědci učinili během práce na nejnovějším prototypu některé skutečně průlomové objevy. Jejich poznatky výrazně pokročily naše znalosti a výzkum v oboru."
  sp_nuclear_missile_submarine_eq_bonus_stealth: "Jaderná ponorka s raketami - Zaměření na steath"
- sp_nuclear_missile_submarine_eq_bonus_strength: "Jaderná raketová ponorka - zvýšená odolnost" # todo: CHANGED
+ sp_nuclear_missile_submarine_eq_bonus_strength: "Jaderná raketová ponorka - Zvýšená odolnost"
  sp_nuclear_project_events.1.a: "To by mohlo být užitečné"
  sp_nuclear_project_events.1.desc: "Ačkoliv zcela náhodně, naši agenti v [FROM.GetNameDef] získali informace o zjevném tajném projektu. Pracovník zapojený do vývoje tajné zbraně, atomové bomby, mluvil o své práci na malém společenském setkání, kterého se zúčastnil i jeden z našich agentů."
  sp_nuclear_project_events.1.t: "Únik informací"
@@ -1006,7 +1006,7 @@
  sp_rocket_relay_failure_reward_desc: "Při přípravě na testovací start byla odhalena závada na relé používaném pro vnitřní řídicí systémy rakety. Inženýři navrhují relé vyměnit před pokračováním, ale rostou obavy z politických důsledků zdržení."
  sp_rocket_relay_failure_reward_reject: "Žádné další zdržení."
  sp_rocket_submarine_eq_bonus_range_increase: "Ponorka s raketami - Prodloužený dosah"
- sp_rocket_submarine_eq_bonus_reliability: "Ponorka vypouštějící střely - důraz na spolehlivost" # todo: CHANGED
+ sp_rocket_submarine_eq_bonus_reliability: "Ponorka vypouštějící střely - Důraz na spolehlivost"
  sp_rocket_submarine_eq_bonus_stealth: "Ponorka s raketami - Zaměření na maskování"
  sp_rocket_turbo_pump_froth_reward: "Problém s pěněním turbopumpy"
  sp_rocket_turbo_pump_froth_reward_accept: "Musíme to vyřešit!"
@@ -1089,7 +1089,7 @@
  sp_thermonuclear_bomb_test_reward_option_no: "Nemůžeme si dovolit materiál."
  sp_thermonuclear_bomb_test_reward_option_yes: "Provést test."
  sp_torpedo_cruiser_eq_bonus_light_attack: "Torpédový křižník - Vylepšení lehkého dělostřelectva"
- sp_torpedo_cruiser_eq_bonus_torpedo: "Torpédový křižník - vylepšené torpédové schopnosti" # todo: CHANGED
+ sp_torpedo_cruiser_eq_bonus_torpedo: "Torpédový křižník - Vylepšené torpédové schopnosti"
  specialization: "Specializace"
  specialization_air: "Aerodynamika a avionika"
  specialization_air_short: "Avionika"
@@ -1099,59 +1099,59 @@
  specialization_naval_short: "Námořnictvo"
  specialization_nuclear: "Jaderný výzkum"
  specialization_nuclear_short: "Fyzika"
- SCIENTIST_TOOLTIP_SUPPORTIVE: "Jako §Hpodpůrný vědec§!, budou pracovat s účinností $VALUE|.0Y$% v §Hzařízení§!, a jako protihodnotu, jakmile bude dokončena §Hiterace§!, jejich země obdrží $PROG|.0Y$% §Hpostupu§! k tomuto §Hprojektu§! a získá $CONT|.0Y$ §Hpříspěvek§! za den ve vaší frakci.\n\nKromě toho každý §Hpodpůrný vědec§! ve vaší frakci zvýší bonus §HZdílení výzkumu§! o §H5%§!." # todo: NEW TRANSLATION
- PROGRAM_ITEM_SUPPORTING_SCIENTISTS_TOOLTIP_HEADER: "Vědci pomáhající na tomto projektu:" # todo: NEW TRANSLATION
- PROGRAM_ITEM_SCIENTIST_TOOLTIP_NAME: "$NAME|Y$ ($COUNTRY$)" # todo: NEW TRANSLATION
- PROGRAM_SCIENTIST_XP: "Denní zisk zkušeností: $VALUE|2H$" # todo: NEW TRANSLATION
- PROGRAM_SCIENTIST_BREAKTHROUGH: "Poskytuje průlomový postup $VALUE|%%H$ pro $SPECIALIZATION|H$" # todo: NEW TRANSLATION
- PROGRAM_SCIENTIST_BONUS: "Poskytuje bonus k technologickému výzkumu $VALUE|H%$ pro $SPECIALIZATION|H$" # todo: NEW TRANSLATION
- SPECIAL_PROJECT_CANNOT_ASSIGN_SCIENTIST_DISMANTLED: "§RZařízení je rozebíráno§!" # todo: NEW TRANSLATION
- SPECIAL_PROJECT_CANNOT_ASSIGN_SCIENTIST_OWN_FACILITY: "§R-Nejde přiřadit podpůrné vědce k vašemu vlastnímu zařízení§!" # todo: NEW TRANSLATION
- SPECIAL_PROJECT_CANNOT_ASSIGN_SCIENTIST_CANNOT_AFFORD: "§R-Nemůžete si dovolit§!" # todo: NEW TRANSLATION
- SPECIAL_PROJECT_CANNOT_ASSIGN_SCIENTIST_ALREADY_HAS_ONE: "§R-K jednomu zařízení lze přiřadit pouze jednoho podpůrného vědce§!" # todo: NEW TRANSLATION
- SPECIAL_PROJECT_RESEARCH_TIME_TOOLTIP_SCIENTIST_MODIFIER_ADDITIONAL: "Jako podpůrný vědec: ($SCIENTIST_NAME$) $SCIENTIST_TRAIT|Y$ $MODIFIER_NAME_AND_VALUE$" # todo: NEW TRANSLATION
- SPECIAL_PROJECT_RESEARCH_TIME_TOOLTIP_SCIENTIST_SKILL_ADDITIONAL: "Podpůrný vědec: $SCIENTIST_NAME$ ($SKILL_LEVEL_NAME|Y$): $MODIFIER_VALUE|%+=$" # todo: NEW TRANSLATION
- JAP_sp_naval_midget_submarine: "Ponorka triedy Ko-hyoteki" # todo: NEW TRANSLATION
- sp_naval_support_ships: "Podpůrné lodě" # todo: NEW TRANSLATION
- sp_naval_support_ships_desc: "Podpůrné lodě pomohou udržet naší nadvládu na moři tím, že udrží naše flotily plující a efektivní i během dlouhodobých nasazení." # todo: NEW TRANSLATION
- sp_naval_escort_carrier: "Eskortní letadlovka" # todo: NEW TRANSLATION
- sp_naval_escort_carrier_desc: "Abychom zajistili naše zásobovací trasy, chceme vyvinout menší, ekonomičtější letadlovky, které budou poskytovat cenově efektivní letecké krytí a protiponorkové schopnosti po oceánech." # todo: NEW TRANSLATION
- sp_naval_escort_carrier_free_design: "Eskortní letadlovka" # todo: NEW TRANSLATION
- sp_naval_submarine_carrier: "Ponorkový nosič letadel" # todo: NEW TRANSLATION
- sp_naval_submarine_carrier_desc: "Hledáme vývoj nového typu ponorky, schopné uložit a vypustit více letadel, aby plnily mise přesahující letecký průzkum." # todo: NEW TRANSLATION
- sp_naval_submarine_carrier_free_design: "Ponorkový nosič letadel" # todo: NEW TRANSLATION
- sp_naval_support_ships_unique_reward_a: "Pomocné lodě - zaměření na zásobování" # todo: NEW TRANSLATION
- sp_naval_support_ships_unique_reward_a_desc: "I když je hodnota podpůrných lodí nesporná, musíme rozhodnout, jaké bude jejich operační zaměření: cílené doplňování zásob několika lodí, nebo obecné doplňování zásob celé flotily." # todo: NEW TRANSLATION
- sp_naval_support_ships_preference_a_a: "Potřeby několika" # todo: NEW TRANSLATION
- sp_naval_support_ships_preference_b_a: "Najít rovnováhu" # todo: NEW TRANSLATION
- sp_naval_support_ships_preference_c_a: "Potřeby většiny" # todo: NEW TRANSLATION
- sp_naval_support_ships_unique_reward_b: "Pomocné lodě - opravné kapacity" # todo: NEW TRANSLATION
- sp_naval_support_ships_unique_reward_b_desc: "Klíčová otázka pro naši organizaci opravních lodí: buď větší počet malých opravárenských týmů, schopných obsloužit velké množství lodí pomalu, nebo menší počet lépe vybavených týmů, které mohou opravit méně lodí, ale důkladněji." # todo: NEW TRANSLATION
- sp_naval_support_ships_preference_a_b: "Širší pokrytí" # todo: NEW TRANSLATION
- sp_naval_support_ships_preference_b_b: "Najít rovnováhu" # todo: NEW TRANSLATION
- sp_naval_support_ships_preference_c_b: "Koncentrované úsilí" # todo: NEW TRANSLATION
- sp_naval_submarine_carrier_unique_reward_a: "Vylepšení ponorkových nosičů" # todo: NEW TRANSLATION
- sp_naval_submarine_carrier_unique_reward_a_desc: "Naše ponorkové nosiče posouvají hranice námořního inženýrství a v každé oblasti nemohou být stejně dobré. Upřednostníme dojezd, posílení trupu nebo sníženou detekovatelnost?" # todo: NEW TRANSLATION
- sp_naval_submarine_carrier_preference_a: "Prodloužený dojezd" # todo: NEW TRANSLATION
- sp_naval_submarine_carrier_preference_b: "Zesílená konstrukce" # todo: NEW TRANSLATION
- sp_naval_submarine_carrier_preference_c: "Snížená detekovatelnost" # todo: NEW TRANSLATION
- sp_naval_escort_carrier_unique_reward_a: "Návrhy konstrukce eskortních letadlovek" # todo: NEW TRANSLATION
- sp_naval_escort_carrier_unique_reward_a_desc: "Eskortní letadlovka se snaží vměstnat velkou schopnost do poměrně malého trupu. Musíme si vybrat mezi důrazem na dojezd, odolnost nebo rychlost." # todo: NEW TRANSLATION
- sp_naval_escort_carrier_preference_a_a: "Operační dojezd" # todo: NEW TRANSLATION
- sp_naval_escort_carrier_preference_b_a: "Silnější trup" # todo: NEW TRANSLATION
- sp_naval_escort_carrier_preference_c_a: "Vyšší rychlost" # todo: NEW TRANSLATION
- sp_naval_escort_carrier_unique_reward_b: "Priorita průzkumu" # todo: NEW TRANSLATION
- sp_naval_escort_carrier_unique_reward_b_desc: "Letecká skupina eskortní letadlovky je nutně omezená velikostí. Mají se specializovat na protiponorkové operace, na vyhledávání povrchových cílů, nebo zvolit univerzální víceúčelový přístup?" # todo: NEW TRANSLATION
- sp_naval_escort_carrier_preference_a_b: "Ponorky" # todo: NEW TRANSLATION
- sp_naval_escort_carrier_preference_b_b: "Bez preferencí" # todo: NEW TRANSLATION
- sp_naval_escort_carrier_preference_c_b: "Povrchové lodě" # todo: NEW TRANSLATION
- sp_naval_escort_carrier_eq_bonus_range: "Eskortní letadlovka - zvýšený dojezd" # todo: NEW TRANSLATION
- sp_naval_escort_carrier_eq_bonus_strength: "Eskortní letadlovka - zesílená konstrukce" # todo: NEW TRANSLATION
- sp_naval_escort_carrier_eq_bonus_speed: "Eskortní letadlovka - výkonnější motory" # todo: NEW TRANSLATION
- sp_naval_escort_carrier_eq_bonus_sub_detection: "Eskortní letadlovka - zaměření na protiponorkové operace" # todo: NEW TRANSLATION
- sp_naval_escort_carrier_eq_bonus_compromise: "Eskortní letadlovka - univerzální použití" # todo: NEW TRANSLATION
- sp_naval_escort_carrier_eq_bonus_surface_detection: "Eskortní letadlovka - zaměření na vyhledávání povrchových lodí" # todo: NEW TRANSLATION
- sp_naval_submarine_carrier_eq_bonus_range: "Ponorkový nosič - prodloužený dojezd" # todo: NEW TRANSLATION
- sp_naval_submarine_carrier_eq_bonus_strength: "Ponorkový nosič - pevná konstrukce" # todo: NEW TRANSLATION
- sp_naval_submarine_carrier_eq_bonus_stealth: "Ponorkový nosič - snížená detekovatelnost" # todo: NEW TRANSLATION
- JAP_sp_air_helicopter: "Kajaba Ka-1" # todo: NEW TRANSLATION
+ SCIENTIST_TOOLTIP_SUPPORTIVE: "Jako §HPodpůrný vědec§! bude pracovat s efektivitou $VALUE|.0Y$ % v rámci §Hzařízení§!. Po dokončení jedné §Hiterace§! pak jeho země obdrží $PROG|.0Y$ % §Hpostupu§! na daném §Hprojektu§! a bude získávat $CONT|.0Y$ §Hpříspěvku§! denně pro váš blok.\n\nNavíc každý §Hpodpůrný vědec§! ve vašem bloku zvýší bonus §Hsdílení výzkumu§! o §H5 %§!."
+ PROGRAM_ITEM_SUPPORTING_SCIENTISTS_TOOLTIP_HEADER: "Vědci vypomáhající na tomto projektu:"
+ PROGRAM_ITEM_SCIENTIST_TOOLTIP_NAME: "$NAME|Y$ ($COUNTRY$)"
+ PROGRAM_SCIENTIST_XP: "Denní zisk zkušeností: $VALUE|2H$"
+ PROGRAM_SCIENTIST_BREAKTHROUGH: "Poskytuje průlomový postup $VALUE|%%H$ pro $SPECIALIZATION|H$"
+ PROGRAM_SCIENTIST_BONUS: "Poskytuje bonus k technologickému výzkumu $VALUE|H%$ pro $SPECIALIZATION|H$"
+ SPECIAL_PROJECT_CANNOT_ASSIGN_SCIENTIST_DISMANTLED: "§RZařízení je demontováno§!"
+ SPECIAL_PROJECT_CANNOT_ASSIGN_SCIENTIST_OWN_FACILITY: "§R- Nelze přiřadit podpůrné vědce k vašemu vlastnímu zařízení§!"
+ SPECIAL_PROJECT_CANNOT_ASSIGN_SCIENTIST_CANNOT_AFFORD: "§R- Nedostatek prostředků§!"
+ SPECIAL_PROJECT_CANNOT_ASSIGN_SCIENTIST_ALREADY_HAS_ONE: "§R- K jednomu zařízení lze přiřadit pouze jednoho podpůrného vědce§!"
+ SPECIAL_PROJECT_RESEARCH_TIME_TOOLTIP_SCIENTIST_MODIFIER_ADDITIONAL: "Jako podpůrný vědec: ($SCIENTIST_NAME$) $SCIENTIST_TRAIT|Y$ $MODIFIER_NAME_AND_VALUE$"
+ SPECIAL_PROJECT_RESEARCH_TIME_TOOLTIP_SCIENTIST_SKILL_ADDITIONAL: "Podpůrný vědec: $SCIENTIST_NAME$ ($SKILL_LEVEL_NAME|Y$): $MODIFIER_VALUE|%+=$"
+ JAP_sp_naval_midget_submarine: "Ponorka třídy Kó-hjóteki"
+ sp_naval_support_ships: "Podpůrné lodě"
+ sp_naval_support_ships_desc: "Podpůrné lodě nám pomohou udržet převahu na moři tím, že udrží naše flotily v provozu a bojeschopné i během dlouhodobých nasazení."
+ sp_naval_escort_carrier: "Eskortní letadlová loď"
+ sp_naval_escort_carrier_desc: "Abychom ochránili naše zásobovací trasy, chceme vyvinout menší a hospodárnější letadlové lodě poskytující cenově efektivní vzdušné krytí a protiponorkové schopnosti napříč oceány."
+ sp_naval_escort_carrier_free_design: "Eskortní letadlová loď"
+ sp_naval_submarine_carrier: "Letadlová ponorka"
+ sp_naval_submarine_carrier_desc: "Usilujeme o vývoj nového typu ponorky, schopné uchovávat a vypouštět více letounů, aby mohla provádět mise přesahující pouhý vzdušný průzkum."
+ sp_naval_submarine_carrier_free_design: "Letadlová ponorka"
+ sp_naval_support_ships_unique_reward_a: "Pomocné lodě - Zaměření na zásobování"
+ sp_naval_support_ships_unique_reward_a_desc: "Ačkoli je hodnota podpůrných lodí nesporná, musíme rozhodnout o jejich  operačním zaměření: cílené doplňování zásob menšího počtu lodí, nebo obecné doplňování zásob celé flotily."
+ sp_naval_support_ships_preference_a_a: "Potřeby několika"
+ sp_naval_support_ships_preference_b_a: "Najít rovnováhu"
+ sp_naval_support_ships_preference_c_a: "Potřeby většiny"
+ sp_naval_support_ships_unique_reward_b: "Pomocné lodě - Opravné kapacity"
+ sp_naval_support_ships_unique_reward_b_desc: "Klíčová otázka pro naši organizaci opravárenských lodí: buď větší počet malých opravárenských týmů, které dokážou pomalu obsloužit mnoho lodí, nebo menší počet lépe vybavených týmů, které mohou opravit méně lodí, ale důkladněji."
+ sp_naval_support_ships_preference_a_b: "Širší pokrytí"
+ sp_naval_support_ships_preference_b_b: "Najít rovnováhu"
+ sp_naval_support_ships_preference_c_b: "Koncentrované úsilí"
+ sp_naval_submarine_carrier_unique_reward_a: "Vylepšení letadlových ponorek"
+ sp_naval_submarine_carrier_unique_reward_a_desc: "Naše letadlové ponorky posouvají hranice námořního inženýrství a nemohou být stejně silné ve všech oblastech. Upřednostníme operační rádius, zesílenou konstrukci, nebo sníženou odhalitelnost?"
+ sp_naval_submarine_carrier_preference_a: "Prodloužený operační rádius"
+ sp_naval_submarine_carrier_preference_b: "Zesílená konstrukce"
+ sp_naval_submarine_carrier_preference_c: "Snížená odhalitelnost"
+ sp_naval_escort_carrier_unique_reward_a: "Návrhy konstrukce eskortních letadlových lodí"
+ sp_naval_escort_carrier_unique_reward_a_desc: "Eskortní letadlová loď se snaží vměstnat značné schopnosti do poměrně malého trupu. Musíme si vybrat mezi důrazem na operační rádius, odolnost nebo rychlost."
+ sp_naval_escort_carrier_preference_a_a: "Operační rádius"
+ sp_naval_escort_carrier_preference_b_a: "Silnější trup"
+ sp_naval_escort_carrier_preference_c_a: "Vyšší rychlost"
+ sp_naval_escort_carrier_unique_reward_b: "Priorita průzkumu"
+ sp_naval_escort_carrier_unique_reward_b_desc: "Letecká skupina eskortní letadlové lodě je nutně omezená velikostí. Má se specializovat na protiponorkové operace, vyhledávání povrchových cílů, nebo zvolit univerzální víceúčelový přístup?"
+ sp_naval_escort_carrier_preference_a_b: "Ponorky"
+ sp_naval_escort_carrier_preference_b_b: "Bez preferencí"
+ sp_naval_escort_carrier_preference_c_b: "Hladinová plavidla"
+ sp_naval_escort_carrier_eq_bonus_range: "Eskortní letadlová loď - Zvýšený operační rádius"
+ sp_naval_escort_carrier_eq_bonus_strength: "Eskortní letadlová loď - Zesílená konstrukce"
+ sp_naval_escort_carrier_eq_bonus_speed: "Eskortní letadlová loď - Výkonnější motory"
+ sp_naval_escort_carrier_eq_bonus_sub_detection: "Eskortní letadlová loď - Zaměření na protiponorkové operace"
+ sp_naval_escort_carrier_eq_bonus_compromise: "Eskortní letadlová loď - Univerzální použití"
+ sp_naval_escort_carrier_eq_bonus_surface_detection: "Eskortní letadlová loď - Zaměření na vyhledávání hladinových plavidel"
+ sp_naval_submarine_carrier_eq_bonus_range: "Letadlová ponorka - Prodloužený operační rádius"
+ sp_naval_submarine_carrier_eq_bonus_strength: "Letadlová ponorka - Zesílený trup"
+ sp_naval_submarine_carrier_eq_bonus_stealth: "Letadlová ponorka - Snížená odhalitelnost"
+ JAP_sp_air_helicopter: "Kajaba Ka-1"

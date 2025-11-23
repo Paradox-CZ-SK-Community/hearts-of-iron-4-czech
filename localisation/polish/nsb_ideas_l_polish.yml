@@ -1,5 +1,5 @@
 ﻿l_polish:
- BALTIC_RAF: "Královské letectvo" # todo: CHANGED
+ BALTIC_RAF: "Královské letectvo"
  BALTIC_RSAF_enfield: "Královský zbrojovka Enfield"
  BALTIC_allied_investments_idea: "Spojenecké investice"
  BALTIC_anti_german_plans: "Plány války proti Německu"
@@ -340,8 +340,8 @@
  SOV_soviet_airforce_aircraft_production_focus_dynamic_modifier: "$SOV_soviet_airforce_dynamic_modifier$"
  SOV_soviet_airforce_aircraft_production_focus_dynamic_modifier_alt: "$SOV_soviet_airforce_dynamic_modifier_alt$"
  SOV_soviet_airforce_aircraft_production_focus_tt: "§YVšechny typy letadel§!: £production_cost Náklady na výrobu: §G-5.00%§!"
- SOV_soviet_airforce_dynamic_modifier: "Sovětské letectvo" # todo: CHANGED
- SOV_soviet_airforce_dynamic_modifier_alt: "Ruské letectvo" # todo: CHANGED
+ SOV_soviet_airforce_dynamic_modifier: "Sovětské letectvo"
+ SOV_soviet_airforce_dynamic_modifier_alt: "Ruské letectvo"
  SOV_soviet_atomic_bomb_project_ns: "Sovětský projekt atomové bomby"
  SOV_soviet_atomic_bomb_project_ns_desc: "$SOV_soviet_atomic_bomb_project_desc$"
  SOV_soviet_commandos_poum: "Sovětské komando"
@@ -514,7 +514,7 @@
  democratic_opposition_idea_1: "Slabá demokratická opozice"
  democratic_opposition_idea_2: "Velmi slabá demokratická opozice"
  discrete_valor_spirit: "Skrytá statečnost"
- discrete_valor_spirit_desc: "Přežít, aby bylo možné bojovat další den." # todo: CHANGED
+ discrete_valor_spirit_desc: "Přežít, aby bylo možné bojovat další den."
  disdain_for_the_digging_spirit: "Pohrdání zákopy"
  disdain_for_the_digging_spirit_desc: "Všude samé bláto - zničí uniformu a vojáci ji pak budou hodiny čistit."
  disorganized_ground_crews_spirit: "Dezorganizované pozemní osádky"
@@ -625,7 +625,7 @@
  material_destruction_spirit_desc: "Ničení vybavení a narušování komunikačních linií nepřítele přinese vítězství rychleji než jakýkoli počet ztrát.\n\n§GTento duch je dostupný díky našim doktrínám.§!"
  merchant_mariners_spirit: "Obchodní námořníci"
  merchant_mariners_spirit_desc: "Námořnické umění je pro nás druhou přirozeností."
- merchant_mariners_spirit_tt: "Noví admirálové: §G50% šance§! začít s §Y"Námořské dědictví"§! vlastností." # todo: CHANGED
+ merchant_mariners_spirit_tt: "Noví admirálové: §G50% šance§! začít s rysem §Y„$naval_lineage$“§!."
  meticulous_preparation_spirit: "Pečlivá příprava"
  meticulous_preparation_spirit_desc: "Válka je chaos, ale i na chaos se lze připravit."
  meticulous_preparation_spirit_tt: "Důstojníci: §G50% šance§! na §Y+1 Plánování a logistiku§! při povýšení."
@@ -633,7 +633,7 @@
  military_appeasement: "Vojenské ústupky"
  mobile_warfare_academy_spirit: "Přijmout budoucnost"
  mobile_warfare_academy_spirit_desc: "Ať už se budoucí bitvy povedou kdekoli, obrněné jednotky sehrají rozhodující roli.\n\n§GTento duch je dostupný díky našim doktrínám.§!"
- mobile_warfare_academy_spirit_tt: "Noví důstojníci: Mají šanci začít s §Y"Pancéřový důstojník"§! vlastností." # todo: CHANGED
+ mobile_warfare_academy_spirit_tt: "Noví důstojníci: mohou začít s rysem §Y„$panzer_leader$“§!."
  mobile_warfare_army_spirit: "Motorizační tah"
  mobile_warfare_army_spirit_desc: "Udeřit rychleji, dojít dál, zvítězit drtivěji!\n\n§GTento duch je dostupný díky našim doktrínám.§!"
  national_propagandist: "Národní propagandista"
