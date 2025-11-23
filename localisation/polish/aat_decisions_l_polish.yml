@@ -1,5 +1,5 @@
 ﻿l_polish:
- DEN_air_drills: "Cvičení letectva" # todo: CHANGED
+ DEN_air_drills: "Letecké cvičení"
  DEN_annex_denmark: "Anektovat [DEN.GetNameDef]"
  DEN_army_drills: "Armádní cvičení"
  DEN_ask_for_weapons_decision: "Požádat o dodávky zbraní"
@@ -675,7 +675,7 @@
  pervert_radiotjanst_unaligned: "$pervert_radiotjanst_parent$ [SWE.GetNeutralParty]"
  restore_radiotjanst_to_democratic: "$pervert_radiotjanst_parent$ [SWE.GetDemocraticParty]"
  when_civil_war_starts_tt: "§YAž vypukne občanská válka:§!"
- NOR_alt_dem_focus_on_training: "$NOR_focus_on_training$" # todo: NEW TRANSLATION
- NOR_alt_dem_focus_on_training_desc: "$NOR_focus_on_training_desc$" # todo: NEW TRANSLATION
- NOR_alt_dem_public_investment_drive: "$NOR_public_investment_drive$" # todo: NEW TRANSLATION
- NOR_alt_dem_public_investment_drive_desc: "$NOR_public_investment_drive_desc$" # todo: NEW TRANSLATION
+ NOR_alt_dem_focus_on_training: "$NOR_focus_on_training$"
+ NOR_alt_dem_focus_on_training_desc: "$NOR_focus_on_training_desc$"
+ NOR_alt_dem_public_investment_drive: "$NOR_public_investment_drive$"
+ NOR_alt_dem_public_investment_drive_desc: "$NOR_public_investment_drive_desc$"

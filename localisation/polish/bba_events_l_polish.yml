@@ -1464,14 +1464,14 @@
  BBA_italy_missiolinis.63.desc: "Mussolini je zcela přesvědčen, že italská armáda je nyní připravena vést válku v plném rozsahu a neztratí palivo okamžitě. Vrchní velení nemusí být zcela uklidněno, ale přesto je potěšeno zásobami, které byly doposud nasbírány."
  BBA_italy_missiolinis.63.t: "Úspěšné rozšíření zásob paliva"
  BBA_italy_missiolinis.71.a: "Aeronautica je naší hrdostí"
- BBA_italy_missiolinis.71.desc: "Od té doby, co Duce poprvé zformoval Regia Aeronautica, se stala symbolem národní hrdosti a jedním z největších letectev na světě. Jediný problém je, že je příliš malé, a Duce byl nyní přesvědčen, aby vyrobil další letadla k posílení Aeronautica." # todo: CHANGED
- BBA_italy_missiolinis.71.t: "Rozšířit letectvo" # todo: CHANGED
+ BBA_italy_missiolinis.71.desc: "Od té doby, co Duce poprvé zformoval Regia Aeronautica, se stala symbolem národní hrdosti a jedním z největších letectev na světě. Jediný problém je, že je příliš malé, a Duce byl nyní přesvědčen, aby vyrobil další letadla k posílení Aeronautica."
+ BBA_italy_missiolinis.71.t: "Rozšířit letectvo"
  BBA_italy_missiolinis.72.a: "Nešťastné"
  BBA_italy_missiolinis.72.desc: "Výroba nových letadel měla být velkým propagačním bodem Duceho, který nyní musí zmenšit své původní záměry. Nedostatek velkého množství nových letadel Duceho rozzuřil a hledá někoho, koho by mohl za tento neúspěch obvinit."
- BBA_italy_missiolinis.72.t: "Skromné letectvo" # todo: CHANGED
+ BBA_italy_missiolinis.72.t: "Skromné letectvo"
  BBA_italy_missiolinis.73.a: "Aeronautica zvítězí!"
- BBA_italy_missiolinis.73.desc: "Mussolini projevil osobní zájem o posílení letectva a využil výrobu nových letadel jako příležitost k předvedení italského průmyslu. S Regia Aeronautica v centru pozornosti vzniklo několik propagačních materiálů oslavujících italské letectví a strojírenství." # todo: CHANGED
- BBA_italy_missiolinis.73.t: "Letectvo úspěšně posíleno" # todo: CHANGED
+ BBA_italy_missiolinis.73.desc: "Mussolini projevil osobní zájem o posílení letectva a využil výrobu nových letadel jako příležitost k předvedení italského průmyslu. S Regia Aeronautica v centru pozornosti vzniklo několik propagačních materiálů oslavujících italské letectví a strojírenství."
+ BBA_italy_missiolinis.73.t: "Letectvo úspěšně posíleno"
  BBA_italy_missiolinis.81.a: "Celý svět to uvidí"
  BBA_italy_missiolinis.81.desc: "Duce se rozhodl ukázat nadřazenost fašistického systému a jak může efektivněji soustředit zdroje a úsilí. Cílem je ukázat Italům - a zbytku světa - jak rychle fašismus dokáže dosáhnout velkých technologických pokroků. Doufá také, že tím sjednotí historicky rozdělený italský lid pod fašismem."
  BBA_italy_missiolinis.81.t: "Technologické inovace"
