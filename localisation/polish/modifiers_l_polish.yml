@@ -162,7 +162,7 @@
  dense_rural_infrastructure: "Hustě osídlená venkovská oblast"
  dig_in_speed_factor_tt: " $MODIFIER_DIG_IN_SPEED_FACTOR$: $RIGHT|+=%1$"
  drift_defence_factor_tt: " $MODIFIER_DRIFT_DEFENCE_FACTOR$: $RIGHT|+=%1$"
- economy_cost_factor_tt: " $economy_cost_factor$: $RIGHT|-=%1$" # todo: CHANGED
+ economy_cost_factor_tt: " $economy_cost_factor$: $RIGHT|-=%1$"
  economy_cost_factor: "Náklady na ekonomické zákony"
  electronics_research: "Rychlost výzkumu elektroniky"
  embargo_cost_factor: "Náklady na embargo"
@@ -242,8 +242,8 @@
  local_factories_tt: " $MODIFIER_LOCAL_FACTORIES$: $RIGHT|+=%1$"
  local_resources_factor_tt: " $MODIFIER_LOCAL_RESOURCES_FACTOR$: $RIGHT|+=%1$"
  local_supplies_tt: " $MODIFIER_LOCAL_SUPPLIES$: $RIGHT|+=%1$"
- MASTER_BUILDS_FREEDOM_EFFECT_DESC: "Investice vládce do ekonomiky podřízeného státu zpomalují jeho pokrok směrem k nezávislosti."
- MASTER_BUILDS_FREEDOM_EFFECT: "Dopad na autonomii při výstavbě vládcem"
+ MASTER_BUILDS_FREEDOM_EFFECT_DESC: "Investice suzeréna do ekonomiky subjektu zpomalují jeho pokrok směrem k nezávislosti."
+ MASTER_BUILDS_FREEDOM_EFFECT: "Dopad na autonomii při výstavbě suzerénem"
  master_ideology_drift_tt: " $MODIFIER_MASTER_IDEOLOGY_DRIFT$: $RIGHT|Y=2$"
  materiel_manufacturer_cost_factor_MIO: "Náklady na materiálovou §Yvojensko-průmyslovou organizaci§!"
  materiel_manufacturer_cost_factor_tt: "$materiel_manufacturer_cost_factor$: $RIGHT|-=%1$"
@@ -432,10 +432,10 @@
  MODIFIER_AIR_WING_XP_LOSS_WHEN_KILLED_FACTOR: "Ztráta zkušeností letky při zabití pilota"
  MODIFIER_AIRFORCE_INTEL_DECRYPTION_BONUS: "Bonus za dešifraci pro letectvo: $VALUE$"
  MODIFIER_AIRFORCE_INTEL_FACTOR: "Letecké zpravodajství"
- MODIFIER_AIRFORCE_INTEL_TO_OTHERS_FACTOR: "Letecké zpravodajství pro ostatní" # todo: CHANGED
- MODIFIER_AIRFORCE_INTEL_TO_OTHERS: "Letecké zpravodajství pro ostatní" # todo: CHANGED
- MODIFIER_AMPHIBIOUS_INVASION_DESC: "Jak rychle se jednotky dostávají na pevninu při obojživelné invazi."
- MODIFIER_AMPHIBIOUS_INVASION: "Rychlost obojživelné invaze"
+ MODIFIER_AIRFORCE_INTEL_TO_OTHERS_FACTOR: "Letecké zpravodajství pro ostatní"
+ MODIFIER_AIRFORCE_INTEL_TO_OTHERS: "Letecké zpravodajství pro ostatní"
+ MODIFIER_AMPHIBIOUS_INVASION_DESC: "Jak rychle se jednotky dostávají na pevninu při obouživelné invazi."
+ MODIFIER_AMPHIBIOUS_INVASION: "Rychlost obouživelné invaze"
  MODIFIER_ANNEX_COST_FACTOR_DESC: "Změna nákladů na anexi země."
  MODIFIER_ANNEX_COST_FACTOR: "Náklady na anexi"
  MODIFIER_ARMOR: "Pancíř"
@@ -554,14 +554,14 @@
  MODIFIER_ATTRITION_FOR_CONTROLLER: "Opotřebení divize"
  MODIFIER_ATTRITION: "Opotřebení divize"
  MODIFIER_AUTONOMY_GAIN_GLOBAL_FACTOR: "Celkový nárůst autonomie"
- MODIFIER_AUTONOMY_GAIN_LL_TO_OVERLORD_DESC: "Vliv na autonomii, kterou subjekt získává nebo ztrácí prostřednictvím Lend-Lease pro vládce"
- MODIFIER_AUTONOMY_GAIN_LL_TO_OVERLORD_FACTOR_DESC: "Vliv na autonomii získanou nebo ztracenou subjektem z Lend-Lease pro vládce"
- MODIFIER_AUTONOMY_GAIN_LL_TO_OVERLORD_FACTOR: "Nárůst autonomie z Lend-Lease pro vládce"
- MODIFIER_AUTONOMY_GAIN_LL_TO_OVERLORD: "Nárůst autonomie prostřednictvím Lend-Lease pro vládce"
- MODIFIER_AUTONOMY_GAIN_LL_TO_SUBJECT_DESC: "Vliv na autonomii získanou nebo ztracenou subjektem z Lend-Lease od vládce"
- MODIFIER_AUTONOMY_GAIN_LL_TO_SUBJECT_FACTOR_DESC: "Vliv na autonomii získanou nebo ztracenou subjektem z Lend-Lease od vládce"
- MODIFIER_AUTONOMY_GAIN_LL_TO_SUBJECT_FACTOR: "Získání autonomie subjektu z Lend-Lease od vládce"
- MODIFIER_AUTONOMY_GAIN_LL_TO_SUBJECT: "Nárůst autonomie subjektu z Lend-Lease od vládce"
+ MODIFIER_AUTONOMY_GAIN_LL_TO_OVERLORD_DESC: "Vliv na autonomii, kterou subjekt získává nebo ztrácí prostřednictvím Lend-Lease pro suzeréna"
+ MODIFIER_AUTONOMY_GAIN_LL_TO_OVERLORD_FACTOR_DESC: "Vliv na autonomii získanou nebo ztracenou subjektem z Lend-Lease pro suzeréna"
+ MODIFIER_AUTONOMY_GAIN_LL_TO_OVERLORD_FACTOR: "Nárůst autonomie z Lend-Lease pro suzeréna"
+ MODIFIER_AUTONOMY_GAIN_LL_TO_OVERLORD: "Nárůst autonomie prostřednictvím Lend-Lease pro suzeréna"
+ MODIFIER_AUTONOMY_GAIN_LL_TO_SUBJECT_DESC: "Vliv na autonomii získanou nebo ztracenou subjektem z Lend-Lease od suzeréna"
+ MODIFIER_AUTONOMY_GAIN_LL_TO_SUBJECT_FACTOR_DESC: "Vliv na autonomii získanou nebo ztracenou subjektem z Lend-Lease od suzeréna"
+ MODIFIER_AUTONOMY_GAIN_LL_TO_SUBJECT_FACTOR: "Získání autonomie subjektu z Lend-Lease od suzeréna"
+ MODIFIER_AUTONOMY_GAIN_LL_TO_SUBJECT: "Nárůst autonomie subjektu z Lend-Lease od suzeréna"
  MODIFIER_AUTONOMY_GAIN_TRADE_DESC: "Vliv na autonomii získanou z obchodu"
  MODIFIER_AUTONOMY_GAIN_TRADE_FACTOR_DESC: "Vliv na autonomii získanou z obchodu"
  MODIFIER_AUTONOMY_GAIN_TRADE_FACTOR: "Nárůst autonomie z obchodu"
@@ -573,12 +573,12 @@
  MODIFIER_AUTONOMY_GAIN: "Denný nárůst autonomie"
  MODIFIER_AUTONOMY_MANPOWER_SHARE_DESC: "Množství personálu požadované divizemi subjektu"
  MODIFIER_AUTONOMY_MANPOWER_SHARE: "Požadavky personálu subjektu"
- MODIFIER_AUTONOMY_SUBJECT_GAIN: "Nárůst autonomie vazala" # todo: CHANGED
+ MODIFIER_AUTONOMY_SUBJECT_GAIN: "Nárůst autonomie subjektu"
  MODIFIER_BASE_FUEL_GAIN_ADD: "Nárůst zásob paliva"
  MODIFIER_BASE_FUEL_GAIN_FACTOR: "Základní přírůstek paliva"
  MODIFIER_BOOST_IDEOLOGY_MISSION_FACTOR: "Vliv mise Posílení ideologie"
  MODIFIER_BOOST_RESISTANCE_FACTOR: "Vliv mise Posílit odboj"
- MODIFIER_BREAKTHROUGH_BONUS_AGAINST_A_COUNTRY: " Průlomový bonus proti státu" # todo: CHANGED
+ MODIFIER_BREAKTHROUGH_BONUS_AGAINST_A_COUNTRY: " Průlomový bonus proti státu"
  MODIFIER_BREAKTHROUGH: "Průlom"
  MODIFIER_BRIGADE_SIZE: "Velikost brigády"
  MODIFIER_BUILDING_CONVERTION_FACTOR: "Faktor konverze továren"
@@ -598,7 +598,7 @@
  modifier_bunker_water_deep_ocean_max_level_terrain_limit: "$modifier_state_bunker_water_deep_ocean_max_level_terrain_limit$"
  modifier_bunker_water_fjords_max_level_terrain_limit: "$modifier_state_bunker_water_fjords_max_level_terrain_limit$"
  modifier_bunker_water_shallow_sea_max_level_terrain_limit: "$modifier_state_bunker_water_shallow_sea_max_level_terrain_limit$"
- MODIFIER_CAN_MASTER_BUILD_FOR_US: "Vládce může provádět výstavbu na území subjektu"
+ MODIFIER_CAN_MASTER_BUILD_FOR_US: "Suzerén může provádět výstavbu na území subjektu"
  MODIFIER_CANNOT_USE_ABILITIES: "Nelze používat bojové schopnosti"
  MODIFIER_CARRIER_CAPACITY_PENALTY_REDUCTION_DESC: "Snižuje penalizaci za přeplnění letadlové lodě letadly. Díky tomu lze nasadit více letadel i při překročení kapacity."
  MODIFIER_CARRIER_CAPACITY_PENALTY_REDUCTION: "Přeplnění letadlové lodě"
@@ -617,10 +617,10 @@
  MODIFIER_CAVALRY_ATTACK_FACTOR: "Útok kavalerie"
  MODIFIER_CAVALRY_DEFENCE_FACTOR: "Obrana kavalerie"
  MODIFIER_CHOOSE_PREFERRED_TACTIC_COST: "Cena výběru preferovaných taktik"
- MODIFIER_CIC_CONSTRUCTION_BOOST_FACTOR: " Násobitel posílení výstavby z trhu" # todo: CHANGED
+ MODIFIER_CIC_CONSTRUCTION_BOOST_FACTOR: " Násobitel posílení výstavby z trhu"
  MODIFIER_CIC_CONSTRUCTION_BOOST: "Základní bonus k rychlosti výstavby"
- MODIFIER_CIC_TO_OVERLORD_FACTOR_DESC: "Kolik §Ycivilních§! továren je ovládáno vládcem subjektu"
- MODIFIER_CIC_TO_OVERLORD_FACTOR: "Civilní továrny pro vládce"
+ MODIFIER_CIC_TO_OVERLORD_FACTOR_DESC: "Kolik §Ycivilních§! továren je ovládáno suzerénem subjektu"
+ MODIFIER_CIC_TO_OVERLORD_FACTOR: "Civilní továrny pro suzeréna"
  MODIFIER_CIC_TO_TARGET_FACTOR_DESC: "Kolik §Ycivilních§! továren je ovládáno cílovou zemí"
  MODIFIER_CIC_TO_TARGET_FACTOR: "Civilní továrny pro cílovou zemi"
  MODIFIER_CIVIL_WAR_INVOLVEMENT_TENSION: "Napětí v důsledku zapojení do občanské války"
@@ -730,9 +730,9 @@
  MODIFIER_ENEMY_SPY_NETWORK_GROWTH: "Nárůst nepřátelské špiónské sítě"
  MODIFIER_ENEMY_TRUCK_ATTRITION_FACTOR: "Opotřebení nepřátelských náklaďáků"
  MODIFIER_EQUIPMENT_CAPTURE_FACTOR_FOR_CONTROLLER: "Modifikátor podílu ukořistěného vybavení pro správce provincie"
- MODIFIER_EQUIPMENT_CAPTURE_FACTOR: "Faktor podílu zabraného vybavení" # todo: CHANGED
+ MODIFIER_EQUIPMENT_CAPTURE_FACTOR: "Faktor podílu zabraného vybavení"
  MODIFIER_EQUIPMENT_CAPTURE_FOR_CONTROLLER: "Zisk ukořistěného vybavení pro správce provincie"
- MODIFIER_EQUIPMENT_CAPTURE: "Podíl zabraného vybavení" # todo: CHANGED
+ MODIFIER_EQUIPMENT_CAPTURE: "Podíl zabraného vybavení"
  MODIFIER_EQUIPMENT_CONVERSION_IC_COST_FACTOR: "Náklady na konverzi vybavení"
  MODIFIER_EQUIPMENT_CONVERSION_SPEED: "Rychlost konverze vybavení"
  MODIFIER_EQUIPMENT_UPGRADE_XP_COST_DESC: "Náklady zkušeností na konverzi vybavení"
@@ -848,11 +848,11 @@
  MODIFIER_LICENSE_AIR_PURCHASE_COST: "Náklady na licenci letounů"
  MODIFIER_LICENSE_ANTI_TANK_EQ_COST_FACTOR: "Cena licence na protitankové vybavení"
  MODIFIER_LICENSE_ANTI_TANK_EQ_PRODUCTION_SPEED_FACTOR: "Rychlost licenční výroby protitankového vybavení"
- MODIFIER_LICENSE_ANTI_TANK_EQ_TECH_DIFFERENCE_SPEED_FACTOR: "Rychlost licenční výroby kvůli technologickému rozdílu – protitankové vybavení"
+ MODIFIER_LICENSE_ANTI_TANK_EQ_TECH_DIFFERENCE_SPEED_FACTOR: "Rychlost licenční výroby kvůli technologickému rozdílu - protitankové vybavení"
  MODIFIER_LICENSE_ARMOR_PURCHASE_COST: "Cena licence na obrněnce"
  MODIFIER_LICENSE_ARTILLERY_EQ_COST_FACTOR: "Modifikátor ceny licence na dělostřeleckou techniku"
  MODIFIER_LICENSE_ARTILLERY_EQ_PRODUCTION_SPEED_FACTOR: "Rychlost licenční výroby dělostřelecké techniky"
- MODIFIER_LICENSE_ARTILLERY_EQ_TECH_DIFFERENCE_SPEED_FACTOR: "Rychlost licenční výroby kvůli technologickému rozdílu – dělostřelecká technika"
+ MODIFIER_LICENSE_ARTILLERY_EQ_TECH_DIFFERENCE_SPEED_FACTOR: "Rychlost licenční výroby kvůli technologickému rozdílu - dělostřelecká technika"
  MODIFIER_LICENSE_INFANTRY_EQ_COST_FACTOR: "Cena licence na pěchotní výzbroj"
  MODIFIER_LICENSE_INFANTRY_EQ_PRODUCTION_SPEED_FACTOR: "Rychlost licenční výroby pěchotní výzbroje"
  MODIFIER_LICENSE_INFANTRY_EQ_TECH_DIFFERENCE_SPEED_FACTOR: "Rychlost licenční výroby kvůli technologickému rozdílu - pěchotní výzbroj"
@@ -903,8 +903,8 @@
  MODIFIER_MAX_TRAINING_XP_FACTOR: "Maximální trénink"
  MODIFIER_MECHANIZED_ATTACK_FACTOR: "Mechanizovaný útok"
  MODIFIER_MECHANIZED_DEFENCE_FACTOR: "Mechanizovaná obrana"
- MODIFIER_MIC_TO_OVERLORD_FACTOR_DESC: "Kolik §Yvojenských§! továren kontroluje vládce subjektů"
- MODIFIER_MIC_TO_OVERLORD_FACTOR: "Vojenský průmysl k vládci"
+ MODIFIER_MIC_TO_OVERLORD_FACTOR_DESC: "Kolik §Yvojenských§! továren kontroluje suzerén subjektů"
+ MODIFIER_MIC_TO_OVERLORD_FACTOR: "Vojenský průmysl pro suzeréna"
  MODIFIER_MIC_TO_TARGET_FACTOR_DESC: "Kolik §Yvojenských§! továren kontroluje cílová země"
  MODIFIER_MIC_TO_TARGET_FACTOR: "Vojenský průmysl do cílové země"
  MODIFIER_MILITARY_FACTORY_DONATIONS: "Darované vojenské továrny"
@@ -955,9 +955,9 @@
  modifier_module_light_ship_engine_2_design_cost_factor: "Náklady na návrh lodního motoru 40,000 Shp"
  modifier_module_light_ship_engine_3_design_cost_factor: "Náklady na návrh lodního motoru 45 000 Shp"
  modifier_module_light_ship_engine_4_design_cost_factor: "Náklady na návrh lodního motoru 50,000 Shp"
- modifier_module_secondary_turret_close_support_gun_design_cost_factor: "Náklady na návrh sekundární tankové věže – podpůrný kanón"
- modifier_module_secondary_turret_hmg_design_cost_factor: "Náklady na návrh sekundární tankové věže – těžký kulomet"
- modifier_module_secondary_turret_small_cannon_design_cost_factor: "Náklady na návrh sekundární tankové věže – malý kanón"
+ modifier_module_secondary_turret_close_support_gun_design_cost_factor: "Náklady na návrh sekundární tankové věže - podpůrný kanón"
+ modifier_module_secondary_turret_hmg_design_cost_factor: "Náklady na návrh sekundární tankové věže - těžký kulomet"
+ modifier_module_secondary_turret_small_cannon_design_cost_factor: "Náklady na návrh sekundární tankové věže - malý kanón"
  modifier_module_ship_airplane_launcher_1_design_cost_factor: "Náklady na návrh katapultu pro hydroplán"
  modifier_module_ship_airplane_launcher_2_design_cost_factor: "Náklady na návrh zlepšeného katapultu pro hydroplán"
  modifier_module_ship_anti_air_1_design_cost_factor: "Náklady na návrh lodního protiletadlového kulometu ráže .50"
@@ -1228,10 +1228,10 @@
  MODIFIER_NAVY_LEADER_START_DEFENSE_LEVEL: "Počáteční úroveň obranných dovedností nových velitelů flotil"
  MODIFIER_NAVY_LEADER_START_LEVEL: "Počáteční úroveň nových velitelů flotil"
  MODIFIER_NAVY_LEADER_START_MANEUVERING_LEVEL: "Počáteční úroveň manévrovacích dovedností nových velitelů flotil"
- MODIFIER_NAVY_MAX_RANGE_DESC: "Zvyšuje maximální námořní dosah, na který mohou naše flotily operovat z nejbližší námořní základny, kterou máme k dispozici."
- MODIFIER_NAVY_MAX_RANGE_FACTOR_DESC: "Zvyšuje maximální námořní dosah, na který mohou naše flotily operovat z nejbližší námořní základny, kterou máme k dispozici."
- MODIFIER_NAVY_MAX_RANGE_FACTOR: "Faktor maximálního dosahu námořnictva" # todo: CHANGED
- MODIFIER_NAVY_MAX_RANGE: "Maximální námořní dosah"
+ MODIFIER_NAVY_MAX_RANGE_DESC: "Zvyšuje maximální operační rádius, na který mohou naše flotily operovat z nejbližší námořní základny, kterou máme k dispozici."
+ MODIFIER_NAVY_MAX_RANGE_FACTOR_DESC: "Zvyšuje maximální operační rádius, na který mohou naše flotily operovat z nejbližší námořní základny, kterou máme k dispozici."
+ MODIFIER_NAVY_MAX_RANGE_FACTOR: "Faktor maximálního dosahu námořnictva"
+ MODIFIER_NAVY_MAX_RANGE: "Maximální operační rádius"
  MODIFIER_NAVY_ORG_FACTOR: "Organizace námořnictva"
  MODIFIER_NAVY_ORG: "Organizace námořnictva"
  MODIFIER_NAVY_SCREEN_ATTACK_FACTOR: "Útok doprovodních lodí"
@@ -1299,8 +1299,8 @@
  MODIFIER_PARTISAN_EFFECT_FACTOR: "Vliv našich partyzánů"
  MODIFIER_PARTISANS_EFFECT_DESC: "Ovlivňuje, jak efektivní jsou partyzáni."
  MODIFIER_PARTISANS_EFFECT: "Vliv partyzánů"
- MODIFIER_PEACE_SCORE_RATIO_TRANSFERRED_TO_OVERLORD_DESC: "Mírové skóre, které subjekty dají svému vládci"
- MODIFIER_PEACE_SCORE_RATIO_TRANSFERRED_TO_OVERLORD: "Mírové skóre převedeno na vládce"
+ MODIFIER_PEACE_SCORE_RATIO_TRANSFERRED_TO_OVERLORD_DESC: "Mírové skóre, které subjekty dají svému suzerénovi"
+ MODIFIER_PEACE_SCORE_RATIO_TRANSFERRED_TO_OVERLORD: "Mírové skóre převedeno na suzeréna"
  MODIFIER_PEACE_SCORE_RATIO_TRANSFERRED_TO_PLAYERS_DESC: "Procento mírového skóre, které AI země předají lidskému hráči"
  MODIFIER_PEACE_SCORE_RATIO_TRANSFERRED_TO_PLAYERS: "Mírové skóre převedeno na hráče"
  MODIFIER_PLANNING_SPEED_DESC: "Zvyšuje rychlost, jakou se akumuluje bonus plánování divize."
@@ -1332,7 +1332,7 @@
  MODIFIER_PRODUCTION_LACK_OF_RESOURCE_PENALTY_FACTOR_DESC: "Snižuje penalizaci výroby z nedostatku zdrojů."
  MODIFIER_PRODUCTION_LACK_OF_RESOURCE_PENALTY_FACTOR: "Penalizace za nedostatek zdrojů"
  MODIFIER_PRODUCTION_OIL_FACTOR: "Syntetická ropa"
- modifier_production_speed_air_base_factor_desc: "Upravuje rychlost výstavby leteckých základen." # todo: CHANGED
+ modifier_production_speed_air_base_factor_desc: "Upravuje rychlost výstavby leteckých základen."
  modifier_production_speed_air_base_factor: "Rychlost výstavby §Yletecké základny§!"
  modifier_production_speed_air_facility_factor_desc: "Upravuje rychlost výstavby střediska aerodynamiky a avioniky."
  modifier_production_speed_air_facility_factor: "Rychlost výstavby §Ystřediska aerodynamiky a avioniky§!"
@@ -1358,8 +1358,8 @@
  modifier_production_speed_infrastructure_factor: "Rychlost výstavby §Yinfrastruktury§!"
  modifier_production_speed_land_facility_factor_desc: "Upravuje rychlost výstavby střediska pro výzkum pozemní války."
  modifier_production_speed_land_facility_factor: "Rychlost výstavby §Ystřediska pro výzkum pozemní války§!"
- modifier_production_speed_naval_base_factor_desc: "Upravuje rychlost výstavby námořních základen." # todo: CHANGED
- modifier_production_speed_naval_base_factor: "§YNámořní základna§! rychlost výstavby" # todo: CHANGED
+ modifier_production_speed_naval_base_factor_desc: "Upravuje rychlost výstavby námořních základen."
+ modifier_production_speed_naval_base_factor: "Rychlost výstavby §YNámořní základny§!"
  modifier_production_speed_naval_facility_factor_desc: "Upravuje rychlost výstavby střediska námorního výzkumu."
  modifier_production_speed_naval_facility_factor: "Rychlost výstavby §Ystřediska námorního výzkumu§!"
  modifier_production_speed_nuclear_facility_factor_desc: "Upravuje rychlost výstavby jaderného zařízení."
@@ -1640,20 +1640,20 @@
  MODIFIER_TARGET_SABOTAGE_FACTOR: "Účinnost cílené sabotáže"
  MODIFIER_TARGETED_LEGITIMACY_DAILY: "Denní nárůst legitimity"
  MODIFIER_TECH_AIR_DAMAGE_FACTOR_DESC: "Technologická převaha zvyšuje účinnost naší stacionární protivzdušné obrany."
- MODIFIER_TECH_AIR_DAMAGE_FACTOR: "Snížení poškození od bombardování – PVO"
+ MODIFIER_TECH_AIR_DAMAGE_FACTOR: "Snížení poškození od bombardování - PVO"
  MODIFIER_TECH_PREFIX: "£tech_mod "
  MODIFIER_TERRAIN_PENALTY_REDUCTION: "Snížení penalizace za terén"
  MODIFIER_TERRAIN_TRAIT_XP_GAIN_FACTOR: "Zisk zkušeností za rys terénní rysy"
  MODIFIER_THERMONUCLEAR_PRODUCTION_FACTOR: "§H$thermonuclear_bomb$§! - rychlost výroby"
  MODIFIER_THERMONUCLEAR_PRODUCTION: "Umožňuje §H$thermonuclear_bomb$§!"
- MODIFIER_TRADE_COST_FACTOR_DESC: "Množství zdrojů za továrnu při obchodě mezi subjektem a vládcem"
- MODIFIER_TRADE_COST_FACTOR: "Náklady na obchod s vládcem"
+ MODIFIER_TRADE_COST_FACTOR_DESC: "Množství zdrojů za továrnu při obchodě mezi subjektem a suzerénem"
+ MODIFIER_TRADE_COST_FACTOR: "Náklady na obchod se suzerénem"
  MODIFIER_TRADE_COST_TO_TARGET_FACTOR_DESC: "Množství zdrojů za továrnu v obchodě mezi zeměmi"
  MODIFIER_TRADE_COST_TO_TARGET_FACTOR: "Obchodní náklady na cílovou zemi"
  MODIFIER_TRADE_OPINION_FACTOR_DESC: "Modifikátor hodnoty názoru za obchodní vztahy"
  MODIFIER_TRADE_OPINION_FACTOR: "Modifikátor názoru za obchodní vztahy"
- MODIFIER_TRADE_TO_OVERLORD_FACTOR_DESC: "Extra vyrobené zdroje dostupné k obchodování s vládcem"
- MODIFIER_TRADE_TO_OVERLORD_FACTOR: "Dodatečný obchod s vládcem"
+ MODIFIER_TRADE_TO_OVERLORD_FACTOR_DESC: "Extra vyrobené zdroje dostupné k obchodování se suzerénem"
+ MODIFIER_TRADE_TO_OVERLORD_FACTOR: "Dodatečný obchod se suzerénem"
  MODIFIER_TRADE_TO_TARGET_FACTOR_DESC: "Dodatečné vyprodukované zdroje dostupné pro obchod s cílovou zemí"
  MODIFIER_TRADE_TO_TARGET_FACTOR: "Dodatečný obchod s cílovou zemí"
  MODIFIER_TRAINING_FACILITIES_ENABLED: "Odemknout rozhodnutí pro stavbu výcvikových zařízení"
@@ -1894,7 +1894,7 @@
  modifier_unit_mountaineers_ski_design_cost_factor: "Náklady na návrh lyžařských jednotek"
  modifier_unit_paratrooper_design_cost_factor: "Náklady na návrh výsadkářů"
  modifier_unit_railway_gun_design_cost_factor: "Náklady na návrh železničního děla"
- modifier_unit_rangers_support_design_cost_factor: "Náklady na návrh průzkumných rangerů" # todo: CHANGED
+ modifier_unit_rangers_support_design_cost_factor: "Náklady na návrh průzkumných hraničářů"
  modifier_unit_recon_design_cost_factor: "Náklady na návrh průzkumní kavalerie"
  modifier_unit_rocket_artillery_brigade_design_cost_factor: "Náklady na návrh jednotky raketové artilerie"
  modifier_unit_rocket_artillery_design_cost_factor: "Náklady na návrh podpůrné raketové dělostřelecké roty"
@@ -2297,7 +2297,7 @@
  subjects_autonomy_gain_tt: " $MODIFIER_AUTONOMY_SUBJECT_GAIN$: $RIGHT|+=%%1$"
  subversive_activites_upkeep_tt: " $MODIFIER_SUBVERSIVE_ACTIVITES_UPKEEP$: $RIGHT|-=%1$"
  supply_combat_penalties_on_core_factor_tt: " $supply_combat_penalties_on_core_factor$: $RIGHT|-=%1$"
- supply_combat_penalties_on_core_factor: "Penalizace za zásobování v domovském území"
+ supply_combat_penalties_on_core_factor: "Penalizace za zásobování na domovském území"
  supply_consumption_factor_tt: " $MODIFIER_SUPPLY_CONSUMPTION_FACTOR$: $RIGHT|-=%1$"
  supply_factor_tt: " $MODIFIER_SUPPLY_FACTOR$: $RIGHT|+=%0$"
  supply_node_range_tt: " $MODIFIER_SUPPLY_NODE_RANGE$: $RIGHT|+=%1$"
@@ -2343,171 +2343,171 @@
  WARGOAL_COST_ASSISTING_ENEMY: "Pomoc nepříteli"
  WEATHER_MODIFIERS: "Vliv počasí ($WEA$):"
  WEATHER_PEACETIME: "Ztráty způsobené počasím se uplatňují pouze, pokud je kontrolor ve válce"
- weekly_bombing_war_support_tt: " $MODIFIER_WEEKLY_BOMBING_WAR_SUPPORT$: $RIGHT|+=%2$" # todo: CHANGED
- weekly_casualties_war_support_tt: " $MODIFIER_WEEKLY_CASUALTIES_WAR_SUPPORT$: $RIGHT|+=%2$" # todo: CHANGED
- weekly_convoys_war_support_tt: " $MODIFIER_WEEKLY_CONVOYS_WAR_SUPPORT$: $RIGHT|+=%2$" # todo: CHANGED
+ weekly_bombing_war_support_tt: " $MODIFIER_WEEKLY_BOMBING_WAR_SUPPORT$: $RIGHT|+=%2$"
+ weekly_casualties_war_support_tt: " $MODIFIER_WEEKLY_CASUALTIES_WAR_SUPPORT$: $RIGHT|+=%2$"
+ weekly_convoys_war_support_tt: " $MODIFIER_WEEKLY_CONVOYS_WAR_SUPPORT$: $RIGHT|+=%2$"
  weekly_manpower_tt: " $MODIFIER_WEEKLY_MANPOWER$: $RIGHT|+=0$"
  whitespace_tt: " "
  winter_attrition_factor_tt: " $MODIFIER_WINTER_ATTRITION_FACTOR$: $RIGHT|-=%1$"
- MODIFIER_AIR_AGILITY_NIGHT_FACTOR: "Noční obratnost letadel" # todo: NEW TRANSLATION
- global_building_slots_tt: " $MODIFIER_GLOBAL_BUILDING_SLOTS$: $RIGHT|+=0$" # todo: NEW TRANSLATION
- MODIFIER_LOCAL_FACTORY_ENERGY_CONSUMPTION: "Spotřeba energie místních továren" # todo: NEW TRANSLATION
- local_resources_oil_factor: "Efektivita získávání ropy" # todo: NEW TRANSLATION
- local_resources_aluminium_factor: "Efektivita získávání hliníku" # todo: NEW TRANSLATION
- local_resources_rubber_factor: "Efektivita získávání kaučuku" # todo: NEW TRANSLATION
- local_resources_tungsten_factor: "Efektivita získávání wolframu" # todo: NEW TRANSLATION
- local_resources_steel_factor: "Efektivita získávání oceli" # todo: NEW TRANSLATION
- local_resources_chromium_factor: "Efektivita získávání chromu" # todo: NEW TRANSLATION
- local_resources_coal_factor: "Efektivita získávání uhlí" # todo: NEW TRANSLATION
- local_resources_coal_factor_tt: " $local_resources_coal_factor$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
- army_org_regain_tt: " $MODIFIER_ARMY_ORG_REGAIN$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
- attrition_tt: " $MODIFIER_ATTRITION_FACTOR$: $RIGHT|-=%1$" # todo: NEW TRANSLATION
- MODIFIER_NAVAL_CRITICAL_SCORE_CHANCE_FACTOR_AGAINST_A_COUNTRY: " Šance na námořní kritický zásah proti zemi" # todo: NEW TRANSLATION
- naval_repair_support_factor: "Opravné lodě - maximální efekt opravy $RIGHT|+=%$" # todo: NEW TRANSLATION
- naval_repair_support_value_factor: "Opravné lodě - hodnota opravy $RIGHT|+=%$" # todo: NEW TRANSLATION
- naval_general_support_factor: "Podpůrné lodě - maximální efekt podpory $RIGHT|+=%$" # todo: NEW TRANSLATION
- naval_general_support_value_factor: "Podpůrné lodě - hodnota podpory $RIGHT|+=%$" # todo: NEW TRANSLATION
- MODIFIER_NAVAL_SUPPLY_CONSUMPTION_FACTOR: "Spotřeba zásob námořnictva" # todo: NEW TRANSLATION
- MODIFIER_NAVAL_SUPPLY_CONSUMPTION_FACTOR_DESC: "Kolik zásob naše flotily potřebují pro efektivní provoz." # todo: NEW TRANSLATION
- MODIFIER_SPOTTING_CHANCE_AGAINST_A_COUNTRY: " Šance na odhalení proti zemi" # todo: NEW TRANSLATION
- MODIFIER_AMPHIBIOUS_INVASION_AGAINST_A_COUNTRY: " Vylodění proti zemi" # todo: NEW TRANSLATION
- MODIFIER_NAVAL_HIT_CHANCE_AGAINST_A_COUNTRY: " Šance zásahu námořnictva proti zemi" # todo: NEW TRANSLATION
- MODIFIER_NAVY_CAPITAL_SHIP_ATTACK_FACTOR_AGAINST_A_COUNTRY: " Útok hlavních válečných lodí proti zemi" # todo: NEW TRANSLATION
- MODIFIER_NAVY_CAPITAL_SHIP_DEFENCE_FACTOR_AGAINST_A_COUNTRY: " Obrana hlavních válečných lodí proti zemi" # todo: NEW TRANSLATION
- MODIFIER_NAVY_SCREEN_ATTACK_FACTOR_AGAINST_A_COUNTRY: " Útok eskortních lodí proti zemi" # todo: NEW TRANSLATION
- MODIFIER_NAVY_SCREEN_DEFENCE_FACTOR_AGAINST_A_COUNTRY: " Obrana eskortních lodí proti zemi" # todo: NEW TRANSLATION
- MODIFIERS_SUBMARINE_ATTACK_FACTOR_AGAINST_A_COUNTRY: " Útok ponorek proti zemi" # todo: NEW TRANSLATION
- MODIFIERS_SUBMARINE_DEFENCE_FACTOR_AGAINST_A_COUNTRY: " Obrana ponorek proti zemi" # todo: NEW TRANSLATION
- MODIFIER_NAVAL_INVASION_PREPARATION_AGAINST_A_COUNTRY: " Příprava námořní invaze proti zemi" # todo: NEW TRANSLATION
- cat_production_research: "Rychlost výzkumu výrobních technologií" # todo: NEW TRANSLATION
- experience_gain_air_factor_tt: " $MODIFIER_XP_GAIN_AIR_FACTOR$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
- MODIFIER_MAX_ORGANISATION_FACTOR: "Maximální organizace" # todo: NEW TRANSLATION
- MODIFIER_NAVAL_SHIP_RECOVERY_CHANCE: "Šance na zotavení lodě" # todo: NEW TRANSLATION
- naval_ship_recovery_chance_tt: " $MODIFIER_NAVAL_SHIP_RECOVERY_CHANCE$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
- MODIFIER_NAVAL_SHIP_RECOVERY_CHANCE_FACTOR: "Faktor šance na zotavení lodě" # todo: NEW TRANSLATION
- naval_ship_recovery_chance_factor_tt: " $MODIFIER_NAVAL_SHIP_RECOVERY_CHANCE_FACTOR$: $RIGHT|+=%2$" # todo: NEW TRANSLATION
- army_bonus_air_superiority_factor_tt: " $MODIFIER_ARMY_BONUS_AIR_SUPERIORITY_FACTOR$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
- MODIFIER_PRODUCTION_SPEED_BUILDINGS_POWERED_FACTOR: "Rychlost výstavby napájených budov" # todo: NEW TRANSLATION
- production_speed_buildings_powered_factor_tt: "$MODIFIER_PRODUCTION_SPEED_BUILDINGS_POWERED_FACTOR$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
- MODIFIER_OUT_OF_POWER_FACTOR: "Snižuje tresty z nedostatku elektrické energie" # todo: NEW TRANSLATION
- MODIFIER_FACTION_SUBJECT_CONTRIBUTION_GAIN: "Snížení příspěvku od subjektu" # todo: NEW TRANSLATION
- MODIFIER_FACTION_SUBJECT_CONTRIBUTION_GAIN_DESC: "Snížení získaného příspěvku z postavení subjektu" # todo: NEW TRANSLATION
- modifier_production_speed_naval_headquarters_factor: "§YNámořní velitelství§! rychlost výstavby" # todo: NEW TRANSLATION
- modifier_production_speed_naval_headquarters_factor_desc: "Mění rychlost výstavby námořního velitelství." # todo: NEW TRANSLATION
- production_speed_naval_headquarters_factor_tt: " $modifier_production_speed_naval_headquarters_factor$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
- modifier_production_speed_naval_supply_hub_factor: "§YNámořní zásobovací uzel§! rychlost výstavby" # todo: NEW TRANSLATION
- modifier_production_speed_naval_supply_hub_factor_desc: "Mění rychlost výstavby námořního zásobovacího uzlu." # todo: NEW TRANSLATION
- production_speed_naval_supply_hub_factor_tt: " $modifier_production_speed_naval_supply_hub_factor$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
+ MODIFIER_AIR_AGILITY_NIGHT_FACTOR: "Noční obratnost letadel"
+ global_building_slots_tt: " $MODIFIER_GLOBAL_BUILDING_SLOTS$: $RIGHT|+=0$"
+ MODIFIER_LOCAL_FACTORY_ENERGY_CONSUMPTION: "Spotřeba energie místních továren"
+ local_resources_oil_factor: "Efektivita získávání ropy"
+ local_resources_aluminium_factor: "Efektivita získávání hliníku"
+ local_resources_rubber_factor: "Efektivita získávání kaučuku"
+ local_resources_tungsten_factor: "Efektivita získávání wolframu"
+ local_resources_steel_factor: "Efektivita získávání oceli"
+ local_resources_chromium_factor: "Efektivita získávání chromu"
+ local_resources_coal_factor: "Efektivita získávání uhlí"
+ local_resources_coal_factor_tt: " $local_resources_coal_factor$: $RIGHT|+=%1$"
+ army_org_regain_tt: " $MODIFIER_ARMY_ORG_REGAIN$: $RIGHT|+=%1$"
+ attrition_tt: " $MODIFIER_ATTRITION_FACTOR$: $RIGHT|-=%1$"
+ MODIFIER_NAVAL_CRITICAL_SCORE_CHANCE_FACTOR_AGAINST_A_COUNTRY: " Šance na námořní kritický zásah proti zemi"
+ naval_repair_support_factor: "Opravné lodě - maximální efekt opravy $RIGHT|+=%$"
+ naval_repair_support_value_factor: "Opravné lodě - hodnota opravy $RIGHT|+=%$"
+ naval_general_support_factor: "Podpůrné lodě - maximální efekt podpory $RIGHT|+=%$"
+ naval_general_support_value_factor: "Podpůrné lodě - hodnota podpory $RIGHT|+=%$"
+ MODIFIER_NAVAL_SUPPLY_CONSUMPTION_FACTOR: "Spotřeba zásob námořnictva"
+ MODIFIER_NAVAL_SUPPLY_CONSUMPTION_FACTOR_DESC: "Kolik zásob naše flotily potřebují pro efektivní provoz."
+ MODIFIER_SPOTTING_CHANCE_AGAINST_A_COUNTRY: " Šance na odhalení proti zemi"
+ MODIFIER_AMPHIBIOUS_INVASION_AGAINST_A_COUNTRY: " Vylodění proti zemi"
+ MODIFIER_NAVAL_HIT_CHANCE_AGAINST_A_COUNTRY: " Šance zásahu námořnictva proti zemi"
+ MODIFIER_NAVY_CAPITAL_SHIP_ATTACK_FACTOR_AGAINST_A_COUNTRY: " Útok hlavních lodí proti zemi"
+ MODIFIER_NAVY_CAPITAL_SHIP_DEFENCE_FACTOR_AGAINST_A_COUNTRY: " Obrana hlavních  lodí proti zemi"
+ MODIFIER_NAVY_SCREEN_ATTACK_FACTOR_AGAINST_A_COUNTRY: " Útok doprovodních lodí proti zemi"
+ MODIFIER_NAVY_SCREEN_DEFENCE_FACTOR_AGAINST_A_COUNTRY: " Obrana doprovodních lodí proti zemi"
+ MODIFIERS_SUBMARINE_ATTACK_FACTOR_AGAINST_A_COUNTRY: " Útok ponorek proti zemi"
+ MODIFIERS_SUBMARINE_DEFENCE_FACTOR_AGAINST_A_COUNTRY: " Obrana ponorek proti zemi"
+ MODIFIER_NAVAL_INVASION_PREPARATION_AGAINST_A_COUNTRY: " Příprava námořní invaze proti zemi"
+ cat_production_research: "Rychlost výzkumu výrobních technologií"
+ experience_gain_air_factor_tt: " $MODIFIER_XP_GAIN_AIR_FACTOR$: $RIGHT|+=%1$"
+ MODIFIER_MAX_ORGANISATION_FACTOR: "Maximální organizace"
+ MODIFIER_NAVAL_SHIP_RECOVERY_CHANCE: "Šance na opravu lodě"
+ naval_ship_recovery_chance_tt: " $MODIFIER_NAVAL_SHIP_RECOVERY_CHANCE$: $RIGHT|+=%1$"
+ MODIFIER_NAVAL_SHIP_RECOVERY_CHANCE_FACTOR: "Faktor šance na opravu lodě"
+ naval_ship_recovery_chance_factor_tt: " $MODIFIER_NAVAL_SHIP_RECOVERY_CHANCE_FACTOR$: $RIGHT|+=%2$"
+ army_bonus_air_superiority_factor_tt: " $MODIFIER_ARMY_BONUS_AIR_SUPERIORITY_FACTOR$: $RIGHT|+=%1$"
+ MODIFIER_PRODUCTION_SPEED_BUILDINGS_POWERED_FACTOR: "Rychlost výstavby napájených budov"
+ production_speed_buildings_powered_factor_tt: "$MODIFIER_PRODUCTION_SPEED_BUILDINGS_POWERED_FACTOR$: $RIGHT|+=%1$"
+ MODIFIER_OUT_OF_POWER_FACTOR: "Snižuje postihy z nedostatku elektrické energie"
+ MODIFIER_FACTION_SUBJECT_CONTRIBUTION_GAIN: "Snížení příspěvku od subjektu"
+ MODIFIER_FACTION_SUBJECT_CONTRIBUTION_GAIN_DESC: "Snížení získaného příspěvku z postavení subjektu"
+ modifier_production_speed_naval_headquarters_factor: "Rychlost výstavby §YNámořního velitelství§!"
+ modifier_production_speed_naval_headquarters_factor_desc: "Mění rychlost výstavby námořního velitelství."
+ production_speed_naval_headquarters_factor_tt: " $modifier_production_speed_naval_headquarters_factor$: $RIGHT|+=%1$"
+ modifier_production_speed_naval_supply_hub_factor: "Rychlost výstavby §YNámořního zásobovacího uzlu§!"
+ modifier_production_speed_naval_supply_hub_factor_desc: "Mění rychlost výstavby námořního zásobovacího uzlu."
+ production_speed_naval_supply_hub_factor_tt: " $modifier_production_speed_naval_supply_hub_factor$: $RIGHT|+=%1$"
  amphibious_invasion_tt: " $MODIFIER_AMPHIBIOUS_INVASION$: $RIGHT|+=%1$"
  MODIFIERS_ARMY_CLAIM_ATTACK_FACTOR: "Útok divizí na nárokovaném území"
  MODIFIERS_ARMY_CLAIM_DEFENCE_FACTOR: "Obrana divizí na nárokovaném území"
- sortie_efficiency_tt: " $CARRIER_SORTIE_EFFICIENCY_FACTOR$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
- air_interception_detect_factor_tt: " $MODIFIER_AIR_INTERCEPTION_DETECT_FACTOR$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
- MODIFIER_INDUSTRIAL_CAPACITY_POWERED_FACTOR: "Výstup napájených továren" # todo: NEW TRANSLATION
- industrial_capacity_factory_powered_tt: " $MODIFIER_INDUSTRIAL_CAPACITY_POWERED_FACTOR$: $RIGHT|+=%2$" # todo: NEW TRANSLATION
- MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_POWERED_FACTOR: "Výstup napájených loděnic" # todo: NEW TRANSLATION
- industrial_capacity_dockyard_powered_tt: " $MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_POWERED_FACTOR$: $RIGHT|+=%2$" # todo: NEW TRANSLATION
- industry_repair_factor_tt: " $MODIFIER_INDUSTRY_REPAIR_FACTOR$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
- puppet_cost_factor_tt: " $MODIFIER_PUPPET_COST_FACTOR$: $RIGHT|-=%1$" # todo: NEW TRANSLATION
- pocket_penalty_tt: " $MODIFIER_POCKET_PENALTY$: $RIGHT|-=%1$" # todo: NEW TRANSLATION
- port_strike_tt: " $MODIFIER_PORT_STRIKE_ATTACK_FACTOR$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
- MODIFIER_AIR_INVASION_PREPARATION: "Doba přípravy vzdušné invaze" # todo: NEW TRANSLATION
- MODIFIER_AIR_INVASION_PREPARATION_DESC: "Jak rychle můžeme připravit vzdušnou invazi." # todo: NEW TRANSLATION
- MODIFIER_RESOURCES_TO_OVERLORD_FACTOR: "Zdroje pro vrchní moc" # todo: NEW TRANSLATION
- resources_to_overlord_factor_tt: " $MODIFIER_RESOURCES_TO_OVERLORD_FACTOR$: $RIGHT|Y=%1$" # todo: NEW TRANSLATION
- military_leader_cost_factor_tt: " $MODIFIER_MILITARY_LEADER_COST_FACTOR$: $RIGHT|-=%1$" # todo: NEW TRANSLATION
- army_leader_start_attack_level_tt: " $MODIFIER_ARMY_LEADER_START_ATTACK_LEVEL$: $RIGHT|G=0$" # todo: NEW TRANSLATION
- army_leader_start_defense_level_tt: " $MODIFIER_ARMY_LEADER_START_DEFENSE_LEVEL$: $RIGHT|G=0$" # todo: NEW TRANSLATION
- army_chief_cost_factor_tt: " $army_chief_cost_factor$: $RIGHT|-=%1$" # todo: NEW TRANSLATION
- navy_chief_cost_factor_tt: " $navy_chief_cost_factor$: $RIGHT|-=%1$" # todo: NEW TRANSLATION
- air_chief_cost_factor_tt: " $air_chief_cost_factor$: $RIGHT|-=%1$" # todo: NEW TRANSLATION
- license_subject_master_purchase_cost_tt: " $MODIFIER_LICENSE_SUBJECT_MASTER_PURCHASE_COST$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
- promote_cost_factor_tt: "$MODIFIER_UNIT_LEADER_PROMOTE_COST_FACTOR$: $RIGHT|-=%1$" # todo: NEW TRANSLATION
- dont_lose_dig_in_on_attack_tt: " $MODIFIER_DONT_LOSE_DIGIN_ON_ATTACK_MOVE$: $RIGHT|+0$" # todo: NEW TRANSLATION
- naval_invasion_prep_speed_tt: " $MODIFIER_NAVAL_INVASION_PREPARATION_SPEED$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
- MODIFIER_NAVAL_INVASION_PLAN_CAP: "Kapacita plánů námořních invazí" # todo: NEW TRANSLATION
- MODIFIER_NAVAL_INVASION_PLAN_CAP_DESC: "Maximální počet námořních invazí, které lze současně naplánovat a připravit." # todo: NEW TRANSLATION
- MODIFIER_NAVAL_INVASION_PREPARATION_DAYS: "Doba přípravy námořní invaze" # todo: NEW TRANSLATION
- MODIFIER_NAVAL_INVASION_PREPARATION_DAYS_DESC: "Kolik dní trvá naplánování a příprava námořní invaze." # todo: NEW TRANSLATION
- MODIFIER_AIR_INVASION_PREPARATION_DAYS: "Doba přípravy vzdušné invaze" # todo: NEW TRANSLATION
- MODIFIER_AIR_INVASION_PREPARATION_DAYS_DESC: "Kolik dní trvá naplánování a příprava vzdušné invaze." # todo: NEW TRANSLATION
- MODIFIER_AIR_INVASION_PLAN_CAP: "Kapacita plánů vzdušných invazí" # todo: NEW TRANSLATION
- MODIFIER_AIR_INVASION_PLAN_CAP_DESC: "Maximální počet vzdušných invazí, které lze současně naplánovat a připravit." # todo: NEW TRANSLATION
- naval_torpedo_screen_penetration_factor_tt: " $MODIFIER_NAVAL_TORPEDO_SCREEN_PENETRATION_FACTOR$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
- naval_torpedo_hit_chance_factor_tt: " $MODIFIER_NAVAL_TORPEDO_HIT_CHANCE_FACTOR$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
- air_wing_xp_loss_when_killed_factor_tt: " $MODIFIER_AIR_WING_XP_LOSS_WHEN_KILLED_FACTOR$: $RIGHT|-=%1$" # todo: NEW TRANSLATION
- MODIFIER_FACTORY_ENERGY_CONSUMPTION: "Spotřeba energie továrnami" # todo: NEW TRANSLATION
- factory_energy_consumption_tt: " $MODIFIER_FACTORY_ENERGY_CONSUMPTION$: $RIGHT|-=%1$" # todo: NEW TRANSLATION
- naval_mine_hit_chance_tt: " $MODIFIER_NAVAL_MINE_HIT_CHANCE$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
- modifier_experience_gain_battle_cruiser_mission_factor: "Získávání zkušeností z misí bitevních křižníků" # todo: NEW TRANSLATION
- modifier_experience_gain_battleship_mission_factor: "Získávání zkušeností z misí bitevních lodí" # todo: NEW TRANSLATION
- modifier_experience_gain_carrier_mission_factor: "Získávání zkušeností z misí letadlových lodí" # todo: NEW TRANSLATION
- modifier_experience_gain_destroyer_mission_factor: "Získávání zkušeností z misí torpédoborců" # todo: NEW TRANSLATION
- modifier_experience_gain_heavy_cruiser_mission_factor: "Získávání zkušeností z misí těžkých křižníků" # todo: NEW TRANSLATION
- modifier_experience_gain_heavy_ship_mission_factor: "Získávání zkušeností z misí supertěžkých bitevních lodí" # todo: NEW TRANSLATION
- modifier_experience_gain_light_cruiser_mission_factor: "Získávání zkušeností z misí lehkých křižníků" # todo: NEW TRANSLATION
- modifier_experience_gain_submarine_mission_factor: "Získávání zkušeností z misí ponorek" # todo: NEW TRANSLATION
- recruitable_population_tt: " $MODIFIER_RECRUITABLE_POPULATION$: $RIGHT|+=%2$" # todo: NEW TRANSLATION
- temporary_state_resource_coal: "Uhlí" # todo: NEW TRANSLATION
- country_resource_coal: "Uhlí" # todo: NEW TRANSLATION
- country_resource_coal_tt: "$country_resource_coal$: $RIGHT|+=$" # todo: NEW TRANSLATION
- legitimacy_gain_factor_tt: " $MODIFIER_LEGITIMACY_FACTOR$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
- navy_intel_factor_tt: " $MODIFIER_NAVY_INTEL_FACTOR$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
- MODIFIER_INTELLIGENCE_OPERATION_SPEED: "Faktor rychlosti zpravodajských operací" # todo: NEW TRANSLATION
- enemy_operative_detection_chance_factor_tt: " $MODIFIER_ENEMY_OPERATIVE_DETECTION_CHANCE_FACTOR$: $RIGHT|+=%$" # todo: NEW TRANSLATION
- enemy_operative_capture_chance_factor_tt: " $MODIFIER_ENEMY_OPERATIVE_CAPTURE_CHANCE_FACTOR$: $RIGHT|+=%$" # todo: NEW TRANSLATION
- enemy_operative_intel_extraction_rate_tt: " $MODIFIER_ENEMY_OPERATIVE_INTEL_EXTRACTION_RATE$: $RIGHT|+=%$" # todo: NEW TRANSLATION
- MODIFIER_SPECIAL_FORCES_DOCTRINE_COST_FACTOR: "Náklady na doktrínu speciálních sil" # todo: NEW TRANSLATION
- special_forces_doctrine_cost_factor_tt: "$MODIFIER_SPECIAL_FORCES_DOCTRINE_COST_FACTOR$: $RIGHT|-=%1$" # todo: NEW TRANSLATION
- modifier_unit_ranger_battalion_design_cost_factor: "Náklady na návrh jednotky rangerů" # todo: NEW TRANSLATION
- modifier_unit_motorized_design_cost_factor_tt: " $modifier_unit_motorized_design_cost_factor$: $RIGHT|-=%1$" # todo: NEW TRANSLATION
- modifier_unit_mechanized_design_cost_factor_tt: " $modifier_unit_mechanized_design_cost_factor$: $RIGHT|-=%1$" # todo: NEW TRANSLATION
- air_power_projection_factor_tt: " $MODIFIER_AIR_POWER_PROJECTION_FACTOR$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
- cat_mass_mobilization_cost_factor: "Náklady doktríny masové mobilizace" # todo: NEW TRANSLATION
- cat_mass_mobilization_cost_factor_tt: " $cat_mass_mobilization_cost_factor$: $RIGHT|-=%1$" # todo: NEW TRANSLATION
- cat_deep_battle_cost_factor: "Náklady doktríny hluboké bitvy" # todo: NEW TRANSLATION
- cat_deep_battle_cost_factor_tt: " $cat_deep_battle_cost_factor$: $RIGHT|-=%1$" # todo: NEW TRANSLATION
- modifier_army_sub_unit_armored_car_attack_factor_tt: " $modifier_army_sub_unit_armored_car_attack_factor$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
- modifier_army_sub_unit_armored_car_max_org_factor_tt: " $modifier_army_sub_unit_armored_car_max_org_factor$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
- modifier_army_sub_unit_armored_car_recon_attack_factor_tt: " $modifier_army_sub_unit_armored_car_recon_attack_factor$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
- modifier_army_sub_unit_armored_car_recon_max_org_factor_tt: " $modifier_army_sub_unit_armored_car_recon_max_org_factor$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
- modifier_army_sub_unit_category_rocket_artillery_attack_factor: "Útok všech raketových děl" # todo: NEW TRANSLATION
- terrain_trait_xp_gain_factor_tt: " $MODIFIER_TERRAIN_TRAIT_XP_GAIN_FACTOR$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
- MODIFIER_RANGERS_SPECIAL_FORCES_CONTRIBUTION_FACTOR: "Příspěvek rangerů k kapacitě speciálních sil" # todo: NEW TRANSLATION
- cic_construction_boost_factor_tt: "$MODIFIER_CIC_CONSTRUCTION_BOOST_FACTOR$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
- MODIFIER_LOCAL_FACTORY_ENERGY_CONSUMPTION_tt: "$MODIFIER_LOCAL_FACTORY_ENERGY_CONSUMPTION$ $RIGHT|+=%2$" # todo: NEW TRANSLATION
- MODIFIER_FACTION_INFLUENCE_WAR_SCORE: "Zisk vlivu z válečného skóre" # todo: NEW TRANSLATION
- faction_influence_war_score_factor_tt: "$MODIFIER_FACTION_INFLUENCE_WAR_SCORE$: $RIGHT|Y=%1$" # todo: NEW TRANSLATION
- MODIFIER_FACTION_INFLUENCE_CONTRIBUTION: "Zisk vlivu z příspěvků" # todo: NEW TRANSLATION
- faction_influence_contribution_factor_tt: " $MODIFIER_FACTION_INFLUENCE_CONTRIBUTION$: $RIGHT|Y=%1$" # todo: NEW TRANSLATION
- MODIFIER_FACTION_INFLUENCE_POWER: "Modifikátor vlivu moci" # todo: NEW TRANSLATION
- MODIFIER_FACTION_INFLUENCE_POWER_tt: " $MODIFIER_FACTION_INFLUENCE_POWER$: $RIGHT|Y=%1$" # todo: NEW TRANSLATION
- MODIFIER_FACTION_INFLUENCE_GOV_IN_EXILE: "Modifikátor vlivu hostování exilové vlády" # todo: NEW TRANSLATION
- MODIFIER_FACTION_INFLUENCE_GOV_IN_EXILE_tt: "$MODIFIER_FACTION_INFLUENCE_GOV_IN_EXILE$: $RIGHT|Y=%1$" # todo: NEW TRANSLATION
- faction_influence_war_score_factor: "Faktor vlivu frakce z válečného skóre" # todo: NEW TRANSLATION
- faction_influence_gov_in_exile_factor: "Faktor vlivu frakce z vlády v exilu" # todo: NEW TRANSLATION
- faction_influence_contribution_factor: "Faktor vlivu frakce z příspěvků" # todo: NEW TRANSLATION
- faction_influence_power_factor: "Faktor síly vlivu frakce" # todo: NEW TRANSLATION
- MODIFIER_ANNEX_SUBJECT_COST_FACTOR: "Faktor nákladů na anexi subjektu" # todo: NEW TRANSLATION
- MODIFIER_NAVAL_MISSION_XP_FACTOR: "Faktor zkušeností z námořních misí" # todo: NEW TRANSLATION
- MODIFIER_ARMY_RETREAT_SPEED_FACTOR: "Rychlost ustupujících divizí" # todo: NEW TRANSLATION
- MODIFIER_PLANNING_DECAY_RATE_FACTOR: "Rychlost rozpadu připravenosti plánu" # todo: NEW TRANSLATION
- MODIFIER_NAVAL_HQ_XP_GAIN_FACTOR: "Zisk zkušeností z námořního velitelství" # todo: NEW TRANSLATION
- headquarters_experience_gain_factor: "Zisk zkušeností z námořního velitelství" # todo: NEW TRANSLATION
- MODIFIER_GRANT_MEDAL_CHANCE: "Šance na automatické udělení medaile" # todo: NEW TRANSLATION
- MODIFIER_MEDAL_EFFECTIVENESS: "Účinnost medailí pro jednotky" # todo: NEW TRANSLATION
- unit_medal_effectiveness: "$MODIFIER_MEDAL_EFFECTIVENESS$" # todo: NEW TRANSLATION
- automatic_grant_medal_chance: "$MODIFIER_GRANT_MEDAL_CHANCE$" # todo: NEW TRANSLATION
- MODIFIER_SHORE_BOMBARDMENT_COLLATERAL_DAMAGE_FACTOR: "Vedlejší škody pobřežního bombardování" # todo: NEW TRANSLATION
- shore_bombardment_collateral_damage_factor: "Vedlejší škody pobřežního bombardování" # todo: NEW TRANSLATION
- CRITICAL_BOMBARDMENT_DAMAGE: "Kritické poškození budovy!" # todo: NEW TRANSLATION
- MODIFIER_ARMY_EXPERIENCE_FROM_VOLUNTEERS: "Zkušenosti armády z dobrovolníků" # todo: NEW TRANSLATION
- MODIFIER_AUTONOMY_MANPOWER_SHARE_FROM_SUBJECTS: "Požadavek na vojenské síly od subjektů" # todo: NEW TRANSLATION
- MODIFIER_AUTONOMY_MANPOWER_SHARE_FROM_SUBJECTS_DESC: "Množství vojenské síly požadované od subjektů" # todo: NEW TRANSLATION
- autonomy_manpower_share_from_subjects_tt: " $MODIFIER_AUTONOMY_MANPOWER_SHARE_FROM_SUBJECTS$: $RIGHT|Y=%1$" # todo: NEW TRANSLATION
- fascism_drift_from_guarantees: "Růst fašismu v zahraničí z důvodu garancí"
- communism_drift_from_guarantees: "Růst komunismu v zahraničí z důvodu garancí"
- democratic_drift_from_guarantees: "Růst demokracie v zahraničí z důvodu garancí"
- neutrality_drift_from_guarantees: "Růst nestrannosti v zahraničí z důvodu garancí"
+ sortie_efficiency_tt: " $CARRIER_SORTIE_EFFICIENCY_FACTOR$: $RIGHT|+=%1$"
+ air_interception_detect_factor_tt: " $MODIFIER_AIR_INTERCEPTION_DETECT_FACTOR$: $RIGHT|+=%1$"
+ MODIFIER_INDUSTRIAL_CAPACITY_POWERED_FACTOR: "Výstup napájených továren"
+ industrial_capacity_factory_powered_tt: " $MODIFIER_INDUSTRIAL_CAPACITY_POWERED_FACTOR$: $RIGHT|+=%2$"
+ MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_POWERED_FACTOR: "Výstup napájených loděnic"
+ industrial_capacity_dockyard_powered_tt: " $MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_POWERED_FACTOR$: $RIGHT|+=%2$"
+ industry_repair_factor_tt: " $MODIFIER_INDUSTRY_REPAIR_FACTOR$: $RIGHT|+=%1$"
+ puppet_cost_factor_tt: " $MODIFIER_PUPPET_COST_FACTOR$: $RIGHT|-=%1$"
+ pocket_penalty_tt: " $MODIFIER_POCKET_PENALTY$: $RIGHT|-=%1$"
+ port_strike_tt: " $MODIFIER_PORT_STRIKE_ATTACK_FACTOR$: $RIGHT|+=%1$"
+ MODIFIER_AIR_INVASION_PREPARATION: "Doba přípravy výsadkové invaze"
+ MODIFIER_AIR_INVASION_PREPARATION_DESC: "Jak rychle můžeme připravit výsadkovou invazi."
+ MODIFIER_RESOURCES_TO_OVERLORD_FACTOR: "Zdroje pro suzeréna"
+ resources_to_overlord_factor_tt: " $MODIFIER_RESOURCES_TO_OVERLORD_FACTOR$: $RIGHT|Y=%1$"
+ military_leader_cost_factor_tt: " $MODIFIER_MILITARY_LEADER_COST_FACTOR$: $RIGHT|-=%1$"
+ army_leader_start_attack_level_tt: " $MODIFIER_ARMY_LEADER_START_ATTACK_LEVEL$: $RIGHT|G=0$"
+ army_leader_start_defense_level_tt: " $MODIFIER_ARMY_LEADER_START_DEFENSE_LEVEL$: $RIGHT|G=0$"
+ army_chief_cost_factor_tt: " $army_chief_cost_factor$: $RIGHT|-=%1$"
+ navy_chief_cost_factor_tt: " $navy_chief_cost_factor$: $RIGHT|-=%1$"
+ air_chief_cost_factor_tt: " $air_chief_cost_factor$: $RIGHT|-=%1$"
+ license_subject_master_purchase_cost_tt: " $MODIFIER_LICENSE_SUBJECT_MASTER_PURCHASE_COST$: $RIGHT|+=%1$"
+ promote_cost_factor_tt: "$MODIFIER_UNIT_LEADER_PROMOTE_COST_FACTOR$: $RIGHT|-=%1$"
+ dont_lose_dig_in_on_attack_tt: " $MODIFIER_DONT_LOSE_DIGIN_ON_ATTACK_MOVE$: $RIGHT|+0$"
+ naval_invasion_prep_speed_tt: " $MODIFIER_NAVAL_INVASION_PREPARATION_SPEED$: $RIGHT|+=%1$"
+ MODIFIER_NAVAL_INVASION_PLAN_CAP: "Kapacita plánů námořních invazí"
+ MODIFIER_NAVAL_INVASION_PLAN_CAP_DESC: "Maximální počet námořních invazí, které lze současně naplánovat a připravit."
+ MODIFIER_NAVAL_INVASION_PREPARATION_DAYS: "Doba přípravy námořní invaze"
+ MODIFIER_NAVAL_INVASION_PREPARATION_DAYS_DESC: "Kolik dní trvá naplánování a příprava námořní invaze."
+ MODIFIER_AIR_INVASION_PREPARATION_DAYS: "Doba přípravy výsadkové invaze"
+ MODIFIER_AIR_INVASION_PREPARATION_DAYS_DESC: "Kolik dní trvá naplánování a příprava výsadkové invaze."
+ MODIFIER_AIR_INVASION_PLAN_CAP: "Kapacita plánů výsadkových invazí"
+ MODIFIER_AIR_INVASION_PLAN_CAP_DESC: "Maximální počet výsadkových invazí, které lze současně naplánovat a připravit."
+ naval_torpedo_screen_penetration_factor_tt: " $MODIFIER_NAVAL_TORPEDO_SCREEN_PENETRATION_FACTOR$: $RIGHT|+=%1$"
+ naval_torpedo_hit_chance_factor_tt: " $MODIFIER_NAVAL_TORPEDO_HIT_CHANCE_FACTOR$: $RIGHT|+=%1$"
+ air_wing_xp_loss_when_killed_factor_tt: " $MODIFIER_AIR_WING_XP_LOSS_WHEN_KILLED_FACTOR$: $RIGHT|-=%1$"
+ MODIFIER_FACTORY_ENERGY_CONSUMPTION: "Spotřeba energie továrnami"
+ factory_energy_consumption_tt: " $MODIFIER_FACTORY_ENERGY_CONSUMPTION$: $RIGHT|-=%1$"
+ naval_mine_hit_chance_tt: " $MODIFIER_NAVAL_MINE_HIT_CHANCE$: $RIGHT|+=%1$"
+ modifier_experience_gain_battle_cruiser_mission_factor: "Získávání zkušeností z misí bitevních křižníků"
+ modifier_experience_gain_battleship_mission_factor: "Získávání zkušeností z misí bitevních lodí"
+ modifier_experience_gain_carrier_mission_factor: "Získávání zkušeností z misí letadlových lodí"
+ modifier_experience_gain_destroyer_mission_factor: "Získávání zkušeností z misí torpédoborců"
+ modifier_experience_gain_heavy_cruiser_mission_factor: "Získávání zkušeností z misí těžkých křižníků"
+ modifier_experience_gain_heavy_ship_mission_factor: "Získávání zkušeností z misí supertěžkých bitevních lodí"
+ modifier_experience_gain_light_cruiser_mission_factor: "Získávání zkušeností z misí lehkých křižníků"
+ modifier_experience_gain_submarine_mission_factor: "Získávání zkušeností z misí ponorek"
+ recruitable_population_tt: " $MODIFIER_RECRUITABLE_POPULATION$: $RIGHT|+=%2$"
+ temporary_state_resource_coal: "Uhlí"
+ country_resource_coal: "Uhlí"
+ country_resource_coal_tt: "$country_resource_coal$: $RIGHT|+=$"
+ legitimacy_gain_factor_tt: " $MODIFIER_LEGITIMACY_FACTOR$: $RIGHT|+=%1$"
+ navy_intel_factor_tt: " $MODIFIER_NAVY_INTEL_FACTOR$: $RIGHT|+=%1$"
+ MODIFIER_INTELLIGENCE_OPERATION_SPEED: "Faktor rychlosti zpravodajských operací"
+ enemy_operative_detection_chance_factor_tt: " $MODIFIER_ENEMY_OPERATIVE_DETECTION_CHANCE_FACTOR$: $RIGHT|+=%$"
+ enemy_operative_capture_chance_factor_tt: " $MODIFIER_ENEMY_OPERATIVE_CAPTURE_CHANCE_FACTOR$: $RIGHT|+=%$"
+ enemy_operative_intel_extraction_rate_tt: " $MODIFIER_ENEMY_OPERATIVE_INTEL_EXTRACTION_RATE$: $RIGHT|+=%$"
+ MODIFIER_SPECIAL_FORCES_DOCTRINE_COST_FACTOR: "Náklady na doktrínu speciálních sil"
+ special_forces_doctrine_cost_factor_tt: "$MODIFIER_SPECIAL_FORCES_DOCTRINE_COST_FACTOR$: $RIGHT|-=%1$"
+ modifier_unit_ranger_battalion_design_cost_factor: "Náklady na návrh jednotky hraničářů"
+ modifier_unit_motorized_design_cost_factor_tt: " $modifier_unit_motorized_design_cost_factor$: $RIGHT|-=%1$"
+ modifier_unit_mechanized_design_cost_factor_tt: " $modifier_unit_mechanized_design_cost_factor$: $RIGHT|-=%1$"
+ air_power_projection_factor_tt: " $MODIFIER_AIR_POWER_PROJECTION_FACTOR$: $RIGHT|+=%1$"
+ cat_mass_mobilization_cost_factor: "Náklady doktríny Totální mobilizace"
+ cat_mass_mobilization_cost_factor_tt: " $cat_mass_mobilization_cost_factor$: $RIGHT|-=%1$"
+ cat_deep_battle_cost_factor: "Náklady doktríny Hlubokého prostoru"
+ cat_deep_battle_cost_factor_tt: " $cat_deep_battle_cost_factor$: $RIGHT|-=%1$"
+ modifier_army_sub_unit_armored_car_attack_factor_tt: " $modifier_army_sub_unit_armored_car_attack_factor$: $RIGHT|+=%1$"
+ modifier_army_sub_unit_armored_car_max_org_factor_tt: " $modifier_army_sub_unit_armored_car_max_org_factor$: $RIGHT|+=%1$"
+ modifier_army_sub_unit_armored_car_recon_attack_factor_tt: " $modifier_army_sub_unit_armored_car_recon_attack_factor$: $RIGHT|+=%1$"
+ modifier_army_sub_unit_armored_car_recon_max_org_factor_tt: " $modifier_army_sub_unit_armored_car_recon_max_org_factor$: $RIGHT|+=%1$"
+ modifier_army_sub_unit_category_rocket_artillery_attack_factor: "Útok všech raketových jednotek"
+ terrain_trait_xp_gain_factor_tt: " $MODIFIER_TERRAIN_TRAIT_XP_GAIN_FACTOR$: $RIGHT|+=%1$"
+ MODIFIER_RANGERS_SPECIAL_FORCES_CONTRIBUTION_FACTOR: "Příspěvek hraničářů ke kapacitě speciálních sil"
+ cic_construction_boost_factor_tt: "$MODIFIER_CIC_CONSTRUCTION_BOOST_FACTOR$: $RIGHT|+=%1$"
+ MODIFIER_LOCAL_FACTORY_ENERGY_CONSUMPTION_tt: "$MODIFIER_LOCAL_FACTORY_ENERGY_CONSUMPTION$ $RIGHT|+=%2$"
+ MODIFIER_FACTION_INFLUENCE_WAR_SCORE: "Zisk vlivu z válečného skóre"
+ faction_influence_war_score_factor_tt: "$MODIFIER_FACTION_INFLUENCE_WAR_SCORE$: $RIGHT|Y=%1$"
+ MODIFIER_FACTION_INFLUENCE_CONTRIBUTION: "Zisk vlivu z příspěvků"
+ faction_influence_contribution_factor_tt: " $MODIFIER_FACTION_INFLUENCE_CONTRIBUTION$: $RIGHT|Y=%1$"
+ MODIFIER_FACTION_INFLUENCE_POWER: "Modifikátor vlivu moci"
+ MODIFIER_FACTION_INFLUENCE_POWER_tt: " $MODIFIER_FACTION_INFLUENCE_POWER$: $RIGHT|Y=%1$"
+ MODIFIER_FACTION_INFLUENCE_GOV_IN_EXILE: "Modifikátor vlivu hostování exilové vlády"
+ MODIFIER_FACTION_INFLUENCE_GOV_IN_EXILE_tt: "$MODIFIER_FACTION_INFLUENCE_GOV_IN_EXILE$: $RIGHT|Y=%1$"
+ faction_influence_war_score_factor: "Faktor vlivu frakce z válečného skóre"
+ faction_influence_gov_in_exile_factor: "Faktor vlivu frakce z vlády v exilu"
+ faction_influence_contribution_factor: "Faktor vlivu frakce z příspěvků"
+ faction_influence_power_factor: "Faktor síly vlivu frakce"
+ MODIFIER_ANNEX_SUBJECT_COST_FACTOR: "Faktor nákladů na anexi subjektu"
+ MODIFIER_NAVAL_MISSION_XP_FACTOR: "Faktor zkušeností z námořních misí"
+ MODIFIER_ARMY_RETREAT_SPEED_FACTOR: "Rychlost ustupujících divizí"
+ MODIFIER_PLANNING_DECAY_RATE_FACTOR: "Rychlost poklesu připravenosti plánu"
+ MODIFIER_NAVAL_HQ_XP_GAIN_FACTOR: "Zisk zkušeností z námořního velitelství"
+ headquarters_experience_gain_factor: "Zisk zkušeností z námořního velitelství"
+ MODIFIER_GRANT_MEDAL_CHANCE: "Šance na automatické udělení medaile"
+ MODIFIER_MEDAL_EFFECTIVENESS: "Účinnost medailí pro jednotky"
+ unit_medal_effectiveness: "$MODIFIER_MEDAL_EFFECTIVENESS$"
+ automatic_grant_medal_chance: "$MODIFIER_GRANT_MEDAL_CHANCE$"
+ MODIFIER_SHORE_BOMBARDMENT_COLLATERAL_DAMAGE_FACTOR: "Vedlejší škody pobřežního bombardování"
+ shore_bombardment_collateral_damage_factor: "Vedlejší škody pobřežního bombardování"
+ CRITICAL_BOMBARDMENT_DAMAGE: "Kritické poškození budovy!"
+ MODIFIER_ARMY_EXPERIENCE_FROM_VOLUNTEERS: "Zkušenosti armády z dobrovolníků"
+ MODIFIER_AUTONOMY_MANPOWER_SHARE_FROM_SUBJECTS: "Požadavek na vojenské síly od subjektů"
+ MODIFIER_AUTONOMY_MANPOWER_SHARE_FROM_SUBJECTS_DESC: "Množství vojenské síly požadované od subjektů"
+ autonomy_manpower_share_from_subjects_tt: " $MODIFIER_AUTONOMY_MANPOWER_SHARE_FROM_SUBJECTS$: $RIGHT|Y=%1$"
+ fascism_drift_from_guarantees: "Nárůst fašismu v zahraničí z důvodu garancí"
+ communism_drift_from_guarantees: "Nárůst komunismu v zahraničí z důvodu garancí"
+ democratic_drift_from_guarantees: "Nárůst demokracie v zahraničí z důvodu garancí"
+ neutrality_drift_from_guarantees: "Nárůst nezařazených v zahraničí z důvodu garancí"
  MODIFIER_GUARANTEE_OTHER_IDEOLOGIES: "Může garantovat jiné ideologie"
  naval_mines_planting_by_air_factor_tt: " $MODIFIER_MINES_PLANTING_BY_AIR_FACTOR$: $RIGHT|+=%1$"

@@ -224,10 +224,10 @@
  operation_coordinated_strike: "Koordinovaný úder"
  operation_coordinated_strike_desc: "§LK dosažení vítězství nad [From.GetNameDef] musíme zasadit zdrcující překvapivý úder.§!\n\nPřiprav §Ynálety na přístavy§! a §Ystrategické bombardování§! v cílovém regionu - tyto útoky budou provedeny při dokončení operace a zahájí válku mezi námi."
  operation_coup_government: "Zinscenovat převrat"
- operation_coup_government_desc: "§L[From.GetNameDefCap] je na změnu režimu. Několik dobrých, spolehlivých lidí - s řádnou podporou - by mohlo svrhnout zkaženou strukturu, která drží [From.GetAdjective] vládu u moci.§!" # todo: CHANGED
+ operation_coup_government_desc: "§L[From.GetNameDefCap] čeká změna režimu. Několik dobrých, spolehlivých lidí - s řádnou podporou - by mohlo svrhnout zkaženou strukturu, která drží [From.GetAdjective] vládu u moci.§!"
  operation_fake_intel: "Podstrčit falešné informace"
  operation_fake_intel_desc: "§LVíme, že [From.GetAdjective] rozvědka působí v naší zemi. Někdy je lepší dát těm, kteří hledají informace, přesně to, co chtějí slyšet.§!"
- operation_infiltrate_armed_forces_airforce: "Infiltrovat letectvo" # todo: CHANGED
+ operation_infiltrate_armed_forces_airforce: "Infiltrace do letectva"
  operation_infiltrate_armed_forces_airforce_desc: "§L[From.GetAdjectiveCap] letectvo je nejmladší složkou [From.GetAdjective] ozbrojených sil. V jeho řadách je mnoho lidí z neobvyklého prostředí. Toho bychom mohli využít a dostat dovnitř našeho člověka.§!"
  operation_infiltrate_armed_forces_army: "Infiltrace do armády"
  operation_infiltrate_armed_forces_army_desc: "§L[From.GetAdjectiveCap] armáda má v řadách jedince, které bychom mohli získat, aby nám poskytovali informace a podporu pro budoucí operace.§!"
@@ -311,7 +311,7 @@
  steal_blueprints_seduction_desc: "Náš operativec se sblíží s osobou zapojenou do projektu a využije své kouzlo k získání informací. Nečekáme, že za trochu „společnosti“ dostane celý projektový plán, ale povídání v soukromí bývá často bez zábran."
  steal_blueprints_seduction_outcome: "Náš operativec si našel osamělého inženýra, který se ve společnosti projevil velmi otevřeně ohledně své práce."
  steal_blueprints_steal_prototype: "Ukrást prototyp"
- steal_blueprints_steal_prototype_desc: "Po absolvování základního leteckého výcviku a v doprovodu testovacího pilota našeho letectva získá náš agent přístup k prototypu a odletí s ním k našim liniím. Bude zajištěn stíhací doprovod, aby prototyp dorazil k nám nepoškozený." # todo: CHANGED
+ steal_blueprints_steal_prototype_desc: "Po absolvování základního leteckého výcviku a v doprovodu testovacího pilota našeho letectva získá náš operativec přístup k prototypu a odletí s ním k našim liniím. Bude zajištěn stíhací doprovod, aby prototyp dorazil k nám nepoškozený."
  steal_blueprints_steal_prototype_outcome: "Prototyp byl úspěšně získán a dopraven na přátelské letiště. Naši inženýři jej nyní rozebírají."
  targeted_sabotage_burn_storage: "Zapálit sklady"
  targeted_sabotage_burn_storage_desc: "Místní odboj vytipoval sklady obsahující vysoce hořlavý materiál. Naši agenti je v noci zapálí a v nastalém chaosu se stáhnou."

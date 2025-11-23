@@ -935,7 +935,7 @@
  VIC_hidden_materials_desc: "Němci by své armády neobnovili tak rychle, kdyby neobcházeli smluvní závazky. Je tudíž spravedlivé a patřičné, abychom učinili totéž."
  VIC_analyze_our_defeat: "Analyzovat naši porážku"
  VIC_analyze_our_defeat_desc: "Naše porážka nebyla nevyhnutelná. Mnoho lidí selhalo ve svých povinnostech v dlouhém řetězci odporné liknavosti. Odhalíme přesné příčiny a zajistíme, že příště budeme připraveni lépe."
- VIC_modernize_the_airforce: "Modernizovat letectvo" # todo: CHANGED
+ VIC_modernize_the_airforce: "Modernizovat letectvo"
  VIC_modernize_the_airforce_desc: "Snad nejpotupnější částí porážky byla naše neschopnost obstát ve vzduchu - měli jsme příliš málo moderních letounů. Zatímco okolo nás válka pokračuje, zavádějí se do výroby nové stroje. Nesmíme dopustit, aby se historie opakovala."
  VIC_learn_from_the_enemy: "Poučit se od nepřítele"
  VIC_learn_from_the_enemy_desc: "Nejrychlejší cestou k pochopení, jak a proč jsme selhali, je porozumět tomu, co naši protivníci udělali správně."
@@ -1081,7 +1081,7 @@
  POR_naval_research_institute: "Námořní výzkumný institut"
  POR_naval_research_institute_desc: "Při správných investicích může naše Escola Naval zlepšit výzkumnou činnost a poskytovat kvalitnější vzdělání budoucím důstojníkům."
  POR_air_naval_research: "Výzkum námořního letectví"
- POR_air_naval_research_desc: "Musíme shromáždit naše nejlepší piloty a námořní důstojníky, abychom vymysleli nové způsoby koordinace našeho rostoucího letectva a námořnictva." # todo: CHANGED
+ POR_air_naval_research_desc: "Musíme shromáždit naše nejlepší piloty a námořní důstojníky, abychom vymysleli nové způsoby koordinace našeho rostoucího letectva a námořnictva."
  POR_arsenal_do_alfeite: "Arsenal do Alfeite"
  POR_arsenal_do_alfeite_desc: "Naší prioritou je vybudovat silné námořnictvo schopné chránit naši rozlehlou říši. Musíme mít kapacity i know-how ke stavbě větších lodí. Hlavní námořní loděnice v Lisabonu je třeba rozšířit a najmout odborníky na stavbu lodí."
  POR_national_cruiser_production: "Národní výroba křižníků"
@@ -1197,7 +1197,7 @@
  POR_support_a_spanish_monarchy_in_the_war: "Podpořit španělskou monarchii ve válce"
  POR_support_a_spanish_monarchy_in_the_war_desc: "Není to tak, že bychom k carlistům chovali zvláštní sympatie, ale španělská monarchie je pro nás každopádně lepší než fašistický či komunistický režim na poloostrově. Musíme podpořit menší zlo..."
  POR_assist_the_requetes: "Podpořit Requetés"
- POR_assist_the_requetes_desc: "Několik členů portugalské armády a letectva bude vysláno do Španělska, aby dohlíželi na válečné úsilí karlistů a radili jejich vůdcům. Během svého pobytu také shromáždí informace o bojových taktikách používaných oběma stranami." # todo: CHANGED
+ POR_assist_the_requetes_desc: "Několik členů portugalské armády a letectva bude vysláno do Španělska, aby dohlíželi na válečné úsilí Karlistů a radili jejich vůdcům. Během svého pobytu také shromáždí informace o bojových taktikách používaných oběma stranami."
  POR_join_the_carlist_fight: "Připojit se k boji Karlistů"
  POR_join_the_carlist_fight_desc: "Nejlepším způsobem, jak zajistit karlistické vítězství ve španělské občanské válce, je bojovat za Requetés a ostatní španělské frakce porazit vlastními silami."
  POR_the_royal_iberian_alliance: "Královská iberská aliance"
@@ -1282,5 +1282,5 @@
  POR_regimento_de_comandos_desc: "Potřebujeme elitní jednotky vycvičené pro různé bojové situace, schopné obstát i v těch nejtěžších podmínkách.\n\n„Audaces Fortuna Juvat“"
  FRA_laissez_faire_tt: "Naše ekonomika se po zhruba dvou letech stane efektivnější."
  FRA_carry_the_revolution_west_tt: "Udělí §YSvrhnout vládu§! jako válečný cíl proti §YŠpanělsku§! nebo jakýmkoli přeživším nekomunistickým frakcím španělské občanské války."
- nationalist_victory: "Nacionalistické Španělsko vyhrálo španělskou občanskou válku" # todo: NEW TRANSLATION
- republican_victory: "Republikánské Španělsko vyhrálo španělskou občanskou válku" # todo: NEW TRANSLATION
+ nationalist_victory: "Nacionalistické Španělsko vyhrálo španělskou občanskou válku"
+ republican_victory: "Republikánské Španělsko vyhrálo španělskou občanskou válku"
