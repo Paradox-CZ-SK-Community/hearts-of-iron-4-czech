@@ -2112,3 +2112,6 @@
  JAP_emperor_hirohito_override_instant: "§H$JAP_hirohito$§!\nZatímco Japonskou civilní vládu vede §H$JAP_keisuke_okada$§!, uctívaná hlava státu Hirohito představuje zosobnění moci v zemi.\n\nMnohé frakce soupeří o §HImperiální vliv§!, dokud Impérium zůstává nedotčené."
  JAP_emperor_hirohito_override_delayed: ""
  PROGRESS_SECTION_RULE: "§YPravidla:§!\n$DESC$"
+ PLAN_COHESION_IMMOBILE_TITLE: "§HNepohyblivý§!" # todo: NEW TRANSLATION
+ PLAN_COHESION_IMMOBILE_DESC: "Divisons se §Rnikdy§! nepřemístí!" # todo: NEW TRANSLATION
+ PLANNING_SPEED_COHESION_IMMOBILE_FACTOR: "$PLAN_COHESION_IMMOBILE_TITLE$ Soudržnost: x$FACTOR|R$ # todo: NEW TRANSLATION

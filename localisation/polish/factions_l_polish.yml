@@ -575,7 +575,6 @@
  fortify_bosporus_goal_desc: "Opevnění Bosporu zajistí naši kontrolu nad všemi námořními přístupy mezi Černým a Středozemním mořem."
  fortify_bosporus_tooltip: "Každá provincie v §YIstanbul§!, která kontroluje úžinu §YBospor§!, získá úroveň 1 §YPobřežního opevnění§!, úroveň 1 §YPozemního opevnění§! a je bráněna jednou divizí."
  fortify_dardanelles_goal_name: "Opevnit Dardanely"
- fortify_dardanelles_goal_desc: "Opevnění Dardanel posílí naši schopnost ovládat pohyb flotil a obchodních tras z Černého moře."
  fortify_dardanelles_tooltip: "Každá provincie v §YEdirne§! a §YBursa§!, která kontroluje úžinu §YDardanelles§!, získá úroveň 1 §YPobřežního opevnění§!, úroveň 1 §YPozemního opevnění§! a je bráněna jednou divizí."
  fortify_suez_canal_goal_name: "Opevnit Suezský průplav"
  fortify_suez_canal_goal_desc: "Udržení kontroly nad Suezským průplavem je zásadní pro udržení výhradního přístupu mezi Evropou a Asií."

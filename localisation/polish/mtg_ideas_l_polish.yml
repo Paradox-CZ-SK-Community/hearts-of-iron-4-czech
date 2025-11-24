@@ -195,3 +195,396 @@
  political_turmoil_desc: "Vláda této země byla nedávno dosazena silou poté, co se předchozí vedení znelíbilo svým zahraničním patronům."
  synarchist_youth: "Synarchistická mládež"
  synarchist_youth_desc: "Mládež je budoucností našeho národa. Pokud bude správně vychována, stane se ztělesněním našich ideálů: síly, loajality a zbožnosti."
+ MEX_callistas:0 "Callistas" # todo: NEW TRANSLATION
+ MEX_callistas_desc:0 "Příznivci Callese se obohacují a zneužívají svou moc. Jmenováni z loajality místo schopností, udržují klientelistický systém, který korumpuje každý úřad a hodnost v zemi. Pokud je nepřibereme na uzdu, běžní Mexičané budou nadále zesměšňovat naší vládnoucí moc jako 'robolucionarios', lupiče-revolucionáře." # todo: NEW TRANSLATION
+ MEX_church_power_5:0 "Katolický stát" # todo: NEW TRANSLATION
+ MEX_church_power_5_desc:0 "Nenáviděná Ústava z roku 1917 byla zrušena. Po desetiletích zneužívání důstojnosti Pravé víry konečně ustanovujeme Svatou církev jako nejvyšší morální a právní autoritu v Mexiku!" # todo: NEW TRANSLATION
+ MEX_church_power_4:0 "Mocná církev" # todo: NEW TRANSLATION
+ MEX_church_power_4_desc:0 "Omezili jsme represe vůči Pravé víře obnovením vlastnictví seminářů a kostelů, ale práce je ještě mnoho." # todo: NEW TRANSLATION
+ MEX_church_power_3:0 "Asertivní církev" # todo: NEW TRANSLATION
+ MEX_church_power_3_desc:0 "Ukončili jsme pokusy o vyhlazení katolické církve v Mexiku. Pokud kněžím dovolíme trochu autonomie, budou respektovat naši kontrolu státu a zdrží se snah o jeho destabilizaci." # todo: NEW TRANSLATION
+ MEX_church_power_2:0 "Slabá církev" # todo: NEW TRANSLATION
+ MEX_church_power_2_desc:0 "Ústava z roku 1917 vyžaduje opatření proti vlivu katolické církve v Mexiku. V 20. letech se proti těmto snahám vzbouřili Cristeros, ale lid může být nyní připraven na sekulární stát." # todo: NEW TRANSLATION
+ MEX_church_power_1:0 "Ateistický stát" # todo: NEW TRANSLATION
+ MEX_church_power_1_desc:0 "Katolická církev v Mexiku se stane minulostí. Knížata jsou kontrarevolucionáři a šíří pověry. Budeme tlačit stále tvrději, abychom přeměnili Mexiko v baštu racionalismu a vědy!" # todo: NEW TRANSLATION
+ MEX_cedillo_tension:0 "Napětí s caudilly – nízké" # todo: NEW TRANSLATION
+ MEX_cedillo_tension_desc:0 "Generál Saturnino Cedillo a muži mu loajální ztratili mnoho své moci, ale jistě usilují o její obnovení." # todo: NEW TRANSLATION
+ MEX_cedillo_tension_2:0 "Napětí s caudilly – střední" # todo: NEW TRANSLATION
+ MEX_cedillo_tension_2_desc:0 "Generál Saturnino Cedillo a caudillové kolem něj žárlivě hlídají svůj vliv. Budeme možná muset proti nim zasáhnout, pokud se postaví do cesty vládě." # todo: NEW TRANSLATION
+ MEX_cedillo_tension_3:0 "Napětí s caudilly – vysoké" # todo: NEW TRANSLATION
+ MEX_cedillo_tension_3_desc:0 "Generál Saturnino Cedillo a caudillové spříznění s ním jednají nezávisle na vládě. Musíme předpokládat, že jsou v kontaktu s nepřáteli [Root.GetLeader] i mexického lidu — vnitřními i vnějšími!" # todo: NEW TRANSLATION
+ MEX_cedillo_tension_4:0 "Napětí s caudilly – velmi vysoké" # todo: NEW TRANSLATION
+ MEX_cedillo_tension_4_desc:0 "Generál Saturnino Cedillo a caudillové okázale shromažďují vojsko v přípravě na vzpouru proti legitimní vládě [Root.GetLeader]. Musíme brzy zasáhnout a ukončit tuto hrozbu jednotě Mexika!" # todo: NEW TRANSLATION
+ MEX_brown_water_navy:0 "Brunátná námořnictva" # todo: NEW TRANSLATION
+ MEX_brown_water_navy_desc:0 "Máme pobřežní obranné síly schopné ohrozit ponorky a námořní nájezdy, ale specializovaná nepřátelská hladinová flotila by nás smetla." # todo: NEW TRANSLATION
+ MEX_blue_water_navy:0 "Modrá voda—námořnictvo" # todo: NEW TRANSLATION
+ MEX_blue_water_navy_desc:0 "Naším cílem je nyní hladinové námořnictvo schopné obstát proti flotám velmocí." # todo: NEW TRANSLATION
+ MEX_raiding_navy:0 "Námořnictvo nájezdníků" # todo: NEW TRANSLATION
+ MEX_raiding_navy_desc:0 "Snažit se porazit námořnictva velmocí by bylo marné. Raději se zaměříme na ničení nepřátelského obchodu a konvojů, abychom ochránili Mexiko před invazí." # todo: NEW TRANSLATION
+ MEX_heavy_artillery:0 "Těžká dělostřelectva" # todo: NEW TRANSLATION
+ MEX_heavy_artillery_desc:0 "Soustředíme se na konvenční polní dělostřelectvo pro palebnou podporu." # todo: NEW TRANSLATION
+ MEX_aerial_artillery:0 "Vzdušné dělostřelectvo" # todo: NEW TRANSLATION
+ MEX_aerial_artillery_desc:0 "Soustředíme se na lehké a taktická bombardovací letadla pro palebnou podporu." # todo: NEW TRANSLATION
+ MEX_politicised_army:0 "Politizovaná armáda" # todo: NEW TRANSLATION
+ MEX_politicised_army_desc:0 "Vládci Mexika pocházejí z řad revolučních důstojníků už téměř tři desetiletí. Bouřlivé časy vyžadovaly pevné vedení. Otázka však zní: pominulo bouření, nebo sílí? Máme profesionalizovat armádu, nebo dovolit regionálním silákům — caciques a caudillům — vytvářet malá knížectví? Generálové jako Saturnino Cedillo ve San Luis Potosí vytvářejí soukromé milice, aby si ochránili moc. Mnoho vzpour nespokojených důstojníků v minulosti by pravděpodobně pokračovalo, pokud nezasáhneme." # todo: NEW TRANSLATION
+ MEX_politicised_army_2:0 "Politizovaná armáda" # todo: NEW TRANSLATION
+ MEX_politicised_army_2_desc:0 "Podařilo se nám omezit výstřední tendence regionálních siláků zákazem politických milicí, jako byly Rudé košile generála Garrida a Zlaté košile generála Nicoláse Rodrígueze." # todo: NEW TRANSLATION
+ MEX_revolutionary_army:0 "Revoluční armáda" # todo: NEW TRANSLATION
+ MEX_revolutionary_army_desc:0 "Mexickou revoluci bojovali a vyhráli hrdinové a vlastenci, které potřebujeme po svém boku, aby zajistili nezávislost naší země." # todo: NEW TRANSLATION
+ MEX_left_wing_paramilitaries:0 "Levicí paramilitární jednotky" # todo: NEW TRANSLATION
+ MEX_left_wing_paramilitaries_desc:0 "Skupiny jako Rudé košile generála Garrida z Tabasca nám pomohou zničit nepřátele lidu, kteří se snaží podkopat revoluci a zneužít ji pro osobní zisk. Pomohou nám vypreparovat tajné příznivce katolické církve — kontrarevolucionáře, kteří by chtěli vrátit Mexiko do temných věků." # todo: NEW TRANSLATION
+ MEX_right_wing_paramilitaries:0 "Pravicové paramilitární jednotky" # todo: NEW TRANSLATION
+ MEX_right_wing_paramilitaries_desc:0 "Skupiny jako Zlaté košile generála Nicoláse Rodrígueze Carrasca nám pomohou zajistit jednotu země proti levicovým zrádcům a defetistům." # todo: NEW TRANSLATION
+ MEX_ejido_worker_militias:0 "Milice dělníků ejida" # todo: NEW TRANSLATION
+ MEX_ejido_worker_militias_desc:0 "Pilní farmáři z komunitního systému ejida se sdružují, aby chránili své zájmy v novém Mexiku, které budujeme." # todo: NEW TRANSLATION
+ MEX_caudillo_private_armies:0 "Soukromé armády caudillů" # todo: NEW TRANSLATION
+ MEX_caudillo_private_armies_desc:0 "Guvernéři, podnikatelé a velitelé posádek v regionu bývají často tou samou osobou — revoluční generál, který nabývá moci jmenováním loajálních podřízených do vlivných pozic. Tito caudillové jsou realitou, kterou bychom měli pěstovat, ne s ní bojovat." # todo: NEW TRANSLATION
+ MEX_strike_breaking:0 "Lámání stávky" # todo: NEW TRANSLATION
+ MEX_strike_breaking_desc:0 "Pracovní akce je ve vyhrocené době zrádná. Kontrolou práce v našich strategických odvětvích můžeme zvýšit produkci ve prospěch vlasti." # todo: NEW TRANSLATION
+ MEX_international_struggle:0 "Mezinárodní boj" # todo: NEW TRANSLATION
+ MEX_international_struggle_desc:0 "Budeme pomáhat těm, které považujeme za hodné pomoci v ideologických a osvobozeneckých bojích. Je to velká zodpovědnost, ale mexický lid je na tento úkol dost silný." # todo: NEW TRANSLATION
+ MEX_synarchist_influence:1 "Synarchistický vliv" # todo: NEW TRANSLATION
+ MEX_synarchist_influence_desc:1 "Mexičtí synarchisté se snaží šířit svou propagandu na našem území. Snaží se skrývat své utlačovatelské cíle za takzvanou "hispanic solidarity"." # todo: NEW TRANSLATION
+ MEX_oil_concessions:1 "Ropné koncese" # todo: NEW TRANSLATION
+ MEX_oil_concessions_desc:1 "Aby mohly zahraniční společnosti těžit ropu v Mexiku, podepsaly koncesní smlouvy zaručující jim volný dobývací přístup na stanovených územích po dlouhou dobu výměnou za platby. Ovšem částka placená společnostmi byla mnohem nižší než hodnota vytěžené ropy a umožnila jim dosahovat ziskové marže mnohem vyšší než v zemích jako USA, zatímco ropné rezervy Mexika dostaly nepřímo do zahraniční kontroly." # todo: NEW TRANSLATION
+ MEX_bolivarian_agitation:1 "Bolívarovská agitace" # todo: NEW TRANSLATION
+ MEX_hispanic_culture:0 "Hispánská kultura" # todo: NEW TRANSLATION
+ MEX_hispanic_culture_desc:0 "Národy Latinské Ameriky mají silnou kulturu, formovanou dobyvatelstvím a přežitím, povstáním a pevným vládnutím. Naše sdílená kultura je zdrojem hrdosti a vodítkem pro náš budoucí pokrok." # todo: NEW TRANSLATION
+ MEX_proletarian_class_army:1 "Armáda proletářské třídy" # todo: NEW TRANSLATION
+ MEX_proletarian_class_army_desc:1 "Pouze proletariát, ozbrojený a organizovaný jako třídní armáda, bude schopen bránit a šířit ideály revoluce." # todo: NEW TRANSLATION
+ MEX_idea_vanguard_of_the_4th_international:1 "Předvoj 4. internacionály" # todo: NEW TRANSLATION
+ MEX_idea_vanguard_of_the_4th_international_desc:1 "Naše revoluce se stala větrem svobody, který žene dělníky světa k většímu hrdinství. 4. internacionála osvobodí lidstvo od řetězů fašistické, buržoazní a bonapartistické reakce." # todo: NEW TRANSLATION
+ MEX_luis_montes_de_oca:0 "Luis Montes de Oca" # todo: NEW TRANSLATION
+ MEX_luis_montes_de_oca_desc:0 "Luis Montes de Oca je významný mexický bankéř a zastánce rakouské školy ekonomie." # todo: NEW TRANSLATION
+ MEX_alberto_pani:0 "Alberto J. Pani" # todo: NEW TRANSLATION
+ MEX_alberto_pani_desc:0 "Alberto J. Pani je architektem mexického finančního průmyslu a jedním z vedoucích Národní banky a Zemědělské úvěrové banky." # todo: NEW TRANSLATION
+ MEX_luis_farell:0 "Luis Farell Cubillas" # todo: NEW TRANSLATION
+ MEX_luis_farell_desc:1 "" # todo: NEW TRANSLATION
+ MEX_abelardo_rodriguez:0 "Abelardo L. Rodríguez" # todo: NEW TRANSLATION
+ MEX_abelardo_rodriguez_desc:0 "Abelardo L. Rodríguez vstoupil do revoluce v roce 1913 a díky své inteligenci a píli postupoval v řadách. Jeho loajalita k revoluci byla odměněna v roce 1932, kdy byl jmenován prezidentem Mexika na poslední dva roky Obregónova mandátu po jeho atentátu." # todo: NEW TRANSLATION
+ MEX_jose_gonzalo_escobar:0 "José Gonzalo Escobar" # todo: NEW TRANSLATION
+ MEX_jose_gonzalo_escobar_desc:0 "Generál Escobar bojoval proti rebelům Pancha Villy během chaosu a vnitřních střetů revoluce, vedl jízdu kavalérie proti nepřátelům vlády. Dostal se do konfliktu s prezidentem Callesem a po své vlastní vzpouře v roce 1929 byl vyhoštěn, ale s reorganizací kabinetu se může vrátit." # todo: NEW TRANSLATION
+ MEX_pablo_gonzalez:0 "Pablo González Garza" # todo: NEW TRANSLATION
+ MEX_pablo_gonzalez_desc:0 "Pablo González je armádní generál se sklonem k organizování 'mokré práce'. Pomáhal zorganizovat léčku, která v roce 1919 zabila populárního rebela a caudilla Emiliana Zapatu." # todo: NEW TRANSLATION
+ MEX_plutarco_calles:0 "Plutarco E. Calles" # todo: NEW TRANSLATION
+ MEX_plutarco_calles_desc:0 "Prezident v letech 1924–1928, Calles nadále vykonává obrovský vliv nad mexickým státem díky své mocné síti patronátu. Jeho politická opozice ho označila za 'Jefe Máximo' (Velký vůdce) jako srovnání s diktátorem doživotním prezidentem Díazem. Termín se dostal do běžného užívání, i když on trvá na tom, že je jenom vysloužilým státníkem poskytujícím rady ve prospěch země." # todo: NEW TRANSLATION
+ MEX_vicente_lombardo:0 "Vicente Lombardo" # todo: NEW TRANSLATION
+ MEX_vicente_lombardo_desc:0 "Radikální odborový činitel, který po revoluci bojoval za práva dělníků a přivedl odbory do aliance s vládnoucí stranou Cárdenase." # todo: NEW TRANSLATION
+ MEX_jose_vasconcelos:0 "José Vasconcelos" # todo: NEW TRANSLATION
+ MEX_jose_vasconcelos_desc:0 "Kulturní spisovatel, bývalý ministr a prezidentský kandidát, Vasconcelos kombinuje nativní náboženství, katolicismus a občanský nacionalismus do synkretické mexické ideologie. Podporuje znovudobyti Mexické cese z Ameriky." # todo: NEW TRANSLATION
+ MEX_bartolome_garcia_correa:0 "Bartolomé García Correa" # todo: NEW TRANSLATION
+ MEX_bartolome_garcia_correa_desc:0 "Rodilý May z Yucatánu, který působil jako guvernér a senátor a prosadil populistické politiky, jež smířily domorodé zvyky s mocí státu." # todo: NEW TRANSLATION
+ MEX_aaron_saenz:0 "Aarón Sáenz Garza" # todo: NEW TRANSLATION
+ MEX_aaron_saenz_desc:0 "Pravicový podnikatel a guvernér Aarón Sáenz byl přezdíván 'Stín Callese' pro svou schopnost udržet kabinet loutkových prezidentů v souladu s cíli el Jefe Máximo." # todo: NEW TRANSLATION
+ MEX_manuel_perez_trevino:0 "Manuel Pérez Treviño" # todo: NEW TRANSLATION
+ MEX_manuel_perez_trevino_desc:0 "Manuel Pérez Treviño je revoluční generál se zkušenostmi v inženýrství a dělostřelectvu. Má politický vliv, je zakladatelem Partido Nacional Revolucionario." # todo: NEW TRANSLATION
+ MEX_saturnino_cedillo:0 "Saturnino Cedillo Martínez" # todo: NEW TRANSLATION
+ MEX_saturnino_cedillo_desc:0 "Bohatý severní guvernér a vojenský vůdce, generál Cedillo vykonává moc díky patronátnímu systému založenému na osobní loajalitě. Slábnoucí vliv caudillů a centralizace země ho velmi znepokojují, protože ohrožují jeho nezávislost vůči vládě." # todo: NEW TRANSLATION
+ MEX_othon_blanco:0 "Othón P. Blanco Núñez de Cáceres" # todo: NEW TRANSLATION
+ MEX_othon_blanco_desc:0 "Othón Blanco je vysokým členem Sekretariátu námořnictva a slouží jako námořní důstojník už před revolucí. Specializuje se na zajištění dobré logistické podpory pro námořnictvo, včetně zakládání nových osad." # todo: NEW TRANSLATION
+ MEX_heriberto_corona:0 "Heriberto Jara Corona" # todo: NEW TRANSLATION
+ MEX_heriberto_corona_desc:0 "Heriberto Corona je revoluční generál, který byl jmenován do námořnictva, aby zajistil jeho loajalitu." # todo: NEW TRANSLATION
+ MEX_manuel_avila:0 "Manuel Ávila Camacho" # todo: NEW TRANSLATION
+ MEX_manuel_avila_desc:0 "Revoluční generál, jmenovaný do Sekretariátu národní obrany, aby připravil Mexiko na nadcházející problémy." # todo: NEW TRANSLATION
+ MEX_leon_trotsky:1 "Lev Trotsky" # todo: NEW TRANSLATION
+ MEX_leon_trotsky_desc:0 "Zodpovědný za vytvoření Rudé armády takřka od nuly během ruské občanské války, tento vůdce Mezinárodní komunistické ligy pomůže organizovat armádu." # todo: NEW TRANSLATION
+ MEX_tga:0 "Talleres Generales de Arma" # todo: NEW TRANSLATION
+ MEX_tga_desc:0 "Odnož mexické aeronautické dílny TNCA, zaměřená na obrněná bojová vozidla." # todo: NEW TRANSLATION
+ MEX_germano_mexican_tanks:0 "Německo-mexické návrhy tanků" # todo: NEW TRANSLATION
+ MEX_germano_mexican_tanks_desc:1 "" # todo: NEW TRANSLATION
+ MEX_russo_mexican_tanks:0 "Rusko-mexické návrhy tanků" # todo: NEW TRANSLATION
+ MEX_russo_mexican_tanks_desc:1 "" # todo: NEW TRANSLATION
+ MEX_american_mexican_tanks:0 "Mexický Chrysler" # todo: NEW TRANSLATION
+ MEX_american_mexican_tanks_desc:1 "" # todo: NEW TRANSLATION
+ MEX_astimar_gulf:0 "ASTIMAR Golfo" # todo: NEW TRANSLATION
+ MEX_astimar_gulf_desc:0 "Stavitelé lodí Sekretariátu námořnictva z oblasti zálivu" # todo: NEW TRANSLATION
+ MEX_astimar_pacific:0 "ASTIMAR Pacifico" # todo: NEW TRANSLATION
+ MEX_astimar_pacific_desc:0 "Stavitelé lodí Sekretariátu námořnictva z oblasti Pacifiku" # todo: NEW TRANSLATION
+ MEX_tnca:0 "Talleres Nacionales de Construcciones Aeronáuticas" # todo: NEW TRANSLATION
+ MEX_tnca_desc:0 "Národní dílna pro leteckou konstrukci byla založena před revolucí a byla inovativním konstruktérem před přerušeními občanskými válkami." # todo: NEW TRANSLATION
+ MEX_royal_dutch_shell:0 "Royal Dutch Shell" # todo: NEW TRANSLATION
+ MEX_royal_dutch_shell_desc:0 "Britsko-holandská firma držící 60 % mexických ropných koncesí." # todo: NEW TRANSLATION
+ mexican_ford:0 "Mexican Ford" # todo: NEW TRANSLATION
+ mexican_ford_desc:0 "Místní pobočka společnosti Ford Motor Company." # todo: NEW TRANSLATION
+ MEX_pemex:0 "Pemex" # todo: NEW TRANSLATION
+ MEX_pemex_desc:0 "Petróleos Mexicanos vznikly znárodněním místních aktiv, která dříve patřila Royal Dutch Shell, Standard Oil of California a dalším zahraničním firmám." # todo: NEW TRANSLATION
+ MEX_banco_de_mexico:0 "Banco de México" # todo: NEW TRANSLATION
+ MEX_banco_de_mexico_desc:0 "Založená v roce 1925, aby obnovila ekonomiku zpustošenou občanskou válkou, naše Národní banka je posledním věřitelem, emitentem měny a investorem do rozmanitých projektů ve prospěch státu." # todo: NEW TRANSLATION
+ MEX_escuela_de_ingeneria_electrica:0 "Escuela de Ingenería" # todo: NEW TRANSLATION
+ MEX_escuela_de_ingeneria_electrica_desc:0 "Escuela Superior de Ingenería Mecánica y Eléctrica, univerzita strojního a elektronického inženýrství, je jednou z našich nejlepších vzdělávacích institucí, na špici výzkumu elektromagnetických vln a televize." # todo: NEW TRANSLATION
+ MEX_capital_reserves:0 "Kapitálové rezervy" # todo: NEW TRANSLATION
+ MEX_capital_reserves_desc:0 "Bohatství přitékající z naší rozvíjející se ropné industrie nám umožní nakupovat vysoce kvalitní zahraniční vojenské vybavení." # todo: NEW TRANSLATION
+ MEX_knights_of_columbus:0 "Rytíři Kolumba" # todo: NEW TRANSLATION
+ MEX_knights_of_columbus_desc:0 "Mezinárodní katolická bratrská organizace Rytíři Kolumba nám pomůže dosáhnout míru a usmíření po desetiletích občanského tření. Jak je psáno v knize Matouše: 'Slyšeli jste, že bylo řečeno: oko za oko, zub za zub. Ale já vám říkám: neodporujte zlému. Když vás někdo uhodí po pravé tváři, otočte mu i druhou.'" # todo: NEW TRANSLATION
+ MEX_social_catholicism:1 "Sociální katolicismus" # todo: NEW TRANSLATION
+ MEX_social_catholicism_desc:1 "Průmyslová revoluce postavila dělníky do nelidských podmínek. Aby se zabránilo socialistickým požadavkům, zdůraznila se nutnost, aby management projevil soucit se zaměstnanci. Zrodila se tak varianta křesťanského nerevolučního socialismu: sociální katolicismus." # todo: NEW TRANSLATION
+ MEX_legion_of_christ:1 "Legie Kristova" # todo: NEW TRANSLATION
+ MEX_legion_of_christ_desc:1 "Ateističtí teroristé byli poraženi! Jejich kruté utlačování musí být potrestáno. Jak je psáno v knize Exodus: oko za oko, život za život. Aby byla odplata paží Všemohoucího, Legie Kristova zajistí, že satanistická bezvíra zmizí z naší země." # todo: NEW TRANSLATION
+ MEX_triumph_of_synarchism:0 "Triumf synarchismu" # todo: NEW TRANSLATION
+ MEX_triumph_of_synarchism_desc:0 "Naši nepřátelé jsou naprosto poraženi a skrývají se ve stínech jako Satanovi pomocníci. Máme nyní volnou ruku k přestavbě státu tak, aby byla zajištěna jednota v víře i politické vůli." # todo: NEW TRANSLATION
+ MEX_womens_suffrage:0 "Právo volit pro ženy" # todo: NEW TRANSLATION
+ MEX_womens_suffrage_desc:0 "V posledních letech se mnozí z mexické elity obávali, že ženy by podkopaly ideály revoluce tím, že by stály na straně katolické církve proti sekulární Ústavě z roku 1917, ale rovnost před zákonem je mnohem důležitější a umožní naší společnosti rozkvést." # todo: NEW TRANSLATION
+ MEX_professional_army:1 "Escuela Superior de Guerra" # todo: NEW TRANSLATION
+ MEX_professional_army_desc:1 "Díky naší Vojenské škole se naši generálové naučili vyvíjet efektivní zásobovací systémy, aby udrželi naše vojáky v boji s maximální účinností." # todo: NEW TRANSLATION
+ MEX_international_peacekeepers:0 "Mezinárodní mírotvůrci" # todo: NEW TRANSLATION
+ MEX_international_peacekeepers_desc:1 "Demokratické mocnosti světa plánují vytvořit alianci rovných, Organizaci spojených národů, aby zajistily mezinárodní bezpečnost tím, že poskytnou zemím místo pro usmíření rozdílů a rozhodování sporů. Vrhneme se do takového projektu, abychom pomohli latinskoamerickým státům udržet nezávislost." # todo: NEW TRANSLATION
+ mexico_hispanic_diplomacy:1 "Hispánská diplomacie" # todo: NEW TRANSLATION
+ mexico_hispanic_diplomacy_desc:1 "Pokud chceme naplnit naše kontinentální ambice, musíme přesvědčit řadu vlád Latinské Ameriky." # todo: NEW TRANSLATION
+ mexico_german_submarine_happy_time:0 "Ponorkový Happy Time" # todo: NEW TRANSLATION
+ mexico_german_submarine_happy_time_desc:0 "Naši ponorkoví kapitáni si užívají svůj 'Happy Time' ('Glückliche Zeit'), potápějí nestrážené neutrální lodě u pobřeží Ameriky." # todo: NEW TRANSLATION
+ synarchist_youth:0 "Synarchistická mládež" # todo: NEW TRANSLATION
+ synarchist_youth_desc:0 "Mládež je budoucností národa. Pokud bude správně vychovaná, stane se ztělesněním našich ideálů — síly, loajality a zbožnosti." # todo: NEW TRANSLATION
+ ENG_trade_union_factory_demands:0 "Požadavky odborů ve fabrice" # todo: NEW TRANSLATION
+ ENG_construction_safety_regulations:0 "Předpisy bezpečnosti ve stavebnictví" # todo: NEW TRANSLATION
+ ENG_mandatory_union_days:0 "Povinné odborové dny" # todo: NEW TRANSLATION
+ ENG_trade_union_factory_worker_support:0 "Podpora dělníků v odborech ve fabrice" # todo: NEW TRANSLATION
+ ENG_trade_union_dockyard_worker_support:0 "Podpora dělníků v odborech v loděnici" # todo: NEW TRANSLATION
+ ENG_trade_union_construction_worker_support:0 "Podpora stavebních dělníků v odborech" # todo: NEW TRANSLATION
+ ENG_trade_union_war_propaganda_support:0 "Podpora válečné propagandy odbory" # todo: NEW TRANSLATION
+ ENG_dominion_fascist_propaganda:0 "Britská fašistická propaganda" # todo: NEW TRANSLATION
+ ENG_dominion_communist_propaganda:0 "Britská komunistická propaganda" # todo: NEW TRANSLATION
+ ENG_restoring_public_order:0 "Obnovení veřejného pořádku" # todo: NEW TRANSLATION
+ ENG_support_for_the_king_idea:0 "Podpora krále" # todo: NEW TRANSLATION
+ ENG_exiled_royal_family:0 "Vyhnaná královská rodina" # todo: NEW TRANSLATION
+ ENG_confiscated_royal_wealth:0 "Zkonfiskované královské jmění" # todo: NEW TRANSLATION
+ ENG_raymond_briggs:0 "Raymond Briggs" # todo: NEW TRANSLATION
+ HOL_wilhelmina:0 "Wilhelmina" # todo: NEW TRANSLATION
+ HOL_wilhelmina_desc:0 "Po staletí je rod Orange-Nassau spjata s dějinami Nizozemska. Stejně jako její předek Vilém Nizozemský v osmdesátileté válce, i současná královna Wilhelmina nepochybně inspiruje Nizozemce k obraně vlasti, pokud by jejich země byla kdy napadena." # todo: NEW TRANSLATION
+ HOL_aloof_neutrality:0 "Rezervovaná neutralita" # todo: NEW TRANSLATION
+ HOL_aloof_neutrality_desc:0 "Politika přísné neutrality udržela Nizozemsko mimo války s jakýmikoliv sousedy téměř 150 let a především je uchránila před Velkou válkou. Veřejné přesvědčení o jejich 'talismanu ochrany' je téměř vroucí, a slabá nizozemská vláda si nemůže dovolit jít proti vůli lidu a zaujmout silné mezinárodní postoje. Místo toho věří Lize národů a jinak zaujímá rezervovaný postoj k světovým událostem." # todo: NEW TRANSLATION
+ HOL_shell_shocked_spectator:0 "Otřesený divák Velké války" # todo: NEW TRANSLATION
+ HOL_shell_shocked_spectator_desc:1 "Jelikož neutrální Nizozemsko bylo nejbližším bezpečným útočištěm pro uprchlíky z západní fronty, Nizozemci byli až příliš blízko hrůzám Velké války. V důsledku toho se silné pacifistické hnutí rozrostlo a prostupuje velké části veřejnosti, což vládě způsobuje velké potíže při zvyšování vojenských výdajů. Pouze námořnictvo si stále zachovává určitou prestiž v očích veřejnosti.\n\nDefenzivní válka nebo 'válka proti pacifismu' by byla potřeba k tomu, aby se země skutečně zbavila tohoto sentimentu." # todo: NEW TRANSLATION
+ HOL_de_crisisjaren:0 "De Crisisjaren" # todo: NEW TRANSLATION
+ HOL_de_crisisjaren_desc:1 "Kvůli zvláštnostem globální ekonomiky udeřila Velká depresi v Nizozemsku mnohem později než jinde. Nizozemské rozhodnutí zachovat zlatý standard, zatímco jiné národy ho velmi rychle opustily, situaci v 'krizových letech' v Nizozemsku ještě více zhoršilo. Držením gildru od devalvace nezbývají žádné prostředky na pomoc nemocné nizozemské ekonomice, natož na zlepšení špatného stavu národní obrany.\n\nKrizi lze zmírnit investicemi do veřejných prací a stane se v zásadě irelevantní, pokud kapitulujeme a ztratíme kontrolu nad postiženou pevninou." # todo: NEW TRANSLATION
+ HOL_weak_government:0 "Slabá vláda" # todo: NEW TRANSLATION
+ HOL_weak_government_desc:0 "Nizozemská vláda byla v posledních letech poznamenána slabostí. Nestačilo by mnoho k tomu, aby byla opět svržena." # todo: NEW TRANSLATION
+ HOL_shared_intelligence_eng:0 "Sdílené britské zpravodajství" # todo: NEW TRANSLATION
+ HOL_shared_intelligence_fra:0 "Sdílené francouzské zpravodajství" # todo: NEW TRANSLATION
+ HOL_shared_intelligence_ger:0 "Sdílené německé zpravodajství" # todo: NEW TRANSLATION
+ HOL_shared_intelligence_hol:0 "Sdílené nizozemské zpravodajství" # todo: NEW TRANSLATION
+ HOL_staff_plan_eng:0 "Společný britský štábní plán" # todo: NEW TRANSLATION
+ HOL_staff_plan_fra:0 "Společný francouzský štábní plán" # todo: NEW TRANSLATION
+ HOL_staff_plan_ger:0 "Společný německý štábní plán" # todo: NEW TRANSLATION
+ HOL_de_vaarplicht_idea:0 "De Vaarplicht" # todo: NEW TRANSLATION
+ HOL_de_vaarplicht_idea_desc:0 ""V souladu s královským dekretem A5 jsou všichni nizozemští občané a nizozemské osoby poddané, kteří nebyli povoláni k branné povinnosti, nebo pokud byli, dosud nebyli povoláni k aktivní službě, povinni vykonávat služby pro obchodní loďstvo nebo v jeho prospěch."" # todo: NEW TRANSLATION
+ HOL_caved_to_the_germans_idea:0 "Ustoupili Němcům" # todo: NEW TRANSLATION
+ HOL_caved_to_the_germans_idea_desc:0 "Místo aby čelili hrozbě invaze, Nizozemci se rozhodli ustoupit německým požadavkům v obchodních jednáních. Demokratická svoboda začíná trpět a toto lze vnímat jako první opatrný krok pryč od neutrality." # todo: NEW TRANSLATION
+ HOL_caved_to_the_british_idea:0 "Ustoupili Britům" # todo: NEW TRANSLATION
+ HOL_caved_to_the_british_idea_desc:0 "Místo aby čelili hrozbě úplné blokády, která by jistě znamenala ekonomickou katastrofu, se Nizozemci rozhodli ustoupit britským požadavkům v obchodních jednáních. Antineměcké a probritské nálady jsou vnitřní politice stále více patrné a toto lze považovat za první opatrný krok pryč od neutrality." # todo: NEW TRANSLATION
+ HOL_prince_bernhard:0 "Princ Bernhard" # todo: NEW TRANSLATION
+ HOL_bernhard_air_example:0 "Princ Bernhard jako vzor pro letce" # todo: NEW TRANSLATION
+ HOL_bernhard_strategy_meddling:0 "Princ Bernhard zasahoval do strategie" # todo: NEW TRANSLATION
+ HOL_bernhard_intelligence:0 "Princ Bernhard shromažďoval zpravodajské informace" # todo: NEW TRANSLATION
+ HOL_bernhard_organized_resistance:0 "Princ Bernhard zorganizoval odboj" # todo: NEW TRANSLATION
+ HOL_redirected_investments:0 "Přesměrované investice" # todo: NEW TRANSLATION
+ idea_weapons_for_the_resistance:0 "Zbraně pro odboj" # todo: NEW TRANSLATION
+ idea_weapons_for_the_resistance_desc:0 "Naši spojenci posílají munici statečným bojovníkům za svobodu, kteří bojují s nenáviděným nepřítelem v naší vlasti." # todo: NEW TRANSLATION
+ political_turmoil:0 "Politické otřesy" # todo: NEW TRANSLATION
+ political_turmoil_desc:0 "Vláda této země byla nedávno ustanovena silou poté, co předchozí vedení přišlo o přízeň svých zahraničních vládců." # todo: NEW TRANSLATION
+ HOL_domestic_aircraft_production:0 "Domácí výroba letadel" # todo: NEW TRANSLATION
+ HOL_preparing_evacuation_of_gold_reserves:0 "Příprava evakuace zlatých rezerv" # todo: NEW TRANSLATION
+ HOL_zuiderzee_infrastructure_advancements:0 "Pokroky v infrastruktuře Zuiderzee" # todo: NEW TRANSLATION
+ HOL_zuiderzee_industrial_advancements:0 "Průmyslové pokroky Zuiderzee" # todo: NEW TRANSLATION
+ HOL_german_defectors_1:0 "Němečtí dezertéři" # todo: NEW TRANSLATION
+ HOL_german_defectors_1_desc:0 "Stálý přísun německých dezertérů se pravidelně formuje do jednotek ochotných bojovat za nás, aby znovu nastolili svého císaře." # todo: NEW TRANSLATION
+ HOL_german_defectors_2:0 "Pro-císařští dezertéři" # todo: NEW TRANSLATION
+ HOL_german_defectors_2_desc:0 "Bludná loajalita ke starému císaři přiměla stálý přísun vojáků dezertovat a bojovat pro Nizozemsko, marně se snažíc vrátit císaře na trůn.\n\nPouze naprostá porážka Nizozemska a aliance, které je součástí, s největší pravděpodobností toto hnutí úplně zničí." # todo: NEW TRANSLATION
+ ENG_joint_air_training_scheme:0 "Společný plán leteckého výcviku" # todo: NEW TRANSLATION
+ ENG_joint_air_training_scheme_desc:0 "Britská vláda zavedla celocommonwealthský výcvikový program pro letecké posádky svých členů. Budeme z toho moci výrazně těžit." # todo: NEW TRANSLATION
+ MEX_callistas:0 "Callistas" # todo: NEW TRANSLATION
+ MEX_callistas_desc:0 "Příznivci Callese se obohacují a zneužívají svou moc. Jmenováni pro loajalitu místo schopností, upevňují patronátní systém, který korumpuje každou úřadovnu a hodnost v zemi. Dokud je nezaškrtíme, obyčejní Mexičané budou i nadále náš vládnoucí režim posmívat jako 'robolucionarios', lupiče-revolucionáře." # todo: NEW TRANSLATION
+ MEX_church_power_5:0 "Katolický stát" # todo: NEW TRANSLATION
+ MEX_church_power_5_desc:0 "Nenáviděná Ústava z roku 1917 byla zrušena. Po desetiletích zneužívání důstojnosti Pravé víry konečně ustanovujeme Svatou církev jako nejvyšší autoritu, morální i právní, v Mexiku!" # todo: NEW TRANSLATION
+ MEX_church_power_4:0 "Mocná církev" # todo: NEW TRANSLATION
+ MEX_church_power_4_desc:0 "Snížili jsme represe proti Pravé víře tím, že jsme navrátili vlastnictví seminaristům a kostelům, ale přesto je před námi ještě mnoho práce." # todo: NEW TRANSLATION
+ MEX_church_power_3:0 "Důrazná církev" # todo: NEW TRANSLATION
+ MEX_church_power_3_desc:0 "Ukončili jsme snahy o vytlačení katolické církve z Mexika. Dáním kněžím malé autonomie budou respektovat naši kontrolu státu a zdržet se snah o jeho destabilizaci." # todo: NEW TRANSLATION
+ MEX_church_power_2:0 "Slabá církev" # todo: NEW TRANSLATION
+ MEX_church_power_2_desc:0 "Ústava z roku 1917 vyžaduje opatření zaměřená proti vlivu katolické církve v Mexiku. V 20. letech se Cristeros vzbouřili kvůli snahám tyto zákony vynucovat, ale lidé mohou být nyní připraveni na sekulární stát." # todo: NEW TRANSLATION
+ MEX_church_power_1:0 "Ateistický stát" # todo: NEW TRANSLATION
+ MEX_church_power_1_desc:0 "Katolická církev v Mexiku se stane minulostí. Kněží jsou kontrarevolucionáři a šířiči pověr. Budeme tlačit stále více, aby se Mexiko stalo baštou racionalismu a vědy!" # todo: NEW TRANSLATION
+ MEX_cedillo_tension:0 "Napětí caudillů: nízké" # todo: NEW TRANSLATION
+ MEX_cedillo_tension_desc:0 "Generál Saturnino Cedillo a caudillové mu nakloněni ztratili mnoho ze své moci, ale jistě se snaží ji znovu získat." # todo: NEW TRANSLATION
+ MEX_cedillo_tension_2:0 "Napětí caudillů: střední" # todo: NEW TRANSLATION
+ MEX_cedillo_tension_2_desc:0 "Generál Saturnino Cedillo a caudillové mu nakloněni žárlivě hlídají svůj vliv. Může být nutné proti nim zasáhnout, pokud nám postaví překážky." # todo: NEW TRANSLATION
+ MEX_cedillo_tension_3:0 "Napětí caudillů: vysoké" # todo: NEW TRANSLATION
+ MEX_cedillo_tension_3_desc:0 "Generál Saturnino Cedillo a caudillové mu nakloněni jednají nezávisle na vládě. Měli bychom předpokládat, že jsou v kontaktu s nepřáteli, vnitřními i zahraničními, [Root.GetLeader] a mexického lidu!" # todo: NEW TRANSLATION
+ MEX_cedillo_tension_4:0 "Napětí caudillů: velmi vysoké" # todo: NEW TRANSLATION
+ MEX_cedillo_tension_4_desc:0 "Generál Saturnino Cedillo a caudillové mu nakloněni otevřeně shromažďují vojska v přípravě na povstání proti legitimní vládě [Root.GetLeader]. Musíme brzo zasáhnout, abychom ukončili tuto hrozbu jednotě Mexika!" # todo: NEW TRANSLATION
+ MEX_brown_water_navy:0 "Pobřežní námořnictvo" # todo: NEW TRANSLATION
+ MEX_brown_water_navy_desc:0 "Máme pobřežní obranné síly schopné ohrozit ponorky a povrchové nájezdy, ale dedikovaná nepřátelská povrchová flotila by nás zametla." # todo: NEW TRANSLATION
+ MEX_blue_water_navy:0 "Oceánské námořnictvo" # todo: NEW TRANSLATION
+ MEX_blue_water_navy_desc:0 "Naším cílem je nyní povrchové námořnictvo schopné obstát proti flotám velmocí světa." # todo: NEW TRANSLATION
+ MEX_raiding_navy:0 "Námořnictvo pro nájezdy" # todo: NEW TRANSLATION
+ MEX_raiding_navy_desc:0 "Snažit se porazit námořnictva velmocí by bylo marné. Místo toho budeme pátrat po zničení nepřátelského obchodu a konvojů, abychom ochránili Mexiko před invazí." # todo: NEW TRANSLATION
+ MEX_heavy_artillery:0 "Těžké dělostřelectvo" # todo: NEW TRANSLATION
+ MEX_heavy_artillery_desc:0 "Soustředíme se na konvenční polní dělostřelectvo pro palebnou podporu." # todo: NEW TRANSLATION
+ MEX_aerial_artillery:0 "Letecké dělostřelectvo" # todo: NEW TRANSLATION
+ MEX_aerial_artillery_desc:0 "Soustředíme se na lehké a taktická bombardéry pro palebnou podporu." # todo: NEW TRANSLATION
+ MEX_politicised_army:0 "Politizovaná armáda" # todo: NEW TRANSLATION
+ MEX_politicised_army_desc:0 "Vládci Mexika byli po téměř tři desetiletí vybíráni z důstojníků revoluční armády. Bouřlivé časy vyžadovaly pevné vedení. Otázka je: odzvonilo bouření, nebo zesiluje? Měli bychom profesionalizovat armádu, nebo dovolit regionálním silákům - caciques a caudillům - vyřezávat si malá panství? Generálové jako Saturnino Cedillo v San Luis Potosí zakládají soukromé milice, aby chránili svou moc. Mnoho vzpour nadaných nespokojenými důstojníky v minulosti bude pravděpodobně pokračovat, pokud nezasáhneme." # todo: NEW TRANSLATION
+ MEX_politicised_army_2:0 "Politizovaná armáda" # todo: NEW TRANSLATION
+ MEX_politicised_army_2_desc:0 "Podařilo se nám omezit excentričtější sklony regionálních siláků zákazem politických milicí, jako byly Červení košile generála Garrida a Zlaté košile generála Nicolás Rodrígueze." # todo: NEW TRANSLATION
+ MEX_revolutionary_army:0 "Revoluční armáda" # todo: NEW TRANSLATION
+ MEX_revolutionary_army_desc:0 "Mexickou revoluci bojovali a vyhráli hrdinové a vlastenci, které potřebujeme po svém boku, aby zajistili nezávislost naší země." # todo: NEW TRANSLATION
+ MEX_left_wing_paramilitaries:0 "Levicové paramilitární oddíly" # todo: NEW TRANSLATION
+ MEX_left_wing_paramilitaries_desc:0 "Skupiny jako Červené košile generála Garrida z Tabasca nám pomohou zničit nepřátele lidu, kteří se snaží podkopat revoluci a zneužít ji pro osobní zisk. Pomohou nám vykořenit skryté podporovatele katolické církve, kontrarevolucionáře, kteří by chtěli Mexiko vrátit do temných věků." # todo: NEW TRANSLATION
+ MEX_right_wing_paramilitaries:0 "Pravicové paramilitární oddíly" # todo: NEW TRANSLATION
+ MEX_right_wing_paramilitaries_desc:0 "Skupiny jako Zlaté košile generála Nicolás Rodrígueze Carrasca nám pomohou zajistit jednotu země proti levičáckým zrádcům a defetistům." # todo: NEW TRANSLATION
+ MEX_ejido_worker_militias:0 "Ejidové dělnické milice" # todo: NEW TRANSLATION
+ MEX_ejido_worker_militias_desc:0 "Usilovní rolníci z komunitního systému ejido se sdružují, aby chránili své zájmy v novém Mexiku, které budujeme." # todo: NEW TRANSLATION
+ MEX_caudillo_private_armies:0 "Soukromé armády caudillů" # todo: NEW TRANSLATION
+ MEX_caudillo_private_armies_desc:0 "Guvernéři, podnikatelé a velitelé posádek v regionu bývají často tou samou osobou - revoluční generál, který nabývá moci jmenováním loajálních podřízených do vlivných funkcí. Tito caudillové jsou realitou, kterou bychom měli pěstovat, nikoli proti ní bojovat." # todo: NEW TRANSLATION
+ MEX_strike_breaking:0 "Potlačování stávky" # todo: NEW TRANSLATION
+ MEX_strike_breaking_desc:0 "Pracovní akce jsou ve válce zrádné. Kontrolou práce v našich strategických odvětvích dokážeme zvýšit výrobu ve prospěch vlasti." # todo: NEW TRANSLATION
+ MEX_international_struggle:0 "Mezinárodní boj" # todo: NEW TRANSLATION
+ MEX_international_struggle_desc:0 "Budeme pomáhat těm, které považujeme za hodenou pomoc v ideologických a oslobozeneckých hnutích. Je to těžká odpovědnost, ale mexický lid je na tento úkol dost silný." # todo: NEW TRANSLATION
+ MEX_synarchist_influence:1 "Synarchistický vliv" # todo: NEW TRANSLATION
+ MEX_synarchist_influence_desc:1 "Mexičtí Synarchisté se snaží šířit svou propagandu na našem území. Snaží se skrývat své utlačovatelské cíle za takzvanou "hispanic solidarity"." # todo: NEW TRANSLATION
+ MEX_oil_concessions:1 "Ropní koncese" # todo: NEW TRANSLATION
+ MEX_oil_concessions_desc:1 "Aby mohly zahraniční firmy těžit ropu v Mexiku, podepsaly koncesní smlouvy zajišťující, že mohou volně dobývat ropu na vymezených územích po dlouhou dobu výměnou za platby. Částka zaplacená firmami však byla mnohem nižší než hodnota vytěžené ropy a umožnila jim dosahovat zisku mnohem vyššího než v zemích jako USA, zatímco ropné zásoby Mexika byly nepřímo umístěny pod zahraniční kontrolu." # todo: NEW TRANSLATION
+ MEX_bolivarian_agitation:1 "Bolivariánské pobouření" # todo: NEW TRANSLATION
+ MEX_hispanic_culture:0 "Hispánská kultura" # todo: NEW TRANSLATION
+ MEX_hispanic_culture_desc:0 "Národy Latinské Ameriky mají silnou kulturu, utvořenou z dobývání a přežití, vzpour a pevné vlády. Naše sdílená kultura je zdrojem hrdosti a majákem pro náš budoucí pokrok." # todo: NEW TRANSLATION
+ MEX_proletarian_class_army:1 "Armáda proletářské třídy" # todo: NEW TRANSLATION
+ MEX_proletarian_class_army_desc:1 "Pouze proletariát, ozbrojený a organizovaný jako třídní armáda, bude schopen bránit a šířit ideály Revoluce." # todo: NEW TRANSLATION
+ MEX_idea_vanguard_of_the_4th_international:1 "Avantgarda 4. internacionály" # todo: NEW TRANSLATION
+ MEX_idea_vanguard_of_the_4th_international_desc:1 "Naše revoluce se stala větrem svobody, který žene dělníky světa k větším činům odvahy. 4. internacionála osvobodí lidstvo z řetězů fašistické, buržoazní a bonapartistické reakce." # todo: NEW TRANSLATION
+ MEX_luis_montes_de_oca:0 "Luis Montes de Oca" # todo: NEW TRANSLATION
+ MEX_luis_montes_de_oca_desc:0 "Luis Montes de Oca je významný mexický bankéř a zastánce rakouské školy ekonomie." # todo: NEW TRANSLATION
+ MEX_alberto_pani:0 "Alberto J. Pani" # todo: NEW TRANSLATION
+ MEX_alberto_pani_desc:0 "Alberto J. Pani je architektem mexického finančního průmyslu a jedním z vedoucích Národní banky a Zemědělské úvěrové banky." # todo: NEW TRANSLATION
+ MEX_luis_farell:0 "Luis Farell Cubillas" # todo: NEW TRANSLATION
+ MEX_luis_farell_desc:1 "" # todo: NEW TRANSLATION
+ MEX_abelardo_rodriguez:0 "Abelardo L. Rodríguez" # todo: NEW TRANSLATION
+ MEX_abelardo_rodriguez_desc:0 "Abelardo L. Rodríguez vstoupil do revoluce v roce 1913 a postupoval díky své inteligenci a píli. Jeho věrnost revoluci byla odměněna v roce 1932, kdy byl jmenován prezidentem Mexika na poslední dva roky mandátu Álvara Obregóna po jeho zavraždění." # todo: NEW TRANSLATION
+ MEX_jose_gonzalo_escobar:0 "José Gonzalo Escobar" # todo: NEW TRANSLATION
+ MEX_jose_gonzalo_escobar_desc:0 "Generál Escobar bojoval proti rebelům Pancha Villy během nepokojů a vnitřních bitev revoluce, vedl jízdní útoky proti nepřátelům vlády. Poté, co si znepřátelil prezidenta Callese, byl po vlastním pokusu o vzpouru v roce 1929 vyhoštěn, ale s reorganizací kabinetu se může vrátit." # todo: NEW TRANSLATION
+ MEX_pablo_gonzalez:0 "Pablo González Garza" # todo: NEW TRANSLATION
+ MEX_pablo_gonzalez_desc:0 "Pablo González je armádní generál se sklony k organizování „špinavé práce“. Pomohl zorganizovat léčku, která v roce 1919 zabila populárního rebela a caudilla Emiliana Zapaty." # todo: NEW TRANSLATION
+ MEX_plutarco_calles:0 "Plutarco E. Calles" # todo: NEW TRANSLATION
+ MEX_plutarco_calles_desc:0 "Prezident mezi lety 1924 a 1928, Calles nadále vykonává velký vliv nad mexickým státem díky své mohutné klientelistické síti. Politické opozice mu přezdívají 'Jefe Máximo' (Velký vůdce) jako přirovnání k diktátorovi Díazovi. Termín vstoupil do běžného užití, ačkoli on trvá na tom, že je jen penzionovaným státníkem radícím ve prospěch země." # todo: NEW TRANSLATION
+ MEX_vicente_lombardo:0 "Vicente Lombardo" # todo: NEW TRANSLATION
+ MEX_vicente_lombardo_desc:0 "Radikální odborový předák, který se po revoluci zasazoval o práva dělníků a přivedl pracovníky do spojenectví s vládnoucí stranou Cárdenase." # todo: NEW TRANSLATION
+ MEX_jose_vasconcelos:0 "José Vasconcelos" # todo: NEW TRANSLATION
+ MEX_jose_vasconcelos_desc:0 "Kulturní spisovatel, bývalý ministr a prezidentský kandidát, Vasconcelos míchá koncepty domorodých náboženství, katolicismu a občanského nacionalismu do synkretické mexické ideologie. Podporuje rekonkvizici mexického Cession od Ameriky." # todo: NEW TRANSLATION
+ MEX_bartolome_garcia_correa:0 "Bartolomé García Correa" # todo: NEW TRANSLATION
+ MEX_bartolome_garcia_correa_desc:0 "Domorodý Mayan z Yucatánu, který sloužil jako guvernér a senátor, prosazující populistické politiky, které slučují domorodé zvyky s mocí státu." # todo: NEW TRANSLATION
+ MEX_aaron_saenz:0 "Aarón Sáenz Garza" # todo: NEW TRANSLATION
+ MEX_aaron_saenz_desc:0 "Pravicový podnikatel a guvernér Aarón Sáenz byl přezdíván 'Stín Callese' pro svou schopnost udržet kabinetní politiky loutkových prezidentů v souladu s cíli el Jefe Máximo." # todo: NEW TRANSLATION
+ MEX_manuel_perez_trevino:0 "Manuel Pérez Treviño" # todo: NEW TRANSLATION
+ MEX_manuel_perez_trevino_desc:0 "Manuel Pérez Treviño je revoluční generál se zkušenostmi v inženýrství a dělostřelectvu. Politicky je vlivný, je jedním ze zakladatelů Partido Nacional Revolucionario." # todo: NEW TRANSLATION
+ MEX_saturnino_cedillo:0 "Saturnino Cedillo Martínez" # todo: NEW TRANSLATION
+ MEX_saturnino_cedillo_desc:0 "Bohatý severní guvernér a vojenský vůdce, generál Cedillo čerpá moc z patronátního systému založeného na osobní loajalitě. Snižující se vliv caudillů a centralizace země je pro něj velkým problémem, protože ohrožuje jeho nezávislost na vládě." # todo: NEW TRANSLATION
+ MEX_othon_blanco:0 "Othón P. Blanco Núñez de Cáceres" # todo: NEW TRANSLATION
+ MEX_othon_blanco_desc:0 "Othón Blanco je vysokým členem Sekretariátu námořnictva, sloužil jako námořní důstojník již před revolucí. Jeho specializací je zajištění dobré logistické podpory pro námořnictvo, až po budování nových osad." # todo: NEW TRANSLATION
+ MEX_heriberto_corona:0 "Heriberto Jara Corona" # todo: NEW TRANSLATION
+ MEX_heriberto_corona_desc:0 "Heriberto Corona je revoluční generál, který byl jmenován do námořnictva, aby zajistil jeho loajalitu." # todo: NEW TRANSLATION
+ MEX_manuel_avila:0 "Manuel Ávila Camacho" # todo: NEW TRANSLATION
+ MEX_manuel_avila_desc:0 "Revoluční generál, který byl jmenován do Sekretariátu národní obrany, aby připravil Mexiko na nadcházející problémy." # todo: NEW TRANSLATION
+ MEX_leon_trotsky:1 "Lev Trotsky" # todo: NEW TRANSLATION
+ MEX_leon_trotsky_desc:0 "Zodpovědný za vznik Rudé armády téměř od nuly během ruské občanské války, tento vůdce Mezinárodní komunistické ligy pomůže organizovat armádu." # todo: NEW TRANSLATION
+ MEX_tga:0 "Talleres Generales de Arma" # todo: NEW TRANSLATION
+ MEX_tga_desc:0 "Odštěpek mexické aeronautické dílny TNCA, věnovaný obrněným bojovým vozidlům." # todo: NEW TRANSLATION
+ MEX_germano_mexican_tanks:0 "Německo-mexické návrhy tanků" # todo: NEW TRANSLATION
+ MEX_germano_mexican_tanks_desc:1 "" # todo: NEW TRANSLATION
+ MEX_russo_mexican_tanks:0 "Rusko-mexické návrhy tanků" # todo: NEW TRANSLATION
+ MEX_russo_mexican_tanks_desc:1 "" # todo: NEW TRANSLATION
+ MEX_american_mexican_tanks:0 "Mexický Chrysler" # todo: NEW TRANSLATION
+ MEX_american_mexican_tanks_desc:1 "" # todo: NEW TRANSLATION
+ MEX_astimar_gulf:0 "ASTIMAR Golfo" # todo: NEW TRANSLATION
+ MEX_astimar_gulf_desc:0 "Astilleros de la Secretaría de Marina del Golfo" # todo: NEW TRANSLATION
+ MEX_astimar_pacific:0 "ASTIMAR Pacifico" # todo: NEW TRANSLATION
+ MEX_astimar_pacific_desc:0 "Astilleros de la Secretaría de Marina del Pacifico" # todo: NEW TRANSLATION
+ MEX_tnca:0 "Talleres Nacionales de Construcciones Aeronáuticas" # todo: NEW TRANSLATION
+ MEX_tnca_desc:0 "Národní dílna pro leteckou konstrukci byla založena před revolucí a byla inovativním návrhářem před přerušením způsobeným občanskými válkami." # todo: NEW TRANSLATION
+ MEX_royal_dutch_shell:0 "Royal Dutch Shell" # todo: NEW TRANSLATION
+ MEX_royal_dutch_shell_desc:0 "Britsko-holandská firma držící 60 % mexických ropných koncesí." # todo: NEW TRANSLATION
+ mexican_ford:0 "Mexický Ford" # todo: NEW TRANSLATION
+ mexican_ford_desc:0 "Místní pobočka Ford Motor Company." # todo: NEW TRANSLATION
+ MEX_pemex:0 "Pemex" # todo: NEW TRANSLATION
+ MEX_pemex_desc:0 "Petróleos Mexicanos vznikla znárodněním místních aktiv dříve patřících Royal Dutch Shell, Standard Oil of California a dalším zahraničním firmám." # todo: NEW TRANSLATION
+ MEX_banco_de_mexico:0 "Banco de México" # todo: NEW TRANSLATION
+ MEX_banco_de_mexico_desc:0 "Založen v roce 1925, aby obnovil ekonomiku zničenou občanskou válkou, naše Národní banka je věřitelem poslední instance, emitent měny a investor do různých projektů ve prospěch státu." # todo: NEW TRANSLATION
+ MEX_escuela_de_ingeneria_electrica:0 "Escuela de Ingenería" # todo: NEW TRANSLATION
+ MEX_escuela_de_ingeneria_electrica_desc:0 "Escuela Superior de Ingenería Mecánica y Eléctrica, Univerzita mechanického a elektronického inženýrství, je jednou z našich nejlepších vzdělávacích institucí, na špici výzkumu elektromagnetických vln a televize." # todo: NEW TRANSLATION
+ MEX_capital_reserves:0 "Kapitálové rezervy" # todo: NEW TRANSLATION
+ MEX_capital_reserves_desc:0 "Bohatství přitékající z naší rostoucí ropné průmyslu nám umožní pořizovat vysoce kvalitní zahraniční vojenské vybavení." # todo: NEW TRANSLATION
+ MEX_knights_of_columbus:0 "Knights of Columbus" # todo: NEW TRANSLATION
+ MEX_knights_of_columbus_desc:0 "Mezinárodní bratrstvo katolíků, Knights of Columbus, nám pomůže dosáhnout míru a usmíření po desetiletích občanských konfliktů. Jak je psáno v evangeliu podle Matouše: \"Slyšeli jste, že bylo řečeno: ‚oko za oko a zub za zub‘. Ale já vám říkám, nebraňte se tomu, kdo je zlý. Když vás někdo uhodí po pravé tváři, obracejte mu i druhou.\"" # todo: NEW TRANSLATION
+ MEX_social_catholicism:1 "Sociální katolicismus" # todo: NEW TRANSLATION
+ MEX_social_catholicism_desc:1 "Průmyslová revoluce postavila dělníky do nelidských podmínek. Aby se odvrátily socialistické požadavky, zdůraznila se nutnost, aby management projevoval soucit se zaměstnanci. To dalo vzniknout variantě křesťanského nerevolučního socialismu: sociálnímu katolicismu." # todo: NEW TRANSLATION
+ MEX_legion_of_christ:1 "Legie Kristova" # todo: NEW TRANSLATION
+ MEX_legion_of_christ_desc:1 "Ateističtí teroristé byli poraženi! Jejich brutální útlak musí být potrestán stejně tvrdě. Jak je psáno v knize Exodus: oko za oko, život za život. Aby byla pomstná ruka Všemohoucího, Legie Kristova zajistí, že satanická nevěra zmizí z naší země." # todo: NEW TRANSLATION
+ MEX_triumph_of_synarchism:0 "Vítězství synarchismu" # todo: NEW TRANSLATION
+ MEX_triumph_of_synarchism_desc:0 "Naši nepřátelé jsou úplně poraženi a skrývají se ve stínech jako Satana sluhové. Nyní máme volnou ruku zajistit přestavbu státu způsobem, který zajistí jeho jednotu v víře i politické vůli." # todo: NEW TRANSLATION
+ MEX_womens_suffrage:0 "Volební právo žen" # todo: NEW TRANSLATION
+ MEX_womens_suffrage_desc:0 "V posledních letech se mnoho mexických elit obávalo, že by ženy mohly podkopat ideály revoluce tím, že by se postavily na stranu katolické církve proti sekulární Ústavě z roku 1917, ale rovnost před zákonem je mnohem důležitější a umožní naší společnosti prospívat." # todo: NEW TRANSLATION
+ MEX_professional_army:1 "Escuela Superior de Guerra" # todo: NEW TRANSLATION
+ MEX_professional_army_desc:1 "Díky naší Vojenské škole se naši generálové naučili vytvářet efektivní zásobovací systémy, aby udrželi naše jednotky bojující s maximální účinností." # todo: NEW TRANSLATION
+ MEX_international_peacekeepers:0 "Mezinárodní mírotvorci" # todo: NEW TRANSLATION
+ MEX_international_peacekeepers_desc:1 "Demokratické mocnosti světa plánují vytvořit společenství rovných, Organizaci spojených národů, aby zajistily mezinárodní bezpečnost tím, že dají zemím místo k urovnání sporů a rozhodování. Vrhneme se do takového projektu, abychom pomohli latinskoamerickým státům udržet jejich nezávislost." # todo: NEW TRANSLATION
+ mexico_hispanic_diplomacy:1 "Hispánská diplomacie" # todo: NEW TRANSLATION
+ mexico_hispanic_diplomacy_desc:1 "Pokud chceme realizovat naše kontinentální ambice, musíme přesvědčit četné vlády Latinské Ameriky." # todo: NEW TRANSLATION
+ mexico_german_submarine_happy_time:0 "Šťastná doba ponorek" # todo: NEW TRANSLATION
+ mexico_german_submarine_happy_time_desc:0 "Naši ponorkoví kapitáni si užívají svou 'Happy Time' ('Glückliche Zeit') potápěním neozbrojených neutrálních lodí u pobřeží Ameriky." # todo: NEW TRANSLATION
+ synarchist_youth:0 "Synarchistická mládež" # todo: NEW TRANSLATION
+ synarchist_youth_desc:0 "Mládež je budoucnost našeho národa. Pokud budou správně vychováni, stanou se zosobněním našich ideálů - síly, loajality a zbožnosti." # todo: NEW TRANSLATION
+ ENG_trade_union_factory_demands:0 "Požadavky odborů v továrnách" # todo: NEW TRANSLATION
+ ENG_construction_safety_regulations:0 "Předpisy bezpečnosti ve stavebnictví" # todo: NEW TRANSLATION
+ ENG_mandatory_union_days:0 "Povinné odborové dny" # todo: NEW TRANSLATION
+ ENG_trade_union_factory_worker_support:0 "Podpora továrních dělníků odbory" # todo: NEW TRANSLATION
+ ENG_trade_union_dockyard_worker_support:0 "Podpora dělníků loděnic odbory" # todo: NEW TRANSLATION
+ ENG_trade_union_construction_worker_support:0 "Podpora stavebních dělníků odbory" # todo: NEW TRANSLATION
+ ENG_trade_union_war_propaganda_support:0 "Podpora válečné propagandy odborů" # todo: NEW TRANSLATION
+ ENG_dominion_fascist_propaganda:0 "Britská fašistická propaganda" # todo: NEW TRANSLATION
+ ENG_dominion_communist_propaganda:0 "Britská komunistická propaganda" # todo: NEW TRANSLATION
+ ENG_restoring_public_order:0 "Obnova veřejného pořádku" # todo: NEW TRANSLATION
+ ENG_support_for_the_king_idea:0 "Podpora krále" # todo: NEW TRANSLATION
+ ENG_exiled_royal_family:0 "Vyhnaná královská rodina" # todo: NEW TRANSLATION
+ ENG_confiscated_royal_wealth:0 "Zkonfiskované královské jmění" # todo: NEW TRANSLATION
+ ENG_raymond_briggs:0 "Raymond Briggs" # todo: NEW TRANSLATION
+ HOL_wilhelmina:0 "Wilhelmina" # todo: NEW TRANSLATION
+ HOL_wilhelmina_desc:0 "Po staletí je rodina Orange-Nassau neoddělitelně spjata s historií Nizozemska. Stejně jako její předek Vilém Nizozemský v osmdesátileté válce, i současná královna Wilhelmina bezpochyby pobídne Nizozemce k obraně vlasti, pokud bude jejich země někdy napadena." # todo: NEW TRANSLATION
+ HOL_aloof_neutrality:0 "Rezervovaná neutralita" # todo: NEW TRANSLATION
+ HOL_aloof_neutrality_desc:0 "Politika přísné neutrality udržela Nizozemsko mimo války se sousedy téměř 150 let, a především je uchránila před Velkou válkou. Víra veřejnosti v jejich 'talismana ochrany' je téměř zbožná, a slabá nizozemská vláda nemůže jít proti vůli lidu a zaujmout pevné stanovisko v mezinárodní politice. Místo toho vložila důvěru do Společnosti národů a jinak zaujímá odtažitý postoj ke světovým událostem." # todo: NEW TRANSLATION
+ HOL_shell_shocked_spectator:0 "Otřesený svědek Velké války" # todo: NEW TRANSLATION
+ HOL_shell_shocked_spectator_desc:1 "Jako neutrální Nizozemsko bylo nejbližším bezpečným přístavem pro uprchlíky ze západní fronty, Nizozemci byli až příliš blízcí hrůzám Velké války. V důsledku toho zde vyrostlo silné pacifistické hnutí, které proniklo do velkých částí veřejnosti a představuje vládě velké obtíže při zavádění jakéhokoli zvýšení vojenských výdajů. Jen námořnictvo si ještě udržuje jistý stupeň prestiže v očích veřejnosti.\n\nK opravdovému vymýcení tohoto sentimentu by byla zapotřebí obranná válka nebo 'válka proti pacifismu'." # todo: NEW TRANSLATION
+ HOL_de_crisisjaren:0 "De Crisisjaren" # todo: NEW TRANSLATION
+ HOL_de_crisisjaren_desc:1 "Kvůli zvláštnostem globální ekonomiky zasáhla Velká hospodářská krize Nizozemsko mnohem později než jinde. Nizozemské rozhodnutí zachovat zlatý standard, zatímco jiné země se ho poměrně rychle vzdaly, ještě silně zhoršilo 'krizová léta' v Nizozemsku. Tím, že udržujeme Guilder (gulden) před devalvací, nezbývají žádné prostředky na pomoc nemocné nizozemské ekonomice, natož na zlepšení špatného stavu národní obrany.\n\nKrizi lze zmírnit investicemi do veřejných prací a stane se do značné míry irelevantní, pokud se vzdáme a ztratíme kontrolu nad pevninou postiženou krizí." # todo: NEW TRANSLATION
+ HOL_weak_government:0 "Slabá vláda" # todo: NEW TRANSLATION
+ HOL_weak_government_desc:0 "Nizozemská vláda byla v posledních letech poznamenána slabostí. Nestačilo by mnoho, aby byla opět svržena." # todo: NEW TRANSLATION
+ HOL_shared_intelligence_eng:0 "Sdílené britské zpravodajství" # todo: NEW TRANSLATION
+ HOL_shared_intelligence_fra:0 "Sdílené francouzské zpravodajství" # todo: NEW TRANSLATION
+ HOL_shared_intelligence_ger:0 "Sdílené německé zpravodajství" # todo: NEW TRANSLATION
+ HOL_shared_intelligence_hol:0 "Sdílené nizozemské zpravodajství" # todo: NEW TRANSLATION
+ HOL_staff_plan_eng:0 "Společný britský štábní plán" # todo: NEW TRANSLATION
+ HOL_staff_plan_fra:0 "Společný francouzský štábní plán" # todo: NEW TRANSLATION
+ HOL_staff_plan_ger:0 "Společný německý štábní plán" # todo: NEW TRANSLATION
+ HOL_staff_plan_hol:0 "Společný nizozemský štábní plán" # todo: NEW TRANSLATION
+ HOL_de_vaarplicht_idea:0 "De Vaarplicht" # todo: NEW TRANSLATION
+ HOL_de_vaarplicht_idea_desc:0 ""V souladu s královským dekretem A5 jsou všichni nizozemští občané a nizozemští poddaní, kteří nebyli odvedeni, nebo pokud byli, ještě nebyli povoláni k aktivní službě, povinni vykonávat služby pro, nebo v prospěch, obchodní námořnictvo."" # todo: NEW TRANSLATION
+ HOL_caved_to_the_germans_idea:0 "Podvolili se Němcům" # todo: NEW TRANSLATION
+ HOL_caved_to_the_germans_idea_desc:0 "Místo aby čelili hrozbě invaze, Nizozemci se rozhodli ustoupit německým požadavkům ve svých obchodních jednáních. Demokratická svoboda začíná kvůli tomu trpět a to by mohlo být považováno za první opatrný krok od neutrality." # todo: NEW TRANSLATION
+ HOL_caved_to_the_british_idea:0 "Podvolili se Britům" # todo: NEW TRANSLATION
+ HOL_caved_to_the_british_idea_desc:0 "Místo aby čelili hrozbě úplné blokády, která by jistě způsobila ekonomickou katastrofu, Nizozemci se rozhodli ustoupit britským požadavkům ve svých obchodních jednáních. Proti-německé a pro-britské nálady jsou vnitřní politice stále zřetelnější a to by mohlo být považováno za první opatrný krok od neutrality." # todo: NEW TRANSLATION
+ HOL_prince_bernhard:0 "Prince Bernhard" # todo: NEW TRANSLATION
+ HOL_bernhard_air_example:0 "Princ Bernhard - příklad pro letce" # todo: NEW TRANSLATION
+ HOL_bernhard_strategy_meddling:0 "Princ Bernhard se vměšoval do strategie" # todo: NEW TRANSLATION
+ HOL_bernhard_intelligence:0 "Princ Bernhard získal zpravodajské informace" # todo: NEW TRANSLATION
+ HOL_bernhard_organized_resistance:0 "Princ Bernhard organizoval odboj" # todo: NEW TRANSLATION
+ HOL_redirected_investments:0 "Přesměrované investice" # todo: NEW TRANSLATION
+ idea_weapons_for_the_resistance:0 "Zbraně pro odboj" # todo: NEW TRANSLATION
+ idea_weapons_for_the_resistance_desc:0 "Naši spojenci posílají municí statečným bojovníkům za svobodu, kteří bojují proti nenáviděnému nepříteli v naší vlasti." # todo: NEW TRANSLATION
+ political_turmoil:0 "Politické nepokoje" # todo: NEW TRANSLATION
+ political_turmoil_desc:0 "Vláda této země byla nedávno nainstalována silou poté, co předchozí vedení ztratilo přízeň svých zahraničních pánů." # todo: NEW TRANSLATION
+ HOL_domestic_aircraft_production:0 "Domácí výroba letadel" # todo: NEW TRANSLATION
+ HOL_preparing_evacuation_of_gold_reserves:0 "Příprava evakuace zlatých rezerv" # todo: NEW TRANSLATION
+ HOL_zuiderzee_infrastructure_advancements:0 "Zlepšení infrastruktury Zuiderzee" # todo: NEW TRANSLATION
+ HOL_zuiderzee_industrial_advancements:0 "Průmyslový rozvoj Zuiderzee" # todo: NEW TRANSLATION
+ HOL_german_defectors_1:0 "Němečtí dezerteři" # todo: NEW TRANSLATION
+ HOL_german_defectors_1_desc:0 "Pravidelný proud německých dezerterů se připojuje do jednotek ochotných bojovat za nás, aby obnovili svého Káizera." # todo: NEW TRANSLATION
+ HOL_german_defectors_2:0 "Dezerteři pro císaře" # todo: NEW TRANSLATION
+ HOL_german_defectors_2_desc:0 "Bludná věrnost starému císaři vedla k tomu, že pravidelný proud vojáků dezertoval a bojuje pro Nizozemsko, marně se snaží vrátit císaře na trůn.\n\nJen úplné porážka Nizozemska a aliance, které jsou součástí, je pravděpodobně zcela zlikviduje." # todo: NEW TRANSLATION
+ ENG_joint_air_training_scheme:0 "Společný plán leteckého výcviku" # todo: NEW TRANSLATION
+ ENG_joint_air_training_scheme_desc:0 "Britská vláda zavedla v rámci Commonwealthu jednotný výcvikový program pro letecké posádky jeho členů. Z toho můžeme výrazně profitovat." # todo: NEW TRANSLATION

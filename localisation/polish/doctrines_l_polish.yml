@@ -744,3 +744,18 @@
  HAS_NOT_TACTIC_TRIGGER: "Nemá taktiku: $NAME|H$"
  HAS_MASTERY_LEVEL_TRIGGER: "Dosáhl $NUMBER|H$. úrovně mistrovství v dílčí doktríně $SUBDOCTRINE|H$"
  HAS_NOT_MASTERY_LEVEL_TRIGGER: "Nedosáhl $NUMBER|H$. úrovně mistrovství v dílčí doktríně $SUBDOCTRINE|H$"
+ armored_spearhead_no_lar_force_concentration: "$armored_spearhead_force_concentration$" # todo: NEW TRANSLATION
+ armored_spearhead_no_lar_armored_breakthrough_exploits: "$armored_spearhead_armored_breakthrough_exploits$" # todo: NEW TRANSLATION
+ armored_spearhead_no_lar_tactical_reconnaissance: "$armored_spearhead_tactical_reconnaissance$" # todo: NEW TRANSLATION
+ armored_spearhead_no_lar_local_reserves: "$armored_spearhead_local_reserves$" # todo: NEW TRANSLATION
+ armored_spearhead_no_lar_assault_detachments: "$armored_spearhead_assault_detachments$" # todo: NEW TRANSLATION
+ armored_cavalry_no_lar_cruiser_tanks: "$armored_cavalry_cruiser_tanks$" # todo: NEW TRANSLATION
+ armored_cavalry_no_lar_quick_response_force: "$armored_cavalry_quick_response_force$" # todo: NEW TRANSLATION
+ armored_cavalry_no_lar_speed_as_armour: "$armored_cavalry_speed_as_armour$" # todo: NEW TRANSLATION
+ armored_cavalry_no_lar_fighting_reconaissance: "$armored_cavalry_fighting_reconnaissance$" # todo: NEW TRANSLATION
+ armored_cavalry_no_lar_sustained_deployments: "$armored_cavalry_sustained_deployments$" # todo: NEW TRANSLATION
+ deep_battle_no_lar_bounding_overwatch: "$deep_battle_bounding_overwatch$" # todo: NEW TRANSLATION
+ deep_battle_no_lar_operational_concentration: "$deep_battle_operational_concentration$" # todo: NEW TRANSLATION
+ deep_battle_no_lar_maskirovka: "$deep_battle_maskirovka$" # todo: NEW TRANSLATION
+ deep_battle_no_lar_breakthrough_priority: "$deep_battle_breakthrough_priority$" # todo: NEW TRANSLATION
+ deep_battle_no_lar_operational_depth_control: "$deep_battle_operational_depth_control$" # todo: NEW TRANSLATION
