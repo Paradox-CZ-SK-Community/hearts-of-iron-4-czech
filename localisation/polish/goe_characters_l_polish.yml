@@ -1,53 +1,53 @@
 ﻿l_polish: 
- AFG_abdul_hai_habibi: "Abdul Hájí Habíbí"
+ AFG_abdul_hai_habibi: "Abdul Háí Habíbí"
  AFG_abdul_majid_zabuli: "Abdul Madžíd Zábulí"
  AFG_abdur_rahim_khan: "Abdur Rahím Chán"
- AFG_abdurauf_fitrat: "Abdurauf Fítrat"
+ AFG_abdurauf_fitrat: "Abdurauf Fitrat"
  AFG_akram_sattari: "Akram Sattarí"
  AFG_amunullah_khan: "Amanulláh Chán"
- AFG_faqir_of_ipi: "Fakír z Ípí"
- AFG_fayzulla_xojayev: "Fejzulla Chodžajev"
+ AFG_faqir_of_ipi: "Fakír z Ipi"
+ AFG_fayzulla_xojayev: "Fajzulla Chodžájev"
  AFG_generic_american_1: "James Smith"
  AFG_generic_american_2: "Robert Johnson"
  AFG_generic_american_3: "John Stevens"
- AFG_ghulam_muhammad_ghobar: "Ghulám Muhammad Ghubár"
- AFG_ghulam_yahya_khan_tarzi: "Ghulám Jahjá Chán Tárzí"
- AFG_inyatullah_khan: "Inajatulláh Chán"
- AFG_junaid_khan: "Džunajd Chán"
- AFG_korsirmat: "Šír Muhammad-bek Gázi"
- AFG_mahmud_tarzi: "Mahmúd Tárzí"
- AFG_mazrak_zadran: "Mazrak Zadrán"
- AFG_mihrdil_shahnawaz: "Mihrdil Šáhnaváz"
+ AFG_ghulam_muhammad_ghobar: "Gholám Muhammad Ghobár"
+ AFG_ghulam_yahya_khan_tarzi: "Gholám Jahjá Chán Tarzí"
+ AFG_inyatullah_khan: "Inájatulláh Chán"
+ AFG_junaid_khan: "Džunejd Chán"
+ AFG_korsirmat: "Šír Muhammad-bek Ghází"
+ AFG_mahmud_tarzi: "Mahmúd Tarzí"
+ AFG_mazrak_zadran: "Mazrak Zadran"
+ AFG_mihrdil_shahnawaz: "Mihrdil Šáhnáváz"
  AFG_mohammad_gul_khan_momand: "Muhammad Gul Chán Momand"
  AFG_mohammad_hashim_khan: "Muhammad Hášim Chán"
  AFG_mohammed_zahir_shah: "Muhammad Záhir Šáh"
  AFG_muhammad_ibrahim_khan: "Muhammad Ibráhím Chán"
- AFG_nisar_muhammad_yousafzai: "Nísar Muhammad Jusafzají"
- AFG_nur_muhammad_taraki: "Nur Muhammad Tarákí"
- AFG_placeholder_fascist: "Šer Alí Šerchanzaj"
+ AFG_nisar_muhammad_yousafzai: "Nisár Muhammad Júsafzají"
+ AFG_nur_muhammad_taraki: "Núr Muhammad Tarakí"
+ AFG_placeholder_fascist: "Šir Alí Šerchanzají"
  AFG_provisional_government: "Prozatímní vláda"
- AFG_qiamuddin_khadim: "Kijámuddín Chadím"
+ AFG_qiamuddin_khadim: "Kjámoddín Chadím"
  AFG_sardar_shah_wali_khan: "Sardár Šáh Valí Chán"
  AFG_shah_mahmud_khan: "Sardár Šáh Mahmúd Chán"
- AFG_sheikh_omar_mojadidi: "Nurul Mašávích Šejch Fazl Omar Modžadídí"
- AFG_sher_khan_nashir: "Šer Chán Našír"
- AFG_soraya_tarzi: "Sorajá Tárzí"
- AFG_turbaz_khan: "Turabaz Chán"
+ AFG_sheikh_omar_mojadidi: "Núrol Mešáich Šajch Fazl Omar Modžadídí"
+ AFG_sher_khan_nashir: "Šér Chán Nášír"
+ AFG_soraya_tarzi: "Sorája Tarzí"
+ AFG_turbaz_khan: "Turábaz Chán"
  AFG_yaqub_khan: "Jákúb Chán"
  ARM_calouste_gulbenkian: "Kalust Sarkis Gulbenkjan"
- ASY_benjamin_arsanis: "Benjamin Arsanís"
- ASY_shimun_eshai: "Mar Išaj Šimun XXIII."
- BAN_a_k_fazlul_huq: "A. K. Fazlul Huk"
+ ASY_benjamin_arsanis: "Benjamin Arsanis"
+ ASY_shimun_eshai: "Mar Ešaj Šimun XXIII."
+ BAN_a_k_fazlul_huq: "A. K. Fazlul Húk"
  BRM_archibald_cochrane: "Archibald Cochrane"
  BRM_ba_maw: "Ba Maw"
- BRM_myat_phaya_lat: "Císařovna Mjat Phaja Lat"
+ BRM_myat_phaya_lat: "Císařovna Myat Phaya Lat"
  BRM_ne_win: "Ne Win"
  BRM_u_nu: "U Nu"
- BUK_mohammed_alim_khan: "Sajíd Mír Muhammad Alím Chán"
- BUK_polat_usmon: "Polát Usmon Chodžajev"
+ BUK_mohammed_alim_khan: "Sajjid Mír Muhammad Alim Chán"
+ BUK_polat_usmon: "Polat Usmon Chodžájev"
  ENG_jack_churchill: "Jack Churchill"
  GER_oskar_von_nidermayer: "Oskar von Niedermayer"
- IMO_muhammad_khalili: "Muhammad ibn Abdalláh al-Chalílí"
+ IMO_muhammad_khalili: "Muhammad bin Abdalláh al-Chalílí"
  IRQ_abd_al_ilah: "Abd al-Iláh"
  IRQ_abd_almalik_ibn_hisham: "Abd al-Malik ibn Hišám"
  IRQ_ahmed_barzani: "Šajch Ahmad Barzání"
@@ -58,511 +58,133 @@
  IRQ_ghazi_i_desc: "Král Ghází, který nastoupil na trůn v roce 1933 po smrti Fajsala I., se proslavil jako odpůrce britského vlivu v Iráku, přestože dynastie Hášimovců je se Spojeným královstvím spojena již několik desetiletí. Panuje podezření, že mladý král čeká na příležitost vytlačit Brity silou a jeho armáda může vtrhnout do sousedních strategických oblastí."
  IRQ_ghazi_i: "Ghází I."
  IRQ_harry_george_smart: "Harry George Smart"
- IRQ_hikmat_suleiman: "Hikmat Sulajmán"
- IRQ_husain_al_rahhal: "Husajn al-Rahhál"
+ IRQ_hikmat_suleiman: "Hikmat Sulejmán"
+ IRQ_husain_al_rahhal: "Husajn ar-Rahhál"
  IRQ_hussein_fawzi: "Husajn Fawzí"
- IRQ_ibrahim_al_ghandanfari: "Ibráhím Kamál al-Ghadanfárí"
- IRQ_jamil_abdul_wahab: "Džámíl Abdul Waháb"
- IRQ_kamil_shabib: "Kámíl Šabíb"
- IRQ_mahmud_salman: "Mahmúd Salman"
- IRQ_maruf_al_rusafi: "Marúf al-Rusafí"
+ IRQ_ibrahim_al_ghandanfari: "Ibráhím Kamál al-Ghandanfárí"
+ IRQ_jamil_abdul_wahab: "Džamíl Abdul Waháb"
+ IRQ_kamil_shabib: "Kámil Šabíb"
+ IRQ_mahmud_salman: "Mahmúd Salmán"
+ IRQ_maruf_al_rusafi: "Ma'rúf ar-Rusáfí"
  IRQ_max_von_oppenheim: "Max von Oppenheim"
  IRQ_muhammad_ali_jawad: "Muhammad Alí Džavád"
- IRQ_muhammad_amin_zaki: "Muhammad Amín Záki"
- IRQ_muhammad_husayn_kashif_al_ghita: "Muhammad Husajn Kašíf al-Ghita"
+ IRQ_muhammad_amin_zaki: "Muhammad Amín Zakí"
+ IRQ_muhammad_husayn_kashif_al_ghita: "Muhammad Husajn Kašif al-Ghitá'"
  IRQ_mustafa_barzani: "Mustafa Barzání"
- IRQ_naji_al_suwaidi: "Nádží al-Suwaidí"
+ IRQ_naji_al_suwaidi: "Nádží al-Suvajdí"
  IRQ_rashid_ali_algaylani: "Rašíd Alí al-Gajlání"
- IRQ_saib_shawkat: "Saíb Šáúkat"
- IRQ_salah_al_din_al_sabbagh: "Saláh al-Dín al-Sabbágh"
+ IRQ_saib_shawkat: "Saíb Šawkat"
+ IRQ_salah_al_din_al_sabbagh: "Salah ad-Dín al-Sabbágh"
  IRQ_sharaf_bin_rajeh: "Šaraf bin Radžeh"
- IRQ_taha_al_hashemi: "Táha al-Hášimí"
- IRQ_tawfiq_al_suawaidi: "Tawfíq al-Suawidí"
+ IRQ_taha_al_hashemi: "Taha al-Hášimí"
+ IRQ_tawfiq_al_suawaidi: "Taufík al-Suvajdí"
  IRQ_werner_junck: "Werner Junck"
- IRQ_yasin_al_hashimi: "Jásín al-Hášimí"
- IRQ_yusuf_salman_yusuf: " Júsuf Salman Júsuf"
- ISR_david_ben_gurion: "David Ben-Gurion"
- JOR_abdullah_bin_al_hussein: "Abdulláh I. bin al-Husajn"
- KUR_ferzende_bege_haseni: "Ferzende Begê Hesení"
- KUR_ishan_nuri: "Îhsan Núrí Paša"
- KUR_mahmud_barzanji: "Šajch Mahmúd Barzání"
- KUR_qazi_muhamad: "Káží Muhammad"
- KUR_seyid_riza: "Seyid Ríza"
- KUW_ahmad_al_sabah: "Ahmad al-Džáber al-Sabáh"
- LEB_abdallah_beyhum: "Abdalláh Beyhum"
- PAL_amin_al_husseini: "Amín al-Husajní"
+ IRQ_yasin_al_hashimi: "Jásin al-Hášimí"
+ IRQ_yusuf_salman_yusuf: "Júsuf Salmán Júsuf"
+ ISR_david_ben_gurion: "David Ben Gurion"
+ JOR_abdullah_bin_al_hussein: "Abdalláh I. bin Al-Husajn"
+ KUR_ferzende_bege_haseni: "Ferzende Begé Hasení"
+ KUR_ishan_nuri: "Íhsan Núrí Paša"
+ KUR_mahmud_barzanji: "Šajch Mahmúd Barzandží"
+ KUR_qazi_muhamad: "Kází Muhammad"
+ KUR_seyid_riza: "Sejid Riza"
+ KUW_ahmad_al_sabah: "Ahmad al-Džábir al-Sabáh"
+ LEB_abdallah_beyhum: "Abdalláh Bejhum"
+ PAL_amin_al_husseini: "Amin al-Husajní"
  PAL_harold_macmichael: "Sir Harold MacMichael"
- PER_abbas_darja_nawardi: "Abbas Dárdža Nawardí"
- PER_abdolhossein_hazhir: "Abdolhossein Hazhír"
- PER_abdollah_zelli: "Abdolláh Zelli"
- PER_abdolsamad_kambakhsh: "Abdulsamad Kambakš"
- PER_abol_ghasem_kashani: "Ábol Ghasem Kašání"
- PER_ahmad_ahmadi: "Ahmád Ahmádí"
- PER_ahmad_amir_ahmadi: "Ahmád Amír Ahmádí"
- PER_ahmad_mateen_daftari: "Ahmád Matín Daftárí"
- PER_ahmad_zirakzadeh: "Ahmad Zírakzadeh"
- PER_ali_akbar_davar: "Ali-Akbar Davár"
- PER_ali_akbar_derakhshani: "Ali Akbar Derakšání"
- PER_ali_dashti: "Ali Dashtí"
+ PER_abbas_darja_nawardi: "Abbás Dardža Navardí"
+ PER_abdolhossein_hazhir: "Abdolhosejn Hazhír"
+ PER_abdollah_zelli: "Abdolláh Zellí"
+ PER_abdolsamad_kambakhsh: "Abdolsamad Kambachš"
+ PER_abol_ghasem_kashani: "Abol Ghasem Kašání"
+ PER_ahmad_ahmadi: "Ahmad Ahmadí"
+ PER_ahmad_amir_ahmadi: "Ahmad Amír Ahmadí"
+ PER_ahmad_mateen_daftari: "Ahmad Matín Daftárí"
+ PER_ahmad_zirakzadeh: "Ahmad Zírakzádeh"
+ PER_ali_akbar_davar: "Alí-Akbar Dávar"
+ PER_ali_akbar_derakhshani: "Alí Akbar Derachšání"
+ PER_ali_dashti: "Alí Daští"
  PER_andre_godard: "André Godard"
- PER_ardeshir_ovanessian: "Ardešhír Ovanessíán"
+ PER_ardeshir_ovanessian: "Ardešír Ovanesián"
  PER_arthur_millspaugh: "Arthur Millspaugh"
- PER_assadollah_hosseinpoor: "Assadolláh Hosseinpúr"
+ PER_assadollah_hosseinpoor: "Asadolláh Hosejnpúr"
  PER_azad_hashemi: "Azád Hašemí"
- PER_bahram_aryana: "Bahrám Aryána"
- PER_davud_monshizadeh: "Dáúd Monšizádeh"
- PER_fakhrafagh_parsa: "FakhrAfagh Pársa"
+ PER_bahram_aryana: "Bahrám Arianá"
+ PER_davud_monshizadeh: "Davúd Monšízádeh"
+ PER_fakhrafagh_parsa: "Fachrafagh Pársá"
  PER_fawzia_faud: "Fawzia Fúad z Egypta"
- PER_gholam_ali_oveissi: "Gholám Alí Oveissí"
- PER_gholamali_bayandor: "Gholám Alí Bájandór"
- PER_ghulam_yahya_daneshian: "Ghulám Jahjá Danéšian"
- PER_haj_ali_razmara: "Háj Alí Razmara"
- PER_hassan_pakravan_operative: "Hassan Pakrávan"
- PER_iraj_eskandari: "Írádž Eskandárí"
+ PER_gholam_ali_oveissi: "Gholám Alí Ovejsí"
+ PER_gholamali_bayandor: "Gholám Alí Bajandor"
+ PER_ghulam_yahya_daneshian: "Gholám Jahjá Danešián"
+ PER_haj_ali_razmara: "Hádž Alí Razmárá"
+ PER_hassan_pakravan_operative: "Hasan Pakravan"
+ PER_iraj_eskandari: "Íradž Eskandarí"
  PER_irandokht: "Irandokht Kádžár"
- PER_jafar_kavian: "Jafar Kávíán"
- PER_karim_buzarjamehri: "Karim Buzardžomehri"
- PER_kazem_hasibi: "Kazem Hasíbi"
- PER_mohammad_ali_foroughi: "Mohammad Alí Forúhí"
- PER_mohammad_hassan_mirza: "Mohamed Hasan Mirza"
- PER_mohammad_mosaddegh: "Muhammad Mosaddek"
- PER_mohtaram_eskandari: "Mohtaram Eskandárí"
- PER_nasser_moghaddam_operative: "Nasser Moghaddám"
- PER_nematollah_nassiri_operative: "Nematolláh Nassírí"
+ PER_jafar_kavian: "Džafar Kavían"
+ PER_karim_buzarjamehri: "Karím Buzardžomehrí"
+ PER_kazem_hasibi: "Kázem Hasibí"
+ PER_mohammad_ali_foroughi: "Mohammad Alí Forúghí"
+ PER_mohammad_hassan_mirza: "Mohammad Hasan Mírza"
+ PER_mohammad_mosaddegh: "Mohammad Mosaddegh"
+ PER_mohtaram_eskandari: "Mohtaram Eskandarí"
+ PER_nasser_moghaddam_operative: "Násir Moghaddam"
+ PER_nematollah_nassiri_operative: "Nematolláh Nasirí"
  PER_nikolai_markov: "Nikolaj Markov"
- PER_rokneddin_mokhtari: "Rokneddín Mokhtárí"
+ PER_rokneddin_mokhtari: "Rokneddín Mochtarí"
  PER_ruhollah_khomeini: "Rúholláh Chomejní"
- PER_soleiman_eskandari: "Soleimán Eskandárí"
+ PER_soleiman_eskandari: "Solejmán Eskandarí"
  PER_teymourtash: "Írán Tejmúrtáš"
  PER_teymur_bakhtiar_operative: "$PER_teymur_bakhtiar$"
- PER_teymur_bakhtiar: "Tejmúr Bahtíár"
- PER_zia_ol_din_tabatabee: "Zia ol Dín Tábatábí"
- RAJ_ahmad_yar_khan: "Ahmád Jár Khán"
- RAJ_bhalchandra_trimbak_ranadive: "Bhalčandra Trimbák Ranadivé"
- RAJ_bodh_chandra_singh: "Bodh Čandra Singh"
- RAJ_chithira_thirunal_balarma_varma: "Čithira Thirunal Balaráma Várma"
- RAJ_elamkulam_manakkal_sakaran_namboodiripad: "Elamkulam Manakkal Sakaran Namboodiripad"
+ PER_teymur_bakhtiar: "Tejmur Bachtijár"
+ PER_zia_ol_din_tabatabee: "Zijá al-Dín Tabatabí"
+ RAJ_ahmad_yar_khan: "Ahmad Jár Chán"
+ RAJ_bhalchandra_trimbak_ranadive: "Bhalčandra Trimbak Ranadive"
+ RAJ_bodh_chandra_singh: "Bódh Čandra Singh"
+ RAJ_chithira_thirunal_balarma_varma: "Čithira Thirunal Balaráma Varma"
+ RAJ_elamkulam_manakkal_sakaran_namboodiripad: "Elamkulam Manakkal Sakaran Nambúdiripad"
  RAJ_freeman_freeman_thomas: "Freeman Freeman-Thomas"
- RAJ_GOE_abdul_ghaffar_khan: "Abdul Ghaffár Khán"
- RAJ_GOE_arcot_doraiswamy_loganadan: "Arcot Doraiswamy Loganadan"
+ RAJ_GOE_abdul_ghaffar_khan: "Abdul Ghaffár Chán"
+ RAJ_GOE_arcot_doraiswamy_loganadan: "Arkót Dorajsámí Loganadan"
  RAJ_GOE_francis_tuker: "Francis Tuker"
- RAJ_GOE_g_d_birla: "G.D Birla"
- RAJ_GOE_ishar_singh: "Išár Singh"
+ RAJ_GOE_g_d_birla: "G. D. Birla"
+ RAJ_GOE_ishar_singh: "Išar Singh"
  RAJ_GOE_j_r_d_tata: "J. R. D. Tata"
  RAJ_GOE_jawaharlal_nehru: "Džaváharlál Néhrú"
- RAJ_GOE_kodandera_cariappa: "Kodandera Cariappa"
+ RAJ_GOE_kodandera_cariappa: "Kodandera Kariappa"
  RAJ_GOE_louis_mountbatten: "Louis Mountbatten"
- RAJ_GOE_m_n_roy: "M.N Roy"
- RAJ_GOE_mohammad_usman: "Mohammad Usmán"
- RAJ_GOE_mohammed_zaman_kiani: "Mohammed Zamán Kíání"
+ RAJ_GOE_m_n_roy: "M. N. Roy"
+ RAJ_GOE_mohammad_usman: "Muhammad Usmán"
+ RAJ_GOE_mohammed_zaman_kiani: "Muhammad Zamán Kijání"
  RAJ_GOE_montagu_stopford: "Montagu Stopford"
  RAJ_GOE_muhammad_ali_jinnah: "Muhammad Alí Džinnáh"
- RAJ_GOE_muhammad_ayub_khan: "Muhammad Ayúb Khán"
+ RAJ_GOE_muhammad_ayub_khan: "Muhammad Ajúb Chán"
  RAJ_GOE_muhammad_musa: "Muhammad Músá"
- RAJ_GOE_parkash_singh: "Párkash Singh"
+ RAJ_GOE_parkash_singh: "Parkáš Singh"
  RAJ_GOE_prescott_bush: "Prescott Bush"
- RAJ_GOE_rajendrasinhji_jadeja: "Rádžendrasinhdží Džadéža"
- RAJ_GOE_rash_behari_bose: "Raš Behárí Bóse"
- RAJ_GOE_sam_manekshaw: "Sam Manekšáw"
- RAJ_GOE_sarat_bose: "Sarat Bóse"
- RAJ_GOE_sardar_bahadur_ishar_singh: "Sardár Bahádúr Išár Singh"
- RAJ_GOE_shah_nawaz_khan: "Shah Nawáz Khán"
+ RAJ_GOE_rajendrasinhji_jadeja: "Radžendrasinghdží Džadédža"
+ RAJ_GOE_rash_behari_bose: "Raš Behárí Bós"
+ RAJ_GOE_sam_manekshaw: "Sam Manekshaw"
+ RAJ_GOE_sarat_bose: "Sárat Bós"
+ RAJ_GOE_sardar_bahadur_ishar_singh: "Sardár Bahádur Išar Singh"
+ RAJ_GOE_shah_nawaz_khan: "Šáh Naváz Chán"
  RAJ_GOE_subcontinent_chaos: "Chaos na subkontinentu"
- RAJ_GOE_tara_singh: "Tara Singh"
+ RAJ_GOE_tara_singh: "Tára Singh"
  RAJ_GOE_the_board_of_directors: "Rada ředitelů"
- RAJ_GOE_ukkirapandi_muthuramalinga_thevar: "Ukkirapandi Muthuramalinga Thevar"
- RAJ_GOE_v_d_savarkar: "Vinayak Damodár Savarkar"
+ RAJ_GOE_ukkirapandi_muthuramalinga_thevar: "Ukkirapandi Muthuramalinga Tévar"
+ RAJ_GOE_v_d_savarkar: "Vinajak Dámódar Savarkar"
  RAJ_GOE_william_rhodes_davis: "William Rhodes Davis"
- RAJ_GOE_yahya_khan: "Yahya Khan"
- RAJ_huseyn_shaheed_suhrawardy: "Huseyn Šáhíd Suhrawardý"
+ RAJ_GOE_yahya_khan: "Jahjá Chán"
+ RAJ_huseyn_shaheed_suhrawardy: "Husajn Šahíd Suhravardí"
  RAJ_jim_corbett: "Jim Corbett"
- RAJ_maharaja_hari_singh: "Mahárádža Hári Singh"
- RAJ_maharaja_jayachamarajendra_wadiyar: "Mahárádža Džajachamarádžendra Wadiyár"
- RAJ_mir_osman_ali_khan: "Mír Osman Alí Khán"
- RAJ_mirza_khurshid_jah_bahadur: "Mírza Khuršíd Džáh Bahádúr"
+ RAJ_maharaja_hari_singh: "Mahárádža Harí Singh"
+ RAJ_maharaja_jayachamarajendra_wadiyar: "Mahárádža Džajáčamaradžendra Vadijár"
+ RAJ_mir_osman_ali_khan: "Mír Osmán Alí Chán"
+ RAJ_mirza_khurshid_jah_bahadur: "Mírza Churšíd Džáh Bahádur"
  RAJ_P_krishna_pillai: "P. Krišna Pillai"
- RAJ_pratap_singh_rao_gaekwad: "Pratáp Singh Ráo Gáekwad"
- RAJ_puran_chand_joshi: "Puran Čand Džoší"
+ RAJ_pratap_singh_rao_gaekwad: "Pratáp Singh Ráo Gáikwad"
+ RAJ_puran_chand_joshi: "Púran Čand Džoší"
  RAJ_sahajanand_saraswati: "Sahadžánand Sarasvatí"
- RAJ_shripad_amrit_dange: "Shrípad Amrit Dangé"
+ RAJ_shripad_amrit_dange: "Šrípád Amrit Dandže"
  RAJ_umed_singh: "Umed Singh"
- SYR_hashim_al_atassi: "Hašim al-Atassi"
- SYR_mehemed_ali_abed: "Muhammad Alí Bé al-Abid"
- BRM_archibald_cochrane: "Archibald Cochrane" # todo: NEW TRANSLATION
- BRM_ba_maw: "Ba Maw" # todo: NEW TRANSLATION
- BRM_u_nu: "U Nu" # todo: NEW TRANSLATION
- BRM_ne_win: "Ne Win" # todo: NEW TRANSLATION
- ASY_shimun_eshai: "Mar Eshai Shimun XXIII" # todo: NEW TRANSLATION
- ASY_benjamin_arsanis: "Benjamin Arsanis" # todo: NEW TRANSLATION
- BRM_myat_phaya_lat: "Císařovna Myat Phaya Lat" # todo: NEW TRANSLATION
- IMO_muhammad_khalili: "Muhammad bin Abdullah al-Khalili" # todo: NEW TRANSLATION
- LEB_abdallah_beyhum: "Abdallah Beyhum" # todo: NEW TRANSLATION
- IRQ_max_von_oppenheim: "Max von Oppenheim" # todo: NEW TRANSLATION
- IRQ_saib_shawkat: "Saib Shawkat" # todo: NEW TRANSLATION
- IRQ_ibrahim_al_ghandanfari: "Ibrahim Kamal Al-Ghadanfari" # todo: NEW TRANSLATION
- ARM_calouste_gulbenkian: "Calouste Sarkis Gulbenkian" # todo: NEW TRANSLATION
- KUW_ahmad_al_sabah: "Ahmad Al-Jaber Al-Sabah" # todo: NEW TRANSLATION
- SYR_mehemed_ali_abed: "Muhammad Ali Bey al-Abid" # todo: NEW TRANSLATION
- SYR_hashim_al_atassi: "Hashim al-Atassi" # todo: NEW TRANSLATION
- JOR_abdullah_bin_al_hussein: "Abdullah I bin Al-Hussein" # todo: NEW TRANSLATION
- PAL_harold_macmichael: "Sir Harold MacMichael" # todo: NEW TRANSLATION
- ISR_david_ben_gurion: "David Ben-Gurion" # todo: NEW TRANSLATION
- KUR_qazi_muhamad: "Qazi Muhammad" # todo: NEW TRANSLATION
- KUR_mahmud_barzanji: "Sheikh Mahmud Barzanji" # todo: NEW TRANSLATION
- KUR_ishan_nuri: "Îhsan Nûrî Paşa" # todo: NEW TRANSLATION
- KUR_seyid_riza: "Seyid Riza" # todo: NEW TRANSLATION
- KUR_ferzende_bege_haseni: "Ferzende Begê Hesenî" # todo: NEW TRANSLATION
- IRQ_ahmed_barzani: "Sheikh Ahmed Barzani" # todo: NEW TRANSLATION
- IRQ_mustafa_barzani: "Mustafa Barzani" # todo: NEW TRANSLATION
- GER_oskar_von_nidermayer: "Oskar von Niedermayer" # todo: NEW TRANSLATION
- RAJ_GOE_j_r_d_tata: "J. R. D. Tata" # todo: NEW TRANSLATION
- RAJ_GOE_jawaharlal_nehru: "Jawaharlal Nehru" # todo: NEW TRANSLATION
- RAJ_GOE_m_n_roy: "M.N Roy" # todo: NEW TRANSLATION
- RAJ_GOE_tara_singh: "Tara Singh" # todo: NEW TRANSLATION
- RAJ_GOE_ishar_singh: "Ishar Singh" # todo: NEW TRANSLATION
- RAJ_GOE_muhammad_ali_jinnah: "Muhammad Ali Jinnah" # todo: NEW TRANSLATION
- RAJ_GOE_v_d_savarkar: "Vinayak Damodar Savarkar" # todo: NEW TRANSLATION
- RAJ_GOE_ukkirapandi_muthuramalinga_thevar: "Ukkirapandi Muthuramalinga Thevar" # todo: NEW TRANSLATION
- RAJ_GOE_sarat_bose: "Sarat Bose" # todo: NEW TRANSLATION
- RAJ_GOE_rash_behari_bose: "Rash Behari Bose" # todo: NEW TRANSLATION
- RAJ_GOE_arcot_doraiswamy_loganadan: "Arcot Doraiswamy Loganadan" # todo: NEW TRANSLATION
- RAJ_GOE_yahya_khan: "Yahya Khan" # todo: NEW TRANSLATION
- RAJ_GOE_muhammad_musa: "Muhammad Musa" # todo: NEW TRANSLATION
- RAJ_GOE_montagu_stopford: "Montagu Stopford" # todo: NEW TRANSLATION
- RAJ_GOE_francis_tuker: "Francis Tuker" # todo: NEW TRANSLATION
- RAJ_GOE_mohammed_zaman_kiani: "Mohammed Zaman Kiani" # todo: NEW TRANSLATION
- RAJ_GOE_sardar_bahadur_ishar_singh: "Sardar Bahadur Ishar Singh" # todo: NEW TRANSLATION
- RAJ_GOE_parkash_singh: "Parkash Singh" # todo: NEW TRANSLATION
- RAJ_GOE_muhammad_ayub_khan: "Muhammad Ayub Khan" # todo: NEW TRANSLATION
- RAJ_GOE_rajendrasinhji_jadeja: "Rajendrasinhji Jadeja" # todo: NEW TRANSLATION
- RAJ_GOE_kodandera_cariappa: "Kodandera Cariappa" # todo: NEW TRANSLATION
- RAJ_GOE_mohammad_usman: "Mohammad Usman" # todo: NEW TRANSLATION
- RAJ_GOE_sam_manekshaw: "Sam Manekshaw" # todo: NEW TRANSLATION
- RAJ_GOE_shah_nawaz_khan: "Shah Nawaz Khan" # todo: NEW TRANSLATION
- RAJ_GOE_subcontinent_chaos: "Chaos na subkontinentu" # todo: NEW TRANSLATION
- RAJ_GOE_the_board_of_directors: "Představenstvo" # todo: NEW TRANSLATION
- ENG_jack_churchill: "Jack Churchill" # todo: NEW TRANSLATION
- RAJ_freeman_freeman_thomas: "Freeman Freeman-Thomas" # todo: NEW TRANSLATION
- RAJ_mir_osman_ali_khan: "Mir Osman Ali Khan" # todo: NEW TRANSLATION
- RAJ_chithira_thirunal_balarma_varma: "Chithira Thirunal Balarama Varma" # todo: NEW TRANSLATION
- RAJ_ahmad_yar_khan: "Ahmad Yar Khan" # todo: NEW TRANSLATION
- RAJ_huseyn_shaheed_suhrawardy: "Huseyn Shaheed Suhrawardy" # todo: NEW TRANSLATION
- RAJ_maharaja_hari_singh: "Maharaja Hari Singh" # todo: NEW TRANSLATION
- RAJ_bodh_chandra_singh: "Bodh Chandra Singh" # todo: NEW TRANSLATION
- RAJ_umed_singh: "Umed Singh" # todo: NEW TRANSLATION
- RAJ_pratap_singh_rao_gaekwad: "Pratap Singh Rao Gaekwad" # todo: NEW TRANSLATION
- RAJ_maharaja_jayachamarajendra_wadiyar: "Maharaja Jayachamarajendra Wadiyar" # todo: NEW TRANSLATION
- RAJ_jim_corbett: "Jim Corbett" # todo: NEW TRANSLATION
- RAJ_puran_chand_joshi: "Puran Chand Joshi" # todo: NEW TRANSLATION
- RAJ_bhalchandra_trimbak_ranadive: "Bhalchandra Trimbak Ranadive" # todo: NEW TRANSLATION
- RAJ_elamkulam_manakkal_sakaran_namboodiripad: "Elamkulam Manakkal Sakaran Namboodiripad" # todo: NEW TRANSLATION
- RAJ_shripad_amrit_dange: "Shripad Amrit Dange" # todo: NEW TRANSLATION
- RAJ_sahajanand_saraswati: "Sahajanand Saraswati" # todo: NEW TRANSLATION
- RAJ_P_krishna_pillai: "P. Krishna Pillai" # todo: NEW TRANSLATION
- RAJ_GOE_g_d_birla: "G.D Birla" # todo: NEW TRANSLATION
- RAJ_GOE_william_rhodes_davis: "William Rhodes Davis" # todo: NEW TRANSLATION
- RAJ_GOE_prescott_bush: "Prescott Bush" # todo: NEW TRANSLATION
- RAJ_GOE_abdul_ghaffar_khan: "Abdul Ghaffar Khan" # todo: NEW TRANSLATION
- RAJ_GOE_louis_mountbatten: "Louis Mountbatteb" # todo: NEW TRANSLATION
- RAJ_mirza_khurshid_jah_bahadur: "Mirza Khurshid Jah Bahadur" # todo: NEW TRANSLATION
- BAN_a_k_fazlul_huq: "A. K. Fazlul Huq" # todo: NEW TRANSLATION
- PER_mohammad_ali_foroughi: "Mohammad Ali Foroughi" # todo: NEW TRANSLATION
- PER_mohammad_hassan_mirza: "Mohammad Hassan Mirza" # todo: NEW TRANSLATION
- PER_ali_dashti: "Ali Dashti" # todo: NEW TRANSLATION
- PER_zia_ol_din_tabatabee: "Zia ol Din Tabatabee" # todo: NEW TRANSLATION
- PER_mohammad_mosaddegh: "Mohammad Mosaddegh" # todo: NEW TRANSLATION
- PER_iraj_eskandari: "Iraj Eskandari" # todo: NEW TRANSLATION
- PER_soleiman_eskandari: "Soleiman Eskandari" # todo: NEW TRANSLATION
- PER_ruhollah_khomeini: "Ruhollah Khomeini" # todo: NEW TRANSLATION
- PER_arthur_millspaugh: "Arthur Millspaugh" # todo: NEW TRANSLATION
- PER_ardeshir_ovanessian: "Ardeshir Ovanessian" # todo: NEW TRANSLATION
- PER_ahmad_mateen_daftari: "Ahmad Mateen Daftari" # todo: NEW TRANSLATION
- PER_ali_akbar_davar: "Ali-Akbar Davar" # todo: NEW TRANSLATION
- PER_abdolhossein_hazhir: "Abdolhossein Hazhir" # todo: NEW TRANSLATION
- PER_teymur_bakhtiar: "Teymur Bakhtiar" # todo: NEW TRANSLATION
- PER_teymur_bakhtiar_operative: "$PER_teymur_bakhtiar$" # todo: NEW TRANSLATION
- PER_hassan_pakravan_operative: "Hassan Pakravan" # todo: NEW TRANSLATION
- PER_nematollah_nassiri_operative: "Nematollah Nassiri" # todo: NEW TRANSLATION
- PER_nasser_moghaddam_operative: "Nasser Moghaddam" # todo: NEW TRANSLATION
- PER_ahmad_ahmadi: "Ahmad Ahmadi" # todo: NEW TRANSLATION
- PER_nikolai_markov: "Nikolai Markov" # todo: NEW TRANSLATION
- PER_bahram_aryana: "Bahram Aryana" # todo: NEW TRANSLATION
- PER_gholam_ali_oveissi: "Gholam Ali Oveissi" # todo: NEW TRANSLATION
- PER_ahmad_amir_ahmadi: "Ahmad Amir Ahmadi" # todo: NEW TRANSLATION
- PER_ali_akbar_derakhshani: "Ali Akbar Derakshani" # todo: NEW TRANSLATION
- PER_ghulam_yahya_daneshian: "Ghulam Yahya Daneshian" # todo: NEW TRANSLATION
- PER_jafar_kavian: "Jafar Kavian" # todo: NEW TRANSLATION
- PER_gholamali_bayandor: "Gholam Ali Bayandor" # todo: NEW TRANSLATION
- PER_azad_hashemi: "Azad Hashemi" # todo: NEW TRANSLATION
- PER_abdollah_zelli: "Abdollah Zelli" # todo: NEW TRANSLATION
- PER_abbas_darja_nawardi: "Abbas Darja Nawardi" # todo: NEW TRANSLATION
- PER_andre_godard: "André Godard" # todo: NEW TRANSLATION
- PER_fakhrafagh_parsa: "FakhrAfagh Parsa" # todo: NEW TRANSLATION
- PER_mohtaram_eskandari: "Mohtaram Eskandari" # todo: NEW TRANSLATION
- PER_fawzia_faud: "Fawzia Fuad z Egypta" # todo: NEW TRANSLATION
- PER_teymourtash: "Írán Teymourtash" # todo: NEW TRANSLATION
- PER_irandokht: "Irandokht Qajar" # todo: NEW TRANSLATION
- PER_davud_monshizadeh: "Davud Monshizadeh" # todo: NEW TRANSLATION
- PER_abol_ghasem_kashani: "Abol Ghasem Kashani" # todo: NEW TRANSLATION
- PER_karim_buzarjamehri: "Karim Buzarjomehri" # todo: NEW TRANSLATION
- PER_abdolsamad_kambakhsh: "Abdolsamad Kambakhsh" # todo: NEW TRANSLATION
- PER_assadollah_hosseinpoor: "Assadollah Hosseinpoor" # todo: NEW TRANSLATION
- PER_haj_ali_razmara: "Haj Ali Razmara" # todo: NEW TRANSLATION
- PER_rokneddin_mokhtari: "Rokneddin Mokhtari" # todo: NEW TRANSLATION
- PER_kazem_hasibi: "Kazem Hasibi" # todo: NEW TRANSLATION
- PER_ahmad_zirakzadeh: "Ahmad Zirakzadeh" # todo: NEW TRANSLATION
- AFG_abdur_rahim_khan: "Abdur Rahim Khan" # todo: NEW TRANSLATION
- AFG_mahmud_tarzi: "Mahmud Tarzi" # todo: NEW TRANSLATION
- AFG_mohammad_hashim_khan: "Mohammad Hashim Khan" # todo: NEW TRANSLATION
- AFG_abdul_majid_zabuli: "Abdul Majid Zabuli" # todo: NEW TRANSLATION
- AFG_abdul_hai_habibi: "Abdul Hai Habibi" # todo: NEW TRANSLATION
- AFG_ghulam_yahya_khan_tarzi: "Ghulam Yahya Khan Tarzi" # todo: NEW TRANSLATION
- AFG_qiamuddin_khadim: "Qiamuddin Khadim" # todo: NEW TRANSLATION
- AFG_ghulam_muhammad_ghobar: "Ghulam Muhammad Ghobar" # todo: NEW TRANSLATION
- AFG_turbaz_khan: "Turabaz Khan" # todo: NEW TRANSLATION
- AFG_mohammad_gul_khan_momand: "Mohammad Gul Khan Momand" # todo: NEW TRANSLATION
- AFG_shah_mahmud_khan: "Sardar Shah Mahmud Khan" # todo: NEW TRANSLATION
- AFG_amunullah_khan: "Amanullah Khan" # todo: NEW TRANSLATION
- AFG_soraya_tarzi: "Soraya Tarzi" # todo: NEW TRANSLATION
- AFG_placeholder_fascist: "Sher Ali Sherkhanzai" # todo: NEW TRANSLATION
- AFG_generic_american_1: "James Smith" # todo: NEW TRANSLATION
- AFG_generic_american_2: "Robert Johnson" # todo: NEW TRANSLATION
- AFG_generic_american_3: "John Stevens" # todo: NEW TRANSLATION
- AFG_provisional_government: "Přechodná vláda" # todo: NEW TRANSLATION
- AFG_muhammad_ibrahim_khan: "Muhammad Ibrahim Khan" # todo: NEW TRANSLATION
- AFG_mohammed_zahir_shah: "Mohammed Zahir Shah" # todo: NEW TRANSLATION
- AFG_akram_sattari: "Akram Sattari" # todo: NEW TRANSLATION
- AFG_yaqub_khan: "Yaqub Khan" # todo: NEW TRANSLATION
- AFG_mihrdil_shahnawaz: "Mihrdil Shahnawaz" # todo: NEW TRANSLATION
- AFG_sardar_shah_wali_khan: "Sardar Shah Wali Khan" # todo: NEW TRANSLATION
- AFG_faqir_of_ipi: "Faqir of Ipi" # todo: NEW TRANSLATION
- AFG_nisar_muhammad_yousafzai: "Nisar Muhammad Yousafzai" # todo: NEW TRANSLATION
- AFG_mazrak_zadran: "Mazrak Zadran" # todo: NEW TRANSLATION
- AFG_abdurauf_fitrat: "Abdurauf Fitrat" # todo: NEW TRANSLATION
- AFG_fayzulla_xojayev: "Fayzulla Xo'jayev" # todo: NEW TRANSLATION
- AFG_korsirmat: "Shir Muhammad-bek Gazi" # todo: NEW TRANSLATION
- AFG_junaid_khan: "Junaid Khan" # todo: NEW TRANSLATION
- AFG_inyatullah_khan: "Inayatullah Khan" # todo: NEW TRANSLATION
- AFG_nur_muhammad_taraki: "Nur Muhammad Taraki" # todo: NEW TRANSLATION
- AFG_sheikh_omar_mojadidi: "Nurul Mashaw'ikh Shaikh Fazl Omar Mojadidi" # todo: NEW TRANSLATION
- AFG_sher_khan_nashir: "Sher Khan Nashir" # todo: NEW TRANSLATION
- BUK_mohammed_alim_khan: "Sayyid Mir Muhammad Alim Khan" # todo: NEW TRANSLATION
- BUK_polat_usmon: "Polat Usmon Khodzhayev" # todo: NEW TRANSLATION
- IRQ_yasin_al_hashimi: "Yasin al-Hashimi" # todo: NEW TRANSLATION
- IRQ_ghazi_i: "Ghazi I" # todo: NEW TRANSLATION
- IRQ_ghazi_i_desc: "Vystoupivši na trůn v roce 1933 po smrti Faisala I., si král Ghazi získal pověst odpůrce britského vlivu v Iráku navzdory desetiletím trvajícím vazbám mezi hasemitskou dynastií a Spojeným královstvím. Objevují se podezření, že mladý král čeká na příležitost vyhnat Brity silou a poslat svou armádu obsadit sousední strategické oblasti." # todo: NEW TRANSLATION
- IRQ_ghazi_died_flag: " Ghazi I zemřel" # todo: NEW TRANSLATION
- IRQ_faisal_ii: "Faisal II" # todo: NEW TRANSLATION
- IRQ_abd_al_ilah: "Abd al-Ilah" # todo: NEW TRANSLATION
- IRQ_rashid_ali_algaylani: "Rashid Ali al-Gaylani" # todo: NEW TRANSLATION
- IRQ_hikmat_suleiman: "Hikmat Sulayman" # todo: NEW TRANSLATION
- IRQ_yusuf_salman_yusuf: "Yusuf Salman Yusuf" # todo: NEW TRANSLATION
- IRQ_tawfiq_al_suawaidi: "Tawfiq al-Suwaidi" # todo: NEW TRANSLATION
- IRQ_abd_almalik_ibn_hisham: "Abd al-Malik ibn Hisham" # todo: NEW TRANSLATION
- IRQ_taha_al_hashemi: "Taha al-Hashimi" # todo: NEW TRANSLATION
- IRQ_muhammad_husayn_kashif_al_ghita: "Muhammad Husayn Kashif al-Ghita'" # todo: NEW TRANSLATION
- PAL_amin_al_husseini: "Amin al-Husseini" # todo: NEW TRANSLATION
- IRQ_muhammad_amin_zaki: "Muhammad Amin Zaki" # todo: NEW TRANSLATION
- IRQ_sharaf_bin_rajeh: "Sharaf bin Rajeh" # todo: NEW TRANSLATION
- IRQ_husain_al_rahhal: "Husain al-Rahhal" # todo: NEW TRANSLATION
- IRQ_salah_al_din_al_sabbagh: "Salah al-Din al-Sabbagh" # todo: NEW TRANSLATION
- IRQ_jamil_abdul_wahab: "Jamil Abdul Wahab" # todo: NEW TRANSLATION
- IRQ_mahmud_salman: "Mahmud Salman" # todo: NEW TRANSLATION
- IRQ_kamil_shabib: "Kamil Shabib" # todo: NEW TRANSLATION
- IRQ_hussein_fawzi: "Hussein Fawzi" # todo: NEW TRANSLATION
- IRQ_fritz_grobba: "Fritz Grobba" # todo: NEW TRANSLATION
- IRQ_werner_junck: "Werner Junck" # todo: NEW TRANSLATION
- IRQ_harry_george_smart: "Harry George Smart" # todo: NEW TRANSLATION
- IRQ_naji_al_suwaidi: "Naji al-Suwaidi" # todo: NEW TRANSLATION
- IRQ_akram_mushtak: "Akram Mushtak" # todo: NEW TRANSLATION
- IRQ_muhammad_ali_jawad: "Mohammed Ali Jawad" # todo: NEW TRANSLATION
- IRQ_maruf_al_rusafi: "Ma'ruf al-Rusafi" # todo: NEW TRANSLATION
- BRM_archibald_cochrane: "Archibald Cochrane" # todo: NEW TRANSLATION
- BRM_ba_maw: "Ba Maw" # todo: NEW TRANSLATION
- BRM_u_nu: "U Nu" # todo: NEW TRANSLATION
- BRM_ne_win: "Ne Win" # todo: NEW TRANSLATION
- ASY_shimun_eshai: "Mar Eshai Shimun XXIII" # todo: NEW TRANSLATION
- ASY_benjamin_arsanis: "Benjamin Arsanis" # todo: NEW TRANSLATION
- BRM_myat_phaya_lat: "Císařovna Myat Phaya Lat" # todo: NEW TRANSLATION
- IMO_muhammad_khalili: "Muhammad bin Abdullah al-Khalili" # todo: NEW TRANSLATION
- LEB_abdallah_beyhum: "Abdallah Beyhum" # todo: NEW TRANSLATION
- IRQ_max_von_oppenheim: "Max von Oppenheim" # todo: NEW TRANSLATION
- IRQ_saib_shawkat: "Saib Shawkat" # todo: NEW TRANSLATION
- IRQ_ibrahim_al_ghandanfari: "Ibrahim Kamal Al-Ghadanfari" # todo: NEW TRANSLATION
- ARM_calouste_gulbenkian: "Calouste Sarkis Gulbenkian" # todo: NEW TRANSLATION
- KUW_ahmad_al_sabah: "Ahmad Al-Jaber Al-Sabah" # todo: NEW TRANSLATION
- SYR_mehemed_ali_abed: "Muhammad Ali Bey al-Abid" # todo: NEW TRANSLATION
- SYR_hashim_al_atassi: "Hashim al-Atassi" # todo: NEW TRANSLATION
- JOR_abdullah_bin_al_hussein: "Abdullah I bin Al-Hussein" # todo: NEW TRANSLATION
- PAL_harold_macmichael: "Sir Harold MacMichael" # todo: NEW TRANSLATION
- ISR_david_ben_gurion: "David Ben-Gurion" # todo: NEW TRANSLATION
- KUR_qazi_muhamad: "Qazi Muhammad" # todo: NEW TRANSLATION
- KUR_mahmud_barzanji: "Šejch Mahmud Barzanji" # todo: NEW TRANSLATION
- KUR_ishan_nuri: "Îhsan Nûrî Paşa" # todo: NEW TRANSLATION
- KUR_seyid_riza: "Seyid Riza" # todo: NEW TRANSLATION
- KUR_ferzende_bege_haseni: "Ferzende Begê Hesenî" # todo: NEW TRANSLATION
- IRQ_ahmed_barzani: "Šejch Ahmed Barzani" # todo: NEW TRANSLATION
- IRQ_mustafa_barzani: "Mustafa Barzani" # todo: NEW TRANSLATION
- GER_oskar_von_nidermayer: "Oskar von Niedermayer" # todo: NEW TRANSLATION
- RAJ_GOE_j_r_d_tata: "J. R. D. Tata" # todo: NEW TRANSLATION
- RAJ_GOE_jawaharlal_nehru: "Jawaharlal Nehru" # todo: NEW TRANSLATION
- RAJ_GOE_m_n_roy: "M.N Roy" # todo: NEW TRANSLATION
- RAJ_GOE_tara_singh: "Tara Singh" # todo: NEW TRANSLATION
- RAJ_GOE_ishar_singh: "Ishar Singh" # todo: NEW TRANSLATION
- RAJ_GOE_muhammad_ali_jinnah: "Muhammad Ali Jinnah" # todo: NEW TRANSLATION
- RAJ_GOE_v_d_savarkar: "Vinayak Damodar Savarkar" # todo: NEW TRANSLATION
- RAJ_GOE_ukkirapandi_muthuramalinga_thevar: "Ukkirapandi Muthuramalinga Thevar" # todo: NEW TRANSLATION
- RAJ_GOE_sarat_bose: "Sarat Bose" # todo: NEW TRANSLATION
- RAJ_GOE_rash_behari_bose: "Rash Behari Bose" # todo: NEW TRANSLATION
- RAJ_GOE_arcot_doraiswamy_loganadan: "Arcot Doraiswamy Loganadan" # todo: NEW TRANSLATION
- RAJ_GOE_yahya_khan: "Yahya Khan" # todo: NEW TRANSLATION
- RAJ_GOE_muhammad_musa: "Muhammad Musa" # todo: NEW TRANSLATION
- RAJ_GOE_montagu_stopford: "Montagu Stopford" # todo: NEW TRANSLATION
- RAJ_GOE_francis_tuker: "Francis Tuker" # todo: NEW TRANSLATION
- RAJ_GOE_mohammed_zaman_kiani: "Mohammed Zaman Kiani" # todo: NEW TRANSLATION
- RAJ_GOE_sardar_bahadur_ishar_singh: "Sardar Bahadur Ishar Singh" # todo: NEW TRANSLATION
- RAJ_GOE_parkash_singh: "Parkash Singh" # todo: NEW TRANSLATION
- RAJ_GOE_muhammad_ayub_khan: "Muhammad Ayub Khan" # todo: NEW TRANSLATION
- RAJ_GOE_rajendrasinhji_jadeja: "Rajendrasinhji Jadeja" # todo: NEW TRANSLATION
- RAJ_GOE_kodandera_cariappa: "Kodandera Cariappa" # todo: NEW TRANSLATION
- RAJ_GOE_mohammad_usman: "Mohammad Usman" # todo: NEW TRANSLATION
- RAJ_GOE_sam_manekshaw: "Sam Manekshaw" # todo: NEW TRANSLATION
- RAJ_GOE_shah_nawaz_khan: "Shah Nawaz Khan" # todo: NEW TRANSLATION
- RAJ_GOE_subcontinent_chaos: "Chaos na podkontinentu" # todo: NEW TRANSLATION
- RAJ_GOE_the_board_of_directors: "Představenstvo" # todo: NEW TRANSLATION
- ENG_jack_churchill: "Jack Churchill" # todo: NEW TRANSLATION
- RAJ_freeman_freeman_thomas: "Freeman Freeman-Thomas" # todo: NEW TRANSLATION
- RAJ_mir_osman_ali_khan: "Mir Osman Ali Khan" # todo: NEW TRANSLATION
- RAJ_chithira_thirunal_balarma_varma: "Chithira Thirunal Balarama Varma" # todo: NEW TRANSLATION
- RAJ_ahmad_yar_khan: "Ahmad Yar Khan" # todo: NEW TRANSLATION
- RAJ_huseyn_shaheed_suhrawardy: "Huseyn Shaheed Suhrawardy" # todo: NEW TRANSLATION
- RAJ_maharaja_hari_singh: "Maharaja Hari Singh" # todo: NEW TRANSLATION
- RAJ_bodh_chandra_singh: "Bodh Chandra Singh" # todo: NEW TRANSLATION
- RAJ_umed_singh: "Umed Singh" # todo: NEW TRANSLATION
- RAJ_pratap_singh_rao_gaekwad: "Pratap Singh Rao Gaekwad" # todo: NEW TRANSLATION
- RAJ_maharaja_jayachamarajendra_wadiyar: "Maharaja Jayachamarajendra Wadiyar" # todo: NEW TRANSLATION
- RAJ_jim_corbett: "Jim Corbett" # todo: NEW TRANSLATION
- RAJ_puran_chand_joshi: "Puran Chand Joshi" # todo: NEW TRANSLATION
- RAJ_bhalchandra_trimbak_ranadive: "Bhalchandra Trimbak Ranadive" # todo: NEW TRANSLATION
- RAJ_elamkulam_manakkal_sakaran_namboodiripad: "Elamkulam Manakkal Sakaran Namboodiripad" # todo: NEW TRANSLATION
- RAJ_shripad_amrit_dange: "Shripad Amrit Dange" # todo: NEW TRANSLATION
- RAJ_sahajanand_saraswati: "Sahajanand Saraswati" # todo: NEW TRANSLATION
- RAJ_P_krishna_pillai: "P. Krishna Pillai" # todo: NEW TRANSLATION
- RAJ_GOE_g_d_birla: "G.D Birla" # todo: NEW TRANSLATION
- RAJ_GOE_william_rhodes_davis: "William Rhodes Davis" # todo: NEW TRANSLATION
- RAJ_GOE_prescott_bush: "Prescott Bush" # todo: NEW TRANSLATION
- RAJ_GOE_abdul_ghaffar_khan: "Abdul Ghaffar Khan" # todo: NEW TRANSLATION
- RAJ_GOE_louis_mountbatten: "Louis Mountbatteb" # todo: NEW TRANSLATION
- RAJ_mirza_khurshid_jah_bahadur: "Mirza Khurshid Jah Bahadur" # todo: NEW TRANSLATION
- BAN_a_k_fazlul_huq: "A. K. Fazlul Huq" # todo: NEW TRANSLATION
- PER_mohammad_ali_foroughi: "Mohammad Ali Foroughi" # todo: NEW TRANSLATION
- PER_mohammad_hassan_mirza: "Mohammad Hassan Mirza" # todo: NEW TRANSLATION
- PER_ali_dashti: "Ali Dashti" # todo: NEW TRANSLATION
- PER_zia_ol_din_tabatabee: "Zia ol Din Tabatabee" # todo: NEW TRANSLATION
- PER_mohammad_mosaddegh: "Mohammad Mosaddegh" # todo: NEW TRANSLATION
- PER_iraj_eskandari: "Iraj Eskandari" # todo: NEW TRANSLATION
- PER_soleiman_eskandari: "Soleiman Eskandari" # todo: NEW TRANSLATION
- PER_ruhollah_khomeini: "Ruhollah Khomeini" # todo: NEW TRANSLATION
- PER_arthur_millspaugh: "Arthur Millspaugh" # todo: NEW TRANSLATION
- PER_ardeshir_ovanessian: "Ardeshir Ovanessian" # todo: NEW TRANSLATION
- PER_ahmad_mateen_daftari: "Ahmad Mateen Daftari" # todo: NEW TRANSLATION
- PER_ali_akbar_davar: "Ali-Akbar Davar" # todo: NEW TRANSLATION
- PER_abdolhossein_hazhir: "Abdolhossein Hazhir" # todo: NEW TRANSLATION
- PER_teymur_bakhtiar: "Teymur Bakhtiar" # todo: NEW TRANSLATION
- PER_teymur_bakhtiar_operative: "$PER_teymur_bakhtiar$" # todo: NEW TRANSLATION
- PER_hassan_pakravan_operative: "Hassan Pakravan" # todo: NEW TRANSLATION
- PER_nematollah_nassiri_operative: "Nematollah Nassiri" # todo: NEW TRANSLATION
- PER_nasser_moghaddam_operative: "Nasser Moghaddam" # todo: NEW TRANSLATION
- PER_ahmad_ahmadi: "Ahmad Ahmadi" # todo: NEW TRANSLATION
- PER_nikolai_markov: "Nikolai Markov" # todo: NEW TRANSLATION
- PER_bahram_aryana: "Bahram Aryana" # todo: NEW TRANSLATION
- PER_gholam_ali_oveissi: "Gholam Ali Oveissi" # todo: NEW TRANSLATION
- PER_ahmad_amir_ahmadi: "Ahmad Amir Ahmadi" # todo: NEW TRANSLATION
- PER_ali_akbar_derakhshani: "Ali Akbar Derakshani" # todo: NEW TRANSLATION
- PER_ghulam_yahya_daneshian: "Ghulam Yahya Daneshian" # todo: NEW TRANSLATION
- PER_jafar_kavian: "Jafar Kavian" # todo: NEW TRANSLATION
- PER_gholamali_bayandor: "Gholam Ali Bayandor" # todo: NEW TRANSLATION
- PER_azad_hashemi: "Azad Hashemi" # todo: NEW TRANSLATION
- PER_abdollah_zelli: "Abdollah Zelli" # todo: NEW TRANSLATION
- PER_abbas_darja_nawardi: "Abbas Darja Nawardi" # todo: NEW TRANSLATION
- PER_andre_godard: "André Godard" # todo: NEW TRANSLATION
- PER_fakhrafagh_parsa: "FakhrAfagh Parsa" # todo: NEW TRANSLATION
- PER_mohtaram_eskandari: "Mohtaram Eskandari" # todo: NEW TRANSLATION
- PER_fawzia_faud: "Fawzia Fuad z Egypta" # todo: NEW TRANSLATION
- PER_teymourtash: "Íránský Teymourtash" # todo: NEW TRANSLATION
- PER_irandokht: "Irandokht Qajar" # todo: NEW TRANSLATION
- PER_davud_monshizadeh: "Davud Monshizadeh" # todo: NEW TRANSLATION
- PER_abol_ghasem_kashani: "Abol Ghasem Kashani" # todo: NEW TRANSLATION
- PER_karim_buzarjamehri: "Karim Buzarjomehri" # todo: NEW TRANSLATION
- PER_abdolsamad_kambakhsh: "Abdolsamad Kambakhsh" # todo: NEW TRANSLATION
- PER_assadollah_hosseinpoor: "Assadollah Hosseinpoor" # todo: NEW TRANSLATION
- PER_haj_ali_razmara: "Haj Ali Razmara" # todo: NEW TRANSLATION
- PER_rokneddin_mokhtari: "Rokneddin Mokhtari" # todo: NEW TRANSLATION
- PER_kazem_hasibi: "Kazem Hasibi" # todo: NEW TRANSLATION
- PER_ahmad_zirakzadeh: "Ahmad Zirakzadeh" # todo: NEW TRANSLATION
- AFG_abdur_rahim_khan: "Abdur Rahim Khan" # todo: NEW TRANSLATION
- AFG_mahmud_tarzi: "Mahmud Tarzi" # todo: NEW TRANSLATION
- AFG_mohammad_hashim_khan: "Mohammad Hashim Khan" # todo: NEW TRANSLATION
- AFG_abdul_majid_zabuli: "Abdul Majid Zabuli" # todo: NEW TRANSLATION
- AFG_abdul_hai_habibi: "Abdul Hai Habibi" # todo: NEW TRANSLATION
- AFG_ghulam_yahya_khan_tarzi: "Ghulam Yahya Khan Tarzi" # todo: NEW TRANSLATION
- AFG_qiamuddin_khadim: "Qiamuddin Khadim" # todo: NEW TRANSLATION
- AFG_ghulam_muhammad_ghobar: "Ghulam Muhammad Ghobar" # todo: NEW TRANSLATION
- AFG_turbaz_khan: "Turabaz Khan" # todo: NEW TRANSLATION
- AFG_mohammad_gul_khan_momand: "Mohammad Gul Khan Momand" # todo: NEW TRANSLATION
- AFG_shah_mahmud_khan: "Sardar Shah Mahmud Khan" # todo: NEW TRANSLATION
- AFG_amunullah_khan: "Amanullah Khan" # todo: NEW TRANSLATION
- AFG_soraya_tarzi: "Soraya Tarzi" # todo: NEW TRANSLATION
- AFG_placeholder_fascist: "Sher Ali Sherkhanzai" # todo: NEW TRANSLATION
- AFG_generic_american_1: "James Smith" # todo: NEW TRANSLATION
- AFG_generic_american_2: "Robert Johnson" # todo: NEW TRANSLATION
- AFG_generic_american_3: "John Stevens" # todo: NEW TRANSLATION
- AFG_provisional_government: "Prozatímní vláda" # todo: NEW TRANSLATION
- AFG_muhammad_ibrahim_khan: "Muhammad Ibrahim Khan" # todo: NEW TRANSLATION
- AFG_mohammed_zahir_shah: "Mohammed Zahir Shah" # todo: NEW TRANSLATION
- AFG_akram_sattari: "Akram Sattari" # todo: NEW TRANSLATION
- AFG_yaqub_khan: "Yaqub Khan" # todo: NEW TRANSLATION
- AFG_mihrdil_shahnawaz: "Mihrdil Shahnawaz" # todo: NEW TRANSLATION
- AFG_sardar_shah_wali_khan: "Sardar Shah Wali Khan" # todo: NEW TRANSLATION
- AFG_faqir_of_ipi: "Faqír z Ipi" # todo: NEW TRANSLATION
- AFG_nisar_muhammad_yousafzai: "Nisar Muhammad Yousafzai" # todo: NEW TRANSLATION
- AFG_mazrak_zadran: "Mazrak Zadran" # todo: NEW TRANSLATION
- AFG_abdurauf_fitrat: "Abdurauf Fitrat" # todo: NEW TRANSLATION
- AFG_fayzulla_xojayev: "Fayzulla Xo'jayev" # todo: NEW TRANSLATION
- AFG_korsirmat: "Shir Muhammad-bek Gazi" # todo: NEW TRANSLATION
- AFG_junaid_khan: "Junaid Khan" # todo: NEW TRANSLATION
- AFG_inyatullah_khan: "Inayatullah Khan" # todo: NEW TRANSLATION
- AFG_nur_muhammad_taraki: "Nur Muhammad Taraki" # todo: NEW TRANSLATION
- AFG_sheikh_omar_mojadidi: "Nurul Mashaw'ikh Shaikh Fazl Omar Mojadidi" # todo: NEW TRANSLATION
- AFG_sher_khan_nashir: "Sher Khan Nashir" # todo: NEW TRANSLATION
- BUK_mohammed_alim_khan: "Sayyid Mir Muhammad Alim Khan" # todo: NEW TRANSLATION
- BUK_polat_usmon: "Polat Usmon Khodzhayev" # todo: NEW TRANSLATION
- IRQ_yasin_al_hashimi: "Yasin al-Hashimi" # todo: NEW TRANSLATION
- IRQ_ghazi_i: "Ghazi I" # todo: NEW TRANSLATION
- IRQ_ghazi_i_desc: "Vstoupivší na trůn v roce 1933 po smrti Faisala I. si král Ghazi vybudoval pověst odpůrce britského vlivu v Iráku, přestože hášimovská dynastie měla se Spojeným královstvím dlouholeté vazby. Panují podezření, že mladý král čeká na příležitost vyhnat Brity silou a že jeho armáda zasáhne do sousedních strategických oblastí." # todo: NEW TRANSLATION
- IRQ_ghazi_died_flag: " Ghazi I zemřel" # todo: NEW TRANSLATION
- IRQ_faisal_ii: "Faisal II" # todo: NEW TRANSLATION
- IRQ_abd_al_ilah: "Abd al-Ilah" # todo: NEW TRANSLATION
- IRQ_rashid_ali_algaylani: "Rashid Ali al-Gaylani" # todo: NEW TRANSLATION
- IRQ_hikmat_suleiman: "Hikmat Sulayman" # todo: NEW TRANSLATION
- IRQ_yusuf_salman_yusuf: "Yusuf Salman Yusuf" # todo: NEW TRANSLATION
- IRQ_tawfiq_al_suawaidi: "Tawfiq al-Suwaidi" # todo: NEW TRANSLATION
- IRQ_abd_almalik_ibn_hisham: "Abd al-Malik ibn Hisham" # todo: NEW TRANSLATION
- IRQ_taha_al_hashemi: "Taha al-Hashimi" # todo: NEW TRANSLATION
- IRQ_muhammad_husayn_kashif_al_ghita: "Muhammad Husayn Kashif al-Ghita'" # todo: NEW TRANSLATION
- PAL_amin_al_husseini: "Amin al-Husseini" # todo: NEW TRANSLATION
- IRQ_muhammad_amin_zaki: "Muhammad Amin Zaki" # todo: NEW TRANSLATION
- IRQ_sharaf_bin_rajeh: "Sharaf bin Rajeh" # todo: NEW TRANSLATION
- IRQ_husain_al_rahhal: "Husain al-Rahhal" # todo: NEW TRANSLATION
- IRQ_salah_al_din_al_sabbagh: "Salah al-Din al-Sabbagh" # todo: NEW TRANSLATION
- IRQ_jamil_abdul_wahab: "Jamil Abdul Wahab" # todo: NEW TRANSLATION
- IRQ_mahmud_salman: "Mahmud Salman" # todo: NEW TRANSLATION
- IRQ_kamil_shabib: "Kamil Shabib" # todo: NEW TRANSLATION
- IRQ_hussein_fawzi: "Hussein Fawzi" # todo: NEW TRANSLATION
- IRQ_fritz_grobba: "Fritz Grobba" # todo: NEW TRANSLATION
- IRQ_werner_junck: "Werner Junck" # todo: NEW TRANSLATION
- IRQ_harry_george_smart: "Harry George Smart" # todo: NEW TRANSLATION
- IRQ_naji_al_suwaidi: "Naji al-Suwaidi" # todo: NEW TRANSLATION
- IRQ_akram_mushtak: "Akram Mushtak" # todo: NEW TRANSLATION
- IRQ_muhammad_ali_jawad: "Mohammed Ali Jawad" # todo: NEW TRANSLATION
- IRQ_maruf_al_rusafi: "Ma'ruf al-Rusafi" # todo: NEW TRANSLATION
+ SYR_hashim_al_atassi: "Hášim al-Atásí"
+ SYR_mehemed_ali_abed: "Muhammad Alí Bej al-Abíd"
