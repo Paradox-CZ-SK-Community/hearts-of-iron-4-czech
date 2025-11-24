@@ -83,7 +83,7 @@
  siberian_tiger_tt: "Vytvořit Sibiř."
  spaak_of_genius_tt: "Dokončit alespoň 10 zvláštních projektů"
  successful_dam_busting_raid_flag: "Úspěšně provedl §YNálet na přehradu§!"
- sunrise_invasion_tt: "Vlastnit pobřežní stát v Evropě" # todo: CHANGED
+ sunrise_invasion_tt: "Vlastnit pobřežní stát v Evropě"
  super_heavy_metal_tt: "Dokončil následující zvláštní projekty:\n\n§YPozemní křižník\nMezikontinentální bombardér\nSupertěžké bitevní lodě§!"
  swi_declared_war_on_GER_achievement_flag: "Vyhlásil válku [GER.GetFlag] §Y[GER.GetNameDef]§!."
  swi_won_war_on_GER_achievement_flag: "Vyhrál válku proti [GER.GetFlag] §Y[GER.GetNameDef]§!."

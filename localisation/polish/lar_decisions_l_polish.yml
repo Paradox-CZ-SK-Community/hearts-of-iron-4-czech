@@ -436,4 +436,4 @@
  spa_civil_war_divisions_counter_icon_value: "[?SPR.spa_civil_war_divisions_counter_var|0H]"
  spr_civil_war_divisions_counter_full_breakdown: "Republikánské Španělsko by v současnosti začalo s [?SPR.spr_civil_war_divisions_counter_var|+0] §Hdivizemi§!, kdyby občanská válka vypukla nyní.\n"
  spr_civil_war_divisions_counter_icon_value: "[?SPR.spr_civil_war_divisions_counter_var|0H]"
- SPA_suppress_the_strikes_tt_NOT:0 "Ne: Úplně potlačil celonárodní stávky"
+ SPA_suppress_the_strikes_tt_NOT: "Není: Úplně potlačil celonárodní stávky"

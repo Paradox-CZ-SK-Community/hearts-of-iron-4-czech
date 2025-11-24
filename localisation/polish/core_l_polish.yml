@@ -222,7 +222,7 @@
  BUTTON_DETAILS: "Detaily"
  BUTTON_DISMISS: "Odejít"
  BUTTON_OK: "Ok"
- BYPASS_FOCUS_TRIGER: "Následující obejde fokus$AUTOMATIC_BYPASS_DISABLED$:" # todo: CHANGED
+ BYPASS_FOCUS_TRIGER: "Následující obejde zaměření $AUTOMATIC_BYPASS_DISABLED$:"
  BYPASS_FOCUS: "Obejít"
  CAN_BE_BUILT_IN_ALLIED_TERRITORY: "\n§GTuto budovu lze postavit na území spojence.§!"
  CAN_BE_CALLED_TO_WAR: "Tato země není ve válce, ale může být do ní povolána"
@@ -487,7 +487,7 @@
  diff_very_hard_player: "Obtížnost pro elitu"
  DIMININSHING_RETURNS: "Při této popularitě jsou účinky škálovány na $SCALE|Y2%$"
  DIPLOMACY_CREATE_FACTION_NOT_RULE: "Nemůžete vytvářet frakce, pokud k tomu nemáte národního ducha."
- DIPLOMACY_CREATE_FACTION_OPP_IDEO: "$COUNTRY$ musí být $IDE$, aby byl ve frakci s námi." # todo: CHANGED
+ DIPLOMACY_CREATE_FACTION_OPP_IDEO: "$COUNTRY$ musí být $IDE$ ideologie, aby byl ve frakci s námi."
  DIPLOMACY_NOT_ENOUGH_IDEOLOGY_POPULARITY: "$NAME|H$ vyžaduje, aby měla přistupující země popularitu $IDEOLOGY|H$ větší než $MIN|H%0$ (aktuálně $CUR|H%0$)"
  DIPLOMACY_RETURN_EXP_FORCE_ACTION_DESC: "Získejte kontrolu nad všemi expedičními jednotkami, které byly k nim poslány."
  DIPLOMACY_RETURN_EXP_FORCE_TITLE: "Vrátit expedičné jednotky"
@@ -993,7 +993,7 @@
  NAVAL_BASE_REPAIR_INFO: "Tato námořní základna má úroveň $SIZE|Y0$, z nichž $FUNCTIONAL|Y0$ je funkční, každá úroveň poskytuje $EFFECT|Y$ sílu oprav maximálně na úrovni místních zásob $SUPPLY|Y%$, celkový maximální opravárenský výkon za hodinu je $POWER|Y2%$.\n"
  NAVAL_BASE_TOOLTIP_GOTO_NAVALBASE: "§GPravým kliknutím§! se přesuňte na tuto námořní základnu."
  NAVAL_BASE_TOOLTIP_HOLD_AND_GOTO_NAVALBASE: "§GCtrl + pravý klik§! pro zrušení mise a přesun na tuto námořní základnu."
- NAVAL_BASE_TOOLTIP_SELECTION_INFO: "§GKlikněte§! pro výběr svazů, které jsou na této námořní základně nebo přiřazeny k opravám.\n§GCtrl + kliknutí§! pro přepnutí stavu opravy.\n§GShift + kliknutí§! pro zobrazení fronty oprav.\n§GCtrl + kliknutí pravým tlačítkem§! pro nastavení jako §Gdomovská základna§!." # todo: CHANGED
+ NAVAL_BASE_TOOLTIP_SELECTION_INFO: "§GKlikněte§! pro výběr úderných skupin, které jsou na této námořní základně nebo přiřazeny k opravám.\n§GCtrl + kliknutí§! pro přepnutí stavu opravy.\n§GShift + kliknutí§! pro zobrazení fronty oprav.\n§GCtrl + kliknutí pravým tlačítkem§! pro nastavení jako §Gdomovská základna§!."
  NAVAL_BASE_TOOLTIP_SET_MAINBASE: "§GCtrl + pravým tlačítkem klikněte§! pro nastavení jako §Gdomovská základna§!.\n"
  NAVAL_BTN_REMOVE_REGIONS_NO_REGIONS: "§RŽádný region k odstranění.§!"
  NAVAL_BTN_REMOVE_REGIONS: "§HOdstranit region§!\n§GKlikněte§! na toto tlačítko, poté klikněte na region, který chcete odstranit pro aktuálně vybranou flotilu.\n§GPravým tlačítkem klikněte§! na toto tlačítko, abyste §Rodstranili všechny regiony§! pro aktuálně vybranou flotilu."
@@ -1001,8 +1001,8 @@
  NAVAL_COMBAT_AIRWING_TOOLTIP_DAMAGED_ENTRY: "\n   $NAVY|Y$: $PERC|G%$"
  NAVAL_COMBAT_AIRWING_TOOLTIP_DAMAGED_LAST_HIT: " (§GSmrtící úder§!)"
  NAVAL_COMBAT_AIRWING_TOOLTIP_DAMAGED: "\nPoškozené nepřátelské lodě:"
- NAVAL_COMBAT_AIRWING_TOOLTIP_HEADER_EXTERNAL: "$NUM|G$ $MOD|Y$ z $FROM|Y$. Připojeno před $HOUR|Y$ hodinami. $DEAD|R$ sestřeleno. $WINGS_STRIKING|H0$/$TOTAL_WINGS|G0$ křídel je schopno zasáhnout nepřátelskou flotilu." # todo: CHANGED
- NAVAL_COMBAT_AIRWING_TOOLTIP_HEADER: "$NUM|G$/$TOT|G$ $MOD|Y$ z $FROM|Y$. $DEAD|R$ sestřeleno. $WINGS_STRIKING|H0$/$TOTAL_WINGS|G0$ křídel je schopno zasáhnout nepřátelskou flotilu." # todo: CHANGED
+ NAVAL_COMBAT_AIRWING_TOOLTIP_HEADER_EXTERNAL: "$NUM|G$ $MOD|Y$ z $FROM|Y$. Připojeno před $HOUR|Y$ hodinami. $DEAD|R$ sestřeleno. $WINGS_STRIKING|H0$/$TOTAL_WINGS|G0$ letek je schopno zasáhnout nepřátelskou flotilu."
+ NAVAL_COMBAT_AIRWING_TOOLTIP_HEADER: "$NUM|G$/$TOT|G$ $MOD|Y$ z $FROM|Y$. $DEAD|R$ sestřeleno. $WINGS_STRIKING|H0$/$TOTAL_WINGS|G0$ letek je schopno zasáhnout nepřátelskou flotilu."
  NAVAL_COMBAT_AIRWING_TOOLTIP_SHOT_DOWN_ENTRY: "\n   $NUM|G$ x $MOD|Y$"
  NAVAL_COMBAT_AIRWING_TOOLTIP_SHOT_DOWN: "\nSestřeleno:"
  NAVAL_COMBAT_DIST_TO_ARRIVE: "\n  Vzdálenost do příjezdu: $DIST|0Y$km"
@@ -1108,7 +1108,7 @@
  NAVAL_MISSION_NAME_RESERVE_FLEET: "Rezerva"
  NAVAL_MISSION_NAME_SEARCH_AND_DESTROY_DESC: "Nařídíte úderné skupině, aby aktivně vyhledávala a napadala nepřátelské flotily v určených regionech."
  NAVAL_MISSION_NAME_SEARCH_AND_DESTROY: "Hledat a zničit"
- NAVAL_MISSION_NAME_STRIKE_FORCE_DESC: "Rozkažte svazu, aby čekal v nejbližší námořní základně, dokud nebude spatřen nepřátelský svaz.\nJakmile jeden z vašich hlídkových svazů nepřítele zaznamená, váš útočný svaz se přesune, aby ho zachytil.\n\nKdyž se aktivně nezapojuje do boje, tato mise spotřebovává $PERCENT|%0G$ paliva." # todo: CHANGED
+ NAVAL_MISSION_NAME_STRIKE_FORCE_DESC: "Rozkažte úderné skupině, aby čekala v nejbližší námořní základně, dokud nebude spatřena nepřátelská úderná skupina.\nJakmile jedna z vašich hlídkových skupín zaznamená nepřítele, vaše úderná skupina se přesune, aby ho zachytila.\n\nKdyž se aktivně nezapojuje do boje, tato mise spotřebovává $PERCENT|%0G$ paliva."
  NAVAL_MISSION_NAME_STRIKE_FORCE: "Úderná skupina"
  NAVAL_MISSION_NAME_TRAINING_DESC: "Přikázat úderné skupině, aby prováděla cvičení v oblasti sousedící s nejbližší námořní základnou.\nTo má šanci poškodit lodě v průběhu času.\nPosádka nezíská zkušenosti, jakmile dosáhne úrovně Vyškolená.\nBěhem výcviku získáte §YNámořní zkušenosti§!.\nPro §YChloubu flotily§! je méně pravděpodobné, že se ji stane nehoda.\n\nDržte §HShift§! a klikněte, abyste aktivovali §HNámořní cvičení§! dokud nejsou všechny lodě plně vycvičeny."
  NAVAL_MISSION_NAME_TRAINING: "Námořní cvičení"
@@ -1412,7 +1412,7 @@
  READY_TO_PLAY_MP: "$PLAYER|H$ je připraven"
  READY: "Připraven!"
  REASON_ACCIDENT: "Ztráty způsobené nehodou: $SUM|0H$"
- REASON_AIR_COMBAT: "Sestřelen v leteckém boji: $SUM|0H$" # todo: CHANGED
+ REASON_AIR_COMBAT: "Sestřeleno ve vzdušném souboji: $SUM|0H$"
  REASON_ARMORED_TRAINS: "Sestřeleno obrněnými vlaky: $SUM|0H$"
  REASON_BOMBED: "Bombardováno: $SUM|0H$"
  REASON_LAND_COMBAT: "Sestřeleno PVO: $SUM|0H$"
@@ -1997,7 +1997,7 @@
  XP_OC_PARTIAL: "Tato hodnota přispívá k našemu celkovému dennímu nárůstu, což lze nalézt v horní liště."
  XP_OFFICER_CORPS_MAGNITUDE: "$VALUE|+=$"
  YEAR_UNIT_SHORT: "y"
- ZERO_ORG_MOVEMENT_MODIFIER: "Nízká organizace: $VALUE|+%$""
+ ZERO_ORG_MOVEMENT_MODIFIER: "Nízká organizace: $VALUE|+%$"
  EQUIPMENT_DESIGNER_SAVE_PRESET: "Uložit předvolbu"
  SAVE_AS_PRESET_TOOLTIP: "§HUložit do souboru§!\nUložte si tento návrh do souboru, abyste k němu mohli přistupovat při budoucích hrách."
  IMPORT_PRESET_TOOLTIP: "§HImportovat předvolby ze schránky§!\nPokud máte ve schránce exportované návrhy, klikněte zde pro jejich import."
@@ -2112,3 +2112,6 @@
  JAP_emperor_hirohito_override_instant: "§H$JAP_hirohito$§!\nZatímco Japonskou civilní vládu vede §H$JAP_keisuke_okada$§!, uctívaná hlava státu Hirohito představuje zosobnění moci v zemi.\n\nMnohé frakce soupeří o §HImperiální vliv§!, dokud Impérium zůstává nedotčené."
  JAP_emperor_hirohito_override_delayed: ""
  PROGRESS_SECTION_RULE: "§YPravidla:§!\n$DESC$"
+ PLAN_COHESION_IMMOBILE_TITLE: "§HNepohyblivé§!"
+ PLAN_COHESION_IMMOBILE_DESC: "Divize se §Rnikdy§! nepřemístí!"
+ PLANNING_SPEED_COHESION_IMMOBILE_FACTOR: "$PLAN_COHESION_IMMOBILE_TITLE$ Soudržnost: x$FACTOR|R$"

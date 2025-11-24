@@ -1145,21 +1145,21 @@
  early_ship_hull_submarine: "$ship_hull_submarine_1$"
  basic_ship_hull_submarine: "$ship_hull_submarine_2$"
  advanced_ship_hull_submarine: "$ship_hull_submarine_4$"
- ship_hull_carrier_submarine: "Ponorkový nosič letadel" # todo: NEW TRANSLATION
- ship_hull_carrier_submarine_desc: "Velký ponorkový trup, který může nést a vypouštět letadla schopná vykonávat různé letecké mise." # todo: NEW TRANSLATION
- support_ship_hull: "Podpůrná loď" # todo: NEW TRANSLATION
- support_ship: "Podpůrná loď" # todo: NEW TRANSLATION
- support_ship_1: "Podpůrná loď" # todo: NEW TRANSLATION
- support_ship_1_desc: "Podpůrné lodě jsou neválečné plavidla zaměřená na logistickou podporu hlavní flotily; prodlužují operační výdrž díky rezervám paliva a zásob." # todo: NEW TRANSLATION
- support_ship_2: "Vylepšená podpůrná loď" # todo: NEW TRANSLATION
- support_ship_2_desc: "Operační zkušenosti umožňují vyvinout pokročilejší a schopnější podpůrnou loď, která dokáže udržet hlavní flotilu i na ještě větší vzdálenosti." # todo: NEW TRANSLATION
- repair_ship_hull: "Opravárenská loď" # todo: NEW TRANSLATION
- repair_ship: "Opravárenská loď" # todo: NEW TRANSLATION
- repair_ship_1: "Opravárenská loď" # todo: NEW TRANSLATION
- repair_ship_1_desc: "Opravárenské lodě nesou těžké záchranné vybavení, které může znamenat rozdíl mezi těžce poškozenou lodí schopnou doplout do přístavu a lodí potopenou." # todo: NEW TRANSLATION
- repair_ship_2: "Vylepšená opravárenská loď" # todo: NEW TRANSLATION
- repair_ship_2_desc: "Ještě schopnější opravárenská loď s nejmodernějším vybavením, která dokáže zachránit přátelské válečné lodě kromě případů nejzávažnějšího poškození." # todo: NEW TRANSLATION
- ship_hull_escort_carrier: "Eskortní letadlová loď" # todo: NEW TRANSLATION
- ship_hull_escort_carrier_desc: "Menší, levnější letadlová loď, obvykle používaná k eskortě konvojů a proti-ponorkovému boji spíše než k přímým akcím flotily. Nese malou, ale užitečnou vzdušnou skupinu." # todo: NEW TRANSLATION
- escort_carrier: "Eskortní letadlová loď" # todo: NEW TRANSLATION
- escort_carrier_desc: "Menší, levnější letadlová loď, obvykle používaná k eskortě konvojů a proti-ponorkovému boji spíše než k přímým akcím flotily. Nese malou, ale užitečnou vzdušnou skupinu." # todo: NEW TRANSLATION
+ ship_hull_carrier_submarine: "Letadlová ponorka"
+ ship_hull_carrier_submarine_desc: "Velký ponorkový trup, který může nést a vypouštět letadla schopná vykonávat různé letecké mise."
+ support_ship_hull: "Podpůrná loď"
+ support_ship: "Podpůrná loď"
+ support_ship_1: "Podpůrná loď"
+ support_ship_1_desc: "Podpůrné lodě jsou neválečné plavidla zaměřená na logistickou podporu hlavní flotily; prodlužují operační výdrž díky rezervám paliva a zásob."
+ support_ship_2: "Vylepšená podpůrná loď"
+ support_ship_2_desc: "Operační zkušenosti umožňují vyvinout pokročilejší a schopnější podpůrnou loď, která dokáže zásobovat hlavní flotilu i na ještě větší vzdálenosti."
+ repair_ship_hull: "Opravárenská loď"
+ repair_ship: "Opravárenská loď"
+ repair_ship_1: "Opravárenská loď"
+ repair_ship_1_desc: "Opravárenské lodě nesou záchranné vybavení, které může znamenat rozdíl mezi těžce poškozenou lodí schopnou doplout do přístavu a lodí potopenou."
+ repair_ship_2: "Vylepšená opravárenská loď"
+ repair_ship_2_desc: "Ještě schopnější opravárenská loď s nejmodernějším vybavením, která dokáže zachránit přátelské válečné lodě kromě případů nejzávažnějšího poškození."
+ ship_hull_escort_carrier: "Eskortní letadlová loď"
+ ship_hull_escort_carrier_desc: "Menší, levnější letadlová loď, obvykle používaná k eskortě konvojů a proti-ponorkovému boji spíše než k přímým akcím flotily. Nese malou, ale užitečnou vzdušnou skupinu."
+ escort_carrier: "Eskortní letadlová loď"
+ escort_carrier_desc: "Menší, levnější letadlová loď, obvykle používaná k eskortě konvojů a proti-ponorkovému boji spíše než k přímým akcím flotily. Nese malou, ale užitečnou vzdušnou skupinu."
