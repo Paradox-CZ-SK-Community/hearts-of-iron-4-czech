@@ -1222,7 +1222,7 @@
  SOV_international_revolutionary_marxist_centre_desc: "Třetí internacionála padla pod stalinistickým totalitarismem a je pravděpodobně nadobro ztracena. Musíme komunistickým stranám světa nabídnout nový způsob koordinace a spolupráce."
  SOV_international_revolutionary_marxist_centre_faction_name: "Mezinárodní revoluční marxistické centrum"
  SOV_international_revolutionary_marxist_centre_marxism_tt: "Vůdce jejich země přijímá sub-ideologii $marxism$."
- SOV_international_revolutionary_marxist_centre_no_allies_tt: "\nKaždý nezávislý nestalinistický komunistický stát, s kterým je [ROOT.GetName] v míru: \n  Získává §Y$SOV_international_socialist_association$§! (Názor na §Y[ROOT.GetFlag][ROOT.GetName]§! §G+40§!.)\n  Dostane událost ‚§Y[ROOT.GetNameDefCap] nás zve do [ROOT.GetFactionName]§!‘."
+ SOV_international_revolutionary_marxist_centre_no_allies_tt: "\nKaždý nezávislý nestalinistický komunistický stát, s kterým je [ROOT.GetName] v míru: \n  Získává §Y$SOV_international_socialist_association$§! (Názor na §Y[ROOT.GetFlag][ROOT.GetName]§! §G+40§!.)\n  Dostane událost „§Y[ROOT.GetNameDefCap] nás zve do [ROOT.GetFactionName]§!“."
  SOV_international_revolutionary_marxist_centre_stalinists_lacking_tt: "Každý stalinistický stát: \n Získává §Y$SOV_international_socialist_association$§! (Názor na §Y[ROOT.GetFlag][ROOT.GetName]§! §R-40§!.)"
  SOV_international_revolutionary_marxist_centre_stalinists_tt: "Každý stalinistický stát: "
  SOV_international_union_of_soviet_republics: "Mezinárodní svaz sovětských republik"

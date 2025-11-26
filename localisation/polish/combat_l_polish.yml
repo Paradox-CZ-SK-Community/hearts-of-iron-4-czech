@@ -297,7 +297,7 @@
  POSITIONING_SURFACE_DETECTION_SUPERIORITY: "Bonus za lepší detekci hladinových lodí: $NUM|+%$"
  POSITIONING_VALUE: "Postavení: $NUM|+%$"
  POSITIVE_BATTLE_VALUE: "$VALUE|2%G$"
- SCREENING_BOX_TOOLTIP: "§YDoprovodná skupina§! zahrnuje všechny doprovodné lodě – obvykle lehké křižníky a torpédoborce – jejichž úkolem je udržet nepřátelské doprovodné lodě mimo hlavní §Ybojovou linii§!. Nedostatečný doprovod umožní nepřátelským doprovodům provést torpédové útoky proti bojové linii."
+ SCREENING_BOX_TOOLTIP: "§YDoprovodná skupina§! zahrnuje všechny doprovodné lodě - obvykle lehké křižníky a torpédoborce - jejichž úkolem je udržet nepřátelské doprovodné lodě mimo hlavní §Ybojovou linii§!. Nedostatečný doprovod umožní nepřátelským doprovodům provést torpédové útoky proti bojové linii."
  SCREENING_TOOLTIP_BONUSES: "Vaše efektivita doprovodu poskytne následující bonusy pro §Ybojovou linii§!:\n"
  SCREENING_TOOLTIP_BONUSES_CAPITAL: "Vaše efektivita doprovodu poskytne následující bonusy pro §Yskupinu letadlových lodí§!:\n"
  SCREENING_TOOLTIP_CAPITAL_BOX: "Efektivita doprovodu za §Ybojovou linií§!: $NUM|%.0H$"

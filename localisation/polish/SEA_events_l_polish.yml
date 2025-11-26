@@ -683,7 +683,7 @@
  SEA_imperial_influence_events.500.t: "Námořní frakce požaduje útok na jih" # todo: NEW TRANSLATION
  SEA_imperial_influence_events.500.desc: "[ROOT.GetLeader] právě obdržel dopis podepsaný Námořním velitelstvím, který požaduje zahájení příprav na plné provedení doktríny Úderu na jih, s tím, že jejich potřeby po surovinách, které lze nalézt v Indii Orientálních, nyní dosáhly kritického bodu. Samozřejmě je můžeme ignorovat, ale možná by nebylo moudré je déle čekat." # todo: NEW TRANSLATION
  SEA_imperial_influence_events.500.a: "Přípravy musí být provedeny okamžitě!" # todo: NEW TRANSLATION
- take_the_strike_south_focus_tt: "Dokončení §Y$JAP_strike_the_southern_road$§! a vyvolání války s §YWestern Powers§! uklidí $JAP_naval_faction$" # todo: NEW TRANSLATION
+ take_the_strike_south_focus_tt: "Dokončení §Y$JAP_strike_the_southern_road$§! a vyvolání války s §YWestern Powers§! uklidí $JAP_naval_faction$"
  SEA_imperial_influence_events.501.t: "Námořní důstojníci rozhořčeně rezignují" # todo: NEW TRANSLATION
  SEA_imperial_influence_events.501.desc: "Nepodařilo se v termínu stanoveném Námořním velitelstvím prosadit plány na provedení doktríny Úderu na jih, a zdá se, že mnoho námořních důstojníků, kteří se podíleli na pokusu vyvinout tlak na [ROOT.GetLeader], rezignovalo." # todo: NEW TRANSLATION
  SEA_imperial_influence_events.501.a: "Takový nečestný čin!" # todo: NEW TRANSLATION
@@ -799,7 +799,7 @@
  SEA_imperial_influence_events.450.desc: "Vůdci stran předložili své požadavky. Zdá se, že jsou znepokojeni rostoucí mocí a vlivem námořnictva na [GetImperialInfluenceRulerTitle] a požadují rychlé kroky k omezení jejich růstu a moci. Zdá se, že jsou ochotni projevit trochu trpělivosti, ale nečekají věčně." # todo: NEW TRANSLATION
  SEA_imperial_influence_events.460.t: "Frakce civilní vlády usiluje o omezení vlivu zaibacu" # todo: NEW TRANSLATION
  SEA_imperial_influence_events.460.desc: "Vůdci stran předložili své požadavky. Zdá se, že jsou znepokojeni rostoucí mocí a vlivem zaibacu na [GetImperialInfluenceRulerTitle] a požadují rychlé kroky k omezení jejich růstu a moci. Zdá se, že jsou ochotni projevit trochu trpělivosti, ale nečekají věčně." # todo: NEW TRANSLATION
- SEA_japan_air_accidents_events.01.t: "Tragická smrt $JAP_isoroku_yamamoto$" # todo: NEW TRANSLATION
+ SEA_japan_air_accidents_events.01.t: "Tragická smrt $JAP_isoroku_yamamoto$"
  SEA_japan_air_accidents_events.01.desc: "Admirál Isoroku Yamamoto byl dnes dříve sestřelen nepřátelskou palbou. Skupina [USA.GetAdjective] stíhaček ho zachytila poté, co odposlechly naše zpravodajské přenosy. Svůj skandální útok pojmenovali 'Operation Vengeance', což jasně ukazuje, že chtěli vyslat zprávu. Zatímco národ oplakává ztrátu tohoto velkého bojovníka, nesmíme zapomenout na povinnost porazit tohoto nečestného nepřítele!" # todo: NEW TRANSLATION
  SEA_japan_air_accidents_events.01.a: "Zničující rána..." # todo: NEW TRANSLATION
  SEA_japan_air_accidents_events.02.t: "Operace Pomsta zmařena" # todo: NEW TRANSLATION
@@ -902,9 +902,9 @@
  SEA_china.24.a: "Vítězství národní suverenity" # todo: NEW TRANSLATION
  SEA_china.25.t: "Čína žádá specialisty na obrněné jednotky" # todo: NEW TRANSLATION
  SEA_china.25.desc: "[FROM.GetNameDefCap] nás oslovil s žádostí o vyslání specialistů z našich obrněných jednotek, kteří by podpořili jejich přechod k modernějšímu způsobu vedení války. Můžeme poslat poradní tým z jednoho z našich hlavních výrobců, nebo jejich žádost zcela odmítnout." # todo: NEW TRANSLATION
- SEA_china.25.a: "$morozov_design_bureau$" # todo: NEW TRANSLATION
- SEA_china.25.b: "$astrov_design_bureau$" # todo: NEW TRANSLATION
- SEA_china.25.c: "$okmo$" # todo: NEW TRANSLATION
+ SEA_china.25.a: "$morozov_design_bureau$"
+ SEA_china.25.b: "$astrov_design_bureau$"
+ SEA_china.25.c: "$okmo$"
  SEA_china.25.d: "Nezaslouží si pomoc" # todo: NEW TRANSLATION
  SOV_accepted_Morozov: "[SOV.GetNameDefCap] poslal tým z $morozov_design_bureau$." # todo: NEW TRANSLATION
  SOV_accepted_Astrov: "[SOV.GetNameDefCap] poslal tým z $astrov_design_bureau$." # todo: NEW TRANSLATION
@@ -1162,7 +1162,7 @@
  SEA_PRC_faction_events.53.t: "[FROM.GetNameDefCap] se připojuje k [ROOT.GetFactionName]" # todo: NEW TRANSLATION
  SEA_PRC_faction_events.53.desc: "Naše delegace k [FROM.GetNameDef] se vrátila s dobrými zprávami. Ukázalo se, že [FROM.GetLeader] je mnohem moudřejší vládce, než jsme mu původně přisuzovali, když podepsal náš návrh aliance. I když to nebylo zcela nečekané, vždy je třeba počítat s deštěm a těšit se o to více, když vykoukne slunce. To značně posílí naše země a [ROOT.GetFactionName]." # todo: NEW TRANSLATION
  SEA_PRC_faction_events.53.a: "Je to velký den pro celou Čínu!" # todo: NEW TRANSLATION
- SEA_PRC_faction_events.60.t: "$generic.2.t$" # todo: NEW TRANSLATION
+ SEA_PRC_faction_events.60.t: "$generic.2.t$"
  SEA_PRC_faction_events.60.a: "Přijmeme [FROM.GetName] do [ROOT.GetFactionName]" # todo: NEW TRANSLATION
  SEA_PRC_faction_events.60.b: "Budeme lépe bez nich" # todo: NEW TRANSLATION
  SEA_PRC_faction_events.70.desc: "[FROM.GetLeader] nám poslal delegaci, která se nás snaží přesvědčit, abychom se připojili k jejich frakci. Tvrdí, že stojíme na rozcestí, kde je v sázce budoucnost Asie. Podle delegace [FROM.GetName] existuje pouze jedna cesta, jak zajistit naši nezávislost od západních kolonialistů — a to společně." # todo: NEW TRANSLATION
@@ -1268,7 +1268,7 @@
  SEA_PRC_misc_events.6.t: "Americký novinář Edgar Snow udělal rozhovor s Maem" # todo: NEW TRANSLATION
  SEA_PRC_misc_events.6.desc: "Po letech žurnalistické práce v jiných částech Číny se Američan Edgar Snow rozhodl udělat rozhovor s Maem. V následující sérii rozhovorů Mao a Snow převážně hovořili o [JAP.GetAdjective] imperialismu a o tom, jak se [ROOT.GetNameDef] a [CHI.GetNameDef] mohou organizovat k odporu, přičemž Mao předpověděl revoluci v Japonsku, pokud utrpí vážné vojenské porážky. Tyto rozhovory a Snowovy zkušenosti v [ROOT.GetNameDef] budou tvořit základ knihy, která představí jeho jedinečné postřehy o životě zde." # todo: NEW TRANSLATION
  SEA_PRC_misc_events.6.a: "Příležitost ukázat světu naši skutečnou tvář" # todo: NEW TRANSLATION
- SEA_PRC_misc_events.8.t: "Plodné období pro $PRC_mao_zedong$" # todo: NEW TRANSLATION
+ SEA_PRC_misc_events.8.t: "Plodné období pro $PRC_mao_zedong$"
  SEA_PRC_misc_events.8.desc: "Ze svého jeskynního obydlí na Fénixím vrchu v horách u Yan'anu — sdíleného s ostatními vůdci [ROOT.GetCommunistParty] — Mao kromě psaní poezie také psal na témata od vojenských taktik až po politiku." # todo: NEW TRANSLATION
  SEA_PRC_misc_events.8.a: "Tato díla se jistě stanou vlivnými" # todo: NEW TRANSLATION
  SEA_PRC_misc_events.9.t: "7. národní sjezd Čínské komunistické strany" # todo: NEW TRANSLATION
@@ -1311,8 +1311,8 @@
  SEA_PRC_political_events.1.t: "$PRC_wang_ming$ nebo $PRC_bo_gu$ jako vůdce [Root.GetName]?" # todo: NEW TRANSLATION
  SEA_PRC_political_events.1.desc1: "S vítězstvím 28 ½ bolševiků v mocenském boji je čas vybrat zástupce, který povede národ. Navzdory jeho exilu v [SOV.GetNameDef] je čas, aby se $PRC_wang_ming$ vrátil k vedení — pokud $PRC_bo_gu$ nedostane přednost." # todo: NEW TRANSLATION
  SEA_PRC_political_events.1.desc2: "S vítězstvím 28 ½ bolševiků v mocenském boji je čas vybrat zástupce k vedení národa. Ačkoliv jsou oba kandidáti dobře propojeni s komunisty v [SOV.GetNameDef], $PRC_bo_gu$ má méně politických zkušeností. Nicméně ukazuje hluboké porozumění vojenským záležitostem, které může být užitečné v nadcházejících bojích, pokud by převážilo nad $PRC_wang_ming$ politickým a diplomatickým umem. Oba muži jsou připraveni převzít štafetu." # todo: NEW TRANSLATION
- SEA_PRC_political_events.1.a: "Nechme vést $PRC_wang_ming$" # todo: NEW TRANSLATION
- SEA_PRC_political_events.1.b: "Nechme vést $PRC_bo_gu$" # todo: NEW TRANSLATION
+ SEA_PRC_political_events.1.a: "Nechme vést $PRC_wang_ming$"
+ SEA_PRC_political_events.1.b: "Nechme vést $PRC_bo_gu$"
  SEA_PRC_political_events.2.t: "[FROM.GetNameDefCap] žádá záruku území" # todo: NEW TRANSLATION
  SEA_PRC_political_events.2.desc: "Navzdory naší podpoře a jejich relativně chráněnému sídlu v horách střední Číny požádal [FROM.GetNameDef], abychom jim přísahali ochranu v případě konfliktu. Není jasné, zda se obávají další protikomunistické kampaně nacionalistických sil nebo zahraničního imperialismu, ale musíme zvážit riziko, že budeme do takového konfliktu zataženi, než udělíme jakékoli záruky." # todo: NEW TRANSLATION
  SEA_PRC_political_events.2.a: "Měli bychom chránit naše soudruhy" # todo: NEW TRANSLATION
@@ -1368,17 +1368,17 @@
  SEA_PRC_political_events.20.t: "Generálové po celé Číně se hrnou k naší věci" # todo: NEW TRANSLATION
  SEA_PRC_political_events.20.desc: "Obnovení nepřátelství mezi [CHI.GetNameDef] a [PRC.GetNameDef] způsobilo mezi nepřátelskými důstojníky nejistotu, kvůli níž někteří z nich dezertovali k nám." # todo: NEW TRANSLATION
  SEA_PRC_political_events.20.a: "Nadějné znamení!" # todo: NEW TRANSLATION
- SEA_PRC_political_events.21.t: "[FROM.GetName] chce, aby jim poradili $SOV_vasily_chuykov$ a $SOV_aleksandr_cherepanov$" # todo: NEW TRANSLATION
+ SEA_PRC_political_events.21.t: "[FROM.GetName] chce, aby jim poradili $SOV_vasily_chuykov$ a $SOV_aleksandr_cherepanov$"
  SEA_PRC_political_events.21.desc: "\nVe snaze získat [ROOT.GetAdjective] radu ohledně vojenské strategie, [FROM.GetNameDef] požádal, abychom dovolili $SOV_vasily_chuykov$ a $SOV_aleksandr_cherepanov$ vrátit se do Číny. Chuykov byl původně dislokován v [FROM.GetNameDef] a plynně hovoří čínsky, ale byl odvolán po sporu ohledně [ROOT.GetAdjective] zájmů v Mandžusku, kdy Japonsko ještě neinvadovalo." # todo: NEW TRANSLATION
  SEA_PRC_political_events.21.a: "[FROM.GetNameDefCap] by těžilo z jejich pomoci" # todo: NEW TRANSLATION
  SEA_PRC_political_events.21.b: "Potřebujeme jejich odborné znalosti u nás" # todo: NEW TRANSLATION
- SEA_PRC_political_events.22.t: "[FROM.GetName] souhlasí, že nám pošle $SOV_vasily_chuykov$ a $SOV_aleksandr_cherepanov$" # todo: NEW TRANSLATION
+ SEA_PRC_political_events.22.t: "[FROM.GetName] souhlasí, že nám pošle $SOV_vasily_chuykov$ a $SOV_aleksandr_cherepanov$"
  SEA_PRC_political_events.22.desc: "\nNaši zástupci v [FROM.capital.GetName] nás informovali, že [FROM.GetNameDef] vyslyšelo naši žádost, aby se $SOV_vasily_chuykov$ mohl vrátit do Číny, a sdělili, že je již na cestě do [ROOT.GetNameDef]. K němu se navíc přidal $SOV_aleksandr_cherepanov$." # todo: NEW TRANSLATION
  SEA_PRC_political_events.22.a: "Vítejte zpět!" # todo: NEW TRANSLATION
- SEA_PRC_political_events.23.t: "[FROM.GetName] odmítá poslat k nám $SOV_vasily_chuykov$ a $SOV_aleksandr_cherepanov$" # todo: NEW TRANSLATION
+ SEA_PRC_political_events.23.t: "[FROM.GetName] odmítá poslat k nám $SOV_vasily_chuykov$ a $SOV_aleksandr_cherepanov$"
  SEA_PRC_political_events.23.desc: "\nNavzdory způsobilosti $SOV_vasily_chuykov$ jako přidělence v [ROOT.GetNameDef] se [FROM.GetNameDef] rozhodlo nevyslat ani jeho, ani $SOV_aleksandr_cherepanov$, a tvrdí, že jsou nyní zapojeni do důležitějších vojenských plánů." # todo: NEW TRANSLATION
  SEA_PRC_political_events.23.a: "Snad po čistkách zbylo jen málo schopných velitelů" # todo: NEW TRANSLATION
- SEA_PRC_political_events.24.t: "[FROM.GetName] chce, abychom přeřadili $SOV_vasily_chuykov$ a $SOV_aleksandr_cherepanov$" # todo: NEW TRANSLATION
+ SEA_PRC_political_events.24.t: "[FROM.GetName] chce, abychom přeřadili $SOV_vasily_chuykov$ a $SOV_aleksandr_cherepanov$"
  SEA_PRC_political_events.24.desc: "\nKdyž se [FROM.GetNameDef] dozvědělo o misi $SOV_vasily_chuykov$ a $SOV_aleksandr_cherepanov$ do [CHI.GetNameDef], projevilo zájem je také hostit jako přidělence. [FROM.GetNameDefCap] zřejmě ocenilo praktické schopnosti velitelů — plynulost čínštiny kombinovanou s rozsáhlými vojenskými zkušenostmi — nebo možná prostě chce [CHI.GetName] tuto odbornou pomoc odepřít." # todo: NEW TRANSLATION
  SEA_PRC_political_events.24.a: "Pomůžeme našim soudruhům z [FROM.GetNameDef]" # todo: NEW TRANSLATION
  SEA_PRC_political_events.24.b: "Dělají dobrou práci v [CHI.GetName]" # todo: NEW TRANSLATION
@@ -1388,7 +1388,7 @@
  SEA_PRC_political_events.26.t: "[FROM.GetName] rozkazuje, aby se $SOV_vasily_chuykov$ a $SOV_aleksandr_cherepanov$ přestěhovali do [PRC.GetName]" # todo: NEW TRANSLATION
  SEA_PRC_political_events.26.desc: "\n[FROM.GetNameDefCap] se rozhodlo vyhovět naší žádosti a rozkázalo $SOV_vasily_chuykov$ a $SOV_aleksandr_cherepanov$ přesunout se do [ROOT.GetNameDef]. Jejich rada bude nepochybně cenná a tento přesun bude ranou pro armádu [CHI.GetNameDef]." # todo: NEW TRANSLATION
  SEA_PRC_political_events.26.a: "Uvidíme, jaká doporučení budou mít" # todo: NEW TRANSLATION
- SEA_PRC_political_events.27.t: "[FROM.GetName] odmítá poslat k nám $SOV_vasily_chuykov$ a $SOV_aleksandr_cherepanov$" # todo: NEW TRANSLATION
+ SEA_PRC_political_events.27.t: "[FROM.GetName] odmítá poslat k nám $SOV_vasily_chuykov$ a $SOV_aleksandr_cherepanov$"
  SEA_PRC_political_events.27.desc: "\nNavzdory dřívější podpoře ze strany [FROM.GetNameDef] odmítli ukončit nasazení $SOV_vasily_chuykov$ a $SOV_aleksandr_cherepanov$ v [CHI.GetNameDef], čímž nás připravili o možnost nasadit tyto velitele jako přidělence u nás. Tvrdí, že armáda [CHI.GetNameDef] je v současnosti pro [FROM.GetNameDef] vysoce důležitá." # todo: NEW TRANSLATION
  SEA_PRC_political_events.27.a: "Dělají chybu" # todo: NEW TRANSLATION
  SEA_PRC_political_events.41.t: "Neochotná diarchie" # todo: NEW TRANSLATION
@@ -1398,7 +1398,7 @@
  SEA_PRC_zhang_guotao_events.1.desc: "$PRC_zhang_guotao$, generál velící Čtvrté frontě, vede jednu ze dvou armád, které ještě nedorazily do našich bezpečných základních oblastí. Stále jsou na Dlouhém pochodu, poté co se neshodli s Maem na tom, kterou cestu zvolit. V říjnu 1935 se $PRC_zhang_guotao$ prohlásil skutečným vůdcem [ROOT.GetNameDef] a dokonce si zřídil vlastní Ústřední výbor, Ústřední vládu a Ústřední vojenskou komisi. Dále prohlásil, že $PRC_mao_zedong$, $PRC_zhang_wentian$ a $PRC_zhou_enlai$ by měli být vyloučeni ze strany.\n\n$PRC_zhang_guotao$ nyní zaslal telegram [ROOT.GetLeader], v němž prohlašuje, že se se svou armádou ubírá směrem k bezpečí základních oblastí. Telegram také uvádí, že podle přání Lin Yuying — stranické vyslankyně v [SOV.GetNameDef] — Guotao dočasně pozastavil své stranické orgány ve prospěch klidného usmíření s Maem a dalšími. Ať říká cokoli, Guotao zůstává silným politickým rivalem, kterého nelze podceňovat." # todo: NEW TRANSLATION
  SEA_PRC_zhang_guotao_events.1.a: "I když má Guotao svou armádu, strana se staví proti jeho nárokům na legitimitu" # todo: NEW TRANSLATION
  SEA_PRC_zhang_guotao_events.1.b: "Možná má pravdu?" # todo: NEW TRANSLATION
- SEA_PRC_zhang_guotao_events.2.t: "Telegram od $PRC_zhang_guotao$" # todo: NEW TRANSLATION
+ SEA_PRC_zhang_guotao_events.2.t: "Telegram od $PRC_zhang_guotao$"
  SEA_PRC_zhang_guotao_events.2.desc: "$PRC_zhang_guotao$ z Čtvrté fronty, politický rival Maa, poslal telegram, že on a jeho armáda se blíží k [ROOT.Capital.GetName]. Jejich Dlouhý pochod trval téměř o rok déle než pochod $PRC_mao_zedong$, a armáda je jistě touto zkouškou vyčerpaná. Možná právě proto $PRC_zhang_guotao$ opět zdůraznil, že neusiluje o zpochybnění současného vedení strany." # todo: NEW TRANSLATION
  SEA_PRC_zhang_guotao_events.2.a: "Přivítejme Guotaoa a jeho armádu — ale mějme ho pod dohledem" # todo: NEW TRANSLATION
  SEA_PRC_zhang_guotao_events.2.b: "Nemůžeme mu důvěřovat — odsoudíme $PRC_zhang_guotao$ a odmítneme mu vstup na naše území" # todo: NEW TRANSLATION
@@ -1556,7 +1556,7 @@
  SEA_PHI_political_events.53.a: "Jeho zkušenosti se jistě ukážou jako užitečné" # todo: NEW TRANSLATION
  SEA_PHI_political_events.54.desc: "S nedávnou ztrátou oblasti Manily ztratily naše síly důvěru ve vítězství ve válce tradičními taktikami. Když se armáda oficiálně vzdává a naše vláda evakuovala, již se formují nové organizace k odboji proti nepříteli." # todo: NEW TRANSLATION
  SEA_PHI_political_events.54.a: "Můžeme pokračovat ve válce s partyzánskými silami" # todo: NEW TRANSLATION
- SEA_PHI_political_events.55.t: "$PHI_treaty_of_manila$" # todo: NEW TRANSLATION
+ SEA_PHI_political_events.55.t: "$PHI_treaty_of_manila$"
  SEA_PHI_political_events.55.desc: "Po značné ekonomické a politické přípravě [PHI.GetNameDef] vyhlásil nezávislost. To předvídatelně následuje po zákoně Tydings-McDuffie, který Kongres schválil v roce 1934, a který nastavil kurz na [PHI.GetAdjective] nezávislost. [PHI.GetNameDef] je nyní volný tvořit vlastní politické a ekonomické politiky bez tlaku ze strany [USA.GetNameDef]." # todo: NEW TRANSLATION
  SEA_PHI_political_events.55.a: "Dobře pro ně" # todo: NEW TRANSLATION
  SEA_PHI_political_events.55.b: "Teď můžeme spolupracovat jako rovnocenní" # todo: NEW TRANSLATION
@@ -1596,7 +1596,7 @@
  SEA_PHI_political_events.63.keep_leader: "[ROOT.GetLeader] musí zůstat na další období" # todo: NEW TRANSLATION
  SEA_PHI_political_events.63.roxas: "Kontakty $PHI_manuel_roxas$ by pomohly s ekonomickými reformami" # todo: NEW TRANSLATION
  SEA_PHI_political_events.63.laurel: "$PHI_jose_laurel$ by byl dobrým vůdcem v těchto dobách zmatku." # todo: NEW TRANSLATION
- SEA_PHI_political_events.64.t: "Smrt $PHI_manuel_luis_quezon$" # todo: NEW TRANSLATION
+ SEA_PHI_political_events.64.t: "Smrt $PHI_manuel_luis_quezon$"
  SEA_PHI_political_events.64.desc_quezon: "Po onemocnění tuberkulózou postupné zhoršení zdravotního stavu $PHI_manuel_luis_quezon$ bohužel vedlo k jeho smrti. Viceprezident dočasně převzal Quezonovy dřívější povinnosti, zatímco národ truchlí, ale brzy nastane čas určit nástupce." # todo: NEW TRANSLATION
  SEA_PHI_political_events.64.desc_generic: "Současné období [ROOT.GetLeader] skončilo a nové prezidentské volby nyní rozhodnou o našem příštím prezidentovi. V důsledku zhoršujícího se zdraví se $PHI_manuel_luis_quezon$ stáhl z boje." # todo: NEW TRANSLATION
  SEA_PHI_political_events.65.t: "Dwight D. Eisenhower zůstává v [USA.GetName]" # todo: NEW TRANSLATION
@@ -1742,35 +1742,35 @@
  SEA_warlords.13.a: "Zrádcům nedůvěřujeme" # todo: NEW TRANSLATION
  SEA_warlords.13.b: "Dostane druhou šanci" # todo: NEW TRANSLATION
  SEA_warlords.14.t: "[From.GetLeader] požaduje podporu" # todo: NEW TRANSLATION
- SEA_warlords.14.desc: "$wtt_political_warlord_support.10.desc$" # todo: NEW TRANSLATION
- SEA_warlords.14.a: "$wtt_political_warlord_support.10.a$" # todo: NEW TRANSLATION
- SEA_warlords.14.b: "$wtt_political_warlord_support.10.b$" # todo: NEW TRANSLATION
+ SEA_warlords.14.desc: "$wtt_political_warlord_support.10.desc$"
+ SEA_warlords.14.a: "$wtt_political_warlord_support.10.a$"
+ SEA_warlords.14.b: "$wtt_political_warlord_support.10.b$"
  SEA_warlords.14.c: "Požádejte o lidskou sílu." # todo: NEW TRANSLATION
- SEA_warlords.14.d: "$wtt_political_warlord_support.10.d$" # todo: NEW TRANSLATION
- SEA_warlords.15.t: "$wtt_political_warlord_support.11.t$" # todo: NEW TRANSLATION
- SEA_warlords.15.desc: "$wtt_political_warlord_support.11.desc$" # todo: NEW TRANSLATION
- SEA_warlords.15.a: "$wtt_political_warlord_support.11.a$" # todo: NEW TRANSLATION
- SEA_warlords.15.b: "$wtt_political_warlord_support.11.b$" # todo: NEW TRANSLATION
- SEA_warlords.16.t: "$wtt_political_warlord_support.13.t$" # todo: NEW TRANSLATION
- SEA_warlords.16.desc: "$wtt_political_warlord_support.13.desc$" # todo: NEW TRANSLATION
- SEA_warlords.16.a: "$wtt_political_warlord_support.13.a$" # todo: NEW TRANSLATION
+ SEA_warlords.14.d: "$wtt_political_warlord_support.10.d$"
+ SEA_warlords.15.t: "$wtt_political_warlord_support.11.t$"
+ SEA_warlords.15.desc: "$wtt_political_warlord_support.11.desc$"
+ SEA_warlords.15.a: "$wtt_political_warlord_support.11.a$"
+ SEA_warlords.15.b: "$wtt_political_warlord_support.11.b$"
+ SEA_warlords.16.t: "$wtt_political_warlord_support.13.t$"
+ SEA_warlords.16.desc: "$wtt_political_warlord_support.13.desc$"
+ SEA_warlords.16.a: "$wtt_political_warlord_support.13.a$"
  SEA_warlords.16.b: "Nepřijatelné." # todo: NEW TRANSLATION
- SEA_warlords.17.t: "$wtt_political_warlord_support.12.t$" # todo: NEW TRANSLATION
- SEA_warlords.17.desc: "$wtt_political_warlord_support.12.desc$" # todo: NEW TRANSLATION
- SEA_warlords.17.a: "$wtt_political_warlord_support.12.a$" # todo: NEW TRANSLATION
+ SEA_warlords.17.t: "$wtt_political_warlord_support.12.t$"
+ SEA_warlords.17.desc: "$wtt_political_warlord_support.12.desc$"
+ SEA_warlords.17.a: "$wtt_political_warlord_support.12.a$"
  SEA_warlords.17.b: "Nepřijatelné." # todo: NEW TRANSLATION
- SEA_warlords.18.t: "$wtt_political_warlord_support.3.t$" # todo: NEW TRANSLATION
- SEA_warlords.18.desc: "$wtt_political_warlord_support.3.desc$" # todo: NEW TRANSLATION
- SEA_warlords.18.a: "$wtt_political_warlord_support.3.a$" # todo: NEW TRANSLATION
- SEA_warlords.19.t: "$wtt_political_warlord_support.21.t$" # todo: NEW TRANSLATION
- SEA_warlords.19.desc: "$wtt_political_warlord_support.21.desc$" # todo: NEW TRANSLATION
- SEA_warlords.19.a: "$wtt_political_warlord_support.21.a$" # todo: NEW TRANSLATION
+ SEA_warlords.18.t: "$wtt_political_warlord_support.3.t$"
+ SEA_warlords.18.desc: "$wtt_political_warlord_support.3.desc$"
+ SEA_warlords.18.a: "$wtt_political_warlord_support.3.a$"
+ SEA_warlords.19.t: "$wtt_political_warlord_support.21.t$"
+ SEA_warlords.19.desc: "$wtt_political_warlord_support.21.desc$"
+ SEA_warlords.19.a: "$wtt_political_warlord_support.21.a$"
  SEA_warlords.20.t: "Důstojníci z [FROM.GetName] dorazili" # todo: NEW TRANSLATION
- SEA_warlords.20.desc: "$wtt_political_warlord_support.23.desc$" # todo: NEW TRANSLATION
- SEA_warlords.20.a: "$wtt_political_warlord_support.23.a$" # todo: NEW TRANSLATION
- SEA_warlords.21.t: "$wtt_political_warlord_support.22.t$" # todo: NEW TRANSLATION
- SEA_warlords.21.desc: "$wtt_political_warlord_support.22.desc$" # todo: NEW TRANSLATION
- SEA_warlords.21.a: "$wtt_political_warlord_support.22.a$" # todo: NEW TRANSLATION
+ SEA_warlords.20.desc: "$wtt_political_warlord_support.23.desc$"
+ SEA_warlords.20.a: "$wtt_political_warlord_support.23.a$"
+ SEA_warlords.21.t: "$wtt_political_warlord_support.22.t$"
+ SEA_warlords.21.desc: "$wtt_political_warlord_support.22.desc$"
+ SEA_warlords.21.a: "$wtt_political_warlord_support.22.a$"
  SEA_warlords.22.t: "Smrt Liu Xianga" # todo: NEW TRANSLATION
  SEA_warlords.22.desc: "S úmrtím Liu Xianga, vůdce [SIC.GetNameDef], se stále více ukazuje, že musíme zasáhnout a převzít přímo kontrolu, abychom neriskovali ztrátu území někomu méně příznivému naší vládě. To by však mohlo dále rozhněvat menší velitele, kteří právě usilují o moc, takže musíme postupovat opatrně." # todo: NEW TRANSLATION
  SEA_warlords.22.a: "Měli bychom zasáhnout" # todo: NEW TRANSLATION
@@ -2011,7 +2011,7 @@
  tsr_manchukuo.12.desc: "Přišly zprávy, že Inner Mongolian People's Revolutionary Party vedená Serengdongrubem spolu s mandžuskými bandity infiltrovala několik důležitých míst na severu a nyní čeká na chvíli k útoku. Ještě nevíme, kdy se to stane, ale obáváme se, že to přijde brzy." # todo: NEW TRANSLATION
  tsr_manchukuo.12.a: "Ti zatracení bandité!" # todo: NEW TRANSLATION
  tsr_manchukuo.12.b: "Budeme muset jen sledovat, jak se situace vyvíjí." # todo: NEW TRANSLATION
- tsr_manchukuo.13.t: "[MAN.GetLeader] žádá přeložení $JAP_naoki_hoshino$" # todo: NEW TRANSLATION
+ tsr_manchukuo.13.t: "[MAN.GetLeader] žádá přeložení $JAP_naoki_hoshino$"
  tsr_manchukuo.13.desc: "S rychlým průmyslovým rozvojem, který Mandžusko zažívá, má [MAN.GetLeader] již nějaký čas oko na $JAP_naoki_hoshino$ jako možného člena kabinetu. Proto nyní požádal, aby byl převelen do [MAN.GetNameDef], aby sloužil jako ředitel Rady pro všeobecné záležitosti." # todo: NEW TRANSLATION
  tsr_manchukuo.13.a: "Dobře by jim posloužil" # todo: NEW TRANSLATION
  tsr_manchukuo.13.b: "Potřebujeme ho tady" # todo: NEW TRANSLATION
@@ -2054,7 +2054,7 @@
  tsr_manchukuo_border_war.1.a: "Naše síla roste!" # todo: NEW TRANSLATION
  tsr_manchukuo_border_war.1.b: "No nic" # todo: NEW TRANSLATION
  tsr_manchukuo_border_war.2.t: "[MAN.GetNameDefCap] se stahuje z [1039.GetName]" # todo: NEW TRANSLATION
- tsr_manchukuo_border_war.2.desc: "Čelíce vážným potížím, [MAN.GetAdjective] armáda se stáhla z města Kalgan; to nemusí být konec konfliktu, ale prozatím zůstane Kalgan [CHI.GetAdjective]." # todo: NEW TRANSLATION
+ tsr_manchukuo_border_war.2.desc: "Čelíce vážným potížím, [MAN.GetAdjective] armáda se stáhla z města Kalgan; to nemusí být konec konfliktu, ale prozatím zůstane Kalgan [CHI.GetAdjective] městem."
  tsr_manchukuo_border_war.2.a: "Dočasný neúspěch..." # todo: NEW TRANSLATION
  tsr_manchukuo_border_war.2.b: "Kalgan odolává!" # todo: NEW TRANSLATION
  tsr_manchukuo_border_war.3.t: "[MAN.GetNameDefCap] dobyl [608.GetName]" # todo: NEW TRANSLATION
@@ -2064,7 +2064,7 @@
  tsr_manchukuo_border_war.4.t: "[MAN.GetNameDefCap] se stahuje z [608.GetName]" # todo: NEW TRANSLATION
  tsr_manchukuo_border_war.4.desc: "Neuspěvši v dobytí města, [MAN.GetAdjective] armáda se stáhla z Pekingu; jak dlouho tento dočasný mír potrvá, je však stále nejasné." # todo: NEW TRANSLATION
  tsr_manchukuo_border_war.4.a: "Selhali jsme." # todo: NEW TRANSLATION
- tsr_manchukuo_border_war.4.b: "Peking nespadne tak snadno!" # todo: NEW TRANSLATION
+ tsr_manchukuo_border_war.4.b: "Peking nepadne tak snadno!" # todo: NEW TRANSLATION
  tsr_manchukuo_border_war.5.t: "[MAN.GetNameDefCap] dobyl [614.GetName]" # todo: NEW TRANSLATION
  tsr_manchukuo_border_war.5.desc: "Po úplném dobytí Che-pej bylo dosaženo příměří s dohodou, že [MAN.GetAdjective] armáda nepokročí dále na čínské území, pokud nebude vyprovokována." # todo: NEW TRANSLATION
  tsr_manchukuo_border_war.5.a: "O krok blíž k vítězství!" # todo: NEW TRANSLATION
@@ -2072,7 +2072,7 @@
  tsr_manchukuo_border_war.6.t: "[MAN.GetNameDefCap] se stahuje z [614.GetName]" # todo: NEW TRANSLATION
  tsr_manchukuo_border_war.6.desc: "Zatímco Peking padl do rukou [MAN.GetAdjective] armády, jejich jednotky byly zastaveny v dalším postupu do provincie Che-pej." # todo: NEW TRANSLATION
  tsr_manchukuo_border_war.6.a: "No nic." # todo: NEW TRANSLATION
- tsr_manchukuo_border_war.6.b: "Che-pej stále stojí!"" # todo: NEW TRANSLATION
+ tsr_manchukuo_border_war.6.b: "Che-pej stále nepadl!" # todo: NEW TRANSLATION
  SEA_PRC_faction_events.74.a: "Učinili své rozhodnutí" # todo: NEW TRANSLATION
- SEA_china_misc.1.t: "$CHI_retreat_to_taiwan$" # todo: NEW TRANSLATION
- SEA_china_misc.1.desc: "$CHI_retreat_to_taiwan_desc$" # todo: NEW TRANSLATION
+ SEA_china_misc.1.t: "$CHI_retreat_to_taiwan$"
+ SEA_china_misc.1.desc: "$CHI_retreat_to_taiwan_desc$"

@@ -1,749 +1,749 @@
 ﻿l_polish:
- greater_mongolia_category: "Znovusjednotit Velké Mongolsko" # todo: NEW TRANSLATION
- greater_mongolia_category_desc: "Myšlenka znovusjednocení rozptýleného mongolského lidu existuje už od dob Velké mongolské říše a čínské dynastie Yuan. Je načase, aby se odtržená plemena opět spojila a přinesla nový úsvit pro mongolský lid." # todo: NEW TRANSLATION
- unite_greater_mongolia: "Vyhlásit novou zlatou éru Mongolska" # todo: NEW TRANSLATION
- MEN_core_state: "Začlenit §Y[FROM.GetName]§! do Velkého Mongolska" # todo: NEW TRANSLATION
- MEN_coring_state_in_progress: " Začleňování státu probíhá." # todo: NEW TRANSLATION
- greater_hui_state_category: "Sjednotit státy Hui" # todo: NEW TRANSLATION
- greater_hui_state_category_desc: "Čínští muslimové Hui jsou nyní rozptýleni napříč severozápadními provinciemi a v oblasti Zhongyuan. Mnozí touží po jednotném státě, který je ochrání před vládcovstvím válečníků a cizí agresí, a dokonce i Dungané, Panthayové a Chin Hawové žádají naši pomoc. Musíme se snažit co nejrychleji sjednotit náš lid." # todo: NEW TRANSLATION
- unite_hui_states: "Sjednotit Hui" # todo: NEW TRANSLATION
- rename_ulanbaatar_monarchist_decision: "Obnovit Urgu" # todo: NEW TRANSLATION
- rename_ulanbaatar_non_monarchist_decision: "Obnovit Ikh Khüree" # todo: NEW TRANSLATION
- RNG_core_state: "Začlenit §Y[FROM.GetName]§! do nové čínské správy" # todo: NEW TRANSLATION
- RNG_coring_state_in_progress: " Začleňování státu probíhá." # todo: NEW TRANSLATION
- KOR_regain_core_on_state_decision: "Obnovit pořádek v §Y[FROM.GetName]§!" # todo: NEW TRANSLATION
- KOR_regaining_core_state_in_progress: " V současnosti probíhá obnovování pořádku ve státě." # todo: NEW TRANSLATION
- MEN_mongol_banner_category: "Mongolské prapory" # todo: NEW TRANSLATION
- MEN_mongol_banner_category_desc: "Systém praporů je po staletí součástí naší správy a umožňuje nám povolat muže z různých praporů v našich spravovaných územích, aby vzali zbraně a bránili své vesnice." # todo: NEW TRANSLATION
- MEN_expand_banner_recruitment: "Rozšířit nábor do praporů" # todo: NEW TRANSLATION
- MEN_raise_the_banners: "Zmobilizovat prapory" # todo: NEW TRANSLATION
- MEN_demobilize_the_banners: "Demobilizovat prapory" # todo: NEW TRANSLATION
- MEN_send_home_banners_tt: "Dočasně rozpustit všechny neregulérní jednotky. Mohou být znovu povolány v budoucnu." # todo: NEW TRANSLATION
- MEN_raise_banners_tt: "Nasadit všechny neregulérní divize až do našeho současného limitu." # todo: NEW TRANSLATION
- MEN_expand_banners_tt: "Zvýšit kapacitu neregulérních jednotek na méně než 24 divizí" # todo: NEW TRANSLATION
- MEN_expand_banners_tt_2: "Zvýšit náborový limit pro neregulérní jednotky o 1" # todo: NEW TRANSLATION
- MEN_raise_banners_active: " Neregulérní jednotky jsou povolány" # todo: NEW TRANSLATION
- MEN_move_the_capital_to_zhangbei_decision: "Přemístit hlavní město do Zhangbei" # todo: NEW TRANSLATION
- MEN_move_the_capital_to_kalgan_decision: "Přemístit hlavní město do Kalgan" # todo: NEW TRANSLATION
- MEN_army_reform: "Reforma armády" # todo: NEW TRANSLATION
- MEN_army_reform_desc: "Korupce, nekompetence a zbabělost jsou rozšířené na každé úrovni velení naší armády a chybějí řádné centrální velitelské struktury. Řešení tohoto problému bude dlouhý proces." # todo: NEW TRANSLATION
- MEN_army_reform_decision: "Zahájit reformy armády" # todo: NEW TRANSLATION
- PSR_core_state: "Začlenit §Y[FROM.GetName]§! do Druhé republiky" # todo: NEW TRANSLATION
- PSR_coring_state_in_progress: " Začleňování státu probíhá." # todo: NEW TRANSLATION
- SOV_cancel_the_japanese_resource_rights_to_sakhalin_decision: "Zrušit [JAP.GetAdjective] práva k těžbě zdrojů v §Y[655.GetName]§!" # todo: NEW TRANSLATION
- JAP_kodoha_insurgency_decisions: "Císařská cesta" # todo: NEW TRANSLATION
- JAP_kodoha_insurgency_decisions_desc: "Frakce Kōdōha, složka v naší císařské armádě, je momentálně v pohybu, jak dokazuje jejich atentát na vojenského důstojníka Tecuzana Nagatu v srpnu 1935. Pokud se rozhodnou podniknout širší akci, nebude to dříve než po skončení procesu se Saburó Aizavou. Možná bude nejlepší zvýšit bezpečnost kolem určitých osob, které oni považují za hrozbu pro Kokutai, duši našeho národa." # todo: NEW TRANSLATION
- JAP_aizawa_trial_ongoing: "Probíhá soud se Saburó Aizavou" # todo: NEW TRANSLATION
- JAP_aizawa_trial_ongoing_desc: "Podplukovník Saburó Aizava je momentálně v domácím vězení, zatímco jeho soud za vraždu vojenského důstojníka Tecuzana Nagaty stále probíhá. Avšak proces se stal mediálním jevem a soudci spřáhli s jeho frakcí a proměnili ho v tribunu, z níž by mohla být šířena jejich ideologie, je tedy zřejmé, že mu nebude udělen skutečný trest. Jako klíčový člen Kōdōha, pokud se skupina rozhodne jednat, neučiní tak, dokud neskončí domácí vězení Aizavy." # todo: NEW TRANSLATION
- JAP_aizawas_trial_over_flag: "Proces se Saburó Aizavou skončil a §YIncident 26. února§! se stal" # todo: NEW TRANSLATION
- JAP_takahashi_korekiyo_was_killed: " Takahaši Korekijo byl zabit povstalci" # todo: NEW TRANSLATION
- JAP_jotaro_watanabe_was_killed: " Jótaró Vatanabe byl zabit povstalci" # todo: NEW TRANSLATION
- JAP_aizawa_trial_ongoing_tt: "Výsledek incidentu rozhodne, jakou politickou cestu budeme moci zvolit" # todo: NEW TRANSLATION
- JAP_increase_takahashi_korekiyo_security_decision: "Zvýšit bezpečnost kolem $JAP_takahashi_korekiyo$" # todo: NEW TRANSLATION
- JAP_increase_takahashi_korekiyo_security_decision_tt: "Bezpečnost kolem Takahaši Korekija bude zvýšena, aby ho ochránila v případě útoků armádních radikálů, ale v důsledku toho mohou přenastavit svůj seznam cílů a soustředit více sil na odstranění někoho jiného" # todo: NEW TRANSLATION
- JAP_will_not_impact_focus_choices_tt: "Toto neovlivní výběr fokusů" # todo: NEW TRANSLATION
- JAP_increase_jotaro_watanabe_security_decision: "Zvýšit bezpečnost kolem Jótaró Vatanabe" # todo: NEW TRANSLATION
- JAP_increase_jotaro_watanabe_security_decision_tt: "Bezpečnost kolem Jótaró Vatanabe bude zvýšena, aby ho ochránila v případě útoků armádních radikálů, ale v důsledku toho mohou přenastavit svůj seznam cílů a soustředit více sil na odstranění někoho jiného" # todo: NEW TRANSLATION
- JAP_kwantung_army_decisions: "Kwantungská armáda" # todo: NEW TRANSLATION
- JAP_kwantung_army_decisions_desc: "Naše síly operující v Mandžusku a Číně, Kantō-gun, se chovají velmi autonomně a jsou známy tím, že podnikají akce bez schválení vyšších orgánů. Původně vytvořeny jako bezpečnostní síla pro pronajaté území Kwantung, nyní výrazně překročily svůj původní rozsah a mohou nás zatáhnout do rozsáhlého konfliktu, pokud nepřevezmeme pevnou kontrolu nad situací." # todo: NEW TRANSLATION
- JAP_kwantung_army_impatience: "Kwantungská armáda ztrácí trpělivost" # todo: NEW TRANSLATION
- JAP_kwantung_army_impatience_desc: "Kwantungská armáda rychle ztrácí trpělivost se současným stavem v Číně a zdá se, že bude pokračovat v rozšiřování svého vlivu bez schválení vlády, pokud to takto bude pokračovat." # todo: NEW TRANSLATION
- JAP_the_suiyuan_offensive_mission: "Kampaň ve Suiyuanu" # todo: NEW TRANSLATION
- JAP_began_the_suiyuan_campaign: "Zahájili kampaň ve Suiyuanu" # todo: NEW TRANSLATION
- JAP_the_suiyuan_offensive_mission_tt: "§Y[ROOT.GetNameDefCap]§! nebo kterýkoli z našich spojenců musí obsadit §Y[621.GetName]§! nebo §Y[746.GetName]§! dříve, než kampaň skončí" # todo: NEW TRANSLATION
- JAP_growing_unrest_in_the_shanghai_concession: "Narůstající nepokoje v šanghajské koncesi" # todo: NEW TRANSLATION
- JAP_growing_unrest_in_the_shanghai_concession_desc: "Po vzdání velkých území nám se zdá, že [CHI.GetAdjective] žijící v mezinárodní koncesi jsou neklidní a netrpěliví vůči zbabělosti režimu. Mohou brzy něco podniknout..." # todo: NEW TRANSLATION
- JAP_strike_down_chinese_warlord_decision: "Potlačit §Y[FROM.GetNameWithFlag]§!" # todo: NEW TRANSLATION
- JAP_state_shintoism_decisions: "Státní šintoismus" # todo: NEW TRANSLATION
- JAP_state_shintoism_decisions_desc: "Šintoismus je náboženstvím Japonců minimálně od období Yayoi a postupně se propojil se zenovým buddhismem. Během éry Meidži se svatyně ocitly pod rostoucím vlivem vlády a občané byli povzbuzováni, aby uctívali císaře jako kami. Díky tomu nyní můžeme zvýšit státní kontrolu nad uctíváním a směrovat vůli lidu ve svůj prospěch." # todo: NEW TRANSLATION
- JAP_incorporate_imperial_way_buddhism_decision: "Začlenit buddhismus Imperiální cesty" # todo: NEW TRANSLATION
- JAP_one_people_united_under_shinto_decision: "Jeden lid sjednocený pod šintoismem" # todo: NEW TRANSLATION
- JAP_relentless_divine_nationalism_decision: "Vzbudit neúnavný božský nacionalismus" # todo: NEW TRANSLATION
- JAP_state_shinto_in_education_decision: "Státní šintoismus ve vzdělávání" # todo: NEW TRANSLATION
- JAP_the_co_prosperity_sphere_decisions: "Sféra společné prosperity" # todo: NEW TRANSLATION
- JAP_the_co_prosperity_sphere_decisions_desc: "Náš konečný cíl ovládnout Asii se přibližuje, a vytvořením panevropského sdružení můžeme posílit vazby mezi různými národy, které chceme přivést pod naše křídla. Musíme udělat vše pro to, aby se tento sen stal realitou." # todo: NEW TRANSLATION
- JAP_hand_mongol_states_to_mengkukuo_decision: "Předat mongolské státy [MEN.GetAdjective] administraci" # todo: NEW TRANSLATION
- JAP_hand_chinese_states_to_the_reorganized_government_decision: "Předat státy Kuomintangu [RNG.GetAdjective] administraci" # todo: NEW TRANSLATION
- JAP_spiritual_mobilization_decisions: "Duchovní mobilizace" # todo: NEW TRANSLATION
- JAP_spiritual_mobilization_decisions_desc: "Lidé [ROOT.GetAdjective] jsou odhodlaní a připravení podpořit naši vládu ve všem, pokud budou mít dostatečnou motivaci. Měli bychom mobilizovat populaci duchovně i fyzicky, aby mohla přispět k válečnému úsilí." # todo: NEW TRANSLATION
- JAP_luxury_is_the_enemy_decision: "Luxus je nepřítel!" # todo: NEW TRANSLATION
- JAP_form_a_labor_patriot_corps_decision: "Zformovat sbor pracovních vlastenců" # todo: NEW TRANSLATION
- JAP_produce_bullet_stamps_decision: "Vyrábět známky na střelivo" # todo: NEW TRANSLATION
- JAP_distribute_rations_decision: "Distribuovat příděly" # todo: NEW TRANSLATION
- JAP_develop_sufu_materials_decision: "Rozvíjet materiály Sufu" # todo: NEW TRANSLATION
- JAP_collect_civilian_donations_decision: "Sbírat civilní dary" # todo: NEW TRANSLATION
- JAP_raise_military_moreale_decision: "Zvýšit morálku armády" # todo: NEW TRANSLATION
- JAP_women_in_military_production_decision: "Ženy ve vojenské výrobě" # todo: NEW TRANSLATION
- JAP_the_peoples_state_decisions: "Boj proti militarismu" # todo: NEW TRANSLATION
- JAP_the_peoples_state_decisions_desc: "Císařská nadvláda a feudální systém brzy patří minulosti. Je čas, aby prostý člověk určil svůj osud a vedl svůj lid k cíli konečného spasení." # todo: NEW TRANSLATION
- JAP_sway_general_loyalty_decision: "Ovlivnit loajalitu generála" # todo: NEW TRANSLATION
- JAP_sway_admiral_loyalty_decision: "Ovlivnit loajalitu admirála" # todo: NEW TRANSLATION
- JAP_hold_speech_in_the_imperial_diet_decision: "Pronést projev v císařském sněmu" # todo: NEW TRANSLATION
- JAP_publically_distance_from_sov_decision: "Veřejně se distancovat od sovětského bolševismu" # todo: NEW TRANSLATION
- JAP_publically_distance_from_sov_decision_tt: "Umožní přijmout další rozhodnutí poté, co budou dokončeny specifické fokusy k zvýšení šance na úspěšnou revoluci" # todo: NEW TRANSLATION
- JAP_spread_socialist_pamphlets_decision: "Rozšiřovat socialistické letáky a noviny" # todo: NEW TRANSLATION
- JAP_spread_socialist_propaganda_in_campuses_decision: "Šířit socialistickou propagandu na univerzitních kampusech" # todo: NEW TRANSLATION
- JAP_the_propaganda_department_decisions: "Oddělení propagandy" # todo: NEW TRANSLATION
- JAP_the_propaganda_department_decisions_desc: "Oddělení propagandy neustále pracuje na potírání nepřátelského vlivu a zároveň šíří náš vliv vnitřně i vně. Skrze tuto organizaci můžeme pomoci nasměrovat kurz Asie k našemu žádanému výsledku." # todo: NEW TRANSLATION
- JAP_estabish_contact_with_thubten_kumphela_decision: "Navázat kontakt s Thubtenem Kunphelou" # todo: NEW TRANSLATION
- JAP_influence_tibetan_people_decision: "Ovlivnit [TIB.GetAdjective] lid" # todo: NEW TRANSLATION
- JAP_approached_the_tibet_impr_party_flag: "Navázali kontakt s Tibet Improvement Party" # todo: NEW TRANSLATION
- JAP_militarized_the_tibet_impr_party_flag: "Ozbrojili Tibet Improvement Party" # todo: NEW TRANSLATION
- JAP_estabish_a_trongdra_regiment_in_exile: "Zřídit Trongdra pluk v exilu" # todo: NEW TRANSLATION
- JAP_coup_the_tibetan_government_decision: "Svrhnout vládu [TIB.GetAdjective]" # todo: NEW TRANSLATION
- JAP_create_subject_tonarigumi: "Organizovat Tonarigumi v §Y[FROM.GetNameDef]§!" # todo: NEW TRANSLATION
- JAP_organizing_tonarigumi_in_progress: " Probíhá organizace Tonarigumi." # todo: NEW TRANSLATION
- war_propaganda_film_industry_2: "[ROOT.GetImportOrDomesticFilmIndustry]" # todo: NEW TRANSLATION
- JAP_pull_back_on_fanatiscist_propaganda_decision: "Omezit fanatickou propagandu" # todo: NEW TRANSLATION
- JAP_promote_pro_japanese_sentiment_decison: "Podporovat pro-japonské nálady v §Y[FROM.GetNameDef]§!" # todo: NEW TRANSLATION
- JAP_invest_in_colonial_resources_decison: "Investovat do přírodních zdrojů §Y[FROM.GetAdjective]§!" # todo: NEW TRANSLATION
- JAP_promote_hayao_tada_to_lieutenant_general_decision: "Povýšit Hajao Tada na generálporučíka" # todo: NEW TRANSLATION
- JAP_promote_hayao_tada_to_lieutenant_general_tt: "§YHajao Tada§! se stane generálem" # todo: NEW TRANSLATION
- JAP_GEACPS_economic_integration_decision: "Požadovat začlenění hospodářství §Y[FROM.GetAdjective]§!" # todo: NEW TRANSLATION
- war_propaganda_manga_industry: "Vydávat vlastenecké a militaristické manga" # todo: NEW TRANSLATION
- war_propaganda_manga_industry_desc: "Abychom motivovali náš lid k válce v Číně, měli bychom financovat nové a připravované projekty jako 'Norakuro' a 'Northern China Frontline: The troop of Hei-Chan', aby se inspirovali k účasti na válečném úsilí." # todo: NEW TRANSLATION
- JAP_GEACPS_develop_member_industry_decision: "Rozvíjet průmysl §Y[FROM.GetAdjective]§!" # todo: NEW TRANSLATION
- JAP_annex_developed_puppet_decision: "Začlenit §Y[FROM.GetAdjective]§! civilní správu" # todo: NEW TRANSLATION
- JAP_annex_developed_puppet_decision_tt: "Získáme §G25%§! §Yposlušnosti§! ve všech jejich státech" # todo: NEW TRANSLATION
- JAP_launch_an_offensive_in_chinese_state_decision: "Zahájit ofenzívu v [FROM.GetName]" # todo: NEW TRANSLATION
- is_controlled_by_ROOT_or_ally_NOT: "Není ovládán námi ani naším spojencem" # todo: NEW TRANSLATION
- JAP_preparing_an_offensive_in_progress: " Právě připravuje ofenzívu" # todo: NEW TRANSLATION
- JAP_infiltrate_setsen_khanate_lands_decision: "Infiltrovat území bývalého Setsenského chanátu" # todo: NEW TRANSLATION
- JAP_arm_anti_communist_mongol_dissidents_decision: "Ozbrojit antikomunistické disidenty v Mongolsku" # todo: NEW TRANSLATION
- JAP_infiltrated_the_setsen_khanate_flag: "Infiltrovali jsme Setsenský chanát" # todo: NEW TRANSLATION
- JAP_influence_mongolian_people_decision: "Ovlivnit [MON.GetAdjective] lid" # todo: NEW TRANSLATION
- JAP_send_jodbajab_to_mongolia_decision: "Poslat Jodbajaba do Mongolska" # todo: NEW TRANSLATION
- JAP_send_jonjurjab_to_mongolia_decision: "Poslat Jonjurjaba do Mongolska" # todo: NEW TRANSLATION
- JAP_sent_jonjurjab_to_mongolia: " Poslán Jonjurjab do Mongolska" # todo: NEW TRANSLATION
- JAP_sent_jodbajab_to_mongolia: " Poslán Jodbajab do Mongolska" # todo: NEW TRANSLATION
- JAP_send_jodbajab_to_mongolia_decision_tt: "§YJodbajab§! bude vyslán do §YMongolsko§!, aby připravil kolaborační vládu" # todo: NEW TRANSLATION
- JAP_send_jonjurjab_to_mongolia_decision_tt: "§YJonjurjab§! bude vyslán do §YMongolsko§!, aby připravil kolaborační vládu" # todo: NEW TRANSLATION
- JAP_send_collabs_to_mongolia_trigger_tt: "Součet podpory Nezařazených a fašistů přesahuje 35 %" # todo: NEW TRANSLATION
- JAP_coup_the_mongolian_government_decision: "Svrhnout mongolskou vládu" # todo: NEW TRANSLATION
- JAP_coup_mongolia_trigger_tt: "Součet podpory Nezařazených a fašistů přesahuje 40 %" # todo: NEW TRANSLATION
- JAP_coup_the_mongolian_government_decision_tt: "§RToto může vést k válce s [MON.GetNameDef] a jejich spojenci!§!" # todo: NEW TRANSLATION
- JAP_establish_the_state_of_burma_decision: "Zřídit stát Barma" # todo: NEW TRANSLATION
- JAP_establish_the_provisional_government_of_free_india_decision: "Zřídit Prozatímní vládu Svobodné Indie" # todo: NEW TRANSLATION
- JAP_establish_the_second_philippine_republic_decision: "Zřídit Druhou filipínskou republiku" # todo: NEW TRANSLATION
- JAP_establish_kingdoms_of_annam_and_cambodia_decision: "Zřídit království Annam a Velké Kambodže" # todo: NEW TRANSLATION
- kingdoms_of_annam_and_cambodia_tt: "Zřídí §YKrálovství Annam§! v §Y[671.GetName]§!, §Y[1017.GetName]§! a §Y[670.GetName]§!. \nZřídí §YKrálovství Kambodže§! v §Y[741.GetName]§! a §Y[286.GetName]§!." # todo: NEW TRANSLATION
- empire_of_vietnam_tt: "Zřídí §YCísařství Vietnamu§! v §Y[671.GetName]§!, §Y[1017.GetName]§! a §Y[286.GetName]§!." # todo: NEW TRANSLATION
- JAP_establish_empire_of_vietnam_decision: "Zřídit Císařství Vietnamu" # todo: NEW TRANSLATION
- JAP_establish_kingdom_of_kampuchea_decision: "Zřídit království Kampučia" # todo: NEW TRANSLATION
- JAP_establish_kingdom_of_luang_prabang_decision: "Zřídit království Luang Prabang" # todo: NEW TRANSLATION
- kingdom_of_kampuchea_tt: "Zřídí §YKrálovství Kampučia§! v §Y[741.GetName]§!." # todo: NEW TRANSLATION
- kingdom_of_luang_prabang_tt: "Zřídí §YKrálovství Luang Prabang§! v §Y[670.GetName]§!." # todo: NEW TRANSLATION
- JAP_merge_our_chinese_puppets_decision: "Sloučit čínské loutkové administrace do jedné" # todo: NEW TRANSLATION
- JAP_demand_soviet_unions_surrender: "Požadovat kapitulaci [FROM.GetNameDef]" # todo: NEW TRANSLATION
- JAP_sue_for_peace_with_soviet_TT: "Žádný z požadovaných §YSibiřských§! států není kontrolován §Y[SOV.GetNameDef]§! ani žádným z jejich subjektů." # todo: NEW TRANSLATION
- JAP_organize_timorese_black_columns_decision: "Organizovat timorské černé kolony" # todo: NEW TRANSLATION
- JAP_establish_state_of_ceylon_decision: "Zřídit stát Cejlon" # todo: NEW TRANSLATION
- state_of_ceylon_tt: "Zřídí §YStát Cejlon§! v §Y[422.GetName]§!." # todo: NEW TRANSLATION
- JAP_integrate_northern_karafuto_decision: "Začlenit Severní Karafuto" # todo: NEW TRANSLATION
- JAP_core_KOR_state: "Přestavět §Y[FROM.GetName]§! na novou administrativní jednotku" # todo: NEW TRANSLATION
- JAP_coring_KOR_state_in_progress_flag: " Právě se začleňuje korejská provincie" # todo: NEW TRANSLATION
- JAP_core_MAN_state: "Přestavět §Y[FROM.GetName]§! na novou administrativní jednotku" # todo: NEW TRANSLATION
- JAP_coring_MAN_state_in_progress_flag: " Právě se začleňuje manchurská provincie" # todo: NEW TRANSLATION
- JAP_open_factory_in_state_decision: "Otevřít státem vlastněné továrny v §Y[FROM.GetName]§!" # todo: NEW TRANSLATION
- JAP_core_asian_state: "Začlenit obyvatele §Y[FROM.GetName]§!" # todo: NEW TRANSLATION
- JAP_coring_this_asian_state_in_progress_flag: " Právě se začleňuje tento stát" # todo: NEW TRANSLATION
- JAP_jeweled_spear_claim_decision: "Uplatnit nárok na státy §Y[FROM.GetAdjective]§!" # todo: NEW TRANSLATION
- JAP_jeweled_spear_claim_availability_tt: "Všechna dříve nárokovaná území jsou pod naší kontrolou" # todo: NEW TRANSLATION
- JAP_conflict_between_faction_reaching_boiling_point_mission: "Konflikt mezi frakcemi dosahuje bodu varu" # todo: NEW TRANSLATION
- JAP_conflict_between_faction_reaching_boiling_point_mission_desc: "Konflikt mezi civilní vládou a armádou rychle dosahuje bodu varu, protože obě strany bojují o moc, což pravděpodobně vyústí v politický incident, který dramaticky ovlivní další směřování naší země." # todo: NEW TRANSLATION
- JAP_secure_control_from_army_decision: "Zajistit kontrolu nad §Y[FROM.GetName]§!" # todo: NEW TRANSLATION
- JAP_democratic_state_flipping_cost_cost_increase_tt: "Náklady na přijetí tohoto rozhodnutí se §Rzvýší o 15§!" # todo: NEW TRANSLATION
- JAP_communist_infiltration_of_state_decision_decision: "Zřídit podzemní komunistickou buňku v §Y[FROM.GetName]§!" # todo: NEW TRANSLATION
- JAP_communist_state_infiltrating_cost_cost_increase_tt: "Náklady na přijetí tohoto rozhodnutí se §Rzvýší o 10§!" # todo: NEW TRANSLATION
- JAP_establish_guerilla_units_in_state_decision: "Zřídit partyzánské jednotky v §Y[FROM.GetName]§!" # todo: NEW TRANSLATION
- JAP_establish_guerilla_units_in_state_decision_tt: "Získáme §G2§! §Ymilicních jednotek§! v tomto státě při začátku §YObčanské války§!" # todo: NEW TRANSLATION
- JAP_raid_an_infantry_weapons_depot_decision: "Přepadnout sklad pěchotních zbraní" # todo: NEW TRANSLATION
- JAP_raid_an_infantry_weapons_depot_decision_tt: "Po začátku občanské války získáme §G500§! §Ypěchotního vybavení§! a náš protivník obdrží malý malus na 180 dní" # todo: NEW TRANSLATION
- JAP_raid_an_artillery_depot_decision: "Přepadnout sklad dělostřelectva" # todo: NEW TRANSLATION
- JAP_raid_an_artillery_depot_decision_tt: "Po začátku občanské války získáme §G250§! §Ydělového vybavení§! a protivník obdrží malý malus na 180 dní" # todo: NEW TRANSLATION
- JAP_raid_a_truck_depot_decision: "Přepadnout sklad nákladních vozů" # todo: NEW TRANSLATION
- JAP_raid_a_truck_depot_decision_tt: "Po začátku občanské války získáme §G250§! §Ynákladních vozů§! a protivník obdrží malý malus na 180 dní" # todo: NEW TRANSLATION
- JAP_move_the_capital_back_to_tokyo_decision: "Přesunout hlavní město zpět do Tokia" # todo: NEW TRANSLATION
- JAP_investing_in_foreign_industries_cat: "Průmyslové investice" # todo: NEW TRANSLATION
- JAP_investing_in_foreign_industries_cat_desc: "Náš program průmyslových investic do jiných asijských zemí může krátkodobě oslabit naši průmyslovou základnu, ale suroviny, které získáme, to více než vykompenzují a posílí naše výrobní linky." # todo: NEW TRANSLATION
- JAP_currently_investing_in_foreign_industry_flag: " Právě investuje do zahraničního průmyslu" # todo: NEW TRANSLATION
- JAP_industrial_investment_descision_tt: "Bude uděleno §G10§! z vybraných zdrojů §Y[ROOT.GetNameWithFlag]§!, na oplátku bude §Y1§! civilní továrna rozebrána a předána §Y[FROM.OWNER.GetNameWithFlag]§!" # todo: NEW TRANSLATION
- JAP_industrial_investment_for_oil_decision: "Přesunout průmysl do §Y[FROM.CONTROLLER.GetNameDef]§! za §YRopu§! z §Y[FROM.GetName]§!" # todo: NEW TRANSLATION
- JAP_industrial_investment_for_tungsten_decision: "Přesunout průmysl do §Y[FROM.CONTROLLER.GetNameDef]§! za §YWolfram§! z §Y[FROM.GetName]§!" # todo: NEW TRANSLATION
- JAP_industrial_investment_for_chromium_decision: "Přesunout průmysl do §Y[FROM.CONTROLLER.GetNameDef]§! za §YChrom§! z §Y[FROM.GetName]§!" # todo: NEW TRANSLATION
- JAP_industrial_investment_for_rubber_decision: "Přesunout průmysl do §Y[FROM.CONTROLLER.GetNameDef]§! za §YKaučuk§! z §Y[FROM.GetName]§!" # todo: NEW TRANSLATION
- JAP_attract_foreign_investments_decision: "Přitáhnout zahraniční investice z §Y[FROM.GetNameWithFlag]§!" # todo: NEW TRANSLATION
- JAP_has_already_attracted_inestments_from_here_flag: " Již přilákány investice z této země" # todo: NEW TRANSLATION
- JAP_west_pacific_treaty_org_allied_trade_cat: "Spojenecké obchodní dohody" # todo: NEW TRANSLATION
- JAP_west_pacific_treaty_org_allied_trade_cat_desc: "Naši spojenci mají mnoho zdrojů, které by nám mohly pomoci, a silně ziskáme z prohloubení obchodních vztahů s těmito zeměmi. Zajistíme tak stálý přísun životně důležitých surovin a zároveň odepřeme tyto zdroje našim nepřátelům - posílíme sebe a oslabíme je." # todo: NEW TRANSLATION
- JAP_west_pacific_treaty_org_trade_decision: "Zahájit obchodní jednání s §Y[FROM.GetName]§!" # todo: NEW TRANSLATION
- JAP_west_pacific_treaty_org_economic_integration_cat: "Ekonomická integrace" # todo: NEW TRANSLATION
- JAP_west_pacific_treaty_org_economic_integration_cat_desc: "Naše pacifická celní a měnová unie byla doposud úspěšná, ale má další role, které naši spojenci neznají. Dalším začleňováním jejich ekonomik do naší sítě je postupně učiníme zcela závislými na nás, v podstatě naše podřízené." # todo: NEW TRANSLATION
- JAP_west_pacific_treaty_org_currency_union_decision: "Pozvat §Y[FROM.GetNameDef]§! do měnové unie" # todo: NEW TRANSLATION
- JAP_west_pacific_treaty_org_economic_integration_decision: "Nabídnout ekonomickou integraci §Y[FROM.GetName]§!" # todo: NEW TRANSLATION
- JAP_further_increase_froms_dependency_decision: "Dále zvýšit ekonomickou závislost §Y[FROM.GetAdjective]§!" # todo: NEW TRANSLATION
- JAP_annex_integrated_puppet_decision: "Začlenit civilní správu [FROM.GetAdjective]" # todo: NEW TRANSLATION
- JAP_assume_guardianship_over_asian_subject_decison: "Převzít ochranitelství nad §Y[FROM.GetNameDef]§!" # todo: NEW TRANSLATION
- JAP_has_already_attempted_to_become_the_guardian_of_this_nation_flag: " Již se pokusil stát se pánem této země" # todo: NEW TRANSLATION
- JAP_currently_trying_to_become_a_nations_guardian_flag: " Právě se snaží stát se ochráncem této země" # todo: NEW TRANSLATION
- JAP_anti_colonialism_category: "Antikolonialismus" # todo: NEW TRANSLATION
- JAP_anti_colonialism_category_desc: "Uděláme vše, co můžeme, abychom podpořili odporová hnutí po celém regionu, dokud nebude rána západního imperialismu konečně odstraněna." # todo: NEW TRANSLATION
- JAP_anti_colonialism_map_category_name: "Koloniální státy, kde lze podpořit odboj" # todo: NEW TRANSLATION
- JAP_support_resistance_decision: "Podpořit prot-[FROM.OWNER.GetAdjective] odpor v [FROM.GetName]" # todo: NEW TRANSLATION
- JAP_support_resistance_decision_desc: "Podpořit bojovníky odporu ke svržení vlády [FROM.Owner.GetAdjective]." # todo: NEW TRANSLATION
- JAP_arm_resistance_decision: "Ozbrojit prot-[FROM.OWNER.GetAdjective] odpor v [FROM.GetName]" # todo: NEW TRANSLATION
- JAP_arm_resistance_decision_desc: "Ozbrojit bojovníky odporu v tomto státě." # todo: NEW TRANSLATION
- JAP_independence_support_progress_flag: " Právě podporuje hnutí za nezávislost" # todo: NEW TRANSLATION
- JAP_arm_resistance_flag: "Ozbrojování odporu v koloniálním státě." # todo: NEW TRANSLATION
- JAP_democratic_core_asian_state: "Začlenit §Y[FROM.GetName]§!" # todo: NEW TRANSLATION
- JAP_communist_core_asian_state: "Začlenit §Y[FROM.GetName]§!" # todo: NEW TRANSLATION
- JAP_invite_demo_or_na_asian_nation_to_faction_decison: "Pozvat §Y[FROM.GetNameDef]§! do naší aliance" # todo: NEW TRANSLATION
- JAP_securing_control_over_osaka_mission: "Armáda zajišťuje kontrolu nad Osakou" # todo: NEW TRANSLATION
- JAP_securing_control_over_osaka_mission_tt: "§Y[531.GetName]§! bude zabezpečeno loajalisty IJA a bude zaručeno, že se k nim připojí v případě §YObčanské války§!" # todo: NEW TRANSLATION
- JAP_army_politically_purging_disloyal_young_officers_mission: "Armáda politicky čistí neloajální mladé důstojníky" # todo: NEW TRANSLATION
- JAP_army_politically_purging_disloyal_young_officers_mission_tt: "O něco větší část §YCísařské armády§! bude nakloněna na stranu IJA v případě §YObčanské války§!" # todo: NEW TRANSLATION
- JAP_army_politically_purging_disloyal_young_officers_mission_2_tt: "§R1§! §Ygenerál§! bude zajištěn IJA" # todo: NEW TRANSLATION
- JAP_do_not_align_me_flag: "Nelze být přiřazen žádné straně konfliktu mezi vládou a armádou" # todo: NEW TRANSLATION
- JAP_army_recruiting_more_conscripts_mission: "Armáda nabírá více branců" # todo: NEW TRANSLATION
- JAP_army_recruiting_more_conscripts_mission_tt: "IJA získá §R4§! dalších §Ypěchotních divizí§! na začátku §YObčanské války§!" # todo: NEW TRANSLATION
- JAP_army_broadcasting_militarist_propaganda_mission: "Armáda vysílá militaristickou propagandu" # todo: NEW TRANSLATION
- JAP_army_smuggling_kwantung_army_units_to_the_home_islands_mission: "Armáda pašuje jednotky Kwantungské armády na domovské ostrovy" # todo: NEW TRANSLATION
- JAP_army_smuggling_kwantung_army_units_to_the_home_islands_mission_tt: "IJA získá §R3§! dalších §Yjízdeckých divizí§! na začátku §YObčanské války§!" # todo: NEW TRANSLATION
- JAP_tokko_arresting_anti_army_disidents_mission: "Tokkō zatýká protivojenské disidenty" # todo: NEW TRANSLATION
- JAP_tokko_arresting_anti_army_disidents_mission_tt: "Následující poradci budou zatčeni a nebudou k dispozici, dokud nezačne občanská válka:" # todo: NEW TRANSLATION
- JAP_IJA_arrested_advisors_flag: " Tokkō momentálně drží disidenty ve vazbě" # todo: NEW TRANSLATION
- JAP_army_securing_navy_support_mission: "Armáda zajišťuje podporu námořnictva" # todo: NEW TRANSLATION
- JAP_army_securing_navy_support_mission_tt: "Větší část §YCísařského námořnictva§! bude nakloněna na stranu IJA v případě §YObčanské války§!" # todo: NEW TRANSLATION
- JAP_army_ensuring_loyalty_within_the_regiments_mission: "Armáda zajišťuje loajalitu v regimentách" # todo: NEW TRANSLATION
- JAP_army_ensuring_loyalty_within_the_regiments_mission_tt: "Větší část §YCísařské armády§! bude nakloněna na stranu IJA v případě §YObčanské války§!" # todo: NEW TRANSLATION
- JAP_army_broadcasting_militarist_propaganda_2_mission: "Armáda vysílá protivládní propagandu" # todo: NEW TRANSLATION
- JAP_army_securing_army_arsenals_mission: "Armáda zajišťuje důležité armádní arsenály" # todo: NEW TRANSLATION
- JAP_army_securing_army_arsenals_mission_tt: "Když začne §YObčanská válka§!, získáme následující na §R365§! dní" # todo: NEW TRANSLATION
- JAP_launch_an_offensive_in_core_state_decision: "Zahájit ofenzívu v [FROM.GetName]" # todo: NEW TRANSLATION
- JAP_improve_the_category_of_state_decision: "Investovat do urbanizace §Y[FROM.GetName]§!" # todo: NEW TRANSLATION
- JAP_ashigaru_category: "Ašigaru" # todo: NEW TRANSLATION
- JAP_ashigaru_category_desc: "Systém ašigaru je po staletí součástí způsobu vedení války našeho národa a umožňuje nám povolat muže z různých vesnic v našem státě, aby vzali zbraně a bránili své domovy." # todo: NEW TRANSLATION
- JAP_expand_banner_recruitment: "Rozšířit nábor ašigaru" # todo: NEW TRANSLATION
- JAP_raise_the_ashigaru: "Mobilizovat ašigaru" # todo: NEW TRANSLATION
- JAP_demobilize_the_ashigaru: "Demobilizovat ašigaru" # todo: NEW TRANSLATION
- JAP_send_home_ashigaru_tt: "Prozatím rozpusťte všechny milice. Mohou být znovu povolány v budoucnu." # todo: NEW TRANSLATION
- JAP_raise_ashigaru_tt: "Nasadit všechny divize milice až do našeho současného limitu." # todo: NEW TRANSLATION
- JAP_expand_ashigaru_tt: "Mít zvýšený limit milicí na méně než 24 divizí" # todo: NEW TRANSLATION
- JAP_expand_ashigaru_tt_2: "Zvýšit limit náboru milicí o 1" # todo: NEW TRANSLATION
- JAP_raise_ashigaru_active: " Milice jsou povolány" # todo: NEW TRANSLATION
- JAP_implementing_unos_economic_reforms_mission: "Provádění ekonomických reforem Kōzō Una" # todo: NEW TRANSLATION
- JAP_redistribute_wealth_and_collectivize_farms_decision: "Přerozdělit bohatství a kolektivizovat farmy" # todo: NEW TRANSLATION
- JAP_redistribute_wealth_tt: "Přerozdělili bohatství §Y6§!krát nebo méně" # todo: NEW TRANSLATION
- JAP_urban_investments_modifier: "Zvýšené úsilí o urbanizaci" # todo: NEW TRANSLATION
- JAP_incite_increased_tensions_in_the_diet_decision: "Vyvolat zvýšené napětí v Dietě" # todo: NEW TRANSLATION
- JAP_empower_the_yi_dynasty_decision: "Posílit dynastii Yi" # todo: NEW TRANSLATION
- JAP_the_red_sun_over_asia_decisions: "Červené slunce nad Asií" # todo: NEW TRANSLATION
- JAP_the_red_sun_over_asia_decisions_desc: "Nastal čas, aby byl lid Asie osvobozen od kapitalistického a imperialistického utlačování. Ať žije dělnický stát!" # todo: NEW TRANSLATION
- JAP_invite_com_south_ame_nation_to_faction_decison: "Pozvat §Y[FROM.GetNameDef]§! do Internacionály" # todo: NEW TRANSLATION
- JAP_invite_com_south_asian_nation_to_faction_decison: "Pozvat §Y[FROM.GetNameDef]§! do Internacionály" # todo: NEW TRANSLATION
- JAP_invite_com_middle_eastern_nation_to_faction_decison: "Pozvat §Y[FROM.GetNameDef]§! do Internacionály" # todo: NEW TRANSLATION
- JAP_stir_communist_sentiments_in_the_middle_east_decison: "Rozdmýchejte komunistické nálady v §Y[FROM.GetNameDef]§!" # todo: NEW TRANSLATION
- JAP_stir_communist_sentiments_in_south_asia_decison: "Rozdmýchejte komunistické nálady v §Y[FROM.GetNameDef]§!" # todo: NEW TRANSLATION
- JAP_PARF_develop_member_industry_decision: "Rozvíjet §Y[FROM.GetAdjective]§! průmysly" # todo: NEW TRANSLATION
- JAP_PARF_economic_integration_decision: "Požadovat integraci ekonomiky §Y[FROM.GetAdjective]§!" # todo: NEW TRANSLATION
- JAP_boeitai_category: "Boeitai" # todo: NEW TRANSLATION
- JAP_boeitai_category_desc: "S rostoucí pravděpodobností obranné války na našich vlastních územích musíme zřídit obranný sbor, který může být rychle mobilizován k ochraně našich domovských ostrovů v případě nepřátelského vpádu. To bude zahrnovat i jedince, kteří za normálních okolností podle japonského branného systému nepodléhají vojenské povinnosti." # todo: NEW TRANSLATION
- JAP_expand_boeitai_recruitment: "Rozšířit nábor do Boeitai" # todo: NEW TRANSLATION
- JAP_raise_the_boeitai: "Mobilizovat Boeitai" # todo: NEW TRANSLATION
- JAP_demobilize_the_boeitai: "Demobilizovat Boeitai" # todo: NEW TRANSLATION
- JAP_send_home_boeitai_tt: "Prozatím rozpusťte všechny milice. Mohou být znovu povolány v budoucnu." # todo: NEW TRANSLATION
- JAP_raise_boeitai_tt: "Nasadit všechny divize milice až do našeho současného limitu." # todo: NEW TRANSLATION
- JAP_expand_boeitai_tt: "Mít zvýšený limit milicí na méně než 24 divizí" # todo: NEW TRANSLATION
- JAP_expand_boeitai_tt_2: "Zvýšit limit náboru milicí o 1" # todo: NEW TRANSLATION
- JAP_raise_boeitai_active: " Milice jsou povolány" # todo: NEW TRANSLATION
- JAP_organize_the_fifth_column_decision: "Sabotáž za nepřátelskými liniemi" # todo: NEW TRANSLATION
- JAP_organize_the_fifth_column_decision_desc: "Loajální partisané působící za nepřátelskými liniemi mohou být využiti k narušení nepřátelské komunikace v [FROM.GetNameDef]. Údery na velitelská stanoviště, přerušování telegrafních vedení nebo vykolejování vlaků znesnadní nepříteli připravenost odolat útokům našich jednotek a zvýší šanci na úspěšné osvobození Japonska." # todo: NEW TRANSLATION
- JAP_organize_the_fifth_column_decision_tt: "§YEnemy units§! suffer damage to §Yorganization§!" # todo: NEW TRANSLATION
- JAP_organize_the_fifth_column_flag: "Příprava sabotáže" # todo: NEW TRANSLATION
- JAP_imperial_influence_decision_cat: "Požadavky vnitřních frakcí" # todo: NEW TRANSLATION
- JAP_imperial_influence_decision_cat_desc: "Vnitřní frakce v naší zemi mají značnou autonomii a nebudou bezmocně přihlížet, zatímco je [ROOT.GetLeader] ignoruje. Budou proto nadále klást rozsáhlé požadavky na naši vládu, dokud jim nebude výrazně omezena moc." # todo: NEW TRANSLATION
- JAP_army_faction_demands_military_factories: "$JAP_army_faction$ požaduje více vojenských továren" # todo: NEW TRANSLATION
- JAP_army_faction_demands_military_factories_tt: "Má více než §Y[?JAP_desired_military_factories]§! $arms_factory$s" # todo: NEW TRANSLATION
- JAP_army_faction_demands_political_appointment: "$JAP_army_faction$ požaduje jmenování velitele armády" # todo: NEW TRANSLATION
- JAP_army_faction_demands_conscription_law_change: "$JAP_army_faction$ požaduje změnu branného zákona" # todo: NEW TRANSLATION
- JAP_army_faction_demands_larger_army: "$JAP_army_faction$ požaduje větší armádu" # todo: NEW TRANSLATION
- JAP_army_faction_demands_more_trucks: "$JAP_army_faction$ požaduje více nákladních vozů" # todo: NEW TRANSLATION
- JAP_army_faction_demands_more_tanks: "$JAP_army_faction$ požaduje více tanků" # todo: NEW TRANSLATION
- JAP_army_faction_demands_more_artillery: "$JAP_army_faction$ požaduje více dělostřelectva" # todo: NEW TRANSLATION
- JAP_naval_faction_demands_dockyards: "$JAP_naval_faction$ požaduje více loděnic" # todo: NEW TRANSLATION
- JAP_naval_faction_demands_dockyards_tt: "Má více než §Y[?JAP_desired_naval_factories]§! $dockyard$s" # todo: NEW TRANSLATION
- JAP_naval_faction_demands_political_appointment: "$JAP_naval_faction$ požaduje jmenování velitele námořnictva" # todo: NEW TRANSLATION
- JAP_naval_faction_demands_conscription_law_change: "$JAP_naval_faction$ požaduje změnu branného zákona" # todo: NEW TRANSLATION
- JAP_naval_faction_demands_more_carriers: "$JAP_naval_faction$ požaduje více letadlových lodí" # todo: NEW TRANSLATION
- JAP_naval_faction_demands_more_carriers_and_battleships: "$JAP_naval_faction$ požaduje více letadlových lodí a bitevních lodí" # todo: NEW TRANSLATION
- JAP_naval_faction_demands_more_battleships: "$JAP_naval_faction$ požaduje více bitevních lodí" # todo: NEW TRANSLATION
- JAP_naval_faction_demands_strike_south_happen_mission: "$JAP_naval_faction$ požaduje, abychom zaútočili na jih" # todo: NEW TRANSLATION
- JAP_zaibatsu_faction_demands_factories: "$JAP_zaibatsu_faction$ požaduje více civilních továren" # todo: NEW TRANSLATION
- JAP_zaibatsu_faction_demands_factories_tt: "Má více než §Y[?JAP_desired_civilian_factories]§! $industrial_complex$" # todo: NEW TRANSLATION
- JAP_zaibatsu_faction_demands_political_appointment: "$JAP_zaibatsu_faction$ požaduje politické jmenování" # todo: NEW TRANSLATION
- JAP_zaibatsu_faction_demands_economy_law_change: "$JAP_zaibatsu_faction$ požaduje změnu hospodářského zákona" # todo: NEW TRANSLATION
- JAP_zaibatsu_faction_demands_industrial_company_employment: "$JAP_zaibatsu_faction$ požaduje smlouvu s průmyslovou společností" # todo: NEW TRANSLATION
- JAP_government_faction_demands_political_appointment: "$JAP_government_faction$ požaduje politické jmenování" # todo: NEW TRANSLATION
- JAP_government_faction_demands_trade_law_change: "$JAP_government_faction$ požaduje změnu obchodního zákona" # todo: NEW TRANSLATION
- JAP_government_faction_demands_limited_army_influence: "$JAP_government_faction$ požaduje omezení vlivu armády" # todo: NEW TRANSLATION
- JAP_government_faction_demands_limited_navy_influence: "$JAP_government_faction$ požaduje omezení vlivu námořnictva" # todo: NEW TRANSLATION
- JAP_government_faction_demands_limited_zaibatsu_influence: "$JAP_government_faction$ požaduje omezení vlivu zaibatsu" # todo: NEW TRANSLATION
- CHI_the_political_tutelage_cat: "Politické poručenství" # todo: NEW TRANSLATION
- CHI_the_political_tutelage_cat_desc: "Nastal čas plně uskutečnit myšlenky Sun Yat-sena, zvýšit gramotnost čínského lidu a probudit jejich politické vědomí, což umožní vznik a přežití Republiky na naší půdě." # todo: NEW TRANSLATION
- CHI_core_asian_state: "Integrujte §Y[FROM.GetName]§!" # todo: NEW TRANSLATION
- CHI_coring_this_asian_state_in_progress_flag: " Právě probíhá integrace tohoto státu" # todo: NEW TRANSLATION
- CHI_accelerate_urban_tutelage_decision: "Urychlit politické poručenství v §Y[FROM.GetName]§!" # todo: NEW TRANSLATION
- CHI_accelerate_rural_tutelage_decision: "Urychlit politické poručenství v §Y[FROM.GetName]§!" # todo: NEW TRANSLATION
- CHI_develop_warlord_industry_decision: "Vyvinout systémy sociální péče a veřejné práce v §Y[FROM.GetNameDef]§!" # todo: NEW TRANSLATION
- CHI_war_of_resistance_cat: "Válka odporu" # todo: NEW TRANSLATION
- CHI_war_of_resistance_cat_desc: "S nepřítelem opět na naší půdě a válkou v našich zemích musíme přijmout výzvu. I když nejsme nejmodernější ani nejlépe vybavená armáda na světě, máme nástroje, jak s nimi bojovat a zvítězit. Odrazíme je zpět na polích, kopcích a horách." # todo: NEW TRANSLATION
- CHI_demonstrate_our_resolve_decision: "Prokažme naše odhodlání v §Y[FROM.GetName]§!" # todo: NEW TRANSLATION
- CHI_demonstrate_our_resolve_decision_tt: "Aktivuje misi na udržení tohoto státu po určitou dobu. Pokud bude úspěšná, získáme:\n  -[?demonstrate_resolve_cic_reward] §Y$CIC_BANK_HEADER$§!\n  -[?demonstrate_resolve_art_reward] §YDělostřelecké vybavení§!" # todo: NEW TRANSLATION
- CHI_holding_state_mission_flag: "Brání: [?CHI.CHI_declare_defence_name_var.GetName]" # todo: NEW TRANSLATION
- CHI_holding_state_mission_trigger: "[?CHI.CHI_declare_defence_name_var.GetName] je pod naší nebo spojeneckou kontrolou" # todo: NEW TRANSLATION
- CHI_declared_defence: "[CHI.GetName] vyhlásil obranu státu" # todo: NEW TRANSLATION
- CHI_holding_state_mission: "Udržte linii v [?CHI.CHI_declare_defence_name_var.GetName]" # todo: NEW TRANSLATION
- CHI_china_pledging_to_hold_state_mission: "[CHI.GetNameDefCap] prokazují své odhodlání v [?CHI.CHI_declare_defence_name_var.GetName]" # todo: NEW TRANSLATION
- CHI_holding_state_mission_fake: "Udržet linii" # todo: NEW TRANSLATION
- CHI_declare_war_zone: "Vyhlásit válečnou zónu" # todo: NEW TRANSLATION
- CHI_declare_war_zone_flag_tt: "Válečná zóna již byla vyhlášena. \n Počet dní do znovuaktivace: [?CHI_declare_war_zone_flag:days_left|Y0]" # todo: NEW TRANSLATION
- CHI_declared_war_zone: "Vyhlášena válečná zóna" # todo: NEW TRANSLATION
- CHI_bog_them_down: "Koordinovat obranu" # todo: NEW TRANSLATION
- CHI_bog_them_down_flag_tt: "Obrana již byla koordinována. \n Dní do znovuaktivace: [?CHI_bog_them_down_flag:days_left|Y0]" # todo: NEW TRANSLATION
- CHI_burma_campaign_mission: "Kampaň v Barmě" # todo: NEW TRANSLATION
- CHI_indo_chinese_campaign_mission: "Indočínská kampaň" # todo: NEW TRANSLATION
- CHI_internal_politics_cat: "Vnitřní politika" # todo: NEW TRANSLATION
- CHI_internal_politics_cat_desc: "Zanedbání a zaostalost dynastie Čching trvalo dlouho překonat, ale od Severní expedice jsme neustále postupovali. Nicméně naše snahy o modernizaci nejsou dokončeny a musíme přidat tempo, pokud chceme držet krok se zbytkem světa." # todo: NEW TRANSLATION
- CHI_lend_lease_missions_cat: "Mise Lend-Lease" # todo: NEW TRANSLATION
- CHI_lend_lease_missions_cat_desc: "Podpora, kterou dostáváme ze zahraničí, nám umožnila vzdorovat vetřelcům, ale nic není zadarmo. Musíme nadále ukazovat, že si zasluhujeme podporu, kterou nyní dostáváme, a že bychom si zasloužili a mohli využít více." # todo: NEW TRANSLATION
- CHI_improving_neglected_countryside_mission: "Investice do zanedbaného venkova" # todo: NEW TRANSLATION
- CHI_improving_inefficient_economy_mission: "Zlepšování ekonomiky" # todo: NEW TRANSLATION
- CHI_develop_hunan_tungsten_mines: "Rozvoj wolframových dolů v Hunan" # todo: NEW TRANSLATION
- CHI_develop_jiangxi_tungsten_mines: "Rozvoj wolframových dolů v Jiangxi" # todo: NEW TRANSLATION
- CHI_counter_infiltration_measures: "Opatření proti infiltraci [PRC.GetRulingIdeology]" # todo: NEW TRANSLATION
- CHI_counter_infiltration_measures_level_3: "$CHI_counter_infiltration_measures$" # todo: NEW TRANSLATION
- CHI_counter_infiltration_measures_flag: "Potlačování infiltrace" # todo: NEW TRANSLATION
- CHI_counter_fascist_infiltration_measures: "Opatření proti infiltraci [CHI.GetRulingIdeology]" # todo: NEW TRANSLATION
- CHI_counter_fascist_infiltration_measures_level_3: "$CHI_counter_fascist_infiltration_measures$" # todo: NEW TRANSLATION
- CHI_improve_opium_modifiers_output: "Operace proti pašování" # todo: NEW TRANSLATION
- CHI_improve_opium_modifiers_output_trigger: "Průmyslový výstup z nelegálního obchodu je záporný" # todo: NEW TRANSLATION
- CHI_improve_opium_modifiers_cg: "Vládní kampaň proti korupci" # todo: NEW TRANSLATION
- CHI_improve_opium_modifiers_cg_trigger: "Faktor továren spotřebního zboží v nelegálním obchodě je kladný" # todo: NEW TRANSLATION
- CHI_opium_cat: "Politika boje proti opiu" # todo: NEW TRANSLATION
- CHI_opium_cat_desc: "Nelegální obchod je ranou pro naši společnost, postihuje jak obyčejné lidi, tak i nejvyšší úrovně vlády. Musíme přijmout rozhodná opatření k jeho vymýcení a obnově integrity našich společenství." # todo: NEW TRANSLATION
- CHI_develop_coal_mines: "Rozšířit uhelné doly v [FROM.GetName]" # todo: NEW TRANSLATION
- CHI_integrate_the_warlords_sea_cat: "Integrovat válečné pány" # todo: NEW TRANSLATION
- CHI_press_warlord_to_become_puppet: "Tlačit na §Y[FROM.GetNameDef]§!, aby se stal naším vazalem" # todo: NEW TRANSLATION
- CHI_press_warlord_to_become_puppet_upgrade: "$CHI_press_warlord_to_become_puppet$" # todo: NEW TRANSLATION
- CHI_press_warlord_to_become_puppet_upgrade_with_affirm_civilian_primacy: "$CHI_press_warlord_to_become_puppet$" # todo: NEW TRANSLATION
- CHI_press_warlord_to_become_puppet_with_affirm_civilian_primacy: "$CHI_press_warlord_to_become_puppet$" # todo: NEW TRANSLATION
- is_pressing_warlord: "Tlačí na válečného pána" # todo: NEW TRANSLATION
- CHI_warlord_autonomy_drift_decision: "§Y[FROM.GetName]§! Snahy o integraci" # todo: NEW TRANSLATION
- CHI_warlord_autonomy_drift_decision_upgrade: "$CHI_warlord_autonomy_drift_decision$" # todo: NEW TRANSLATION
- CHI_warlord_autonomy_allocate_lend_lease_decision: "Přidělit Lend-Lease §Y[FROM.GetName]§!" # todo: NEW TRANSLATION
- CHI_warlord_autonomy_offer_economic_support_decision: "Nabídnout §YEkonomickou podporu§! §Y[FROM.GetName]§!" # todo: NEW TRANSLATION
- CHI_warlord_economic_support_reset_tt: "Nabídnuto §YEkonomická podpora§! v uplynulých [?CHI_warlord_economic_support_flag:days_left|0] dnech" # todo: NEW TRANSLATION
- CHI_warlord_economic_support_flag: "Nedávno nabídnuta §YEkonomická podpora§!" # todo: NEW TRANSLATION
- CHI_warlord_autonomy_offer_industrial_support_decision: "Nabídnout §Yprůmyslovou podporu§! §Y[FROM.GetName]§!" # todo: NEW TRANSLATION
- CHI_warlord_industrial_support_flag: "Nedávno nabídnuta §Yprůmyslová podpora§!" # todo: NEW TRANSLATION
- CHI_warlord_industrial_support_reset_tt: "Nabídnuta §Yprůmyslová podpora§! v uplynulých [?CHI_warlord_economic_support_flag:days_left|0] dnech" # todo: NEW TRANSLATION
- CHI_warlord_annex: "Anexovat §Y[FROM.GetName]§!" # todo: NEW TRANSLATION
- CHI_integrating_states: "Rozšířit pravomoci MTAC v [FROM.GetName]" # todo: NEW TRANSLATION
- CHI_integrate_the_warlords_democratic_sea_cat: "Iniciativy na znovusjednocení" # todo: NEW TRANSLATION
- CHI_press_warlord_to_become_puppet_democratic: "Požadovat, aby se §Y[FROM.GetLeader]§! podřídil centrální vládě" # todo: NEW TRANSLATION
- CHI_warlord_autonomy_drift_demcoratic_decision: "§Y[FROM.GetNameWithFlag]§! Snahy o integraci" # todo: NEW TRANSLATION
- CHI_warlord_democratic_drift_minquan_decision: "Požadovat, aby §Y[FROM.GetLeader]§! uplatnil princip Mínquán" # todo: NEW TRANSLATION
- CHI_highlight_northwestern_road_fake_decision: "Severozápadní dálnice" # todo: NEW TRANSLATION
- CHI_highlight_the_hump_decision: "The Hump" # todo: NEW TRANSLATION
- CHI_highlight_the_hump_decision_tt: "Pokud žádný nepřítel neovládá\n§Y-[601.GetName]\n-[434.GetName]\n-[747.GetName]§!\ntrasa The Hump je bezpečná" # todo: NEW TRANSLATION
- CHI_highlight_the_hanoi_decision_tt: "Pokud žádný nepřítel neovládá\n§Y-[325.GetName]\n-[671.GetName]§!\ntrasa Hanoi je bezpečná" # todo: NEW TRANSLATION
- CHI_highlight_burma_road_decision_tt: "Pokud žádný nepřítel neovládá\n§Y-[995.GetName]\n-[640.GetName]\n-[998.GetName]\n-[434.GetName]\n-[990.GetName]\n-[432.GetName]\n-[288.GetName]\n-[997.GetName]\n-[996.GetName]§!\ntrasa Burma Road je bezpečná" # todo: NEW TRANSLATION
- CHI_highlight_the_northwest_highway_decision_tt: "Pokud žádný nepřítel neovládá §Y\n-[617.GetName]\n-[759.GetName]\n-[755.GetName]\n-[754.GetName]\n-[283.GetName]§!\ntrasa North-West Highway je bezpečná" # todo: NEW TRANSLATION
- CHI_lost_route_control: "Ztratili jsme kontrolu nad: §Y[THIS.GetName]§!. Obnovte kontrolu nad státem, abyste znovu získali lend-lease." # todo: NEW TRANSLATION
- CHI_route_safety_trigger: "Trasu ovládá země, která s námi není ve válce." # todo: NEW TRANSLATION
- CHI_highlight_hanoi_route_decision: "Trasa Hanoi" # todo: NEW TRANSLATION
- CHI_highlight_burma_road_decision: "The Burma Road" # todo: NEW TRANSLATION
- CHI_use_expat_community_for_more_cic_decision: "Vyjednat ekonomickou podporu od §Y[FROM.GetNameWithFlag]§!" # todo: NEW TRANSLATION
- CHI_integrating_states_democratic: "Snahy o reintegraci v [FROM.GetName]" # todo: NEW TRANSLATION
- CHI_reeducate_bai_chonxi_decision: "Převychovat [GXC.GetFlag] $GXC_bai_chongxi$" # todo: NEW TRANSLATION
- CHI_reeducate_yu_hanmou_decision: "Převychovat [GDC.GetFlag] $GND_yu_hanmou$" # todo: NEW TRANSLATION
- CHI_reeducate_sun_tongxuan_decision: "Převychovat [SND.GetFlag] $CHI_sun_tongxuan$" # todo: NEW TRANSLATION
- CHI_reeducate_song_zheyuan_decision: "Převychovat [HBC.GetFlag] $CHI_song_zheyuan$" # todo: NEW TRANSLATION
- CHI_reeducate_wang_jingguo_decision: "Převychovat [SHX.GetFlag] $SHX_wang_jingguo$" # todo: NEW TRANSLATION
- CHI_reeducate_hu_ruoyu_decision: "Převychovat [YUN.GetFlag] $YUN_hu_ruoyu$" # todo: NEW TRANSLATION
- CHI_reeducate_gu_zhutong_decision: "Převychovat [SIC.GetFlag] $CHI_gu_zhutong$" # todo: NEW TRANSLATION
- CHI_reeducate_zhang_xueliang_decision: "Převychovat [XIC.GetFlag] $CHI_zhang_xueliang$" # todo: NEW TRANSLATION
- CHI_reeducate_ma_bufang_decision: "Převychovat [XSM.GetFlag] $XSM_ma_bufang$" # todo: NEW TRANSLATION
- CHI_reeducate_ma_hongkui_decision: "Převychovat [NXM.GetFlag] $XSM_ma_hongkui$" # todo: NEW TRANSLATION
- CHI_reeducate_ma_buqing_decision: "Převychovat [GSM.GetFlag] $XSM_ma_buqing$" # todo: NEW TRANSLATION
- CHI_reeducate_ma_zhancang_decision: "Převychovat [KHM.GetFlag] $KHM_ma_zhancang$" # todo: NEW TRANSLATION
- CHI_reeducate_yulbars_khan_decision: "Převychovat [KUM.GetFlag] $KUM_yulbars_khan$" # todo: NEW TRANSLATION
- CHI_reeducate_sheng_shiqi_decision: "Převychovat [SIK.GetFlag] $SIK_sheng_shiqi$" # todo: NEW TRANSLATION
- CHI_reeducate_altanochir_decision: "Převychovat [MEN.GetFlag] $MEN_altanochir$" # todo: NEW TRANSLATION
- CHI_reeducate_yu_zhishan_decision: "Převychovat [MAN.GetFlag] $MAN_yu_zishan$" # todo: NEW TRANSLATION
- CHI_select_mios: "Přemístit továrny ze §Y[FROM.GetName]§!" # todo: NEW TRANSLATION
- CHI_select_mios_tt_no_aat: "Umožní vám přesunout továrny v tomto státě do jiného státu." # todo: NEW TRANSLATION
- CHI_select_mios_tt_aat: "Umožní vám přesunout MIO nacházející se v tomto státě a jeho továrny do jiného státu." # todo: NEW TRANSLATION
- CHI_move_mios_cat: "Přemisťování továren" # todo: NEW TRANSLATION
- CHI_move_mios: "Přesunout továrny do §Y[FROM.GetName]§!" # todo: NEW TRANSLATION
- CHI_move_mios_tt: "Přesune továrny a MIO z §Y[?var:selected_mio.GetName]§! do §Y[FROM.GetName]§!" # todo: NEW TRANSLATION
- CHI_move_mios_tt_no_aat: "Přesune továrny z §Y[?var:selected_mio.GetName]§! do §Y[FROM.GetName]§!" # todo: NEW TRANSLATION
- is_moving_mios: "Probíhá přesun továren" # todo: NEW TRANSLATION
- CHI_deselect_mios: " Zrušit výběr přesouvaných továren" # todo: NEW TRANSLATION
- CHI_avoid_another_crisis_cat: "Další krize na obzoru" # todo: NEW TRANSLATION
- CHI_avoid_another_crisis_cat_desc: "Od incidentu v Mukdenu se Kwantungská armáda připravuje nás znovu napadnout. Každým dnem víc předvádějí pózy a je jen otázkou času, kdy udeří. Možná by se dalo uklidnit [JAP.GetNameDef], aby udržel mír a umožnil nám připravit se ještě trochu víc." # todo: NEW TRANSLATION
- CHI_kwantung_army_impatience_dummy: "Blížící se krize" # todo: NEW TRANSLATION
- CHI_concessions_docking_rights: "Nabídnout dočasná přístavní práva" # todo: NEW TRANSLATION
- CHI_concessions_airbase_rights: "Nabídnout dočasný přístup k letecké základně" # todo: NEW TRANSLATION
- CHI_concessions_give_resource_rights: "Poskytnout dočasná práva na zdroje v [FROM.GetName]" # todo: NEW TRANSLATION
- CHI_concessions_give_coastal_states: "Nabídnout vlastnictví [FROM.GetName] na čas" # todo: NEW TRANSLATION
- CHI_concessions_give_puppet: "Nabídnout nadvládu nad [FROM.GetName] na čas" # todo: NEW TRANSLATION
- CHI_build_up_our_faction_cat: "$faction_template_wang_front$ Směřujeme ven" # todo: NEW TRANSLATION
- CHI_build_up_our_faction_cat_desc: "Příliš dlouho byly národy Asie rozděleny a následně dobyty imperialisty. Nyní jsme v pozici, kdy je můžeme osvobodit od kolonizátorů a vyvést z poddanství." # todo: NEW TRANSLATION
- CHI_invite_free_countries: "Pozvat [FROM.GetName] do $faction_template_wang_front$" # todo: NEW TRANSLATION
- CHI_set_up_puppet: "Zřídit loutkovou vládu v [FROM.GetName]" # todo: NEW TRANSLATION
- CHI_set_up_puppet_tt: "Vytvořit §Y$autonomy_colony$§! v [FROM.GetNameDef]" # todo: NEW TRANSLATION
- CHI_tsr_renegotiating_with_warlords_cat: "Přejednávání s válečnými vůdci" # todo: NEW TRANSLATION
- CHI_renegotiate_with_warlord: "Přejednat s §Y[FROM.GetNameDef]§!" # todo: NEW TRANSLATION
- CHI_asked_for_separate_peace: "Již požádal o separátní mír s [FROM.GetNameDef]" # todo: NEW TRANSLATION
- CHI_request_tank_aid_from_russia_decision: "Požádat o ruskou obrněnou podporu" # todo: NEW TRANSLATION
- CHI_open_the_north_west_highway_decision: "Otevřít severozápadní dálnici" # todo: NEW TRANSLATION
- CHI_republican_interests_cat: "Interesy republiky" # todo: NEW TRANSLATION
- CHI_invite_demo_asian_nation_to_faction_decison: "Pozvat §Y[FROM.GetNameDef]§! do naší aliance" # todo: NEW TRANSLATION
- CHI_stir_democratic_sentiments_in_asia_decison: "Podnítit republikánské nálady v §Y[FROM.GetNameDef]§!" # todo: NEW TRANSLATION
- CHI_oust_the_empires_decision: "Požadovat, aby [FROM.OWNER.GetNameDef] byl propuštěn §Y[FROM.Capital.OWNER.GetNameDef]§!" # todo: NEW TRANSLATION
- PRC_unlock_left_side_bop_decisions_tt: "Odemkne £BoP_left_texticon  §Y$PRC_communist_power_struggle$§! rozhodnutí" # todo: NEW TRANSLATION
- PRC_unlock_right_side_bop_decisions_tt: "Odemkne £BoP_right_texticon  §Y$PRC_communist_power_struggle$§! rozhodnutí" # todo: NEW TRANSLATION
- PRC_unlock_both_sides_bop_decisions_tt: "Odemkne £BoP_left_texticon £BoP_right_texticon  §Y$PRC_communist_power_struggle$§! rozhodnutí" # todo: NEW TRANSLATION
- PRC_hold_speech_questioning_tradition: "£BoP_left_texticon Zpochybnit staré tradice" # todo: NEW TRANSLATION
- PRC_emphasize_rural_support: "£BoP_left_texticon Zdůraznit venkovskou podporu" # todo: NEW TRANSLATION
- PRC_criticize_dogmatism: "£BoP_left_texticon Kritizovat dogmatismus" # todo: NEW TRANSLATION
- PRC_purge_bo_gu: "£BoP_left_texticon Provést čistky $PRC_bo_gu$" # todo: NEW TRANSLATION
- PRC_purge_zhang_guotao: "£BoP_left_texticon Provést čistky $PRC_zhang_guotao$" # todo: NEW TRANSLATION
- PRC_purge_wang_ming: "£BoP_left_texticon Provést čistky $PRC_wang_ming$" # todo: NEW TRANSLATION
- PRC_send_wang_ming_to_soviet: "£BoP_left_texticon Vyhostit §Y$PRC_wang_ming$§! do [SOV.GetName]" # todo: NEW TRANSLATION
- PRC_utilizie_political_connections_mao: "£BoP_left_texticon Využít politická spojení $PRC_mao_zedong$" # todo: NEW TRANSLATION
- PRC_mao_lectures: "£BoP_left_texticon Mao uspořádá sérii přednášek" # todo: NEW TRANSLATION
- PRC_purge_chen_changhao: "£BoP_left_texticon Provést čistky $PRC_chen_changhao$" # todo: NEW TRANSLATION
- PRC_purge_wang_shiwei: "£BoP_left_texticon Provést čistky $PRC_wang_shiwei$" # todo: NEW TRANSLATION
- PRC_reinforce_teachings_from_USSR: "£BoP_right_texticon Posílit učení ze SSSR" # todo: NEW TRANSLATION
- PRC_emphasize_urban_support: "£BoP_right_texticon Zdůraznit městskou podporu" # todo: NEW TRANSLATION
- PRC_emphasize_intellectual_support: "£BoP_right_texticon Zdůraznit podporu inteligence" # todo: NEW TRANSLATION
- PRC_convince_wang_jiaxiang: "£BoP_right_texticon Přesvědčit §Y$PRC_wang_jiaxiang$§! aby se znovu připojil k 28 ½" # todo: NEW TRANSLATION
- PRC_convince_wang_jiaxiang_desc: "£BoP_right_texticon $PRC_wang_jiaxiang$ býval jedním z 28, přesvědčme ho, aby se k nám znovu přidal" # todo: NEW TRANSLATION
- PRC_utilizie_political_connections_bo_gu: "£BoP_right_texticon Využít politická spojení bolševika" # todo: NEW TRANSLATION
- PRC_bo_gu_review: "£BoP_right_texticon $PRC_bo_gu$ provede přezkum našich vojenských sil" # todo: NEW TRANSLATION
- PRC_purge_ren_bishi: "£BoP_right_texticon Provést čistky $PRC_ren_bishi$" # todo: NEW TRANSLATION
- PRC_purge_liu_shaoqi: "£BoP_right_texticon Provést čistky $PRC_liu_shaoqi$" # todo: NEW TRANSLATION
- PRC_purge_mao_zedong: "£BoP_right_texticon Provést čistky $PRC_mao_zedong$" # todo: NEW TRANSLATION
- PRC_purge_deng_xiaoping: "£BoP_right_texticon Provést čistky $PRC_deng_xiaoping$" # todo: NEW TRANSLATION
- PRC_utilizie_political_connections_otto_braun: "£BoP_right_texticon Otto Braun pronese projev" # todo: NEW TRANSLATION
- PRC_utilizie_political_connections_zhang_guotao: "£BoP_right_texticon $PRC_zhang_guotao$ pronese projev pro členy Ústředního výboru" # todo: NEW TRANSLATION
- PRC_guotao_supreme: "£BoP_right_texticon Veřejně uznat vrchní vedení $PRC_zhang_guotao$" # todo: NEW TRANSLATION
- PRC_unwilling_diarchy_bop_decision: "£BoP_right_texticon Znovu přivítat Guotao" # todo: NEW TRANSLATION
- PRC_criticize_leadership_decision: "£BoP_right_texticon Kritizovat bývalé vedení" # todo: NEW TRANSLATION
- PRC_wang_ming_exiled: "Vyhoštěn do [SOV.GetName]" # todo: NEW TRANSLATION
- PRC_dismissed_advisor: "Neodvolán" # todo: NEW TRANSLATION
- PRC_guerilla_warfare_sea_cat: "Partyzánské boje" # todo: NEW TRANSLATION
- PRC_guerilla_warfare_sea_cat_desc: "Naše válečné úsilí je do značné míry závislé na lidech na místě, nejen na naší armádě. Musíme posílit jejich síly a umožnit jim působit za nepřátelskými liniemi." # todo: NEW TRANSLATION
- PRC_establish_guerilla_cells_start: "[GetGuerillaWarfareName]" # todo: NEW TRANSLATION
- PRC_establish_guerilla_cells_upgrade: "[GetGuerillaWarfareName]" # todo: NEW TRANSLATION
- PRC_currently_establishing_guerillas_in_foreign_state: "Aktuálně zakládáme partyzánské buňky v cizích státech" # todo: NEW TRANSLATION
- PRC_guerilla_cells_etsablishing_flag: "Partyzánské buňky již jsou zakládány v [FROM.GetName]" # todo: NEW TRANSLATION
- PRC_guerilla_cells_established_in_state_tt: "Založit partyzánskou buňku v [FROM.GetName]" # todo: NEW TRANSLATION
- PRC_guerilla_cells_activity_in_state_tt: "Zvýšit aktivitu partyzánských buněk v [FROM.GetName]" # todo: NEW TRANSLATION
- PRC_establish_guerilla_cells_tt: "Nahradit §Y$PRC_guerilla_cells_active_1$§! za §Y$PRC_guerilla_cells_active_2$§!. Efektivní změny:" # todo: NEW TRANSLATION
- PRC_establish_sabotage_operations: "Zahájit $PRC_anti_japanese_base$ v [FROM.GetName]" # todo: NEW TRANSLATION
- PRC_currently_establishing_anti_japanese_base_state: " Právě zakládáme $PRC_anti_japanese_base$" # todo: NEW TRANSLATION
- PRC_guerilla_suppression_sea_cat: "Kampaň potlačování partyzánů" # todo: NEW TRANSLATION
- PRC_root_out_guerilla_fighters: "Vykořenit partyzánské bojovníky v [FROM.GetName]" # todo: NEW TRANSLATION
- PRC_root_out_guerilla_fighters_tt: "Nahradit §Y$PRC_guerilla_cells_active_2$§! za §Y$PRC_guerilla_cells_active_1$§!. Účinné změny:" # todo: NEW TRANSLATION
- PRC_currently_rooting_out_guerilla_sympathizers: "Právě probíhá potlačování sympatizantů partyzánů" # todo: NEW TRANSLATION
- PRC_infiltration_sea_cat: "Shromažďování podpory v čínských státech - infiltrace" # todo: NEW TRANSLATION
- PRC_infiltration_sea_cat_desc: "Infiltrací do jiných čínských států můžeme zvýšit naši podporu v oblastech, které dosud nekontrolujeme.[GetCommieInfiltration] Existuje však riziko, že budou naši stoupenci odhaleni a odstraněni. Protiopatření sníží úroveň infiltrace v tom státě o §Y1 úroveň§!." # todo: NEW TRANSLATION
- PRC_infiltration_sea_commie: " Pokud infiltrace dosáhne §Yúrovně 3§!, stát se při válce proti cílovému státu převrátí." # todo: NEW TRANSLATION
- CHI_counter_infiltration_sea_cat: "$PRC_infiltration_sea_cat$" # todo: NEW TRANSLATION
- PRC_infiltrate_state: "Infiltrujte [FROM.GetName]" # todo: NEW TRANSLATION
- PRC_currently_infiltrating_state: "Právě infiltrujeme jiný stát" # todo: NEW TRANSLATION
- CHI_currently_infiltrating_state: "$PRC_currently_infiltrating_state$" # todo: NEW TRANSLATION
- PRC_root_out_guerilla_fighters_upgraded: "Zlikvidovat partyzánské bojovníky v [FROM.GetName]" # todo: NEW TRANSLATION
- CHI_fascist_infiltrate_state: "Zřídit místní buňky v [FROM.GetName]" # todo: NEW TRANSLATION
- PRC_border_wars_cat: "Hraniční konflikty" # todo: NEW TRANSLATION
- PRC_the_westward_expedition_decision: "$PRC_the_westward_expedition$" # todo: NEW TRANSLATION
- PRC_assaulting_guyuan: "Útok na [1045.GetName]" # todo: NEW TRANSLATION
- PRC_the_eastward_expedition_decision: "$PRC_the_eastward_expedition$" # todo: NEW TRANSLATION
- PRC_assaulting_shanxi: "Útok na [615.GetName]" # todo: NEW TRANSLATION
- PRC_usurp_control_over_yanan_decision: "$PRC_usurp_control_over_yanan$" # todo: NEW TRANSLATION
- PRC_assaulting_yanan: "Útok na [1032.GetName]" # todo: NEW TRANSLATION
- PRC_economic_planning_cat: "Hospodářské plánování" # todo: NEW TRANSLATION
- PRC_initialize_five_year_plan_mission: "Spustit pětiletý plán" # todo: NEW TRANSLATION
- PRC_initialize_shorter_market_plans_mission: "Spustit kratší tržní plány" # todo: NEW TRANSLATION
- PRC_war_of_resistance_cat: "$CHI_war_of_resistance_cat$" # todo: NEW TRANSLATION
- PRC_the_peoples_doubt: "Rostoucí pochyby" # todo: NEW TRANSLATION
- PRC_the_peoples_doubt_desc: "Lid Číny viděl naši pasivitu vůči zahraničním vetřelcům a začal pochybovat o naší odhodlanosti sjednotit celou Čínu, a o naší schopnosti ji řádně bránit." # todo: NEW TRANSLATION
- PRC_the_peoples_doubt_tt: "Když §Y[PRC.GetNameWithFlag]§! vstoupí do bojů proti vetřelcům, nebo jsou vetřelci ve stavu míru se všemi částmi Číny." # todo: NEW TRANSLATION
- PRC_28_bolshevik_faction_cat: "Ovlivnit frakci" # todo: NEW TRANSLATION
- PRC_28_bolshevik_faction_decision_enlai_diplomatic_feelers: "Poslat §Y$PRC_zhou_enlai$§! na diplomatickou misi do [FROM.GetName]" # todo: NEW TRANSLATION
- PRC_28_bolshevik_faction_decision_enlai_diplomatic_feelers_desc: "Posláním pomoci Enlaimu do [FROM.GetNameDef] můžeme zvýšit naše postavení v rámci [ROOT.GetFactionName]" # todo: NEW TRANSLATION
- PRC_28_bolshevik_faction_decision_ask_for_support: "Přesvědčit [FROM.GetName] o vašem vedení" # todo: NEW TRANSLATION
- PRC_28_bolshevik_faction_decision_ask_for_support_desc: "Vyvineme tlak na [FROM.GetNameDef], aby veřejně uznali náš přínos pro [ROOT.GetFactionName]" # todo: NEW TRANSLATION
- PRC_28_bolshevik_faction_decision_backstab: "Zradit [FROM.GetName]" # todo: NEW TRANSLATION
- PRC_28_bolshevik_faction_decision_backstab_desc: "Ač jsme ve společné frakci s [FROM.GetNameDef], podplatíme jejich úředníky, aby přimhouřili oči, pokud budeme chtít nasadit některého z našich agentů" # todo: NEW TRANSLATION
- PRC_28_bolshevik_faction_decision_backstab_tt: "§GSnižuje§! náklady na rozhodnutí §Y$PRC_infiltration_sea_cat$§!" # todo: NEW TRANSLATION
- PRC_28_bolshevik_faction_decision_legitimize_faction_leader: "Uznat vedení [FROM.GetName] v rámci [ROOT.GetFactionName]" # todo: NEW TRANSLATION
- PRC_28_bolshevik_faction_decision_legitimize_faction_leader_desc: "Nepřítel mého nepřítele je náš přítel. Musíme odložit rozdíly a zaměřit se na vetřelce" # todo: NEW TRANSLATION
- PRC_zhou_enlai_on_diplomatic_mission: "§Y$PRC_zhou_enlai$§! je na diplomatické misi" # todo: NEW TRANSLATION
- PRC_integration_decision_cat: "Rozhodnutí o integraci" # todo: NEW TRANSLATION
- PRC_integration_decision_tibet: "Udělit jádro a integrovat [FROM.GetName]" # todo: NEW TRANSLATION
- PRC_integration_decision_soviet_states: "Udělit jádro a integrovat [FROM.GetName]" # todo: NEW TRANSLATION
- PRC_unlock_integration_decisions_tt: "Rozhodnutí §YUdělit jádro a integrovat§! se stávají dostupnými" # todo: NEW TRANSLATION
- PRC_is_integrating_a_state: "Právě integruje stát" # todo: NEW TRANSLATION
- PRC_rural_surveyer_decision_cat: "Venkovské průzkumy" # todo: NEW TRANSLATION
- PRC_rural_surveys: "Proveď venkovský průzkum" # todo: NEW TRANSLATION
- PRC_rural_surveyer_tt: "Lze dokončit pouze pětkrát: [?PRC_amount_of_times_rural_survey] / 5" # todo: NEW TRANSLATION
- PRC_remove_yulin_garrison: "Násilně vyhnat Yulinův garnizon" # todo: NEW TRANSLATION
- PRC_remove_yulin_garrison_desc: "Navzdory našemu nejlepšímu úsilí je potlačit se 86. a 84. divize pod velením Jing Yueixu a Gao Guizi podařilo odrazit naše útoky a účinně udržet sever provincie pod kontrolou Kuomintangu. Musíme tam poslat jednotky, aby vyhnaly Yulinův garnizon z [1046.GetName]." # todo: NEW TRANSLATION
- PRC_second_thoughts_factions: "Po rozmyšlení" # todo: NEW TRANSLATION
- PRC_second_thoughts_factions_desc: "Když jsme oba ve válce a sdílíme společného nepřítele, je čas odložit rozdíly a spojit síly proti agresorům pro dobro národa." # todo: NEW TRANSLATION
- PRC_appeal_for_foreign_aid_cat: "Žádost o zahraniční pomoc" # todo: NEW TRANSLATION
- PRC_appeal_for_foreign_aid_t34: "Žádat o tanky T-34" # todo: NEW TRANSLATION
- PRC_appeal_for_foreign_aid_bt7: "Žádat o tanky BT-7" # todo: NEW TRANSLATION
- PHI_prospecting_decision_cat_unlock_tt: "§YOdemkne rozhodnutí o průzkumu ložisek§!" # todo: NEW TRANSLATION
- PHI_mineral_prospecting_chromium_small_decision: "Průzkum chromu" # todo: NEW TRANSLATION
- PHI_mineral_prospecting_chromium_large_decision: "Rozšířit průzkum chromu" # todo: NEW TRANSLATION
- PHI_mineral_prospecting_steel_repeatable_decision_1: "Průzkum oceli" # todo: NEW TRANSLATION
- PHI_mineral_prospecting_steel_repeatable_decision_2: "Rozšířit průzkum oceli" # todo: NEW TRANSLATION
- PHI_gold_prospecting_decision: "Průzkum zlata" # todo: NEW TRANSLATION
- PHI_has_completed_decision_chromium_prospecting_flag: "Vyžaduje §Y$PHI_mineral_prospecting_chromium_small_decision$§!" # todo: NEW TRANSLATION
- PHI_sugar_barons_category: "Spolupráce s barony cukru" # todo: NEW TRANSLATION
- PHI_sugar_barons_category_desc: "Naše výroba cukru je velmi výnosným odvětvím, kde můžeme získat prostředky na pokrytí rostoucího rozpočtu obrany, aniž bychom museli škrtat v jiných výdajích." # todo: NEW TRANSLATION
- PHI_sugar_excise_general: "Zfinancovat kurz výcviku důstojníků z Cukerného fondu" # todo: NEW TRANSLATION
- PHI_sugar_excise_divisions: "Zfinancovat výcvikové cvičení z Cukerného fondu" # todo: NEW TRANSLATION
- PHI_mindanao_transport_decision_unlock_tt: "§YOdemkne rozhodnutí§! pro prodej konvojů za vojenské vybavení" # todo: NEW TRANSLATION
- PHI_convoys_for_infrastructure_decision_cat: "Konvoje za infrastrukturu" # todo: NEW TRANSLATION
- PHI_convoys_for_infrastructure_decision_cat_desc: "Jako národ ostrovů je stavba lodí řemeslem starším než jakákoli vládní účast. Při modernizaci musíme využít tuto odbornost k získání prostředků a uplatnit naše techniky, lodě a další vybavení v jiných odvětvích, jako je stavebnictví." # todo: NEW TRANSLATION
- PHI_convoys_for_infastructure_decision: "Zavést nové trajektové linky" # todo: NEW TRANSLATION
- PHI_convoys_for_consumer_goods: "Prodat naše lodě na civilním trhu" # todo: NEW TRANSLATION
- PHI_convoys_for_guns: "Obrátit se na [FROM.GetNameDef] s nabídkou výměny konvojů za zbraně" # todo: NEW TRANSLATION
- PHI_convoys_for_trucks: "Obrátit se na [FROM.GetNameDef] s nabídkou výměny konvojů za nákladní vozy" # todo: NEW TRANSLATION
- PHI_convoys_for_artillery: "Obrátit se na [FROM.GetNameDef] s nabídkou výměny konvojů za dělostřelectvo" # todo: NEW TRANSLATION
- PHI_convoys_for_light_tanks: "Obrátit se na [FROM.GetNameDef] s nabídkou výměny konvojů za vyřazené lehké tanky" # todo: NEW TRANSLATION
- PHI_purchasing_weapons: "Čeká se na odpověď ohledně navrhovaného prodeje" # todo: NEW TRANSLATION
- PHI_trucks: "nákladní vozy" # todo: NEW TRANSLATION
- PHI_decision_cost_convoys_icon_small: "[?PHI_convoy_vars_small_cost] £GFX_topbar_convoys" # todo: NEW TRANSLATION
- PHI_decision_cost_convoys_icon_small_blocked: "[?PHI.PHI_convoy_vars_small_cost|0R] £GFX_topbar_convoys" # todo: NEW TRANSLATION
- PHI_decision_cost_convoys_icon_medium: "[?PHI_convoy_vars_medium_cost] £GFX_topbar_convoys" # todo: NEW TRANSLATION
- PHI_decision_cost_convoys_icon_medium_blocked: "[?PHI_convoy_vars_medium_cost|0R] £GFX_topbar_convoys" # todo: NEW TRANSLATION
- PHI_decision_cost_convoys_icon_large: "[?PHI_convoy_vars_large_cost] £GFX_topbar_convoys" # todo: NEW TRANSLATION
- PHI_decision_cost_convoys_icon_large_blocked: "[?PHI_convoy_vars_large_cost|0R] £GFX_topbar_convoys" # todo: NEW TRANSLATION
- PHI_decision_cost_convoys_icon_very_small: "15 £GFX_topbar_convoys" # todo: NEW TRANSLATION
- PHI_decision_cost_convoys_icon_very_small_blocked: "§R15§! £GFX_topbar_convoys" # todo: NEW TRANSLATION
- PHI_decision_cost_icon_train: "15 £GFX_train_texticon" # todo: NEW TRANSLATION
- PHI_decision_cost_icon_train_blocked: "§R15§! £GFX_train_texticon" # todo: NEW TRANSLATION
- PHI_decision_cost_icon_truck: "100 £GFX_unit_motorized_icon_small" # todo: NEW TRANSLATION
- PHI_decision_cost_icon_truck_blocked: "§R100§! £GFX_unit_motorized_icon_small" # todo: NEW TRANSLATION
- PHI_add_one_infra_point: "Přidat 1 §Ybod infrastruktury§! k dokončení §Y$PHI_investment_plan_3$§!\nSoučasné body: [?PHI_infrastructure_points]" # todo: NEW TRANSLATION
- PHI_infrastructure_points_requirement_tt: "Vyžaduje 5 §Ybodů infrastruktury§! získaných pomocí níže uvedených rozhodnutí, aktuální body: [?PHI_infrastructure_points]" # todo: NEW TRANSLATION
- PHI_infrastructure_points_requirement_tt_NOT: "Dosud nezískal 5 §Ybodů infrastruktury§!" # todo: NEW TRANSLATION
- PHI_american_intervention_icon_value: "[?PHI.PHI_american_intervention_icon_value|0H]§Y%§!" # todo: NEW TRANSLATION
- PHI_american_intervention_icon_description: "Úroveň hrozby: [?PHI.PHI_american_intervention_icon_value|0H]§Y%§!\n\nPokud hodnota dosáhne §R100%§!, §Y[USA.GetNameDefCap]§! zaútočí. Pokud dosáhne §G0%§!, [USA.GetNameDef] souhlasí, že nezasáhne, a níže uvedené akce se stanou nedostupnými." # todo: NEW TRANSLATION
- PHI_american_intervention_change_value_small_decrease_tt: "Upravit §Yúroveň hrozby [USA.GetNameDefCap]§! o §G-10%§!" # todo: NEW TRANSLATION
- PHI_american_intervention_change_value_medium_decrease_tt: "Upravit §Yúroveň hrozby [USA.GetNameDefCap]§! o §G-15%§!" # todo: NEW TRANSLATION
- PHI_american_intervention_change_value_large_decrease_tt: "Upravit §Yúroveň hrozby [USA.GetNameDefCap]§! o §G-25%§!" # todo: NEW TRANSLATION
- PHI_american_intervention_change_value_small_increase_tt: "Upravit §Yúroveň hrozby [USA.GetNameDefCap]§! o §R5%§!" # todo: NEW TRANSLATION
- PHI_american_intervention_change_value_medium_increase_tt: "Upravit §Yúroveň hrozby [USA.GetNameDefCap]§! o §R10%§!" # todo: NEW TRANSLATION
- PHI_american_intervention_change_value_large_increase_tt: "Upravit §Yúroveň hrozby [USA.GetNameDefCap]§! o §R15%§!" # todo: NEW TRANSLATION
- PHI_america_declare_war: "[USA.GetNameDefCap] může vyhlásit válku" # todo: NEW TRANSLATION
- PHI_american_intervention_category: "Hrozba zásahu [USA.GetAdjective]" # todo: NEW TRANSLATION
- PHI_american_intervention_category_desc: "Ačkoli nám [USA.GetNameDef] slíbili nezávislost, jejich vláda by si mohla namluvit, že naše změna vedení odporuje zákonu, který má tuto nezávislost usnadnit. Musíme se umírnit pod [USA.GetAdjective] dohledem, abychom se vyhnuli zásahu." # todo: NEW TRANSLATION
- PHI_american_intervention_declare_war_mission: "Americká trpělivost" # todo: NEW TRANSLATION
- PHI_american_intervention_donate_us_senate: "Darovat [USA.GetAdjective] politikům ve Výboru senátu pro zahraniční vztahy" # todo: NEW TRANSLATION
- PHI_american_intervention_ban_communist_paper: "Zakázat komunistické noviny" # todo: NEW TRANSLATION
- PHI_american_intervention_forbid_advisor: "Vyhostit komunistického poradce" # todo: NEW TRANSLATION
- PHI_american_intervention_host_training_exercise: "Uspořádat výcvikové cvičení" # todo: NEW TRANSLATION
- PHI_american_intervention_invite_us_communists: "Pozvat [USA.GetAdjective] komunisty" # todo: NEW TRANSLATION
- PHI_american_intervention_nationalize_railways: "Znаrodnit železnice" # todo: NEW TRANSLATION
- PHI_american_intervention_nationalize_industries: "Znаrodnit průmyslové podniky" # todo: NEW TRANSLATION
- PHI_american_intervention_recognize_unions: "Uznat odbory" # todo: NEW TRANSLATION
- PHI_american_intervention_promise_bases: "Slibovat trvalý přístup k vojenským základnám" # todo: NEW TRANSLATION
- PHI_american_intervention_unlock_more_decisions_tt: "Dokončení tohoto cíle odemkne další §YRozhodnutí§!, která sníží riziko §YAmerického zásahu§!" # todo: NEW TRANSLATION
- USA_execute_war_plan_brown: "Realizovat válečný plán Brown" # todo: NEW TRANSLATION
- PHI_defend_against_USA: "Odvrátit [USA.GetAdjective] zásah" # todo: NEW TRANSLATION
- decision_cost_CP_25_army_exp_35: "£command_power  §Y25§!  £army_experience §Y35§!" # todo: NEW TRANSLATION
- decision_cost_CP_25_army_exp_35_blocked: "£command_power  §R25§!  £army_experience §R35§!" # todo: NEW TRANSLATION
- decision_cost_CP_25_army_exp_35_tooltip: "Rozhodnutí stojí £command_power §Y25§! a £army_experience §Y35§!" # todo: NEW TRANSLATION
- PHI_sent_away: "Vyhoštěn pod tlakem [USA.GetAdjective]" # todo: NEW TRANSLATION
- PHI_american_intervention_is_over: "[USA.GetNameDefCap] souhlasil, že nebude zasahovat" # todo: NEW TRANSLATION
- PHI_repeatable_except_delay: "Toto rozhodnutí je opakovatelné, ale §YAmerická trpělivost§! bude prodloužena pouze poprvé." # todo: NEW TRANSLATION
- PHI_integration_category: "Integrovat ostrovy Indického a Tichého oceánu" # todo: NEW TRANSLATION
- PHI_integrate_conquests: "Integrovat [FROM.GetName]" # todo: NEW TRANSLATION
- PHI_request_indefinite_stay_for_macarthur: "Žádat o neomezený pobyt pro MacArthura" # todo: NEW TRANSLATION
- PHI_peace_with_philippines: "Dohodnout se na bílém míru s [PHI.GetNameDef]" # todo: NEW TRANSLATION
- PHI_request_macarthur_stay_tt: "$USA_douglas_macarthur$ bude méně pravděpodobně odvolán" # todo: NEW TRANSLATION
- PHI_recall_eisenhower: "Přivolat $USA_dwight_d_eisenhower$ z [PHI.GetNameDef]" # todo: NEW TRANSLATION
- PHI_recall_macarthur: "Přivolat $USA_douglas_macarthur$ z [PHI.GetNameDef]" # todo: NEW TRANSLATION
- PHI_department_of_foreign_affairs_category: "$PHI_department_of_foreign_affairs$" # todo: NEW TRANSLATION
- PHI_asia_treaty_faction: "Organizace smlouvy jihovýchodní Asie" # todo: NEW TRANSLATION
- PHI_create_faction: "Založit $PHI_asia_treaty_faction$" # todo: NEW TRANSLATION
- PHI_join_other_faction: "Požádat o vstup do [FROM.GetFactionName]" # todo: NEW TRANSLATION
- PHI_decrease_japanese_ideological_influence: "Snížit ideologický vliv [JAP.GetAdjective]" # todo: NEW TRANSLATION
- PHI_government_in_exile_cat: "Spolupráce s exilovou vládou" # todo: NEW TRANSLATION
- PHI_request_equipment_tt: "Odemkne rozhodnutí: §YPožádat o vybavení od [temp_host.GetName]§!" # todo: NEW TRANSLATION
- PHI_share_military_experience_tt: "Odemkne rozhodnutí: §YVyměnit vojenské zkušenosti s [temp_host.GetName]§!" # todo: NEW TRANSLATION
- PHI_request_equipment: "Požádat o vybavení od [?host.GetName]" # todo: NEW TRANSLATION
- PHI_share_military_experience: "Vyměnit vojenské poznatky s [?host.GetName]" # todo: NEW TRANSLATION
- PHI_investment_plan_1: "Investiční plán 1: Rozvoj infrastruktury" # todo: NEW TRANSLATION
- PHI_investment_plan_2: "Investiční plán 2: Navázat nové obchodní vztahy" # todo: NEW TRANSLATION
- PHI_investment_plan_3: "Investiční plán 3: Zvýšit průmyslovou efektivitu" # todo: NEW TRANSLATION
- PHI_investment_plan_1_tt: "Po dokončení udělí 2 §Y$industrial_complex$§! a bonusy k surovinám a výstavbě ve všech státech, kde během plánu vznikly nové železniční spoje." # todo: NEW TRANSLATION
- PHI_investment_plan_2_tt: "Bude úspěšný a přinese lepší odměny, pokud během plánu dosáhneme dobrých obchodních vztahů alespoň se 3 regionálními mocnostmi, ovládneme úroveň 6 §Y$naval_base$§! a postavili alespoň 1 nový §Y$dockyard$§! během plánu" # todo: NEW TRANSLATION
- PHI_investment_plan_3_tt: "Bude úspěšný a přinese lepší odměny, pokud postavíme infrastrukturu v [1027.GetName] a [624.GetName], a během plánu použijeme vlaky, nákladní vozy a konvoje ke zlepšení naší infrastruktury." # todo: NEW TRANSLATION
- PHI_every_state_with_new_railway_connection: "Každý vlastněný stát, který má nové železniční spojení s jiným státem:" # todo: NEW TRANSLATION
- PHI_has_built_at_least_one_dockyard: "Postavil alespoň jeden $dockyard$" # todo: NEW TRANSLATION
- PHI_has_built_at_least_one_infrastructure: "Postavil alespoň jednu $infrastructure$" # todo: NEW TRANSLATION
- PHI_has_built_or_purchased_x_convoys: "Rozšířil flotilu konvojů na [?PHI_convoys_investment_goal] stavbou nebo nákupem." # todo: NEW TRANSLATION
- PHI_establish_reserve_transport_fleet: "Zřídit rezervní transportní flotilu" # todo: NEW TRANSLATION
- PHI_establish_new_train_connections: "Vybudovat nové železniční spojení" # todo: NEW TRANSLATION
- PHI_inspect_road_network: "Provést kontrolu silniční sítě" # todo: NEW TRANSLATION
- form_maphilindo_category: "Sjednotit malajské národy" # todo: NEW TRANSLATION
- form_maphilindo_category_desc: "Ačkoli naše etnické vazby s obyvateli Indonésie a Malajsie nejsou tak silné jako mezi těmito zeměmi navzájem, je třeba uznat, že naše hranice byly kresleny koloniálními mocnostmi a že pouze společně můžeme chránit náš strategicky důležitý region před vnějším vlivem." # todo: NEW TRANSLATION
- form_maphilindo: "Vytvořit Maphilindo" # todo: NEW TRANSLATION
- form_maphilindo_philippines_required_states_tt: "Ovládá všechny §Yfilipínské§! státy." # todo: NEW TRANSLATION
- integrate_siam: "Integrovat [SIA.GetNonIdeologyName]" # todo: NEW TRANSLATION
- integrate_indochina: "Integrovat Indočínu" # todo: NEW TRANSLATION
- integrate_burma: "Integrovat [BRM.GetNonIdeologyName]" # todo: NEW TRANSLATION
- PHI_relations_with_spanish_america: "Vztahy s hispánskými zeměmi" # todo: NEW TRANSLATION
- PHI_relations_with_spanish_america_desc: "Naše jazykové a kulturní vazby se Španělskem a jeho bývalými koloniemi tvoří most pro navázání partnerství s těmito státy, jak oslabuje vliv [USA.GetAdjective]." # todo: NEW TRANSLATION
- PHI_propose_treaty_of_mutual_assistance: "Navrhnout smlouvu o vzájemné pomoci s [FROM.GetNameDef]" # todo: NEW TRANSLATION
- PHI_propose_unification: "Navrhnout sjednocení s [FROM.GetNameDef]" # todo: NEW TRANSLATION
- PHI_awaiting_response: "Čeká na odpověď" # todo: NEW TRANSLATION
- PHI_force_unification: "Prohlásit [FROM.GetNonIdeologyName] za území [ROOT.GetAdjective]" # todo: NEW TRANSLATION
- PHI_force_unification_tt: "Stal se §Y$PHI_hispanic_empire_tag$§! prostřednictvím pokojného sjednocení" # todo: NEW TRANSLATION
- SPR_has_eliminated_guerrillas_tt: "[SPR.GetNameDef] zlikvidoval všechny partyzány na svém území" # todo: NEW TRANSLATION
- CHI_war_in_sinkiang: "Válka v Sinkiangu" # todo: NEW TRANSLATION
- CHI_war_in_sinkiang_desc: "S vypuknutím války v provincii Sinkiang je jen otázkou času, než Ústřední vláda prosadí mír v regionu a naše jednotky se vzdají. Pokud chceme vyhrát, musíme udeřit rychle a rozhodně." # todo: NEW TRANSLATION
- SIK_war_halting: "Rostoucí odpor proti válce" # todo: NEW TRANSLATION
- SIK_stalemate_tt: "Válka povede k patu a jednotky se vrátí na svá původní postavení" # todo: NEW TRANSLATION
- KHM_holding_out: "Vydržení" # todo: NEW TRANSLATION
- KHM_survival_tt: "Pokud vydržíme rok, válka se zastaví a naše pozice v Sinkiangu zůstane" # todo: NEW TRANSLATION
- SIC_xikang_offensive: "Ofenzíva v Xikangu" # todo: NEW TRANSLATION
- SIC_xikang_offensive_desc: "Po mnoha střetech podél hranice Liu Wenhui prohlásil, že se pokusí sjednotit celý Xikang pod svou vládou. Zda to bude možné, se teprve uvidí." # todo: NEW TRANSLATION
- SIC_push_into_xikang: "Postupovat dále do Xikangu" # todo: NEW TRANSLATION
- SIC_push_into_xikang_mission: "Boj o Xikang" # todo: NEW TRANSLATION
- CHI_tsr_power_struggle_cat: "Boj o moc v Číně" # todo: NEW TRANSLATION
- CHI_tsr_power_struggle_cat_desc: "Vypukl boj o politickou kontrolu nad Čínou. Musíme získat podporu velitelských pánů a uvnitř strany, abychom zvítězili." # todo: NEW TRANSLATION
- CHI_seek_party_support: "Získat podporu strany" # todo: NEW TRANSLATION
- CHI_seek_party_support_tt: "Zvyšuje náklady na toto rozhodnutí o §R25§!" # todo: NEW TRANSLATION
- CHI_tsr_seek_warlord_support: "Požádat o podporu [FROM.GetLeader]" # todo: NEW TRANSLATION
- TSR_pay_for_support_from_warlord_PP: "Nákup podpory od [FROM.GetLeader]" # todo: NEW TRANSLATION
- TSR_pay_for_support_from_warlord_manpower: "Poslat muže k [FROM.GetLeader]" # todo: NEW TRANSLATION
- TSR_pay_for_support_from_warlord_equipment: "Poslat zbraně k [FROM.GetLeader]" # todo: NEW TRANSLATION
- TSR_warlord_supports_us: "[FROM.GetNameDefCap] nás podpoří v boji o moc v Číně" # todo: NEW TRANSLATION
- CHI_tsr_take_national_leadership: "Uchopit národní vedení" # todo: NEW TRANSLATION
- CHI_warlord_propaganda_army: "Ukázat schopnosti armády" # todo: NEW TRANSLATION
- CHI_warlord_propaganda_air: "Nezávislé letectvo" # todo: NEW TRANSLATION
- CHI_warlord_propaganda_navy: "Nové námořnictvo" # todo: NEW TRANSLATION
- CHI_warlord_propaganda_stable: "Předvedení stability" # todo: NEW TRANSLATION
- CHI_army_reform_tt: "Zahájil reformu armády" # todo: NEW TRANSLATION
- MAN_release_bandits_2: "Rozpustit banditské armády" # todo: NEW TRANSLATION
- MAN_coring_decisions: "Znovuzačlenění ztracených území" # todo: NEW TRANSLATION
- MAN_coring_outer_manchuria_states: "Integrovat [FROM.GetName]" # todo: NEW TRANSLATION
- MAN_coring_mongolia_tuva: "Integrovat [FROM.GetName]" # todo: NEW TRANSLATION
- MAN_coring_tibet: "Integrovat [FROM.GetName]" # todo: NEW TRANSLATION
- MAN_coring_democratic: "Integrovat [FROM.GetName]" # todo: NEW TRANSLATION
- MAN_coring_state_in_progress_flag: " Právě integruje tento stát" # todo: NEW TRANSLATION
- claim_outer_manchuria_tt: "Odemkne rozhodnutí k integraci nárokovaných států v §YOuter Manchuria§!" # todo: NEW TRANSLATION
- MAN_state_shintoism_decisions: "Státní šintoismus" # todo: NEW TRANSLATION
- MAN_state_shintoism_decisions_desc: "Šintoismus importovaný z Japonska vzbuzuje stále určité obavy, ale s řádným přesvědčením se místní obyvatelstvo přizpůsobí. Použitím metod osvědčených v japonské domovině můžeme tuto příležitost využít ke zpevnění vlivu císaře nad našimi poddanými a tím i naší vnitřní stability." # todo: NEW TRANSLATION
- MAN_import_imperial_way_buddhism_decision: "Importovat buddhismus 'Imperial Way'" # todo: NEW TRANSLATION
- MAN_one_people_united_under_shinto_decision: "Jeden lid sjednocený pod šintoismem" # todo: NEW TRANSLATION
- MAN_incoporate_manchu_nationalism_decision: "Začlenit mandžuský nacionalismus" # todo: NEW TRANSLATION
- MAN_state_shinto_in_education_decision: "Státní šintoismus ve vzdělávání" # todo: NEW TRANSLATION
- MAN_recruit_bandits_2_north: "Naverbovat severní bandity" # todo: NEW TRANSLATION
- MAN_recruit_bandits_2_west: "Naverbovat západní bandity" # todo: NEW TRANSLATION
- MAN_recruit_bandits_2_east: "Naverbovat východní bandity" # todo: NEW TRANSLATION
- MAN_recruit_bandits_2_generic: "Naverbovat kirinské bandity" # todo: NEW TRANSLATION
- MAN_march_on_beijing_decisions: "Pochod na Peking" # todo: NEW TRANSLATION
- MAN_march_on_hebei_chahar: "Pochod na Hebei-Chahar" # todo: NEW TRANSLATION
- MAN_march_on_hebei_chahar_mission: "Pochod na Hebei-Chahar" # todo: NEW TRANSLATION
- MAN_march_on_beijing: "Pochod na Peking" # todo: NEW TRANSLATION
- MAN_march_on_beijing_mission: "Pochod na Peking" # todo: NEW TRANSLATION
- MAN_march_on_hebei: "Pochod na Hebei" # todo: NEW TRANSLATION
- MAN_march_on_hebei_mission: "Pochod na Hebei" # todo: NEW TRANSLATION
- MAN_establish_the_erdaojiang_special_steel_experimental_plant: "Zřídit experimentální závod na speciální ocel v Erdaojiangu" # todo: NEW TRANSLATION
- CHI_overlordship_over_indochina_tsr: "Nadvláda nad Indočínou" # todo: NEW TRANSLATION
- CHI_overlordship_over_indochina_tsr_desc: "Jakmile vyženeme kolonizátory z Indočíny, budeme je moci přinutit k vyjednávání." # todo: NEW TRANSLATION
- CHI_free_indochina_tsr: "Osvobození Indočíny" # todo: NEW TRANSLATION
- CHI_coring_state_in_progress_flag: " Právě integruje tento stát" # todo: NEW TRANSLATION
- CHI_warlord_core_territories: "Integrovat [FROM.GetName]" # todo: NEW TRANSLATION
- CHI_warlord_core_manchuria: "Integrovat [FROM.GetName]" # todo: NEW TRANSLATION
- MAN_china_matters: "Čínské záležitosti" # todo: NEW TRANSLATION
- MAN_request_full_control_over_china: "Požádat o plnou kontrolu nad Čínou" # todo: NEW TRANSLATION
- MAN_yong_ying_category: "Yong Ying" # todo: NEW TRANSLATION
- MAN_yong_ying_category_desc: "Yong Ying, neboli „tábory statečných“, jsou formou milice používanou za éry dynastie Qing; členové byli rekrutováni z místního obyvatelstva. Byly veřejně financovány, nikoli součástí stálé armády, působily samostatně, často za účelem sebeobrany. Měli bychom tento systém zdokonalit, aby byl efektivně využit v nadcházejících válkách." # todo: NEW TRANSLATION
- MAN_expand_yong_ying_recruitment: "Rozšířit nábor do Yong Ying" # todo: NEW TRANSLATION
- MAN_raise_the_yong_ying: "Zmobilizovat Yong Ying" # todo: NEW TRANSLATION
- MAN_demobilize_the_yong_ying: "Demobilizovat Yong Ying" # todo: NEW TRANSLATION
- MAN_raise_yong_yingu_active: " Milice byly mobilizovány" # todo: NEW TRANSLATION
- CHI_the_lingguang_incident_cat: "Incident Liangguang" # todo: NEW TRANSLATION
- CHI_the_lingguang_incident_cat_desc: "Po řadě provokací způsobených jak snahou Ústřední vlády získat moc na Jihu, tak i prohlášením nezávislosti dvou jihovýchodních provincií Guangdong a Guangxi a jejich tlakem na tvrdší přístup k Japonsku, se situace nyní zhroutila do plné krize." # todo: NEW TRANSLATION
- CHI_intervene_in_guangdong: "Zasáhnout v Guangdongu" # todo: NEW TRANSLATION
- GDC_restore_order: "Obnovit pořádek" # todo: NEW TRANSLATION
- CHI_growing_impatience: "Rostoucí netrpělivost" # todo: NEW TRANSLATION
- GXC_fortify_our_borders: "Opevnit naše hranice" # todo: NEW TRANSLATION
- GXC_anti_japanese_demonstration: "Demonstrace proti Japoncům" # todo: NEW TRANSLATION
- GXC_persuade_the_warlords: "Přesvědčit vojenské vůdce" # todo: NEW TRANSLATION
- GXC_further_negotiation: "Další vyjednávání" # todo: NEW TRANSLATION
- GXC_fortify_the_border: " Opevnil hranici" # todo: NEW TRANSLATION
- GXC_sent_out_the_japanese: " Vyhnal Japonce" # todo: NEW TRANSLATION
- GXC_persuaded_warlords: " Přesvědčil vojenské vůdce" # todo: NEW TRANSLATION
- GXC_negotiated_with_chiang: " Vyjednával s Chiang Kai-shekem" # todo: NEW TRANSLATION
- SND_unclear_loyalties_cat: "Opportunismus Han Fuju" # todo: NEW TRANSLATION
- SND_show_support_for_government: "Projevit podporu Ústřední vládě" # todo: NEW TRANSLATION
- SND_expel_japanese: "Vyhostit japonské poradce" # todo: NEW TRANSLATION
- SND_army_integration: "Integrace armády" # todo: NEW TRANSLATION
- SND_han_fuju_stays: "Han Fuju zůstává" # todo: NEW TRANSLATION
- han_will_flee_if_not_removed_tt: "§RPokud nebude toto dokončeno do doby, než Japonsko obsadí Jinan, Han Fuju opustí svou provincii§!" # todo: NEW TRANSLATION
- SND_swear_fealty_to_the_emperor: "Přísahat věrnost císaři" # todo: NEW TRANSLATION
- SND_shown_support: " Projevil podporu Ústřední vládě" # todo: NEW TRANSLATION
- SND_expelled_japanese: " Vyhostil japonské poradce" # todo: NEW TRANSLATION
- SND_army_integration_flag: " Integroval armádu" # todo: NEW TRANSLATION
- CHI_growing_impatience_dummy: "Rostoucí netrpělivost" # todo: NEW TRANSLATION
- CHI_war_in_liangguang: "Válka v Liangguangu" # todo: NEW TRANSLATION
- CHI_war_in_liangguang_desc: "S vypuknutím války v provincii Liangguang je jen otázkou času, než se naše jednotky unaví z boje mezi sebou a budou chtít upřednostnit společné čelení [JAP.GetAdjective] hrozbě. Abychom vyhráli, musíme udeřit rychle a rozhodně." # todo: NEW TRANSLATION
- CHI_war_in_south_halting: "Rostoucí odpor proti válce" # todo: NEW TRANSLATION
- CHI_stalemate_tt: "Válka povede k patu a jednotky se vrátí na svá původní postavení" # todo: NEW TRANSLATION
- GDC_holding_out: "Vydržení" # todo: NEW TRANSLATION
- GDC_survival_tt: "Pokud vydržíme rok, válka se zastaví a naše pozice v Liangguangu zůstane. Jakékoliv sousední republikánské státy, které padly pod naši kontrolu, zůstanou součástí našeho klanu, když nastane pat" # todo: NEW TRANSLATION
- XIC_war_in_yanan: "Šestá obkličovací kampaň" # todo: NEW TRANSLATION
- XIC_war_in_yanan_desc: "S obnovou války v provincii Shaanxi je jen otázkou času, než jednotky Armády pro potlačení banditů vzdají a dezertují. Pokud chceme vyhrát, musíme udeřit rychle a rozhodně." # todo: NEW TRANSLATION
- XIC_war_halting: "Ofenzíva ztrácí hybnost" # todo: NEW TRANSLATION
- XIC_stalemate_tt: "Válka skončí patem a jednotky se vrátí na svá původní postavení, pokud nedokážeme porazit [PRC.GetNameWithFlag] v daném čase." # todo: NEW TRANSLATION
- PRC_holding_out: "Vydržení" # todo: NEW TRANSLATION
- PRC_survival_tt: "Pokud vydržíme půl roku, válka se zastaví a naše pozice v Shaanxi zůstane. Pokud se nám podaří obsadit Yan'an do doby, kdy ofenzíva ustane, budeme ho moci udržet." # todo: NEW TRANSLATION
- RNG_state_shintoism_decisions: "Státní šintoismus" # todo: NEW TRANSLATION
- RNG_state_shintoism_decisions_desc: "Šintoismus importovaný z Japonska vzbuzuje stále určité obavy, ale s řádným přesvědčením se místní obyvatelstvo přizpůsobí. Použitím metod osvědčených v japonské domovině můžeme tuto příležitost využít ke zpevnění vlivu císaře nad našimi poddanými a tím i naší vnitřní stability." # todo: NEW TRANSLATION
- RNG_import_imperial_way_buddhism_decision: "Importovat buddhismus 'Imperial Way'" # todo: NEW TRANSLATION
- RNG_one_people_united_under_shinto_decision: "Jeden lid sjednocený pod šintoismem" # todo: NEW TRANSLATION
- RNG_state_shinto_in_education_decision: "Státní šintoismus ve vzdělávání" # todo: NEW TRANSLATION
- CHI_x_y_force_cat: "[ROOT.GetAdjective] expediční síla" # todo: NEW TRANSLATION
- CHI_form_x_force: "Vytvořit X-sílu" # todo: NEW TRANSLATION
- CHI_form_x_force_tt: "Vytvoří 6 pěchotních divizí v [435.GetName]" # todo: NEW TRANSLATION
- CHI_form_y_force: "Vytvořit Y-sílu" # todo: NEW TRANSLATION
- CHI_form_y_force_tt: "Vytvoří 15 pěchotních divizí v [325.GetName]" # todo: NEW TRANSLATION
- develop_rio_grande_sul_coal_mines: "Rozšířit uhelné doly [502.GetName]" # todo: NEW TRANSLATION
- develop_la_libertad_coal_mines: "Rozšířit uhelné doly [493.GetName]" # todo: NEW TRANSLATION
- develop_western_visayas_coal_mines: "Založit uhelné doly v [628.GetName]" # todo: NEW TRANSLATION
- expand_tomsk_coal_mines: "Rozšířit uhelné doly [578.GetName]" # todo: NEW TRANSLATION
- expand_sofia_coal_mines: "Rozšířit uhelné doly [48.GetName]" # todo: NEW TRANSLATION
- expand_north_transdanubia_coal_mines: "Rozšířit uhelné doly [155.GetName]" # todo: NEW TRANSLATION
- expand_bosnia_coal_mines: "Rozšířit uhelné doly [104.GetName]" # todo: NEW TRANSLATION
- expand_lima_coal_mines: "Rozšířit uhelné doly [303.GetName]" # todo: NEW TRANSLATION
- expand_antofagasta_coal_mines: "Rozšířit uhelné doly [506.GetName]" # todo: NEW TRANSLATION
- develop_mendoza_coal_mines: "Založit uhelné doly v [511.GetName]" # todo: NEW TRANSLATION
- develop_western_slovakia_coal_mines: "Založit uhelné doly v [70.GetName]" # todo: NEW TRANSLATION
- expand_tesinsko_coal_mines: "Rozšířit uhelné doly [72.GetName]" # todo: NEW TRANSLATION
- expand_german_coal_mines: "Rozšířit uhelné doly [FROM.GetName]" # todo: NEW TRANSLATION
- expand_german_coal_mines_tt: "Odemkne rozhodnutí: §YRozšířit uhelné doly§!" # todo: NEW TRANSLATION
- expand_transvaal_coal_mines: "Rozšířit uhelné doly [275.GetName]" # todo: NEW TRANSLATION
- expand_bihar_coal_mines: "Rozšířit uhelné doly [435.GetName]"" # todo: NEW TRANSLATION
+ greater_mongolia_category: "Znovusjednocení Velkého Mongolska"
+ greater_mongolia_category_desc: "Myšlenka znovusjednocení rozptýleného mongolského lidu existuje již od dob velké Mongolské říše a dynastie Jüan v Číně. Je čas, aby se rozdělené kmeny opět spojily a zahájily nový úsvit mongolského národa."
+ unite_greater_mongolia: "Vyhlásit nové Zlaté období Mongolska"
+ MEN_core_state: "Integrovat §Y[FROM.GetName]§! do Velkého Mongolska"
+ MEN_coring_state_in_progress: " Probíhá integrace státu."
+ greater_hui_state_category: "Sjednotit státy chuejského lidu"
+ greater_hui_state_category_desc: "Čínští muslimové Chuejové jsou rozptýleni po severozápadních provinciích a v oblasti Čung-jüan. Mnozí touží po sjednoceném státě, který by je ochránil před válkařením a cizí agresí; dokonce i Dungani, Pchanthajové a Čchin-chawové žádají naši pomoc. Musíme sjednotit náš lid co nejrychleji."
+ unite_hui_states: "Sjednotit Chueje"
+ rename_ulanbaatar_monarchist_decision: "Obnovit Urgu"
+ rename_ulanbaatar_non_monarchist_decision: "Obnovit Iche Chüree"
+ RNG_core_state: "Integrovat §Y[FROM.GetName]§! do nové čínské administrativy"
+ RNG_coring_state_in_progress: " Probíhá integrace státu."
+ KOR_regain_core_on_state_decision: "Obnovit pořádek v §Y[FROM.GetName]§!"
+ KOR_regaining_core_state_in_progress: " Probíhá obnova pořádku ve státě."
+ MEN_mongol_banner_category: "Mongolské korouhve"
+ MEN_mongol_banner_category_desc: "Systém korouhví je po staletí součástí mongolské správy a dovoluje nám povolat muže z jednotlivých korouhví, aby pozvedli zbraně a bránili své vesnice."
+ MEN_expand_banner_recruitment: "Rozšířit nábor korouhví"
+ MEN_raise_the_banners: "Pozvednout korouhve"
+ MEN_demobilize_the_banners: "Demobilizovat korouhve"
+ MEN_send_home_banners_tt: "Dočasně rozpustí všechny neregulérní jednotky. Později je lze opět povolat."
+ MEN_raise_banners_tt: "Nasadí všechny neregulérní divize do výše aktuálního limitu."
+ MEN_expand_banners_tt: "Zvýšil nepravidelný limit na méně než 24 divizí"
+ MEN_expand_banners_tt_2: "Zvýší náborový limit Neregulérů o 1"
+ MEN_raise_banners_active: " Neregulérní jednotky jsou povolány"
+ MEN_move_the_capital_to_zhangbei_decision: "Přesunout hlavní město do Čang-peje"
+ MEN_move_the_capital_to_kalgan_decision: "Přesunout hlavní město do Kalganu"
+ MEN_army_reform: "Reforma armády"
+ MEN_army_reform_desc: "Korupce, neschopnost a zbabělost bují na každé úrovni velení, a chybí jakákoliv skutečná centrální struktura. Náprava bude dlouhým procesem."
+ MEN_army_reform_decision: "Zahájit reformy armády"
+ PSR_core_state: "Integrovat §Y[FROM.GetName]§! do Druhé republiky"
+ PSR_coring_state_in_progress: " Probíhá integrace státu."
+ SOV_cancel_the_japanese_resource_rights_to_sakhalin_decision: "Zrušit §Y[JAP.GetAdjective]§! práva na těžbu v §Y[655.GetName]§!"
+ JAP_kodoha_insurgency_decisions: "Cesta císařská"
+ JAP_kodoha_insurgency_decisions_desc: "Frakce Kódóha uvnitř armády je znovu v pohybu, jak ukázala jejich vražda důstojníka Tecuzana Nagaty v srpnu 1935. Pokud podniknou rozsáhlou akci, stane se tak až po skončení procesu s Aizawou. Možná bude nejlepší zvýšit ochranu osob, které podle nich ohrožují kokutai - duši našeho národa."
+ JAP_aizawa_trial_ongoing: "Probíhající proces se Saburó Aizawou"
+ JAP_aizawa_trial_ongoing_desc: "Podplukovník Saburó Aizawa je v domácím vězení během procesu za vraždu Tecuzana Nagaty. Proces se stal mediální senzací a soudci sympatizují s frakcí, čímž se jednání mění v platformu pro jejich ideologii. Je jisté, že nedostane žádný skutečný trest. Pokud Kódóha plánuje akci, neudělá ji dřív, než bude Aizawa propuštěn."
+ JAP_aizawas_trial_over_flag: "Proces se Saburó Aizawou skončil a došlo k §YIncidentu 26. února§!"
+ JAP_takahashi_korekiyo_was_killed: " Takahaši Korekijo byl zabit rebely"
+ JAP_jotaro_watanabe_was_killed: " Džótaro Watanabe byl zabit rebely"
+ JAP_aizawa_trial_ongoing_tt: "Výsledek incidentu určí, které politické cesty budou dostupné"
+ JAP_increase_takahashi_korekiyo_security_decision: "Zvýšit ochranu kolem $JAP_takahashi_korekiyo$"
+ JAP_increase_takahashi_korekiyo_security_decision_tt: "Bezpečnost Takahašiho Korekija bude posílena, ale radikálové mohou přesměrovat své síly na jiné cíle."
+ JAP_will_not_impact_focus_choices_tt: "Toto neovlivní volbu fokusů"
+ JAP_increase_jotaro_watanabe_security_decision: "Zvýšit ochranu kolem Džótara Watanabeho"
+ JAP_increase_jotaro_watanabe_security_decision_tt: "Bezpečnost Džótara Watanabeho bude posílena, avšak radikálové mohou změnit své priority a útočit jinde."
+ JAP_kwantung_army_decisions: "Kantó-gun"
+ JAP_kwantung_army_decisions_desc: "Naše síly v Mandžusku a Číně, Kantó-gun, jednají vysoce autonomně a často bez povolení. Původně měly chránit pronajaté území Kuantung, ale jejich moc značně přesáhla původní mandát. Pokud nepřevezmeme kontrolu, mohou nás vtáhnout do války."
+ JAP_kwantung_army_impatience: "Netrpělivost armády Kantó-gun"
+ JAP_kwantung_army_impatience_desc: "Kantó-gun je stále netrpělivější se současnou situací v Číně a je pravděpodobné, že bude pokračovat v expanzi bez souhlasu vlády."
+ JAP_the_suiyuan_offensive_mission: "Kampaň v Suej-jüanu"
+ JAP_began_the_suiyuan_campaign: "Zahájili jsme kampaň v Suej-jüanu"
+ JAP_the_suiyuan_offensive_mission_tt: "§Y[ROOT.GetNameDefCap]§! nebo náš spojenec musí dobýt §Y[621.GetName]§! nebo §Y[746.GetName]§! před vypršením kampaně"
+ JAP_growing_unrest_in_the_shanghai_concession: "Rostoucí nepokoje v šanghajské koncesi"
+ JAP_growing_unrest_in_the_shanghai_concession_desc: "Po kapitulaci rozsáhlých oblastí nám obyvatelé čínské části mezinárodní koncese začínají být neklidní a nespokojení se zbabělostí režimu. Možná chystají akci..."
+ JAP_strike_down_chinese_warlord_decision: "Zasáhnout proti §Y[FROM.GetNameWithFlag]§!"
+ JAP_state_shintoism_decisions: "Státní šintoismus"
+ JAP_state_shintoism_decisions_desc: "Šintoismus je japonským náboženstvím od období Jajoi a později se prolínal se zenovým buddhismem. V éře Meidži přešly svatyně pod vliv vlády a lid byl povzbuzován k uctívání císaře jako kami. Nyní můžeme tento systém dále posílit."
+ JAP_incorporate_imperial_way_buddhism_decision: "Začlenit buddhismus Císařské cesty"
+ JAP_one_people_united_under_shinto_decision: "Jeden lid sjednocený šintoismem"
+ JAP_relentless_divine_nationalism_decision: "Vštípit neoblomný božský nacionalismus"
+ JAP_state_shinto_in_education_decision: "Šintoismus ve vzdělávání"
+ JAP_the_co_prosperity_sphere_decisions: "Společenská sféra vzájemné prosperity"
+ JAP_the_co_prosperity_sphere_decisions_desc: "Náš konečný cíl - ovládnout Asii - je na dosah. Vytvořením panasijské unie posílíme vztahy mezi národy, které chceme vést pod svými křídly. Musíme udělat vše, abychom tento sen uskutečnili."
+ JAP_hand_mongol_states_to_mengkukuo_decision: "Předat mongolské státy §Y[MEN.GetAdjective]§! administrativě"
+ JAP_hand_chinese_states_to_the_reorganized_government_decision: "Předat státy Kuomintangu §Y[RNG.GetAdjective]§! administrativě"
+ JAP_spiritual_mobilization_decisions: "Duchovní mobilizace"
+ JAP_spiritual_mobilization_decisions_desc: "[ROOT.GetAdjectiveCap] lid je odhodlaný podpořit vládu v každém jejím rozhodnutí, pokud dostane dostatečnou motivaci. Měli bychom mobilizovat obyvatelstvo duchovně i fyzicky."
+ JAP_luxury_is_the_enemy_decision: "Luxus je nepřítel!"
+ JAP_form_a_labor_patriot_corps_decision: "Vytvořit vlastenecké pracovní sbory"
+ JAP_produce_bullet_stamps_decision: "Vyrábět „střelecké známky“"
+ JAP_distribute_rations_decision: "Rozdělovat příděly"
+ JAP_develop_sufu_materials_decision: "Vyvinout materiály Sufu"
+ JAP_collect_civilian_donations_decision: "Sbírat civilní příspěvky"
+ JAP_raise_military_moreale_decision: "Pozvednout vojenskou morálku"
+ JAP_women_in_military_production_decision: "Ženy ve vojenské výrobě"
+ JAP_the_peoples_state_decisions: "Protivojenský boj"
+ JAP_the_peoples_state_decisions_desc: "Císařská vláda a feudalismus se brzy stanou minulostí. Nastal čas, aby prostý člověk řídil svůj vlastní osud a dovedl svůj lid k konečnému vysvobození."
+ JAP_sway_general_loyalty_decision: "Naklonit si loajalitu generálů"
+ JAP_sway_admiral_loyalty_decision: "Naklonit si loajalitu admirálů"
+ JAP_hold_speech_in_the_imperial_diet_decision: "Přednes před císařským parlamentem"
+ JAP_publically_distance_from_sov_decision: "Veřejně se distancovat od sovětského bolševismu"
+ JAP_publically_distance_from_sov_decision_tt: "Umožní další rozhodnutí po splnění specifických zaměření ke zvýšení šancí na úspěšnou revoluci"
+ JAP_spread_socialist_pamphlets_decision: "Šířit socialistické letáky a noviny"
+ JAP_spread_socialist_propaganda_in_campuses_decision: "Šířit socialistickou propagandu na univerzitách"
+ JAP_the_propaganda_department_decisions: "Propagační oddělení"
+ JAP_the_propaganda_department_decisions_desc: "Propagační oddělení neustále pracuje na potlačení nepřátelského vlivu a na šíření toho našeho, doma i v zahraničí. Prostřednictvím této organizace můžeme řídit vývoj Asie žádoucím směrem."
+ JAP_estabish_contact_with_thubten_kumphela_decision: "Navázat kontakt s Thubtenem Kunphelou"
+ JAP_influence_tibetan_people_decision: "Ovlivnit §Y[TIB.GetAdjective]§! lid"
+ JAP_approached_the_tibet_impr_party_flag: "Navázán kontakt se Stranou tibetského pokroku"
+ JAP_militarized_the_tibet_impr_party_flag: "Strana tibetského pokroku militarizována"
+ JAP_estabish_a_trongdra_regiment_in_exile: "Založit v exilu pluk Trongdra"
+ JAP_coup_the_tibetan_government_decision: "Provest převrat §Y[TIB.GetAdjective]§! vlády"
+ JAP_create_subject_tonarigumi: "Zorganizovat tonarigumi v §Y[FROM.GetNameDef]§!"
+ JAP_organizing_tonarigumi_in_progress: " Probíhá organizace tonarigumi."
+ war_propaganda_film_industry_2: "[ROOT.GetImportOrDomesticFilmIndustry]"
+ JAP_pull_back_on_fanatiscist_propaganda_decision: "Omezit fanatickou propagandu"
+ JAP_promote_pro_japanese_sentiment_decison: "Podporovat proizaišské nálady v §Y[FROM.GetNameDef]§!"
+ JAP_invest_in_colonial_resources_decison: "Investovat do §Y[FROM.GetAdjective]§! přírodních zdrojů"
+ JAP_promote_hayao_tada_to_lieutenant_general_decision: "Povýšit Hajaa Tadu na generálporučíka"
+ JAP_promote_hayao_tada_to_lieutenant_general_tt: "§YHajao Tada§! se stane generálem"
+ JAP_GEACPS_economic_integration_decision: "Požadovat integraci §Y[FROM.GetAdjective]§! ekonomiky"
+ war_propaganda_manga_industry: "Vydávat vlasteneckou a militaristickou mangu"
+ war_propaganda_manga_industry_desc: "Abychom motivovali lid k válce v Číně, měli bychom financovat vznikající projekty jako „Norakuro“ či „Severní čínská fronta: jednotka Hej-čana“, jež mohou inspirovat nové bojovníky."
+ JAP_GEACPS_develop_member_industry_decision: "Rozvíjet §Y[FROM.GetAdjective]§! průmysl"
+ JAP_annex_developed_puppet_decision: "Integrovat §Y[FROM.GetAdjective]§! civilní správu"
+ JAP_annex_developed_puppet_decision_tt: "Získáme §G25%§! §Yposlušnosti§! ve všech jejich státech"
+ JAP_launch_an_offensive_in_chinese_state_decision: "Zahájit ofenzivu v [FROM.GetName]"
+ is_controlled_by_ROOT_or_ally_NOT: "Není pod naší ani spojeneckou kontrolou"
+ JAP_preparing_an_offensive_in_progress: " Probíhá příprava ofenzivy"
+ JAP_infiltrate_setsen_khanate_lands_decision: "Infiltrace území bývalého Setsenského chanátu"
+ JAP_arm_anti_communist_mongol_dissidents_decision: "Vykořistit protikomunistické mongolské disidenty"
+ JAP_infiltrated_the_setsen_khanate_flag: "Infiltrace Setsenského chanátu provedena"
+ JAP_influence_mongolian_people_decision: "Ovlivnit §Y[MON.GetAdjective]§! lid"
+ JAP_send_jodbajab_to_mongolia_decision: "Poslat Jodbajaba do Mongolska"
+ JAP_send_jonjurjab_to_mongolia_decision: "Poslat Džondžurdžaba do Mongolska"
+ JAP_sent_jonjurjab_to_mongolia: " Džondžurdžab byl vyslán do Mongolska"
+ JAP_sent_jodbajab_to_mongolia: " Jodbajab byl vyslán do Mongolska"
+ JAP_send_jodbajab_to_mongolia_decision_tt: "§YJodbajab§! bude vyslán do §YMongolska§! připravit kolaborační vládu"
+ JAP_send_jonjurjab_to_mongolia_decision_tt: "§YJonjurjab§! bude vyslán do §YMongolska§! připravit kolaborační vládu"
+ JAP_send_collabs_to_mongolia_trigger_tt: "Souhrnná podpora Nezařazených a Fašistů přesahuje 35 %"
+ JAP_coup_the_mongolian_government_decision: "Provest převrat mongolské vlády"
+ JAP_coup_mongolia_trigger_tt: "Souhrnná podpora Nezařazených a Fašistů přesahuje 40 %"
+ JAP_coup_the_mongolian_government_decision_tt: "§RToto může vést k válce s [MON.GetNameDef] a jejich spojenci!§!"
+ JAP_establish_the_state_of_burma_decision: "Založit stát Barma"
+ JAP_establish_the_provisional_government_of_free_india_decision: "Zřídit Prozatímní vládu Svobodné Indie"
+ JAP_establish_the_second_philippine_republic_decision: "Zřídit Druhou Filipínskou republiku"
+ JAP_establish_kingdoms_of_annam_and_cambodia_decision: "Ustanovit království Annam a Velká Kambodža"
+ kingdoms_of_annam_and_cambodia_tt: "Ustanoví §YKrálovství Annam§! v §Y[671.GetName]§!, §Y[1017.GetName]§! a §Y[670.GetName]§!. \nUstanoví §YKrálovství Kambodža§! v §Y[741.GetName]§! a §Y[286.GetName]§!."
+ empire_of_vietnam_tt: "Ustanoví §YVietnamskou říši§! v §Y[671.GetName]§!, §Y[1017.GetName]§! a §Y[286.GetName]§!."
+ JAP_establish_empire_of_vietnam_decision: "Zřídit Vietnamskou říši"
+ JAP_establish_kingdom_of_kampuchea_decision: "Zřídit Království Kampučea"
+ JAP_establish_kingdom_of_luang_prabang_decision: "Zřídit Království Luang Prabang"
+ kingdom_of_kampuchea_tt: "Ustanoví §YKrálovství Kampučea§! v §Y[741.GetName]§!."
+ kingdom_of_luang_prabang_tt: "Ustanoví §YKrálovství Luang Prabang§! v §Y[670.GetName]§!."
+ JAP_merge_our_chinese_puppets_decision: "Sloučit čínské loutkové administrace do jediné"
+ JAP_demand_soviet_unions_surrender: "Požadovat kapitulaci §Y[FROM.GetNameDef]§!"
+ JAP_sue_for_peace_with_soviet_TT: "Žádný z nárokovaných §Ysibiřských§! států není pod kontrolou §Y[SOV.GetNameDef]§! nebo jejich subjektů."
+ JAP_organize_timorese_black_columns_decision: "Zorganizovat timorské Černé kolony"
+ JAP_establish_state_of_ceylon_decision: "Založit stát Cejlon"
+ state_of_ceylon_tt: "Ustanoví §YStát Cejlon§! v §Y[422.GetName]§!."
+ JAP_integrate_northern_karafuto_decision: "Integrovat Severní Karafuto"
+ JAP_core_KOR_state: "Reorganizovat §Y[FROM.GetName]§! do nové správní oblasti"
+ JAP_coring_KOR_state_in_progress_flag: " Probíhá integrace korejské provincie"
+ JAP_core_MAN_state: "Reorganizovat §Y[FROM.GetName]§! do nové správní oblasti"
+ JAP_coring_MAN_state_in_progress_flag: " Probíhá integrace mandžuské provincie"
+ JAP_open_factory_in_state_decision: "Otevřít státní továrny v §Y[FROM.GetName]§!"
+ JAP_core_asian_state: "Integrovat lid §Y[FROM.GetName]§!"
+ JAP_coring_this_asian_state_in_progress_flag: " Probíhá integrace tohoto státu"
+ JAP_jeweled_spear_claim_decision: "Vznést nároky na §Y[FROM.GetAdjective]§! státy"
+ JAP_jeweled_spear_claim_availability_tt: "Všechna dříve nárokovaná území jsou pod naší kontrolou"
+ JAP_conflict_between_faction_reaching_boiling_point_mission: "Střet frakcí se blíží bodu zlomu"
+ JAP_conflict_between_faction_reaching_boiling_point_mission_desc: "Konflikt mezi civilní vládou a armádou rychle dosahuje bodu zlomu. Obě strany bojují o moc a je pravděpodobné, že tento střet přeroste v politický incident, který dramaticky určí budoucí směřování naší země."
+ JAP_secure_control_from_army_decision: "Zajistit kontrolu nad §Y[FROM.GetName]§!"
+ JAP_democratic_state_flipping_cost_cost_increase_tt: "Cena tohoto rozhodnutí se §Rzvýší o 15§!"
+ JAP_communist_infiltration_of_state_decision_decision: "Založit podzemní komunistickou buňku v §Y[FROM.GetName]§!"
+ JAP_communist_state_infiltrating_cost_cost_increase_tt: "Cena tohoto rozhodnutí se §Rzvýší o 10§!"
+ JAP_establish_guerilla_units_in_state_decision: "Zřídit partyzánské jednotky v §Y[FROM.GetName]§!"
+ JAP_establish_guerilla_units_in_state_decision_tt: "Na začátku §Yobčanské války§! získáme §G2§! §Ymilice§! v tomto státě"
+ JAP_raid_an_infantry_weapons_depot_decision: "Přepadnout sklad pěchotních zbraní"
+ JAP_raid_an_infantry_weapons_depot_decision_tt: "Na začátku občanské války získáme §G500§! §Ypěchotního vybavení§! a protivník obdrží malý postih na 180 dní"
+ JAP_raid_an_artillery_depot_decision: "Přepadnout dělostřelecký sklad"
+ JAP_raid_an_artillery_depot_decision_tt: "Na začátku občanské války získáme §G250§! §Yděl§! a protivník obdrží malý postih na 180 dní"
+ JAP_raid_a_truck_depot_decision: "Přepadnout sklad nákladních vozidel"
+ JAP_raid_a_truck_depot_decision_tt: "Na začátku občanské války získáme §G250§! §Ynáklaďáků§! a protivník obdrží malý postih na 180 dní"
+ JAP_move_the_capital_back_to_tokyo_decision: "Přesunout hlavní město zpět do Tokia"
+ JAP_investing_in_foreign_industries_cat: "Průmyslové investice"
+ JAP_investing_in_foreign_industries_cat_desc: "Náš program průmyslových investic v ostatních asijských zemích může zpočátku zmenšit naši vlastní základnu, avšak získané suroviny tuto ztrátu více než vyrovnají a posílí naše výrobní linky."
+ JAP_currently_investing_in_foreign_industry_flag: " Právě investuje do zahraničního průmyslu"
+ JAP_industrial_investment_descision_tt: "§G10§! jednotek vybraného zdroje bude poskytnuto §Y[ROOT.GetNameWithFlag]§!, zatímco §Y1§! civilní továrna bude demontována a předána §Y[FROM.OWNER.GetNameWithFlag]§!"
+ JAP_industrial_investment_for_oil_decision: "Přesunout průmysl do §Y[FROM.CONTROLLER.GetNameDef]§! výměnou za §Yropu§! z §Y[FROM.GetName]§!"
+ JAP_industrial_investment_for_tungsten_decision: "Přesunout průmysl do §Y[FROM.CONTROLLER.GetNameDef]§! výměnou za §Ywolfram§! z §Y[FROM.GetName]§!"
+ JAP_industrial_investment_for_chromium_decision: "Přesunout průmysl do §Y[FROM.CONTROLLER.GetNameDef]§! výměnou za §Ychrom§! z §Y[FROM.GetName]§!"
+ JAP_industrial_investment_for_rubber_decision: "Přesunout průmysl do §Y[FROM.CONTROLLER.GetNameDef]§! výměnou za §Ygumu§! z §Y[FROM.GetName]§!"
+ JAP_attract_foreign_investments_decision: "Přilákat zahraniční investice z §Y[FROM.GetNameWithFlag]§!"
+ JAP_has_already_attracted_inestments_from_here_flag: " Již byly získány investice z této země"
+ JAP_west_pacific_treaty_org_allied_trade_cat: "Spojenecké obchodní dohody"
+ JAP_west_pacific_treaty_org_allied_trade_cat_desc: "Naši spojenci disponují mnoha zdroji, které by pro nás byly velmi užitečné. Prohloubením vzájemného obchodu můžeme zajistit stálý přísun surovin a zároveň odříznout naše protivníky - čímž posílíme sebe a oslabíme je."
+ JAP_west_pacific_treaty_org_trade_decision: "Zahájit obchodní jednání s §Y[FROM.GetName]§!"
+ JAP_west_pacific_treaty_org_economic_integration_cat: "Ekonomická integrace"
+ JAP_west_pacific_treaty_org_economic_integration_cat_desc: "Náš pacifický celní a měnový svaz je úspěšný, ale jeho schopnosti sahají mnohem dál. Prohlubováním jejich ekonomické závislosti na nás je nakonec učiníme faktickými poddanými."
+ JAP_west_pacific_treaty_org_currency_union_decision: "Pozvat §Y[FROM.GetNameDef]§! do měnové unie"
+ JAP_west_pacific_treaty_org_economic_integration_decision: "Nabídnout ekonomickou integraci §Y[FROM.GetName]§!"
+ JAP_further_increase_froms_dependency_decision: "Ještě více zvýšit §Y[FROM.GetAdjective]§! ekonomickou závislost"
+ JAP_annex_integrated_puppet_decision: "Integrovat §Y[FROM.GetAdjective]§! civilní správu"
+ JAP_assume_guardianship_over_asian_subject_decison: "Převzít poručnictví nad §Y[FROM.GetNameDef]§!"
+ JAP_has_already_attempted_to_become_the_guardian_of_this_nation_flag: " Již se pokusil stát poručníkem této země"
+ JAP_currently_trying_to_become_a_nations_guardian_flag: " Právě se pokouší stát poručníkem některé země"
+ JAP_anti_colonialism_category: "Antikoloniální politika"
+ JAP_anti_colonialism_category_desc: "Uděláme vše, co je v našich silách, abychom podporovali odbojová hnutí v celém regionu, dokud nebude západní imperialismus zcela odstraněn."
+ JAP_anti_colonialism_map_category_name: "Koloniální státy, kde lze podporovat odboj"
+ JAP_support_resistance_decision: "Podpořit protiautoritní odpor proti §Y[FROM.OWNER.GetAdjective]§! v [FROM.GetName]"
+ JAP_support_resistance_decision_desc: "Podpořit odbojové bojovníky ve svržení §Y[FROM.OWNER.GetAdjective]§! vlády."
+ JAP_arm_resistance_decision: "Vyztužit odpor proti §Y[FROM.OWNER.GetAdjective]§! v [FROM.GetName]"
+ JAP_arm_resistance_decision_desc: "Vyztužit odbojové bojovníky v tomto státě."
+ JAP_independence_support_progress_flag: " Právě je podporováno hnutí za nezávislost"
+ JAP_arm_resistance_flag: "Probíhá vyzbrojování odporu v koloniálním státě."
+ JAP_democratic_core_asian_state: "Integrovat §Y[FROM.GetName]§!"
+ JAP_communist_core_asian_state: "Integrovat §Y[FROM.GetName]§!"
+ JAP_invite_demo_or_na_asian_nation_to_faction_decison: "Pozvat §Y[FROM.GetNameDef]§! do našeho spojenectví"
+ JAP_securing_control_over_osaka_mission: "Armáda zabezpečuje kontrolu nad Ósakou"
+ JAP_securing_control_over_osaka_mission_tt: "§Y[531.GetName]§! bude zajištěna loajalisty IJA a v případě §Yobčanské války§! se k nim automaticky přidá"
+ JAP_army_politically_purging_disloyal_young_officers_mission: "Armáda provádí politické čistky mezi neloajálními mladými důstojníky"
+ JAP_army_politically_purging_disloyal_young_officers_mission_tt: "Větší část §Ycísařské armády§! se v případě §Yobčanské války§! přidá na stranu IJA"
+ JAP_army_politically_purging_disloyal_young_officers_mission_2_tt: "§R1§! §Ygenerál§! bude zajištěn pro IJA"
+ JAP_do_not_align_me_flag: "Nelze zarovnat žádnou stranou vládně-armádního konfliktu"
+ JAP_army_recruiting_more_conscripts_mission: "Armáda verbuje více branců"
+ JAP_army_recruiting_more_conscripts_mission_tt: "IJA získá §R4§! dodatečné §Ypěchotní divize§! na začátku §Yobčanské války§!"
+ JAP_army_broadcasting_militarist_propaganda_mission: "Armáda vysílá militaristickou propagandu"
+ JAP_army_smuggling_kwantung_army_units_to_the_home_islands_mission: "Armáda pašuje jednotky Kantó-gun na domácí ostrovy"
+ JAP_army_smuggling_kwantung_army_units_to_the_home_islands_mission_tt: "IJA získá §R3§! dodatečné §Yjezdecké divize§! na začátku §Yobčanské války§!"
+ JAP_tokko_arresting_anti_army_disidents_mission: "Tokkó zatýká protivojenské disidenty"
+ JAP_tokko_arresting_anti_army_disidents_mission_tt: "Tito poradci budou zatčeni a nebudou dostupní až do začátku občanské války:"
+ JAP_IJA_arrested_advisors_flag: " Tokkó nyní zadržuje disidenty"
+ JAP_army_securing_navy_support_mission: "Armáda si zajišťuje podporu námořnictva"
+ JAP_army_securing_navy_support_mission_tt: "Větší část §Ycísařského námořnictva§! se v případě §Yobčanské války§! přidá na stranu IJA"
+ JAP_army_ensuring_loyalty_within_the_regiments_mission: "Armáda zajišťuje loajalitu v rámci pluků"
+ JAP_army_ensuring_loyalty_within_the_regiments_mission_tt: "Větší část §Ycísařské armády§! se v případě §Yobčanské války§! přidá na stranu IJA"
+ JAP_army_broadcasting_militarist_propaganda_2_mission: "Armáda vysílá protirežimní propagandu"
+ JAP_army_securing_army_arsenals_mission: "Armáda zajišťuje klíčové armádní arzenály"
+ JAP_army_securing_army_arsenals_mission_tt: "Po začátku §Yobčanské války§! získáme následující bonusy na §R365§! dní"
+ JAP_launch_an_offensive_in_core_state_decision: "Zahájit ofenzivu v [FROM.GetName]"
+ JAP_improve_the_category_of_state_decision: "Investovat do urbanizace státu §Y[FROM.GetName]§!"
+ JAP_ashigaru_category: "Ašigaru"
+ JAP_ashigaru_category_desc: "Systém ašigaru je součástí našeho válečného způsobu již po staletí a umožňuje nám povolat muže z různých vesnic v našem státě, aby pozvedli zbraně a bránili své domovy."
+ JAP_expand_banner_recruitment: "Rozšířit nábor ašigaru"
+ JAP_raise_the_ashigaru: "Povolat ašigaru"
+ JAP_demobilize_the_ashigaru: "Demobilizovat ašigaru"
+ JAP_send_home_ashigaru_tt: "Dočasně rozpustí všechny milice. V budoucnu je bude možné povolat znovu."
+ JAP_raise_ashigaru_tt: "Nasadí všechny milice až do aktuálního limitu."
+ JAP_expand_ashigaru_tt: "Má zvýšený limit milic na méně než 24 divizí"
+ JAP_expand_ashigaru_tt_2: "Zvýší náborový limit milic o 1"
+ JAP_raise_ashigaru_active: " Milice jsou povolány"
+ JAP_implementing_unos_economic_reforms_mission: "Zavádění ekonomických reforem Kózó Una"
+ JAP_redistribute_wealth_and_collectivize_farms_decision: "Přerozdělit bohatství a kolektivizovat farmy"
+ JAP_redistribute_wealth_tt: "Přerozdělili bohatství §Y6§!x nebo méně"
+ JAP_urban_investments_modifier: "Zvýšené urbanizační úsilí"
+ JAP_incite_increased_tensions_in_the_diet_decision: "Podnítit napětí v císařském sněmu"
+ JAP_empower_the_yi_dynasty_decision: "Posílit dynastii I"
+ JAP_the_red_sun_over_asia_decisions: "Rudé slunce nad Asií"
+ JAP_the_red_sun_over_asia_decisions_desc: "Nastal čas osvobodit lid Asie od kapitalistického a imperialistického útisku. Ať žije stát dělníků!"
+ JAP_invite_com_south_ame_nation_to_faction_decison: "Pozvat §Y[FROM.GetNameDef]§! do Internacionály"
+ JAP_invite_com_south_asian_nation_to_faction_decison: "Pozvat §Y[FROM.GetNameDef]§! do Internacionály"
+ JAP_invite_com_middle_eastern_nation_to_faction_decison: "Pozvat §Y[FROM.GetNameDef]§! do Internacionály"
+ JAP_stir_communist_sentiments_in_the_middle_east_decison: "Podnítit komunistické nálady v §Y[FROM.GetNameDef]§!"
+ JAP_stir_communist_sentiments_in_south_asia_decison: "Podnítit komunistické nálady v §Y[FROM.GetNameDef]§!"
+ JAP_PARF_develop_member_industry_decision: "Rozvíjet §Y[FROM.GetAdjective]§! průmysl"
+ JAP_PARF_economic_integration_decision: "Požadovat integraci §Y[FROM.GetAdjective]§! ekonomiky"
+ JAP_boeitai_category: "Boeitai"
+ JAP_boeitai_category_desc: "S hrozbou obranné války na vlastních ostrovech se stává potřebným vytvořit Obranný sbor, který lze rychle mobilizovat v případě nepřátelské invaze. To zahrnuje i osoby, které by jinak nebyly povolány podle japonského branného systému."
+ JAP_expand_boeitai_recruitment: "Rozšířit nábor do Boeitai"
+ JAP_raise_the_boeitai: "Povolat Boeitai"
+ JAP_demobilize_the_boeitai: "Demobilizovat Boeitai"
+ JAP_send_home_boeitai_tt: "Dočasně rozpustí všechny milice. V budoucnu je bude možné povolat znovu."
+ JAP_raise_boeitai_tt: "Nasadí všechny milice až do aktuálního limitu."
+ JAP_expand_boeitai_tt: "Má zvýšený limit milic na méně než 24 divizí"
+ JAP_expand_boeitai_tt_2: "Zvýší náborový limit milic o 1"
+ JAP_raise_boeitai_active: " Milice jsou povolány"
+ JAP_organize_the_fifth_column_decision: "Sabotáž v týlu nepřítele"
+ JAP_organize_the_fifth_column_decision_desc: "Lojální partyzáni operující v týlu nepřítele mohou narušit komunikaci v §Y[FROM.GetNameDef]§!. Útoky na velitelská stanoviště, přeřezávání telegrafních linek či vykolejování vlaků snižují připravenost nepřítele a zvyšují šanci na úspěšné osvobození Japonska."
+ JAP_organize_the_fifth_column_decision_tt: "§YNepřátelské jednotky§! utrpí poškození §Yorganizace§!"
+ JAP_organize_the_fifth_column_flag: "Příprava sabotáže"
+ JAP_imperial_influence_decision_cat: "Požadavky vnitřních frakcí"
+ JAP_imperial_influence_decision_cat_desc: "Vnitřní frakce v naší zemi mají značnou autonomii a nehodlají nečinně přihlížet, pokud je [ROOT.GetLeader] ignoruje. Dokud nebudou výrazně omezeny, budou klást rozsáhlé požadavky na naši vládu."
+ JAP_army_faction_demands_military_factories: "$JAP_army_faction$ požaduje více vojenských továren"
+ JAP_army_faction_demands_military_factories_tt: "Má více než §Y[?JAP_desired_military_factories]§! $arms_factory$s"
+ JAP_army_faction_demands_political_appointment: "$JAP_army_faction$ požaduje jmenování náčelníka armády"
+ JAP_army_faction_demands_conscription_law_change: "$JAP_army_faction$ požaduje změnu branného zákona"
+ JAP_army_faction_demands_larger_army: "$JAP_army_faction$ požaduje větší armádu"
+ JAP_army_faction_demands_more_trucks: "$JAP_army_faction$ požaduje více nákladních vozidel"
+ JAP_army_faction_demands_more_tanks: "$JAP_army_faction$ požaduje více tanků"
+ JAP_army_faction_demands_more_artillery: "$JAP_army_faction$ požaduje více dělostřelectva"
+ JAP_naval_faction_demands_dockyards: "$JAP_naval_faction$ požaduje více loděnic"
+ JAP_naval_faction_demands_dockyards_tt: "Má více než §Y[?JAP_desired_naval_factories]§! $dockyard$s"
+ JAP_naval_faction_demands_political_appointment: "$JAP_naval_faction$ požaduje jmenování náčelníka námořnictva"
+ JAP_naval_faction_demands_conscription_law_change: "$JAP_naval_faction$ požaduje změnu branného zákona"
+ JAP_naval_faction_demands_more_carriers: "$JAP_naval_faction$ požaduje více letadlových lodí"
+ JAP_naval_faction_demands_more_carriers_and_battleships: "$JAP_naval_faction$ požaduje více letadlových lodí a bitevních lodí"
+ JAP_naval_faction_demands_more_battleships: "$JAP_naval_faction$ požaduje více bitevních lodí"
+ JAP_naval_faction_demands_strike_south_happen_mission: "$JAP_naval_faction$ požaduje Zahájit úder na Jih"
+ JAP_zaibatsu_faction_demands_factories: "$JAP_zaibatsu_faction$ požaduje více civilních továren"
+ JAP_zaibatsu_faction_demands_factories_tt: "Má více než §Y[?JAP_desired_civilian_factories]§! $industrial_complex$"
+ JAP_zaibatsu_faction_demands_political_appointment: "$JAP_zaibatsu_faction$ požaduje politické jmenování"
+ JAP_zaibatsu_faction_demands_economy_law_change: "$JAP_zaibatsu_faction$ požaduje změnu hospodářského zákona"
+ JAP_zaibatsu_faction_demands_industrial_company_employment: "$JAP_zaibatsu_faction$ požaduje smlouvu s průmyslovou společností"
+ JAP_government_faction_demands_political_appointment: "$JAP_government_faction$ požaduje politické jmenování"
+ JAP_government_faction_demands_trade_law_change: "$JAP_government_faction$ požaduje změnu obchodního zákona"
+ JAP_government_faction_demands_limited_army_influence: "$JAP_government_faction$ požaduje omezení vlivu armády"
+ JAP_government_faction_demands_limited_navy_influence: "$JAP_government_faction$ požaduje omezení vlivu námořnictva"
+ JAP_government_faction_demands_limited_zaibatsu_influence: "$JAP_government_faction$ požaduje omezení vlivu zaibaců"
+ CHI_the_political_tutelage_cat: "Politické poručnictví"
+ CHI_the_political_tutelage_cat_desc: "Nastal čas plně naplnit myšlenky Sunjatsena: zvýšit gramotnost čínského lidu a probudit jeho politické vědomí, aby na naší půdě mohl vzniknout a přežít skutečný stát republiky."
+ CHI_core_asian_state: "Integrovat §Y[FROM.GetName]§!"
+ CHI_coring_this_asian_state_in_progress_flag: " Právě probíhá integrace tohoto státu"
+ CHI_accelerate_urban_tutelage_decision: "Urychlit politickou tutelu ve státě §Y[FROM.GetName]§!"
+ CHI_accelerate_rural_tutelage_decision: "Urychlit politickou tutelu ve státě §Y[FROM.GetName]§!"
+ CHI_develop_warlord_industry_decision: "Rozvíjet sociální systém a veřejné práce ve státě §Y[FROM.GetNameDef]§!"
+ CHI_war_of_resistance_cat: "Válka odporu"
+ CHI_war_of_resistance_cat_desc: "Nepřítel opět stojí na naší půdě a válka znovu hoří v našich zemích. Musíme povstat. I když nejsme nejmodernější ani nejlépe vybavená armáda světa, máme prostředky k boji — a k vítězství. Zpět je porazíme na polích, v kopcích i v horách."
+ CHI_demonstrate_our_resolve_decision: "Prokázat naše odhodlání ve státě §Y[FROM.GetName]§!"
+ CHI_demonstrate_our_resolve_decision_tt: "Aktivuje misi k udržení tohoto státu po určitou dobu. Pokud uspějeme, získáme:\n  -[?demonstrate_resolve_cic_reward] §Y$CIC_BANK_HEADER$§!\n  -[?demonstrate_resolve_art_reward] §YDělostřelecké vybavení§!"
+ CHI_holding_state_mission_flag: "Bráníme: [?CHI.CHI_declare_defence_name_var.GetName]"
+ CHI_holding_state_mission_trigger: "[?CHI.CHI_declare_defence_name_var.GetName] je kontrolován námi nebo naším spojencem"
+ CHI_declared_defence: "[CHI.GetName] vyhlásilo obranu státu"
+ CHI_holding_state_mission: "Udržet linii v [?CHI.CHI_declare_defence_name_var.GetName]"
+ CHI_china_pledging_to_hold_state_mission: "[CHI.GetNameDefCap] prokazuje odhodlání v [?CHI.CHI_declare_defence_name_var.GetName]"
+ CHI_holding_state_mission_fake: "Udržet linii"
+ CHI_declare_war_zone: "Vyhlásit válečnou zónu"
+ CHI_declare_war_zone_flag_tt: "Válečná zóna již byla vyhlášena. \n Znovu použitelné za dní: [?CHI_declare_war_zone_flag:days_left|Y0]"
+ CHI_declared_war_zone: "Vyhlášená válečná zóna"
+ CHI_bog_them_down: "Koordinovat obranu"
+ CHI_bog_them_down_flag_tt: "Obrana byla již koordinována. \n Znovu použitelné za dní: [?CHI_bog_them_down_flag:days_left|Y0]"
+ CHI_burma_campaign_mission: "Barmská kampaň"
+ CHI_indo_chinese_campaign_mission: "Indočínská kampaň"
+ CHI_internal_politics_cat: "Vnitřní politika"
+ CHI_internal_politics_cat_desc: "Zaostalost a zanedbání z dob dynastie Čching zabraly dlouho překonat, avšak od Severního tažení postupujeme kupředu. Modernizace však není u konce — musíme zrychlit, chceme-li držet krok se světem."
+ CHI_lend_lease_missions_cat: "Mise lend-lease"
+ CHI_lend_lease_missions_cat_desc: "Podpora z ciziny nám umožnila vzdorovat útočníkům, ale nic není zadarmo. Musíme dokázat, že si pomoc zasloužíme — a že dokážeme využít i více."
+ CHI_improving_neglected_countryside_mission: "Investice do zanedbaného venkova"
+ CHI_improving_inefficient_economy_mission: "Zlepšení ekonomiky"
+ CHI_develop_hunan_tungsten_mines: "Rozvoj wolframových dolů v Chu-nanu"
+ CHI_develop_jiangxi_tungsten_mines: "Rozvoj wolframových dolů v Ťiang-si"
+ CHI_counter_infiltration_measures: "Protiopatření proti infiltraci ze strany [PRC.GetRulingIdeology]"
+ CHI_counter_infiltration_measures_level_3: "$CHI_counter_infiltration_measures$"
+ CHI_counter_infiltration_measures_flag: "Probíhá potlačení infiltrace"
+ CHI_counter_fascist_infiltration_measures: "Protiopatření proti infiltraci ze strany [CHI.GetRulingIdeology]"
+ CHI_counter_fascist_infiltration_measures_level_3: "$CHI_counter_fascist_infiltration_measures$"
+ CHI_improve_opium_modifiers_output: "Protipašerácké operace"
+ CHI_improve_opium_modifiers_output_trigger: "Nelegální obchod má negativní průmyslový výstup"
+ CHI_improve_opium_modifiers_cg: "Vládní protikorupční kampaň"
+ CHI_improve_opium_modifiers_cg_trigger: "Nelegální obchod má kladný faktor spotřebních továren"
+ CHI_opium_cat: "Protiopiové politiky"
+ CHI_opium_cat_desc: "Nelegální obchod je metlou naší společnosti — sužuje obyčejné lidi i nejvyšší místa vlády. Musíme jednat rozhodně, odstranit tuto rakovinu a obnovit integritu našich komunit."
+ CHI_develop_coal_mines: "Rozšířit uhelné doly v [FROM.GetName]u"
+ CHI_integrate_the_warlords_sea_cat: "Integrace militaristů"
+ CHI_press_warlord_to_become_puppet: "Přitlačit §Y[FROM.GetNameDef]§! k tomu, aby se stal naším subjektem"
+ CHI_press_warlord_to_become_puppet_upgrade: "$CHI_press_warlord_to_become_puppet$"
+ CHI_press_warlord_to_become_puppet_upgrade_with_affirm_civilian_primacy: "$CHI_press_warlord_to_become_puppet$"
+ CHI_press_warlord_to_become_puppet_with_affirm_civilian_primacy: "$CHI_press_warlord_to_become_puppet$"
+ is_pressing_warlord: "Právě vyvíjí nátlak na militaristu"
+ CHI_warlord_autonomy_drift_decision: "Integrační úsilí v §Y[FROM.GetName]§!"
+ CHI_warlord_autonomy_drift_decision_upgrade: "$CHI_warlord_autonomy_drift_decision$"
+ CHI_warlord_autonomy_allocate_lend_lease_decision: "Přidělit lend-lease pro §Y[FROM.GetName]§!"
+ CHI_warlord_autonomy_offer_economic_support_decision: "Nabídnout §YEkonomickou podporu§! státu §Y[FROM.GetName]§!"
+ CHI_warlord_economic_support_reset_tt: " Poskytli jsme §YEkonomickou podporu§! během posledních [?CHI_warlord_economic_support_flag:days_left|0] dní"
+ CHI_warlord_economic_support_flag: " Nedávno poskytnuta ekonomická podpora"
+ CHI_warlord_autonomy_offer_industrial_support_decision: "Nabídnout §YPrůmyslovou podporu§! státu §Y[FROM.GetName]§!"
+ CHI_warlord_industrial_support_flag: " Nedávno poskytnuta průmyslová podpora"
+ CHI_warlord_industrial_support_reset_tt: " Poskytli jsme §YPrůmyslovou podporu§! během posledních [?CHI_warlord_economic_support_flag:days_left|0] dní"
+ CHI_warlord_annex: "Anektovat §Y[FROM.GetName]§!"
+ CHI_integrating_states: "Rozšířit pravomoci MTAC v [FROM.GetName]"
+ CHI_integrate_the_warlords_democratic_sea_cat: "Reunifikační iniciativy"
+ CHI_press_warlord_to_become_puppet_democratic: "Požadovat, aby §Y[FROM.GetLeader]§! uznal autoritu centrální vlády"
+ CHI_warlord_autonomy_drift_demcoratic_decision: "Integrační úsilí §Y[FROM.GetNameWithFlag]§!"
+ CHI_warlord_democratic_drift_minquan_decision: "Požadovat, aby §Y[FROM.GetLeader]§! uplatnil princip Mín-čchuan"
+ CHI_highlight_northwestern_road_fake_decision: "Severozápadní magistrála"
+ CHI_highlight_the_hump_decision: "Letecký most přes Himaláj"
+ CHI_highlight_the_hump_decision_tt: "Dokud žádný nepřítel neovládá\n§Y-[601.GetName]\n-[434.GetName]\n-[747.GetName]§!\nje letecký most přes Himaláj bezpečný"
+ CHI_highlight_the_hanoi_decision_tt: "Dokud žádný nepřítel neovládá\n§Y-[325.GetName]\n-[671.GetName]§!\nje Hanojská trasa bezpečná"
+ CHI_highlight_burma_road_decision_tt: "Dokud žádný nepřítel neovládá\n§Y-[995.GetName]\n-[640.GetName]\n-[998.GetName]\n-[434.GetName]\n-[990.GetName]\n-[432.GetName]\n-[288.GetName]\n-[997.GetName]\n-[996.GetName]§!\nje Barmská cesta bezpečná"
+ CHI_highlight_the_northwest_highway_decision_tt: "Dokud žádný nepřítel neovládá §Y\n-[617.GetName]\n-[759.GetName]\n-[755.GetName]\n-[754.GetName]\n-[283.GetName]§!\nje Severozápadní magistrála bezpečná"
+ CHI_lost_route_control: "Ztracena kontrola nad: §Y[THIS.GetName]§!. Znovuzískání státu obnoví dodávky lend-lease."
+ CHI_route_safety_trigger: "Trasu kontroluje země, která s námi není ve válce."
+ CHI_highlight_hanoi_route_decision: "Hanojská trasa"
+ CHI_highlight_burma_road_decision: "Barmská cesta"
+ CHI_use_expat_community_for_more_cic_decision: "Vyjednat ekonomickou podporu od §Y[FROM.GetNameWithFlag]§!"
+ CHI_integrating_states_democratic: "Reintegrační úsilí ve státě [FROM.GetName]"
+ CHI_reeducate_bai_chonxi_decision: "Převychovat [GXC.GetFlag] $GXC_bai_chongxi$"
+ CHI_reeducate_yu_hanmou_decision: "Převychovat [GDC.GetFlag] $GND_yu_hanmou$"
+ CHI_reeducate_sun_tongxuan_decision: "Převychovat [SND.GetFlag] $CHI_sun_tongxuan$"
+ CHI_reeducate_song_zheyuan_decision: "Převychovat [HBC.GetFlag] $CHI_song_zheyuan$"
+ CHI_reeducate_wang_jingguo_decision: "Převychovat [SHX.GetFlag] $SHX_wang_jingguo$"
+ CHI_reeducate_hu_ruoyu_decision: "Převychovat [YUN.GetFlag] $YUN_hu_ruoyu$"
+ CHI_reeducate_gu_zhutong_decision: "Převychovat [SIC.GetFlag] $CHI_gu_zhutong$"
+ CHI_reeducate_zhang_xueliang_decision: "Převychovat [XIC.GetFlag] $CHI_zhang_xueliang$"
+ CHI_reeducate_ma_bufang_decision: "Převychovat [XSM.GetFlag] $XSM_ma_bufang$"
+ CHI_reeducate_ma_hongkui_decision: "Převychovat [NXM.GetFlag] $XSM_ma_hongkui$"
+ CHI_reeducate_ma_buqing_decision: "Převychovat [GSM.GetFlag] $XSM_ma_buqing$"
+ CHI_reeducate_ma_zhancang_decision: "Převychovat [KHM.GetFlag] $KHM_ma_zhancang$"
+ CHI_reeducate_yulbars_khan_decision: "Převychovat [KUM.GetFlag] $KUM_yulbars_khan$"
+ CHI_reeducate_sheng_shiqi_decision: "Převychovat [SIK.GetFlag] $SIK_sheng_shiqi$"
+ CHI_reeducate_altanochir_decision: "Převychovat [MEN.GetFlag] $MEN_altanochir$"
+ CHI_reeducate_yu_zhishan_decision: "Převychovat [MAN.GetFlag] $MAN_yu_zishan$"
+ CHI_select_mios: "Přesunout továrny ze státu §Y[FROM.GetName]§!"
+ CHI_select_mios_tt_no_aat: "Umožní vám přesunout továrny z tohoto státu do jiného."
+ CHI_select_mios_tt_aat: "Umožní vám přesunout MIO umístěné v tomto státě — a jeho továrny — do jiného státu."
+ CHI_move_mios_cat: "Relokace továren"
+ CHI_move_mios: "Přesunout továrny do §Y[FROM.GetName]§!"
+ CHI_move_mios_tt: "Přesune továrny a MIO z §Y[?var:selected_mio.GetName]§! do §Y[FROM.GetName]§!"
+ CHI_move_mios_tt_no_aat: "Přesune továrny z §Y[?var:selected_mio.GetName]§! do §Y[FROM.GetName]§!"
+ is_moving_mios: "Probíhá přesun továren"
+ CHI_deselect_mios: " Zrušit přesun továren"
+ CHI_avoid_another_crisis_cat: "Hrozící další krize"
+ CHI_avoid_another_crisis_cat_desc: "Od incidentu v Mukdenu se Kantonští vojáci připravují na další invazi proti nám. Jejich postoj je den ode dne agresivnější — je jen otázkou času, kdy udeří. Možná lze [JAP.GetNameDef] ještě uklidnit, získat si čas a připravit se."
+ CHI_kwantung_army_impatience_dummy: "Blížící se krize"
+ CHI_concessions_docking_rights: "Nabídnout práva na přístav na určitou dobu"
+ CHI_concessions_airbase_rights: "Nabídnout přístup na letecké základny"
+ CHI_concessions_give_resource_rights: "Udělilt práva na těžbu ve státě [FROM.GetName]"
+ CHI_concessions_give_coastal_states: "Nabídnout dočasné vlastnictví státu [FROM.GetName]"
+ CHI_concessions_give_puppet: "Nabídnout suzerénství nad státem [FROM.GetName]"
+ CHI_build_up_our_faction_cat: "$faction_template_wang_front$ obrací zrak ven"
+ CHI_build_up_our_faction_cat_desc: "Příliš dlouho byly národy Asie rozdělené a snadno podmaněné imperialisty. Nyní jsme v pozici, kdy je můžeme osvobodit od kolonialistů a pozvednout z poroby."
+ CHI_invite_free_countries: "Pozvat [FROM.GetName] do aliance $faction_template_wang_front$"
+ CHI_set_up_puppet: "Ustanovit loutkovou vládu ve státě [FROM.GetName]"
+ CHI_set_up_puppet_tt: "Vytvoří §Y$autonomy_colony$§! ve státě [FROM.GetNameDef]"
+ CHI_tsr_renegotiating_with_warlords_cat: "Nové vyjednávání s válečnými vládci"
+ CHI_renegotiate_with_warlord: "Znovu vyjednávat s §Y[FROM.GetNameDef]§!"
+ CHI_asked_for_separate_peace: "Již bylo požádáno o separátní mír s [FROM.GetNameDef]"
+ CHI_request_tank_aid_from_russia_decision: "Požádat Rusko o tankovou podporu"
+ CHI_open_the_north_west_highway_decision: "Otevřít Severozápadní magistrálu"
+ CHI_republican_interests_cat: "Republikánské zájmy"
+ CHI_invite_demo_asian_nation_to_faction_decison: "Pozvat §Y[FROM.GetNameDef]§! do naší aliance"
+ CHI_stir_democratic_sentiments_in_asia_decison: "Podnítit republikánské nálady v zemi §Y[FROM.GetNameDef]§!"
+ CHI_oust_the_empires_decision: "Požadovat, aby [FROM.OWNER.GetNameDef] byl propuštěn ze závislosti na §Y[FROM.Capital.OWNER.GetNameDef]§!"
+ PRC_unlock_left_side_bop_decisions_tt: "Odemkne rozhodnutí £BoP_left_texticon  §Y$PRC_communist_power_struggle$§!"
+ PRC_unlock_right_side_bop_decisions_tt: "Odemkne rozhodnutí £BoP_right_texticon  §Y$PRC_communist_power_struggle$§!"
+ PRC_unlock_both_sides_bop_decisions_tt: "Odemkne rozhodnutí £BoP_left_texticon £BoP_right_texticon  §Y$PRC_communist_power_struggle$§!"
+ PRC_hold_speech_questioning_tradition: "£BoP_left_texticon Zpochybnit staré tradice"
+ PRC_emphasize_rural_support: "£BoP_left_texticon Zdůraznit podporu venkova"
+ PRC_criticize_dogmatism: "£BoP_left_texticon Kritizovat dogmatismus"
+ PRC_purge_bo_gu: "£BoP_left_texticon Provést čistku: $PRC_bo_gu$"
+ PRC_purge_zhang_guotao: "£BoP_left_texticon Provést čistku: $PRC_zhang_guotao$"
+ PRC_purge_wang_ming: "£BoP_left_texticon Provést čistku: $PRC_wang_ming$"
+ PRC_send_wang_ming_to_soviet: "£BoP_left_texticon Vyhnat §Y$PRC_wang_ming$§! do [SOV.GetName]"
+ PRC_utilizie_political_connections_mao: "£BoP_left_texticon Využít politických kontaktů $PRC_mao_zedong$"
+ PRC_mao_lectures: "£BoP_left_texticon Mao bude pořádat sérii přednášek"
+ PRC_purge_chen_changhao: "£BoP_left_texticon Provést čistku: $PRC_chen_changhao$"
+ PRC_purge_wang_shiwei: "£BoP_left_texticon Provést čistku: $PRC_wang_shiwei$"
+ PRC_reinforce_teachings_from_USSR: "£BoP_right_texticon Posílit sovětské učení"
+ PRC_emphasize_urban_support: "£BoP_right_texticon Zdůraznit podporu měst"
+ PRC_emphasize_intellectual_support: "£BoP_right_texticon Zdůraznit podporu intelektuálů"
+ PRC_convince_wang_jiaxiang: "£BoP_right_texticon Přesvědčit §Y$PRC_wang_jiaxiang$§! aby se znovu připojil"
+ PRC_convince_wang_jiaxiang_desc: "£BoP_right_texticon $PRC_wang_jiaxiang$ byl jedním z 28 — přesvědčme ho, aby se k nám opět přidal"
+ PRC_utilizie_political_connections_bo_gu: "£BoP_right_texticon Využít politických kontaktů bolševiků"
+ PRC_bo_gu_review: "£BoP_right_texticon $PRC_bo_gu$ provede revizi našich ozbrojených sil"
+ PRC_purge_ren_bishi: "£BoP_right_texticon Provést čistku: $PRC_ren_bishi$"
+ PRC_purge_liu_shaoqi: "£BoP_right_texticon Provést čistku: $PRC_liu_shaoqi$"
+ PRC_purge_mao_zedong: "£BoP_right_texticon Provést čistku: $PRC_mao_zedong$"
+ PRC_purge_deng_xiaoping: "£BoP_right_texticon Provést čistku: $PRC_deng_xiaoping$"
+ PRC_utilizie_political_connections_otto_braun: "£BoP_right_texticon Otto Braun pronese projev"
+ PRC_utilizie_political_connections_zhang_guotao: "£BoP_right_texticon $PRC_zhang_guotao$ promluví k Ústřednímu výboru"
+ PRC_guotao_supreme: "£BoP_right_texticon Veřejně uznat nejvyšší vedení $PRC_zhang_guotao$"
+ PRC_unwilling_diarchy_bop_decision: "£BoP_right_texticon Přivést Guotaa zpět do tepla strany"
+ PRC_criticize_leadership_decision: "£BoP_right_texticon Kritizovat bývalé vedení"
+ PRC_wang_ming_exiled: "V exilu v [SOV.GetName]"
+ PRC_dismissed_advisor: "Neodvolán"
+ PRC_guerilla_warfare_sea_cat: "Partyzánská válka"
+ PRC_guerilla_warfare_sea_cat_desc: "Naše válečné úsilí stojí nejen na armádě, ale i na lidech v terénu. Musíme posílit jejich činnost, aby mohli působit za nepřátelskými liniemi."
+ PRC_establish_guerilla_cells_start: "[GetGuerillaWarfareName]"
+ PRC_establish_guerilla_cells_upgrade: "[GetGuerillaWarfareName]"
+ PRC_currently_establishing_guerillas_in_foreign_state: "Probíhá zakládání guerill v cizích státech"
+ PRC_guerilla_cells_etsablishing_flag: "Guerillové buňky se již zakládají ve státě [FROM.GetName]"
+ PRC_guerilla_cells_established_in_state_tt: "Založit guerillovou buňku ve státě [FROM.GetName]"
+ PRC_guerilla_cells_activity_in_state_tt: "Zvýšit aktivitu guerill ve státě [FROM.GetName]"
+ PRC_establish_guerilla_cells_tt: "Nahradí §Y$PRC_guerilla_cells_active_1$§! za §Y$PRC_guerilla_cells_active_2$§!. Změny:"
+ PRC_establish_sabotage_operations: "Zahájit $PRC_anti_japanese_base$ ve státě [FROM.GetName]"
+ PRC_currently_establishing_anti_japanese_base_state: " Probíhá zakládání $PRC_anti_japanese_base$"
+ PRC_guerilla_suppression_sea_cat: "Kampaně proti partyzánům"
+ PRC_root_out_guerilla_fighters: "Vymýtit partyzány ve státě [FROM.GetName]"
+ PRC_root_out_guerilla_fighters_tt: "Nahradí §Y$PRC_guerilla_cells_active_2$§! za §Y$PRC_guerilla_cells_active_1$§!. Změny:"
+ PRC_currently_rooting_out_guerilla_sympathizers: "Probíhá vyhledávání sympatizantů guerill"
+ PRC_infiltration_sea_cat: "Mobilizovat podporu v čínských státech - infiltrace"
+ PRC_infiltration_sea_cat_desc: "Infiltrací ostatních čínských států můžeme zvýšit podporu v oblastech, které zatím nekontrolujeme.[GetCommieInfiltration] Riskujeme však odhalení našich podporovatelů. Proti-infiltrace sníží úroveň infiltrace v daném státě o §Y1 úroveň§!."
+ PRC_infiltration_sea_commie: " Pokud infiltrace dosáhne §Yúrovně 3§!, stát se přidá na naši stranu při případné válce s cílem."
+ CHI_counter_infiltration_sea_cat: "$PRC_infiltration_sea_cat$"
+ PRC_infiltrate_state: "Infiltrovat stát [FROM.GetName]"
+ PRC_currently_infiltrating_state: "Probíhá infiltrace jiného státu"
+ CHI_currently_infiltrating_state: "$PRC_currently_infiltrating_state$"
+ PRC_root_out_guerilla_fighters_upgraded: "Zasáhnout proti partyzánům ve státě [FROM.GetName]"
+ CHI_fascist_infiltrate_state: "Založit místní buňky ve státě [FROM.GetName]"
+ PRC_border_wars_cat: "Pohraniční konflikty"
+ PRC_the_westward_expedition_decision: "$PRC_the_westward_expedition$"
+ PRC_assaulting_guyuan: "Útok na [1045.GetName]"
+ PRC_the_eastward_expedition_decision: "$PRC_the_eastward_expedition$"
+ PRC_assaulting_shanxi: "Útok na [615.GetName]"
+ PRC_usurp_control_over_yanan_decision: "$PRC_usurp_control_over_yanan$"
+ PRC_assaulting_yanan: "Útok na [1032.GetName]"
+ PRC_economic_planning_cat: "Hospodářské plánování"
+ PRC_initialize_five_year_plan_mission: "Zahájit pětiletý plán"
+ PRC_initialize_shorter_market_plans_mission: "Zahájit kratší tržní plány"
+ PRC_war_of_resistance_cat: "$CHI_war_of_resistance_cat$"
+ PRC_the_peoples_doubt: "Rostoucí pochybnosti"
+ PRC_the_peoples_doubt_desc: "Lid Číny pozoruje naši pasivitu vůči zahraničním útočníkům a začíná pochybovat o našem odhodlání sjednotit Čínu — i o naší schopnosti ji bránit."
+ PRC_the_peoples_doubt_tt: "Když §Y[PRC.GetNameWithFlag]§! vstoupí do boje proti útočníkům, nebo když útočníci uzavřou mír se všemi čínskými státy."
+ PRC_28_bolshevik_faction_cat: "Ovlivnit frakci"
+ PRC_28_bolshevik_faction_decision_enlai_diplomatic_feelers: "Vyslat §Y$PRC_zhou_enlai$§! do [FROM.GetName] na diplomatickou misi"
+ PRC_28_bolshevik_faction_decision_enlai_diplomatic_feelers_desc: "Vysláním Enlaie na pomoc do [FROM.GetNameDef] můžeme zvýšit naši prestiž uvnitř [ROOT.GetFactionName]."
+ PRC_28_bolshevik_faction_decision_ask_for_support: "Přesvědčit [FROM.GetName] o našem vedení"
+ PRC_28_bolshevik_faction_decision_ask_for_support_desc: "Zatlačíme na [FROM.GetNameDef], aby veřejně ocenili náš přínos pro [ROOT.GetFactionName]."
+ PRC_28_bolshevik_faction_decision_backstab: "Zradit [FROM.GetName]"
+ PRC_28_bolshevik_faction_decision_backstab_desc: "Ač jsme formálně ve stejné frakci, můžeme uplatit jejich úředníky, aby přimhouřili oči nad aktivitami našich agentů."
+ PRC_28_bolshevik_faction_decision_backstab_tt: "§GSníží§! cenu rozhodnutí §Y$PRC_infiltration_sea_cat$§!"
+ PRC_28_bolshevik_faction_decision_legitimize_faction_leader: "Uznat vedení [FROM.GetName] v rámci [ROOT.GetFactionName]"
+ PRC_28_bolshevik_faction_decision_legitimize_faction_leader_desc: "Nepřátelů našich nepřátel si musíme vážit. Rozdíly musí jít stranou - nyní je čas soustředit se na skutečného útočníka."
+ PRC_zhou_enlai_on_diplomatic_mission: "§Y$PRC_zhou_enlai$§! je na diplomatické misi"
+ PRC_integration_decision_cat: "Rozhodnutí o integraci"
+ PRC_integration_decision_tibet: "Získat jádro a integrovat [FROM.GetName]"
+ PRC_integration_decision_soviet_states: "Získat jádro a integrovat [FROM.GetName]"
+ PRC_unlock_integration_decisions_tt: "Odemkne možnost §YZískat jádro a integrovat§!"
+ PRC_is_integrating_a_state: "Právě probíhá integrace státu"
+ PRC_rural_surveyer_decision_cat: "Průzkumy venkova"
+ PRC_rural_surveys: "Provést průzkum venkova"
+ PRC_rural_surveyer_tt: "Lze dokončit pouze pětkrát: [?PRC_amount_of_times_rural_survey] / 5"
+ PRC_remove_yulin_garrison: "Násilně odstranit Jü-linskou posádku"
+ PRC_remove_yulin_garrison_desc: "Navzdory veškerému úsilí se 86. a 84. divizi pod vedením Jing Yueixua a Gao Guizi podařilo udržet sever provincie pod kontrolou Kuomintangu. Musíme vyrazit a vypudit Jü-linskou posádku ze státu [1046.GetName]."
+ PRC_second_thoughts_factions: "Druhé myšlenky"
+ PRC_second_thoughts_factions_desc: "Jsme ve válce s týmž nepřítelem. Je čas odložit rozpory a spojit síly pro dobro národa."
+ PRC_appeal_for_foreign_aid_cat: "Žádost o zahraniční pomoc"
+ PRC_appeal_for_foreign_aid_t34: "Požádat o tanky T-34"
+ PRC_appeal_for_foreign_aid_bt7: "Požádat o tanky BT-7"
+ PHI_prospecting_decision_cat_unlock_tt: "§YOdemkne rozhodnutí pro průzkum surovin§!"
+ PHI_mineral_prospecting_chromium_small_decision: "Průzkum chrómu"
+ PHI_mineral_prospecting_chromium_large_decision: "Rozšířit průzkum chrómu"
+ PHI_mineral_prospecting_steel_repeatable_decision_1: "Průzkum oceli"
+ PHI_mineral_prospecting_steel_repeatable_decision_2: "Rozšířit průzkum oceli"
+ PHI_gold_prospecting_decision: "Průzkum zlata"
+ PHI_has_completed_decision_chromium_prospecting_flag: "Vyžaduje §Y$PHI_mineral_prospecting_chromium_small_decision$§!"
+ PHI_sugar_barons_category: "Spolupráce s cukrovými barony"
+ PHI_sugar_barons_category_desc: "Náš cukrovarnický průmysl je nesmírně výnosný sektor, ze kterého můžeme získat prostředky na rostoucí výdaje na obranu, aniž bychom museli omezovat jiné oblasti."
+ PHI_sugar_excise_general: "Financovat důstojnický výcvik z cukerního fondu"
+ PHI_sugar_excise_divisions: "Financovat výcvikové manévry z cukerního fondu"
+ PHI_mindanao_transport_decision_unlock_tt: "§YOdemkne rozhodnutí§! k prodeji konvojů za vojenské vybavení"
+ PHI_convoys_for_infrastructure_decision_cat: "Konvoje za infrastrukturu"
+ PHI_convoys_for_infrastructure_decision_cat_desc: "Jako ostrovní stát máme lodírenství v krvi už dávno před vznikem moderní vlády. Jak se modernizujeme, musíme tohoto umu využít k získání prostředků a k uplatnění našich technik, lodí a dalšího vybavení v jiných sektorech — například ve stavebnictví."
+ PHI_convoys_for_infastructure_decision: "Zřídit nové přívozové trasy"
+ PHI_convoys_for_consumer_goods: "Prodat naše lodě na civilním trhu"
+ PHI_convoys_for_guns: "Oslovit [FROM.GetNameDef] s nabídkou výměny konvojů za pušky"
+ PHI_convoys_for_trucks: "Oslovit [FROM.GetNameDef] s nabídkou výměny konvojů za náklaďáky"
+ PHI_convoys_for_artillery: "Oslovit [FROM.GetNameDef] s nabídkou výměny konvojů za dělostřelectvo"
+ PHI_convoys_for_light_tanks: "Oslovit [FROM.GetNameDef] s nabídkou výměny konvojů za vyřazené lehké tanky"
+ PHI_purchasing_weapons: "Čeká se na odpověď ohledně navrhovaného prodeje"
+ PHI_trucks: "náklaďáky"
+ PHI_decision_cost_convoys_icon_small: "[?PHI_convoy_vars_small_cost] £GFX_topbar_convoys"
+ PHI_decision_cost_convoys_icon_small_blocked: "[?PHI.PHI_convoy_vars_small_cost|0R] £GFX_topbar_convoys"
+ PHI_decision_cost_convoys_icon_medium: "[?PHI_convoy_vars_medium_cost] £GFX_topbar_convoys"
+ PHI_decision_cost_convoys_icon_medium_blocked: "[?PHI_convoy_vars_medium_cost|0R] £GFX_topbar_convoys"
+ PHI_decision_cost_convoys_icon_large: "[?PHI_convoy_vars_large_cost] £GFX_topbar_convoys"
+ PHI_decision_cost_convoys_icon_large_blocked: "[?PHI_convoy_vars_large_cost|0R] £GFX_topbar_convoys"
+ PHI_decision_cost_convoys_icon_very_small: "15 £GFX_topbar_convoys"
+ PHI_decision_cost_convoys_icon_very_small_blocked: "§R15§! £GFX_topbar_convoys"
+ PHI_decision_cost_icon_train: "15 £GFX_train_texticon"
+ PHI_decision_cost_icon_train_blocked: "§R15§! £GFX_train_texticon"
+ PHI_decision_cost_icon_truck: "100 £GFX_unit_motorized_icon_small"
+ PHI_decision_cost_icon_truck_blocked: "§R100§! £GFX_unit_motorized_icon_small"
+ PHI_add_one_infra_point: "Přidá 1 §Ybod infrastruktury§! k dokončení §Y$PHI_investment_plan_3$§!\nAktuální počet bodů: [?PHI_infrastructure_points]"
+ PHI_infrastructure_points_requirement_tt: "Vyžaduje 5 §Ybodů infrastruktury§! získaných prostřednictvím rozhodnutí níže, aktuální počet: [?PHI_infrastructure_points]"
+ PHI_infrastructure_points_requirement_tt_NOT: "Ještě nezískalo 5 §Ybodů infrastruktury§!"
+ PHI_american_intervention_icon_value: "[?PHI.PHI_american_intervention_icon_value|0H]§Y%§!"
+ PHI_american_intervention_icon_description: "Úroveň hrozby: [?PHI.PHI_american_intervention_icon_value|0H]§Y%§!\n\nPokud hodnota dosáhne §R100%§!, §Y[USA.GetNameDefCap]§! provede invazi. Pokud klesne na §G0%§!, [USA.GetNameDef] se zaváže neintervenovat a níže uvedené akce se stanou nedostupnými."
+ PHI_american_intervention_change_value_small_decrease_tt: "Upraví §YÚroveň hrozby [USA.GetNameDefCap]§! o §G-10%§!"
+ PHI_american_intervention_change_value_medium_decrease_tt: "Upraví §YÚroveň hrozby [USA.GetNameDefCap]§! o §G-15%§!"
+ PHI_american_intervention_change_value_large_decrease_tt: "Upraví §YÚroveň hrozby [USA.GetNameDefCap]§! o §G-25%§!"
+ PHI_american_intervention_change_value_small_increase_tt: "Upraví §YÚroveň hrozby [USA.GetNameDefCap]§! o §R5%§!"
+ PHI_american_intervention_change_value_medium_increase_tt: "Upraví §YÚroveň hrozby [USA.GetNameDefCap]§! o §R10%§!"
+ PHI_american_intervention_change_value_large_increase_tt: "Upraví §YÚroveň hrozby [USA.GetNameDefCap]§! o §R15%§!"
+ PHI_america_declare_war: "[USA.GetNameDefCap] může vyhlásit válku"
+ PHI_american_intervention_category: "Hrozba [USA.GetAdjective] intervence"
+ PHI_american_intervention_category_desc: "Ačkoliv nám [USA.GetNameDef] slíbily nezávislost, jejich vláda by mohla usoudit, že naše politické změny odporují zákonům, které ji mají zajistit. Dokud jsme pod [USA.GetAdjective] dohledem, musíme se chovat umírněně, jinak riskujeme intervenci."
+ PHI_american_intervention_declare_war_mission: "Americká trpělivost"
+ PHI_american_intervention_donate_us_senate: "Přispět [USA.GetAdjective] senátorům ze zahraničního výboru"
+ PHI_american_intervention_ban_communist_paper: "Zakázat komunistické noviny"
+ PHI_american_intervention_forbid_advisor: "Vypovědět komunistického poradce"
+ PHI_american_intervention_host_training_exercise: "Uspořádat vojenské cvičení"
+ PHI_american_intervention_invite_us_communists: "Pozvat [USA.GetAdjective] komunisty"
+ PHI_american_intervention_nationalize_railways: "Znárodnit železnice"
+ PHI_american_intervention_nationalize_industries: "Znárodnit průmysl"
+ PHI_american_intervention_recognize_unions: "Uznat odbory"
+ PHI_american_intervention_promise_bases: "Přislíbit pokračující přístup k vojenským základnám"
+ PHI_american_intervention_unlock_more_decisions_tt: "Dokončení tohoto focusu odemkne další §YRozhodnutí§! ke snížení rizika §Yamerické intervence§!"
+ USA_execute_war_plan_brown: "Provést válečný plán Brown"
+ PHI_defend_against_USA: "Odrazit [USA.GetAdjective] intervenci"
+ decision_cost_CP_25_army_exp_35: "£command_power  §Y25§!  £army_experience §Y35§!"
+ decision_cost_CP_25_army_exp_35_blocked: "£command_power  §R25§!  £army_experience §R35§!"
+ decision_cost_CP_25_army_exp_35_tooltip: "Rozhodnutí stojí £command_power §Y25§! a £army_experience §Y35§!"
+ PHI_sent_away: "Vypovězen pod [USA.GetAdjective] tlakem"
+ PHI_american_intervention_is_over: "[USA.GetNameDefCap] souhlasily s neintervencí"
+ PHI_repeatable_except_delay: "Toto rozhodnutí je opakovatelné, ale §YAmerická trpělivost§! se prodlouží pouze poprvé."
+ PHI_integration_category: "Integrace ostrovů Indického a Tichého oceánu"
+ PHI_integrate_conquests: "Integrovat [FROM.GetName]"
+ PHI_request_indefinite_stay_for_macarthur: "Žádat o neomezené setrvání MacArthura"
+ PHI_peace_with_philippines: "Souhlasit s bílým mírem s [PHI.GetNameDef]"
+ PHI_request_macarthur_stay_tt: "$USA_douglas_macarthur$ bude méně pravděpodobně odvolán"
+ PHI_recall_eisenhower: "Odvolat $USA_dwight_d_eisenhower$ z [PHI.GetNameDef]"
+ PHI_recall_macarthur: "Odvolat $USA_douglas_macarthur$ z [PHI.GetNameDef]"
+ PHI_department_of_foreign_affairs_category: "$PHI_department_of_foreign_affairs$"
+ PHI_asia_treaty_faction: "Organizace jihovýchodoasijské smlouvy"
+ PHI_create_faction: "Založit $PHI_asia_treaty_faction$"
+ PHI_join_other_faction: "Požádat o vstup do [FROM.GetFactionName]"
+ PHI_decrease_japanese_ideological_influence: "Snížit [JAP.GetAdjective] ideologický vliv"
+ PHI_government_in_exile_cat: "Spolupráce exilové vlády"
+ PHI_request_equipment_tt: "Odemkne rozhodnutí: §YPožádat o vybavení od [temp_host.GetName]§!"
+ PHI_share_military_experience_tt: "Odemkne rozhodnutí: §YVyměnit si vojenské poznatky s [temp_host.GetName]§!"
+ PHI_request_equipment: "Požádat o vybavení od [?host.GetName]"
+ PHI_share_military_experience: "Vyměnit si vojenské poznatky s [?host.GetName]"
+ PHI_investment_plan_1: "Investiční plán 1: Rozvoj infrastruktury"
+ PHI_investment_plan_2: "Investiční plán 2: Navázání nových obchodních vztahů"
+ PHI_investment_plan_3: "Investiční plán 3: Zvýšení průmyslové efektivity"
+ PHI_investment_plan_1_tt: "Po dokončení poskytne 2 §Y$industrial_complex$§! a bonusy k těžbě a výstavbě ve všech státech s nově vybudovaným železničním spojením během plánu."
+ PHI_investment_plan_2_tt: "Bude úspěšný a poskytne lepší odměny, pokud navážeme dobré obchodní vztahy s alespoň 3 regionálními mocnostmi, budeme kontrolovat úroveň 6 §Y$naval_base$§! a během plánu postavíme alespoň 1 nový §Y$dockyard$§!."
+ PHI_investment_plan_3_tt: "Bude úspěšný a poskytne lepší odměny, pokud vybudujeme infrastrukturu v [1027.GetName] a [624.GetName] a také utratíme vlaky, nákladní vozy a konvoje ke zlepšení infrastruktury během plánu."
+ PHI_every_state_with_new_railway_connection: "Každý vlastněný stát, který získal nové železniční spojení s jiným státem:"
+ PHI_has_built_at_least_one_dockyard: "Postavil alespoň jeden $dockyard$"
+ PHI_has_built_at_least_one_infrastructure: "Postavil alespoň jednu $infrastructure$"
+ PHI_has_built_or_purchased_x_convoys: "Rozšířil konvojovou flotilu na [?PHI_convoys_investment_goal] stavbou nebo nákupem."
+ PHI_establish_reserve_transport_fleet: "Zřídit záložní transportní flotilu"
+ PHI_establish_new_train_connections: "Vybudovat nové železniční odbočky"
+ PHI_inspect_road_network: "Prověřit silniční síť"
+ form_maphilindo_category: "Sjednotit malajské národy"
+ form_maphilindo_category_desc: "Ačkoli nejsou naše etnické vazby na Indonésii a Malajsii tak silné jako vazby mezi nimi navzájem, je třeba uznat, že naše hranice nakreslily koloniální mocnosti a že jen společně dokážeme ochránit náš strategicky důležitý region před cizím vlivem."
+ form_maphilindo: "Vytvořit Maphilindo"
+ form_maphilindo_philippines_required_states_tt: "Ovládá všechny §Yfilipínské§! státy."
+ integrate_siam: "Integrovat [SIA.GetNonIdeologyName]"
+ integrate_indochina: "Integrovat Indočínu"
+ integrate_burma: "Integrovat [BRM.GetNonIdeologyName]"
+ PHI_relations_with_spanish_america: "Vztahy s hispánskými státy"
+ PHI_relations_with_spanish_america_desc: "Naše jazykové a kulturní vazby se Španělskem a jeho bývalými koloniemi tvoří most pro budování partnerství v době, kdy [USA.GetAdjective] vliv slábne."
+ PHI_propose_treaty_of_mutual_assistance: "Navrhnout smlouvu o vzájemné pomoci s [FROM.GetNameDef]"
+ PHI_propose_unification: "Navrhnout sjednocení s [FROM.GetNameDef]"
+ PHI_awaiting_response: "Čeká se na odpověď"
+ PHI_force_unification: "Vyvlastnit [FROM.GetNonIdeologyName] jako [ROOT.GetAdjective] území"
+ PHI_force_unification_tt: "Stal se §Y$PHI_hispanic_empire_tag$§! prostřednictvím pokojného sjednocení"
+ SPR_has_eliminated_guerrillas_tt: "[SPR.GetNameDef] eliminovalo všechny partyzány na svém území"
+ CHI_war_in_sinkiang: "Válka v Sin-ťiangu"
+ CHI_war_in_sinkiang_desc: "S vypuknutím války v provincii Sin-ťiangu je pouze otázkou času, než ústřední vláda vynutí mír v regionu a naše jednotky kapitulují. Chceme-li zvítězit, musíme udeřit rychle a rozhodně."
+ SIK_war_halting: "Rostoucí odpor proti válce"
+ SIK_stalemate_tt: "Válka skončí patem a jednotky se vrátí na původní pozice"
+ KHM_holding_out: "Držíme se"
+ KHM_survival_tt: "Pokud vydržíme rok, válka ustrne a naše pozice v Sin-ťiangu zůstane zachována"
+ SIC_xikang_offensive: "Ofenziva v S'-kchangu"
+ SIC_xikang_offensive_desc: "Po mnoha potyčkách na hranici Liu Wenhui prohlásil, že se pokusí sjednotit celý S'-kchang pod svou vládou. Zda to dokáže, se teprve ukáže."
+ SIC_push_into_xikang: "Postoupit dále do S'-kchangu"
+ SIC_push_into_xikang_mission: "Boj o S'-kchang"
+ CHI_tsr_power_struggle_cat: "Mocenský boj v Číně"
+ CHI_tsr_power_struggle_cat_desc: "Vypukl boj o politickou kontrolu nad Čínou. Musíme získat podporu válečníků a uvnitř strany, chceme-li se stát vítězem."
+ CHI_seek_party_support: "Získat podporu strany"
+ CHI_seek_party_support_tt: "Zvyšuje cenu tohoto rozhodnutí o §R25§!"
+ CHI_tsr_seek_warlord_support: "Získat podporu od [FROM.GetLeader]"
+ TSR_pay_for_support_from_warlord_PP: "Koupit podporu od [FROM.GetLeader]"
+ TSR_pay_for_support_from_warlord_manpower: "Poslat lidi [FROM.GetLeader]"
+ TSR_pay_for_support_from_warlord_equipment: "Poslat zbraně [FROM.GetLeader]"
+ TSR_warlord_supports_us: "[FROM.GetNameDefCap] nás podpoří v mocenském boji o Čínu"
+ CHI_tsr_take_national_leadership: "Převzít národní vedení"
+ CHI_warlord_propaganda_army: "Ukázat schopnosti armády"
+ CHI_warlord_propaganda_air: "Nezávislé letectvo"
+ CHI_warlord_propaganda_navy: "Nové námořnictvo"
+ CHI_warlord_propaganda_stable: "Demonstrace stability"
+ CHI_army_reform_tt: "Zahájilo reformu armády"
+ MAN_release_bandits_2: "Rozehnat banditské armády"
+ MAN_coring_decisions: "Reintegrace ztracených území"
+ MAN_coring_outer_manchuria_states: "Integrace [FROM.GetName]"
+ MAN_coring_mongolia_tuva: "Integrace [FROM.GetName]"
+ MAN_coring_tibet: "Integrace [FROM.GetName]"
+ MAN_coring_democratic: "Integrace [FROM.GetName]"
+ MAN_coring_state_in_progress_flag: " Právě probíhá integrace tohoto státu"
+ claim_outer_manchuria_tt: "Odemkne rozhodnutí k integraci nárokovaných území v §YVnější Mandžusii§!"
+ MAN_state_shintoism_decisions: "Státní šintoismus"
+ MAN_state_shintoism_decisions_desc: "Šintoismus byl k nám importován z Japonska a stále kolem něj panují určité obavy, ale s trochou přesvědčování si místní obyvatelstvo jistě osvojí správné zvyky. Využitím metod vyzkoušených v Japonsku můžeme posílit císařův vliv na naše poddané a tím i naši vnitřní stabilitu."
+ MAN_import_imperial_way_buddhism_decision: "Importovat buddhismus Císařské cesty"
+ MAN_one_people_united_under_shinto_decision: "Jeden národ sjednocený šintoismem"
+ MAN_incoporate_manchu_nationalism_decision: "Včlenit mandžuský nacionalismus"
+ MAN_state_shinto_in_education_decision: "Státní šintoismus ve vzdělávání"
+ MAN_recruit_bandits_2_north: "Naverbovat severní bandity"
+ MAN_recruit_bandits_2_west: "Naverbovat západní bandity"
+ MAN_recruit_bandits_2_east: "Naverbovat východní bandity"
+ MAN_recruit_bandits_2_generic: "Naverbovat bandity z Kirinu"
+ MAN_march_on_beijing_decisions: "Pochod na Peking"
+ MAN_march_on_hebei_chahar: "Pochod na Che-pej-Čachar"
+ MAN_march_on_hebei_chahar_mission: "Pochod na Che-pej-Čachar"
+ MAN_march_on_beijing: "Pochod na Peking"
+ MAN_march_on_beijing_mission: "Pochod na Peking"
+ MAN_march_on_hebei: "Pochod na Che-pej"
+ MAN_march_on_hebei_mission: "Pochod na Che-pej"
+ MAN_establish_the_erdaojiang_special_steel_experimental_plant: "Zřídit experimentální závod speciální oceli Er-tao-ťiang"
+ CHI_overlordship_over_indochina_tsr: "Nadvláda nad Indočínou"
+ CHI_overlordship_over_indochina_tsr_desc: "Jakmile vyženeme kolonizátory z Indočiny, budeme je moci donutit k jednacímu stolu."
+ CHI_free_indochina_tsr: "Osvobození Indočiny"
+ CHI_coring_state_in_progress_flag: " Právě probíhá integrace tohoto státu"
+ CHI_warlord_core_territories: "Integrace [FROM.GetName]"
+ CHI_warlord_core_manchuria: "Integrace [FROM.GetName]"
+ MAN_china_matters: "Čínské záležitosti"
+ MAN_request_full_control_over_china: "Požadovat plnou kontrolu nad Čínou"
+ MAN_yong_ying_category: "Jung-jing"
+ MAN_yong_ying_category_desc: "Jung-jing, neboli „statečné tábory“, byly formou milice používané během dynastie Čching; „stateční“ byli domobranci verbovaní z místního obyvatelstva. Financováni veřejností a nikoliv součást pravidelné armády sloužili nezávisle, často pro účely sebeobrany. Měli bychom tento systém zdokonalit, abychom jej mohli účinně využít v nadcházejících válkách."
+ MAN_expand_yong_ying_recruitment: "Rozšířit verbování jung-jing"
+ MAN_raise_the_yong_ying: "Povolat jung-jing"
+ MAN_demobilize_the_yong_ying: "Demobilizovat jung-jing"
+ MAN_raise_yong_yingu_active: " Milice jsou povolány"
+ CHI_the_lingguang_incident_cat: "Incident Liangguang"
+ CHI_the_lingguang_incident_cat_desc: "Po sérii provokací způsobených jak snahou ústřední vlády získat větší moc na jihu, tak snahou dvou jihočínských provincií Kuang-tung a Kuang-si prosadit jejich nezávislost a tvrdší postup vůči Japonsku, se situace zhroutila v plnohodnotnou krizi."
+ CHI_intervene_in_guangdong: "Intervenovat v Kuang-tungu"
+ GDC_restore_order: "Obnovit pořádek"
+ CHI_growing_impatience: "Rostoucí netrpělivost"
+ GXC_fortify_our_borders: "Zpevnit naše hranice"
+ GXC_anti_japanese_demonstration: "Protijaponské demonstrace"
+ GXC_persuade_the_warlords: "Přesvědčit válečníky"
+ GXC_further_negotiation: "Další jednání"
+ GXC_fortify_the_border: " Zpevnil hranice"
+ GXC_sent_out_the_japanese: " Vyhnal Japonce"
+ GXC_persuaded_warlords: " Přesvědčil válečníky"
+ GXC_negotiated_with_chiang: " Jednal s Čankajškem"
+ SND_unclear_loyalties_cat: "Oportunismus Hana Fu-ťüa"
+ SND_show_support_for_government: "Vyjádřit podporu ústřední vládě"
+ SND_expel_japanese: "Vyhnat japonské poradce"
+ SND_army_integration: "Integrace armády"
+ SND_han_fuju_stays: "Han Fu-ťü zůstává"
+ han_will_flee_if_not_removed_tt: "§R Pokud to nebude dokončeno do doby, než Japonci obsadí Ťi-nan, Han Fu-ťü opustí svou provincii §!"
+ SND_swear_fealty_to_the_emperor: "Složit přísahu věrnosti císaři"
+ SND_shown_support: " Vyjádřil podporu ústřední vládě"
+ SND_expelled_japanese: " Vyhnal japonské poradce"
+ SND_army_integration_flag: " Integroval armádu"
+ CHI_growing_impatience_dummy: "Rostoucí netrpělivost"
+ CHI_war_in_liangguang: "Válka v Liangguangu"
+ CHI_war_in_liangguang_desc: "S vypuknutím války v provincii Liangguang je jen otázkou času, kdy se naše jednotky unaví z bojů mezi sebou a budou chtít upřednostnit společný postup proti [JAP.GetAdjective] hrozbě. Chceme-li zvítězit, musíme udeřit rychle a rozhodně."
+ CHI_war_in_south_halting: "Rostoucí odpor vůči válce"
+ CHI_stalemate_tt: "Válka skončí patem a jednotky se vrátí na původní pozice"
+ GDC_holding_out: "Držíme se"
+ GDC_survival_tt: "Pokud vydržíme rok, válka ustrne a naše pozice v Liangguangu zůstane. Jakékoli sousedící republikánské státy, které jsme během konfliktu ovládli, zůstanou součástí naší kliky po vzniku patu."
+ XIC_war_in_yanan: "Šestá obkličovací kampaň"
+ XIC_war_in_yanan_desc: "S obnoveným konfliktem v provincii Šen-si je jen otázkou času, kdy vojáci Armády pro potírání banditů ztratí vůli bojovat a dezertují. Chceme-li zvítězit, musíme udeřit rychle a rozhodně."
+ XIC_war_halting: "Ofenziva ztrácí dech"
+ XIC_stalemate_tt: "Válka skončí patem a jednotky se vrátí na původní pozice, pokud se nám nepodaří porazit [PRC.GetNameWithFlag] ve stanoveném čase."
+ PRC_holding_out: "Držíme se"
+ PRC_survival_tt: "Pokud vydržíme půl roku, válka ustrne a naše pozice v Šen-si zůstane. Pokud do zastavení ofenzivy dobudeme Jen-an, budeme si jej moci ponechat."
+ RNG_state_shintoism_decisions: "Státní šintoismus"
+ RNG_state_shintoism_decisions_desc: "Šintoismus byl do naší země importován z Japonska a stále budí jisté obavy, avšak s patřičným přesvědčováním místní obyvatelstvo jistě srovná krok. Metody ověřené v japonské vlasti můžeme využít k posílení císařova vlivu a tím i naší vnitřní stability."
+ RNG_import_imperial_way_buddhism_decision: "Importovat buddhismus Císařské cesty"
+ RNG_one_people_united_under_shinto_decision: "Jeden lid sjednocený šintoismem"
+ RNG_state_shinto_in_education_decision: "Státní šintoismus ve vzdělávání"
+ CHI_x_y_force_cat: "[ROOT.GetAdjectiveCap] expediční síly"
+ CHI_form_x_force: "Vytvořit X-sílu"
+ CHI_form_x_force_tt: "Vytvoří 6 pěších divizí v [435.GetName]"
+ CHI_form_y_force: "Vytvořit Y-sílu"
+ CHI_form_y_force_tt: "Vytvoří 15 pěších divizí v [325.GetName]"
+ develop_rio_grande_sul_coal_mines: "Rozšířit uhelné doly v [502.GetName]"
+ develop_la_libertad_coal_mines: "Rozšířit uhelné doly v [493.GetName]"
+ develop_western_visayas_coal_mines: "Založit uhelné doly v [628.GetName]"
+ expand_tomsk_coal_mines: "Rozšířit uhelné doly v [578.GetName]"
+ expand_sofia_coal_mines: "Rozšířit uhelné doly v [48.GetName]"
+ expand_north_transdanubia_coal_mines: "Rozšířit uhelné doly v [155.GetName]"
+ expand_bosnia_coal_mines: "Rozšířit uhelné doly v [104.GetName]"
+ expand_lima_coal_mines: "Rozšířit uhelné doly v [303.GetName]"
+ expand_antofagasta_coal_mines: "Rozšířit uhelné doly v [506.GetName]"
+ develop_mendoza_coal_mines: "Založit uhelné doly v [511.GetName]"
+ develop_western_slovakia_coal_mines: "Založit uhelné doly v [70.GetName]"
+ expand_tesinsko_coal_mines: "Rozšířit uhelné doly v [72.GetName]"
+ expand_german_coal_mines: "Rozšířit uhelné doly v [FROM.GetName]"
+ expand_german_coal_mines_tt: "Odemkne rozhodnutí: §YRozšířit uhelné doly§!"
+ expand_transvaal_coal_mines: "Rozšířit uhelné doly v [275.GetName]"
+ expand_bihar_coal_mines: "Rozšířit uhelné doly v [435.GetName]"
