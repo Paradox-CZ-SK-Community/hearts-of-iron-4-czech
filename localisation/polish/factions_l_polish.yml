@@ -574,7 +574,7 @@
  fortify_bosporus_goal_name: "Opevnit Bospor"
  fortify_bosporus_goal_desc: "Opevnění Bosporu zajistí naši kontrolu nad všemi námořními přístupy mezi Černým a Středozemním mořem."
  fortify_bosporus_tooltip: "Každá provincie v §YIstanbul§!, která kontroluje úžinu §YBospor§!, získá úroveň 1 §YPobřežního opevnění§!, úroveň 1 §YPozemního opevnění§! a je bráněna jednou divizí."
- fortify_dardanelles_goal_name: "Opevnit Dardanely"
+ fortify_dardanelles_goal_name: "Upevnit Dardanely" # todo: CHANGED
  fortify_dardanelles_tooltip: "Každá provincie v §YEdirne§! a §YBursa§!, která kontroluje úžinu §YDardanelles§!, získá úroveň 1 §YPobřežního opevnění§!, úroveň 1 §YPozemního opevnění§! a je bráněna jednou divizí."
  fortify_suez_canal_goal_name: "Opevnit Suezský průplav"
  fortify_suez_canal_goal_desc: "Udržení kontroly nad Suezským průplavem je zásadní pro udržení výhradního přístupu mezi Evropou a Asií."
@@ -854,7 +854,7 @@
  FACTION_GOALS_TITLE: "Cíle frakce"
  FACTION_GOALS_CANCEL_TRIGGER_HEADER: "§HTento cíl bude zrušen, pokud:§!"
  FACTION_GOALS_CANCEL_EFFECT_HEADER: "§HDůsledky zrušení:§!"
- FACTION_CHANGE_RULE_ITEM_COST: " £faction_initiative_texticon£ $VALUE|.0H$"
+ FACTION_CHANGE_RULE_ITEM_COST: "£faction_initiative_texticon£ $VALUE|.0$" # todo: CHANGED
  CREATE_FACTION_NO_DLC_DESC: "Vytvořte základ vojenské aliance. Zvěte další země, aby posílily frakci. Členové frakce se mohou navzájem podporovat ve válce!"
  FOCUS_FILTER_POLITICAL_FACTION_GOAL_FILTER: "Frakční politika"
  FOCUS_FILTER_INTERNAL_AFFAIRS_FACTION_GOAL_FILTER: "Vnitřní záležitosti"
@@ -1152,3 +1152,5 @@
  faction_divider_dashes: "--------------"
  TRIGGER_HAS_ACTIVE_FACTION_RULE: "$COUNTRY_OR_FACTION|H$ má aktivní pravidlo $RULE|H$"
  TRIGGER_HAS_NOT_ACTIVE_FACTION_RULE: "$COUNTRY_OR_FACTION|H$ nemá aktivní pravidlo $RULE|H$"
+ fortify_dardanelles_goal_desc: "Opevnění Dardanel by posílilo naši schopnost určovat pohyb flotily a obchodních lodí z Černého moře." # todo: NEW TRANSLATION
+ SCALING_MODIFIER_SECTION_TITLE_REVERSED: "$faction_divider_dashes$\n\n§HPři 0% pokroku manifestu (škálováno):§!" # todo: NEW TRANSLATION

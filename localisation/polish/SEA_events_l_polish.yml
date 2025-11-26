@@ -2074,3 +2074,5 @@
  tsr_manchukuo_border_war.6.a: "No nic." # todo: NEW TRANSLATION
  tsr_manchukuo_border_war.6.b: "Che-pej stále stojí!"" # todo: NEW TRANSLATION
  SEA_PRC_faction_events.74.a: "Učinili své rozhodnutí" # todo: NEW TRANSLATION
+ SEA_china_misc.1.t: "$CHI_retreat_to_taiwan$" # todo: NEW TRANSLATION
+ SEA_china_misc.1.desc: "$CHI_retreat_to_taiwan_desc$" # todo: NEW TRANSLATION
