@@ -131,7 +131,7 @@
  BRA_mercosul_decisions_desc: "$BRA_form_mercosul_desc$"
  BRA_military_support: "Zajistit armádu v [FROM.GetName]"
  BRA_organization_of_american_states_decision_cat: "Organizace amerických států"
- BRA_organization_of_american_states_decision_cat_desc: "Budeme usilovat o vytvoření a udržení ‚Ligy národů‘ Ameriky, podporující regionální spolupráci a snižující potřebu násilných střetů mezi členskými státy."
+ BRA_organization_of_american_states_decision_cat_desc: "Budeme usilovat o vytvoření a udržení „Ligy národů“ Ameriky, podporující regionální spolupráci a snižující potřebu násilných střetů mezi členskými státy."
  BRA_oust_the_empires_decision: "Požadovat, aby byl [FROM.OWNER.GetNameDef] propuštěn §Y[FROM.Capital.OWNER.GetNameDef]§!"
  BRA_oust_the_empires_decision_cat: "Jihoamerický antikoloniální boj"
  BRA_oust_the_empires_decision_tt: "§YFašistické§! nebo §YNezařazené§! země §Rbudou velmi neochotné vzdát se svých území!§!"

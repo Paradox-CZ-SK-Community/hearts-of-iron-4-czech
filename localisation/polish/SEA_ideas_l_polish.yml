@@ -22,909 +22,910 @@
  JAP_imperial_influence_tier_2: "§RVměšující se§!"
  JAP_imperial_influence_tier_3: "§RVlivná§!"
  JAP_imperial_influence_tier_4: "§RDominantní§!"
- JAP_army_faction_tier_1_equal_navy: "$JAP_imperial_influence_tier_1$ $JAP_army_faction$" # todo: NEW TRANSLATION
- JAP_army_faction_tier_1_lesser_1: "$JAP_imperial_influence_tier_1$ $JAP_army_faction$" # todo: NEW TRANSLATION
- JAP_army_faction_tier_1_lesser_2: "$JAP_imperial_influence_tier_1$ $JAP_army_faction$" # todo: NEW TRANSLATION
- JAP_army_faction_tier_1_lesser_3: "$JAP_imperial_influence_tier_1$ $JAP_army_faction$" # todo: NEW TRANSLATION
- JAP_army_faction_tier_2_equal_navy: "$JAP_imperial_influence_tier_2$ $JAP_army_faction$" # todo: NEW TRANSLATION
- JAP_army_faction_tier_2_greater_1: "$JAP_imperial_influence_tier_2$ $JAP_army_faction$" # todo: NEW TRANSLATION
- JAP_army_faction_tier_2_lesser_1: "$JAP_imperial_influence_tier_2$ $JAP_army_faction$" # todo: NEW TRANSLATION
- JAP_army_faction_tier_2_lesser_2: "$JAP_imperial_influence_tier_2$ $JAP_army_faction$" # todo: NEW TRANSLATION
- JAP_army_faction_tier_3_equal_navy: "$JAP_imperial_influence_tier_3$ $JAP_army_faction$" # todo: NEW TRANSLATION
- JAP_army_faction_tier_3_greater_1: "$JAP_imperial_influence_tier_3$ $JAP_army_faction$" # todo: NEW TRANSLATION
- JAP_army_faction_tier_3_greater_2: "$JAP_imperial_influence_tier_3$ $JAP_army_faction$" # todo: NEW TRANSLATION
- JAP_army_faction_tier_3_lesser_1: "$JAP_imperial_influence_tier_3$ $JAP_army_faction$" # todo: NEW TRANSLATION
- JAP_army_faction_tier_4_greater_1: "$JAP_imperial_influence_tier_4$ $JAP_army_faction$" # todo: NEW TRANSLATION
- JAP_army_faction_tier_4_greater_2: "$JAP_imperial_influence_tier_4$ $JAP_army_faction$" # todo: NEW TRANSLATION
- JAP_army_faction_tier_4_greater_3: "$JAP_imperial_influence_tier_4$ $JAP_army_faction$" # todo: NEW TRANSLATION
- JAP_army_faction_tier_4: "$JAP_imperial_influence_tier_4$ $JAP_army_faction$" # todo: NEW TRANSLATION
- JAP_army_faction_tier_3: "$JAP_imperial_influence_tier_3$ $JAP_army_faction$" # todo: NEW TRANSLATION
- JAP_army_faction_tier_2: "$JAP_imperial_influence_tier_2$ $JAP_army_faction$" # todo: NEW TRANSLATION
- JAP_army_faction_tier_1: "$JAP_imperial_influence_tier_1$ $JAP_army_faction$" # todo: NEW TRANSLATION
- JAP_naval_faction_tier_1_equal_army: "$JAP_imperial_influence_tier_1$ $JAP_naval_faction$" # todo: NEW TRANSLATION
- JAP_naval_faction_tier_1_lesser_1: "$JAP_imperial_influence_tier_1$ $JAP_naval_faction$" # todo: NEW TRANSLATION
- JAP_naval_faction_tier_1_lesser_2: "$JAP_imperial_influence_tier_1$ $JAP_naval_faction$" # todo: NEW TRANSLATION
- JAP_naval_faction_tier_1_lesser_3: "$JAP_imperial_influence_tier_1$ $JAP_naval_faction$" # todo: NEW TRANSLATION
- JAP_naval_faction_tier_2_equal_army: "$JAP_imperial_influence_tier_2$ $JAP_naval_faction$" # todo: NEW TRANSLATION
- JAP_naval_faction_tier_2_greater_1: "$JAP_imperial_influence_tier_2$ $JAP_naval_faction$" # todo: NEW TRANSLATION
- JAP_naval_faction_tier_2_lesser_1: "$JAP_imperial_influence_tier_2$ $JAP_naval_faction$" # todo: NEW TRANSLATION
- JAP_naval_faction_tier_2_lesser_2: "$JAP_imperial_influence_tier_2$ $JAP_naval_faction$" # todo: NEW TRANSLATION
- JAP_naval_faction_tier_3_equal_army: "$JAP_imperial_influence_tier_3$ $JAP_naval_faction$" # todo: NEW TRANSLATION
- JAP_naval_faction_tier_3_greater_1: "$JAP_imperial_influence_tier_3$ $JAP_naval_faction$" # todo: NEW TRANSLATION
- JAP_naval_faction_tier_3_greater_2: "$JAP_imperial_influence_tier_3$ $JAP_naval_faction$" # todo: NEW TRANSLATION
- JAP_naval_faction_tier_3_lesser_1: "$JAP_imperial_influence_tier_3$ $JAP_naval_faction$" # todo: NEW TRANSLATION
- JAP_naval_faction_tier_4_greater_1: "$JAP_imperial_influence_tier_4$ $JAP_naval_faction$" # todo: NEW TRANSLATION
- JAP_naval_faction_tier_4_greater_2: "$JAP_imperial_influence_tier_4$ $JAP_naval_faction$" # todo: NEW TRANSLATION
- JAP_naval_faction_tier_4_greater_3: "$JAP_imperial_influence_tier_4$ $JAP_naval_faction$" # todo: NEW TRANSLATION
- JAP_naval_faction_tier_4: "$JAP_imperial_influence_tier_4$ $JAP_naval_faction$" # todo: NEW TRANSLATION
- JAP_naval_faction_tier_3: "$JAP_imperial_influence_tier_3$ $JAP_naval_faction$" # todo: NEW TRANSLATION
- JAP_naval_faction_tier_2: "$JAP_imperial_influence_tier_2$ $JAP_naval_faction$" # todo: NEW TRANSLATION
- JAP_naval_faction_tier_1: "$JAP_imperial_influence_tier_1$ $JAP_naval_faction$" # todo: NEW TRANSLATION
- JAP_zaibatsu_faction_tier_1: "$JAP_imperial_influence_tier_1$ $JAP_zaibatsu_faction$" # todo: NEW TRANSLATION
- JAP_zaibatsu_faction_tier_2: "$JAP_imperial_influence_tier_2$ $JAP_zaibatsu_faction$" # todo: NEW TRANSLATION
- JAP_zaibatsu_faction_tier_3: "$JAP_imperial_influence_tier_3$ $JAP_zaibatsu_faction$" # todo: NEW TRANSLATION
- JAP_zaibatsu_faction_tier_4: "$JAP_imperial_influence_tier_4$ $JAP_zaibatsu_faction$" # todo: NEW TRANSLATION
- JAP_government_faction_tier_1: "$JAP_imperial_influence_tier_1$ $JAP_government_faction$" # todo: NEW TRANSLATION
- JAP_government_faction_tier_2: "$JAP_imperial_influence_tier_2$ $JAP_government_faction$" # todo: NEW TRANSLATION
- JAP_government_faction_tier_3: "$JAP_imperial_influence_tier_3$ $JAP_government_faction$" # todo: NEW TRANSLATION
- JAP_government_faction_tier_4: "$JAP_imperial_influence_tier_4$ $JAP_government_faction$" # todo: NEW TRANSLATION
- JAP_small_influence_gain: "získává §Ymalé§! množství §Yvlivu§!" # todo: NEW TRANSLATION
- JAP_big_influence_gain: "získává §Yvelké§! množství §Yvlivu§!" # todo: NEW TRANSLATION
- JAP_small_influence_loss: "ztrácí §Ymalé§! množství §Yvlivu§!" # todo: NEW TRANSLATION
- JAP_big_influence_loss: "ztrácí §Yvelké§! množství §Yvlivu§!" # todo: NEW TRANSLATION
- JAP_small_army_faction_gain_tt: "£imperial_influence_texticon $JAP_army_faction$ $JAP_small_influence_gain$" # todo: NEW TRANSLATION
- JAP_big_army_faction_gain_tt: "£imperial_influence_texticon $JAP_army_faction$ $JAP_big_influence_gain$" # todo: NEW TRANSLATION
- JAP_small_army_faction_loss_tt: "£imperial_influence_texticon $JAP_army_faction$ $JAP_small_influence_loss$" # todo: NEW TRANSLATION
- JAP_big_army_faction_loss_tt: "£imperial_influence_texticon $JAP_army_faction$ $JAP_big_influence_loss$" # todo: NEW TRANSLATION
- JAP_small_naval_faction_gain_tt: "£imperial_influence_texticon $JAP_naval_faction$ $JAP_small_influence_gain$" # todo: NEW TRANSLATION
- JAP_big_naval_faction_gain_tt: "£imperial_influence_texticon $JAP_naval_faction$ $JAP_big_influence_gain$" # todo: NEW TRANSLATION
- JAP_small_naval_faction_loss_tt: "£imperial_influence_texticon $JAP_naval_faction$ $JAP_small_influence_loss$" # todo: NEW TRANSLATION
- JAP_big_naval_faction_loss_tt: "£imperial_influence_texticon $JAP_naval_faction$ $JAP_big_influence_loss$" # todo: NEW TRANSLATION
- JAP_small_zaibatsu_faction_gain_tt: "£imperial_influence_texticon $JAP_zaibatsu_faction$ $JAP_small_influence_gain$" # todo: NEW TRANSLATION
- JAP_big_zaibatsu_faction_gain_tt: "£imperial_influence_texticon $JAP_zaibatsu_faction$ $JAP_big_influence_gain$" # todo: NEW TRANSLATION
- JAP_small_zaibatsu_faction_loss_tt: "£imperial_influence_texticon $JAP_zaibatsu_faction$ $JAP_small_influence_loss$" # todo: NEW TRANSLATION
- JAP_big_zaibatsu_faction_loss_tt: "£imperial_influence_texticon $JAP_zaibatsu_faction$ $JAP_big_influence_loss$" # todo: NEW TRANSLATION
- JAP_small_government_faction_gain_tt: "£imperial_influence_texticon $JAP_government_faction$ $JAP_small_influence_gain$" # todo: NEW TRANSLATION
- JAP_big_government_faction_gain_tt: "£imperial_influence_texticon $JAP_government_faction$ $JAP_big_influence_gain$" # todo: NEW TRANSLATION
- JAP_small_government_faction_loss_tt: "£imperial_influence_texticon $JAP_government_faction$ $JAP_small_influence_loss$" # todo: NEW TRANSLATION
- JAP_big_government_faction_loss_tt: "£imperial_influence_texticon $JAP_government_faction$ $JAP_big_influence_loss$" # todo: NEW TRANSLATION
- JAP_interservice_rivalry_effects: "£imperial_influence_texticon Kvůli §Y$JAP_interservice_rivalry$§! mezi armádou a námořnictvem:" # todo: NEW TRANSLATION
- JAP_pending_imperial_influence_decision: "NE: Čekající rozhodnutí o císařském vlivu" # todo: NEW TRANSLATION
- JAP_army_faction_is_at_least_influential_tt: "£imperial_influence_texticon $JAP_army_faction$ je alespoň $JAP_imperial_influence_tier_3$" # todo: NEW TRANSLATION
- JAP_army_faction_is_not_subdued_tt: "£imperial_influence_texticon NE: $JAP_army_faction$ je $JAP_imperial_influence_tier_1$" # todo: NEW TRANSLATION
- JAP_army_faction_is_at_most_meddling_tt: "£imperial_influence_texticon $JAP_army_faction$ je §Ynejvýše§! $JAP_imperial_influence_tier_2$" # todo: NEW TRANSLATION
- JAP_army_faction_is_greater_than_naval_tt: "£imperial_influence_texticon $JAP_army_faction$ má více §Yvlivu§! než $JAP_naval_faction$" # todo: NEW TRANSLATION
- JAP_army_faction_is_not_dominant_tt: "£imperial_influence_texticon NE: $JAP_army_faction$ je $JAP_imperial_influence_tier_4$" # todo: NEW TRANSLATION
- JAP_naval_faction_is_at_least_influential_tt: "£imperial_influence_texticon $JAP_naval_faction$ je alespoň $JAP_imperial_influence_tier_3$" # todo: NEW TRANSLATION
- JAP_naval_faction_is_not_subdued_tt: "£imperial_influence_texticon NE: $JAP_naval_faction$ je $JAP_imperial_influence_tier_1$" # todo: NEW TRANSLATION
- JAP_naval_faction_is_at_most_meddling_tt: "£imperial_influence_texticon $JAP_naval_faction$ je §Ynejvýše§! $JAP_imperial_influence_tier_2$" # todo: NEW TRANSLATION
- JAP_naval_faction_is_greater_than_army_tt: "£imperial_influence_texticon $JAP_naval_faction$ má více §Yvlivu§! než $JAP_army_faction$" # todo: NEW TRANSLATION
- JAP_naval_faction_is_not_dominant_tt: "£imperial_influence_texticon NE: $JAP_naval_faction$ je $JAP_imperial_influence_tier_4$" # todo: NEW TRANSLATION
- JAP_naval_faction_is_same_as_army_tt: "£imperial_influence_texticon $JAP_naval_faction$ a $JAP_army_faction$ jsou v rovnováze" # todo: NEW TRANSLATION
- JAP_zaibatsu_faction_is_at_most_meddling_tt: "£imperial_influence_texticon $JAP_zaibatsu_faction$ je §Ynejvýše§! $JAP_imperial_influence_tier_2$" # todo: NEW TRANSLATION
- JAP_civilian_government_faction_is_not_subdued_tt: "£imperial_influence_texticon NE: $JAP_government_faction$ je $JAP_imperial_influence_tier_1$" # todo: NEW TRANSLATION
- JAP_zaibatsu_faction_is_at_least_influential_tt: "£imperial_influence_texticon $JAP_zaibatsu_faction$ je alespoň $JAP_imperial_influence_tier_3$" # todo: NEW TRANSLATION
- JAP_zaibatsu_faction_is_not_subdued_tt: "£imperial_influence_texticon NE: $JAP_zaibatsu_faction$ je $JAP_imperial_influence_tier_1$" # todo: NEW TRANSLATION
- JAP_civilian_government_is_at_least_influential_tt: "£imperial_influence_texticon $JAP_government_faction$ je alespoň $JAP_imperial_influence_tier_3$" # todo: NEW TRANSLATION
- JAP_blocked_from_favoring_the_army_flag: " §Y$JAP_army_faction$§! má §Rzcela ztracenou přízeň§! u $JAP_imperial_influence_ruler_title$" # todo: NEW TRANSLATION
- JAP_blocked_from_favoring_the_navy_flag: " §Y$JAP_naval_faction$§! má §Rzcela ztracenou přízeň§! u $JAP_imperial_influence_ruler_title$" # todo: NEW TRANSLATION
- JAP_blocked_from_favoring_the_zaibatsus_flag: " §Y$JAP_zaibatsu_faction$§! má §Rzcela ztracenou přízeň§! u $JAP_imperial_influence_ruler_title$" # todo: NEW TRANSLATION
- JAP_blocked_from_favoring_the_government_flag: " §Y$JAP_government_faction$§! má §Rzcela ztracenou přízeň§! u $JAP_imperial_influence_ruler_title$" # todo: NEW TRANSLATION
- JAP_state_shinotism_dm: "Státní šintó" # todo: NEW TRANSLATION
- JAP_state_shinotism_dm_desc: "Od restaurace Meiji jsme se snažili využít uctívání v šintó svatyních k podpoře císařské loajality a k budování národa. Díky tomu jsme vybudovali zemi, která je připravena mnoho obětovat ve jménu státu." # todo: NEW TRANSLATION
- JAP_modify_state_shinotism_modifier_tt: "Upravit §Y$JAP_state_shinotism_dm$§! o:" # todo: NEW TRANSLATION
- JAP_add_state_shinotism_modifier_tt: "Přidat §Y$JAP_state_shinotism_dm$§!, které uděluje:\n" # todo: NEW TRANSLATION
- JAP_imperial_army_dm: "Císařská armáda" # todo: NEW TRANSLATION
- JAP_imperial_army_dm_desc: "IJA je naší hlavní pozemní silou, hrála centrální roli v naší rychlé modernizaci během éry Meiji a Taisho a bojovala v řadě konfliktů včetně japonsko-čínské války, rusko-japonské války i Velké války. Původně vznikla z doménových armád po Meiji restauraci a vyvinula se v mocné moderní vojsko ovlivněné francouzskými a německými vzory." # todo: NEW TRANSLATION
- JAP_japanese_armor_doctrine_tt: "[GetJapaneseArmorDoctrineDesc]\n" # todo: NEW TRANSLATION
- JAP_japanese_armor_doctrine_blankspace_tt: "[GetJapaneseArmorDoctrineBlankSpace]" # todo: NEW TRANSLATION
- JAP_japanese_armor_doctrine: "Japonská doktrína pancéřování" # todo: NEW TRANSLATION
- JAP_blanskspace_tt: "\n" # todo: NEW TRANSLATION
- JAP_japanese_armor_doctrine_equipment_tt: "§YVšechny tanky§!:\n  $production_cost_tt$ §R+10.00%§!" # todo: NEW TRANSLATION
- JAP_national_army_dm: "Národní armáda" # todo: NEW TRANSLATION
- JAP_national_army_dm_desc: "NJLF je naší hlavní pozemní silou, hrála centrální roli v naší rychlé modernizaci během éry Meiji a Taisho a bojovala v řadě konfliktů včetně japonsko-čínské války, rusko-japonské války i Velké války. Původně vznikla z doménových armád po Meiji restauraci a vyvinula se v mocné moderní vojsko ovlivněné francouzskými a německými vzory." # todo: NEW TRANSLATION
- JAP_jungle_armor_tt: "\n§Y$category_all_armor$§!:\n§YDžungle§!:\n Změna efektivity útoku: §G+10%§!\n Změna efektivity obrany: §G+10%§!" # todo: NEW TRANSLATION
- JAP_modify_imperial_army_modifier_tt: "Upravit §Y$JAP_imperial_army_dm$§! o:" # todo: NEW TRANSLATION
- JAP_add_imperial_army_modifier_tt: "Přidat §Y$JAP_imperial_army_dm$§!, které uděluje:\n" # todo: NEW TRANSLATION
- JAP_modify_national_army_modifier_tt: "Upravit §Y$JAP_national_army_dm$§! o:" # todo: NEW TRANSLATION
- JAP_imperial_navy_dm: "Císařské námořnictvo" # todo: NEW TRANSLATION
- JAP_imperial_navy_dm_desc: "IJN vzniklo v roce 1868 na počátku Meiji restaurace a už v roce 1920 bylo třetím největším námořnictvem na světě. Nyní je naše mocné námořnictvo rychle rozšiřováno, aby naše země byla schopna čelit nadcházejícím dobám." # todo: NEW TRANSLATION
- JAP_modify_imperial_navy_modifier_tt: "Upravit §Y$JAP_imperial_navy_dm$§! o:" # todo: NEW TRANSLATION
- JAP_add_imperial_navy_modifier_tt: "Přidat §Y$JAP_imperial_navy_dm$§!, které uděluje:\n" # todo: NEW TRANSLATION
- JAP_japanese_navy_dm: "Japonské námořnictvo" # todo: NEW TRANSLATION
- JAP_japanese_navy_dm_desc: "IJN vzniklo v roce 1868 na počátku Meiji restaurace a už v roce 1920 bylo třetím největším námořnictvem na světě. Nyní je naše mocné námořnictvo rychle rozšiřováno, aby naše země byla schopna čelit nadcházejícím dobám." # todo: NEW TRANSLATION
- JAP_modify_japanese_navy_modifier_tt: "Upravit §Y$JAP_japanese_navy_dm$§! o:" # todo: NEW TRANSLATION
- JAP_army_and_naval_air_services_dm: "Armádní a námořní letecké služby" # todo: NEW TRANSLATION
- JAP_army_and_naval_air_services_dm_desc: "Naše letectvo je v současnosti rozděleno mezi Armádní leteckou službu císařské japonské armády a Námořní leteckou službu císařského námořnictva, rozdělené v operačním nasazení, výrobě i výzkumu a vývoji mezi námořnictvem a armádou. Kvůli tomu čelí velkým logistickým úzkým místům, z nichž některá lze překonat pouze sloučením našich letectev." # todo: NEW TRANSLATION
- JAP_separate_air_services_tt: "[GetSeparateAirforcesDesc]\n" # todo: NEW TRANSLATION
- JAP_lightweight_fighters_tt: "[GetLighweightFightersDesc]" # todo: NEW TRANSLATION
- JAP_7075_aluminium_alloy_tt: "§Y$small_plane_airframe$§! a §Y$cv_small_plane_airframe$§! $MODIFIER_AIR_AGILITY$: §G+10%§!" # todo: NEW TRANSLATION
- JAP_modify_army_and_naval_air_services_modifier_tt: "Upravit §Y$JAP_army_and_naval_air_services_dm$§! o:" # todo: NEW TRANSLATION
- JAP_add_army_and_naval_air_services_modifier_tt: "Přidat §Y$JAP_army_and_naval_air_services_dm$§!, které uděluje:\n" # todo: NEW TRANSLATION
- JAP_modify_japanese_airforce_modifier_tt: "Upravit §Y$JAP_japanese_airforce_dm$§! o:" # todo: NEW TRANSLATION
- JAP_japanese_airforce_dm: "Japonské letectvo" # todo: NEW TRANSLATION
- JAP_early_industrialization_efforts_dm: "Snahy o ranou industrializaci" # todo: NEW TRANSLATION
- JAP_early_industrialization_efforts_dm_desc: "Naše průmyslová revoluce se skutečně rozběhla až v 70. letech 19. století během Meiji restaurace, poté co mise Iwakura přinesla poznatky potřebné k rozjezdu průmyslu. Od té doby se naše ekonomika značně rozšířila a vznikly moderní průmyslové odvětví. Přesto je naše ekonomika stále daleko za západním světem, především kvůli nedostatku přírodních zdrojů." # todo: NEW TRANSLATION
- JAP_modify_early_industrialization_modifier_tt: "Upravit §Y$JAP_early_industrialization_efforts_dm$§! o:" # todo: NEW TRANSLATION
- JAP_add_early_industrialization_modifier_tt: "Přidat §Y$JAP_early_industrialization_efforts_dm$§!, které uděluje:\n" # todo: NEW TRANSLATION
- JAP_modify_economic_mirale_modifier_tt: "Upravit §Y$JAP_the_economic_mirale_dm$§! o:" # todo: NEW TRANSLATION
- JAP_the_economic_mirale_dm: "Ekonomický zázrak" # todo: NEW TRANSLATION
- JAP_the_economic_mirale_dm_desc: "Lehký průmysl a zemědělství už nejsou páteří ekonomiky, těžký průmysl je překonal. K tomu byly chudoba a nezaměstnanost radikálně sníženy v důsledku brilantních ekonomických reforem Osama Shimomury. Brzy budeme jednou z největších ekonomik světa!" # todo: NEW TRANSLATION
- JAP_showa_statism_modifier: "Showa statismus" # todo: NEW TRANSLATION
- JAP_modify_showa_statism_modifier_tt: "Upravit §Y$JAP_showa_statism_modifier$§! o:" # todo: NEW TRANSLATION
- JAP_add_showa_statism_modifier_tt: "Přidat §Y$JAP_showa_statism_modifier$§!, které uděluje:\n" # todo: NEW TRANSLATION
- JAP_civilian_cabinet_modifier: "Civilní kabinet" # todo: NEW TRANSLATION
- JAP_modify_civilian_cabinet_modifier_tt: "Upravit §Y$JAP_civilian_cabinet_modifier$§! o:" # todo: NEW TRANSLATION
- JAP_add_civilian_cabinet_modifier_tt: "Přidat §Y$JAP_civilian_cabinet_modifier$§!, které uděluje:\n" # todo: NEW TRANSLATION
- JAP_communist_party_modifier: "Japonská komunistická strana" # todo: NEW TRANSLATION
- JAP_modify_communist_party_modifier_tt: "Upravit §Y$JAP_communist_party_modifier$§! o:" # todo: NEW TRANSLATION
- JAP_add_communist_party_modifier_tt: "Přidat §Y$JAP_communist_party_modifier$§!, které uděluje:\n" # todo: NEW TRANSLATION
- JAP_rounouha_modifier: "Vláda Rōnō-ha" # todo: NEW TRANSLATION
- JAP_modify_rounouha_modifier_tt: "Upravit §Y$JAP_rounouha_modifier$§! o:" # todo: NEW TRANSLATION
- JAP_add_rounouha_modifier_tt: "Přidat §Y$JAP_rounouha_modifier$§!, které uděluje:\n" # todo: NEW TRANSLATION
- JAP_east_asia_co_prosperity_sphere_dm: "Dai Tōa Kyōeiken" # todo: NEW TRANSLATION
- JAP_modify_east_asia_co_prosperity_sphere_modifier_tt: "Upravit §Y$JAP_east_asia_co_prosperity_sphere_dm$§! o:" # todo: NEW TRANSLATION
- JAP_add_east_asia_co_prosperity_sphere_modifier_tt: "Přidat §Y$JAP_east_asia_co_prosperity_sphere_dm$§!, které uděluje:\n" # todo: NEW TRANSLATION
- JAP_tokko_idea_lar: "Tokkō" # todo: NEW TRANSLATION
- JAP_tokko_idea_lar_desc: "Speciální vyšší policie je organizace zřízená za účelem provádění vnitrostátního vymáhání práva, kontroly politických skupin a ideologií považovaných za ohrožení veřejného pořádku naší země. Sledují lidi v naší zemi a působí jako předvoj proti zahraničním agentům i politickým disidentům." # todo: NEW TRANSLATION
- JAP_revisited_21_demands_neg_op_mod: "Znovu projednány Dvacet jedna požadavků" # todo: NEW TRANSLATION
- JAP_operation_an_idea: "Operace AN" # todo: NEW TRANSLATION
- JAP_central_economic_council_idea: "Centrální ekonomická rada" # todo: NEW TRANSLATION
- JAP_german_tech_exchange: "Německá technologická výměna" # todo: NEW TRANSLATION
- JAP_german_tech_exchange_desc: "Další německé technologické pokroky by byly nesmírně užitečné pro naše válečné úsilí. Musíme zajistit získání těchto plánů bez ohledu na cenu." # todo: NEW TRANSLATION
- JAP_air_defence_surveilance_corps_idea: "Sbor letecké obranné hlídky" # todo: NEW TRANSLATION
- JAP_national_defense_brotherhood_idea: "Bratrstvo národní obrany" # todo: NEW TRANSLATION
- JAP_expel_the_barbarians: "Vyhnat barbery" # todo: NEW TRANSLATION
- JAP_utilizing_ainu_expertize: "Využití odborných znalostí Ainu" # todo: NEW TRANSLATION
- JAP_battle_for_oceania: "Bitva o Oceánii" # todo: NEW TRANSLATION
- JAP_operation_MO_military_offensive: "Operace MO" # todo: NEW TRANSLATION
- JAP_chinese_offensive_military_offensive: "Probíhající japonská ofenzíva" # todo: NEW TRANSLATION
- JAP_senbu_idea: "Senbu Organizations" # todo: NEW TRANSLATION
- MEN_true_mongol_state: "Pravý mongolský stát" # todo: NEW TRANSLATION
- JAP_press_association_idea: "Velká japonská tisková asociace" # todo: NEW TRANSLATION
- JAP_japanese_influence_growing_tibet: "Rostoucí japonský vliv" # todo: NEW TRANSLATION
- JAP_smaller_japanese_influence_growing_tibet: "Pokusy o japonskou infiltraci" # todo: NEW TRANSLATION
- senbu_occupation_law_fake_idea: "Senbu" # todo: NEW TRANSLATION
- JAP_new_order_in_east_asia_idea: "Nový řád ve Východní Asii" # todo: NEW TRANSLATION
- JAP_distributing_rations: "Rozdělování přídělů" # todo: NEW TRANSLATION
- JAP_subject_tonarigumi_idea: "Tonarigumi" # todo: NEW TRANSLATION
- SHX_suiyuan_campaign_idea: "Obrana proti kampani Suiyuan" # todo: NEW TRANSLATION
- JAP_sufu_materials: "Materiály Sufu" # todo: NEW TRANSLATION
- JAP_boeitai_idea: "Boeitai" # todo: NEW TRANSLATION
- JAP_is_home_islands_state_tt: "Jakýkoli §Ystát Domácích ostrovů§!" # todo: NEW TRANSLATION
- JAP_collapsing_government_idea: "Rozpad kabinetu" # todo: NEW TRANSLATION
- JAP_advance_one_hundred_million_fireballs_idea: "Vpřed, sto milionů ohnivých koulí!" # todo: NEW TRANSLATION
- JAP_the_eternal_kingdom_idea: "Věčné císařství" # todo: NEW TRANSLATION
- MAN_kyousakusha_uplifted: "Gassakusha Uplifted" # todo: NEW TRANSLATION
- JAP_increased_national_security_no_lar: "Zvýšené národní zabezpečení" # todo: NEW TRANSLATION
- ENG_cox_incident_opm: "Coxův incident" # todo: NEW TRANSLATION
- SOV_sorge_incident_opm: "Sorgeův incident" # todo: NEW TRANSLATION
- CHI_rejected_our_proposal_for_cooperation_opm: "Odmítl naši nabídku na protikomunistickou spolupráci" # todo: NEW TRANSLATION
- CHI_denounced_feudalism: "Odsoudil feudalismus" # todo: NEW TRANSLATION
- CHI_nine_power_treaty_sea: "Smlouva devíti mocností" # todo: NEW TRANSLATION
- CHI_nine_power_treaty_modify: "Mění $CHI_nine_power_treaty_sea$:" # todo: NEW TRANSLATION
- JAP_anti_communist_crackdowns_idea: "Protikomunistické represe" # todo: NEW TRANSLATION
- CHI_suppression_of_anti_japanese_sentiments_idea: "Potlačení protijaponských nálad" # todo: NEW TRANSLATION
- JAP_pro_japanese_sentiments_for_usa_idea: "Civilní pro-japonské nálady" # todo: NEW TRANSLATION
- JAP_has_recently_tried_to_block_usa_support_for_china_flag: "Japonsko nedávno využilo Japonský výbor pro obchod a informace k odklonění Spojených států od podpory Číny" # todo: NEW TRANSLATION
- JAP_supported_pro_japanese_sentiments_idea: "Rostoucí pro-japonské nálady" # todo: NEW TRANSLATION
- JAP_growing_pro_japanese_sentiment_opm: "Rostoucí pro-japonské nálady" # todo: NEW TRANSLATION
- JAP_cracked_down_on_growing_pro_japanese_sentiment_opm: "Potlačil rostoucí pro-japonské nálady" # todo: NEW TRANSLATION
- JAP_currently_spreading_pro_japanese_sentiments_flag: " Právě podporuje pro-japonské nálady v zemi" # todo: NEW TRANSLATION
- JAP_currently_investing_in_states_natural_resources_flag: " Právě investuje do přírodních zdrojů země" # todo: NEW TRANSLATION
- JAP_resource_extraction_investments_dm: "Japonské investice do těžby surovin" # todo: NEW TRANSLATION
- GEACPS_exploitation_occupation_law: "Vykořisťování ve Východní Asii" # todo: NEW TRANSLATION
- GEACPS_prosperity_occupation_law: "Blahobyt ve Východní Asii" # todo: NEW TRANSLATION
- GEACPS_exploitation_occupation_law_fake_idea: "Vykořisťování ve Východní Asii" # todo: NEW TRANSLATION
- GEACPS_prosperity_occupation_law_fake_idea: "Blahobyt ve Východní Asii" # todo: NEW TRANSLATION
- JAP_MAN_joint_economic_block_idea: "Japonsko-mandžuský ekonomický blok" # todo: NEW TRANSLATION
- JAP_mongolian_independence_army_reestablished_idea: "Nová mongolská armáda nezávislosti" # todo: NEW TRANSLATION
- JAP_surprise_invasion_idea: "Překvapivá invaze" # todo: NEW TRANSLATION
- JAP_surprise_invasion_idea_desc: "Invaze, kterou nedávno zahájila Kwantungská armáda, nepřekvapila jen nepřítele, ale i naši vládu a ozbrojené síly. Chvíli potrvá, než bude armáda plně mobilizována a připravena bojovat s novým nepřítelem." # todo: NEW TRANSLATION
- JAP_japanese_chinese_friendship: "Sino-japonský pakt o vzájemné spolupráci" # todo: NEW TRANSLATION
- JAP_dimantle_faction_tt: "§RKdyž je §Y$JAP_japanese_chinese_friendship$§! odstraněn, §Y$JAP_sino_japanese_pact$§! je rozpuštěn§!" # todo: NEW TRANSLATION
- sino_japanese_alliance_threat: "Ohrožen sino-japonskou aliancí" # todo: NEW TRANSLATION
- signed_the_sino_japanese_pact_opm: "Podepsal Sino-japonský pakt" # todo: NEW TRANSLATION
- JAP_yen_bloc_idea: "Člen yenového bloku" # todo: NEW TRANSLATION
- JAP_invesments_into_minor_asian_states_cost: "Náklady na rozvoj Východní Asie" # todo: NEW TRANSLATION
- JAP_industrial_development_support: "Japonská průmyslová podpora" # todo: NEW TRANSLATION
- JAP_ministry_of_greater_east_asia_idea: "Správa Ministerstvem Velké Východní Asie" # todo: NEW TRANSLATION
- JAP_second_russo_japanese_war_fervor_idea: "Vroucné nadšení pro druhou rusko-japonskou válku" # todo: NEW TRANSLATION
- SOV_full_focus_on_the_west: "Plná pozornost směrem na Západ" # todo: NEW TRANSLATION
- JAP_japanese_investments: "[JAP.GetAdjective] investice" # todo: NEW TRANSLATION
- JAP_sent_back_genrikh_lyushkov_opm: "Poslán zpět Genrikh Lyushkov" # todo: NEW TRANSLATION
- JAP_hosting_genrikh_lyushkov_opm: "Hostí Genricha Lyuškova" # todo: NEW TRANSLATION
- JAP_the_imperial_way_dm: "Císařská cesta" # todo: NEW TRANSLATION
- JAP_modify_the_imperial_way_modifier_tt: "Upravit §Y$JAP_the_imperial_way_dm$§! o:" # todo: NEW TRANSLATION
- JAP_add_the_imperial_way_modifier_tt: "Přidat §Y$JAP_the_imperial_way_dm$§!, které uděluje:\n" # todo: NEW TRANSLATION
- JAP_regional_development: "Regionální rozvoj" # todo: NEW TRANSLATION
- JAP_first_strike_principle_dm: "Princip prvního úderu" # todo: NEW TRANSLATION
- JAP_first_strike_principle_dm_desc: "Revidovaná národní obranná politika přijatá v roce 1936 vymezila doktrínu, v níž stanovujeme princip prvního úderu a krátkodobé operace jako vojenský modus operandi. Příprava vojenských sil v době míru je proto nezbytná pro krátkodobé operace zdůrazněné s ohledem na dlouhotrvající a totální válku. Vyhrajeme tuto válku rychle, protože jinak ji možná nevyhrajeme vůbec!" # todo: NEW TRANSLATION
- JAP_first_strike_principle_dm_tt: "[GetFirstStrikePrincipleTarget1]\n[GetFirstStrikePrincipleTarget2]\n[GetFirstStrikePrincipleTarget3]" # todo: NEW TRANSLATION
- GetFirstStrikeString: "První úder proti" # todo: NEW TRANSLATION
- JAP_first_strike_principle_1: "$GetFirstStrikeString$ [?JAP.JAP_first_strike_principle_target_1.GetNameDef] §Wpo dobu [?JAP_first_strike_principle_remaining_days_1:days_left|Y0] dní§!" # todo: NEW TRANSLATION
- JAP_first_strike_principle_2: "$GetFirstStrikeString$ [?JAP.JAP_first_strike_principle_target_2.GetNameDef]  §Wpo dobu [?JAP_first_strike_principle_remaining_days_2:days_left|Y0] dní§!" # todo: NEW TRANSLATION
- JAP_first_strike_principle_3: "$GetFirstStrikeString$ [?JAP.JAP_first_strike_principle_target_3.GetNameDef]  §Wpo dobu [?JAP_first_strike_principle_remaining_days_3:days_left|Y0] dní§!" # todo: NEW TRANSLATION
- JAP_kantai_kessen_dm: "Kantai Kessen" # todo: NEW TRANSLATION
- JAP_kantai_kessen_dm_desc: "S rozhodující porážkou ruského námořnictva v bitvě u Cušimy nyní námořnictvo plně věří v doktrínu, že může vyhrát válku bojem a vítězstvím v jediné rozhodující námořní bitvě. Jejich současné plány na zopakování takového vítězství zahrnují převzetí obranné pozice a čekání, až nepřátelská flotila připluje, a pak její zničení v ostré bitvě u japonského pobřeží." # todo: NEW TRANSLATION
- JAP_kantai_kessen_dm_tt: "[GetKantaiKessenTarget1]\n[GetKantaiKessenTarget2]\n[GetKantaiKessenTarget3]" # todo: NEW TRANSLATION
- GetKantaiKessenString: "Rozhodující bitva proti" # todo: NEW TRANSLATION
- JAP_kantai_kessen_1: "$GetKantaiKessenString$ [?JAP.JAP_kantai_kessen_target_1.GetNameDef] §Wpo dobu [?JAP_kantai_kessen_remaining_days_1:days_left|Y0] dní§!" # todo: NEW TRANSLATION
- JAP_kantai_kessen_2: "$GetKantaiKessenString$ [?JAP.JAP_kantai_kessen_target_2.GetNameDef]  §Wpo dobu [?JAP_kantai_kessen_remaining_days_2:days_left|Y0] dní§!" # todo: NEW TRANSLATION
- JAP_kantai_kessen_3: "$GetKantaiKessenString$ [?JAP.JAP_kantai_kessen_target_3.GetNameDef]  §Wpo dobu [?JAP_first_strike_principle_remaining_days_3:days_left|Y0] dní§!" # todo: NEW TRANSLATION
- JAP_strike_south_idea: "Útok na jih" # todo: NEW TRANSLATION
- JAP_strike_south_idea_desc: "Jen rozhodným a rychlým úderem můžeme doufat, že si podmaníme celou jihovýchodní Asii. Naše loďstvo musí čelit vlnám, aby naši vojáci mohli dobýt nepřátelské pobřeží a podrobit region." # todo: NEW TRANSLATION
- JAP_advanced_weapon_projects_dm: "Projekty pokročilých zbraní" # todo: NEW TRANSLATION
- JAP_advanced_weapon_projects_dm_desv: "TODO" # todo: NEW TRANSLATION
- JAP_add_advanced_weapon_projects_dm: "Přidej §Y$JAP_advanced_weapon_projects_dm$§!, které uděluje:\n" # todo: NEW TRANSLATION
- JAP_modify_advanced_weapon_projects_dm: "Uprav §Y$JAP_advanced_weapon_projects_dm$§! takto:" # todo: NEW TRANSLATION
- JAP_support_ethiopia_static_modifier: "Podpora Etiopie" # todo: NEW TRANSLATION
- JAP_aid_ETH: "Pomoc Etiopii" # todo: NEW TRANSLATION
- JAP_sent_eth_aid_opm: "Poslali nám pomoc" # todo: NEW TRANSLATION
- JAP_kempeitai_idea_lar: "Kempeitai" # todo: NEW TRANSLATION
- JAP_the_great_spiritual_evil_opm: "Pečlivě antikomunistické stanovisko" # todo: NEW TRANSLATION
- JAP_kenkokukai: "Společnost národního základu" # todo: NEW TRANSLATION
- JAP_double_leaf_society_idea: "Plody Společnosti Dvojího listu" # todo: NEW TRANSLATION
- JAP_restructing_the_industrial_conglomerates: "Restrukturalizace průmyslových konglomerátů" # todo: NEW TRANSLATION
- JAP_enemy_of_our_enemy_opm: "Nepřítel našeho nepřítele" # todo: NEW TRANSLATION
- JAP_POL_anti_soviet_pact: "Polsko-japonský anti-[SOV.GetAdjective] pakt" # todo: NEW TRANSLATION
- JAP_POL_anti_soviet_pact_refused_call: "Odmítl dodržet polsko-japonský anti-[SOV.GetAdjective] pakt" # todo: NEW TRANSLATION
- POL_JAP_pact_tt: "Pokud se jeden z národů se sklonem §Y$JAP_POL_anti_soviet_pact$§! ocitne ve válce s §Y[SOV.GetNameDef]§!, ostatní budou přivoláni" # todo: NEW TRANSLATION
- JAP_POL_anti_soviet_pact_2_tt: "Pokud se jeden z národů se sklonem §Y$JAP_POL_anti_soviet_pact$§! ocitne v obranné válce s §Y[SOV.GetNameDef]§!, ostatní budou přivoláni" # todo: NEW TRANSLATION
- JAP_in_the_footsteps_of_jimmu: "Po stopách Jimmu" # todo: NEW TRANSLATION
- JAP_kokutai_idea: "Kokutai" # todo: NEW TRANSLATION
- JAP_yatagarasus_guidance_idea: "Yatagarasu's Guidance" # todo: NEW TRANSLATION
- JAP_amaterasus_weapons_idea: "The Weapons of Amaterasu's Aramitama" # todo: NEW TRANSLATION
- JAP_intense_anti_guerilla_operation: "Intenzivní protigerilové operace" # todo: NEW TRANSLATION
- JAP_intense_anti_guerilla_operation_desc: "Japonská armáda nyní usilovně pracuje na vymýcení partyzánů a infiltrantů v tomto regionu a uplatňuje novou politiku spálené země." # todo: NEW TRANSLATION
- MAN_hydroelectric_power: "Hydroelektrická energie" # todo: NEW TRANSLATION
- MAN_hydroelectric_power_desc: "Díky investicím v naší zemi jsme konečně postavili síť přehrad, které vyrábějí elektřinu a regulují průtoky řek." # todo: NEW TRANSLATION
- JAP_the_divine_wind_idea: "Božský vítr" # todo: NEW TRANSLATION
- KOR_resistance_against_colonial_rule_dm: "Lidový odpor proti současné nadvládě" # todo: NEW TRANSLATION
- JAP_metabolism_idea: "Metabolism" # todo: NEW TRANSLATION
- JAP_danchi_idea: "Danchi" # todo: NEW TRANSLATION
- JAP_taiheyo_belt_modifier: "Taiheiyō Belt" # todo: NEW TRANSLATION
- JAP_low_popular_support_idea: "Nedostatek podpory obyvatelstva" # todo: NEW TRANSLATION
- JAP_military_strike_idea: "Armáda ve stávce" # todo: NEW TRANSLATION
- JAP_cannot_train_due_to_military_strike: "Nelze cvičit nové jednotky, dokud je aktivní §Y$JAP_military_strike_idea$§!" # todo: NEW TRANSLATION
- JAP_must_take_revoke_ppl_focus_tt: "To lze vyřešit pouze §YZrušením zákona o zachování míru§!" # todo: NEW TRANSLATION
- JAP_low_on_funds_idea: "Nedostatek prostředků" # todo: NEW TRANSLATION
- JAP_state_under_army_control: "Pod kontrolou císařské armády" # todo: NEW TRANSLATION
- JAP_state_under_army_control_tt: "Tento stát se na začátku občanské války připojí k §YFašistům§!" # todo: NEW TRANSLATION
- JAP_state_under_rebel_control: "Zabezpečeno opozicí proti císařské armádě" # todo: NEW TRANSLATION
- JAP_state_under_rebel_control_tt: "Tento stát se na začátku občanské války připojí k §YDemokratům§!, pokud zároveň nebude §Yinfiltrován JCP§!" # todo: NEW TRANSLATION
- JAP_state_infiltrated_by_the_jcp: "Infiltrován JCP" # todo: NEW TRANSLATION
- JAP_state_infiltrated_by_the_jcp_tt: "Tento stát se na začátku občanské války připojí k §YKomunistům§!" # todo: NEW TRANSLATION
- JAP_royal_support_for_civilian_government_idea: "Královská podpora civilní vládě" # todo: NEW TRANSLATION
- JAP_amakudari_idea: "Amakudari" # todo: NEW TRANSLATION
- JAP_agricultural_protectionism_idea: "Agrární protekcionismus" # todo: NEW TRANSLATION
- JAP_industrial_meritocracy_idea: "Průmyslová meritokracie" # todo: NEW TRANSLATION
- JAP_strong_unions_idea: "Silné odbory" # todo: NEW TRANSLATION
- JAP_shinkansen_construction_idea: "První linka Šinkansenu ve výstavbě" # todo: NEW TRANSLATION
- JAP_shinkansen_in_operation_idea: "Šinkansen v provozu" # todo: NEW TRANSLATION
- JAP_industrial_relocation_resources: "Průmyslové investice do zdrojů" # todo: NEW TRANSLATION
- JAP_usa_jap_trade_agreement_idea: "Americko-japonská obchodní dohoda" # todo: NEW TRANSLATION
- JAP_pacific_customs_union_member: "Člen Pacifické měnové unie" # todo: NEW TRANSLATION
- JAP_customs_union_trade_idea: "Obchodní dohoda západního Pacifiku" # todo: NEW TRANSLATION
- JAP_trading_partners: "Obchodní partneři" # todo: NEW TRANSLATION
- JAP_pacific_trade_offshore_tt: "([ROOT.GetFlag]§Y[ROOT.GetNameDefCap]§!) Přidej §G1§! mimo mapu §Y$industrial_complex$§!" # todo: NEW TRANSLATION
- JAP_form_greater_east_asian_customs_union_tt: "Odemkne možnost rozhodnutí §YNavázat levnější obchodní spojení§! s našimi spojenci" # todo: NEW TRANSLATION
- JAP_pacific_integrated_customs_union_member_tt: "§Y[JAP.GetNameDefCap]§! bude moci §RPokusit se nás diplomaticky podrobit!§!" # todo: NEW TRANSLATION
- JAP_state_supporting_resistance_modifier: "Japonsky podporovaný odpor" # todo: NEW TRANSLATION
- JAP_state_supporting_resistance_modifier_desc: "Japonsko tajně dodává místním odbojovým skupinám zbraně, vybavení a vojenský výcvik." # todo: NEW TRANSLATION
- JAP_pro_japanese_sentiment_in_state: "Přítomné prorjaponské nálady" # todo: NEW TRANSLATION
- JAP_influx_of_socialist_industrial_expertise_idea: "Příliv socialistické průmyslové expertízy" # todo: NEW TRANSLATION
- JAP_widespread_protests_and_sabotage_idea: "Rozsáhlé protesty a sabotáže" # todo: NEW TRANSLATION
- JAP_stolen_equipment_idea: "Vykradené vojenské sklady" # todo: NEW TRANSLATION
- JAP_army_arsenals_emptied_idea: "Vyprázdněné armádní arsenály" # todo: NEW TRANSLATION
- JAP_buddhist_socialism_idea: "Buddhistický socialismus" # todo: NEW TRANSLATION
- JAP_modern_ashigaru_idea: "Moderní Ashigaru" # todo: NEW TRANSLATION
- JAP_modern_ikko_ikki_idea: "Moderní Ikkō-ikki" # todo: NEW TRANSLATION
- JAP_socialist_pioneers_idea: "Socialističtí pionýři" # todo: NEW TRANSLATION
- JAP_syndicalism_idea: "Přijetí syndikalismu" # todo: NEW TRANSLATION
- JAP_women_in_industry_idea: "Ženy v průmyslu" # todo: NEW TRANSLATION
- JAP_women_in_industry_idea_desc: "S ženou jako stálou vůdkyní [JAP.GetNameDef] se otevírá precedens, že ženy by měly mít právo pracovat i v dalších odvětvích. Díky tomuto velkému přírůstku do naší pracovní síly můžeme očekávat velký ekonomický pokrok pro naši zemi." # todo: NEW TRANSLATION
- JAP_reorganization_of_society_idea: "Přestavba společnosti" # todo: NEW TRANSLATION
- JAP_reorganization_of_society_idea_desc: "Právě odstraňujeme pozůstatky feudalismu, nacionalismu a konzervativních tradic a zároveň prosazujeme komunistickou ideologii. Zrušíme ideály samurajů a feudální hierarchie, odstraníme bushidó z vzdělávání a společnosti a podpoříme rovnost pohlaví poskytnutím plných práv ženám jak právních, tak ekonomických." # todo: NEW TRANSLATION
- JAP_learn_from_the_nkvd_lar: "Učení se od NKVD" # todo: NEW TRANSLATION
- JAP_ainu_revoluton_theory_implemented_dm: "Implementována teorie áinské revoluce" # todo: NEW TRANSLATION
- JAP_war_communism_idea: "Válečný komunismus" # todo: NEW TRANSLATION
- JAP_the_five_year_plan_idea: "Pětiletý plán" # todo: NEW TRANSLATION
- JAP_anti_kwantung_army_maneuvers_idea: "Vojenská cvičení proti Kwantungské armádě" # todo: NEW TRANSLATION
- JAP_anti_breakway_navy_maneuvers_idea: "Útočná námořní cvičení" # todo: NEW TRANSLATION
- JAP_mobilizing_the_proletariat: "Mobilizace proletariátu" # todo: NEW TRANSLATION
- JAP_the_long_march_to_victory_idea: "Dlouhý pochod k vítězství" # todo: NEW TRANSLATION
- JAP_fifth_international_agitation: "Agitace Páté internacionály" # todo: NEW TRANSLATION
- JAP_free_asia_pacific_idea: "Svobodná asijsko-pacifická oblast" # todo: NEW TRANSLATION
- JAP_pan_asian_union_idea: "Paneasijská unie" # todo: NEW TRANSLATION
- JAP_red_dawn_over_asia_idea: "Rudý úsvit nad Asií" # todo: NEW TRANSLATION
- JAP_ministry_of_pan_asian_development_idea: "Spravováno Ministerstvem paneasijského rozvoje" # todo: NEW TRANSLATION
- JAP_educating_the_peasants_modifier: "Vzdělávání rolníků" # todo: NEW TRANSLATION
- JAP_peoples_liberation_army_of_monglia_idea: "Armáda lidového osvobození Mongolska" # todo: NEW TRANSLATION
- JAP_striking_the_sleeping_bear: "Úder do spícího medvěda" # todo: NEW TRANSLATION
- JAP_day_of_infamy: "Den hanby" # todo: NEW TRANSLATION
- JAP_temporary_factory_output_bonus_idea: "Zvýšené výrobní kvóty" # todo: NEW TRANSLATION
- JAP_temporary_dockyard_output_bonus_idea: "Zvýšené kvóty námořní výroby" # todo: NEW TRANSLATION
- JAP_temporary_manpower_growth_bonus_idea: "Rychlá mobilizace" # todo: NEW TRANSLATION
- JAP_temporary_better_supply_lines_bonus_idea: "Zesílené zásobovací linky" # todo: NEW TRANSLATION
- JAP_temporary_construction_bonus_idea: "Rychlé průmyslové rozšíření" # todo: NEW TRANSLATION
- JAP_temporary_infra_construction_bonus_idea: "Rychlé rozšíření infrastruktury" # todo: NEW TRANSLATION
- JAP_looked_the_other_way_opm: "Dívali se jinam" # todo: NEW TRANSLATION
- JAP_crumbling_military_cabinet_idea: "Rozpadávající se kabinet" # todo: NEW TRANSLATION
- JAP_crumbling_military_cabinet_idea_2: "Současná situace impéria" # todo: NEW TRANSLATION
- JAP_crumbling_military_cabinet_idea_5: "Ketsugo Sakusen" # todo: NEW TRANSLATION
- JAP_accepted_the_potsdam_agreement: "Přijetí Potsdamské deklarace" # todo: NEW TRANSLATION
- JAP_the_final_war_theory_idea: "Teorie konečné války" # todo: NEW TRANSLATION
- USA_wounded_national_pride_idea: "Zraněná národní hrdost" # todo: NEW TRANSLATION
- PRC_the_chinese_red_army: "Čínská Rudá armáda" # todo: NEW TRANSLATION
- PRC_the_chinese_red_army_desc: "[GetArmyRecoveryStage]" # todo: NEW TRANSLATION
- PRC_the_chinese_red_army_modify_tt: "Uprav §Y$PRC_the_chinese_red_army$§! takto: " # todo: NEW TRANSLATION
- PRC_no_army_recovery: "Stále vyčerpaná a oslabená Dlouhým pochodem, Rudá armáda [ROOT.GetAdjective] se stále potýká s návratem na nohy proti zdánlivě silnějším nepřátelům." # todo: NEW TRANSLATION
- PRC_some_army_recovery: "I když stále nedosahuje své vrcholné síly, Rudá armáda [ROOT.GetAdjective] se z Dlouhého pochodu částečně zotavila." # todo: NEW TRANSLATION
- PRC_lots_of_army_recovery: "Navzdory utrpení, které jsme prožili, se Rudá armáda [ROOT.GetAdjective] vrátila téměř na svou bývalou sílu a je opět připravena bojovat za lid." # todo: NEW TRANSLATION
- PRC_the_chinese_red_army_1936_fake: "$PRC_the_chinese_red_army$" # todo: NEW TRANSLATION
- PRC_the_chinese_red_army_1936_fake_desc: "$PRC_no_army_recovery$" # todo: NEW TRANSLATION
- PRC_the_chinese_red_army_1939_fake: "$PRC_the_chinese_red_army$" # todo: NEW TRANSLATION
- PRC_the_chinese_red_army_1939_fake_desc: "$PRC_some_army_recovery$" # todo: NEW TRANSLATION
- PRC_agrarian_society: "Zemědělská společnost" # todo: NEW TRANSLATION
- PRC_agrarian_society_desc: "Skládající se převážně z venkovských sídel s malým průmyslovým rozvojem a s málo nebo žádným vzděláním pro své obyvatele, [FROM.GetNameDef] čelí výzvám na mnoha frontách." # todo: NEW TRANSLATION
- PRC_agrarian_society_modifiy_tt: "Uprav §Y$PRC_agrarian_society$§! takto: " # todo: NEW TRANSLATION
- PRC_agrarian_reform: "Zemědělská reforma" # todo: NEW TRANSLATION
- PRC_agrarian_reform_desc: "I když je stále převážně venkovská, [FROM.GetNameDef] zahájila pomalý proces industrializace." # todo: NEW TRANSLATION
- PRC_agrarian_reform_modify_tt: "Uprav §Y$PRC_agrarian_reform$§! takto: " # todo: NEW TRANSLATION
- PRC_urban_society: "Městská společnost" # todo: NEW TRANSLATION
- PRC_urban_society_desc: "Po velkém úsilí se [FROM.GetNameDef] proměnila z převážně venkovské společnosti v rychle urbanizující se. Města [FROM.GetAdjective] se stanou velkými metropolemi budoucnosti." # todo: NEW TRANSLATION
- PRC_urban_society_modify_tt: "Uprav §Y$PRC_urban_society$§! takto: " # todo: NEW TRANSLATION
- PRC_central_committee: "Ústřední výbor" # todo: NEW TRANSLATION
- PRC_central_committee_desc: "Ústřední výbor Komunistické strany Číny je nejvyšší politický orgán strany. Založený ve 20. letech 20. století je Ústřední výbor veden generálním tajemníkem. Politbyro je výkonným výborem a tvoří jej vrcholové vedení strany. $PRC_zhang_wentian$ převzal Generální sekretariát od $PRC_bo_gu$ v lednu 1935." # todo: NEW TRANSLATION
- PRC_modify_central_committee_modifier: "Uprav §Y$PRC_central_committee$§! takto:" # todo: NEW TRANSLATION
- PRC_bolshevik_volunteers: "Boljševičtí dobrovolníci" # todo: NEW TRANSLATION
- PRC_bolshevik_dominance: "Dominance bolševiků" # todo: NEW TRANSLATION
- PRC_bolshevik_dominance_tt: "Uprav §Y$PRC_bolshevik_dominance$§! takto:" # todo: NEW TRANSLATION
- PRC_maoism_dynamic_modifier: "Maoismus" # todo: NEW TRANSLATION
- PRC_asian_democratic_union_modifier: "$PRC_asian_democratic_union$" # todo: NEW TRANSLATION
- PRC_asian_democratic_union_modifier_modify_tt: "Uprav §Y$PRC_asian_democratic_union_modifier$§! takto:" # todo: NEW TRANSLATION
- PRC_asian_democratic_union_modifier_desc: "$PRC_asian_democratic_union_desc$" # todo: NEW TRANSLATION
- PRC_28_bolshevik_faction_dynamic_modifier: "Diplomatické úsilí frakce" # todo: NEW TRANSLATION
- PRC_28_bolshevik_faction_dynamic_modifier_tt: "Uprav §Y$PRC_28_bolshevik_faction_dynamic_modifier$§! takto:" # todo: NEW TRANSLATION
- PRC_the_great_production_movement: "Velké hnutí výroby" # todo: NEW TRANSLATION
- PRC_the_great_production_movement_modify_tt: "Uprav §Y$PRC_the_great_production_movement$§! takto: " # todo: NEW TRANSLATION
- PRC_pla_ground_force: "Pozemní síly Lidové osvobozenecké armády" # todo: NEW TRANSLATION
- PRC_pla_ground_force_modify_tt: "Uprav §Y$PRC_pla_ground_force$§! takto: " # todo: NEW TRANSLATION
- PRC_pla_navy: "Námořnictvo Lidové osvobozenecké armády" # todo: NEW TRANSLATION
- PRC_pla_navy_modify_tt: "Uprav §Y$PRC_pla_navy$§! takto: " # todo: NEW TRANSLATION
- PRC_pla_air_force: "Letecké síly Lidové osvobozenecké armády" # todo: NEW TRANSLATION
- PRC_pla_air_force_modify_tt: "Uprav §Y$PRC_pla_air_force$§! takto: " # todo: NEW TRANSLATION
- PRC_rename_red_army_tt: "Přejmenuje §Y$PRC_the_chinese_red_army$§! na §Y$PRC_pla_ground_force$§!" # todo: NEW TRANSLATION
- PRC_pla_air_force_fake_idea: "$PRC_pla_air_force$" # todo: NEW TRANSLATION
- PRC_central_military_commission_idea: "Ústřední vojenská komise" # todo: NEW TRANSLATION
- PRC_defunct_state_bank: "Nefunkční státní banka" # todo: NEW TRANSLATION
- PRC_defunct_state_bank_desc: "Přenášet naše staré razicí stroje během Dlouhého pochodu nebylo možné, a proto se nyní naše státní banka v této nové a obtížné situaci snaží zorientovat." # todo: NEW TRANSLATION
- PRC_land_revolution_expedited: "Zemědělská revoluce urychlena" # todo: NEW TRANSLATION
- PRC_land_revolution_halted: "Zemědělská revoluce zastavena" # todo: NEW TRANSLATION
- PRC_recovering_from_the_sufan: "Zotavování po Sufanu" # todo: NEW TRANSLATION
- PRC_silver_dollar_promoted: "Podpora stříbrných mincí" # todo: NEW TRANSLATION
- PRC_paper_bills_promoted: "Podpora papírových bankovek" # todo: NEW TRANSLATION
- PRC_paper_bills_promoted_tt: "§RObchodní zákon nelze zvýšit nad§! §YOmezený vývoz§!" # todo: NEW TRANSLATION
- PRC_trade_of_special_goods_allowed: "Povolen obchod se speciálním zbožím" # todo: NEW TRANSLATION
- PRC_trade_of_special_goods_banned_uprising: "Neoblíbený zákaz obchodu se speciálním zbožím" # todo: NEW TRANSLATION
- PRC_trade_of_special_goods_banned_uprising_tt: "Za §Y1 rok§! si lidé na zákaz zvyknou a národní duch bude vylepšen." # todo: NEW TRANSLATION
- PRC_trade_of_special_goods_banned_stabilised: "Přijatý zákaz obchodu se speciálním zbožím" # todo: NEW TRANSLATION
- PRC_connecting_the_country_idea: "Spojování země" # todo: NEW TRANSLATION
- PRC_army_education_efforts: "Vojenské vzdělávací snahy" # todo: NEW TRANSLATION
- PRC_three_rules_of_discipline_idea: "Tři pravidla disciplíny" # todo: NEW TRANSLATION
- PRC_five_year_plan: "Pětiletý plán" # todo: NEW TRANSLATION
- PRC_five_year_plan_completed: "Pětiletý plán - dokončen" # todo: NEW TRANSLATION
- PRC_five_year_plan_failed: "Nedosažení cílů pětiletého plánu" # todo: NEW TRANSLATION
- PRC_shorter_market_plan: "Kratší tržní plány" # todo: NEW TRANSLATION
- PRC_shorter_market_plan_completed: "Kratší tržní plán - dokončen" # todo: NEW TRANSLATION
- PRC_shorter_market_plan_failed: "Nedosažení cílů kratšího tržního plánu" # todo: NEW TRANSLATION
- PRC_finalize_industrial_plan_idea: "Finalizovaný průmyslový plán" # todo: NEW TRANSLATION
- PRC_soviet_produces_tanks_timed_idea: "Výroba tanků pro [PRC.GetName]" # todo: NEW TRANSLATION
- PRC_western_expedition_idea: "Západní expedice" # todo: NEW TRANSLATION
- PRC_eastern_expedition_idea: "Východní expedice" # todo: NEW TRANSLATION
- PRC_usurp_control_over_yanan_idea: "Jižní expedice" # todo: NEW TRANSLATION
- PRC_mediating_general_secretary_idea: "Zprostředkující generální tajemník" # todo: NEW TRANSLATION
- PRC_mediating_general_secretary_idea_tt: "\n§Y$PRC_zhang_wentian$§! bude zprostředkovávat mezi §Y$PRC_mao_zedong$§! a [GetGuotaoOrBolsheviks], aby zabránil oběma stranám získat příliš velkou moc v rámci §Y$PRC_communist_power_struggle$§!. §RRovnováha moci se posune směrem ke středu§!" # todo: NEW TRANSLATION
- PRC_mediating_general_secretary_idea_guotao_tt: "\n§Y$PRC_zhang_wentian$§! bude zprostředkovávat mezi §Y$PRC_mao_zedong$§! a §Y$PRC_zhang_guotao$§! aby zabránil oběma stranám získat příliš velkou moc v rámci §Y$PRC_communist_power_struggle$§!. §RRovnováha moci se posune směrem ke středu§!" # todo: NEW TRANSLATION
- PRC_GetGuotaoOrBolsheviks_Guotao: "§Y$PRC_zhang_guotao$§!" # todo: NEW TRANSLATION
- PRC_GetGuotaoOrBolsheviks_Bolsheviks: "§Y28 ½ Bolsheviks§!" # todo: NEW TRANSLATION
- PRC_central_committee_fake_idea: "$PRC_central_committee$" # todo: NEW TRANSLATION
- PRC_hundred_regiments_offensive_idea: "Ofenzíva stovky pluků" # todo: NEW TRANSLATION
- PRC_passive_revolutionaries_idea: "Pasivní revolucionáři" # todo: NEW TRANSLATION
- PRC_passive_revolutionaries_idea_desc: "$PRC_the_peoples_doubt_desc$" # todo: NEW TRANSLATION
- PRC_passive_revolutionaries_idea_tt: "\n§Y$PRC_passive_revolutionaries_idea$§! §Rbude odstraněno, jakmile §Y[PRC.GetNameWithFlag]§! vstoupí do války proti cizímu vetřelci, nebo cizí vetřelec bude v míru s celou §YČínou§!§! " # todo: NEW TRANSLATION
- PRC_crossing_the_taiwanese_strait: "Přechod Tchajwanského průlivu" # todo: NEW TRANSLATION
- PRC_guerilla_warfare: "Partyzánská válka" # todo: NEW TRANSLATION
- PRC_the_internal_enemy_tt: "Bonus k útoku proti všem §Yčínským zemím§!: §G+5%§!\nBonus k průlomu proti všem §Yčínským zemím§!: §G+5%§!" # todo: NEW TRANSLATION
- PRC_the_internal_enemy_upgrade_tt: "Bonus k útoku proti všem §Yčínským zemím§!: §G+10%§!\nBonus k průlomu proti všem §Yčínským zemím§!: §G+10%§!" # todo: NEW TRANSLATION
- PRC_add_the_internal_enemy_idea_upgrade_tt: "Uprav §Y$PRC_the_internal_enemy$§! takto:\nBonus k útoku proti všem §Yčínským zemím§!: §G+5%§!\nBonus k průlomu proti všem §Yčínským zemím§!: §G+5%§!" # todo: NEW TRANSLATION
- PRC_spread_world_revolution: "Šířit světovou revoluci" # todo: NEW TRANSLATION
- PRC_urbanization_completed_timed_idea: "Urbanizace dokončena" # todo: NEW TRANSLATION
- PRC_SOV_lend_lease_idea_1: "[SOV.GetName] pomoc v rámci Lend-Lease" # todo: NEW TRANSLATION
- PRC_SOV_lend_lease_idea_1_tt: "Toto bude platit pouze po dobu, kdy bude mít §Y[ROOT.GetNameWithFlag]§! nebo člen frakce §Ypozemní hranici§! s §Y[SOV.GetNameWithFlag]§! nebo členem frakce" # todo: NEW TRANSLATION
- PRC_to_supply_an_army_idea: "Zásobovat armádu" # todo: NEW TRANSLATION
- PRC_to_equip_an_army: "Vyčlenit vybavení pro armádu" # todo: NEW TRANSLATION
- PRC_the_party_builds_the_nation_timed_idea: "Rychlý pokrok" # todo: NEW TRANSLATION
- PRC_peoples_bank_of_china: "Lidová banka [ROOT.GetName]" # todo: NEW TRANSLATION
- PRC_publicity_department_of_central_committee: "Oddělení propagandy Ústředního výboru Komunistické strany Číny" # todo: NEW TRANSLATION
- PRC_sinochem: "Sinochem" # todo: NEW TRANSLATION
- PRC_nanjing_wireless_electronics_plant: "Nankingská továrna bezdrátové elektroniky" # todo: NEW TRANSLATION
- PRC_china_state_construction_engineering_corporation: "Čínská státní stavební a inženýrská společnost" # todo: NEW TRANSLATION
- PRC_china_state_construction_engineering_corporation_civ_improved: "$PRC_china_state_construction_engineering_corporation$" # todo: NEW TRANSLATION
- PRC_china_state_construction_engineering_corporation_mil_improved: "$PRC_china_state_construction_engineering_corporation$" # todo: NEW TRANSLATION
- PRC_china_railway_construction_corporation: "Čínská společnost pro výstavbu železnic" # todo: NEW TRANSLATION
- PRC_china_national_nuclear_corporation: "Čínská národní jaderná korporace" # todo: NEW TRANSLATION
- PRC_first_tractor_company: "První společnost traktorů" # todo: NEW TRANSLATION
- PRC_ordenance_bureau: "Úřad pro zbrojní materiál" # todo: NEW TRANSLATION
- PRC_huangyadong_arsenal: "Huangyadong Arsenal" # todo: NEW TRANSLATION
- PRC_cmc_military_industry_bureau: "Úřad vojenského průmyslu Ústřední vojenské komise " # todo: NEW TRANSLATION
- PRC_first_automative_works: "První automobilové závody" # todo: NEW TRANSLATION
- PRC_factory_617: "Továrna 617" # todo: NEW TRANSLATION
- PRC_peoples_aviation_company_of_china: "Lidová letecká společnost Číny" # todo: NEW TRANSLATION
- PRC_shenyang_aircraft_corporation: "Shenyang Aircraft Corporation" # todo: NEW TRANSLATION
- PRC_harbin_aircraft: "Harbinská letecká průmyslová skupina" # todo: NEW TRANSLATION
- PRC_shipbuilding_industry_bureau: "Úřad lodního průmyslu" # todo: NEW TRANSLATION
- PRC_dalian_shipbuilding_company: "Dalianská loděnice" # todo: NEW TRANSLATION
- PRC_guerilla_cells_active_1: "Partyzánské buňky založeny" # todo: NEW TRANSLATION
- PRC_guerilla_cells_active_1_desc: "Buňky nepřátelských partyzánů si v tomto státě vytvořily přítomnost." # todo: NEW TRANSLATION
- PRC_guerilla_cells_active_1_tt: "\n§Y$PRC_guerilla_cells_active_1$§! bude odstraněno, pokud bude stát mít více než §G60.00%§! §YSíly souladu§!" # todo: NEW TRANSLATION
- PRC_guerilla_cells_active_2: "Aktivita partyzánských buněk" # todo: NEW TRANSLATION
- PRC_guerilla_cells_active_2_desc: "Buňky nepřátelských partyzánů vytvořily přítomnost a zahájily organizované snahy o destabilizaci státu." # todo: NEW TRANSLATION
- PRC_guerilla_cells_active_2_tt: "\n§Y$PRC_guerilla_cells_active_2$§! bude odstraněno, pokud bude stát mít více než §G60.00%§! §YSíly souladu§!" # todo: NEW TRANSLATION
- PRC_anti_japanese_base: "Sabotáže" # todo: NEW TRANSLATION
- PRC_anti_japanese_base_desc: "Partyzánští bojovníci se shromáždili a aktivně sabotovují infrastrukturu ve státě." # todo: NEW TRANSLATION
- PRC_infiltrated_state_1: "Pokus o infiltraci" # todo: NEW TRANSLATION
- PRC_infiltrated_state_2: "Rozsáhlá infiltrace" # todo: NEW TRANSLATION
- PRC_infiltrated_state_3: "Úplná infiltrace" # todo: NEW TRANSLATION
- PRC_infiltrated_state_3_tt: "§RTento stát přejde k [PRC.GetNameWithFlag] v případě války mezi našimi dvěma zeměmi§!" # todo: NEW TRANSLATION
- PRC_infiltrated_state_2_tt: "§YTento stát bude pro [PRC.GetNameWithFlag] levnější získat v mírové konferenci§!" # todo: NEW TRANSLATION
- PRC_urbanization_state_modifier_bonus: "Pokrok urbanizace" # todo: NEW TRANSLATION
- PRC_rural_development_state_modifier_bonus: "Rozvoj venkova" # todo: NEW TRANSLATION
- PRC_probed_border_defenses: "Prozkoumané hranicové obrany" # todo: NEW TRANSLATION
- PRC_probed_border_defenses_victim: "Překvapeni" # todo: NEW TRANSLATION
- PRC_probed_border_defenses_victim_massive: "Rychlá reakce" # todo: NEW TRANSLATION
- PRC_infiltrated_border_defenses: "Infiltrována hranicová obrana" # todo: NEW TRANSLATION
- PRC_sabotaged_border_defenses: "Sabotovány hranicové obrany" # todo: NEW TRANSLATION
- PRC_approached_the_west_opinion: "Přiblížení k Západu" # todo: NEW TRANSLATION
- PRC_dixie_mission_opinion: "Dixie mise" # todo: NEW TRANSLATION
- PRC_deepened_communist_ties_opinion: "Prohloubená komunistická spolupráce" # todo: NEW TRANSLATION
- PRC_approached_the_soviets_opinion: "Přiblížení k Sovětům" # todo: NEW TRANSLATION
- PRC_soviet_technological_cooperation_opinion: "Sino-sovětská technická spolupráce" # todo: NEW TRANSLATION
- CHI_modify_corruption_in_the_administration_tt: "Uprav §Y$CHI_corruption_in_the_administration$§! takto:" # todo: NEW TRANSLATION
- CHI_modify_reorganized_administration_tt: "Uprav §Y$CHI_reorganized_administration$§! takto:" # todo: NEW TRANSLATION
- CHI_modify_illicit_trade_tt: "Uprav §Y$CHI_illicit_trade$§! takto:" # todo: NEW TRANSLATION
- CHI_modify_inefficient_economy_tt: "Uprav §Y$CHI_inefficient_economy$§! takto:" # todo: NEW TRANSLATION
- CHI_modify_neglected_countryside_tt: "Uprav §Y$CHI_neglected_countryside$§! takto:" # todo: NEW TRANSLATION
- CHI_modify_corruption_in_the_armed_forces_tt: "Uprav §Y$CHI_corruption_in_the_armed_forces$§! takto:" # todo: NEW TRANSLATION
- CHI_modify_ROCAF_tt: "Uprav §Y$CHI_ROCAF$§! takto:" # todo: NEW TRANSLATION
- CHI_modify_ROCN_tt: "Uprav §Y$CHI_ROCN$§! takto:" # todo: NEW TRANSLATION
- CHI_modify_protracted_warfare_idea_tt: "Uprav §Y$CHI_protracted_warfare_idea$§! takto:" # todo: NEW TRANSLATION
- CHI_modify_decisive_battle_idea_tt: "Uprav §Y$CHI_decisive_battle_idea$§! takto:" # todo: NEW TRANSLATION
- CHI_modify_blue_shirt_society_tt: "Uprav §Y$CHI_blue_shirt_society$§! takto:" # todo: NEW TRANSLATION
- CHI_modify_gung_ho_idea_tt: "Uprav §Y$CHI_gung_ho_idea$§! takto:" # todo: NEW TRANSLATION
- CHI_modify_new_life_movement_tt: "Uprav §Y$CHI_new_life_movement$§! takto:" # todo: NEW TRANSLATION
- CHI_modify_soviet_support_tt: "Uprav §Y$CHI_soviet_support$§! takto:" # todo: NEW TRANSLATION
- CHI_modify_american_support_tt: "Uprav §Y$CHI_american_support$§! takto:" # todo: NEW TRANSLATION
- CHI_modify_declare_war_zone_tt: "Uprav §Y$CHI_declare_war_zone$§! takto:" # todo: NEW TRANSLATION
- CHI_the_political_tutelage_upgraded_dm: "Republika obnovena" # todo: NEW TRANSLATION
- CHI_corruption_in_the_administration: "Korupce v administrativě" # todo: NEW TRANSLATION
- CHI_corruption_in_the_administration_desc: "Promazaná kola se lépe točí, ale to neznamená efektivitu. Několik jedinců vykonává nepřiměřenou moc, což má dopad na národní stát." # todo: NEW TRANSLATION
- CHI_reorganized_administration: "Přeorganizovaná administrativa" # todo: NEW TRANSLATION
- CHI_reorganized_administration_desc: "Promazali jsme kola naší administrativy, aby se otáčela efektivněji, odstraněním překážek, které stály v cestě." # todo: NEW TRANSLATION
- CHI_switch_administration_modifiers_tt: "Vylepšit §Y$CHI_corruption_in_the_administration$§! na §Y$CHI_reorganized_administration$§!" # todo: NEW TRANSLATION
- CHI_illicit_trade: "Nelegální obchod" # todo: NEW TRANSLATION
- CHI_illicit_trade_desc: "Podzemní trhy a pašerácké sítě oslabují autoritu vlády a narušují ekonomickou stabilitu. Pokusy o omezení těchto aktivit zůstávají chaotické a vliv nelegálního obchodu nadále brzdí národní jednotu a reformy." # todo: NEW TRANSLATION
- CHI_inefficient_economy: "Neefektivní ekonomika" # todo: NEW TRANSLATION
- CHI_inefficient_economy_desc: "Naše industrializace je v začátcích, protože předchozí vlády nepodporovaly správný růst. To však můžeme vyřešit vnitřními i vnějšími opatřeními; náš potenciál je skutečně neomezený." # todo: NEW TRANSLATION
- CHI_neglected_countryside: "Zanedbaný venkov" # todo: NEW TRANSLATION
- CHI_neglected_countryside_desc: "Nankingské desetiletí přineslo naší společnosti skutečně působivé změny. Modernita však byla většinou omezena na městské oblasti a venkov byl opomíjen. To by mohlo vést ke vzniku radikálních myšlenek." # todo: NEW TRANSLATION
- CHI_corruption_in_the_armed_forces: "Korupce v ozbrojených silách" # todo: NEW TRANSLATION
- CHI_corruption_in_the_armed_forces_desc: "Národní revoluční armáda vznikla z řad strany a nese tedy stejné břemeno jako strana. Nepotismus, uplácení a zpronevěra jsou rozšířené a pokud chceme zvítězit, budeme je muset potlačit." # todo: NEW TRANSLATION
- CHI_blue_shirt_society: "Společnost Modrých košil" # todo: NEW TRANSLATION
- CHI_blue_shirt_society_desc: "Společnost praktikování Tří zásad lidu, neboli Modré košile, osvětluje naši zvláštní cestu a zničí ty, kdo jí stojí v cestě." # todo: NEW TRANSLATION
- CHI_ROCAF: "Komise pro letecké záležitosti" # todo: NEW TRANSLATION
- CHI_ROCAF_desc: "Od svého vzniku v posledním desetiletí byla Komise pro letecké záležitosti organizací, skrze kterou převezmeme kontrolu nad naším nebem. I když stále nejde o centralizované letectvo, postup pokroku pokračuje a díky vytrvalosti zvítězíme." # todo: NEW TRANSLATION
- CHI_an_appropriate_design_tt: "[GetAppropriateDesign]" # todo: NEW TRANSLATION
- CHI_appropriate_design_offensive_idea: "Ofenzivní návrh" # todo: NEW TRANSLATION
- CHI_appropriate_design_defensive_idea: "Defenzivní návrh" # todo: NEW TRANSLATION
- CHI_protracted_warfare_idea: "Prodloužená válka" # todo: NEW TRANSLATION
- CHI_protracted_warfare_idea_desc: "Některé armády věří, že rychlý úder vyhrává všechny války, jiní pochopili, že pokud jim to nedovolíme, jejich vůle se zhroutí. Držením obranné pozice déle bude každý vetřelec odražen." # todo: NEW TRANSLATION
- CHI_decisive_battle_idea: "Rozhodující bitva" # todo: NEW TRANSLATION
- CHI_decisive_battle_idea_desc: "Neexistuje případ, kdy by zemi prospěl prodloužený válečný konflikt, a proto musíme rychle zvítězit nad nepřáteli tím, že najdeme místo, kam nasadíme ofenzivní úsilí. Úder bude rychlý a silný." # todo: NEW TRANSLATION
- CHI_gung_ho_idea: "Hnutí Gung Ho" # todo: NEW TRANSLATION
- CHI_gung_ho_idea_desc: "Jedním z našich zdrojů jsou lidé a zorganizovali jsme je do malých průmyslových družstev. Tyto kořeny společnosti nám dají ekonomickou výhodu v našem současném konfliktu." # todo: NEW TRANSLATION
- CHI_ROCN: "Námořnictvo Republiky Číny" # todo: NEW TRANSLATION
- CHI_ROCN_desc: "S tradicí sahající až do dob Qingské dynastie se centrální námořnictvo po Severní expedici připojilo k Kuomintangu a nyní nám umožní promítat naši moc z kontinentu." # todo: NEW TRANSLATION
- CHI_ROCN_tt: "[GetEarlyDetectionsTooltip][GetDefendOurCoastsTooltip][GetConcertedPushIdeaTooltip][GetStrikeFromBelowTooltip][GetLongRangeTooltip][GetCoastalDefenceTooltip][GetMobileBasesTooltip][GetLocalAlloyCommissionTooltip]" # todo: NEW TRANSLATION
- CHI_early_detections_hidden: "$CHI_early_detections$" # todo: NEW TRANSLATION
- CHI_defend_our_coasts_hidden: "$CHI_defend_our_coasts$" # todo: NEW TRANSLATION
- CHI_concerted_push_idea: "$CHI_concerted_push$" # todo: NEW TRANSLATION
- CHI_chinese_economic_support_idea: "[CHI.GetName] ekonomická podpora" # todo: NEW TRANSLATION
- CHI_chinese_economic_support_idea_tt: "[?CHI.CHI_economic_support_cic_amount|Y0] Přebytek ekonomické kapacity každý měsíc" # todo: NEW TRANSLATION
- CHI_chinese_economic_support_idea_desc: "Dostáváme ekonomickou pomoc od [CHI.GetNameDef], abychom posílili naše průmysly, ale výměnou předáváme naši suverenitu." # todo: NEW TRANSLATION
- CHI_chinese_industrial_support_idea: "[CHI.GetName] Průmyslová podpora" # todo: NEW TRANSLATION
- CHI_chinese_industrial_support_idea_desc: "Dostáváme průmyslovou podporu od [CHI.GetNameDef], abychom posílili naše průmysly, ale výměnou předáváme naši suverenitu." # todo: NEW TRANSLATION
- CHI_strike_from_below_hidden: "$CHI_strike_from_below$" # todo: NEW TRANSLATION
- CHI_long_range_hidden: "$CHI_long_range$" # todo: NEW TRANSLATION
- CHI_coastal_defence_hidden: "$CHI_coastal_defence$" # todo: NEW TRANSLATION
- CHI_mobile_bases_hidden: "$CHI_mobile_bases$" # todo: NEW TRANSLATION
- CHI_local_alloy_commission_hidden: "$CHI_local_alloy_commission$" # todo: NEW TRANSLATION
- CHI_empowered_nbis: "Posílené NBIS" # todo: NEW TRANSLATION
- CHI_empowered_nbis_desc: "Naše zpravodajská služba pod NBIS, známá také jako Juntong, dostala mandát nalézat všechny nepřátele, zahraniční i domácí." # todo: NEW TRANSLATION
- CHI_tongzi_jun: "Tongzi Jun" # todo: NEW TRANSLATION
- CHI_tongzi_jun_desc: "Náš mládežnický sbor povede národ k vítězství a dál do budoucnosti." # todo: NEW TRANSLATION
- CHI_baojia: "Baojia" # todo: NEW TRANSLATION
- CHI_baojia_desc: "Tato decentralizovaná organizace nám umožní zvýšit počty tím, že ponechá nábor místním vůdcům skupin, baozhangům." # todo: NEW TRANSLATION
- CHI_soviet_support: "Sovětská podpora" # todo: NEW TRANSLATION
- CHI_soviet_support_dm_tt: "[GetBaseSovietTooltip][GetFacilitateOperationZetTooltip][GetNorthwestHighwayTooltip][GetSellLendLeaseSovietTooltip]" # todo: NEW TRANSLATION
- CHI_sell_lend_lease_soviet_tt: "[?CHI_soviet_support_cic_amount|Y0] Přebytek ekonomické kapacity každý měsíc." # todo: NEW TRANSLATION
- CHI_facilitate_operation_zet_tt: "\n  [?CHI_facilitate_operation_zet_fighter|Y0] kusů $small_plane_airframe$ \n  [?CHI_facilitate_operation_zet_bomber|Y0] kusů $medium_plane_airframe$" # todo: NEW TRANSLATION
- CHI_the_northwest_highway_tt: "\n  [?CHI_facilitate_the_northwest_highway_support_equipment|Y0] kusů $support_equipment$ \n  [?CHI_facilitate_the_northwest_highway_motorized_equipment|Y0] kusů $motorized_equipment$" # todo: NEW TRANSLATION
- CHI_delivery_tt: "které budou dodávány každý měsíc." # todo: NEW TRANSLATION
- idea_CHI_central_government_minquan_pressure_democratic: "Uplatnění principu Minquan" # todo: NEW TRANSLATION
- CHI_american_aid: "Pomoc Čínské republice" # todo: NEW TRANSLATION
- CHI_USA_aid_for_republic: "$CHI_american_aid$" # todo: NEW TRANSLATION
- CHI_broke_the_nine_powers_treaty_opm: "Porušil Dohody devíti mocností" # todo: NEW TRANSLATION
- CHI_electrification_and_mass_education_modifier: "Elektrifikace a masové vzdělávání" # todo: NEW TRANSLATION
- CHI_infiltrated_state_1: "Lokální odbočky přítomny" # todo: NEW TRANSLATION
- CHI_infiltrated_state_2: "Lokální odbočky založeny" # todo: NEW TRANSLATION
- CHI_infiltrated_state_3: "Lokální odbočky posíleny" # todo: NEW TRANSLATION
- CHI_three_princpals_idea: "Tři principy lidu" # todo: NEW TRANSLATION
- CHI_three_princpals_idea_desc: "Zakladatel republiky, Dr. Sun Jat-sen, stanovil tři základní principy, které by ji měly utvářet: Minzu, Minquan a Minsheng - nacionalismus, demokracie a sociální péče. Měli bychom usilovat o zavedení těchto principů v naší vládě." # todo: NEW TRANSLATION
- CHI_three_princpals_reorganized_idea: "Tři státní principy" # todo: NEW TRANSLATION
- CHI_three_princpals_reorganized_idea_desc: "Zakladatel republiky, Dr. Sun Jat-sen, stanovil tři základní principy, které by ji měly utvářet: Minzu, Minquan a Minsheng - nacionalismus, demokracie a sociální péče. I když nejsou zcela v souladu s naším přístupem k tridemismu, měli bychom se přesto snažit tyto principy využít ku prospěchu." # todo: NEW TRANSLATION
- CHI_tewu_idea: "TEWU" # todo: NEW TRANSLATION
- CHI_academy_of_sciences_dm: "Čínská akademie věd" # todo: NEW TRANSLATION
- CHI_american_support: "Americká podpora" # todo: NEW TRANSLATION
- CHI_american_support_dm_tt: "[?CHI_american_support_cic_amount|Y0] Přebytek ekonomické kapacity každý měsíc\n[GetHanoiRouteTooltip][GetBurmaRoadTooltip][GetHumpTooltip]" # todo: NEW TRANSLATION
- CHI_american_support_reconstruction_dm_tt: "[?CHI_american_reconstruction_support_cic_amount|Y0] Přebytek ekonomické kapacity každý měsíc" # todo: NEW TRANSLATION
- CHI_foreign_economic_support: "Zahraniční ekonomická podpora" # todo: NEW TRANSLATION
- CHI_foreign_economic_support_dm_tt: "[?CHI_foreign_economic_support_cic_amount|Y0] Přebytek ekonomické kapacity každý měsíc" # todo: NEW TRANSLATION
- CHI_american_reconstruction_support: "Čínsko-americká společná komise pro venkovskou rekonstrukci" # todo: NEW TRANSLATION
- CHI_american_support_equipment_tt: "\nPřidejte [USA.GetAdjective] vybavení do zásob:" # todo: NEW TRANSLATION
- CHI_the_hanoi_route_tt: "\n  [?CHI_the_hanoi_route_support_equipment|Y0] kusů $support_equipment$" # todo: NEW TRANSLATION
- CHI_the_burma_road_tt: "\n  [?CHI_the_burma_road_motorized_equipment|Y0] kusů $motorized_equipment$" # todo: NEW TRANSLATION
- CHI_the_hump_sea_tt: "\n  [?CHI_the_hump_sea_infantry_equipment|Y0] kusů $infantry_equipment$" # todo: NEW TRANSLATION
- CHI_soviet_support_hidden: "Zaručené dodávky" # todo: NEW TRANSLATION
- CHI_operation_zet_hidden: "$CHI_facilitate_operation_zet$" # todo: NEW TRANSLATION
- CHI_northwest_highway_hidden: "$CHI_the_northwest_highway$" # todo: NEW TRANSLATION
- CHI_the_hanoi_route_hidden: "$CHI_the_hanoi_route$" # todo: NEW TRANSLATION
- CHI_the_burma_road_hidden: "$CHI_the_burma_road$" # todo: NEW TRANSLATION
- CHI_the_hump_sea_hidden: "$CHI_the_hump_sea$" # todo: NEW TRANSLATION
- idea_CHI_troop_inspection: "Inspekce jednotek" # todo: NEW TRANSLATION
- idea_CHI_professional_army: "Profesionální armáda" # todo: NEW TRANSLATION
- idea_CHI_popular_army: "Lidová armáda" # todo: NEW TRANSLATION
- idea_CHI_production_efforts: "Národní výrobní úsilí" # todo: NEW TRANSLATION
- idea_CHI_central_government_integration_pressure: "Tlak na začlenění do centrální vlády" # todo: NEW TRANSLATION
- idea_CHI_central_government_integration_pressure_desc: "Centrální vláda vyvíjí tlak na naše vedení, aby se plně začlenilo do její hierarchie, čímž by efektivně odevzdalo veškerou vládní moc." # todo: NEW TRANSLATION
- idea_CHI_ban_immoral_entertainment: "Zákaz nemorální zábavy" # todo: NEW TRANSLATION
- idea_CHI_expropriate_industrialists: "Vyvlastnění průmyslníků" # todo: NEW TRANSLATION
- idea_CHI_opposition_censured: "Opozice pokárána" # todo: NEW TRANSLATION
- idea_CHI_sympathetic_judges: "Soudci jmenovaní centrální vládou, loajální" # todo: NEW TRANSLATION
- idea_CHI_rooting_out_hardliners: "Odstraňování tvrdých stoupenců" # todo: NEW TRANSLATION
- idea_CHI_stabilized_government: "Stabilizovaná vláda" # todo: NEW TRANSLATION
- idea_CHI_punish_the_signatories: "$CHI_punish_the_signatories$" # todo: NEW TRANSLATION
- idea_CHI_a_new_chapter: "Nová kapitola" # todo: NEW TRANSLATION
- idea_CHI_a_new_middle_kingdom: "Nové Střední království" # todo: NEW TRANSLATION
- idea_CHI_cradle_of_civilization: "Kolébka civilizace" # todo: NEW TRANSLATION
- idea_CHI_eternal_revolution: "Začátek věčné revoluce" # todo: NEW TRANSLATION
- idea_CHI_cult_of_shek: "Kult Čankajšeka" # todo: NEW TRANSLATION
- idea_CHI_cult_of_shek_desc: "I po smrti se vliv Čankajšeka rozléhá v nejvyšších vrstvách čínské správy, stojí jako maják odporu a vzdoru před zahraniční agresí." # todo: NEW TRANSLATION
- idea_CHI_our_place: "Naše místo" # todo: NEW TRANSLATION
- idea_CHI_our_place_desc: "Naše členství v [ROOT.GetFactionName] nás posiluje, ale měli bychom usilovat o vedení. Je to prostě naše právo." # todo: NEW TRANSLATION
- CHI_whampoa_military_academy_spirit: "Nadvláda Whampoa" # todo: NEW TRANSLATION
- CHI_whampoa_military_academy_spirit_desc: "Vojenská akademie Whampoa Kuomintangu má moc nad novými rekruty a povýšeními v armádě. I když není zcela neefektivní, obsahuje velké množství institucionalizované korupce." # todo: NEW TRANSLATION
- CHI_the_political_tutelage_dm: "Politické poručenství" # todo: NEW TRANSLATION
- CHI_the_political_tutelage_dm_desc: "Nastal čas plně uplatnit ideje Sun Jat-sena, zvýšit gramotnost čínského lidu a probudit jejich politické vědomí, což umožní vznik a přežití republiky na našem území." # todo: NEW TRANSLATION
- CHI_modify_CHI_the_political_tutelage_dm_tt: "Upravit §Y$CHI_the_political_tutelage_dm$§! takto:" # todo: NEW TRANSLATION
- CHI_modify_CHI_the_political_tutelage_upgraded_dm_tt: "Upravit §Y$CHI_the_political_tutelage_upgraded_dm$§! takto:" # todo: NEW TRANSLATION
- CHI_saco: "SACO" # todo: NEW TRANSLATION
- CHI_saco_desc: "Sino-americká kooperační organizace je společná skupina zaměřená na sdílení zpravodajských informací, kde se můžeme navzájem učit." # todo: NEW TRANSLATION
- CHI_women_in_the_war_effort_idea: "Ženy v národním boji" # todo: NEW TRANSLATION
- CHI_women_in_the_war_effort_idea_desc: "Modernita není výhradou mužů a ženy naší země povstaly a zaujaly své zasloužené místo v ozbrojených silách ve vlastních batalionech." # todo: NEW TRANSLATION
- CHI_chinese_womens_national_war_relief_society: "Čínská národní ženská společnost pro válečnou pomoc" # todo: NEW TRANSLATION
- CHI_chinese_womens_national_war_relief_society_desc: "Národ je tak silný, jak jeho nejslabší článek, a proto si společnost klade za cíl jej posílit." # todo: NEW TRANSLATION
- CHI_local_rural_reconstruction_modifier: "Iniciativy hnutí pro venkovskou rekonstrukci" # todo: NEW TRANSLATION
- CHI_new_culture_movement_idea: "Hnutí nové kultury" # todo: NEW TRANSLATION
- CHI_asian_bastion_of_liberty_idea: "Asijská bašta svobody" # todo: NEW TRANSLATION
- CHI_republican_agitation: "Republikánská agitace" # todo: NEW TRANSLATION
- CHI_republican_agitation_tt: "§RObčanská válka propukne, pokud podpora §YDemokratické§! ideologie překročí 40 %!§!" # todo: NEW TRANSLATION
- CHI_correcting_a_hisotrical_wrong_idea: "Napravení historické křivdy" # todo: NEW TRANSLATION
- CHI_liberated_by_democratic_china: "Osvobozeno [CHI.GetNameDefCap]" # todo: NEW TRANSLATION
- CHI_liberated_by_democratic_china_desc: "Naše země konečně získala zaslouženou nezávislost od kolonizátorů. S pomocí [CHI.GetNameDef] jsme opět svobodní. Protože jejich činy nám tak jasně pomáhají, komunistické myšlenky, které hlásají, začínají klíčit mezi naším lidem." # todo: NEW TRANSLATION
- CHI_declared_war_zone_idea: "Vyhlášená válečná zóna" # todo: NEW TRANSLATION
- CHI_bog_defensive_modifier: "Koordinovaná obrana" # todo: NEW TRANSLATION
- CHI_shanghai_international_settlement: "Šanghajská mezinárodní osada" # todo: NEW TRANSLATION
- CHI_shanghai_international_settlement_desc: "Zahraniční mocnosti prosadily svou kontrolu prostřednictvím smluv, které činí ze Šanghaje otevřené dveře." # todo: NEW TRANSLATION
- add_cic_monthly_tt: "$RIGHT|+=0$ Přebytek ekonomické kapacity" # todo: NEW TRANSLATION
- CHI_national_resource_commission: "Národní komise pro zdroje" # todo: NEW TRANSLATION
- CHI_national_resource_commission_desc: "$CHI_mining_commission_desc$" # todo: NEW TRANSLATION
- CHI_china_national_aviation_corporation: "Čínská národní letecká společnost" # todo: NEW TRANSLATION
- CHI_china_merchant_group: "Skupina China Merchant" # todo: NEW TRANSLATION
- CHI_shanghai_power_company: "Šanghajská energetická společnost" # todo: NEW TRANSLATION
- CHI_bank_of_china: "Banka Číny" # todo: NEW TRANSLATION
- CHI_yongli_chemical_industries: "Yongli chemické závody" # todo: NEW TRANSLATION
- CHI_camco_SEA: "$CHI_camco_1$" # todo: NEW TRANSLATION
- CHI_sinaw: "$CHI_sinaw_organization_sea$" # todo: NEW TRANSLATION
- CHI_shanghai_arsenal_designer: "$CHI_shanghai_arsenal$" # todo: NEW TRANSLATION
- CHI_neglected_countryside_fake_ns: "$CHI_neglected_countryside$" # todo: NEW TRANSLATION
- CHI_corruption_in_the_armed_forces_fake_ns: "$CHI_corruption_in_the_armed_forces$" # todo: NEW TRANSLATION
- CHI_nine_power_treaty_sea_fake_ns: "$CHI_nine_power_treaty_sea$" # todo: NEW TRANSLATION
- CHI_corruption_in_the_administration_fake_ns: "$CHI_corruption_in_the_administration$" # todo: NEW TRANSLATION
- CHI_protracted_warfare_idea_fake_ns: "$CHI_protracted_warfare_idea$" # todo: NEW TRANSLATION
- CHI_gung_ho_idea_fake_ns: "$CHI_gung_ho_idea$" # todo: NEW TRANSLATION
- PHI_defense_strategy_dynamic_modifier: "Obranná strategie" # todo: NEW TRANSLATION
- PHI_defense_strategy_dynamic_modifier_desc: "Jako soubor ostrovů jsou Filipíny přirozeně dobře bránitelné. To neznamená, že bychom neměli přidat další překážky, které musí každý vetřelec překonat." # todo: NEW TRANSLATION
- PHI_defense_strategy_dynamic_modifier_tt: "Obranná strategie" # todo: NEW TRANSLATION
- PHI_modify_defense_strategy_dynamic_modifier_tt: "Upravit §Y$PHI_defense_strategy_dynamic_modifier_tt$§! takto:" # todo: NEW TRANSLATION
- PHI_add_defense_strategy_dynamic_modifier_tt: "Přidej §Y$PHI_defense_strategy_dynamic_modifier_tt$§!, které uděluje:\n" # todo: NEW TRANSLATION
- PHI_modify_economy_dynamic_modifier_tt: "[GetPHIEconomicModifier]" # todo: NEW TRANSLATION
- PHI_the_great_depression_dynamic_modifier: "Velká hospodářská krize" # todo: NEW TRANSLATION
- PHI_the_great_depression_dynamic_modifier_desc: "Velká hospodářská krize tvrdě zasáhla Spojené státy, a jako jejich závislé území jsme nebyli ušetřeni jejích finančních škod." # todo: NEW TRANSLATION
- PHI_modify_the_great_depression_dynamic_modifier_tt: "Upravit §Y$PHI_the_great_depression_dynamic_modifier$§! takto:" # todo: NEW TRANSLATION
- PHI_the_great_depression_temp_construction_speed: "Dočasný stavební boom" # todo: NEW TRANSLATION
- PHI_ruling_ideology_ideology_drift_tt: "Jakýkoli posun ideologie bude směřovat k vládnoucí straně" # todo: NEW TRANSLATION
- PHI_ruling_ideology_ideology_drift_tt_2: " Denní posun směrem k vládnoucí straně: $RIGHT|+=2$" # todo: NEW TRANSLATION
- PHI_shaken_economy_dynamic_modifier: "Otřesená ekonomika" # todo: NEW TRANSLATION
- PHI_shaken_economy_dynamic_modifier_desc: "Dopady Velké hospodářské krize stále rezonují naší zemí a ekonomika zůstává otřesená a náchylná na šoky. Ne vše je však špatné — na obzoru se objevují nejjemnější náznaky oživení." # todo: NEW TRANSLATION
- PHI_replace_depression_dynamic_modifier_tt: "Nahraď §Y$PHI_the_great_depression_dynamic_modifier$§! za §Y$PHI_shaken_economy_dynamic_modifier$§!\nEfektivní změna:" # todo: NEW TRANSLATION
- PHI_replace_depression_dynamic_modifier_no_modifiers_tt: "Nahraď §Y$PHI_the_great_depression_dynamic_modifier$§! za §Y$PHI_shaken_economy_dynamic_modifier$§!" # todo: NEW TRANSLATION
- PHI_modify_shaken_economy_dynamic_modifier_tt: "Upravit §Y$PHI_shaken_economy_dynamic_modifier$§! takto:" # todo: NEW TRANSLATION
- PHI_recovering_economy_dynamic_modifier: "Ekonomika se zotavuje" # todo: NEW TRANSLATION
- PHI_recovering_economy_dynamic_modifier_desc: "Naše ekonomika se začala zotavovat z předchozích finančních neúspěchů a investice znovu intenzivně začaly. I když skutečný růst se ještě neprojevuje, alespoň přibližně jsme zpět tam, kde jsme byli před nástupem Velké hospodářské krize." # todo: NEW TRANSLATION
- PHI_replace_shaken_dynamic_modifier_tt: "Nahraď §Y$PHI_shaken_economy_dynamic_modifier$§! za §Y$PHI_recovering_economy_dynamic_modifier$§!\nEfektivní změna:" # todo: NEW TRANSLATION
- PHI_modify_recovering_economy_dynamic_modifier_tt: "Upravit §Y$PHI_recovering_economy_dynamic_modifier$§! takto:" # todo: NEW TRANSLATION
- PHI_economic_growth_dynamic_modifier: "Ekonomický růst" # todo: NEW TRANSLATION
- PHI_economic_growth_dynamic_modifier_desc: "Konečně začínáme pozorovat skutečný ekonomický růst, neboť malé podniky a podnikatelský duch se uchytily a vedou národ k fiskální prosperitě." # todo: NEW TRANSLATION
- PHI_modify_economic_recovery_dynamic_modifier_tt: "Upravit §Y$PHI_economic_growth_dynamic_modifier$§! takto:" # todo: NEW TRANSLATION
- PHI_replace_economic_dynamic_modifier_tt: "Nahraď §Y$PHI_recovering_economy_dynamic_modifier$§! za §Y$PHI_economic_growth_dynamic_modifier$§!\nEfektivní změna:\nLimit napětí pro vstup do frakce: §G-[?PHI_the_great_depression_join_faction_tension|%0]§!" # todo: NEW TRANSLATION
- PHI_pearl_of_the_orient_dynamic_modifier: "$PHI_pearl_of_the_orient_seas$" # todo: NEW TRANSLATION
- PHI_pearl_of_the_orient_dynamic_modifier_desc: "Naše ekonomika vzkvétá; nyní bez koloniální nadvlády jsme svobodní dělat vlastní rozhodnutí a ukazujeme hospodářskou prosperitu možnou v jihovýchodní Asii." # todo: NEW TRANSLATION
- PHI_remove_economic_recovery_dynamic_modifier_tt: "Nahraď §Y$PHI_economic_growth_dynamic_modifier$§! za §Y$PHI_pearl_of_the_orient_dynamic_modifier$§!\n Efektivní změna:" # todo: NEW TRANSLATION
- PHI_modify_pearl_of_the_orient_dynamic_modifier_tt: "Upravit §Y$PHI_pearl_of_the_orient_dynamic_modifier$§! takto:" # todo: NEW TRANSLATION
- PHI_philippine_army_dynamic_modifier: "Filipínská armáda" # todo: NEW TRANSLATION
- PHI_philippine_army_dynamic_modifier_desc: "Pozemní síly Filipín, primárně odpovědné za obranu našich domovských ostrovů. Původně sestaveny z několika průzkumných jednotek, síly pod jejich velením nadále rostou." # todo: NEW TRANSLATION
- PHI_philippine_army_dynamic_modifier_tt: "Upravit §Y$PHI_philippine_army_dynamic_modifier$§! takto:" # todo: NEW TRANSLATION
- PHI_philippine_rule_cant_volunteer: "Lze posílat dobrovolníky: §RNe§!" # todo: NEW TRANSLATION
- PHI_philippine_army_air_corps_dynamic_modifier: "Letecký sbor Filipínské armády" # todo: NEW TRANSLATION
- PHI_philippine_army_air_corps_dynamic_modifier_desc: "I když jde o velmi novou sílu v ozbrojených silách Filipín, touha ovládat nebe tím není zmenšena." # todo: NEW TRANSLATION
- PHI_philippine_army_air_corps_dynamic_modifier_tt: "Upravit §Y$PHI_philippine_army_air_corps_dynamic_modifier$§! takto:" # todo: NEW TRANSLATION
- PHI_american_interference_dynamic_modifier: "Americké zasahování" # todo: NEW TRANSLATION
- PHI_american_interference_dynamic_modifier_desc: "Cizí moc má nad naší zemí značný vliv, a pokud si chceme někdy skutečně připadat nezávislí, je třeba přerušit tento přehnaný kontrolní vliv, který nad námi vykonávají." # todo: NEW TRANSLATION
- PHI_american_interference_dynamic_modifier_tt: "Upravit §Y$PHI_american_interference_dynamic_modifier$§! takto:" # todo: NEW TRANSLATION
- PHI_island_nation_dynamic_modifier: "Ostrovní národ" # todo: NEW TRANSLATION
- PHI_island_nation_dynamic_modifier_desc: "Filipíny jsou národem ostrovů, a proto si naši lidé vyvinuli přirozené pouto k moři." # todo: NEW TRANSLATION
- PHI_island_nation_dynamic_modifier_tt: "Upravit §Y$PHI_island_nation_dynamic_modifier$§! takto" # todo: NEW TRANSLATION
- PHI_asian_trade_connections_dynamic_modifier: "Asijská obchodní propojení" # todo: NEW TRANSLATION
- PHI_asian_trade_connections_dynamic_modifier_desc: "Obchod byl po staletí stavebním kamenem filipínské ekonomiky, a neměli bychom se stydět sklízet jeho výhody." # todo: NEW TRANSLATION
- PHI_asian_trade_connections_dynamic_modifier_tt: "[GetAsianTradePartnersSiam] \n[GetAsianTradePartnersMalaya] \n[GetAsianTradePartnersDutchEastIndia]" # todo: NEW TRANSLATION
- PHI_asian_trade_connections_siam: "Obchodní dohoda se Siamem" # todo: NEW TRANSLATION
- PHI_asian_trade_connections_malaya: "Obchodní dohoda s Malajou" # todo: NEW TRANSLATION
- PHI_asian_trade_connections_dutch_east_india: "Obchodní dohoda s Nizozemskými Východními Indiemi" # todo: NEW TRANSLATION
- PHI_japanese_investors_mod: "Japonští investoři" # todo: NEW TRANSLATION
- PHI_japanese_trade_connections: "Japonská obchodní propojení" # todo: NEW TRANSLATION
- PHI_preemptive_strikes_dynamic_modifier: "Preemptivní údery" # todo: NEW TRANSLATION
- PHI_preemptive_strikes_dynamic_modifier_desc: "Existuje jen jeden způsob, jak zajistit, že nebudeme napadeni – napadnout všechny ostatní jako první!" # todo: NEW TRANSLATION
- PHI_preemptive_strikes_dynamic_modifier_tt: "Upravit §Y$PHI_preemptive_strikes_dynamic_modifier$§! takto:" # todo: NEW TRANSLATION
- PHI_philippine_resistance_movement_dynamic_modifier: "Filipínský odpor" # todo: NEW TRANSLATION
- PHI_philippine_resistance_movement_dynamic_modifier_tt: "Upravit §Y$PHI_philippine_resistance_movement_dynamic_modifier$§! takto:" # todo: NEW TRANSLATION
- PHI_strong_guerrilla_presence: "Silná přítomnost partyzánů" # todo: NEW TRANSLATION
- PHI_no_gtd_concrete_battleship: "$PHI_the_concrete_battleship$" # todo: NEW TRANSLATION
- PHI_investment_plan_1_building_bonus: "Investice do státní infrastruktury" # todo: NEW TRANSLATION
- PHI_maritime_communism_idea: "Námořní komunismus" # todo: NEW TRANSLATION
- PHI_struggle_conference_idea: "Konference boje" # todo: NEW TRANSLATION
- PHI_encourage_chinese_immigration_idea: "Podporovat čínskou imigraci" # todo: NEW TRANSLATION
- PHI_asian_trade_connections: "Asijská obchodní propojení" # todo: NEW TRANSLATION
- PHI_cobalt_supremacy_idea: "Nadvláda kobaltu" # todo: NEW TRANSLATION
- PHI_submarine_supply: "Dodávky zásob pro ponorky" # todo: NEW TRANSLATION
- PHI_add_bell_trade_act_opinion_modifier_tt: "Obchodní vztahy s §Y[ROOT.GetName]§! se změnily o §G+30§!" # todo: NEW TRANSLATION
- PHI_rehabilitation_finance_corporation_idea: "$PHI_rehabilitation_finance_corporation$" # todo: NEW TRANSLATION
- PHI_development_bank: "Rozvojová banka Filipín" # todo: NEW TRANSLATION
- PHI_dockworker_infiltration: "Spolupráce s přístavními dělníky" # todo: NEW TRANSLATION
- PHI_unified_naval_command: "Jednotné námořní velení" # todo: NEW TRANSLATION
- PHI_unified_naval_command_desc: "Válečné plány [USA.GetNameDef] byly z iniciativy [PHI.GetAdjective] použity jako základ pro koordinaci mezi námořnictvy [ROOT.GetFactionName]." # todo: NEW TRANSLATION
- PHI_government_reform: "Vládní reforma" # todo: NEW TRANSLATION
- PHI_mosquito_fleet_ns: "Mosquito Flotila" # todo: NEW TRANSLATION
- PHI_devil_boats_ns: "Ďábelské lodě" # todo: NEW TRANSLATION
- PHI_coastal_defense_ships_ns: "$ROM_coastal_defense_ships$" # todo: NEW TRANSLATION
- PHI_volunteers_to_nationalists: "Dobrovolníci pro nacionalistické Španělsko" # todo: NEW TRANSLATION
- PHI_volunteers_to_republicans: "Dobrovolníci pro republikánské Španělsko" # todo: NEW TRANSLATION
- PHI_ties_with_nationalist_spain: "Vazby na nacionalistické Španělsko" # todo: NEW TRANSLATION
- PHI_ties_with_republican_spain: "Vazby na republikánské Španělsko" # todo: NEW TRANSLATION
- PHI_ties_with_carlist_spain: "Vazby na karlistické Španělsko" # todo: NEW TRANSLATION
- PHI_ties_with_anarchist_spain: "Vazby na anarchistické Španělsko" # todo: NEW TRANSLATION
- PHI_reignited_independence_struggle: "Znovuoživený boj za svobodu" # todo: NEW TRANSLATION
- considered_as_extremist_for_war_economy_tt: "§Y[ROOT.GetNameDefCap]§! bude mít stejné uvolněné omezení pro §Y$war_economy$§! jako režimy §YFašistické§!/§YKomunistické§!" # todo: NEW TRANSLATION
- considered_as_extremist_for_manpower_laws_tt: "§Y[ROOT.GetNameDefCap]§! bude mít stejné uvolněné omezení pro §Y$extensive_conscription$§! a §Y$service_by_requirement$§! jako režimy §YFašistické§!/§YKomunistické§!" # todo: NEW TRANSLATION
- PHI_integration_efforts: "Úsilí o integraci" # todo: NEW TRANSLATION
- PHI_government_filipinization_surrender_limit_timed_idea: "Filipinizace" # todo: NEW TRANSLATION
- PHI_petition_the_supreme_court_communism_timed_idea: "Komunistický tlak" # todo: NEW TRANSLATION
- PHI_recognize_unions_timed_idea: "Uznat odbory - šťastní dělníci" # todo: NEW TRANSLATION
- PHI_subsidies_timed_idea: "Dotace" # todo: NEW TRANSLATION
- PHI_sakdalistas_timed_idea: "Obnovit Sakdalisty" # todo: NEW TRANSLATION
- PHI_slippery_slope_timed_idea: "Kluzký svah" # todo: NEW TRANSLATION
- PHI_restore_order_timed_idea: "Obnovení pořádku" # todo: NEW TRANSLATION
- PHI_japanese_investment: "[JAP.GetAdjective] investice" # todo: NEW TRANSLATION
- PHI_san_miguel_company: "Pivovar San Miguel" # todo: NEW TRANSLATION
- PHI_san_miguel_improved_tt: "Účinky §Y$PHI_san_miguel_company$ průmyslového podniku§! jsou vylepšeny" # todo: NEW TRANSLATION
- PHI_south_seas_development_company: "Společnost pro rozvoj Jižních moří" # todo: NEW TRANSLATION
- PHI_south_seas_development_company_tt: "§Y$PHI_south_seas_development_company$§!, které uděluje:\nRychlost průmyslového výzkumu: §G+20%§!\nFaktor továren na spotřební zboží: §Y-5.0%§!" # todo: NEW TRANSLATION
- PHI_manila_railroad_company: "Manilská železniční společnost" # todo: NEW TRANSLATION
- PHI_philippine_long_distance_telephone_company: "Filipínská společnost pro dálkové telefonní spoje" # todo: NEW TRANSLATION
- PHI_benguet_corporation: "Společnost Benguet" # todo: NEW TRANSLATION
- PHI_benguet_corporation_improved_tt: "Účinky §Y$PHI_benguet_corporation$ průmyslového podniku§! jsou vylepšeny" # todo: NEW TRANSLATION
- PHI_marsman_and_company: "Marsman a společnost" # todo: NEW TRANSLATION
- PHI_marsman_and_company_improved_tt: "Účinky §Y$PHI_marsman_and_company$ průmyslového podniku§! jsou vylepšeny" # todo: NEW TRANSLATION
- PHI_compania_maritima_de_cebu: "Compañía Marítima de Cebú" # todo: NEW TRANSLATION
- PHI_japan_aligned_ideology: "Ideologie sladěná s Japonskem" # todo: NEW TRANSLATION
- PHI_japan_aligned_ideology_tt: "Slaďte se s vládnoucí stranou Japonska" # todo: NEW TRANSLATION
- PHI_japan_aligned_ideology_improved_tt: "Upravit §Y$PHI_japan_aligned_ideology$§! takto:" # todo: NEW TRANSLATION
- PHI_clock_tt: "Urychlené cíle jsou označeny malou ikonou hodin." # todo: NEW TRANSLATION
- PHI_reduce_national_defense_act_cost_tt: "Výběrem cest §YAlign USA§! nebo §YAlign Japan§! se doba trvání tohoto cíle sníží až na minimum 35 dní." # todo: NEW TRANSLATION
- PHI_convoys_for_consumer_goods_idea: "Prodej konvojů na civilním trhu" # todo: NEW TRANSLATION
- PHI_selling_convoys_fake_modifier_tt:0 "§Y2§! mimo mapu §Y$industrial_complex$§!" # todo: NEW TRANSLATION
- PHI_recently_broke_USA_alliance: "Nedávno ukončil alianci s @USA§Y[USA.GetName]§!" # todo: NEW TRANSLATION
- PHI_the_great_depression_ns_fake: "Velká hospodářská krize" # todo: NEW TRANSLATION
- PHI_the_great_depression_ns_fake_tt: "Denní politická moc: §R0.75%§! \nEfektivita získávání zdrojů: §R-25%§! \nFaktor továren na spotřební zboží: §Y50%§! \nRychlost výstavby: §R-25%§! \nLimit napětí pro vstup do frakce: §R+100%§!" # todo: NEW TRANSLATION
- PHI_philippine_army_ns_fake: "Filipínská armáda" # todo: NEW TRANSLATION
- PHI_philippine_army_ns_fake_tt: "Zisk zkušeností armády: §R-80%§! \nFaktor naverbovatelné populace: §R-50%§! \nVýstup továren: §R-90%§! \nVýstup loděnic: §R-50%§! \nDoba výcviku: §R+40%§! \nDenní násobitel zisku velení: §R-50%§!" # todo: NEW TRANSLATION
- PHI_island_nation_ns_fake: "Ostrovní národ" # todo: NEW TRANSLATION
- PHI_island_nation_ns_fake_tt: "Rychlost konvojů při ústupu: §G+15%§! \nViditelnost: §G-5.00%§!" # todo: NEW TRANSLATION
- CHI_repudiated_nine_power_treaty_no_bba: "Odmítl smlouvu devíti mocností" # todo: NEW TRANSLATION
- CHI_repudiated_nine_power_treaty: "$CHI_repudiated_nine_power_treaty_no_bba$" # todo: NEW TRANSLATION
- PRC_tsr_warlord_peoples_liberation_army: "Lidová osvobozenecká armáda" # todo: NEW TRANSLATION
- alternate_political_infiltrated_opposition: "Podvratná opozice" # todo: NEW TRANSLATION
- alternate_political_dockworker_strike: "Stávka přístavních dělníků" # todo: NEW TRANSLATION
- alternate_political_dockworker_strike_demands_met: "Souhlas s požadavky stávkujících" # todo: NEW TRANSLATION
- alternate_political_corruption_exposed: "Skandál s korupcí" # todo: NEW TRANSLATION
- alternate_political_major_protest: "Masové protesty" # todo: NEW TRANSLATION
- SOV_cooperation_with_sinkiang: "Spolupráce se Sinkiangem" # todo: NEW TRANSLATION
- failed_revolutionaries: "Neúspěšní revolucionáři" # todo: NEW TRANSLATION
- criticized_our_intervention_opm: "Kritika naší intervence ve Sinkiangu" # todo: NEW TRANSLATION
- turned_a_blind_eye_opm: "Přivřeli oči" # todo: NEW TRANSLATION
- tsr_fake_china_opm: "Fiktivní vláda" # todo: NEW TRANSLATION
- CHI_cooperating_with_republicans_dynamic_modifier: "Spolupráce s republikánskou vládou" # todo: NEW TRANSLATION
- tsr_anti_soviet_government_opm: "Otočili se od nás" # todo: NEW TRANSLATION
- tsr_pro_soviet_government_opm: "Pro-sovětská vláda" # todo: NEW TRANSLATION
- CHI_warlord_army_dynamic_modifier: "[ROOT.GetAdjective] armáda" # todo: NEW TRANSLATION
- add_warlord_army_tt: "Přidej §Y$CHI_warlord_army_dynamic_modifier$§!, které uděluje:\n" # todo: NEW TRANSLATION
- modify_warlord_army_tt: "Upravit §Y$CHI_warlord_army_dynamic_modifier$§! takto:" # todo: NEW TRANSLATION
- XSM_the_military_governor_dynamic_modifier: "Vojenský guvernér" # todo: NEW TRANSLATION
- add_military_governor_tt: "Přidej §Y$XSM_the_military_governor_dynamic_modifier$§!, které uděluje:\n" # todo: NEW TRANSLATION
- modify_military_governor_tt: "Upravit §Y$XSM_the_military_governor_dynamic_modifier$§! takto:" # todo: NEW TRANSLATION
- MAN_invite_japanese_investors_tt: "Dokončen fokus §Y$MAN_invite_japanese_investors$§!" # todo: NEW TRANSLATION
- MAN_expand_the_railways_tt: "Dokončen fokus §Y$MAN_expand_the_railways$§!" # todo: NEW TRANSLATION
- MAN_manchukuo_film_association_tt: "Dokončen fokus §Y$MAN_obedience$§!" # todo: NEW TRANSLATION
- MAN_manchukuo_film_association_2_tt: "Dokončen fokus §Y$MAN_reform_the_civil_service$§!" # todo: NEW TRANSLATION
- MAN_mamc_tt: "Dokončen fokus §Y$MAN_mamc$§!" # todo: NEW TRANSLATION
- MAN_pacify_the_countryside_tt: "Dokončen fokus §Y$MAN_pacify_the_countryside$§!" # todo: NEW TRANSLATION
- MAN_bolster_nationalism_tt: "Dokončen fokus §Y$MAN_bolster_nationalism$§!" # todo: NEW TRANSLATION
- MAN_not_assertiveness_tt: "Není dokončen fokus §Y$MAN_assertiveness$§!" # todo: NEW TRANSLATION
- MAN_independence_war_tt: "Dokončen fokus §Y$MAN_independence_war$§!" # todo: NEW TRANSLATION
- MAN_local_arms_procurement_tt: "Dokončen fokus §Y$MAN_local_arms_procurement$§!" # todo: NEW TRANSLATION
- MAN_purge_the_general_affairs_council_tt: "Dokončen fokus §Y$MAN_purge_the_general_affairs_council$§!" # todo: NEW TRANSLATION
- MAN_nissan: "Nissan" # todo: NEW TRANSLATION
- MAN_mangyo: "Mangyō" # todo: NEW TRANSLATION
- MAN_state_shintoism_dm: "Státní šintoismus" # todo: NEW TRANSLATION
- MAN_add_state_shinotism_modifier_tt: "Přidej §Y$MAN_state_shintoism_dm$§!, které uděluje:\n" # todo: NEW TRANSLATION
- MAN_modify_state_shinotism_modifier_tt: "Upravit §Y$MAN_state_shintoism_dm$§! takto:" # todo: NEW TRANSLATION
- SIC_add_sichuan_clique_modifier_tt: "Přidej §Y$SIC_sichuan_clique_dynamic_modifier$§!, které uděluje:\n" # todo: NEW TRANSLATION
- SIC_modify_sichuan_clique_modifier_tt: "Upravit §Y$SIC_sichuan_clique_dynamic_modifier$§! takto:" # todo: NEW TRANSLATION
- SIC_sichuan_clique_dynamic_modifier: "Sichuanská klika" # todo: NEW TRANSLATION
- tsr_bandit_suppresion_opm: "Potlačení banditů" # todo: NEW TRANSLATION
- tsr_pro_soviet_stance_opm: "Pro-sovětský postoj" # todo: NEW TRANSLATION
- tsr_untrustworthy_ally_opm: "Nespolehlivý spojenec" # todo: NEW TRANSLATION
- XIC_inlux_of_funds_for_the_communists_idea: "Fondy od Zhang Xueliang" # todo: NEW TRANSLATION
- tsr_rebellious_warlord_opm: "Vzbouřený vojenský pán" # todo: NEW TRANSLATION
- tsr_refused_our_relocation: "Odmítl naši žádost o přemístění" # todo: NEW TRANSLATION
- XIC_new_fengtian_zhili_army_idea: "Nová armáda Fengtian Zhili" # todo: NEW TRANSLATION
- SIK_influx_of_soviet_supplies: "Příliv sovětských dodávek" # todo: NEW TRANSLATION
- KHM_confiscated_gold: "Zkonfiskováno zlato Ma Hushana" # todo: NEW TRANSLATION
- CHI_tsr_reorganized_government_idea: "Přeskupená národní vláda" # todo: NEW TRANSLATION
- RNG_state_shintoism_dm: "Státní šintoismus" # todo: NEW TRANSLATION
- RNG_add_state_shinotism_modifier_tt: "Přidej §Y$RNG_state_shintoism_dm$§!, který uděluje:\n" # todo: NEW TRANSLATION
- RNG_modify_state_shinotism_modifier_tt: "Uprav §Y$RNG_state_shintoism_dm$§! takto:" # todo: NEW TRANSLATION
- CHI_tsr_low_legitimacy: "Nízká legitimita" # todo: NEW TRANSLATION
- CHI_tsr_low_legitimacy_4: "Legitimní dynastie" # todo: NEW TRANSLATION
- CHI_tsr_a_new_empire_idea: "Nová říše" # todo: NEW TRANSLATION
- SIK_soviet_military_cooperation: "Sovětská vojenská spolupráce" # todo: NEW TRANSLATION
- SIK_battle_for_sinkiang: "Bitva o Sinkiang" # todo: NEW TRANSLATION
- SIK_battle_for_sinkiang_desc: "S vojenským guvernérem na severu a Novou 36. divizí na jihu se provincie Sinkiang dostává do stále většího vyhrocení. Pokud se státy účastnící se tohoto boje chtějí obrátit k jinému konfliktu, musí nejprve dokončit ten svůj." # todo: NEW TRANSLATION
- KHM_pushing_them_back_idea: "Obrácení situace" # todo: NEW TRANSLATION
- tsr_the_true_china: "Skutečná Čína" # todo: NEW TRANSLATION
- prc_tsr_warlord_army: "Venkovská armáda" # todo: NEW TRANSLATION
- prc_tsr_agrarian_socialism: "Agrární socialismus" # todo: NEW TRANSLATION
- prc_tsr_urbanization_efforts: "Snahy o urbanizaci" # todo: NEW TRANSLATION
- CHI_tsr_funding_public_research: "Financování veřejného výzkumu" # todo: NEW TRANSLATION
- tsr_anti_communist_campaign: "Protikomunistické kampaně" # todo: NEW TRANSLATION
- XSM_tsr_diarchy: "Diarchie" # todo: NEW TRANSLATION
- XSM_tsr_strike_the_traitors: "Ztrestejte zrádce" # todo: NEW TRANSLATION
- tsr_united_ma_cliques: "Spojené Ma klany" # todo: NEW TRANSLATION
- MAN_tsr_illicit_trade: "Nelegální obchod" # todo: NEW TRANSLATION
- MAN_kempeitai_idea_lar: "Kempeitai" # todo: NEW TRANSLATION
- MAN_kempeitai_idea_no_lar: "Kempeitai" # todo: NEW TRANSLATION
- MAN_mobilization: "Snahy o mobilizaci" # todo: NEW TRANSLATION
- MAN_strengthen_army: "Posílení armády" # todo: NEW TRANSLATION
- MAN_strong_army: "Připravená armáda" # todo: NEW TRANSLATION
- MAN_qing_army: "Nová armáda Čching" # todo: NEW TRANSLATION
- MAN_beiyang_army: "Nová armáda Beiyang" # todo: NEW TRANSLATION
- MAN_illegitimate_government: "Nelegitimní vláda" # todo: NEW TRANSLATION
- MAN_illegitimate_government_desc: "V očích Západu, a zejména v Číně, jsme stále považováni za parchantí stát vedený bandity a povstalci. Měli bychom usilovat o svou legitimizaci, abychom s nimi lépe spolupracovali." # todo: NEW TRANSLATION
- MAN_rising_republican_sentiments: "Rostoucí republikánské nálady" # todo: NEW TRANSLATION
- MAN_peoples_army: "Lidová armáda" # todo: NEW TRANSLATION
- MAN_peoples_liberation_army: "Lidová osvobozenecká armáda" # todo: NEW TRANSLATION
- MAN_rival_government: "Rivalní vláda" # todo: NEW TRANSLATION
- MAN_southern_expedition: "Jižní expedice" # todo: NEW TRANSLATION
- MAN_the_legitimate_successor: "Legitimní nástupce" # todo: NEW TRANSLATION
- MAN_the_legitimate_successor_desc: "S celou Čínou pod naší kontrolou se konečně můžeme nazývat legitimními nástupci Čínské republiky" # todo: NEW TRANSLATION
- MAN_finish_off_japan: "Dorazit Japonsko" # todo: NEW TRANSLATION
- MAN_an_industrial_power: "Průmyslová velmoc" # todo: NEW TRANSLATION
- MAN_the_communist_party_triumphant: "Komunistická strana vítězná" # todo: NEW TRANSLATION
- MAN_battle_for_china: "Bitva o Čínu" # todo: NEW TRANSLATION
- MAN_the_revolution_triumphant: "Vítězná revoluce" # todo: NEW TRANSLATION
- MAN_soviet_military_cooperation: "Sovětská vojenská spolupráce" # todo: NEW TRANSLATION
- MAN_xingan_army_resigned: "Armáda Xing'an odstoupila" # todo: NEW TRANSLATION
- MAN_xingan_army_appeased: "Armáda Xing'an uklidněna" # todo: NEW TRANSLATION
- MAN_korean_liberation_army: "Korejská osvobozenecká armáda" # todo: NEW TRANSLATION
- MAN_korean_liberation_army_desc: "Po organizaci spolu s bandity se Korejská osvobozenecká armáda nyní rozhodla pomoci nám svými znalostmi a odborností při porážce Japonců." # todo: NEW TRANSLATION
- MAN_yong_ying_idea: "Yong Ying" # todo: NEW TRANSLATION
- SIC_drive_out_the_japanese_idea: "Vyhnat Japonce" # todo: NEW TRANSLATION
- SIC_push_into_xikang_idea: "Vytlačit Tibeťany" # todo: NEW TRANSLATION
- SIC_a_loose_unity: "Volné sjednocení" # todo: NEW TRANSLATION
- SIC_a_loose_unity_desc: "Ač jsou navenek sjednoceni pod praporem "Sichuan Clique", v naší provincii je několik různých vládců, kteří mají své vlastní cíle a ambice. Někteří, jako Liu Wenhui, si dokonce vytvořili své malé území, které je funkčně oddělené od zbytku provincie, zatímco jiní mají vlastní představy o tom, jak by měla být armáda vedena." # todo: NEW TRANSLATION
- GXC_scorched_earth_policy: "Spálená země" # todo: NEW TRANSLATION
- SIK_the_nkvd_no_lar: "The NKVD" # todo: NEW TRANSLATION
- SIK_soviet_pilot_schools: "Sovětské pilotní školy" # todo: NEW TRANSLATION
- SIK_three_year_plan: "Tříletý plán" # todo: NEW TRANSLATION
- SIK_transformation_of_nature_idea: "Proměna přírody" # todo: NEW TRANSLATION
- SIK_state_atheism_freedom_of_religion: "Státní ateismus - individuální svoboda vyznání" # todo: NEW TRANSLATION
- SIK_detracting_from_party_line: "Odklon od stranické linie" # todo: NEW TRANSLATION
- SIK_if_war_with_sov_this_disappears_tt: "§RBude odstraněno, pokud se ocitneme ve válce s [SOV.GetNameDef]§!" # todo: NEW TRANSLATION
- SIK_a_modern_province: "Moderní provincie" # todo: NEW TRANSLATION
- SIK_the_six_policies: "Šest velkých politik" # todo: NEW TRANSLATION
- SIC_the_new_guominjun_idea: "Nový Guominjun" # todo: NEW TRANSLATION
- SIK_state_autonomous_prefecture: "Autonomní prefektura" # todo: NEW TRANSLATION
- SIK_state_autonomous_prefecture_desc: "Spravovaná místními vůdci je v této prefektuře sníženo zasahování centrální vlády, a v případě války se tito vůdci nemusí ukázat být zcela loajální." # todo: NEW TRANSLATION
- PRC_the_yulin_garrison: "Garnizon Yulin" # todo: NEW TRANSLATION
- PRC_the_yulin_garrison_desc: "I přes naše největší snahy je potlačit se 86. a 84. divizí pod velením Jing Yueixu a Gao Guizi podařilo odrazit naše útoky a efektivně udržet sever pod kontrolou Kuomintangu. Zbavit se jich však nebude snadné, protože jejich pozice jsou velmi opevněné." # todo: NEW TRANSLATION
- living_off_the_land_army_spirit: "Život z místních zdrojů" # todo: NEW TRANSLATION
- living_off_the_land_army_spirit_desc: "Je dobré zničit nepřítele svými zbraněmi, ale ještě lepší je zničit ho jeho vlastními zbraněmi." # todo: NEW TRANSLATION
- rapid_emplacement_army_spirit: "Rychlé rozmístění" # todo: NEW TRANSLATION
- rapid_emplacement_army_spirit_desc: "Všechen palebný potenciál světa nic neznamená, když je na špatném místě." # todo: NEW TRANSLATION
- direct_fire_support_army_spirit: "Přímá palebná podpora" # todo: NEW TRANSLATION
- direct_fire_support_army_spirit_desc: "Nastavte elevaci na nulu a zasáhněte nepřítele na otevřené viditelnosti!" # todo: NEW TRANSLATION
- subsidized_contracts_army_spirit: "Dotované smlouvy" # todo: NEW TRANSLATION
- subsidized_contracts_army_spirit_desc: "Ačkoli je nahrazení koně tankem žádoucí z dlouhodobého hlediska, nesmí to být provedeno za cenu ekonomického zhroucení národa." # todo: NEW TRANSLATION
- subsidized_contracts_no_lar_army_spirit: "$subsidized_contracts_army_spirit$" # todo: NEW TRANSLATION
- subsidized_contracts_no_lar_army_spirit_desc: "$subsidized_contracts_army_spirit_desc$" # todo: NEW TRANSLATION
- all_arms_at_defense_army_spirit: "Vševojsková protitanková obrana" # todo: NEW TRANSLATION
- all_arms_at_defense_army_spirit_desc: "Pancéřová průlomy se mohou stát kdykoli a kdekoli. Bůh války pomáhá těm, kdo si pomáhají sami." # todo: NEW TRANSLATION
- spirit_of_defiance_army_spirit: "Duch vzdoru" # todo: NEW TRANSLATION
- spirit_of_defiance_army_spirit_desc: "Národ nemůže být přemožen, dokud nepřizná, že je přemožen." # todo: NEW TRANSLATION
- proxy_wars_army_spirit: "Specialisté na intervence" # todo: NEW TRANSLATION
- proxy_wars_army_spirit_desc: "Nepřítel mého nepřítele je můj přítel." # todo: NEW TRANSLATION
- naval_tripwire_navy_spirit: "Námořní pojistka" # todo: NEW TRANSLATION
- naval_tripwire_navy_spirit_desc: "Možná nepříteli úplně nezabráníme v přiblížení se k našim pobřežím, ale můžeme mu to udělat krvavé a nákladné." # todo: NEW TRANSLATION
- ship_to_shore_navy_spirit: "Výcvik výsadku z lodí" # todo: NEW TRANSLATION
- ship_to_shore_navy_spirit_desc: "Žádná pobřežní dělostřelba nemůže doufat, že se vyrovná palebné síle desítek tisíc tun námořní oceli." # todo: NEW TRANSLATION
- scouting_force_navy_spirit: "Průzkumná síla" # todo: NEW TRANSLATION
- scouting_force_navy_spirit_desc: "Moře je rozlehlé. Vítězství v bitvě obvykle získá strana, která jako první odhalí a rozhodně udeří druhou." # todo: NEW TRANSLATION
- fleet_defense_navy_spirit: "Obrana flotily" # todo: NEW TRANSLATION
- fleet_defense_navy_spirit_desc: "Letecké hlídky a lehké lodě existují, aby umožnily našim těžkým jednotkám plnit úkoly bez rušivých přerušení." # todo: NEW TRANSLATION
- fleet_interoperability_navy_spirit: "Interoperabilita flotily" # todo: NEW TRANSLATION
- fleet_interoperability_navy_spirit_desc: "Rychlé logistické doplňování a efektivní likvidace škod samy o sobě bitvy nevyhrávají, ale udržují zbraně vítězství v palbě." # todo: NEW TRANSLATION
- rapid_concentration_navy_spirit: "Rychlá koncentrace" # todo: NEW TRANSLATION
- rapid_concentration_navy_spirit_desc: "Shromážděte se rychle na nepříteli jako hejno kobylek a palte ze všech dostupných zbraní: nejrychlejší cesta k vítězství." # todo: NEW TRANSLATION
- aa_curtain_navy_spirit: "Protiletadlová opona" # todo: NEW TRANSLATION
- aa_curtain_navy_spirit_desc: "Jako starověká štítová zeď je každá loď v bojové flotile nejen odpovědná za vlastní obranu, ale i za pomoc svému sousedovi." # todo: NEW TRANSLATION
- stay_at_your_posts_navy_spirit: "Zůstaňte na svých postech" # todo: NEW TRANSLATION
- stay_at_your_posts_navy_spirit_desc: "Dokud se jedno šroubové kolo otáčí a jedno dělo zůstává nad hladinou, jsme stále v boji." # todo: NEW TRANSLATION
- selective_engagement_navy_spirit: "Selektivní zapojení" # todo: NEW TRANSLATION
- selective_engagement_navy_spirit_desc: "Blázen stojí nehybně před silnějším nepřítelem a dovolí se zničit. Odmítejte boje, které nemůžete vyhrát." # todo: NEW TRANSLATION
- sea_lane_denial_navy_spirit: "Uzavření námořních cest" # todo: NEW TRANSLATION
- sea_lane_denial_navy_spirit_desc: "Nic nežere mořského ježka, a to z dobrého důvodu." # todo: NEW TRANSLATION
- underdog_mentality_navy_spirit: "Mentalita outsidera" # todo: NEW TRANSLATION
- underdog_mentality_navy_spirit_desc: "Když neuspěješ napoprvé, zaútoč torpédem znovu." # todo: NEW TRANSLATION
- cult_of_heroism_army_spirit: "Kult hrdinství" # todo: NEW TRANSLATION
- cult_of_heroism_army_spirit_desc: "Po celou historii až do současnosti vojáci i občané ctí oběti svých druhů."" # todo: NEW TRANSLATION
+ JAP_army_faction_tier_1_equal_navy: "$JAP_imperial_influence_tier_1$ $JAP_army_faction$"
+ JAP_army_faction_tier_1_lesser_1: "$JAP_imperial_influence_tier_1$ $JAP_army_faction$"
+ JAP_army_faction_tier_1_lesser_2: "$JAP_imperial_influence_tier_1$ $JAP_army_faction$"
+ JAP_army_faction_tier_1_lesser_3: "$JAP_imperial_influence_tier_1$ $JAP_army_faction$"
+ JAP_army_faction_tier_2_equal_navy: "$JAP_imperial_influence_tier_2$ $JAP_army_faction$"
+ JAP_army_faction_tier_2_greater_1: "$JAP_imperial_influence_tier_2$ $JAP_army_faction$"
+ JAP_army_faction_tier_2_lesser_1: "$JAP_imperial_influence_tier_2$ $JAP_army_faction$"
+ JAP_army_faction_tier_2_lesser_2: "$JAP_imperial_influence_tier_2$ $JAP_army_faction$"
+ JAP_army_faction_tier_3_equal_navy: "$JAP_imperial_influence_tier_3$ $JAP_army_faction$"
+ JAP_army_faction_tier_3_greater_1: "$JAP_imperial_influence_tier_3$ $JAP_army_faction$"
+ JAP_army_faction_tier_3_greater_2: "$JAP_imperial_influence_tier_3$ $JAP_army_faction$"
+ JAP_army_faction_tier_3_lesser_1: "$JAP_imperial_influence_tier_3$ $JAP_army_faction$"
+ JAP_army_faction_tier_4_greater_1: "$JAP_imperial_influence_tier_4$ $JAP_army_faction$"
+ JAP_army_faction_tier_4_greater_2: "$JAP_imperial_influence_tier_4$ $JAP_army_faction$"
+ JAP_army_faction_tier_4_greater_3: "$JAP_imperial_influence_tier_4$ $JAP_army_faction$"
+ JAP_army_faction_tier_4: "$JAP_imperial_influence_tier_4$ $JAP_army_faction$"
+ JAP_army_faction_tier_3: "$JAP_imperial_influence_tier_3$ $JAP_army_faction$"
+ JAP_army_faction_tier_2: "$JAP_imperial_influence_tier_2$ $JAP_army_faction$"
+ JAP_army_faction_tier_1: "$JAP_imperial_influence_tier_1$ $JAP_army_faction$"
+ JAP_naval_faction_tier_1_equal_army: "$JAP_imperial_influence_tier_1$ $JAP_naval_faction$"
+ JAP_naval_faction_tier_1_lesser_1: "$JAP_imperial_influence_tier_1$ $JAP_naval_faction$"
+ JAP_naval_faction_tier_1_lesser_2: "$JAP_imperial_influence_tier_1$ $JAP_naval_faction$"
+ JAP_naval_faction_tier_1_lesser_3: "$JAP_imperial_influence_tier_1$ $JAP_naval_faction$"
+ JAP_naval_faction_tier_2_equal_army: "$JAP_imperial_influence_tier_2$ $JAP_naval_faction$"
+ JAP_naval_faction_tier_2_greater_1: "$JAP_imperial_influence_tier_2$ $JAP_naval_faction$"
+ JAP_naval_faction_tier_2_lesser_1: "$JAP_imperial_influence_tier_2$ $JAP_naval_faction$"
+ JAP_naval_faction_tier_2_lesser_2: "$JAP_imperial_influence_tier_2$ $JAP_naval_faction$"
+ JAP_naval_faction_tier_3_equal_army: "$JAP_imperial_influence_tier_3$ $JAP_naval_faction$"
+ JAP_naval_faction_tier_3_greater_1: "$JAP_imperial_influence_tier_3$ $JAP_naval_faction$"
+ JAP_naval_faction_tier_3_greater_2: "$JAP_imperial_influence_tier_3$ $JAP_naval_faction$"
+ JAP_naval_faction_tier_3_lesser_1: "$JAP_imperial_influence_tier_3$ $JAP_naval_faction$"
+ JAP_naval_faction_tier_4_greater_1: "$JAP_imperial_influence_tier_4$ $JAP_naval_faction$"
+ JAP_naval_faction_tier_4_greater_2: "$JAP_imperial_influence_tier_4$ $JAP_naval_faction$"
+ JAP_naval_faction_tier_4_greater_3: "$JAP_imperial_influence_tier_4$ $JAP_naval_faction$"
+ JAP_naval_faction_tier_4: "$JAP_imperial_influence_tier_4$ $JAP_naval_faction$"
+ JAP_naval_faction_tier_3: "$JAP_imperial_influence_tier_3$ $JAP_naval_faction$"
+ JAP_naval_faction_tier_2: "$JAP_imperial_influence_tier_2$ $JAP_naval_faction$"
+ JAP_naval_faction_tier_1: "$JAP_imperial_influence_tier_1$ $JAP_naval_faction$"
+ JAP_zaibatsu_faction_tier_1: "$JAP_imperial_influence_tier_1$ $JAP_zaibatsu_faction$"
+ JAP_zaibatsu_faction_tier_2: "$JAP_imperial_influence_tier_2$ $JAP_zaibatsu_faction$"
+ JAP_zaibatsu_faction_tier_3: "$JAP_imperial_influence_tier_3$ $JAP_zaibatsu_faction$"
+ JAP_zaibatsu_faction_tier_4: "$JAP_imperial_influence_tier_4$ $JAP_zaibatsu_faction$"
+ JAP_government_faction_tier_1: "$JAP_imperial_influence_tier_1$ $JAP_government_faction$"
+ JAP_government_faction_tier_2: "$JAP_imperial_influence_tier_2$ $JAP_government_faction$"
+ JAP_government_faction_tier_3: "$JAP_imperial_influence_tier_3$ $JAP_government_faction$"
+ JAP_government_faction_tier_4: "$JAP_imperial_influence_tier_4$ $JAP_government_faction$"
+ JAP_small_influence_gain: "získává §Ymalé§! množství §Yvlivu§!"
+ JAP_big_influence_gain: "získává §Yvelké§! množství §Yvlivu§!"
+ JAP_small_influence_loss: "ztrácí §Ymalé§! množství §Yvlivu§!"
+ JAP_big_influence_loss: "ztrácí §Yvelké§! množství §Yvlivu§!"
+ JAP_small_army_faction_gain_tt: "£imperial_influence_texticon $JAP_army_faction$ $JAP_small_influence_gain$"
+ JAP_big_army_faction_gain_tt: "£imperial_influence_texticon $JAP_army_faction$ $JAP_big_influence_gain$"
+ JAP_small_army_faction_loss_tt: "£imperial_influence_texticon $JAP_army_faction$ $JAP_small_influence_loss$"
+ JAP_big_army_faction_loss_tt: "£imperial_influence_texticon $JAP_army_faction$ $JAP_big_influence_loss$"
+ JAP_small_naval_faction_gain_tt: "£imperial_influence_texticon $JAP_naval_faction$ $JAP_small_influence_gain$"
+ JAP_big_naval_faction_gain_tt: "£imperial_influence_texticon $JAP_naval_faction$ $JAP_big_influence_gain$"
+ JAP_small_naval_faction_loss_tt: "£imperial_influence_texticon $JAP_naval_faction$ $JAP_small_influence_loss$"
+ JAP_big_naval_faction_loss_tt: "£imperial_influence_texticon $JAP_naval_faction$ $JAP_big_influence_loss$"
+ JAP_small_zaibatsu_faction_gain_tt: "£imperial_influence_texticon $JAP_zaibatsu_faction$ $JAP_small_influence_gain$"
+ JAP_big_zaibatsu_faction_gain_tt: "£imperial_influence_texticon $JAP_zaibatsu_faction$ $JAP_big_influence_gain$"
+ JAP_small_zaibatsu_faction_loss_tt: "£imperial_influence_texticon $JAP_zaibatsu_faction$ $JAP_small_influence_loss$"
+ JAP_big_zaibatsu_faction_loss_tt: "£imperial_influence_texticon $JAP_zaibatsu_faction$ $JAP_big_influence_loss$"
+ JAP_small_government_faction_gain_tt: "£imperial_influence_texticon $JAP_government_faction$ $JAP_small_influence_gain$"
+ JAP_big_government_faction_gain_tt: "£imperial_influence_texticon $JAP_government_faction$ $JAP_big_influence_gain$"
+ JAP_small_government_faction_loss_tt: "£imperial_influence_texticon $JAP_government_faction$ $JAP_small_influence_loss$"
+ JAP_big_government_faction_loss_tt: "£imperial_influence_texticon $JAP_government_faction$ $JAP_big_influence_loss$"
+ JAP_interservice_rivalry_effects: "£imperial_influence_texticon Kvůli §Y$JAP_interservice_rivalry$§! mezi armádou a námořnictvem:"
+ JAP_pending_imperial_influence_decision: "NE: Čekající rozhodnutí o císařském vlivu"
+ JAP_army_faction_is_at_least_influential_tt: "£imperial_influence_texticon $JAP_army_faction$ je alespoň $JAP_imperial_influence_tier_3$"
+ JAP_army_faction_is_not_subdued_tt: "£imperial_influence_texticon NE: $JAP_army_faction$ je $JAP_imperial_influence_tier_1$"
+ JAP_army_faction_is_at_most_meddling_tt: "£imperial_influence_texticon $JAP_army_faction$ je §Ynejvýše§! $JAP_imperial_influence_tier_2$"
+ JAP_army_faction_is_greater_than_naval_tt: "£imperial_influence_texticon $JAP_army_faction$ má více §Yvlivu§! než $JAP_naval_faction$"
+ JAP_army_faction_is_not_dominant_tt: "£imperial_influence_texticon NE: $JAP_army_faction$ je $JAP_imperial_influence_tier_4$"
+ JAP_naval_faction_is_at_least_influential_tt: "£imperial_influence_texticon $JAP_naval_faction$ je alespoň $JAP_imperial_influence_tier_3$"
+ JAP_naval_faction_is_not_subdued_tt: "£imperial_influence_texticon NE: $JAP_naval_faction$ je $JAP_imperial_influence_tier_1$"
+ JAP_naval_faction_is_at_most_meddling_tt: "£imperial_influence_texticon $JAP_naval_faction$ je §Ynejvýše§! $JAP_imperial_influence_tier_2$"
+ JAP_naval_faction_is_greater_than_army_tt: "£imperial_influence_texticon $JAP_naval_faction$ má více §Yvlivu§! než $JAP_army_faction$"
+ JAP_naval_faction_is_not_dominant_tt: "£imperial_influence_texticon NE: $JAP_naval_faction$ je $JAP_imperial_influence_tier_4$"
+ JAP_naval_faction_is_same_as_army_tt: "£imperial_influence_texticon $JAP_naval_faction$ a $JAP_army_faction$ jsou v rovnováze"
+ JAP_zaibatsu_faction_is_at_most_meddling_tt: "£imperial_influence_texticon $JAP_zaibatsu_faction$ je §Ynejvýše§! $JAP_imperial_influence_tier_2$"
+ JAP_civilian_government_faction_is_not_subdued_tt: "£imperial_influence_texticon NE: $JAP_government_faction$ je $JAP_imperial_influence_tier_1$"
+ JAP_zaibatsu_faction_is_at_least_influential_tt: "£imperial_influence_texticon $JAP_zaibatsu_faction$ je alespoň $JAP_imperial_influence_tier_3$"
+ JAP_zaibatsu_faction_is_not_subdued_tt: "£imperial_influence_texticon NE: $JAP_zaibatsu_faction$ je $JAP_imperial_influence_tier_1$"
+ JAP_civilian_government_is_at_least_influential_tt: "£imperial_influence_texticon $JAP_government_faction$ je alespoň $JAP_imperial_influence_tier_3$"
+ JAP_blocked_from_favoring_the_army_flag: " §Y$JAP_army_faction$§! má §Rzcela ztracenou přízeň§! u $JAP_imperial_influence_ruler_title$"
+ JAP_blocked_from_favoring_the_navy_flag: " §Y$JAP_naval_faction$§! má §Rzcela ztracenou přízeň§! u $JAP_imperial_influence_ruler_title$"
+ JAP_blocked_from_favoring_the_zaibatsus_flag: " §Y$JAP_zaibatsu_faction$§! má §Rzcela ztracenou přízeň§! u $JAP_imperial_influence_ruler_title$"
+ JAP_blocked_from_favoring_the_government_flag: " §Y$JAP_government_faction$§! má §Rzcela ztracenou přízeň§! u $JAP_imperial_influence_ruler_title$"
+ JAP_state_shinotism_dm: "Státní šintoismus"
+ JAP_state_shinotism_dm_desc: "Od období Meidži se snažíme využívat uctívání v šintoistických svatyních k posilování loajality k císaři a k budování národa. To nám umožnilo vybudovat zemi připravenou obětovat mnohé ve jménu státu."
+ JAP_modify_state_shinotism_modifier_tt: "Upravit §Y$JAP_state_shinotism_dm$§! o:"
+ JAP_add_state_shinotism_modifier_tt: "Přidat §Y$JAP_state_shinotism_dm$§!, který poskytuje:\n"
+ JAP_imperial_army_dm: "Císařská armáda"
+ JAP_imperial_army_dm_desc: "Císařská armáda je naší hlavní pozemní silou, která sehrála klíčovou roli v naší rychlé modernizaci během období Meidži a bojovala v četných konfliktech, včetně japonsko-čchingské války, rusko-japonské války a Velké války. Původně vznikla sjednocením doménových armád po obnově Meidži a později se vyvinula v mocnou moderní armádu ovlivněnou francouzskými a německými vzory."
+ JAP_japanese_armor_doctrine_tt: "[GetJapaneseArmorDoctrineDesc]\n"
+ JAP_japanese_armor_doctrine_blankspace_tt: "[GetJapaneseArmorDoctrineBlankSpace]"
+ JAP_japanese_armor_doctrine: "Japonská tanková doktrína"
+ JAP_blanskspace_tt: "\n"
+ JAP_japanese_armor_doctrine_equipment_tt: "§YVšechny tanky§!:\n  $production_cost_tt$ §R+10.00%§!"
+ JAP_national_army_dm: "Národní armáda"
+ JAP_national_army_dm_desc: "Národní armáda je naší hlavní pozemní silou, která sehrála klíčovou roli v naší rychlé modernizaci během období Meidži a bojovala v četných konfliktech, včetně japonsko-čchingské války, rusko-japonské války a Velké války. Původně vznikla sjednocením doménových armád po obnově Meidži a později se vyvinula v mocnou moderní armádu ovlivněnou francouzskými a německými vzory."
+ JAP_jungle_armor_tt: "\n§Y$category_all_armor$§!:\n§YDžungle§!:\n Změna útočné efektivity: §G+10%§!\n Změna obranné efektivity: §G+10%§!"
+ JAP_modify_imperial_army_modifier_tt: "Upravit §Y$JAP_imperial_army_dm$§! o:"
+ JAP_add_imperial_army_modifier_tt: "Přidat §Y$JAP_imperial_army_dm$§!, který poskytuje:\n"
+ JAP_modify_national_army_modifier_tt: "Upravit §Y$JAP_national_army_dm$§! o:"
+ JAP_imperial_navy_dm: "Císařské námořnictvo"
+ JAP_imperial_navy_dm_desc: "Císařské japonské námořnictvo bylo založeno roku 1868 na počátku období Meidži a již roku 1920 bylo třetím největším námořnictvem na světě. Nyní je naše mocná flotila rychle rozšiřována, aby naše země dokázala čelit těžkým časům, které nás čekají."
+ JAP_modify_imperial_navy_modifier_tt: "Upravit §Y$JAP_imperial_navy_dm$§! o:"
+ JAP_add_imperial_navy_modifier_tt: "Přidat §Y$JAP_imperial_navy_dm$§!, který poskytuje:\n"
+ JAP_japanese_navy_dm: "Japonské námořnictvo"
+ JAP_japanese_navy_dm_desc: "Císařské japonské námořnictvo bylo založeno roku 1868 na počátku období Meidži a již roku 1920 bylo třetím největším námořnictvem na světě. Nyní je naše mocná flotila rychle rozšiřována, aby naše země dokázala čelit budoucím hrozbám."
+ JAP_modify_japanese_navy_modifier_tt: "Upravit §Y$JAP_japanese_navy_dm$§! o:"
+ JAP_army_and_naval_air_services_dm: "Armádní a námořní letecké služby"
+ JAP_army_and_naval_air_services_dm_desc: "Naše letectvo je rozděleno mezi Armádní leteckou službu a Námořní leteckou službu, rozděleno nejen v provozu, ale i ve výrobě a vývoji. Kvůli tomu trpí velkými logistickými problémy, z nichž některé lze překonat pouze spojením obou složek do jednoho celku."
+ JAP_separate_air_services_tt: "[GetSeparateAirforcesDesc]\n"
+ JAP_lightweight_fighters_tt: "[GetLighweightFightersDesc]"
+ JAP_7075_aluminium_alloy_tt: "§Y$small_plane_airframe$§! a §Y$cv_small_plane_airframe$§! $MODIFIER_AIR_AGILITY$: §G+10%§!"
+ JAP_modify_army_and_naval_air_services_modifier_tt: "Upravit §Y$JAP_army_and_naval_air_services_dm$§! o:"
+ JAP_add_army_and_naval_air_services_modifier_tt: "Přidat §Y$JAP_army_and_naval_air_services_dm$§!, který poskytuje:\n"
+ JAP_modify_japanese_airforce_modifier_tt: "Upravit §Y$JAP_japanese_airforce_dm$§! o:"
+ JAP_japanese_airforce_dm: "Japonské letectvo"
+ JAP_early_industrialization_efforts_dm: "Počátky industrializace"
+ JAP_early_industrialization_efforts_dm_desc: "Naše průmyslová revoluce začala skutečně až v 70. letech 19. století během období Meidži, kdy mise Iwakura přivezla znalosti potřebné k nastartování našich industrializačních projektů. Od té doby naše ekonomika výrazně vzrostla a moderní průmysl se silně rozšířil. Přesto však stále zaostáváme za západními zeměmi, zejména kvůli nedostatku přírodních zdrojů."
+ JAP_modify_early_industrialization_modifier_tt: "Upravit §Y$JAP_early_industrialization_efforts_dm$§! o:"
+ JAP_add_early_industrialization_modifier_tt: "Přidat §Y$JAP_early_industrialization_efforts_dm$§!, který poskytuje:\n"
+ JAP_modify_economic_mirale_modifier_tt: "Upravit §Y$JAP_the_economic_mirale_dm$§! o:"
+ JAP_the_economic_mirale_dm: "Hospodářský zázrak"
+ JAP_the_economic_mirale_dm_desc: "Lehký průmysl a zemědělství již nejsou páteří ekonomiky — nahradil je těžký průmysl. Chudoba a nezaměstnanost byly výrazně redukovány díky brilantním ekonomickým reformám Osamu Šimomury. Brzy se staneme jednou z největších ekonomik světa!"
+ JAP_showa_statism_modifier: "Šówa etatismus"
+ JAP_modify_showa_statism_modifier_tt: "Upravit §Y$JAP_showa_statism_modifier$§! o:"
+ JAP_add_showa_statism_modifier_tt: "Přidat §Y$JAP_showa_statism_modifier$§!, který poskytuje:\n"
+ JAP_civilian_cabinet_modifier: "Civilní kabinet"
+ JAP_modify_civilian_cabinet_modifier_tt: "Upravit §Y$JAP_civilian_cabinet_modifier$§! o:"
+ JAP_add_civilian_cabinet_modifier_tt: "Přidat §Y$JAP_civilian_cabinet_modifier$§!, který poskytuje:\n"
+ JAP_communist_party_modifier: "Japonská komunistická strana"
+ JAP_modify_communist_party_modifier_tt: "Upravit §Y$JAP_communist_party_modifier$§! o:"
+ JAP_add_communist_party_modifier_tt: "Přidat §Y$JAP_communist_party_modifier$§!, který poskytuje:\n"
+ JAP_rounouha_modifier: "Vláda Rónó-ha"
+ JAP_modify_rounouha_modifier_tt: "Upravit §Y$JAP_rounouha_modifier$§! o:"
+ JAP_add_rounouha_modifier_tt: "Přidat §Y$JAP_rounouha_modifier$§!, který poskytuje:\n"
+ JAP_east_asia_co_prosperity_sphere_dm: "Dai Tóa Kjóeiken"
+ JAP_modify_east_asia_co_prosperity_sphere_modifier_tt: "Upravit §Y$JAP_east_asia_co_prosperity_sphere_dm$§! o:"
+ JAP_add_east_asia_co_prosperity_sphere_modifier_tt: "Přidat §Y$JAP_east_asia_co_prosperity_sphere_dm$§!, který poskytuje:\n"
+ JAP_tokko_idea_lar: "Tokkó"
+ JAP_tokko_idea_lar_desc: "Zvláštní vyšší policie je organizace vytvořená za účelem vymáhání civilního práva, kontroly politických skupin a ideologií považovaných za hrozbu veřejnému pořádku našeho státu. Dohlíží na obyvatele naší země a představuje předvoj proti cizím agentům i domácím odpůrcům režimu."
+ JAP_revisited_21_demands_neg_op_mod: "Přehodnocených Jednadvacet požadavků"
+
+ JAP_operation_an_idea: "Operace AN"
+ JAP_central_economic_council_idea: "Ústřední hospodářská rada"
+ JAP_german_tech_exchange: "Německá výměna technologií"
+ JAP_german_tech_exchange_desc: "Další německé technologické pokroky by byly nesmírně užitečné pro naše válečné úsilí. Musíme získat tyto technické výkresy za každou cenu."
+ JAP_air_defence_surveilance_corps_idea: "Sbor protivzdušného dohledu"
+ JAP_national_defense_brotherhood_idea: "Bratrstvo národní obrany"
+ JAP_expel_the_barbarians: "Vyžeňme barbary"
+ JAP_utilizing_ainu_expertize: "Využití zkušeností Ainů"
+ JAP_battle_for_oceania: "Bitva o Oceánii"
+ JAP_operation_MO_military_offensive: "Operace MO"
+ JAP_chinese_offensive_military_offensive: "Probíhající japonská ofenzíva"
+ JAP_senbu_idea: "Organizace Senbu"
+ MEN_true_mongol_state: "Pravé Mongolsko"
+ JAP_press_association_idea: "Velká japonská tisková asociace"
+ JAP_japanese_influence_growing_tibet: "Rostoucí japonský vliv"
+ JAP_smaller_japanese_influence_growing_tibet: "Japonské infiltrační pokusy"
+ senbu_occupation_law_fake_idea: "Senbu"
+ JAP_new_order_in_east_asia_idea: "Nový řád ve Východní Asii"
+ JAP_distributing_rations: "Distribuce přídělů"
+ JAP_subject_tonarigumi_idea: "Tonarigumi"
+ SHX_suiyuan_campaign_idea: "Obrana proti tažení v Süjüanu"
+ JAP_sufu_materials: "Materiály Sufu"
+ JAP_boeitai_idea: "Bóeitai"
+ JAP_is_home_islands_state_tt: "Jakýkoli stát §YMateřských ostrovů§!"
+ JAP_collapsing_government_idea: "Hroutící se kabinet"
+ JAP_advance_one_hundred_million_fireballs_idea: "Vpřed, sto milionů ohnivých koulí!"
+ JAP_the_eternal_kingdom_idea: "Věčné císařství"
+ MAN_kyousakusha_uplifted: "Gassakuša povzneseni"
+ JAP_increased_national_security_no_lar: "Zvýšená národní bezpečnost"
+ ENG_cox_incident_opm: "Incident Cox"
+ SOV_sorge_incident_opm: "Incident Sorge"
+ CHI_rejected_our_proposal_for_cooperation_opm: "Odmítli náš návrh na protikomunistickou spolupráci"
+ CHI_denounced_feudalism: "Odsoudili feudálství"
+ CHI_nine_power_treaty_sea: "Dohoda Devíti mocností"
+ CHI_nine_power_treaty_modify: "Upravuje $CHI_nine_power_treaty_sea$:"
+ JAP_anti_communist_crackdowns_idea: "Protikomunistické zásahy"
+ CHI_suppression_of_anti_japanese_sentiments_idea: "Potlačení protijaponských nálad"
+ JAP_pro_japanese_sentiments_for_usa_idea: "Civilní projaponské nálady"
+ JAP_has_recently_tried_to_block_usa_support_for_china_flag: "Japonsko nedávno použilo Japonský výbor pro obchod a informace, aby odradilo Spojené státy od podpory Číny"
+ JAP_supported_pro_japanese_sentiments_idea: "Rostoucí projaponské nálady"
+ JAP_growing_pro_japanese_sentiment_opm: "Rostoucí projaponské nálady"
+ JAP_cracked_down_on_growing_pro_japanese_sentiment_opm: "Zasáhli proti rostoucím projaponským náladám"
+ JAP_currently_spreading_pro_japanese_sentiments_flag: " V současnosti podporuje projaponské nálady v nějaké zemi"
+ JAP_currently_investing_in_states_natural_resources_flag: " V současnosti investuje do přírodních zdrojů nějaké země"
+ JAP_resource_extraction_investments_dm: "Japonské investice do těžby surovin"
+ GEACPS_exploitation_occupation_law: "Východoasijské využívání"
+ GEACPS_prosperity_occupation_law: "Východoasijská prosperita"
+ GEACPS_exploitation_occupation_law_fake_idea: "Východoasijské využívání"
+ GEACPS_prosperity_occupation_law_fake_idea: "Východoasijská prosperita"
+ JAP_MAN_joint_economic_block_idea: "Japonsko-mandžuský hospodářský blok"
+ JAP_mongolian_independence_army_reestablished_idea: "Nová mongolská armáda nezávislosti"
+ JAP_surprise_invasion_idea: "Překvapivá invaze"
+ JAP_surprise_invasion_idea_desc: "Invaze, kterou nedávno zahla Kvantungská armáda, zaskočila nejen nepřítele, ale i naši vlastní vládu a ozbrojené síly. Potrvá nějaký čas, než bude armáda plně mobilizována a připravena bojovat s novým protivníkem."
+ JAP_japanese_chinese_friendship: "Smlouva o vzájemné spolupráci mezi Japonskem a Čínou"
+ JAP_dimantle_faction_tt: "§RPři odstranění §Y$JAP_japanese_chinese_friendship$§! je §Y$JAP_sino_japanese_pact$§! rozpuštěn§!"
+ sino_japanese_alliance_threat: "Ohroženi čínsko-japonskou aliancí"
+ signed_the_sino_japanese_pact_opm: "Podepsali čínsko-japonskou smlouvu"
+ JAP_yen_bloc_idea: "Člen jenového bloku"
+ JAP_invesments_into_minor_asian_states_cost: "Náklady na rozvoj Východní Asie"
+ JAP_industrial_development_support: "Japonská podpora industrializace"
+ JAP_ministry_of_greater_east_asia_idea: "Správa Ministerstvem Velké východní Asie"
+ JAP_second_russo_japanese_war_fervor_idea: "Nadšení pro druhou rusko-japonskou válku"
+ SOV_full_focus_on_the_west: "Plná pozornost na Západ"
+ JAP_japanese_investments: "[JAP.GetAdjectiveCap] investice"
+ JAP_sent_back_genrikh_lyushkov_opm: "Vrátili Genricha Ľuškova"
+ JAP_hosting_genrikh_lyushkov_opm: "Hostí Genricha Ľuškova"
+ JAP_the_imperial_way_dm: "Císařská cesta"
+ JAP_modify_the_imperial_way_modifier_tt: "Upraví §Y$JAP_the_imperial_way_dm$§! o:"
+ JAP_add_the_imperial_way_modifier_tt: "Přidá §Y$JAP_the_imperial_way_dm$§!, což uděluje:\n"
+ JAP_regional_development: "Regionální rozvoj"
+ JAP_first_strike_principle_dm: "Zásada prvního úderu"
+ JAP_first_strike_principle_dm_desc: "Revidovaná Národní obranná politika přijatá roku 1936 stanovila doktrínu, v níž je v případě vojenské krize naším operačním postupem zásada prvního úderu a krátkodobá operace. Příprava vojenské síly v době míru je tak nezbytná pro krátkodobé operace s ohledem na možnost vleklé a totální války. Tuto válku musíme vyhrát rychle, jinak ji nemusíme vyhrát vůbec!"
+ JAP_first_strike_principle_dm_tt: "[GetFirstStrikePrincipleTarget1]\n[GetFirstStrikePrincipleTarget2]\n[GetFirstStrikePrincipleTarget3]"
+ GetFirstStrikeString: "První úder proti"
+ JAP_first_strike_principle_1: "$GetFirstStrikeString$ [?JAP.JAP_first_strike_principle_target_1.GetNameDef] §Wna [?JAP_first_strike_principle_remaining_days_1:days_left|Y0] dní§!"
+ JAP_first_strike_principle_2: "$GetFirstStrikeString$ [?JAP.JAP_first_strike_principle_target_2.GetNameDef] §Wna [?JAP_first_strike_principle_remaining_days_2:days_left|Y0] dní§!"
+ JAP_first_strike_principle_3: "$GetFirstStrikeString$ [?JAP.JAP_first_strike_principle_target_3.GetNameDef] §Wna [?JAP_first_strike_principle_remaining_days_3:days_left|Y0] dní§!"
+ JAP_kantai_kessen_dm: "Kantai Kessen"
+ JAP_kantai_kessen_dm_desc: "Po rozhodující porážce ruského loďstva v bitvě u Cušimy je námořnictvo plně přesvědčeno o doktríně, podle níž lze válku vyhrát jedinou rozhodující námořní bitvou. Jejich současné plány na zopakování podobného vítězství spočívají v přijetí obranného postoje, vyčkání na přiblížení nepřátelského loďstva a jeho zničení prudkou bitvou u japonského hlavního ostrova."
+ JAP_kantai_kessen_dm_tt: "[GetKantaiKessenTarget1]\n[GetKantaiKessenTarget2]\n[GetKantaiKessenTarget3]"
+ GetKantaiKessenString: "Rozhodná bitva proti"
+ JAP_kantai_kessen_1: "$GetKantaiKessenString$ [?JAP.JAP_kantai_kessen_target_1.GetNameDef] §Wna [?JAP_kantai_kessen_remaining_days_1:days_left|Y0] dní§!"
+ JAP_kantai_kessen_2: "$GetKantaiKessenString$ [?JAP.JAP_kantai_kessen_target_2.GetNameDef] §Wna [?JAP_kantai_kessen_remaining_days_2:days_left|Y0] dní§!"
+ JAP_kantai_kessen_3: "$GetKantaiKessenString$ [?JAP.JAP_kantai_kessen_target_3.GetNameDef] §Wna [?JAP_first_strike_principle_remaining_days_3:days_left|Y0] dní§!"
+ JAP_strike_south_idea: "Úder na jih"
+ JAP_strike_south_idea_desc: "Jen rozhodným jednáním a rychlým úderem můžeme položit celou jihovýchodní Asii k našim nohám. Naše flotila musí zdolat vlny, aby naši vojáci mohli zdolat nepřátelské pláže a podrobit si oblast."
+ JAP_advanced_weapon_projects_dm: "Pokročilé zbrojní projekty"
+ JAP_advanced_weapon_projects_dm_desv: "TODO"
+ JAP_add_advanced_weapon_projects_dm: "Přidá §Y$JAP_advanced_weapon_projects_dm$§!, což uděluje:\n"
+ JAP_modify_advanced_weapon_projects_dm: "Upraví §Y$JAP_advanced_weapon_projects_dm$§! o:"
+ JAP_support_ethiopia_static_modifier: "Podpora Etiopie"
+ JAP_aid_ETH: "Pomoc pro Etiopii"
+ JAP_sent_eth_aid_opm: "Poslali nám pomoc"
+ JAP_kempeitai_idea_lar: "Kempeitai"
+ JAP_the_great_spiritual_evil_opm: "Neochvějný protikomunistický postoj"
+ JAP_kenkokukai: "Kenkokukai"
+ JAP_double_leaf_society_idea: "Plody Společnosti dvojitého listu"
+ JAP_restructing_the_industrial_conglomerates: "Restrukturalizace průmyslových konglomerátů"
+ JAP_enemy_of_our_enemy_opm: "Nepřítel našeho nepřítele"
+ JAP_POL_anti_soviet_pact: "Polsko-japonská protisovětská smlouva"
+ JAP_POL_anti_soviet_pact_refused_call: "Odmítli dodržet polsko-japonskou protisovětskou smlouvu"
+ POL_JAP_pact_tt: "Pokud se některá ze zemí s duchem §Y$JAP_POL_anti_soviet_pact$§! ocitne ve válce se §Y[SOV.GetNameDef]§!, ostatní budou povolány"
+ JAP_POL_anti_soviet_pact_2_tt: "Pokud se některá ze zemí s duchem §Y$JAP_POL_anti_soviet_pact$§! ocitne v obranné válce se §Y[SOV.GetNameDef]§!, ostatní budou povolány"
+ JAP_in_the_footsteps_of_jimmu: "Ve stopách císaře Džimmua"
+ JAP_kokutai_idea: "Kokutai"
+ JAP_yatagarasus_guidance_idea: "Vedení Jatagarasu"
+ JAP_amaterasus_weapons_idea: "Zbraně Amaterasu no Aramitama"
+ JAP_intense_anti_guerilla_operation: "Intenzivní protipartyzánské operace"
+ JAP_intense_anti_guerilla_operation_desc: "Japonská armáda zde usilovně pracuje na potlačení partyzánů a infiltrátorů a uplatňuje novou taktiku spálené země."
+ MAN_hydroelectric_power: "Vodní elektrárny"
+ MAN_hydroelectric_power_desc: "Díky investicím do naší země jsme konečně vybudovali síť přehrad, které vyrábějí elektřinu a regulují tok řek."
+ JAP_the_divine_wind_idea: "Božský vítr"
+ KOR_resistance_against_colonial_rule_dm: "Lidový odpor proti současné nadvládě"
+ JAP_metabolism_idea: "Metabolismus"
+ JAP_danchi_idea: "Danči"
+ JAP_taiheyo_belt_modifier: "Pás Taiheijó"
+ JAP_low_popular_support_idea: "Slabá podpora veřejnosti"
+ JAP_military_strike_idea: "Armáda ve stávce"
+ JAP_cannot_train_due_to_military_strike: "Nelze cvičit nové jednotky, dokud je aktivní §Y$JAP_military_strike_idea$§!"
+ JAP_must_take_revoke_ppl_focus_tt: "Lze vyřešit pouze §YZrušením Zákona o ochraně míru§!"
+ JAP_low_on_funds_idea: "Nedostatek financí"
+ JAP_state_under_army_control: "Pod kontrolou císařské armády"
+ JAP_state_under_army_control_tt: "Tento stát se na začátku občanské války přidá k §YFašistům§!"
+ JAP_state_under_rebel_control: "Zajištěno odpůrci císařské armády"
+ JAP_state_under_rebel_control_tt: "Tento stát se na začátku občanské války přidá k §YDemokratům§!, pokud není zároveň §YInfiltrován JCP§!"
+ JAP_state_infiltrated_by_the_jcp: "Infiltrován JCP"
+ JAP_state_infiltrated_by_the_jcp_tt: "Tento stát se na začátku občanské války přidá ke §YKomunistům§!"
+ JAP_royal_support_for_civilian_government_idea: "Císařská podpora civilní vládě"
+ JAP_amakudari_idea: "Amakudari"
+ JAP_agricultural_protectionism_idea: "Zemědělský protekcionismus"
+ JAP_industrial_meritocracy_idea: "Průmyslová meritokracie"
+ JAP_strong_unions_idea: "Silné odbory"
+ JAP_shinkansen_construction_idea: "První trať Šinkansenu ve výstavbě"
+ JAP_shinkansen_in_operation_idea: "Šinkansen v provozu"
+ JAP_industrial_relocation_resources: "Průmyslové investice za suroviny"
+ JAP_usa_jap_trade_agreement_idea: "Americko-japonská obchodní dohoda"
+ JAP_pacific_customs_union_member: "Člen Pacifické měnové unie"
+ JAP_customs_union_trade_idea: "Obchodní dohoda pro západní Pacifik"
+ JAP_trading_partners: "Obchodní partneři"
+ JAP_pacific_trade_offshore_tt: "([ROOT.GetFlag]§Y[ROOT.GetNameDefCap]§!) Přidá §G1§! mimo-mapový §Y$industrial_complex$§!"
+ JAP_form_greater_east_asian_customs_union_tt: "Odemkne rozhodnutí §YZřídit levnější obchodní spojení§! s našimi spojenci"
+ JAP_pacific_integrated_customs_union_member_tt: "§Y[JAP.GetNameDefCap]§! se nás bude moci §RPokusit diplomaticky podrobit!§!"
+ JAP_state_supporting_resistance_modifier: "Japonskem podporovaný odboj"
+ JAP_state_supporting_resistance_modifier_desc: "Japonsko tajně dodává zbraně a vybavení a poskytuje vojenský výcvik místním odbojovým skupinám."
+ JAP_pro_japanese_sentiment_in_state: "Přítomné projaponské nálady"
+ JAP_influx_of_socialist_industrial_expertise_idea: "Příliv socialistické průmyslové expertízy"
+ JAP_widespread_protests_and_sabotage_idea: "Rozsáhlé protesty a sabotáž"
+ JAP_stolen_equipment_idea: "Vojenské sklady vyrabovány"
+ JAP_army_arsenals_emptied_idea: "Armádní arzenály vyprázdněny"
+ JAP_buddhist_socialism_idea: "Buddhistický socialismus"
+ JAP_modern_ashigaru_idea: "Moderní ašigaru"
+ JAP_modern_ikko_ikki_idea: "Moderní Ikkó-ikki"
+ JAP_socialist_pioneers_idea: "Socialističtí pionýři"
+ JAP_syndicalism_idea: "Přijat syndikalismus"
+ JAP_women_in_industry_idea: "Ženy v průmyslu"
+ JAP_women_in_industry_idea_desc: "S ženou jako současnou vůdkyní pro [JAP.GetNameDef] je stanoveno precedentní právo, aby ženy mohly pracovat i v jiných odvětvích. S tímto velkým přírůstkem do naší pracovní síly můžeme očekávat značný hospodářský pokrok naší země."
+ JAP_reorganization_of_society_idea: "Reorganizace společnosti"
+ JAP_reorganization_of_society_idea_desc: "Aktuálně odstraňujeme pozůstatky feudalismu, nacionalismu a konzervativních tradic a propagujeme komunistickou ideologii. Rušíme ideály samurajů a feudální hierarchie, odstraňujeme bušidó z výuky a společnosti a prosazujeme rovnost pohlaví udělením ženám plných práv - právních i ekonomických."
+ JAP_learn_from_the_nkvd_lar: "Poučení od NKVD"
+ JAP_ainu_revoluton_theory_implemented_dm: "Aplikována teorie ainuské revoluce"
+ JAP_war_communism_idea: "Válečný komunismus"
+ JAP_the_five_year_plan_idea: "Pětiletý plán"
+ JAP_anti_kwantung_army_maneuvers_idea: "Protikuantungské armádní manévry"
+ JAP_anti_breakway_navy_maneuvers_idea: "Ofenzivní námořní manévry"
+ JAP_mobilizing_the_proletariat: "Mobilizace proletariátu"
+ JAP_the_long_march_to_victory_idea: "Dlouhý pochod k vítězství"
+ JAP_fifth_international_agitation: "Agitace Páté internacionály"
+ JAP_free_asia_pacific_idea: "Svobodný Asijsko-pacifický region"
+ JAP_pan_asian_union_idea: "Panasijská unie"
+ JAP_red_dawn_over_asia_idea: "Rudý úsvit nad Asií"
+ JAP_ministry_of_pan_asian_development_idea: "Správa Ministerstvem pan-asijského rozvoje"
+ JAP_educating_the_peasants_modifier: "Vzdělávání rolníků"
+ JAP_peoples_liberation_army_of_monglia_idea: "Mongolská lidová osvobozenecká armáda"
+ JAP_striking_the_sleeping_bear: "Úder na spícího medvěda"
+ JAP_day_of_infamy: "Den hanby"
+ JAP_temporary_factory_output_bonus_idea: "Zvýšené výrobní kvóty"
+ JAP_temporary_dockyard_output_bonus_idea: "Zvýšené námořní výrobní kvóty"
+ JAP_temporary_manpower_growth_bonus_idea: "Rychlá mobilizace"
+ JAP_temporary_better_supply_lines_bonus_idea: "Zpevněné zásobovací linie"
+ JAP_temporary_construction_bonus_idea: "Rychlá průmyslová expanze"
+ JAP_temporary_infra_construction_bonus_idea: "Rychlá expanze infrastruktury"
+ JAP_looked_the_other_way_opm: "Dívali se jinam"
+ JAP_crumbling_military_cabinet_idea: "Hroutící se kabinet"
+ JAP_crumbling_military_cabinet_idea_2: "Aktuální stav císařství"
+ JAP_crumbling_military_cabinet_idea_5: "Kecugó sakusen"
+ JAP_accepted_the_potsdam_agreement: "Přijali Postupimskou deklaraci"
+ JAP_the_final_war_theory_idea: "Teorie závěrečné války"
+ USA_wounded_national_pride_idea: "Zraněná národní hrdost"
+ PRC_the_chinese_red_army: "Čínská rudá armáda"
+ PRC_the_chinese_red_army_desc: "[GetArmyRecoveryStage]"
+ PRC_the_chinese_red_army_modify_tt: "Upraví §Y$PRC_the_chinese_red_army$§! o: "
+ PRC_no_army_recovery: "Stále vyčerpána a oslabena Dlouhým pochodem, [ROOT.GetAdjective] rudá armáda stále bojuje o to, aby se znovu postavila na nohy proti zdánlivě silnějším nepřátelům."
+ PRC_some_army_recovery: "Ačkoli zdaleka není na síle, kterou měla v nejlepších časech, [ROOT.GetAdjective] rudá armáda se po Dlouhém pochodu částečně zotavila."
+ PRC_lots_of_army_recovery: "Navzdory utrpení, které jsme zakusili, se [ROOT.GetAdjective] rudá armáda vrátila téměř ke své dřívější síle a je znovu připravena bojovat za lid."
+ PRC_the_chinese_red_army_1936_fake: "$PRC_the_chinese_red_army$"
+ PRC_the_chinese_red_army_1936_fake_desc: "$PRC_no_army_recovery$"
+ PRC_the_chinese_red_army_1939_fake: "$PRC_the_chinese_red_army$"
+ PRC_the_chinese_red_army_1939_fake_desc: "$PRC_some_army_recovery$"
+ PRC_agrarian_society: "Agrární společnost"
+ PRC_agrarian_society_desc: "Skládající se převážně z venkovských sídel s minimální industrializací a mizivým vzděláním, [FROM.GetNameDef] stojí před výzvou na mnoha frontách."
+ PRC_agrarian_society_modifiy_tt: "Upraví §Y$PRC_agrarian_society$§! o: "
+ PRC_agrarian_reform: "Agrární reforma"
+ PRC_agrarian_reform_desc: "Ačkoli zůstává převážně venkovská, [FROM.GetNameDef] zahájila pomalé úsilí o industrializaci."
+ PRC_agrarian_reform_modify_tt: "Upraví §Y$PRC_agrarian_reform$§! o: "
+ PRC_urban_society: "Urbanizovaná společnost"
+ PRC_urban_society_desc: "Po velkém úsilí se [FROM.GetNameDef] posunula z převážně venkovské společnosti k rychle urbanizující se zemi. [FROM.GetAdjective] města budou velkými metropolemi budoucnosti."
+ PRC_urban_society_modify_tt: "Upraví §Y$PRC_urban_society$§! o: "
+ PRC_central_committee: "Ústřední výbor"
+ PRC_central_committee_desc: "Ústřední výbor Komunistické strany Číny je nejvyšším politickým orgánem strany. Založen byl ve 20. letech a vede jej generální tajemník. Politbyro je výkonným výborem a skládá se z nejvyššího vedení strany. $PRC_zhang_wentian$ převzal funkci generálního tajemníka od $PRC_bo_gu$ v lednu 1935."
+ PRC_modify_central_committee_modifier: "Upraví §Y$PRC_central_committee$§! o:"
+ PRC_bolshevik_volunteers: "Bolševičtí dobrovolníci"
+ PRC_bolshevik_dominance: "Bolševická dominance"
+ PRC_bolshevik_dominance_tt: "Upraví §Y$PRC_bolshevik_dominance$§! o:"
+ PRC_maoism_dynamic_modifier: "Maoismus"
+ PRC_asian_democratic_union_modifier: "$PRC_asian_democratic_union$"
+ PRC_asian_democratic_union_modifier_modify_tt: "Upraví §Y$PRC_asian_democratic_union_modifier$§! o:"
+ PRC_asian_democratic_union_modifier_desc: "$PRC_asian_democratic_union_desc$"
+ PRC_28_bolshevik_faction_dynamic_modifier: "Diplomatické úsilí frakce"
+ PRC_28_bolshevik_faction_dynamic_modifier_tt: "Upraví §Y$PRC_28_bolshevik_faction_dynamic_modifier$§! o:"
+ PRC_the_great_production_movement: "Hnutí velké produkce"
+ PRC_the_great_production_movement_modify_tt: "Upraví §Y$PRC_the_great_production_movement$§! o: "
+ PRC_pla_ground_force: "Pozemní síly Lidové osvobozenecké armády"
+ PRC_pla_ground_force_modify_tt: "Upraví §Y$PRC_pla_ground_force$§! o: "
+ PRC_pla_navy: "Námořnictvo Lidové osvobozenecké armády"
+ PRC_pla_navy_modify_tt: "Upraví §Y$PRC_pla_navy$§! o: "
+ PRC_pla_air_force: "Vzdušné síly Lidové osvobozenecké armády"
+ PRC_pla_air_force_modify_tt: "Upraví §Y$PRC_pla_air_force$§! o: "
+ PRC_rename_red_army_tt: "Přejmenuje §Y$PRC_the_chinese_red_army$§! na §Y$PRC_pla_ground_force$§!"
+ PRC_pla_air_force_fake_idea: "$PRC_pla_air_force$"
+ PRC_central_military_commission_idea: "Ústřední vojenská komise"
+ PRC_defunct_state_bank: "Zaniklá státní banka"
+ PRC_defunct_state_bank_desc: "Přenášet naše staré lisovací stroje během Dlouhého pochodu nepřipadalo v úvahu, a v důsledku toho má naše státní banka potíže se zorientovat v této nové, obtížné situaci."
+ PRC_land_revolution_expedited: "Urychlená pozemková revoluce"
+ PRC_land_revolution_halted: "Pozemková revoluce zastavena"
+ PRC_recovering_from_the_sufan: "Zotavování se po kampani Sufan"
+ PRC_silver_dollar_promoted: "Prosazeny stříbrné mince"
+ PRC_paper_bills_promoted: "Prosazeny papírové bankovky"
+ PRC_paper_bills_promoted_tt: "§RObchodní zákon nelze zvýšit nad§! §YOmezený export§!"
+ PRC_trade_of_special_goods_allowed: "Povolen obchod se zvláštním zbožím"
+ PRC_trade_of_special_goods_banned_uprising: "Neoblíbený zákaz obchodu se zvláštním zbožím"
+ PRC_trade_of_special_goods_banned_uprising_tt: "Za §Y1 rok§! lidé zákaz přijmou a Národní duch bude vylepšen."
+ PRC_trade_of_special_goods_banned_stabilised: "Přijatý zákaz obchodu se zvláštním zbožím"
+ PRC_connecting_the_country_idea: "Propojení země"
+ PRC_army_education_efforts: "Vzdělávací úsilí armády"
+ PRC_three_rules_of_discipline_idea: "Tři pravidla kázně"
+ PRC_five_year_plan: "Pětiletý plán"
+ PRC_five_year_plan_completed: "Pětiletý plán - splněn"
+ PRC_five_year_plan_failed: "Pětiletý plán - nesplněn"
+ PRC_shorter_market_plan: "Krátkodobé tržní plány"
+ PRC_shorter_market_plan_completed: "Krátkodobý tržní plán - splněn"
+ PRC_shorter_market_plan_failed: "Krátkodobý tržní plán - nesplněn"
+ PRC_finalize_industrial_plan_idea: "Finalizovaný průmyslový plán"
+ PRC_soviet_produces_tanks_timed_idea: "Sovětská výroba tanků pro [PRC.GetName]"
+ PRC_western_expedition_idea: "Západní tažení"
+ PRC_eastern_expedition_idea: "Východní tažení"
+ PRC_usurp_control_over_yanan_idea: "Jižní tažení"
+ PRC_mediating_general_secretary_idea: "Zprostředkující generální tajemník"
+ PRC_mediating_general_secretary_idea_tt: "\n§Y$PRC_zhang_wentian$§! bude zprostředkovávat mezi §Y$PRC_mao_zedong$§! a [GetGuotaoOrBolsheviks], aby zabránil tomu, že jedna ze stran získá příliš velkou moc v §Y$PRC_communist_power_struggle$§!. §RMocenská rovnováha se bude posouvat směrem ke středu§!"
+ PRC_mediating_general_secretary_idea_guotao_tt: "\n§Y$PRC_zhang_wentian$§! bude zprostředkovávat mezi §Y$PRC_mao_zedong$§! a §Y$PRC_zhang_guotao$§!, aby zabránil tomu, že jedna ze stran získá příliš velkou moc v §Y$PRC_communist_power_struggle$§!. §RMocenská rovnováha se bude posouvat směrem ke středu§!"
+ PRC_GetGuotaoOrBolsheviks_Guotao: "§Y$PRC_zhang_guotao$§!"
+ PRC_GetGuotaoOrBolsheviks_Bolsheviks: "§Y28 a půl bolševiků§!"
+ PRC_central_committee_fake_idea: "$PRC_central_committee$"
+ PRC_hundred_regiments_offensive_idea: "Ofenzíva sta pluků"
+ PRC_passive_revolutionaries_idea: "Pasivní revolucionáři"
+ PRC_passive_revolutionaries_idea_desc: "$PRC_the_peoples_doubt_desc$"
+ PRC_passive_revolutionaries_idea_tt: "\n§Y$PRC_passive_revolutionaries_idea$§! §Rbude odstraněn, jakmile §Y[PRC.GetNameWithFlag]§! vstoupí do války proti zahraničnímu útočníkovi, nebo pokud bude zahraniční útočník v míru se všemi §Yčínskými zeměmi§!§!"
+ PRC_crossing_the_taiwanese_strait: "Překročení Tchajwanského průlivu"
+ PRC_guerilla_warfare: "Partyznská válka"
+ PRC_the_internal_enemy_tt: "Útočný bonus proti všem §Yčínským zemím§!: §G+5%§!\nPrůlomový bonus proti všem §Yčínským zemím§!: §G+5%§!"
+ PRC_the_internal_enemy_upgrade_tt: "Útočný bonus proti všem §Yčínským zemím§!: §G+10%§!\nPrůlomový bonus proti všem §Yčínským zemím§!: §G+10%§!"
+ PRC_add_the_internal_enemy_idea_upgrade_tt: "Upraví §Y$PRC_the_internal_enemy$§! o:\nÚtočný bonus proti všem §Yčínským zemím§!: §G+5%§!\nPrůlomový bonus proti všem §Yčínským zemím§!: §G+5%§!"
+ PRC_spread_world_revolution: "Šířit světovou revoluci"
+ PRC_urbanization_completed_timed_idea: "Urbanizace dokončena"
+ PRC_SOV_lend_lease_idea_1: "Lend-Lease od [SOV.GetName]"
+ PRC_SOV_lend_lease_idea_1_tt: "Toto platí pouze pokud má §Y[ROOT.GetNameWithFlag]§! nebo člen frakce §Ypozemní hranici§! s §Y[SOV.GetNameWithFlag]§! nebo členem jeho frakce"
+ PRC_to_supply_an_army_idea: "Zásobování armády"
+ PRC_to_equip_an_army: "Vybudování výzbroje armády"
+ PRC_the_party_builds_the_nation_timed_idea: "Rychlý pokrok"
+ PRC_peoples_bank_of_china: "Lidová banka [ROOT.GetName]"
+ PRC_publicity_department_of_central_committee: "Propagační oddělení Ústředního výboru Komunistické strany Číny"
+ PRC_sinochem: "Sinochem"
+ PRC_nanjing_wireless_electronics_plant: "Nankingský závod bezdrátové elektroniky"
+ PRC_china_state_construction_engineering_corporation: "Čínská státní stavební inženýrská korporace"
+ PRC_china_state_construction_engineering_corporation_civ_improved: "$PRC_china_state_construction_engineering_corporation$"
+ PRC_china_state_construction_engineering_corporation_mil_improved: "$PRC_china_state_construction_engineering_corporation$"
+ PRC_china_railway_construction_corporation: "Čínská železniční stavební korporace"
+ PRC_china_national_nuclear_corporation: "Čínská národní jaderná korporace"
+ PRC_first_tractor_company: "První traktorová společnost"
+ PRC_ordenance_bureau: "Zbrojní úřad"
+ PRC_huangyadong_arsenal: "Arzenál Chuang-jadong"
+ PRC_cmc_military_industry_bureau: "Úřad vojenského průmyslu Ústřední vojenské komise"
+ PRC_first_automative_works: "První automobilové závody"
+ PRC_factory_617: "Továrna 617"
+ PRC_peoples_aviation_company_of_china: "Lidová letecká společnost Číny"
+ PRC_shenyang_aircraft_corporation: "Letadlová korporace Šen-jang"
+ PRC_harbin_aircraft: "Letecký průmysl Char-pin"
+ PRC_shipbuilding_industry_bureau: "Úřad lodního průmyslu"
+ PRC_dalian_shipbuilding_company: "Loděnice Ta-lien"
+ PRC_guerilla_cells_active_1: "Zřízené partyzánské buňky"
+ PRC_guerilla_cells_active_1_desc: "Buňky nepřátelských partyzánů si vytvořily v tomto státu zázemí."
+ PRC_guerilla_cells_active_1_tt: "\n§Y$PRC_guerilla_cells_active_1$§! bude odstraněn, pokud má stát více než §G60.00%§! §YSíly poslušnosti§!"
+ PRC_guerilla_cells_active_2: "Aktivita partyzánských buněk"
+ PRC_guerilla_cells_active_2_desc: "Partyzánské buňky se v tomto státě nejen usadily, ale začaly i koordinované snahy o destabilizaci."
+ PRC_guerilla_cells_active_2_tt: "\n§Y$PRC_guerilla_cells_active_2$§! bude odstraněn, pokud má stát více než §G60.00%§! §YSíly poslušnosti§!"
+ PRC_anti_japanese_base: "Sabotážní kampaně"
+ PRC_anti_japanese_base_desc: "Partyzánští bojovníci se zde soustřeďují a aktivně sabotují infrastrukturu."
+ PRC_infiltrated_state_1: "Pokus o infiltraci"
+ PRC_infiltrated_state_2: "Rozsáhlá infiltrace"
+ PRC_infiltrated_state_3: "Úplná infiltrace"
+ PRC_infiltrated_state_3_tt: "§RTento stát přejde k [PRC.GetNameWithFlag], pokud mezi našimi zeměmi vypukne válka§!"
+ PRC_infiltrated_state_2_tt: "§YTento stát bude levnější pro [PRC.GetNameWithFlag] při mírové konferenci§!"
+ PRC_urbanization_state_modifier_bonus: "Pokrok urbanizace"
+ PRC_rural_development_state_modifier_bonus: "Rozvoj venkova"
+ PRC_probed_border_defenses: "Prověřené pohraniční obrany"
+ PRC_probed_border_defenses_victim: "Zaskočeni"
+ PRC_probed_border_defenses_victim_massive: "Chaotická reakce"
+ PRC_infiltrated_border_defenses: "Infiltrované pohraniční obrany"
+ PRC_sabotaged_border_defenses: "Sabotované pohraniční obrany"
+ PRC_approached_the_west_opinion: "Sblížení se Západem"
+ PRC_dixie_mission_opinion: "Mise Dixie"
+ PRC_deepened_communist_ties_opinion: "Prohloubená komunistická spolupráce"
+ PRC_approached_the_soviets_opinion: "Sblížení se Sověty"
+ PRC_soviet_technological_cooperation_opinion: "Sovětsko-čínská technická spolupráce"
+ CHI_modify_corruption_in_the_administration_tt: "Upraví §Y$CHI_corruption_in_the_administration$§! o:"
+ CHI_modify_reorganized_administration_tt: "Upraví §Y$CHI_reorganized_administration$§! o:"
+ CHI_modify_illicit_trade_tt: "Upraví §Y$CHI_illicit_trade$§! o:"
+ CHI_modify_inefficient_economy_tt: "Upraví §Y$CHI_inefficient_economy$§! o:"
+ CHI_modify_neglected_countryside_tt: "Upraví §Y$CHI_neglected_countryside$§! o:"
+ CHI_modify_corruption_in_the_armed_forces_tt: "Upraví §Y$CHI_corruption_in_the_armed_forces$§! o:"
+ CHI_modify_ROCAF_tt: "Upraví §Y$CHI_ROCAF$§! o:"
+ CHI_modify_ROCN_tt: "Upraví §Y$CHI_ROCN$§! o:"
+ CHI_modify_protracted_warfare_idea_tt: "Upraví §Y$CHI_protracted_warfare_idea$§! o:"
+ CHI_modify_decisive_battle_idea_tt: "Upraví §Y$CHI_decisive_battle_idea$§! o:"
+ CHI_modify_blue_shirt_society_tt: "Upraví §Y$CHI_blue_shirt_society$§! o:"
+ CHI_modify_gung_ho_idea_tt: "Upraví §Y$CHI_gung_ho_idea$§! o:"
+ CHI_modify_new_life_movement_tt: "Upraví §Y$CHI_new_life_movement$§! o:"
+ CHI_modify_soviet_support_tt: "Upraví §Y$CHI_soviet_support$§! o:"
+ CHI_modify_american_support_tt: "Upraví §Y$CHI_american_support$§! o:"
+ CHI_modify_declare_war_zone_tt: "Upraví §Y$CHI_declare_war_zone$§! o:"
+ CHI_the_political_tutelage_upgraded_dm: "Obnovená republika"
+ CHI_corruption_in_the_administration: "Korupce ve státní správě"
+ CHI_corruption_in_the_administration_desc: "Promazané kolečko se točí snáz, ale efektivitě se to nerovná. Několik jednotlivců má nepřiměřený vliv, který dopadá na celý stát."
+ CHI_reorganized_administration: "Reorganizovaná správa"
+ CHI_reorganized_administration_desc: "Promazali jsme kolečka naší správy, aby se točila efektivněji, odstraněním překážek, které nám stály v cestě."
+ CHI_switch_administration_modifiers_tt: "Zlepší §Y$CHI_corruption_in_the_administration$§! na §Y$CHI_reorganized_administration$§!"
+ CHI_illicit_trade: "Nelegální obchod"
+ CHI_illicit_trade_desc: "Podzemní trhy a pašerácké sítě podkopávají autoritu vlády a narušují ekonomickou stabilitu. Snaha o potírání těchto aktivit je nesourodá a vliv nelegálního obchodu nadále brání národní jednotě a reformám."
+ CHI_inefficient_economy: "Nefektivní hospodářství"
+ CHI_inefficient_economy_desc: "Naše industrializace je v plenkách, protože předchozí vlády nepodporovaly růst. Přesto to můžeme řešit vnitřními i vnějšími opatřeními — náš potenciál je skutečně neomezený."
+ CHI_neglected_countryside: "Zanedbaný venkov"
+ CHI_neglected_countryside_desc: "Nankingské desetiletí přineslo obrovské změny naší společnosti — avšak převážně ve městech. Venkov byl opomenut a může se stát živnou půdou radikálních myšlenek."
+ CHI_corruption_in_the_armed_forces: "Korupce v ozbrojených silách"
+ CHI_corruption_in_the_armed_forces_desc: "Národní revoluční armáda vznikla z řad strany a nese s sebou její břemena. Nepotismus, úplatky a zpronevěry jsou rozšířené a pokud máme zvítězit, musíme tyto nešvary vymýtit."
+ CHI_blue_shirt_society: "Modrokošilá společnost"
+ CHI_blue_shirt_society_desc: "Společnost pro praktické uplatňování Tří lidových principů, známá jako Modré košile, osvětluje naši zvláštní cestu a udeří na ty, kteří se jí staví do cesty."
+ CHI_ROCAF: "Komise pro letecké záležitosti"
+ CHI_ROCAF_desc: "Od svého vzniku v posledním desetiletí je Komise pro letecké záležitosti organizací, skrze kterou získáme kontrolu nad naším nebem. Ačkoli zatím nejde o centralizované letectvo, pokrok pokračuje a skrze vytrvalost uspějeme."
+ CHI_an_appropriate_design_tt: "[GetAppropriateDesign]"
+ CHI_appropriate_design_offensive_idea: "Ofenzivní koncept"
+ CHI_appropriate_design_defensive_idea: "Defenzivní koncept"
+ CHI_protracted_warfare_idea: "Válka se zdržením"
+ CHI_protracted_warfare_idea_desc: "Některé armády věří v rychlý úder, který rozhodne vše. My však chápeme, že pokud jej znemožníme, vůle nepřítele se zlomí. Držením obranného postoje a vytrváním každý vetřelec bude odražen."
+ CHI_decisive_battle_idea: "Rozhodující bitva"
+ CHI_decisive_battle_idea_desc: "Není případu, kdy by dlouhá válka přinesla zemi prospěch — proto musíme zvítězit rychle nalezením místa, kde udeříme. Úder bude rychlý a dopadne tvrdě."
+ CHI_gung_ho_idea: "Bejžistické hnutí Gung-ho"
+ CHI_gung_ho_idea_desc: "Jedním zdrojem, který máme, je lid — a zorganizovali jsme jej do malých průmyslových družstev. Tyto organizace vzniklé zdola nám dají ekonomickou výhodu v probíhajícím konfliktu."
+ CHI_ROCN: "Námořnictvo Čínské republiky"
+ CHI_ROCN_desc: "Jeho tradice sahá až do dynastie Čching. Ústřední námořnictvo, které se po Severním tažení znovu sladilo s Kuomintangem, nám nyní umožní promítat sílu mimo pevninu."
+ CHI_ROCN_tt: "[GetEarlyDetectionsTooltip][GetDefendOurCoastsTooltip][GetConcertedPushIdeaTooltip][GetStrikeFromBelowTooltip][GetLongRangeTooltip][GetCoastalDefenceTooltip][GetMobileBasesTooltip][GetLocalAlloyCommissionTooltip]"
+ CHI_early_detections_hidden: "$CHI_early_detections$"
+ CHI_defend_our_coasts_hidden: "$CHI_defend_our_coasts$"
+ CHI_concerted_push_idea: "$CHI_concerted_push$"
+ CHI_chinese_economic_support_idea: "[CHI.GetName] - hospodářská podpora"
+ CHI_chinese_economic_support_idea_tt: "[?CHI.CHI_economic_support_cic_amount|Y0] přebytečné hospodářské kapacity měsíčně"
+ CHI_chinese_economic_support_idea_desc: "Získáváme hospodářskou podporu od [CHI.GetNameDef], aby posílila naše průmysly — avšak výměnou odevzdáváme část své suverenity."
+ CHI_chinese_industrial_support_idea: "[CHI.GetName] - průmyslová podpora"
+ CHI_chinese_industrial_support_idea_desc: "Získáváme průmyslovou podporu od [CHI.GetNameDef], abychom posílili naše odvětví — ale opět za cenu naší suverenity."
+ CHI_strike_from_below_hidden: "$CHI_strike_from_below$"
+ CHI_long_range_hidden: "$CHI_long_range$"
+ CHI_coastal_defence_hidden: "$CHI_coastal_defence$"
+ CHI_mobile_bases_hidden: "$CHI_mobile_bases$"
+ CHI_local_alloy_commission_hidden: "$CHI_local_alloy_commission$"
+ CHI_empowered_nbis: "Posílená NBIS"
+ CHI_empowered_nbis_desc: "Náš zpravodajský aparát NBIS, známý také jako Ťün-tchung, dostal mandát odhalovat všechny nepřátele — domácí i zahraniční."
+ CHI_tongzi_jun: "Tung-c' ťün"
+ CHI_tongzi_jun_desc: "Naše mládežnické oddíly povedou národ k vítězství a dále do budoucnosti."
+ CHI_baojia: "Pao-ťia"
+ CHI_baojia_desc: "Tato decentralizovaná organizace nám umožní růst, neboť nábor bude v rukou místních vedoucích — pao-čangů."
+ CHI_soviet_support: "Sovětská podpora"
+ CHI_soviet_support_dm_tt: "[GetBaseSovietTooltip][GetFacilitateOperationZetTooltip][GetNorthwestHighwayTooltip][GetSellLendLeaseSovietTooltip]"
+ CHI_sell_lend_lease_soviet_tt: "[?CHI_soviet_support_cic_amount|Y0] přebytečné hospodářské kapacity měsíčně."
+ CHI_facilitate_operation_zet_tt: "\n  [?CHI_facilitate_operation_zet_fighter|Y0] jednotek $small_plane_airframe$ \n  [?CHI_facilitate_operation_zet_bomber|Y0] jednotek $medium_plane_airframe$"
+ CHI_the_northwest_highway_tt: "\n  [?CHI_facilitate_the_northwest_highway_support_equipment|Y0] jednotek $support_equipment$ \n  [?CHI_facilitate_the_northwest_highway_motorized_equipment|Y0] jednotek $motorized_equipment$"
+ CHI_delivery_tt: "které budou doručeny každý měsíc."
+ idea_CHI_central_government_minquan_pressure_democratic: "Uplatnění principu Min-čchüan"
+ CHI_american_aid: "Pomoc Čínské republice"
+ CHI_USA_aid_for_republic: "$CHI_american_aid$"
+ CHI_broke_the_nine_powers_treaty_opm: "Porušili Dohodu devíti mocností"
+ CHI_electrification_and_mass_education_modifier: "Elektrifikace a masové vzdělávání"
+ CHI_infiltrated_state_1: "Přítomnost místních buněk"
+ CHI_infiltrated_state_2: "Ustavené místní buňky"
+ CHI_infiltrated_state_3: "Zpevněné místní buňky"
+ CHI_three_princpals_idea: "Tři lidové principy"
+ CHI_three_princpals_idea_desc: "Zakladatel republiky, doktor Sunjatsen, ustanovil tři základní principy, jež by ji měly formovat: Min-cu, Min-čchüan a Min-šeng — nacionalismus, demokracii a sociální blahobyt. Musíme usilovat o jejich naplnění."
+ CHI_three_princpals_reorganized_idea: "Tři principy státu"
+ CHI_three_princpals_reorganized_idea_desc: "Zakladatel republiky, doktor Sunjatsen, ustanovil tři základní principy: Min-cu, Min-čchüan a Min-šeng. Ač nejsou zcela v souladu s naším pojetím tridémismu, měli bychom je využít ve svůj prospěch."
+ CHI_tewu_idea: "TEWU"
+ CHI_academy_of_sciences_dm: "Čínská akademie věd"
+ CHI_american_support: "Americká podpora"
+ CHI_american_support_dm_tt: "[?CHI_american_support_cic_amount|Y0] přebytečné hospodářské kapacity měsíčně\n[GetHanoiRouteTooltip][GetBurmaRoadTooltip][GetHumpTooltip]"
+ CHI_american_support_reconstruction_dm_tt: "[?CHI_american_reconstruction_support_cic_amount|Y0] přebytečné hospodářské kapacity měsíčně"
+ CHI_foreign_economic_support: "Zahraniční hospodářská podpora"
+ CHI_foreign_economic_support_dm_tt: "[?CHI_foreign_economic_support_cic_amount|Y0] přebytečné hospodářské kapacity měsíčně"
+ CHI_american_reconstruction_support: "Sino-americká komise pro rekonstrukci venkova"
+ CHI_american_support_equipment_tt: "\nPřidá [USA.GetAdjective] vybavení do zásob:"
+ CHI_the_hanoi_route_tt: "\n  [?CHI_the_hanoi_route_support_equipment|Y0] jednotek $support_equipment$"
+ CHI_the_burma_road_tt: "\n  [?CHI_the_burma_road_motorized_equipment|Y0] jednotek $motorized_equipment$"
+ CHI_the_hump_sea_tt: "\n  [?CHI_the_hump_sea_infantry_equipment|Y0] jednotek $infantry_equipment$"
+ CHI_soviet_support_hidden: "Zaručené dodávky"
+ CHI_operation_zet_hidden: "$CHI_facilitate_operation_zet$"
+ CHI_northwest_highway_hidden: "$CHI_the_northwest_highway$"
+ CHI_the_hanoi_route_hidden: "$CHI_the_hanoi_route$"
+ CHI_the_burma_road_hidden: "$CHI_the_burma_road$"
+ CHI_the_hump_sea_hidden: "$CHI_the_hump_sea$"
+ idea_CHI_troop_inspection: "Inspekce vojsk"
+ idea_CHI_professional_army: "Profesionalizovaná armáda"
+ idea_CHI_popular_army: "Lidová armáda"
+ idea_CHI_production_efforts: "Národní úsilí o produkci"
+ idea_CHI_central_government_integration_pressure: "Nátlak na začlenění do centrální vlády"
+ idea_CHI_central_government_integration_pressure_desc: "Ústřední vláda vyvíjí tlak na naše vedení, aby se plně začlenilo do její hierarchie, což by fakticky znamenalo vzdát se všech vládních pravomocí."
+ idea_CHI_ban_immoral_entertainment: "Zakázána nemravná zábava"
+ idea_CHI_expropriate_industrialists: "Vyvlastnění industrialistů"
+ idea_CHI_opposition_censured: "Opozice cenzurována"
+ idea_CHI_sympathetic_judges: "Sympatizující soudci jmenovaní centrální vládou"
+ idea_CHI_rooting_out_hardliners: "Vykořenění tvrdé linie"
+ idea_CHI_stabilized_government: "Stabilizovaná vláda"
+ idea_CHI_punish_the_signatories: "$CHI_punish_the_signatories$"
+ idea_CHI_a_new_chapter: "Nová kapitola"
+ idea_CHI_a_new_middle_kingdom: "Nové Střední království"
+ idea_CHI_cradle_of_civilization: "Kolébka civilizace"
+ idea_CHI_eternal_revolution: "Začátek věčné revoluce"
+ idea_CHI_cult_of_shek: "Kult Čankajška"
+ idea_CHI_cult_of_shek_desc: "I po smrti rezonuje vliv Čankajška skrze nejvyšší vrstvy čínské administrativy jako maják odporu a vzdoru vůči cizí agresi."
+ idea_CHI_our_place: "Naše místo"
+ idea_CHI_our_place_desc: "Naše členství ve [ROOT.GetFactionName] nás posiluje, ale měli bychom usilovat o vedení. Je to jednoduše naše právo."
+ CHI_whampoa_military_academy_spirit: "Nadvláda Chuang-pchu"
+ CHI_whampoa_military_academy_spirit_desc: "Vojenská akademie Kuomintangu v Chuang-pchu drží moc nad novými rekruty a povyšováním v armádě. Ač není zcela neefektivní, obsahuje značnou míru institucionalizované korupce."
+ CHI_the_political_tutelage_dm: "Politická kuratela"
+ CHI_the_political_tutelage_dm_desc: "Nastal čas naplno uvést v život myšlenky Sunjatsena, zvýšit gramotnost a politické uvědomění čínského lidu a umožnit vznik a přežití republiky na naší půdě."
+ CHI_modify_CHI_the_political_tutelage_dm_tt: "Upraví §Y$CHI_the_political_tutelage_dm$§! o:"
+ CHI_modify_CHI_the_political_tutelage_upgraded_dm_tt: "Upraví §Y$CHI_the_political_tutelage_upgraded_dm$§! o:"
+ CHI_saco: "SACO"
+ CHI_saco_desc: "Čínsko-americká kooperativní organizace je společná skupina zaměřená na sdílení zpravodajských informací, kde se můžeme vzájemně učit."
+ CHI_women_in_the_war_effort_idea: "Ženy v národním boji"
+ CHI_women_in_the_war_effort_idea_desc: "Modernita není výsadou mužů a ženy v naší zemi povstaly a zaujaly své právoplatné místo v ozbrojených silách a vlastních praporech."
+ CHI_chinese_womens_national_war_relief_society: "Čínská ženská národní společnost válečné pomoci"
+ CHI_chinese_womens_national_war_relief_society_desc: "Národ je silný jen tak, jak silný je jeho nejslabší článek — a tato společnost usiluje o jeho posílení."
+ CHI_local_rural_reconstruction_modifier: "Iniciativy Hnutí za rekonstrukci venkova"
+ CHI_new_culture_movement_idea: "Hnutí nové kultury"
+ CHI_asian_bastion_of_liberty_idea: "Asijská bašta svobody"
+ CHI_republican_agitation: "Republikánská agitace"
+ CHI_republican_agitation_tt: "§RPokud podpora §YDemokratů§! přesáhne 40 %, vypukne občanská válka!§!"
+ CHI_correcting_a_hisotrical_wrong_idea: "Napravení historické křivdy"
+ CHI_liberated_by_democratic_china: "Osvobozeni [CHI.GetNameDefCap]"
+ CHI_liberated_by_democratic_china_desc: "Naše země konečně získala zaslouženou nezávislost na kolonizátorech. S pomocí [CHI.GetNameDef] jsme opět svobodní. Jejich činy jsou tak přesvědčivé, že komunistické myšlenky, jež hlásají, začínají zapouštět kořeny mezi naším lidem."
+ CHI_declared_war_zone_idea: "Vyhlášená válečná zóna"
+ CHI_bog_defensive_modifier: "Koordinovaná obrana"
+ CHI_shanghai_international_settlement: "Šanghajská mezinárodní osada"
+ CHI_shanghai_international_settlement_desc: "Cizí mocnosti si vynutily kontrolu skrze smlouvy činící Šanghaj 'otevřenými dveřmi'."
+ add_cic_monthly_tt: "$RIGHT|+=0$ přebytečné hospodářské kapacity"
+ CHI_national_resource_commission: "Národní komise pro zdroje"
+ CHI_national_resource_commission_desc: "$CHI_mining_commission_desc$"
+ CHI_china_national_aviation_corporation: "Čínská národní letecká korporace"
+ CHI_china_merchant_group: "Čínská obchodní skupina"
+ CHI_shanghai_power_company: "Šanghajská energetická společnost"
+ CHI_bank_of_china: "Bank of China"
+ CHI_yongli_chemical_industries: "Yongli Chemical Industries"
+ CHI_camco_SEA: "$CHI_camco_1$"
+ CHI_sinaw: "$CHI_sinaw_organization_sea$"
+ CHI_shanghai_arsenal_designer: "$CHI_shanghai_arsenal$"
+ CHI_neglected_countryside_fake_ns: "$CHI_neglected_countryside$"
+ CHI_corruption_in_the_armed_forces_fake_ns: "$CHI_corruption_in_the_armed_forces$"
+ CHI_nine_power_treaty_sea_fake_ns: "$CHI_nine_power_treaty_sea$"
+ CHI_corruption_in_the_administration_fake_ns: "$CHI_corruption_in_the_administration$"
+ CHI_protracted_warfare_idea_fake_ns: "$CHI_protracted_warfare_idea$"
+ CHI_gung_ho_idea_fake_ns: "$CHI_gung_ho_idea$"
+ PHI_defense_strategy_dynamic_modifier: "Obranná strategie"
+ PHI_defense_strategy_dynamic_modifier_desc: "Jako souostroví jsou Filipíny přirozeně dobře bránitelné. To ale neznamená, že bychom neměli útočníkovi připravit další překážky."
+ PHI_defense_strategy_dynamic_modifier_tt: "Obranná strategie"
+ PHI_modify_defense_strategy_dynamic_modifier_tt: "Upraví §Y$PHI_defense_strategy_dynamic_modifier_tt$§! o:"
+ PHI_add_defense_strategy_dynamic_modifier_tt: "Přidá §Y$PHI_defense_strategy_dynamic_modifier_tt$§!, což uděluje:\n"
+ PHI_modify_economy_dynamic_modifier_tt: "[GetPHIEconomicModifier]"
+ PHI_the_great_depression_dynamic_modifier: "Velká hospodářská krize"
+ PHI_the_great_depression_dynamic_modifier_desc: "Velká hospodářská krize silně zasáhla Spojené státy a jako jejich podřízený stát jsme nebyli ušetřeni následků jejího finančního rozvratu."
+ PHI_modify_the_great_depression_dynamic_modifier_tt: "Upraví §Y$PHI_the_great_depression_dynamic_modifier$§! o:"
+ PHI_the_great_depression_temp_construction_speed: "Dočasný stavební boom"
+ PHI_ruling_ideology_ideology_drift_tt: "Jakýkoli ideologický drift se bude slaďovat s vládní stranou"
+ PHI_ruling_ideology_ideology_drift_tt_2: " Denní drift vládní strany: $RIGHT|+=2$"
+ PHI_shaken_economy_dynamic_modifier: "Oslabená ekonomika"
+ PHI_shaken_economy_dynamic_modifier_desc: "Dopady Velké hospodářské krize se v naší zemi stále ozývají a ekonomika zůstává otřesená a zranitelná vůči šokům. Ne vše je však špatné — na obzoru jsou nejslabší náznaky zotavení."
+ PHI_replace_depression_dynamic_modifier_tt: "Nahradí §Y$PHI_the_great_depression_dynamic_modifier$§! za §Y$PHI_shaken_economy_dynamic_modifier$§!\nEfektivní změna:"
+ PHI_replace_depression_dynamic_modifier_no_modifiers_tt: "Nahradí §Y$PHI_the_great_depression_dynamic_modifier$§! za §Y$PHI_shaken_economy_dynamic_modifier$§!"
+ PHI_modify_shaken_economy_dynamic_modifier_tt: "Upraví §Y$PHI_shaken_economy_dynamic_modifier$§! o:"
+ PHI_recovering_economy_dynamic_modifier: "Zotavující se ekonomika"
+ PHI_recovering_economy_dynamic_modifier_desc: "Naše ekonomika se začala vzpamatovávat z předchozích finančních potíží a investice opět probíhají naplno. Ačkoli se skutečný růst teprve projeví, jsme alespoň přibližně tam, kde jsme byli před krizí."
+ PHI_replace_shaken_dynamic_modifier_tt: "Nahradí §Y$PHI_shaken_economy_dynamic_modifier$§! za §Y$PHI_recovering_economy_dynamic_modifier$§!\nEfektivní změna:"
+ PHI_modify_recovering_economy_dynamic_modifier_tt: "Upraví §Y$PHI_recovering_economy_dynamic_modifier$§! o:"
+ PHI_economic_growth_dynamic_modifier: "Hospodářský růst"
+ PHI_economic_growth_dynamic_modifier_desc: "Konečně vidíme skutečný růst: malé podniky i podnikavý duch se ujaly vedení a směřují národ k prosperitě."
+ PHI_modify_economic_recovery_dynamic_modifier_tt: "Upraví §Y$PHI_economic_growth_dynamic_modifier$§! o:"
+ PHI_replace_economic_dynamic_modifier_tt: "Nahradí §Y$PHI_recovering_economy_dynamic_modifier$§! za §Y$PHI_economic_growth_dynamic_modifier$§!\nEfektivní změna:\nLimit napětí pro vstup do frakce: §G-[?PHI_the_great_depression_join_faction_tension|%0]§!"
+ PHI_pearl_of_the_orient_dynamic_modifier: "$PHI_pearl_of_the_orient_seas$"
+ PHI_pearl_of_the_orient_dynamic_modifier_desc: "Naše ekonomika doslova vzkvétá. Osvobozeni od koloniální nadvlády můžeme konečně činit vlastní rozhodnutí a ukazovat světu, jaká prosperita je v jihovýchodní Asii možná."
+ PHI_remove_economic_recovery_dynamic_modifier_tt: "Nahradí §Y$PHI_economic_growth_dynamic_modifier$§! za §Y$PHI_pearl_of_the_orient_dynamic_modifier$§!\n Efektivní změna:"
+ PHI_modify_pearl_of_the_orient_dynamic_modifier_tt: "Upraví §Y$PHI_pearl_of_the_orient_dynamic_modifier$§! o:"
+ PHI_philippine_army_dynamic_modifier: "Filipínská armáda"
+ PHI_philippine_army_dynamic_modifier_desc: "Pozemní síly Filipín, odpovědné především za obranu domovských ostrovů. Původně vzniklé z několika průzkumných jednotek, stále rostou."
+ PHI_philippine_army_dynamic_modifier_tt: "Upraví §Y$PHI_philippine_army_dynamic_modifier$§! o:"
+ PHI_philippine_rule_cant_volunteer: "Může poslat dobrovolníky: §RNe§!"
+ PHI_philippine_army_air_corps_dynamic_modifier: "Letecký sbor filipínské armády"
+ PHI_philippine_army_air_corps_dynamic_modifier_desc: "Přestože je tento druh vojska na Filipínách nový, touha ovládnout oblohu tím nijak neutrpěla."
+ PHI_philippine_army_air_corps_dynamic_modifier_tt: "Upraví §Y$PHI_philippine_army_air_corps_dynamic_modifier$§! o:"
+ PHI_american_interference_dynamic_modifier: "Americké zasahování"
+ PHI_american_interference_dynamic_modifier_desc: "Cizí mocnost má nad naší zemí značný vliv. Pokud se máme skutečně cítit jako nezávislý stát, musíme toto přehnané ovládání prolomit."
+ PHI_american_interference_dynamic_modifier_tt: "Upraví §Y$PHI_american_interference_dynamic_modifier$§! o:"
+ PHI_island_nation_dynamic_modifier: "Ostrovní národ"
+ PHI_island_nation_dynamic_modifier_desc: "Filipíny jsou národem ostrovů, a naši lidé si tak přirozeně vytvořili silný vztah k moři."
+ PHI_island_nation_dynamic_modifier_tt: "Upraví §Y$PHI_island_nation_dynamic_modifier$§! o"
+ PHI_asian_trade_connections_dynamic_modifier: "Asijské obchodní vazby"
+ PHI_asian_trade_connections_dynamic_modifier_desc: "Obchod byl po staletí základem filipínské ekonomiky — neměli bychom váhat sklízet jeho výhody."
+ PHI_asian_trade_connections_dynamic_modifier_tt: "[GetAsianTradePartnersSiam] \n[GetAsianTradePartnersMalaya] \n[GetAsianTradePartnersDutchEastIndia]"
+ PHI_asian_trade_connections_siam: "Sijamská obchodní dohoda"
+ PHI_asian_trade_connections_malaya: "Malajská obchodní dohoda"
+ PHI_asian_trade_connections_dutch_east_india: "Obchodní dohoda s Nizozemskou Východní Indií"
+ PHI_japanese_investors_mod: "Japonští investoři"
+ PHI_japanese_trade_connections: "Japonské obchodní vazby"
+ PHI_preemptive_strikes_dynamic_modifier: "Preventivní údery"
+ PHI_preemptive_strikes_dynamic_modifier_desc: "Existuje jen jeden způsob, jak zajistit, že nebudeme napadeni — napadnout všechny ostatní jako první!"
+ PHI_preemptive_strikes_dynamic_modifier_tt: "Upraví §Y$PHI_preemptive_strikes_dynamic_modifier$§! o:"
+ PHI_philippine_resistance_movement_dynamic_modifier: "Filipínský odboj"
+ PHI_philippine_resistance_movement_dynamic_modifier_tt: "Upraví §Y$PHI_philippine_resistance_movement_dynamic_modifier$§! o:"
+ PHI_strong_guerrilla_presence: "Silná partyzánská přítomnost"
+ PHI_no_gtd_concrete_battleship: "$PHI_the_concrete_battleship$"
+ PHI_investment_plan_1_building_bonus: "Investice do státní infrastruktury"
+ PHI_maritime_communism_idea: "Námořní komunismus"
+ PHI_struggle_conference_idea: "Konference boje"
+ PHI_encourage_chinese_immigration_idea: "Podpora čínské imigrace"
+ PHI_asian_trade_connections: "Asijské obchodní vazby"
+ PHI_cobalt_supremacy_idea: "Kobaltová nadvláda"
+ PHI_submarine_supply: "Zásobování ponorkami"
+ PHI_add_bell_trade_act_opinion_modifier_tt: "Obchodní vztahy s §Y[ROOT.GetName]§! se změnily o §G+30§!"
+ PHI_rehabilitation_finance_corporation_idea: "$PHI_rehabilitation_finance_corporation$"
+ PHI_development_bank: "Rozvojová banka Filipín"
+ PHI_dockworker_infiltration: "Spolupráce s přístavními dělníky"
+ PHI_unified_naval_command: "Sjednocené námořní velení"
+ PHI_unified_naval_command_desc: "Válečné plány [USA.GetNameDef] byly z iniciativy [PHI.GetAdjective] využity jako základ pro koordinaci námořnictev v rámci [ROOT.GetFactionName]."
+ PHI_government_reform: "Vládní reforma"
+ PHI_mosquito_fleet_ns: "Komáří flotila"
+ PHI_devil_boats_ns: "Ďábelské čluny"
+ PHI_coastal_defense_ships_ns: "$ROM_coastal_defense_ships$"
+ PHI_volunteers_to_nationalists: "Dobrovolníci pro nacionalistické Španělsko"
+ PHI_volunteers_to_republicans: "Dobrovolníci pro republikánské Španělsko"
+ PHI_ties_with_nationalist_spain: "Vztahy s nacionalistickým Španělskem"
+ PHI_ties_with_republican_spain: "Vztahy s republikánským Španělskem"
+ PHI_ties_with_carlist_spain: "Vztahy s karlistickým Španělskem"
+ PHI_ties_with_anarchist_spain: "Vztahy s anarchistickým Španělskem"
+ PHI_reignited_independence_struggle: "Znovu zažehnutý boj za nezávislost"
+ considered_as_extremist_for_war_economy_tt: "§Y[ROOT.GetNameDefCap]§! bude mít stejné uvolněné podmínky pro §Y$war_economy$§! jako §YFašistické§!/§YKomunistické§! režimy"
+ considered_as_extremist_for_manpower_laws_tt: "§Y[ROOT.GetNameDefCap]§! bude mít stejné uvolněné podmínky pro §Y$extensive_conscription$§! a §Y$service_by_requirement$§! jako §YFašistické§!/§YKomunistické§! režimy"
+ PHI_integration_efforts: "Úsilí o integraci"
+ PHI_government_filipinization_surrender_limit_timed_idea: "Filipinizace"
+ PHI_petition_the_supreme_court_communism_timed_idea: "Komunistický nátlak"
+ PHI_recognize_unions_timed_idea: "Uznání odborů - spokojení pracovníci"
+ PHI_subsidies_timed_idea: "Subvence"
+ PHI_sakdalistas_timed_idea: "Obnova Sakdalistů"
+ PHI_slippery_slope_timed_idea: "Kluzký svah"
+ PHI_restore_order_timed_idea: "Obnovení pořádku"
+ PHI_japanese_investment: "[JAP.GetAdjective] investice"
+ PHI_san_miguel_company: "San Miguel Brewery"
+ PHI_san_miguel_improved_tt: "Účinky §Y$PHI_san_miguel_company$§! (průmyslový koncern) jsou zlepšeny"
+ PHI_south_seas_development_company: "South Seas Development Company"
+ PHI_south_seas_development_company_tt: "§Y$PHI_south_seas_development_company$§!, což uděluje:\nRychlost průmyslového výzkumu: §G+20%§!\nPodíl továren na spotřební zboží: §Y-5.0%§!"
+ PHI_manila_railroad_company: "Manila Railroad Company"
+ PHI_philippine_long_distance_telephone_company: "Philippine Long Distance Telephone Company"
+ PHI_benguet_corporation: "Benguet Corporation"
+ PHI_benguet_corporation_improved_tt: "Účinky §Y$PHI_benguet_corporation$§! (průmyslový koncern) jsou zlepšeny"
+ PHI_marsman_and_company: "Marsman and Company"
+ PHI_marsman_and_company_improved_tt: "Účinky §Y$PHI_marsman_and_company$§! (průmyslový koncern) jsou zlepšeny"
+ PHI_compania_maritima_de_cebu: "Compañía Marítima de Cebú"
+ PHI_japan_aligned_ideology: "Ideologie sladěná s Japonskem"
+ PHI_japan_aligned_ideology_tt: "Sladit se s aktuálně vládnoucí stranou v Japonsku"
+ PHI_japan_aligned_ideology_improved_tt: "Upraví §Y$PHI_japan_aligned_ideology$§! o:"
+ PHI_clock_tt: "Zrychlené zaměření jsou označeny malou ikonou hodin."
+ PHI_reduce_national_defense_act_cost_tt: "Plnění zaměření v liniích §YSladit se s USA§! nebo §YSladit se s Japonskem§! sníží dobu plnění tohoto zaměření až na minimum 35 dní."
+ PHI_convoys_for_consumer_goods_idea: "Prodej konvojů na civilním trhu"
+ PHI_selling_convoys_fake_modifier_tt:0 "§Y2§! mimo-mapové §Y$industrial_complex$§!"
+ PHI_recently_broke_USA_alliance: "Nedávno přerušena aliance s @USA§Y[USA.GetName]§!"
+ PHI_the_great_depression_ns_fake: "Velká hospodářská krize"
+ PHI_the_great_depression_ns_fake_tt: "Denní politická síla: §R0.75%§! \nEfektivita získávání surovin: §R-25%§! \nPodíl továren na spotřební zboží: §Y50%§! \nRychlost výstavby: §R-25%§! \nLimit napětí pro vstup do frakce: §R+100%§!"
+ PHI_philippine_army_ns_fake: "Filipínská armáda"
+ PHI_philippine_army_ns_fake_tt: "Zisk armádních zkušeností: §R-80%§! \nFaktor branné populace: §R-50%§! \nVýkon továren: §R-90%§! \nVýkon loděnic: §R-50%§! \nVýcviková doba: §R+40%§! \nDenní zisk velitelské síly (násobitel): §R-50%§!"
+ PHI_island_nation_ns_fake: "Ostrovní národ"
+ PHI_island_nation_ns_fake_tt: "Rychlost konvojů při ústupu: §G+15%§! \nViditelnost: §G-5.00%§!"
+ CHI_repudiated_nine_power_treaty_no_bba: "Odmítli Dohodu devíti mocností"
+ CHI_repudiated_nine_power_treaty: "$CHI_repudiated_nine_power_treaty_no_bba$"
+ PRC_tsr_warlord_peoples_liberation_army: "Lidová osvobozenecká armáda"
+ alternate_political_infiltrated_opposition: "Podvratná opozice"
+ alternate_political_dockworker_strike: "Stávka přístavních dělníků"
+ alternate_political_dockworker_strike_demands_met: "Vyhověno požadavkům stávkujících"
+ alternate_political_corruption_exposed: "Odhalený korupční skandál"
+ alternate_political_major_protest: "Masové protesty"
+ SOV_cooperation_with_sinkiang: "Spolupráce se Sin-ťiangem"
+ failed_revolutionaries: "Neúspěšní revolucionáři"
+ criticized_our_intervention_opm: "Kritizovali náš zásah ve Sin-ťiangu"
+ turned_a_blind_eye_opm: "Přivřeli oči"
+ tsr_fake_china_opm: "Domnělá vláda"
+ CHI_cooperating_with_republicans_dynamic_modifier: "Spolupráce s republikánskou vládou"
+ tsr_anti_soviet_government_opm: "Otočili se proti nám"
+ tsr_pro_soviet_government_opm: "Pro-sovětská vláda"
+ CHI_warlord_army_dynamic_modifier: "[ROOT.GetAdjective] armáda"
+ add_warlord_army_tt: "Přidá §Y$CHI_warlord_army_dynamic_modifier$§!, což uděluje:\n"
+ modify_warlord_army_tt: "Upraví §Y$CHI_warlord_army_dynamic_modifier$§! o:"
+ XSM_the_military_governor_dynamic_modifier: "Vojenský guvernér"
+ add_military_governor_tt: "Přidá §Y$XSM_the_military_governor_dynamic_modifier$§!, což uděluje:\n"
+ modify_military_governor_tt: "Upraví §Y$XSM_the_military_governor_dynamic_modifier$§! o:"
+ MAN_invite_japanese_investors_tt: "Dokončil zaměření §Y$MAN_invite_japanese_investors$§!"
+ MAN_expand_the_railways_tt: "Dokončil zaměření §Y$MAN_expand_the_railways$§!"
+ MAN_manchukuo_film_association_tt: "Dokončil zaměření §Y$MAN_obedience$§!"
+ MAN_manchukuo_film_association_2_tt: "Dokončil zaměření §Y$MAN_reform_the_civil_service$§!"
+ MAN_mamc_tt: "Dokončil zaměření §Y$MAN_mamc$§!"
+ MAN_pacify_the_countryside_tt: "Dokončil zaměření §Y$MAN_pacify_the_countryside$§!"
+ MAN_bolster_nationalism_tt: "Dokončil zaměření §Y$MAN_bolster_nationalism$§!"
+ MAN_not_assertiveness_tt: "Nedokončil zaměření §Y$MAN_assertiveness$§!"
+ MAN_independence_war_tt: "Dokončil zaměření §Y$MAN_independence_war$§!"
+ MAN_local_arms_procurement_tt: "Dokončil zaměření §Y$MAN_local_arms_procurement$§!"
+ MAN_purge_the_general_affairs_council_tt: "Dokončil zaměření §Y$MAN_purge_the_general_affairs_council$§!"
+ MAN_nissan: "Nissan"
+ MAN_mangyo: "Mangjó"
+ MAN_state_shintoism_dm: "Státní šintóismus"
+ MAN_add_state_shinotism_modifier_tt: "Přidá §Y$MAN_state_shintoism_dm$§!, což uděluje:\n"
+ MAN_modify_state_shinotism_modifier_tt: "Upraví §Y$MAN_state_shintoism_dm$§! o:"
+ SIC_add_sichuan_clique_modifier_tt: "Přidá §Y$SIC_sichuan_clique_dynamic_modifier$§!, což uděluje:\n"
+ SIC_modify_sichuan_clique_modifier_tt: "Upraví §Y$SIC_sichuan_clique_dynamic_modifier$§! o:"
+ SIC_sichuan_clique_dynamic_modifier: "S'-čchuan-klicka"
+ tsr_bandit_suppresion_opm: "Potlačení banditů"
+ tsr_pro_soviet_stance_opm: "Pro-sovětský postoj"
+ tsr_untrustworthy_ally_opm: "Nespolehlivý spojenec"
+ XIC_inlux_of_funds_for_the_communists_idea: "Financování od Čanga Süe-lianga"
+ tsr_rebellious_warlord_opm: "Vzpourou posedlý militarista"
+ tsr_refused_our_relocation: "Odmítli náš požadavek na přesídlení"
+ XIC_new_fengtian_zhili_army_idea: "Nová fengtchiansko-č'-liská armáda"
+ SIK_influx_of_soviet_supplies: "Příliv sovětských zásob"
+ KHM_confiscated_gold: "Zabavené zlato Ma Chu-šana"
+ CHI_tsr_reorganized_government_idea: "Reorganizovaná národní vláda"
+ RNG_state_shintoism_dm: "Státní šintóismus"
+ RNG_add_state_shinotism_modifier_tt: "Přidá §Y$RNG_state_shintoism_dm$§!, což uděluje:\n"
+ RNG_modify_state_shinotism_modifier_tt: "Upraví §Y$RNG_state_shintoism_dm$§! o:"
+ CHI_tsr_low_legitimacy: "Nízká legitimita"
+ CHI_tsr_low_legitimacy_4: "Legitimní dynastie"
+ CHI_tsr_a_new_empire_idea: "Nová říše"
+ SIK_soviet_military_cooperation: "Sovětská vojenská spolupráce"
+ SIK_battle_for_sinkiang: "Bitva o Sin-ťiang"
+ SIK_battle_for_sinkiang_desc: "S vojenským guvernérem na severu a Novou 36. divizí na jihu čelí provincie Sin-ťiang stále větší eskalaci. Mají-li se tento konflikt přenést jinam, musí nejprve dobojovat zde."
+ KHM_pushing_them_back_idea: "Změna toku boje"
+ tsr_the_true_china: "Pravá Čína"
+ prc_tsr_warlord_army: "Venkovská armáda"
+ prc_tsr_agrarian_socialism: "Agrární socialismus"
+ prc_tsr_urbanization_efforts: "Úsilí o urbanizaci"
+ CHI_tsr_funding_public_research: "Financování veřejného výzkumu"
+ tsr_anti_communist_campaign: "Protikomunistické kampaně"
+ XSM_tsr_diarchy: "Dvojvládí"
+ XSM_tsr_strike_the_traitors: "Úder proti zrádcům"
+ tsr_united_ma_cliques: "Sjednocené kliky Ma"
+ MAN_tsr_illicit_trade: "Nelegální obchod"
+ MAN_kempeitai_idea_lar: "Kempeitai"
+ MAN_kempeitai_idea_no_lar: "Kempeitai"
+ MAN_mobilization: "Mobilizační úsilí"
+ MAN_strengthen_army: "Posílení armády"
+ MAN_strong_army: "Připravená armáda"
+ MAN_qing_army: "Nová čchingská armáda"
+ MAN_beiyang_army: "Nová Pej-jangská armáda"
+ MAN_illegitimate_government: "Nelegitimní vláda"
+ MAN_illegitimate_government_desc: "V očích Západu, a především Číny, jsme stále považováni za banditský a povstalecký režim. Musíme usilovat o legitimitu, abychom s nimi mohli lépe spolupracovat."
+ MAN_rising_republican_sentiments: "Rostoucí republikánské nálady"
+ MAN_peoples_army: "Lidová armáda"
+ MAN_peoples_liberation_army: "Lidová osvobozenecká armáda"
+ MAN_rival_government: "Konkurenční vláda"
+ MAN_southern_expedition: "Jižní tažení"
+ MAN_the_legitimate_successor: "Legitimní nástupce"
+ MAN_the_legitimate_successor_desc: "S celou Čínou pod naším velením se konečně můžeme nazvat legitimními nástupci Čínské republiky."
+ MAN_finish_off_japan: "Doratovat Japonsko"
+ MAN_an_industrial_power: "Průmyslová mocnost"
+ MAN_the_communist_party_triumphant: "Komunistická strana vítězí"
+ MAN_battle_for_china: "Bitva o Čínu"
+ MAN_the_revolution_triumphant: "Revoluce vítězí"
+ MAN_soviet_military_cooperation: "Sovětská vojenská spolupráce"
+ MAN_xingan_army_resigned: "Armáda z Sing-anu odstoupila"
+ MAN_xingan_army_appeased: "Armáda z Sing-anu uklidněna"
+ MAN_korean_liberation_army: "Korejská osvobozenecká armáda"
+ MAN_korean_liberation_army_desc: "Po sjednocení s bandity se Korejská osvobozenecká armáda rozhodla podělit se s námi o své znalosti a zkušenosti v boji proti Japoncům."
+ MAN_yong_ying_idea: "Jung-jing"
+ SIC_drive_out_the_japanese_idea: "Vyhnat Japonce"
+ SIC_push_into_xikang_idea: "Zatlačit Tibeťany"
+ SIC_a_loose_unity: "Volná jednota"
+ SIC_a_loose_unity_desc: "Ačkoliv jsme formálně sjednoceni pod praporem „s'-čchuan-klicky“, v provincii působí několik vládců se svými vlastními cíli a ambicemi. Někteří, jako Liou Wen-chuej, si vybudovali téměř vlastní stát, zatímco jiní mají vlastní představy o tom, jak má být vedena armáda."
+ GXC_scorched_earth_policy: "Spálená země"
+ SIK_the_nkvd_no_lar: "NKVD"
+ SIK_soviet_pilot_schools: "Sovětské pilotní školy"
+ SIK_three_year_plan: "Tříletý plán"
+ SIK_transformation_of_nature_idea: "Přetvoření přírody"
+ SIK_state_atheism_freedom_of_religion: "Státní ateismus - individuální svoboda náboženství"
+ SIK_detracting_from_party_line: "Odklon od stranické linie"
+ SIK_if_war_with_sov_this_disappears_tt: "§RBude odstraněno, pokud se ocitneme ve válce s [SOV.GetNameDef]§!"
+ SIK_a_modern_province: "Moderní provincie"
+ SIK_the_six_policies: "Šest velkých politik"
+ SIC_the_new_guominjun_idea: "Nový Kuominťün"
+ SIK_state_autonomous_prefecture: "Autonomní prefektura"
+ SIK_state_autonomous_prefecture_desc: "Vládlí ji místní vůdci, a tak je vládní dosah oslaben. V případě války se tito vůdci nemusí ukázat jako zcela loajální."
+ PRC_the_yulin_garrison: "Posádka v Jü-linu"
+ PRC_the_yulin_garrison_desc: "Navzdory naší snaze je rozdrtit se 86. a 84. divizím pod Jing Jüe-i-sü a Kao Kuj-c'em podařilo udržet sever pod kontrolou Kuomintangu. Jejich pozice jsou silně opevněné a zbavit se jich nebude snadné."
+ living_off_the_land_army_spirit: "Život z místních zdrojů"
+ living_off_the_land_army_spirit_desc: "Je dobré ničit nepřítele vlastními zbraněmi, ale ještě lepší je ničit ho těmi jeho."
+ rapid_emplacement_army_spirit: "Rychlé rozmisťování"
+ rapid_emplacement_army_spirit_desc: "Veškerá palebná síla světa nic neznamená, pokud je na špatném místě."
+ direct_fire_support_army_spirit: "Přímá palebná podpora"
+ direct_fire_support_army_spirit_desc: "Stáhnout hlaveň na nulovou elevaci a pálit na nepřítele přímou ranou!"
+ subsidized_contracts_army_spirit: "Dotované zakázky"
+ subsidized_contracts_army_spirit_desc: "Nahradit koně tankem je dlouhodobě žádoucí, ale ne za cenu hospodářského zhroucení země."
+ subsidized_contracts_no_lar_army_spirit: "$subsidized_contracts_army_spirit$"
+ subsidized_contracts_no_lar_army_spirit_desc: "$subsidized_contracts_army_spirit_desc$"
+ all_arms_at_defense_army_spirit: "Všezbraňová protitanková obrana"
+ all_arms_at_defense_army_spirit_desc: "Průlomy obrněnců mohou nastat kdykoliv a kdekoliv. Bůh války pomáhá těm, kdo pomáhají sami sobě."
+ spirit_of_defiance_army_spirit: "Duch vzdoru"
+ spirit_of_defiance_army_spirit_desc: "Národ nemůže být poroben, dokud sám nepřizná, že je poražen."
+ proxy_wars_army_spirit: "Specialisté na intervence"
+ proxy_wars_army_spirit_desc: "Nepřítel mého nepřítele je můj přítel."
+ naval_tripwire_navy_spirit: "Námořní výstražná linie"
+ naval_tripwire_navy_spirit_desc: "Možná nezastavíme nepřítele od přiblížení k našim břehům, ale můžeme mu to pořádně zkrvavit a prodražit."
+ ship_to_shore_navy_spirit: "Výcvik pobřežních lodí"
+ ship_to_shore_navy_spirit_desc: "Žádné pozemní dělostřelectvo se nemůže rovnat palbě desítek tisíc tun námořní oceli."
+ scouting_force_navy_spirit: "Průzkumné síly"
+ scouting_force_navy_spirit_desc: "Moře je rozlehlé. Vítězství obvykle náleží tomu, kdo první odhalí nepřítele a zasadí rozhodující úder."
+ fleet_defense_navy_spirit: "Obrana svazu"
+ fleet_defense_navy_spirit_desc: "Stíhací hlídky a lehké lodě umožňují našim těžkým jednotkám vykonat svou práci bez nechtěných přerušení."
+ fleet_interoperability_navy_spirit: "Propojení flotil"
+ fleet_interoperability_navy_spirit_desc: "Rychlé doplňování zásob a efektivní řízení škod bitvu samy nevyhrají, ale udrží zbraně vítězství v chodu."
+ rapid_concentration_navy_spirit: "Rychlá koncentrace"
+ rapid_concentration_navy_spirit_desc: "Vrhněte se na nepřítele jako roj kobylek a vypalte na něj vše, co máte - nejrychlejší cesta k vítězství."
+ aa_curtain_navy_spirit: "Protiletadlová opona"
+ aa_curtain_navy_spirit_desc: "Jako starověká štítová hradba - každá loď nese odpovědnost nejen za sebe, ale i za svého souseda."
+ stay_at_your_posts_navy_spirit: "Zůstat na stanovišti"
+ stay_at_your_posts_navy_spirit_desc: "Dokud se točí alespoň jeden vrtulový hřídel a jediný kanón je nad hladinou, stále bojujeme."
+ selective_engagement_navy_spirit: "Selektivní střetávání"
+ selective_engagement_navy_spirit_desc: "Hlupák stojí nečinně před silnějším nepřítelem a nechá se zničit. Vyhýbej se bitvám, které nelze vyhrát."
+ sea_lane_denial_navy_spirit: "Odepření námořních tras"
+ sea_lane_denial_navy_spirit_desc: "Nikdo nežere mořského ježka - a je k tomu dobrý důvod."
+ underdog_mentality_navy_spirit: "Mentalita outsidera"
+ underdog_mentality_navy_spirit_desc: "Když to napoprvé nevyjde, torpédovat znovu."
+ cult_of_heroism_army_spirit: "Kult hrdinství"
+ cult_of_heroism_army_spirit_desc: "Od historie po současnost si vojáci i civilisté připomínají oběti svých druhů."
