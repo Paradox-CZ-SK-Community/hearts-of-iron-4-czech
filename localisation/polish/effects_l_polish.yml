@@ -100,7 +100,7 @@
  EFFECT_ADD_WAR_SUPPORT: "Získává základní váleční podporu: $VAL|+=%$."
  EFFECT_ANNEX_COUNTRY: "§Y$NAME|U$§! anektuje §Y$TARGET$§!."
  EFFECT_ASSIGN_ADVISOR: "Jmenovat poradce $NAME|H$ s efektem\n$DESC$\n"
- EFFECT_AUTONOMY_FREE: "$COUNTRY|UY$ se stává svobodnou."
+ EFFECT_AUTONOMY_FREE: "$COUNTRY|UY$ získáva svobodu."
  EFFECT_BECOME_EXILED_IN: "Stává se §HVládou v exilu§! v $HOSTNAMEDEF|H$."
  EFFECT_BORDER_WAR: "začíná pohraniční válku"
  EFFECT_BREAK_EMBARGO: "Zrušit embargo vůči $COUNTRY|H$"

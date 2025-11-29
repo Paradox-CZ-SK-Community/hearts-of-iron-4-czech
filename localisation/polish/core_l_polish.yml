@@ -1618,7 +1618,7 @@
  SHIPS_THAT_AR_BEING_REPAIRED_IN_ALLY_INFO: "Lodě, které se opravují v námořní základně jiného spojence, využijí jejich doky k opravám."
  SHORTCUT_SAVED: "Klávesová zkratka byla uložena"
  SHORTCUT: "Zkratka: $KEY$"
- SHOW_ACTIVE: "Zobrazit aktivní"
+ SHOW_ACTIVE: "Pouze aktivní"
  SHOW_WARS: "Zobrazit všechny aktivní války"
  SM_LANGUAGE: "Jazyk"
  snow_icon: "GFX_modifiers_weather_icons:3"
