@@ -1459,7 +1459,7 @@
  SAF_work_for_all_poor: "Práce pro všechny chudé"
  SAF_work_for_all_poor_desc: "Chudí Afričané z venkova se v posledních letech hrnou do měst za prací a my jsme pro ně udělali jen málo. Až dosud. Industrializace a vládní ochrana jejich přístupu k práci těmto obyvatelům pomůže."
  SOV_BALTIC_MEMBERSHIP_DESC_COMMUNIST: "komunismus"
- SOV_BALTIC_MEMBERSHIP_DESC_EXILES: "[SOV.GetAdjective] imperialismus"
+ SOV_BALTIC_MEMBERSHIP_DESC_EXILES: "[SOV.GetAdjectiveCap] imperialismus"
  SOV_BULWARK_BOLSHEVISM_DESC_COMMUNIST: "bolševismus"
  SOV_BULWARK_BOLSHEVISM_DESC_FASCISM: "fašismus"
  SOV_BULWARK_BOLSHEVISM_DESC_NEUTRALITY: "ruský imperialismus"

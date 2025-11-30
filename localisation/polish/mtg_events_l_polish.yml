@@ -1174,7 +1174,7 @@
  mtg_news.6.t: "Dělníci vítězí ve druhé americké občanské válce!"
  mtg_news.62.b: "Impérium je v krizi."
  mtg_news.62.desc: "Zástupci vlád dominií dnes oznámili, že jednostranně přeruší vztahy s korunou. Jako hlavní důvod uvádějí královo flagrantní ignorování názorů a přání vlád dominií a jejich obyvatel, kvůli čemuž již vztah Británie a Commonwealthu nemůže pokračovat. Tato krize, vyvolaná královým úmyslem oženit se s Wallis Simpsonovou, nyní vyústila ve vznik nového společenství národů tvořeného jednotlivými dominiemi a zdá se, že současné ochromení britské vlády znemožní jakoukoli reakci. Právě v to dominia doufala."
- mtg_news.63.desc: "[Root.GetAdjective] vláda dnes oznámila, že jednostranně přerušuje vztahy s [ENG.GetAdjective] vládou. Jako hlavní důvod uvádí, že nedokáže sladit své politické postoje s aktuálním politickým vývojem, který zažívá [ENG.GetName]."
+ mtg_news.63.desc: "[Root.GetAdjectiveCap] vláda dnes oznámila, že jednostranně přerušuje vztahy s [ENG.GetAdjective] vládou. Jako hlavní důvod uvádí, že nedokáže sladit své politické postoje s aktuálním politickým vývojem, který zažívá [ENG.GetName]."
  mtg_news.63.t: "[Root.GetName] vyhlašuje nezávislost"
  mtg_news.64.a: "Všechny naše národy stojí jednotně na obranu vlasti."
  mtg_news.64.b: "Zase sjednoceni? Rozhodněte se!"

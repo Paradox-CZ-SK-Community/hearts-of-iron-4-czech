@@ -431,7 +431,7 @@
  GER_bormann_secretary_to_the_fuhrer_improved: "$GER_bormann_secretary_to_the_fuhrer$"
  GER_carl_walther: "Carl Walther"
  GER_change_mefo_bills_to_economy_of_conquest_tt: "Nahradí §Y$GER_mefo_bills_modifier$§! za §Y$GER_economy_of_conquest_modifier$§!"
- GER_chi_ger_trade: "[CHI.GetAdjective]-[GER.GetAdjective] obchodní dohoda"
+ GER_chi_ger_trade: "[CHI.GetAdjectiveCap]-[GER.GetAdjective] obchodní dohoda"
  GER_collect_scrap_metal_ns_desc: "Zahájili jsme celostátní kampaň na sběr co největšího množství šrotu, aby podpořil naše přezbrojení."
  GER_communist_influence: "Komunistické vlivy na [GER.GetNameDef]"
  GER_communist_influence_tt: "§RVypukne občanská válka, pokud podpora §Ykomunistů§! přesáhne 40 %!§!"
