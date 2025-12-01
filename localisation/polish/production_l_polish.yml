@@ -51,7 +51,7 @@
  LICENSED_EQUIPMENT_PRODUCTION_SPEED_MODIFIER: "§YModifikátor licence§!:\n Základ: $BASE|+%$\n Celkem upraveno: $TOTAL|+%$"
  LICENSED_EQUIPMENT_PRODUCTION_SPEED_NOT_FACTION: "§YNení ve frakci s držitelem licence§!: $VALUE|+%$"
  LICENSED_EQUIPMENT_PRODUCTION_SPEED_NO_LICENSE: "§YBez aktivní licence§!: $VALUE|+%$"
- LICENSED_EQUIPMENT_PRODUCTION_SPEED_TOTAL: "§HVýstup továren při licencované výrobě§!\nCelkem: $VALUE|+%$\nRozpis:""
+ LICENSED_EQUIPMENT_PRODUCTION_SPEED_TOTAL: "§HVýstup továren při licencované výrobě§!\nCelkem: $VALUE|+%$\nRozpis:"
  LICENSED_EQUIPMENT_PRODUCTION_SPEED_TOTAL_SIMPLE: "Licencovaná výroba: $VALUE|+%$"
  LICENSED_EQUIPMENT_TECH_SPEED_REDUCTION: "§YRozdíl v technologii licence§!:\n Základ: $BASE|+%$\n Celkem upraveno: $TOTAL|+%$"
  LICENSED_EQUIPMENT_UPGRADE_XP_COST_MODIFIER: "Licencované vybavení: $VAL$"

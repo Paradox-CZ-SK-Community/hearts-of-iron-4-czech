@@ -2005,7 +2005,7 @@
  curtis_lemay: "Curtis LeMay"
  cyril_newall: "Cyril Newall"
  dagu_shipyard: "Dagu loděnice"
- damage_to_naval_base_high: "$damage_to_naval_base_low$""
+ damage_to_naval_base_high: "$damage_to_naval_base_low$"
  damage_to_naval_base_low: "$naval_base$ byla přepadena"
  damage_to_naval_base_medium: "$damage_to_naval_base_low$"
  danieli: "Danieli"
