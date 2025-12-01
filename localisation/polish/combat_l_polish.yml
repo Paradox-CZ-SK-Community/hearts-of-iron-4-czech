@@ -198,7 +198,7 @@
  EQUIPMENT_CAPTURED_ENTRY: "($NUM|Y0$ zajato)"
  EQUIPMENT_RECOVERED_ENTRY: "($NUM|Y0$ získáno díky spolehlivosti)"
  EQUIPMENT_RECOVERY_ENTRY: "Tento kus vybavení má spolehlivost $RELIABILITY|%.0Y$, což nám dává $RECOVERY|%G$ šanci na jeho bezpečné získání zpět na konci boje."
- EQUIPMENT_RECOVERY_ENTRY_GENERAL: ""Vybavení znovu získané divizí po boji. Čím vyšší má vybavení hodnotu spolehlivosti, tím větší je šance, že bude zachráněno. Pro více informací o jednotlivých kusech vybavení zvolte zobrazení §YPodrobný seznam§!"
+ EQUIPMENT_RECOVERY_ENTRY_GENERAL: "Vybavení znovu získané divizí po boji. Čím vyšší má vybavení hodnotu spolehlivosti, tím větší je šance, že bude zachráněno. Pro více informací o jednotlivých kusech vybavení zvolte zobrazení §YPodrobný seznam§!"
  ESCAPE_PROGRESS: "Postup úniku: $NUM|%+$"
  ESCAPE_SPEED_COMBAT_DURATION: "Doba boje: $NUM|+%$"
  ESCAPE_SPEED_FROM_SHIP_SPEED: "Rychlost lodě: $NUM|=+%$"
