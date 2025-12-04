@@ -214,7 +214,7 @@
  lc_bunker_emplacement_desc: "Interní opevněná struktura, transformující pozemní křižník na mobilní bunkr. Umožňuje posádce držet obranné pozice a odpovídat na nepřátelskou palbu, i když je pod těžkým palebným tlakem."
  lc_command_center: "Centrum velení"
  lc_command_center_desc: "Plně integrované velitelské středisko, které transformuje pozemní křižník na mobilní velitelství, vybavené pokročilými komunikačními systémy pro koordinaci rozsáhlých vojenských operací."
- lc_flamethrower_turret: "Plamenometná věž"
+ lc_flamethrower_turret: "Soustava plamenometů" # todo: CHANGED
  lc_flamethrower_turret_desc: "Specializovaná věž, která vyzařuje proud ohně, ideální pro vyčištění zpevněných pozic, pěchoty a bodů na přepad. Ideální pro souboje na blízko v hustě obydlených městských prostředích."
  lc_heavy_anti_air_battery: "Těžká Protivzdušná Baterie"
  lc_heavy_anti_air_battery_desc: "Protivzdušná baterie vybavená kanóny velkého kalibru, aby cília rychlá a vysokohorská letadla, poskytující obrannou zónu kolem vozidla."
@@ -228,7 +228,7 @@
  lc_helipad_desc: "Platforma pro vzlet vrtulníků, navržená k poskytování pokročilé letecké průzkumu a zlepšení situational awareness na bojišti."
  lc_high_impact_obliterator_cannon: "Dělo s vysokým impaktem"
  lc_high_impact_obliterator_cannon_desc: "Speciálně navržený k penetraci extrémně silného pancíře, vysoká kinetická energie této zbraně ji činí děsivým protivníkem proti jiným super-těžkým tankům."
- lc_high_velocity_cannon_turret: "Věž s vysokou úsťovou rychlostí"
+ lc_high_velocity_cannon_turret: "Souosný vysokorychlostní kanón" # todo: CHANGED
  lc_high_velocity_cannon_turret_desc: "Turret vybavený vysokorychlostním dělem k útoku na nepřátelský pancíř. Jeho menší velikost mu umožňuje poskytovat rychlou a pohotovou palebnou podporu proti lehce obrněným hrozbám."
  lc_hull_mounted_railway_gun: "Na trupu umístěný železniční kanón"
  lc_hull_mounted_railway_gun_desc: "Přepracované železniční dělo zabudované přímo do trupu pro maximální stabilitu, poskytuje těžkou palebnou podporu a může zasahovat vzdálené cíle s vysokou přesností."
@@ -238,7 +238,7 @@
  lc_internal_fuel_tanks_desc: "Rozšířené palivové komory uvnitř trupu, což zvyšuje operační dosah vozidla a snižuje potřebu častého tankování během dlouhých kampaní."
  lc_light_anti_air_battery: "Lehká protiletadlová baterie"
  lc_light_anti_air_battery_desc: "Lehká protiletadlová baterie navržená k cílení na nízko letící letadla a chránící vozidlo před útoky z teplé výšky a bombovými útoky."
- lc_medium_cannon_turret: "Střední kanónová věž"
+ lc_medium_cannon_turret: "Souosný střední kanón" # todo: CHANGED
  lc_medium_cannon_turret_desc: "Standardní kanón namontovaný na věži, schopný zasahovat pěchotu a lehká vozidla. Jeho kompaktní design ho činí všestranným pro blízký boj a sekundární úkoly."
  lc_medium_naval_guns: "Střední námořní děla"
  lc_medium_naval_guns_desc: "Nabízející vyváženou kombinaci rychlosti palby a palebné síly, tyto zbraně jsou efektivní při ničení lehčí techniky a poskytují podporu proti neozbrojeným cílům."

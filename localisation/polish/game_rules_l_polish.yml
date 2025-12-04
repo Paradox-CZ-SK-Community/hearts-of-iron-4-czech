@@ -807,3 +807,5 @@
  RULE_OPTION_COMMUNIST_PHI_AI_DESC: "Nad Filipínami vyjde rudé slunce, protože námořní komunismus se uchytí a usiluje o šíření ducha rovnosti po oceánech světa."
  RULE_OPTION_MACARTHUR_PHI_AI: "Vojenský nouzový stav"
  RULE_OPTION_MACARTHUR_PHI_AI_DESC: "Po pádu filipínské vlády vystoupí vojenská osobnost a povede národ proti všem útočníkům."
+ RULE_ALLOW_RELEASE_NATIONS_WARLORD_CHINA_TOOLTIP: "§Y[ROOT.GetNameDefCap]§! nesmí osvobodit §Y[CHI.GetNameDef]§! nebo §Y[PRC.GetNameDef]§!." # todo: NEW TRANSLATION
+ RULE_OPTION_MONARCHIST_PHI_AI: "Hispanic" # todo: NEW TRANSLATION

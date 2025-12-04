@@ -309,3 +309,10 @@
  TRADE_FACTORIES_VALUE: "$VALUE$/$TOT$"
  WEEKLY_PRODUCTION: "Týdenní produkce"
  PRODUCTION_MATERIALS_COAL: "Uhlí"
+ PRODUCTION_UNKNOWN_ENERGY_AMOUNT: "?" # todo: NEW TRANSLATION
+ PRODUCTION_NO_INTEL_ON_POWER: "Nemáme žádné informace o spotřebě energie v tomto státě." # todo: NEW TRANSLATION
+ PRODUCTION_STATE_ENERGY_EFFICIENCY: "Energetická účinnost: $VALUE|H$" # todo: NEW TRANSLATION
+ PRODUCTION_STATE_ENERGY_USAGE_FACTORIES: "Spotřeba energie továren: $VALUE|H$" # todo: NEW TRANSLATION
+ PRODUCTION_STATE_ENERGY_USAGE_MILITARY_FACTORIES: "  £mil_factory Spotřeba energie vojenských továren: $VALUE|H$" # todo: NEW TRANSLATION
+ PRODUCTION_STATE_ENERGY_USAGE_NAVAL_DOCKYARDS: "  £nav_dockyard_texticon Spotřeba energie námořních loděnic: $VALUE|H$" # todo: NEW TRANSLATION
+ PRODUCTION_STATE_ENERGY_USAGE_CIVILIAN_FACTORIES: "  £civ_factory Spotřeba energie civilních továren: $VALUE|H$" # todo: NEW TRANSLATION

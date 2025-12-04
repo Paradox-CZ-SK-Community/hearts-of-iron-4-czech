@@ -1549,18 +1549,18 @@
  SEA_PHI_political_events.50.t: "[FROM.GetName] bojuje, aby znovu získal kontrolu nad námi"
  SEA_PHI_political_events.50.desc: "V reakci na naše vyhlášení nezávislosti [FROM.GetNameDef] nevydal žádnou oficiální odpověď, a místo toho začal přesouvat jednotky do blízkých základen, aby mohl zasáhnout."
  SEA_PHI_political_events.50.a: "Ať to zkusí!"
- SEA_PHI_political_events.51.t: "$USA_douglas_macarthur$ je povolán zpět do [FROM.GetNameDef]"
- SEA_PHI_political_events.51.desc: "Vojenská situace v [FROM.GetNameDef] se ukázala být natolik vážná, že byl $USA_douglas_macarthur$ okamžitě povolán zpět domů."
+ SEA_PHI_political_events.51.t: "$USA_douglas_macarthur$ povolán zpět do [USA.GetNameDef]" # todo: CHANGED
+ SEA_PHI_political_events.51.desc: "Vojenská situace v [USA.GetNameDef] se ukázala být natolik vážná, že byl $USA_douglas_macarthur$ požádán, aby se okamžitě vrátil domů." # todo: CHANGED
  SEA_PHI_political_events.51.a: "Bude nám chybět"
- SEA_PHI_political_events.52.t: "$USA_dwight_d_eisenhower$ je povolán zpět do [FROM.GetNameDef]"
- SEA_PHI_political_events.52.desc: "Vojenská situace v [FROM.GetNameDef] se ukázala být natolik vážná, že byl $USA_dwight_d_eisenhower$ okamžitě povolán zpět domů."
+ SEA_PHI_political_events.52.t: "$USA_dwight_d_eisenhower$ povolán zpět do [USA.GetNameDef]" # todo: CHANGED
+ SEA_PHI_political_events.52.desc: "Vojenská situace v [USA.GetNameDef] se ukázala být natolik vážná, že byl $USA_dwight_d_eisenhower$ požádán, aby se okamžitě vrátil domů." # todo: CHANGED
  SEA_PHI_political_events.53.t: "$USA_dwight_d_eisenhower$ se vrací z [PHI.GetName]"
  SEA_PHI_political_events.53.desc: "Po připojení se k misi $USA_douglas_macarthur$ na [PHI.GetNameDef] v roce 1935 a po nedávném aktivnějším působení, se nyní $USA_dwight_d_eisenhower$ vrátil domů. Získal zde cenné vojenské zkušenosti, od své první pilotáže letadla až po spolupráci s veliteli jako $USA_douglas_macarthur$, kteří měli zásadně odlišné názory na reformu [PHI.GetAdjective] armády."
  SEA_PHI_political_events.53.a: "Jeho zkušenosti se jistě osvědčí"
  SEA_PHI_political_events.54.desc: "Po nedávné ztrátě oblasti Manily ztratily naše síly důvěru v možnost vyhrát válku tradičními taktikami. Zatímco armáda oficiálně kapitulovala a vláda se evakuovala, již se formují nové organizace odporu."
  SEA_PHI_political_events.54.a: "Můžeme pokračovat ve válce pomocí partyzánů"
  SEA_PHI_political_events.55.t: "$PHI_treaty_of_manila$"
- SEA_PHI_political_events.55.desc: "Po rozsáhlé ekonomické a politické přípravě vyhlásily [PHI.GetNameDef] nezávislost. To přichází v důsledku zákona Tydings-McDuffie, který Kongres přijal v roce 1934 a který určil cestu k [PHI.GetAdjective] samostatnosti. [PHI.GetNameDef] jsou nyní svobodné vytvářet vlastní politiku bez tlaku ze strany [USA.GetNameDef]."
+ SEA_PHI_political_events.55.desc: "Po rozsáhlé ekonomické a politické přípravě byla vyhlášena nezávislost [PHI.GetNameDef]. Jak se dalo očekávat, následuje to po zákoně Tydings–McDuffie, který Kongres v roce 1934 podepsal a který stanovil směr pro [PHI.GetAdjective] nezávislost. [PHI.GetNameDefCap] je nyní svobodné vytvářet vlastní politiku a hospodářské zásady bez tlaku ze strany [USA.GetNameDef]." # todo: CHANGED
  SEA_PHI_political_events.55.a: "Dobře pro ně"
  SEA_PHI_political_events.55.b: "Nyní můžeme spolupracovat jako rovní"
  SEA_PHI_political_events.55.c: "Musíme nyní usilovat i o diplomatickou nezávislost"
@@ -1584,7 +1584,7 @@
  SEA_PHI_political_events.59.desc: "Ačkoli [USA.GetNameDef] zahájily vojenskou intervenci proti [PHI.GetNameDef], aby svrhly jejich novou vládu, tento plán se neukázal jako úspěšný. S oběma stranami uznávajícími, že válka se pouze vleče, začala jednání o jejím ukončení a [PHI.GetAdjective] nezávislost byla uznána."
  SEA_PHI_political_events.59.a: "Svoboda zvítězila"
  SEA_PHI_political_events.59.b: "Válka byla nepopulární"
- SEA_PHI_political_events.60.t: "[ROOT.GetNeutralParty] zpochybňuje výsledky voleb"
+ SEA_PHI_political_events.60.t: "Aguinaldo zpochybňuje výsledky voleb" # todo: CHANGED
  SEA_PHI_political_events.60.desc: "Po prezidentských volbách roku 1935 [ROOT.GetNeutralLeader] stále neuznal svou výraznou porážku a podává stížnost volební radě. Pokud se objeví důkazy o manipulaci, případ by mohl být předložen jednomu z nejvyšších soudů země."
  SEA_PHI_political_events.60.a: "Pravděpodobně jen špatně snáší prohru"
  SEA_PHI_political_events.61.t: "Soudnictví ruší volby"
@@ -2076,3 +2076,35 @@
  tsr_manchukuo_border_war.6.desc: "Ačkoli Peking padl do rukou [MAN.GetAdjective] armády, její síly byly zastaveny před dalším postupem do provincie Che-pej."
  tsr_manchukuo_border_war.6.a: "No dobře."
  tsr_manchukuo_border_war.6.b: "Che-pej stále nepadl!"
+ SEA_border_incidents_events.1.t: "Naše jednotky postupují na Tauran" # todo: NEW TRANSLATION
+ SEA_border_incidents_events.1.desc: "Armáda čítající méně než 100 [ROOT.GetAdjective] vojáků začala postupovat na spornou [MAN.GetAdjective] vesnici Tauran, vedená šesti sovětskými poradci. Ačkoliv se zdá, že [JAP.GetAdjective] armáda se v oblasti zatím neobjevila, může dorazit každým okamžikem, aby nás odtud vyhnala. Stojí vesnice za riziko, nebo bychom měli zachovat větší opatrnost?" # todo: NEW TRANSLATION
+ SEA_border_incidents_events.1.a: "Vesnice bude naše!" # todo: NEW TRANSLATION
+ SEA_border_incidents_events.1.b: "Musíme jim okamžitě nařídit stažení!" # todo: NEW TRANSLATION
+ SEA_border_incidents_events.2.t: "Incident u Tauranu" # todo: NEW TRANSLATION
+ SEA_border_incidents_events.2.desc: "Armáda čítající méně než 100 [MON.GetAdjective] vojáků obsadila spornou [MAN.GetAdjective] vesnici Tauran, vedenou sovětskými vojenskými poradci. Zdá se, že se nestáhnou bez boje a budou muset být poraženi, pokud si chceme udržet plnou kontrolu nad [761.GetName]." # todo: NEW TRANSLATION
+ SEA_border_incidents_events.2.a: "Rozkažte jednotkám okamžitě vyrazit!" # todo: NEW TRANSLATION
+ SEA_border_incidents_events.2.b: "Nestojí to za tu námahu..." # todo: NEW TRANSLATION
+ SEA_border_incidents_events.3.t: "Incident u Tauranu" # todo: NEW TRANSLATION
+ SEA_border_incidents_events.3.desc: "Armáda čítající méně než 100 [MON.GetAdjective] vojáků obsadila spornou [MAN.GetAdjective] vesnici Tauran, vedenou sovětskými vojenskými poradci. Zdá se, že se bez boje neustoupí a budou muset být poraženi, pokud si chceme udržet plnou kontrolu nad [761.GetName]. Náš pán [JAP.GetNameDef] požaduje okamžité kroky a Kwantungská armáda vnímá situaci jako urážku samotného císaře." # todo: NEW TRANSLATION
+ SEA_border_incidents_events.3.a: "Připravte se na útok!" # todo: NEW TRANSLATION
+ SEA_border_incidents_events.4.t: "[FROM.GetAdjective] jednotky se chystají zaútočit na Tauran" # todo: NEW TRANSLATION
+ SEA_border_incidents_events.4.desc: "V rámci eskalujících napětí mezi námi a [FROM.GetNameDef] po našich sporech o pohraniční vesnice jako Tauran se zdá, že nyní přesouvají jednotky do oblasti, aby zaútočily na naše posádky, které jsme tam umístili. Musíme se připravit bránit oblast do posledního muže a odrazit vetřelce z právoplatné [ROOT.GetAdjective] půdy!" # todo: NEW TRANSLATION
+ SEA_border_incidents_events.4.a: "Bouře se blíží" # todo: NEW TRANSLATION
+ SEA_border_incidents_events.5.t: "[JAP.GetAdjective] vítězství u jezera Buir" # todo: NEW TRANSLATION
+ SEA_border_incidents_events.5.desc: "Po střetu mezi [MON.GetAdjective] a [JAP.GetAdjective] silami v pohraniční oblasti kolem jezera Buir jsou [MON.GetAdjective] jednotky údajně v plném ústupu. [JAP.GetAdjective] jednotky obsadily několik strategických vrchů v okolí a připravují se znovu vstoupit do vesnice Tauran.\n\nBěhem bitvy [JAP.GetAdjective] zajaly několik [MON.GetAdjective] vojáků a [SOV.GetAdjective] poradců, což způsobí těžkou ránu morálce nepřítele." # todo: NEW TRANSLATION
+ SEA_border_incidents_events.5.a: "Tuto záležitost jsme vyřešili čestně" # todo: NEW TRANSLATION
+ SEA_border_incidents_events.5.b: "Modlíme se, aby nepostoupili dál..." # todo: NEW TRANSLATION
+ SEA_border_incidents_events.6.t: "[JAP.GetAdjective] porážka u jezera Buir" # todo: NEW TRANSLATION
+ SEA_border_incidents_events.6.desc: "Po střetu mezi [MON.GetAdjective] a [JAP.GetAdjective] silami v pohraniční oblasti kolem jezera Buir požádal [JAP.GetAdjective] velvyslanec v Ulaanbaataru o příměří.\n\nNěkolik [JAP.GetAdjective] útoků na [MON.GetAdjective] pozice během bitvy selhalo s těžkými ztrátami, což vyvolalo v [JAP.GetAdjective] armádě obavy o schopnosti jejich sil." # todo: NEW TRANSLATION
+ SEA_border_incidents_events.6.a: "Je lepší čestně selhat, než se nikdy nepokusit" # todo: NEW TRANSLATION
+ SEA_border_incidents_events.6.b: "Naše síly se osvědčily" # todo: NEW TRANSLATION
+ SEA_border_incidents_events.7.t: "Pat u jezera Buir" # todo: NEW TRANSLATION
+ SEA_border_incidents_events.7.desc: "Boje mezi [JAP.GetAdjective] a [MON.GetAdjective] silami kolem jezera Buir utichly poté, co se obě strany stáhly ze sporné oblasti, aby se přeskupily a doplnily zásoby. Vzhledem k marnosti dalších ofenzív [JAP.GetAdjective] armáda požádala o příměří a vyjednávání o hranicích, přiznávajíc, že vesnice leží na území [MON.GetAdjective]." # todo: NEW TRANSLATION
+ SEA_border_incidents_events.7.a: "Každopádně to byla bezcenná vesnice" # todo: NEW TRANSLATION
+ SEA_border_incidents_events.7.b: "Prozatím je tedy naše" # todo: NEW TRANSLATION
+ SEA_border_incidents_events.8.t: "[FROM.GetNameDefCap] ustupuje" # todo: NEW TRANSLATION
+ SEA_border_incidents_events.8.desc: "Poté, co jsme obsadili vesnici Tauran, se zdá, že se [FROM.GetAdjective] jednotky stáhly z okolí a nejeví známky úmyslu se vrátit. Vzhledem k marnosti dalších ofenzív [JAP.GetAdjective] armáda připustila, že vesnice leží na území [ROOT.GetAdjective]." # todo: NEW TRANSLATION
+ SEA_border_incidents_events.8.a: "Výborně" # todo: NEW TRANSLATION
+ if_they_back_down_or_lose_a_border_conflict_tt: "Pokud ustoupí nebo prohrají hraniční konflikt:" # todo: NEW TRANSLATION
+ SEA_PRC_misc_events.19.e: "[FROM.GetNameDefCap] odevzdává [743.GetName]" # todo: NEW TRANSLATION
+ PHI_laurel_help: "§YJosé Laurel§! zvýší šanci na získání japonské podpory při §YZajištění japonských záruk§!" # todo: NEW TRANSLATION

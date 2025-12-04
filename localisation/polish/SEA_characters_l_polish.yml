@@ -11,7 +11,7 @@
  JAP_hitoshi_yamakawa: "Hitoši Jamakawa"
  JAP_kanson_arahata: "Kanson Arahata"
  JAP_yamakawa_kikue: "Kikue Jamakawa"
- JAP_empress_nagako: "Císařovna Nagako"
+ JAP_empress_nagako: "Nagako" # todo: CHANGED
  JAP_fumimaro_konoe: "Fumimaro Konoe"
  JAP_senjuro_hayashi: "Sendžuró Hajaši"
  JAP_jinzaburo_masaki: "Džinzaburó Masaki"
@@ -466,3 +466,5 @@
  PHI_john_wilkes: "John Wilkes"
  PHI_okawachi_denshichi: "Okawači Denšiči"
  PHI_emma_rotor: "Emma Rotor"
+ SIK_garegin_apresov: "Garegin Abramovich Apresov" # todo: NEW TRANSLATION
+ CHI_zhu_jiahua: "Žu Ťiahua" # todo: NEW TRANSLATION

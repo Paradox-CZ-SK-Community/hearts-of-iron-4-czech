@@ -204,3 +204,9 @@
  STRATEGIC_LOCATION_EXTRA_LEVEL: "Maximální úroveň $BUILDING|Y$: $AMOUNT|=+$"
  STRATEGIC_LOCATION_DESC: "§YStrategické místo§!"
  BUILDING_DEPENDENCY_ERROR_DESC: "V provincii je vyžadován $BUILDING|Y$ úrovně $LEVEL|Y$"
+ BUILDING_GROUP_TOOLTIP: "\nMůžete mít až $LEVEL|R$ těchto budov na stát. Toto omezení je sdíleno s:" # todo: NEW TRANSLATION
+ BUILDING_GROUP_SHARED_NAME_ENTRY: " - $NAME$" # todo: NEW TRANSLATION
+ energy_infrastructure: "Zesílená elektrická síť" # todo: NEW TRANSLATION
+ industrial_infrastructure: "Vysokokapacitní elektrická síť" # todo: NEW TRANSLATION
+ energy_infrastructure_desc: "Zesílené přívodní rozvody a energetická infrastruktura s vícenásobným redundantním systémem zajišťují, že naše továrny budou vyrábět bez ohledu na okolnosti." # todo: NEW TRANSLATION
+ industrial_infrastructure_desc: "Vylepšení stávající civilní energetické infrastruktury nám poskytují vyšší kapacitu pro vysoce intenzivní průmyslové provozy." # todo: NEW TRANSLATION

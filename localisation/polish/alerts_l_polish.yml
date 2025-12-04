@@ -234,3 +234,4 @@
  alert_lack_of_power_delayed_mil: "Každá £mil_factory vojenská továrna poskytuje o $VALUE|H$ £production_cost méně a výstup továren je snížen o $PERCENTAGE|.0R%$"
  alert_lack_of_power_delayed_nav: "Každý £nav_dockyard_texticon námořní dok poskytuje o $VALUE|H$ £navprod_cost méně a výstup doků je snížen o $PERCENTAGE|.0R%$"
  alert_faction_can_select_goal_instant: "§HMůžete zvolit nový cíl frakce§!"
+ alert_faction_can_select_goal_delayed_header: "Ostatní členové frakce mohou zvolit cíl, pokud nebudeme jednat" # todo: NEW TRANSLATION

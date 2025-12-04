@@ -878,7 +878,7 @@
  MODIFIER_LOCAL_NON_CORE_MANPOWER: "Místní nedomovský personál"
  MODIFIER_LOCAL_NON_CORE_SUPPLY_IMPACT: "Místní dopad nedomovského zásobování"
  MODIFIER_LOCAL_ORG_REGAIN: "Obnova organizace"
- MODIFIER_LOCAL_RESOURCES_FACTOR_DESC: "Upravuje množství získaných zdrojů"
+ MODIFIER_LOCAL_RESOURCES_FACTOR_DESC: "Upravuje množství všech získaných surovin" # todo: CHANGED
  MODIFIER_LOCAL_RESOURCES_FACTOR: "Účinnost získávání zdrojů"
  MODIFIER_LOCAL_RESOURCES: "Místní zdroje"
  MODIFIER_LOCAL_SUPPLIES_FOR_CONTROLLER: "Místní dodávky"
@@ -2511,3 +2511,8 @@
  neutrality_drift_from_guarantees: "Nárůst nezařazených v zahraničí z důvodu garancí"
  MODIFIER_GUARANTEE_OTHER_IDEOLOGIES: "Může garantovat jiné ideologie"
  naval_mines_planting_by_air_factor_tt: " $MODIFIER_MINES_PLANTING_BY_AIR_FACTOR$: $RIGHT|+=%1$"
+ local_resources_coal_factor_desc: "Upravuje množství získaného uhlí" # todo: NEW TRANSLATION
+ MODIFIER_ENERGY_GAIN_FACTOR: "Zisk energie z jednoho uhlí" # todo: NEW TRANSLATION
+ MODIFIER_ENERGY_SCALE_PER_TRADE_FACTORY_EXPORT_FACTOR: "Vliv obchodu na spotřebu energie továrny" # todo: NEW TRANSLATION
+ MODIFIER_LOCAL_FACTORY_ENERGY_CONSUMPTION_PER_INFRASTRUCTURE: "Požadavky továren na energii za jednotku infrastruktury" # todo: NEW TRANSLATION
+ MODIFIER_LOCAL_RESOURCE_GAIN_EFFICIENCY_PER_INFRASTRUCTURE: "Zisk surovin za jednotku infrastruktury" # todo: NEW TRANSLATION

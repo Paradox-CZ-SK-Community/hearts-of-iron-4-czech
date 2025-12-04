@@ -1027,8 +1027,8 @@
  PHI_communism_party_long: "Partido Komunista ng Pilipinas"
  PHI_communism_party: "PKP"
  PHI_democratic_party_long: "Partido Nacionalista"
- PHI_democratic_party: "NP"
- PHI_fascism_party_long: "Strana Ganap"
+ PHI_democratic_party: "Nacionalista" # todo: CHANGED
+ PHI_fascism_party_long: "Partido Ganap" # todo: CHANGED
  PHI_fascism_party: "Ganap"
  POL_communism_party_long: "Komunistyczna Partja Polski"
  POL_communism_party: "KPP"
@@ -1498,15 +1498,15 @@
  NXM_fascism_party: "BSS"
  NXM_fascism_party_long: "Společnost modrých košil"
  NEP_neutrality_party_long: "Královský rod Gorkhy"
- PHI_neutrality_party: "PS"
+ PHI_neutrality_party: "Sakdalista" # todo: CHANGED
  PHI_neutrality_party_long: "Strana Sakdalistů"
  PSR_fascism_party: "Ganap"
- PSR_fascism_party_long: "Strana Ganap"
- PSR_democratic_party: "NP"
+ PSR_fascism_party_long: "Partido Ganap" # todo: CHANGED
+ PSR_democratic_party: "Nacionalista" # todo: CHANGED
  PSR_democratic_party_long: "Partido Nacionalista"
  PSR_communism_party: "PKP"
  PSR_communism_party_long: "Partido Komunista ng Pilipinas"
- PSR_neutrality_party: "PS"
+ PSR_neutrality_party: "Sakdalista" # todo: CHANGED
  PSR_neutrality_party_long: "Strana Sakdalistů"
  SIK_CPSU_communism_party: "CPSU"
  SIK_CPSU_communism_party_long: "Komunistická strana Sovětského svazu"
@@ -1606,3 +1606,13 @@
  MEN_neutrality_party_long: "Mongolský výbor pro místní autonomní záležitosti"
  KUM_neutrality_party: "Begové"
  KUM_neutrality_party_long: "Rada dvanácti begů"
+ PHI_pambansang_sosyalista_party: "Národní socialisté" # todo: NEW TRANSLATION
+ PHI_pambansang_sosyalista_party_long: "Strana národních socialistů" # todo: NEW TRANSLATION
+ PHI_bourbon_party: "Dům Bourbonů" # todo: NEW TRANSLATION
+ PHI_bourbon_party_long: "Královský dům Bourbonů" # todo: NEW TRANSLATION
+ PHI_military_administration_party: "Vojenská správa" # todo: NEW TRANSLATION
+ PHI_military_administration_party_long: "Vojenská správa" # todo: NEW TRANSLATION
+ warlord_monarchy_fascism_party: "Zi Ženg Juan" # todo: NEW TRANSLATION
+ warlord_monarchy_fascism_party_long: "Vládní poradní rada" # todo: NEW TRANSLATION
+ warlord_monarchy_neutrality_party: "Guo-hui" # todo: NEW TRANSLATION
+ warlord_monarchy_neutrality_party_long: "Národní shromáždění" # todo: NEW TRANSLATION

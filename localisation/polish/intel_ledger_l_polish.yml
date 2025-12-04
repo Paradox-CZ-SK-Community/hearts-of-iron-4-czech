@@ -259,3 +259,5 @@
  MIN_INTEL_REQUIRED_FOR_SUBDOCTRINES: "Požadované zpravodajské informace ke zobrazení Dílčích doktrín: $MIN|H.0%$"
  MIN_INTEL_REQUIRED_FOR_MASTERY: "Požadované zpravodajské informace pro zobrazení £doctrine_mastery Úrovní mistrovství: $MIN|H.0%$"
  NAVY_LEDGER_THRESHOLD_FULL_DOMINANCE: "Žádné postihy za námořní převahu"
+ AIR_MISSION_INTEL_RANGE_MISSILES:0 "V tomto regionu je k misi $MISSION|H$ přiřazeno $RANGE|H$ raket." # todo: NEW TRANSLATION
+ AIR_MISSION_INTEL_RANGE_GUNS:0 "V tomto regionu je k misi $MISSION|H$ přiřazeno $RANGE|H$ děl." # todo: NEW TRANSLATION
