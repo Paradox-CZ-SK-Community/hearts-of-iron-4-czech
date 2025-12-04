@@ -1682,3 +1682,5 @@
  PHI_seized_migrant_property: "Zabavení majetku migrantů"
  PHI_welcomed_chinese_migrants: "Přivítání čínských migrantů"
  PHI_legalized_communist_party: "Legalizace komunistické strany"
+ DIPLOMACY_ASSUME_FACTION_LEADERSHIP_TO_MUCH_INFLUENCE: "Abychom udrželi vliv dostatečně nízký, aby nepřekročil vliv současného vůdce, potřebujeme méně než $NEEDED|%Y$ vlivu, ale máme pouze $CURRENT|%Y$."
+ DIPLOMACY_ASSUME_FACTION_LEADERSHIP_HIGHEST_INFLUENCE: "Nesmíme mít nejvyšší úroveň vlivu ve frakci."

@@ -406,3 +406,6 @@
  raid_type_PRC_weapons_depot_raid: "Nájezd na sklady zbraní"
  raid_type_PRC_probe_border_defenses_raid: "Nájezd na pohraniční obranu"
  raid_tooltip_trigger_title: "$TITLE|H$:"
+ raid_type_CHI_great_wall_raid_land: "Infiltrační nájezd na Velkou zeď"
+ raid_type_CHI_great_wall_raid_land_desc: "Zeď již nemá takový obranný význam jako dříve, ale stále může poskytnout dobře zakopanému nepříteli výhodu. Pokud pošleme malou skupinu vojáků, pronikneme do nepřátelských linií a odpálíme dobře umístěné nálože, můžeme jejich výhodu zneutralizovat."
+ raid_target_name_great_wall: "§H$the_great_wall$§!"

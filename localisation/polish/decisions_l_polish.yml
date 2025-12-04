@@ -273,3 +273,7 @@
  decision_cost_faction_influence_5_PP_25_blocked: "£faction_initiative_texticon  §R5%§! £pol_power  §R25§!"
  decision_cost_faction_influence_5_PP_25_tooltip: "Stojí £faction_initiative_texticon  §Y5%§! £pol_power  §Y25§! k přijetí rozhodnutí"
  momotarou_umi_no_shinpei: "Božští mořští válečníci Momotara"
+ mulan: "Mulán vstupuje do armády"
+ defend_our_land: "Chraňte naši zemi"
+ storm_on_the_border: "Útok na hranici"
+ children_of_china: "Děti Číny"
