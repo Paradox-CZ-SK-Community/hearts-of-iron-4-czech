@@ -71,8 +71,8 @@
  NEW_EXILE_POPUP_TITLE: "§H$NAMEDEF|U$ v exilu§!"
  REINSTATE_EXILE: "Obnovit"
  SHOW_COLLABORATIONS_AND_EXILE_DESC: "Zobrazit náš stav spolupráce a exilu"
- SHOW_COLLABORATIONS_DESC: "Zobrazit země, které s námi spolupracují" # todo: CHANGED
- SHOW_COLLABORATIONS_DISABLED_DESC: "§RMomentálně s námi žádné vlády nespolupracují§!" # todo: CHANGED
+ SHOW_COLLABORATIONS_DESC: "Zobrazit země, které s námi spolupracují"
+ SHOW_COLLABORATIONS_DISABLED_DESC: "§RMomentálně s námi žádné vlády nespolupracují§!"
  SHOW_COLLABORATIONS_TITLE: "Spolupráce"
  SHOW_EXILED_COLLABORATORS_TITLE: "Spolupráce a exil"
  SHOW_EXILES_DESC: "Otevřít přehled vlád v exilu"

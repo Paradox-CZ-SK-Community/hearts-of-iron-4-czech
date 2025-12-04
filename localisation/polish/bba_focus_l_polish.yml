@@ -1098,7 +1098,7 @@
  ITA_foreign_affairs_focus_locked_tt: "§YZaměření §Y$ITA_foreign_affairs$§! bude po dokončení tohoto zaměření uzamčeno§!."
  ITA_forza_navale_especiale: "Forza Navale Speciale"
  ITA_forza_navale_especiale_desc: "Schopnost provádět obojživelné vylodění se v jakémkoli střetu ve Středomoří ukáže jako neocenitelná. Zřízením Zvláštních námořních sil, vycvičených a vybavených pro obojživelné operace, budeme schopni promítat sílu z moře na kterémkoli bodě dlouhého středomořského pobřeží."
- ITA_forza_navale_especiale_rm_tt: "$ITA_modify_regia_marina_dynamic_modifier_ns_intro$ \n$MODIFIER_NAVAL_INVASION_PREPARATION$: §G-10.0%§! \n$MODIFIER_NAVAL_INVASION_DIVISION_CAP$: §G+2§! \n$MODIFIER_AMPHIBIOUS_INVASION$: §G+5.0%§! \n$MODIFIER_SPECIAL_FORCES_CAP$: §G+2.0%§! \n\n" # todo: CHANGED
+ ITA_forza_navale_especiale_rm_tt: "$ITA_modify_regia_marina_dynamic_modifier_ns_intro$ \n$MODIFIER_NAVAL_INVASION_PREPARATION$: §G-10.0%§! \n$MODIFIER_NAVAL_INVASION_DIVISION_CAP$: §G+2§! \n$MODIFIER_AMPHIBIOUS_INVASION$: §G+5.0%§! \n$MODIFIER_SPECIAL_FORCES_CAP$: §G+2.0%§! \n\n"
  ITA_franco_italian_pact: "Podepsat francouzsko-italský pakt"
  ITA_franco_italian_pact_desc: "Vojenská spolupráce s Francií má pro nás velkou hodnotu, stejně jako pakt o neútočení. Nejenže bychom si zajistili západní křídlo v Evropě, ale i velkou část našich afrických držav, což by nám umožnilo soustředit se jinde."
  ITA_fronte_militare_clandestino: "Fronte Militare Clandestino"

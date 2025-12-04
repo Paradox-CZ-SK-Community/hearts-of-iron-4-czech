@@ -759,10 +759,10 @@
  deep_battle_no_lar_maskirovka: "$deep_battle_maskirovka$"
  deep_battle_no_lar_breakthrough_priority: "$deep_battle_breakthrough_priority$"
  deep_battle_no_lar_operational_depth_control: "$deep_battle_operational_depth_control$"
- TRACK_HAS_GRAND_DOCTRINE_TRIGGER: "Má Hlavní doktrínu: $FOLDER_NAME|H$" # todo: NEW TRANSLATION
- TRACK_HAS_NOT_GRAND_DOCTRINE_TRIGGER: "Nemá Hlavní doktrínu: $FOLDER_NAME|H$" # todo: NEW TRANSLATION
- mod_folder_mastery_gain_factor: "£doctrine_mod $ARG|H$ získání mistrovství" # todo: NEW TRANSLATION
- DOCTRINE_TRACK_NOT_ACTIVATED: "§RVětev není aktivní:§!" # todo: NEW TRANSLATION
- ASSIGN_SUBDOCTRINE_AFTER_GRAND_DOCTRINE: "Potvrďte výběr Hlavní doktríny před přiřazením §HPoddoktríny§!." # todo: NEW TRANSLATION
- TRACK_INACTIVE_EXPLANATION: "§gDokud je větev neaktivní, nelze přiřadit žádnou novou §!§HPoddoktrínu§!§g a nelze získat žádné £doctrine_mastery §!§HMistrovství§!§g.§!" # todo: NEW TRANSLATION
- SUBDOCTRINE_OVERRIDE_MASTERY_TITLE: "§HTato poddoktrína získává £doctrine_mastery mistrovství z konkrétní sady jednotek:§!" # todo: NEW TRANSLATION
+ TRACK_HAS_GRAND_DOCTRINE_TRIGGER: "Má Hlavní doktrínu: $FOLDER_NAME|H$"
+ TRACK_HAS_NOT_GRAND_DOCTRINE_TRIGGER: "Nemá Hlavní doktrínu: $FOLDER_NAME|H$"
+ mod_folder_mastery_gain_factor: "£doctrine_mod $ARG|H$ zisku mistrovství"
+ DOCTRINE_TRACK_NOT_ACTIVATED: "§RVětev není aktivní:§!"
+ ASSIGN_SUBDOCTRINE_AFTER_GRAND_DOCTRINE: "Potvrďte výběr Hlavní doktríny před přiřazením §HDílčí doktríny§!."
+ TRACK_INACTIVE_EXPLANATION: "§gDokud je větev neaktivní, nelze přiřadit žádnou novou §!§HDílčí doktrínu§!§g a nelze získat žádné £doctrine_mastery §!§HMistrovství§!§g.§!"
+ SUBDOCTRINE_OVERRIDE_MASTERY_TITLE: "§HTato dílčí doktrína získává £doctrine_mastery mistrovství z konkrétní sady jednotek:§!"

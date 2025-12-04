@@ -222,8 +222,8 @@
  manpower_contribution_medium: "Střední požadavek na posádku"
  manpower_contribution_high: "Vysoký požadavek na posádku"
  dismissal_rules_applicability: "§gPokud je aktivní, lze ze své frakce vyloučit pouze země, které splňují některou z následujících podmínek:§!"
- dismissal_rule_ideology_not_democratic: "Ne-demokratické země"
- dismissal_rule_ideology_not_communism: "Ne-komunistické země"
+ dismissal_rule_ideology_not_democratic: "Nedemokratické země"
+ dismissal_rule_ideology_not_communism: "Nekomunistické země"
  dismissal_rule_ideology_communist: "Komunistické země"
  dismissal_rule_ideology_fascist: "Fašistické země"
  dismissal_rule_ideology_democratic: "Demokratické země"
@@ -241,26 +241,26 @@
  SET_FACTION_MEMBER_UPGRADE_MIN: "Nastaví, že $UPGRADENAME|H$ musí být alespoň: $MIN|%H$ pro frakci $FACTION|H$"
  SET_FACTION_UPGRADE: "Nastaví $UPGRADENAME|H$ pro frakci $FACTIONNAME|H$"
  SET_FACTION_UPGRADE_NO_FACTION: "Nastaví $UPGRADENAME|H$ pro frakci"
- SET_FACTION_MEMBER_UPGRADE: "Nastaví $UPGRADENAME|H$ pro zemi $COUNTRYNAME|H$"
- SET_FACTION_MEMBER_UPGRADE_NO_FACTION: "Nastaví $UPGRADENAME|H$ pro zemi $COUNTRYNAME|H$"
+ SET_FACTION_MEMBER_UPGRADE: "Nastaví $UPGRADENAME|H$ pro $COUNTRYNAME|H$"
+ SET_FACTION_MEMBER_UPGRADE_NO_FACTION: "Nastaví $UPGRADENAME|H$ pro $COUNTRYNAME|H$"
  SET_FACTION_MANIFEST_EFFECT: "Změní manifest frakce $FACTION|H$ na $GOAL|H$"
  ADD_FACTION_GOAL_EFFECT: "Přidá cíl frakce $GOAL|H$ do $FACTION|H$"
  REMOVE_FACTION_GOAL_EFFECT: "Odstraní $GOAL|H$ z frakce $FACTION|H$"
  ADD_FACTION_INITIATIVE_EFFECT: "Přidá $AMOUNT|H0$ bodů iniciativy frakce pro $FACTION|H$"
  ADD_FACTION_INITIATIVE_EFFECT_NO_FACTION: "Frakce získá $AMOUNT|H0$ bodů iniciativy"
- ADD_FACTION_INFLUENCE_EFFECT_NO_FACTION: "Přidá $VAL$ §YVliv frakce§! pro zemi $COUNTRY|H$, pokud je ve frakci"
- ADD_FACTION_INFLUENCE_EFFECT: "Přidat $VAL$ §Yvliv frakce§! pro $COUNTRY|H$ ve $FACTION|H$" # todo: CHANGED
+ ADD_FACTION_INFLUENCE_EFFECT_NO_FACTION: "Přidá $VAL$ §YVlivu frakce§! pro $COUNTRY|H$, pokud je ve frakci"
+ ADD_FACTION_INFLUENCE_EFFECT: "Přidá $VAL$ §YVlivu frakce§! pro $COUNTRY|H$ ve frakci $FACTION|H$"
  FACTION_INFLUENCE_VALUE: "$VAL|H$"
  FACTION_INFLUENCE_RATIO: "$VAL|H%$"
  FACTION_RATIO: "$VAL|H%$"
- ADD_FACTION_POWER_PROJECTION_EFFECT: "Přidá $VAL|H0$ projekce síly frakce ve frakci $FACTION|H$"
+ ADD_FACTION_POWER_PROJECTION_EFFECT: "Přidá $VAL|H0$ projekce síly frakce $FACTION|H$"
  ADD_FACTION_POWER_PROJECTION_EFFECT_NO_FACTION: "Přidá $VAL|H0$ projekce síly frakce"
  FACTION_ADD_EXTRA_GOAL_SLOT: "Přidá $VAL|+0$ slot cíle kategorie $CATEGORY|H$ do frakce $FACTION|H$"
  FACTION_ADD_EXTRA_GOAL_SLOT_NO_FACTION: "Přidá $VAL|+0$ slot cíle kategorie $CATEGORY|H$ do tvé frakce"
  TRIGGER_HAS_FACTION_TEMPLATE: "$COUNTRY|H$ je ve frakci $FACTION|H$"
  TRIGGER_HAS_NOT_FACTION_TEMPLATE: "$COUNTRY|H$ není ve frakci $FACTION|H$"
- TRIGGER_HAS_MANPOWER_TO_BECOME_LEADER: "$COUNTRY|H$ převyšuje současného vůdce frakce a jeho podřízené v nasazeném personálu. $MISSING_EXPL$"
- TRIGGER_HAS_NOT_MANPOWER_TO_BECOME_LEADER: "$COUNTRY|H$ nepřevyšuje současného vůdce frakce a jeho podřízené v nasazeném personálu. $MISSING_EXPL$"
+ TRIGGER_HAS_MANPOWER_TO_BECOME_LEADER: "$COUNTRY|H$ převyšuje současného vůdce frakce a jeho subjekty v nasazeném personálu. $MISSING_EXPL$"
+ TRIGGER_HAS_NOT_MANPOWER_TO_BECOME_LEADER: "$COUNTRY|H$ nepřevyšuje současného vůdce frakce a jeho subjekty v nasazeném personálu. $MISSING_EXPL$"
  TRIGGER_HAS_INFLUENCE_TO_BECOME_LEADER: "$COUNTRY|H$ má více vlivu frakce než vůdce frakce. $MISSING_EXPL$"
  TRIGGER_HAS_NOT_INFLUENCE_TO_BECOME_LEADER: "$COUNTRY|H$ nemá více vlivu frakce než vůdce frakce. $MISSING_EXPL$"
  TRIGGER_HAS_INDUSTRY_TO_BECOME_LEADER: "$COUNTRY|H$ převyšuje vůdce frakce v počtu továren. $MISSING_EXPL$"
@@ -318,7 +318,7 @@
  rule_group_leader_manpower: "Požadavky na personál"
  rule_group_gie_rules: "Vláda v exilu"
  war_declaration_rules: "Kdy můžeme vyhlásit válku?"
- member_rules: "Co mohou naši členové dělat?" # todo: CHANGED
+ member_rules: "Co mohou naši členové dělat?"
  member_rules_applicability: ""
  joining_rules: "Kdo se může připojit k frakci?"
  call_to_war_rules: "Kdo může svolat členy do války?"
@@ -333,7 +333,7 @@
  GLOBAL_RESOURCE_EXTRACTED_TOTAL_DESC: "Celkové množství surovin vytěžených ve světě"
  FACTION_RESOURCE_EXTRACTED_TOTAL_DESC: "Celkové množství surovin vytěžených členy frakce"
  defense_of_democracy_goal_name: "Obrana demokracie"
- defense_of_democracy_goal_desc: "Demokracie je ohrožena. Musíme spolupracovat, aby demokratické země světa nepadaly jedna po druhé." # todo: CHANGED
+ defense_of_democracy_goal_desc: "Demokracie je ohrožena. Musíme spolupracovat, aby demokratické země světa nepadaly jedna po druhé."
  containment_of_communism_goal_name: "Zadržování světového komunismu"
  containment_of_communism_goal_desc: "Svět nebude v bezpečí, dokud nebude komunistická hrozba potlačena."
  suppress_regional_fascism_goal_name: "Potlačení fašismu"
@@ -442,7 +442,7 @@
  secure_chinese_waters_goal_name: "Zajistit čínské vody"
  secure_chinese_waters_goal_desc: "Můžeme dominovat na souši, ale s dlouhým pobřežím musíme zabránit invazi — a to začíná daleko na moři."
  faction_goal_subjugate_the_faction_name: "Podrobit frakci"
- faction_goal_subjugate_the_faction_desc: "Jediný způsob, jak odolat náporu cizích vetřelců, je postavit jednotný front se silným vedením. Z mnoha různých hlasů zazní velký sbor." # todo: CHANGED
+ faction_goal_subjugate_the_faction_desc: "Jediný způsob, jak odolat náporu cizích vetřelců, je postavit jednotný front se silným vedením. Z mnoha různých hlasů zazní jeden společný."
  faction_goal_north_subjugated_name: "Podrobit sever"
  faction_goal_north_subjugated_desc: "Pokud se soustředíme na integraci této části frakce, ostatní válečníci porozumí tomu, odkud vane vítr."
  faction_goal_west_subjugated_name: "Podrobit západ"
@@ -733,8 +733,8 @@
  HAS_DEPLOYED_AT_LEAST_5M_MANPOWER: "§YKaždý člen frakce§! s alespoň 5 miliony nasazeného personálu"
  ONE_PANZER_GENERAL: "§YAlespoň jeden generál§! s vlastností §Y$panzer_leader$§! nebo §Y$panzer_expert$§!:"
  ONE_INFANTRY_GENERAL: "§YAlespoň jeden generál§! s vlastností §Y$infantry_leader$§! nebo §Y$infantry_expert$§!:"
- ONE_ADMIRAL: "§YJeden admirál§!" # todo: CHANGED
- ONE_GENERAL: "§YJeden generál§!" # todo: CHANGED
+ ONE_ADMIRAL: "§YJeden admirál§!"
+ ONE_GENERAL: "§YJeden generál§!"
  ALL_FACTION_MEMBERS_WITH_1_MARINE: "§YKaždý člen frakce§!, který má alespoň 1 divizi §YNámořní pěchoty§!"
  ALL_FACTION_MEMBERS_WITH_25_SUBMARINES: "§YKaždý člen frakce§!, který disponuje alespoň 25 §YPonorkami§!"
  ALL_FACTION_MEMBERS_WITH_25_SCREENING_SHIPS: "§YKaždý člen frakce§!, který disponuje alespoň 25 §YDoprovodními loděmi§!"
@@ -803,11 +803,11 @@
  FACTION_MANPOWER_CONTRIBUTION_VALUE_DESC: "Přispívat £manpower_texticon $VALUE|H0%$ svého měsíčního zisku personálu do §Hgarnizónního§! fondu frakce."
  REQUEST_FACTION_MANPOWER: "Požádat o posily pro garnizóny"
  REQUEST_FACTION_MANPOWER_BUTTON: "Požádat o garnizón"
- REQUEST_FACTION_MANPOWER_DESC: "Potřebná pracovní síla pro udržení vašich okupačních zákonů: $NEEDED|H*$ \nCelkové množství pracovní síly v poolu, které nepochází z vaší země: $FREE|H*$\nMaximální množství pracovní síly, které lze požadovat při současném skóre příspěvků: $MAXCANBORROW|H*$\nSkóre příspěvků: $COST|.0+=$" # todo: CHANGED
+ REQUEST_FACTION_MANPOWER_DESC: "Potřebná personál pro udržení vašich okupačních zákonů: $NEEDED|H*$ \nCelkové množství dostupného personálu, který nepochází z vaší země: $FREE|H*$\nMaximální množství personálu, které lze požadovat při současném skóre příspěvků: $MAXCANBORROW|H*$\nSkóre příspěvků: $COST|.0+=$"
  REQUEST_FACTION_MANPOWER_VALUES: "$VAL|^1H$"
  FACTION_MANPOWER_VALUE: "£manpower_texticon£ $VALUE$"
- REQUEST_FACTION_MANPOWER_BUTTON_NO_MANPOWER: "§RNení k dispozici žádná pracovní síla.§!" # todo: CHANGED
- REQUEST_FACTION_MANPOWER_BUTTON_NO_GARRISON_NEEDED: "§RMomentálně nepotřebujete žádnou posádkovou podporu.§!" # todo: CHANGED
+ REQUEST_FACTION_MANPOWER_BUTTON_NO_MANPOWER: "§RNení k dispozici žádný personál.§!"
+ REQUEST_FACTION_MANPOWER_BUTTON_NO_GARRISON_NEEDED: "§RMomentálně nepotřebujete žádnou posádku.§!"
  REQUEST_FACTION_MANPOWER_BUTTON_DESC: "Zde můžete požádat o personál k doplnění prázdných garnizónů na území, které okupujete, abyste uvolnili vlastní muže pro armádu."
  FACTION_MANPOWER_DESC: "Celkový personál ve fondu: $ALL|H*$ \nPersonál, kterým jste přispěli: $YOUR|H*$\nPersonál, který můžete čerpat: $FREE|H*$\n"
  FACTION_MEMBER_UPGRADE_BELOW_MIN: "§RPod minimem požadovaným frakcí.§!"
@@ -885,7 +885,7 @@
  FACTION_BUTTON_JOIN_FACTION: "Odemkněte tlačítko frakce vytvořením frakce v politickém menu nebo vstupem do existující frakce"
  FACTION_BUTTON_DESC: "Spravujte a formujte svou frakci, pomáhejte spojencům a získávejte příspěvkové bonusy"
  FACTION_BUTTON_COMPLETED_HEADER: "£trigger_yes Splněné cíle frakce:"
- FACTION_BUTTON_CANCELED_HEADER: "£trigger_no Zrušené cíle frakce:" # todo: CHANGED
+ FACTION_BUTTON_CANCELED_HEADER: "£trigger_no Zrušené cíle frakce:"
  FACTION_BUTTON_GOAL_NAME: "$GOALNAME|H$"
  FACTION_BUTTON_GO_TO_GOALS_TAB: "Přejít na záložku Cíle frakce a nahradit cíl"
  FACTION_BUTTON_INITIATIVE: "Iniciativa frakce: $VAL|H$"
@@ -969,8 +969,8 @@
  FACTION_RULE_CONFRIMATION_DESC_REMOVE: "Opravdu chcete odstranit pravidlo $CURRENTRULENAME|H$ z vaší frakce? Bude to stát £faction_initiative_texticon£ $COST|.0H$.\n\n$CURRENTRULEDESC$"
  FACTION_RULE_CONFRIMATION_DESC_ADD: "Opravdu chcete přidat pravidlo $NEWRULENAME|H$ do vaší frakce? Bude to stát £faction_initiative_texticon£ $COST|.0H$.\n\n$NEWRULEDESC$"
  FACTION_RULE_EDIT_ALL: "Všechna pravidla"
- FACTION_RULE_AVAILABLE: "Dostupnost pravidla:" # todo: CHANGED
- FACTION_RULE_CAN_REMOVE: "Pravidlo lze odstranit, pokud:" # todo: CHANGED
+ FACTION_RULE_AVAILABLE: "Dostupnost pravidla:"
+ FACTION_RULE_CAN_REMOVE: "Pravidlo lze odstranit, pokud:"
  FACTION_RULE_CANNOT_REMOVE: "§RNelze odstranit:§!"
  FACTION_RULE_TYPE_GROUP_TITLE: "$TYPE|$ - $GROUP|H$"
  FACTION_RULE_SHOW_COMPLETED: "Zobrazit splněné cíle"
@@ -1000,8 +1000,8 @@
  ADD_GOAL_DESCRIPTION_FREE: "Opravdu chcete přidat $GOALNAME|H$?"
  GOAL_CONFIRMATION_DESCRIPTION_LOCKED: "§RTento cíl nelze nahradit, dokud nebude splněn§!"
  ADD_GOAL: "§GKlikněte pro přidání cíle§!"
- REPLACE_GOAL_DESCRIPTION: "Opravdu chcete nahradit $GOALSTATE$$OLDGOALNAME|H$ za $GOALNAME|H$? " # todo: CHANGED
- REPLACE_GOAL_DESCRIPTION_COST: "Bude to stát £faction_initiative_texticon $COST|.0$" # todo: CHANGED
+ REPLACE_GOAL_DESCRIPTION: "Opravdu chcete nahradit $GOALSTATE$$OLDGOALNAME|H$ za $GOALNAME|H$? "
+ REPLACE_GOAL_DESCRIPTION_COST: "Bude to stát £faction_initiative_texticon $COST|.0$"
  FACTION_FACILITY_COUNT: "Sloty zařízení: $COUNT|H$/$MAX|H$"
  FACTION_RESEARCH_FACILITY_NOT_ENOUGH_INITIATIVE: "§RNedostatek iniciativy k otevření nového výzkumného zařízení§!"
  FACTION_RESEARCH_FACILITY_MAX_REACHED: "§RMaximální počet výzkumných zařízení dosažen§!"
@@ -1072,7 +1072,7 @@
  FACTION_THEATER_TOOLTIP_DELAYED: "§GKlikněte§! pro výběr válčiště"
  FACTION_MAX_NUMBER_OF_THEATERS: "§RNelze vytvořit více než $NUM$ válčišť!§!"
  FACTION_THEATER_AMOUNT: "Válčiště frakce: §H$UNLOCKED$/$MAX$§!"
- FACTION_THEATER_MAP_MODE_NO_OWNER: "Pouze vlastník může přidávat strategické regiony." # todo: CHANGED
+ FACTION_THEATER_MAP_MODE_NO_OWNER: "Pouze vlastník může přidávat strategické regiony."
  FACTION_THEATER_MAP_MODE_ADD: "§GKlikněte§! pro přidání regionu $NAME|H$ do válčiště"
  FACTION_THEATER_MAP_MODE_REMOVE: "§GKlikněte§! pro odebrání regionu $NAME|H$ z válčiště"
  FACTION_THEATER_MAP_MODE_MAX_REACHED: "§RDosažen maximální počet regionů§!"
@@ -1154,19 +1154,19 @@
  TRIGGER_HAS_NOT_ACTIVE_FACTION_RULE: "$COUNTRY_OR_FACTION|H$ nemá aktivní pravidlo $RULE|H$"
  fortify_dardanelles_goal_desc: "Opevnění Dardanel by posílilo naši schopnost ovlivňovat pohyb flotily a obchodních lodí z Černého moře."
  SCALING_MODIFIER_SECTION_TITLE_REVERSED: "$faction_divider_dashes$\n\n§HPři 0% pokroku manifestu (škálováno):§!"
- TRIGGER_MISSING_EXPL_INVERSE: "Aktuální: $CURRENT|H*$, Maximálně povoleno: $MIN_NEED|H*$" # todo: NEW TRANSLATION
- ALL_FACTION_MEMBERS_WITH_1_AMPHIBIOUS: "§YKaždý člen frakce§! nasazující alespoň 1 §Yamfibní§! divizi" # todo: NEW TRANSLATION
- REQUEST_FACTION_MANPOWER_BUTTON_INSUFFICIENT_CONTRIBUTION: "§RPotřebujete vyšší skóre příspěvku, abyste mohli požádat o lidskou sílu.§!" # todo: NEW TRANSLATION
- FACTION_THEATER_ADD_COUNTRY: "§GKlikněte§! pro přidání $COUNTRY|H$" # todo: NEW TRANSLATION
- FACTION_THEATER_REMOVE_COUNTRY: "§GKlikněte§! pro odebrání $COUNTRY|H$" # todo: NEW TRANSLATION
- FACTION_THEATER_COUNTRY_ITEM_DESC: "Celkový počet divizí: $ARMY|H*$\nCelkový počet úderných skupin: $NAVY|H*$" # todo: NEW TRANSLATION
- FACTION_GOAL_RULE_TT: "§HPravidla frakce§!, určující, kdo může přidávat §HCíle§!:" # todo: NEW TRANSLATION
- goals_only_faction_leader: "Vedoucí frakce určuje cíle" # todo: NEW TRANSLATION
- faction_set_goal_rules: "Nastavení cílů" # todo: NEW TRANSLATION
- GOAL_COMPLETED: "splněno " # todo: NEW TRANSLATION
- GOAL_CANCELED: "zrušeno " # todo: NEW TRANSLATION
- FACTION_THEATER_NOT_THE_OWNER: "§RNejste vlastníkem tohoto divadla operací frakce.§!" # todo: NEW TRANSLATION
- FACTION_THEATER_SETTINGS_NO_OWNER: "Pouze vlastník může měnit nastavení frakčního divadla." # todo: NEW TRANSLATION
- FACTION_THEATER_COUNTRY_SELECT_NO_OWNER: "Pouze vlastník může měnit vybrané země." # todo: NEW TRANSLATION
- FACTION_THEATER_REGION_TOOLTIP: "Maximálně $MAX|H$ regionů lze přidat do divadla podle §Húrovně dovednosti velitele§!.\n\nRegion lze přidat pouze do jediného divadla." # todo: NEW TRANSLATION
- FACTION_THEATER_COUNTRY_TOOLTIP: "Maximálně $MAX|H$ zemí lze přidat do regionu podle §Húrovně dovednosti velitele§!.\n\nZemě lze přidat pouze do jednoho divadla." # todo: NEW TRANSLATION
+ TRIGGER_MISSING_EXPL_INVERSE: "Aktuální: $CURRENT|H*$, Maximálně povoleno: $MIN_NEED|H*$"
+ ALL_FACTION_MEMBERS_WITH_1_AMPHIBIOUS: "§YKaždý člen frakce§! nasazující alespoň 1 §Yobojživelnou§! divizi"
+ REQUEST_FACTION_MANPOWER_BUTTON_INSUFFICIENT_CONTRIBUTION: "§RPotřebujete vyšší skóre příspěvku, abyste mohli požádat o personál.§!"
+ FACTION_THEATER_ADD_COUNTRY: "§GKlikněte§! pro přidání $COUNTRY|H$"
+ FACTION_THEATER_REMOVE_COUNTRY: "§GKlikněte§! pro odebrání $COUNTRY|H$"
+ FACTION_THEATER_COUNTRY_ITEM_DESC: "Celkový počet divizí: $ARMY|H*$\nCelkový počet úderných skupin: $NAVY|H*$"
+ FACTION_GOAL_RULE_TT: "§HPravidla frakce§!, určující, kdo může přidávat §HCíle§!:"
+ goals_only_faction_leader: "Vůdce frakce určuje cíle"
+ faction_set_goal_rules: "Nastavení cílů"
+ GOAL_COMPLETED: "splněno "
+ GOAL_CANCELED: "zrušeno "
+ FACTION_THEATER_NOT_THE_OWNER: "§RNejste vlastníkem tohoto válčiště frakce.§!"
+ FACTION_THEATER_SETTINGS_NO_OWNER: "Pouze vlastník může měnit nastavení válčiště."
+ FACTION_THEATER_COUNTRY_SELECT_NO_OWNER: "Pouze vlastník může měnit vybrané země."
+ FACTION_THEATER_REGION_TOOLTIP: "Maximálně $MAX|H$ regionů lze přidat do válčiště podle §Húrovně dovednosti velitele§!.\n\nRegion lze přidat pouze do jediného válčiště."
+ FACTION_THEATER_COUNTRY_TOOLTIP: "Maximálně $MAX|H$ zemí lze přidat do regionu podle §Húrovně dovednosti velitele§!.\n\nZemě lze přidat pouze do jednoho válčiště."

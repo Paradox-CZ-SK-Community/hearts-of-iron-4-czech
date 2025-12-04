@@ -478,11 +478,11 @@
  AAT_Sweden_flashpoints.79.desc: "[FIN.GetName] nám předložilo velmi přímé „ne“, pokud jde o otázku předání kontroly nad Ålandskými ostrovy."
  AAT_Sweden_flashpoints.79.t: "[FIN.GetName] odmítá"
  AAT_Sweden_flashpoints.80.a: "Výborně."
- AAT_Sweden_flashpoints.80.desc: "Vzhledem k jejich nejisté situaci by raději viděli, že ostrovy ovládáme my, než aby je obsadil cizí okupant. Místní obyvatelé, kteří už z většiny mluví [SWE.GetAdjective], to přijali dobře a jejich životy pokračují jako obvykle." # todo: CHANGED
+ AAT_Sweden_flashpoints.80.desc: "Vzhledem k jejich nejisté situaci by raději viděli, že ostrovy ovládáme my, než aby je obsadil cizí okupant. Místní obyvatelé, kteří už z většiny mluví švédsky, to přijali dobře a jejich životy pokračují jako obvykle."
  AAT_Sweden_flashpoints.80.t: "[FIN.GetName] souhlasí"
  AAT_Sweden_flashpoints.81.a: "Stojí to za to."
  AAT_Sweden_flashpoints.81.b: "Ne."
- AAT_Sweden_flashpoints.81.desc: "[FIN.GetName] připouští ochotu vzdát se ostrovů Åland, ale zdůrazňuje, že má v tuto chvíli nedostatek financí.\nNabízí, že nám umožní kontrolu nad ostrovy výměnou za částku z našich státních rezerv jako kompenzaci za jejich ztracené příjmy." # todo: CHANGED
+ AAT_Sweden_flashpoints.81.desc: "[FIN.GetName] připouští ochotu vzdát se ostrovů Åland, ale zdůrazňuje, že má v tuto chvíli nedostatek financí.\nNabízí, že nám umožní kontrolu nad ostrovy výměnou za částku z našich státních rezerv jako kompenzaci za jejich ušlé příjmy."
  AAT_Sweden_flashpoints.81.t: "[FIN.GetName] souhlasí, za cenu"
  AAT_Sweden_flashpoints.82.a: "Nezbytný náklad."
  AAT_Sweden_flashpoints.82.desc: "[SWE.GetName] souhlasilo s finanční kompenzací za Åland. S probíhající transakcí byla uspořádána malá ceremonie a přestože někteří Ålanďané mají pochopitelně obavy o budoucnost, [SWE.GetAdjective] úřady tvrdí, že přechod bude co nejplynulejší a že respektují jejich způsob života."
