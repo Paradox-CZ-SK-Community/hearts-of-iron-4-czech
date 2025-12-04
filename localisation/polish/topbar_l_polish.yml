@@ -77,9 +77,9 @@
  TOPBAR_TIMEOUT_ITEM_LOC: "$NAME$ ($DAYS|R0$ dní zbývá)"
  TOPBAR_TRADE: "Obchod"
  TOPBAR_TRADE_DESC: "Obchodujte se zdroji z celého světa."
- TOPBAR_ENERGY_DEMAND: "£energy_texticon Poptávka po energii: $DEMAND_VAL|H1$ ($ENERGY_RATIO|H1%$)" # todo: CHANGED
- TOPBAR_ENERGY_GENERATED: "£energy_texticon Vyrobená energie: $ENERGY_GENERATED|H1$" # todo: CHANGED
+ TOPBAR_ENERGY_DEMAND: "£energy_texticon Poptávka po energii: $DEMAND_VAL|H1$ ($ENERGY_RATIO|H1%$)"
+ TOPBAR_ENERGY_GENERATED: "£energy_texticon Vyrobená energie: $ENERGY_GENERATED|H1$"
  TOPBAR_COAL_CURRENTLY_USED: "Z §Y$COUNT$§! £energy_consumption_texticon uhlí aktuálně spotřebované"
- TOPBAR_MAXIMUM_ENERGY_GENERATED: "£energy_texticon Maximální vyrobená energie: $ENERGY_GENERATED|H1$" # todo: CHANGED
+ TOPBAR_MAXIMUM_ENERGY_GENERATED: "£energy_texticon Maximální vyrobená energie: $ENERGY_GENERATED|H1$"
  TOPBAR_TOTAL_COAL: "Z §Y$COUNT$§! £energy_consumption_texticon uhlí dostupné k použití"
- TOPBAR_FACTORY_STATUS_SUBJECT: "Vztahy s vazály: $COUNT|+=$" # todo: NEW TRANSLATION
+ TOPBAR_FACTORY_STATUS_SUBJECT: "Vztahy se subjekty: $COUNT|+=$"

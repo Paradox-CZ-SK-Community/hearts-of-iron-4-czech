@@ -458,10 +458,10 @@
  baltic_siezed_means_of_production_idea: "Uchvácení výrobních prostředků"
  baltic_soviet_settlers: "Sovětské osídlení"
  base_strike_academy_spirit: "Integrované letecké složky"
- base_strike_academy_spirit_desc: "Těsná spolupráce mezi vzdušnými a námořními jednotkami je zásadní!" # todo: CHANGED
+ base_strike_academy_spirit_desc: "Úzká spolupráce mezi letectvem a námořnictvem je životně důležitá"
  base_strike_academy_spirit_tt: "Noví admirálové: §G50% šance§!, že začnou s rysem §Y„$aviation_enthusiast$“§!."
  base_strike_navy_spirit: "Mobilní síla"
- base_strike_navy_spirit_desc: "Schopnost udeřit kdekoli a kdykoli." # todo: CHANGED
+ base_strike_navy_spirit_desc: "Být schopný udeřit kdekoli a kdykoli."
  battlefield_air_interdiction_spirit: "Bojové letecké útoky"
  battlefield_air_interdiction_spirit_desc: "Úzká spolupráce mezi letectvem a pozemními silami."
  best_of_the_best_naval_academy_spirit: "Nejlepší z nejlepších"
@@ -499,7 +499,7 @@
  constraining_hierarchy_spirit: "Svazující hierarchie"
  constraining_hierarchy_spirit_desc: "Pokud nebudeš pečlivě sledovat, kde jsou tvoji podřízení, někdo ti je nakonec přetáhne."
  continuous_strike_spirit: "Nepřetržitý úder"
- continuous_strike_spirit_desc: "Zničení klíčového nepřátelského vybavení je zásadní." # todo: CHANGED
+ continuous_strike_spirit_desc: "Zničení klíčového nepřátelského vybavení je zásadní."
  cruiser_warfare_spirit: "Křižníková válka"
  cruiser_warfare_spirit_desc: "Křižníky jsou nejlepší typ lodí - zvládnou jakýkoli úkol."
  cult_of_the_signal_flag_spirit: "Kult signálních vlajek"
@@ -508,7 +508,7 @@
  damage_control_training_spirit_desc: "Dobře vycvičené posádky znamenají méně ztrát na naší straně."
  damage_control_training_spirit_tt: "Noví admirálové: §G50% šance§! začít s rysem §Y„$chief_engineer$“§!."
  decisive_battle_spirit: "Rozhodující bitva"
- decisive_battle_spirit_desc: "Jít do bitvy naplno vám vždy dá iniciativu." # todo: CHANGED
+ decisive_battle_spirit_desc: "Jít do bitvy naplno vždy přináší iniciativu."
  democratic_crusader: "Demokratický křižák"
  democratic_opposition: "Demokratická opozice"
  democratic_opposition_idea_1: "Slabá demokratická opozice"
@@ -522,7 +522,7 @@
  disregard_for_the_common_soldier_spirit: "Pohrdání obyčejným vojákem"
  disregard_for_the_common_soldier_spirit_desc: "Průměrný voják je ta nejhloupější, nejošklivější a nejlínější bytost, kterou lze nacpat do uniformy."
  dive_bombing_spirit: "Střemhlavé bombardování"
- dive_bombing_spirit_desc: "Sejměte jednu letadlovou loď." # todo: CHANGED
+ dive_bombing_spirit_desc: "Sejměte jednu letadlovou loď."
  division_command_spirit: "Duch divizního velení"
  doctrinal_orthodoxy_spirit: "Doktrinální ortodoxie"
  doctrinal_orthodoxy_spirit_desc: "Tohle jsme za mých časů nedělali."
@@ -551,16 +551,16 @@
  expert_marksmen_spirit_desc: "Jde jen o to vědět, kam zamířit a kdy zmáčknout spoušť."
  father_of_polish_nationalism: "Otec polského nacionalismu"
  fleet_in_being_academy_spirit: "Velká flotila"
- fleet_in_being_academy_spirit_desc: "Výcvik taktik ve velkém rozsahu." # todo: CHANGED
+ fleet_in_being_academy_spirit_desc: "Výcvik taktik ve velkém rozsahu."
  fleet_in_being_academy_spirit_tt: "Noví admirálové: §G50% šance§! začít s rysem §Y„$gunnery_expert$“§!."
  fleet_in_being_navy_spirit: "Globální přítomnost"
- fleet_in_being_navy_spirit_desc: "Naše lodě budou hlídkovat po oceánech po celém světě." # todo: CHANGED
+ fleet_in_being_navy_spirit_desc: "Naše lodě budou hlídkovat po oceánech po celém světě."
  flexible_contracts_spirit: "Flexibilní kontrakty"
  flexible_contracts_spirit_desc: "Nejlepší kontrakt je ten, který lze zrušit."
  flexible_organization_spirit: "Flexibilní organizace"
  flexible_organization_spirit_desc: "Důležité je splnit úkol, ne slepě následovat rozkazy."
  grand_battleplan_army_spirit: "Hrot kopí"
- grand_battleplan_army_spirit_desc: "Dýka v noci je často účinnější než dlouhý meč přes den." # todo: CHANGED
+ grand_battleplan_army_spirit_desc: "Dýka v noci je často účinnější než dlouhý meč přes den."
  green_water_spirit: "Zelené vody"
  green_water_spirit_desc: "Držet se při pobřeží je nejbezpečnější."
  hardline_latvian_nationalist: "Tvrdý lotyšský nacionalista"
@@ -575,7 +575,7 @@
  independent_air_force_spirit: "Nezávislé letectvo"
  independent_air_force_spirit_desc: "Letectvo je samostatná složka, stejně důležitá jako armáda či námořnictvo."
  industrial_destruction_spirit: "Průmyslová destrukce"
- industrial_destruction_spirit_desc: "1000 bombardérů mohou změnit průběh války jedním úderem." # todo: CHANGED
+ industrial_destruction_spirit_desc: "Tisíc bombardérů může změnit průběh války jedním úderem."
  industry_liasons_spirit: "Průmyslové styky"
  industry_liasons_spirit_desc: "Jen bezproblémová spolupráce mezi leteckým průmyslem, armádou a vládou zajistí nejvyšší kvalitu."
  instilled_aggression_spirit: "Vštěpená agresivita"
@@ -603,26 +603,26 @@
  limited_sea_time_spirit: "Omezený čas na moři"
  limited_sea_time_spirit_desc: "Udržovat flotilu na moři je drahé."
  logistical_focus_spirit: "Důraz na logistiku"
- logistical_focus_spirit_desc: "Vojáci se mohou uskromnit, ale tanky musí mít palivo." # todo: CHANGED
+ logistical_focus_spirit_desc: "Vojáci se mohou uskromnit, ale tanky musí mít palivo."
  long_range_navigation_spirit: "Dálková navigace"
  long_range_navigation_spirit_desc: "Můžou utéct, ale neschovají se."
  long_range_patrol_spirit: "Dálková hlídka"
  long_range_patrol_spirit_desc: "Ovládání vzdušného prostoru daleko od domova."
  maneuver_warfare_spirit: "Manévrová válka"
- maneuver_warfare_spirit_desc: "Pořádná, civilizovaná válka je spíš šachová partie než rvačka. Proč bojovat s nepřítelem, kterého můžete obejít?" # todo: CHANGED
+ maneuver_warfare_spirit_desc: "Správná, civilizovaná válka je víc jako šachová partie než bitka. Proč bojovat s nepřítelem, kterého můžeš obejít?"
  maritime_patrol_spirit: "Námořní hlídkování"
  maritime_patrol_spirit_desc: "Pokud to plave, najdeme to."
  married_to_latvia: "Oddán Lotyšsku"
  marxist_fundamentalist: "Marxistický fundamentalista"
  mass_assault_academy_spirit: "Královna bitev"
- mass_assault_academy_spirit_desc: "Pěchota je královnou boje a královna jde, kam chce." # todo: CHANGED
+ mass_assault_academy_spirit_desc: "Pěchota je královnou bitev a královna si jde, kam se jí zalíbí."
  mass_assault_academy_spirit_tt: "Noví důstojníci: mohou začít s rysem §Y„$infantry_officer$“§!."
  mass_assault_army_spirit: "Síla bodáků"
- mass_assault_army_spirit_desc: "Nakonec tank ani letadlo nedokážou udržet kus území." # todo: CHANGED
+ mass_assault_army_spirit_desc: "Koneckonců, tank nebo letadlo nedokáže udržet kus země."
  massed_strike_spirit: "Masivní úder"
- massed_strike_spirit_desc: "Narušení nepřátelských pozemních sil je nejlepší způsob, jak je porazit." # todo: CHANGED
+ massed_strike_spirit_desc: "Narušení nepřátelských pozemních sil je nejlepší způsob, jak je porazit."
  material_destruction_spirit: "Materiální destrukce"
- material_destruction_spirit_desc: "Zničení vybavení a narušení nepřátelských komunikačních spojení zajistí vítězství rychleji než jakýkoli počet způsobených ztrát." # todo: CHANGED
+ material_destruction_spirit_desc: "Ničení vybavení a narušování komunikačních linií nepřítele přinese vítězství rychleji než jakýkoli počet ztrát."
  merchant_mariners_spirit: "Obchodní námořníci"
  merchant_mariners_spirit_desc: "Námořnické umění je pro nás druhou přirozeností."
  merchant_mariners_spirit_tt: "Noví admirálové: §G50% šance§! začít s rysem §Y„$naval_lineage$“§!."
@@ -632,10 +632,10 @@
  militant_minister: "Militantní ministr"
  military_appeasement: "Vojenské ústupky"
  mobile_warfare_academy_spirit: "Přijmout budoucnost"
- mobile_warfare_academy_spirit_desc: "Kdekoli se budou bojovat budoucí bitvy, obrněné jednotky budou hrát rozhodující roli." # todo: CHANGED
+ mobile_warfare_academy_spirit_desc: "Kdekoli se budou bojovat budoucí bitvy, obrněné jednotky budou hrát rozhodující roli."
  mobile_warfare_academy_spirit_tt: "Noví důstojníci: mohou začít s rysem §Y„$panzer_leader$“§!."
  mobile_warfare_army_spirit: "Motorizační tah"
- mobile_warfare_army_spirit_desc: "Udeř rychleji, dojeď dál, vyhraj drtivěji!" # todo: CHANGED
+ mobile_warfare_army_spirit_desc: "Udeř rychleji, dojeď dál, vyhraj drtivěji!"
  national_propagandist: "Národní propagandista"
  nationalist_journalist: "Nacionalistický novinář"
  naval_academy_scholarships_spirit: "Stipendia námořní akademie"
@@ -670,7 +670,7 @@
  only_big_guns_spirit: "Jen velká děla"
  only_big_guns_spirit_desc: "Bitevní lodě jsou nesporné královny oceánů."
  operational_reserve_spirit: "Operační zálohy"
- operational_reserve_spirit_desc: "Vždy mějte něco v rukávu. Vždy." # todo: CHANGED
+ operational_reserve_spirit_desc: "Vždy mějte něco v rukávu. Vždy."
  overbearing_admirality_spirit: "Panovačná admiralita"
  overbearing_admirality_spirit_desc: "Vždy se poraď s admiralitou."
  overbearing_army_spirit: "Panovačná armáda"
@@ -710,7 +710,7 @@
  signals_training_spirit_desc: "Aby každý muž splnil svou povinnost, musí vědět, jaká ta povinnost je."
  signals_training_spirit_tt: "Admirálové: §G50% šance§! získat §Y+1 Manévrování a Koordinace§! při povýšení."
  smoke_and_fire_spirit: "Kouř a oheň"
- smoke_and_fire_spirit_desc: "Postupný dělostřelecký přehradný oheň je překvapivě účinný při zabránění nepříteli v střelbě." # todo: CHANGED
+ smoke_and_fire_spirit_desc: "Pohyblivá dělostřelecká baráž je překvapivě účinná v zabránění nepříteli opětovat palbu."
  socdem_reformist: "Demokratický reformista"
  socialist_autocrat: "Socialistický autokrat"
  socialist_justice: "Socialistická spravedlnost"
@@ -723,7 +723,7 @@
  steel_wings_steel_hearts_spirit: "Ocelová křídla, ocelová srdce"
  steel_wings_steel_hearts_spirit_desc: "Vést válku v 10 000 stopách vyžaduje zvláštní druh odvahy.\n\n§GTento duch je dostupný díky naší ideologii.§!"
  strategic_strike_spirit: "Totální zkáza"
- strategic_strike_spirit_desc: "Masivní strategické údery do srdce nepřítele zlomí jejich schopnost bojovat." # todo: CHANGED
+ strategic_strike_spirit_desc: "Masivní strategické údery do srdce nepřítele zlomí jeho schopnost bojovat."
  subservience_to_army_spirit: "Podřízenost armádě"
  subservience_to_army_spirit_desc: "Pracovní náplň je jednoduchá - bombardovat tam, kam generálové ukážou."
  subservience_to_navy_spirit: "Podřízenost námořnictvu"
@@ -732,14 +732,14 @@
  subservient_democrat_democratic: "Podřízený demokrat"
  subservient_ultranationalist: "Podřízený ultranacionalista"
  superior_firepower_academy_spirit: "Inženýrské školy"
- superior_firepower_academy_spirit_desc: "K vykopání správného zákopu je zapotřebí hodně vědy." # todo: CHANGED
+ superior_firepower_academy_spirit_desc: "K vykopání správného zákopu je zapotřebí hodně vědy."
  superior_firepower_academy_spirit_tt: "Noví důstojníci: mohou začít s rysem §Y„$engineer_officer$“§!."
  superior_firepower_army_spirit: "Drtivá palebná síla"
- superior_firepower_army_spirit_desc: "Pokud vám dělostřelectvo nezajišťuje vítězství v bitvách, nepoužíváte ho dostatečně." # todo: CHANGED
+ superior_firepower_army_spirit_desc: "Pokud vám dělostřelectvo nezajišťuje vítězství v bitvách, nepoužíváte ho dostatečně."
  surface_raiders_spirit: "Nájezdníci na hladině"
- surface_raiders_spirit_desc: "Proč nechat ponorky dělat všechny nájezdy?" # todo: CHANGED
+ surface_raiders_spirit_desc: "Proč nechat nájezdy jen na ponorky?"
  surprise_attacks_spirit: "Překvapivé útoky"
- surprise_attacks_spirit_desc: "Zasáhnout nepřítele dřív, než si uvědomí hrozbu." # todo: CHANGED
+ surprise_attacks_spirit_desc: "Udeřit na nepřítele dříve, než si uvědomí hrozbu."
  tenacious_defense_spirit: "Neústupná obrana"
  tenacious_defense_spirit_desc: "Neprojdou!"
  tenacious_defense_spirit_tt: "Důstojníci: §G50% šance§! na §Y+1 Obranu§! při povýšení."
@@ -748,12 +748,12 @@
  the_last_romanov_probably: "Poslední Romanov"
  theatre_training_academy_spirit_tt: "§G50% šance§!, že noví důstojníci budou mít rys §Y„$brilliant_strategist$“§! nebo §Y„$inflexible_strategist$“§!."
  theatre_training_spirit: "Výcvik podle bojiště"
- theatre_training_spirit_desc: "Někteří důstojníci se mohou 'přejít na místní způsob', ale místní jsou ve svém terénu v boji velmi zdatní." # todo: CHANGED
+ theatre_training_spirit_desc: "Někteří důstojníci mohou „zdomácnět“, ale domorodci jsou v boji na svém terénu nejlepší."
  trade_interdiction_academy_spirit: "Konvojová válka"
- trade_interdiction_academy_spirit_desc: "Obchodní konvoje vyžadují speciální taktiky a výcvik." # todo: CHANGED
+ trade_interdiction_academy_spirit_desc: "Obchodní konvoje vyžadují speciální taktiku a výcvik."
  trade_interdiction_academy_spirit_tt: "Noví admirálové: §G50% šance§! začít s rysem §Y„$seawolf$“§! nebo §Y„$blockade_runner$“§!."
  trade_interdiction_navy_spirit: "Nadvláda ponorek"
- trade_interdiction_navy_spirit_desc: "Bez zásob nemůže stát vést válku." # todo: CHANGED
+ trade_interdiction_navy_spirit_desc: "Bez zásob nemůže stát vést válku."
  traditionalism_academy_spirit: "Traditionalismus"
  traditionalism_academy_spirit_desc: "Válka. Válka se nikdy nemění."
  traditionalism_academy_spirit_tt: "§R-20% šance§!, že nový důstojník bude mít rys §Y„$armor_officer$“§!. §R20% šance§!, že nový důstojník bude mít nižší dovednost v §YÚtoku§! nebo §YObraně§!."

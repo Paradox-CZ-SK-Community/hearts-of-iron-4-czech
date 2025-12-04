@@ -11,8 +11,8 @@
  advanced_dp_light_battery: "Pokročilá dvojúčelová baterie"
  advanced_encryption_desc: "Technologická vylepšení a těžce nabyté zkušenosti nám umožňují zavést do naší komunikace více opatření pro zabezpečení datových toků."
  advanced_encryption: "Šifrování - Pulzně kódová modulace"
- advanced_equipment_conversion_desc: "Přijetí vylepšených konstrukcí generátorů jim umožní pracovat při mnohem vyšších tlacích a teplotách, čímž se výrazně zvýší energetická účinnost našich uhelných elektráren." # todo: CHANGED
- advanced_equipment_conversion: "Vysoce účinné turbíny" # todo: CHANGED
+ advanced_equipment_conversion_desc: "Přijetí vylepšených konstrukcí generátorů jim umožní pracovat při mnohem vyšších tlacích a teplotách, čímž se výrazně zvýší energetická účinnost našich uhelných elektráren."
+ advanced_equipment_conversion: "Vysoce účinné turbíny"
  advanced_fire_control_system_desc: "Velký a složitý mechanický počítač, který sleduje velké množství vstupních údajů o cíli, střílející lodi, povětrnostních podmínkách a stavu moře, umožňuje velmi přesné balistické výpočty."
  advanced_fire_control_system: "Pokročilý systém řízení palby"
  advanced_firebases_desc: "Dělostřelecké stanoviště může být umístěno v blízkosti frontové linie na opevněných základnách, aby poskytovalo maximální možnou podporu postupujícím jednotkám."
@@ -594,8 +594,8 @@
  improved_dp_light_battery: "Vylepšená baterie dvojího určení"
  improved_encryption_desc: "Omezení v náhodnosti šifrovacích strojů lze využít k prolomení šifer. Zlepšením náhodnosti rotorové mechaniky můžeme tento druh kryptoanalýzy ztížit."
  improved_encryption: "Šifrování - cyklické permutace"
- improved_equipment_conversion_desc: "Používáním jemně rozemletého uhlí k ohřevu kotlů můžeme dosáhnout mnohem vyšší účinnosti spalování, což vede k vyšší výrobě energie pro náš průmysl." # todo: CHANGED
- improved_equipment_conversion: "Kotle spalující mleté uhlí" # todo: CHANGED
+ improved_equipment_conversion_desc: "Používáním jemně rozemletého uhlí k ohřevu kotlů můžeme dosáhnout mnohem vyšší účinnosti spalování, což vede k vyšší výrobě energie pro náš průmysl."
+ improved_equipment_conversion: "Kotle spalující mleté uhlí"
  improved_fire_control_system_desc: "Zadáním kurzu, rychlosti a vzdálenosti cíle může mechanický počítač přesně předpovědět, kde se cíl bude nacházet, když bude další salva připravena k vypálení."
  improved_fire_control_system: "Vylepšený systém řízení palby"
  improved_heavy_armor_scheme_desc: "Tento plán se zaměřuje na ochranu pouze nejdůležitějších částí lodi, zatímco nepodstatné oblasti ponechává bez pancéřování.\n\nMontáž tohoto modulu na §YTěžké lodě§! zvyšuje jejich schopnost §Yodolávat nepřátelskému poškození§!. §YBitevní lodě§! a §YBitevní křižníky§! jsou definovány svými odlišnými §Ytypy pancéřování§!."

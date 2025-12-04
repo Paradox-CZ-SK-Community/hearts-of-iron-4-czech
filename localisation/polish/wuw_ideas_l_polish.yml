@@ -804,5 +804,5 @@
  wuw_HUN_not_has_trianon_for_laws_tt: "Nemá národního ducha §YTrianonská smlouva§!"
  wuw_connected_autobahn: "Napojení na dálnici"
  GER_army_communist_modifier: "Volksarmee"
- BEL_chasseurs_ardennais_ns_ncns: "$BEL_chasseurs_ardennais_ns$" # todo: NEW TRANSLATION
- BEL_chasseurs_ardennais_ns_ncns_desc: "$BEL_chasseurs_ardennais_ns_desc$" # todo: NEW TRANSLATION
+ BEL_chasseurs_ardennais_ns_ncns: "$BEL_chasseurs_ardennais_ns$"
+ BEL_chasseurs_ardennais_ns_ncns_desc: "$BEL_chasseurs_ardennais_ns_desc$"
