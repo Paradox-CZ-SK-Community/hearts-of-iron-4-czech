@@ -345,7 +345,7 @@
  BBA_ethiopia_communist_events.58.desc: "Jak se dalo očekávat, revolucionářská chátra, která řídí [ETH.GetNameDef], odmítla vydat [JAP.GetAdjective] disidenty, kteří přicházejí do země. A v naprosto vulgárním porušení diplomatického protokolu jejich odpověď obsahovala i množství urážek našeho slavného císaře!"
  BBA_ethiopia_communist_events.58.t: "Vztahy [ETH.GetNameDef]-[JAP.GetName] zničeny"
  BBA_ethiopia_communist_events.59.a: "Jejich obchod stejně nepotřebujeme."
- BBA_ethiopia_communist_events.59.desc: "Zdá se, že naše nedávné odmítnutí [JAP.GetAdjective] požadavků zasáhlo jejich vládu do živého. Oznámili, že nás hodlají embargo­vat na neurčito kvůli údajné „závadné ideologické aktivitě“ ve Východní Africe."
+ BBA_ethiopia_communist_events.59.desc: "Zdá se, že naše nedávné odmítnutí [JAP.GetAdjective] požadavků zasáhlo jejich vládu do živého. Oznámili, že nás hodlají embargovat na neurčito kvůli údajné „závadné ideologické aktivitě“ ve Východní Africe."
  BBA_ethiopia_communist_events.59.t: "[JAP.GetAdjectiveCap] embargo"
  BBA_ethiopia_communist_events.60.a: "Jak pokrytecké - jejich imperialistické násilí lze zastavit jen silou."
  BBA_ethiopia_communist_events.60.desc: "Velvyslanci země [FROM.GetNameDef] odmítli naši nabídku míru. Tvrdí, že náš útok byl zcela nevyprovokovaný, a proto přijmou pouze bezpodmínečnou kapitulaci za to, že jsme prý ohrozili regionální mír."

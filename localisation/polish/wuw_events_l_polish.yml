@@ -203,7 +203,7 @@
  AUS_political_events.13.desc: "Obdrželi jsme protesty proti embargu, které jsme - stejně jako mnozí jiní - uvalili na [ITA.GetNameDef]. [AUS.GetAdjectiveCap] vedení tvrdí, že embargo je nepřiměřené a bezdůvodné, a požaduje, abychom jej zrušili.\n\nKdyž jsme se jich zeptali na jejich skutečné důvody, odmítlo vedení [FROM.GetNameDef] dále cokoli vysvětlovat."
  AUS_political_events.13.t: "[FROM.GetNameDefCap] protestuje proti embargu na [ITA.GetNameDef]"
  AUS_political_events.14.a: "Odvážný krok ze strany [FROM.GetAdjective]"
- AUS_political_events.14.desc: "[FROM.GetNameDefCap] nedávno protestoval proti embargu uvalenému na nás. Tvrdíce, že jsme pro ně mimořádně ceněným spojencem, aktivně zasílají námitky všem státům, které nás embargo­valy, aby nám alespoň trochu ulehčili situaci."
+ AUS_political_events.14.desc: "[FROM.GetNameDefCap] nedávno protestoval proti embargu uvalenému na nás. Tvrdíce, že jsme pro ně mimořádně ceněným spojencem, aktivně zasílají námitky všem státům, které nás embargovaly, aby nám alespoň trochu ulehčili situaci."
  AUS_political_events.14.t: "[FROM.GetNameDefCap] vystupuje proti embargu vůči nám"
  AUS_political_events.15.a: "Tak snadno nás neztratí!"
  AUS_political_events.15.b: "Jak nezdvořilé!"

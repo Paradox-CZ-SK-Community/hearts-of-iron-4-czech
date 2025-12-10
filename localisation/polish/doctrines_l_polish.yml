@@ -519,7 +519,7 @@
  HAS_NOT_GRAND_DOCTRINE: "Nemá aktivní hlavní doktrínu: £doctrine_mod $NAME|H$"
  GRAND_DOCTRINE_DESCRIPTION: "Základní kámen naší vojenské strategie - hlavní doktrína určuje celkové pojetí vedení války."
  GRAND_DOCTRINE_BENEFIT_DESCRIPTION: "§gPřiřazením hlavní doktríny zpřístupníte sadu směrů §Hdílčích doktrin§!. Ty se rozvíjejí získáváním £doctrine_mastery §Hmistrovství§! z bojové činnosti jednotek. Dokončení dílčí doktríny aktivuje §Hmilstník§!, který dále posiluje vaši hlavní doktrínu.§!"
- SUBDOCTRINE_DESCRIPTION: "Subdoktrína umožňuje specializovat a zdokonalit náš přístup k boji v konkrétní oblasti."
+ SUBDOCTRINE_DESCRIPTION: "Dílčí doktrína umožňuje specializovat a zdokonalit náš přístup k boji v konkrétní oblasti."
  SUBDOCTRINE_BENEFIT_DESCRIPTION: "§gPřiřazením dílčí doktríny umožníte zisk £doctrine_mastery §Hmistrovství§! pro tento směr. Po dosažení určitých úrovní mistrovství se odemykají nové efekty.§!"
  DOCTRINE_COST_TITLE: "Doktrína "
  GRAND_DOCTRINE_COST_REDUCTION: "Cena hlavní doktríny: $VALUE|%=-0$"

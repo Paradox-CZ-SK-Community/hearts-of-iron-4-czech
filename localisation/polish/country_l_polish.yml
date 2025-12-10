@@ -57,7 +57,7 @@
  MANPOWER_IN_USE: "Personál v terénu"
  MANPOWER_IN_USE_DESC: "§THlavní počet vojáků v terénu. Jak vojáci umírají, obdrží posily z rezerv §Hpersonálu§! vaší země.§!"
  MANPOWER_IN_USE_GARRISON: "Personál v posádkách"
- MANPOWER_IN_USE_GARRISON_DESC: "§THlavní počet vojáků v garnizonu. Jak vojáci umírají, obdrží posily z rezerv §Hpersonálu§! vaší země.§!"
+ MANPOWER_IN_USE_GARRISON_DESC: "§THlavní počet vojáků v posádkách. Jak vojáci umírají, obdrží posily z rezerv §Hpersonálu§! vaší země.§!"
  MANPOWER_MODIFIER_APPLIED: "Aplikované modifikátory:\n$MODIFIERS$"
  MANPOWER_MONTHLY_BASE: "Základní hodnota: $VALUE|*Y0$"
  MANPOWER_MONTHLY_TECH_FACTOR: "Z technologie: $VALUE|+%$"
