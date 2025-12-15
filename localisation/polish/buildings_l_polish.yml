@@ -198,7 +198,7 @@
  STATE_CATEGORY_enclave: "Enkláva"
  STATE_CATEGORY_metropolis: "Metropole"
  STATE_CATEGORY_pastoral: "Zemědělská oblast"
- STATE_CATEGORY_rural: "Venkovská"
+ STATE_CATEGORY_rural: "Venkov"
  STATE_CATEGORY_megalopolis: "Megalopolis"
  STATE_CATEGORY_wasteland: "Pustina"
  STRATEGIC_LOCATION_EXTRA_LEVEL: "Maximální úroveň $BUILDING|Y$: $AMOUNT|=+$"
