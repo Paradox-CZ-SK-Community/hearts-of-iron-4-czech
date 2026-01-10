@@ -325,7 +325,7 @@
  CHI_counter_infiltration_measures_flag: "Probíhá potlačení infiltrace"
  CHI_counter_fascist_infiltration_measures: "Protiopatření proti infiltraci ze strany [CHI.GetRulingIdeology]"
  CHI_counter_fascist_infiltration_measures_level_3: "$CHI_counter_fascist_infiltration_measures$"
- CHI_improve_opium_modifiers_output: "Protipašerácké operace" # tu som skončil
+ CHI_improve_opium_modifiers_output: "Protipašerácké operace"
  CHI_improve_opium_modifiers_output_trigger: "Nelegální obchod má negativní průmyslový výstup"
  CHI_improve_opium_modifiers_cg: "Vládní protikorupční kampaň"
  CHI_improve_opium_modifiers_cg_trigger: "Nelegální obchod má kladný faktor spotřebních továren"
