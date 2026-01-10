@@ -197,7 +197,7 @@
  JAP_collapsing_government_idea: "Hroutící se kabinet"
  JAP_advance_one_hundred_million_fireballs_idea: "Vpřed, sto milionů ohnivých koulí!"
  JAP_the_eternal_kingdom_idea: "Věčné císařství"
- MAN_kyousakusha_uplifted: "Preferování Gassakuša" # tu som skončil
+ MAN_kyousakusha_uplifted: "Preferování Gassakuša"
  JAP_increased_national_security_no_lar: "Zvýšená národní bezpečnost"
  ENG_cox_incident_opm: "Incident Cox"
  SOV_sorge_incident_opm: "Incident Sorge"
@@ -638,7 +638,7 @@
  CHI_declared_war_zone_idea: "Vyhlášená válečná zóna"
  CHI_bog_defensive_modifier: "Koordinovaná obrana"
  CHI_shanghai_international_settlement: "Šanghajská mezinárodní osada"
- CHI_shanghai_international_settlement_desc: "Cizí mocnosti si vynutily kontrolu skrze smlouvy činící Šanghaj „otevřenými dveřmi“." #
+ CHI_shanghai_international_settlement_desc: "Cizí mocnosti si vynutily kontrolu skrze smlouvy činící Šanghaj „otevřenými dveřmi“."
  add_cic_monthly_tt: "$RIGHT|+=0$ přebytečné hospodářské kapacity"
  CHI_national_resource_commission: "Národní komise pro zdroje"
  CHI_national_resource_commission_desc: "$CHI_mining_commission_desc$"
