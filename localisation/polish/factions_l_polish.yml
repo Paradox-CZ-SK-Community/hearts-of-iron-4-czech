@@ -381,7 +381,7 @@
  pax_romana_goal_name: "Pax Romana"
  pax_romana_goal_desc: "Naším snem je obnovit slávu Římské říše. Čas učinit tento sen skutečností právě nadešel!"
  building_up_guam_goal_name: "Rozšířit námořní základnu na Guamu"
- building_up_guam_goal_desc: "Musíme zajistit spojení s [PHI.GetNameDef] v případě, že se s náma [JAP.GetName] ocitne v konfliktu. Zároveň by bylo velmi výhodné mít blíže umístěný opěrný bod pro naše flotily, pokud bychom někdy vedli válku s [JAP.GetAdjective]. [638.GetName] je pro tento účel ideální."
+ building_up_guam_goal_desc: "Musíme zajistit spojení s [PHI.GetNameDef] v případě, že se s námi [JAP.GetName] ocitne v konfliktu. Zároveň by bylo velmi výhodné mít blíže umístěný opěrný bod pro naše flotily, pokud bychom někdy vedli válku s [JAP.GetAdjective]. [638.GetName] je pro tento účel ideální."
  the_two_seas_goal_name: "Zajistit přítomnost v Baltském a Černém moři"
  the_two_seas_goal_desc: "Měli bychom zajistit silnou námořní přítomnost v Baltském i Černém moři."
  one_germany_goal_name: "Sjednotit německé státy"

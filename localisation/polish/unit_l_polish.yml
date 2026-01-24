@@ -199,7 +199,7 @@
  NAVY_DETACHED_ACTIVITY_STATUS_REPAIRING_ONE_SHIP: "Oprava $PROGRESS|%1G$."
  NAVY_DETACHED_CHILD_STATUS: "Oddělena od nás: $STATUS|H$"
  NAVY_DETACHED_PARENT_STATUS: "Naše úderná skupina, od které jsme se oddělili."
- NAVY_MERGE_CHILD_STATUS: "Směřují k nám, aby se s náma spojili"
+ NAVY_MERGE_CHILD_STATUS: "Směřují k nám, aby se s námi spojili"
  NAVY_MERGE_PARENT_STATUS: "Směřujeme se spojit s touhle údernou skupinou"
  NAVY_REPAIR_REJOIN_DESC: "Znovu se spojí s $FLEET|H$ po dokončení úprav."
  NAV_AIR_SUPERIORITY: "Naše vzdušná nadvláda zvyšuje vliv našeho počtu lodí o: $VALUE|%G=$"

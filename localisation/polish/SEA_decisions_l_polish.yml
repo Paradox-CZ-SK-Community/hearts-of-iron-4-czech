@@ -752,7 +752,7 @@
  JAP_tauran_border_incident_forgotten_1: "Klesá morálka jednotek"
  JAP_tauran_border_incident_forgotten_1_desc: "Pokud chceme vesnici někdy získat zpět od našich nepřátel, musíme udeřit rychle."
  JAP_tauran_border_conflict_warning_MON: "Provokace na [MAN.GetAdjective] hranici"
- JAP_tauran_border_conflict_warning_MON_desc: "Došlo ke střetu mezi naším armádním kontingentem, který nedávno vstoupil do Tauranu, a [MAN.GetAdjective] vojáky na naší společné hranici v [761.GetName]. Zpravodajské zdroje hlásí, že to může být jen první krok v širším konfliktu. Měli bychom okamžitě posílit hranici, kterou s náma sdílí [MAN.GetNameDef]."
+ JAP_tauran_border_conflict_warning_MON_desc: "Došlo ke střetu mezi naším armádním kontingentem, který nedávno vstoupil do Tauranu, a [MAN.GetAdjective] vojáky na naší společné hranici v [761.GetName]. Zpravodajské zdroje hlásí, že to může být jen první krok v širším konfliktu. Měli bychom okamžitě posílit hranici, kterou s námi sdílí [MAN.GetNameDef]."
  JAP_border_conflict_escalation_warning_MON: "[JAP.GetAdjectiveCap] přípravy"
  JAP_border_conflict_escalation_warning_MON_desc: "Letecký průzkum potvrdil rozsáhlé přesuny vojsk na [JAP.GetAdjective] straně hranice. Nevíme, zda nebo kdy se [JAP.GetAdjective] vojska rozhodli zaútočit, ale musíme být připraveni."
  JAP_tauran_border_incident_forgotten: "Okno příležitosti"

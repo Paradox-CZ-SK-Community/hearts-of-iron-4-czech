@@ -514,7 +514,7 @@
  DOD_romania.12.desc: "Jednání o vstupu do naší frakce zkrachovala. Včera [From.GetAdjective] delegace předložila obsáhlý seznam požadavků jako podmínku vstupu, včetně dalekosáhlých závazků vojenské podpory.\n\nGenerální štáb tyto požadavky odmítl s tím, že jsou nesplnitelné, a ministerstvo zahraničí se nyní domnívá, že šlo o pouze o promyšlený krok, jak by mohl [From.GetLeader] naši nabídku odmítnout, aniž by za to nesl odpovědnost."
  DOD_romania.12.a: "Jak nezdvořilé."
  DOD_romania.20.t: "Rumunsko požaduje garanci"
- DOD_romania.20.desc: "Už několik měsíců se snažíme zajistit alianci, aby bylo [ROM.GetNameDef] s náma v alianci, byť jen proto, abychom jejich ropu udrželi mimo nepřátelské ruce. Nyní [ROM.GetLeader] prohlásil, že formální záruka vojenské podpory v případě války je nezbytným krokem ještě předtím, než by jeho vláda vůbec zvažovala vstup do naší frakce."
+ DOD_romania.20.desc: "Už několik měsíců se snažíme zajistit alianci, aby bylo [ROM.GetNameDef] s námi v alianci, byť jen proto, abychom jejich ropu udrželi mimo nepřátelské ruce. Nyní [ROM.GetLeader] prohlásil, že formální záruka vojenské podpory v případě války je nezbytným krokem ještě předtím, než by jeho vláda vůbec zvažovala vstup do naší frakce."
  DOD_romania.20.a: "Ať mají svou garanci."
  DOD_romania.20.b: "Jen by nás to ještě víc roztříštilo."
  DOD_romania.21.t: "[From.GetNameDefCap] garantuje rumunské hranice"
