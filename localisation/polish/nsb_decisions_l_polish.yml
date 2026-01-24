@@ -611,7 +611,7 @@
  SOV_planning_uprising_in_ukraine: "§WInfiltrace§! [FROM.GetName] §Wna§! Ukrajině"
  SOV_planning_uprising_in_urals: "§WInfiltrace§! [FROM.GetName] §Wna§! Uralech"
  SOV_polish_territory: "Polské území"
- SOV_polish_territory_desc: "Momentálně kontrolujeme velkou část území, které bylo kdysi součástí takzvané Polské republiky. Pokud bychom část z něj vrátili a [POL.capital.GetCapitalVictoryPointName] by byla sídlem námi dosazeného vedení, mohlo by to posloužit jako důkaz, že je s náma výhodné spolupracovat."
+ SOV_polish_territory_desc: "Momentálně kontrolujeme velkou část území, které bylo kdysi součástí takzvané Polské republiky. Pokud bychom část z něj vrátili a [POL.capital.GetCapitalVictoryPointName] by byla sídlem námi dosazeného vedení, mohlo by to posloužit jako důkaz, že je s námi výhodné spolupracovat."
  SOV_poster_center_days_remaining_text: "Zbývá §Y[?SOV_propaganda_center_days_remaining_flag:days_left|Y0]§! dní"
  SOV_poster_center_text: "[GetDaysRemainingCenter]"
  SOV_poster_left_days_remaining_text: "Zbývá §Y[?SOV_propaganda_left_days_remaining_flag:days_left|Y0]§! dní"

@@ -600,7 +600,7 @@
  ETH_the_patriots_desc: "Zatímco vlastenci z Godžamu překáželi plánům [ETH.GetAdjective] císařské vlády pro tento region, nyní nám pomáhají tím, že brání Italům vůbec region spravovat. Měli bychom udělat vše pro podporu vlastenců, abychom si udrželi opěrný bod v zemi a nenechali [ITA.GetAdjective] vetřelce příliš se uvelebit."
  ETH_the_patriots_tt: "Odemkne §Y$ETH_supporting_the_arbegnoch$§! jako Trvalé zaměření.\nPřidá §G+10§! cílovou hodnotu odboje v nepřátelsky okupovaných státech severní a střední Etiopie."
  ETH_the_rif: "Ríf"
- ETH_the_rif_desc: "Mnozí fašisté, kteří nyní soupeří o moc ve Španělsku, byli kdysi vojáky, kteří rozdrtili Republiku Ríf v severním Maroku. Využijme, že [SPC.GetName] má s náma úzké vztahy, abychom prosadili dekolonizaci jejich afrických držav. Jsou-li opravdu našimi soudruhy, jistě souhlasí. A pokud ne, už víme, jak s kolonialismem naložit."
+ ETH_the_rif_desc: "Mnozí fašisté, kteří nyní soupeří o moc ve Španělsku, byli kdysi vojáky, kteří rozdrtili Republiku Ríf v severním Maroku. Využijme, že [SPC.GetName] má s námi úzké vztahy, abychom prosadili dekolonizaci jejich afrických držav. Jsou-li opravdu našimi soudruhy, jistě souhlasí. A pokud ne, už víme, jak s kolonialismem naložit."
  ETH_the_second_italo-ethiopian_war: "Druhá italsko-etiopská válka"
  ETH_the_second_italo-ethiopian_war_desc: "Vánoční ofenziva nepřinesla vítězství, v které jsme doufali - a které jsme potřebovali. Je čas, aby [ETH.GetLeader] opustil hlavní město a osobně převzal velení armád. Válku proti Italům je třeba dovést ke konci!"
  ETH_the_second_italo-ethiopian_war_tt: "§Y$ETH_haile_selassie$§! se stává dostupným jako polní maršál"
