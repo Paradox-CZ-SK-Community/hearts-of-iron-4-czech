@@ -134,7 +134,7 @@
  kingdom_of_kampuchea_tt: "Ustanoví §YKrálovství Kampučia§! v §Y[741.GetName]§!."
  kingdom_of_luang_prabang_tt: "Ustanoví §YKrálovství Luang Prabang§! v §Y[670.GetName]§!."
  JAP_merge_our_chinese_puppets_decision: "Sloučit čínské loutkové administrace do jediné"
- JAP_demand_soviet_unions_surrender: "Požadovat, ať §Y[FROM.GetNameDef]§ kapituluje!"
+ JAP_demand_soviet_unions_surrender: "Požadovat, ať [FROM.GetNameDef] kapituluje!"
  JAP_sue_for_peace_with_soviet_TT: "Žádný z nárokovaných §Ysibiřských§! států nemá pod kontrolou §Y[SOV.GetNameDef]§! nebo jejich subjekt."
  JAP_organize_timorese_black_columns_decision: "Zorganizovat timorské Černé kolony"
  JAP_establish_state_of_ceylon_decision: "Ustanovit Cejlon"
