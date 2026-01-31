@@ -1509,7 +1509,7 @@
  SAVEITEM_SIZE_VALUE: "$VALUE|1Y$ $POSTFIX|Y$"
  SAVEITEM_SYNCED: "Cloud synchronizován: $YESNO$"
  SCORCHED_EARTH_STATE_ALREADY_SCORCHED: "£trigger_no! Spálená zem již byla aplikována na tomto státě.\n"
- SCORCHED_EARTH_STATE_CANT_AFFORD: "£trigger_no! Nedostatek politické moci.\n\n"
+ SCORCHED_EARTH_STATE_CANT_AFFORD: "£trigger_no! Nedostatek politické síly.\n\n"
  SCORCHED_EARTH_STATE_DOES_NOT_CONTROL_STATE: "£trigger_no! Stát není pod vaší kontrolou.\n"
  SCORCHED_EARTH_STATE_NO_SUPPLY_BUILDINGS: "£trigger_no! Stát neobsahuje žádné zásobovací budovy.\n"
  SCORCHED_EARTH_STATE_PREVENT_REPAIRS: "Opravy jsou pozastaveny kvůli spálené zemi ve státě."

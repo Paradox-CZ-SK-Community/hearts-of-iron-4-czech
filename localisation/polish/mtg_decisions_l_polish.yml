@@ -324,7 +324,7 @@
  HOL_prepare_evacuation_of_gold_reserves: "Připravit evakuaci zlatých rezerv"
  HOL_prepare_evacuation_of_gold_reserves_desc: "Naše národní zlaté rezervy - samotný základ našeho státního hospodářství - musí být evakuovány v případě invaze. Pokud by k tomu nedošlo, exilová vláda by byla naprosto bezmocná."
  HOL_prepare_evacuation_of_gold_reserves_tt: "Toto bude odstraněno při přeměně na §YVládu v exilu§!.\n"
- HOL_prepare_evacuation_of_gold_reserves_tt_2: "Získá §Y100 politické moci§! a zvýšení £legitimacy §YLegitimity§! při přeměně na §YVládu v exilu§!.\n"
+ HOL_prepare_evacuation_of_gold_reserves_tt_2: "Získá §Y100 politické síly§! a zvýšení £legitimacy §YLegitimity§! při přeměně na §YVládu v exilu§!.\n"
  HOL_propose_benelux_unification: "Navrhnout sjednocení Beneluxu"
  HOL_propose_benelux_unification_desc: "Celosvětové krize se množí a my jsme jen malé státy mezi velmocemi. Pokud chceme přežít blížící se bouři, musíme usilovat o sjednocení na všech úrovních vlády, i kdyby to znamenalo vzdát se naší suverenity."
  HOL_propose_benelux_unification_tt: "§R[BEL.GetNameDefCap] a [LUX.GetNameDefCap] musí schválit dohodu, aby bonusy nabyly účinku.§!\n"

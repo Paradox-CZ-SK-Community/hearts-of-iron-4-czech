@@ -182,7 +182,7 @@
  NOR_moving_government: "§RPřesun vlády§!"
  NOR_needed_support_TT: "Celková §Ypodpora monarchie§! pro [NOR.GetName] je alespoň §Y[?temp_preparedness]§! (aktuálně: [?NOR_country_preparedness])"
  NOR_ongoing_countrywide_program: "Probíhající celostátní program"
- NOR_reduce_fascist_pp_cost_TT: "Cena §Ypolitické moci§! za §YBudování podpory ve státě§! je snížena o §G$RIGHT|0$§! £pol_power"
+ NOR_reduce_fascist_pp_cost_TT: "Cena §Ypolitické síly§! za §YBudování podpory ve státě§! je snížena o §G$RIGHT|0$§! £pol_power"
  NOR_reduce_fascist_prep_time_TT: "§YDoba§! potřebná k §YBudování podpory ve státě§! je zkrácena o §G$RIGHT|0$§! dní"
  NOR_rejected_by_fascist_bully: "§YPozvánka k invazi§! byla odmítnuta"
  NOR_required_prep_communist_TT: "§YCelková podpora naší revoluce§! je vyšší než $RIGHT|0Y$ (aktuální podpora: $LEFT|0Y$)"

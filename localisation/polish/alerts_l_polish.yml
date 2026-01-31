@@ -165,7 +165,7 @@
  alert_officer_corps_spirit_delayed: "Vojenský duch:\nMůžete si vybrat:\n$SPIRIT|Y$"
  alert_outdated_equipment_delayed: "Vyrábíme následující zastaralé vybavení:\n$LIST|H$"
  alert_outdated_equipment_instant: "§HZastaralé vybavení ve výrobě§!"
- alert_paused_diplomatic_actions_delayed: "Některé vaše diplomatické akce nemohou pokračovat, protože postrádáte politickou moc.\nZvažte zrušení těchto akcí, aby neovlivnily váš zisk politické moci.\n\nOvlivněné vztahy:\n$COUNTRIES$"
+ alert_paused_diplomatic_actions_delayed: "Některé vaše diplomatické akce nemohou pokračovat, protože postrádáte politickou moc.\nZvažte zrušení těchto akcí, aby neovlivnily váš zisk politické síly.\n\nOvlivněné vztahy:\n$COUNTRIES$"
  alert_paused_diplomatic_actions_instant: "§HDiplomatické akce nemohou pokračovat§!"
  alert_pick_new_idea_advisor_delayed: "Můžete si vybrat:\n$ADVISOR|Y$\n"
  alert_pick_new_idea_delayed: "§TMůžete změnit:§!"
