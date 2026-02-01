@@ -207,7 +207,7 @@
  NAV_MINES_EFFECT_ON_ENEMY: "  Pokrytí nepřátelskými minami zvyšuje vliv na jejich počet lodí o: $VALUE|%G=$"
  NAV_MINES_EFFECT_ON_US: "Naše pokrytí minami zvyšuje vliv našeho počtu lodí o: $VALUE|%G=$"
  NEW_FLEET_NAME: "Nová flotila"
- NOT_ENOUGH_PP_TO_DISBAND_POTF: "\n\n§RNemáme dost politické moci na odebrání §HChlouby flotily§!"
+ NOT_ENOUGH_PP_TO_DISBAND_POTF: "\n\n§RNemáme dost politické síly na odebrání §HChlouby flotily§!"
  NOT_ENOUGH_PP_TO_UNASSIGN: "\n\n§RNedostatek politické síly§!"
  NO_ACCESS_TO_TARGET: "Jednotka nemůže vstoupit do provincie."
  NO_ADVANCE_ALLOWED: "Jednotka nemůže postoupit do nepřátelské provincie."

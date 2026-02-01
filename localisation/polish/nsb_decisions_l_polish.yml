@@ -124,7 +124,7 @@
  POL_promote_falangism_decisions: "Šířit falangismus"
  POL_promote_falangism_decisions_desc: "Válka s Němci je na obzoru a i když jsme slabší, [GER.GetLeader] nemůže doufat, že zničí všechny své nepřátele najednou! S dostatečnou falangistickou podporou mezi lidem se k nám mohou připojit dobré katolické národy světa v našem boji proti [GER.GetNameDef]."
  POL_promote_falangism_in_major: "Šířit falangismus v [FROM.Owner.GetNameDef]"
- POL_promote_falangism_south_america: "Šířit falangismus v §yJižní Americe§!"
+ POL_promote_falangism_south_america: "Šířit falangismus v §YJižní Americe§!"
  POL_propagandise_monarchist_sentiment: "Šířit monarchistické nálady"
  POL_purchase_cheap_colony: "Zakoupit [FROM.GetName]"
  POL_purchase_cheap_colony_desc: "Rostoucí polský zájem o [FROM.GetName] je mimo působnost vlády, ale nadšení obyvatel může být použito jako ospravedlnění pro polský nákup tohoto regionu."

@@ -435,7 +435,7 @@
  SWE_hedgehog_of_the_baltic: "Ježek Baltu"
  SWE_historical_trade_with_Germany: "Historický obchod - [GER.GetNameDef]"
  SWE_hungershield: "Hungersköld"
- SWE_hungershield_instant_desc: "Švédsku hrozí stávky nebo nepokoje, pokud stabilita klesne pod §Y68 %§!. §YBude odstraněno, pokud platí alespoň jedno:§!\nMá více než §Y45§! civilních továren včetně obchodu\nPostavilo více než §Y14§! civilních továren bez započtení obchodu\nPo odstranění získá §G120§! §Ypolitické moci§!"
+ SWE_hungershield_instant_desc: "Švédsku hrozí stávky nebo nepokoje, pokud stabilita klesne pod §Y68 %§!. §YBude odstraněno, pokud platí alespoň jedno:§!\nMá více než §Y45§! civilních továren včetně obchodu\nPostavilo více než §Y14§! civilních továren bez započtení obchodu\nPo odstranění získá §G120§! §Ypolitické síly§!"
  SWE_increased_military_budget: "Zvýšený vojenský rozpočet"
  SWE_independent_economy: "Nezávislá hospodářská politika"
  SWE_land_air_warfare_0: "Kombinovaná pozemně-letecká taktika"

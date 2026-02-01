@@ -1870,7 +1870,7 @@
  DEN_side_with_industry: "Stát na straně průmyslu"
  DEN_side_with_industry_desc: "Řešení problémů podnikání vyžaduje snížení mezd a zvýšení cel na dovoz, jinak budou zaměstnavatelé těžko prosperovat."
  DEN_five_year_plan: "Zavést pětiletý plán"
- DEN_five_year_plan_desc: "Abychom zajistili budoucnost našeho lidu, musíme zřídit výbor, který vytvoří a provede odvážný nový ekonomický model pro §DEN.GetNameDef§!. Tento pětiletý plán nám umožní skutečně vzkvétat!"
+ DEN_five_year_plan_desc: "Abychom zajistili budoucnost našeho lidu, musíme zřídit výbor, který vytvoří a provede odvážný nový ekonomický model pro [DEN.GetNameDef]. Tento pětiletý plán nám umožní skutečně vzkvétat!"
  DEN_limited_social_mobilization: "Omezená společenská mobilizace"
  DEN_limited_social_mobilization_desc: "V Evropě se blíží válka — ale nesmíme být opět zaskočeni! Musíme provést nezbytná přípravy, byť tvrdé, abychom zajistili naši suverenitu."
  DEN_start_the_rearmament: "Zahájit přezbrojení"
