@@ -316,7 +316,7 @@
  ITA_bop_resign_ministry_of_justice_position: "Rezignovat na post ministerstva spravedlnosti a milostí"
  ITA_bop_resign_ministry_of_justice_position_desc: "Rezignace z postu ministra spravedlnosti a milostí jej uvolní pro jiné a ponechá Benitu Mussolinimu menší kontrolu nad italským justičním systémem a institucemi."
  ITA_bop_revoke_the_lateran_treaty: "Zrušit lateránské smlouvy"
- ITA_bop_revoke_the_lateran_treaty_tt: "\n§ZZabrání splnění zaměření§! §Y$ITA_seek_papal_support$§!.\n"
+ ITA_bop_revoke_the_lateran_treaty_tt: "\n§RZabrání splnění zaměření§! §Y$ITA_seek_papal_support$§!.\n"
  ITA_bop_send_support: "Poslat vojenskou podporu - [FROM.GetName]"
  ITA_bop_send_support_desc: "Naši ideologičtí bratři se ocitli ve válce. Jako zakladatelé fašismu máme povinnost zajistit, aby zvítězili!"
  ITA_bop_slander_the_duce: "Pomlouvat Duceho"

@@ -79,7 +79,7 @@
  SPA_establish_the_directory_tt: "§Y[ROOT.GetName]§! bude znám jako §Y$SPA_directory_neutrality_DEF$§!\n"
  SPA_a_one_party_state: "Jedna strana u moci"
  SPA_a_one_party_state_desc: "Demokracie není cílem sama o sobě, jak by nám republikáni chtěli namluvit, nýbrž prostředkem, jak slabým a nehodným vnutit kontrolu nad státem. Zrušíme všechny ostatní politické strany, aby ti se silnou vizí nebyli brzdeni na cestě k Velkému Španělsku."
- SPA_a_one_party_state_tt: "Polovina současné kombinované podpory §Ynefašistů§! se promítne jako postih §Rstability§::\n"
+ SPA_a_one_party_state_tt: "Polovina současné kombinované podpory §Ynefašistů§! se promítne jako postih §Rstability§!:\n"
  SPA_expand_conscription: "Rozšířit odvod"
  SPA_expand_conscription_desc: "Občanská válka si vybírá daň na naší zemi, ale nesmíme polevit v tlaku na republikány. Je nutný nový nápor podpořený obnoveným náborem."
  SPA_safeguard_the_freedom_of_worship: "Zajistit svobodu vyznání"

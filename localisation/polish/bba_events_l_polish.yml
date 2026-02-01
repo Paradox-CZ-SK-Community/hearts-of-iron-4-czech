@@ -1888,7 +1888,7 @@
  ITA_create_puppet_tt: "§Y[ROOT.GetNameWithFlag]§! získá nový §Ystrom zaměření§!"
  ITA_desertions_east_africa_tt: "Armády ve Východní Africe trpí dezercemi."
  ITA_ends_event_chain_tt: "§RUkončí řetěz událostí§!."
- ITA_grand_council_considers_intervention_tt: "Pokud se moc dále přesune do rukou §YVelké rady§!, může §Y[ROOT.GetLeader]!§ ztratit pozici a Velká rada §Rpřevezme moc§!!"
+ ITA_grand_council_considers_intervention_tt: "Pokud se moc dále přesune do rukou §YVelké rady§!, může §Y[ROOT.GetLeader]§! ztratit pozici a Velká rada §Rpřevezme moc§!!"
  ITA_human_torpedo_effect_tt: "Poškodí nepřátelské námořní jednotky kotvící ve státě."
  ITA_human_torpedo_raid_tt: "Tento nájezd lze provést pouze jednou."
  ITA_human_torpedo_target_effect_tt: "Poškozuje námořní jednotky kotvící v [?ITA.ITA_raided_state_var.GetName]."
