@@ -712,7 +712,7 @@
  JUNO_brazil_events.14.a: "Vítaný obrat událostí"
  JUNO_brazil_events.14.b: "Je to zjevně lest, jak nás oslabit."
  JUNO_brazil_events.14.desc: "[FROM.GetAdjectiveCap] prezident [FROM.GetLeader] oznámil, že jeho vláda hodlá usilovat o užší spolupráci se státy Jižní Ameriky v rámci takzvané politiky „dobrého souseda“. Jakou podobu tato spolupráce nabere, se teprve ukáže, nicméně jde o výrazný odklon od dříve antagonistických vztahů mezi španělsky a portugalsky mluvícími národy kontinentu."
- JUNO_brazil_events.14.t: "[FROM.GetAdjectiveCap] politika dobrého souseda"
+ JUNO_brazil_events.14.t: "[FROM.GetAdjectiveCap] politika dobrého sousedství"
  JUNO_brazil_events.140.a: "Přivítat gesto a posílit vztahy."
  JUNO_brazil_events.140.b: "Zdvořile nabídku odmítnout."
  JUNO_brazil_events.140.desc: "Jako gesto dobré vůle dorazila [FROM.GetAdjective] diplomatická delegace s jedinečným darem — jaguárem, symbolem kultury a síly jejich národa. Součástí tohoto neobvyklého daru je i návrh na posílení obchodu a spolupráce v oblasti zahraniční politiky. [FROM.GetAdjectiveCap] vyslanci vyjadřují přání vytvořit silnější pouto mezi našimi zeměmi.\n\nZatímco jaguár zaujal představivost veřejnosti a získal sympatie, širší důsledky tohoto kroku vyžadují pečlivé zvážení."
