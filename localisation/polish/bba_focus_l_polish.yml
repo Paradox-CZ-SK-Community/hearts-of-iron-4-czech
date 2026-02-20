@@ -1125,6 +1125,7 @@
  ITA_guardia_nazionale_repubblicana_spawn_divs_tt: "Vytvoří §Y5 Camicie Nere§! divizí v §Y[THIS.GetName]§!."
  ITA_has_completed_cooperation_programs_focus_tt: "\nPo dokončení zaměření §Y$ITA_cooperation_programs$§!:"
  ITA_has_disbanded_blackshirts_tt: "Nerozpustil Černé košile"
+ ITA_has_disbanded_blackshirts_tt_NOT: "Nemá: Rozpustil Černé košile"
  ITA_has_new_duce_flag: "Byl sesazen §YVelkou radou§!."
  ITA_heroes_of_the_nation: "Hrdinové národa"
  ITA_heroes_of_the_nation_desc: "Musíme uznat a odměnit zásluhy velkých hrdinů národa - a přitom nezapomenout, že bez moudrého vedení Duceho by jejich potenciál přišel vniveč."

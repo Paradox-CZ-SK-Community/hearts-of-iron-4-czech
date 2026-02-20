@@ -981,7 +981,7 @@
  germany.85.t: "[From.GetName] svolává členy paktu do války"
  germany.86.a: "Uzavřeme dohodu. Třeba se pak zaměří jinam."
  germany.86.b: "Danzig zůstane Gdaňskem!"
- germany.86.d: "[GER.GetNameDefCap] už dlouho veřejně prosazuje cíl získat zpět území, která ztratili ve Velké válce. Zejména hledí k území Gdaňsku, jež odděluje Ostpreussen od zbytku jejich země.\n\nNyní požadují, aby byl Danzig postoupen pro [GER.GetNameDef], a na oplátku nabízejí jen příslib, že se vzdají nároků na Poznaň. S hrozbou války v zádech by přijetí nabídky odložilo možný konflikt, ale za cenu toho, že Němcům dobrovolně poskytneme více síly pro cokoli, co přijde."
+ germany.86.d: "[GER.GetNameDefCap] už dlouho veřejně prosazuje cíl získat zpět území, která ztratili ve Velké válce. Zejména hledí k území Gdaňsku, jež odděluje Ostpreussen od zbytku jejich země.\n\nNyní požadují, aby byl Danzig postoupen na [GER.GetNameDef], a na oplátku nabízejí jen příslib, že se vzdají nároků na Poznaň. S hrozbou války v zádech by přijetí nabídky odložilo možný konflikt, ale za cenu toho, že Němcům dobrovolně poskytneme více síly pro cokoli, co přijde."
  germany.86.t: "Danzig, nebo válka"
  germany.87.a: "Polsko se válce vyhnulo... prozatím."
  germany.87.d: "Tváří v tvář našemu ultimatům Polsko souhlasilo, že se vzdá své neprávem nabyté držby našeho území - důkaz, že museli vědět, že právem patří Německu!"

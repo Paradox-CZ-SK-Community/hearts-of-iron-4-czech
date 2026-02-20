@@ -292,6 +292,8 @@
  COG_belgian_congo_colonial_dynamic_modifier: "Vzorová kolonie"
  COG_belgian_congo_colonial_dynamic_modifier_desc: "[ROOT.GetNameDefCap] je vzorovou kolonií svého suzeréna a podle toho dostává i investice - a jeho rozvoj zároveň prospívá i metropoli.\n§RTento duch bude odstraněn, pokud Kongo přestane být subjektem Belgie§!"
  COG_bouvandji: "Bouvandji"
+ COG_brown_water_navy_idea: "Rozšířené říční námořnictvo"
+ COG_brown_water_navy_idea_desc: "Řeky, které se vinou džunglemi střední Afriky, nejsou naší armádou dostatečně využívány. Rozšíříme naši říční flotilu o několik malých útočných člunů, aby poskytovaly podporu našim vojákům, když jsou daleko od posil či zásobování."
  COG_bundu_dia_kongo_idea: "Bundu dia Kongo"
  COG_burundian_separatism_modifier: "Burundský separatismus"
  COG_burundian_separatism_modifier_desc: "V tomto regionu bují separatistické nálady a pokud by se Kongo stalo nezávislým, je pravděpodobné, že se pokusí vytvořit vlastní stát."

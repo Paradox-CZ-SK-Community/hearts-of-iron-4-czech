@@ -759,6 +759,7 @@
  DR_CONDITIONAL_SURRENDER_WORLD_THREAT_SCALED: "Aktuální Světové napětí: "
  DR_CONTAIN_SUPPORT: "Chtějí zadržet zemi, se kterou nebo proti které bojujeme: "
  DR_DEFENSIVE_WAR: "Volání k obranné válce: "
+ DR_DIFFERENT_IDEOLOGY: "§Y$THEM|U$§! má jinou ideologii: "
  DR_DISTANCE_BETWEEN_CAPITALS: "Vzdálenost (snížená napětím): "
  DR_FACTION_BOTH_LOSING_WAR: "Obě strany prohrávají válku: "
  DR_FACTION_CIVIL_WAR_RELUCTANCE: "V občanské válce: "

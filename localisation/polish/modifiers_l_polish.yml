@@ -2274,6 +2274,7 @@
  state_production_speed_supply_node_factor_tt: " $modifier_state_production_speed_supply_node_factor$: $RIGHT|+=%1$"
  state_resource_aluminium: "Hliník"
  state_resource_chromium: "Chrom"
+ state_resource_coal: "Uhlí"
  state_resource_cost_aluminium: "Spotřeba hliníku"
  state_resource_cost_chromium: "Spotřeba chromu"
  state_resource_cost_oil: "Spotřeba ropy"
