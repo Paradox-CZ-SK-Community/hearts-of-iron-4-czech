@@ -766,3 +766,4 @@
  ASSIGN_SUBDOCTRINE_AFTER_GRAND_DOCTRINE: "Potvrďte výběr Hlavní doktríny před přiřazením §HDílčí doktríny§!."
  TRACK_INACTIVE_EXPLANATION: "§gDokud je větev neaktivní, nelze přiřadit žádnou novou §!§HDílčí doktrínu§!§g a nelze získat žádné £doctrine_mastery §!§HMistrovství§!§g.§!"
  SUBDOCTRINE_OVERRIDE_MASTERY_TITLE: "§HTato dílčí doktrína získává £doctrine_mastery mistrovství z konkrétní sady jednotek:§!"
+ land_mastery_gain_factor_tt: " Faktor zisku pozemního Mistrovství: $RIGHT|+=%1$"

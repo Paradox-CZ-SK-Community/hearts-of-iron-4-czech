@@ -163,7 +163,7 @@
  wtt_china.1.a: "Společně obstojíme!"
  wtt_china.1.b: "Ať to zkusí."
  wtt_china.1.desc: "Zdá se, že [From.GetLeader] se konečně rozhodl rozšířit svou autoritu do vzdálených oblastí Číny. Zástupce centrální vlády dorazil s požadavkem, abychom poslouchali jeho rozkaz, které vydáva [From.GetLeader], nebo abychom byli nahrazeni poslušnější vládou."
- wtt_china.1.t: "Čína požaduje podřízení"
+ wtt_china.1.t: "[FROM.GetNameDefCap] požaduje podřízení"
  wtt_china.10.a: "Nemáme na výběr."
  wtt_china.10.b: "Budeme bojovat!"
  wtt_china.10.desc: "[From.GetLeader] nám zaslala ostrou zprávu, v níž zmiňuje řadu kroků, které jsme v posledních měsících učinili a které podle nich odporují národním zájmům, jaké si představuje [From.GetNameDef]. Pokud více nesladíme své politiky s [From.GetAdjective] vládou, přijmou „opatření, která považují za nutná“."

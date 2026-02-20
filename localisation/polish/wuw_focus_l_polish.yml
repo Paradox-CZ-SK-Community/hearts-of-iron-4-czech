@@ -2184,6 +2184,7 @@
  GER_safeguard_the_baltic_ww_desc: "$GER_safeguard_the_baltic_desc$"
  GER_salvage_captured_equipment: "Zachránit ukořistěnou výzbroj"
  GER_salvage_captured_equipment_desc: "Zřízením zařízení na zpracování a přestavbu ukořistěné nepřátelské výzbroje můžeme zbraně, vozidla i stroje opravit a integrovat do naší armády, čímž posílíme naše ozbrojené síly."
+ GER_salvage_captured_equipment_custom_tt: "Dva náhodní [ROOT.GetAdjective] generálové získají rys §Y$scavenger$§!."
  GER_schlieffen_once_more_ww: "$GER_schlieffen_once_more$"
  GER_schlieffen_once_more_ww_desc: "$GER_schlieffen_once_more_desc$"
  GER_sea_lion_eq_trigger_tt: "Více než §Y90 000§! kusů pěchotní výzbroje v armádě"
