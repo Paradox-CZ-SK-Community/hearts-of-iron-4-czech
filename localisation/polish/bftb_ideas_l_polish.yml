@@ -472,7 +472,7 @@
  TUR_integrated_german_officers: "Začlenění němečtí důstojníci"
  TUR_integrated_german_officers_desc: "Když už není důvod skrývat roli německých vojenských činitelů v naší zemi, [GER.GetLeader] dal výslovný souhlas na jejich začlenění do našeho řetězce velení."
  TUR_inventive_genius_hidden_idea: "$TUR_kamil_tolon$"
- TUR_inventive_genius_electronics_modifier_tt: "Rychlost výzkumu §Y$electronics$§!: §G+10%§!
+ TUR_inventive_genius_electronics_modifier_tt: "Rychlost výzkumu §Y$electronics$§!: §G+10%§!"
  TUR_investment_financing_spirit: "Financování investic"
  TUR_investment_financing_spirit_desc: "Svět se točí kolem směny komodit k naplnění potřeb. Potřeby rozhodně máme - ale abychom si nechali podrbat záda, musíme nejprve trochu podrbat my."
  TUR_ismet_inonu: "İsmet İnönü"
