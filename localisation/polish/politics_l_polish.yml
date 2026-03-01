@@ -73,7 +73,7 @@
  POLITICS_IDEA_STAT_TRADE: "£resources_to_market_icon£  $VALUE|H0%$"
  POLITICS_IDEA_WINDOW: "Spravovat vládu"
  POLITICS_IDEOLOGY: "§TIdeologie: $IDEOLOGY|H$§! strana"
- POLITICS_IDEOLOGY_POPULARITY_CHANGE: "Změna $IDEOLOGY$ popularity: $VALUE|+2%$"
+ POLITICS_IDEOLOGY_POPULARITY_CHANGE: "Změna popularity pro $IDEOLOGY$: $VALUE|+2%$"
  POLITICS_INVALID_IDEA_REMOVED: "§HNeplatná idea $IDEA|R$ odstraněna§!"
  POLITICS_INVALID_IDEA_REMOVED_DESC: "Vládní idea $IDEA|R$ byla odstraněna, protože její požadavky již nejsou splněny."
  POLITICS_INVALID_IDEA_REPLACED: "§HNeplatná idea $IDEA|R$ byla nahrazena§!"
