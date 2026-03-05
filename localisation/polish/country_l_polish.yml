@@ -69,7 +69,7 @@
  MANPOWER_SHIP: "Manpower pro loď"
  MANPOWER_SHIP_DESC: "§TThis §HLoď§! requires $AMOUNT|G$ personálu ve službě.§!"
  MANPOWER_TOTAL: "Celkový personál: $MAX|0H*$"
- MANPOWER_USAGE: "Dostupný personál: $FREE|^2H$$EXILE$\nPoužitý personál:\nArmáda: $ARMY|^2H$\n    - V poli: $FIELD|^2H$\n    - Ve výcviku: $TRAINING|^2H$\nLetectví: $AIR|^2H$\nNámořnictví: $NAVAL|^2H$\nPosádky: $GARRISON|^2H$"
+ MANPOWER_USAGE: "Dostupný personál: $FREE|^2H$$EXILE$\nPoužitý personál:\nArmáda: $ARMY|^2H$\n    - Nasazených: $FIELD|^2H$\n    - Ve výcviku: $TRAINING|^2H$\nLetectví: $AIR|^2H$\nNámořnictví: $NAVAL|^2H$\nPosádky: $GARRISON|^2H$"
  MANPOWER_USAGE_FOREIGN_GARRISON: "Zahraniční posádky: $GARRISON|^2H$"
  MANPOWER_VALUE: "$USAGE$\n\n$CURRENT$\n$GROWTH$"
  MAX_COMMAND_POWER_TEXT: "Aktuální maximum: $VALUE|Y0$"

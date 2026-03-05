@@ -129,7 +129,7 @@
  INTEL_LEDGER_FLEET_COUNT: "Celkový počet flotil: $RANGE|H$"
  INTEL_LEDGER_FUEL_TOOLTIP: "Dostupné palivo: $RANGE|H$"
  INTEL_LEDGER_INDUSTRY_TOOLTIP: "Celkový počet továren: $RANGE|H$"
- INTEL_LEDGER_MANPOWER_TOOLTIP: "Dostupné pracovní síly: $RANGE|H$"
+ INTEL_LEDGER_MANPOWER_TOOLTIP: "Dostupný personál: $RANGE|H$"
  INTEL_LEDGER_MIL_INDUSTRY_TOOLTIP: "  Vojenské továrny: $RANGE|H$"
  INTEL_LEDGER_NAV_INDUSTRY_TOOLTIP: "  Loděnice: $RANGE|H$"
  INTEL_LEDGER_RAIDS_DETECT_EARLY_PREPARATION: "Přichozí nálety jsou detekovány během rané přípravy ($CATEGORIES|H$)"
