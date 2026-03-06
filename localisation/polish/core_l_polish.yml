@@ -431,7 +431,7 @@
  CONVOY_ESCORT_TASK_FORCES_IN_REGION_COUNT: "Doprovodní úderné skupiny v regionu: $COUNT|H$"
  CONVOY_RAID_EFFICIENCY_DESC: "$NAME|H$ může efektivně pokrýt až $NUM|H$ regionů pro útočení na konvoje. Momentálně operuje na maximální efektivitě."
  CONVOY_RAIDING_EFFICIENCY_IN_REGION: "Průměrná účinnost útoků na konvoje v regionu: $VALUE$"
- CONVOY_RAIDING_TASK_FORCE_EFFICIENCY_DESC: "$TASK_FORCE|H$ může efektivně napádat konvoje až v $REGIONS|1H$ ($EFFICIENCY|H$) různých regionech."
+ CONVOY_RAIDING_TASK_FORCE_EFFICIENCY_DESC: "$TASK_FORCE|H$ může efektivně napádat konvoje až v $REGIONS|H$ ($EFFICIENCY|H$) různých regionech."
  CONVOYS_COLON: "$CONVOYS$:"
  COOP_NOT_ALLOWED: "§RKooperace není povolena.§!"
  CORE_FILTER_BY_MAJOR: "§TFiltruj podle toho, zda je národ považován za významný nebo ne.§!"

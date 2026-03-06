@@ -833,7 +833,7 @@
  CHL_align_with_the_russian_soviet_desc: "[SOU.GetNameDefCap] jsou naši blízcí ideologičtí soudruzi. Měli bychom je oslovit s nabídkou vzájemné pomoci výměnou za vstup do jejich frakce [SOU.GetFactionName]."
  CHL_an_absolute_monarchy: "Absolutní monarchie"
  CHL_an_absolute_monarchy_desc: "Je třeba vykonat mnoho práce a jediným, kdo je schopen převzít plnou kontrolu a řídit zemi, je král. Proto je naprosto nezbytné oznámit kabinetu, že může jít domů - už ho nepotřebujeme."
- CHL_an_absolute_monarchy_tt: "Toto §Rzablokuje§! možnost pozdějšího výběru zaměření §Y$Treading_the_Straight_Line$§!"
+ CHL_an_absolute_monarchy_tt: "Toto §Rzablokuje§! možnost pozdějšího výběru zaměření §Y$CHL_the_straight_line$§!"
  CHL_an_attempt_to_maintain_our_neutrality: "Pokus o zachování neutrality"
  CHL_an_attempt_to_maintain_our_neutrality_desc: "Mnohé státy zapojené do světového konfliktu nás chtějí vtáhnout do války vyvolané jejich bezvýznamnými spory. Musíme udělat vše pro to, abychom se jejich konfliktům vyhnuli."
  CHL_an_empire_on_the_pacific: "Impérium v Pacifiku"

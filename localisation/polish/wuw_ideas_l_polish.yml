@@ -514,7 +514,7 @@
  GER_kriegsmarinewerft_wilhelmshaven: "Marinewerft Wilhelmshaven"
  GER_kriegsproduktion_modifier: "Kriegsproduktion"
  GER_kriegsproduktion_modifier_desc: "Musíme mobilizovat naše vysoce kvalifikované pracovníky a nasadit je do zbrojní výroby, abychom zajistili [GER.GetAdjective] nezávislost a vybudovali potřebné vojenské zásoby."
- GER_lokot_autonomy_modifier: "Lokotská autonomie"
+ GER_lokot_autonomy_modifier: "Lokoťská samospráva"
  GER_losing_rk_puppets_tt: "Ztráta některého z loutkových států pod jurisdikcí §Y$GER_alfred_rosenberg_modifier$§! oslabí jeho rys"
  GER_max_CG_tt: "§Y100.0% $MODIFIER_CONSUMER_GOODS_FACTOR$§! §Ydosaženo§!."
  GER_mefo_bills_1936_fake_ns_tt: "$GER_increasing_cg_tt$ $GER_CG_penalties_may_apply$\n\n $MODIFIER_CONSUMER_GOODS_FACTOR$: §Y10.0%§!\n $MODIFIER_CIVILIAN_INTEL_TO_OTHERS$: §G-25.0%§! \n $MODIFIER_ARMY_INTEL_TO_OTHERS$: §G-25.0%§!\n $MODIFIER_NAVY_INTEL_TO_OTHERS$: §G-25.0%§!\n $MODIFIER_AIRFORCE_INTEL_TO_OTHERS_FACTOR$: §G-25.0%§! \n $modifier_production_speed_arms_factory_factor$: §G+10.00%%§!\n $modifier_production_speed_dockyard_factor$: §G+10.00%§!"
