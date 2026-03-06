@@ -65,7 +65,7 @@
  ARG_political_events.17.t: "[PAR.GetNameDefCap] odmítá podmínky ultimáta"
  ARG_political_events.18.a: "To je úleva..."
  ARG_political_events.18.desc: "Poté, co jsme si stáli za svým, se zdá, že [ARG.GetAdjective] vláda usoudila, že pokračování v tomto směru nestojí za to. Můžeme si nyní oddechnout s vědomím, že hrozba byla prozatím zažehnána."
- ARG_political_events.18.t: "[ARG.GetNameDefCap] ustupuje" # tu som skončil
+ ARG_political_events.18.t: "[ARG.GetNameDefCap] ustupuje"
  ARG_political_events.19.a: "Nedokážeme je zastavit."
  ARG_political_events.19.b: "Nevzdáme se své nezávislosti."
  ARG_political_events.19.desc: "Podle [ARG.GetAdjective] velvyslance v [ROOT.Capital.GetCapitalVictoryPointName] má naše současná vláda abdikovat a být nahrazena [ARG.GetAdjective] loutkovým režimem. Je vysoká pravděpodobnost, že naše odmítnutí povede k vyhlášení války. Musíme volit moudře."
@@ -153,7 +153,7 @@
  ARG_political_events.40.a: "Tak, máme zajištěné předmostí v Africe!"
  ARG_political_events.40.desc: "Právě k nám dorazily skvělé zprávy - [SPA.GetNameDef] souhlasí s našimi požadavky a jako odměnu za naši pomoc v jejich nedávné občanské válce jsme získali kontrolu nad Rovníkovou Guineou."
  ARG_political_events.40.t: "[SPA.GetNameDefCap] souhlasí s našimi požadavky"
- ARG_political_events.41.a: "To pomůže naší cestě k revoluci!" # tu som skončil
+ ARG_political_events.41.a: "To pomůže naší cestě k revoluci!"
  ARG_political_events.41.desc: "[ARG.GetNameDef] nepřála socialistickým názorům Rodolfa Ghioldiho, proto z ní v roce 1931, co byl jeho život ohrožen, uprchl do [BRA.GetNonIdeologyName]. Zde pracoval na podpoře komunistického povstání s cílem sesadit Getúlia Vargase. Nyní, když se [ARG.GetNameDef] posunula více doleva, Ghioldi oznámil, že se cítí dostatečně bezpečně, aby se vrátil do vlasti a převzal vedení PCA."
  ARG_political_events.41.t: "Rodolfo Ghioldi se vrací do Argentiny"
  ARG_political_events.42.a: "Pošleme pomoc našim socialistickým soudruhům."
@@ -739,7 +739,7 @@
  JUNO_brazil_events.150.desc.a: "Bandité ze severovýchodní Brazílie, známí jako Cangaço, zorganizovali nájezd na jednu z osad v regionu. Orgány činné v trestním řízení mají potíže s vyšetřováním, jelikož místní obyvatelé členy skupiny kryjí. Zdá se, že dopadení pachatelů bude vyžadovat mnohem silnější bezpečnostní přítomnost v oblasti."
  JUNO_brazil_events.150.desc.b: "Bandité ze severovýchodní Brazílie, známí jako Cangaço, rozšiřují své aktivity do dalších částí regionu. Zatímco místní policie a vlastníci půdy jsou tímto vývojem pobouřeni, mnozí chudí obyvatelé zůstávají přinejlepším lhostejní, v horším případě nadšení. Zdá se, že potlačení jejich činnosti bude vyžadovat výrazně silnější bezpečnostní přítomnost."
  JUNO_brazil_events.150.t: "Cangaço provádí operaci"
- JUNO_brazil_events.151.a: "Výborně!" # tu som skončil
+ JUNO_brazil_events.151.a: "Výborně!"
  JUNO_brazil_events.151.desc: "Naše nedávné operace na severovýchodě Brazílie se ukázaly jako úspěšné při narušování činnosti Cangaça. Oblast jejich působení byla zatím výrazně zmenšena, avšak k zabránění jejich návratu bude nutné pokračovat v investicích do bezpečnostních složek."
  JUNO_brazil_events.151.t: "Úspěšný zátah proti Cangaçu"
  JUNO_brazil_events.152.a: "Už bylo načase."
@@ -870,7 +870,7 @@
  JUNO_brazil_events.46.a: "Budou cenným nárazníkovým státem."
  JUNO_brazil_events.46.desc: "[FROM.GetNameDefCap] se moudře podřizuje našim ozbrojeným silám, místo aby riskovali konflikt. Nyní zahajujeme proces vytvoření nového režimu v zemi, který bude více v souladu s našimi zájmy."
  JUNO_brazil_events.46.t: "[FROM.GetName] přijímá nabídku"
- JUNO_brazil_events.47.a: "Válka by se mohla vymknout kontrole." # tu som skončil
+ JUNO_brazil_events.47.a: "Válka by se mohla vymknout kontrole."
  JUNO_brazil_events.47.b: "Budou litovat svého rozhodnutí."
  JUNO_brazil_events.47.desc: "[FROM.GetAdjectiveCap] vláda odmítla naši nabídku stabilizace jejich země. Zdá se, že pokud zde chceme prosadit změnu režimu, budeme tak muset učinit vojenskou silou."
  JUNO_brazil_events.47.t: "[FROM.GetNameDefCap] odmítá návrh"
@@ -1125,7 +1125,7 @@
  south_american_events.52.b: "Strýčku Same, děkujeme."
  south_american_events.52.desc: "[FROM.GetAdjectiveCap] diplomaté nás informovali, že jsou připraveni ukončit nepřátelství na západní polokouli a prozatím se vrátit k diplomatickému řešení svých sporů. Zda tento zprostředkovaný mír vydrží, se teprve ukáže."
  south_american_events.52.t: "[FROM.GetNameDefCap] souhlasí s ukončením nepřátelství"
- south_american_events.53.a: "Tak tedy válka..." # tu som skončil
+ south_american_events.53.a: "Tak tedy válka..."
  south_american_events.53.desc: "[FROM.GetAdjectiveCap] diplomaté nás informovali, že [USA.GetNameDef] nemají právo zasahovat do údajně oprávněných stížností jejich vlády. Proto prohlásili, že budou na západní polokouli jednat ve vlastním zájmu tak dlouho, jak to budou považovat za nutné."
  south_american_events.53.t: "[FROM.GetNameDefCap] odmítá ukončit nepřátelství"
  south_american_events.54.a: "Výborně!"
