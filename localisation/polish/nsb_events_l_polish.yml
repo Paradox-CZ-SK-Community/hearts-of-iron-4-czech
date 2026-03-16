@@ -1321,7 +1321,7 @@
  nsb_news.1.a: "Dělníci Polska povstávají!"
  nsb_news.1.b: "Rozdrtíme tyhle nafoukance!"
  nsb_news.1.c: "Madono, ochraň nás."
- nsb_news.1.d: "Dívejte, jak se Polsko dokáže dělit i bez cizí pomoci."
+ nsb_news.1.d: "Dívejte, jak se Polsko dělí i bez cizí pomoci."
  nsb_news.1.desc: "Mladý polský stát se zmítá v občanské válce! Desetiletí vládních půtek a naprostý nedostatek investic do infrastruktury ve venkovském východním Polsku vedly počátkem roku k všeobecné stávce nižších vrstev, a pokračující brutální zacházení se stávkujícími ze strany policie a armády rozdělilo zemi na dvě části.\n\nSelskou vládu, kterou vede [peasant_poland_target.GetLeader], podporuje demokratická frakce Front Morges v polské armádě a koalice marxistů, socialistů a liberálů.\n\nZatímco loajální síly se soustředily v průmyslovém srdci Polska a sedláci ve venkovském východě, Polsko je rozděleno krví sedláků."
  nsb_news.1.e: "Co to pro Polsko bude znamenat?"
  nsb_news.1.t: "[peasant_poland_target.Capital.GetName] zažívá selské povstání"
