@@ -316,7 +316,7 @@
  AAT_Sweden_flashpoints.16.t: "[SWE.GetName] deeskaluje napětí"
  AAT_Sweden_flashpoints.17.a: "Budeme eskalovat, abychom deeskalovali - pohrozíme válkou."
  AAT_Sweden_flashpoints.17.b: "Musíme [SWE.GetName] prozatím uklidnit."
- AAT_Sweden_flashpoints.17.desc: "Poté, co [SWE.GetName] selhalo v pokusu poškodit naši pověst kvůli bombardování Pajaly, nyní otevřeně vyzbrojují [FIN.GetAdjective] armádu pěchotním vybavením. Jde o jasný pokus vydírat nás, abychom uznali odpovědnost za útok, nebo riskovali další ztráty sovětských vojáků.\n\nMusíme pečlivě zvážit další krok, abychom zabránili tomu, že se [SWE.GetNameDef] plně zapojí do války jako [FIN.GetAdjective] spojenec."
+ AAT_Sweden_flashpoints.17.desc: "Po ztroskotání pokusu [SWE.GetName] očernit naši pověst kvůli bombardování Pajaly nyní otevřeně vyzbrojují [FIN.GetAdjective] armádu pěchotním vybavením. To je jasný pokus vydírat nás, abychom přijali odpovědnost za útok, nebo riskovat smrt dalších sovětských vojáků. \n\nMusíme pečlivě zvážit náš další krok, abychom zabránili, aby se [SWE.GetAdjective] plně zapletli do války jako spojenci [FIN.GetAdjective]." # todo: CHANGED
  AAT_Sweden_flashpoints.17.t: "[SWE.GetName] eskaluje napětí příslibem zbraní pro [FIN.GetName]"
  AAT_Sweden_flashpoints.18.a: "[SOV.GetLeader] blafuje a my na to nepřistoupíme. Pokračujte v dodávkách."
  AAT_Sweden_flashpoints.18.b: "Nemůžeme riskovat další eskalaci se Sověty."
@@ -699,7 +699,7 @@
  AAT_finland_diplomacy.02.desc: "Naši triumfující diplomaté se vrátili ze své mise se zprávou, že [FROM.GetName] uznává potřebu vystupovat jednotněji proti našim společným rivalům a náš návrh na svazek bylo proto přijato.\n\nVládní představitelé již míří do našeho hlavního města, aby zajistili hladkou integraci nových území."
  AAT_finland_diplomacy.02.t: "[FROM.GetNonIdeologyName]-[ROOT.GetAdjective] unie"
  AAT_finland_diplomacy.03.a: "To postačí..."
- AAT_finland_diplomacy.03.desc: "Naši diplomaté navštívili [FROM.GetName], a ačkoli byla uznána potřeba jednotnějšího postupu, nebyli ochotni vzdát se veškeré své suverenity. Jednání se zpočátku vyvíjela dobře, avšak s ohledem na historický boj, který svádělo [FROM.GetNonIdeologyName] za svou nezávislost, [GetDiplomacyDescriptionNiceNotNice]\n\nNamísto unie se rozhodli vstoupit do naší frakce jako nezávislý stát." 
+ AAT_finland_diplomacy.03.desc: "Naši diplomaté navštívili [FROM.GetName], a ačkoli byla uznána potřeba jednotnějšího postupu, nebyli ochotni vzdát se veškeré své suverenity. Jednání se zpočátku vyvíjela dobře, avšak s ohledem na historický boj, který svádělo [FROM.GetNonIdeologyName] za svou nezávislost, [GetDiplomacyDescriptionNiceNotNice]\n\nNamísto unie se rozhodli vstoupit do naší frakce jako nezávislý stát."
  AAT_finland_diplomacy.03.t: "[FROM.GetName] vstupuje do frakce [ROOT.GetFactionName]"
  AAT_finland_diplomacy.04.a: "Budeme respektovat jejich rozhodnutí."
  AAT_finland_diplomacy.04.b: "Zvolili si svůj osud."

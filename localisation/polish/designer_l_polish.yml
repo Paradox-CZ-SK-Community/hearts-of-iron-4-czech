@@ -450,3 +450,7 @@
  DOMINANCE_RANGE_FACTOR: "Maximální dosah: $VALUE|+=%$"
  DOMINANCE_HG_FACTOR: "Těžký útok: $VALUE|+=%$"
  DOMINANCE_CARRIER_SIZE_FACTOR: "Kapacita letadlové lodi: $VALUE|+=%$"
+ EQUIPMENT_CATEGORIES_RESET: "Obnovit na automatickou kategorii vybavení" # todo: NEW TRANSLATION
+ EQUIPMENT_CATEGORIES_AUTO: "Automaticky §g($EQUIPMENT_CATEGORY$)§!" # todo: NEW TRANSLATION
+ EQUIPMENT_CATEGORIES_DESC: "Vyberte kategorii vybavení pro filtrování" # todo: NEW TRANSLATION
+ NAME_THEME_HISTORICAL_BM: "Historické monitory" # todo: NEW TRANSLATION

@@ -524,7 +524,7 @@
  FRA_industrial_expansion_desc: "Potřebujeme silnější domácí průmyslové zastoupení. Máme dostatek připravené pracovní síly, ale potřebujeme více továrních linek."
  FRA_industrial_expansion_tt: "Není dost stavebních míst pro §YCivilné továrny§! v kontinentální Francii"
  FRA_infantry_focus: "Levée en masse"
- FRA_infantry_focus_desc: "Všichni muži a ženy, kteří mohou bojovat, tak také učiní. Hromadná výroba zbraní sníží náklady. Pušku dáme do rukou každému."
+ FRA_infantry_focus_desc: "Všichni muži i ženy, schopní bojovat, se zapojí. Hromadná výroba zbraní sníží náklady. Každému dáme do ruky pušku." # todo: CHANGED
  FRA_initiate_government_reform: "Reforma vlády"
  FRA_initiate_government_reform_desc: "Svět se stal nebezpečným. Už se nemůžeme nechat svazovat vlastními malichernými spory. Je čas posílit postavení našich politiků a pohnout se kupředu v zájmu Francie."
  FRA_invite_romania: "Přizvat Rumunsko"
@@ -2073,7 +2073,7 @@
  arty_bonus: "Bonus k technologiím dělostřelectva"
  atlantikwall_tooltip: "Umístěte §Ypobřežní pevnosti§! v každém z následujících atlantických pobřežních států, které plně ovládáte:\n"
  atlantikwall_tooltip_2: "§YAquitaine§!\n§YPoitou§!\n§YLoire§!\n§YBrittany§!\n§YNormandy§!\n§YPas de Calais§!\n§YVlaanderen§!\n§YHolland§!\n§YFriesland§!\n§YWeser-Ems§!\n§YHannover§!\n§YSchleswig-Holstein§!\n§YJutland§!\n§YOstlandet§!\n§YVestlandet§!\n§YTrondelag§!\n§YNord-Norge§!\n"
- available_chief_of_airforce: "§GK dispozici§! jako §Ynáčelník letectva§!:\n"
+ available_chief_of_airforce: "§GDostupný§! jako §YVelitel letectva§!:\n" # todo: CHANGED
  available_chief_of_army: "§GK dispozici§! jako §Ynáčelník armády§!:\n"
  available_chief_of_navy: "§GK dispozici§! jako §Yvelitel námořnictva§!:\n"
  available_designer: "§GK dispozici§! jako §Ynávrhářská společnost§!:\n"
@@ -2332,7 +2332,7 @@
  radar_focus: "RADAR"
  radar_focus_desc: "Schopnost odhalit nepřátelské bombardéry bude pro válečné úsilí klíčová. Neměli bychom šetřit prostředky na další rozvoj radarové technologie a budování sítě detekčních stanic podél pobřeží."
  radar_tech_bonus: "Bonus k technologiím RADAR"
- remove_chief_of_airforce: "§ROdstranit§! jako §Ynáčelníka letectva§!:\n"
+ remove_chief_of_airforce: "§ROdvolat§! jako §YVelitel letectva§!:\n" # todo: CHANGED
  remove_chief_of_army: "§ROdstranit§! jako §Ynáčelníka armády§!:\n"
  remove_chief_of_navy: "§ROdstranit§! jako §Yvelitela námořnictva§!:\n"
  remove_military_high_command: "§ROdstranit§! jako §Yvojenské vysoké velení§!:\n"

@@ -353,7 +353,7 @@
  AUS_reclaim_dockyards: "Získat zpět staré loděnice"
  AUS_reclaim_dockyards_desc: "Jak se mění povaha námořních bitev, mění se i potřeby našeho námořnictva. Doby, kdy se do boje vedlo několik málo, avšak mocných lodí, jsou dávno pryč. Moderní námořní válka vyžaduje mnohem vyšší kapacitu jak pro stavbu nových plavidel, tak pro opravy vlastních. Měli bychom zvýšit počet loděnic."
  AUS_reclaim_habsburg: "Dobýt Habsburg"
- AUS_reclaim_habsburg_desc: "Naše vlastní domoviny stále nejsou pod naší kontrolou. Habsburkové nezapomněli na své skromné začátky ve vsi Habsburg - i jako šlechta byli považováni za nižší šlechtu. Časy se změnily; je čas získat domovské území zpět."
+ AUS_reclaim_habsburg_desc: "Naše domovská území stále nejsou pod naší kontrolou. Habsburkové nezapomněli na své skromné začátky ve vesnici Habsburg; i když byli šlechtického původu, patřili mezi nižší šlechtu. Situace se změnila — je čas obnovit kontrolu nad našimi domovskými územími." # todo: CHANGED
  AUS_reclaim_habsburg_tt: "Pravděpodobnost přijetí roste, pokud jsme §Gsilnější§! než oni.\n\nOdemkne rozhodnutí §YZnovuzačlenit švýcarské státy§!."
  AUS_reclaiming_yugoslavian_territories: "Získat zpět balkánská území"
  AUS_reclaiming_yugoslavian_territories_desc: "Naše velká říše kdysi sahala až k Jaderskému moři. Tato území nám byla na konci Velké války rovněž odňata. Jejich návratem získáme i takticky důležité pobřeží. Měli bychom navrhnout současným držitelům těchto států, aby nám je pokojně předali - jinak ponesou následky."

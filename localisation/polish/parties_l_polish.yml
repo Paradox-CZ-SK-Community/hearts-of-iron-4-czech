@@ -405,7 +405,7 @@
  DAG_fascism_party_long: "Dagestánská fronta národní spásy"
  DAG_fascism_party: "DNS"
  DAG_neutrality_party: "Stoupenci severokavkazského emirátu"
- democratic_desc: "Demokratický režim"
+ democratic_desc: "Demokratický stát" # todo: CHANGED
  democratic_noun: "Demokracie"
  democratic: "demokrat."
  DEN_communism_party_long: "Danmarks Kommunistiske Parti"

@@ -4,11 +4,11 @@
  AIR_EQUIPMENT_TOTAL: "Celkový počet letadel"
  AIR_EQUIPMENT_TOTAL_DESC: "Počet letadel napříč všemi letkami."
  AIR_EXPERIENCE: "Letecké zkušenosti"
- AIR_EXPERIENCE_DESC: "Když vaše letadla bojují s nepřítelem v misích nebo cvičí v §HPilotních cvičeních§!, získáváte vzdušné zkušenosti. To znamená, že můžete získat vzdušné zkušenosti, když vaše §HLetky§! bojují, nebo pokud máte §HZapůjčeno§! vybavení ve válkách vašich spojenců.\nNěkteré §Hnárodní zaměření§! poskytují další zkušenosti a někteří §Hministři§! mohou zvyšovat získané zkušenosti.\n\nVzdušná zkušenost se používá k vývoji lepších variant stávajících letadel."
+ AIR_EXPERIENCE_DESC: "Když se vaše letadla zapojí do bojů při misích nebo se cvičí v §HCvičeních pilotů§!, získáváte letecké zkušenosti. To znamená, že můžete získat letecké zkušenosti, když se vaše §Hletky§! zapojí do boje nebo pokud máte §HLend-Leased§! vybavení v konfliktech vašich spojenců.\nNěkterá §HNárodní zaměření§! poskytují dodatečné zkušenosti a někteří §HMinistři§! mohou zvýšit získané zkušenosti.\n\nLetecké zkušenosti slouží k vývoji lepších variant existujících letadel, navrhování nových a k odemykání §HDoktrín§!." # todo: CHANGED
  AIR_EXPERIENCE_GAIN_TRAINING: "Z §HPilotních cvičení§!: $VALUE|=+3$ denně"
  AIR_SERVICE_MANPOWER_DESC: "Služební personál je používán našimi vzdušnými silami k udržení funkčnosti."
  ARMY_EXPERIENCE: "Armádní zkušenosti"
- ARMY_EXPERIENCE_DESC: "Jak je vaše vybavení používáno v boji, získáváte armádní zkušenosti. To znamená, že můžete získat armádní zkušenosti, když vaše §HDivize§! bojují, nebo pokud máte §HZapůjčeno§! vybavení ve válkách vašich spojenců.\nTaké získáváte zkušenosti z provádění §Harmádních cvičení§! s jednotkami, které jsou alespoň na úrovni $UNIT_TRAINING_LEVEL|Y$ a z některých §Hnárodních zaměření§!. Někteří §Hministři§! mohou zvýšit získané zkušenosti.\n\nArmádní zkušenost je potřebná k vytváření a modifikaci vašich §HDivizních šablon§!."
+ ARMY_EXPERIENCE_DESC: "Jakmile je vaše vybavení použito v boji, získáváte armádní zkušenosti. To znamená, že můžete získat armádní zkušenosti, když se vaše §Hdivize§! zapojí do bitvy nebo pokud máte §HLend-Leased§! vybavení v konfliktech vašich spojenců.\nZkušenosti také získáváte prováděním §Harmádních cvičení§! s jednotkami, které jsou alespoň na úrovni $UNIT_TRAINING_LEVEL|Y$, a z určitých §HNárodních zaměření§!. Někteří §HMinistři§! mohou zvýšit získané zkušenosti.\n\nArmádní zkušenosti jsou potřeba k vytvoření a úpravě vašich §Hšablon divizí§! a k odemknutí §HDoktrín§!." # todo: CHANGED
  ARMY_EXPERIENCE_GAIN_TRAINING: "Z §HArmádních cvičení§!: $VALUE|=+3$ denně"
  COMMAND_POWER: "Velitelská síla"
  COMMAND_POWER_ALLOCATED: "Přiděleno: $VALUE|+=0$"
@@ -80,7 +80,7 @@
  NAVY_EQUIPMENT_TOTAL: "Celkový počet lodí"
  NAVY_EQUIPMENT_TOTAL_DESC: "Počet lodí napříč všemi flotilami a úderními skupinami."
  NAVY_EXPERIENCE: "Námořní zkušenosti"
- NAVY_EXPERIENCE_DESC: "Jak jsou vaše lodě používány v boji a v §Hnámořních cvičeních§!, získáváte námořní zkušenosti. Některé §Hnárodní zaměření§! poskytují další zkušenosti a někteří §Hministři§! mohou zvýšit získané zkušenosti.\n\nNámořní zkušenost se používá k vývoji lepších variant stávajících lodí."
+ NAVY_EXPERIENCE_DESC: "Jakmile jsou vaše lodě použity v boji a při §HNámořních cvičeních§!, získáváte námořní zkušenosti. Některá §HNárodní zaměření§! poskytují dodatečné zkušenosti a někteří §HMinistři§! mohou zvýšit získané zkušenosti.\n\nNámořní zkušenosti slouží k vyvíjení lepších variant stávajících lodí, navrhování nových a k odemykání §HDoktrín§!." # todo: CHANGED
  NAVY_EXPERIENCE_GAIN_TRAINING: "Z §Hnámořních cvičení§!: $VALUE|=+3$ denně"
  POLITICAL_POWER: "Politická síla"
  POLITICAL_POWER_DESC: "Politická síla představuje schopnost vůdců země řídit stát. Vydávejte politickou moc, abyste změnili §HLaws§!, jmenovali §HPolitické poradce§! a §HMilitaristy§!, řídili §HZkoumání a výrobu§!, a přijímali §Hrozhodnutí§! a §HDiplomatické akce§!."

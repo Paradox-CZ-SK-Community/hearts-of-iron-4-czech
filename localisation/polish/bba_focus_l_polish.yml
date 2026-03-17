@@ -1790,7 +1790,7 @@
  SWI_demand_french_alps: "Požadovat francouzské Alpy"
  SWI_demand_french_alps_desc: "Je otázkou času, kdy se [FRA.GetNameDef] zhroutí pod vnitřním a vnějším tlakem. Musíme zaujmout aktivní postoj k obraně Alp - jinak se může nebezpečný nepřítel zmocnit postavení, která poslouží jako odrazový můstek k invazi na naše území."
  SWI_demand_italian_alps: "Požadovat italské Alpy"
- SWI_demand_italian_alps_desc: "Po desetiletí si [ITA.GetName] beze studu činí nárok na naše italsky mluvící kantony. Mohou-li to dělat oni, můžeme my požadovat, aby se jejich Alpy připojily k našemu demokratickému režimu - [ROOT.GetNameDef] má na ně stejný nárok, jaký má [ITA.GetNameDef] na Ticino."
+ SWI_demand_italian_alps_desc: "Po desetiletí [ITA.GetName] bezostyčně nárokoval naše kantony, kde se mluví [ITA.GetAdjective]. Jestliže to mohou oni, můžeme my jistě požadovat, aby jejich Alpy vstoupily do naší demokratické společnosti. Koneckonců patří do [ROOT.GetNameDef] stejně jako Ticino patří [ITA.GetNameDef]." # todo: CHANGED
  SWI_dissolve_the_federal_council: "Rozpustit Spolkovou radu"
  SWI_emergency_industry: "Nouzový průmysl"
  SWI_emergency_industry_desc: "Protože jsme odhodláni zničit vlastní průmyslovou kapacitu při nepřátelské invazi, musíme mít zálohu, s níž znovu vybudujeme to, co zbyde, a vyženeme vetřelce. Srdce našich hor a údolí zaplní tajné tunely a továrny - některé možná i za hranicemi."

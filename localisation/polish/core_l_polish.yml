@@ -52,7 +52,7 @@
  AGRESSIVE_MISSION_WITH_NO_AGGRESSIVENESS: "§R£mapicon_unit_no_orders  Úderná skupina $NAME|H$ má nastaveno §Hneútočení§!.\n"
  AIR_RESERVES_TYPE_1: "Stíhačky"
  AIR_RESERVES_TYPE_2: "Bombardéry"
- AIR_RESERVES_TYPE_3: "Podpůrná letadla"
+ AIR_RESERVES_TYPE_3: "Letouny blízké letecké podpory" # todo: CHANGED
  AIR_SUPERIORITY_AA_REDUCTION_ENEMY: "Snížené nepřátelskou protileteckou obranou v regionu = $RED|R1$"
  AIR_SUPERIORITY_AA_REDUCTION_OUR: "Sníženo naši protileteckou obranou v regionu = $RED|G1$"
  AIR_SUPERIORITY_BAR_DISABLED_NO_WINGS: "Momentálně nejsou v této oblasti aktivní žádné letky."
@@ -65,7 +65,7 @@
  AIR_SUPERIORITY_ENEMY_TYPE_1: "Aktuálně aktivní nepřátelské stíhačky"
  AIR_SUPERIORITY_ENEMY_TYPE_2: "Aktuálně aktivní nepřátelské bombardéry"
  AIR_SUPERIORITY_ENEMY_TYPE_3: "Aktuálně aktivní nepřátelské podpůrné letouny"
- AIR_SUPERIORITY_ENEMY_TYPE_4: "Nepřátelská protivzdušná obrana"
+ AIR_SUPERIORITY_ENEMY_TYPE_4: "Nepřátelská protiletadlová děla" # todo: CHANGED
  AIR_SUPERIORITY_FRIENDLY_PRESENCE_TYPE_1: "V oblasti jsou aktivní přátelské stíhačky"
  AIR_SUPERIORITY_FRIENDLY_PRESENCE_TYPE_2: "V oblasti jsou aktivní přátelské bombardéry"
  AIR_SUPERIORITY_FRIENDLY_PRESENCE_TYPE_3: "V oblasti jsou aktivní přátelské podpůrné letadla"
@@ -75,8 +75,8 @@
  AIR_SUPERIORITY_SPEED_MODIFIER: "Vzdušná nadvláda: $VALUE|+=%$"
  AIR_SUPERIORITY_TYPE_1: "Aktuálně aktivní stíhačky"
  AIR_SUPERIORITY_TYPE_2: "Aktuálně aktivní bombardéry"
- AIR_SUPERIORITY_TYPE_3: "Aktuálně aktivní podpůrné letouny"
- AIR_SUPERIORITY_TYPE_4: "Protivzdušná obrana"
+ AIR_SUPERIORITY_TYPE_3: "Aktuálně aktivní letouny CAS" # todo: CHANGED
+ AIR_SUPERIORITY_TYPE_4: "Protiletadlová děla" # todo: CHANGED
  AIR_SUPPLY_CHUNK_DESC: "Tato jednotka je podporována prostřednictvím §Yvzdušných shozů§!.\nZhozené zásoby: $VAL|+=$"
  AIR_WING_LEVEL_0: "Nováčci"
  AIR_WING_LEVEL_1: "Vyškolení"
@@ -139,7 +139,7 @@
  AIRVIEW_DETAILS_CHANNEL_15: "Nepřátelské lodě potopené: $VAL|G0$"
  AIRVIEW_DETAILS_CHANNEL_16: "Zničena nepřátelská letadla: $VAL|G0$"
  AIRVIEW_DETAILS_CHANNEL_17: "Nepřátelské bombardéry zničeny: $VAL|G0$"
- AIRVIEW_DETAILS_CHANNEL_18: "Nepřátelská podpora zničeny: $VAL|G0$"
+ AIRVIEW_DETAILS_CHANNEL_18: "Ztráty nepřátelských letounů CAS: $VAL|G0$" # todo: CHANGED
  AIRVIEW_DETAILS_CHANNEL_19: "Nepřátelské transporty zničeny: $VAL|G0$"
  AIRVIEW_DETAILS_CHANNEL_2: "Naše jednotky bombardovány: $VAL|R1$"
  AIRVIEW_DETAILS_CHANNEL_20: "Nepřátelské bombardéry zachyceny: $VAL|G1$"
@@ -150,7 +150,7 @@
  AIRVIEW_DETAILS_CHANNEL_3: "Naše lodě bombardovány: $VAL|R1$"
  AIRVIEW_DETAILS_CHANNEL_4: "Ztraceni stíhači: $VAL|R0$"
  AIRVIEW_DETAILS_CHANNEL_5: "Ztraceny bombardéry: $VAL|R0$"
- AIRVIEW_DETAILS_CHANNEL_6: "Ztraceny podporní jednotky: $VAL|R0$"
+ AIRVIEW_DETAILS_CHANNEL_6: "Naše ztráty CAS: $VAL|R0$" # todo: CHANGED
  AIRVIEW_DETAILS_CHANNEL_7: "Ztraceny transporty: $VAL|R0$"
  AIRVIEW_DETAILS_CHANNEL_8: "Napadnuty bombardéry: $VAL|R1$"
  AIRVIEW_DETAILS_CHANNEL_9: "Ztraceny vlaky: $VAL|R0$"
@@ -1952,7 +1952,7 @@
  UNLOCK_WITH_XP: "Odemknout s $XPICON$ $VALUE|Y0$"
  unplanned_offensive: "Neplánovaný útok"
  UNREADY: "Připraven?"
- USE_DEFAULT_MODEL: "Použít nejlepší shodu"
+ USE_DEFAULT_MODEL: "Shoda vybavení" # todo: CHANGED
  USE_FLEET_COLOR: "Použít barvu flotily"
  VALUE_CLICK_ADD_1: "§GKlikněte§! pro přidání §Y+$NUM$§!"
  VALUE_CLICK_ADD_2: "§GCtrl + Klik§! pro přidání §Y+$NUM$§!"
@@ -2127,3 +2127,9 @@
  PLAN_COHESION_IMMOBILE_TITLE: "§HNepohyblivé§!"
  PLAN_COHESION_IMMOBILE_DESC: "Divize se §Rnikdy§! nepřemístí!"
  PLANNING_SPEED_COHESION_IMMOBILE_FACTOR: "$PLAN_COHESION_IMMOBILE_TITLE$ Soudržnost: x$FACTOR|R$"
+ USE_DEFAULT_MODEL_TOOLTIP: "Použít model nejběžnějšího vybavení" # todo: NEW TRANSLATION
+ USE_DEFAULT_MODEL_IN_DIVISION_DESIGNER: "Shoda vybavení" # todo: NEW TRANSLATION
+ USE_DEFAULT_MODEL_IN_DIVISION_DESIGNER_TOOLTIP: "Dynamicky používat model nejběžnějšího vybavení" # todo: NEW TRANSLATION
+ USE_DEFAULT_MODEL_IN_EQUIPMENT_DESIGNER: "Výchozí model" # todo: NEW TRANSLATION
+ USE_DEFAULT_MODEL_IN_EQUIPMENT_DESIGNER_TOOLTIP: "Dynamicky používat nejvhodnější variantu modelu" # todo: NEW TRANSLATION
+ TOGGLE_MODEL_SELECTOR: "Kliknutím přepněte výběr modelu" # todo: NEW TRANSLATION
