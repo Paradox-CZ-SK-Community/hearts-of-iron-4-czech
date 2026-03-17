@@ -235,7 +235,7 @@
  FIN_fight_alongside_country_comrades_nordic_desc: "$SOV_fight_alongside_country_comrades_baltic_desc$"
  FIN_finland_can_send_peace_demands_tt: "[FIN.GetFlag]§Y[FIN.GetNameDefCap]§! může vznést požadavek na mírová jednání včetně §Yúzemních ústupků [ROOT.GetAdjective] strany§!, pokud kontroluje §Y[213.GetName]§!, §Y[215.GetName]§! nebo §Y[216.GetName]§!."
  FIN_finnish_resistance_category: "[FIN.GetAdjectiveCap] odboj"
- FIN_finnish_resistance_category_desc: "V rámci tajné vojenské operace bylo po celém Finsku ukryto velké množství zbraní a vybavení [ROOT.GetAdjective] armády, aby pomohly prvkům [ROOT.GetAdjective] odboje pokračovat v boji proti našim jednotkám."
+ FIN_finnish_resistance_category_desc: "V rámci tajné vojenské operace bylo ve skrýších rozmístěných po celém Finsku uloženo velké množství zbraní a vybavení [ROOT.GetAdjective] armády, určené k podpoře [ROOT.GetAdjective] odbojových skupin v pokračování boje proti našim jednotkám."
  FIN_finno_soviet_kinship_war: "Finsko-[ROOT.GetAdjective] příbuzenská válka"
  FIN_finno_soviet_kinship_war_desc: "Během ruské občanské války vedli Finové tzv. příbuzenské války, během nichž vpadali na naše území, aby nám ukradli země, a nyní se o totéž znovu pokoušejí."
  FIN_foreign_politics_decision_category: "Zahraniční politika"

@@ -45,7 +45,8 @@ Screen Ships → doprovodní lodě / doprovod
 Naval Dominance → námořní převaha  
 ---
 ## Letectvo
-Air Wings → letka  
+Air Wings → letka
+CAS → Letecká podpora
 ---
 ## Geopolitické pojmy
 Nordic → severský  

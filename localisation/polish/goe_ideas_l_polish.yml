@@ -273,7 +273,7 @@
  PER_rapid_appeasement_idea: "Rychlé uklidnění"
  PER_rapid_appeasement_idea_desc: "Abychom předešli možné islámské revoluci, nabídli jsme reparace s cílem uklidnit opozici. To by mělo na čas udržet stabilitu země, byť za cenu zpomalení našeho rozvoje."
  PER_resist_gharbzadegi_idea: "Odpor proti gharbzadegi"
- PER_resist_gharbzadegi_idea_desc: "Přehnaná westernizace byla pohromou pro náš velký národ. Namísto podbízení se rozmarům těch, kteří po staletí kolonizovali náš region, bychom měli vybudovat demokratický režim, který obstojí vlastními silami."
+ PER_resist_gharbzadegi_idea_desc: "Přehnané přizpůsobování se Západu bylo pohromou naší veliké země. Místo podléhání rozmarům těch, kteří po staletí kolonizovali náš region, bychom měli usilovat o vytvoření demokratického státu, který bude schopen obstát samostatně."
  PER_resistance_modifier: "Buňky odboje"
  PER_resistance_modifier_desc: "Tento region sužují buňky odboje organizované zemí [PER.GetNameDef]."
  PER_restoring_the_nation_idea: "Obnova národa"

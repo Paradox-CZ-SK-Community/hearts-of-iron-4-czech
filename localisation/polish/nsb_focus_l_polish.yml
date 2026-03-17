@@ -1640,7 +1640,7 @@
  SOV_submarine_warfare_desc: "Ponorky nabízejí významné výhody v námořním boji. Dobře navržená moderní ponorka je prakticky nezjistitelná, dokud nevypálí torpéda, a může vyřadit kapitální loď mnohonásobně větší a dražší. Měli bychom se soustředit na vývoj těchto plavidel jako hlavní útočné síly našeho námořnictva."
  SOV_submarine_warfare_ns_tt: "$SOV_modify_red_fleet_ns_intro$ \n$SOV_the_red_fleet_submarine_1_bonus_tt$ \n\n"
  SOV_superior_war_machines: "Nadřazené válečné stroje"
- SOV_superior_war_machines_desc: "Tanky a obrněná vozidla se v posledním desetiletí značně vyvinula. S velkým zbrojním průmyslem, který je vyrábí a zásobuje, můžeme vytvářet nadřazená vozidla a nasazovat je masově proti nepříteli."
+ SOV_superior_war_machines_desc: "Tanky a obrněná vozidla se během posledního desetiletí významně vyvinuly. Díky rozsáhlému zbrojnímu průmyslu, který je dokáže vyrábět a zásobovat, dokážeme vyrobit nadřazená vozidla a nasadit je hromadně proti nepříteli."
  SOV_superior_war_machines_ns_tt: "$SOV_modify_defense_industry_ns_intro$ \n$tank_manufacturer_cost_factor$: §G-25%§! \n\n"
  SOV_support_afghan_ideology: "Podpořit afghánský [GetIdeologyNameWithCaps]"
  SOV_support_afghan_ideology_desc: "Afghánistán je místem, kde jsou hrdé národy pokořeny. Vojenská operace v zemi by byla v nejlepším případě nákladná a možná by ani neuspěla. Máme několik kontaktů v Afghánistánu, kteří si přejí nastolit vládu ideologicky bližší té naší. Měli bychom toto úsilí podpořit."

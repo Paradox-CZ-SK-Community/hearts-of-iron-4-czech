@@ -2776,7 +2776,7 @@
  XSM_recruit_salar_officers_desc: "Turkický národ Salarů v provincii Čching-chaj vykazuje nadání pro válečné umění. Důstojníci budou vysláni do okresu Süan-chua, aby vyhledali nadějné nové vůdce a zajistili jim řádný vojenský výcvik."
  XSM_rebuild_the_ninghai_army: "Obnovit ningchajskou armádu"
  XSM_rebuild_the_ninghai_army_desc: "Abychom znovu nastolili pořádek v našich jižních provinciích a zabezpečili hranice, musíme obnovit ningchajskou armádu. Tím bychom měli získat převahu v potyčkách proti Tibeťanům."
- XSM_rebuilt_the_ninghai_army_flag: "Ningchajská armáda obnovena"
+ XSM_rebuilt_the_ninghai_army_flag: "Obnovena §YNingchajská armáda§!"
  KUM_victory_in_tihwa: "Vítězství v Tch'-chuej-wě"
  KUM_victory_in_tihwa_desc: "Pádem provincie [617.GetName] jsme svou pozici v oblasti skutečně upevnili. Dnes stojíme jako vítězové - ať žije chán!"
  KUM_restore_yettishar: "Obnovit Jettíšár"
@@ -3541,3 +3541,4 @@
  PHI_focus_time_reduced_T2_tt: "§Y$PHI_anti_hacendados$§! sníží dobu potřebnou pro tohle zaměření o 35 dní."
  PHI_focus_time_reduced_T3_tt: "§Y$PHI_open_borders$§! sníží dobu potřebnou pro tohle zaměření o 35 dní."
  MAN_has_completed_claim_the_mandate_of_heaven_focus: "Zaměření §Y$MAN_claim_the_mandate_of_heaven$§! bylo dokončeno."
+ KHM_established_the_kashgar_clique_flag: "Založena §Y$KHM_young_kashgars$§!"

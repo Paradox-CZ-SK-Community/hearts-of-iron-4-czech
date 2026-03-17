@@ -1827,7 +1827,7 @@
  news.224.b: "Co si Britové myslí, že jsou?"
  news.224.c: "[ENG.GetNameDef] prosazuje svůj vliv."
  news.224.d: "Vzhledem k tradici britského vlivu ve Středomoří vycházejícího z Gibraltaru nepřekvapí, že se [ENG.GetAdjective] vláda rozhodla vyvinout politický tlak na [Spain.GetAdjective] fašistickou vládu.\n\n[Spain.GetNameDef] se stále vzpamatovává z občanské války a [ENG.GetAdjective] podpora je mnohem důležitější než politické zásady."
- news.224.t: "[ENG.GetNameDefCap] tlačí na [Spain.GetNameDef]"
+ news.224.t: "[ENG.GetNameDefCap] vyvíjí nátlak na [SPR.GetNameDef]"
  news.225.a: "Jejich mise by nám mohla posloužit."
  news.225.b: "Co si Britové myslí, že jsou?"
  news.225.c: "[ENG.GetNameDef] prosazuje svůj vliv."
