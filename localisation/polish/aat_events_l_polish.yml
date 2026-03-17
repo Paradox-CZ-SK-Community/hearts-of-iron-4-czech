@@ -316,7 +316,7 @@
  AAT_Sweden_flashpoints.16.t: "[SWE.GetName] deeskaluje napětí"
  AAT_Sweden_flashpoints.17.a: "Budeme eskalovat, abychom deeskalovali - pohrozíme válkou."
  AAT_Sweden_flashpoints.17.b: "Musíme [SWE.GetName] prozatím uklidnit."
- AAT_Sweden_flashpoints.17.desc: "Po ztroskotání pokusu [SWE.GetName] očernit naši pověst kvůli bombardování Pajaly nyní otevřeně vyzbrojují [FIN.GetAdjective] armádu pěchotním vybavením. To je jasný pokus vydírat nás, abychom přijali odpovědnost za útok, nebo riskovat smrt dalších sovětských vojáků. \n\nMusíme pečlivě zvážit náš další krok, abychom zabránili, aby se [SWE.GetAdjective] plně zapletli do války jako spojenci [FIN.GetAdjective]." # todo: CHANGED
+ AAT_Sweden_flashpoints.17.desc: "Poté, co [SWE.GetName] selhává v pokusu poškodit naši pověst kvůli bombardování Pajaly, nyní otevřeně vyzbroje [FIN.GetAdjective] armádu pěchotním vybavením. Jde o jasný pokus vydírat nás, abychom uznali odpovědnost za útok, nebo riskovali další ztráty sovětských vojáků.\n\nMusíme pečlivě zvážit další krok, abychom zabránili tomu, že se [SWE.GetNameDef] plně zapojí do války jako [FIN.GetAdjective] spojenec."
  AAT_Sweden_flashpoints.17.t: "[SWE.GetName] eskaluje napětí příslibem zbraní pro [FIN.GetName]"
  AAT_Sweden_flashpoints.18.a: "[SOV.GetLeader] blafuje a my na to nepřistoupíme. Pokračujte v dodávkách."
  AAT_Sweden_flashpoints.18.b: "Nemůžeme riskovat další eskalaci se Sověty."

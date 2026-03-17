@@ -1004,7 +1004,7 @@
  TRIGGER_MORE_THAN_IDEOLOGY_SUPPORT: "Podpora ($IDEOLOGY|H$) ideologie vůdce frakce je větší než $REQUIRED|H%0$ (aktuálně $CURRENT|H%0$)"
  TRIGGER_LESS_THAN_IDEOLOGY_SUPPORT: "Podpora ($IDEOLOGY|H$) ideologie vůdce frakce je menší než $REQUIRED|H%0$ (aktuálně $CURRENT|H%0$)"
  TRIGGER_HAS_EQ_IDEOLOGY_SUPPORT: "Podpora ($IDEOLOGY|H$) ideologie vůdce frakce je rovna $REQUIRED|H%0$ (aktuálně $CURRENT|H%0$)"
- GOAL_T_TRIGGER_A: "Počet známých technologií ve frakci ($LEFT|0H$) je větší než $RIGHT|0H$" # todo: CHANGED
+ GOAL_T_TRIGGER_A: "Počet známých technologií ve frakci ($LEFT|0H$) je větší než $RIGHT|0H$"
  GOAL_T_TRIGGER_B: "Počet divizí ve frakci ($LEFT|0H$) je větší než $RIGHT|0H$"
  TRIGGER_EQUIPMENT_CURRENT_VALUE: " (aktuální zásoby: $CURRENT|H$)"
  TRIGGER_ENERGY_RATIO: "Poměr energie"

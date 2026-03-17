@@ -248,7 +248,7 @@
  capital_ship_raiders: "Útočníci na hlavní bojové lodě"
  carousel_bombing_desc: "Bombardéry často chtějí jednoduše odhodit všechny bomby, jakmile dosáhnou cílové oblasti, a pak co nejdříve odletět domů. To sice může fungovat při plošném bombardování, ale pokud jde o zasažení malého cíle, je efektivnější se nad cílem zdržet a shodit najednou jen část nálože bomb, aby bylo dosaženo maximální přesnosti."
  carousel_bombing: "Kolotočové bombardování"
- carrier_battlegroups_desc: "Letadlové lodě dokážou zasahovat nepřítele na větší vzdálenost než kterékoliv námořní dělo, a s očima na obloze nikdy nebudeme zaskočeni. Seskupení letadlových lodí představuje sílu, se kterou je třeba počítat." # todo: CHANGED
+ carrier_battlegroups_desc: "Letadlové lodě dokážou zasahovat nepřítele na větší vzdálenost než kterékoliv námořní dělo, a s očima na obloze nikdy nebudeme zaskočeni. Seskupení letadlových lodí představuje sílu, se kterou je třeba počítat."
  carrier_battlegroups: "Skupiny letadlových lodí"
  carrier_operations_desc: "Letadlové lodě umožní našim pilotům útočit na moři rychleji a snadněji než z našich leteckých základen na pevnině. Útočit budeme dřív, než budou mít čas reagovat."
  carrier_operations: "Operace z letadlových lodí"

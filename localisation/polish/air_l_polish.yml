@@ -105,7 +105,7 @@
  AIRWING_MISSION_TYPE_DROP_NUKE: "Jaderný úder"
  AIRWING_MISSION_TYPE_DROP_NUKE_DESC: "Jaderný úder"
  AIRWING_MISSION_TYPE_DROP_NUKE_DISABLED_DESC: "§RNedostatek§! jaderných zbraní pro provedení útoku!"
- AIRWING_MISSION_TYPE_FIGHTER_SUPPORT_MISSIONS: "Stíhací a mise blízké letecké podpory" # todo: CHANGED
+ AIRWING_MISSION_TYPE_FIGHTER_SUPPORT_MISSIONS: "Stíhací mise a mise letecké podpory"
  AIRWING_MISSION_TYPE_INTERCEPTION: "Zachycení"
  AIRWING_MISSION_TYPE_INTERCEPTION_DESC: "Snažte se zabránit nepřátelským letadlům vykonávat mise v oblasti, jako je bombardování nebo blízká letecká podpora."
  AIRWING_MISSION_TYPE_NAVAL_BOMBER: "Námořní úder"

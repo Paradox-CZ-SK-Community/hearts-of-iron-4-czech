@@ -1117,7 +1117,7 @@
  sp_naval_escort_carrier_desc: "Abychom ochránili naše zásobovací trasy, chceme vyvinout menší a hospodárnější letadlové lodě poskytující cenově efektivní vzdušné krytí a protiponorkové schopnosti napříč oceány."
  sp_naval_escort_carrier_free_design: "Eskortní letadlová loď"
  sp_naval_submarine_carrier: "Letadlová ponorka"
- sp_naval_submarine_carrier_desc: "Snažíme se vyvinout nový typ ponorky, schopný pojmout a vypouštět více letadel, aby prováděl mise přesahující pouhý letecký průzkum." # todo: CHANGED
+ sp_naval_submarine_carrier_desc: "Snažíme se vyvinout nový typ ponorky, schopný pojmout a vypouštět více letadel, aby prováděl mise přesahující pouhý letecký průzkum."
  sp_naval_submarine_carrier_free_design: "Letadlová ponorka"
  sp_naval_support_ships_unique_reward_a: "Pomocné lodě - Zaměření na zásobování"
  sp_naval_support_ships_unique_reward_a_desc: "Ačkoli je hodnota podpůrných lodí nesporná, musíme rozhodnout o jejich  operačním zaměření: cílené doplňování zásob menšího počtu lodí, nebo obecné doplňování zásob celé flotily."
@@ -1154,4 +1154,4 @@
  sp_naval_submarine_carrier_eq_bonus_strength: "Letadlová ponorka - Zesílený trup"
  sp_naval_submarine_carrier_eq_bonus_stealth: "Letadlová ponorka - Snížená odhalitelnost"
  JAP_sp_air_helicopter: "Kajaba Ka-1"
- JAP_sp_naval_submarine_carrier: "Ponorkový nosič třídy I-400" # todo: NEW TRANSLATION
+ JAP_sp_naval_submarine_carrier: "Letadlová ponorka třídy I-400"

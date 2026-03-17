@@ -1272,7 +1272,7 @@
  CHL_utlilize_famae: "Využít FAMAE"
  CHL_utlilize_famae_desc: "Náš zbrojní průmysl je závislý na zahraničních nákupech a několika místně vyráběných puškách. Chceme-li zvýšit vojenskou produkci, musíme se opřít o státního výrobce zbraní, jako jsou Fábricas y Maestranzas del Ejército, které je nutné rychle modernizovat."
  CHL_volunteers_to_the_republicans: "Dobrovolníci pro republikány"
- CHL_volunteers_to_the_republicans_desc: "Naši bratři ve Španělsku se v současnosti účastní boje proti vojenským složkám, které usilují o svržení jejich demokratické republiky. Ač myšlenka zasahovat v Chile nemusí být zrovna populární, mohlo by to předvést naši sílu a připravenost bránit demokracii." # todo: CHANGED
+ CHL_volunteers_to_the_republicans_desc: "Naši bratři ve Španělsku se v současnosti účastní boje proti vojenským složkám, které usilují o svržení jejich demokratické republiky. Ač myšlenka intervence nemusí být v Chile zrovna populární, mohlo by to předvést naši sílu a připravenost bránit demokracii."
  CHL_volunteers_to_the_republicans_tt: "@SPR Republikánské Španělsko existuje"
  CHL_volunteers_to_the_republicans_tt_2: "@SPR Republikánské Španělsko nedokončilo §Y$SPR_regional_defense_council_of_aragon$§!"
  CHL_we_must_dig_deeper: "Musíme kopat hlouběji"
@@ -1954,4 +1954,4 @@
  propping_up_gustavo_ross_tt: "Jakmile se §Y$CHL_gustavo_ross_santa_maria$§! stane prezidentem Chile, získáme §G+75§! politické síly, §G+5 %§! stability a obdrží rys §Y$JUNO_popular_among_the_people$§!, který poskytuje: §G+2 %§! růst poslušnosti, §G+25 %§! obranu proti ideologickému posunu a §G+10 %§! stabilitu."
  right_wing_tt: "K moci se dostává §Ypravicový§! prezident"
  working_on_the_pan_american_highway: "Práce na Panamerické dálnici"
- ARG_paraguayan_ultimatum.tt: "([PAR.GetFlag]§Y[PAR.GetNameDefCap]§!) Obdrží událost '§Y$ARG_political_events.19.t$§!', která bude požadovat, aby se stali naší §Yloutkou§!. S větší pravděpodobností ji přijmou, pokud o nás mají §Yvysoký názor§!" # todo: NEW TRANSLATION
+ ARG_paraguayan_ultimatum.tt: "([PAR.GetFlag]§Y[PAR.GetNameDefCap]§!) obdrží událost '§Y$ARG_political_events.19.t$§!', která bude požadovat, aby se stali naší §Yloutkou§!. S větší pravděpodobností ji přijmou, pokud na nás mají §Yvysoký názor§!"

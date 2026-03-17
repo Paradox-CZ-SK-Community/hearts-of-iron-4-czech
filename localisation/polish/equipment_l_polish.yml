@@ -616,14 +616,14 @@
  ENG_heavy_tank_equipment_3_short: "Black Prince"
  ENG_infantry_at2: "PIAT"
  ENG_infantry_at: "Protitanková puška Boys"
- ENG_infantry_equipment_0: "Puška No. 1 Mk III" # todo: CHANGED
- ENG_infantry_equipment_0_short: "Puška No. 1 Mk III" # todo: CHANGED
- ENG_infantry_equipment_1: "Puška No. 4 Mk I" # todo: CHANGED
- ENG_infantry_equipment_1_short: "Puška No. 4 Mk I" # todo: CHANGED
- ENG_infantry_equipment_2: "Samopal Sten Mk II" # todo: CHANGED
- ENG_infantry_equipment_2_short: "Sten Mk II" # todo: CHANGED
- ENG_infantry_equipment_3: "Samopal Sterling Mk I" # todo: CHANGED
- ENG_infantry_equipment_3_short: "Sterling Mk I" # todo: CHANGED
+ ENG_infantry_equipment_0: "Puška No. 1 Mk III"
+ ENG_infantry_equipment_0_short: "Puška No. 1 Mk III"
+ ENG_infantry_equipment_1: "Puška No. 4 Mk I"
+ ENG_infantry_equipment_1_short: "Puška No. 4 Mk I"
+ ENG_infantry_equipment_2: "Samopal Sten Mk II"
+ ENG_infantry_equipment_2_short: "Sten Mk II"
+ ENG_infantry_equipment_3: "Samopal Sterling Mk I"
+ ENG_infantry_equipment_3_short: "Sterling Mk I"
  ENG_light_tank_aa_equipment_1: "Vickers II AA"
  ENG_light_tank_aa_equipment_1_short: "Vickers II AA"
  ENG_light_tank_aa_equipment_2: "Matilda AA"
