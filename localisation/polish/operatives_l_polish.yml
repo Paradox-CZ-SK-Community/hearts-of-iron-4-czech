@@ -208,7 +208,7 @@
  OPERATIVES: "Operativci"
  OPERATIVE_AVAILABLE_AGAIN_IN_DAYS: "Tento operativec bude znovu k dispozici za $DAYS|H$ dní!"
  OPERATIVE_CAPTURED: "Operativci zajati nepřítelem"
- OPERATIVE_CAPTURED_BY: "§R$CAPTURER|H$ drží našeho operativce v zajetí.§!"
+ OPERATIVE_CAPTURED_BY: "§ROperativce drží v zajetí $CAPTURER|H$.§!"
  OPERATIVE_CAPTURED_DAYS_REMAINING: "§RTento operativec bude zabit, pokud nebude zachráněn do $DAYS|H$ dnů!§!"
  OPERATIVE_CAPTURED_DESC: "Operativec byl zadržen. Věznitel provádí výslechy s cílem získat informace o naší zemi a operacích. Pokud nebude včas zachráněn, bude operativec popraven."
  OPERATIVE_CODENAME_EDIT: "§GKlikněte§! pro změnu krycího jména operativce"
