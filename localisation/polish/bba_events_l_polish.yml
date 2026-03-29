@@ -1734,7 +1734,7 @@
  BBA_switzerland.4.t: "[?SWI.SWI_fascist_germany.GetLeader] spokojen, jak [SWI.GetNonIdeologyName] rozhodlo"
  BBA_switzerland.5.a: "Zaslouží si spravedlnost za tento ohavný zločin!"
  BBA_switzerland.5.b: "Není třeba zasahovat do [SWI.GetAdjective] záležitostí"
- BBA_switzerland.5.desc: "Úřady oznámily, že David Frankfurter, který se přiznal k zabití člena zahraniční organizace nacistické strany v Davosu, bude mít spravedlivý a vyvážený proces podle práva Graubündenu jako každý jiný případ vraždy.\n\nVzhledem k tomu, že Gustloff byl důstojníkem nacistické strany a k našemu vlivu na bezbranného souseda, bychom mohli vyslat právníka zastupujícího Gustloffovu vdovu a tlačit na námi preferovaný výsledek.\n\nPragmaticky vzato by to také mohlo donutit [SWI.GetNameDef] zaujmout stanovisko a konečně prolomit onu chatrnou fasádu neutrality, kterou se tak rádi ohánějí."
+ BBA_switzerland.5.desc: "Úřady oznámily, že David Frankfurter, který se přiznal k zabití člena zahraniční organizace nacistické strany v Davosu, bude mít spravedlivý a vyvážený proces podle práva Graubündenu jako každý jiný případ vraždy.\n\nVzhledem k tomu, že Gustloff byl důstojníkem nacistické strany a k našemu vlivu na bezbranného souseda, bychom mohli vyslat právníka zastupujícího Gustloffovu vdovu a tlačit na námi preferovaný výsledek.\n\nPragmaticky vzato by to také mohlo donutit [SWI.GetName] zaujmout stanovisko a konečně prolomit onu chatrnou fasádu neutrality, kterou se tak rádi ohánějí."
  BBA_switzerland.5.t: "[SWI.GetName] se rozhodlo pokračovat v procesu s vrahem Gustloffa"
  BBA_switzerland.6.a: "Je to záležitost soudů"
  BBA_switzerland.6.b: "Zvážíme to"

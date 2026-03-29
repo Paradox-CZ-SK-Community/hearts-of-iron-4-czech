@@ -734,7 +734,7 @@
  DIPLOMACY_WAR_NO_WAR_WARGOAL_NO_NEIGBOR_WARS: "Můžeme vyhlásit neoprávněné války pouze sousedům a zemím, které již jsou ve válce s členy naší frakce a sousedí s nimi."
  DIPLOMACY_WAR_NO_WAR_WITH_MAJOR: "Nouzové pravomoci k vyhlášení války lze uplatnit, pokud již jsme ve válce s důvěryhodnou hrozbou (nepřítel musí mít alespoň $LIMIT|Y0%$ našeho průmyslu, nyní má pouze $RATIO|Y0%$)."
  DIPLOMACY_WAR_ON: "válka proti"
- DIPLOMACY_WAR_OTHERS_DESC: "§Y$ACTOR|U$§! a §Y$TARGET$§! jsou nyní ve válce. Svět si myslí, že $ACTOR|U$ je ten, kdo zaútočil jako první."
+ DIPLOMACY_WAR_OTHERS_DESC: "§Y$ACTOR|U$§! a §Y$TARGET$§! jsou nyní ve válce. Svět si myslí, že $ACTOR|U$ je ten, kdo udeřil jako první."
  DIPLOMACY_WAR_TITLE: "Vyhlásit válku"
  DIPLO_NEGATIVE: "Negativní: $VAL|R$"
  DIPLO_POSITIVE: "Pozitivní: $VAL|G$"
