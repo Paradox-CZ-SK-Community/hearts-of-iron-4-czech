@@ -2016,7 +2016,7 @@
  bba_news.111.desc_single_proclamation: "[FROM.GetName] se stává cílem tisíců a tisíců anarchistů z celého světa poté, co vláda vyhlásila založení Anarchistické konfederace. Ve svém prohlášení učinila široká prohlášení o rozmetání kapitalismu a porážce fašismu všude, kde se tyto zla vyskytují."
  bba_news.111.t: "Vyhlášení Anarchistické konfederace"
  bba_news.2.a: "Přežije to [ITA.GetLeader]?"
- bba_news.2.desc: "\nV pozoruhodném obratu událostí [ITA.GetName] souhlasí s příměřím. [ITA.GetAdjectiveCap] jednotky rovněž začaly ustupovat na původní hranice [ETH.GetNameDef], vzdávajíce se všech územních zisků, jichž dosáhly. To, že [SOV.GetNameDefCap] byl zjevně ochoten jít kvůli Etiopii do války, [ITA.GetLeader] nepochybně vzal na vědomí a vydal rozhodnutí stáhnout se. Zbývá zjistit, jak [ITA.GetAdjective] veřejnost na toto ponížení zareaguje."
+ bba_news.2.desc: "\nV pozoruhodném obratu událostí [ITA.GetName] souhlasí s příměřím. [ITA.GetAdjectiveCap] jednotky rovněž začaly ustupovat na původní hranice [ETH.GetNonIdeologyName], vzdávajíce se všech územních zisků, jichž dosáhly. To, že [SOV.GetNameDefCap] byl zjevně ochoten jít kvůli Etiopii do války, [ITA.GetLeader] nepochybně vzal na vědomí a vydal rozhodnutí stáhnout se. Zbývá zjistit, jak [ITA.GetAdjective] veřejnost na toto ponížení zareaguje."
  bba_news.2.t: "[ITA.GetName] a [ETH.GetNameDefCap] se dohodly na míru"
  bba_news.200.a: "Budou Němci bojovat dál?"
  bba_news.200.b: "Tak ten hajzl je mrtvý? Škoda, že jsme ho nedostali živého!"

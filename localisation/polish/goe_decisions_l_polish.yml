@@ -190,7 +190,7 @@
  RAJ_GOE_foment_independence_tension_tt: "Domovská území budou obnovena po dokončení §Y$RAJ_give_me_blood_and_i_will_grant_you_freedom$§!"
  RAJ_GOE_gain_officer_support: "Získat podporu nespokojených důstojníků"
  RAJ_GOE_has_officer_support: "Má podporu nespokojených důstojníků"
- RAJ_GOE_hostile_takeover_decision: "[FROM.owner.GetFlag] Koupit [FROM.GetName] od země [FROM.owner.GetName]"
+ RAJ_GOE_hostile_takeover_decision: "[FROM.owner.GetFlag] [FROM.owner.GetName] - odkoupit [FROM.GetName]"
  RAJ_GOE_hostile_takeover_remove_civ_rebate_tt: "Odebere §R1§! §YCivilní továrnu§!\n"
  RAJ_GOE_hostile_takeover_remove_civ_tt: "Odebere §R5§! §YCivilních továren§!\n"
  RAJ_GOE_hostile_takeover_remove_civ_tt_10: "Odebere §R10§! §YCivilních továren§!\n"
@@ -437,7 +437,7 @@
  pressure_left_tt: "Zbývající nátlak proti knížecím státům je vyšší než §Y0§!\nAktuálně: §Y[?pressure_left]§!"
  remove_flooding_tt: "Modifikátory §RZaplaveno§! jsou odstraněny" # tu som skončil
  taxes_desc: "Daně platíme jako procento z příjmu v úrovních zvaných daňová pásma. Jak náš příjem roste, sazba daně v další vrstvě příjmu je vyšší.\n\nNa konci každého fiskálního roku musíme zaplatit daně [ENG.GetAdjective] vládě podle velikosti našeho průmyslu. To je určeno počtem §YCivilních továren§!.\n\nČástka je placena jako §Y$MODIFIER_CONSUMER_GOODS_FACTOR$§!.\nVýše platby je určena jednotlivými daňovými pásmy následovně:\n"
- tier_1_taxes: "  §W     1.                     0-[?var:tier_two_taxes_threshold] továren                                [?tier_one_taxes_tax_tt] %§!"
+ tier_1_taxes: "  §W     1.                     0-[?var:tier_two_taxes_threshold] továren                             [?tier_one_taxes_tax_tt] %§!"
  tier_1_taxes_tt: "Pro zařazení do tohoto daňového pásma musíme mít 0-[?var:tier_two_taxes_threshold] §YCivilních továren§! a pobyt v tomto pásmu uplatní penalizaci §Y[?tier_one_taxes_tax_tt] %§! faktoru civilních továren na spotřební zboží."
  tier_2_taxes: "  §W     2.                     [?var:tier_two_taxes_threshold_plus_1]-[?var:tier_three_taxes_threshold] továren                             [?tier_two_taxes_tax_tt] %§!"
  tier_2_taxes_tt: "Pro zařazení do tohoto daňového pásma musíme mít [?var:tier_two_taxes_threshold_plus_1]-[?var:tier_three_taxes_threshold] §YCivilních továren§! a pobyt v tomto pásmu uplatní penalizaci §Y[?tier_two_taxes_tax_tt] %§! faktoru civilních továren na spotřební zboží."
