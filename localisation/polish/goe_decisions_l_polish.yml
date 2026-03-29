@@ -295,7 +295,7 @@
  RAJ_dividend_status_normal: "Vyplatili jsme investorům §Yběžnou částku§! dividend, což přinese střední bonus pro příští §Yfiskální rok§!."
  RAJ_dividend_status_small: "Vyplatili jsme investorům §Ymalou částku§! dividend, což přinese malý bonus pro příští §Yfiskální rok§!."
  RAJ_dividents_status_tt: "[GetDividendsStatus]"
- RAJ_establish_local_recruitment_offices: "Zřídit místní náborové kanceláře" # tu som skončil
+ RAJ_establish_local_recruitment_offices: "Zřídit místní náborové kanceláře"
  RAJ_establish_local_recruitment_offices_tt: "Odhadované měsíce do snížení negativního efektu z §Y$idea_RAJ_agrarian_society$§!: [?var:RAJ_projected_time_left]. Další rozšiřování náborových kanceláří tento proces urychlí.\n \nAktuálně bylo snížení efektů o:\n$experience_gain_army_tt$ §R[?RAJ_agrarian_society_experience_gain_army_factor_offices]%§!\n$mobilization_speed_tt$ §G[?RAJ_agrarian_society_mobilization_speed_offices]%§!\n$conscription_factor_tt$ §G[?RAJ_agrarian_society_conscription_factor_offices]%§!\n $mobilization_laws_cost_factor$: §G[?RAJ_agrarian_society_mobilization_laws_cost_factor_offices]%§!\n\nAž do maximální hranice:\n$experience_gain_army_tt$ §R[?RAJ_agrarian_society_experience_gain_army_factor_offices_max]%§!\n$mobilization_speed_tt$ §G[?RAJ_agrarian_society_mobilization_speed_offices_max]%§!\n$conscription_factor_tt$ §G[?RAJ_agrarian_society_conscription_factor_offices_max]%§!\n $mobilization_laws_cost_factor$: §G[?RAJ_agrarian_society_mobilization_laws_cost_factor_offices_max]%§!"
  RAJ_establish_local_recruitment_offices_tt_2: "Maximální hranice dosažena"
  RAJ_form_akhand_bharat: "Vytvořit Achand Bharat"
@@ -435,7 +435,7 @@
  neo_mesopotamia_formed_flag: "Mezopotámie již byla obnovena"
  not_afg_turkik_people_name_key: "Potlačení turkického odporu"
  pressure_left_tt: "Zbývající nátlak proti knížecím státům je vyšší než §Y0§!\nAktuálně: §Y[?pressure_left]§!"
- remove_flooding_tt: "Modifikátory §RZaplaveno§! jsou odstraněny" # tu som skončil
+ remove_flooding_tt: "Modifikátory §RZaplaveno§! jsou odstraněny"
  taxes_desc: "Daně platíme jako procento z příjmu v úrovních zvaných daňová pásma. Jak náš příjem roste, sazba daně v další vrstvě příjmu je vyšší.\n\nNa konci každého fiskálního roku musíme zaplatit daně [ENG.GetAdjective] vládě podle velikosti našeho průmyslu. To je určeno počtem §YCivilních továren§!.\n\nČástka je placena jako §Y$MODIFIER_CONSUMER_GOODS_FACTOR$§!.\nVýše platby je určena jednotlivými daňovými pásmy následovně:\n"
  tier_1_taxes: "  §W     1.                     0-[?var:tier_two_taxes_threshold] továren                             [?tier_one_taxes_tax_tt] %§!"
  tier_1_taxes_tt: "Pro zařazení do tohoto daňového pásma musíme mít 0-[?var:tier_two_taxes_threshold] §YCivilních továren§! a pobyt v tomto pásmu uplatní penalizaci §Y[?tier_one_taxes_tax_tt] %§! faktoru civilních továren na spotřební zboží."

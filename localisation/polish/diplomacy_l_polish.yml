@@ -197,7 +197,7 @@
  DIPLOMACY_CALL_ALLY_OTHER_PUPPETS: "Nemůžete volat subjekty jiných národů do války."
  DIPLOMACY_CALL_ALLY_PUPPET_MASTER: "Jste subjektem, takže můžete volat jen svého suzeréna."
  DIPLOMACY_CALL_ALLY_REQUEST_DESC: "$COUNTRY|UY$ chce naši pomoc ve své válce."
- DIPLOMACY_CALL_ALLY_TITLE: "Výzva k zbrani"
+ DIPLOMACY_CALL_ALLY_TITLE: "Volání do zbraně"
  DIPLOMACY_CALL_ALL_ALLIES: "Zavolat spojence"
  DIPLOMACY_CALL_FLAG_CALL_ALLY: "Je spojencem $COUNTRY|H$"
  DIPLOMACY_CALL_FLAG_CALL_GUARANTY: "Zaručuje $COUNTRY|H$"
