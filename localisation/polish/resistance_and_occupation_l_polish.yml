@@ -107,7 +107,7 @@
  RESISTANCE_DECAY_MODIFIER_LOW_RESISTANCE: "Nízký odboj: $VALUE|+%0$"
  RESISTANCE_DECAY_VALUE: "Slábnutí odboje: §G$VALUE|3$%§!"
  RESISTANCE_DECAY_VALUE_CAPPED: "Slábnutí odboje: §G$VALUE|3$%§! (Omezeno na §G$VALUE_NON_CAPPED|3$%§!)"
- RESISTANCE_DISABLED_INFO: "Odboj je v současné době úspěšně potlačen a nebude moci dále růst, pokud §HOdboj cíle§! nedosáhne $LIMIT|%0H$"
+ RESISTANCE_DISABLED_INFO: "Odboj je v současné době úspěšně potlačen a nebude moci dále růst, pokud §HCílová hodnota odboje§! nedosáhne $LIMIT|%0H$"
  RESISTANCE_EFFECTS: "Účinky odboje:"
  RESISTANCE_GROWTH_VALUE: "Nárůst odboje: §R$VALUE|3$%§!"
  RESISTANCE_GROWTH_VALUE_CAPPED: "Nárůst odboje: §R$VALUE|3$%§! (Omezeno z §R$VALUE_NON_CAPPED|3$%§!)"
