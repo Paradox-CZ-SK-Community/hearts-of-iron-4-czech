@@ -83,7 +83,7 @@
  NAVY_EXPERIENCE_DESC: "Jak jsou vaše lodě používány v boji a při §Hnámořních cvičeních§!, získáváte námořní zkušenosti. Některá §Hnárodní zaměření§! poskytují dodatečné zkušenosti a někteří §Hministři§! mohou zvýšit jejich zisk.\n\nNámořní zkušenosti se používají k vývoji lepších variant stávajících lodí, návrhu nových a k odemykání §Hdoktrín§!."
  NAVY_EXPERIENCE_GAIN_TRAINING: "Z §Hnámořních cvičení§!: $VALUE|=+3$ denně"
  POLITICAL_POWER: "Politická síla"
- POLITICAL_POWER_DESC: "Politická síla představuje schopnost vůdců země řídit stát. Vydávejte politickou moc, abyste změnili §HLaws§!, jmenovali §HPolitické poradce§! a §HMilitaristy§!, řídili §HZkoumání a výrobu§!, a přijímali §Hrozhodnutí§! a §HDiplomatické akce§!."
+ POLITICAL_POWER_DESC: "Politická síla představuje schopnost vedení země řídit stát. Utrácejte politickou sílu za změnu §HZákonů§!, jmenování §HPolitických poradců§! a §HVojenského velení§!, řízení §HVýzkumu a výroby§! a provádění §HRozhodnutí§! a §HDiplomatických akcí§!."
  RULES_DESC: "Pravidla vaší země jsou řízena vaší ideologií, ideologií vaší frakce a vašimi národními duchy."
  RULES_TITLE: "§HPřehled pravidel:§!"
  SERVICE_MANPOWER: "£manpower_texticon  Servisní personál:"

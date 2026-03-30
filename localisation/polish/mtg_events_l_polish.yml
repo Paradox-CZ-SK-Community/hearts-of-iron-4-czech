@@ -965,7 +965,7 @@
  mtg_news.23.a: "Z tohoto ohně vyjdeme silnější než kdy dřív."
  mtg_news.23.b: "Uvidíme, jestli se vyhnou občanské válce."
  mtg_news.23.desc: "Pod vedením Oswalda Mosleyho zahájila Britská unie fašistů organizovanou kampaň pochodů po celé zemi, aby zvýšila počet svých příznivců.\n\nNásilné reakce ze strany antifašistické veřejnosti již způsobily řadu pouličních střetů a není jisté, zda se podaří udržet stabilitu, nebo zda se [From.GetNameDef] ocitne v ještě hlubších politických nepokojích. Vedení B.U.F. už slíbilo, že nepřestanou, dokud „nenapochodují na Downing Street a nevynutí si změnu vlády“."
- mtg_news.23.t: "Černé košile pochodují v [From.GetName]"
+ mtg_news.23.t: "[From.GetName] zažívá pochod Černých košil"
  mtg_news.24.a: "Francouzi byli beztak k ničemu."
  mtg_news.24.b: "Praví fašisté musí držet při sobě."
  mtg_news.24.c: "Nikdy nevěřte Rosbifům!"
