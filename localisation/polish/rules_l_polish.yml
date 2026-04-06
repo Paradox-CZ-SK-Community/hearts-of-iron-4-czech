@@ -1,5 +1,5 @@
 ﻿l_polish:
- CAN_ACCESS_MARKET: "Může přistupovat k mezinárodnímu trhu (§YSubjekti§! a §YSuzeréni§! mohou vždy přistupovat k trhu toho druhého)"
+ CAN_ACCESS_MARKET: "Může přistupovat k mezinárodnímu trhu (§YSubjekty§! a §YSuzeréni§! mohou vždy přistupovat k trhu toho druhého)"
  CAN_BE_SPYMASTER: "Může zastávat pozici ve zpravodajské službě"
  CAN_BOOST_OTHER_IDEOLOGIES: "Může zvýšit popularitu jiných ideologií"
  CAN_BOOST_OWN_IDEOLOGY: "Může zvýšit popularitu vlastní strany v jiných zemích"
@@ -17,7 +17,7 @@
  CAN_USE_UNDERWAY_REPLENISHMENT: "Může používat průběžné doplňování"
  CONTRIBUTES_OPERATIVES: "Přispívá operativcami Šéfovi špionáže: Ano"
  RULE_DEFAULT_CONSTANT_OVERRIDE_BREAKDOWN_DESC: "z $ROOT|Y$ do $FROM|Y$"
- RULE_DESC_IS_A_SUBJECT: "$DESC$ (Je subjekt)"
+ RULE_DESC_IS_A_SUBJECT: "$DESC$ (Je subjektem)"
  RULE_OVERRIDE_BREAKDOWN_ENTRY: "  $STATUS$ $DESC$"
  RULE_OVERRIDE_BREAKDOWN_TITLE_NEG: "(alespoň jedno musí být pravdivé):"
  RULE_OVERRIDE_BREAKDOWN_TITLE_POS: "(všechno musí být pravdivé):"

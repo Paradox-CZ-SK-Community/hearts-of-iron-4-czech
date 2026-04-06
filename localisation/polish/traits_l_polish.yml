@@ -1105,7 +1105,7 @@
  armor_officer: "Tankový důstojník"
  armor_officer_desc: "§LŠkolený jako důstojník pro obrněná vozidla.§!"
  armored_car_manufacturer: "Výrobce obrněných vozidel"
- armored_ratio_over_40: "Poměr obrněnců > §H40%§!"
+ armored_ratio_over_40: "Poměr obrněné techniky > §H40%§!"
  army_CombinedArms_1: "Kombinované síly\n(Specialista)"
  army_CombinedArms_2: "Kombinované síly\n(Expert)"
  army_CombinedArms_3: "Kombinované síly\n(Génius)"

@@ -1513,7 +1513,7 @@
  PRC_initialize_shorter_market_plans_tt: "§RNezdaření splnění průmyslových cílů do konce plánu povede k těžkým postihům ekonomické efektivity, což odráží ztrátu důvěry v centrální plánování.§!\n\n§YPožadovaný počet továren pro splnění cíle:\n[GetShorterMarketPlansGoalCivFactoriesText] civilních továren\n[GetShorterMarketPlansGoalMilFactoriesText] vojenských továren§!"
  PRC_naval_infrastructure_effort_tt: "Po splnění požadavků tohle zaměření poskytne §YNámořní základny§!, §YPobřežní opevnění§! a 1 §YNámořní velitelství§!, pokud dosud žádné nebylo vybudováno"
  PRC_dockyard_construction_efforts_tt: "Po splnění požadavků tohle zaměření poskytne §Yloděnice§!"
- PRC_urbanization_two_tt: "Pokud jsou §YSi-an§! a §YŠen-si§! pod kontrolou, stanou se §Yměstskými regiony§!, což udělí:\n §G3§! stavební sloty\n §G1§! §Ycivilní továrnu§!\n Přidá §YUrbanizační pokrok§!, který uděluje:\n Místní rychlost stavby: §G+10 %§!"
+ PRC_urbanization_two_tt: "Pokud jsou §YSi-an§! a §YŠen-si§! pod kontrolou, stanou se §Yměstskými regiony§!, což udělí:\n §G3§! stavební sloty\n §G1§! §Ycivilní továrnu§!\n Přidá §YUrbanizační pokrok§!, který uděluje:\n Místní rychlost výstavby: §G+10 %§!"
  PRC_reinforce_base_area_tt: "Vybuduje úroveň §G2§! §Ypozemních pevností§! na hranicích §Y[622.GetName]§! a §Y[1046.GetName]§!.\nPokud byly vyhrány jakékoli pohraniční války:\nVybuduje úroveň §G1§! §Ypozemních pevností§! na jejich hranicích"
  PRC_he_long_has_arrived: "He Lung dorazil do Šen-si"
  PRC_pavel_mif_alive: "Pavel Mif je naživu"

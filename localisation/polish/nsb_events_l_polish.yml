@@ -631,7 +631,7 @@
  NSB_soviet_civil_war_common.108.t: "[FROM.GetNameDefCap] odmítá pomoci"
  NSB_soviet_civil_war_common.109.a: "Tohle bude velmi zajímavé"
  NSB_soviet_civil_war_common.109.desc: "V Rusku znovu vypukla občanská válka. [SOV.GetLeader] vede boj proti súčasnému vůdci země. Pokud [SOS.Getleader] padne a povstalci uspějí, můžeme mnoho získat. Slíbili jsme jim podporu, proto jsou [?ROOT.SOV_foreign_military_advisor_1.GetName] a [?ROOT.SOV_foreign_military_advisor_2.GetName] připraveni „navštívit“ [SOV.GetName], aby pomohli plánovat válku a získali cenné poznatky o [SOV.GetAdjective] vojenských schopnostech."
- NSB_soviet_civil_war_common.109.t: "„Poradci“ jsou připraveni „navštívit“ [SOV.GetNameDef]"
+ NSB_soviet_civil_war_common.109.t: "[SOV.GetNameDef] může počítat s „navštěvou“ našich „poradců“"
  NSB_soviet_civil_war_common.110.a: "Takhle dobré nabídky se neodmítají"
  NSB_soviet_civil_war_common.110.b: "Nezapojujme se do toho"
  NSB_soviet_civil_war_common.110.desc: "Sovětská opozice nás požádala o pomoc v jejich boji o moc. Chtějí, abychom tajně cvičili ukrajinské milice výměnou za budoucí práva na suroviny v nezávislé Ukrajině."

@@ -156,7 +156,7 @@
  ETH_counter_the_armored_threat_LaR_tt: "\nPokud [SOV.GetFlag]§Y[SOV.GetName]§! souhlasí, [ETH.GetFlag]§Y[ETH.GetName]§! obdrží technologii §Y$armored_car1$§! a §G480§! [SOV.GetAdjective] obrněných automobilů."
  ETH_counter_the_armored_threat_NoLaR_tt: "\nPokud [SOV.GetFlag]§Y[SOV.GetName]§! souhlasí, [ETH.GetFlag]§Y[ETH.GetName]§! obdrží technologii §Y$$gw_tank_equipment$§! a §G200§! [SOV.GetAdjective] tanků."
  ETH_counter_the_armored_threat_NoNSB_tt: "\nPokud [SOV.GetFlag]§Y[SOV.GetName]§! souhlasí, [ETH.GetFlag]§Y[ETH.GetName]§! obdrží technologii §Y$gw_tank_equipment$§! a §G200§! [SOV.GetAdjective] tanků."
- ETH_counter_the_armored_threat_desc: "Obrněné boje zjevně nahrazují roli jízdy na bojišti. Bohužel nemáme, jak adekvátně čelit [ITA.GetAdjective] obrněncům, a náš průmysl ještě není schopen jej vyrábět. Možná by [SOV.GetName] byli ochotni se vzdát některých svých starších obrněnců?"
+ ETH_counter_the_armored_threat_desc: "Obrněná technika zjevně nahrazují roli jízdy na bojišti. Bohužel nemáme, jak adekvátně čelit [ITA.GetAdjective] obrněné technice, a náš průmysl ještě není schopen jej vyrábět. Možná by [SOV.GetName] byli ochotni se vzdát některých svých starších kusů?"
  ETH_debre_zeyit_air_force_training_center: "Výcvikové centrum letectva [ETHGetAirBaseName]"
  ETH_debre_zeyit_air_force_training_center_desc: "Pilotování letadel je samo o sobě obtížný úkol. Let s nimi do boje vyžaduje ještě větší odbornost. Abychom zajistili, že naši piloti budou na úkol připraveni, zřídíme specializované výcvikové centrum letectva a začneme standardizovat jejich výcvik."
  ETH_debre_zeyit_air_force_training_center_tt: "Upraví §Y[GetEthiopianAirforceSpiritName]§! o:\n$MODIFIER_AIR_DOCTRINE_COST_FACTOR$: §G-25%§! "

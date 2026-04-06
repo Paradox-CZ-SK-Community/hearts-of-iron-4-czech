@@ -37,7 +37,7 @@
  ETH_build_railway: "Zlepšit železniční spojení s [FROM.GetNameDef]"
  ETH_building_local_resistance_flag: "Právě verbujeme bojovníky odboje"
  ETH_buy_anti_tank_guns: "Zakoupit protitanková děla"
- ETH_buy_anti_tank_guns_desc: "Proti italským obrněncům bojujeme benzínovými kanistry a loveckými puškami. Chceme-li Italy porazit, potřebujeme ve velkém množství kvalitní protitanková děla."
+ ETH_buy_anti_tank_guns_desc: "Proti italské obrněné technice bojujeme benzínovými kanistry a loveckými puškami. Chceme-li Italy porazit, potřebujeme ve velkém množství kvalitní protitanková děla."
  ETH_buy_artillery: "Zakoupit dělostřelectvo"
  ETH_buy_artillery_desc: "Naléhavě potřebujeme moderní dělostřelectvo k podpoře našich armád. Naší prioritou musí být uzavření zbrojních dohod na nákup těžkých kanónů."
  ETH_buy_rifles: "Zakoupit ruční zbraně"

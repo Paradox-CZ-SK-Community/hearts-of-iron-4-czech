@@ -1086,7 +1086,7 @@
  ship_hull_cruiser_desc: "Pracovní kůň flotily, křižníky přebírají mnoho důležitých povinností, od průzkumu a ochrany lehkých křižníků až po podporu bitevní linie pro těžké křižníky."
  ship_hull_cruiser_panzerschiff: "Panzerschiff"
  ship_hull_cruiser_panzerschiff_desc: "Ve snaze udělat nemožné, němečtí inženýři uspěli ve sjednocení výzbroje na úrovni téměř bitevní lodi s trupem křižníku. Výsledkem je loď, která má větší palebnou sílu než jakýkoli jiný známý křižník, ale která je také drahá, relativně pomalá a relativně špatně armorovaná."
- ship_hull_cruiser_submarine: "Křižník ponorka"
+ ship_hull_cruiser_submarine: "Křižníková ponorka"
  ship_hull_cruiser_submarine_desc: "Větší trup ponorky optimalizovaný pro delší dosah. Může být vybavena dodatečnými palivovými nádržemi pro ještě větší dosah, nebo malým průzkumným letounem."
  ship_hull_fleet_submarine: "Flotilová ponorka"
  ship_hull_fleet_submarine_desc: "Ponorky, které díky svému dlouhému operačnímu dosahu mohou fungovat jako eskorty povrchového loďstva a podporovat."
