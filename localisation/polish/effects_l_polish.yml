@@ -60,7 +60,7 @@
  EFFECT_ADD_POWER_BALANCE: "$POWER_BALANCE|Y$ začíná v [root.GetName] se stranami $SIDE1|Y$ a $SIDE2|Y$. Začíná s $VALUE|%0Y$ postupem směrem k $TRENDING_SIDE|Y$."
  EFFECT_ADD_POWER_BALANCE_MODIFIER: "Přidává modifikátor $MODIFIER|H$ k $POWER_BALANCE|Y$ - $DESC$"
  EFFECT_ADD_POWER_BALANCE_SIDE: "$SIDE|Y$ je přidána k $POWER_BALANCE|Y$"
- EFFECT_ADD_POWER_BALANCE_VALUE: "$POWER_BALANCE|Y$ se posouvá o $TREND$$PERCENT|%1Y$ směrem ke straně $SIDE|Y$ (výsledek: $PREDICTED_VALUE|%1Y$ u $PREDICTED_SIDE|Y$)"
+ EFFECT_ADD_POWER_BALANCE_VALUE: "$POWER_BALANCE|Y$ se posouvá o $TREND$$PERCENT|%1Y$ směrem ke straně $SIDE|Y$ (výsledek: $PREDICTED_VALUE|%1Y$ pro $PREDICTED_SIDE|Y$)"
  EFFECT_ADD_PROVINCE_MODIFIER: "Přidat do provincií: $MODIFIERLIST$"
  EFFECT_ADD_RAID_HISTORY_ENTRY_UNIT_EFFECT: "$NAME$ získává novou historickou událost"
  EFFECT_ADD_RANDOM_UNIT_TRAIT: "Přidat náhodnou platnou vlastnost velitele jednotky veliteli divize"
