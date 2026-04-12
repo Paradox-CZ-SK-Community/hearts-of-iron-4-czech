@@ -1649,7 +1649,7 @@
  news.199.a: "To je klíčové pro [From.GetAdjective] strategii."
  news.199.b: "Země světa musí čelit zlu, které představuje [From.GetNameDef]!"
  news.199.c: "[?SOV.former_controller_of_bessarabia.GetNameDefCap] je v nešťastné situaci."
- news.199.d: "\n\n[?SOV.former_controller_of_bessarabia.GetNameDefCap] byl donucen ustoupit ultimátu [From.GetNameDef]. Území Besarábie přešla pod [From.GetAdjective] kontrolu a [?SOV.former_controller_of_bessarabia.GetAdjective] stát zůstal s okleštěnými hranicemi.\n\nTeprve teĎ se uvidí, jak [?SOV.former_controller_of_bessarabia.GetNameDef] zabrání dalším ztrátám."
+ news.199.d: "\n\n[?SOV.former_controller_of_bessarabia.GetNameDefCap] byl donucen ustoupit ultimátu [From.GetNameDef]. Území Besarábie přešla pod [From.GetAdjective] kontrolu a [?SOV.former_controller_of_bessarabia.GetAdjective] stát zůstal s okleštěnými hranicemi.\n\nTeprve teď se uvidí, jak [?SOV.former_controller_of_bessarabia.GetNameDef] zabrání dalším ztrátám."
  news.199.t: "[?SOV.former_controller_of_bessarabia.GetNameDefCap] postoupuje Besarábii pro [From.GetNameDef]"
  news.2.a: "Pochybné."
  news.2.b: "To nám postačuje... prozatím."

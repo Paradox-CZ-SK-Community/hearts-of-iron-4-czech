@@ -472,7 +472,7 @@
  armored_engineer_desc: "Univerzální vozidla vybavená k budování opevnění, odstraňování překážek a zlepšování mobility na bojišti za bojových podmínek."
  armored_maintenance: "Obrněná servisní rota"
  armored_maintenance_desc: "Specializovaná vozidla určená k záchraně a opravám poškozených tanků a dalších obrněných jednotek přímo na bojišti."
- armored_signal: "Obrněná signalizační rota"
+ armored_signal: "Obrněná spojovací rota"
  armored_signal_desc: "Specializovaná vozidla poskytující velení a koordinaci na bojišti, vybavená pokročilými komunikačními systémy pro řízení operací z předních linií."
  artillery: "Dělostřelectvo"
  artillery_brigade: "Dělostřelecký prapor"
