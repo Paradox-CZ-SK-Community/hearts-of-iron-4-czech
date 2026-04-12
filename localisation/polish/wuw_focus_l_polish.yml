@@ -1596,7 +1596,7 @@
  GER_break_anglo_french_colonial_hegemony_ww_tt: "Pokud jsme podepsali smlouvu o vzájemné spolupráci s §YFrancii§!, nezískáme proti ní válečný cíl"
  GER_bribe_senior_officers: "Uplatit vyšší důstojníky"
  GER_bribe_senior_officers_desc: "Abychom zajistili loajalitu našich vyšších důstojníků vůči Führerovi, měli bychom zvážit odměňování věrnosti a poslušnosti. Nabídkou peněz, půdy a daňových úlev zajistíme, že nejen zůstanou loajální, ale také nebudou zpochybňovat svého Führera."
- GER_bring_turkey_into_the_fold: "Vrátit [TUR.GetNameDef] do našeho tábora"
+ GER_bring_turkey_into_the_fold: "Vrátit [TUR.GetNonIdeologyName] do našeho tábora"
  GER_bring_turkey_into_the_fold_desc: "Turci mají nároky za hranicemi svého současného území a snadno je přinutíme, aby se připojili k naší frakci. Nastal čas je znovu přivést do našeho tábora."
  GER_brothers_in_arms: "Bratři ve zbrani"
  GER_brothers_in_arms_desc: "Naši rakouští bratři po našem boku tvrdě bojovali jako součást Centrálních  mocností. Měli bychom je oslovit s nabídkou, kterou nebudou moci odmítnout, abychom mohli znovu bojovat bok po boku."

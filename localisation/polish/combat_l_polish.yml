@@ -238,7 +238,7 @@
  MISSION_RESULT_LAST_MONTH: "Výsledek za posledních §H30§! dní:"
  MISSION_STRATEGIC_BOMBER_LOSS: "Ztracená letadla: $VAL|0-$"
  MISSION_STRATEGIC_BOMBER_WIN: "Bombardované budovy: $VAL|0+$"
- May: "Květen"
+ May: "Kvě"
  NAVAL_BATTLE_TITLE: "Bitva u $NAME$"
  NAVAL_COMBAT_AIRWING_TOOLTIP_KILLS: "\n   $NUM|G$ x $TYPE|Y$"
  NAVAL_COMBAT_AIRWING_TOOLTIP_KILLS_HEADER: " Sestřelená nepřátelská letadla:"
