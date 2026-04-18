@@ -48,7 +48,7 @@
  BFTB_balkan_pact_ally: "Balkánský pakt"
  BFTB_balkan_pact_enemy: "Balkánský pakt"
  BFTB_incongruous_neighbors: "Neslučitelní sousedé"
- BOOST_PARTY_SELECT_TT: "Momentálně má $IDE|Y$ strana v $NAME|Y$ popularitu §Y$CURR|2$%§! a pod naším nátlakem se změní o §G+$CHANGE|2$§! díky:\n$WHY$"
+ BOOST_PARTY_SELECT_TT: "Momentálně má $IDE$ strana v $NAME|Y$ popularitu §Y$CURR|2$%§! a pod naším nátlakem se změní o §G+$CHANGE|2$§! díky:\n$WHY$"
  BORDER_WAR_ATTRITION: "Opotřebení z Pohraničního konfliktu: $VAL|=-%$"
  BORDER_WAR_HEADER: "§HPohraniční konflikt§!"
  BORDER_WAR_HINT: "Přesuňte více divizí do států pohraničního konfliktu, abyste zvýšili poměr vojenských sil a snížili ztráty z pohraničního konfliktu."

@@ -171,7 +171,7 @@
  PEACE_FILTER_LOSER_DESCRIPTION: "Vyberte jeden národ a zobrazte pouze požadavky, které můžete na tento národ učinit."
  PEACE_FILTER_LOSER_NO_CHOICE: "Všechny"
  PEACE_FORCED_GOVERNMENT: "Změněná vláda"
- PEACE_FORCE_GOVERNMENT: "@$TAKERTAG$$TAKER|Y$ nutí @$GIVERTAG$$GIVER|Y$ k $IDE|Y$ ideologii ve $STATE|Y$." #
+ PEACE_FORCE_GOVERNMENT: "@$TAKERTAG$$TAKER|Y$ nutí @$GIVERTAG$$GIVER|Y$ k $IDE|Y$ ideologii ve $STATE|Y$."
  PEACE_FORCE_GOVERNMENT_DESC: "Změň ideologii jedné z poražených zemí. Cílená země bude nucena přejít na tvoji ideologii."
  PEACE_FORCE_GOVERNMENT_LABEL: "Změnit vládu"
  PEACE_FORCE_GOVERNMENT_ON_LABEL: "Změnit vládu v $COUNTRY$"
