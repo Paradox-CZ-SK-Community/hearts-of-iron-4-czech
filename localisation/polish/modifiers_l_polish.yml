@@ -1405,7 +1405,7 @@
  modifier_repair_speed_industrial_complex_factor: "Rychlost oprav civilní továrny"
  modifier_repair_speed_infrastructure_factor: "Rychlost opravy infrastruktury"
  modifier_repair_speed_rail_way_factor: "Rychlost oprav železnice"
- MODIFIER_REQUEST_LEASE_TENSION_LIMIT: "Limita napětí žádosti o Lend-lease"
+ MODIFIER_REQUEST_LEASE_TENSION_LIMIT: "Limit napětí žádosti o Lend-lease"
  MODIFIER_REQUIRED_GARRISON_FACTOR: "Požadované posádky"
  MODIFIER_RESEARCH_SHARING_PER_COUNTRY_BONUS_FACTOR: "Bonus za sdílení technologií"
  MODIFIER_RESEARCH_SHARING_PER_COUNTRY_BONUS: "Bonus za sdílení technologií"
@@ -1459,7 +1459,7 @@
  MODIFIER_SPECIAL_FORCES_OUT_OF_SUPPLY_FACTOR_DESC: "Snižuje penalizaci na organizaci a obnovu, kterou naše speciální síly zažívají, když jim dojdou zásoby."
  MODIFIER_SPECIAL_FORCES_OUT_OF_SUPPLY_FACTOR: "Penalizace za nedostatek zásob mimo boj"
  MODIFIER_SPECIAL_FORCES_TRAINING_TIME_FACTOR: "Délka výcviku speciálních sil"
- MODIFIER_SPECIAL_PROJECT_FACILITY_SUPPLY_CONSUMPTION_FACTOR: "Spotřeba zásob zařízení$FACTOR$" # todo: CHANGED
+ MODIFIER_SPECIAL_PROJECT_FACILITY_SUPPLY_CONSUMPTION_FACTOR: "Spotřeba zásob zařízení: $FACTOR$"
  MODIFIER_SPECIAL_PROJECT_SPEED_FACTOR: "Rychlost speciálního projektu"
  MODIFIER_SPOTTING_CHANCE_FACTOR: "Rychlost rozpoznání"
  MODIFIER_SPOTTING_CHANCE_MODIFIER: "Modifikátor rychlosti rozpoznání: "
@@ -1982,7 +1982,7 @@
  naval_strike_targetting_factor_tt: " $MODIFIER_NAVAL_STRIKE_TARGETTING_FACTOR$: $RIGHT|+=%1$"
  naval_torpedo_reveal_chance_factor_tt: " $MODIFIER_NAVAL_TORPEDO_REVEAL_CHANCE_FACTOR$: $RIGHT|-=%1$"
  navy_anti_air_attack_factor_tt: " $MODIFIER_NAVY_ANTI_AIR_ATTACK_FACTOR$: $RIGHT|+=%1$"
- navy_capital_ship_defence_factor_tt: " $MODIFIER_NAVY_CAPITAL_SHIP_DEFENCE_FACTOR$: $RIGHT|+=%1$" # todo: CHANGED NUMBER
+ navy_capital_ship_defence_factor_tt: " $MODIFIER_NAVY_CAPITAL_SHIP_DEFENCE_FACTOR$: $RIGHT|+=%1$"
  navy_capital_ship_defence_tt: " $MODIFIER_NAVY_CAPITAL_SHIP_DEFENCE_FACTOR$: $RIGHT|+=%1$"
  navy_capital_ship_defense_factor_tt: "$MODIFIER_NAVY_CAPITAL_SHIP_DEFENCE_FACTOR$: $RIGHT|+=%1$"
  navy_chief_cost_factor: "Náklady na námořního velitele"
@@ -2517,28 +2517,28 @@
  MODIFIER_ENERGY_SCALE_PER_TRADE_FACTORY_EXPORT_FACTOR: "Vliv obchodu na spotřebu energie továrny"
  MODIFIER_LOCAL_FACTORY_ENERGY_CONSUMPTION_PER_INFRASTRUCTURE: "Požadavky továren na energii za jednotku infrastruktury"
  MODIFIER_LOCAL_RESOURCE_GAIN_EFFICIENCY_PER_INFRASTRUCTURE: "Zisk surovin za jednotku infrastruktury"
- cat_fortification_research: "$cat_fortification$ Rychlost výzkumu" # todo: NEW TRANSLATION
- hospital_tech_research: "$field_hospital$ Rychlost výzkumu" # todo: NEW TRANSLATION
- experience_gain_army_unit_factor_tt: " $MODIFIER_XP_GAIN_ARMY_UNIT_FACTOR$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
- modifier_out_of_power_impact_factor_tt: " $MODIFIER_OUT_OF_POWER_FACTOR$: $RIGHT|+=%2$" # todo: NEW TRANSLATION
- modifier_production_speed_energy_infrastructure_factor: "§Y$energy_infrastructure$§! rychlost výstavby" # todo: NEW TRANSLATION
- modifier_production_speed_energy_infrastructure_factor_desc: "Upravuje rychlost výstavby Reinforced Electrical Grid." # todo: NEW TRANSLATION
- production_speed_energy_infrastructure_factor_tt: " $modifier_production_speed_energy_infrastructure_factor$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
- modifier_production_speed_industrial_infrastructure_factor: "§Y$industrial_infrastructure$§! rychlost výstavby" # todo: NEW TRANSLATION
- modifier_production_speed_industrial_infrastructure_factor_desc: "Upravuje rychlost výstavby High Capacity Electrical Grid." # todo: NEW TRANSLATION
- production_speed_industrial_infrastructure_factor_tt: " $modifier_production_speed_industrial_infrastructure_factor$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
- navy_submarine_defence_factor_tt: " $MODIFIER_NAVY_SUBMARINE_DEFENCE_FACTOR$: $RIGHT|+=2%$" # todo: NEW TRANSLATION
- navy_capital_ship_attack_factor_tt: " $MODIFIER_NAVY_CAPITAL_SHIP_ATTACK_FACTOR$: $RIGHT|+=%2$" # todo: NEW TRANSLATION
- modifier_repair_speed_bunker_factor: "Rychlost opravy pozemního opevnění" # todo: NEW TRANSLATION
- modifier_state_repair_speed_bunker_factor: "Místní §Y$bunker$§! rychlost opravy" # todo: NEW TRANSLATION
- modifier_state_repair_speed_bunker_factor_desc: "Upravuje rychlost opravy $bunker$ v tomto státě" # todo: NEW TRANSLATION
- modifier_state_repair_speed_supply_node_factor: "Místní §Y$supply_node$§! rychlost opravy" # todo: NEW TRANSLATION
- modifier_state_repair_speed_supply_node_factor_desc: "Upravuje rychlost opravy $supply_node$ v tomto státě" # todo: NEW TRANSLATION
- modifier_state_repair_speed_infrastructure_factor: "Místní §Y$infrastructure$§! rychlost opravy" # todo: NEW TRANSLATION
- modifier_state_repair_speed_infrastructure_factor_desc: "Upravuje rychlost opravy $infrastructure$ v tomto státě" # todo: NEW TRANSLATION
- modifier_state_production_speed_stronghold_network_factor: "§Y$stronghold_network$§! rychlost výstavby" # todo: NEW TRANSLATION
- modifier_state_production_speed_stronghold_network_factor_desc: "Upravuje rychlost výstavby §Y$stronghold_network$§! v tomto státě." # todo: NEW TRANSLATION
- truck_attrition_factor_tt: "$MODIFIER_TRUCK_ATTRITION_FACTOR$: $RIGHT|-=%1$" # todo: NEW TRANSLATION
- unit_artillery_brigade_design_cost_factor_tt: " $modifier_unit_artillery_brigade_design_cost_factor$: $RIGHT|-=%2$" # todo: NEW TRANSLATION
- modifier_field_officer_promotion_penalty_tt: "$MODIFIER_FIELD_OFFICER_PROMOTION_PENALTY$: $RIGHT|-=%1$" # todo: NEW TRANSLATION
- sp_land_large_caliber_kinetic_energy_sabot_speed_factor: "Rychlost výzkumu kinetického sabotového střeliva velkého ráže" # todo: NEW TRANSLATION
+ cat_fortification_research: "Rychlost výzkumu $cat_fortification$"
+ hospital_tech_research: "Rychlost výzkumu $field_hospital$"
+ experience_gain_army_unit_factor_tt: " $MODIFIER_XP_GAIN_ARMY_UNIT_FACTOR$: $RIGHT|+=%1$"
+ modifier_out_of_power_impact_factor_tt: " $MODIFIER_OUT_OF_POWER_FACTOR$: $RIGHT|+=%2$"
+ modifier_production_speed_energy_infrastructure_factor: "Rychlost výstavby §Y$energy_infrastructure$§!"
+ modifier_production_speed_energy_infrastructure_factor_desc: "Upravuje rychlost výstavby $energy_infrastructure$."
+ production_speed_energy_infrastructure_factor_tt: " $modifier_production_speed_energy_infrastructure_factor$: $RIGHT|+=%1$"
+ modifier_production_speed_industrial_infrastructure_factor: "Rychlost výstavby §Y$industrial_infrastructure$§!"
+ modifier_production_speed_industrial_infrastructure_factor_desc: "Upravuje rychlost výstavby $industrial_infrastructure$."
+ production_speed_industrial_infrastructure_factor_tt: " $modifier_production_speed_industrial_infrastructure_factor$: $RIGHT|+=%1$"
+ navy_submarine_defence_factor_tt: " $MODIFIER_NAVY_SUBMARINE_DEFENCE_FACTOR$: $RIGHT|+=2%$"
+ navy_capital_ship_attack_factor_tt: " $MODIFIER_NAVY_CAPITAL_SHIP_ATTACK_FACTOR$: $RIGHT|+=%2$"
+ modifier_repair_speed_bunker_factor: "Rychlost oprav $bunker$"
+ modifier_state_repair_speed_bunker_factor: "Rychlost oprav pro místní §Y$bunker$§!"
+ modifier_state_repair_speed_bunker_factor_desc: "Upravuje rychlost oprav pro $bunker$ v tomto státě"
+ modifier_state_repair_speed_supply_node_factor: "Rychlost oprav pro místní §Y$supply_node$§!"
+ modifier_state_repair_speed_supply_node_factor_desc: "Upravuje rychlost oprav pro $supply_node$"
+ modifier_state_repair_speed_infrastructure_factor: "Rychlost oprav pro místní §Y$infrastructure$§!"
+ modifier_state_repair_speed_infrastructure_factor_desc: "Upravuje rychlost oprav pro $infrastructure$ v tomto státě"
+ modifier_state_production_speed_stronghold_network_factor: "Rychlost výstavby §Y$stronghold_network$§!"
+ modifier_state_production_speed_stronghold_network_factor_desc: "Upravuje rychlost výstavby §Y$stronghold_network$§! v tomto státě."
+ truck_attrition_factor_tt: "$MODIFIER_TRUCK_ATTRITION_FACTOR$: $RIGHT|-=%1$"
+ unit_artillery_brigade_design_cost_factor_tt: " $modifier_unit_artillery_brigade_design_cost_factor$: $RIGHT|-=%2$"
+ modifier_field_officer_promotion_penalty_tt: "$MODIFIER_FIELD_OFFICER_PROMOTION_PENALTY$: $RIGHT|-=%1$"
+ sp_land_large_caliber_kinetic_energy_sabot_speed_factor: "Rychlost výzkumu velkorážové podkaliberní kinetické munice"

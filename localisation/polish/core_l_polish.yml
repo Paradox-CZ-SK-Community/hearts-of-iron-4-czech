@@ -1578,7 +1578,7 @@
   SHIP_CLICK_HEADER: "§GPravé kliknutí§! pro posun na flotilu (nebo přístav)"
   SHIP_CLICK_TO_CHANGE_AGGRESSIVENESS_LEVEL: "§GKlikněte§! pro změnu na $NEXT|H$"
   SHIP_CURRENT_AGGRESSIVENESS_LEVEL: "Aktuální pravidlo pro zapojení: $CURRENT|H$"
-  SHIP_ENGAGEMENT_BUTTON_AGGRESSIVENESS_1_DESC: "Úderná skupina se nikdy nebude pokoušet zapojit se do boje se zpozorovaným nepřítelem. §HHlídkové lodě§! budou nadále pronásledovat svůj aktuální cíl." # todo: CHANGED
+  SHIP_ENGAGEMENT_BUTTON_AGGRESSIVENESS_1_DESC: "Úderná skupina se nikdy nebude pokoušet zapojit se do boje se zpozorovaným nepřítelem. §HHlídkující lodě§! budou nadále pronásledovat svůj aktuální cíl."
   SHIP_ENGAGEMENT_BUTTON_AGGRESSIVENESS_1: "Nezapájet se"
   SHIP_ENGAGEMENT_BUTTON_AGGRESSIVENESS_2_DESC: "Úderná skupina bude opatrná ohledně zapojení nepřátel a bude se účastnit bitev pouze proti mnohem menším silám."
   SHIP_ENGAGEMENT_BUTTON_AGGRESSIVENESS_2: "Zapojit se s nízkým rizikem"
@@ -2133,4 +2133,4 @@
   USE_DEFAULT_MODEL_IN_EQUIPMENT_DESIGNER: "Výchozí model"
   USE_DEFAULT_MODEL_IN_EQUIPMENT_DESIGNER_TOOLTIP: "Dynamicky používat nejvhodnější variantu modelu"
   TOGGLE_MODEL_SELECTOR: "Kliknutím přepněte výběr modelu"
-  SHIP_ENGAGEMENT_BUTTON_DISABLED_STRIKE_FORCE: "\n§RNení k dispozici pro mise úderné skupiny. Úderná skupina musí být vždy připravena zapojit se do boje.§!" # todo: NEW TRANSLATION
+  SHIP_ENGAGEMENT_BUTTON_DISABLED_STRIKE_FORCE: "\n§RPro mise úderné skupiny není dostupné. Úderná skupina musí být vždy připravena k boji.§!"

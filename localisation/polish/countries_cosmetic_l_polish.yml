@@ -3132,26 +3132,26 @@
  uruguay_third_republic_democratic_DEF: "Třetí uruguayská republika"
  vojvodina_YUG_subject: "Autonomní oblast Vojvodina"
  vojvodina_YUG_subject_DEF: "Autonomní oblast Vojvodina"
- CZE_second_republic_democratic: "Česko-Slovenská republika" # todo: NEW TRANSLATION
- CZE_second_republic_democratic_DEF: "Česko-Slovenská republika" # todo: NEW TRANSLATION
- CZE_second_republic_neutrality: "Česko-Slovenská republika" # todo: NEW TRANSLATION
- CZE_second_republic_neutrality_DEF: "Česko-Slovenská republika" # todo: NEW TRANSLATION
- CZE_fall_of_the_republic_neutrality: "Česko-Slovenská republika" # todo: NEW TRANSLATION
- CZE_fall_of_the_republic_neutrality_DEF: "Česko-Slovenská republika" # todo: NEW TRANSLATION
- CZE_CEF: "Federace střední Evropy" # todo: NEW TRANSLATION
- CZE_SLO_bohemia_expansion: "Čechy-Slovensko" # todo: NEW TRANSLATION
- CZE_SLO_bohemia_expansion_DEF: "Čechy-Slovensko" # todo: NEW TRANSLATION
- CZE_SLO_bohemia_expansion_ADJ: "Česko-slovenský" # todo: NEW TRANSLATION
- CZE_SLO_bohemia_expansion_neutrality: "Království Čech a Slovenska" # todo: NEW TRANSLATION
- CZE_SLO_bohemia_expansion_neutrality_DEF: "Království Čech a Slovenska" # todo: NEW TRANSLATION
- CZE_SLO_bohemia_expansion_democratic: "Čechy-Slovenská republika" # todo: NEW TRANSLATION
- CZE_SLO_bohemia_expansion_democratic_DEF: "Čechy-Slovenská republika" # todo: NEW TRANSLATION
- CZE_union_communism: "Československá unie" # todo: NEW TRANSLATION
- CZE_union_communism_DEF: "Československá unie" # todo: NEW TRANSLATION
- CZE_POL_union: "Polsko-československá konfederace" # todo: NEW TRANSLATION
- CZE_POL_union_DEF: "Polsko-československá konfederace" # todo: NEW TRANSLATION
- CZE_POL_union_ADJ: "Polsko-československý" # todo: NEW TRANSLATION
- CZE_POL_union_communism: "Polsko-československá unie" # todo: NEW TRANSLATION
- CZE_POL_union_communism_DEF: "Polsko-československá unie" # todo: NEW TRANSLATION
- CZE_POL_union_neutrality: "Polsko-československá federace" # todo: NEW TRANSLATION
- CZE_POL_union_neutrality_DEF: "Polsko-československá federace" # todo: NEW TRANSLATION
+ CZE_second_republic_democratic: "Česko-Slovenská republika"
+ CZE_second_republic_democratic_DEF: "Česko-Slovenská republika"
+ CZE_second_republic_neutrality: "Česko-Slovenská republika"
+ CZE_second_republic_neutrality_DEF: "Česko-Slovenská republika"
+ CZE_fall_of_the_republic_neutrality: "Česko-Slovenská republika"
+ CZE_fall_of_the_republic_neutrality_DEF: "Česko-Slovenská republika"
+ CZE_CEF: "Středoevropská federace"
+ CZE_SLO_bohemia_expansion: "Čechy-Slovensko"
+ CZE_SLO_bohemia_expansion_DEF: "Čechy-Slovensko"
+ CZE_SLO_bohemia_expansion_ADJ: "čs."
+ CZE_SLO_bohemia_expansion_neutrality: "Království Čech a Slovenska"
+ CZE_SLO_bohemia_expansion_neutrality_DEF: "Království Čech a Slovenska"
+ CZE_SLO_bohemia_expansion_democratic: "Čecho-Slovenská republika"
+ CZE_SLO_bohemia_expansion_democratic_DEF: "Čecho-Slovenská republika"
+ CZE_union_communism: "Československý svaz"
+ CZE_union_communism_DEF: "Československý svaz"
+ CZE_POL_union: "Polsko-československá konfederace"
+ CZE_POL_union_DEF: "Polsko-československá konfederace"
+ CZE_POL_union_ADJ: "pol-čs."
+ CZE_POL_union_communism: "Polsko-československý svaz"
+ CZE_POL_union_communism_DEF: "Polsko-československý svaz"
+ CZE_POL_union_neutrality: "Polsko-československá federace"
+ CZE_POL_union_neutrality_DEF: "Polsko-československá federace"

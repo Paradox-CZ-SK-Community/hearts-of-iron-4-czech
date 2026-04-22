@@ -127,6 +127,6 @@
  woman_in_a_high_castle_tt1: "Kontroluje všechny moderní státy §Y[USA.GetNameDef]§!"
  woman_in_a_high_castle_tt2: "Má ženskou hlavu státu"
  you_get_a_canton_tt: "Vlastní více než §Y24§! států."
- achievement_bought_cze_weapons: "Zakoupil československé zbraně pomocí rozhodnutí $CZE_skoda_focus_category$" # todo: NEW TRANSLATION
- CZE_capitulated_germany: "Německo kapitulovalo" # todo: NEW TRANSLATION
- i_didnt_hear_no_bell_tt: "Stal se $CZE_second_republic_democratic$" # todo: NEW TRANSLATION
+ achievement_bought_cze_weapons: "Zakoupil československé zbraně pomocí rozhodnutí $CZE_skoda_focus_category$"
+ CZE_capitulated_germany: "Německo kapitulovalo"
+ i_didnt_hear_no_bell_tt: "Stal se $CZE_second_republic_democratic$"

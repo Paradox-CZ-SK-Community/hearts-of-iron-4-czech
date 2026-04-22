@@ -1034,13 +1034,13 @@
   CZE_DEF: "Československo"
   CZE_democratic_ADJ: "čs."
   CZE_democratic_DEF: "Československá republika"
-  CZE_democratic: "Československá republika" # todo: CHANGED
+  CZE_democratic: "Československá republika"
   CZE_fascism_ADJ: "čes."
-  CZE_fascism_DEF: "Československý stát" # todo: CHANGED
-  CZE_fascism: "Československý stát" # todo: CHANGED
+  CZE_fascism_DEF: "Československý stát"
+  CZE_fascism: "Československý stát"
   CZE_neutrality_ADJ: "čes."
-  CZE_neutrality_DEF: "Království Československa" # todo: CHANGED
-  CZE_neutrality: "Království Československa" # todo: CHANGED
+  CZE_neutrality_DEF: "Československé království"
+  CZE_neutrality: "Československé království"
   CZE_subject_DEF: "$OVERLORDADJ$ Československo"
   CZE_subject: "$OVERLORDADJ$ Československo"
   CZE: "Československo"
@@ -5657,33 +5657,33 @@
   HBC_autonomy_sea_integrated_warlord_subject_DEF: "Region Che-pej - Čachar"
   HBC_PRC_communism_subject: "Region Che-pej - Čachar"
   HBC_PRC_communism_subject_DEF: "Region Che-pej - Čachar"
-  SDL_GER_fascism_subject: "Říšská župa Sudety" # todo: NEW TRANSLATION
-  SDL_GER_fascism_subject_DEF: "Říšská župa Sudety" # todo: NEW TRANSLATION
-  SDL_CZE_democratic_subject: "Velké Krkonoše-Jesenicko" # todo: NEW TRANSLATION
-  SDL_CZE_communism_subject: "Komuna Krkonoše-Jesenicko" # todo: NEW TRANSLATION
-  SDL_democratic: "Svobodné Sudety" # todo: NEW TRANSLATION
-  SDL_democratic_DEF: "Sudetensko" # todo: NEW TRANSLATION
-  SDL_fascism: "Sudetoněmecký svobodný sbor" # todo: NEW TRANSLATION
-  SDL_fascism_DEF: "Sudetensko" # todo: NEW TRANSLATION
-  SDL_communism: "Svobodní dělníci Sudet" # todo: NEW TRANSLATION
-  SDL_communism_DEF: "Sudetenská komuna" # todo: NEW TRANSLATION
-  SDL: "Sudetensko" # todo: NEW TRANSLATION
-  SDL_DEF: "Sudety" # todo: NEW TRANSLATION
-  SDL_ADJ: "sudetský" # todo: NEW TRANSLATION
-  SDL_democratic_subject: "$OVERLORDADJ$ $SDL$" # todo: NEW TRANSLATION
-  SDL_democratic_subject_DEF: "$OVERLORDADJ$ $SDL$" # todo: NEW TRANSLATION
-  SDL_neutrality_subject: "$OVERLORDADJ$ $SDL$" # todo: NEW TRANSLATION
-  SDL_neutrality_subject_DEF: "$OVERLORDADJ$ $SDL$" # todo: NEW TRANSLATION
-  SDL_fascism_subject: "$OVERLORDADJ$ protektorát $SDL$" # todo: NEW TRANSLATION
-  SDL_fascism_subject_DEF: "$OVERLORDADJ$ protektorát $SDL$" # todo: NEW TRANSLATION
-  RUT: "Podkarpatská Rus" # todo: NEW TRANSLATION
-  RUT_ADJ: "podkarpatoruský" # todo: NEW TRANSLATION
-  RUT_DEF: "Podkarpatská Rus" # todo: NEW TRANSLATION
-  GAL: "Halič a Lodomerie" # todo: NEW TRANSLATION
-  GAL_neutrality: "Království Haliče a Lodomerie" # todo: NEW TRANSLATION
-  GAL_neutrality_DEF: "Království Haliče a Lodomerie" # todo: NEW TRANSLATION
-  GAL_fascism: "Stát Haliče" # todo: NEW TRANSLATION
-  GAL_fascism_DEF: "Stát Haliče" # todo: NEW TRANSLATION
-  GAL_democratic: "Republika Haliče" # todo: NEW TRANSLATION
-  GAL_democratic_DEF: "Republika Haliče" # todo: NEW TRANSLATION
-  GAL_ADJ: "haličský" # todo: NEW TRANSLATION
+  SDL_GER_fascism_subject: "Říšská župa Sudety"
+  SDL_GER_fascism_subject_DEF: "Říšská župa Sudety"
+  SDL_CZE_democratic_subject: "Velké Krkonoše a Jesenicko"
+  SDL_CZE_communism_subject: "Komuna Krkonoš a Jeseník"
+  SDL_democratic: "Sudetsko"
+  SDL_democratic_DEF: "Sudetsko"
+  SDL_fascism: "Sudetenland Freikorps"
+  SDL_fascism_DEF: "Sudetenland"
+  SDL_communism: "Sudetská komuna"
+  SDL_communism_DEF: "Sudetská komuna"
+  SDL: "Sudety"
+  SDL_DEF: "Sudety"
+  SDL_ADJ: "sudet."
+  SDL_democratic_subject: "$OVERLORDADJ$ $SDL$"
+  SDL_democratic_subject_DEF: "$OVERLORDADJ$ $SDL$"
+  SDL_neutrality_subject: "$OVERLORDADJ$ $SDL$"
+  SDL_neutrality_subject_DEF: "$OVERLORDADJ$ $SDL$"
+  SDL_fascism_subject: "$OVERLORDADJ$ protektorát $SDL$"
+  SDL_fascism_subject_DEF: "$OVERLORDADJ$ protektorát $SDL$"
+  RUT: "Podkarpatská Rus"
+  RUT_ADJ: "rusín."
+  RUT_DEF: "Podkarpatská Rus"
+  GAL: "Halič a Lodomerie"
+  GAL_neutrality: "Království Haliče a Lodomerie"
+  GAL_neutrality_DEF: "Království Haliče a Lodomerie"
+  GAL_fascism: "Haličský stát"
+  GAL_fascism_DEF: "Haličský stát"
+  GAL_democratic: "Halič"
+  GAL_democratic_DEF: "Halič"
+  GAL_ADJ: "halič."

@@ -147,7 +147,7 @@
  jap_geacps_research_desc: "Snížený čas výzkumu technologií, které provádějí ostatní členové GEACPS."
  MAN_PRC_technology_sharing_group_name: "Společná výzkumná skupina CPC"
  MAN_PRC_technology_sharing_group_desc: "S více než jedním územím pod kontrolou CPC to také znamená, že je třeba zvýšit komunikaci mezi nimi, aby jedna část nezaostávala. Koordinace výzkumných snah je jednou z nejdůležitějších součástí této komunikace."
- CZE_balkan_tech_sharing_group_name: "Vědecký výbor Malé dohody" # todo: NEW TRANSLATION
- CZE_balkan_tech_sharing_group_desc: "Výzkumná dohoda mezi převážně balkánskými zeměmi a [CZE.GetNameDef], jejímž cílem je udržet jejich průmyslové technologie na úrovni větších zemí." # todo: NEW TRANSLATION
- CZE_german_czechoslovak_equipment_design_group_name: "Československo-německý výbor pro návrh vybavení" # todo: NEW TRANSLATION
- CZE_german_czechoslovak_equipment_design_group_desc: "Vědci z [GER.GetNameDef] a [CZE.GetNameDef] začali spolupracovat na návrhu tanků a letadel." # todo: NEW TRANSLATION
+ CZE_balkan_tech_sharing_group_name: "Vědecký výbor Malé dohody"
+ CZE_balkan_tech_sharing_group_desc: "Výzkumná dohoda, kterou tvoří převážně balkánské země a [CZE.GetNameDef], jejímž cílem je udržet jejich průmyslové technologie na úrovni větších zemí."
+ CZE_german_czechoslovak_equipment_design_group_name: "Československo-německý výbor pro konstrukci výzbroje"
+ CZE_german_czechoslovak_equipment_design_group_desc: "[GER.GetNameDef] a [CZE.GetNameDef] zahájují vědeckou spolupráci na konstrukci tanků a letadel."

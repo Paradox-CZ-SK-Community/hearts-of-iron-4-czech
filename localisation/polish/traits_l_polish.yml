@@ -2312,61 +2312,61 @@
  wounded: "Zraněný"
  wounded_desc: "§LZ ošklivého zranění se bude nějakou dobu zotavovat.§!"
  zaibatsu_bank: "Banka Zaibacu"
- well_renowned_military_theorist: "Známý vojenský teoretik" # todo: NEW TRANSLATION
- army_guerilla_organizer_1: "Organizátor partyzánů\n(Specialista)" # todo: NEW TRANSLATION
- army_guerilla_organizer_2: "Organizátor partyzánů\n(Expert)" # todo: NEW TRANSLATION
- army_guerilla_organizer_3: "Organizátor partyzánů\n(Génius)" # todo: NEW TRANSLATION
- navy_chief_naval_gunnery_designer_1: "Námořní konstruktér děl\n(Specialista)" # todo: NEW TRANSLATION
- navy_chief_naval_gunnery_designer_2: "Námořní konstruktér děl\n(Expert)" # todo: NEW TRANSLATION
- navy_chief_naval_gunnery_designer_3: "Námořní konstruktér děl\n(Génius)" # todo: NEW TRANSLATION
- train_equipment_manufacturer: "Konstruktér vlaků" # todo: NEW TRANSLATION
- automatic_weapons_manufacturer: "Konstruktér automatických zbraní" # todo: NEW TRANSLATION
- tank_destroyer_manufacturer: "Konstruktér stíhačů tanků" # todo: NEW TRANSLATION
- helicopter_equipment_manufacturer: "$generic_helicopter_organization$" # todo: NEW TRANSLATION
- industrial_focused_central_bank: "Průmyslově zaměřená centrální banka" # todo: NEW TRANSLATION
- engine_manufacturing_concern: "Výrobce motorů" # todo: NEW TRANSLATION
- construction_company_shell: "Stavební společnost" # todo: NEW TRANSLATION
- commercial_bank: "Komerční banka" # todo: NEW TRANSLATION
- militant_priest: "Militantní kněz" # todo: NEW TRANSLATION
- militant_minister_2: "Militantní ministr" # todo: NEW TRANSLATION
- space_lawyer: "Vesmírný právník" # todo: NEW TRANSLATION
- austrian_exile: "Rakouský exulant" # todo: NEW TRANSLATION
- socialist_firebrand: "Socialistický agitátor" # todo: NEW TRANSLATION
- union_women: "Odborářka" # todo: NEW TRANSLATION
- bold_intelligence_officer: "Odvážný zpravodajský důstojník" # todo: NEW TRANSLATION
- bold_intelligence_officer_no_lar: "Odvážný zpravodajský důstojník" # todo: NEW TRANSLATION
- nationalist_catholic_priest: "Nacionalistický katolický kněz" # todo: NEW TRANSLATION
- de_facto_leader: "Faktický vůdce" # todo: NEW TRANSLATION
- undermined_support_base: "Podkopaná základna podpory" # todo: NEW TRANSLATION
- agrarian_old_guard: "Agrární stará garda" # todo: NEW TRANSLATION
- CZE_2nd_prezident: "2. prezident" # todo: NEW TRANSLATION
- CZE_diplomatic_workhorse: "Diplomatický tahoun" # todo: NEW TRANSLATION
- CZE_pro_soviet_diplomat: "Pro-sovětský diplomat" # todo: NEW TRANSLATION
- CZE_benes_lackey: "Benešův lakaj" # todo: NEW TRANSLATION
- CZE_minister_of_foreign_affairs: "Benešův ministr zahraničí" # todo: NEW TRANSLATION
- CZE_general_director_of_ckd: "Generální ředitel ČKD" # todo: NEW TRANSLATION
- CZE_minister_of_public_works: "Ministr veřejných prací" # todo: NEW TRANSLATION
- CZE_nationalistic_agitating_academic: "Nacionalistický agitující akademik" # todo: NEW TRANSLATION
- fellow_traveller: "Sympatizant" # todo: NEW TRANSLATION
- CZE_minister_of_finance: "Ministr financí" # todo: NEW TRANSLATION
- CZE_minister_of_industry_and_trade: "Ministr průmyslu a obchodu" # todo: NEW TRANSLATION
- CZE_minister_of_posts_and_telegraphs: "Ministr pošt a telegrafů" # todo: NEW TRANSLATION
- CZE_minister_of_railways: "Ministr železnic" # todo: NEW TRANSLATION
- CZE_overly_pragmatic_diplomat: "Příliš pragmatický diplomat" # todo: NEW TRANSLATION
- CZE_sokol_administrator: "Správce hnutí Sokol" # todo: NEW TRANSLATION
- CZE_slovakian_nationalist: "Slovenský nacionalista" # todo: NEW TRANSLATION
- CZE_prime_minister_of_carpathian_ukraine: "Premiér Podkarpatské Rusi" # todo: NEW TRANSLATION
- CZE_leader_of_the_csl: "Předseda ČSL" # todo: NEW TRANSLATION
- CZE_prolific_aviator: "Plodný letec" # todo: NEW TRANSLATION
- CZE_corporate_emperor: "Průmyslový císař" # todo: NEW TRANSLATION
- CZE_corporatist_lackey: "Lakaj průmyslníků" # todo: NEW TRANSLATION
- CZE_disoriented_minister_of_foreign_affairs: "Zmatený ministr zahraničí" # todo: NEW TRANSLATION
- CZE_3rd_prezident: "3. prezident" # todo: NEW TRANSLATION
- CZE_reluctant_prime_minister: "Neochotný premiér" # todo: NEW TRANSLATION
- CZE_spirit_of_zizka: "Duch Žižky" # todo: NEW TRANSLATION
- CZE_minister_of_defense: "Ministr obrany" # todo: NEW TRANSLATION
- CZE_leader_of_the_sdp: "Předseda SdP" # todo: NEW TRANSLATION
- CZE_minister_of_public_health: "Ministr zdravotnictví" # todo: NEW TRANSLATION
- SLO_head_of_the_radical_wing: "Vedoucí radikálního křídla" # todo: NEW TRANSLATION
- SLO_nationalist_catholic_priest: "Nacionalistický katolický kněz" # todo: NEW TRANSLATION
- RUT_independence_minded_priest: "Kněz usilující o nezávislost" # todo: NEW TRANSLATION
+ well_renowned_military_theorist: "Známý vojenský teoretik"
+ army_guerilla_organizer_1: "Organizátor partyzánů\n(Specialista)"
+ army_guerilla_organizer_2: "Organizátor partyzánů\n(Expert)"
+ army_guerilla_organizer_3: "Organizátor partyzánů\n(Génius)"
+ navy_chief_naval_gunnery_designer_1: "Konstruktér námořních děl\n(Specialista)"
+ navy_chief_naval_gunnery_designer_2: "Konstruktér námořních děl\n(Expert)"
+ navy_chief_naval_gunnery_designer_3: "Konstruktér námořních děl\n(Génius)"
+ train_equipment_manufacturer: "Konstruktér vlaků"
+ automatic_weapons_manufacturer: "Konstruktér automatických zbraní"
+ tank_destroyer_manufacturer: "Konstruktér stíhačů tanků"
+ helicopter_equipment_manufacturer: "$generic_helicopter_organization$"
+ industrial_focused_central_bank: "Průmyslově zaměřená centrální banka"
+ engine_manufacturing_concern: "Společnost na výrobu motorů"
+ construction_company_shell: "Stavební společnost"
+ commercial_bank: "Komerční banka"
+ militant_priest: "Militantní kněz"
+ militant_minister_2: "Militantní ministr"
+ space_lawyer: "Vesmírný právník"
+ austrian_exile: "Rakouský exulant"
+ socialist_firebrand: "Socialistický radikál"
+ union_women: "Odborářka"
+ bold_intelligence_officer: "Odvážný zpravodajský důstojník"
+ bold_intelligence_officer_no_lar: "Odvážný zpravodajský důstojník"
+ nationalist_catholic_priest: "Nacionalistický katolický kněz"
+ de_facto_leader: "Faktický vůdce"
+ undermined_support_base: "Podkopaná základna podpory"
+ agrarian_old_guard: "Agrární stará garda"
+ CZE_2nd_prezident: "2. prezident"
+ CZE_diplomatic_workhorse: "Diplomatický tahoun"
+ CZE_pro_soviet_diplomat: "Prosovětský diplomat"
+ CZE_benes_lackey: "Benešův poskok"
+ CZE_minister_of_foreign_affairs: "Benešův ministr zahraničí"
+ CZE_general_director_of_ckd: "Generální ředitel ČKD"
+ CZE_minister_of_public_works: "Ministr veřejných prací"
+ CZE_nationalistic_agitating_academic: "Nacionalistický agitující akademik"
+ fellow_traveller: "Sympatizant"
+ CZE_minister_of_finance: "Ministr financí"
+ CZE_minister_of_industry_and_trade: "Ministr průmyslu a obchodu"
+ CZE_minister_of_posts_and_telegraphs: "Ministr pošt a telegrafů"
+ CZE_minister_of_railways: "Ministr železnic"
+ CZE_overly_pragmatic_diplomat: "Příliš pragmatický diplomat"
+ CZE_sokol_administrator: "Správce hnutí Sokol"
+ CZE_slovakian_nationalist: "Slovenský nacionalista"
+ CZE_prime_minister_of_carpathian_ukraine: "Premiér Podkarpatské Rusi"
+ CZE_leader_of_the_csl: "Předseda ČSL"
+ CZE_prolific_aviator: "Plodný letec"
+ CZE_corporate_emperor: "Vládce průmyslu"
+ CZE_corporatist_lackey: "Poskok průmyslníků"
+ CZE_disoriented_minister_of_foreign_affairs: "Zmatený ministr zahraničí"
+ CZE_3rd_prezident: "3. prezident"
+ CZE_reluctant_prime_minister: "Neochotný premiér"
+ CZE_spirit_of_zizka: "Duch Žižky"
+ CZE_minister_of_defense: "Ministr obrany"
+ CZE_leader_of_the_sdp: "Vůdce SdP"
+ CZE_minister_of_public_health: "Ministr zdravotnictví"
+ SLO_head_of_the_radical_wing: "Vůdce radikálního křídla"
+ SLO_nationalist_catholic_priest: "Nacionalistický katolický kněz"
+ RUT_independence_minded_priest: "Kněz usilující o nezávislost"

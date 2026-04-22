@@ -250,48 +250,48 @@
   COG_transport_plane_equipment_2_short: "S.73"
   COG_transport_plane_equipment_3: "Douglas DC-3"
   COG_transport_plane_equipment_3_short: "DC-3"
-  CZE_CAS_equipment_1: "Aero A-104" # todo: CHANGED
-  CZE_CAS_equipment_1_short: "A-104" # todo: CHANGED
-  CZE_CAS_equipment_2: "Praga E-50" # todo: CHANGED
-  CZE_CAS_equipment_2_short: "E-50" # todo: CHANGED
-  CZE_CAS_equipment_3: "Aero A-302" # todo: CHANGED
-  CZE_CAS_equipment_3_short: "A-302" # todo: CHANGED
-  CZE_fighter_equipment_0: "Avia BH-33" # todo: CHANGED
-  CZE_fighter_equipment_0_short: "BH-33" # todo: CHANGED
-  CZE_fighter_equipment_1: "Avia B-534.1" # todo: CHANGED NUMBER
-  CZE_fighter_equipment_1_short: "B-534" # todo: CHANGED
+  CZE_CAS_equipment_1: "Aero A-104"
+  CZE_CAS_equipment_1_short: "A-104"
+  CZE_CAS_equipment_2: "Praga E-50"
+  CZE_CAS_equipment_2_short: "E-50"
+  CZE_CAS_equipment_3: "Aero A-302"
+  CZE_CAS_equipment_3_short: "A-302"
+  CZE_fighter_equipment_0: "Avia BH-33"
+  CZE_fighter_equipment_0_short: "BH-33"
+  CZE_fighter_equipment_1: "Avia B-534.1"
+  CZE_fighter_equipment_1_short: "B-534"
   CZE_fighter_equipment_2: "Avia B-135"
-  CZE_fighter_equipment_2_short: "B-135" # todo: CHANGED
-  CZE_fighter_equipment_3: "Letov L-501" # todo: CHANGED
-  CZE_fighter_equipment_3_short: "L-501" # todo: CHANGED
-  CZE_heavy_fighter_equipment_1: "Praga E-49" # todo: CHANGED
-  CZE_heavy_fighter_equipment_1_short: "E-49" # todo: CHANGED
-  CZE_heavy_fighter_equipment_2: "Beneš-Mráz Be-87" # todo: CHANGED
-  CZE_heavy_fighter_equipment_2_short: "Be-87" # todo: CHANGED
-  CZE_heavy_fighter_equipment_3: "Letov Š-49" # todo: CHANGED
-  CZE_heavy_fighter_equipment_3_short: "Š-49" # todo: CHANGED
-  CZE_jet_fighter_equipment_1: "Letov L-52" # todo: CHANGED
-  CZE_jet_fighter_equipment_1_short: "L-52" # todo: CHANGED
-  CZE_nav_bomber_equipment_1: "Letov Š-328" # todo: CHANGED
-  CZE_nav_bomber_equipment_1_short: "Š-328" # todo: CHANGED
-  CZE_nav_bomber_equipment_2: "Praga E-51" # todo: CHANGED
-  CZE_nav_bomber_equipment_2_short: "E-51" # todo: CHANGED
-  CZE_nav_bomber_equipment_3: "Avia B-158" # todo: CHANGED
-  CZE_nav_bomber_equipment_3_short: "B-158" # todo: CHANGED
-  CZE_strat_bomber_equipment_1: "Aero B-36" # todo: CHANGED
-  CZE_strat_bomber_equipment_1_short: "B-36" # todo: CHANGED
-  CZE_strat_bomber_equipment_2: "Praga E-53" # todo: CHANGED
-  CZE_strat_bomber_equipment_2_short: "E-53" # todo: CHANGED
-  CZE_strat_bomber_equipment_3: "Avia B-546" # todo: CHANGED
-  CZE_strat_bomber_equipment_3_short: "B-546" # todo: CHANGED
-  CZE_tac_bomber_equipment_0: "Aero Ab-101" # todo: CHANGED
-  CZE_tac_bomber_equipment_0_short: "Ab-101" # todo: CHANGED
-  CZE_tac_bomber_equipment_1: "Aero A-304" # todo: CHANGED
-  CZE_tac_bomber_equipment_1_short: "A-304" # todo: CHANGED
-  CZE_tac_bomber_equipment_2: "Aero A-300" # todo: CHANGED
-  CZE_tac_bomber_equipment_2_short: "A-300" # todo: CHANGED
-  CZE_tac_bomber_equipment_3: "Praga E-48" # todo: CHANGED
-  CZE_tac_bomber_equipment_3_short: "E-48" # todo: CHANGED
+  CZE_fighter_equipment_2_short: "B-135"
+  CZE_fighter_equipment_3: "Letov L-501"
+  CZE_fighter_equipment_3_short: "L-501"
+  CZE_heavy_fighter_equipment_1: "Praga E-49"
+  CZE_heavy_fighter_equipment_1_short: "E-49"
+  CZE_heavy_fighter_equipment_2: "Beneš-Mráz Be-87"
+  CZE_heavy_fighter_equipment_2_short: "Be-87"
+  CZE_heavy_fighter_equipment_3: "Letov Š-49"
+  CZE_heavy_fighter_equipment_3_short: "Š-49"
+  CZE_jet_fighter_equipment_1: "Letov L-52"
+  CZE_jet_fighter_equipment_1_short: "L-52"
+  CZE_nav_bomber_equipment_1: "Letov Š-328"
+  CZE_nav_bomber_equipment_1_short: "Š-328"
+  CZE_nav_bomber_equipment_2: "Praga E-51"
+  CZE_nav_bomber_equipment_2_short: "E-51"
+  CZE_nav_bomber_equipment_3: "Avia B-158"
+  CZE_nav_bomber_equipment_3_short: "B-158"
+  CZE_strat_bomber_equipment_1: "Aero B-36"
+  CZE_strat_bomber_equipment_1_short: "B-36"
+  CZE_strat_bomber_equipment_2: "Praga E-53"
+  CZE_strat_bomber_equipment_2_short: "E-53"
+  CZE_strat_bomber_equipment_3: "Avia B-546"
+  CZE_strat_bomber_equipment_3_short: "B-546"
+  CZE_tac_bomber_equipment_0: "Aero Ab-101"
+  CZE_tac_bomber_equipment_0_short: "Ab-101"
+  CZE_tac_bomber_equipment_1: "Aero A-304"
+  CZE_tac_bomber_equipment_1_short: "A-304"
+  CZE_tac_bomber_equipment_2: "Aero A-300"
+  CZE_tac_bomber_equipment_2_short: "A-300"
+  CZE_tac_bomber_equipment_3: "Praga E-48"
+  CZE_tac_bomber_equipment_3_short: "E-48"
   ENG_CAS_equipment_1: "Hawker Hector"
   ENG_CAS_equipment_1_short: "Hector"
   ENG_CAS_equipment_2: "Hawker Typhoon"
@@ -1887,13 +1887,13 @@
   naval_bomber1: "Námořní bombardér I"
   naval_bomber2: "Námořní bombardér II"
   naval_bomber3: "Námořní bombardér III"
-  CZE_transport_plane_equipment_1: "Aero A-38" # todo: NEW TRANSLATION
-  CZE_transport_plane_equipment_1_short: "A-38" # todo: NEW TRANSLATION
-  CZE_transport_plane_equipment_2: "Avia F.IX-M" # todo: NEW TRANSLATION
-  CZE_transport_plane_equipment_2_short: "F.IX-M" # todo: NEW TRANSLATION
-  CZE_transport_plane_equipment_3: "Praga E-200" # todo: NEW TRANSLATION
-  CZE_transport_plane_equipment_3_short: "E-200" # todo: NEW TRANSLATION
-  CZE_scout_plane_equipment_1: "Praga E-60" # todo: NEW TRANSLATION
-  CZE_scout_plane_equipment_1_short: "E-60" # todo: NEW TRANSLATION
-  CZE_scout_plane_equipment_2: "Praga K-64" # todo: NEW TRANSLATION
-  CZE_scout_plane_equipment_2_short: "K-64" # todo: NEW TRANSLATION
+  CZE_transport_plane_equipment_1: "Aero A-38"
+  CZE_transport_plane_equipment_1_short: "A-38"
+  CZE_transport_plane_equipment_2: "Avia F.IX-M"
+  CZE_transport_plane_equipment_2_short: "F.IX-M"
+  CZE_transport_plane_equipment_3: "Praga E-200"
+  CZE_transport_plane_equipment_3_short: "E-200"
+  CZE_scout_plane_equipment_1: "Praga E-60"
+  CZE_scout_plane_equipment_1_short: "E-60"
+  CZE_scout_plane_equipment_2: "Praga K-64"
+  CZE_scout_plane_equipment_2_short: "K-64"

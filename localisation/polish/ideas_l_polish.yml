@@ -407,10 +407,10 @@
   CZE_ludvik_svoboda: "Ludvík Svoboda"
   CZE_praga: "Praga"
   CZE_rudolf_viest: "Rudolf Viest"
-  CZE_skoda_armor: "Škoda obrněné vozy" # todo: CHANGED
-  CZE_skoda_artillery: "Škoda dělostrojí" # todo: CHANGED
-  CZE_skoda_shipyards: "Škoda loděnice" # todo: CHANGED
-  CZE_skoda_works_2: "Škoda těžký průmysl" # todo: CHANGED
+  CZE_skoda_armor: "Škoda Tanky"
+  CZE_skoda_artillery: "Škoda Artilerie"
+  CZE_skoda_shipyards: "Loděnice Škoda"
+  CZE_skoda_works_2: "Škodovy závody"
   CZE_stefan_osusky: "Štefan Osuský"
   CZE_tatra: "Tatra"
   CZE_vojtech_tuka: "Vojtech Tuka"
