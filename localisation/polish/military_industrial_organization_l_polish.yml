@@ -1591,3 +1591,102 @@
  my_custom_mio_custom_1: "Moje levá horní vlastnost"
  my_custom_mio_initial_trait: "Počáteční vlastnost"
  same_as_mio: "Všechna vybavení vojenských průmyslových organizací"
+ mio_header_aircraft_weapons: "Letecké zbraně" # todo: NEW TRANSLATION
+ mio_header_light_tank_destroyers_department: "Oddělení lehkých protitankových stíhačů" # todo: NEW TRANSLATION
+ mio_header_medium_tank_destroyers_department: "Oddělení středních protitankových stíhačů" # todo: NEW TRANSLATION
+ mio_header_heavy_tank_destroyers_department: "Oddělení těžkých protitankových stíhačů" # todo: NEW TRANSLATION
+ mio_header_tank_production: "Výroba tanků" # todo: NEW TRANSLATION
+ JAP_nippon_sharyo_organization: "Nippon Sharyo Seizo Kaisha" # todo: NEW TRANSLATION
+ FRA_mio_trait_scam_facilities: "SACM Facilities" # todo: NEW TRANSLATION
+ ITA_ansaldo_train_organization: "$AUS_ansaldo_organization$" # todo: NEW TRANSLATION
+ CZE_praga_aviation_organization: "$CZE_praga$ letectví" # todo: NEW TRANSLATION
+ BEL_ateliers_metallurgiques_tubize_organization: "Ateliers Métallurgiques-Tubize" # todo: NEW TRANSLATION
+ CZE_zbrojovka_vsetin_organization: "Zbrojovka-Vsetín" # todo: NEW TRANSLATION
+ CZE_benees_mraz_organization: "Beneš-Mráz" # todo: NEW TRANSLATION
+ CZE_zlin_aircraft_organization: "Zlín Aircraft" # todo: NEW TRANSLATION
+ CZE_CKD_plzen_organization: "CKD-Plzen" # todo: NEW TRANSLATION
+ CZE_ceska_zbrojovka_uhersky_brod_organization: "CZ Uherský Brod" # todo: NEW TRANSLATION
+ CZE_ringhoffer_tatra_organization: "Ringhoffer-Tatra" # todo: NEW TRANSLATION
+ CZE_skoda_plzen_tank_destroyer_organization: "Škoda Armor-Plzen" # todo: NEW TRANSLATION
+ CZE_skoda_works_german_organization: "$CZE_skoda_works$-Praha" # todo: NEW TRANSLATION
+ CZE_bohmische_mahrische_maschinenfabrik_ag_german_organization: "Böhmische-Mährische Maschinenfabrik AG" # todo: NEW TRANSLATION
+ GER_henschel_kassel_organization: "Henschel-Kassel" # todo: NEW TRANSLATION
+ ENG_crewe_works_organization: "Crewe Works" # todo: NEW TRANSLATION
+ USA_baldwin_locomotive_works_organization: "Baldwin Locomotive Works" # todo: NEW TRANSLATION
+ FRA_alsthom_organization: "Alsthom" # todo: NEW TRANSLATION
+ SOV_kolomna_locomotive_plant_name_dynamic: "[SOV_kolomna_locomotive_plant_name_dynamic]" # todo: NEW TRANSLATION
+ SOV_kolomna_locomotive_plant_communist: "V.V. Kuybyshev Locomotive Factory" # todo: NEW TRANSLATION
+ SOV_kolomna_locomotive_plant_default: "Kolomna Locomotive Works" # todo: NEW TRANSLATION
+ CZE_mio_trait_walter_co_name: "$CZE_walter_co$ motory" # todo: NEW TRANSLATION
+ CZE_bata_corporation_name: "$CZE_bata_corporation$ zařízení" # todo: NEW TRANSLATION
+ CZE_mio_trait_walter_co_taken_flag: " $GER_hoesch_facilities_trait_taken_flag$" # todo: NEW TRANSLATION
+ CZE_mio_trait_bata_corporation_taken_flag: " $GER_hoesch_facilities_trait_taken_flag$" # todo: NEW TRANSLATION
+ CZE_mio_trait_gun_smuggling_difficulties: "Problémy s pašováním zbraní" # todo: NEW TRANSLATION
+ CZE_mio_trait_panzer_38t_chassis_conversion: "Konverze podvozku Panzer 38(t)" # todo: NEW TRANSLATION
+ CZE_mio_trait_messerschmitt_integration: "Integrace do výrobních linek Messerschmittu" # todo: NEW TRANSLATION
+ CZE_mio_trait_walter_co_german_taken_flag: "  $GER_hoesch_facilities_trait_taken_flag$" # todo: NEW TRANSLATION
+ GER_mio_trait_lokomotivfabrik_floridsdorf: "Závody Lokomotivfabrik Floridsdorf" # todo: NEW TRANSLATION
+ generic_mio_trait_compulsory_tank_designer: "Vynucený výrobce tanků" # todo: NEW TRANSLATION
+ generic_mio_trait_off_the_board_designs: "Návrhy mimo záznam" # todo: NEW TRANSLATION
+ generic_mio_trait_armor_improvements: "Vylepšení pancíře" # todo: NEW TRANSLATION
+ generic_mio_trait_cruiser_tank_production: "Výroba křižníkových tanků" # todo: NEW TRANSLATION
+ generic_mio_trait_additional_anti_aircraft_machine_guns: "Další protiletadlové kulomety" # todo: NEW TRANSLATION
+ ENG_mio_trait_lms_logistical_expertise: "Logistická odbornost železnic LMS" # todo: NEW TRANSLATION
+ CZE_mio_trait_minimalist_wagon_design: "Minimalistický návrh vagónu" # todo: NEW TRANSLATION
+ ENG_mio_trait_lms_class_stanier_class_5_black_five: "LMS Black Fives" # todo: NEW TRANSLATION
+ ENG_mio_trait_vickers_armstrong_knowledge_sharing: "$ENG_vickers_armstrong_eng_organization$ Sdílení znalostí" # todo: NEW TRANSLATION
+ CZE_mio_trait_scam_facilities: "Továrna Mulhouse" # todo: NEW TRANSLATION
+ SLO_povazska_bystrica_organization: "Škoda-Považská Bystrica" # todo: NEW TRANSLATION
+ SLO_CZE_skoda_artillery_organization: "Škoda-Dubnica nad Váhom" # todo: NEW TRANSLATION
+ SLO_zbrojnica_roth_organization: "Zbrojnica Roth" # todo: NEW TRANSLATION
+ SLO_generic_escort_ship_organization: "Přístav Bratislava" # todo: NEW TRANSLATION
+ SLO_CZE_letov_organization: "Letov-Bratislava" # todo: NEW TRANSLATION
+ SLO_generic_general_aircraft_organization: "Považské strojárny" # todo: NEW TRANSLATION
+ SLO_svit_organization: "Svit" # todo: NEW TRANSLATION
+ SLO_CZE_skoda_armor_organization: "Škoda-Dubnica nad Váhom" # todo: NEW TRANSLATION
+ SLO_CZE_skoda_plzen_tank_destroyer_organization: "Závody těžkého strojírenství" # todo: NEW TRANSLATION
+ CZE_mio_initial_trait_automatic_manufacturer: "Výrobce automatických zbraní" # todo: NEW TRANSLATION
+ CZE_mio_trait_drum_mags: "Bubnové zásobníky" # todo: NEW TRANSLATION
+ CZE_mio_trait_box_mags: "Krabicové zásobníky" # todo: NEW TRANSLATION
+ CZE_mio_trait_9_mm: "Ráže 9 mm" # todo: NEW TRANSLATION
+ CZE_mio_trait_larger_calibers: "Ráže 45 mm" # todo: NEW TRANSLATION
+ CZE_mio_trait_maintain_current_firing_mechanism: "Zachovat současné návrhy spouštěcího mechanismu" # todo: NEW TRANSLATION
+ CZE_mio_trait_simplified_firing_mechanisms: "Zjednodušený spouštěcí mechanismus" # todo: NEW TRANSLATION
+ CZE_mio_trait_reduce_use_of_wooden_parts: "Omezit použití dřevěných částí" # todo: NEW TRANSLATION
+ CZE_mio_trait_stamp_steel_components: "Lisované ocelové součásti" # todo: NEW TRANSLATION
+ CZE_mio_trait_anti_tank_rifles: "Protitankové pušky" # todo: NEW TRANSLATION
+ CZE_mio_trait_simplified_barrel_forging: "Zjednodušené kování hlavně" # todo: NEW TRANSLATION
+ CZE_tank_destroyer_organization: "Výrobce protitankových stíhačů" # todo: NEW TRANSLATION
+ CZE_mio_trait_initial_trait_tank_destroyer_guns_organization: "Návrhář protitankových stíhačů" # todo: NEW TRANSLATION
+ CZE_mio_trait_mobile_tank_destroyers: "Stíhače typu hit-and-run" # todo: NEW TRANSLATION
+ CZE_mio_trait_multi_purpose_ammunition_tank_destoryer: "Víceúčelová munice" # todo: NEW TRANSLATION
+ CZE_mio_trait_light_tank_destroyer_artillery_gun_combo: "Kombinovaná dělová výzbroj" # todo: NEW TRANSLATION
+ CZE_mio_trait_light_tank_destroyer_gun_improved_muzzle_breaks: "Vylepšené kompenzátory ústí hlavně" # todo: NEW TRANSLATION
+ CZE_mio_trait_medium_tank_hunters_tank_destoryer: "Mobilní lovci tanků" # todo: NEW TRANSLATION
+ CZE_mio_trait_low_profile_ambushers_tank_destoryer: "Přepadávači s nízkým profilem" # todo: NEW TRANSLATION
+ CZE_mio_trait_armor_reinforced_sloped_armor_tank_destroyer: "Zpevněné šikmé pancéřování" # todo: NEW TRANSLATION
+ CZE_mio_trait_rear_and_low_ammo_compartment_tank_destroyer: "Zadní a nízko umístěný sklad munice" # todo: NEW TRANSLATION
+ CZE_mio_trait_medium_tank_destroyer_gun_high_velocity_rounds: "Vysokorychlostní střely" # todo: NEW TRANSLATION
+ CZE_mio_trait_medium_tank_destroyer_extended_barrel_length: "Prodloužená délka hlavně" # todo: NEW TRANSLATION
+ CZE_mio_trait_heavy_mobile_siege_cannons: "Mobilní obléhací děla" # todo: NEW TRANSLATION
+ CZE_mio_trait_improved_barrel_cooling: "Vylepšené chlazení hlavně" # todo: NEW TRANSLATION
+ CZE_mio_minimalist_gun_designs: "Minimalistické návrhy děl" # todo: NEW TRANSLATION
+ CZE_mio_trait_additional_ammo_storage: "Další sklad munice" # todo: NEW TRANSLATION
+ CZE_mio_trait_easier_gun_maintance: "Snazší údržba zbraní" # todo: NEW TRANSLATION
+ CZE_mio_trait_cannon_improvements: "Vylepšení děl" # todo: NEW TRANSLATION
+ generic_mio_initial_trait_generic_train_manufacturer: "Výrobce vlaků" # todo: NEW TRANSLATION
+ generic_mio_trait_material_improvements: "Vylepšení materiálů" # todo: NEW TRANSLATION
+ generic_mio_trait_joint_stock_scheme: "Schémata akciových společností" # todo: NEW TRANSLATION
+ generic_rapid_production_upscaling: "Rychlé rozšíření výroby" # todo: NEW TRANSLATION
+ generic_mio_trait_additional_flak_wagons: "Další protiletadlové vozy" # todo: NEW TRANSLATION
+ generic_mio_trait_improved_axle_fitting: "Vylepšené uložení náprav" # todo: NEW TRANSLATION
+ generic_mio_trait_improved_wagon_design: "Vylepšený návrh vozu" # todo: NEW TRANSLATION
+ generic_mio_trait_improved_loading: "Vylepšené metody nakládky" # todo: NEW TRANSLATION
+ generic_mio_trait_ugly_ducklings: "Ošklivá káčátka" # todo: NEW TRANSLATION
+ generic_mio_trait_armor_plating: "Pancéřování" # todo: NEW TRANSLATION
+ generic_mio_trait_simplified_rail_carrier: "Zjednodušený železniční vůz" # todo: NEW TRANSLATION
+ generic_mio_trait_improved_barrel_lining: "Vylepšená vložka hlavně" # todo: NEW TRANSLATION
+ generic_mio_trait_quick_design_turnarounds: "Rychlé dokončování návrhů" # todo: NEW TRANSLATION
+ generic_mio_trait_salavage_destoryed_locomotives: "Záchrana zničených lokomotiv" # todo: NEW TRANSLATION
+ generic_mio_trait_train_production_at_scale: "Výroba ve velkém měřítku" # todo: NEW TRANSLATION
+ generic_mio_trait_machine_assembly: "Montáž strojů" # todo: NEW TRANSLATION

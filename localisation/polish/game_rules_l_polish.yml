@@ -810,3 +810,6 @@
  RULE_OPTION_MACARTHUR_PHI_AI_DESC: "Po pádu filipínské vlády vystoupí vojenská osobnost a povede národ proti všem útočníkům."
  RULE_ALLOW_RELEASE_NATIONS_WARLORD_CHINA_TOOLTIP: "§Y[ROOT.GetNameDefCap]§! nesmí osvobodit §Y[CHI.GetNameDef]§! nebo §Y[PRC.GetNameDef]§!."
  RULE_OPTION_MONARCHIST_PHI_AI: "Hispánské"
+ RULE_OPTION_MONARCHIST_CZE_AI_DESC: "Československá AI přejde na monarchismus a pokusí se obnovit Bohémské císařství." # todo: NEW TRANSLATION
+ RULE_ALLOW_RELEASE_NATIONS_ALL_NATIONS_SUDETENLAND_TOOLTIP: "Tento národ nesmí být nikdy uvolněn." # todo: NEW TRANSLATION
+ RULE_ALLOW_RELEASE_NATIONS_ALL_NATIONS_RUTHENIA_TOOLTIP: "Tento národ nesmí být nikdy uvolněn." # todo: NEW TRANSLATION

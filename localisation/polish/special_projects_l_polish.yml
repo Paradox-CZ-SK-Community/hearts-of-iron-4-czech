@@ -1155,3 +1155,6 @@
  sp_naval_submarine_carrier_eq_bonus_stealth: "Letadlová ponorka - Snížená odhalitelnost"
  JAP_sp_air_helicopter: "Kajaba Ka-1"
  JAP_sp_naval_submarine_carrier: "Letadlová ponorka třídy I-400"
+ sp_land_large_caliber_kinetic_energy_sabot: "Velkokalibrový kinetický sabot" # todo: NEW TRANSLATION
+ sp_land_large_caliber_kinetic_energy_sabot_desc: "Větší kalibrová verze průbojného dělostřeleckého náboje určená k prorážení opevnění." # todo: NEW TRANSLATION
+ GER_sp_land_large_caliber_kinetic_energy_sabot: "Röchling shell" # todo: NEW TRANSLATION

@@ -1,0 +1,167 @@
+﻿l_polish:
+ CZE_sudeten_promise_mission: "Sudecký slib" # todo: CHANGED
+ CZE_sudeten_promise_mission_desc: "Tím, že jsme podpořili polovojenské formace v Sudetech, jsme jim přislíbili podporu při odtržení od [CZE.GETNAME] a připojení k nám. Porušení tohoto slibu by vedlo k politické odezvě." # todo: CHANGED
+ CZE_recall_zdenko_hudecek: "Odvolat §Y$CZE_zdenko_hudecek$§!" # todo: NEW TRANSLATION
+ CZE_a_divided_nation_category: "Rozdělená země" # todo: NEW TRANSLATION
+ CZE_a_divided_nation_category_desc: "V zemi roste odpor vůči vládě ze strany různých hnutí, který již nelze ignorovat nebo bagatelizovat. Řešení těchto problémů utlumí síly snažící se zemi roztrhat. Alespoň prozatím." # todo: CHANGED
+ CZE_a_divided_nation_category_tt: "Vybere Rozhodnutí: §Y$CZE_a_divided_nation_bridge_the_divide_fake$§!" # todo: CHANGED
+ CZE_a_divided_nation_category_2_tt: "§YEfekty při výběru§!:\nOdemkne §Y$CZE_a_divided_nation_category$§! Rozhodnutí, která §YOdstraní§! negativní státní modifikátory v našich §Ystátech§! a také sníží negativní modifikátory na národním duchu §Y$CZE_a_divided_nation_dynamic_modifier$§! dokud nebude §Yodstraněn§!." # todo: CHANGED
+ CZE_a_divided_nation_category_3_tt: "Odemkne §Y$CZE_a_divided_nation_category$§! Rozhodnutí, která §YOdstraní§! negativní státní modifikátory v našich §Ystátech§! a také sníží negativní modifikátory na národním duchu §Y$CZE_a_divided_nation_dynamic_modifier$§! dokud nebude §Yodstraněn§!." # todo: CHANGED
+ CZE_a_divided_nation_fake_category: "Rozdělená země" # todo: NEW TRANSLATION
+ CZE_a_divided_nation_fake_category_desc: "V zemi roste odpor vůči vládě ze strany různých hnutí, který již nelze ignorovat nebo bagatelizovat. Řešení těchto problémů utlumí síly snažící se zemi roztrhat. Alespoň prozatím." # todo: CHANGED
+ CZE_a_divided_nation_on_map: "Tyto státy mají problémy, které je třeba řešit" # todo: NEW TRANSLATION
+ CZE_a_divided_nation_bridge_the_divide_fake: "Překlenout rozdělení" # todo: CHANGED
+ CZE_a_divided_nation_decision_in_progress: "Již pracujeme na problému v jiném státě" # todo: NEW TRANSLATION
+ CZE_a_divided_nation_sudentenland_germans: "Snahy o integraci v §Y[FROM.GETNAME]§! " # todo: CHANGED
+ CZE_a_divided_nation_sudentenland_germans_cooperate: "Zachránit průmysl v §Y[FROM.GETNAME]§!" # todo: NEW TRANSLATION
+ CZE_a_divided_nation_sudentenland_germans_cooperate_desc: "Záchrana místního průmyslu v [FROM.Getname] rychle získá zpět politickou podporu místního obyvatelstva." # todo: NEW TRANSLATION
+ CZE_a_divided_nation_tesinko_poles: "Snahy o integraci v §Y[FROM.getname]§!" # todo: CHANGED
+ CZE_a_divided_nation_czech_states: "Vzdělávací snahy v §Y[FROM.getname]§!" # todo: NEW TRANSLATION
+ CZE_a_divided_nation_czech_states_desc: "Nedostatek kvalifikovaných pracovníků brzdí rychlý růst průmyslu v centru naší země. Musíme investovat do programů, které lépe vzdělají naši populaci pro práci v rostoucím průmyslu." # todo: CHANGED
+ CZE_a_divided_nation_slovakia_states: "Další ekonomické investice v §Y[FROM.getname]§!" # todo: NEW TRANSLATION
+ CZE_a_divided_nation_slovakia_states_desc: "Předchozí investiční snahy nestačily překlenout nerovnosti v průmyslu v [FROM.GETNAME]. Jsou potřeba další investice ke zlepšení situace." # todo: CHANGED
+ CZE_a_divided_nation_hungarian_states: "Snahy o integraci v §Y[FROM.GETNAME]§!" # todo: CHANGED
+ CZE_a_divided_nation_ukrainian_states: "Další ekonomické investice v §Y[FROM.getname]§!" # todo: NEW TRANSLATION
+ CZE_a_divided_nation_ukrainian_states_desc: "Předchozí investiční snahy nestačily překlenout nerovnosti v průmyslu v [FROM.GETNAME]. Jsou potřeba další investice ke zlepšení situace." # todo: CHANGED
+ CZE_a_divided_nation_bridge_the_divide: "Překlenout rozdělení" # todo: CHANGED
+ CZE_a_divided_nation_event_tt: "Můžeme zvolit další §Y$CZE_a_divided_nation_category$§! rozhodnutí." # todo: CHANGED
+ CZE_crisis_in_the_sudentenland: "Krize v Sudetech" # todo: NEW TRANSLATION
+ CZE_crisis_in_the_sudentenland_desc: "Polovojenské oddíly v Sudetech povstaly a zahájily partyzánskou válku proti nám. Probíhající střety s našimi silami způsobily, že situace se stočila do chaosu. Musíme dostat situaci pod kontrolu, a to dříve, než toho někdo zneužije." # todo: CHANGED
+ CZE_tackle_crisis_in_the_sudentenland: "Potlačit polovojenské buňky v §Y[FROM.GETNAME]§!" # todo: CHANGED
+ SOV_airlift_troops_into_czechoslovakia: "Letecký přesun jednotek do [CZE.GetNameDef]" # todo: CHANGED
+ CZE_soviet_airlift_tt: "Všechny jednotky v §Y[199.GetName]§! budou transportovány na [CZE.GetAdjective] letiště v §Y[73.GetName]§!" # todo: CHANGED
+ CZE_request_ally_give_ussr_mil_access: "Požádat [FROM.GetName], aby udělil vojenský přístup [SOV.GetNameDef]" # todo: CHANGED
+ CZE_request_ally_give_ussr_mil_access_tt_ROM: "Odemkne rozhodnutí: §YPožádejte [ROM.GetName], aby udělil vojenský přístup [SOV.GetNameDef]§!" # todo: CHANGED
+ CZE_request_ally_give_ussr_mil_access_tt_POL: "Odemkne rozhodnutí: §YPožádejte [POL.GetName], aby udělil vojenský přístup [SOV.GetNameDef]§!" # todo: CHANGED
+ CZE_skoda_sell_weapons_to_SPR: "Tajně prodat zbraně [FROM.GetName]" # todo: NEW TRANSLATION
+ CZE_skoda_select_little_entente_group: "Prodávat zbraně partnerům Malé dohody" # todo: NEW TRANSLATION
+ CZE_select_continent_middle_east: "Prodávat zbraně v Africe a na Blízkém východě" # todo: CHANGED
+ CZE_select_continent_south_america: "Prodávat zbraně v Jižní Americe" # todo: NEW TRANSLATION
+ CZE_select_continent_north_america: "Prodávat zbraně v Severní Americe" # todo: NEW TRANSLATION
+ CZE_select_continent_asia: "Prodávat zbraně v Asii a Oceánii" # todo: NEW TRANSLATION
+ CZE_restore_civilian_leadership: "Obnovit civilní vedení" # todo: NEW TRANSLATION
+ CZE_jan_syrovy_was_recently_made_leader_flag: "$CZE_jan_syrovy$ se nedávno stal vůdcem" # todo: CHANGED
+ CZE_autonomous_sentiment: "Touha po autonomii" # todo: NEW TRANSLATION
+ CZE_autonomous_sentiment_desc: "Spojení s Autonomním blokem přineslo i určité nevýhody. Jednou z nich je, že byly splněny jejich požadavky na udělení autonomie [SLO.getname]. Další části naší země mohou chtít obdobné zacházení." # todo: CHANGED
+ CZE_the_autonomous_bloc_demands: "Požadavky Autonomního bloku" # todo: NEW TRANSLATION
+ CZE_the_rut_demands: "Požadavky [RUT.GetAdjective]" # todo: NEW TRANSLATION
+ CZE_the_rut_demands_desc: "Po splnění požadavků Autonomního bloku chce frakce $RUT_augustin_voloshyn$, usilující o nezávislost Ukrajiny, stejnou dohodu." # todo: CHANGED
+ CZE_escalate_involvement_in_soviet_civil_war: "Zintenzivnit zapojení do sovětské občanské války" # todo: CHANGED
+ CZE_escalate_border_war: "Vyostřit [CZE.GetAdjective]-[66.owner.GetAdjective] pohraniční konflikt" # todo: CHANGED
+ CZE_white_peace_silesia_owner: "Mírová dohoda s [66.owner.GetName]" # todo: NEW TRANSLATION
+ CZE_demand_regime_change: "Požadovat změnu režimu v [FROM.GetName]" # todo: NEW TRANSLATION
+ CZE_invest_in_the_balkans: "Investovat na Balkáně" # todo: NEW TRANSLATION
+ CZE_invest_in_balkan_industry: "Investovat do [FROM.GetAdjective] průmyslu" # todo: CHANGED
+ CZE_investment_deal: "Investiční dohoda" # todo: NEW TRANSLATION
+ CZE_spread_the_revolution_category: "Šíření revoluce" # todo: CHANGED
+ CZE_integrate_nation: "Integrovat [FROM.GetNameDef]" # todo: NEW TRANSLATION
+ CZE_propose_unification: "Pozvat [FROM.GetName] do [ROOT.GetNameDef]" # todo: NEW TRANSLATION
+ CZE_central_european_federation: "Středoevropská federace" # todo: NEW TRANSLATION
+ CZE_form_the_european_federation: "Založit Evropskou federaci" # todo: NEW TRANSLATION
+ CZE_central_european_federation_desc: "Máme s našimi sousedy víc společného, než co nás dělí. Vytvoření demokratické federace může být jedinou věcí, která udrží pluralismus ve Střední Evropě při životě tváří v tvář mnoha hrozbám." # todo: CHANGED
+ CZE_form_the_european_federation_HUN_tt: "Získat domovské nároky na maďarských státech" # todo: CHANGED
+ CZE_form_the_european_federation_AUS_tt: "Získat domovské nároky na západních rakouských státech" # todo: CHANGED
+ CZE_form_the_european_federation_POL_tt: "Získat domovské nároky na státech jižního Polska" # todo: CHANGED
+ CZE_form_the_european_federation_GER_tt: "Získat domovské nároky na některých sousedních německých státech" # todo: CHANGED
+ CZE_form_the_european_federation_ROM_tt: "Získat domovské nároky na státech severního Rumunska" # todo: CHANGED
+ CZE_form_the_european_federation_YUG_tt: "Získat domovské nároky na některých jugoslávských státech" # todo: CHANGED
+ CZE_demands_aus_joins_us: "Požadovat, aby se [AUS.getname] připojil k naší federaci" # todo: NEW TRANSLATION
+ CZE_demands_hun_joins_us: "Požadovat, aby se [HUN.getname] připojil k naší federaci" # todo: NEW TRANSLATION
+ CZE_the_second_fortification_program_category: "Opevňovací programy" # todo: CHANGED
+ CZE_the_second_fortification_program_category_desc: "Naše méně výhodná hranice je naléhavou otázkou národní bezpečnosti. Sousední země jasně naznačily, že si činí nároky na přerýsování našich hranic ve svůj prospěch. Pokračující opevňování našich hranic donutí případného nepřítele dvakrát si rozmyslet, než zaútočí." # todo: CHANGED
+ CZE_fate_of_the_ro: "Osud Rady pro opevnění" # todo: NEW TRANSLATION
+ CZE_fate_of_the_ro_desc: "Rada pro opevnění shromažďuje finance související s našimi opevňovacími projekty. Pokud tyto prostředky brzy nebudou použity, lidé začnou pochybovat, proč byly vůbec shromážděny." # todo: CHANGED
+ CZE_bop_army_bunker_maintenance: "Údržba opevnění" # todo: NEW TRANSLATION
+ CZE_bop_army_bunker_maintenance_desc: "Správná údržba našich opevnění a jejich připravenost k použití zajistí, že armáda jim bude důvěřovat, pokud je někdy bude muset obsadit." # todo: CHANGED
+ CZE_fortification_research: "Výzkum opevnění" # todo: NEW TRANSLATION
+ CZE_fortification_research_desc: "Potřeba opevnit naše hranice je zřejmá, otázkou ale zůstává jak? Výzkum nám pomůže na tuto otázku odpovědět." # todo: CHANGED
+ CZE_fortification_research_tt: "Obsahuje národní duch §Y$CZE_directorate_of_fortification_works_no_gd_idea$§!" # todo: CHANGED
+ CZE_fortification_research_subtract_variable_tt: "Všechna budoucí rozhodnutí §YOpevňovací programy§! budou k §YDokončení§! trvat o §Y30§! dní méně." # todo: CHANGED
+ CZE_fortification_decision_inprogress: "Již pracujeme na jiném opevňovacím programu" # todo: NEW TRANSLATION
+ CZE_second_sudetenland_fortification_program: "Druhý program opevnění v Sudetech" # todo: CHANGED
+ CZE_second_sudetenland_fortification_program_desc: "Sudety, naše horské pohraničí s Německem, jsou ideálním místem pro pohraniční opevnění. Po prostudování francouzské Maginotovy linie můžeme vybudovat podobnou linii i my." # todo: CHANGED
+ CZE_third_sudetenland_fortification_program: "Třetí program opevnění v Sudetech" # todo: CHANGED
+ CZE_third_sudetenland_fortification_program_desc: "Sudety nyní mohou pochlubit slušnou obrannou linií, ale „slušná\" nestačí, když je ohroženo naše národní přežití." # todo: CHANGED
+ CZE_fourth_sudetenland_fortification_program: "Čtvrtý program opevnění v Sudetech" # todo: CHANGED
+ CZE_fourth_sudetenland_fortification_program_desc: "Sudety mají silný systém opevnění, ale musí být ještě silnější." # todo: CHANGED
+ CZE_fortify_the_crossroads_with_slo: "Opevnit křižovatky" # todo: NEW TRANSLATION
+ CZE_fortify_the_crossroads_with_slo_desc: "Každý systém opevnění může být prolomen. Abychom se proti tomu pojistili, můžeme vybudovat silná postavení kolem našich nejdůležitějších měst, aby je nepřítel, který prolomí naše linie, nemohl snadno obsadit." # todo: CHANGED
+ CZE_fortify_the_hungarian_border_with_73: "Opevnit maďarskou hranici" # todo: NEW TRANSLATION
+ CZE_fortify_the_hungarian_border_with_73_desc: "Maďarský irredentismus je trvalou hrozbou pro náš stát; systém opevnění podél naší vzájemné hranice nám pomůže zajistit bezpečí." # todo: CHANGED
+ CZE_fortify_the_polish_border_with_72: "Opevnit polskou hranici" # todo: NEW TRANSLATION
+ CZE_fortify_the_polish_border_with_72_desc: "Polská agrese nezná mezí, ale doufejme, že dobře opevněná hranice je přiměje hledat snazší cíl." # todo: NEW TRANSLATION
+ CZE_bop_ready_for_anything: "£GFX_power_balance_texticon Připraveni na cokoliv" # todo: CHANGED
+ CZE_bop_ready_for_anything_tt: "Nemá národní duch " # todo: NEW TRANSLATION
+ CZE_bop_no_divided_nation_tt: "Nemá národní duch §Y$CZE_a_divided_nation_dynamic_modifier$§!" # todo: NEW TRANSLATION
+ CZE_bop_no_agrarians_tt: "$CZE_bop_ready_for_anything_tt$§Y$CZE_agrarian_politics_1$§!" # todo: NEW TRANSLATION
+ CZE_bop_no_industrialists_tt: "$CZE_bop_ready_for_anything_tt$§Y$CZE_industrialists_veto$§!" # todo: NEW TRANSLATION
+ CZE_bop_no_industrialists_with_space_tt: "$CZE_bop_ready_for_anything_tt$§Y$CZE_industrialists_veto$§!\n\n" # todo: NEW TRANSLATION
+ CZE_bop_car_rationing: "£BoP_right_texticon Příděly na auta" # todo: CHANGED
+ CZE_embezzle_quatermaster_funds: "£BoP_left_texticon Zpronevěřit prostředky intendantury" # todo: CHANGED
+ CZE_embezzle_quatermaster_funds_desc: "Naši vojáci jsou už dobře zajištěni. Jistě si nikdo nevšimne nebo nebude řešit, kdyby část prostředků určených pro naše kasárny skončila jinde." # todo: CHANGED
+ CZE_prioritize_export_contracts: "£BoP_left_texticon Upřednostnit exportní smlouvy" # todo: CHANGED
+ CZE_prioritize_export_contracts_desc: "Náš exportní průmysl nám pomohl vystoupit z Velké hospodářské krize. Proč bychom měli nyní měnit chování? Jakákoli hrozba pro naši zemi je přehnaná. Armada může počkat." # todo: CHANGED
+ CZE_focus_on_export_designs: "£BoP_left_texticon Zaměřit se na exportní návrhy" # todo: NEW TRANSLATION
+ CZE_focus_on_export_designs_desc: "Armada je velmi náročná na to, co chce z našich návrhů. Exportní trh je shovívavější a zároveň pomáhá financovat domácí návrhy pro Armadu. Ve skutečnosti by nám Armada měla opravdu děkovat za to, kolik peněz ušetří na výzkumu a vývoji. Není zač, Armada." # todo: CHANGED
+ CZE_bop_reservist_training: "£BoP_right_texticon Výcvik záložníků" # todo: CHANGED
+ CZE_junior_officer_recruitment: "£BoP_right_texticon Nábor mladších důstojníků" # todo: NEW TRANSLATION
+ CZE_send_foreign_attaches: "£BoP_right_texticon Poslat zahraniční přidělence" # todo: NEW TRANSLATION
+ CZE_send_observers_to_the_italo_ethiopian_war: "£BoP_right_texticon Poslat pozorovatele do Etiopie" # todo: NEW TRANSLATION
+ CZE_send_observers_to_the_italo_ethiopian_war_bonus: "Poslali pozorovatele do italsko-etiopské války" # todo: CHANGED
+ CZE_send_observers_to_the_italo_ethiopian_war_desc: "Tajné vyslání jednotlivců, aby pozorovali a navazovali vedlejší kontakty s lidmi zapojenými do bojů na zemi, by poskytlo cenný vhled do soudobé armádní doktríny. Může to také otevřít další příležitosti." # todo: CHANGED
+ CZE_send_observers_to_the_italo_ethiopian_war_tt: "§Y$CZE_zbrojovka_brno_organization$§! se bude zajímat o pašování zbraní do §Y[ETH.getname]§!." # todo: NEW TRANSLATION
+ CZE_recruit_red_cross_veterans: "£BoP_right_texticon Naverbovat veterány Červeného kříže" # todo: CHANGED
+ CZE_warehouse_inspections: "£BoP_right_texticon Inspekce skladů" # todo: NEW TRANSLATION
+ CZE_warehouse_inspections_desc: "Nic nepoznáte, dokud to nezkontrolujete." # todo: CHANGED
+ CZE_construction_telephone_stations: "£BoP_right_texticon Vybudovat telefonní stanice" # todo: CHANGED
+ CZE_construction_telephone_stations_desc: "Vybudování telefonních stanic mezi našimi štáby výrazně zvýší koordinaci našeho hlavního velení." # todo: CHANGED
+ CZE_state_defense_loans: "£BoP_right_texticon Státní obranná půjčka" # todo: NEW TRANSLATION
+ CZE_live_fire_exercise: "£BoP_right_texticon Cvičení s živou palbou" # todo: CHANGED
+ CZE_live_fire_exercise_desc: "Není nic lepšího než den na střelnici." # todo: CHANGED
+ CZE_redirect_military_discretionary_spending: "£BoP_left_texticon Přesměrovat diskreční vojenské výdaje" # todo: CHANGED
+ CZE_redirect_military_discretionary_spending_desc: "Prostředky jsou volné a my se můžeme rozhodnout je neutratit za armádu." # todo: CHANGED
+ CZE_seize_rail_lines: "£BoP_right_texticon Zabrat železniční tratě" # todo: NEW TRANSLATION
+ CZE_field_exercises: "£BoP_right_texticon Polní cvičení" # todo: NEW TRANSLATION
+ CZE_field_exercises_desc: "Nic není cennější než výcvik na frontě." # todo: NEW TRANSLATION
+ CZE_skoda_focus_category: "[ROOT.GetAdjective] prodej zbraní" # todo: NEW TRANSLATION
+ CZE_skoda_select_spain_group: "Prodej zbraní ve Španělsku" # todo: NEW TRANSLATION
+ CZE_skoda_select_country: "Vybrat [FROM.controller.GetName] pro rozhodnutí o prodeji" # todo: CHANGED
+ CZE_skoda_sell_weapons_to_little_entente: "Vybrat [FROM.GetName] pro rozhodnutí o prodeji" # todo: CHANGED
+ CZE_skoda_license_czech_tank_design: "Poskytnout licenci na návrhy tanků [?global.CZE_selling_country.GetName]" # todo: CHANGED
+ CZE_skoda_sell_guns: "Prodat $infantry_equipment$ [?global.CZE_selling_country.GetName]" # todo: NEW TRANSLATION
+ CZE_skoda_sell_artillery: "Prodat $artillery_equipment$ [?global.CZE_selling_country.GetName]" # todo: NEW TRANSLATION
+ CZE_skoda_sell_tanks: "Prodat lehké tanky [?global.CZE_selling_country.GetName]" # todo: NEW TRANSLATION
+ CZE_skoda_sell_planes: "Prodat stíhačky [?global.CZE_selling_country.GetName]" # todo: NEW TRANSLATION
+ CZE_build_skoda_office_africa: "Postavit kancelář Škoda v Africe" # todo: CHANGED
+ CZE_build_skoda_office_australia: "Postavit kancelář Škoda v Oceánii" # todo: CHANGED
+ CZE_build_skoda_office_north_america: "Postavit kancelář Škoda v Severní Americe" # todo: CHANGED
+ CZE_build_skoda_office_south_america: "Postavit kancelář Škoda v Jižní Americe" # todo: CHANGED
+ CZE_build_skoda_office_middle_east: "Postavit kancelář Škoda na Blízkém východě" # todo: CHANGED
+ CZE_expand_shanghai_office: "Rozšířit kancelář Škoda v Šanghaji" # todo: CHANGED
+ CZE_ai_nations_more_likely_to_buy_weapons_tt: "§YNárody v tomto regionu budou pravděpodobněji nakupovat naše zbraně na mezinárodním trhu.§!" # todo: CHANGED
+ CZE_get_weapon_sales_idea_tt: "Tato výrobní kapacita bude po krátkém zpoždění převedena na [ROOT.GetNameDef]. Pokud bude probíhat dostatečný prodej zbraní, bude se výrobní kapacita místo toho ukládat a rozdělovat během delšího časového úseku." # todo: CHANGED
+ CZE_weapon_sale_refusal_tt: "Dostane událost '§Y[?global.CZE_selling_country.GetName] odmítá návrh§!'" # todo: CHANGED
+ CZE_get_event_fake: "Obdrží událost '$EVENT_T|Y$'." # todo: NEW TRANSLATION
+ CZE_industry_focus_title_text: "Priorita Škody" # todo: NEW TRANSLATION
+ CZE_skoda_focus_category_tt: "Společnost Škoda má výrobu prakticky ve všech sektorech zbrojního průmyslu, což poskytuje velkou flexibilitu při přesouvání zdrojů.\n\n$CZE_skoda_optimization_tier_tt$" # todo: CHANGED
+ CZE_skoda_optimization_tier_header: "£GFX_prod_eff_cap §WOptimalizační úroveň:§!" # todo: CHANGED
+ CZE_skoda_ui_no_focus_tt: "§YZaměření na těžký průmysl§!" # todo: NEW TRANSLATION
+ CZE_skoda_ui_infantry_focus_tt: "§YZaměření na pěchotu§!" # todo: NEW TRANSLATION
+ CZE_skoda_ui_plane_focus_tt: "§YZaměření na letectví§!" # todo: CHANGED
+ CZE_skoda_ui_tank_focus_tt: "§YZaměření na tanky§!" # todo: NEW TRANSLATION
+ CZE_skoda_ui_naval_focus_tt: "§YZaměření na námořnictvo§!" # todo: NEW TRANSLATION
+ CZE_skoda_ui_no_focus_selected_tt: "§YZaměření na těžký průmysl§!\n\n[SkodaGetIndustryFocusIdeaEffects]" # todo: NEW TRANSLATION
+ CZE_skoda_ui_infantry_focus_selected_tt: "§YZaměření na pěchotu§!\n\n[SkodaGetInfantryFocusIdeaEffects]" # todo: NEW TRANSLATION
+ CZE_skoda_ui_plane_focus_selected_tt: "§YZaměření na letectví§!\n\n[SkodaGetPlaneFocusIdeaEffects]" # todo: CHANGED
+ CZE_skoda_ui_tank_focus_selected_tt: "§YZaměření na tanky§!\n\n[SkodaGetTankFocusIdeaEffects]" # todo: NEW TRANSLATION
+ CZE_skoda_ui_naval_focus_selected_tt: "§YZaměření na námořnictvo§!\n\n[SkodaGetNavalFocusIdeaEffects]" # todo: NEW TRANSLATION
+ CZE_skoda_ui_naval_focus_unavailable_tt: "§YZaměření na námořnictvo§!\n\n£GFX_trigger_no Byl dokončen fokus §YRestartovat výrobu námořních děl§!" # todo: CHANGED
+ CZE_skoda_optimization_tier_tt: "Přepnutí £GFX_CZE_skoda_text_icon §YPriorita Škody§! zaměření resetuje £GFX_prod_eff_cap §Yúroveň optimalizace§! na §R1§!. Některé §YNárodní zaměření§! budou vyžadovat, abychom byli na konkrétním £GFX_CZE_skoda_text_icon §YPriorita Škody§! zaměření pro jejich dokončení. Tato zaměření jsou označena ikonou související s požadovanou prioritou." # todo: CHANGED
+ CZE_skoda_optimization_tier_var_text: "§G[?skoda_optimization_tier]§!" # todo: NEW TRANSLATION
+ CZE_skoda_optimization_tier_hover_tt: "£GFX_CZE_skoda_text_icon §YPriorita Škody§! - modifikátory zaměření jsou §Ynásobeny§! aktuální £GFX_prod_eff_cap §Yúrovní optimalizace§!\n\n£GFX_prod_eff_cap §YÚroveň optimalizace§! se bude zvyšovat v průběhu času, čím déle zůstáváme na stejném £GFX_CZE_skoda_text_icon §YPriorita Škody§! zaměření\n\nAktuální maximální §Wúroveň optimalizace: §![?skoda_max_optimization_tier|G0]" # todo: CHANGED
+ CZE_skoda_set_sptimization_tier_to_one_tt: "§WNastaví§! §Yúroveň optimalizace§! §Wna§! §R1§!\n\n" # todo: CHANGED
+ SLO_revenge_of_the_radical_wing: "Pomsta radikálního křídla" # todo: NEW TRANSLATION
+ SLO_HUN_test_SLO_in_71_decision: "Otestovat [SLO.getname] v [71.getname]" # todo: NEW TRANSLATION
+ SLO_HUN_test_SLO_in_71_decision_desc: "Útok na pozice [SLO.getname] v [71.Getname] pod záminkou žádosti o dodatečné hraniční úpravy je ideální příležitostí otestovat efektivitu naší armády v boji." # todo: CHANGED
+ SLO_little_war_warning_mission: "$PRC_border_wars_cat$" # todo: NEW TRANSLATION
+ RKH_legtimatize_the_protektorat: "Legalizovat [RKH.getnamedef]" # todo: CHANGED

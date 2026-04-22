@@ -486,36 +486,35 @@
  CHI_super_heavy_tank_destroyer_equipment_1_short: "PTZ 44"
  CHI_super_heavy_tank_equipment_1: "Typ 44"
  CHI_super_heavy_tank_equipment_1_short: "Typ 44"
- CZE_anti_air_equipment_1: "8.35 cm PL kanon vz. 22"
- CZE_anti_air_equipment_1_short: "8.35 cm PL Kanon"
- CZE_anti_air_equipment_2: "7.5 cm PL Kanon vz. 37"
- CZE_anti_air_equipment_3: "8 cm PL kanon vz. 37"
- CZE_anti_tank_equipment_1: "3,7cm KPÚV vz. 34"
- CZE_anti_tank_equipment_1_short: "3,7cm KPÚV vz. 34"
+ CZE_anti_air_equipment_1: "ZB-60" # todo: CHANGED
+ CZE_anti_air_equipment_2: "7,5 cm kanon PL vz. 37" # todo: CHANGED
+ CZE_anti_air_equipment_3: "5,7 cm PLK vz. ČS" # todo: CHANGED
+ CZE_anti_tank_equipment_1: "3,7cm KPÚV vz. 34" # todo: CHANGED NUMBER
+ CZE_anti_tank_equipment_1_short: "3,7cm vz. 37" # todo: CHANGED
  CZE_anti_tank_equipment_2: "4,7cm KPÚV vz. 38"
- CZE_anti_tank_equipment_3: "7,5cm KPÚV vz. 43"
- CZE_artillery_equipment_1: "8 cm kanón vz. 30"
- CZE_artillery_equipment_1_short: "8 cm kanon vz. 30"
- CZE_artillery_equipment_2: "10cm houfnice vz. 30"
- CZE_artillery_equipment_3: "15 cm hrubá houfnice vz. 37"
- CZE_gw_tank_equipment: "Tancik vz. 33"
- CZE_gw_tank_equipment_short: "T vz. 33"
- CZE_heavy_tank_equipment_1: "TT vz. 34"
- CZE_heavy_tank_equipment_1_short: "TT vz. 34"
- CZE_heavy_tank_equipment_2: "TT vz. 41"
- CZE_heavy_tank_equipment_2_short: "TT vz. 41"
- CZE_heavy_tank_equipment_3: "TT vz. 43"
- CZE_heavy_tank_equipment_3_short: "TT vz. 43"
- CZE_infantry_equipment_0: "Zbrojovka Brno vz.24"
- CZE_infantry_equipment_0_short: "vz.24"
- CZE_infantry_equipment_1: "Zbrojovka Brno ZH-29"
- CZE_infantry_equipment_1_short: "ZH-29"
- CZE_infantry_equipment_2: "Koucký ZK-383"
- CZE_infantry_equipment_2_short: "ZK-383"
- CZE_infantry_equipment_3: "ČZUB Sa23 vz.48"
- CZE_infantry_equipment_3_short: "Sa23 vz.48"
- CZE_light_tank_destroyer_equipment_2: "S-I deslovy"
- CZE_light_tank_destroyer_equipment_2_short: "S-I-D"
+ CZE_anti_tank_equipment_3: "6,6cm KPÚV 5/800" # todo: CHANGED
+ CZE_artillery_equipment_1: "8 cm lehký kanón vz. 30" # todo: CHANGED
+ CZE_artillery_equipment_1_short: "8 cm vz. 30" # todo: CHANGED
+ CZE_artillery_equipment_2: "10,5 cm hrubý kanón vz. 35" # todo: CHANGED
+ CZE_artillery_equipment_3: "10,5 cm hrubý kanón vz. 43" # todo: CHANGED
+ CZE_gw_tank_equipment: "Tančík vz. 33" # todo: CHANGED
+ CZE_gw_tank_equipment_short: "Tč vz. 33" # todo: CHANGED
+ CZE_heavy_tank_equipment_1: "Tatra T-III" # todo: CHANGED
+ CZE_heavy_tank_equipment_1_short: "T-III" # todo: CHANGED
+ CZE_heavy_tank_equipment_2: "TT vz. 41" # todo: CHANGED NUMBER
+ CZE_heavy_tank_equipment_2_short: "TT vz. 41" # todo: CHANGED NUMBER
+ CZE_heavy_tank_equipment_3: "Škoda T-40" # todo: CHANGED
+ CZE_heavy_tank_equipment_3_short: "T-40" # todo: CHANGED
+ CZE_infantry_equipment_0: "Zbrojovka Brno vz.98/22" # todo: CHANGED
+ CZE_infantry_equipment_0_short: "ZB vz. 98/22" # todo: CHANGED
+ CZE_infantry_equipment_1: "Zbrojovka Brno vz.24" # todo: CHANGED
+ CZE_infantry_equipment_1_short: "ZB vz.24" # todo: CHANGED
+ CZE_infantry_equipment_2: "Koucký ZK 383" # todo: CHANGED
+ CZE_infantry_equipment_2_short: "ZK 383" # todo: CHANGED
+ CZE_infantry_equipment_3: "Koucký ZK 412" # todo: CHANGED
+ CZE_infantry_equipment_3_short: "ZK 412" # todo: CHANGED
+ CZE_light_tank_destroyer_equipment_2: "Š-I-Dělový" # todo: CHANGED
+ CZE_light_tank_destroyer_equipment_2_short: "Š-I-D" # todo: CHANGED
  CZE_light_tank_destroyer_equipment_3: "T-1D"
  CZE_light_tank_destroyer_equipment_3_short: "T-1D"
  CZE_light_tank_equipment_1: "LT vz. 34"
@@ -526,17 +525,17 @@
  CZE_light_tank_equipment_3_short: "LT vz. 41"
  CZE_medium_tank_destroyer_equipment_1: "Stíhač Tanků I"
  CZE_medium_tank_destroyer_equipment_1_short: "ST-I"
- CZE_medium_tank_equipment_1: "LT vz. 38"
- CZE_medium_tank_equipment_1_short: "LT vz. 38"
- CZE_medium_tank_equipment_2: "ST vz. 39"
- CZE_medium_tank_equipment_2_short: "ST vz. 39"
- CZE_medium_tank_equipment_3: "ST vz. 43"
- CZE_medium_tank_equipment_3_short: "ST vz. 43"
- CZE_modern_tank_equipment_1: "Skoda T 50"
- CZE_modern_tank_equipment_1_short: "Skoda T 50"
- CZE_motorized_equipment_1: "Tatra T72"
- CZE_super_heavy_tank_equipment_1: "STT vz. 44 'Valdštejn'"
- CZE_super_heavy_tank_equipment_1_short: "STT vz. 44"
+ CZE_medium_tank_equipment_1: "ST vz. 39" # todo: CHANGED
+ CZE_medium_tank_equipment_1_short: "ST vz. 39" # todo: CHANGED
+ CZE_medium_tank_equipment_2: "Škoda T-23M" # todo: CHANGED
+ CZE_medium_tank_equipment_2_short: "T-23M" # todo: CHANGED
+ CZE_medium_tank_equipment_3: "Škoda T-24" # todo: CHANGED
+ CZE_medium_tank_equipment_3_short: "T-24" # todo: CHANGED
+ CZE_modern_tank_equipment_1: "TVP" # todo: CHANGED
+ CZE_modern_tank_equipment_1_short: "TVP" # todo: CHANGED
+ CZE_motorized_equipment_1: "Praga RV" # todo: CHANGED
+ CZE_super_heavy_tank_equipment_1: "OTT 'Valdštejn'" # todo: CHANGED
+ CZE_super_heavy_tank_equipment_1_short: "OTT" # todo: CHANGED
  DEN_anti_air_equipment_1: "75 mm M/32"
  DEN_anti_air_equipment_1_short: "75 mm M/32"
  DEN_anti_tank_equipment_1: "37mm Fodfolkskanon m1934"
@@ -4102,3 +4101,40 @@
  SND_infantry_equipment_3_short: "ZB vz.26"
  JAP_silver_wheels: "Stříbrná kola"
  JAP_lighter_tanks: "Návrhy lehkých tanků"
+ CZE_anti_tank_equipment_2_short: "4,7cm vz. 38" # todo: NEW TRANSLATION
+ CZE_anti_tank_equipment_3_short: "6,6cm 5/800" # todo: NEW TRANSLATION
+ CZE_anti_air_equipment_2_short: "7,5 cm vz. 37" # todo: NEW TRANSLATION
+ CZE_anti_air_equipment_3_short: "5,7 cm vz. ČS" # todo: NEW TRANSLATION
+ CZE_artillery_equipment_2_short: "10,5 cm vz. 35" # todo: NEW TRANSLATION
+ CZE_artillery_equipment_3_short: "10,5 cm vz. 43" # todo: NEW TRANSLATION
+ CZE_rocket_artillery_equipment_1: "10,5 cm RKP 1" # todo: NEW TRANSLATION
+ CZE_rocket_artillery_equipment_1_short: "RKP 1" # todo: NEW TRANSLATION
+ CZE_rocket_artillery_equipment_2: "13 cm RKP 2" # todo: NEW TRANSLATION
+ CZE_rocket_artillery_equipment_2_short: "RKP 2" # todo: NEW TRANSLATION
+ CZE_gw_armored_car_equipment: "OA vz. 27" # todo: NEW TRANSLATION
+ CZE_gw_armored_car_equipment_short: "OA vz. 27" # todo: NEW TRANSLATION
+ CZE_armored_car_equipment_1: "OA vz. 30" # todo: NEW TRANSLATION
+ CZE_armored_car_equipment_1_short: "OA vz. 30" # todo: NEW TRANSLATION
+ CZE_armored_car_equipment_2: "OA Š-971 "Jarmila"" # todo: NEW TRANSLATION
+ CZE_armored_car_equipment_2_short: "Jarmila" # todo: NEW TRANSLATION
+ CZE_armored_car_at_equipment: "OA-82 "Jarmila II"" # todo: NEW TRANSLATION
+ CZE_armored_car_at_equipment_short: "Jarmila II" # todo: NEW TRANSLATION
+ CZE_infantry_at: "Pancéřovka 27" # todo: NEW TRANSLATION
+ CZE_infantry_at2: "Tarasnice 21" # todo: NEW TRANSLATION
+ CZE_support_weapons: "ZB vz.26 & 9cm Minomet vz.17" # todo: NEW TRANSLATION
+ CZE_support_weapons2: "ZB vz.30 & 8cm Minomet vz.36" # todo: NEW TRANSLATION
+ CZE_support_weapons3: "ZB vz.33 & 9cm Minomet vz.38" # todo: NEW TRANSLATION
+ CZE_support_weapons4: "ZK 423 & 16cm minomet vz.43" # todo: NEW TRANSLATION
+ CZE_railway_gun_equipment_1: "21cm Škoda K52" # todo: NEW TRANSLATION
+ CZE_motorized_equipment_0: "Praga AN" # todo: NEW TRANSLATION
+ CZE_mechanized_equipment_1: "Praga T-9" # todo: NEW TRANSLATION
+ CZE_mechanized_equipment_1_short: "T-9" # todo: NEW TRANSLATION
+ CZE_mechanized_equipment_2: "Tatra OT-PTT" # todo: NEW TRANSLATION
+ CZE_mechanized_equipment_2_short: "OT-PTT" # todo: NEW TRANSLATION
+ CZE_mechanized_equipment_3: "Praga V3S-O" # todo: NEW TRANSLATION
+ CZE_mechanized_equipment_3_short: "V3S-O" # todo: NEW TRANSLATION
+ CZE_motorized_rocket_equipment_1: "130mm Raketomet RK-2" # todo: NEW TRANSLATION
+ CZE_motorized_rocket_equipment_1_short: "130mm RK-2" # todo: NEW TRANSLATION
+ CZE_train_equipment_1: "Lokomotiva 387" # todo: NEW TRANSLATION
+ CZE_train_equipment_2: "Lokomotiva 534" # todo: NEW TRANSLATION
+ CZE_train_equipment_3: "Lokomotiva 376 Obrněný" # todo: NEW TRANSLATION

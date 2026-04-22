@@ -216,3 +216,7 @@
  synthetic_refinery_desc: "Tato budova poskytuje státu"
  synthetic_refinery_plural: "Syntetické rafinérie"
  synthetic_refinery_resource: "£resources_strip|$FRAME$"
+ landmark_prague_castle: "Pražský hrad" # todo: NEW TRANSLATION
+ landmark_prague_castle_desc: "Starobylý Pražský hrad, největší svého druhu na světě, sloužil po staletí jako rezidence králů, císařů a nyní konečně prezidentů Československa. Jeho vnější podoba jasně ukazuje, že nejde o obrannou stavbu, ale o symbol moci, evokující velkolepé paláce. Za jeho vnějšími hradbami se přitom nachází největší kostel v Československu, dokončený v roce 1926." # todo: NEW TRANSLATION
+ landmark_bojnice_castle: "Bojnický zámek" # todo: NEW TRANSLATION
+ landmark_bojnice_castle_desc: "Bojnický zámek kdysi hostil maďarské krále a další vysoce postavenou šlechtu, ale od svého oddělení od Maďarska v roce 1920 slouží jako jedna z nejkrásnějších staveb na Slovensku." # todo: NEW TRANSLATION

@@ -1459,7 +1459,7 @@
  MODIFIER_SPECIAL_FORCES_OUT_OF_SUPPLY_FACTOR_DESC: "Snižuje penalizaci na organizaci a obnovu, kterou naše speciální síly zažívají, když jim dojdou zásoby."
  MODIFIER_SPECIAL_FORCES_OUT_OF_SUPPLY_FACTOR: "Penalizace za nedostatek zásob mimo boj"
  MODIFIER_SPECIAL_FORCES_TRAINING_TIME_FACTOR: "Délka výcviku speciálních sil"
- MODIFIER_SPECIAL_PROJECT_FACILITY_SUPPLY_CONSUMPTION_FACTOR: "Spotřeba zásob zařízení: $FACTOR$"
+ MODIFIER_SPECIAL_PROJECT_FACILITY_SUPPLY_CONSUMPTION_FACTOR: "Spotřeba zásob zařízení$FACTOR$" # todo: CHANGED
  MODIFIER_SPECIAL_PROJECT_SPEED_FACTOR: "Rychlost speciálního projektu"
  MODIFIER_SPOTTING_CHANCE_FACTOR: "Rychlost rozpoznání"
  MODIFIER_SPOTTING_CHANCE_MODIFIER: "Modifikátor rychlosti rozpoznání: "
@@ -1982,7 +1982,7 @@
  naval_strike_targetting_factor_tt: " $MODIFIER_NAVAL_STRIKE_TARGETTING_FACTOR$: $RIGHT|+=%1$"
  naval_torpedo_reveal_chance_factor_tt: " $MODIFIER_NAVAL_TORPEDO_REVEAL_CHANCE_FACTOR$: $RIGHT|-=%1$"
  navy_anti_air_attack_factor_tt: " $MODIFIER_NAVY_ANTI_AIR_ATTACK_FACTOR$: $RIGHT|+=%1$"
- navy_capital_ship_defence_factor_tt: " $MODIFIER_NAVY_CAPITAL_SHIP_DEFENCE_FACTOR$: $RIGHT|+=%1$"
+ navy_capital_ship_defence_factor_tt: " $MODIFIER_NAVY_CAPITAL_SHIP_DEFENCE_FACTOR$: $RIGHT|+=%1$" # todo: CHANGED NUMBER
  navy_capital_ship_defence_tt: " $MODIFIER_NAVY_CAPITAL_SHIP_DEFENCE_FACTOR$: $RIGHT|+=%1$"
  navy_capital_ship_defense_factor_tt: "$MODIFIER_NAVY_CAPITAL_SHIP_DEFENCE_FACTOR$: $RIGHT|+=%1$"
  navy_chief_cost_factor: "Náklady na námořního velitele"
@@ -2517,3 +2517,28 @@
  MODIFIER_ENERGY_SCALE_PER_TRADE_FACTORY_EXPORT_FACTOR: "Vliv obchodu na spotřebu energie továrny"
  MODIFIER_LOCAL_FACTORY_ENERGY_CONSUMPTION_PER_INFRASTRUCTURE: "Požadavky továren na energii za jednotku infrastruktury"
  MODIFIER_LOCAL_RESOURCE_GAIN_EFFICIENCY_PER_INFRASTRUCTURE: "Zisk surovin za jednotku infrastruktury"
+ cat_fortification_research: "$cat_fortification$ Rychlost výzkumu" # todo: NEW TRANSLATION
+ hospital_tech_research: "$field_hospital$ Rychlost výzkumu" # todo: NEW TRANSLATION
+ experience_gain_army_unit_factor_tt: " $MODIFIER_XP_GAIN_ARMY_UNIT_FACTOR$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
+ modifier_out_of_power_impact_factor_tt: " $MODIFIER_OUT_OF_POWER_FACTOR$: $RIGHT|+=%2$" # todo: NEW TRANSLATION
+ modifier_production_speed_energy_infrastructure_factor: "§Y$energy_infrastructure$§! rychlost výstavby" # todo: NEW TRANSLATION
+ modifier_production_speed_energy_infrastructure_factor_desc: "Upravuje rychlost výstavby Reinforced Electrical Grid." # todo: NEW TRANSLATION
+ production_speed_energy_infrastructure_factor_tt: " $modifier_production_speed_energy_infrastructure_factor$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
+ modifier_production_speed_industrial_infrastructure_factor: "§Y$industrial_infrastructure$§! rychlost výstavby" # todo: NEW TRANSLATION
+ modifier_production_speed_industrial_infrastructure_factor_desc: "Upravuje rychlost výstavby High Capacity Electrical Grid." # todo: NEW TRANSLATION
+ production_speed_industrial_infrastructure_factor_tt: " $modifier_production_speed_industrial_infrastructure_factor$: $RIGHT|+=%1$" # todo: NEW TRANSLATION
+ navy_submarine_defence_factor_tt: " $MODIFIER_NAVY_SUBMARINE_DEFENCE_FACTOR$: $RIGHT|+=2%$" # todo: NEW TRANSLATION
+ navy_capital_ship_attack_factor_tt: " $MODIFIER_NAVY_CAPITAL_SHIP_ATTACK_FACTOR$: $RIGHT|+=%2$" # todo: NEW TRANSLATION
+ modifier_repair_speed_bunker_factor: "Rychlost opravy pozemního opevnění" # todo: NEW TRANSLATION
+ modifier_state_repair_speed_bunker_factor: "Místní §Y$bunker$§! rychlost opravy" # todo: NEW TRANSLATION
+ modifier_state_repair_speed_bunker_factor_desc: "Upravuje rychlost opravy $bunker$ v tomto státě" # todo: NEW TRANSLATION
+ modifier_state_repair_speed_supply_node_factor: "Místní §Y$supply_node$§! rychlost opravy" # todo: NEW TRANSLATION
+ modifier_state_repair_speed_supply_node_factor_desc: "Upravuje rychlost opravy $supply_node$ v tomto státě" # todo: NEW TRANSLATION
+ modifier_state_repair_speed_infrastructure_factor: "Místní §Y$infrastructure$§! rychlost opravy" # todo: NEW TRANSLATION
+ modifier_state_repair_speed_infrastructure_factor_desc: "Upravuje rychlost opravy $infrastructure$ v tomto státě" # todo: NEW TRANSLATION
+ modifier_state_production_speed_stronghold_network_factor: "§Y$stronghold_network$§! rychlost výstavby" # todo: NEW TRANSLATION
+ modifier_state_production_speed_stronghold_network_factor_desc: "Upravuje rychlost výstavby §Y$stronghold_network$§! v tomto státě." # todo: NEW TRANSLATION
+ truck_attrition_factor_tt: "$MODIFIER_TRUCK_ATTRITION_FACTOR$: $RIGHT|-=%1$" # todo: NEW TRANSLATION
+ unit_artillery_brigade_design_cost_factor_tt: " $modifier_unit_artillery_brigade_design_cost_factor$: $RIGHT|-=%2$" # todo: NEW TRANSLATION
+ modifier_field_officer_promotion_penalty_tt: "$MODIFIER_FIELD_OFFICER_PROMOTION_PENALTY$: $RIGHT|-=%1$" # todo: NEW TRANSLATION
+ sp_land_large_caliber_kinetic_energy_sabot_speed_factor: "Rychlost výzkumu kinetického sabotového střeliva velkého ráže" # todo: NEW TRANSLATION

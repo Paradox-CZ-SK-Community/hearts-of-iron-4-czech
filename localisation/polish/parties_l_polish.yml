@@ -392,12 +392,12 @@
  CUB_democratic_party: "Union"
  CZE_communism_party_long: "Komunistická strana Československa"
  CZE_communism_party: "KSČ"
- CZE_democratic_party_long: "Česká strana národně sociální"
- CZE_democratic_party: "ČSNS"
+ CZE_democratic_party_long: "RSZML vedle Široké Koalice" # todo: CHANGED
+ CZE_democratic_party: "Široká Koalice" # todo: CHANGED
  CZE_fascism_party_long: "Národní obec fašistická"
  CZE_fascism_party: "NOF"
- CZE_neutrality_party_long: "Republikánská strana zemědělského a malorolnického lidu"
- CZE_neutrality_party: "RSZML"
+ CZE_neutrality_party_long: "HSĽS-SNS-Autonomní Zemědělský Svaz-Polská strana v Československu" # todo: CHANGED
+ CZE_neutrality_party: "Autonomistický Blok" # todo: CHANGED
  DAG_communism_party_long: "Dagestánská bolševická strana"
  DAG_communism_party: "DBP"
  DAG_democratic_party_long: "Lidové shromáždění Dagestánu"
@@ -1622,3 +1622,15 @@
  warlord_monarchy_fascism_party_long: "Poradní sbor vlády"
  warlord_monarchy_neutrality_party: "Kuo-chuej"
  warlord_monarchy_neutrality_party_long: "Národní shromáždění"
+ RUT_democratic_party: "UNO" # todo: NEW TRANSLATION
+ RUT_democratic_party_long: "Ukrajinský národní svaz" # todo: NEW TRANSLATION
+ RUT_neutrality_party: "RNP" # todo: NEW TRANSLATION
+ RUT_neutrality_party_long: "Ruská národní strana" # todo: NEW TRANSLATION
+ RUT_fascism_party: "RNAP" # todo: NEW TRANSLATION
+ RUT_fascism_party_long: "Ruská národně-autonomní strana" # todo: NEW TRANSLATION
+ GAL_communism_party: "SPG" # todo: NEW TRANSLATION
+ GAL_communism_party_long: "Sociálně demokratická strana Haliče" # todo: NEW TRANSLATION
+ CZE_neutrality_party_monarchist: "Dům Schwarzenbergů" # todo: NEW TRANSLATION
+ CZE_neutrality_party_placeholder: "Česká strana národně sociální" # todo: NEW TRANSLATION
+ CZE_neutrality_party_national_unity: "Strana národní jednoty" # todo: NEW TRANSLATION
+ CZE_democratic_party_second_republic: "Národní strana práce" # todo: NEW TRANSLATION

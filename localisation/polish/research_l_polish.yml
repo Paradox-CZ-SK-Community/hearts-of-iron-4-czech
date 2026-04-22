@@ -1344,3 +1344,5 @@
  RESEARCH_SHARING_VALUE_SCIENTISTS: "$VALUE|H1%$"
  naval_minelaying_research: "Výzkum pokládání min"
  naval_minelaying_research_desc: "Vývoj v oblasti magnetické detekce a stabilních zdrojů zapalování pro námořní výbušniny."
+ sp_advance_sabot_shells: "Pokročilé sabotové střely" # todo: NEW TRANSLATION
+ sp_advance_sabot_shells_desc: "Dodatečné prostředky věnované výzkumu průbojné munice nám poskytly poznatky, jak zlepšit stabilizaci sabotových střel v široké škále použití." # todo: NEW TRANSLATION
