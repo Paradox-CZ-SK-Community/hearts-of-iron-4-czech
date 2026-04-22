@@ -899,3 +899,5 @@
  ustasa_crushed: "Ustašovci byli poraženi"
  vojvodina_create_one_units_tt: "(§YVojvodina§!) Vytvořit §Y1 milici§!."
  yug_extreme_bravery_medal: "§Y[ROOT.GetNameDefCap]§! bude schopen udělit §YMedaili za extrémní odvahu§! §Ypolním velitelům§!."
+ CZE_healing_a_divided_nation: "Uzdravení rozděleného národa"
+ CZE_healing_a_divided_nation_desc: "Lidé naší země nyní vědí, že pokud jde o jejich svobodu, naše slova jsou podložena činy. Konečně můžeme zacelit některé rány, které naši zemi hluboce rozdělovaly."
