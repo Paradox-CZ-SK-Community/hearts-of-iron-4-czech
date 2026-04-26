@@ -611,7 +611,7 @@
  MODIFIER_CAS_AGILITY: "Obratnost letecké podpory"
  MODIFIER_CAS_ATTACK_FACTOR: "Útok letecké podpory"
  MODIFIER_CAS_ATTACK: "Útok letecké podpory"
- MODIFIER_CAS_DAMAGE_REDUCTION: "Snížení poškození proti letecké podpore"
+ MODIFIER_CAS_DAMAGE_REDUCTION: "Snížení poškození proti letecké podpoře"
  MODIFIER_CAS_DEFENCE_FACTOR: "Obrana letecké podpory"
  MODIFIER_CAS_DEFENCE: "Obrana letecké podpory"
  MODIFIER_CAVALRY_ATTACK_FACTOR: "Útok kavalerie"
