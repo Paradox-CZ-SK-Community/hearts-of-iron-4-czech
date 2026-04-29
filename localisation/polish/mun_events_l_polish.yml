@@ -324,3 +324,5 @@
  MUN_slovakia.news.1.desc: "Navzdory tomu, že [HUN.GetNameDef] znovu ovládá [664.GetName], které jim přidělila $GER_first_vienna_award$, se stále snaží o další úpravy hranic, a útočí na [71.GetName].\n\nTento konflikt se zdá být záminkou, jak si [HUN.GetNameDef] chce vyzkoušet sílu své armády proti mnohem slabšímu protivníkovi. Mladá [SLO.GetAdjective] armáda možná ještě není připravena čelit výzvě, která před ní stojí."
  MUN_slovakia.news.1.a: "Jako hašteřící se děti."
  MUN_slovakia.news.1.b: "Jsme na tento úkol připraveni."
+ MUN_czech.1056.t: "[FROM.GetName] požaduje [975.GetName]" # todo: NEW TRANSLATION
+ MUN_czech.1056.d: "Stejně jako kdysi navrhováno na Pařížské mírové konferenci po Velké válce, [CZE.GetNameDef] oznámila, že považuje koridor ke svému spojenci, [YUG.GetNameDef], za nezbytný pro bezpečnost jejich aliance. Aby toho dosáhli, [FROM.GetAdjective] zástupci předali ultimátum, které požaduje, abychom postoupili [975.GetName]." # todo: NEW TRANSLATION
