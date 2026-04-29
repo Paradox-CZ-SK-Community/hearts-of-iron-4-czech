@@ -50,8 +50,9 @@
  CZE_nationalist_protests: "Protesty nacionalistů"
  CZE_rut_comprise_agreement_modifier: "Smlouva o autonomii pro Karpatskou Ukrajinu"
  CZE_improve_cross_border_rail_connections_modifier: "Zlepšování přeshraničních železničních spojení"
- CZE_taticek_of_czechoslovakia: "Tatíček Masaryk" # todo: CHANGED
- CZE_taticek_of_czechoslovakia_desc: "Tomáš Masaryk, často nazývaný 'Tatíček Masaryk', což znamená 'tatíček' nebo 'otec' (národa), byl od svého vzniku pevnou oporou československého národa. Když se zdálo, že sestavit koalici je nemožné a politické impasy nepřekonatelné, Masaryk znovu a znovu dokázal politické zázraky, které pomohly posílit a rozšířit Československo. I v důchodu jsou jeho názory a doporučení politickému vedení vnímány spíše jako rozkazy než rady." # todo: CHANGED
+ CZE_taticek_of_czechoslovakia: "Tatíček Masaryk"
+ CZE_taticek_of_czechoslovakia: "Tatíček Masaryk"
+ CZE_taticek_of_czechoslovakia_desc: "Tomáš Masaryk, často nazývaný „Tatíček Masaryk“, ve smyslu „otec národa“, byl od založení státu jedním ze základních pilířů československého národa. Když se zdálo nemožné sestavit koalice a politické patové situace byly příliš hluboké, Masaryk znovu a znovu dokázal vykonat politické zázraky, které pomáhaly Československo posilovat a rozvíjet. I v důchodu jsou jeho názory a doporučení politickému vedení vnímány spíše jako rozkazy než rady."
  CZE_industrialists_veto: "Veto průmyslníků"
  CZE_industrialists_veto_desc: "Průmyslníci mají v politice země značný vliv, neboť stojí v čele mnoha největších [CZE.GetAdjective] koncernů. Jejich obavy nelze v otázkách hospodářské politiky ignorovat a hospodářská mobilizace patří mezi opatření, proti nimž by se stavěli nejtvrději."
  CZE_agrarian_politics_1: "Agrární politika"
@@ -218,5 +219,5 @@
  CZE_skoda_tanks_focus_optimization_idea: "Priorita Škody: Zaměření na tanky"
  CZE_skoda_planes_focus_optimization_idea: "Priorita Škody: Zaměření na letadla"
  CZE_skoda_naval_focus_optimization_idea: "Priorita Škody: Námořní zaměření"
- CZE_emergency_measures_idea: "$CZE_emergency_measures$" # todo: NEW TRANSLATION
- CZE_wielding_the_hammer_idea: "Ovládnutí parlamentu" # todo: NEW TRANSLATION
+ CZE_emergency_measures_idea: "$CZE_emergency_measures$"
+ CZE_wielding_the_hammer_idea: "Ovládnutí zákonodárství"

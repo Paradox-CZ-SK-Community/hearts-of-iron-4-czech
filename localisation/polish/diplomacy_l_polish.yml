@@ -586,7 +586,7 @@
  DIPLOMACY_NO_FACTION: "§TŽádná frakce§!"
  DIPLOMACY_NO_POLITICAL_POWER: "Nemáme žádnou politickou sílu"
  DIPLOMACY_NO_WARGOAL: "Nebyl vybrán žádný válečný cíl"
- DIPLOMACY_NUMBER_FOREIGN_MANPOWER_SENT: "Poslat $MANPOWER|H$ personálu pro $COUNTRY|H$." # tu som skončil
+ DIPLOMACY_NUMBER_FOREIGN_MANPOWER_SENT: "Poslat $MANPOWER|H$ personálu pro $COUNTRY|H$."
  DIPLOMACY_OFFER_AIR_BASE_ACCESS_ACTION_DESC: "Nabídnout možnost využívat naše letecké základny."
  DIPLOMACY_OFFER_AIR_BASE_ACCESS_DESC: "Nabídka přístupu na letecké základny umožní jejich letadlům operovat z našich základen."
  DIPLOMACY_OFFER_AIR_BASE_ACCESS_REQUEST_DESC: "$COUNTRY|UY$ navrhuje, aby naše letadla mohla využívat jejich letecké základny."
@@ -595,7 +595,7 @@
  DIPLOMACY_OFFER_DOCKING_RIGHTS_DESC: "Nabídka práv kotvení umožní jejich námořnictvu doplňovat zásoby v našich přístavech."
  DIPLOMACY_OFFER_DOCKING_RIGHTS_REQUEST_DESC: "$COUNTRY|UY$ nám navrhuje, aby naše námořnictvo mohlo doplňovat zásoby v jejich přístavech."
  DIPLOMACY_OFFER_DOCKING_RIGHTS_TITLE: "Nabídnout práva kotvení"
- DIPLOMACY_OFFER_FACTION_AT_WAR_WITH: "$NAME|Y$, člen frakce $FACTION$, je s námi ve válce." #
+ DIPLOMACY_OFFER_FACTION_AT_WAR_WITH: "$NAME|Y$, člen frakce $FACTION$, je s námi ve válce."
  DIPLOMACY_OFFER_JOIN_FACTION_ACTION_DESC: "Pozvat je do naší frakce."
  DIPLOMACY_OFFER_JOIN_FACTION_ACTION_DETAILED_DESC: "Připravované převraty mezi vámi a nimi budou automaticky zrušeny, pokud vstoupí do vaší frakce"
  DIPLOMACY_OFFER_JOIN_FACTION_DESC: "Pozvat zemi $COUNTRY|UH$ do frakce $FACTION|H$. To umožní vzájemné povolávání do války. Vůdcem frakce je $LEADER|H$.\nPokud byli mezi členy frakce vysláni nebo přijati dobrovolníci, budou vráceni."
@@ -1073,7 +1073,7 @@
  LEND_LEASE_DETAILS_HEADER: "§gVybavení : Požadováno / Vyrobeno / Přepraveno§!"
  LEND_LEASE_DETAILS_NEXT_DELIVERY_ASAP: "Další dodávka očekávána §Ykdykoli§!."
  LEND_LEASE_DETAILS_NEXT_DELIVERY_DATE: "Další dodávka očekávána za $DAY|Y$ dní."
- LEND_LEASE_DETAILS_TOTAL_SINCE: "Celkem dodané vybavení od $DATE|Y$:\n" # tu som skončil
+ LEND_LEASE_DETAILS_TOTAL_SINCE: "Celkem dodané vybavení od $DATE|Y$:\n"
  LEND_LEASE_INFANTRY_BUTTON: "§TLend-Lease pěchoty a dělostřelectva§!"
  LEND_LEASE_INFANTRY_BUTTON_DISABLED: "§TNeprodukujeme pěchotní ani dělostřelecké vybavení ani nemáme žádné na skladě§!"
  LEND_LEASE_NAVAL_BUTTON: "§TLend-Lease konvojů§!"

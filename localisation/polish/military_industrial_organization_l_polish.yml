@@ -1596,7 +1596,7 @@
  mio_header_medium_tank_destroyers_department: "Oddělení středních stíhačů tanků"
  mio_header_heavy_tank_destroyers_department: "Oddělení těžkých stíhačů tanků"
  mio_header_tank_production: "Výroba tanků"
- JAP_nippon_sharyo_organization: "Nippon Sharyō Seizō Kaisha" # todo: CHANGED
+ JAP_nippon_sharyo_organization: "Nippon Sharyō Seizō Kaisha"
  FRA_mio_trait_scam_facilities: "Továrny SACM"
  ITA_ansaldo_train_organization: "$AUS_ansaldo_organization$"
  CZE_praga_aviation_organization: "Letadlové oddělení $CZE_praga$"

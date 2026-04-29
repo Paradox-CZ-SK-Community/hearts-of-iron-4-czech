@@ -367,8 +367,8 @@
  CZE_cooperate_with_the_sdp_desc: "Ačkoli je SdP destabilizační silou, při správném povzbuzení může zaujmout loajální postoj, například začleněním do vládní koalice."
  CZE_revive_the_december_bloc: "Obnovit Prosincový blok"
  CZE_revive_the_december_bloc_desc: "Prosincový blok fašistických, menšinových a pravicových stran, který se stavěl proti zvolení Edvarda Beneše prezidentem, by měl být obnoven jako alternativa k současné vládě."
- CZE_revert_1926_anti_military_laws: "Zrušit protivojenské zákony z roku 1926" # todo: CHANGED NUMBER
- CZE_revert_1926_anti_military_laws_desc: "Po pokusu o převrat, který vedl $CZE_radola_gajda$, přišla armáda a četnictvo o volební právo i některá další privilegia. Vzhledem ke klíčové roli armády v těchto těžkých časech je spravedlivé tato omezení odstranit a ukončit rozdělení mezi armádou a politikou."
+ CZE_revert_1926_anti_military_laws: "Zrušit protivojenské zákony z roku 1927"
+ CZE_revert_1926_anti_military_laws_desc: "Po pokusu o převrat, který vedl $CZE_radola_gajda$, přišla armáda a četnictvo o volební právo i některá další privilegia. Vzhledem ke klíčové roli armády v těchto těžkých časech je spravedlivé tato omezení odstranit a ukončit odluku mezi armádou a politikou."
  CZE_bop_to_fascism_support_tt: "Přidá třetinu hodnoty §Y$CZE_bop_army_readiness$§! k podpoře fašismu:"
  CZE_power_to_the_military: "Moc pro armádu"
  CZE_power_to_the_military_desc: "Je zřejmé, že při obraně národa nelze šetřit žádnými prostředky. Proto je zásadní, aby ti u moci rozuměli potřebám armády, a není lepšího způsobu, jak toho dosáhnout, než vojenskou vládou."
@@ -449,9 +449,9 @@
  CZE_enlarge_smaller_wells_desc: "Navzdory své velikosti mohou naše menší vrty produkovat mnohem více než nepatrné množství ropy, které těží nyní. Stačí investovat čas a prostředky."
  CZE_develop_sudetenland_resources: "Rozvíjet sudetské zdroje"
  CZE_develop_sudetenland_resources_desc: "Sudety mají mnoho ložisek surovin, která nyní nevyužíváme. Byla by chyba neinvestovat do budování dalších dolů v této oblasti."
- CZE_grow_tatras_capabilities: "Posílit schopnosti Tatry" # todo: CHANGED
- CZE_grow_tatras_capabilities_desc: "Současně malé oddělení tanků Tatry má několik nových výrobních návrhů. Poskytnutí dodatečných prostředků jim umožní pokračovat ve zlepšování konstrukce obrněných vozidel." # todo: CHANGED
- CZE_bailout_moser: "Zachránit Mosera" # todo: CHANGED
+ CZE_grow_tatras_capabilities: "Rozšířit schopnosti Tatry"
+ CZE_grow_tatras_capabilities_desc: "Dosud malé tankové oddělení Tatry má několik novátorských výrobních návrhů. Poskytnutí dalších zdrojů jim umožní pokračovat v pokroku při vývoji obrněných vozidel."
+ CZE_bailout_moser: "Zachránit Mosera"
  CZE_bailout_moser_desc: "Moser se po Velké hospodářské krizi ocitl v těžkých časech. Jeho podniky je třeba zachránit, závody znovu otevřít a propuštěné pracovníky vrátit do zaměstnání."
  CZE_merge_skodas_consumer_good_plants: "Sloučit spotřební závody Škody"
  CZE_merge_skodas_consumer_good_plants_desc: "Škoda má ve svém portfoliu mnoho menších závodů na spotřební zboží, které nejsou centralizované. Jejich sloučení by pomohlo optimalizovat výrobu v mnoha oblastech těchto podniků a mohlo by mít pozitivní dopady i na Škodu jako celek."
@@ -634,9 +634,9 @@
  GER_integrate_czech_manufacturers_desc: "Průmysl nacházející se v Čechách je zlatým dolem výrobních zkušeností a průmyslových zdrojů pro naši ekonomiku. Dodatečná průmyslová síla českých výrobců by výrazně posílila náš zbrojní průmysl. Dává dokonalý smysl začlenit je do našich výrobních linek."
  GER_integrate_czech_manufacturers_no_aat_tt: "§GDostupné§! jako §YKonstruktér techniky§!:\n§Y$CZE_skoda_works_german_organization$§!, §Y$CZE_bohmische_mahrische_maschinenfabrik_ag_german_organization$§!, §Y$CZE_zlin_aircraft_organization$§! a §Y$CZE_ceska_zbrojovka_uhersky_brod_organization$§!"
  CZE_unlocks_sokolov_raid_pfot_tt: "Odemkne §YVýsadkový úder§! na §YFalknov§!"
- CZE_wielding_the_hammer: "Vzít kladivo do ruky" # todo: NEW TRANSLATION
- CZE_wielding_the_hammer_desc: "Můžeme využít naší supervětšiny v Národním shromáždění, abychom proces schvalování zákonů zrychlili daleko více, než tomu je nyní. Je naprosto důležité dát náš zákonodárný orgán do pořádku." # todo: NEW TRANSLATION
- CZE_emergency_measures: "Nouzová opatření" # todo: NEW TRANSLATION
- CZE_emergency_measures_desc: "Nasazením nouzových opatření, která nám pomohou řešit mnohé krize, jimž naše země čelí, a současně využitím některých z těchto opatření k přísnějšímu dohledu nad těmi, kteří mohou být ideologicky nespolehliví vůči naší vládě, budeme lépe vybaveni čelit těmto výzvám." # todo: NEW TRANSLATION
- CZE_demand_the_czech_corridor: "Požadovat český koridor" # todo: NEW TRANSLATION
- CZE_demand_the_czech_corridor_desc: "Jak budujeme Malou dohodu v řádné spojenectví, stává se stále zřejmějším, že přesuny našich jednotek k spojencům nebo přijímání jejich jednotek by mohly být v případě konfliktu velmi obtížné. Mít pás území spojující naši zemi a [YUG.GetNameDef], jako to bylo navrženo po Velké válce, by mohlo zlepšit naši bezpečnost a ochránit náš obchod." # todo: NEW TRANSLATION
+ CZE_wielding_the_hammer: "Třímat kladivo"
+ CZE_wielding_the_hammer_desc: "Můžeme využít naši ústavní většinu v Národním shromáždění a výrazně urychlit schvalování zákonů oproti současnému stavu. Je nanejvýš důležité uvést náš zákonodárný sbor do pořádku."
+ CZE_emergency_measures: "Nouzová opatření"
+ CZE_emergency_measures_desc: "Zavedením nouzových opatření, která nám pomohou vypořádat se s mnoha krizemi, jimž naše země čelí, a zároveň využitím některých z nich k pečlivějšímu dohledu nad těmi, kteří mohou být vůči naší vládě ideologicky nespolehliví, budeme lépe připraveni čelit výzvám před námi."
+ CZE_demand_the_czech_corridor: "Požadovat český koridor"
+ CZE_demand_the_czech_corridor_desc: "Jak přetváříme Malou dohodu ve skutečnou alianci, je stále zjevnější, že přesun vojsk k našim spojencům či přijetí jejich jednotek by v případě konfliktu mohl být velmi obtížný. Mít pruh území, kterým bude spojena naše země a [YUG.GetNameDef], jako to bylo navrženo již po Velké válce, by mohlo zvýšit naši bezpečnost a zajistit náš obchod."

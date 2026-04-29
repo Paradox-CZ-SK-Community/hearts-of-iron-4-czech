@@ -124,7 +124,7 @@
  MUN_czech.1025.a: "Doufejme, že tyto poznatky nebudeme muset využít doma"
  MUN_czech.1026.t: "[FROM.GetName] odmítá návrh"
  MUN_czech.1026.a: "Jejich ztráta"
- MUN_czech.1026.b: "Znepokojivý vývoj" # tu som skončil
+ MUN_czech.1026.b: "Znepokojivý vývoj"
  MUN_czech.1026.france_refuses_to_lead: "Navzdory nabídke vedoucí úlohy výměnou za vstup do naší aliance, kterou má [FROM.GetNameDef] na svém stole, se rozhodli ji nepřijmout. Zdá se, že se snaží zůstat neutrální, nebo si jen kupují čas."
  MUN_czech.1026.sphere_of_influence: "Ačkoli nás členové [FROM.GetAdjective] vlády ujistili, že si naší účasti ve frakci [ROOT.GetFactionName] váží, uvedli, že rozšiřování našeho vlivu na Balkán by zašlo příliš daleko a mohlo by odradit potenciální spojence."
  MUN_czech.1026.guarantee: "Naši diplomaté hlásí, že navzdory svému úsilí [FROM.GetNameDef] nesouhlasí s naším návrhem smlouvy o vzájemné obraně. Zdá se, že odhadují, že jsme ohroženi více než oni; doufejme, že se mýlí."
@@ -229,7 +229,7 @@
  MUN_czech.1050.d: "Naši diplomaté se vrátili se zklamáním: [FROM.GetNameDef] naši žádost o vstup do jejich aliance zamítá. Ačkoli důvody nejsou jasné, ocitli jsme se nyní v obtížné situaci, kdy jsme odhalili své obavy z tradičních spojenců, aniž bychom získali nové."
  MUN_czech.1050.a: "Pak bychom měli nabídnout výhodnější podmínky"
  MUN_czech.1050.b: "Hledejme si lepší spojence"
- MUN_czech.1051.t: "[FROM.GetName] požaduje svoji sféru vlivu" # tu som skončil
+ MUN_czech.1051.t: "[FROM.GetName] požaduje svoji sféru vlivu"
  MUN_czech.1051.d: "Náš nový spojenec vyjádřil zájem rozšířit svůj vliv za své hranice. [FROM.GetNameDef] proto žádá o svolení a podporu pro tuto expanzi, při níž má být stanovena jasná hranice mezi oblastmi, které bude ovládat [ROOT.GetNameDef] a které budou pod [FROM.GetAdjective] vlivem."
  MUN_czech.1051.a: "Měli bychom posílit našeho klíčového [FROM.GetAdjective] spojence"
  MUN_czech.1052.t: "[FROM.GetName] žádá, abychom umožnili průchod [SOV.GetAdjective] vojskům"
@@ -324,5 +324,5 @@
  MUN_slovakia.news.1.desc: "Navzdory tomu, že [HUN.GetNameDef] znovu ovládá [664.GetName], které jim přidělila $GER_first_vienna_award$, se stále snaží o další úpravy hranic, a útočí na [71.GetName].\n\nTento konflikt se zdá být záminkou, jak si [HUN.GetNameDef] chce vyzkoušet sílu své armády proti mnohem slabšímu protivníkovi. Mladá [SLO.GetAdjective] armáda možná ještě není připravena čelit výzvě, která před ní stojí."
  MUN_slovakia.news.1.a: "Jako hašteřící se děti."
  MUN_slovakia.news.1.b: "Jsme na tento úkol připraveni."
- MUN_czech.1056.t: "[FROM.GetName] požaduje [975.GetName]" # todo: NEW TRANSLATION
- MUN_czech.1056.d: "Stejně jako kdysi navrhováno na Pařížské mírové konferenci po Velké válce, [CZE.GetNameDef] oznámila, že považuje koridor ke svému spojenci, [YUG.GetNameDef], za nezbytný pro bezpečnost jejich aliance. Aby toho dosáhli, [FROM.GetAdjective] zástupci předali ultimátum, které požaduje, abychom postoupili [975.GetName]." # todo: NEW TRANSLATION
+ MUN_czech.1056.t: "[FROM.GetName] požaduje [975.GetName]"
+ MUN_czech.1056.d: "Stejně jako kdysi navrhováno na Pařížské mírové konferenci po Velké válce, [CZE.GetNameDef] oznamuje, že považuje koridor ke svému [YUG.GetNameDef] spojenci za nezbytný pro bezpečnost jejich aliance. Aby toho dosáhli, [FROM.GetAdjective] zástupci předali ultimátum, které požaduje, abychom jim postoupili [975.GetName]."

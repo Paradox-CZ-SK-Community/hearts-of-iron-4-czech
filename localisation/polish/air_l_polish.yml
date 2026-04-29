@@ -419,7 +419,7 @@
  REMOVE_FROM_AIR_GROUP: "Odebrat výběr z letecké skupiny"
  REMOVE_MINES_EFFECT: "Odstranit $NUM|H$ min z oblasti $REGION|H$"
  RESERVES_TOOLTIP: "Rezervy obsahují letadla, která nejsou využívána. Vyberte leteckou základnu a klikněte na Vytvořit novou letku pro jejich nasazení."
- ROCKETBASE_ROCKETS_KNOWN: "Kapacita: $VALUE|H$/$CAPACITY|H$ raket/střel" #
+ ROCKETBASE_ROCKETS_KNOWN: "Kapacita: $VALUE|H$/$CAPACITY|H$ raket/střel"
  ROCKETSITE_CAN_PRODUCE: "\n§gPřekročení kapacity omezí efektivitu raket a zastaví výrobu nových raket na tomto místě.§!"
  ROCKETSITE_CAPACITY_FULL: "Tato raketová základna pracuje s efektivitou $PERC|%0R$ kvůli příliš velkému množství raket ve skladu."
  ROCKETSITE_CAPACITY_OK: "Tato raketová základna je plně funkční a má $CURR|H$ z maximálně $MAX|H$ raket."
