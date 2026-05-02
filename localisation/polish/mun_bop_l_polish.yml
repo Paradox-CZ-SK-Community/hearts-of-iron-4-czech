@@ -10,4 +10,4 @@
  CZE_bop_army_very_high_confidence: "Velmi připravená armáda"
  CZE_bop_army_readiness_middle: "Střední připravenost armády"
  CZE_bop_modifier_czech_sovereignty_is_threatened: "Hrozící sousedé"
- CZE_bop_has_started_tt: "§Y[ROOT.GetName]§! spřístupňuje mechaniku Rovnováha moci - §Y$CZE_bop_army_readiness$§!."
+ CZE_bop_has_started_tt: "§Y[ROOT.GetName]§! zpřístupňuje mechaniku Rovnováha moci - §Y$CZE_bop_army_readiness$§!."
