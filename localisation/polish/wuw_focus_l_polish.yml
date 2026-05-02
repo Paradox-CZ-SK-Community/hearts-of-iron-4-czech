@@ -1916,7 +1916,7 @@
  GER_institute_price_controls: "Zavést cenové kontroly"
  GER_institute_price_controls_desc: "Musíme uplatnit různá opatření, abychom posílili naši kontrolu nad financemi a zabránili zhroucení pod ambiciózními cíli soběstačnosti. Musíme být schopni regulovat ceny dovozu, základních potřeb a mzdy dělníků, abychom zkrotili inflaci a zajistili ekonomickou stabilitu."
  GER_integrate_czechoslovakia: "Integrovat Československo"
- GER_integrate_czechoslovakia_desc: "Jak získáváme více informací o tom, jak bylo [CZE.GetNameDef] spravováno, je stále jasnější, že lid touží po změně. [GER.GetNameDef] by tuhle změnu dokázalo poskytnout skze integraci. Měli bychom vyslat delegaci s ultimátem."
+ GER_integrate_czechoslovakia_desc: "Jak získáváme více informací o tom, jak bylo [CZE.GetNonIdeologyName] spravováno, je stále jasnější, že lid touží po změně. [GER.GetNameDef] by tuhle změnu dokázalo poskytnout skze integraci. Měli bychom vyslat delegaci s ultimátem."
  GER_integrate_subjects_economies: "Integrovat ekonomiky subjektů"
  GER_integrate_subjects_economies_desc: "Ekonomiky lidových komisariátů dosáhly pod naším vedením velkého pokroku. Abychom ještě více maximalizovali efektivitu, měli bychom naše průmysly integrovat do jediného hospodářského bloku."
  GER_integrate_volkskommissariats: "Integrovat lidové komisariáty"
