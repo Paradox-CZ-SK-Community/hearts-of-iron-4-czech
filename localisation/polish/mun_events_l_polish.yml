@@ -326,6 +326,6 @@
  MUN_slovakia.news.1.b: "Jsme na tento úkol připraveni."
  MUN_czech.1056.t: "[FROM.GetName] požaduje [975.GetName]"
  MUN_czech.1056.d: "Stejně jako kdysi navrhováno na Pařížské mírové konferenci po Velké válce, [CZE.GetNameDef] oznamuje, že považuje koridor ke svému [YUG.GetNameDef] spojenci za nezbytný pro bezpečnost jejich aliance. Aby toho dosáhli, [FROM.GetAdjective] zástupci předali ultimátum, které požaduje, abychom jim postoupili [975.GetName]."
- MUN_czech_exile.1.t: "[CZE.GetAdjective] exulanti dorazili do [ROOT.GetNameDef]" # todo: NEW TRANSLATION
- MUN_czech_exile.1.d: "V důsledku toho, že [GER.GetNameDef] po Mnichovské dohodě rozpustil jejich zemi, dorazili [CZE.GetAdjective] exulanti do mnoha zemí, včetně naší. Jsou ochotni vzít zbraně, aby nám pomohli, v naději, že jednoho dne budou moci s naší pomocí osvobodit svou zemi." # todo: NEW TRANSLATION
- MUN_czech_exile.1.a: "Vítejte." # todo: NEW TRANSLATION
+ MUN_czech_exile.1.t: "[ROOT.GetNameDef] vítá [CZE.GetAdjective] exulanty"
+ MUN_czech_exile.1.d: "V důsledku toho, že [GER.GetNameDef] po Mnichovské dohodě poslal jejich zemi do historie, dorazili [CZE.GetAdjective] exulanti do mnoha zemí, včetně naší. Jsou ochotni vzít zbraně, aby nám pomohli, v naději, že jednoho dne budou moci s naší pomocí osvobodit svou zemi."
+ MUN_czech_exile.1.a: "Vítejte."
