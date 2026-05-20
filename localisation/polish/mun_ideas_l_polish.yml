@@ -17,9 +17,9 @@
  CZE_anglo_czechoslovak_bank: "Anglo-československá a Pražská úvěrní banka"
  CZE_anglo_czechoslovak_bank_desc: "Vznikla sloučením tří dalších pražských bank v roce 1930. V současnosti je druhou největší bankou v zemi."
  CZE_praga_aviation: "$CZE_praga_aviation_organization$"
- CZE_ceskoslovenska_armada_dynamic_modifier: "Československá armáda"
+ CZE_ceskoslovenska_armada_dynamic_modifier: "Československá Armáda" # todo: CHANGED
  CZE_ceskoslovenska_armada_dynamic_modifier_desc: "Armáda byla vybudována z popela českých jednotek Rakouska-Uherska a veteránů československých legií. Odkaz obou sil dosud ovlivňuje způsob vedení armády."
- CZE_ceskoslovenske_letectvo_dynamic_modifier: "Československé letectvo"
+ CZE_ceskoslovenske_letectvo_dynamic_modifier: "Československé Letectvo" # todo: CHANGED
  CZE_ceskoslovenske_letectvo_dynamic_modifier_desc: "Letadla nemusí být vždy připravena, ale naši piloti ano. Při možných vzdušných hrozbách ze všech stran musíme učinit z nebe naše moře. Každý pilot musí vydat za tři."
  CZE_a_divided_nation_dynamic_modifier: "Rozdělený národ"
  CZE_a_divided_nation_dynamic_modifier_desc: "[CZE.GetNameDef] stojí osamoceně ve střední Evropě jako pluralitní stát chránící všechny uvnitř svých hranic. Velká hospodářská krize to však změnila. Hospodářské těžkosti vyvolaly odpor vůči vládě mezi různými hnutími v zemi. Tyto rozpory nyní hluboce rozdělují národ."
@@ -152,7 +152,7 @@
  SLO_generic_naval_manufacturer: "Prístav Bratislava"
  SLO_CZE_skoda_plzen_tank_destroyer: "Závody ťažkého strojárstva"
  SLO_CZE_skoda_armor: "Škoda Dubnica nad Váhom"
- SLO_slovak_army: "Branná moc Slovenska"
+ SLO_slovak_army: "Slovenská armáda" # todo: CHANGED
  SLO_clerical_politics: "Klerikální politika"
  SLO_rapid_brigades: "Rychlé brigády"
  CZE_back_against_the_mountains_RUT: "Zády k horám"
@@ -221,3 +221,9 @@
  CZE_skoda_naval_focus_optimization_idea: "Priorita Škody: Námořní zaměření"
  CZE_emergency_measures_idea: "$CZE_emergency_measures$"
  CZE_wielding_the_hammer_idea: "Ovládnutí zákonodárství"
+ CZE_powerhouse_of_europe_idea_desc: "$CZE_giant_of_central_europe_industry_desc$" # todo: NEW TRANSLATION
+ CZE_forgive_trading_debts_idea: "Odpustit obchodní dluhy" # todo: NEW TRANSLATION
+ CZE_forgive_trading_debts_idea_desc: "$CZE_forgive_trading_debts_desc$" # todo: NEW TRANSLATION
+ CZE_state_catholicism: "$POL_state_catholicism$" # todo: NEW TRANSLATION
+ CZE_exiles_idea_POL: "[CZE.GetAdjective] Vyhnanci" # todo: NEW TRANSLATION
+ generic_can_only_happen_once_tt: "Tento §YEfekt§! se může stát pouze jednou" # todo: NEW TRANSLATION

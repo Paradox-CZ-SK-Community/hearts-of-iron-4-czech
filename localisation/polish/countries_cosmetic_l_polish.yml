@@ -3155,3 +3155,15 @@
  CZE_POL_union_communism_DEF: "Polsko-československý svaz"
  CZE_POL_union_neutrality: "Polsko-československá federace"
  CZE_POL_union_neutrality_DEF: "Polsko-československá federace"
+ CZE_union_expanded: "Federace republik střední a východní Evropy" # todo: NEW TRANSLATION
+ CZE_union_expanded_DEF: "Federace republik střední a východní Evropy" # todo: NEW TRANSLATION
+ CZE_union_expanded_communism: "Svaz republik střední a východní Evropy" # todo: NEW TRANSLATION
+ CZE_union_expanded_communism_DEF: "Svaz republik střední a východní Evropy" # todo: NEW TRANSLATION
+ CZE_union_expanded_ADJ: "Panevropský" # todo: NEW TRANSLATION
+ CZE_great_moravia: "Velká Morava" # todo: NEW TRANSLATION
+ CZE_great_moravia_DEF: "Velká Morava" # todo: NEW TRANSLATION
+ CZE_great_moravia_fascism: "Říše Velké Moravy" # todo: NEW TRANSLATION
+ CZE_great_moravia_fascism_DEF: "Říše Velké Moravy" # todo: NEW TRANSLATION
+ CZE_great_moravia_democratic: "Federace moravských států" # todo: NEW TRANSLATION
+ CZE_great_moravia_democratic_DEF: "Federace moravských států" # todo: NEW TRANSLATION
+ CZE_great_moravia_ADJ: "Moravský" # todo: NEW TRANSLATION
