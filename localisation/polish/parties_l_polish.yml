@@ -392,7 +392,7 @@
  CUB_democratic_party: "Union"
  CZE_communism_party_long: "Komunistická strana Československa"
  CZE_communism_party: "KSČ"
- CZE_democratic_party_long: "Široká koalice vedena Agrárníky"
+ CZE_democratic_party_long: "Široká koalice vedená RSZML" # todo: CHANGED
  CZE_democratic_party: "Široká koalice"
  CZE_fascism_party_long: "Národní obec fašistická"
  CZE_fascism_party: "NOF"
