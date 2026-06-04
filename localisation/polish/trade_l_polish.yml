@@ -2,7 +2,7 @@
  CANCEL_RESOURCE_IMPORT: "§GKlikněte§! pro zrušení importu $RESOURCE|H$"
  CONVOYS: "Konvoje"
  CONVOYS_USAGE_DELAYED: "Konvoje se používají při dovozu zdrojů po moři z jiných zemí, přesunu našich interně vyráběných zdrojů a dodávkách zásob pozemním jednotkám v koloniích."
- CONVOYS_USAGE_DESC: "§TMáme $TOT|H$ konvojů.\nPoužito celkem: $USED|H$\nPoužití/Potřeba:\n - Pro námořní invazní plány: $INVASION_USE|H$/$INVASION_NEED|H$\n - Pro přesun jednotek: $TRANSFER_USE|H$/$TRANSFER_NEED|H$\n - Pro obchod: $TRADE_USE|H$/$TRADE_NEED|H$\n - Pro zásobování: $SUPPLY_USE|H$/$SUPPLY_NEED|H$\n$UNDERWAY_REPLENISHMENT_IF_UNLOCKED$Zbývá nevyužito: $LEFT|H$§!"
+ CONVOYS_USAGE_DESC: "§TMáme $TOT|H$ konvojů.\nPoužito celkem: $USED|H$\nPoužití/Potřeba:\n - Pro plány námořních invazí: $INVASION_USE|H$/$INVASION_NEED|H$\n - Pro přesun jednotek: $TRANSFER_USE|H$/$TRANSFER_NEED|H$\n - Pro obchod: $TRADE_USE|H$/$TRADE_NEED|H$\n - Pro lend-lease: $LENDLEASE_USE|H$/$LENDLEASE_NEED|H$\n - Pro zásobování: $SUPPLY_USE|H$/$SUPPLY_NEED|H$\n$UNDERWAY_REPLENISHMENT_IF_UNLOCKED$Zbývá nevyužito: $LEFT|H$§!" # todo: CHANGED
  CONVOYS_USAGE_UNDERWAY_REPLENISHMENT: " - Pro operativní doplňování: $CONVOY_USE|0H$/$CONVOY_NEED|0H$\n"
  IMPORTING_REQUEST: "Dovážíme $VAL|Y0$ $TYPE|H$ z požadovaných $TOTAL|Y0$."
  IMPORTING_REQUEST_EFFICIENCY: "Efektivita námořní trasy: $EFF|%R$"
