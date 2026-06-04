@@ -97,7 +97,7 @@
  AUTOMATION_HOMEBASE_ON: "§YZapnuto§!"
  AUTOMATION_HOMEBASE_OFF: "§gVypnuto§!"
  SEAZONE_MINIMUM_DOMINANCE: "Minimální £naval_dominance_texticon£ pro kontrolu oblasti: $VALUE|H0$"
- NAVAL_CONTROL_RATIO_MARKER_TOOLTIP: "§HNámořní převaha§!\nPro plnou kontrolu oblasti vyžadujeme poměr kontroly alespoň §Y66 %§!." # todo: CHANGED NUMBER
+ NAVAL_CONTROL_RATIO_MARKER_TOOLTIP: "§HNámořní převaha§!\nPro plnou kontrolu oblasti vyžadujeme poměr kontroly alespoň §Y60 %§!."
  NAVAL_DOMINANCE_EXPLANATION: "§YNámořní převaha§!\nMíra toho, jak účinně dokáže loď prosazovat kontrolu nad konkrétní námořní zónou."
  NAVY_SUPPLY_USAGE_DESC_TOTAL: "§HSpotřeba zásob: $VAL$§!"
  NAVY_SUPPLY_USAGE_DESC_BASE: "Základní hodnota: $VAL|H$"
