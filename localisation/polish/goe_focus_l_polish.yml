@@ -2062,7 +2062,7 @@
  RAJ_mineral_exploitation_institute_desc: "Nedávný rozvoj těžby nepřinesl očekávané výnosy. Zdá se, že musíme investovat do lepších geologických průzkumů, abychom přesněji odhadli potenciál našich přírodních zdrojů."
  RAJ_mixed_economy: "Smíšená ekonomika"
  RAJ_mixed_economy_desc: "Disponujeme množstvím přírodních zdrojů a diverzifikace do těžby nerostů posílí naši soběstačnost."
- RAJ_mixed_economy_tt: "Získejte §G+3§! zdrojů za každou prozkoumanou §Y$excavation_tech$§! v každém výchozím státě s více než 6 zdroji."
+ RAJ_mixed_economy_tt: "Získá §G+3§! surovin za každou technologii §Ytěžby§! v každém počátečním státě s více než 6 jednotkami surovin"
  RAJ_mobilization_of_the_indian_army: "Mobilizace indické armády"
  RAJ_mobilization_of_the_indian_army_desc: "Naše počty jsou velké a náš duch je posílen obranou naší slavné říše. I když potrvá, než shromáždíme síly ze všech koutů subkontinentu, je nezbytné zahájit mobilizaci [RAJ.GetAdjective] armády. Nastal čas povstat a bojovat za [RAJ.GetNameDef] a [ENG.GetNameDef]."
  RAJ_model_after_germany: "Německo jako vzor"
