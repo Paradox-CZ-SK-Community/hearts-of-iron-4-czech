@@ -338,7 +338,7 @@
  containment_of_communism_goal_name: "Zadržování světového komunismu"
  containment_of_communism_goal_desc: "Svět nebude v bezpečí, dokud nebude komunistická hrozba potlačena."
  suppress_regional_fascism_goal_name: "Potlačení fašismu"
- suppress_regional_fascism_goal_desc: "Fašismus se šíří jako požár. Čím více zemí padne do jeho spárů, tím nebezpečnější bude situace kolem nás."
+ suppress_regional_fascism_goal_desc: "Fašismus hrozí se šířit jako divoký požár. Čím více zemí podlehne jeho spárům, tím nebezpečnější se situace kolem nás stane." # todo: CHANGED
  suppress_regional_communism_goal_name: "Potlačení komunismu - [ROOT.GetCountryContinent]"
  suppress_regional_communism_goal_desc: "Musíme udělat vše potřebné, abychom udrželi co největší část [ROOT.GetCountryContinent] svobodnou od komunistického jha."
  regional_expansionism_goal_name: "Expanze - [ROOT.GetCountryContinent]"
@@ -455,7 +455,7 @@
  faction_goal_the_northern_mandate_name: "Ovládnout východní Sibiř"
  faction_goal_the_northern_mandate_desc: "Aby mohl náš lid prosperovat, potřebujeme území a suroviny, které se nacházejí v Sibiři. Současní držitelé je nedokáží správně využít, a proto na ně máme právo."
  faction_goal_the_southern_mandate_name: "Ovládnout jihovýchodní Asii"
- faction_goal_the_southern_mandate_desc: "V minulosti jsme měli vliv na území na jih od nás — a budeme jej mít znovu. Bohatství této oblasti nám umožní dosáhnout všeho, co si zamaneme."
+ faction_goal_the_southern_mandate_desc: "V slavné minulosti jsme uplatňovali vliv v oblastech na našem jihu a uděláme to znovu. S bohatstvím, které se v této oblasti nachází, by naše možnosti byly neomezené." # todo: CHANGED
  faction_goal_the_greater_game_name: "Ovládnout střední Asii"
  faction_goal_the_greater_game_desc: "Impéria se pokoušela vnutit centrální Asii svou vůli, ale byla odražena. Nyní nastal náš čas postoupit na západ a znovu ovládnout stepi."
  suppress_asian_communism_goal_name: "Potlačit asijský komunismus"
@@ -482,7 +482,7 @@
  pan_americanism_goal_name: "Panamerikanismus"
  pan_americanism_goal_desc: "Celá Amerika by měla být sjednocena. Získáním všech na naši stranu zajistíme bezpečnost kontinentu a vytvoříme jednotnou frontu proti jakékoliv vnější hrozbě."
  amerindian_liberation_goal_name: "Osvobození původních obyvatel Ameriky"
- amerindian_liberation_goal_desc: "Původní obyvatelé Ameriky musí být osvobozeni od cizích utlačovatelů, kteří jim nyní vládnou."
+ amerindian_liberation_goal_desc: "Původní obyvatelé Amerik musí být osvobozeni od cizích utlačovatelů, kteří nad nimi nyní vládnou." # todo: CHANGED
  islamic_brotherhood_goal_name: "Islámské bratrstvo"
  islamic_brotherhood_goal_desc: "Islámské země světa se musí sjednotit, aby dokázaly čelit těm, kteří by nás raději viděli dobyté a podrobené."
  baltic_security_goal_name: "Ochrana Baltu"
@@ -552,7 +552,7 @@
  expand_newfoundland_bases_goal_name: "Rozšířit základny na Newfoundlandu"
  expand_newfoundland_bases_goal_desc: "Rozšíření našich základen na Newfoundlandu umožní lepší kontrolu severoatlantických konvojů a promítání naší síly na klíčových trasách."
  expand_bermuda_bases_goal_name: "Rozšířit základny na Bermudách"
- expand_bermuda_bases_goal_desc: "Rozšíření našich základen na Bermudách umožní efektivnější hlídkování ve středním Atlantiku a bezpečnější zásobovací linie mezi kontinenty."
+ expand_bermuda_bases_goal_desc: "Rozšíření našich základen na Bermudách by nám umožnilo efektivněji hlídkovat ve středním Atlantském oceánu a udržovat bezpečnější zásobovací trasy mezi kontinenty." # todo: CHANGED
  expand_bahamas_bases_goal_name: "Rozšířit základny na Bahamách"
  expand_bahamas_bases_goal_desc: "Rozšíření základen na Bahamách umožní účinnější monitorování karibských námořních tras a obranu přístupu do Severní i Jižní Ameriky."
  fortify_panama_canal_goal_name: "Opevnit Panamský průplav"
@@ -741,8 +741,8 @@
  OWNS_LISTED_STATE: "Každý člen frakce, který vlastní jeden z uvedených států:"
  HAS_AT_LEAST_5K_INFANTRY_EQUIPMENT: "§YKaždý člen frakce§! s alespoň 5000 kusy $infantry_equipment$ na skladu"
  HAS_DEPLOYED_AT_LEAST_5M_MANPOWER: "§YKaždý člen frakce§! s alespoň 5 miliony nasazeného personálu"
- ONE_PANZER_GENERAL: "§YAlespoň jeden generál§! s rysem §Y$panzer_leader$§!, §Y$panzer_expert$§! nebo §Y$armor_officer$§!:"
- ONE_INFANTRY_GENERAL: "§YAlespoň jeden generál§! s rysem §Y$infantry_officer$§!, §Y$infantry_leader$§! nebo §Y$infantry_expert$§!:"
+ ONE_PANZER_GENERAL: "§YJeden velitel§! s některou z vlastností §Y$panzer_leader$§!, §Y$panzer_expert$§! nebo §Y$armor_officer$§!:" # todo: CHANGED
+ ONE_INFANTRY_GENERAL: "§YJeden velitel§! s některou z vlastností §Y$infantry_officer$§!, §Y$infantry_leader$§! nebo §Y$infantry_expert$§!:" # todo: CHANGED
  ONE_ADMIRAL: "§YJeden admirál§!"
  ONE_GENERAL: "§YJeden generál§!"
  ALL_FACTION_MEMBERS_WITH_1_MARINE: "§YKaždý člen frakce§!, který má alespoň 1 divizi §YNámořní pěchoty§!"
@@ -885,7 +885,7 @@
  FACTION_ACCESS_TO_RESEARCH_TAB: "Nutné splnit cíl $CATEGORY|H$: $NAME|H$"
  FACTION_ACCESS_TO_MILITARY_TAB: "Nutné splnit cíl $CATEGORY|H$: $NAME|H$"
  faction_goal_unlock_research_name: "Rozvíjet společné výzkumné postupy"
- faction_goal_unlock_research_desc: "Vývoj pokročilé technologie není volnočasová zábava, ale závod proti těm, kteří ji chtějí použít k naší zkáze. Sdílení zdrojů je jediný způsob, jak si udržet konkurenční výhodu."
+ faction_goal_unlock_research_desc: "Vývoj pokročilých špičkových technologií není zbytečnou kratochvílí, ale závodem proti těm, kdo by je mohli použít k naší zkáze. Sdílení našich zdrojů je jediný způsob, jak zajistit, že si naše převaha udrží konkurenceschopnost." # todo: CHANGED
  faction_goal_unlock_military_name: "Zřídit společné velitelství"
  faction_goal_unlock_military_desc: "Schopnost reagovat na nové situace dobře strukturovanými, společnými údernými skupinami bude nezbytná, jakmile se naše aliance prohloubí. Musíme se na to začít připravovat co nejdříve."
  FACTION_ACCESS_TAB_UNLOCK: "Odemknout $NAME|H$ pro frakci"
@@ -952,7 +952,7 @@
  FACTION_INITIATIVE_EXPLANATION: "§gIniciativa je získávána primárně dokončováním cílů. Fokusy, události a světové situace ji mohou také příležitostně poskytnout.§!"
  FACTION_INITIATIVE_PROGRESS_TOOLTIP: "Postup k dalšímu bodu: $PROGRESS|.3H$"
  FACTION_INITIATIVE_PASSIVE_GENERATION_TOOLTIP: "Momentálně se generuje $DAILYPROGRESS|.3H$ za den.\nDalší bod iniciativy obdržíte za $DAYS|.0H$ dní."
- FACTION_INITIATIVE_PASSIVE_GENERATION_DESC: "§gIniciativa frakce se také pasivně generuje na základě postupu manifestu a je rozdělována mezi členy podle jejich vlivu.§!"
+ FACTION_INITIATIVE_PASSIVE_GENERATION_DESC: "§gIniciativa frakce se také pasivně generuje na základě postupu vašeho manifestu a bude rozdělována mezi členy podle vlivu§!" # todo: CHANGED
  FACTION_RESEARCH_BUTTON: "Otevřít výzkum"
  FACTION_RESEARCH_OPPORTUNITIES_NO_BONUS: "§RFrakce momentálně nesdílí výzkum§!"
  FACTION_RESEARCH_OPPORTUNITIES: "($VAL|H$ příležitostí)"
@@ -1096,7 +1096,7 @@
  FACTION_THEATER_MAP_MODE_CANNOT_REMOVE_CUTPOINT: "§RRegiony musí zůstat souvislé, proto jej nelze odebrat§!"
  FACTION_THEATER_REGION_COUNT_TOOLTIP: "Na základě §HÚrovně dovedností velitele válčiště§! lze přidat maximálně $MAX|H$ regionů.\nAktuálně přidáno: $ADDED|H$.\n\nRegion může být pouze v jednom válčišti."
  FACTION_THEATER_COUNTRY_COUNT_TOOLTIP: "Na základě §HÚrovně dovedností velitele válčiště§! lze přidat maximálně $MAX|H$ zemí.\nAktuálně přidáno: $ADDED|H$.\n\nZemě může být pouze v jednom válčišti."
- FACTION_THEATER_SUPPLY_BONUS_TOOLTIP: "Vybrané země ve válčišti získávají bonus $VAL$ k §HSpotřebě zásob§! na základě dovedností velitele $SKILL1|H$ ($SKILL1VAL|H$) a $SKILL2|H$ ($SKILL2VAL|H$).\n\n§Hadmirál§! poskytuje vyšší bonus k námořní spotřebě zásob, §Hpolní maršál§! poskytuje vyšší bonus k pozemní spotřebě zásob."
+ FACTION_THEATER_SUPPLY_BONUS_TOOLTIP: "Vybrané země ve válčišti obdrží $VAL$ §HSpotřebu zásob§! na základě velitelových dovedností $SKILL1|H$ ($SKILL1VAL|H$) a $SKILL2|H$ ($SKILL2VAL|H$).\n\n§HAdmirál§! poskytne vyšší bonus ke spotřebě zásob námořních sil, zatímco §HPolní maršál§! poskytne lepší bonus ke spotřebě zásob pro pozemní síly." # todo: CHANGED
  FACTION_THEATER_SUPPLY_BONUS_TOOLTIP_ENTRY: "- $COUNTRY|H$"
  FACTION_THEATER_MASTERY_GAIN_TOOLTIP: "Země velitele získává $VAL|.1G%$ £doctrine_mastery §HMastery§! získané ostatními členy frakce ve válčišti, podle dovedností velitele $SKILL1|H$ ($SKILL1VAL|H$) a $SKILL2|H$ ($SKILL2VAL|H$)."
  THEATER_COMMANDER_MASTERY_SKILL: "$VAL|%0$"
@@ -1184,3 +1184,8 @@
  FACTION_THEATER_COUNTRY_SELECT_NO_OWNER: "Pouze vlastník může měnit vybrané země."
  FACTION_THEATER_REGION_TOOLTIP: "Maximálně $MAX|H$ regionů lze přidat do válčiště podle §Húrovně dovednosti velitele§!.\n\nRegion lze přidat pouze do jediného válčiště."
  FACTION_THEATER_COUNTRY_TOOLTIP: "Maximálně $MAX|H$ zemí lze přidat do regionu podle §Húrovně dovednosti velitele§!.\n\nZemě lze přidat pouze do jednoho válčiště."
+ AST_pacific_resistance: "Pacifický odboj" # todo: NEW TRANSLATION
+ AST_nations_of_the_empire: "Národy impéria" # todo: NEW TRANSLATION
+ INS_tan_malakas_faction: "Aslian přípravný front" # todo: NEW TRANSLATION
+ INS_union_of_indonesia_faction: "Indonéská unie" # todo: NEW TRANSLATION
+ asian_democratic_compact: "Asijský demokratický pakt" # todo: NEW TRANSLATION

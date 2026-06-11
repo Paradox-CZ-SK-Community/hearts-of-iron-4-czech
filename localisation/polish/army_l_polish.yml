@@ -9,7 +9,7 @@
  AIR_OVERVIEW_CATEGORY_5: "Máme $COUNT|H$ letadel typu §HStrategický bombardér§! v našem letectvu:"
  AIR_OVERVIEW_CATEGORY_6: "Máme $COUNT|H$ letadel typu §HTransportní letadlo§! v našem letectvu:"
  AIR_OVERVIEW_CATEGORY_7: "Máme $COUNT|H$ letadel typu §HPrůzkumné letadlo§! v našem letectvu:"
- AIR_OVERVIEW_CATEGORY_8: "Máme $COUNT|H$ letadel typu §HNámořní průzkumní bombardér§! v našem letectvu:"
+ AIR_OVERVIEW_CATEGORY_8: "Máme $COUNT|H$ §HNámořní hlídkový bombardér§! letadel v našem letectvu:" # todo: CHANGED
  AIR_OVERVIEW_CATEGORY_CARRIER_0: "$COUNT|H$ jsou §HPalubní letecká podpora§!"
  AIR_OVERVIEW_CATEGORY_CARRIER_1: "$COUNT|H$ jsou §HPalubní stíhač§!"
  AIR_OVERVIEW_CATEGORY_CARRIER_2: "$COUNT|H$ jsou §HPalubní námořní bombardér§!"
@@ -103,8 +103,8 @@
  ARMY_TEMPLATE_INFO: "$NAME$: $COUNT|H$"
  BATTALIONS_COUNT: "$NUM$ praporů"
  BATTLES_OVER_TIME: "Bitvy v čase"
- COMMANDER_ROSTER_ARMY_BUTTON: "Generálové"
- COMMANDER_ROSTER_ARMY_TOOLTIP: "§HGenerálové§!"
+ COMMANDER_ROSTER_ARMY_BUTTON: "Velitelé" # todo: CHANGED
+ COMMANDER_ROSTER_ARMY_TOOLTIP: "§HVelitelé§!" # todo: CHANGED
  COMMANDER_ROSTER_ARMY_TOOLTIP_DELAYED: "Generálové a polní maršálové s úrovní dovedností 4 nebo vyšší a správným rysem mohou být pověřeni rolí poradce a zařazeni do vašeho důstojnického sboru jako člen Vojenského vrchního velení nebo Náčelník armády."
  COMMANDER_ROSTER_NAVY_BUTTON: "Admirálové"
  COMMANDER_ROSTER_NAVY_TOOLTIP: "§HAdmirálové§!"
@@ -177,7 +177,7 @@
  PLAN_VALUE_LARGE_RIVER: "Překračování velkých řek: $VAL|0+%$"
  PLAN_VALUE_NEUTRAL: "Plán je považován za §Rriskantní§!."
  PLAN_VALUE_NOT_IN_POSITION: "Některé divize nejsou na místě: $VAL|0+%$"
- PLAN_VALUE_NO_THREAT: "§GŽádné detekovatelné hrozby§!"
+ PLAN_VALUE_NO_THREAT: "§GŽádné zjistitelné hrozby§!" # todo: CHANGED
  PLAN_VALUE_STILL_PLANNING: "Divize se stále připravuje: $VAL|0+%$"
  PLAN_VALUE_STRAIT: "Průliv: $VAL|0+%$"
  PLAN_VALUE_TITLE: "Odhadovaná hodnota plánu: $VAL$"
@@ -251,3 +251,37 @@
  NAVAL_HEADQUARTER_ROSTER_COLORED: "§YNámořní velitelství§!"
  NAVAL_HEADQUARTER_ROSTER_DELAYED: "Klikněte pro otevření seznamu §YNámořního velitelství§!"
  NAVAL_HEADQUARTER_ASSIGN_ADMIRAL: "Klikněte pro přiřazení admirála"
+ CAPTURED_GENERALS: "Zajatí velitelé" # todo: NEW TRANSLATION
+ CAPTURED_GENERALS_OURS: "Naši pohřešovaní velitelé" # todo: NEW TRANSLATION
+ CAPTURED_GENERALS_THEIRS: "Velitelé zajatí námi" # todo: NEW TRANSLATION
+ CAPTURED_GENERALS_TOOLTIP: "§H$CAPTURED_GENERALS$§!$CLICK_HINTS$\n\n$CAPTURED_GENERALS_OURS$: $OWN_COUNT|H$\n$CAPTURED_GENERALS_THEIRS$: $ENEMIES_COUNT|H$" # todo: NEW TRANSLATION
+ CAPTURED_GENERALS_TOOLTIP_CLICK: "\n§GKlikněte§! pro zobrazení našich pohřešovaných velitelů" # todo: NEW TRANSLATION
+ CAPTURED_GENERALS_TOOLTIP_RIGHT_CLICK: "\n§GKlikněte pravým tlačítkem§! pro zobrazení velitelů zajatých námi" # todo: NEW TRANSLATION
+ CAPTURED_GENERALS_DELAYED_OPERATIVES: "Velitelé mohou být během boje zajati. Zajatí velitelé mohou být vysvobozeni přepadem nebo zpravodajskou operací." # todo: NEW TRANSLATION
+ CAPTURED_GENERALS_DELAYED_DEFAULT: "Velitelé mohou být během boje zajati. Zajatí velitelé mohou být vysvobozeni přepadem." # todo: NEW TRANSLATION
+ CAPTURED_GENERAL_LOCATION: "Držen v $LOCATION|H$, $CAPTOR|H$" # todo: NEW TRANSLATION
+ CAPTURED_GENERAL_LOCATION_UNKNOWN: "§Rneznámé místo§!" # todo: NEW TRANSLATION
+ LEADER_RESCUE_RAID: "Záchrana" # todo: NEW TRANSLATION
+ LEADER_RESCUE_RAID_RESCUING: "Vysvobozování" # todo: NEW TRANSLATION
+ LEADER_RESCUE_RAID_TOOLTIP_ACTION_CLICK: "§GKlikněte§! pro odeslání záchranného přepadu pro §Y$NAME$§!" # todo: NEW TRANSLATION
+ LEADER_RESCUE_RAID_TOOLTIP_ACTION_VIEW: "§GKlikněte§! pro zobrazení aktivního záchranného přepadu pro §Y$NAME$§!" # todo: NEW TRANSLATION
+ LEADER_RESCUE_RAID_TOOLTIP_ACTION_RIGHT_CLICK: "§GKlikněte pravým tlačítkem§! pro nalezení zajatce na mapě" # todo: NEW TRANSLATION
+ LEADER_RESCUE_RAID_TOOLTIP_DESCRIPTION_KNOWN: "§Y$NAME$§! je v zajetí v §R$LOCATION$, $COUNTRY$§!" # todo: NEW TRANSLATION
+ LEADER_RESCUE_RAID_TOOLTIP_UNKNOWN: "§Y$NAME$§! je v zajetí na §Rneznámém místě§! v §R$COUNTRY$§!" # todo: NEW TRANSLATION
+ LEADER_FLAG_TOOLTIP_CAPTURED_OURS: "§Y$NAME$§! ze §Y$COUNTRY$§! byl zajat" # todo: NEW TRANSLATION
+ LEADER_FLAG_TOOLTIP_CAPTURED_THEIRS: "§Y$NAME$§! ze §R$COUNTRY$§! byl zajat" # todo: NEW TRANSLATION
+ CAPTOR_FLAG_TOOLTIP_KNOWN_OURS: "§GKlikněte§! pro nalezení zajatce na mapě\n\n§Y$NAME$§! je držen v zajetí v §Y$LOCATION$, $COUNTRY$§!" # todo: NEW TRANSLATION
+ CAPTOR_FLAG_TOOLTIP_KNOWN_THEIRS: "§GKlikněte§! pro nalezení zajatce na mapě\n\n§Y$NAME$§! je držen v zajetí v §R$LOCATION$, $COUNTRY$§!" # todo: NEW TRANSLATION
+ CAPTOR_FLAG_TOOLTIP_UNKNOWN: "§Y$NAME$§! je držen v zajetí na §Rneznámém místě§!" # todo: NEW TRANSLATION
+ NOTIFICATION_OUR_GENERAL_CAPTURED: "§R$NAME|H$ byl zajat!§!" # todo: NEW TRANSLATION
+ NOTIFICATION_OUR_GENERAL_CAPTURED_DESC: "Během statečného velení našim vojskům v boji byl §H[This.GetName]§! přemožen silami [From.GetAdjective] a zajat §H[From.GetNameDef]§!. [This.GetSheHeCap] je údajně držen v zajetí v $LOCATION|H$." # todo: NEW TRANSLATION
+ NOTIFICATION_WE_CAPTURED_GENERAL: "§G$NAME|H$ byl zajat!§!" # todo: NEW TRANSLATION
+ NOTIFICATION_WE_CAPTURED_GENERAL_DESC: "Naše statečné síly dokázaly přemoci divizi §H[This.GetName]§!. Velitel §H[This.Owner.GetAdjective]§! byl nyní převezen do $LOCATION|H$." # todo: NEW TRANSLATION
+ NOTIFICATION_CAPTURED_GENERAL_CLICK: "§GKlikněte§! pro přesun na místo" # todo: NEW TRANSLATION
+ NOTIFICATION_OUR_GENERAL_RELEASED: "§G$NAME|H$ je volný!§!" # todo: NEW TRANSLATION
+ NOTIFICATION_OUR_GENERAL_RELEASED_DESC: "§H[This.GetName]§! už není v zajetí §H[From.GetAdjective]§!. [This.GetSheHeCap] je zpět v našich řadách a může znovu vést naše jednotky." # todo: NEW TRANSLATION
+ NOTIFICATION_OUR_GENERAL_WOUNDED: "§R$NAME|H$ byl zraněn!§!" # todo: NEW TRANSLATION
+ NOTIFICATION_OUR_GENERAL_WOUNDED_DESC: "[This.GetRank] §H[This.GetName]§! byl zraněn a odvezen do týlu, aby se zotavil. [This.GetSheHeCap] bude podávat horší výkon než [This.GetHerHis] obvyklý standard, dokud se rána nezahojí." # todo: NEW TRANSLATION
+ NOTIFICATION_OUR_GENERAL_SICK: "§Y$NAME|H$ onemocněl!§!" # todo: NEW TRANSLATION
+ NOTIFICATION_OUR_GENERAL_SICK_DESC: "[This.GetRank] §H[This.GetName]§! onemocněl a není schopen vykonávat službu. [This.GetSheHeCap] bude podávat horší výkon než [This.GetHerHis] obvyklý standard, dokud se [This.GetSheHe] nezotaví." # todo: NEW TRANSLATION
+ CAPTURED_GENERAL_MAP_TEXT: "Zajat!" # todo: NEW TRANSLATION

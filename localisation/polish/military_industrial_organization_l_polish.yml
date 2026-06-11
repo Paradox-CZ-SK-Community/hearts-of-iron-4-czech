@@ -502,10 +502,10 @@
  INDUSTRIAL_ORG_EQUIPMENT_HEADER_NOT_MATCHING_CONTEXT: "$TYPE|Y$ §Rnesouhlasí§! s tímto typem zařízení. Dokončené vlastnosti nebudou aplikovány.§!"
  INDUSTRIAL_ORG_EQUIPMENT_HEADER_NO_EQUIPMENT_IN_CONTEXT: "§Tato technologie neodemyká nové zařízení, proto dokončené vlastnosti nebudou aplikovány.§!"
  INDUSTRIAL_ORG_LIST_INITIAL_TRAIT_NAME: "$NAME|Y$"
- INDUSTRIAL_ORG_LIST_WINDOW_ASSIGN_TO_PROD_LINE_TOOLTIP: "§GKlepněte§! pro §Ypřiřazení§! k této výrobní lince."
- INDUSTRIAL_ORG_LIST_WINDOW_ASSIGN_TO_RESEARCH_TOOLTIP: "§GKlepněte§! pro §Ypřiřazení§! k této technologii."
- INDUSTRIAL_ORG_LIST_WINDOW_ASSIGN_TO_SHIP_REFIT_TOOLTIP: "§GKlepněte§! pro §Ypřiřazení§! k přestavbě lodi."
- INDUSTRIAL_ORG_LIST_WINDOW_ASSIGN_TO_VARIANT_TOOLTIP: "§GKlepněte§! pro §Ypřiřazení§! k této variantě zařízení."
+ INDUSTRIAL_ORG_LIST_WINDOW_ASSIGN_TO_PROD_LINE_TOOLTIP: "§GKlikněte§! pro §Ypřiřazení§! k této výrobní lince" # todo: CHANGED
+ INDUSTRIAL_ORG_LIST_WINDOW_ASSIGN_TO_RESEARCH_TOOLTIP: "§GKlikněte§! pro §Ypřiřazení§! k této technologii" # todo: CHANGED
+ INDUSTRIAL_ORG_LIST_WINDOW_ASSIGN_TO_SHIP_REFIT_TOOLTIP: "§GKlikněte§! pro §Ypřiřazení§! k přestavbě lodi" # todo: CHANGED
+ INDUSTRIAL_ORG_LIST_WINDOW_ASSIGN_TO_VARIANT_TOOLTIP: "§GKlikněte§! pro §Ypřiřazení§! k této variantě vybavení" # todo: CHANGED
  INDUSTRIAL_ORG_LIST_WINDOW_FILTER_CAN_UNLOCK_TOOLTIP: "Zobrazit pouze vojenské průmyslové organizace s body vlastností k utracení"
  INDUSTRIAL_ORG_LIST_WINDOW_FILTER_CATEGORY_MATERIEL: "Materiální zařízení"
  INDUSTRIAL_ORG_LIST_WINDOW_FILTER_CATEGORY_PLANE: "Letadla"
@@ -513,8 +513,8 @@
  INDUSTRIAL_ORG_LIST_WINDOW_FILTER_CATEGORY_TANK: "Tanky"
  INDUSTRIAL_ORG_LIST_WINDOW_FILTER_CATEGORY_TOOLTIP: "Zobrazit pouze vojenské průmyslové organizace pro $CATEGORY|Y$"
  INDUSTRIAL_ORG_LIST_WINDOW_TITLE: "Vojenská průmyslová organizace"
- INDUSTRIAL_ORG_LIST_WINDOW_UNASSIGN_DESIGN_TEAM_TOOLTIP: "§GKlepněte§! pro §Rodebrání§! z tohoto návrhu."
- INDUSTRIAL_ORG_LIST_WINDOW_UNASSIGN_MANUFACTURER_TOOLTIP: "§GKlepněte§! pro §Rodebrání§! z této výrobní linky."
+ INDUSTRIAL_ORG_LIST_WINDOW_UNASSIGN_DESIGN_TEAM_TOOLTIP: "§GKlikněte§! pro §Rodebrání§! z tohoto návrhu" # todo: CHANGED
+ INDUSTRIAL_ORG_LIST_WINDOW_UNASSIGN_MANUFACTURER_TOOLTIP: "§GKlikněte§! pro §ROdebrání§! z této výrobní linky" # todo: CHANGED
  INDUSTRIAL_ORG_MANUFACTURER: "Průmyslový výrobce"
  INDUSTRIAL_ORG_MANUFACTURER_TOOLTIP_NAME: "$NAME|H$"
  INDUSTRIAL_ORG_NAVY_XP_COST: "£GFX_navy_experience $VALUE$"
@@ -573,7 +573,7 @@
  INDUSTRIAL_ORG_QUEUE_SAVE_BEFORE_LOAD_TOOLTIP: "§GKlikněte§! pro uložení fronty vlastností „$SAVED|Y$“ a načtení fronty vlastností „$LOAD|Y$“."
  INDUSTRIAL_ORG_QUEUE_SAVE_BUTTON_CREATE_NEW_ENABLED_TOOLTIP: "§GKlikněte§! pro uložení fronty vlastností „$SAVED|Y$“ a vytvoření nové fronty vlastností."
  INDUSTRIAL_ORG_QUEUE_SAVE_BUTTON_DISABLED_TOOLTIP: "§RFronta vlastností nesmí mít prázdný název, aby ji bylo možné uložit.§!"
- INDUSTRIAL_ORG_QUEUE_SAVE_BUTTON_ENABLED_TOOLTIP: "§GKlikněte§! pro uložení fronty vlastností."
+ INDUSTRIAL_ORG_QUEUE_SAVE_BUTTON_ENABLED_TOOLTIP: "§GKlikněte§! pro uložení fronty vlastností" # todo: CHANGED
  INDUSTRIAL_ORG_QUEUE_SAVE_DESCRIPTION: "Uloží aktuální frontu vlastností do souboru, aby ji bylo možné použít v budoucích průchodech hrou."
  INDUSTRIAL_ORG_QUEUE_SAVE_NAME_DESC: "Zadejte (nový) název pro ukládanou frontu vlastností:"
  INDUSTRIAL_ORG_QUEUE_SAVE_OVERWRITE_DESC: "Vyberte, kterou frontu vlastností chcete přepsat. Pokud ponecháte prázdné, vytvoří se nová uložená fronta vlastností:"
@@ -592,15 +592,15 @@
  INDUSTRIAL_ORG_TASK_PRODUCTION_LINE_DESC: "Výroba: $EQUIPMENT|H$"
  INDUSTRIAL_ORG_TASK_REFIT_DESC: "Přestavba: $NAME|H$"
  INDUSTRIAL_ORG_TASK_RESEARCH_DESC: "Výzkum: $RESEARCH|H$"
- INDUSTRIAL_ORG_TOOLTIP_CLICK_TO_ASSIGN: "§GKlepněte§! pro přiřazení."
- INDUSTRIAL_ORG_TOOLTIP_CLICK_TO_CHANGE: "§GKlepněte§! pro změnu."
+ INDUSTRIAL_ORG_TOOLTIP_CLICK_TO_ASSIGN: "§GKlikněte§! pro přiřazení" # todo: CHANGED
+ INDUSTRIAL_ORG_TOOLTIP_CLICK_TO_CHANGE: "§GKlikněte§! pro změnu" # todo: CHANGED
  INDUSTRIAL_ORG_TOOLTIP_HEADER: "§YVojenská průmyslová organizace§!"
  INDUSTRIAL_ORG_TOOLTIP_IS_LICENSED: "§RLicencované zařízení není způsobilé§!"
  INDUSTRIAL_ORG_TOOLTIP_NO_RELEVANT_ORGANISATION: "§RNemáte žádnou vhodnou organizaci§! k přiřazení k tomuto typu zařízení."
  INDUSTRIAL_ORG_TOOLTIP_NO_UPGRADE_ALREADY_ASSIGNED_MIO: "Na toto zařízení nebyly použitelné žádné nové vlastnosti. Není třeba upgradovat."
  INDUSTRIAL_ORG_TOOLTIP_PRODUCTION_TASK_INFO: "Přiřazení §Yvojenské průmyslové organizace§! k výrobní lince aplikuje bonusy výroby na tuto linku."
  INDUSTRIAL_ORG_TOOLTIP_RESEARCH_TASK_INFO: "Přiřazení §Yvojenské průmyslové organizace§! k výzkumnému úkolu zvýší rychlost výzkumu a může aplikovat specifické bonusy zařízení."
- INDUSTRIAL_ORG_TOOLTIP_RIGHT_CLICK_TO_UNASSIGN: "§GPoklepáním pravým tlačítkem§! pro §Rodebrání§!."
+ INDUSTRIAL_ORG_TOOLTIP_RIGHT_CLICK_TO_UNASSIGN: "§GKlikněte pravým tlačítkem§! pro §ROdstranit§!" # todo: CHANGED
  INDUSTRIAL_ORG_TOOLTIP_UPGRADE_ALREADY_ASSIGNED_MIO: "Aktualizujte své zařízení tak, aby mělo aplikované nejnovější §Yvlastnosti návrhářského týmu§!."
  INDUSTRIAL_ORG_TOOLTIP_UPGRADE_ALREADY_ASSIGNED_MIO_CREATE_VARIANT: "Tím vznikne nová varianta."
  INDUSTRIAL_ORG_TOOLTIP_UPGRADE_ALREADY_ASSIGNED_MIO_DELAYED: "Zařízení vyrobené starší verzí §Yvojenské průmyslové organizace§! je třeba upgradovat, aby měla nejnovější §Yvlastnosti návrhářského týmu§!."
@@ -1041,7 +1041,7 @@
  generic_assault_guns_organization: "Konstruktér útočných děl"
  generic_battle_line_ship_organization: "Konstruktér liniových bitevních lodí"
  generic_black_sea_fleet_organization: "Konstruktér černomořské flotily"
- generic_cas_aircraft_organization: "Konstruktér letadel podpory"
+ generic_cas_aircraft_organization: "Výrobce CAS letadel" # todo: CHANGED
  generic_escort_ship_organization: "Konstruktér lodí doprovodu"
  generic_general_aircraft_organization: "Obecný konstruktér letadel"
  generic_has_already_completed_this_trait: " Tato vlastnost již byla dokončena v jiné organizaci"
@@ -1231,7 +1231,7 @@
  generic_mio_trait_fleet_escorts: "Role flotilového doprovodu"
  generic_mio_trait_flexible_design: "Flexibilní návrh"
  generic_mio_trait_flight_deck_edge_aa_mounts: "Protiletadlové lafety na okraji letové paluby"
- generic_mio_trait_flooding_boundries: "Zaplavování hranic"
+ generic_mio_trait_flooding_boundries: "Hranice zatopení" # todo: CHANGED
  generic_mio_trait_flying_fortress: "Létající pevnost"
  generic_mio_trait_foam_fire_extinguishers: "Hasicí pěnové přístroje"
  generic_mio_trait_fuel_injection_engines: "Motory s vstřikováním paliva"
@@ -1280,7 +1280,7 @@
  generic_mio_trait_high_speed_mine_hunting_equipment: "Vybavení pro rychlé odminování"
  generic_mio_trait_high_speed_operation_stores: "Vysoce rychlé provozní zásoby"
  generic_mio_trait_high_speed_raiding: "Vysokorychlostní útočné akce"
- generic_mio_trait_high_speed_torpedo_release: "Vysokorychlostní vypouštění torpéd"
+ generic_mio_trait_high_speed_torpedo_release: "Uvolnění vysokorychlostního torpéda" # todo: CHANGED
  generic_mio_trait_high_velocity_guns: "Děla vysoké rychlosti"
  generic_mio_trait_high_volume_smelter: "Vysokokapacitní tavicí pec"
  generic_mio_trait_highly_efficient_diesel_electric_propulsion_systems: "Vysoce efektivní diesel-elektrické pohony"
@@ -1655,7 +1655,7 @@
  CZE_mio_trait_reduce_use_of_wooden_parts: "Omezení použití dřevěné pažby"
  CZE_mio_trait_stamp_steel_components: "Lisovaná ocelová konstrukce"
  CZE_mio_trait_anti_tank_rifles: "Protitankové pušky"
- CZE_mio_trait_simplified_barrel_forging: "Zjednodušené kování hlavní"
+ CZE_mio_trait_simplified_barrel_forging: "Zjednodušené kování hlavně " # todo: CHANGED
  CZE_tank_destroyer_organization: "Konstruktér stíhačů tanků"
  CZE_mio_trait_initial_trait_tank_destroyer_guns_organization: "Návrhář stíhačů tanků"
  CZE_mio_trait_mobile_tank_destroyers: "Udeř a ustup"
@@ -1690,3 +1690,116 @@
  generic_mio_trait_salavage_destoryed_locomotives: "Záchrana zničených lokomotiv"
  generic_mio_trait_train_production_at_scale: "Velkosériová výroba"
  generic_mio_trait_machine_assembly: "Strojní montáž"
+ mio_cat_eq_only_light_cas: "Blízká letecká podpora a palubní CAS" # todo: NEW TRANSLATION
+ mio_cat_eq_only_light_nav: "Námořní bombardéry a palubní NAV" # todo: NEW TRANSLATION
+ AST_new_south_wales_government_railways_organization: "Vládní železnice Nového Jižního Walesu" # todo: NEW TRANSLATION
+ AST_vulcan_foundry_organization: "Slévárna Vulcan" # todo: NEW TRANSLATION
+ AST_nuffield_mechanizations_and_aero_organization: "Nuffield – mechanizace a letectví" # todo: NEW TRANSLATION
+ AST_american_car_and_foundry_organization: "American Car and Foundry" # todo: NEW TRANSLATION
+ AST_commonwealth_aircraft_corporation_organization: "Commonwealth Aircraft Corporation" # todo: NEW TRANSLATION
+ AST_government_aircraft_factories_organization: "Vládní továrny na letadla" # todo: NEW TRANSLATION
+ AST_de_havilland_australia_organization: "de Havilland Australia" # todo: NEW TRANSLATION
+ AST_gloster_aircraft_organization: "Gloster Aircraft" # todo: NEW TRANSLATION
+ AST_lockheed_organization: "Lockheed" # todo: NEW TRANSLATION
+ AST_curtiss-wright_organization: "Curtiss-Wright" # todo: NEW TRANSLATION
+ AST_lithgow_arms_organization: "Lithgow Arms" # todo: NEW TRANSLATION
+ AST_lysaght_organization: "Lysaght" # todo: NEW TRANSLATION
+ AST_holden_organization: "Holden" # todo: NEW TRANSLATION
+ AST_ford_australia_organization: "Ford Australia" # todo: NEW TRANSLATION
+ AST_vickers-ruwolt_organization: "Vickers-Ruwolt" # todo: NEW TRANSLATION
+ AST_evan_deakin_and_company_organization: "Evans Deakin & Company" # todo: NEW TRANSLATION
+ AST_morts_dock_organization: "Mort's Dock" # todo: NEW TRANSLATION
+ AST_cockatoo_docks_organization: "Cockatoo Docks" # todo: NEW TRANSLATION
+ AST_john_brown_and_company_organization: "John Brown & Company" # todo: NEW TRANSLATION
+ CHI_ncns_sino_german_technical_mission_organization: "$german_chinese_tank_designer$" # todo: NEW TRANSLATION
+ INS_nsm_amsterdam_name_nationalized: "NSM Jakarta" # todo: NEW TRANSLATION
+ INS_nsm_amsterdam_name_normal: "NSM Amsterdam" # todo: NEW TRANSLATION
+ INS_nsm_amsterdam_organization: "[INS_nsm_amsterdam_name]" # todo: NEW TRANSLATION
+ nsm_amsterdam_ins: "[INS_nsm_amsterdam_name]" # todo: NEW TRANSLATION
+ INS_marine_establishment_organization: "Marine Establishment" # todo: NEW TRANSLATION
+ marine_establishment_ins: "Marine Establishment" # todo: NEW TRANSLATION
+ INS_fokker_name_normal: "Fokker" # todo: NEW TRANSLATION
+ INS_fokker_name_nationalized: "IPT Nusantara" # todo: NEW TRANSLATION
+ INS_fokker_organization: "[INS_fokker_name]" # todo: NEW TRANSLATION
+ fokker_ins: "[INS_fokker_name]" # todo: NEW TRANSLATION
+ INS_knilm_name_normal: "KNILM" # todo: NEW TRANSLATION
+ INS_knilm_name_nationalized: "Garuda Indonesia" # todo: NEW TRANSLATION
+ INS_knilm_organization: "[INS_knilm_name]" # todo: NEW TRANSLATION
+ knilm: "[INS_knilm_name]" # todo: NEW TRANSLATION
+ INS_artillerie_inrichtingen_name_normal: "Artillerie Inrichtingen" # todo: NEW TRANSLATION
+ INS_artillerie_inrichtingen_name_nationalized: "Industri Persenjataan Negara" # todo: NEW TRANSLATION
+ INS_artillerie_inrichtingen_organization: "[INS_artillerie_inrichtingen_name]" # todo: NEW TRANSLATION
+ artillerie_inrichtingen_ins: "[INS_artillerie_inrichtingen_name]" # todo: NEW TRANSLATION
+ INS_artillerie_inrichtingen_pyrotechnische_name_normal: "AI Pyrotechnische" # todo: NEW TRANSLATION
+ INS_artillerie_inrichtingen_pyrotechnische_name_nationalized: "Industri Persenjataan Amunisi" # todo: NEW TRANSLATION
+ INS_artillerie_inrichtingen_pyrotechnische_organization: "[INS_artillerie_inrichtingen_pyrotechnische_name]" # todo: NEW TRANSLATION
+ artillerie_inrichtingen_pyrotechnische: "[INS_artillerie_inrichtingen_pyrotechnische_name]" # todo: NEW TRANSLATION
+ INS_bio_pharma_name_normal: "Landskoepok–Pasteur" # todo: NEW TRANSLATION
+ INS_bio_pharma_name_nationalized: "Bio Farma" # todo: NEW TRANSLATION
+ INS_bio_pharma_organization: "[INS_bio_pharma_name]" # todo: NEW TRANSLATION
+ bio_pharma: "[INS_bio_pharma_name]" # todo: NEW TRANSLATION
+ INS_machinefabriek_braat_name_normal: "N.V. Machinefabriek Braat" # todo: NEW TRANSLATION
+ INS_machinefabriek_braat_name_nationalized: "Pabrik Mesin Surabaya" # todo: NEW TRANSLATION
+ INS_machinefabriek_braat_organization: "[INS_machinefabriek_braat_name]" # todo: NEW TRANSLATION
+ machinefabriek_braat: "[INS_machinefabriek_braat_name]" # todo: NEW TRANSLATION
+ AST_mio_trait_lee_enfield_no1_mark3: "$AST_lee_enfield_no1_mark3$" # todo: NEW TRANSLATION
+ AST_mio_trait_owen_gun: "$AST_owen_gun$" # todo: NEW TRANSLATION
+ AST_mio_trait_better_ammo_supply: "Lepší zásoby munice" # todo: NEW TRANSLATION
+ AST_mio_trait_yeramba_engineering: "Yeramba – inženýrství" # todo: NEW TRANSLATION
+ AST_mio_trait_anti_tank_improvements: "Zlepšení protitankového vybavení" # todo: NEW TRANSLATION
+ AST_mio_trait_commonwealth_exports: "Vývoz Commonwealthu" # todo: NEW TRANSLATION
+ AST_mio_trait_defensive_emplacements: "Obranné opevnění" # todo: NEW TRANSLATION
+ AST_mio_trait_utility_conversions: "Konverze užitkových vozidel" # todo: NEW TRANSLATION
+ AST_mio_trait_all_australian_drive: "Celáustralský pohon" # todo: NEW TRANSLATION
+ AST_mio_trait_bush_modifications: "Úpravy pro odlehlý terén" # todo: NEW TRANSLATION
+ AST_mio_trait_light_vehicle_standardization: "Standardizace lehkých vozidel" # todo: NEW TRANSLATION
+ AST_mio_trait_corrugated_iron_ingenuity: "Vynalézavost z vlnitého plechu" # todo: NEW TRANSLATION
+ AST_mio_trait_integrated_steelworks: "Integrované ocelárny" # todo: NEW TRANSLATION
+ AST_mio_trait_mosquito_local_production: "Místní výroba Mosquito" # todo: NEW TRANSLATION
+ AST_mio_trait_timber_frame_mastery: "Mistrovství v dřevěných konstrukcích" # todo: NEW TRANSLATION
+ AST_mio_trait_high_altitude_calibration: "Kalibrace pro velkou výšku" # todo: NEW TRANSLATION
+ AST_mio_trait_nationalised_production_standards: "Národní výrobní standardy" # todo: NEW TRANSLATION
+ AST_mio_trait_trainer_to_combat_pipeline: "Převedení školních strojů do bojových" # todo: NEW TRANSLATION
+ AST_mio_trait_commonwealth_procurement_office: "Úřad pro nákupy Commonwealthu" # todo: NEW TRANSLATION
+ AST_mio_trait_boomerang_spirit: "Duch bumerangu" # todo: NEW TRANSLATION
+ AST_mio_trait_indigenous_airframe_design: "Domorodý návrh konstrukce trupu" # todo: NEW TRANSLATION
+ AST_mio_trait_wirraway_versatility: "Všestrannost Wirrawaye" # todo: NEW TRANSLATION
+ AST_mio_trait_raf_doctrine_integration: "Integrace doktríny RAF" # todo: NEW TRANSLATION
+ AST_mio_trait_gladiator_lessons_learned: "Poučení z Gladiatoru" # todo: NEW TRANSLATION
+ AST_mio_trait_jet_transition_pathway: "Cesta přechodu na proudové stroje" # todo: NEW TRANSLATION
+ AST_mio_trait_kittyhawk_reliability_programme: "Program spolehlivosti Kittyhawku" # todo: NEW TRANSLATION
+ AST_mio_trait_cross_pacific_logistics: "Logistika napříč Pacifikem" # todo: NEW TRANSLATION
+ AST_mio_trait_dive_bombing_refinement: "Zlepšení potápěčského bombardování" # todo: NEW TRANSLATION
+ AST_mio_trait_hudson_coastal_patrol: "Pobřežní hlídka Hudson" # todo: NEW TRANSLATION
+ AST_mio_trait_pacific_overwater_endurance: "Výdrž nad vodami Pacifiku" # todo: NEW TRANSLATION
+ AST_mio_trait_ventura_strike_packages: "Útočné sestavy Ventura" # todo: NEW TRANSLATION
+ AST_mio_trait_evans_deakin_coral_sea_hunters: "Lovci Korálového moře" # todo: NEW TRANSLATION
+ AST_mio_trait_evans_deakin_pacific_raider_refit: "Přestavba Pacific Raider" # todo: NEW TRANSLATION
+ AST_mio_trait_evans_deakin_lightweight_hull_construction: "Stavba lehkých trupů" # todo: NEW TRANSLATION
+ AST_mio_trait_morts_dock_convoy_protection_protocols: "Protokoly ochrany konvojů" # todo: NEW TRANSLATION
+ AST_mio_trait_morts_dock_sydney_harbour_defenders: "Obránci přístavu Sydney" # todo: NEW TRANSLATION
+ AST_mio_trait_morts_dock_endurance_refit_standards: "Standardy přestavby pro výdrž" # todo: NEW TRANSLATION
+ AST_mio_trait_cockatoo_docks_battle_damage_overhaul: "Opravy po bojovém poškození" # todo: NEW TRANSLATION
+ AST_mio_trait_cockatoo_docks_allied_fleet_servicing: "Servis spojenecké flotily" # todo: NEW TRANSLATION
+ AST_mio_trait_cockatoo_docks_drydock_capacity_expansion: "Rozšíření kapacity suchých doků" # todo: NEW TRANSLATION
+ AST_mio_trait_john_brown_clyde_built_standard: "Standard vyrobený u Clyde" # todo: NEW TRANSLATION
+ AST_mio_trait_john_brown_capital_ship_heritage: "Dědictví hlavních lodí" # todo: NEW TRANSLATION
+ AST_mio_trait_john_brown_wartime_surge_capacity: "Nouzová výrobní kapacita ve válce" # todo: NEW TRANSLATION
+ AST_mio_trait_nuffield_liberty_engine_refinement: "Vylepšení motoru Liberty" # todo: NEW TRANSLATION
+ AST_mio_trait_nuffield_cruiser_tank_lineage: "Linie křižníkových tanků" # todo: NEW TRANSLATION
+ AST_mio_trait_nuffield_pursuit_doctrine_optimisation: "Optimalizace stíhací doktríny" # todo: NEW TRANSLATION
+ AST_mio_trait_vulcan_matilda_pacific: "Matilda Pacific" # todo: NEW TRANSLATION
+ AST_mio_trait_vulcan_jungle_assault_modifications: "Úpravy pro útok v džungli" # todo: NEW TRANSLATION
+ AST_mio_trait_vulcan_slow_and_steady_resilience: "Pomalá a vytrvalá odolnost" # todo: NEW TRANSLATION
+ AST_mio_trait_nswgr_sentinel_casting_programme: "Program lití Sentinel" # todo: NEW TRANSLATION
+ AST_mio_trait_nswgr_railway_foundry_capacity: "Kapacita železniční slévárny" # todo: NEW TRANSLATION
+ AST_mio_trait_nswgr_progressive_up_armouring: "Postupné zesilování pancéřování" # todo: NEW TRANSLATION
+ AST_mio_trait_acf_production_pipeline: "Výrobní linka" # todo: NEW TRANSLATION
+ AST_mio_trait_acf_lend_lease_integration: "Integrace Lend-Lease" # todo: NEW TRANSLATION
+ AST_mio_trait_acf_arsenal_of_the_pacific: "Arzenál Pacifiku" # todo: NEW TRANSLATION
+ SIA_army_ordnance_department_organzation: "Oddělení lehkých zbraní vojenského materiálu" # todo: NEW TRANSLATION
+ SIA_army_ordnance_department_artillery_organzation: "Oddělení dělostřelectva vojenského materiálu" # todo: NEW TRANSLATION
+ SIA_thai_rung_organization: "Thai Rung" # todo: NEW TRANSLATION
+ SIA_directorate_of_aeronautical_engineering: "Ředitelství leteckého inženýrství" # todo: NEW TRANSLATION
+ SIA_chaiseri_organization: "Chaiseri" # todo: NEW TRANSLATION
+ SIA_bangkok_dock_organization: "Loděnice Bangkok" # todo: NEW TRANSLATION

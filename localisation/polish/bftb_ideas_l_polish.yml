@@ -124,7 +124,7 @@
  GRE_alexandros_papagos: "Alexandros Papagos"
  GRE_alexandros_papagos_theorist: "Alexandros Papagos"
  GRE_ancient_talents: "Starověké schopnosti"
- GRE_ancient_talents_desc: "Od dob doby bronzové máme vztah k námořnictví. Pěstováním silné námořní tradice vzdáváme hold osvědčené tradici, která nám koluje v krvi."
+ GRE_ancient_talents_desc: "Vždy jsme měli sklony k námořnictví už od dob doby bronzové. Pěstováním silné námořní tradice vzdáváme hold dědictví, které máme v krvi." # todo: CHANGED
  GRE_aristeidis_dimitratos: "Aristídis Dimitrátos"
  GRE_aristotle_onassis: "Aristoteles Onassis"
  GRE_astilleros_onassis: "Astilleros Onassis"
@@ -187,9 +187,9 @@
  GRE_friendly_monarchists: "Přátelští £faction_gre_monarchist monarchisté"
  GRE_friendly_republicans: "Přátelští £faction_gre_venezelist republikáni"
  GRE_george_ii: "Jiří II."
- GRE_george_ii_desc: "Jiří II. je nepopulární král Řeků, který se v roce 1935 vrátil na trůn z exilu díky zmanipulovanému referendu. Tentokrát je odhodlán si trůn udržet."
+ GRE_george_ii_desc: "George II je neoblíbený král Řeků, který byl v roce 1935 díky zmanipulovanému plebiscitu z exilu opět dosazen na trůn. Tentokrát je odhodlán svůj trůn udržet." # todo: CHANGED
  GRE_george_ii_restrained: "Jiří II."
- GRE_george_ii_restrained_desc: "Jiří II. je kontroverzní řecký král, který se v roce 1935 díky zmanipulovanému referendu vrátil z exilu na trůn. Aby status tohoto jednoho muže znovu nerozdělil řecký národ, umožnili Venezelisté Jiřímu II. zůstat konstitučním monarchou podle švédského modelu."
+ GRE_george_ii_restrained_desc: "George II je rozporuplný král Řeků, který byl v roce 1935 díky zmanipulovanému plebiscitu z exilu opět dosazen na trůn. Místo aby postavení tohoto jediného muže opět roztrhlo řecký národ, venizelisté dovolili Georgovi II. zůstat ústavním monarchou na švédském modelu." # todo: CHANGED
  GRE_georgios_kosmas: "Geórgios Kosmás"
  GRE_georgios_tsolakoglou: "Geórgios Tsolákoglu"
  GRE_grabin_design_bureau: "Konstrukční kancelář Grabin"
@@ -294,7 +294,7 @@
  GRE_schachtplan_modified: "Schachtplan"
  GRE_schachtplan_modified_desc: "Dílo geniálního Hjalmara Schachta, Schachtplan, zaručuje Řecku přístup na německé trhy výměnou za upřednostněný přístup na trh pro řecké suroviny. Němci nás v minulosti velkoryse drželi nad vodou a společně jsme vybudovali skutečně výjimečný hospodářský vztah."
  GRE_security_batallions: "Bezpečnostní prapory"
- GRE_security_batallions_desc: "Abychom udrželi pořádek na okupovaných územích i doma, byli jsme nuceni zformovat bezpečnostní prapory složené z nejzapálenějších fašistů, jaké národ nabízí."
+ GRE_security_batallions_desc: "Abychom udrželi pořádek na okupovaném území i v naší vlastní zemi, byli jsme nuceni vytvořit bezpečnostní prapory složené z nejzarytějších fašistů, které naše země nabízí." # todo: CHANGED
  GRE_siemens: "Siemens"
  GRE_small_investment: "Malá investice pro [GRE.GetNameDef]"
  GRE_small_investment_desc: "Učinili jsme skromnou investici do [GRE.GetAdjective] ekonomiky."
@@ -332,7 +332,7 @@
  GRE_venerate_the_ancient_hellenes_6: "Uctít starověké Helény"
  GRE_venerate_the_ancient_hellenes_6_desc: "Poučíme se z vynalézavosti thébských válečníků, kteří zvrhli spartskou hegemonii, a z příkladu Argeovců, kteří z prosté Makedonie dobyli polovinu známého světa."
  GRE_venerate_the_ancient_hellenes_7: "Uctít starověké Helény"
- GRE_venerate_the_ancient_hellenes_7_desc: "Poučíme se od athénských filosofů, kteří vytvořili pojem demokracie v podobě, jak ji známe dnes, a z příkladu Argeovců, kteří z prosté Makedonie dobyli polovinu známého světa."
+ GRE_venerate_the_ancient_hellenes_7_desc: "Poučíme se od athénských filozofů, kteří vytvořili koncept demokracie, jak ji známe dnes, a z příkladu Argeadů, kteří dobili polovinu známého světa, a to z pokorné Makedonie." # todo: CHANGED
  GRE_venerate_the_ancient_hellenes_8: "Uctít starověké Helény"
  GRE_venerate_the_ancient_hellenes_8_desc: "Stále v sobě máme všechny kvality, které učinily naše předky velikými, a stačí jen malý popud, abychom je v našem lidu znovu probudili."
  GRE_venerate_the_ancient_hellenes_spirit: "Uctít starověké Helény"
@@ -436,7 +436,7 @@
  TUR_emergency_fortification_directive_desc: "Zlé časy si žádají tvrdá opatření a byli jsme nuceni rychle vyčlenit prostředky na výstavbu opevnění. V sázce může být samotná naše existence."
  TUR_etatism: "Etatismus"
  TUR_etatism_2: "Etatismus"
- TUR_etatism_2_desc: "Naše smíšená ekonomika nemá ve světě obdoby: obsahuje prvky britského liberalismu, italského korporativismu a sovětského centrálního plánování. Je dokonalou syntézou hospodářských modelů a korunním klenotem kemalistického systému, ale nesmíme na ni vyvíjet přílišný tlak tím, že se budeme zároveň snažit udržet válečnou ekonomiku. \n\n§RPokud zpřísníme hospodářský zákon, měli bychom být připraveni na další tření mezi našimi nekompatibilními ekonomickými modely.§!"
+ TUR_etatism_2_desc: "Naše smíšená ekonomika nemá nikde jinde na světě obdoby: obsahuje prvky britského liberalismu, italského korporativismu a sovětského centrálního plánování. Je to dokonalá syntéza ekonomických modelů a klenot kemalistického systému, ale musíme si dát pozor, abychom na ni nevyvíjeli příliš velký tlak tím, že bychom se současně snažili udržovat válečnou ekonomiku.\n\n§RPokud posuneme náš zákon o ekonomice, měli bychom být připraveni na další třenice mezi našimi neslučitelnými ekonomickými modely.§!" # todo: CHANGED
  TUR_etatism_3: "Etatismus"
  TUR_etatism_3_desc: "Naše smíšená ekonomika nemá ve světě obdoby: obsahuje prvky britského liberalismu, italského korporativismu a sovětského centrálního plánování. Je dokonalou syntézou hospodářských modelů a bývala korunním klenotem kemalistického systému, avšak její síly jsme přetížili snahou současně udržovat válečnou ekonomiku. Možná musíme přehodnotit vyhlídky a etatistický experiment ukončit. \n\n§RPokud zpřísníme hospodářský zákon, měli bychom být připraveni na další tření mezi našimi nekompatibilními ekonomickými modely.§!"
  TUR_etatism_4: "Etatismus"
@@ -484,7 +484,7 @@
  TUR_kamil_tolon: "Kamil Tolon"
  TUR_kazim_karabekir: "Kâzım Karabekir"
  TUR_kemalism_with_socialist_characteristics: "Kemalismus se socialistickými rysy"
- TUR_kemalism_with_socialist_characteristics_desc: "Nemáme zájem se kemalismu zbavovat - zrušením naší domácí pokrokové ideologie bychom světu neposloužili. Kemalismus je dostatečně pružný, aby jej bylo možné přibližit marxistickým hodnotám, aniž by se zcela rozrušily jeho základy."
+ TUR_kemalism_with_socialist_characteristics_desc: "Nemáme zájem se Kemalismu zbavovat — byl by to krok proti vlastní pokrokové domácí ideologii. Kemalismus je dostatečně dynamický, aby jej bylo možné upravit tak, aby více odpovídal marxistickým hodnotám, aniž by byly zcela erodovány jeho základy." # todo: CHANGED
  TUR_kemalist_army_officers_decreased_power_disloyal: "Kemalističtí důstojníci"
  TUR_kemalist_army_officers_decreased_power_disloyal_desc: "Turecký důstojnický sbor patří k nejzapřisáhlejším obráncům kemalistických hodnot. Kemalismus zaznamenal určité neúspěchy při získávání podpory lidu, což důstojníci z velké části přičítají politice a krokům současné vlády."
  TUR_kemalist_army_officers_decreased_power_loyal: "Kemalističtí důstojníci"
@@ -557,7 +557,7 @@
  TUR_reformism: "Reformismus"
  TUR_reformism_desc: "Obzory Západu mohou být ohraničeny ocelovými zdmi, ale mé hranice střeží mocné srdce věřícího. Nechť se ozývá, nebojte se! A zamyslete se: jak by mohla být tato ohnivá víra někdy uhašena tím zbitým monstrem s jedním zubem, kterému říkáte „civilizace“?"
  TUR_refugees_from_the_fascist_menace: "Uprchlíci před fašistickou hrozbou"
- TUR_refugees_from_the_fascist_menace_desc: "Fašisté praktikují politiku exkluzivity a porušují nezadatelné lidské práva na každém kroku. Jejich činy jsou monstrózní a ochrana a podpora těch, kteří prchají před fašistickými předsudky, je to nejmenší, co můžeme udělat."
+ TUR_refugees_from_the_fascist_menace_desc: "Fašisté praktikují politiku výlučnosti a na každém kroku porušují nezcizitelná práva člověka. Jejich činy jsou monstrózní a ochrana těch, kteří prchají před fašistickým předsudkem, je to nejméně, co můžeme udělat." # todo: CHANGED
  TUR_republicanism: "Republikanismus"
  TUR_republicanism_desc: "Neboť nezávislost je nezadatelným právem mého Boha uctívajícího národa!"
  TUR_revolutionary_brigades_from_abroad: "Revoluční brigády ze zahraničí"
@@ -598,7 +598,7 @@
  TUR_the_coordinated_armed_forces_of_the_balkan_pact: "Koordinované ozbrojené síly Balkánské dohody"
  TUR_the_coordinated_armed_forces_of_the_balkan_pact_desc: "Naše síla pramení z jednoty. Koordinujeme jako jeden, bojujeme jako jeden, padáme jako jeden. Až prach usedne a děla umlknou, Balkánská dohoda bude stále stát."
  TUR_the_redshirts: "Rudé košile"
- TUR_the_redshirts_desc: "Rudé košile jsou naše vlastní fašistická polovojenská milice, která hlídkuje v ulicích našich měst a dbá na to, aby lidé striktně dodržovali zásady kemalismu. Občas mohou být příliš prudcí, s „železným srdcem“ a hlavami plnými revolučního idealismu - ale alespoň je jejich věc spravedlivá!"
+ TUR_the_redshirts_desc: "Rudé košile jsou naše vlastní paramilitární fašistická milice, která hlídá ulice našich měst a zajišťuje, že lidé striktně dodržují principy kemalismu. Mohou být občas trochu násilní, se srdcem z železa a hlavami plnými revolučního idealismu, ale jejich věc je alespoň spravedlivá!" # todo: CHANGED
  TUR_the_revolutionary_officer_college_of_kars: "Revoluční důstojnická škola v Karsu"
  TUR_the_revolutionary_officer_college_of_kars_desc: "Kars je město s bohatou historií a jelikož má k němu blízko i [SOV.GetNameDef], je ideálním místem pro založení nové politické důstojnické školy. Naši důstojníci se zde budou učit nejen základy válčení, ale také složitosti marxistické doktríny."
  TUR_three_year_plan_balkans: "Sdílený tříletý plán"
@@ -616,18 +616,18 @@
  TUR_turkish_workers_militia: "Turecká dělnická milice"
  TUR_turkish_workers_militia_desc: "Těmi, kdo jsou v nejlepší pozici bránit práva pracujících, jsou sami pracující. Samozřejmě, trocha vedení od naší vlády a sem tam nějaké memorandum z Moskvy jen zvýší jejich účinnost jako dělnické milice."
  TUR_tuz_golu_training_facility: "Výcvikové středisko u Tuz Gölü"
- TUR_tuz_golu_training_facility_desc: "Středomořské klima naší země není vhodným prostředím pro výcvik našich vojáků, aby mohli adekvátně operovat v suchém podnebí. Rozhodli jsme se vybudovat výcvikové zařízení v blízkosti slaného jezera Tuz Gölü, aby naše jednotky byly lépe připraveny bojovat v suchém prostředí."
+ TUR_tuz_golu_training_facility_desc: "Středomořské klima naší země není vhodné pro výcvik vojáků tak, aby dokázali řádně operovat v aridních (suchých) podmínkách. Rozhodli jsme se vybudovat výcvikové zařízení v blízkosti solného jezera Tuz Gölü, aby byly naše jednotky lépe připraveny na boj ve vysušených prostředích." # todo: CHANGED
  TUR_ultranationalism: "Ultranacionalismus"
  TUR_ultranationalism_desc: "Ať mi Bůh vezme život, mé blízké i všechen majetek, bude-li chtít - jen ať mě nepřipraví o jedinou pravou vlast na světě. Tyto adhány a jejich vyznání jsou základy mé víry - kéž jejich ušlechtilý zvuk hřmí napříč mou věčnou vlastí."
  TUR_united_balkan_security_forces: "Sjednocené balkánské bezpečnostní síly"
- TUR_united_balkan_security_forces_desc: "Sdílené bezpečnostní prapory jsou přirozeným posunem od časté výměny bojových plánů a zpravodajství mezi našimi generálními štáby. Tím, že nám uleví od dohledu nad vnitřními hranicemi, sníží zátěž národních armád a zlepší naši připravenost na válku."
+ TUR_united_balkan_security_forces_desc: "Sdílené bezpečnostní prapory jsou přirozenou eskalací časté výměny bojových plánů a zpravodajských informací mezi členy našich vrchních štábů. Zmírněním části tlaku na nás při hlídaní vnitřních hranic odlehčíme našim národním armádám a lépe se připravíme na válku." # todo: CHANGED
  TUR_varlik_vergisi_spirit: "Varlık Vergisi"
  TUR_varlik_vergisi_spirit_desc: "Tato „daň z majetku“ je jen zlehka zastřeným návratem daně džizja - možná budeme muset zvážit její zrušení, než ztratíme i pouhou iluzi, že spravujeme sekulární republiku."
  TUR_vecihi_hurkus: "Vecihi Hürkuş"
  TUR_victory_at_all_costs: "Vítězství za každou cenu"
  TUR_victory_at_all_costs_desc: "Nebojujeme jako národ zuby nehty ve válce za nezávislost proto, abychom byli o pár desetiletí později vyhlazeni. Ne - [TUR.GetNameDef] svůj příběh tímto nekončí. Nesmíme padnout - a nepadneme!"
  TUR_widespread_illiteracy_idea: "Rozšířená negramotnost"
- TUR_widespread_illiteracy_idea_desc: "Přestože se gramotnost v naší zemi od počátečního zavedení reformy abecedy a jazyka díky Atatürkově kampani za gramotnost a národním vzdělávacím programům výrazně zvýšila, a dokonce mu vynesla titul başöğretmen, stále zbývá mnoho práce."
+ TUR_widespread_illiteracy_idea_desc: "Ačkoliv se gramotnost v naší zemi od počátečních zavedení abecedy a jazykových reforem výrazně zvýšila díky Atatürkově kampani za gramotnost a národním vzdělávacím programům, až do té míry, že si vysloužil titul başöğretmen, je stále mnoho práce před námi." # todo: CHANGED
  TUR_zeki_dogan: "Zeki Doğan"
  TUR_zeki_velidi_togan: "Zeki Velidi Togan"
  cgt: "Compagnie Générale Transatlantique"

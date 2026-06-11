@@ -26,7 +26,7 @@
  CZE_a_divided_nation_bridge_the_divide: "Překlenout rozdělení"
  CZE_a_divided_nation_event_tt: "Můžeme vybrat další rozhodnutí §Y$CZE_a_divided_nation_category$§!."
  CZE_crisis_in_the_sudentenland: "Sudetská krize"
- CZE_crisis_in_the_sudentenland_desc: "Sudetské polovojenské jednotky povstaly v Sudetech a zahájily proti nám partyzánskou válku. Pokračující střety s našimi silami uvrhly situaci do chaosu. Musíme ji dostat pod kontrolu, a to dříve, než ji některý nepřítel využije."
+ CZE_crisis_in_the_sudentenland_desc: "Sudetské polovojenské oddíly povstaly v Sudetech a zahájily partyzánskou válku proti nám. Probíhající střety s našimi silami vedly k tomu, že se situace zvrhla v chaos. Musíme situaci dostat pod kontrolu dříve, než toho jakýkoli nepřítel využije." # todo: CHANGED
  CZE_tackle_crisis_in_the_sudentenland: "Vykořenit polovojenské buňky - §Y[FROM.GetName]§!"
  SOV_airlift_troops_into_czechoslovakia: "Letecky přesunout vojska do [CZE.GetNameDef]"
  CZE_soviet_airlift_tt: "Všechna vojska v §Y[199.GetName]§! budou přepravena na [CZE.GetAdjective] letiště v §Y[73.GetName]§!"
@@ -62,7 +62,7 @@
  CZE_form_the_european_federation_HUN_tt: "Získá domovské území v maďarských státech"
  CZE_form_the_european_federation_AUS_tt: "Získá domovské území v západorakouských státech"
  CZE_form_the_european_federation_POL_tt: "Získá domovské území v jižním Polsku"
- CZE_form_the_european_federation_GER_tt: "Získá domovské území v některých sousedních německých státech"
+ CZE_form_the_european_federation_GER_tt: "Získat domovská území v některých sousedních německých státech" # todo: CHANGED
  CZE_form_the_european_federation_ROM_tt: "Získá domovské území v severním Rumunsku"
  CZE_form_the_european_federation_YUG_tt: "Získá domovské území v některých jugoslávských státech"
  CZE_demands_aus_joins_us: "Požadovat, ať se [AUS.GetName] připojí k naší federaci"

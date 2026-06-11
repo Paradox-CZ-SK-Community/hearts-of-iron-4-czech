@@ -141,11 +141,11 @@
  BEL_belgian_legion_dynamic_modifier: "Belgická legie"
  BEL_belgian_legion_dynamic_modifier_desc: "Shluk konzervativních a monarchistických loajalistů je připraven a dychtí chopit se zbraní ve jménu svého krále."
  BEL_belgian_miracle_dynamic_modifier: "Belgický zázrak"
- BEL_belgian_miracle_dynamic_modifier_desc: "[ROOT.GetLeader] prosazoval jisté politiky a ty se opravdu vyplatili. [ROOT.GetName] vystupuje na světovou scénu - její průmysl udivuje mnohé z takzvaných velmocí."
+ BEL_belgian_miracle_dynamic_modifier_desc: "Politiky [ROOT.GetLeader] se opravdu vyplatily a [ROOT.GetName] se prosadilo na světové scéně; jeho průmysl je zázrakem mnoha takzvaných velmocí." # todo: CHANGED
  BEL_belgian_resistance_state_dynamic_modifier: "Belgický odboj"
  BEL_belgian_resistance_state_dynamic_modifier_desc: "Našim lidem není okupace neznámá, mnozí se během poslední války naučili lekci občanské neposlušnosti a odporu."
  BEL_burgundian_heritage_ns: "Burgundské dědictví"
- BEL_burgundian_heritage_ns_desc: "Navazujíce na prosperitu burgundského zlatého věku je vojenský, politický a ekonomický potenciál národa opět nezpochybnitelný."
+ BEL_burgundian_heritage_ns_desc: "Když čerpáme z prosperity burgundského zlatého věku, je vojenský, politický a ekonomický potenciál národa opět zřetelný." # todo: CHANGED
  BEL_chasseurs_ardennais_ns: "Chasseurs Ardennais"
  BEL_chasseurs_ardennais_ns_desc: "Chasseurs Ardennais jsou ostřílení obránci belgických Arden, mimořádně zkušení a vycvičení v lesním boji."
  BEL_cockerill_industrial: "Cockerill"
@@ -189,7 +189,7 @@
  BEL_engine_of_the_economy_dynamic_modifier_desc: "Všichni nastupte do expresu směřujícího k prosperitě! Jak se kola průmyslu otáčejí, nabíráme rychlost, řítíme se vpřed a ohlašujeme začátek nové éry."
  BEL_engine_to_miracle_tt: "Nahradí §Y$BEL_engine_of_the_economy_modifier$§! za §Y$BEL_belgian_miracle_dynamic_modifier$§!."
  BEL_european_crusade_dynamic_modifier: "Evropská křížová výprava"
- BEL_european_crusade_dynamic_modifier_desc: "Jsme srdcem evropského ideálu a s supy kroužícími nad jeho hranicemi je na naší neochvějné odhodlanosti, abychom barbarské hrozby, ať už mají jakoukoli podobu, zmařili."
+ BEL_european_crusade_dynamic_modifier_desc: "Jsme bijícím srdcem evropského ideálu, a protože kolem jeho hranic krouží supi, je na našem pevném odhodlání zmařit barbarské hrozby, ať už budou mít jakoukoli podobu." # todo: CHANGED
  BEL_european_crusade_dynamic_modifier_rexist_tt: "Přidá §Y$BEL_european_crusade_dynamic_modifier$ (Rexisté)§!:"
  BEL_european_crusade_dynamic_modifier_tt: "Zlepší §Y$BEL_european_crusade_dynamic_modifier$§! o:"
  BEL_european_crusade_dynamic_modifier_vnv_tt: "Přidá §Y$BEL_european_crusade_dynamic_modifier$ (VNV)§!:"
@@ -204,7 +204,7 @@
  BEL_king_law_freedom_ns: "Král, právo, svoboda"
  BEL_king_law_freedom_ns_desc: "Heslo Belgie dobře vystihuje belgickou mysl. Král - ten, kdo nás povede k vítězství. Právo - meč tnoucí do chaosu války. Svoboda - pro Belgii a Belgičany."
  BEL_lack_of_junior_officers_ns: "Nedostatek nižších důstojníků"
- BEL_lack_of_junior_officers_ns_desc: "Rychlá mobilizace našich sil proběhla obecně dobře až na jeden problém: chybí nám nižší důstojníci, kteří by zorganizovali nové brance! Nějakou dobu potrvá, než se vojenská hierarchie znovu uspořádá."
+ BEL_lack_of_junior_officers_ns_desc: "Rychlá mobilizace našich sil probíhala celkově dobře, kromě jednoho problému: nedostatku nižších důstojníků, kteří by organizovali naše nové rekruty! Chvilku potrvá, než se vojenská hierarchie opět srovná." # todo: CHANGED
  BEL_language_barriers_fas_fr_ns: "Nadřazenost francouzštiny"
  BEL_language_barriers_fas_fr_ns_desc: "Jako primární jazyk užívaný v rámci [ROOT.GetName] byla zvolena francouzština; ve jménu jednoty je podporována valonská kultura a vlámská potlačována."
  BEL_language_barriers_fas_nl_ns: "Nadřazenost nizozemštiny"
@@ -296,7 +296,7 @@
  COG_brown_water_navy_idea_desc: "Řeky, které se vinou džunglemi střední Afriky, nejsou naší armádou dostatečně využívány. Rozšíříme naši říční flotilu o několik malých útočných člunů, aby poskytovaly podporu našim vojákům, když jsou daleko od posil či zásobování."
  COG_bundu_dia_kongo_idea: "Bundu dia Kongo"
  COG_burundian_separatism_modifier: "Burundský separatismus"
- COG_burundian_separatism_modifier_desc: "V tomto regionu bují separatistické nálady a pokud by se Kongo stalo nezávislým, je pravděpodobné, že se pokusí vytvořit vlastní stát."
+ COG_burundian_separatism_modifier_desc: "Tento region je nasycen separatistickými náladami a pravděpodobně se pokusí vytvořit vlastní stát, pokud by se Kongo stalo nezávislým." # todo: CHANGED
  COG_cattle_chiefs: "Náčelníci dobytka"
  COG_ccci: "Compagnie du Congo pour le Commerce et l'Industrie"
  COG_central_military_structure: "Centralizovaná vojenská struktura"
@@ -324,9 +324,9 @@
  COG_heat_resistant_cobalt_small_idea: "Žáruvzdorný kobalt"
  COG_in_the_sterling_area: "Součást Šterlingového bloku"
  COG_kasai_separatism_modifier: "Kasajský separatismus"
- COG_kasai_separatism_modifier_desc: "Region Kasaj vykazuje silné separatistické nálady a v případě války o konžskou nezávislost se jeho obyvatelé pravděpodobně postaví proti koloniálním pánům."
+ COG_kasai_separatism_modifier_desc: "Region Kasai má silné separatistické nálady a jeho obyvatelé budou pravděpodobně povstávat a bojovat proti svým koloniálním pánům v případě války za kongolskou nezávislost." # todo: CHANGED
  COG_katanga_separatism_modifier: "Katangský separatismus"
- COG_katanga_separatism_modifier_desc: "Tento region se v případě války o konžskou nezávislost pravděpodobně přikloní na stranu Belgičanů jako samostatný stát."
+ COG_katanga_separatism_modifier_desc: "Tento region se pravděpodobně postaví na stranu Belgičanů jako samostatný stát v případě války za kongolskou nezávislost." # todo: CHANGED
  COG_kongo_volunteer_force_idea: "Pankonžští dobrovolníci"
  COG_loango_royal_council: "Královská rada Loanga"
  COG_long_term_debt_payment: "Dlouhodobý dluh za nezávislost"
@@ -345,7 +345,7 @@
  COG_royal_council_of_kongo_idea: "Ne Mbanda-Mbanda"
  COG_ruanda_urundian_conscription_drive_idea: "Odvodová kampaň v Rwandě-Urundi"
  COG_rwandan_separatism_modifier: "Rwandský separatismus"
- COG_rwandan_separatism_modifier_desc: "V tomto regionu bují separatistické nálady a v případě, že by se Kongo stalo nezávislým, se pravděpodobně pokusí vytvořit vlastní stát."
+ COG_rwandan_separatism_modifier_desc: "Tento region je nasycen separatistickými náladami a pravděpodobně se pokusí vytvořit vlastní stát, pokud by se Kongo stalo nezávislým." # todo: CHANGED
  COG_sabena_civilian_designer: "Société Anonyme Belge d'Exploitation de la Navigation Aérienne"
  COG_sabena_organization: "SABENA"
  COG_short_term_massive_debt_payment: "Krátkodobý dluh za nezávislost"
@@ -362,7 +362,7 @@
  COG_the_arme_populaire_de_liberation_idea: "Armée Populaire de Libération"
  COG_the_echo_of_katanga_modifier: "Ozvěna Katangy"
  COG_the_invisible_roof: "Neviditelný strop"
- COG_the_invisible_roof_desc: "Ačkoli to nestanovuje žádný zákon, většina institucí a firem v Kongu brání domorodým Konžanům postoupit nad určité posty a nepřipouští je k vyššímu vzdělání."
+ COG_the_invisible_roof_desc: "Ačkoliv neexistují zákony, které by to oficializovaly, většina, pokud ne všechny instituce a korporace v [ROOT.GetNameDef] brání domorodým Kongolezcům vystoupat nad určité postavení a není jim povolen přístup ke vyššímu vzdělání." # todo: CHANGED
  COG_traditional_kuba_textiles: "Export tradičních textilií Kuba"
  COG_traditional_masks_and_armor_idea: "Kubská zbroj a masky"
  COG_transports_et_ports: "Société Commerciale des Transports et des Ports"
@@ -613,7 +613,7 @@
  GER_rudeltaktik_ns_desc: "Naše vlčí smečky U-bootů pročesávají moře a hledají novou kořist. Používání Rudeltaktik jim umožnilo lépe se koordinovat a zasahovat nepřátelům do živé tepny - jejich závislosti na otevřených mořských trasách."
  GER_rwe: "RWE"
  GER_safeguard_finland_idea: "Ochrana před bolševismem"
- GER_safeguard_finland_idea_desc: "Finsko bylo ještě před pár desetiletími součástí Ruské říše a je nasnadě, že se [GER.GetRussiansDemonym] mohou pokusit je znovu anektovat. Německo proto nabídlo plnou podporu proti východní hrozbě."
+ GER_safeguard_finland_idea_desc: "Finsko bylo ještě před několika desetiletími součástí Ruského impéria, a není tedy nijak nepravděpodobné, že by se [GER.GetRussiansDemonym] mohli pokusit je znovu anektovat. Proto Německo nabídlo svou plnou podporu proti východnímu ohrožení." # todo: CHANGED
  GER_safeguard_poland_idea: "Ochránit Polsko"
  GER_sentinels_of_the_pacific_modifier: "Strážci Pacifiku"
  GER_shatter_USA_hegemony: "Rozdrtit [USA.GetAdjective] hegemonii"
@@ -643,7 +643,7 @@
  GER_the_kammhuber_line_desc: "Nesmíme dovolit, aby nad [ROOT.GetNameDef] volně létaly nepřátelské bombardéry a stíhačky. Vybudováním propracovaného systému překrývajících se radarových sektorů je zachytíme dřív, než dorazí do našeho srdce země."
  GER_the_new_schlieffen_plan: "Nový Schlieffenův plán"
  GER_the_shield_of_democracy_idea: "Štít demokracie"
- GER_the_shield_of_democracy_idea_desc: "Naše země stojí jako hrdý štít západních demokratických hodnot a je připravena chránit své občany i spojence před jakoukoli autoritářskou tyranií."
+ GER_the_shield_of_democracy_idea_desc: "Naše země stojí jako hrdý štít západních demokratických hodnot a je připravena chránit svůj lid a spojence proti jakémukoli autoritářskému útlaku." # todo: CHANGED
  GER_times_GER_alfred_rosenberg_has_been_modified_tt: "Počet možných zlepšení rysu §Y$GER_alfred_rosenberg_modifier$§!: §Y[?ROOT.GER_count_down_alfred_rosenberg_upgrades|0]§!"
  GER_todt_reich_engineer: "Říšský inženýr"
  GER_todt_reich_minister_of_armaments: "Říšský ministr zbrojení"

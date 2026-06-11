@@ -71,7 +71,7 @@
  air_torpedoe_2: "Vylepšené letecké torpéda"
  air_torpedoe_2_desc: "Standardizované úchyty a parametry umožňují vývoj větších a výkonnějších torpéd a zvyšují jejich obecnou užitečnost."
  air_torpedoe_3: "Pokročilé letecké torpéda"
- air_torpedoe_3_desc: "Vývoj lehkého kování určeného k odhození při vstupu do vody poskytuje leteckým torpédům výrazně vyšší přesnost a také vyšší bezpečnost pro letadlo provádějící shoz."
+ air_torpedoe_3_desc: "Vývoj lehkých uchycení navržených tak, aby se uvolnila při nárazu do vody, dává leteckým torpédům výrazně vyšší přesnost a současně zvyšuje bezpečnost letounu provádějícího svržení." # todo: CHANGED
  aircraft_cannon_1_1x: "1x kanón I"
  aircraft_cannon_1_1x_desc: "Automatický kanón poskytuje značnou palebnou sílu proti vzdušným cílům, ale jeho hmotnost zpomaluje letoun a snižuje jeho obratnost."
  aircraft_cannon_1_2x: "2x kanón I"
@@ -87,7 +87,7 @@
  armor_piercing_bomb_locks: "Závěsníky pro průbojné pumy"
  armor_piercing_bomb_locks_desc: "Závěsníky pro velké průbojné pumy pod křídly nebo trupem umožňují letounům efektivně útočit na námořní cíle."
  armor_piercing_bombs: "Průbojné pumy"
- armor_piercing_bombs_desc: "Válečné lodě neustále zesilují pancéřování palub, a proto je nutné vyvinout specializované pumy schopné tento pancíř prorazit."
+ armor_piercing_bombs_desc: "Válečné lodě postupně zvyšovaly pancéřování paluby. Aby bylo možné jim čelit, je třeba vyvinout speciální bomby schopné proniknout touto ochranou." # todo: CHANGED
  armor_plate_large: "$armor_plate_small$"
  armor_plate_large_desc: "Rozsáhlé ocelové pancéřování chrání motory, palivové nádrže i kabinu posádky, což umožňuje letounu odolat téměř všemu kromě přímého zásahu protiletadlovou palbou a výrazně ztěžuje jeho sestřelení stíhači."
  armor_plate_medium: "$armor_plate_small$"
@@ -105,11 +105,11 @@
  bomb_locks: "Závěsníky pro pumy"
  bomb_locks_desc: "Závěsníky pro lehké pumy pod křídly nebo trupem umožňují letounu útočit na pozemní cíle s určitou šancí na úspěch."
  bomb_sights_1: "Zaměřovač bomb I"
- bomb_sights_1_desc: "Složitý mechanický počítač, který zohledňuje boční vítr, konečnou rychlost a výšku letu, umožňuje bombometčíkovi odhodit pumy s vysokou přesností."
+ bomb_sights_1_desc: "Komplexní mechanický počítač, který zohledňuje odchylku větru, konečnou rychlost pádu a výšku, umožňuje bombardérovi svrhnout bomby s vysokou přesností." # todo: CHANGED
  bomb_sights_2: "Zaměřovač bomb II"
  bomb_sights_2_desc: "Zatímco starší typy bombových zaměřovačů vyžadovaly zdlouhavé nastavování, tento plně stabilizovaný zaměřovač určí cíl během několika sekund a dokáže kompenzovat i mělké střemhlavé lety."
  bouncing_bomb_release: "Závěsník pro skákající pumy"
- bouncing_bomb_release_desc: "Závěsník pro speciální skákající pumy, které se po dopadu odrážejí po vodní hladině až k cíli. Mechanismus při odhozu roztočí bombu dozadu, což zvyšuje pravděpodobnost zásahu požadovaného strukturálního cíle."
+ bouncing_bomb_release_desc: "Zásobník bomb pro nesení a uvolňování speciálních odskakujících bomb, které kloužou po vodě, dokud nedosáhnou cíle. Mechanismus dává bombě při uvolnění zpětnou rotaci, což zvyšuje pravděpodobnost zasažení zamýšleného stavebního cíle." # todo: CHANGED
  cannon_defense_turret: "Střelecká věž s kanónem"
  cannon_defense_turret_2x: "Dvojice střeleckých věží s kanónem"
  cannon_defense_turret_2x_desc: "Dvě věže vyzbrojené automatickými kanóny dávají letounu hrozivou obrannou palebnou sílu - každý útok stíhače se tak stává krajně nebezpečným podnikem."
@@ -168,7 +168,7 @@
  cv_small_plane_suicide_airframe_desc: "$cv_small_plane_airframe_desc$"
  cv_small_plane_suicide_airframe_short: "Palubní sebevraždné letadlo"
  demining_coil: "Odmínovací cívka"
- demining_coil_desc: "Velká cívka namontovaná na draku letounu vytváří silné magnetické pole, které způsobuje předčasné odpálení magnetických min v jeho letové dráze."
+ demining_coil_desc: "Velká cívka připevněná na trupu umožňuje letounu vytvořit silné magnetické pole, které způsobí výbuch magnetických min v jeho letové dráze." # todo: CHANGED
  dive_brakes_small: "Brzdy pro střemhlavý let"
  dive_brakes_small_desc: "Sada aerodynamických brzd umístěná na odtokové hraně křídel se vysune při přechodu do střemhlavého letu, čímž sníží rychlost a umožní letounu bezpečně vybrat strmý pád bez poškození konstrukce. Díky tomu může útočit téměř ve svislém letu, což výrazně zvyšuje přesnost."
  drop_tanks: "Odhozové nádrže"
@@ -228,11 +228,11 @@
  fixed_explosive_charge: "Připevněná výbušnina"
  fixed_explosive_charge_desc: "Pevná kumulativní nálož promění letoun v létající bombu. Pokud je naveden na nepřátelskou loď, způsobí rozsáhlé škody - za cenu zničení stroje i oběti posádky."
  floats: "Plováky"
- floats_desc: "Soustava plováků umístěná pod trupem umožňuje letounu přistávat na vodní hladině. To usnadňuje průzkumné mise proti nepřátelským námořním silám, ale výrazně snižuje obratnost stroje."
+ floats_desc: "Sada plováků namontovaných pod trupem umožňuje letounu přistávat na vodě. To usnadňuje průzkumné mise proti nepřátelským námořním silám, ale také výrazně snižuje obratnost." # todo: CHANGED
  flying_boat_large: "$flying_boat_medium$"
  flying_boat_large_desc: "$flying_boat_medium_desc$"
  flying_boat_medium: "Létající člun"
- flying_boat_medium_desc: "Namísto klasického podvozku je spodní část trupu tvarována tak, aby umožňovala přistání na vodní hladině. To výrazně usnadňuje námořní průzkum."
+ flying_boat_medium_desc: "Místo podvozku může být spodní část letounu tvarována tak, aby mohl přistávat na vodě. To značně usnadňuje průzkumné mise nad vodními plochami." # todo: CHANGED
  fuel_tanks_large: "$fuel_tanks_small$"
  fuel_tanks_large_desc: "$fuel_tanks_small_desc$"
  fuel_tanks_medium: "$fuel_tanks_small$"
@@ -292,14 +292,14 @@
  large_aircraft_cannon_2x: "2x velký kanón"
  large_aircraft_cannon_2x_desc: "Dvojice těchto kanónů dává letounu obrovskou palebnou sílu, přičemž vyšší kadence výrazně zvyšuje šanci na ničivé zásahy."
  large_bomb_bay: "Velká pumovnice"
- large_bomb_bay_desc: "Velká pumovnice umožňuje nést dostatek výzbroje pro poškození nebo zničení i rozsáhlých továren a dalších odolných cílů."
+ large_bomb_bay_desc: "Velký bombový prostor k nesení dostatku výzbroje, který dokáže poškodit nebo zničit i rozsáhlé továrny a další těžké cíle." # todo: CHANGED
  large_plane_airframe: "$strat_bomber_equipment$"
  large_plane_airframe_0: "Mezivál. velký drak"
- large_plane_airframe_0_desc: "Tento velmi velký trup má dostatek prostoru pro přepravu bomb nebo palivových nádrží. Nicméně je jasné, že jeho vývojový potenciál je vážně omezen. Nové generace strategických bombardérů jsou již na obzoru."
+ large_plane_airframe_0_desc: "Tento velmi velký trup má spoustu místa pro nesení bomb nebo palivových nádrží. Je však zřejmé, že jeho vývojový potenciál je značně omezen. Nové generace strategických bombardérů jsou už na obzoru." # todo: CHANGED
  large_plane_airframe_1: "Základní velký drak"
  large_plane_airframe_1_desc: "Tento drak byl navržen pro ověření potenciálu skutečného strategického bombardéru - schopného zasáhnout průmyslové cíle hluboko na nepřátelském území a bezpečně dopravit posádku zpět."
  large_plane_airframe_2: "Vylepš. velký drak"
- large_plane_airframe_2_desc: "S konceptem strategického bombardéru již ověřeným byl tento drak navržen pro zvýšení nosnosti a doletu, s dostatečným potenciálem pro další modernizaci."
+ large_plane_airframe_2_desc: "S konceptem strategického bombardéru nyní dobře ověřeným byl tento trup navržen tak, aby zlepšil nosnost a dolet a zároveň měl dostatečný potenciál pro budoucí rozvoj." # todo: CHANGED
  large_plane_airframe_3: "Pokročilý velký drak"
  large_plane_airframe_3_desc: "Optimalizován pro velmi dlouhé lety ve velké výšce, tento drak umožňuje nést značnou bombovou zátěž hluboko do týlu nepřítele."
  large_plane_airframe_4: "Moderní velký drak"
@@ -326,7 +326,7 @@
  lmg_defense_turret_2x_desc: "Sada dvou lehkých kulometů v elektricky poháněných otočných věžích pokrývá více úhlů a činí z letounu mnohem obtížnější cíl k napadení."
  lmg_defense_turret_desc: "I když je poněkud slabší pro vzdušný boj, lehký kulomet ve věži učiní jakýkoliv útok proti tomuto letadlu mnohem nebezpečnějším podnikem."
  medium_bomb_bay: "Střední pumovnice"
- medium_bomb_bay_desc: "Středně velká pumovnice umožňuje nést dostatečné množství výzbroje pro útok na širokou škálu cílů."
+ medium_bomb_bay_desc: "Středně velký bombový prostor umožňuje nést dostatečné množství výzbroje k úderům na širokou škálu cílů." # todo: CHANGED
  medium_plane_airframe: "$tac_bomber_equipment$"
  medium_plane_airframe_0: "Mezivál. střední drak"
  medium_plane_airframe_0_desc: "Ačkoli je tento drak schopen nést významnou výzbroj na dlouhé vzdálenosti, jeho potenciál pro další rozvoj je silně omezen."
@@ -382,7 +382,7 @@
  radio_navigation_1: "Rádiová navigace I"
  radio_navigation_1_desc: "Rádio přijímač, který naslouchá křížení dvou poměrně jednoduchých rádiových navigačních paprsků, což umožňuje najít cíl i v naprosté tmě."
  radio_navigation_2: "Rádiová navigace II"
- radio_navigation_2_desc: "Rádio přijímač, který také obsahuje několik pomůcek pro měření vzdálenosti, které bombardérovi ukazují přesný okamžik, kdy by měly být bomby vypuštěny, i když nemůže vidět cíl."
+ radio_navigation_2_desc: "Rádiový přijímač, který také obsahuje několik pomůcek pro měření vzdálenosti; ukáže bombardérovi přesný okamžik, kdy mají být bomby uvolněny, i když cíl není viditelný." # todo: CHANGED
  range_improvements: "Prodloužení doletu"
  range_improvements_desc: "Zatímco se zdá být jasné, že přidání větší kapacity paliva zvýší dosah letadla, skutečné přidání této kapacity bez přílišného ovlivnění letových vlastností letadla není vůbec jednoduché."
  recon_camera: "Průzkumný fotoaparát"

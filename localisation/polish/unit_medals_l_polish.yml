@@ -2,7 +2,7 @@
  ADD_MEDAL_DESC: "Chcete udělit následující vyznamenání?\n\n$MEDAL_NAME|H$\n\nBude to stát £pol_power $COST|H$."
  ADD_MEDAL_TITLE: "Udělit vyznamenání"
  AIRFIELD_HISTORY: "Zajistil letiště v $PROVINCE$."
- ARMY_FIELD_OFFICER_EXPERIENCE_GAIN_TOOLTIP: "§HZískávání zkušeností polního důstojníka§!\nPolní důstojník získává zkušenosti rychlostí $MULT|%H$ oproti obvyklé.\n\nKaždé vyznamenání udělené této divizi zvyšuje zisk zkušeností o $PER_MEDAL|%H$."
+ ARMY_FIELD_OFFICER_EXPERIENCE_GAIN_TOOLTIP: "§HZisk zkušeností důstojníka§!\nZkušenosti důstojníka se získávají rychlostí $MULT|%H$ běžné hodnoty.\n\nKaždá medaile udělená této divizi zvyšuje přírůstek o $PER_MEDAL|%H$." # todo: CHANGED
  ASSIGN_MEDAL_TOOLTIP: "§HUdělit vyznamenání§!\n\nKliknutím udělíte veliteli této jednotky vyznamenání za tuto akci."
  AUS_medal_1: "Kruckenkreuz"
  AVAILABLE_TRAITS_BUT_CANNOT_HAS: "Pokud by měl alespoň $REQUIRED|H0$ zkušeností (nyní: $CURRENT|R0$), získal by při povýšení jednu z následujících vlastností:\n$LIST|H$\n\nMůžete jej povýšit i tak, ale §Rnebude udělena žádná vlastnost§!."
@@ -17,7 +17,7 @@
  COMMANDER_PROMOTED_HISTORY: "Velitel $SUBJECT$ byl povýšen v poli v $PROVINCE$."
  COMMANDER_ROSTER_DIVISION_BUTTON: "Důstojníci"
  COMMANDER_ROSTER_DIVISION_TOOLTIP: "§HDůstojníci§!"
- COMMANDER_ROSTER_DIVISION_TOOLTIP_DELAYED: "Důstojníci v poli vedou jednotky pod vaším velením. Mohou být povýšeni na generály, jakmile oni i jejich jednotka dosáhnou určité §HZkušenostní§! úrovně."
+ COMMANDER_ROSTER_DIVISION_TOOLTIP_DELAYED: "Důstojníci jsou ti, kteří mají na starosti jednotky pod vaším velením. Mohou být povýšeni na generály." # todo: CHANGED
  COMMANDER_TITLE_TEXT_DIVISION: "Důstojník"
  COMMANDING_DIVISION: "$UNIT$"
  CONQUERED_PROVINCE_HISTORY: "Zajistil $PROVINCE$ před $SUBJECT$ jednotkami."
@@ -43,7 +43,7 @@
  DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Generálporučík"
  DIVISION_EXPERIENCE_TITLE_DEFAULT: "Důstojník"
  DIV_COMMAND_ITEM_DETAILS: "$COMMANDER|H$\nVelí $UNIT|g$\n\n"
- DIV_COMMAND_XP_TOOLTIP: "§HZkušenost důstojníka§!\n\nTento velitel by získal $XP|H0$ XP, kdyby byl povýšen na armádního generála."
+ DIV_COMMAND_XP_TOOLTIP: "§HZkušenosti důstojníka§!\n\nPři povýšení by tento důstojník získal $XP|H0$ XP." # todo: CHANGED
  ETH_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0: "Asmacc"
  ETH_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1: "Grasmacc"
  ETH_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2: "Cagnasasmacc"
@@ -77,7 +77,7 @@
  GER_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3: "Generalleutnant"
  GER_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Gen. der Waffengatung"
  GER_eben_emael_entry: "Účastnil se německého nájezdu na Eben Emael"
- GRANT_CITATION: "§HUdělit vyznamenání§!\n\nKlikněte pro výběr vyznamenání, které udělíte veliteli."
+ GRANT_CITATION: "§HPřidělit vyznamenání§!\n\nKlikněte pro výběr vyznamenání, které tomuto důstojníkovi udělíte." # todo: CHANGED
  HIGH_VP_HISTORY: "Účastnil se obléhání $PROVINCE$."
  HIRED_NEW_DIVISIONAL_GENERAL_DESC: "Opravdu chcete povýšit $CHARACTER$ do hodnosti generála?\n\nTím se resetuje zkušenost této divize a bude nás to stát\n$COST|H$ £command_power."
  HIRED_NEW_DIVISIONAL_GENERAL_TITLE: "Povýšit důstojníka v poli"
@@ -333,3 +333,29 @@
  military_order_of_the_white_lion: "Vojenský řád Bílého lva"
  bravery_before_the_enemy: "Medaile Za statečnost před nepřítelem"
  CZE_war_cross: "Válečný kříž"
+ SHIP_OFFICER_TITLE_SHIP_DEFAULT: "Kapitán" # todo: NEW TRANSLATION
+ UPGRADE_SHIP_CAPTAIN_BUTTON_TITLE: "§HPovýšit kapitána§!\n\n" # todo: NEW TRANSLATION
+ HIRED_NEW_ADMIRAL_TITLE: "Povýšit kapitána" # todo: NEW TRANSLATION
+ HIRED_NEW_ADMIRAL_DESC: "Jste si jisti, že chcete povýšit $CHARACTER$ do hodnosti admirála?\n\nTím se resetují zkušenosti této lodi, a bude nás to stát\n$COST|H$ £command_power." # todo: NEW TRANSLATION
+ CHOOSE_SHIP_CAPTAIN: "Kapitáni lodí" # todo: NEW TRANSLATION
+ COMMANDER_ROSTER_SHIP_BUTTON: "Kapitáni" # todo: NEW TRANSLATION
+ COMMANDER_ROSTER_SHIP_TOOLTIP: "§HKapitáni§!" # todo: NEW TRANSLATION
+ COMMANDER_ROSTER_SHIP_TOOLTIP_DELAYED: "Kapitáni jsou ti, kteří řídí lodě pod vaším velením. Mohou být povýšeni na admirály." # todo: NEW TRANSLATION
+ PROMOTED_FROM_SHIP_TOOLTIP_DESC: "$NAME$ byl povýšen do hodnosti admirála po úspěšné kariéře v čele posádky $DATA$." # todo: NEW TRANSLATION
+ CAPTAIN_TITLE_TEXT: "Kapitán" # todo: NEW TRANSLATION
+ CAPTAIN_PROMOTED_HISTORY: "Kapitán $SUBJECT$ byl povýšen v $PROVINCE$." # todo: NEW TRANSLATION
+ NEW_CAPTAIN_HISTORY: "$SUBJECT$ byl jmenován novým kapitánem." # todo: NEW TRANSLATION
+ SHIP_LAUNCHED_HISTORY: "$SUBJECT$ vyplul z $PROVINCE$." # todo: NEW TRANSLATION
+ SHIP_RENAMED_HISTORY: "Byla přejmenována na $SUBJECT$." # todo: NEW TRANSLATION
+ SHIP_REFITTED_HISTORY: "Prošla přestavbou." # todo: NEW TRANSLATION
+ WAS_IN_NAVAL_COMBAT_HISTORY: "$SUBJECT$ se zúčastnil bitvy u $PROVINCE$." # todo: NEW TRANSLATION
+ WAS_IN_NAVAL_COMBAT_EXCELLED_HISTORY: "$SUBJECT$ vynikl v bitvě u $PROVINCE$." # todo: NEW TRANSLATION
+ ASSIGN_COMMANDER_MEDAL_TOOLTIP: "§HUdělit vyznamenání§!\n\nKlikněte pro udělení veliteli této jednotky vyznamenání za tuto akci." # todo: NEW TRANSLATION
+ ASSIGN_CAPTAIN_MEDAL_TOOLTIP: "§HUdělit vyznamenání§!\n\nKlikněte pro udělení kapitánovi této lodi vyznamenání za tuto akci." # todo: NEW TRANSLATION
+ BASE_COMMANDER_MEDAL_TYPE: "Klikněte pro udělení §H$TYPE$§! vyznamenání veliteli této divize. Pokud budou povýšeni z jednotky, medaile se s nimi přenesou." # todo: NEW TRANSLATION
+ BASE_CAPTAIN_MEDAL_TYPE: "Klikněte pro udělení §H$TYPE$§! vyznamenání kapitánovi této lodi. Pokud budou povýšeni z lodi, medaile se s nimi přenesou." # todo: NEW TRANSLATION
+ SHIP_MODIFIER_MEDALS: "Pokud §HKapitán§!:" # todo: NEW TRANSLATION
+ COMMANDER_MODIFIER_MEDALS: "Pokud §HVelitel§!:" # todo: NEW TRANSLATION
+ ADMIRAL_MODIFIER_MEDALS: "Pokud §HAdmirál§!:" # todo: NEW TRANSLATION
+ CAPTAIN_PROMOTION_EXPERIENCE_PENALTY: "Veteránství této lodi bude sníženo o $RESULT|%H$." # todo: NEW TRANSLATION
+ CAPTAIN_EXPERIENCE_GAIN_TOOLTIP: "§HZisk zkušeností kapitána§!\nZískávání zkušeností kapitána probíhá na $MULT|%H$ obvyklé rychlosti.\n\nKaždá medaile udělená lodi zvyšuje zisk o $PER_MEDAL|%H$." # todo: NEW TRANSLATION

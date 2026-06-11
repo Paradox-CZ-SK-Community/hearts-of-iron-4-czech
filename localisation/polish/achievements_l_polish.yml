@@ -72,7 +72,7 @@
  has_taken_decision_to_form_gran_columbia: "Přijal rozhodnutí vytvořit Gran Kolumbii"
  hoofin_it_tt: "Sjednotil Arábii s 30 divizemi velbloudí jízdy"
  i_didnt_vote_tt: "Vyhraj španělskou občanskou válku jako anarchisté."
- i_have_the_high_ground_tt: "Jako [AFG.GetNonIdeologyName] kontroluj všechny státy pokrývající Himálaj"
+ i_have_the_high_ground_tt: "Jako [AFG.GetNonIdeologyName] ovládni všechny státy, které pokrývají Himaláje" # todo: CHANGED
  i_see_everything_tt: "Dosáhni 90% zpravodajství ve všech kategoriích u libovolné hlavní země bez aktivace dešifrování."
  i_shall_either_find_a_way_or_make_one_tt: "Jako [RAJ.GetNonIdeologyName] plně ovládej [2.GetName] a měj ve státě jednotku sloní jízdy."
  im_just_passing_by_tt: "Jako [RAJ.GetNonIdeologyName] vlastni stát na každém kontinentu, zatímco jsi v míru"
@@ -92,7 +92,7 @@
  otto-man_tt: "Kontroluje §Y[88.GetName]§!, §Y[89.GetName]§!, §Y[91.GetName]§! a všechny počáteční státy:\n§Y[AUS.GetNameDef]\n[HUN.GetNameDef]\n[CZE.GetNameDef]\n[CRO.GetNameDef]\n[LBV.GetNameDef]\n[ROM.GetNameDef]\n[BUL.GetNameDef]\n[GRE.GetNameDef]\n[TUR.GetNameDef]§!"
  paradisus_paradoxum_tt: "Jako [JAP.GetNonIdeologyName] vyhlas vytvoření Čisté buddhistické země"
  pesky_greeks_tt: "Jako [PER.GetNonIdeologyName] se staň vlastníkem všech domovských území [GRE.GetNonIdeologyName]"
- place_in_the_sun_tt: "Dobyl ostrov v Karibiku"
+ place_in_the_sun_tt: "Dobytí ostrova v Karibiku" # todo: CHANGED
  portugal_macau_my_day_tt: "Vytvoř kolaborantskou vládu v Macau a nech ji vlastnit všechna domovská území Číny a Mandžukua."
  prussia_of_the_balkans_tt: "Kontroluje domovské státy Rumunska, Řecka, Jugoslávie a Albánie."
  putting_the_raid_on_the_medway_to_shame_tt: "Libovolná země:\nPůvodní země je [ENG.GetName]\nMaximálně §Y0 Hlavní lodě§!"
@@ -130,3 +130,31 @@
  achievement_bought_cze_weapons: "Zakoupil československé zbraně pomocí rozhodnutí $CZE_skoda_focus_category$"
  CZE_capitulated_germany: "Německo kapitulovalo"
  i_didnt_hear_no_bell_tt: "Stal se $CZE_second_republic_democratic$"
+ the_juannines_tt: "Jako [PHI.GetNonIdeologyName], ovládej a měj domovské nároky ve všech [SPR.GetAdjective] domovských státech v Evropě" # todo: NEW TRANSLATION
+ walzing_matilda_tt: "Jako [AST.GetNonIdeologyName], měj 25 nasazených těžkých tankových praporů" # todo: NEW TRANSLATION
+ hunt_for_the_desert_fox_tt: "Zajmi $GER_erwin_rommel$" # todo: NEW TRANSLATION
+ right_side_up_tt: "Jako [AST.GetNonIdeologyName], získej a ovládej [914.GetName]" # todo: NEW TRANSLATION
+ maphilindia_tt: "Jako [PHI.GetNonIdeologyName] nebo [INS.GetNonIdeologyName], založ Maphilindo a získej všechna počáteční území [RAJ.GetNonIdeologyName]" # todo: NEW TRANSLATION
+ old_zealand_tt: "Jako [NZL.GetNonIdeologyName], získej a ovládej [35.GetName] a [37.GetName]" # todo: NEW TRANSLATION
+ thaitanic_tt: "Potop loď třídy Pride of the Fleet patřící [SIA.GetNonIdeologyName]" # todo: NEW TRANSLATION
+ thaifighters_tt: "Jako [SIA.GetNonIdeologyName], získej 10 es" # todo: NEW TRANSLATION
+ hail_to_the_king_tt: "Jako [SIA.GetNonIdeologyName], dokonči zaměření Greater Thai Empire, zatímco $SIA_ananda_mahidol$ je mladší než 15 let" # todo: NEW TRANSLATION
+ java_script_tt: "Jako [INS.GetNonIdeologyName], prozkoumej pokročilý výpočetní stroj, když máš hlavní město na Jávě" # todo: NEW TRANSLATION
+ a_succulent_chinese_meal_tt: "Jako [AST.GetNonIdeologyName], získej a ovládej libovolný [CHI.GetNonIdeologyName] domovský stát" # todo: NEW TRANSLATION
+ the_7th_state_tt: "Jako [AST.GetNonIdeologyName], získej a ovládej celé území [NZL.GetNonIdeologyName]" # todo: NEW TRANSLATION
+ et_tu_paulus_tt: "Zajmi nepřátelského polního maršála" # todo: NEW TRANSLATION
+ from_rags_to_admiral_stripes_tt: "Povýš kapitána lodi na admirála" # todo: NEW TRANSLATION
+ the_man_of_medan_tt: "Jako [INS.GetNonIdeologyName], znič §Y100§! konvojů" # todo: NEW TRANSLATION
+ no_one_will_notice_the_difference_tt: "Jako [INS.GetNonIdeologyName], měj $INS_gustav_adolf_ilgen$ nasazeného v [141.GetName]" # todo: NEW TRANSLATION
+ anzac_tt: "Jako [AST.GetNonIdeologyName] nebo [NZL.GetNonIdeologyName], měj generála nasazeného v [GRE.GetNonIdeologyName] domovském státě k 1. lednu 1945 a zajisti, aby [GRE.GetNonIdeologyName] nekapitulovala." # todo: NEW TRANSLATION
+ a_bridge_too_far_tt: "Jako [ENG.GetNonIdeologyName], získej [VICTORY_POINTS_9498] zatímco je tam nasazen $ENG_bernard_montgomery$" # todo: NEW TRANSLATION
+ saving_private_bryansk_tt: "Zajmi nepřátelského generála v [224.GetName]" # todo: NEW TRANSLATION
+ achievement_captured_a_field_marshal: "Zajali jste nepřátelského polního maršála" # todo: NEW TRANSLATION
+ achievement_captured_rommel: "Zajali jste $GER_erwin_rommel$" # todo: NEW TRANSLATION
+ achievement_thaitanic: "Potopili jste loď třídy Pride of the Fleet patřící [SIA.GetNonIdeologyName]" # todo: NEW TRANSLATION
+ achievement_navy_promoted_from_ranks: "Povýšili jste kapitána lodi na admirála" # todo: NEW TRANSLATION
+ achievement_anzac_failed: "[GRE.GetNonIdeologyName] kapitulovala před 1. lednem 1945" # todo: NEW TRANSLATION
+ achievement_a_bridge_too_far: "Získali jste [VICTORY_POINTS_9498] zatímco tam byl nasazen $ENG_bernard_montgomery$" # todo: NEW TRANSLATION
+ achievement_captured_general_in_bryansk: "Zajali jste nepřátelského generála v [224.GetName]" # todo: NEW TRANSLATION
+ grand_siam_tt: "Jako [SIA.GetNonIdeologyName], kapitulujte §Y4§! národů během jednoho roku" # todo: NEW TRANSLATION
+ achievement_grand_siam: "Donutili jste §Y4§! národů kapitulovat během jednoho roku jako [SIA.GetNonIdeologyName]" # todo: NEW TRANSLATION

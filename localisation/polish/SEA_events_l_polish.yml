@@ -35,7 +35,7 @@
  SEA_japan_foreign_policy.7.desc: "[FROM.GetAdjectiveCap] vojáci byli spatřeni při přípravách na rychlou invazi do naší země, zřejmě s úmyslem nás rychle podrobit a vtáhnout do své sféry. Toto je pravděpodobně naše poslední šance vyhnout se konfliktu — ale chopíme se jí?"
  SEA_japan_foreign_policy.7.a: "Když nad tím přemýšlíme... raději se podrobíme"
  SEA_japan_foreign_policy.7.b: "Ať tedy přijdou!"
- SEA_japan_foreign_policy.8.t: "[FROM.GetNameDefCap] se podrobuje našim požadavkům"
+ SEA_japan_foreign_policy.8.t: "[FROM.GetNameDef] podřizuje se našim požadavkům" # todo: CHANGED
  SEA_japan_foreign_policy.8.desc: "Konečně, po dlouhém jednání, se [FROM.GetAdjective] delegace rozhodla podepsat námi upravené dokumenty, čímž se vyhne vojenské intervenci, ale zároveň se vzdá své nezávislosti. Nyní jsme plně připraveni udeřit na jih!"
  SEA_japan_foreign_policy.8.a: "A pořádek je obnoven"
  SEA_japan_foreign_policy.9.t: "[FROM.GetLeader] se odmítá podřídit"
@@ -178,7 +178,7 @@
  SEA_japan_foreign_policy.49.desc: "Na dnešní proklamaci v Šanghaji [ROOT.GetLeader] společně s generály a administrátory vyslanými IJA vyhlásil založení nové čínské vlády - lepší alternativy ke zkorumpovanému feudálnímu panství Kuomintangu. Ať žije Čínská republika!"
  SEA_japan_foreign_policy.49.a: "Prosperita je na dosah!"
  SEA_japan_foreign_policy.50.t: "[FROM.GetNameDefCap] požaduje úplnou integraci"
- SEA_japan_foreign_policy.50.desc: "Hospodářská integrace je pro [FROM.GetNameDef] málo - dnes [FROM.GetLeader] požadoval naši úplnou integraci. Pokud s nimi okamžitě nepřerušíme styky, bude to konec naší nezávislosti. Jak budeme postupovat?"
+ SEA_japan_foreign_policy.50.desc: "Integrace našich ekonomik nestačila [FROM.GetAdjective]ům, protože [FROM.GetLeader] z [FROM.GetNameDef] dnes požaduje naši úplnou integraci do jejich státu. Pokud se od nich okamžitě neodtrhneme, bude to konec našeho postavení jako nezávislého státu. Jak v tom máme postupovat?" # todo: CHANGED
  SEA_japan_foreign_policy.50.a: "Budeme muset situaci přijmout"
  SEA_japan_foreign_policy.50.b: "Vítězství nebo smrt!"
  SEA_japan_foreign_policy.51.t: "[FROM.GetNameDefCap] přijímá úplnou integraci"
@@ -376,7 +376,7 @@
  SEA_japan_foreign_policy.105.desc: "[FROM.GetLeader] reagoval na naši integrační nabídku se rázným nesouhlasem a tvrdí, že jakákoli bližší hospodářská spolupráce mezi našimi zeměmi je a vždy bude mimo hru. Možná prohlédli, co jsme měli v plánu..."
  SEA_japan_foreign_policy.105.a: "Hrozné zprávy..."
  SEA_japan_foreign_policy.106.t: "[FROM.GetNameDefCap] integruje naši ekonomiku"
- SEA_japan_foreign_policy.106.desc: "[FROM.GetLeader] zašel ještě dál, než původně slíbil, a manipuluje trhy, aby zvýšil naši závislost na jejich ekonomice - aby zajistil, že se nikdy neodchýlíme od jejich cesty. Pokud okamžitě nepřerušíme vztahy, bude to v podstatě konec naší nezávislosti. Jak budeme postupovat?"
+ SEA_japan_foreign_policy.106.desc: "[FROM.GetLeader] z [FROM.GetNameDef] učinil krok dál, než bylo původně slíbeno, a manipuluje trhy, aby ještě více zvýšil naši závislost na jejich ekonomice, v kroku, který má zajistit, že se nemůžeme odchýlit z jejich cesty. Pokud se od nich okamžitě neodtrhneme, bude to prakticky konec našeho postavení jako nezávislého státu. Jak v tom máme postupovat?" # todo: CHANGED
  SEA_japan_foreign_policy.106.a: "Budeme muset přijmout situaci"
  SEA_japan_foreign_policy.106.b: "Vítězství nebo smrt!"
  SEA_japan_foreign_policy.107.t: "[FROM.GetNameDefCap] přijímá další integraci"
@@ -387,7 +387,7 @@
  SEA_japan_foreign_policy.108.a: "Jsou hrozbou jednotě organizace!"
  SEA_japan_foreign_policy.108.b: "Budeme je bedlivě sledovat"
  SEA_japan_foreign_policy.109.t: "[FROM.GetNameDefCap] požaduje úplnou integraci"
- SEA_japan_foreign_policy.109.desc: "Integrace našich ekonomik byla pro [FROM.GetNameDef], neboť [FROM.GetLeader] dnes zašel dál, než bylo původně slíbeno, a nyní požaduje naši úplnou integraci do jejich státu. Pokud se od nich okamžitě neodtrhneme, bude to konec naší nezávislosti. Jak budeme postupovat?"
+ SEA_japan_foreign_policy.109.desc: "Integrace našich ekonomik zřejmě nestačila [FROM.GetAdjective]ům, protože [FROM.GetLeader] z [FROM.GetNameDef] dnes učinil krok dál, než bylo původně slíbeno, a nyní požaduje naši úplnou integraci do jejich státu. Pokud se od nich okamžitě neodtrhneme, bude to konec našeho postavení jako nezávislého státu. Jak v tom máme postupovat?" # todo: CHANGED
  SEA_japan_foreign_policy.109.a: "Budeme muset přijmout situaci"
  SEA_japan_foreign_policy.109.b: "Vítězství nebo smrt!"
  SEA_japan_foreign_policy.110.t: "[FROM.GetNameDefCap] přijímá úplnou integraci"
@@ -565,7 +565,7 @@
  SEA_japan_popup_events.18.t: "Armáda se opevňuje"
  SEA_japan_popup_events.18.desc: "Armáda začala připravovat střety s jednotkami loajálními vládě poté, co civilní policie deklarovala loajalitu Sněmu. Zdá se, že se snaží zabezpečit kontrolu nad regiony pro případ, že vypukne občanská válka. Musíme co nejdříve čelit této vzpouře!"
  SEA_japan_popup_events.18.a: "Ihned nasadit metropolitní policii do Tokia!"
- SEA_japan_popup_events.18.b: "Musíme zabránit převzetí průmyslového pásu!"
+ SEA_japan_popup_events.18.b: "Musíme zajistit, aby nepřevzali kontrolu nad Průmyslovým pásem!" # todo: CHANGED
  enables_the_civil_war_decisions_tt: "Budeme moci získávat státy na naši stranu v případě vypuknutí §YObčanské války§! pomocí rozhodnutí na mapě"
  JAP_shanghai_ultimatum: "Ultimátum Hongkóu"
  SEA_japan_popup_events.19.t: "Ultimátum Hongkóu"
@@ -585,7 +585,7 @@
  SEA_japan_popup_events.23.desc: "Legitimita císaře Hirohita je zpochybňována od chvíle, kdy apaticky přihlížel rostoucí převaze armády v politice a nezasáhl během zesilujícího frakčního násilí. Nyní mnozí volají po tom, aby trůn převzal jeho mladší bratr Nobuhito, který hlasitě podporuje civilní vládu, zatímco jeho starší bratři se dopustili zrady. To by nám zajistilo pokračující podporu císařského rodu a posílilo morálku národa."
  SEA_japan_popup_events.23.a: "Dobrá, Nobuhito jej nahradí"
  SEA_japan_popup_events.24.t: "Císařská armáda kapitulovala"
- SEA_japan_popup_events.24.desc: "Poslední zbytky císařské armády na domácích ostrovech vyvěsily bílou vlajku, čímž ukončily desetiletí trvající konflikt mezi vládou a vlastní armádou. Velké části země byly bojováním poškozeny, ale toto je nový začátek pro [ROOT.GetAdjective] lid. V zámoří nepřítel stále přežívá, ale nyní je čas obnovy. Vláda již plánuje uspořádání prvních voleb bez zásahu zkorumpovaných vojenských elementů."
+ SEA_japan_popup_events.24.desc: "Poslední zbytky Císařské armády na Domovských ostrovech vztyčily bílou vlajku, čímž oznámily konec desetiletí trvajícího konfliktu mezi naší vládou a vlastní armádou. Velké části země byly boji poškozeny, ale to naznačuje nový začátek pro [ROOT.GetAdjective] lid. V zámoří náš nepřítel stále přetrvává, ale nyní je čas na obnovu. Vláda již připravila plány na uspořádání prvních všeobecných voleb nyní, když korupční prvky už nemohou zasahovat." # todo: CHANGED
  SEA_japan_popup_events.24.a: "Získali jsme zpět svou budoucnost!"
  SEA_japan_popup_events.25.t: "Všeobecné volby"
  SEA_japan_popup_events.25.desc: "První volby po odstranění armády z politiky právě probíhají a lidé využívají svého hlasu k určení budoucí cesty země. Souboj probíhá mezi liberální Rikken Minseitó a konzervativní Rikken Seijúkai, obě nedávno vedly Císařskou dietu. Hlasy se sčítají a brzy bude znám vítěz."
@@ -600,7 +600,7 @@
  SEA_japan_popup_events.27.desc: "Zatímco v Japonsku zuří občanská válka mezi armádou a vládou, korejský lid si uvědomil, že nyní nastal okamžik, aby znovu získal kontrolu nad svou zemí a vyhnal japonské utlačovatele. Korejský poloostrov opět rozkvete pod vládou vlastního národa."
  SEA_japan_popup_events.27.a: "Zažente vetřelce zpět do moře!"
  SEA_japan_popup_events.28.t: "Venkovská základna operací"
- SEA_japan_popup_events.28.desc: "Komunistická strana se rozhodla zahájit podzemní činnost, mimo dohled i mysl jak Císařské armády, tak vlády. Jedinou otázkou nyní je, která oblast je dostatečně odlehlá, aby riziko odhalení a vykořenění bylo co nejmenší?"
+ SEA_japan_popup_events.28.desc: "Komunistická strana se rozhodla zahájit podzemní činnost, mimo dohled i mysl jak Císařské armády, tak vlády. Jedinou otázkou, která se jim nyní honí hlavou, je, která oblast by byla natolik odlehlá, že by pravděpodobnost odhalení a vykořenění byla co nejmenší?" # todo: CHANGED
  SEA_japan_popup_events.28.a: "Hokkaidó je ideální"
  SEA_japan_popup_events.28.b: "Šikoku je dostatečně odlehlé"
  SEA_japan_popup_events.28.c: "Založit buňku v Kagošimě"
@@ -634,7 +634,7 @@
  SEA_japan_popup_events.34.t: "Debaty o Ainuistické revoluční teorii"
  SEA_japan_popup_events.34.desc: "Mnozí naši političtí teoretici tvrdí, že lumpenproletariát tvoří hlavní sílu revoluce, a že Ainuové jsou jeho součástí. Dále věří, že Ainuové žili v jakémsi primitivním komunistickém systému, a proto jsou hodni stát se „vůdci komunistické revoluce“. Nyní stojí otázka: jak mají být těmito vůdci? Začleněním jejich tradic do našeho socialismu, nebo poskytnutím autonomie ainuskému lidu?"
  SEA_japan_popup_events.34.a: "Měli bychom využít jejich fascinujících tradic"
- SEA_japan_popup_events.34.b: "Tito revoluční vůdci musí získat autonomii, kterou si zaslouží!"
+ SEA_japan_popup_events.34.b: "Musí jim být udělena autonomie, kterou si zaslouží!" # todo: CHANGED
  SEA_japan_popup_events.35.t: "[FROM.GetLeader] chce posílit dynastii I"
  SEA_japan_popup_events.35.desc: "[FROM.GetNameDef] jako náš suzerén požaduje, aby náš koloniální guvernér odstoupil ve prospěch I Una, dědice [ROOT.GetAdjective] trůnu, který je loajální k Japonské říši. Zní to jako nabídka, která se neodmítá."
  SEA_japan_popup_events.35.a: "Velkoryse přijmeme"
@@ -675,14 +675,14 @@
  JAP_unlock_japans_longest_day_tt: "Odemkne zaměření §Y$JAP_japans_longest_day$§!"
  JAP_unlock_surrender_broadcast_tt: "Odemkne zaměření §Y$JAP_the_surrender_broadcast$§!"
  SEA_japan_popup_events.44.t: "$MON_khorloogiin_choibalsan$ na vzestupu"
- SEA_japan_popup_events.44.desc: "Jako vrchní velitel Mongolské lidové armády a jeden z velkých mongolských revolucionářů roku 1921 je $MON_khorloogiin_choibalsan$ silným kandidátem na to, aby dovedl naši zemi ke slávě. Svými nedávnými vojenskými úspěchy navíc dokázal, že je dostatečně schopný skutečně vládnout zemi jako její jediný vůdce. Je už čas, aby přijal úřad 10. předsedy rady ministrů?"
+ SEA_japan_popup_events.44.desc: "Jako vrchní velitel Mongolské lidové armády a jeden z velkých mongolských revolucionářů z roku 1921 je Khorloogiin Choibalsan silným kandidátem, který by mohl dovést naši zemi k velkosti. Svými nedávnými vojenskými činy dokázal, že je nyní dostatečně způsobilý skutečně vládnout zemi jako její jediný vůdce. Je čas, aby převzal úřad 10. předsedy Rady ministrů?" # todo: CHANGED
  SEA_japan_popup_events.44.a: "Nastal ten pravý čas"
  SEA_japan_popup_events.44.b: "Ne, musí zůstat v poli!"
  SEA_japan_popup_events.45.t: "Obsazení Autonomní vlády Východního Che-peje"
  SEA_japan_popup_events.45.desc: "Po zhroucení oficiálního velení japonské armády a občanské válce, která vypukla na Mateřských ostrovech, zůstal japonský protektorát známý jako Autonomní vláda Východního Che-peje, ležící na naší jihozápadní hranici, nechráněný. Nastal čas udeřit a zmocnit se ho, zatímco má [JAP.GetAdjective] vláda příliš mnoho vlastních problémů na to, aby se zajímala o dění na kontinentu."
  SEA_japan_popup_events.45.a: "Naše konsolidace pokračuje"
  SEA_japan_popup_events.46.t: "Kuantungská armáda obsazuje Východní Che-pej"
- SEA_japan_popup_events.46.desc: "Po zhroucení oficiálního velení japonské armády a občanské válce, která vypukla na Mateřských ostrovech, zůstal náš bývalý protektorát známý jako Autonomní vláda Východního Che-peje, ležící na [MAN.GetAdjective] jihozápadní hranici, nechráněný. Kvůli tomu se rozhodli udeřit a zmocnit se ho, zatímco má naše vláda příliš mnoho vlastních problémů na to, aby se zajímala o dění na kontinentu."
+ SEA_japan_popup_events.46.desc: "Po zhroucení oficiálního japonského armádního velení a následné občanské válce na Domovských ostrovech nyní náš bývalý protektorát známý jako Autonomní vláda Východního Che-peje, ležící na jihozápadní hranici [MAN.GetNameDef], zůstal nechráněný. Rozhodli se proto udeřit a obsadit ho, zatímco má naše vláda příliš mnoho jiných problémů na to, aby se starala o dění na kontinentu." # todo: CHANGED
  SEA_japan_popup_events.46.a: "Vypořádáme se s nimi později..."
  SEA_japan_popup_events.47.t: "[FROM.GetNameDefCap] ruší naše práva na zdroje pro [655.GetName]"
  SEA_japan_popup_events.47.desc: "[FROM.GetLeader] nedávno podepsal nový dokument, který ruší naše práva pro [655.GetName] na těžbu dřeva a nerostů, v opovrženíhodném přehlížení smluv, jež jsme uzavřeli, když jsme jim tento region na konci ruské občanské války vraceli."
@@ -785,7 +785,7 @@
  SEA_imperial_influence_events.210.t: "Námořní frakce usiluje o rozšíření doků"
  SEA_imperial_influence_events.210.desc: "Námořnictvo předalo své požadavky. Chce rozšířit své výrobní kapacity a skrze to zabezpečit, ať je [GetImperialInfluenceRulerTitle] víc pod jejich vlivem, a proto požaduje stavbu dalších námořních doků. Jsou ochotni chvíli čekat, ale ne věčně."
  SEA_imperial_influence_events.220.t: "Námořní frakce požaduje politické jmenování"
- SEA_imperial_influence_events.220.desc: "Námořnictvo předalo své požadavky. Jelikož mu chybí centrální řízení a autonomie, chce dosadit nového náčelníka námořnictva, což také zabezpečí, že [GetImperialInfluenceRulerTitle] bude víc pod jejich vlivem. Jsou ochotni chvíli čekat, ale ne věčně."
+ SEA_imperial_influence_events.220.desc: "Námořnictvo předalo své požadavky. Postrádajíce centrální kontrolu a autonomii jednat samostatně, chtějí, aby byl do funkce jmenován nový náčelník námořnictva, což zároveň posílí jejich vliv nad [GetImperialInfluenceRulerTitle]. Zdá se, že jsou ochotni projevit určitou trpělivost, ale nebudou čekat věčně." # todo: CHANGED
  SEA_imperial_influence_events.230.t: "Námořní frakce žádá změny branného zákona"
  SEA_imperial_influence_events.230.desc: "Námořnictvo předalo své požadavky. Přeje si zvýšit brannou povinnost a vyslat námořní vyslance do venkovských oblastí, aby získali více mladých mužů pro válku. Pod záminkou posílení ozbrojených sil jim také zjevně jde o zabezpečení, ať je [GetImperialInfluenceRulerTitle] víc pod jejich vlivem. Jsou ochotni chvíli čekat, ale ne věčně."
  SEA_imperial_influence_events.240.t: "Námořní frakce požaduje zvýšenou výrobu letadlových lodí"
@@ -866,7 +866,7 @@
  SEA_china.9.desc: "[FROM.GetLeader] odmítl vstoupit do naší frakce s odůvodněním, že je třeba zachovat regionální nezávislost a politickou autonomii. Přestože je to nešťastné, odráží to přetrvávající rozkol v zemi."
  SEA_china.9.a: "Jednou toho budou litovat"
  SEA_china.10.t: "[FROM.GetNameDefCap] žádá o vstup k nám"
- SEA_china.10.desc: "Obdrželi jsme [FROM.GetAdjective] nabídku, aby se připojili k frakci [ROOT.GetFactionName] spolu se všemi členy frakce [FROM.GetFactionName]. Pokud přijmeme, zbude o jednoho potenciálního protivníka méně a naše vlastní pozice se posílí. Otázkou však je, zda jim lze věřit, že se nepokusí nás časem nahradit."
+ SEA_china.10.desc: "Obdrželi jsme nabídku od [FROM.GetNameDef], abychom se připojili k [ROOT.GetFactionName] spolu se všemi členy [FROM.GetFactionName]. Pokud bychom přijali, zůstal by o jeden potenciální protivník méně a naše vlastní pozice by se posílila. Otázkou však je, zda lze důvěřovat jejich záměrům, že se nás nesnaží nahradit." # todo: CHANGED
  SEA_china.10.a: "Naše síla spočívá v počtech"
  SEA_china.10.b: "To nemůžeme přijmout"
  SEA_china.11.t: "[FROM.GetNameDefCap] podporuje náš vstup"
@@ -1001,7 +1001,7 @@
  SEA_china_democratic.7.desc: "Obdrželi jsme poměrně ostře formulovanou nótu. [CHI.GetNameDef] požaduje, ať [CHI_country_to_be_liberated.GetNameDef] získá nezávislost a tato území se vrátí jejich právoplatným vládcům."
  SEA_china_democratic.7.a: "Stejně pro nás nemají velký význam."
  SEA_china_democratic.7.b: "Právoplatnými vládci jsme přece my!"
- SEA_china_democratic.7.b.tt: "§RToto jim dá válečný cíl proti nám!§!"
+ SEA_china_democratic.7.b.tt: "§RToto jim dá válečný cíl na nás!§!" # todo: CHANGED
  SEA_china_democratic.8.t: "[FROM.GetNameDefCap] souhlasí, [CHI_country_to_be_liberated.GetNameDef] získá nezávislost"
  SEA_china_democratic.8.desc: "Dorazila odpověď na naše požadavky. A poněkud překvapivě je souhlasná a [CHI_country_to_be_liberated.GetNameDef] získá nezávislost."
  SEA_china_democratic.8.a: "Velmi uspokojivý výsledek"
@@ -1014,7 +1014,7 @@
  SEA_china_democratic.10.b: "To odporuje naší neutralitě..."
  SEA_china_democratic.11.t: "[FROM.GetNameDefCap] přijímá naši pokornou žádost"
  SEA_china_democratic.11.desc: "[FROM.GetLeader] laskavě souhlasil s uzavřením protijaponské aliance a již zahajuje opatření proti východní hrozbě. Dnešek se bude slavit!"
- SEA_china_democratic.11.a: "Jsme jejich lidu zavázáni"
+ SEA_china_democratic.11.a: "Jsme zavázáni jejich lidu" # todo: CHANGED
  SEA_china_democratic.12.t: "[FROM.GetNameDefCap] se odmítá k nám připojit"
  SEA_china_democratic.12.desc: "[FROM.GetLeader] hrubě odmítl naši nabídku protijaponské aliance a tvrdí, že by to odporovalo jejich principům neutrality. Můžeme si jen představovat, kolik korupce muselo být zapotřebí k tomuto scestnému rozhodnutí."
  SEA_china_democratic.12.a: "Strašné zprávy..."
@@ -1085,7 +1085,7 @@
  SEA_PRC_request_aid.33.desc: "V odpovědi na naši žádost o tanky BT-7 [FROM.GetName] souhlasí, že nám zašle pouze symbolické množství. Nestačí to na plné vybavení tankové divize, ale pro začátek to stačí. Koneckonců, 100 vozidel můžeme použít alespoň k výcviku osádek, zatímco budeme hledat jiné způsoby, jak získat moderní tanky."
  SEA_PRC_request_aid.33.a: "Mohlo by jich být víc, ale lepší než nic"
  SEA_PRC_request_aid.34.t: "[FROM.GetName] bude vyrábět tanky"
- SEA_PRC_request_aid.34.desc: "V odpovědi na naši žádost o tanky BT-7 [FROM.GetName] souhlasí, že během několika následujících měsíců vyrobí 150 kusů BT-7 a po dokončení nám je pošle. Zabere to nějaký čas, ale půjde o dobrý začátek pro naše ambice vybudovat moderní obrněné síly."
+ SEA_PRC_request_aid.34.desc: "V reakci na naši žádost o tanky BT-7 se [FROM.GetName] souhlasil vyrobit 150 BT-7 během nadcházejících měsíců a dodat je nám, až budou připraveny. Zabere to nějaký čas, ale opatření představuje dobrý začátek pro naše ambice vybudovat moderní obrněné síly." # todo: CHANGED
  SEA_PRC_request_aid.34.a: "Výtečně! Jakmile dorazí, dobře je využijeme"
  SEA_PRC_request_aid.35.t: "Dorazily nově vyrobené [FROM.FROM.GetAdjective] tanky"
  SEA_PRC_request_aid.35.desc: "Do [ROOT.Capital.GetName] dorazila [SOV.GetAdjective] zásilka obsahující našich 150 nově vyrobených tanků BT-7. Při jejím převzetí byli přítomni jak zástupci vlády, tak přední důstojníci Pozemních vojsk Lidové osvobozenecké armády. Při kontrole tanků, čerstvě natřených symbolem PVLOA, byli důstojníci dychtiví je nasadit - jakmile tankové osádky projdou výcvikem a seznámením s technikou."
@@ -1097,7 +1097,7 @@
  SEA_PRC_request_aid.6.desc: "V odpovědi na naši žádost o tanky T-34 [FROM.GetName] souhlasí, že nám zašle jen symbolické množství. Nestačí to na plné vybavení tankové divize, ale pro začátek to stačí. Koneckonců, 50 vozidel můžeme použít k výcviku osádek, zatímco budeme hledat jiné způsoby, jak získat moderní tanky."
  SEA_PRC_request_aid.6.a: "Mohlo by jich být víc, ale lepší než nic"
  SEA_PRC_request_aid.7.t: "[FROM.GetName] bude vyrábět tanky"
- SEA_PRC_request_aid.7.desc: "V odpovědi na naši žádost o tanky T-34 [FROM.GetName] souhlasí, že během několika následujících měsíců vyrobí 150 kusů T-34 a po dokončení nám je pošle. Zabere to nějaký čas, ale půjde o dobrý začátek pro naše ambice vybudovat moderní obrněné síly"
+ SEA_PRC_request_aid.7.desc: "V reakci na naši žádost o tanky T-34 se [FROM.GetName] souhlasil vyrobit 150 T-34 během nadcházejících měsíců a dodat je nám, až budou připraveny. Zabere to nějaký čas, ale opatření představuje dobrý začátek pro naše ambice vybudovat moderní obrněné síly" # todo: CHANGED
  SEA_PRC_request_aid.7.a: "Výtečně! Jakmile dorazí, dobře je využijeme"
  SEA_PRC_request_aid.8.t: "[FROM.GetName] odmítá naši žádost o tanky"
  SEA_PRC_request_aid.8.desc: "[FROM.GetName] odmítá naši žádost o tanky s tím, že jejich vlastní okamžité potřeby jim brání postrádat jak aktivní, tak záložní vozidla. Ačkoli je to nešťastné, [FROM.GetName] nám zasílá alespoň výcvikové příručky. Takže aspoň něco."
@@ -1377,7 +1377,7 @@
  SEA_PRC_political_events.10.desc: "Ty imperialisté odmítli s námi podepsat pakt o neútočení. Zjevně upřednostňují vztahy s našimi rivaly."
  SEA_PRC_political_events.10.a: "Škoda"
  SEA_PRC_political_events.11.t: "[FROM.GetName] chce být svobodný"
- SEA_PRC_political_events.11.desc: "[FROM.GetLeader] zaslal telegram, v němž formálně žádá, aby [Root.GetLeader] udělil nezávislost pro [FROM.GetName]. Telegram neuvádí, co se stane při odmítnutí — lze však předpokládat, že by to nesli velmi těžce."
+ SEA_PRC_political_events.11.desc: "[FROM.GetLeader] poslal telegram [Root.GetLeader], ve kterém formálně žádá nezávislost [FROM.GetName]. Telegram neuvádí, co by se stalo, kdybychom odmítli, ale lze předpokládat, že by nebyli spokojeni." # todo: CHANGED
  SEA_PRC_political_events.11.a: "Ať jsou svobodni"
  SEA_PRC_political_events.11.b: "Ne, zůstanou naším subjektem"
  SEA_PRC_political_events.12.t: "[FROM.GetName] souhlasí s naší svobodou"
@@ -1448,7 +1448,7 @@
  SEA_PRC_zhang_guotao_events.7.desc: "$PRC_zhang_guotao$ oznámil, že opouští Komunistickou stranu Číny, s odvoláním na nenapravitelné vztahy s Ústředním výborem a $PRC_mao_zedong$em, stejně jako na své zklamání stranou."
  SEA_PRC_zhang_guotao_events.7.a: "$PRC_the_unwilling_diarchy_focus$ byla chyba — nelze mu věřit"
  SEA_PHI_political_events.1.t: "[FROM.GetName] navrhuje obchodní dohodu"
- SEA_PHI_political_events.1.desc: "Ve snaze snížit svou závislost na [USA.GetAdjective] obchodu se [FROM.GetNameDef] obrací na nás s návrhem nové obchodní dohody. Podobně jako oni bychom tím mohli i my snížit svou závislost na úzkém okruhu obchodních partnerů."
+ SEA_PHI_political_events.1.desc: "Aby snížili svou závislost na [USA.GetAdjective] obchodu, [FROM.GetNameDef] k nám přistoupili s návrhem nové obchodní dohody. Podobně jako jim, i to nám může umožnit snížit závislost na malé skupině obchodních partnerů." # todo: CHANGED
  SEA_PHI_political_events.1.a: "Alternativní zdroje surovin jsou zásadní"
  SEA_PHI_political_events.1.b: "Máme na mysli jiné obchodní partnery"
  SEA_PHI_political_events.2.t: "Japonsko podepisuje obchodní dohodu"
@@ -1569,7 +1569,7 @@
  SEA_PHI_political_events.49.desc: "Po několika dnech mlčení a zřejmě vášnivých debat uvnitř [FROM.GetAdjective] vedení, [FROM.GetNameDef] oficiálně oznámili, že uznávají [ROOT.GetAdjective] nezávislost."
  SEA_PHI_political_events.49.a: "Skvělé zprávy!"
  SEA_PHI_political_events.50.t: "[FROM.GetName] bojují, aby obnovili kontrolu nad námi"
- SEA_PHI_political_events.50.desc: "V reakci na naše vyhlášení nezávislosti [FROM.GetNameDef] nevydali žádnou oficiální odpověď, a místo toho začali přesouvat jednotky do blízkých základen, aby mohli zasáhnout."
+ SEA_PHI_political_events.50.desc: "V reakci na naše vyhlášení nezávislosti [FROM.GetNameDef] neposkytl žádnou oficiální odpověď a začal přesouvat vojská směrem k blízkým základnám, aby mohl zasáhnout." # todo: CHANGED
  SEA_PHI_political_events.50.a: "Ať to zkusí!"
  SEA_PHI_political_events.51.t: "[USA.GetNameDef] povolávají $USA_douglas_macarthur$a zpátky"
  SEA_PHI_political_events.51.desc: "Vojenská situace se pro [USA.GetNameDef] ukázala být natolik vážná, že byl $USA_douglas_macarthur$ požádán, aby se okamžitě vrátil domů."
@@ -1622,7 +1622,7 @@
  SEA_PHI_political_events.63.roxas: "Vazby, které má $PHI_manuel_roxas$, by pomohly ekonomickým reformám"
  SEA_PHI_political_events.63.laurel: "$PHI_jose_laurel$ by byl dobrým vůdcem v časech nepokojů"
  SEA_PHI_political_events.64.t: "$PHI_manuel_luis_quezon$ umírá"
- SEA_PHI_political_events.64.desc_quezon: "Po rozvoji tuberkulózy se jeho zdravotní stav postupně zhoršoval a nyní bohužel $PHI_manuel_luis_quezon$ zemřel. Viceprezident dočasně převzal jeho povinnosti, ale brzy bude třeba určit nástupce."
+ SEA_PHI_political_events.64.desc_quezon: "Po propuknutí tuberkulózy vedlo postupné zhoršování zdraví $PHI_manuel_luis_quezon$ bohužel k jeho smrti. Viceprezident dočasně převzal Quezonovy dřívější povinnosti, zatímco národ truchlí, ale brzy nastane čas určit nástupce." # todo: CHANGED
  SEA_PHI_political_events.64.desc_generic: "Funkční období [ROOT.GetLeader]a skončilo a nové prezidentské volby rozhodnou o jeho nástupci. Kvůli zhoršujícímu se zdraví se $PHI_manuel_luis_quezon$ voleb nezúčastní."
  SEA_PHI_political_events.65.t: "Dwight D. Eisenhower zůstává v [USA.GetName]"
  SEA_PHI_political_events.65.desc: "Bohužel naše žádost o posílení [USA.GetAdjective] vojenské mise a jeho přidělení na [ROOT.GetNonIdeologyName] byla zamítnuta. Zdá se, že jeho schopnosti jsou zapotřebí jinde."
@@ -1637,10 +1637,10 @@
  PHI_will_join_faction_later_tt: "§Y[ROOT.GetNameDefCap]§! vstoupí do §Y[FROM.GetAdjective] frakce§! po dokončení §Y$PHI_war_of_independence$§!"
  PHI_will_join_faction_later_PHI_tt: "§Y[FROM.GetNameDefCap]§! vstoupí do §Y[ROOT.GetAdjective] frakce§! po dokončení §Y$PHI_war_of_independence$§!"
  SEA_PHI_political_events.68.t: "[FROM.GetName] nepodepisuje smlouvu o vzájemné pomoci"
- SEA_PHI_political_events.68.desc: "Ideologické rozdíly nebo obavy ze zhoršení vztahů s [USA.GetNameDef] vedly k tomu, že [FROM.GetNameDef] odmítá podepsat naši navrženou smlouvu. Budeme muset hledat spojence jinde."
+ SEA_PHI_political_events.68.desc: "Ideologické rozdíly, nebo možná obavy z odcizení [USA.GetNameDef], vedly k tomu, že [FROM.GetNameDef] nepodepsal naši navrhovanou smlouvu o vzájemné pomoci; zdá se, že musíme hledat spojence jinde." # todo: CHANGED
  SEA_PHI_political_events.68.a: "Možná budou jejich regionální rivalové ochotnější"
  SEA_PHI_political_events.69.t: "[FROM.GetName] navrhuje sjednocení"
- SEA_PHI_political_events.69.desc: "Od získání nezávislosti činí [FROM.GetNameDef] mnoho kroků k jejímu upevnění a nyní chce posílit spolupráci s ostatními hispánskými zeměmi — což se nyní projevuje návrhem sjednotit naše země v Hispánskou říši."
+ SEA_PHI_political_events.69.desc: "Od získání nezávislosti učinil [FROM.GetNameDef] mnoho kroků k upevnění své suverenity a nyní si přeje rozšířit spolupráci s ostatními hispánskými zeměmi. To se nyní projevuje jako návrh sjednotit naši zemi s jejich v rámci Hispánského impéria." # todo: CHANGED
  SEA_PHI_political_events.69.a: "Společně můžeme pomstít naši kolonizaci"
  SEA_PHI_political_events.69.b: "[FROM.capital.GetCapitalVictoryPointName] nás nebude řídit!"
  SEA_PHI_political_events.70.t: "[FROM.GetName] přijímá sjednocení"
@@ -1670,7 +1670,7 @@
  SEA_generic_events.2.a: "Budou nahrazeni"
  SEA_generic_events.2.b: "Zásah by způsobil více problémů"
  SEA_generic_events.3.t: "[GetOppositionPartySupportersName] protestují proti slabé vládě"
- SEA_generic_events.3.desc: "Stoupenci [GetOppositionPartyName] údajně pořádají demonstraci v hlavním městě, kritizují neefektivitu vlády a prosazují centralizovanější řízení."
+ SEA_generic_events.3.desc: "Stoupenci [GetOppositionPartyName] podle zpráv pořádají demonstraci v hlavním městě; kritizují neefektivnost vlády a zdají se prosazovat centralizovanější vládu." # todo: CHANGED
  SEA_generic_events.3.a: "Mají štěstí, že mají to právo"
  SEA_generic_events.4.t: "[GetOppositionPartySupportersName] narušují vládní jednání"
  SEA_generic_events.4.desc: "Malá skupina stoupenců [GetOppositionPartyName] nedávno narušila vládní jednání hlasitým protestem. Ačkoli incident nebyl nebezpečný, podobných případů přibývá, což ukazuje na rostoucí podporu opozice."
@@ -1808,7 +1808,7 @@
  SEA_warlords.24.desc: "[From.GetLeader] nadšeně odpověděl na naši nabídku spojit se proti centrální vládě a zavázal se nám v tomto boji pomáhat. Jsme o krok blíže sjednocení naší země."
  SEA_warlords.24.a: "Výborně"
  SEA_warlords.25.t: "[From.GetLeader] odmítá"
- SEA_warlords.25.desc: "[From.GetLeader] odpověděl na naši nabídku spojit se v boji o Čínu proudem urážek a nadávek, tvrdíce, že naše mise je jen další neúspěšný pokus uchvátit moc a podrobit si provincie. Zdá se, že naší straně stát nebudou."
+ SEA_warlords.25.desc: "[From.GetLeader] odpověděl na naši nabídku spojit se v boji o Čínu sérií urážek a nadávek, tvrdošíjně prohlašuje, že naše mise je jen další neúspěšný pokus o uchopení moci a podrobení provincií. Zdá se, že je v tomto boji po našem boku mít nebudeme." # todo: CHANGED
  SEA_warlords.25.a: "Pak je budeme muset porazit také!"
  SEA_warlords.26.t: "[FROM.GetLeader] požaduje naši kapitulaci"
  SEA_warlords.26.desc: "Po sérii kroků, kterými se snaží prosadit nadvládu v regionu a v rámci rodiny Ma, se [FROM.GetLeader] rozhodl, že by bylo v našem nejlepším zájmu přísahat mu věrnost. Prohlásil také, že pokud odmítneme, budeme potrestáni a naše armády zničeny — ale rozhodnutí je prý na nás."
@@ -1875,7 +1875,7 @@
  SEA_warlords.40.desc: "Poté, co Čchen Ťi-tchang odmítl ustoupit navzdory dezercím a výhrůžkám Jü Chan-moua, provincie upadla do plnohodnotné občanské války mezi provládními a protivládními silami. Měli bychom zasáhnout a ukončit chaos."
  SEA_warlords.40.a: "Ten tvrdohlavý blázen..."
  SEA_warlords.41.t: "Klikka Kuang-si vzdoruje"
- SEA_warlords.41.desc: "[GXC.GetLeader] prohlásil, že naše hrozby invazí jsou pouhé báchorky a že nás donutí vyjednávat. Zda uspějí, je zatím nejisté, ale budeme muset čekat a sledovat situaci."
+ SEA_warlords.41.desc: "Tvrdíce, že naše hrozby invaze jsou jen pohádka, [GXC.GetLeader] prohlásil, že neustoupí, ale spíše nás přinutí k jednání. Zda to uspěje, je ještě příliš brzy říci; budeme muset počkat a uvidíme." # todo: CHANGED
  SEA_warlords.41.a: "No dobře"
  SEA_warlords.42.t: "CChan Fu-ťü prchá z Ťi-nanu"
  SEA_warlords.42.desc: "Ačkoli mohl držet linii déle, Chan Fu-ťü se rozhodl uprchnout z Ťi-nanu a nechat naše křídlo nechráněné. Byl již zatčen pro velezradu, ale otázkou zůstává, co s ním udělat. Máme na něm učinit exemplární trest, nebo raději jmenovat jiného generála, abychom předešli dalším problémům?"
@@ -1937,7 +1937,7 @@
  SEA_warlords.57.desc: "Samolibý zrádce [FROM.GetLeader] odmítl naši žádost zřídit vysunuté stanoviště proti Japoncům, jelikož zjevně nemá nejlepší budoucnost Číny na paměti."
  SEA_warlords.57.a: "Jednou tohoto dne budou litovat..."
  SEA_warlords.58.t: "Tlak vlády na podřízení se [XIC.GetNameDef]"
- SEA_warlords.58.desc: "[XIC.GetNameDef] a [FROM.GetNameDef] nám zasílají společný požadavek, abychom se podřídili jejich novému plánu na předání [608.GetName] a okolních území Mladému maršálovi, který je má využít jako novou předsunutou základnu pro operace proti Japoncům. Zdá se, že mají v úmyslu ukončit naši autonomii — tak či onak..."
+ SEA_warlords.58.desc: "Přišla společná žádost od [XIC.GetNameDef] a [FROM.GetNameDef], abychom podřídili jejich novému plánu předat [608.GetName] a okolní území Mladému maršálovi jako novou přední operační základnu proti Japoncům. Zdá se, že hodlají ukončit naši autonomii jedním či druhým způsobem..." # todo: CHANGED
  SEA_warlords.58.a: "Dobrá, náš úkol je splněn"
  SEA_warlords.58.b: "Budou muset [608.GetName] dobýt silou!"
  SEA_warlords.59.t: "Velký pochod na sever"
@@ -1954,7 +1954,7 @@
  SEA_warlords.62.desc: "Po únosu [ROOT.GetLeader]a a vynucení druhé Sjednocené fronty vydali naši vládní představitelé zatykače a výhrůžky na [FROM.GetLeader]a a jeho muže a začali přesouvat vojska, aby ukončili autonomní misi Severozápadního štábu pro potlačování banditů. Je načase, aby ti zrádci dostali, co si zaslouží."
  SEA_warlords.62.a: "Svou misi nesplnili, přitáhněte jim opratě"
  SEA_warlords.63.t: "Další [SOV.GetAdjective] zásoby dorazily přes průsmyk Irkeštam"
- SEA_warlords.63.desc: "Začátkem tohoto týdne dorazily k našim jednotkám u Kašgaru další [SOV.GetAdjective] zbraně a zásoby přes průsmyk Irkeštam na západě. Na příkaz Alexandra Barmineho, [SOV.GetAdjective] úředníka zodpovědného za dodávky zbraní naší vládě, se zdá, že [SOV.GetNameDef] má konkrétní plány, jak naši spolupráci dále prohloubit."
+ SEA_warlords.63.desc: "Na začátku tohoto týdne dorazily našim jednotkám kolem Kašgaru další [SOV.GetAdjective] zbraně a zásoby přes průsmyk Irkeshtam na jeho západě. Na příkaz Alexandra Barmine, [SOV.GetAdjective] úředníka zodpovědného za dodávky zbraní naší vládě, se zdá, že [SOV.GetNameDef] mají konkrétní plány na další prohloubení naší spolupráce." # todo: CHANGED
  SEA_warlords.63.a: "Děkujeme soudruhům za jejich štědrost"
  SEA_warlords.64.t: "$KHM_ma_hushan$ přijíždí s [KHM.GetAdjective] zlatem"
  SEA_warlords.64.desc: "$KHM_ma_hushan$, zneuctěný velitel 36. kuomintangské divize a pádišáh [KHM.GetNameDef], dorazil do [441.GetName] poté, co dezertoval od svých vojsk a přivezl s sebou 1000 uncí zlata, které on a jeho muži uloupili v hlavním městě bývalého státu. To zavání příležitostí..."
@@ -1967,7 +1967,7 @@
  SEA_warlords.66.desc: "[FROM.GetLeader] souhlasil s naší žádostí a oblast Pamíru se v době doručení této zprávy převádí pod naši správu. Od nynějška bude stát spravován námi, autonomně, mimo přímou [FROM.GetAdjective] vládu."
  SEA_warlords.66.a: "Veliký den!"
  SEA_warlords.67.t: "[FROM.GetLeader] odmítá naši žádost"
- SEA_warlords.67.desc: "[FROM.GetLeader] odmítl naši žádost o převod území. Od nich se to dalo čekat, ale v dlouhodobém horizontu to naše vztahy jistě poškodí."
+ SEA_warlords.67.desc: "[FROM.GetLeader] odmítl naši žádost o předání území. To se dalo od nich čekat, ale jistě to v dlouhodobém horizontu poškodí naše vztahy." # todo: CHANGED
  SEA_warlords.67.a: "Jednoho dne jej získáme zpět..."
  SEA_warlords.68.t: "[FROM.GetNameDef] získává přeběhlé generály Guominjunu"
  SEA_warlords.68.desc: "Feng Jü-siang a jeho jednotky, dříve loajální ke Guominjunu — organizaci, která se proti nám kdysi postavila a po porážce byla opět začleněna — nyní opět mění strany, protože [FROM.GetLeader] vyhlásil znovuzrození této vojenské organizace."
@@ -2154,3 +2154,5 @@
  if_they_back_down_or_lose_a_border_conflict_tt: "Pokud ustoupí nebo prohrají hraniční konflikt:"
  SEA_PRC_misc_events.19.e: "[FROM.GetNameDefCap] odevzdává [743.GetName]"
  PHI_laurel_help: "§YJosé Laurel§! zvýší šanci na získání japonské podpory při §YZajištění japonských záruk§!"
+ SEA_japan_foreign_policy.4.c: "Jsme uprostřed války! Požádejte je, aby počkali." # todo: NEW TRANSLATION
+ SEA_japan_foreign_policy.4.c_tt: "Budeme požádáni, abychom reagovali, jakmile omezená válka skončí." # todo: NEW TRANSLATION

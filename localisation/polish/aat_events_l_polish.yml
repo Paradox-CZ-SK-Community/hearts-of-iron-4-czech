@@ -39,7 +39,7 @@
  AAT_Sweden.16.desc: "Po odmítnutí předat oblasti kolem Narviku [SWE.GetAdjective] vláda nejednoznačně pohrozila vypuknutím nepřátelství mezi našimi zeměmi, pokud nepředáme severní [NOR.GetAdjective] území."
  AAT_Sweden.16.t: "[SWE.GetNameDef] hrozí nepřátelstvím kvůli Narviku"
  AAT_Sweden.17.a: "Nu har du skitit i det blå skåpet, [FROM.GetName]"
- AAT_Sweden.17.desc: "Navzdory hrozbám nepřátelstvím kvůli Narviku [FROM.GetName] odmítá ustoupit našim požadavkům. Nemůžeme a nenecháme s [NOR.GetAdjective] lidem zacházet jako s dobytkem v nelidských podmínkách. Musíme zajistit [NOR.GetAdjective] přístavy, odříznout útočící síly a osvobodit [NOR.GetAdjective] obyvatelstvo."
+ AAT_Sweden.17.desc: "Navzdory hrozbám kvůli Narviku [FROM.GetName] odmítl ustoupit našim požadavkům. Nemůžeme a nesmíme nechat [NOR.GetAdjective] lid, aby byl zacházen jako dobytek za nelidských podmínek. Musíme zajistit [NOR.GetAdjective] přístavy, odříznout tak útočící síly a osvobodit [NOR.GetAdjective] lid." # todo: CHANGED
  AAT_Sweden.17.t: "[FROM.GetNameDefCap] tvrdohlavě odmítá předat Narvik"
  AAT_Sweden.18.a: "Samozřejmě, [NOR.GetName] je právoplatným pánem Narviku"
  AAT_Sweden.18.b: "Narvik si nárokujeme jako odplatu za naše úsilí"
@@ -48,7 +48,7 @@
  AAT_Sweden.19.a: "Norsko je opět sjednocené"
  AAT_Sweden.19.desc: "Je to jasný den, kdy je [Nor.GetName] konečně znovu sjednoceno. [SWE.GetName] velkoryse přijalo naši žádost o navrácení Narviku, oblasti, která byla během války chráněna [SWE.GetAdjective] vládou. Vyjádřili jsme naši nejhlubší vděčnost [SWE.GetAdjective] vládě - skutečně to ohlašuje hlubší spojení mezi našimi zeměmi, které přetrvá celé věky."
  AAT_Sweden.19.t: "[SWE.GetNameDefCap] vrací Narvik"
- AAT_Sweden.19_tt: "§Y[ROOT.GetNameDefCap]§! nyní bude moci udělit §Y$norwegian_defense_cross_of_honor$§! §Ypolním velitelům§!."
+ AAT_Sweden.19_tt: "§Y[ROOT.GetNameDefCap]§! nyní bude moci udělovat §YNorský obranný kříž cti§! §Ypolním důstojníkům§!." # todo: CHANGED
  AAT_Sweden.2.a: "Jak tohle skončí?"
  AAT_Sweden.2.desc: "Uprostřed Per Albinova odmítání ustoupit v otázce rozpočtu a zároveň odmítání odstoupit ve prospěch jiného kandidáta se koalice Strany rolníků a umírněných rozhodla předložit premiérovi hlasování o nedůvěře.\n\nSpojením těchto dvou stran nemá Per Albin jinou možnost než rezignovat, čímž zůstává post premiéra neobsazený. To způsobilo vládní krizi, kdy žádná strana nemá dostatečný politický vliv k převzetí moci.\n\nSám král se vyslovil proti vzniklému chaosu, což je mimořádný krok panovníka, který nemá žádnou oficiální politickou moc."
  AAT_Sweden.2.t: "Hlasování o nedůvěře"
@@ -83,7 +83,7 @@
  AAT_Sweden.27.t: "[SOV.GetNameDefCap] se vzdává nároků na [?146.GetName]"
  AAT_Sweden.28.a: "Rozhodně ne"
  AAT_Sweden.28.b: "Cena, kterou je třeba zaplatit za spojence"
- AAT_Sweden.28.desc: "Jak [SWE.GetLeader] používá čoraz imperialističtější rétoriku, nemělo by být překvapením, že nyní požaduje navrácení ztracených imperiálních držav. Jakýkoli náznak oprávněného nároku je již dávno promlčen a přinejlepším pochybný, avšak v době konfliktu si nemůžeme dovolit ztrácet spojence. Možná gesto dobré vůle udrží jejich vůdce spokojeného?"
+ AAT_Sweden.28.desc: "Jelikož rétorika [SWE.GetLeader] se stala čím dál více imperialistickou, nemusí být překvapivé, že [SWE.GetLeader.GetSheHe] nyní požaduje navrácení jejich ztracených imperiálních držeb. Jakýkoli nárok je zjevně dávno propadlý a v nejlepším případě pochybný, ale v době konfliktu si nemůžeme dovolit ztrácet spojence. Možná gesto dobré vůle udrží jejich vůdce spokojeného?" # todo: CHANGED
  AAT_Sweden.28.t: "[SWE.GetNameDefCap] žádá o navrácení ztracených území"
  AAT_Sweden.29.a: "Pak uvidí, kdo je v právu"
  AAT_Sweden.29.desc: "[FROM.GetNameDefCap] odmítá náš požadavek na předání našich bývalých kolonií s tím, že naše nároky jsou natolik odtržené od moderní geopolitiky, že cokoli jiného než jednoznačné odmítnutí by tuto frašku zbytečně prodlužovalo."
@@ -110,7 +110,7 @@
  AAT_Sweden.32.desc: "[FROM.GetNameDefCap] nás informuje, že nebude zpochybňovat náš nárok na Bornholm, zároveň však upozorňuje, že se jedná o bezprecedentní krok, který ohrožuje stabilitu Severských zemí."
  AAT_Sweden.32.t: "[FROM.GetName] se vzdává Bornholmu"
  AAT_Sweden.33.a: "Znovu překročíme úžinu"
- AAT_Sweden.33.desc: "[FROM.GetAdjectiveCap] vláda nás informovala, že nebude brát náš nárok na Bornholm v potaz s tím, že jakýkoli domnělý nárok vypršel již před staletími. Pokud jej nepředají, budeme si jej muset vzít silou, stejně jako kdysi dávno."
+ AAT_Sweden.33.desc: "[FROM.GetAdjective] vláda nám sdělila, že nebude přijímat náš nárok na Bornholm, tvrdíce, že jakýkoli nárok, který údajně máme, vypršel už před staletími. Pokud ho nehodlají vydat, budeme ho muset získat silou, stejně jako tomu bylo před staletími." # todo: CHANGED
  AAT_Sweden.33.t: "[FROM.GetName] odmítá vydat Bornholm"
  AAT_Sweden.34.a: "Nemáme na výběr"
  AAT_Sweden.34.a_tt: "§RToto povede k tomu, že nás [FROM.GetName] bude moci učinit svým subjektem§!"
@@ -118,7 +118,7 @@
  AAT_Sweden.34.desc: "[FROM.GetAdjectiveCap] velvyslanec nás informoval, že podle názoru [SWE.GetAdjective] vlády již [THIS.GetAdjective] vláda není v době přetváření mezinárodního řádu schopna řádně chránit svá zámořská území. Pokud [THIS.GetName] nedokáže svá území bránit, bylo by rozumné je postoupit někomu, kdo toho schopen je - a preferovanou volbou je překvapivě [FROM.GetNameDef]."
  AAT_Sweden.34.t: "[FROM.GetName] požaduje autonomní území"
  AAT_Sweden.35.a: "Skvělé"
- AAT_Sweden.35.desc: "[FROM.GetName] neochotně předáva svá autonomní území. To sice výrazně poškodí naše vzájemní vztahy, z dlouhodobého hlediska to však nebude hrát roli, neboť brzy budou stejně vtaženi do naší sféry."
+ AAT_Sweden.35.desc: "[FROM.GetName] se neochotně rozhodl postoupit svá autonomní území. To jistě poškodí naše vztahy s [FROM.GetName], ale z dlouhodobého hlediska to nebude mít velký význam, protože brzy budou vtlačeni do naší sféry." # todo: CHANGED
  AAT_Sweden.35.t: "[FROM.GetName] předává [DEN.GetAdjective] zámořská území"
  AAT_Sweden.36.a: "Pak si je vezmeme silou"
  AAT_Sweden.36.desc: "[FROM.GetName] nás informuje, že nebude podporovat naši vizi nového světového řádu. Navzdory nátlaku [FROM.GetAdjective] vláda tvrdošíjně odmítá předat naše právoplatná území zpět."
@@ -162,7 +162,7 @@
  AAT_Sweden.46.desc: "Každému je zřejmé, že [FIN.GetName] nemůže čelit [SOV.GetAdjective] hrozbě. Finové hovoří o své suverenitě, aniž by si uvědomovali, že to, co považují za nezávislost, nebylo dáno žádnou politickou ani vojenskou silou, ale vzniklo v důsledku chaosu ruské občanské války. Od té doby tiká časovaná bomba, které odpočet se brzy zastaví na nule, a starý nepřítel znovu vystrčí svou ohyzdnou hlavu. Je proto nezbytné, abychom převzali kontrolu nad [FIN.GetAdjective] záležitostmi dříve, než tak učiní [SOV.GetNameDef]."
  AAT_Sweden.46.t: "[FIN.GetAdjectiveCap] otázka"
  AAT_Sweden.47.a: "Doufejme, že naši noví suzereni budou shovívaví"
- AAT_Sweden.47.desc: "Je zřejmé, že obavy našich sousedů o vlastní bezpečnost byly pouhou záminkou. Oslabeni a zbaveni strategické výhody jsme nepřizpůsobili naši armádu novým geografickým realitám. U našeho hlavního města byly spatřeny [FROM.GetAdjective] válečné lodě, [FROM.GetAdjective] jednotky překročily demilitarizovanou zónu na severu a bylo nám doručeno ultimátum ke kapitulaci. Mezinárodní společenství nás opustilo."
+ AAT_Sweden.47.desc: "Je zřejmé, že 'obavy' našich sousedů o jejich bezpečnost byly jen zástěrkou. Pozbýváme vůle a ztrácíme strategickou výhodu, naše ozbrojené síly nejsou připraveny na nové geopolitické poměry. Nepřátelské [FROM.GetAdjective] válečné lodě byly spatřeny u našeho hlavního města, [FROM.GetAdjective] jednotky překračují demilitarizovanou zónu na severu a nám bylo doručeno ultimátum ke kapitulaci. Mezinárodní společenství nás opustilo." # todo: CHANGED
  AAT_Sweden.47.t: "[FROM.GetName] přistupuje k našemu podřízení"
  AAT_Sweden.48.a: "Už nikdy nebude o našem osudu rozhodovat někdo jiný"
  AAT_Sweden.48.b: "$AAT_Sweden.47.a$"
@@ -177,7 +177,7 @@
  AAT_Sweden.50.a: "Nestojí to za boj"
  AAT_Sweden.50.a_tt: "§RToto povede k tomu, že nás [SWE.GetName] bude moci učinit svým subjektem§!"
  AAT_Sweden.50.b: "To je absurdní"
- AAT_Sweden.50.desc: "[SWE.GetName] požaduje plnou kontrolu nad přístavem Narvik. Jejich vláda tuto rétoriku odůvodňuje obavami, že by protivník mohl v Narviku provést vylodění a zaútočit na švédské železné doly. Nesouhlas může vést k další eskalaci konfliktu."
+ AAT_Sweden.50.desc: "[SWE.GetName] požaduje plnou kontrolu nad přístavem Narvik. Jejich vláda tuto rétoriku odůvodňuje obavami, že protivník by se mohl vylodit v Narviku a napadnout švédské železné doly. Neshoda by mohla vést k dalšímu vyostření a konfliktu." # todo: CHANGED
  AAT_Sweden.50.t: "[SWE.GetName] požaduje [144.GetName]"
  AAT_Sweden.51.a: "Vynikající"
  AAT_Sweden.51.desc: "[FROM.GetName] nám postupuje Narvik. Tím je zajištěna železná ruda z Gällivare a Kiruny a zároveň je oslabeno [FROM.GetNonIdeologyName]."
@@ -187,7 +187,7 @@
  AAT_Sweden.52.t: "$AAT_Sweden.49.t$"
  AAT_Sweden.53.a: "Nikdy! Do zbraně"
  AAT_Sweden.53.b: "Nemáme dostatek vlivu k odporu"
- AAT_Sweden.53.desc: "[SWE.GetAdjectiveCap] vláda bez provokace požadovala, abychom rozpustili naši armádu a připojili se k novému severskému státu. Ačkoli tvrdí, že jde o program spolupráce, je zřejmé, kdo by byl podřízeným a kdo pánem. Ve skutečnosti jde o návrat k dobám bývalé Unie."
+ AAT_Sweden.53.desc: "[SWE.GetAdjective] vláda bez provokace požadovala, abychom stáhli armádu a připojili se k novému Severskému státu. Tvrdí, že jde o program spolupráce, ale je zřejmé, kdo by byl podřízený a kdo pán. Jde v podstatě o návrat do dob bývalé Unie." # todo: CHANGED
  AAT_Sweden.53.t: "[NOR.GetAdjectiveCap] otázka"
  AAT_Sweden.6.a: "Žádné další srkání!"
  AAT_Sweden.6.desc: "Předsedající vyzval k zavedení nových pravidel týkajících se jídla v Riksdagu poté, co Agda Sörlp „velmi hlasitě“ srkala polévku během projevu jiného politika o volbě nového premiéra. Označil to za „úmyslné rozptylování“, avšak paní Sörlp uvedla, že kvůli zdlouhavým jednáním v poslední době není během běžných hodin čas na oběd."
@@ -263,7 +263,7 @@
  AAT_Sweden_ball_bearing.8.desc: "Není žádným překvapením, že po vypuknutí války mezi našimi zeměmi byl obchod s kuličkovými ložisky oběma vládami násilně zrušen. Tato dohoda, kdysi oslavovaná jako krok ke zpomalení pochodu ke globální válce, se bezpochyby ukázala jako neúspěšná.\nNyní budou tyto klíčové nástroje přetvořeny ve válečné stroje, které nakonec přinesou jen krev, bolest a utrpení."
  AAT_Sweden_ball_bearing.8.t: "Obchod s kuličkovými ložisky zrušen po vypuknutí války"
  AAT_Sweden_communism.1.a: "Znepokojivé"
- AAT_Sweden_communism.1.desc: "Konečně jsme získali moc ve vládě a zatímco [ROOT.GetDemocraticParty] akceptuje vůli voličů s grácií, jakou si demokracie zaslouží, krajně pravicové strany tento proces přijímají mnohem hůře a zpochybňují legitimitu hlasování. Prozatím jde jen o odpůrce, avšak musíme dbát na to, aby se tento postoj dále nešířil."
+ AAT_Sweden_communism.1.desc: "Konečně jsme získali moc ve vládě, a zatímco [ROOT.GetDemocraticParty] přijala vůli voličů s grácií, jakou si demokracie zaslouží, krajně pravicové strany tuto situaci přijímají mnohem méně a zpochybňují legitimitu hlasování. Zatím jde jen o odpůrce, ale měli bychom dbát, aby se to dál nerozšířilo." # todo: CHANGED
  AAT_Sweden_communism.1.t: "Šeptanda o fašistické kontrarevoluci"
  AAT_Sweden_communism.2.a: "Ještě znepokojivější"
  AAT_Sweden_communism.2.desc: "Vládní vyšetřování armády vyústilo ve zprávu, která spojuje několik vysoce postavených velitelů s podzemním fašistickým hnutím usilujícím o podkopání zvolené vlády. Zpráva konstatuje, že vojenská rétorika ohledně politického směřování země je stále otevřenější, a doporučuje proti takovým projevům zakročit."
@@ -276,15 +276,15 @@
  AAT_Sweden_communism.4.t: "[ROOT.GetFascistParty] a armáda přebírají kontrolu nad Stockholmem"
  AAT_Sweden_communism.5.a: "Postavit je před soud."
  AAT_Sweden_communism.5.b: "„Povýšit“ vůdce spiknutí mimo skutečnou moc."
- AAT_Sweden_communism.5.desc: "Tajné sklady těžkých zbraní byly nalezeny ve skladech napříč městskými centry v celé zemi. Záznamy o financování těchto skladů mají vazby na [ROOT.GetFascistParty] a vůdci polovojenských jednotek spojených s touto stranou, tzv. Hnědé košile, byli všichni zadrženi.\nDopisy nalezené v jednom ze skladů navíc odhalují zapojení generálů do tohoto spiknutí, kteří tyto zbraně původně zpronevěřili a falšovali inventární záznamy. Takt je zde naprosto zásadní, neboť tito vůdci mohou mít vliv na nezanedbatelnou část ozbrojených sil."
+ AAT_Sweden_communism.5.desc: "V tajných skladech po městských centrech v [ROOT.GetName] byly nalezeny zásoby těžkých zbraní. Záznamy o tom, kdo tyto sklady financuje, mají všechny vazby na [ROOT.GetFascistParty] a vedoucí paramilitární skupiny spojené s touto stranou — hnědé košile — byly zadrženy.\nDopisy nalezené v jednom z těchto skladů také odhalují generály zapojené do tohoto spiknutí, kteří tyto zbraně zpronevěřili a sfalšovali inventární záznamy. Je třeba postupovat velmi obezřetně, protože tito hlavouni mohou mít vliv na nemalou část ozbrojených sil." # todo: CHANGED
  AAT_Sweden_communism.5.t: "Vůdci spiknutí odhaleni"
  AAT_Sweden_communism.6.a: "Zabavit jejich majetek, ať pracují jako všichni ostatní"
- AAT_Sweden_communism.6.desc: "V této osvícené době se zdá podivné lpět na monarchii, zvláště na monarchii bez skutečné moci. Přesto se starý král neustále vměšuje do politiky, navzdory opakovaným varováním, že takové chování je nevhodné a protiústavní. Co je horší, stále více se přiklání ke krajní pravici politického spektra a hledá návrat ke staré slávě carů, císařů a králů. To není budoucnost společnosti a potřeba monarchie je dávno překonaná; nastal čas zabavit jejich majetek ve prospěch lidu a nechat je žít jako běžné lidi, jimiž také jsou."
+ AAT_Sweden_communism.6.desc: "V tomto osvíceném věku se zdá podivné stále lpět na monarchii, zvláště na monarchii bez moci. Přesto starý král nemůže přestat vměšovat se do politiky, a to i přes opakovaná varování, že takové chování je nevhodné a protiústavní. Co je horší, čím dál více se přiklání k extrémní pravici a touží po staré velkoleposti carů, císařů a králů. To není budoucnost společnosti a monarchie už není potřebná; je čas zabavit jejich majetek ve prospěch lidu a nechat je žít jako běžní lidé." # todo: CHANGED
  AAT_Sweden_communism.6.t: "Osud rodu Bernadotte"
  AAT_Sweden_communism.7.a: "Kilbom nás povede do budoucnosti"
  AAT_Sweden_communism.7.b: "Flyg je řešením"
  AAT_Sweden_communism.7.c: "Vlastně možná stalinismus není tak špatný nápad"
- AAT_Sweden_communism.7.desc: "Karl Kilbom se snaží převzít kontrolu nad stranou. To stranu rozdělilo na dvě poloviny - jedna podporuje Flyga, druhá Kilboma. To ohrožuje stabilitu politického vítězství, kterého jsme již dosáhli, a pokud tento stav potrvá, můžeme o moc zcela přijít. Musíme rozhodnout, kdo povede [SWE.GetName] vstříc světlým zítřkům."
+ AAT_Sweden_communism.7.desc: "Karl Kilbom se snaží uchopit kontrolu nad stranou. To ji rozdělilo na dvě frakce — jednu podporující Flyga a druhou Kilboma. Hrozí to destabilizací politického vítězství, kterého jsme již dosáhli, a pokud to bude pokračovat, můžeme ztratit moc úplně. Musíme rozhodnout, kdo povede [SWE.GetName] do jasné budoucnosti." # todo: CHANGED
  AAT_Sweden_communism.7.t: "Kilbom se snaží sesadit Flyga"
  AAT_Sweden_communism__7_tt_1: "Tímto se přikloníme ke Spojencům"
  AAT_Sweden_communism__7_tt_2: "Tímto se přikloníme k Němcům"
@@ -607,7 +607,7 @@
  AAT_Sweden_strike.2.desc: "Naše snahy potlačit protesty bohužel selhaly. Téměř každý tovární dělník, švadlena i dřevař je nyní v ulicích a protestuje proti vládní politice. Situaci dále zhoršuje skutečnost, že mnoho protestů přerůstá v násilí, při němž jsou zraněni civilisté i příslušníci bezpečnostních složek."
  AAT_Sweden_strike.2.t: "Celostátní nepokoje"
  AAT_USA_events.01.a: "Aspoň nám to později vrátí..."
- AAT_USA_events.01.desc: "[USA.GetAdjectiveCap] vláda, kterou vede [USA.GetLeader], oznámila obsazení Grónska v rámci nové Grónské hlídky, operace zaměřené na ochranu Severní Ameriky před zahraničními hrozbami a vlivem, jak bylo rozhodnuto na Havanské konferenci. Přislíbili, že nám území vrátí, jakmile se světová situace uklidní."
+ AAT_USA_events.01.desc: "[USA.GetAdjective] vláda vedená [USA.GetLeader] oznámila okupaci Grónska jako součást nové Grónské hlídky, operace za účelem zabezpečení Severní Ameriky proti cizím hrozbám a vlivu, jak bylo rozhodnuto na havanské konferenci. Přislíbili, že nám ho vrátí, jakmile se světová situace uklidní." # todo: CHANGED
  AAT_USA_events.01.t: "[USA.GetNameDefCap] obsazuje Grónsko"
  AAT_USA_events.02.a: "Alespoň jsou naši lidé v bezpečných rukou..."
  AAT_USA_events.02.desc: "[FROM.GetAdjectiveCap] oznámili, že v tuto chvíli okupují Faerské ostrovy, které patří Dánsku a mají vysoký strategický význam. Tvrdí, že chtějí ostrovy ochránit před hrůzami války a zřídit tam námořní i letecké základny, dokud nenastane okamžik, kdy budou ostrovy vráceny nám, osvobozené z odporného područí, do něhož byly uvrženy [?DEN.DEN_overlord_nation.GetAdjective] agresí."
@@ -637,17 +637,17 @@
  AAT_USA_events.09.t: "[FROM.GetNameDefCap] vrací dánské území"
  AAT_britain_narvik.1.a: "Stáhnout se"
  AAT_britain_narvik.1.b: "Pokračovat v kampani"
- AAT_britain_narvik.1.desc: "Úspěšně jsme vyhodili do povětří [SWE.GetAdjective] doly a připravili tak [GER.GetNameDef] o jeden z jeho nejdůležitějších dovozních zdrojů. Přestože hlavní záminkou této akce byla pomoc pro [FIN.GetName], [SOV.GetNameDef] se nemusí obávat přímého konfliktu s námi a zároveň jsme zasadili těžkou ránu našemu hlavnímu nepříteli. [SWE.GetNameDefCap] není náš skutečný protivník, a nyní musíme rozhodnout, jak postupovat dál."
+ AAT_britain_narvik.1.desc: "Úspěšně jsme odpálili [SWE.GetAdjective] doly a připravili [GER.GetNameDef] o jeden z jeho nejdůležitějších dovozních zdrojů. Přestože primární motivací tohoto činu byla nabídka pomoci [FIN.GetName], nikdy nebylo životaschopné zapojit se do přímého konfliktu se [SOV.GetNameDef], a přesto jsme zasazili těžkou ránu našemu hlavnímu protivníkovi. Ve [SWE.GetNameDefCap] nemáme skutečného nepřítele a nyní musíme rozhodnout, co podnikneme dál." # todo: CHANGED
  AAT_britain_narvik.1.t: "[SWE.GetAdjectiveCap] doly byly zničeny"
  AAT_britain_narvik.2.a: "Jak se opovažují?!"
  AAT_britain_narvik.2.b: "Musíme je zastavit!"
- AAT_britain_narvik.2.desc: "[ENG.GetAdjectiveCap] jednotky překročily hranici a napadli [SWE.GetName]. Bez vyhlášení války a bez jakéhokoli vysvětlení ze strany [ENG.GetAdjective] vlády jsou [SWE.GetAdjective] úřady pobouřeny tímto pohrdáním [SWE.GetAdjective] suverenitou. Nejpravděpodobnějším vysvětlením je, že se [ENG.GetAdjective] jednotky snaží dostat k dolům v Gällivare a Kiruně, aby je sabotovali a zabránili dodávkám vysoce kvalitní rudy pro [GER.GeName], což by bylo obrovskou ranou jak pro Němce, tak pro [SWE.GetAdjective] ekonomiku a zároveň hrubým porušením [SWE.GetAdjective] neutrality."
+ AAT_britain_narvik.2.desc: "[ENG.GetAdjective] jednotky překročily hranici do [SWE.GetName]. Bez vyhlášení války a v tichu ze strany [ENG.GetAdjective] vlády jsou [SWE.GetAdjective] úřady pobouřeny nedostatkem úcty k [SWE.GetAdjective] suverenitě. Nejpravděpodobnějším vysvětlením je, že [ENG.GetAdjective] jednotky se snaží dostat k dolům v Gällivare a Kiruně, aby je sabotovaly a zabránily tak odvozu vysoce kvalitní rudy do [GER.GeName], což by znamenalo velkou ránu jak [GER.GetAdjective], tak [SWE.GetAdjective] ekonomikám a závažné porušení neutrality." # todo: CHANGED
  AAT_britain_narvik.2.t: "[ENG.GetName] napadá [SWE.GetName]"
  AAT_britain_narvik.3.a: "Tohle je nehoráznost"
  AAT_britain_narvik.3.desc: "[ENG.GetNameDefCap] nelegálně napadá [SWE.GetName] a bez řádného vyhlášení války ničí jejich doly. Klíčový pilíř [SWE.GetAdjective] ekonomiky je nyní pouhou zničeným lomem. [ENG.GetAdjectiveCap] vláda své kroky obhajuje tvrzením, že mít [GER.GetNameDefCap] jako obchodního partnera je stejně špatné jako stát na jejich straně, avšak zdá se, že i jejich vlastní obyvatelstvo je s tímto vysvětlením nespokojeno."
  AAT_britain_narvik.3.t: "[ENG.GetName] sabotuje [SWE.GetAdjective] doly"
  AAT_britain_narvik.4.a: "Je to stále nehoráznost"
- AAT_britain_narvik.4.desc: "[ENG.GetName] oznámil, že jeho strategické cíle byly splněny, a stahuje své jednotky. Zároveň opakuje, že nechová skutečné nepřátelství vůči [SWE.GetAdjective] státu a že jeho akce byly vedeny výhradně zájmem o obranu demokracie. Jak [GER.GetAdjective] diplomaté, tak [SWE.GetAdjective] velvyslanectví doručily protestní nótu - [GER.GetAdjective] strana argumentuje porušením neutrality a invazí do cizí země, zatímco [SWE.GetAdjective] kritizují [ENG.GetAdjective] vládu za to, že se pod záminkou pomoci pro [FIN.GetName] dopustila špatně promyšlené akce na úkor [SWE.GetAdjective] životů."
+ AAT_britain_narvik.4.desc: "[ENG.GetName] oznámil, že jeho strategický cíl v [SWE.GetName] byl splněn, a stahuje své jednotky. Jeho vláda také opakuje, že nemá skutečnou zášť vůči [SWE.GetAdjective] státu a že jeho akce v [SWE.GetName] byly čistě v zájmu obrany demokracie. Jak [GER.GetAdjective], tak [SWE.GetAdjective] ambasády podaly protestní dopis: [GER.GetAdjective] strana tvrdí, že [ENG.GetName] porušil neutralitu a vpadl do cizí země v bojové zóně, a [SWE.GetAdjective] ostře kritizuje [ENG.GetAdjective] vládu, že navzdory vysokým cílům pomoci [FIN.GetName] šlo zjevně o špatně provedený záměr k dosažení vlastních cílů na úkor životů [SWE.GetAdjective] obyvatel." # todo: CHANGED
  AAT_britain_narvik.4.t: "[ENG.GetName] opouští [SWE.GetName]"
  AAT_finland_continuation_war.01.a: "Dobře, jen ať po tomto ujednání nezůstane žádný záznam!"
  AAT_finland_continuation_war.01.b: "[FROM.GetAdjectiveCap] malichernosti nás nezajímají."
@@ -677,7 +677,7 @@
  AAT_finland_continuation_war.09.desc: "[FROM.GetLeader] odmítl naši žádost a prohlásil, že se máme připravit na zkázu, neboť [FROM.GetAdjective] armáda nás tentokrát nehodlá šetřit. Jde o nejhorší možný scénář!"
  AAT_finland_continuation_war.09.t: "[FROM.GetNameDef] odmítá naši nabídku míru"
  AAT_finland_continuation_war.10.a: "Musíme se podřídit, jinak budeme čelit další válce"
- AAT_finland_continuation_war.10.desc: "Sovětští zástupci si povšimli, že neplníme podmínky příměří, které jasně stanoví, že musíme vyhnat všechny nepřátelské jednotky, zatímco Němci odvážejí naše zbraně a zdroje, jež jsme povinni předat Svazu. Když se naše jednotky pokusily odzbrojit [GER.GetAdjective] vojáky, vypukly přestřelky a Němci vypalují naši zemi a zaminovávají naše vody."
+ AAT_finland_continuation_war.10.desc: "Sovětské delegace si všimly našeho nedodržování příměří, které jasně stanoví, že musíme vyhostit jakékoli nepřátelské jednotky, a [GER.GetAdjective] odvádějí naše zbraně a zdroje, které jsme nuceni předat Unii. Když naše jednotky začaly pokusy odzbrojit [GER.GetAdjective] vojáky, vypukly přestřelky a [GER.GetAdjective] pálí naši zemi a minují naše vody." # todo: CHANGED
  AAT_finland_continuation_war.10.t: "Sověti nás nutí vyhnat [GER.GetAdjective] jednotky"
  AAT_finland_continuation_war.11.a: "Zahájit operaci Bříza"
  AAT_finland_continuation_war.11.b: "Zahájit operaci Polární záře"
@@ -685,7 +685,7 @@
  AAT_finland_continuation_war.11.t: "Naši důstojníci opouští [FIN.GetNameDef]"
  AAT_finland_continuation_war.12.a: "Dobře, jen doufejme, že s tím bude [SOV.GetLeader] souhlasit..."
  AAT_finland_continuation_war.12.b: "Nemůžeme riskovat provokaci Sovětského svazu!"
- AAT_finland_continuation_war.12.desc: "[FIN.GetLeader] nás dnes oslovil s velmi zajímavou nabídkou. Tvrdí, že [FIN.GetName] je připraveno ukončit bojové operace, které jsou vedeny na [SOV.GetNameDef], neboť se konflikt pro ně vyvíjí stále hůře, a nabízí nám možnost vylodění v Petsamu a vstup do naší frakce, abychom společně vyhnali [GER.GetNameDef] ze Skandinávie a jednou provždy s nima skoncovali. Co odpovíme?"
+ AAT_finland_continuation_war.12.desc: "[FIN.GetLeader] z [FIN.GetNameDef] nás dnes oslovil s velmi zajímavou nabídkou. Tvrdí, že [FIN.GetName] je připraven ukončit válku se [SOV.GetNameDef], neboť se konflikt začíná obracet proti nim, a nabídl, že nám dovolí vylodit se v Petsamu a vstoupit do naší frakce, aby společně vyhnali [GER.GetAdjective] ze Skandinávie a jednou provždy ukončili [GER.GetNameDef]. Co na to říkáme?" # todo: CHANGED
  AAT_finland_continuation_war.12.t: "[FIN.GetName] chce změnit stranu"
  AAT_finland_continuation_war.13.a: "Dobře, ale jen pokud dostaneme kompenzace"
  AAT_finland_continuation_war.13.desc: "Zdá se, že [FIN.GetNameDef] oslovuje hlavní demokratické mocnosti a snaží se vyvléct z války proti nám tím, že nabídnou vstup do jejich války proti Němcům, tedy v podstatě změnu strany. Pokud by Spojenci souhlasili, mnoho bychom s tím nezmohli kromě stížností a požadavků na odškodnění, avšak znamenalo by to alespoň nového partnera v našem boji proti fašismu."
@@ -772,7 +772,7 @@
  AAT_finland_diplomacy.22.t: "[FROM.GetLeader] odmítá náš návrh na finsko-[FROM.GetAdjective] pakt"
  AAT_finland_diplomacy.23.a: "Přijmeme je pod svá křídla"
  AAT_finland_diplomacy.23.b: "A proč bychom to dělali?"
- AAT_finland_diplomacy.23.desc: "[FROM.GetLeader] nás požádal o pomoc s obranou proti možné agresi ze strany [SOV.GetNameDef]. Uvádějí, že [FROM.GetNonIdeologyName] si je vědomo hrozícího útoku a že jsme jejich jedinou nadějí na přežití, pokud k němu dojde."
+ AAT_finland_diplomacy.23.desc: "[FROM.GetLeader] z [FROM.GetNameDef] nás požádal, abychom jim pomohli v obraně proti možné agresi ze strany [SOV.GetNameDef]. Tvrdí, že si jsou vědomi, že mohou být brzy napadeni, a že bychom byli jejich jedinou nadějí na přežití, pokud k tomu dojde." # todo: CHANGED
  AAT_finland_diplomacy.23.t: "[FROM.GetNameDefCap] hledá ochranu, pokud je [SOV.GetNameDef] napadne"
  AAT_finland_diplomacy.24.a: "Naši zachránci"
  AAT_finland_diplomacy.24.desc: "[FROM.GetAdjectiveCap] vláda souhlasila s naší žádostí a zavázala se nás chránit v případě, pokud nás [SOV.GetNameDefCap] napadne. Konečně si můžeme oddechnout."
@@ -883,13 +883,13 @@
  AAT_finland_political.09.desc: "S vděčností uznáváme zásluhy, které má [ROOT.GetLeader], neboť je jisté, že bez jeho vedení bychom bouři nepřečkali a náš stát by byl ztracen.\n\nNyní je však čas hledět za válku, k míru a obnově, které musí následovat. Abychom řádně zahojili rány a čelili budoucnosti, musíme obnovit civilní vládu."
  AAT_finland_the_white_death.1.a: "Vynikající!"
  AAT_finland_the_white_death.1.b: "Měli bychom rozdávat více zbraní lovcům"
- AAT_finland_the_white_death.1.desc: "Dorazily zprávy, že naši odstřelovači si vedou mimořádně dobře při likvidaci nepřátelských sil pronikajících do našich lesů. Jedná se o skvělou příležitost pro válečnou propagandu, neboť se mezi nepřátelskými vojáky začíná šířit pojem „Bílá smrt“, odkazující na nebezpečí finské přírody a jejích lidí. Pokud se objeví vhodná osobnost, mohli bychom tento pojem personifikovat a semknout obyvatelstvo."
+ AAT_finland_the_white_death.1.desc: "Docházejí zprávy, že naši odstřelovači se ukazují jako vysoce účinní při odrážení nepřátelských sil vnikajících do našich lesů. Je to dobrá příležitost pro válečnou propagandu, protože mezi nepřátelskými vojáky se začíná objevovat termín 'Bílá smrt', odkazující na nebezpečí, které představuje finská příroda a lidé, a mohli bychom to připisovat konkrétní osobě, abychom zmobilizovali obyvatelstvo, pokud by se taková postava objevila." # todo: CHANGED
  AAT_finland_the_white_death.1.t: "Naši odstřelovači se ukazují jako mimořádně účinní"
  AAT_finland_the_white_death.10.a: "Poznají skutečný strach"
  AAT_finland_the_white_death.10.desc: "Navzdory mnoha těsným situacím a falešným hlášením zůstává Simo Häyhä nezraněn a bude bojovat tak dlouho, jak to bude zapotřebí. Bílá smrt objímá naše nepřátele!"
  AAT_finland_the_white_death.10.t: "Bílá smrt dál pronásleduje svou kořist"
  AAT_finland_the_white_death.11.a: "Navzdory všemu je skutečným finským hrdinou!"
- AAT_finland_the_white_death.11.desc: "Dorazily zprávy, že Häyhä byl vážně zraněn, když ho do dolní levé čelisti zasáhla tříštivá střela vypálená nepřátelským vojákem. Ačkoli byl považován za mrtvého, podařilo se mu dostat zpět na blízkou základnu a potvrdit, že žije. V boji však již nemůže pokračovat, avšak jeho služba si zaslouží věčnou vděčnost [FIN.GetAdjective] lidu."
+ AAT_finland_the_white_death.11.desc: "Docházejí zprávy, že Häyhä byl těžce zraněn poté, co ho výbušná střela zasáhla do dolní levé čelisti, a přestože se předpokládalo, že je mrtvý, dokázal se dostat do blízkého polního tábora, aby oznámil svou bezpečnost. Nemůže však dál bojovat, ale svou službou si zasloužil věčnou vděčnost [FIN.GetAdjective] lidu." # todo: CHANGED
  AAT_finland_the_white_death.11.t: "Simo Häyhä byl zraněn a stažen z bojiště"
  AAT_finland_the_white_death.12.a: "Nechť jeho duše spočine mezi hrdiny dávných dob"
  AAT_finland_the_white_death.12.desc: "Dorazily zprávy, že Häyhä padl poté, co byl v boji zasažen výbušnou střelou vypálenou nepřátelským vojákem. Jeho tělo bylo úspěšně vyzvednuto našimi hraničáři a převezeno do hlavního města. [FIN.GetNameDef] bude navždy spomínat na jeho hrdinství."
@@ -905,13 +905,13 @@
  AAT_finland_the_white_death.5.t: "Simo Häyhä označen za Bílou smrt"
  AAT_finland_the_white_death.6.t: "Simo Häyhä označen za Bílou smrt"
  AAT_finland_the_white_death.7.a: "Tohle je zlé..."
- AAT_finland_the_white_death.7.desc: "Navzdory maximálnímu úsilí našich vojáků se Bílou smrt nepodařilo zajmout a po celé týdny terorizuje naše jednotky, aniž by důstojníci dosáhli jakéhokoli výsledku. Jak to pokračuje, morálka našich vojáků se hroutí a jejich odhodlání prudce klesá..."
+ AAT_finland_the_white_death.7.desc: "Navzdory nejlepším snahám našich vojáků je Bílá smrt stále pryč a týdny terorizuje naše jednotky, přičemž velitelé nemají co nabídnout. Jak to pokračuje, naši vojáci váhají a jejich morálka se prudce snížila..." # todo: CHANGED
  AAT_finland_the_white_death.7.t: "Bílá smrt nás svírá!"
  AAT_finland_the_white_death.8.a: "Zbavili jsme se té dotěrné mouchy!"
- AAT_finland_the_white_death.8.desc: "Zprávy od našich důstojníků potvrzují, že Bílá smrt byla úspěšně zraněna. To si však vyžádalo vysokou cenu, neboť mnoho vojáků padlo a další byli zraněni. Přesto bychom se s ním již na bojišti neměli setkat."
+ AAT_finland_the_white_death.8.desc: "Přicházejí zprávy od našich důstojníků v [FIN.GetNameDef], že Bílá smrt byl úspěšně zraněn. To si však vyžádalo vysokou cenu — mnoho vojáků padlo a více jich bylo zraněno. Přesto bychom se s ním na bojišti už neměli setkat." # todo: CHANGED
  AAT_finland_the_white_death.8.t: "Navzdory těžkým ztrátám se našim jednotkám podařilo zranit Bílou smrt"
  AAT_finland_the_white_death.9.a: "Ve skutečnosti proti nám neměl žádnou šanci"
- AAT_finland_the_white_death.9.desc: "Zprávy od našich důstojníků potvrzují úspěšnou likvidaci [FIN.GetAdjective] odstřelovače známého jako Bílá smrt. Přestože to stálo mnoho životů, byl odstraněn velký nepřítel, který terorizoval [ROOT.GetNameDef], a naši vojáci si nyní mohou alespoň na chvíli oddechnout."
+ AAT_finland_the_white_death.9.desc: "Přicházejí zprávy od našich důstojníků v [FIN.GetNameDef], že byl úspěšně eliminován [FIN.GetAdjective] odstřelovač známý jako Bílá smrt. Navzdory těžkým ztrátám byl veliký protivník [ROOT.GetNameDef] odstraněn a naši vojáci nyní mohou klidněji odpočívat." # todo: CHANGED
  AAT_finland_the_white_death.9.t: "Navzdory těžkým ztrátám se našim jednotkám podařilo zabít Bílou smrt!"
  AAT_finland_winter_war.02.a: "Možná nastal čas na mír..."
  AAT_finland_winter_war.02.desc: "Z fronty přicházejí dobré zprávy! Naše síly nedávno vyhrály obléhání města [195.GetName] a podařilo se jim jej zabezpečit. Tímto rozhodujícím úderem byl [SOV.GetNameDef] zahnán do nevýhodné pozice pro nadcházející mírových jednání.\n\nJedním z deklarovaných cílů [SOV.GetAdjective] invaze bylo rozšíření nárazníkové zóny kolem [195.GetName]u, a nyní je zřejmé, že v tomto cíli nejen selhali, ale město dokonce ztratili. Lze proto předpokládat, že budou mít zájem tenhle konflikt ukončit.\n\nRozhodnutí, kdy zahájit jednání, je nyní na nás. Můžeme pokračovat v boji a pokusit se získat více, nebo se co nejdříve zaměřit na bílý mír."
@@ -1135,13 +1135,13 @@
  AAT_norway_monarchist.5.desc: "S tím, že nový regent převzal pravomoci namísto krále, vyvstala otázka, jaké jsou jeho skutečné záměry s národem. Usiluje o dlouhodobé nahrazení krále Haakona, nebo má v úmyslu jej pouze podporovat v jeho vládě? Pouze čas ukáže, jaké jsou jeho pravé ambice."
  AAT_norway_monarchist.5.t: "Úmysly regenta"
  AAT_norway_news.1.a: "Zajímavé..."
- AAT_norway_news.1.desc: "[MEX.GetNonIdeologyName] vítá známého revolucionáře Leva Trockého, který po letech vyčerpávajícího exilu opustil [NOR.GetNonIdeologyName]. Přivítali jej slavní malíři Frida Kahlo a její manžel Diego Rivera, kteří jej budou hostit ve svém domě v Mexico City.\n\nJeště podstatnější však je, že [SOV.GetNameDef] bude daleko i se všema jeho nepřáteli, takže snad si Trockij užije klidný exil v Latinské Americe."
+ AAT_norway_news.1.desc: "Po letech vyčerpávajícího exilu dorazil renomovaný revolucionář Lev Trockij do [MEX.GetNonIdeologyName] z [NOR.GetNonIdeologyName]. Přijal ho proslulý malíř Frida Kahlo a její manžel Diego Rivera, kteří ho ubytují ve svém domě v Mexico City, a jistě budou skvělým společníkem pro Trockého a jeho manželku.\n\nCo je důležitější, bude daleko od nebezpečí, které mu hrozí ze strany jeho nepřátel v [SOV.GetNameDef], a možná si užije klidný exil v latinskoamerickém státě." # todo: CHANGED
  AAT_norway_news.1.sov: "Musí být odstraněn!"
  AAT_norway_news.2.a: "Ztráta pro nás všechny"
  AAT_norway_news.2.b: "O jednoho monarchu méně!"
  AAT_norway_news.2.desc: "Během návštěvy Anglie za svou rodinou a bratrem, králem Jiřím V. Spojeného království, zemřela norská královna manželka, dříve princezna z Walesu, ve spánku na selhání srdce. Příčinou byla pravděpodobně komplikace po břišní operaci z počátku týdne.\n\nV Norsku byla velmi oblíbená a jistě bude chybět svému synovi princi Olavovi i manželovi Haakonu VII., králi Norska."
  AAT_norway_news.2.t: "Norská královna Maud zemřela"
- AAT_norway_news.3.desc: "Po zdánlivě úspěšné operaci po lyžařské nehodě zemřel milovaný norský král Haakon VII. na zdravotní komplikace.\n\nNorsko nyní prochází jedním z nejtemnějších období své historie. Doufejme, že princ Olav co nejdříve nastoupí na trůn a povede zemi do bezpečí."
+ AAT_norway_news.3.desc: "Po zdánlivě úspěšné operaci po lyžařské nehodě milovaný král Norska Haakon VII. zemřel na lékařské komplikace.\n\nNorsko nyní prochází jedním z nejtemnějších období své historie; doufejme, že princ Olav co nejdříve nastoupí na trůn a dovede zemi do bezpečného přístavu." # todo: CHANGED
  AAT_norway_news.3.t: "Král Haakon VII. zemřel"
  AAT_norway_news.99.a: "Tohle se vymyká kontrole!"
  AAT_norway_news.99.desc: "Navzdory tomu, že většině světa unikl pozornosti, král Wojtek, Nositel dělostřelectva a trůnu, rozpoznal potenciál tohoto arktického ostrova.\n\nS pomocí místních i nově příchozích ledních medvědů je Jan Mayen znovu osídlován a přetvářen v plnohodnotný stát, schopný čelit jakékoli výzvě. Opravdu pohled nevídaný od viktoriánských dob.\n\nMezi jeho obyvateli vyniká jedna polarizující postava, jejíž staré jméno již není důležité a která bude od nynějška známa jako velkoadmirál Johan Mayen."
@@ -1152,7 +1152,7 @@
  AAT_norway_rikstanken.1.desc: "Tanky nikdy nebyly součástí našeho arzenálu a přestože už může být pro [ROOT.GetNameDef] pozdě dohnat vývoj vlastními silami, neznamená to, že bychom se jich měli zcela vzdát.\n\nPrvním krokem je nalezení vhodného partnera, od něhož bychom mohli tanky získat, nebo s ním spolupracovat na vývoji obrněných sil. Nejzřejmější volbou by byla některá z významných vojenských mocností Evropy, ale nalezení dodavatele blíže domovu může mít dlouhodobé výhody."
  AAT_norway_rikstanken.1.t: "[ROOT.GetAdjectiveCap] tankový program"
  AAT_norway_rikstanken.10.a: "Konečně norské tanky!"
- AAT_norway_rikstanken.10.desc: "[FROM.GetAdjectiveCap] vyslanci potvrdili, že jsou ochotni pomoci nám s vývojem vlastních tanků, pokud budou naše země nadále ideologicky sladěny. Jsme si jisti, že i oni budou těžit z nových přístupů k vývoji tanků, které naše spolupráce přinese."
+ AAT_norway_rikstanken.10.desc: "Poslové [FROM.GetAdjective] potvrdili, že jsou ochotni nám pomoci vyvíjet vlastní tanky, pokud naše země nadále zůstanou ideologicky sladěny, samozřejmě. Jsme si jisti, že i oni budou těžit z nových přístupů k vývoji tanků, které naše spolupráce přinese." # todo: CHANGED
  AAT_norway_rikstanken.10.t: "[FROM.GetNameDefCap] přijímá výzkumnou dohodu"
  AAT_norway_rikstanken.11.a: "Další tanky!"
  AAT_norway_rikstanken.11.b: "Tanky nepotřebujeme"
@@ -1171,7 +1171,7 @@
  AAT_norway_rikstanken.2.t: "Náš přístup k [NOR.GetAdjective] mechanizovanému programu"
  AAT_norway_rikstanken.3.a: "Jeden tank neuškodí"
  AAT_norway_rikstanken.3.b: "Tohle nestojí za náš čas"
- AAT_norway_rikstanken.3.desc: "[FROM.GetAdjectiveCap] vláda nás oslovila s žádostí o povolení nákupu tanku. Háček je v tom, že z rozpočtových důvodů si mohou dovolit pouze jeden lehký tank... bez věže.\n\nJistě velmi neobvyklá a podezřelá žádost, nicméně tvrdí, že si jej chtějí nejprve vyzkoušet, než se rozhodnou, jak vybudovat své obrněné síly."
+ AAT_norway_rikstanken.3.desc: "Vláda [FROM.GetName] nás požádala, abychom jim umožnili nákup tanku. Podmínkou je, že z rozpočtových důvodů si mohou dovolit pouze jeden lehký tank... bez věže.\n\nJistě jde o žádost natolik neobvyklou, že vzbuzuje podezření, ale tvrdí, že si ho chtějí vyzkoušet, než se rozhodnou, jak vybudovat své obrněné síly." # todo: CHANGED
  AAT_norway_rikstanken.3.t: "[FROM.GetName] chce koupit [ROOT.GetAdjective] tank"
  AAT_norway_rikstanken.4.a: "Uzavřeme obchodní dohodu"
  AAT_norway_rikstanken.4.b: "Tyto tanky potřebujeme"
@@ -1258,7 +1258,7 @@
  Sweden_rearnament.3.desc: "Po staletí se země kolem Baltu snažily ovládnout jeho vstupy a Švédsko není výjimkou. S dlouhým souvislým pobřežím táhnoucím se od dalekého severu až k západnímu pobřeží obrácenému k severnímu Atlantiku.\nČelíme hrozbám Rudé flotily v Leningradu i Kriegsmarine na jihu.\nSilné námořnictvo je pro naši obranu klíčové, ale velké kovové trupy nejsou levné. Pečlivě zvážený rozpočet je proto nezbytný."
  Sweden_rearnament.3.t: "Rozpočet námořnictva"
  Sweden_rearnament.4.desc.a: "Jasnost, vskutku"
- Sweden_rearnament.4.desc: "Na vaši žádost vám připomínáme, že se právě nyní schází výbor pro přezbrojení. Je to naše příležitost stanovit zbrojní politiku na příští rok.\nJe zapotřebí rozvahy a jasné mysli, protože toto rozhodnutí nás uzamkne do zvoleného plánu na dohlednou budoucnost, zatímco se svět blíží k bodu zlomu."
+ Sweden_rearnament.4.desc: "Na vaše přání jsme vám připomněli, kdy se příště sejde výbor pro přezbrojení. Ten čas je právě nyní a je to naše příležitost stanovit výzbrojní politiku na příští rok.\nJe zapotřebí bdělosti a jasnosti myšlení, neboť tím se zavážeme k plánu na dohlednou budoucnost, zatímco se svět blíží k bodu zlomu." # todo: CHANGED
  Sweden_rearnament.4.t: "Výbor pro přezbrojení právě zasedá"
  Sweden_rearnament_delta_low: "Efektivní změna: [?folkhemmet_air_part_delta_low_tooltip]"
  Sweden_rearnament_delta_medium: "Efektivní změna: [?folkhemmet_air_part_delta_medium_tooltip]"
@@ -1294,7 +1294,7 @@
  aat_news.121.desc: "[FIN.GetNameDef] a [GER.GetNameDef] se ocitli v přestrelkách, když se [FIN.GetAdjective] síly pokoušejí odzbrojit a vyhostit [GER.GetAdjective] vojáky ze své země v souladu se smlouvou, kterou s nima podepsal [SOV.GetNameDef] během Moskevského příměří. Není pochyb, že Němci budou z Finska časem vyhnáni, otázkou však zůstává, za jakou cenu."
  aat_news.121.t: "Laponská válka"
  aat_news.2.a: "Zajímavý krok"
- aat_news.2.desc: "V poněkud překvapivém kroku prohlásila [USA.GetAdjective] vláda [ICE.GetName] za součást své sféry zájmů a na žádost [ICE.GetAdjective] vlády souhlasila s vysláním jednotek k ochraně ostrova. Veškerá islandská zahraniční politika bude od této chvíle spravována [USA.GetAdjective] vládou, čímž se [ICE.GetName] stává de facto [USA.GetAdjective] loutkou."
+ aat_news.2.desc: "V poněkud překvapivém kroku [USA.GetAdjective] vláda prohlásila [ICE.GetName] svou sférou zájmu a na žádost [ICE.GetAdjective] vlády souhlasila umístit jednotky k ochraně [ICE.GetName]. Od tohoto okamžiku budou veškeré islandské zahraniční záležitosti řízeny [USA.GetAdjective] vládou, čímž se [ICE.GetName] stává de facto loutkovým státem [USA.GetAdjective]." # todo: CHANGED
  aat_news.2.t: "[ICE.GetNonIdeologyName]sko-[USA.GetAdjective] spolupráce"
  aat_news.666.a: "Zdá se, že se Vikingové vrátili"
  aat_news.666.desc: "Poté, co znovu ovládla všechna území, jimž kdysi vládl Knut Veliký, začala [From.GetOldAdjective] vláda podnikat kroky k integraci nově dobytých oblastí. V důsledku toho se s cílem semknout obyvatelstvo za státem zintenzivnila pannanacionalistická propaganda s jasnou podporou vlády.\n\n[FROM.GetOldAdjectiveCap] vůdce [FROM.GetLeader] prohlásil, že [DEN.GetOldNameDef], [NOR.GetOldNameDef] a Anglie budou od nynějška známa jako „[From.GetNameDef]“."
@@ -1305,7 +1305,7 @@
  air_budget_event_active: "Rozpočtový výbor pro letectvo je aktivní"
  army_budget_event_active: "Rozpočtový výbor pro armádu je aktivní"
  denmark_events.1.a: "Směřujeme správným směrem"
- denmark_events.1.desc: "Po dlouhých letech hospodářských těžkostí jsou utrpení, která přinesla Velká hospodářská krize, konečně za námi. Během krizových let jsme tvrdě pracovali na stabilizaci [DEN.GetAdjective] ekonomiky a na zmírnění škod, které kolaps naší zemi způsobil."
+ denmark_events.1.desc: "Konečně, po letech hospodářských těžkostí, máme za sebou utrpení, které přinesla Velká deprese. Během krizových let jsme pilně pracovali na stabilizaci [DEN.GetAdjective] ekonomiky a na vyrovnání škod, které způsobila krach." # todo: CHANGED
  denmark_events.1.t: "Konec let krize"
  denmark_events.100.a: "Přijměme ho, můžeme pracovat na znovuzískání jeho království."
  denmark_events.100.b: "Ke králi zde žádnou náklonnost necítíme."
@@ -1325,7 +1325,7 @@
  denmark_events.300.t: "Vznikají nové podniky"
  denmark_events.666.a: "Nechť se svět koupe v naší slávě!"
  denmark_events.666.b: "To se zdá poněkud přehnané..."
- denmark_events.666.desc: "Po dlouhou dobu jsme žili v úpadku a věřili, že naše největší dny jsou dávno za námi. Každý sen o velikosti jsme zavrhovali bez jediného zamyšlení - ale to už neplatí. Stojíme na prahu nové Zlaté éry! Naše moc a vliv rostou s každým dalším dnem a nadešel čas vyhlásit Velké Dánsko."
+ denmark_events.666.desc: "Dlouho jsme žili skomírající existenci a věřili, že naše největší dny jsou za námi. Odmítali jsme každý sen o velikosti bez další úvahy — ale už ne. Čelíme nové Zlaté éře! Naše moc a vliv roste každým dnem a nastal čas vyhlásit Velké Dánsko." # todo: CHANGED
  denmark_events.666.t: "Vzestup Velkého Dánska"
  denmark_expansion_event.1.a: "Nemáme jinou možnost než přijmout."
  denmark_expansion_event.1.b: "Nemůžeme se Dánům podrobit!"
@@ -1336,7 +1336,7 @@
  denmark_expansion_event.10.desc: "Zdá se, že [DEN.GetAdjective] vláda je odhodlána přitlačit nám botu na krk. Jejich „návrh“ požaduje, abychom se zcela podrobili jejich vládě na základě získání zdrojů. Pokud se chceme vyhnout krveprolití, možná bychom měli ustoupit - jinak nám mohou vyhlásit válku."
  denmark_expansion_event.10.t: "[FROM.GetNameDefCap] požaduje naše podrobení"
  denmark_expansion_event.100.a: "Nemáme jinou možnost než to umožnit."
- denmark_expansion_event.100.desc: "[DEN.GetLeader] nám oznámuje, že byl zahájen proces skutečné integrace naší země do širší [DEN.GetAdjectiveCap] říše."
+ denmark_expansion_event.100.desc: "[DEN.GetLeader] nám dal na vědomí, že zahájil proces skutečného začlenění naší země do širšího [DEN.GetAdjective] Království." # todo: CHANGED
  denmark_expansion_event.100.t: "[FROM.GetNameDefCap] zahajuje proces integrace"
  denmark_expansion_event.11.a: "[DEN.GetNameDefCap] se rozroste!"
  denmark_expansion_event.11.desc: "Skvělé zprávy! Zdá se, že [SWE.GetNameDef] chápe, že jejich zdroje budou lépe využity společně s námi. Alespoň nyní může být jejich země chráněna našimi novými moderními ozbrojenými silami!"
@@ -1446,7 +1446,7 @@
  denmark_expansion_event.500.desc: "Ve snaze projevit solidaritu a zároveň poskytnout určitou míru bezpečnosti menším evropským zemím nás [FROM.GetNameDef] oslovuje s nabídkou aliance. Máme se přiklonit k našim [FROM.GetAdjective] přátelům, nebo bude lepší zůstat sami?"
  denmark_expansion_event.500.t: "Nabídka aliance"
  denmark_expansion_event.501.a: "Výborně!"
- denmark_expansion_event.501.desc: "[FROM.GetNameDefCap] souhlasí s přijetím naší nabídky aliance a oficiálně podepisuje příslušnou deklaraci. Postavme se společně nadcházející bouři a zajistěme si navzájem bezpečnost na dlouhá léta."
+ denmark_expansion_event.501.desc: "[FROM.GetNameDefCap] souhlasil s naší nabídkou aliance a oficiálně podepsal svou deklaraci. Postavme se bok po boku proti bouři a zajistěme si vzájemnou bezpečnost na mnoho let." # todo: CHANGED
  denmark_expansion_event.501.t: "[DEN.GetNameDefCap] získává spojence"
  denmark_expansion_event.502.a: "Velmi nešťastné."
  denmark_expansion_event.502.desc: "[FROM.GetNameDef] bohužel odmítá naši nabídku aliance. Zdá se, že společná záruka bezpečnosti pro ně nakonec nebyla v jejich zájmu."
@@ -1462,7 +1462,7 @@
  denmark_expansion_event.601.desc: "Skvělé zprávy! [FROM.GetNameDefCap] souhlasí se vstupem do společného programu sdílení technologií. To znamená, že získáme přístup k jejich technologickým pokrokům, což nám výrazně pomůže při naplňování našich plánů do budoucna."
  denmark_expansion_event.601.t: "[FROM.GetNameDefCap] se připojuje k naší výzkumné dohodě"
  denmark_expansion_event.602.a: "To je nešťastné..."
- denmark_expansion_event.602.desc: "Navzdory našemu úsilí se [FROM.GetAdjective] vláda rozhodla ponechat si své technologie pro sebe. Je to škoda, protože společně bychom dokázali naše technologické schopnosti posunout mnohem dál, než dokážeme nyní."
+ denmark_expansion_event.602.desc: "Navzdory našemu nejlepšímu úsilí se [FROM.GetAdjective] vláda rozhodla své technologie ponechat pro sebe. Je to nešťastné, protože společně bychom mohli naše technologické schopnosti posunout mnohem dál, než jaké jsou nyní." # todo: CHANGED
  denmark_expansion_event.602.t: "[FROM.GetNameDefCap] odmítá náš návrh"
  denmark_expansion_event.700.desc: "Odhalili jsme důkazy o [FROM.GetAdjective] podvratné činnosti na našem území, jejímž cílem je ovlivňovat veřejné mínění. Pokud dovolíme Dánům v této činnosti pokračovat, bude to pro nás mít vážné následky."
  denmark_expansion_event.700.t: "[FROM.GetNameDefCap] se vměšuje"
@@ -1470,7 +1470,7 @@
  denmark_expansion_event.701.t: "[FROM.GetNameDefCap] maří naše plány"
  denmark_expansion_event.800.desc: "[FROM.GetAdjectiveCap] delegace nás oslovila s nabídkou vyčlenění plné síly svých vojenských kapacit k naší ochraně. Na oplátku požadují jediné - abychom poklekli..."
  denmark_expansion_event.800.t: "[FROM.GetNameDefCap] nabízí ochranu"
- denmark_expansion_event.801.desc: "Obdrželi jsme odpověď od [FROM.GetAdjective] vlády ohledně naší nabídky na jejich plnou ochranu. S radostí ji přijali!"
+ denmark_expansion_event.801.desc: "Dostali jsme odpověď od [FROM.GetAdjective] vlády ohledně naší nabídky řádné ochrany a s radostí přijímají naši plnou ochranu!" # todo: CHANGED
  denmark_expansion_event.801.t: "[FROM.GetNameDefCap] přijímá naši ochranu"
  denmark_expansion_event.802.desc: "Obdrželi jsme odpověď od [FROM.GetAdjective] vlády ohledně naší nabídky na jejich plnou ochranu, a bohužel odmítli pokleknout. Časem pochopí, jak pošetilá to byla chyba."
  denmark_expansion_event.802.t: "[FROM.GetNameDefCap] odmítá naši ochranu"
@@ -1489,7 +1489,7 @@
  denmark_fascist_event.21.desc: "Skvělé zprávy! [FROM.GetNameDefCap] souhlasí se vstupem do společného programu sdílení technologií. To znamená, že získáme přístup k jejich technologickým pokrokům, což nám výrazně pomůže při realizaci našich plánů do budoucna."
  denmark_fascist_event.21.t: "[FROM.GetNameDefCap] přijímá náš návrh"
  denmark_fascist_event.22.a: "Dobrá tedy, nechte si svá tajemství."
- denmark_fascist_event.22.desc: "Navzdory našemu zdvořilému přístupu se [FROM.GetAdjective] vláda rozhodla ponechat si své technologie pro sebe. Je to škoda, protože společně bychom dokázali naše technologické schopnosti posunout mnohem dál, než dokážeme nyní."
+ denmark_fascist_event.22.desc: "Navzdory našemu nejlepšímu úsilí být zdvořilí se [FROM.GetAdjective] vláda rozhodla své technologie uchovat pro sebe. Je to nešťastné, neboť společně bychom mohli významně pokročit ve vývoji technologií." # todo: CHANGED
  denmark_fascist_event.22.t: "[FROM.GetNameDefCap] odmítá náš návrh"
  denmark_fascist_event.3.a: "Zatraceně!"
  denmark_fascist_event.3.b: "Najdeme si vlastní cestu!"
@@ -1533,7 +1533,7 @@
  denmark_occupation_event.20.desc: "Po pečlivém plánování a odvážné operaci se skupina odbojářů vrátila z úspěšného přepadu se zbraněmi určenými pro naše suzerény. Tato akce posílí náš pokračující boj za svobodu!"
  denmark_occupation_event.20.t: "Úspěšný přepad skladiště zbraní"
  denmark_occupation_event.3.a: "Zachováme si alespoň část nezávislosti"
- denmark_occupation_event.3.desc: "Podpisem výhodné mírové dohody hned na začátku války se nám podařilo zachovat část naší nezávislosti a udržet si formu vlády. Abychom tuto relativní svobodu jako de facto [FROM.GetAdjective] protektorát uchovali, jsme nuceni s nimi spolupracovat a vytvořit širokou politiku kooperace. Prozatím."
+ denmark_occupation_event.3.desc: "Podepsáním příznivé mírové dohody s [FROM.GetNameDef] na počátku války se nám podařilo zachovat část naší nezávislosti a formu vlády. Abychom tuto relativní svobodu uchovali jako de facto [FROM.GetAdjective] protektorát, jsme nuceni s nimi spolupracovat a vytvářet širokou politiku kooperace. Prozatím." # todo: CHANGED
  denmark_occupation_event.3.t: "[FROM.GetNameDefCap] přijímá naši kapitulaci"
  denmark_occupation_event.30.a: "Velký úspěch!"
  denmark_occupation_event.30.desc: "Tato operace byla výsledkem pečlivého plánování a dlouhého čekání na správné podmínky - a vyplatilo se. Úspěšně jsme sabotovali klíčovou civilní průmyslovou infrastrukturu, která zásobovala [?DEN.DEN_overlord_nation.GetNameDef] dánským zbožím. Tato odvážná akce omezí množství produktů, které od nás náš nominální suzerén získává."
@@ -1543,11 +1543,11 @@
  denmark_occupation_event.40.t: "Vojenský průmysl úspěšně sabotovaný"
  denmark_occupation_event.5.a: "Til modstand, alle danske!"
  denmark_occupation_event.5.desc: "[FROM.GetNameDefCap] odmítá náš velkorysý návrh kapitulace a zvolil násilí a krev. Vykrvácíme [FROM.GetAdjective] jednotky a ukážeme jim, že nejsme tak snadná kořist!"
- denmark_occupation_event.5.t: "[FROM.GetNameDefCap] odmítá náš návrh"
+ denmark_occupation_event.5.t: "[FROM.GetNameDefCap] odmítl náš návrh" # todo: CHANGED
  denmark_occupation_event.6.a: "Nevděční zrádci"
  denmark_occupation_event.6.b: "Nestojí za řeč"
  denmark_occupation_event.6.desc: "[DEN.GetDanishIndependenceDesc]"
- denmark_occupation_event.6.desc_asks_for_independence: "Přišla k nám delegace od našeho věrného subjektu [FROM.GetNameDef], kterou vedl samotný [FROM.GetLeader]. Žádají, aby je přijal [ROOT.GetLeader], protože chtějí jednat o ukončení své podřízenosti a požádali o navrácení svobody."
+ denmark_occupation_event.6.desc_asks_for_independence: "Dostala se k nám delegace z našeho věrného subjektu [FROM.GetNameDef], vedená samotným [FROM.GetLeader]. Zjevně přišli přímo k [ROOT.GetLeader], aby projednali konec svého podřízení a požádali o navrácení svobody." # todo: CHANGED
  denmark_occupation_event.6.desc_declares_independence: "Dánové se zřejmě prohlásili za nezávislé a prohlašují, že již neuznávají naši hegemonii. Poskytli jsme jim stabilitu a bezpečí pod naší ochranou - a takto se nám odvděčí?"
  denmark_occupation_event.6.t: "[DEN.GetDanishIndependenceTitle]"
  denmark_occupation_event.6.t_asks_for_independence: "[DEN.GetNameDefCap] žádá o nezávislost"
@@ -1557,7 +1557,7 @@
  denmark_occupation_event.7.desc: "[FROM.GetLeader] opět odmítá jednat rozumně a neuznává naši nezávislost. Musíme si svobodu vybojovat, neboť se zdá, že z tohoto nevolnictví nevede jiná cesta. Krev poteče, ale [ROOT.GetNonIdeologyName] bude znovu svobodné!"
  denmark_occupation_event.7.t: "Dánská válka za nezávislost"
  denmark_occupation_event.8.a: "To bylo... překvapivě snadné"
- denmark_occupation_event.8.desc: "[FROM.GetLeader] se tentokrát zachoval rozumně a uznal naši nezávislost. Zdá se, že naše podřízenost skončila bez jakéhokoli krveprolití."
+ denmark_occupation_event.8.desc: "[FROM.GetLeader] tentokrát uznal rozum a oficiálně uznal naši nezávislost. Zdá se, že naše poddanství končí bez krveprolití." # todo: CHANGED
  denmark_occupation_event.8.t: "Dánská nezávislost"
  denmark_overlord_events.1.a: "Omluvit se a pokusit se zachránit situaci"
  denmark_overlord_events.1.b: "Vyřiďte jim naše srdečné pozdravy"
@@ -1615,7 +1615,7 @@
  denmark_overlord_events.23.t: "[FROM.GetNameDefCap] ustupuje a mění vládu"
  denmark_overlord_events.24.a: "Vyřešíme to později"
  denmark_overlord_events.24.b: "Pak je k tomu donutíme"
- denmark_overlord_events.24.desc: "[FROM.GetLeader] jako [FROM.GetRulingIdeology] vůdce odmítá naslouchat rozumu a učinit to, co je pro [FROM.GetNonIdeologyName] nejlepší. Takové chování lačnící po moci je pro jejich ideologii příznačné a neměli bychom být dánskou reakcí příliš překvapeni. Možná z nich budeme muset udělat výstražný příklad..."
+ denmark_overlord_events.24.desc: "Vůdce [FROM.GetRulingIdeology] [FROM.GetLeader] odmítá naslouchat rozumu a dělat to, co je pro svou zemi nejlepší. Takové naprosté žíznění po moci je typické pro [FROM.GetRulingIdeologyNoun] a neměli bychom se příliš divit dánské reakci. Možná si z nich budeme muset udělat příklad..." # todo: CHANGED
  denmark_overlord_events.24.t: "[FROM.GetLeader] odmítá odstoupit"
  denmark_overlord_events.25.a: "Musíme vyhovět - abychom ušetřili lid války"
  denmark_overlord_events.25.desc: "Pevně jsme odmítli [FROM.GetAdjective] požadavek opustit [ROOT.GetRulingIdeologyNoun] ideály, ale měli jsme pochopit, že se s naší odpovědí nespokojí. [FROM.GetNameDef] nezná hranic a vždy se bude snažit prosadit svou [FROM.GetRulingIdeologyNoun] cestu k moci."
@@ -1661,8 +1661,8 @@
  denmark_overlord_events.38.b: "Pak si je vezmeme silou!"
  denmark_overlord_events.38.desc: "Naše žádost o dánské brance byla odmítnuta, přičemž dánská vláda poskytla chabé vysvětlení, že odmítá posílat své občany umírat za cizí stát v cizí zemi. Dále uvedla, že je neutrální zemí a že by vyslání vojáků tuto neutralitu porušilo..."
  denmark_overlord_events.38.t: "[FROM.GetNameDefCap] odmítá vyslat brance"
- denmark_overlord_events.39.a: "Pobuřující!"
- denmark_overlord_events.39.desc: "[FROM.GetNameDefCap] zamítá naši neochotu posílat dánské muže umírat v cizí válce a uvaluje nové zákony, které stanovují, že určitý podíl všech dospělých mužů musí sloužit v [FROM.GetAdjective] ozbrojených silách"
+ denmark_overlord_events.39.a: "Skandální!" # todo: CHANGED
+ denmark_overlord_events.39.desc: "[FROM.GetNameDefCap] ignoroval naše odmítnutí posílat dánské muže umírat v cizí válce a zavedl nové zákony, které ukládají, že určitý počet všech dospělých mužů musí sloužit v [FROM.GetAdjective] ozbrojených silách." # todo: CHANGED
  denmark_overlord_events.4.a: "Politováníhodné"
  denmark_overlord_events.4.desc: "[FROM.GetLeader] se odmítá řídit rozumem a považuje královu stručnou odpověď na jeho blahopřání za osobní urážku. Zdá se být odhodlán nás za toto nešťastné nedorozumění potrestat."
  denmark_overlord_events.4.t: "[FROM.GetLeader] odmítá naši omluvu"
@@ -1683,12 +1683,12 @@
  denmark_overlord_events.43.t: "[FROM.GetNameDefCap] vnucuje zplnomocněneckou vládu"
  denmark_overlord_events.44.desc: "Právě jsme odhalili pobuřující [FROM.GetAdjective] plán na anexi celého Jutska. To nemůžeme dopustit!"
  denmark_overlord_events.44.t: "[FROM.GetNameDefCap] usiluje o anexi Jutska!"
- denmark_overlord_events.45.desc: "Naše nabídka převzít ochranu Jutska byla zřejmě něco, co již [FROM.GetLeader] neunesl. Po přečtení naší žádosti se sesunul do křesla a jen přikývl."
+ denmark_overlord_events.45.desc: "Naše nabídka převzít ochranu Jutska očividně něco u [FROM.GetLeader] přerušila; po přijetí naší žádosti se sesul do křesla a jen přikývl." # todo: CHANGED
  denmark_overlord_events.45.t: "[FROM.GetNameDefCap] postupuje Jutsko"
  denmark_overlord_events.46.b: "Vezmeme si ho tak jako tak"
- denmark_overlord_events.46.desc: "Naše žádost převzít ochranu Jutska byla zřejmě něco, co již [FROM.GetLeader] neunesl. Dostal záchvat vzteku, po němž naši velkorysou nabídku odmítl."
+ denmark_overlord_events.46.desc: "Naše žádost převzít ochranu Jutska zřejmě [FROM.GetLeader] rozzuřila natolik, že před odmítnutím naší štědré nabídky propukl ve vztek." # todo: CHANGED
  denmark_overlord_events.46.t: "[FROM.GetNameDefCap] odmítá postoupit Jutsko"
- denmark_overlord_events.47.desc: "[FROM.GetCapitalVictoryPointName] hlásí příchod delegace, která předala formální prohlášení, že celé [ROOT.GetNonIdeologyName] má být oficiálně převedeno na [FROM.GetNameDef] a začleněno do jejich širší sféry vlivu."
+ denmark_overlord_events.47.desc: "Dorazila delegace z [FROM.GetCapitalVictoryPointName] a předala formální prohlášení, že celé [ROOT.GetNameDef] má být oficiálně začleněno do širší sféry [FROM.GetNameDef]." # todo: CHANGED
  denmark_overlord_events.47.t: "[FROM.GetNameDefCap] si nárokuje zbytek našich území!"
  denmark_overlord_events.48.b: "Jejich chatrná síla se nám nevyrovná!"
  denmark_overlord_events.48.desc: "[FROM.GetLeader] nám zaslal krátký telegram obsahující jediné slovo - „nikdy“. Zdá se, že o naši plnou ochranu nestojí."
@@ -1711,7 +1711,7 @@
  denmark_political_events.10.desc: "Po našem úspěchu v posledních volbách se začaly šířit zákeřné lži s cílem podkopat naši vládu. Je zřejmé, kdo za těmito pomluvami stojí, ale mnoho s tím dělat nemůžeme. Není překvapením, že se politická opozice kolem těchto lží semkla!"
  denmark_political_events.10.t: "Politická opozice"
  denmark_political_events.11.a: "Zpátky do stínu, odkud jste přišli!"
- denmark_political_events.11.desc: "Něco je shnilého ve státě Dánském! Konečně zde máme vládu lidu a pro lid, ale ne všichni jsou spokojeni. Objevilo se hnutí samozvaných vlastenců, kteří se semkli kolem zastaralé instituce monarchie. Získávají určitou podporu, ale zatím nepředstavují hrozbu. Zatím."
+ denmark_political_events.11.desc: "Ve státě [ROOT.GetNameDef] něco smrdí! Konečně je zde vláda vedená lidmi pro lidi, ale ne všichni jsou spokojeni. Vzniklo hnutí samozvaných vlastenců, která se shlukuje za zastaralou institucí monarchie. Získávají určitou oporu, ale zatím se nezdají představovat hrozbu. Zatím." # todo: CHANGED
  denmark_political_events.11.t: "Monarchistické hnutí"
  denmark_political_events.2.a: "Sociální demokraté, nebo chaos!"
  denmark_political_events.2.b: "Potřebujeme liberální vládu"
@@ -1827,7 +1827,7 @@
  denmark_protection_event.5.desc: "Dohoda, kterou jsme předložili [FROM.GetAdjective] vládě, byla přijata! Nyní zahájíme přípravy na uvedení této nové obchodní dohody v platnost."
  denmark_protection_event.5.t: "[FROM.GetNameDefCap] přijímá obchodní dohodu"
  denmark_protection_event.6.a: "Velmi nešťastné."
- denmark_protection_event.6.desc: "Navzdory našemu úsilí [FROM.GetNameDef] naši nabídku zvýšeného obchodu odmítá. Zdá se, že budeme muset hledat jinde."
+ denmark_protection_event.6.desc: "Bohužel naše nabídka rozšířeného obchodu byla navzdory našemu nejlepšímu úsilí [FROM.GetNameDef] odmítnuta. Zdá se, že budeme muset svou nabídku předložit jinde." # todo: CHANGED
  denmark_protection_event.6.t: "[FROM.GetNameDefCap] odmítá obchodní dohodu"
  denmark_protection_event.7.a: "Kde přesně to podepsat?"
  denmark_protection_event.7.b: "Na to nemáme čas."
@@ -1855,7 +1855,7 @@
  denmark_resistance_event.12.desc: "[FROM.GetAdjectiveCap] zpravodajská služba uznala přínos sdílení informací mezi našimi zeměmi a souhlasila s naším návrhem."
  denmark_resistance_event.12.t: "[FROM.GetNameDefCap] přijímá výměnu informací"
  denmark_resistance_event.13.a: "Jak nelogické rozhodnutí"
- denmark_resistance_event.13.desc: "[FROM.GetAdjectiveCap] zpravodajská služba je stejně krátkozraká jako nerozumná. Jejich šéf rozvědky nedokázal pochopit výhody sdílení informací mezi našimi zeměmi a náš návrh odmítl."
+ denmark_resistance_event.13.desc: "Zpravodajská agentura [FROM.GetNameDef] je stejně krátkozraká jako nerozumná; [FROM.GetAdjective] šéf zpravodajství nevidí výhody sdílení informací mezi našimi zeměmi a náš návrh odmítl." # todo: CHANGED
  denmark_resistance_event.13.t: "[FROM.GetNameDefCap] odmítá výměnu informací"
  denmark_resistance_event.2.a: "Strålende!"
  denmark_resistance_event.2.desc: "Statečný [FROM.GetLeader] se rozhodl tajně poskytnout [FROM.GetAdjective] podporu v našem boji za znovuzískání svobody! To nám jistě velmi pomůže, až nadejde čas vyhlásit nezávislost na našich krutých pánech."
@@ -1952,7 +1952,7 @@
  iceland_events.13.desc: "[FROM.GetLeader] plně pochopil a podpořil náš oprávněný požadavek na kompenzaci. [FROM.GetName] tak převádí jak [101.GetName], tak [337.GetName] na [ROOT.GetName]. Souhlasili, že jsme v lepší pozici ostrovy bránit a že silnější [ROOT.GetName] je v zájmu všech."
  iceland_events.13.t: "[101.GetName] a [337.GetName] jsou převedeny na [ROOT.GetNameDef]"
  iceland_events.14.a: "Budeme si muset vzít, co je naše, silou"
- iceland_events.14.desc: "Bohužel náš skromný a oprávněný požadavek na kompenzaci za veškerou pomoc, kterou [FROM.GetNonIdeologyName] v průběhu let od nás dostalo, zůstal bez odezvy. [FROM.GetLeader] nám odmítá cokoli dát, přestože by to bylo v nejlepším zájmu i pro [FROM.GetName]."
+ iceland_events.14.desc: "Bohužel naše oprávněná a skromná žádost o odškodnění za veškerou pomoc, kterou jsme [FROM.GetName] v průběhu let poskytli, narazila na hluché uši. [FROM.GetLeader] nám odmítá cokoli dát, i když by to bylo v nejlepším zájmu [FROM.GetName]." # todo: CHANGED
  iceland_events.14.t: "[FROM.GetLeader] odmítá"
  iceland_events.15.a: "Je to hrdý den pro [ROOT.GetName]"
  iceland_events.15.desc: "Naštěstí [FROM.GetAdjective] vláda pochopila naše potřeby a schválila náš požadavek na územní kompenzaci. [ROOT.GetName] samozřejmě bude muset zaplatit menší finanční náhradu jako protihodnotu pro [FROM.GetName], avšak v tuto chvíli jde o zanedbatelnou záležitost."

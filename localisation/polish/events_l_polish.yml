@@ -8,7 +8,7 @@
  AAT_germany.1.t: "[FROM.GetNameDefCap] žádá práva na zdroje"
  AAT_germany.10.desc: "Po nedávné [FROM.GetAdjective] okupaci [144.GetName] a začal na nás [GER.GetLeader] tlačit, abychom s nimi více obchodovali a dodávali suroviny pro jejich válečné stroje. Nabízená dohoda není zcela jednostranná a její odmítnutí by nás mohlo zatáhnout do války..."
  AAT_germany.2.a: "Škoda"
- AAT_germany.2.desc: "[FROM.GetName] odmítá naši nabídku a uvedl, že to momentálně není v jejich nejlepším zájmu.\nZdůrazňují, že proti nám nepřechovávájí žádné nepřátelství, ale nyní mají jiné priority."
+ AAT_germany.2.desc: "[FROM.GetName] odmítl naši nabídku s tvrzením, že to pro ně momentálně není v jejich nejlepším zájmu.\nZdůrazňují, že to proti nám není míněno s nepřátelstvím, ale že mají v tuto chvíli jiné priority." # todo: CHANGED
  AAT_germany.2.t: "[FROM.GetName] odmítá naši dohodu"
  AAT_germany.3.a: "Skvělé"
  AAT_germany.3.desc: "[FROM.GetName] přijímá naši dohodu, která jistě prospěje oběma stranám. Doufejme, že tento výnosný obchod bude následovat mnoho dalších."
@@ -68,7 +68,7 @@
  baltic.4.b: "Nikdy!"
  baltic.4.d: "Německé jednotky se shromažďují v Ostpreussen a jejich ministerstvo zahraničí nám předložilo ultimátum! Máme okamžitě postoupit území Memel nebo čelit vojenské akci. Měli bychom jejich požadavkům vyhovět?"
  baltic.4.t: "Německo požaduje Memel"
- baltic.5.a: "Naše budoucnost je nejlépe zajištěna, pokud se skutečně staneme součástí Matičky Rusi."
+ baltic.5.a: "Naše budoucnost bude nejlépe zajištěna, pokud se skutečně staneme součástí Matky vlasti." # todo: CHANGED
  baltic.5.b: "[Root.GetName] má více co nabídnout, když bude fungovat samostatně pod ochranou Sovětského svazu."
  baltic.5.c: "[Root.GetName] zůstane nezávislým státem."
  baltic.5.d: "[Root.GetName] se vydalo cestou solidarity a buržoazie byla zbavena moci. Mnozí v nové vládě navrhují, abychom si splnili své komunistické povinnosti a stali se součástí Sovětského svazu."
@@ -165,7 +165,7 @@
  bulgaria.1.d: "Rumunská vláda přijala německou arbitráž v našem sporu. Jižní Dobrudža byla znovu sjednocena s Bulharskem!"
  bulgaria.1.t: "Smlouva z Craiovy - Rumunsko souhlasí"
  bulgaria.2.a: "Nepřijatelné!"
- bulgaria.2.d: "Rumunská vláda odmítla naši nabídku k ukončení všech sporů! Tvrdí, že Jižní Dobrudža je nyní nedílnou součástí jejich státu, které se nikdy nevzdají."
+ bulgaria.2.d: "Rumunská vláda odmítla naši nabídku ukončit všechny spory! Tvrdí, že Jižní Dobrudža nyní tvoří nedílnou součást jejich národa, které se nikdy nevzdají." # todo: CHANGED
  bulgaria.2.t: "Smlouva z Craiovy - Rumunsko odmítá"
  bulgaria.3.a: "Bulhaři jásají!"
  bulgaria.3.d: "Dlouho jsme snili o Velkém Bulharsku a dlouho jsme byli považováni za občany druhé kategorie. Byli jsme ukráceni o spravedlnost na londýnské konferenci, zrazeni našimi spojenci v roce 1913 a potrestáni za to, že jsme požadovali spravedlnost, v roce 1918. Nikdy víc! Německo se nyní snaží napravit křivdy té takzvané mírové dohody - nejen pro sebe, ale i pro ostatní. Bulharsko nyní získá zpět Makedonii od Jugoslávie."
@@ -663,7 +663,7 @@
  germany.106.a: "Nechme je požadovat Jižní Dobrudžu"
  germany.106.b: "Nepodpoříme žádné bulharské požadavky"
  germany.106.d_no_vienna: "Protože vztahy s Maďarskem ochladly a ono se připojilo k jiné alianci, náš původní plán dát mu část Sedmihradska nepřipadá v úvahu. Místo toho bychom měli naslouchat bulharskému územnímu sporu o Jižní Dobrudžu, kterou Rumunsko zabralo roku 1913."
- germany.106.d_second_vienna_accepted_all: "Po zisku Transylvánie Maďarskem nám Bulharsko připomnělo svůj dlouhodobý pohraniční spor s Rumunskem o Jižní Dobrudžu, kterou Rumunsko zabralo roku 1913."
+ germany.106.d_second_vienna_accepted_all: "S maďarským získáním Sedmihradska nám Bulharsko připomnělo jejich dlouholetý hranicový spor s Rumunskem o Jižní Dobrudžu, obsazenou Rumunskem v roce 1913." # todo: CHANGED
  germany.106.d_second_vienna_accepted_north: "Po zisku Severní Transylvánie Maďarskem nám Bulharsko připomnělo svůj dlouhodobý pohraniční spor s Rumunskem o Jižní Dobrudžu, kterou Rumunsko zabralo roku 1913."
  germany.106.t: "Craiovská smlouva"
  germany.106_threat: "Craiovská smlouva"
@@ -736,7 +736,7 @@
  germany.124.desc_cze_subject_of_ger: "Jak se dalo očekávat, [From.GetAdjective] vláda neměla jinou možnost než souhlasit s postoupením veškeré kontroly nad Sudety a s odřeknutím se jakýchkoli budoucích nároků na region.\n\n[ROOT.GetAdjectiveCap] obyvatelstvo Sudet bude mít [ROOT.GetNameDef] konečně v bezpečném náručí."
  germany.124.t: "[From.GetNameDefCap] postoupuje Sudety"
  germany.125.a: "Kdyby to bylo na nás, řešili bychom to jinak."
- germany.125.d: "Naši [FROM.GetAdjective] páni se rozhodli předat Sudety pro [GER.GetNameDef]. Tvrdí, že jde o krok k zachování míru v regionu a že jakékoli jiné jednání by nám přivodilo daleko horší osud. Nebyli jsme do věci vůbec zapojeni a nyní můžeme jen přihlížet, jak je nám odřezáváno naše právoplatné území."
+ germany.125.d: "Naši [FROM.GetAdjective] suzeréni se rozhodli postoupit Sudety [GER.GetNameDef]. Tvrdí, že tento krok je učiněn jako opatření k zachování míru v regionu a že jakékoliv jiné řešení by nám přineslo mnohem horší osud. Nebyli jsme v této záležitosti konzultováni a nyní můžeme jen přihlížet, jak nám je odtrhováno naše právoplatné území." # todo: CHANGED
  germany.125.t: "[FROM.GetNameDefCap] předává Sudety Německu"
  germany.126.a: "Připojíme se k Německé říši!"
  germany.126.b: "Ne, osud Rakouska leží jinde."
@@ -1163,7 +1163,7 @@
  japan.3.d: "Rusové a jejich mongolští poskoci odhalili soustřeďování našich vojsk v Chej-lung-ťiangu a odpověděli velkým nájezdem přes hranici dřív, než byly naše přípravy dokončeny! Naše jednotky utrpěly v následných prudkých střetech těžké ztráty, než se obě strany stáhly."
  japan.3.t: "Pohraniční potyčka: sovětské vítězství"
  japan.4.a: "To je naučí!"
- japan.4.d: "Rusové a jejich mongolští poskoci odhalili soustřeďování našich vojsk v Chej-lung-ťiangu a pokusili se vyrazit přes hranici, aby narušili naše přípravy! Naštěstí naši pohotoví velitelé jejich síly sevřeli do kleští. Způsobili jsme jim těžké ztráty, než prchli zpět přes hranici."
+ japan.4.d: "Ruští a jejich mongolské loutky odhalili shromažďování našich vojsk v Heilungkiangu a pokusili se uskutečnit velký nájezd přes hranici, aby narušili naše přípravy! Naštěstí naši rychle uvažující velitelé jejich síly obklíčili klešťovým manévrem. Způsobili jsme jejich vojskům těžké ztráty, než uprchly zpět přes hranici." # todo: CHANGED
  japan.4.t: "Pohraniční potyčka: japonské vítězství"
  japan.5.a: "Stačila demonstrace síly."
  japan.5.d: "Po zjištění našeho soustřeďování jednotek se Sověti moudře rozhodli stáhnout své síly z oblastí bezprostředně přiléhajících k mandžuské hranici. Naši vojáci dočasně obsadili několik jejich opuštěných pohraničních stanovišť. To snad ukončí směšné pohraniční nároky, které Rusové a jejich mongolští spojenci vznášejí."
@@ -1202,7 +1202,7 @@
  mutiny_event.4.desc: "Ačkoli se válečný úřad snaží ze všech sil zabránit, aby se současná vzpoura v armádě široce roznesla, cenzura dopisů má své limity. Vojáci na dovolené rychle šíří zprávy, že armáda už není ochotná za tuto válku zbytečně krvácet.\n\nBez explicitního zmínění vzpoury [Root.GetLeader] dnes oznámil, že vláda bude jakýkoli projev nedostatečného odhodlání pro válku považovat za velezradu.\n\nTrest za velezradu je dobře znám a veřejná podpora vzbouřenců prakticky zmizela. Zpráva se, samozřejmě, rozšířila široko daleko. Když vojáci viděli, že u veřejnosti oporu nenajdou, tiše se vrátili ke svým povinnostem."
  mutiny_event.4.t: "Zákon o velezradě ve válce"
  mutiny_event.5.a: "Tento nerespekt k zákonům je hluboce znepokojivý."
- mutiny_event.5.desc: "Ačkoli se válečný úřad snaží ze všech sil zabránit, aby se současná vzpoura v armádě široce roznesla, cenzura dopisů má své limity. Vojáci na dovolené rychle šíří zprávy, že armáda už není ochotná za tuto válku zbytečně krvácet.\n\nPokusy vlády zastavit tuto vlnu zcela selhaly. Zprávy tajné policie naznačují, že vzbouřenci mají silnou podporu veřejnosti, takže je nepravděpodobné, že bychom je dokázali izolovat a potlačit."
+ mutiny_event.5.desc: "Zatímco Válečné ministerstvo dělá, co může, aby zabránilo širokému rozšíření zpráv o současné vzpouře v armádě, cenzura dopisů má svá omezení. Vojáci na dovolené rychle roznesli zprávy, že armáda už nechce zbytečně krvácet v této válce.\n\nPokusy vlády zastavit příliv zcela selhaly. Zprávy tajné policie naznačují, že povstalci mají silnou podporu v obecné populaci, což ztěžuje naši schopnost je izolovat a potlačit." # todo: CHANGED
  mutiny_event.5.t: "Zátah vyšuměl naprázdno"
  mutiny_event.6.a: "Velká škoda."
  mutiny_event.6.desc: "[Root.GetLeader] dnes oznámil tisku, že jeho poslední mírová nabídka selhala. Přestože příčiny této nešťastné události jsou velmi komplexní, [Root.GetAdjective] požadavek, aby druhá strana zaplatila všechny škody, úplně se odzbrojila a veřejně uznala, že válku začala, mohl být poslední kapkou.\n\nNaši nepřátelé odpověděli v podobném duchu: naše rozumné požadavky označili za požadavek bezpodmínečné kapitulace. Slíbili, že povedou válku až do hořkého konce. \n\nKdyž nepřátelé zjevně nejsou ochotni použít rozum a slibují, že budou bojovat dál, pokusy vzbouřenců vynutit si mírovou dohodu se zhroutily."
@@ -1468,7 +1468,7 @@
  news.169.a: "Německo ukazuje Evropě svou moc"
  news.169.b: "Zvolili jsme správnou stranu"
  news.169.c: "Zlověstné znamení"
- news.169.d_annex_YUG: "Nedávné územní ztráty způsobily trhliny v jugoslávském státě, vedly k etnickým konfliktům a oslabily centrální autoritu. Německo vstoupilo do rostoucího mocenského vakua a rozhodlo se vyhlásit „protektorát“ nad zbytkem Jugoslávie."
+ news.169.d_annex_YUG: "Nedávné územní ztráty způsobily v jugoslávském státě trhliny vedoucí k etnickým konfliktům a oslabení centrální autority. Německo vstoupilo do rostoucího vakua a rozhodlo se vyhlásit na zbytku Jugoslávie 'protektorát'" # todo: CHANGED
  news.169.d_puppet_CRO_YUG: "Nedávné územní ztráty způsobily trhliny v jugoslávském státě, vedly k etnickým konfliktům a oslabily centrální autoritu. Německo se rozhodlo rozdělit zbytek na srbský a chorvatský stát pod svým dohledem."
  news.169.d_puppet_CRO_annex_YUG: "Nedávné územní ztráty způsobily trhliny v jugoslávském státě, vedly k etnickým konfliktům a oslabily centrální autoritu. Německo vytvořilo „nezávislý“ stát Chorvatsko a zbytek anektovalo."
  news.169.e: "Mír je v ohrožení"
@@ -1718,13 +1718,13 @@
  news.208.a: "Opravdu dokáží ohrozit naše državy?"
  news.208.b: "Pokud nebude ohrozeno americké území"
  news.208.c: "Pochopili, že si musí hledat kořist jinde"
- news.208.d: "Japonské ozbrojené síly si už dlouho uvědomují, že [JAP.GetName] nedisponuje přírodními zdroji potřebnými pro vleklé válečné úsilí. Se stupňujícím se napětím a vypukáním ozbrojených konfliktů mezi světovými mocnostmi se hrozba přerušení dovozu den ode dne zvětšuje.\nAby tomu čelili, vypracovali japonští stratégové plán uchvácení západních kolonií v jihovýchodní Asii a Pacifiku. Tyto na zdroje bohaté oblasti budou pohánět japonský válečný stroj a umožní mu pokračovat víceméně bez překážek - pokud se koloniálním mocnostem a [USA.GetName] podaří držet od těla."
+ news.208.d: "Ozbrojené síly Japonska již dlouho připouštějí, že [JAP.GetName] nevlastní přírodní zdroje potřebné pro dlouhotrvající válečné úsilí. S rostoucím napětím a vypukáním ozbrojených konfliktů zapojujících světové velmoci se hrozba ztráty přístupu k dovozu zdrojů zdá den ode dne větší.\nAby tomu čelili, japonští stratégové sestavili plán obsadit západní kolonie v jihovýchodní Asii a na Pacifiku. Tyto regiony bohaté na suroviny nasytí japonský válečný stroj a umožní mu pokračovat více méně neomezenu, pokud se podaří držet koloniální mocnosti a [USA.GetName] na uzdě." # todo: CHANGED
  news.208.e: "Válka v jihovýchodní Asii se jeví pravděpodobnou"
  news.208.t: "Japonská armáda přejímá Nanšin-ron"
  news.209.a: "Bylo by pošetilé ohrožovat naše državy"
  news.209.b: "Odrazili jsme Japonsko od postupu do Pacifiku"
  news.209.c: "Netuší, jak strašlivé síle budou čelit"
- news.209.d: "Japonské ozbrojené síly si už dlouho uvědomují, že [JAP.GetNameDef] nedisponuje přírodními zdroji potřebnými pro vleklé válečné úsilí. Se stupňujícím se napětím a vypukáním ozbrojených konfliktů mezi světovými mocnostmi se hrozba přerušení dovozu den ode dne zvětšuje.\nAby tomu čelili, vypracovali japonští stratégové plán uchvácení sibiřských dolů a ropných polí, které vlastní [SOV.GetNameDef]. Teoreticky má rychlý postup umožnit Japonsku ovládnout klíčová území dříve, než bude možné nasadit plnohodnotnou [SOV.GetAdjective] protiofenzívu. Do té doby bude mít japonská armáda všechny zdroje k udržení válečného ohně až do [SOV.GetAdjective] kapitulace."
+ news.209.d: "Ozbrojené síly Japonska již dlouho připouštějí, že [JAP.GetNameDef] nevlastní přírodní zdroje potřebné pro dlouhotrvající válečné úsilí. S rostoucím napětím a vypukáním ozbrojených konfliktů zapojujících světové velmoci se hrozba ztráty přístupu k dovozu zdrojů zdá den ode dne větší.\nAby tomu čelili, japonští stratégové navrhli strategii zabrat sibiřské doly a ropná pole od [SOV.GetNameDef]. Předpokládá se, že rychlý postup umožní Japonsku ovládnout klíčová území dříve, než bude možné organizovat řádný [SOV.GetAdjective] protiútok. Do té doby bude japonská armáda mít všechny zdroje, které potřebuje, aby udržela plameny války až do kapitulace [SOV.GetAdjective]." # todo: CHANGED
  news.209.e: "Válka na Sibiři se zdá nevyhnutelná"
  news.209.t: "Japonská armáda přejímá Hokušin-ron"
  news.21.a: "Málo významné."
@@ -1881,7 +1881,7 @@
  news.234.a: "Tentokrát ne!"
  news.234.b: "[GER.GetNameDef] se musí držet na uzdě!"
  news.234.c: "Byl by to agresivní úder."
- news.234.d: "Po vypuknutí války s Francií vyvinulo Německo dosud nejsilnější diplomatický nátlak na země Beneluxu. Díky podpoře, kterou jim poskytuje [FRA.GetNameDef] a [ENG.GetNameDef], však odmítají ustoupit.\n\nJe důvod se domnívat, že pokud [GER.GetNameDef] nezíská, co chce, diplomacií, vezme si to silou."
+ news.234.d: "Po vypuknutí války s Francií uplatnilo Německo větší diplomatický tlak než kdy dříve na země Beneluxu. S podporou [FRA.GetAdjective] a [ENG.GetAdjective] se však odmítají podvolit tlaku.\n\nExistuje důvod věřit, že pokud [GER.GetNameDef] nedosáhne svého diplomaticky, vezme si to silou." # todo: CHANGED
  news.234.t: "[GER.GetAdjectiveCap] nátlak na Benelux"
  news.235.a: "Dostane přivítání hodné amerického hrdiny!"
  news.235.d: "[GER.GetLeader] se může radovat: jeho oblíbená filmová hvězda, jedinečný Charlie Chaplin, byla nalezena v Kalifornii. Při útěku na venkov jej zastavila [GER.GetAdjective] hlídka, která ho okamžitě poznala podle ikonického knírku. Po tom, co zopakoval závěrečný monolog svého mistrovského díla „Diktátor“, byl ctěný herec „přesvědčen“, aby šel pobavit [GER.GetAdjective] vojáky v oblasti.\n\nNyní bude poslán do Berlína, kde se [GER.GetLeader] konečně setká se svým idolem. Ačkoli politické rozdíly mohou setkání pokazit, [GER.GetLeader] ho očekává nadšený jako dítě."
@@ -1961,7 +1961,7 @@
  news.249.a: "Viděli jsme to už dříve; skončí to slzami."
  news.249.b: "Armáda severu bude připravena."
  news.249.c: "Armáda jihu bude připravena."
- news.249.d: "[USA.GetAdjectiveCap] politici se dnes ráno probudili do znepokojivých zpráv: [CAN.GetNameDef] a [MEX.GetNameDef] oznámily nový obranný pakt zaměřený na „čelení a zadržování bezprostředních hrozeb suverenitě našich zemí“. Tenký závoj hrozby sotva skrývá úmysl brzdit vojenské snahy, které má [USA.GetNameDef] na americkém kontinentu - a možná i mimo něj.\n\nKomentátoři přirovnávají situaci k Evropě před Velkou válkou: dvě strany, které mohou přehrat mnoho, a bez způsobu, jak zmírnit napětí. Otázkou není, kdo je komu větší hrozbou, ale kdo udeří preventivně."
+ news.249.d: "[USA.GetAdjective] politiky dnes ráno probudily znepokojivé zprávy, když [CAN.GetNameDef] a [MEX.GetNameDef] oznámily nový obranný pakt, zaměřený na \"odrážení a zadržování bezprostředních hrozeb pro pokračující suverenitu našich obou zemí.\" Silně maskovaná hrozba jen těžko skrývá záměr omezit vojenské snahy [USA.GetNameDef] na americkém kontinentu a možná i jinde.\n\nPolitické komentátory to přivádí na myšlenku situace v Evropě před Velkou válkou; dvě strany, které mají co ztratit, a žádný způsob, jak napětí uvolnit. Otázka se zdá být méně o tom, kdo představuje větší hrozbu, a více o tom, která strana provede první preventivní úder." # todo: CHANGED
  news.249.e: "Musíme rychle najít protiváhu."
  news.249.t: "[CAN.GetNameDefCap] a [MEX.GetNameDef] spojují síly!"
  news.25.a: "Znepokojivé."
@@ -2182,7 +2182,7 @@
  news.302.a: "Jestli rozumí jen síle..."
  news.302.b: "Ať přijdou!"
  news.302.c: "Tvrdohlaví hlupáci..."
- news.302.desc: "Lhůta ultimáta uplynula bez rumunské odpovědi. Rozzuření [HUN.GetAdjective] představitelé už odsoudili rumunskou vládu s tvrzením, že „destabilizuje region“ svým trváním na „protizákonných smlouvách“. Obě země se zřejmě chystají na válku, která může vypuknout každým dnem."
+ news.302.desc: "Termín ultimáta uplynul bez rumunské odpovědi. Rozhořčení [HUN.GetAdjective] představitelé již odsoudili rumunskou vládu a tvrdí, že svým trváním na 'nezákonných smlouvách' 'destabilizuje region'. Obě země se zdají připravovat na válku, která může vypuknout kdykoliv." # todo: CHANGED
  news.302.t: "Rumunsko odmítá [HUN.GetAdjective] požadavky"
  news.303.a: "Ať jsou rádi, že chceme jen tohle."
  news.303.b: "Snad najdeme kompromis..."
@@ -2238,7 +2238,7 @@
  news.314.a: "Život muže je malá cena."
  news.314.b: "Revoluci nezastaví!"
  news.314.c: "Mohou komunisté klesnout ještě níž?"
- news.314.desc: "Z Maďarska dorazily zprávy, že Miklós Horthy byl dnes zastřelen osamělým střelcem po odchodu z parlamentu v Budapešti. Ačkoli byl ihned převezen do nemocnice, lékaři oznámili, že po příjezdu byl již mrtev. Útočník, kterého policie zastřelila na útěku, byl identifikován jako člen komunistické strany.\n\nVražda vyvolala rozruch v domácí [HUN.GetAdjective] politice, neboť Horthyho protikomunistický postoj byl klíčový pro udržení revolucionářů na uzdě. Bez starého admirála v čele politické scény zřejmě komunistický vliv dramaticky poroste."
+ news.314.desc: "Objevily se zprávy z Maďarska, že Miklós Horthy byl dnes po odchodu z budovy parlamentu v Budapešti zastřelen osamělým střelcem. Ačkoli byl okamžitě transportován do nemocnice, lékaři oznámili, že při příjezdu již byl mrtvý. Střelec, zastřelen policií při pokusu o útěk z místa činu, byl identifikován jako člen komunistické strany.\n\nAtentát vyvolal rozruch v domácí [HUN.GetAdjective] politice, protože Horthyho antikomunistické sklony byly zásadní pro udržení revolučních živlů na uzdě. Bez starého admirála u kormidla politické scény je pravděpodobné, že vliv komunistů výrazně vzroste." # todo: CHANGED
  news.314.t: "Horthy zavražděn"
  news.315.desc: "Rakousko naprosto odmítlo [HUN.GetAdjective] výzvy k referendu navzdory rostoucí maďarské agresivitě. Maďarsko obvinilo rakouskou vládu z flagrantního nerespektování demokratických práv lidu a uvedlo, že se nezdráhá použít sílu k ochraně přání Rakušanů znovu se sjednotit se svými [HUN.GetAdjective] bratry. Obě strany zahájily mobilizaci a válka se zdá nevyhnutelná."
  news.315.t: "Rakousko odmítá referendum"
@@ -2406,7 +2406,7 @@
  news.401.a: "Významný vývoj"
  news.401.b: "Další vítězství pro vlast!"
  news.401.c: "Konec může být blíž, než jsme mysleli"
- news.401.desc: "Zprávy z [43.GetCapitalVictoryPointName] potvrzují, že [HUN.GetAdjective] hlavní město padlo do rukou postupujících [SOV.GetAdjective] jednotek.\n\nVelká část města byla během obléhání před jeho dobytím zničena a místní milice stále vedou přestřelky, byť s malou nadějí na úspěch.\n\nNad Budínským hradem se nyní třepotá [SOV.GetAdjective] prapor a během posledních bojů bylo zajato mnoho [HUN.GetAdjective] politiků. Znamená to konec pro [HUN.GetNameDef]?"
+ news.401.desc: "Zprávy z [43.GetCapitalVictoryPointName] potvrzují, že [HUN.GetAdjective] hlavní město bylo dobyto postupujícími [SOV.GetAdjective] jednotkami. \n\nVelká část města byla během obléhání, které předcházelo jeho dobytí, zdevastována a místní milice stále vedou přestřelky proti [SOV.GetAdjective] jednotkám, byť s malou šancí na úspěch. \n\nNad budínským hradem byla nyní vztyčena [SOV.GetAdjective] vlajka a během nedávných bojů bylo zajato mnoho [HUN.GetAdjective] politiků. Je to konec [HUN.GetNameDef]?" # todo: CHANGED
  news.401.t: "[43.GetCapitalVictoryPointName] padla"
  news.409.a: "Rozumím."
  news.409.b: "To nezastaví nevyhnutelné."
@@ -2647,7 +2647,7 @@
  political.14.d: "Překvapivě získala výzva k častějším referendům a k menším represím vůči odpůrcům režimu určitou podporu v interních stranických debatách. Vedení [Root.GetRulingParty] zůstává skeptické, několik vlivných členů však posun podpořilo. \n\nMožná věří, že se pro [Root.GetName] v praxi mnoho nezmění, nebo jsou snad, jak tvrdí jejich protivníci, skrytými zrádci stranické věci. Ať tak či onak, pokud se ozve veřejná poptávka po těchto změnách, někteří vůdci jsou připraveni ke kompromisu."
  political.14.e: "To přejde."
  political.14.t: "[Root.GetRulingParty] debatuje o demokracii"
- political.15.a: "Hnutí zjevně roste v nepřítomnosti represe."
+ political.15.a: "Hnutí se zdá přirozeně rozrůstat při absenci represe." # todo: CHANGED
  political.15.d: "Uvolnění omezení, co vše se může veřejně šířit jako proti-[Root.GetRulingParty] propaganda, vedlo — jak se dalo čekat — k nárůstu veřejných projevů nesouhlasu. Organizované demonstrace a letáky se zatím objevují hlavně v akademickém prostředí a v některých méně šťastných částech [Root.GetName], ale o šíření hnutí není pochyb. \n\nVůdci národa jsou rozpolceni. [Root.GetLeader], jenž drží stranické vedení v železném sevření, nemá valnou chuť diverzifikovat veřejnou debatu. První kroky však již padly a nemusí být cesty zpět."
  political.15.t: "Formuje se demokratická opozice"
  political.16.a: "I když probíhají reformy, musíme ukázat sílu a tento vzdor potlačit."
@@ -2896,7 +2896,7 @@
  soviet.4.t: "[FROM.GetNameDefCap] se vzdává Besarábie"
  soviet.46.a: "Za [Root.GetName]"
  soviet.46.a_tt: "Přidá §Y$SOV_great_patriotic_war$§!, což částečně vyrovná postih z §Y$$officers_purged$$§!"
- soviet.46.d: "Ačkoli nás stále čeká mnoho práce na obnovení našeho vrchního velení, postup [From.GetAdjective] armády na našich hranicích zažehl vynalézavost a vlasteneckou vůli bojovat v našem novém důstojnickém sboru. S každou ranou, kterou utrpíme, sílíme, jak se chystáme pozvednout se a udeřit zpět s veškerou sílou na [Prev.GetName]. Každý voják je připraven položit život a pevně se postavit našim nepřátelům. Očekáváme, že to výrazně prospěje výcviku a odhodlání našich nových důstojníků i po vítězství v této válce!"
+ soviet.46.d: "I když nám stále zbývá mnoho práce při obnově našeho vojenského vrchního velení, postup [From.GetAdjective] armády na našich hranicích probudil v našem novém důstojnickém sboru vynalézavost a vlasteneckou vůli bojovat. S každým úderem, který sneseme, rosteme silnější, jak se připravujeme povstat a udeřit zpět veškerou silou [Prev.GetName]. Každý voják je ochoten obětovat svůj život a pevně stát proti našim nepřátelům. Očekáváme, že to výrazně prospěje výcviku a oddanosti našich nových důstojníků i poté, co bude tato válka vyhrána!" # todo: CHANGED
  soviet.46.t: "Velká vlastenecká válka"
  soviet.48.a: "Nemyslitelné!"
  soviet.48.a_tt: "§YBrzy vypukne rozsáhlá občanská válka§!"
@@ -3070,7 +3070,7 @@
  stability.37.desc: "„Samozřejmě chci žít. Chci dokončit školu, chci poznat dívky, chci založit rodinu — ale pokud prohrajeme tuhle válku, nebudu moci dělat ani to. Proto bojuji.“\n\nDopis zaslaný anonymně všem hlavním novinám v zemi vyvolal obrovský ohlas. Tvrdí, že jej napsal voják, který se zpočátku snažil odvodu vyhnout, ale pak pochopil, že musí bojovat, aby zachránil svou zemi. Zjevně se dotkl nervu u mnoha dalších, kteří cítili podobně. Odvodní komise po celé zemi hlásí, že počty těch, kdo stále odmítají dostavit se, více než vyrovnávají noví dobrovolníci, kteří už nebudou čekat, až budou povoláni, když mezitím jiní bojují za záchranu země a svého způsobu života."
  stability.37.t: "„Ponurá a posvátná povinnost“"
  stability.38.a: "Škoda, že to muselo dojít až sem."
- stability.38.desc: "„Za svítání ho přivedli ke zdi. Odmítl poslední cigaretu, ale přijal šátek přes oči. Jeho poslední slova byla omluva matce za všechnu bolest, kterou jí způsobil. Popravčí četa mířila dobře. O pár minut později přítomný lékař konstatoval smrt.“\n\nAčkoli se nepodařilo dopadnout všechny, kdo se vyhýbali odvodu, úřady dokázaly provést několik zatčení. Vzhledem k tíživé situaci rozhodl Válečný úřad, že tito muži budou souzeni dle vojenského práva za nedostavení se do služby. První série trestů smrti byla vynesena a odsouzení byli popraveni zastřelením. Tato opatření evidentně měla zamýšlený efekt. Zdá se, že většina lidí si zvolila možnost padnout v boji před jistotou potupné smrti jako zbabělec."
+ stability.38.desc: "\"Dovedli ho ke zdi za úsvitu. Odepřel poslední cigaretu, ale přijal šátek přes oči. Jeho poslední slova byla omluva matce za to, že jí způsobil tolik bolesti. Popravčí četa dobře mířila. O několik minut později přítomný lékař prohlásil, že je mrtvý.\"\n\nAčkoliv nebylo možné chytit všechny, kdo se vyhýbali branné povinnosti, úřady dokázaly provést řadu zatčení. Vzhledem k vážnosti situace se Válečné ministerstvo rozhodlo, že tito muži budou souzeni podle vojenského práva za nehlášení se k povinnosti. První série trestů smrti byla vynesena a odsouzení byli popraveni zastřelením. Zdá se, že tato opatření měla požadovaný účinek. Většina lidí se zřejmě rozhodla raději zvolit možnost smrti na bojišti než jistotu nečestné smrti jako zbabělci." # todo: CHANGED
  stability.38.t: "Konec zbabělce"
  stability.39.a: "Věci se nutně nezlepšily."
  stability.39.desc: "„Za svítání ho přivedli ke zdi. Odmítl poslední cigaretu, ale přijal šátek přes oči. Jeho poslední slova byla omluva matce za všechnu bolest, kterou jí způsobil. Popravčí četa mířila dobře. O pár minut později přítomný lékař konstatoval smrt.“\n\nZveřejněná zpráva o popravě muže odsouzeného k smrti za nedostavení se do služby zřejmě přinesla opačný účinek. Namísto návratu lidí k barvám ze strachu z následků proměnila popravené v okamžité mučedníky mírového hnutí. Jejich jména a životní příběhy byly publikovány a velmi zjevně upraveny tak, aby je vykreslily v co nejlepším světle. V několika velkých městech začaly masové mírové demonstrace požadující konec války. Válečný úřad hlásí, že obdržel řadu dopisů od odvedenců, kteří otevřeně píší, že do služby nenastoupí — protože by za žádných okolností nechtěli být účastni další popravy jinak než v roli popraveného."
@@ -3097,10 +3097,10 @@
  strikes_event.6.desc: "Aniž by zmínil probíhající stávky, [Root.GetLeader] dnes oznámil, že dělníci v odvětvích důležitých pro válku dostanou navíc příděly cukru, kávy a masa, aby si udrželi síly. Bohužel se ukázalo, že fámy o tom, že vláda rozdá i extra čokoládu, jsou falešné.\n\nZatímco vůdci stávek se snaží dělníkům bránit v návratu do práce, většina se zdá smířená s tím, že „Mír a chléb“ nikdy nebude, a spokojí se alespoň s chlebem."
  strikes_event.6.t: "Užiteční strávníci"
  strikes_event.7.a: "Pořádek byl obnoven."
- strikes_event.7.desc: "Jednotky se přes noc shromáždily za městy a dodržovaly světelnou i hlukovou kázeň, aby udržely moment překvapení. Když slunce vystoupalo nad obzor a dělníci na barikádách u továren vyhlíželi střídání denní směnou, útočné kolony vyrazily. Unavení hlídači zareagovali pomalu a byli rychle přemoženi. Malý oddíl zůstal hlídat zajatce, zatímco vojáci pročesali město a zatýkali každého ze seznamu známých továrních pracovníků. Do poledne převzala armáda plnou kontrolu nad městy a zavedla zákaz vycházení. Další odpor se neočekává. Většina dělníků bude brzy propuštěna pod podmínkou návratu do práce, vůdci budou drženi a postaveni před soud. Očekávají se rozsudky smrti."
+ strikes_event.7.desc: "V noci se vojska shromáždila před městy, dodržujíc disciplínu v hluku i světle, aby udržela prvek překvapení. Jakmile slunce vykouklo nad obzor a dělníci na barikádách u továren očekávali úlevu noční směny, útočné sloupy vpadly dovnitř. Unavení dělníci byli pomalí v organizaci odporu a byli rychle přemoženi. Nechal se malý oddíl k hlídání vězňů a armáda pročesala město, zatýkajíc všechny na seznamu známých továrních dělníků. Do poledne převzalo vojsko plnou kontrolu nad městy a zavedlo zákaz vycházení. Nečeká se další odpor. Většina dělníků bude brzy propuštěna pod podmínkou návratu do práce, vůdci budou zadrženi a souzeni. Očekává se vynesení rozsudků smrti." # todo: CHANGED
  strikes_event.7.t: "Operace Černý dub"
  strikes_event.8.a: "Rychle nám docházejí možnosti."
- strikes_event.8.desc: "Jednotky se přes noc shromáždily za městy, ale špatná světelná i hluková kázeň překvapení prozradila. Když se vojáci přiblížili, našli dělníky v pohotovosti a připravené. První útok se rozpadl v krupobití létajících kamenů. Druhý útok s nasazenými bodáky byl odražen brutálním bojem zblízka a v ulicích zůstaly desítky mrtvých a raněných.\n\nVelící důstojníci stáhli síly k přeskupení, zatímco dělníci rozšiřují opevnění a vyzbrojují se zbraněmi zanechanými při ústupu. Zítra se očekává druhý den bojů, ale Vrchní velení již nevěří, že je vítězství pravděpodobné."
+ strikes_event.8.desc: "Vojska se přes noc shromáždila před městy, avšak špatná disciplína v hluku a světle vyzradila překvapení. Když vojska vpadla, našla dělníky ve střehu připravené je přivítat. První útok se rozpadl pod ránami házených kamenů. Druhý útok s bajonety byl odražen v brutálních blízko-násilných bojích, zanechávajících desítky mrtvých a umírajících v ulicích.\n\nDůstojníci velení se stáhli, aby konsolidovali síly, zatímco dělníci rozšiřují svá opevnění a vyzbrojují se zbraněmi ponechanými ústupem. Očekává se druhý den bojů zítra, ale Vojenské vrchní velení již nevěří, že vítězství je pravděpodobné." # todo: CHANGED
  strikes_event.8.t: "Bitva na Dubové ulici"
  strikes_event.9.a: "Snad to bude stačit."
  strikes_event.9.desc: "V době vyhroceného napětí v metropoli oznámil [Root.GetLeader] nový zákon na ochranu práv pracujících i v čase války. Široký balík stanovuje neomezené placené nemocenské, povinné úrazové pojištění pro každého pracovníka, právo vstoupit do libovolného odboru a poprvé také právo každé zaměstnané ženy na mateřskou dovolenou po porodu.\n\nMnozí ve vládě to považují za nic menšího než úplnou kapitulaci před stávkujícími, výsledky jsou však jednoznačné: práce se ve všech továrnách obnovila."
@@ -3182,7 +3182,7 @@
  usa.40.desc: "Při nedávném hlasování překvapivě přešel jeden senátor na stranu vlády a podpořil její návrh. Ačkoli šlo o okrajovou záležitost, veřejná podpora od člověka, který dříve hlasitě kritizoval prezidenta, zvedla vlnu obočí po celém Washingtonu.\n\nNěkteří analytici věří, že tento příklad přiměje další senátory přehodnotit své postoje."
  usa.40.t: "Senátor hlasuje pro vládní návrh"
  usa.401.a: "Žebrák si nevybírá."
- usa.401.desc: "Britský premiér [From.GetLeader] naznačil, že přijímá podmínky dohody Torpédoborce za základny. Skupina [From.GetAdjective] námořních důstojníků dorazila k inspekci torpédoborců a k dohledu nad předáním.\n\n Zjevně je stále co dělat — několik [From.GetAdjective] důstojníků poněkud znepokojuje množství a tloušťka guána a rzi na předávaných plavidlech."
+ usa.401.desc: "Britský premiér [From.GetLeader] naznačil, že přijímá podmínky dohody o torpédoborcích za základny. Skupina [From.GetAdjective] námořních důstojníků dorazila, aby torpédoborce prohlédla a dohlédla na převod.\n\nJe zřejmé, že práce je stále dost, protože někteří [From.GetAdjective] důstojníci se zdají být poněkud znepokojeni množstvím a tloušťkou guána a rzi na lodích určených k převodu." # todo: CHANGED
  usa.401.t: "[From.GetNameDefCap] přijímá dohodu Torpédoborce za základny"
  usa.41.a: "Má pravdu, kolego."
  usa.41.desc: "Na dobročinné večeři byla jedna poslankyně tázána na svůj postoj k řadě témat a vyjádřila, že prezident [USA.GetLeader] má její plnou podporu. Dodala, že mnozí její kolegové mají podobné názory, ale „idiotská krátkozrakost, nehledící dál než na příští volby“, jim brání dělat to, co je pro Američany správné. \n\nJejí slova široce převzala média a několik kolegů se dostalo do úzkých, když museli vysvětlovat své postoje."
@@ -3230,7 +3230,7 @@
  usa.65.a: "Vyznamenat pilota za statečnost!"
  usa.65.b: "Když věří Němcům, pak my nevěříme jemu!"
  usa.65.c: "Postarejte se, aby se to nešířilo."
- usa.65.desc: "Dostali jsme se k pozoruhodnému příběhu od letectva. Po zpackaném náletu na [GER.GetAdjective] vojenský průmysl byl náš bombardér „Ye Olde Pub“ těžce poškozen, přišel o jednoho člena posádky a zbytek byl těžce raněn. Posádka pod velením poručíka 2. třídy Charlese „Charlieho“ Browna odmítla vyskočit a nechat ty, kteří by bezpečně nepřistáli, zahynout s letounem.\n\nKdyž se ploužící letoun opět ocitl před nepřátelským stíhačem a měl sotva nějakou funkční výzbroj k obraně, posádku šokovalo, že stíhač nespustil palbu. Gesty a tichým artikulováním se [GER.GetAdjective] pilot pokoušel s posádkou komunikovat. Navzdory snahám na obou stranách nebyla komunikace možná. Stíhač doprovodil „Ye Olde Pub“ až za hranice [GER.GetAdjective] vzdušného prostoru a když posádka otočila svůj jediný zbývající kulomet na stíhačku na znamení, že jeho podporu už nepotřebují, pilot stíhače zasalutoval a vrátil se zpět do Německa.\n\nPříběh dává naději, že i na straně protivníka jsou dobří lidé, avšak volné šíření tohoto vyprávění mezi obyvatelstvem a vojáky může mít nežádoucí vedlejší účinky."
+ usa.65.desc: "Dostala se k nám pozoruhodná zpráva od letectva. Po ošizeném náletu na [GER.GetAdjective] vojenský průmysl utrpěl náš bombardér ''Ye Olde Pub'' vážné poškození, ztratil jednoho člena posádky a zbytek byl těžce zraněn. Posádka vedená 2. poručíkem Charlesem ''Charlie'' Brownem odmítla vyskočit a opustit ty, kteří nebyli schopni bezpečného přistání, a rozhodla se zůstat s letadlem.\n\nKdyž se opožděné letadlo opět ocitlo v zásahu nepřátelské stíhačky a měla téměř žádné funkční zbraně, posádka byla šokována, když stíhačka neotevřela palbu. Pomocí gest a hnutí úst se [GER.GetAdjective] pilot snažil komunikovat s posádkou. Navzdory velkému úsilí na obou stranách nebyl nalezen žádný prostředek komunikace. Stíhačka doprovodila ''Ye Olde Pub'' mimo [GER.GetAdjective] vzdušný prostor a když posádka natočila poslední zbylou zbraň na stíhačku, aby signalizovala, že už její pomoc nepotřebuje, pilot stíhačky pozdravil a vrátil se do [GER.GetNameDef].\n\nTento příběh vnáší naději, že na straně našich protivníků jsou stále i dobří lidé, ale povolit, aby se tato zpráva volně šířila mezi naší populací a našimi jednotkami, může mít nechtěné vedlejší účinky." # todo: CHANGED
  usa.65.t: "Překvapivý projev [GER.GetAdjective] milosrdenství."
  usa.7.a: "Demokraté. FDR je nepostradatelný."
  usa.7.b: "Republikáni. Chceme Willkieho!"

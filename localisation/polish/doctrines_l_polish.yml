@@ -78,7 +78,7 @@
  SUBDOCTRINE_AIR_CAVALRY_DESC: "Vrtulník umožňuje zavést do pozemní války nový - svislý - rozměr. Můžeme armádu přizpůsobit tak, aby tuto možnost využila s maximální mobilitou a překvapením."
  air_cavalry_airborne_observers: "Vzdušní pozorovatelé"
  air_cavalry_service_and_support: "Servis a podpora"
- air_cavalry_rescue_liasions: "Záchranné styčné týmy"
+ air_cavalry_rescue_liasions: "Záchranné spojky" # todo: CHANGED
  air_cavalry_transport_assault: "Transportní útok"
  air_cavalry_intervention_units: "Intervenční jednotky"
  SUBDOCTRINE_MOBILE_RECON_AND_ASSAULT: "Mobilní průzkum a útok"
@@ -402,7 +402,7 @@
  carrier_battlegroups_dedicated_record_keeping: "Pečlivá evidence"
  carrier_battlegroups_floating_fortresses: "Soustředěná protiletadlová palba"
  SUBDOCTRINE_CARRIER_AIRFIELDS: "Plovoucí letiště"
- SUBDOCTRINE_CARRIER_AIRFIELDS_DESC: "Paluba letadlové lodě je nejdražším místem na světě. Žádné úsilí nesmí být šetřeno na maximalizaci její letecké kapacity."
+ SUBDOCTRINE_CARRIER_AIRFIELDS_DESC: "Paluba letadlové lodi je nejdražší kus nemovitosti na Zemi. Nesmí se šetřit úsilí, aby se z ní vytěžilo maximum možné letecké síly." # todo: CHANGED
  floating_airfields_traffic_control_systems: "Koordinace letového provozu"
  floating_airfields_floating_city: "Organizace štábních činností"
  floating_airfields_veteran_pilots: "Plánování útoků leteckých skupin"
@@ -437,7 +437,7 @@
  light_task_forces_evasive_engagements_focus: "Efektivní povrchové krytí"
  light_task_forces_localized_sea_power: "Místní kontrola moře"
  SUBDOCTRINE_SUBMARINE_WOLFPACKS: "Vlčí smečky"
- SUBDOCTRINE_SUBMARINE_WOLFPACKS_DESC: "Lovit rozptýleně — udeřit společně. Naše ponorky mohou pokrýt ohromné plochy oceánu a svolat ostatní, jakmile je objevena kořist."
+ SUBDOCTRINE_SUBMARINE_WOLFPACKS_DESC: "Lovte rozptýleně — udeřte společně. Naše ponorky se mohou rozptýlit, aby pokryly rozsáhlé úseky oceánu, a pak si navzájem signalizovat, aby se sešly, když je spatřena vhodná kořist." # todo: CHANGED
  wolfpacks_predictive_expertise: "Rychlý přístup"
  wolfpacks_pack_search_patterns: "Vyhledávací vzory smečky"
  wolfpacks_improvisation: "Kultura improvizace"
@@ -647,7 +647,7 @@
  air_subdoctrine_operational_air_support_tactical_bomber_preservation: "Techniky vyhýbání zachycení"
  SUBDOCTRINE_TACTICAL_BATTLEFIELD_SUPPORT: "Taktická bojová podpora"
  SUBDOCTRINE_TACTICAL_BATTLEFIELD_SUPPORT_DESC: "Flotila lehkých bombardérů zasypávající nepřátelská opevnění z nebe připraví cestu pro postup našich jednotek."
- air_subdoctrine_tactical_battlefield_support_keypoint_bombing: "Přípravné bombardování"
+ air_subdoctrine_tactical_battlefield_support_keypoint_bombing: "Přípravné letecké bombardování" # todo: CHANGED
  air_subdoctrine_tactical_battlefield_support_logistical_bombing: "Logistické bombardování"
  air_subdoctrine_tactical_battlefield_support_ship_hunters: "Dostupnost průbojné munice"
  air_subdoctrine_tactical_battlefield_support_dedicated_record_keeping: "Úsporné používání paliva"
@@ -767,3 +767,80 @@
  TRACK_INACTIVE_EXPLANATION: "§gDokud je větev neaktivní, nelze přiřadit žádnou novou §!§HDílčí doktrínu§!§g a nelze získat žádné £doctrine_mastery §!§HMistrovství§!§g.§!"
  SUBDOCTRINE_OVERRIDE_MASTERY_TITLE: "§HTato dílčí doktrína získává £doctrine_mastery mistrovství z konkrétní sady jednotek:§!"
  land_mastery_gain_factor_tt: " Faktor zisku pozemního Mistrovství: $RIGHT|+=%1$"
+ SUBDOCTRINE_DISPERSED_OPERATIONS: "Rozptýlené operace" # todo: NEW TRANSLATION
+ SUBDOCTRINE_DISPERSED_OPERATIONS_DESC: "Když nebe patří nepříteli, naše armády nesmí nabídnout snadný cíl. Rozptýlené formace, zpevněná logistika a hustá protiletadlová palba nám dovolí bojovat i tam, kde nemůžeme získat vzdušnou převahu." # todo: NEW TRANSLATION
+ dispersed_operations_scattered_formations: "Rozptýlené formace" # todo: NEW TRANSLATION
+ dispersed_operations_hardened_logistics: "Zpevněná logistika" # todo: NEW TRANSLATION
+ dispersed_operations_local_air_defense: "Místní protiletadlová obrana" # todo: NEW TRANSLATION
+ dispersed_operations_camouflage_discipline: "Maskovací disciplína" # todo: NEW TRANSLATION
+ dispersed_operations_independent_operations: "Nezávislé operace" # todo: NEW TRANSLATION
+ DOCTRINE_TRACK_SPECIAL_FORCES: "Speciální síly" # todo: NEW TRANSLATION
+ UNLOCK_SUBUNIT_EFFECT: "Odemyká $NAME|H$" # todo: NEW TRANSLATION
+ SUBDOCTRINE_ALREADY_ASSIGNED: "§RTuto dílčí doktrínu nelze přiřadit do více stop současně.§!" # todo: NEW TRANSLATION
+ SUBDOCTRINE_MUTUALLY_EXCLUSIVE: "§RTuto dílčí doktrínu nelze přiřadit, zatímco je§! $NAME|H$§R v jiné větvi.§!" # todo: NEW TRANSLATION
+ SUBDOCTRINE_EXCLUSIVE_INFO_TITLE: "§RVzájemně se vylučuje s:§!" # todo: NEW TRANSLATION
+ SUBDOCTRINE_EXCLUSIVE_INFO_ENTRY: " $NAME|Y$" # todo: NEW TRANSLATION
+ GRAND_DOCTRINE_SPECIAL_FORCES_QUANTITY: "Rozšířené speciální síly" # todo: NEW TRANSLATION
+ GRAND_DOCTRINE_SPECIAL_FORCES_QUANTITY_DESC: "$improved_special_forces_desc$" # todo: NEW TRANSLATION
+ GRAND_DOCTRINE_SPECIAL_FORCES_QUALITY: "Elitní speciální síly" # todo: NEW TRANSLATION
+ GRAND_DOCTRINE_SPECIAL_FORCES_QUALITY_DESC: "$elite_forces_desc$" # todo: NEW TRANSLATION
+ SUBDOCTRINE_MOUNTAINEERS_1: "$ski_troops$" # todo: NEW TRANSLATION
+ SUBDOCTRINE_MOUNTAINEERS_1_DESC: "$ski_troops_desc$" # todo: NEW TRANSLATION
+ mountaineers_1_reward_1: "Výcvik v chladných podmínkách" # todo: NEW TRANSLATION
+ mountaineers_1_reward_2: "$mountaineers_keystone_2$" # todo: NEW TRANSLATION
+ mountaineers_1_reward_3: "$mountaineers_combat_1$" # todo: NEW TRANSLATION
+ mountaineers_1_reward_4: "$mountaineers_combat_3$" # todo: NEW TRANSLATION
+ mountaineers_1_reward_5: "$mountaineers_keystone_1$" # todo: NEW TRANSLATION
+ SUBDOCTRINE_MOUNTAINEERS_2: "$special_forces_mountaineers$" # todo: NEW TRANSLATION
+ SUBDOCTRINE_MOUNTAINEERS_2_DESC: "$special_forces_mountaineers_desc$" # todo: NEW TRANSLATION
+ mountaineers_2_reward_1: "$rangers$" # todo: NEW TRANSLATION
+ mountaineers_2_reward_2: "$special_forces_recon$" # todo: NEW TRANSLATION
+ mountaineers_2_reward_3: "$mountaineers_combat_2$" # todo: NEW TRANSLATION
+ mountaineers_2_reward_4: "Adaptace na těžkosti" # todo: NEW TRANSLATION
+ mountaineers_2_reward_5: "Lekce horského boje" # todo: NEW TRANSLATION
+ SUBDOCTRINE_MARINES_1: "$marines_commandoes$" # todo: NEW TRANSLATION
+ SUBDOCTRINE_MARINES_1_DESC: "$marines_commandoes_desc$" # todo: NEW TRANSLATION
+ marines_1_reward_1: "Zřídit námořní komanda" # todo: NEW TRANSLATION
+ marines_1_reward_2: "$marines_recon$" # todo: NEW TRANSLATION
+ marines_1_reward_3: "$marines_commandos_demolition$" # todo: NEW TRANSLATION
+ marines_1_reward_4: "Rozšíření námořního sboru" # todo: NEW TRANSLATION
+ marines_1_reward_5: "$marines_commandoes_mechanised$" # todo: NEW TRANSLATION
+ SUBDOCTRINE_MARINES_2: "$marines_expeditionary$" # todo: NEW TRANSLATION
+ SUBDOCTRINE_MARINES_2_DESC: "$marines_expeditionary_desc$" # todo: NEW TRANSLATION
+ marines_2_reward_1: "$marines_shore_parties$" # todo: NEW TRANSLATION
+ marines_2_reward_2: "Zvýšená koordinace dělostřelectva" # todo: NEW TRANSLATION
+ marines_2_reward_3: "Obrana nástupního prostoru" # todo: NEW TRANSLATION
+ marines_2_reward_4: "$marines_expeditionary_blowtorch$" # todo: NEW TRANSLATION
+ marines_2_reward_5: "$marines_expeditionary_support$" # todo: NEW TRANSLATION
+ SUBDOCTRINE_PARATROOPERS_1: "Sabotažní skupiny" # todo: NEW TRANSLATION
+ SUBDOCTRINE_PARATROOPERS_1_DESC: "$paras_dispersed_drop_desc$" # todo: NEW TRANSLATION
+ paratroopers_1_reward_1: "Sabotažní mise" # todo: NEW TRANSLATION
+ paratroopers_1_reward_2: "Výcvik přežití" # todo: NEW TRANSLATION
+ paratroopers_1_reward_3: "Sdílení znalostí mezi složkami" # todo: NEW TRANSLATION
+ paratroopers_1_reward_4: "$paras_bonus_1$" # todo: NEW TRANSLATION
+ paratroopers_1_reward_5: "$paras_keystone_1$" # todo: NEW TRANSLATION
+ SUBDOCTRINE_PARATROOPERS_2: "Koncentrované výsadky" # todo: NEW TRANSLATION
+ SUBDOCTRINE_PARATROOPERS_2_DESC: "$paras_combat_drop_desc$" # todo: NEW TRANSLATION
+ paratroopers_2_reward_1: "$paras_combat_drop$" # todo: NEW TRANSLATION
+ paratroopers_2_reward_2: "Zrychlený výcvikový proces" # todo: NEW TRANSLATION
+ paratroopers_2_reward_3: "$paras_combat_2$" # todo: NEW TRANSLATION
+ paratroopers_2_reward_4: "$paras_bonus_2$" # todo: NEW TRANSLATION
+ paratroopers_2_reward_5: "$paras_keystone_2$" # todo: NEW TRANSLATION
+ SUBDOCTRINE_RANGERS_1: "Tradice hraničářů" # todo: NEW TRANSLATION
+ SUBDOCTRINE_RANGERS_1_DESC: "$rangers_jaegers_training_desc$" # todo: NEW TRANSLATION
+ rangers_1_reward_1: "$rangers_guerilla_doctrine$" # todo: NEW TRANSLATION
+ rangers_1_reward_2: "$rangers_backbone_doctrine$" # todo: NEW TRANSLATION
+ rangers_1_reward_3: "$rangers_fire_support_integration$" # todo: NEW TRANSLATION
+ rangers_1_reward_4: "$rangers_urban_combat$" # todo: NEW TRANSLATION
+ rangers_1_reward_5: "$elite_rangers_doctrine$" # todo: NEW TRANSLATION
+ SUBDOCTRINE_RANGERS_2: "$rangers_jungle_training$" # todo: NEW TRANSLATION
+ SUBDOCTRINE_RANGERS_2_DESC: "$rangers_jungle_training_desc$" # todo: NEW TRANSLATION
+ rangers_2_reward_1: "$rangers_recon_terrain_training$" # todo: NEW TRANSLATION
+ rangers_2_reward_2: "$special_forces_rangers$" # todo: NEW TRANSLATION
+ rangers_2_reward_3: "Džungloví partyzáni" # todo: NEW TRANSLATION
+ rangers_2_reward_4: "Výcviková brigáda hraničářů" # todo: NEW TRANSLATION
+ rangers_2_reward_5: "Zřídit školu hraničářů" # todo: NEW TRANSLATION
+ marine_subdoctrines_default_add_mastery_bonus_effect_tooltip: "Přidá §G+10.00%§! £doctrine_mastery §YMistrovství§! bonus na §Y240§! dní k §Y$SUBDOCTRINE_MARINES_1$§! a §Y$SUBDOCTRINE_MARINES_2$§! dílčím doktrínám" # todo: NEW TRANSLATION
+ mountaineer_subdoctrines_default_add_mastery_bonus_effect_tooltip: "Přidá §G+10.00%§! £doctrine_mastery §YMistrovství§! bonus na §Y240§! dní k §Y$SUBDOCTRINE_MOUNTAINEERS_1$§! a §Y$SUBDOCTRINE_MOUNTAINEERS_2$§! dílčím doktrínám" # todo: NEW TRANSLATION
+ paratrooper_subdoctrines_default_add_mastery_bonus_effect_tooltip: "Přidá §G+10.00%§! £doctrine_mastery §YMistrovství§! bonus na §Y240§! dní k §Y$SUBDOCTRINE_PARATROOPERS_1$§! a §Y$SUBDOCTRINE_PARATROOPERS_2$§! dílčím doktrínám" # todo: NEW TRANSLATION
+ ranger_subdoctrines_default_add_mastery_bonus_effect_tooltip: "Přidá §G+10.00%§! £doctrine_mastery §YMistrovství§! bonus na §Y240§! dní k §Y$SUBDOCTRINE_RANGERS_1$§! a §Y$SUBDOCTRINE_RANGERS_2$§! dílčím doktrínám" # todo: NEW TRANSLATION

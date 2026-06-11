@@ -2,9 +2,9 @@
  BUL_BS_TOOLTIP: "£faction_bul_bs §YŠirocí socialisté§! jsou sociální demokraté podporující široké třídní aliance. \n£faction_bul_bs §YŠirocí socialisté§! mají velký vliv mezi průmyslovými dělníky a odbory a pokud budou vůči vládě neloajální, vyhlásí generální stávky."
  BUL_BZNS_TOOLTIP: "£faction_bul_bzns §YZemědělský svaz§! je politická organizace zakázaná v roce 1934, zaměřená na otázky zemědělství. \n£faction_bul_bzns §YZemědělský svaz§! má velký vliv na venkově a snaží se získat popularitu mezi rolníky."
  BUL_LOYALTY_TOOLTIP: "§YLoajalita§! představuje ochotu frakce spolupracovat s vládou. \nČím vyšší §YLoajalita§!, tím menší je pravděpodobnost, že frakce bude vládu konfrontovat. \nNež bude možné frakci integrovat do vlády, je nutné dokončit určité kroky k sblížení jejích členů s vládou a zvýšit její §YLoajalitu§! na 100."
- BUL_NSM_TOOLTIP: "£faction_bul_nsm §YNárodně socialistické hnutí§! je krajně pravicová organizace vedená bývalým členem Zvena Alexandarem Cankovem. \n£faction_bul_nsm §YNárodně socialistické hnutí§! se bude snažit získat popularitu mezi masami pořádáním demonstrací a protestů po celé zemi."
+ BUL_NSM_TOOLTIP: "£faction_bul_nsm §YNational Social Movement§! je krajně pravicová organizace vedená bývalým členem Zvena Aleksandarem Cankovem. \n£faction_bul_nsm §YNational Social Movement§! se bude snažit získat popularitu mezi masami organizováním demonstrací a protestů po celé zemi." # todo: CHANGED
  BUL_POPULARITY_TOOLTIP: "§YPopularita§! představuje podporu, kterou frakce získává v určitých sektorech společnosti (ať už jde o armádu, proletariát, rolníky či krajní pravici). \nČím vyšší §YPopularita§!, tím větší je pravděpodobnost, že frakce bude vládu konfrontovat. \nNež bude možné frakci zničit, je nutné provést kroky k jejímu oslabení a snížit její §YPopularitu§! na 0."
- BUL_ZVENO_TOOLTIP: "£faction_bul_zveno §YZveno§! je nacionalistická organizace založená armádními důstojníky a v současnosti vedená Kimonem Georgievem. \n£faction_bul_zveno §YZveno§! bude lákat důstojníky armády, aby se přidali do jejich organizace, a časem se může pokusit o puč a nastolení vojenské diktatury."
+ BUL_ZVENO_TOOLTIP: "£faction_bul_zveno §YZveno§! je nacionalistická organizace založená armádními důstojníky a v současnosti vedená Kimonem Georgievem. \n£faction_bul_zveno §YZveno§! bude oslovovat armádní důstojníky, aby se k nim připojili, a časem může dokonce pokusit se o puč a nastolit vojenskou diktaturu." # todo: CHANGED
  BUL_a_royal_visit: "[GetDestinationName] cílem královské návštěvy"
  BUL_a_royal_visit_desc: "Aby zvýšil svou popularitu mezi obyvatelstvem, car Boris navštíví [GetDestinationName]. Během své procházky se bude setkávat s lidmi, zatímco my zajistíme, že bude pořízeno dostatek fotografií, které rozošleme do tisku."
  BUL_aircraft_agreements: "Dohoda o letecké spolupráci - [FROM.GetNameDef]"
@@ -204,7 +204,7 @@
  BUL_ff_approaching_bs_mission_desc: "§YVlastenecká fronta§! vyzývá frakci [GetBsName], aby se připojili k jejich převratu."
  BUL_ff_approaching_bzns_mission: "§YVlastenecká fronta§! oslovuje frakci [GetBznsName]"
  BUL_ff_approaching_bzns_mission_desc: "§YVlastenecká fronta§! vyzývá frakci [GetBznsName], aby se připojili k jejich převratu."
- BUL_ff_approaching_faction_cw_effects_tt: "Pokud se tato frakce připojí k Vlastenecké frontě, povstání zesílí."
+ BUL_ff_approaching_faction_cw_effects_tt: "Pokud se tato frakce připojí k Frontě vlasti, povstání se posílí." # todo: CHANGED
  BUL_ff_approaching_faction_timer_effects_tt: "Frakce se připojí k Vlastenecké frontě a zkrátí čas mise §YHrozící převrat Vlastenecké fronty§! podle §Ypopularity frakce§!. §YLoajalita frakce§! vůči vládě účinek mírně sníží."
  BUL_ff_approaching_zveno_mission: "§YVlastenecká fronta§! oslovuje frakci [GetZvenoName]"
  BUL_ff_approaching_zveno_mission_desc: "§YVlastenecká fronta§! vyzývá frakci [GetZvenoName], aby se připojili k jejich převratu."
@@ -529,7 +529,7 @@
  BUL_zveno_tt: "[GetZvenoName]: "
  GRE_1936_arrest_the_king_tt: "Král bude zatčen a volby vyhrají §Yvenizelisté§!.\n"
  GRE_1936_election_category: "Volby roku 1936"
- GRE_1936_election_category_desc: "První volby od návratu Jiřího II. na trůn se mají konat ještě před koncem měsíce. Jiří II. je odhodlán nenechat se znovu sesadit a údajně je připraven udělat cokoliv, aby si svou vládu pojistil. \n\nČást naší armády však stále tajně sympatizuje s populárním exulantem Eleftheriem Venizelosem a možná by dokázala zajistit v Řecku svobodné a spravedlivé volby i za cenu poněkud... razantních metod."
+ GRE_1936_election_category_desc: "První volby od návratu Jiřího II. na trůn se mají konat před koncem měsíce. Jiří II. je rozhodnut, že nebude znovu vyhnán ze svého trůnu, a říká se, že je připraven udělat cokoli, co bude třeba, aby zajistil svou vládu. \n\nNicméně části naší armády stále drží skryté věrnosti vůči populárnímu vyhnanci Eleftheriosu Venizelosovi a mohly by zajistit svobodné a spravedlivé volby pro Řecko za pomoci některých docela... tvrdých taktik." # todo: CHANGED
  GRE_1936_election_tt: "Pokud nebude král §YJiří II.§! zatčen, zasáhne do lednových voleb a zajistí svým monarchistickým příznivcům pokračování mandátu.\n"
  GRE_ATTITUDE_TOOLTIP: "§YPostoj§! představuje ochotu frakce spolupracovat s vládou. \n§GPřátelské§! a §Gloajální§! frakce poskytují bonusy ke stabilitě a personálu. \n§RNepřátelské§! frakce snižují stabilitu.\nLhostejné a §Gnevýznamné§! frakce nepřinášejí žádné bonusy ani postihy."
  GRE_MANPOWER_TOOLTIP: "Bonus k personálu"
@@ -552,7 +552,7 @@
  GRE_befriend_monarchists: "Sblížit se s £faction_gre_monarchist monarchisty"
  GRE_befriend_republicans: "Sblížit se s £faction_gre_venezelist republikány"
  GRE_bribe_french_trade_unions_to_pressure_government_into_investment: "Uplatit [FROM.GetAdjective] odbory k nátlaku na vládu"
- GRE_bribe_french_trade_unions_to_pressure_government_into_investment_desc: "[FROM.GetNameDef] je už dlouho svázáná svými odbory, takže tím, že jim pomůžeme podněcovat nestabilitu, si vylepšíme vyjednávací pozici vydíráním."
+ GRE_bribe_french_trade_unions_to_pressure_government_into_investment_desc: "[FROM.GetNameDef] byl již dlouho zotročen svými odborovými svazy, takže tím, že odborům pomůžeme podněcovat nestabilitu, zlepšíme naši vyjednávací pozici pomocí vydírání." # todo: CHANGED
  GRE_britain_rebuffed: "§YBritská§! investice odmítnuta"
  GRE_build_the_salamis: "Znovu vybudovat Salamis"
  GRE_build_the_salamis_desc: "S německou pomocí je možné znovu postavit náš starý bitevní křižník Salamis, který jsme neprozíravo sešrotovali v roce 1932. Naštěstí stále máme zbytky starého trupu, takže nezačneme úplně od nuly."
@@ -598,7 +598,7 @@
  GRE_defaulted_on_debt_flag: "§YZastavili§! jsme plnění svých finančních závazků."
  GRE_defaulting_on_our_debt: "Nezákonně přestat splácet náš dluh"
  GRE_exploit_errata_in_schachtplan: "Využít chyby v Schachtově plánu"
- GRE_exploit_errata_in_schachtplan_desc: "Schachtův plán je jen další zločinné [FROM.GetAdjective] schéma, jak vykořisťovat chudší evropské země; mělo by být jednoduché vymyslet scénář, v němž bude [FROM.GetNameDef] mít jednou povinnost nám pomoct - a to bez postranních podmínek."
+ GRE_exploit_errata_in_schachtplan_desc: "Schachtplan je jen další zločinecký plán [FROM.GetAdjective], jak vydrancovat chudší evropské země; mělo by být snadné vymyslet scénář, v němž budou [FROM.GetAdjective] nuceni nám tentokrát pomoci bez podmínek." # todo: CHANGED
  GRE_faction_friendly: "§GPřátelskí§!"
  GRE_faction_friendly_effects: "\n§YÚčinky:§! §GStabilita: +5% \nFaktor rekrutovatelné populace: +15%§!"
  GRE_faction_friendly_manpower: "§G+15%§!"
@@ -701,7 +701,7 @@
  GRE_soviets_rebuffed: "§YSovětská§! investice odmítnuta"
  GRE_temper_italian_colonial_ambitions_in_greece: "Krotit [FROM.GetAdjective] koloniální ambice v [ROOT.GetNameDef]"
  GRE_the_election_of_1936: "Parlamentní volby v Řecku 1936"
- GRE_the_election_of_1936_desc: "První volby od návratu Jiřího II. na trůn se mají konat ještě před koncem měsíce. Jiří II. je odhodlán nenechat se znovu sesadit a údajně je připraven na cokoliv, aby si svou vládu pojistil."
+ GRE_the_election_of_1936_desc: "První volby od návratu Jiřího II. na trůn se mají konat před koncem měsíce. Jiří II. je rozhodnut, že nebude znovu vyhnán ze svého trůnu, a říká se, že je připraven udělat cokoli, co bude třeba, aby zajistil svou vládu." # todo: CHANGED
  GRE_trade_manufactured_ship_parts_for_investment: "Vyměnit lodní díly za investice"
  GRE_trade_manufactured_ship_parts_for_investment_desc: "Pomůžeme-li Britům udržovat jejich Royal Navy, můžeme si zajistit mnohem štědřejší investici, než bychom získali za normálních okolností."
  GRE_ui_attitude_header: "Postoj"
@@ -712,7 +712,7 @@
  ROOT_invest_in_turkish_state_heavy_industry_desc: "[FROM.GetAdjectiveCap] těžký průmysl je v mnoha regionech země nedostatečně rozvinutý; to je něco, co můžeme napravit."
  ROOT_invest_in_turkish_state_light_industry: "Investovat do [FROM.GetAdjective] lehkého průmyslu"
  ROOT_invest_in_turkish_state_light_industry_desc: "[FROM.GetAdjectiveCap] lehký průmysl je v mnoha regionech země nedostatečně rozvinutý; to je něco, co můžeme napravit."
- ROOT_turkish_investment_ai_tt: "Čím lepší naše §Yinvestice§! do §Y[TUR.GetNameDef]§!, tím těsněji je připoutáme k našim zájmům a současně je odcizíme našim nepřátelům.\n"
+ ROOT_turkish_investment_ai_tt: "Čím lepší naše §Yinvestice§! do §Y[TUR.GetNameDef]§!, tím silněji je můžeme připoutat k našim zájmům a zároveň je odcizit našim nepřátelům.\n" # todo: CHANGED
  SOV_set_up_puppet_state_in_turkey: "Zřídit nový loutkový stát v Turecku"
  TUR_abolish_etatism: "Zrušit etatismus"
  TUR_abolish_etatism_desc: "Etatismus byl slavný výdobytek kemalistického systému a plodný experiment, ale bohužel jde o experiment, který možná bude nutné pro vyšší dobro trvale ukončit."
@@ -726,7 +726,7 @@
  TUR_acted_against_kurd_rebels_recently_flag: "Nedávno zacíleno na Kurdy"
  TUR_agitate_kurdish_state_effect_tt: "£faction_tur_kurdish §YKurdští povstalci§! zesílí odpor proti vládě ve státě §Y[TUR_kurdish_state_event_target.GetName]§!."
  TUR_alter_the_royal_laws_of_succession: "Upravit královská pravidla nástupnictví"
- TUR_alter_the_royal_laws_of_succession_desc: "Nový sultanát je skvělou příležitostí k reformě zastaralých nástupnických zákonů. Zavedeme agnaticko-kognatickou primogenituru, aby dědit mohli jen přímí potomci sultána."
+ TUR_alter_the_royal_laws_of_succession_desc: "Nové sultanát poskytuje skvělou příležitost reformovat naše zastaralé zákony o následnictví. Zavedeme politiku agnaticko-kognátní primogenitury, takže dědit budou moci pouze přímí potomci sultána." # todo: CHANGED
  TUR_appoint_nihal_atziz_as_president: "Jmenovat Nihala Atsıze prezidentem"
  TUR_appoint_nihal_atziz_as_president_desc: "Nihal Atsız sehrál klíčovou roli při naplňování našich turanistických snů. S podporou lidu by bylo moudré mu udělit vyšší pozici."
  TUR_ataturk_health_poor: "§YŠpatný§!"
@@ -756,7 +756,7 @@
  TUR_decision_cost_kurd_rebels: "£command_power  §Y15§!"
  TUR_decision_cost_kurd_rebels_blocked: "£command_power  §R15§!"
  TUR_discuss_investment_possibilities_with_FROM: "Projednat investiční možnosti - [FROM.GetNameDef]"
- TUR_discuss_investment_possibilities_with_FROM_desc: "V minulosti se [ROOT.GetAdjective] politika vyhýbala zahraničním investicím a zásahům, kde to šlo - dnes už se však prostých transakcí, jako jsou investice, nemusíme obávat. Přijdou k nám jako rovní s rovnými a my z toho můžeme odejít bohatší."
+ TUR_discuss_investment_possibilities_with_FROM_desc: "V minulosti byla [ROOT.GetAdjective] politikou snaha vyhýbat se zahraničním investicím a zásahům, kde to šlo - ale už se příliš nemusíme obávat jednoduchých transakcí, jako jsou investice. Přistoupí k nám jako k rovným a my z toho můžeme odejít bohatší." # todo: CHANGED
  TUR_embed_kemalist_propagandists_into_state: "£faction_tur_kemalist Nasadit do státu kemalistické propagandisty"
  TUR_embed_kemalist_propagandists_into_state_desc: "Musíme tvrdě pracovat na tom, aby se ideologie kemalismu zakořenila v srdcích co nejvíce lidí, má-li přežít do budoucna."
  TUR_empower_fundamentalists_in_state: "£faction_tur_traditionalist Posílit fundamentalisty ve státě"
@@ -766,13 +766,13 @@
  TUR_entrench_kemalism_in_state_desc: "Musíme tvrdě pracovat na tom, aby se ideologie kemalismu zakořenila v srdcích co nejvíce lidí, má-li přežít do budoucna."
  TUR_etatism_abolished: "§YEtatismus§! byl zrušen."
  TUR_etatism_crisis_1: "Rostoucí inflace"
- TUR_etatism_crisis_1_desc: "Pokus současně udržovat etatistický model ekonomiky a přebírat válečné hospodářství se ukazuje jako problém."
+ TUR_etatism_crisis_1_desc: "Snažit se současně udržet náš etatistický model ekonomiky a zároveň zavádět válečnou ekonomiku se ukazuje jako problematické." # todo: CHANGED
  TUR_etatism_crisis_2: "Znehodnocení turecké liry"
- TUR_etatism_crisis_2_desc: "Pokus současně udržovat etatistický model ekonomiky a přebírat válečné hospodářství se ukazuje jako problém."
+ TUR_etatism_crisis_2_desc: "Snažit se současně udržet náš etatistický model ekonomiky a zároveň zavádět válečnou ekonomiku se ukazuje jako problematické." # todo: CHANGED
  TUR_etatism_crisis_3: "Prohlubující se recese"
- TUR_etatism_crisis_3_desc: "Pokus současně udržovat etatistický model ekonomiky a přebírat válečné hospodářství se ukazuje jako problém."
+ TUR_etatism_crisis_3_desc: "Snažit se současně udržet náš etatistický model ekonomiky a zároveň zavádět válečnou ekonomiku se ukazuje jako problematické." # todo: CHANGED
  TUR_etatism_crisis_4: "Hrozící deprese"
- TUR_etatism_crisis_4_desc: "Pokus současně udržovat etatistický model ekonomiky a přebírat válečné hospodářství se ukazuje jako problém. Nezasáhneme-li skutečnými kroky, můžeme zničit celou ekonomiku."
+ TUR_etatism_crisis_4_desc: "Snažit se současně udržet náš etatistický model ekonomiky a zároveň zavádět válečnou ekonomiku se ukazuje jako problematické. Pokud v této otázce nepodnikneme skutečná opatření, můžeme zničit celé naše hospodářství." # todo: CHANGED
  TUR_etatism_decision: "Etatismus"
  TUR_etatism_decision_desc: "Výhoda řízené ekonomiky spočívá v tom, že exekutiva si může skrze fiskální nástroje udržet značný vliv na její směřování. Bylo by v národním zájmu tyto mechanismy nyní použít."
  TUR_fidelity_decision: "Věrnost"
@@ -799,7 +799,7 @@
  TUR_integrate_hakkari_desc: "$TUR_integrate_kurdish_state_desc$"
  TUR_integrate_kurdish_state: "£faction_tur_kurdish Integrovat kurdský stát"
  TUR_integrate_kurdish_state_desc: "Spoluprací s místními vůdci můžeme zajistit, aby byly kurdské státy naší země řádně znovuzačleněny do národního rámce našeho národního státu."
- TUR_integrate_kurdish_state_effect_tt: "£faction_tur_kurdish §YKurdský§! stát ztratí své stavové modifikátory a stane se domovským územím §Y[TUR.GetNameDef]§!."
+ TUR_integrate_kurdish_state_effect_tt: "£faction_tur_kurdish §YKurdish§! stát ztratí své modifikátory státu a stane se domovským územím §Y[TUR.GetNameDef]§!." # todo: CHANGED
  TUR_integrate_tunceli: "£faction_tur_kurdish Integrovat Erzurum"
  TUR_integrate_tunceli_desc: "$TUR_integrate_kurdish_state_desc$"
  TUR_integrate_van: "£faction_tur_kurdish Integrovat Van"
@@ -812,7 +812,7 @@
  TUR_is_fundamentalist_state_tt: "Je považován za £faction_tur_traditionalist §Ytradicionalistický stát§!"
  TUR_is_kemalist_state_tt: "Je považován za £faction_tur_kemalist §Ykemalistický stát§!"
  TUR_jihad_decision: "Džihád"
- TUR_jihad_decision_desc: "Olovem a mečem vykonáme vůli Všemohoucího a ztrestáme zbloudilé duše, které se odchýlily z Jeho cesty."
+ TUR_jihad_decision_desc: "Mečem i olovem vykonáme vůli Všemohoucího a zasáhneme zbloudilé duše, které se odchýlily z Jeho cesty." # todo: CHANGED
  TUR_karabuk_iron_steel_factory_modernised_flag: "§YŽelezárny a ocelárny Karabük§! byly modernizovány skrze §YSanayiciler§!."
  TUR_kemalist_infiltration_mission: "£faction_tur_kemalist Krize kemalistické infiltrace"
  TUR_kemalist_infiltration_mission_desc: "Kemalisté, neuspokojení tím, že je veřejnost sesadila, stále tropí své staré kousky. Usilují o monopol moci na západě; to se musí zastavit."
@@ -829,7 +829,7 @@
  TUR_kurdish_state_management_category_desc: "Kurdská otázka nás pronásleduje ještě z dob před vznikem republiky a od té doby se jen zhoršila. Bujející nacionalismus a marné pokusy o budování státu ohrožují odkaz války za nezávislost a nemůžeme tolerovat scénář, v němž by svobodný Kurdistán vznikl z torza naší vlastní země."
  TUR_kurdish_state_management_map_category_name: "Toto jsou státy, v nichž působí kurdští povstalci."
  TUR_liberalism_decision: "Liberalismus"
- TUR_liberalism_decision_desc: "Svoboda rozhodovat o vlastní budoucnosti je základním kamenem našich snů o budoucnosti této země. Svobodný obchod, svobodné volby, svoboda vyznání, rovnost příležitostí - o to musíme neustále usilovat."
+ TUR_liberalism_decision_desc: "Svoboda rozhodovat o své budoucnosti je základem našich představ o budoucnosti této země. Volný obchod, svobodné volby, svoboda náboženství, rovné příležitosti - to jsou cíle, po kterých musíme neustále usilovat." # todo: CHANGED
  TUR_modernise_the_general_directorate_of_military_factories: "Modernizovat Generální ředitelství vojenských továren"
  TUR_modernise_the_general_directorate_of_military_factories_desc: "Je povinností vlády posuzovat potenciální průmyslové projekty případ od případu."
  TUR_modernize_our_tactics: "Modernizovat naše taktiky"
@@ -985,7 +985,7 @@
  kurdish_rebellion: "£faction_tur_kurdish Kurdské povstání"
  kurdish_separatism: "£faction_tur_kurdish Kurdský separatismus"
  move_capital_to_thessaloniki: "Přesunout hlavní město do Soluně"
- move_capital_to_thessaloniki_desc: "Atény byly hlavním městem První helénské civilizace, Konstantinopol Druhé helénské civilizace, ale Soluň - věčné „spoluhlavní“ město řeckých dějin - bude novým hlavním městem Třetí helénské civilizace."
+ move_capital_to_thessaloniki_desc: "Atény byly hlavním městem První řecké civilizace, Konstantinopol hlavním městem Druhé řecké civilizace, ale Soluň - věčné 'spoluhlavní město' řecké historie - bude novým hlavním městem Třetí řecké civilizace." # todo: CHANGED
  ott_absorb_the_tunis_and_algerian_eyalets: "Pohltit tuniský a alžírský ejálet"
  ott_enlarge_the_vilayet_of_bosnia: "Rozšířit bosenský vilájet"
  ott_extend_the_lasha_eyalet: "Rozšířit ejálet Lasha"

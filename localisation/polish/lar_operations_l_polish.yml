@@ -41,12 +41,12 @@
  bruneval_exfiltration: "Evakuace pomocí vyloďovacích člunů"
  bruneval_exfiltration_desc: "Flotila vyloďovacích člunů, převážející jednotky na krytí evakuace, přistane a vyzvedne útočnou jednotku. Doprovod zajistí přátelské námořní síly."
  bruneval_exfiltration_outcome: "Útočná jednotka nastoupila na vyloďovací čluny k přepravě zpět na naše linie a s sebou vzala i nepřátelského radarového technika k výslechu."
- bruneval_exfiltration_outcome_fail: "Po evakuaci do Británie se zjistilo, že náš agent nebyl mezi těmi, kdo byli vyzvednuti z pláže. Není jasné, kdy přesně byl ztracen kontakt, ale musíme předpokládat nejhorší."
+ bruneval_exfiltration_outcome_fail: "Po evakuaci do Británie se zjistilo, že náš agent nebyl mezi těmi, kteří byli z pláže zachráněni. Není jasné, kdy přesně byl ztracen kontakt, ale musíme předpokládat to nejhorší." # todo: CHANGED
  bruneval_infiltration: "Výsadek útočné jednotky"
  bruneval_infiltration_desc: "Bude sestavena rota výsadkářů, která bude v noci shozená z malé výšky poblíž cíle."
- bruneval_infiltration_outcome: "Útočná jednotka přistála úspěšně s minimálním rozptylem při výsadku."
+ bruneval_infiltration_outcome: "Útočná jednotka úspěšně přistála, s minimálním rozptýlením při seskoku." # todo: CHANGED
  bruneval_raid: "Operace Biting"
- bruneval_raid_desc: "§LZdá se, že nepřítel je před námi ve vývoji radaru. Identifikovali jsme nepřátelské radarové zařízení na zranitelném místě, o němž věříme, že by mohlo být dobyto dostatečně odhodlaným útokem malé jednotky, abychom získali více zpravodajských informací.§!"
+ bruneval_raid_desc: "§LZdá se, že nepřítel je v vývoji radaru před námi. Identifikovali jsme nepřátelskou radarovou stanici na zranitelném místě, o které věříme, že by ji dostatečně odhodlaný útok malé jednotky mohl obsadit a získat tak více zpravodajských informací.§!" # todo: CHANGED
  bruneval_raid_outcome_tt: "Pokusíme se zajistit součástky nepřátelské radarové technologie, abychom podpořili náš vlastní výzkum."
  capture_cyphers_bribe: "Uplatit vojáka"
  capture_cyphers_bribe_desc: "Máme člověka uvnitř a poskytneme mu prostředky, aby ukradl knihu s kódy a předal ji našemu agentovi."
@@ -61,7 +61,7 @@
  capture_cyphers_seduction_desc: "Náš operativec naváže kontakt s osobou, která má přístup k šifrám, a využije svůj šarm - nebo jiné prostředky - aby získal kopii."
  capture_cyphers_seduction_outcome: "Náš operativec dokázal přesvědčit osobu, která měla šifry k dispozici, aby je předala."
  capture_cyphers_smuggle: "Propašovat šifry"
- capture_cyphers_smuggle_desc: "Jeden z našich dvojitých agentů požádá o novou kopii aktuálně používaného šifrovacího klíče, která mu má být doručena. Probíhá koordinace s dalšími službami, aby nedošlo k přerušení předávky."
+ capture_cyphers_smuggle_desc: "Jeden z našich dvojitých agentů požádá o převod nové kopie aktuálně používané šifry. Probíhá koordinace s ostatními službami, aby se zajistilo, že předání nebude přerušeno." # todo: CHANGED
  capture_cyphers_smuggle_outcome: "Náš operativec přesvědčil svůj [From.GetAdjective] kontakt, aby mu zaslal kompletní kopii používaných šifer."
  capture_tito: "Unternehmen Rösselsprung"
  capture_tito_attack: "Hlavní útok"
@@ -92,7 +92,7 @@
  coordinated_strike_occupy_bridges_desc: "Náš tým obsadí mosty v oblasti, čímž zabrání jejich zničení a zablokuje nepřátelské protiútoky."
  coordinated_strike_occupy_bridges_outcome: "Tým úspěšně přemohl stráže u klíčového mostu a přerušil kabely k náložím, takže naše síly mohly nerušeně postupovat."
  coordinated_strike_sabotage_communications: "Sabotovat komunikace"
- coordinated_strike_sabotage_communications_desc: "Náš tým přestřihne telefonní linky a přepadne posly, aby narušil nepřátelskou komunikaci v rozhodujících prvních hodinách."
+ coordinated_strike_sabotage_communications_desc: "Náš tým přetne telefonní linky a připraví přepady na kurýry, aby narušil nepřátelské komunikace v rozhodujících prvních hodinách." # todo: CHANGED
  coordinated_strike_sabotage_communications_outcome: "Náš tým úspěšně narušil nepřátelské komunikace, což zpomalilo jejich reakci na náš útok."
  coordinated_strike_scout_target: "Průzkum cílů"
  coordinated_strike_scout_target_desc: "Tým provede průzkum cílů, pořídí fotografie a poskytne nejaktuálnější informace o umístění vysoce hodnotných cílů."
@@ -131,7 +131,7 @@
  fake_intel_radio_deception_desc: "Zřídíme malou jednotku rádiových specialistů, kteří se budou vydávat za spojovací oddíl mnohem větší formace. Budou používat i starší verzi našich šifer, aby nepříteli usnadnili čtení zpráv."
  fake_intel_radio_deception_outcome: "Naši operátoři vytvořili velké množství rádiového provozu. Zda jej nepřítel skutečně monitoroval, je těžké říct."
  fake_intel_release_pow: "Propustit zajatce"
- fake_intel_release_pow_desc: "Zajatý nepřátelský důstojník má být z humanitárních důvodů repatriován domů. Než odejde, zajistíme, aby „náhodou“ zahlédl řadu věcí."
+ fake_intel_release_pow_desc: "Zajatý nepřátelský důstojník má být ze humanitárních důvodů repatriován domů. Než odcestuje, zajistíme, aby náhodou spatřil několik věcí." # todo: CHANGED
  fake_intel_release_pow_outcome: "Důstojník byl svezen kolem několika vojenských táborů a mohl si všimnout různých označení divizí, které ve skutečnosti neexistují."
  fake_intel_utilize_double_agents: "Využít dvojité agenty"
  fake_intel_utilize_double_agents_desc: "Získali jsme na svou stranu několik nižších informátorů nepřátelské rozvědky. Budou povzbuzováni, aby druhé straně dodávali „správné“ informace."
@@ -144,7 +144,7 @@
  free_operative_liberate_camp_desc: "Během výslechů je náš operativec držen v táboře s dalšími důležitými zajatci. Provedeme útok na tábor s malou jednotkou, přemůžeme stráže a našeho agenta osvobodíme."
  free_operative_liberate_camp_outcome: "Pár hodin před plánovaným přesunem vězňů se malému komandu podařilo přepadnout věznici, kde byl náš agent držen."
  free_operative_smuggle_in_escape_gear: "Propašovat vybavení k útěku"
- free_operative_smuggle_in_escape_gear_desc: "Naši vědci vyvinuli sadu nástrojů k útěku. Místní kontakt souhlasil s jejich doručením. Náš operativec pak vybavení využije a dostane se na místo srazu k odvozu."
+ free_operative_smuggle_in_escape_gear_desc: "Naši vědci vyvinuli sadu nástrojů pro únik. Máme místní kontakt, který souhlasil, že balíček převezme. Náš operativec poté použije dodané nástroje a vydá se na sraz pro exfiltraci." # todo: CHANGED
  free_operative_smuggle_in_escape_gear_outcome: "Náš agent obdržel nástroje k útěku a úspěšně se dostal z vězení pod rouškou noci. Několik dní unikal hlídkám a pátracím jednotkám, než se mu podařilo navázat kontakt."
  heavy_water_attack: "Sabotovat továrnu na těžkou vodu"
  heavy_water_attack_desc: "Ostraha v továrně je podle zpráv slabá. Máme člena odboje uvnitř, který nám poskytl rozpisy hlídek. Jakmile se tým dostane dovnitř, nastraží výbušniny a zanechá důkazy, že šlo o regulérní vojenskou operaci."
@@ -159,7 +159,7 @@
  heavy_water_raid: "Operace Gunnerside"
  heavy_water_raid_desc: "§LNěmci začali v továrně v Norsku vyrábět těžkou vodu, pravděpodobně v souvislosti s programem vývoje atomové bomby. I kdyby vyrobené množství nestačilo k sestrojení zbraně, nepochybně by jim výrazně pomohlo ve výzkumu.§!"
  heavy_water_raid_outcome_tt: "Pokusíme se zničit německou továrnu na těžkou vodu a zabránit průlomu v jejich jaderném výzkumu."
- infiltrate_civil_service_outcome: "Umístili jsme několik spolehlivých lidí do mocenských pozic, takže mohou rychle převzít správu osvobozených území."
+ infiltrate_civil_service_outcome: "Umístili jsme řadu spolehlivých lidí na mocenské pozice, což jim umožní rychle převzít správu osvobozených území." # todo: CHANGED
  infiltrate_military_bribe: "Nabídnout úplatek"
  infiltrate_military_bribe_desc: "Náš operativec vytipuje osobu ve finančních potížích a nabídne jí značnou částku za spolupráci. Prostředky budou uvolněny ze státní pokladny."
  infiltrate_military_bribe_outcome: "Náš operativec úspěšně přesvědčil vojáka v aktivní službě, aby pro nás pracoval výměnou za velkou finanční odměnu."
@@ -250,7 +250,7 @@
  operation_steal_tech_civilian: "Ukrást průmyslové plány"
  operation_steal_tech_civilian_desc: "§LZdá se, že naše průmyslová základna zaostává za [From.GetNameDef] v několika oblastech. S trochou mazanosti a lstí bychom mohli tento rozdíl výrazně snížit.§!"
  operation_steal_tech_navy: "Ukrást námořní plány"
- operation_steal_tech_navy_desc: "§LJsou zprávy, že [From.GetNameDef] je před námi v některých oblastech lodního inženýrství. Možná bychom byli schopni část této technologie získat a využít k reverznímu inženýrství.§!"
+ operation_steal_tech_navy_desc: "§LObjevily se zprávy, že [From.GetAdjective] se v některých oblastech námořního inženýrství zdají být před námi. Můžeme být v pozici získat některé z těchto technologií k reverznímu inženýrství.§!" # todo: CHANGED
  operation_targeted_sabotage_industry: "Sabotáž průmyslu"
  operation_targeted_sabotage_industry_desc: "§LOdboj na nepřátelském území žádá podporu při vyřazení místního průmyslového závodu.§!"
  operation_targeted_sabotage_infrastructure: "Sabotáž infrastruktury"
@@ -327,14 +327,14 @@
  targeted_sabotage_destroy_mining_equipment_outcome: "Tým úspěšně sabotoval většinu těžebního vybavení. Přestože část škod může být povrchní, vznikly vážné překážky v těžebním procesu."
  targeted_sabotage_immobilize_rolling_stock: "Vyřadit kolejová vozidla"
  targeted_sabotage_immobilize_rolling_stock_desc: "Pár hrstí písku v mazacích místech železničního vozu jej nakonec zastaví a zablokuje trať, dokud nebude opraven. I malý počet vyřazených vozů může zkolabovat celý systém."
- targeted_sabotage_immobilize_rolling_stock_outcome: "Tým infiltroval železniční depo a úspěšně sabotoval několik vozů. Problémy se projeví až po několika kilometrech jízdy, čímž vozy zůstanou stát přímo na trati."
+ targeted_sabotage_immobilize_rolling_stock_outcome: "Tým infiltroval železniční depo a úspěšně sabotovalo několik vozidel. Účinky by se měly projevit až poté, co vozidlo ujede pár kilometrů, čímž uvízne na otevřené trati." # todo: CHANGED
  targeted_sabotage_industry_2_tt: "Místní odboj ve státě [From.From.GetName] zaměří více úsilí na sabotáž továren."
  targeted_sabotage_industry_3_tt: "Místní odboj ve státě [From.From.GetName] provede velké úsilí o sabotáž továren."
  targeted_sabotage_infrastructure_2_tt: "Místní odboj ve státě [From.From.GetName] zaměří více úsilí na sabotáž infrastruktury."
  targeted_sabotage_infrastructure_3_tt: "Místní odboj ve státě [From.From.GetName] provede velké úsilí o sabotáž infrastruktury."
  targeted_sabotage_organize_more_meetings: "Organizovat více schůzí"
  targeted_sabotage_organize_more_meetings_desc: "Rozhovory s dělníky ukázaly, že pořádání dlouhých schůzí o malicherných věcech výrazně zpomaluje výrobu a pro naše agenty je to prakticky bez nákladů."
- targeted_sabotage_organize_more_meetings_outcome: "Náš operativec úspěšně pronikl do středního managementu cílové společnosti a agresivně „restrukturalizoval“ procesy. Produktivita výrazně klesla."
+ targeted_sabotage_organize_more_meetings_outcome: "Náš agent úspěšně infiltroval střední vedení cílové společnosti a agresivně restrukturalizoval procesy, aby našel větší synergie a podpořil zapojení klíčových zainteresovaných stran. Produktivita výrazně poklesla." # todo: CHANGED
  targeted_sabotage_plant_explosives: "Nastražit výbušniny"
  targeted_sabotage_plant_explosives_desc: "Ve spolupráci s místními odbojáři naši agenti v noci infiltrovali továrnu, umístili nálože k nosným konstrukcím a zřítili celou halu na výrobní zařízení."
  targeted_sabotage_plant_explosives_outcome: "Tým úspěšně odpálil nálože a budovu zničil. Přestože výrobní stroje utrpěly jen lehčí škody, obnova bude trvat dlouho."

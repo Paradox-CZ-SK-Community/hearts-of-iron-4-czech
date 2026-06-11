@@ -136,7 +136,7 @@
  GER_aid_rom_democratic_civil_war: "Zasáhnout do rumunské občanské války"
  GER_austro_hungarian_empire: "Rakousko-Uhersko"
  GER_barbarossa_mission: "Führerova směrnice 21"
- GER_barbarossa_mission_desc: "„Německé ozbrojené síly musí být připraveny rozdrtit sovětské Rusko v rychlé kampani. Většina ruské armády bude zničena odvážnými operacemi vedenými tankovými hroty.“"
+ GER_barbarossa_mission_desc: "Německé ozbrojené síly se musí připravit na rychlou kampaň, která rozdrtí Sovětské Rusko. Hlavní část ruské armády bude zničena odvážnými operacemi vedenými obrněnými údery." # todo: CHANGED
  GER_can_delay_mefo_payment: "Může odložit platbu MEFO směnek."
  GER_cancel_mefos: "Zrušit MEFO směnky"
  GER_cancel_mefos_desc: "Příliš dlouho jsme spoléhali na Reichsbank při obnově našeho zbrojního průmyslu. Je čas dostát našim závazkům vůči výrobcům zbraní a ukončit tuto frašku se „MEFO směnkami“."
@@ -209,7 +209,7 @@
  JAP_border_conflict_back_out_of_conflict: "Ustoupit"
  JAP_border_conflict_back_out_of_conflict_desc: "Nebezpečí, že se tento konflikt vymkne kontrole a přeroste v plnohodnotnou válku mezi našimi zeměmi, je příliš velké. Měli bychom nyní minimalizovat naše ztráty a vyslat druhé straně diplomatické signály."
  JAP_border_conflict_escalate_conflict: "Eskalovat konflikt"
- JAP_border_conflict_escalate_conflict_desc: "Střety na [FROM.GetAdjective] hranici ustrnuly. Možná, že pokud je ještě vyhrotíme a nasadíme více vojáků, dokážeme zvítězit."
+ JAP_border_conflict_escalate_conflict_desc: "Konflikt na hranicích s [FROM.GetNameDef] uvízl. Možná, že jeho další eskalací a nasazením většího počtu jednotek do válčiště stále můžeme dosáhnout vítězství." # todo: CHANGED
  JAP_border_conflict_escalate_to_war: "Vyhlásit válku"
  JAP_border_conflict_escalate_to_war_desc: "Boj v sporném regionu trvá už nějakou dobu a nic nenasvědčuje tomu, že by měl skončit. Musíme být připraveni učinit další krok a chápat tento konflikt jako první fázi všeobecné války."
  JAP_border_conflict_escalation_warning_SOV: "Japonské přípravy"
@@ -267,9 +267,9 @@
  JAP_steel_for_guns: "Upřednostnit ocel pro zbraně"
  JAP_steel_for_ships: "Upřednostnit ocel pro lodě"
  JAP_sue_for_peace_CHI: "Nabídnout podmínky kapitulace pro [From.GetNameDef]"
- JAP_sue_for_peace_CHI_desc: "Ztratili jsme kontrolu nad pevninou. Armáda se domnívá, že je nepravděpodobné, že bychom dokázali znovu získat ztracená území. Civilní vláda navrhuje, abychom usilovali alespoň o udržení naší svrchovanosti nad ostrovy."
+ JAP_sue_for_peace_CHI_desc: "Ztratili jsme kontrolu nad pevninou. Vojenské vedení se domnívá, že je nepravděpodobné, že dokážeme znovu získat ztracená území. Civilní vláda navrhuje, abychom vyjednali podmínky tak, abychom si alespoň udrželi suverenitu nad ostrovy." # todo: CHANGED
  JAP_sue_for_peace_MAN: "Nabídnout podmínky kapitulace pro [From.GetNameDef]"
- JAP_sue_for_peace_MAN_desc: "Ztratili jsme kontrolu nad pevninou. Armáda se domnívá, že je nepravděpodobné, že bychom dokázali znovu získat ztracená území. Civilní vláda navrhuje, abychom usilovali alespoň o udržení naší svrchovanosti nad ostrovy."
+ JAP_sue_for_peace_MAN_desc: "Ztratili jsme kontrolu nad pevninou. Vojenské vedení se domnívá, že je nepravděpodobné, že dokážeme znovu získat ztracená území. Civilní vláda navrhuje, abychom vyjednali podmínky tak, abychom si alespoň udrželi suverenitu nad ostrovy." # todo: CHANGED
  JAP_sue_for_peace_TT: "Žádná pevninská §Yčínská§! ani §Ykorejská§! domovská území nejsou kontrolována §YJaponskem§! nebo jeho podřízenými státy."
  JAP_sue_for_peace_nuke: "Nabídnout bezpodmínečnou kapitulaci"
  JAP_sue_for_peace_nuke_desc: "Nepřítel nasadil novou a nejkrutější bombu. Válka se nevyvíjí nutně v náš prospěch. Musíme vydržet nevydržitelné."
@@ -583,7 +583,7 @@
  emergency_factory_conversion_defensive: "Nouzové převedení továren"
  emergency_factory_conversion_defensive_desc: "Na frontě zoufale chybí vybavení. Musíme urychleně převést více továren na výrobu zbraní a vozidel k obraně naší země."
  emergency_factory_conversion_offensive: "Nouzové převedení továren"
- emergency_factory_conversion_offensive_desc: "Našim jednotkám naléhavě chybí vybavení. Potřebujeme více továren, aby vyráběly vše potřebné k vítězství ve válce."
+ emergency_factory_conversion_offensive_desc: "Naše jednotky naléhavě potřebují více výzbroje. Potřebujeme více továren, které budou vyrábět vybavení potřebné k vítězství ve válce." # todo: CHANGED
  ensure_general_loyalty_for_communist_civil_war: "Zajistit loajalitu nižšího velení armády"
  ensure_general_loyalty_for_communist_civil_war_desc: "Je možné, že někteří generálové skrytě sympatizují s demokracií. Musíme je oslovit a zajistit si jejich loajalitu, až boje začnou."
  ensure_general_loyalty_for_democratic_civil_war: "Zajistit loajalitu nižšího velení armády"

@@ -25,7 +25,7 @@
  CAREER_PROFILE_CAS_LABEL: "Letecká podpora"
  CAREER_PROFILE_CIVILIAN_FACTORIES_BUILT_LABEL: "Vybudované civilní továrny"
  CAREER_PROFILE_CLOUD_STORAGE_NOT_AVAILABLE_POPUP_HEADER: "Cloudové úložiště není k dispozici"
- CAREER_PROFILE_CLOUD_STORAGE_NOT_AVAILABLE_POPUP_MESSAGE: "Vaše data, statistiky a ocenění nebudou nahrána.\n Zkontrolujte svůj Steam Cloud."
+ CAREER_PROFILE_CLOUD_STORAGE_NOT_AVAILABLE_POPUP_MESSAGE: "Vaše data, statistiky a ocenění nebudou nahrána.\n Zkontrolujte Steam Cloud." # todo: CHANGED
  CAREER_PROFILE_COMPARE_DAYS: "$VALUE|Y*$ dní"
  CAREER_PROFILE_COMPARE_DAYS_DIFFERENCE: "$VALUE|=+*$ dní"
  CAREER_PROFILE_COMPARE_HOURS: "$VALUE|Y*$ hodin"
@@ -115,7 +115,7 @@
  CAREER_PROFILE_PRODUCTION_IS_POWER_SILVER: "§H250§! továren"
  CAREER_PROFILE_PUNCH_IT: "Přetlač to!"
  CAREER_PROFILE_PUNCH_IT_DESCRIPTION: "Úspěšně proveďte nálet na Středisko pro jaderný výzkum, přičemž ovládáte alespoň jeden stát sousedící s cílem."
- CAREER_PROFILE_PUNCH_IT_QUOTE: "\"Jestli měl národ přežít, armáda se musela naučit znovu umírat.\"\n\n - Alexander Kerenský o červnové ofenzívě"
+ CAREER_PROFILE_PUNCH_IT_QUOTE: ""Pro záchranu života národa bylo nutné obnovit v armádě vůli zemřít"\n\n - Alexander Kerensky o červnové ofenzívě" # todo: CHANGED
  CAREER_PROFILE_QUALITY_OVER_QUANTITY: "Kvalita nad kvantitou"
  CAREER_PROFILE_QUALITY_OVER_QUANTITY_BRONZE: "Poměr §H1.5:1§!"
  CAREER_PROFILE_QUALITY_OVER_QUANTITY_DESCRIPTION: "Mějte výhodný poměr ztrát poté, co způsobíte nepříteli alespoň 1 milion obětí."
@@ -241,3 +241,33 @@
  CAREER_PROFILE_MASTERY_GAINED_LABEL: "Získané mistrovství doktrín"
  CAREER_PROFILE_NAVAL_HEADQUARTERS_BUILT_LABEL: "Postavená námořní velitelství"
  CAREER_PROFILE_OVERACHIEVER_MEDAL: "Překonal očekávání"
+ CAREER_PROFILE_BOATS_UP_MEDAL: "Vzhůru lodě" # todo: NEW TRANSLATION
+ CAREER_PROFILE_BOATS_UP_MEDAL_DESCRIPTION: "Povýšte kapitána lodi na admirála a dosáhněte následující úrovně dovednosti." # todo: NEW TRANSLATION
+ CAREER_PROFILE_POLISH_MY_HQ_MEDAL: "Vyleštit mé velení" # todo: NEW TRANSLATION
+ CAREER_PROFILE_POLISH_MY_HQ_MEDAL_DESCRIPTION: "Rozmístěte armádní velení, jehož výrobní náklady jsou alespoň" # todo: NEW TRANSLATION
+ CAREER_PROFILE_DIRTY_MATH_MEDAL: "Špinavá matematika" # todo: NEW TRANSLATION
+ CAREER_PROFILE_DIRTY_MATH_MEDAL_DESCRIPTION: "Zajměte nepřátelské velitele, jejichž součet úrovní dovedností je alespoň následující číslo." # todo: NEW TRANSLATION
+ CAREER_PROFILE_BOATS_UP_BRONZE: "2" # todo: NEW TRANSLATION
+ CAREER_PROFILE_BOATS_UP_SILVER: "4" # todo: NEW TRANSLATION
+ CAREER_PROFILE_BOATS_UP_GOLD: "6" # todo: NEW TRANSLATION
+ CAREER_PROFILE_POLISH_MY_HQ_BRONZE: "1000 £GFX_production_cost" # todo: NEW TRANSLATION
+ CAREER_PROFILE_POLISH_MY_HQ_SILVER: "2250 £GFX_production_cost" # todo: NEW TRANSLATION
+ CAREER_PROFILE_POLISH_MY_HQ_GOLD: "4500 £GFX_production_cost" # todo: NEW TRANSLATION
+ CAREER_PROFILE_DIRTY_MATH_BRONZE: "12 úrovní" # todo: NEW TRANSLATION
+ CAREER_PROFILE_DIRTY_MATH_SILVER: "42 úrovní" # todo: NEW TRANSLATION
+ CAREER_PROFILE_DIRTY_MATH_GOLD: "67 úrovní" # todo: NEW TRANSLATION
+ CAREER_PROFILE_IM_HERE_TO_RESCUE_YOU: "Jsem tu, abych tě zachránil!" # todo: NEW TRANSLATION
+ CAREER_PROFILE_IM_HERE_TO_RESCUE_YOU_DESCRIPTION: "Úspěšně pomocí nájezdu zachraňte svého zajatého velitele." # todo: NEW TRANSLATION
+ CAREER_PROFILE_IM_HERE_TO_RESCUE_YOU_QUOTE: ""Omlouvám se, že jsme o pár minut pozdě." \n\n - Lord Lovat" # todo: NEW TRANSLATION
+ CAREER_PROFILE_DEJA_VU: "Déjà Vu" # todo: NEW TRANSLATION
+ CAREER_PROFILE_DEJA_VU_DESCRIPTION: "Úspěšně použijte špionážní operaci k záchraně svého zajatého velitele." # todo: NEW TRANSLATION
+ CAREER_PROFILE_DEJA_VU_QUOTE: ""Znovu jsem vznesl otázku [ohledně záchrany]. Tentokrát to vyvolalo akci." \n\n - Major Lapham" # todo: NEW TRANSLATION
+ CAREER_PROFILE_THE_MORE_THINGS_CHANGES: "Čím více se věci mění, tím více zůstávají stejné" # todo: NEW TRANSLATION
+ CAREER_PROFILE_THE_MORE_THINGS_CHANGES_DESCRIPTION: "Plně ovládněte 2 dílčí doktríny speciálních sil" # todo: NEW TRANSLATION
+ CAREER_PROFILE_THE_MORE_THINGS_CHANGES_QUOTE: ""Byli jsme obětovatelní. Byli jsme jen bonus, to je vše." \n\n - Major General Colin Gubbins" # todo: NEW TRANSLATION
+ CAREER_PROFILE_FULLY_DECKED_OUT: "Plně vybavený" # todo: NEW TRANSLATION
+ CAREER_PROFILE_FULLY_DECKED_OUT_DESCRIPTION: "Navrhněte a rozmístěte divizi, která obsahuje 5 divizních podpůrných jednotek a 5 plukovních podpůrných jednotek" # todo: NEW TRANSLATION
+ CAREER_PROFILE_FULLY_DECKED_OUT_QUOTE: ""V případě pochybností zaútočte" \n\n - George Patton" # todo: NEW TRANSLATION
+ CAREER_PROFILE_CAPTURED_COMMANDERS_LABEL: "Zajatí velitelé" # todo: NEW TRANSLATION
+ CAREER_PROFILE_RESCUED_COMMANDERS_LABEL: "Zachránění velitelé" # todo: NEW TRANSLATION
+ CAREER_PROFILE_SHIP_CAPTAINS_PROMOTED_LABEL: "Povýšení kapitáni lodí" # todo: NEW TRANSLATION

@@ -1,11 +1,11 @@
 ﻿l_polish:
  ARG_news_events.1.a: "To jsou jistě jenom silný řeči, že?"
- ARG_news_events.1.d: "V poslední době zaujímá [ARG.GetAdjective] vláda stále agresivnější a sebevědomější postoj v otázkách zahraniční politiky. Jakmile nechvalně proslulá dekáda skončila tak rychlou změnou režimu, zdá se, že se [ARG.GetNonIdeologyName] připravuje na možnost expanze. Dnes ráno [ARG.GetAdjective] vůdce [ARG.GetLeader] promluvil k národu a ujistil obyvatelstvo, že přichází zlatá éra, s cílem sjednotit Jižní Ameriku pod jedním silným a stabilním praporem."
+ ARG_news_events.1.d: "[ARG.GetAdjective] vláda v poslední době zaujímá stále agresivnější a asertivnější postoj v otázkách zahraniční politiky. Jak se nechvalně známé desetiletí skončilo tak rychlou změnou režimu, zdá se, že se [ARG.GetNonIdeologyName] připravuje na možnost expanze. Dnes ráno [ARG.GetAdjective] vůdce [ARG.GetLeader] promluvil k národu a ujišťoval obyvatele, že je před nimi éra velikosti s cílem sjednotit Jižní Ameriku pod jedním silným a stabilním praporem." # todo: CHANGED
  ARG_news_events.1.t: "[ARG.GetNonIdeologyName] zahajuje agresivní zahraniční politiku"
  ARG_news_events.2.a: "Doufejme, že se [ENG.GetAdjective] lodi také podařilo uniknout."
  ARG_news_events.2.b: "[GER.GetAdjectiveCap] lodě nemají v těchto vodách co dělat."
  ARG_news_events.2.c: "Znepokojivé zprávy."
- ARG_news_events.2.d: "Dnes ráno se těžký křižník Kriegsmarine „Admiral Graf Spee“ střetl s eskadrou Královské u ústí Río de la Plata v jižním Atlantiku. V následné bitvě bylo několik [ENG.GetAdjective] lodí vážně poškozeno a donuceno k ústupu na Falklandy. „Graf Spee“ utrpěla jen menší škody, avšak jeden zásah kriticky poškodil její palivový systém. [GER.GetAdjectiveCap] loď uprchla do [URG.GetAdjective] přístavu Montevideo, aby provedla neodkladné opravy. Mnohé zdroje tvrdí, že jde o první námořní bitvu tohoto konfliktu, a zdá se, že válka konečně dorazila i na jihoamerický kontinent."
+ ARG_news_events.2.d: "Dnes ráno se těžký křižník Kriegsmarine 'Admiral Graf Spee' střetl s eskadrou Royal Navy u River Plate v jižním Atlantském oceánu. V následné bitvě bylo několik [ENG.GetAdjective] lodí těžce poškozeno a byly nuceny ustoupit na Falklandy. 'Graf Spee' naopak utrpěl jen minimální škody, s výjimkou kritického zásahu do palivového systému. [GER.GetAdjective] loď uprchla do přístavu Montevideo v [URG.GetNameDef], aby tam provedla naléhavé opravy. Mnohé zdroje tvrdí, že se jedná o první námořní bitvu tohoto konfliktu, a zdá se, že válka konečně zasáhla jihoamerický kontinent." # todo: CHANGED
  ARG_news_events.2.t: "Bitva u Río de la Plata"
  ARG_news_events.3.a: "Tragédie, že to dospělo až sem."
  ARG_news_events.3.d: "Probíhající nepokoje, ve kterých se zmítá [ARG.GetNonIdeologyName], se v posledních dnech zcela vymkly kontrole a přerostly v občanskou válku. Pod vedením bývalého exulanta Rodolfa Ghioldiho a s podporou mnoha levicově smýšlejících členů [ARG.GetAdjective] kongresu se komunisté odtrhli od vlády ve snaze převzít moc a provést radikální změny v celé zemi. Mnozí v regionu se obávají, že komunistická [ARG.GetNonIdeologyName] spustí dominový efekt po celém jihoamerickém kontinentu."
@@ -22,10 +22,10 @@
  ARG_political_events.100.desc: "[ARG.GetNameDefCap] nás oslovuje s pozvánkou do své frakce. Spojíme síly a pomůžeme chránit demokracii na jihoamerickém kontinentu?"
  ARG_political_events.100.t: "[ARG.GetNameDefCap] nás zve do své frakce"
  ARG_political_events.101.a: "Společně budeme držat linii a ochráníme náš lid!"
- ARG_political_events.101.desc: "[FROM.GetNameDefCap] se velkoryse rozhodl přijmout náš návrh na vstup do frakce a nyní stojíme společně jako bašta míru a demokracie v Jižní Americe."
+ ARG_political_events.101.desc: "[FROM.GetNameDefCap] laskavě přijal náš návrh vstoupit do aliance, a nyní stojíme společně jako bašta míru a demokracie v Jižní Americe." # todo: CHANGED
  ARG_political_events.101.t: "[FROM.GetNameDefCap] přijímá náš návrh"
  ARG_political_events.102.a: "Možná jindy..."
- ARG_political_events.102.desc: "[FROM.GetNameDefCap] odmítá naši nabídku vstupu do frakce. Neuvědomují si, že společně jsme silnější? Doufejme, že nebudou litovat dne, kdy nás odmítli."
+ ARG_political_events.102.desc: "[FROM.GetNameDefCap] odmítl naši nabídku vstoupit do aliance. Neuvědomují si, že společně jsme silnější? Doufejme, že jednou nebudou litovat dne, kdy nás odmítli." # todo: CHANGED
  ARG_political_events.102.t: "[FROM.GetNameDefCap] odmítá náš návrh"
  ARG_political_events.11.a: "[ARG.GetName] se musí připravit proti těmto rebelům!"
  ARG_political_events.11.desc: "Obdrželi jsme zprávy, že naši nejvyšší armádní důstojníci se odtrhli od vlády a shromáždili své příznivce ve snaze převzít kontrolu nad [ARG.GetAdjective] politikou. Nemůžeme jim dovolit dosáhnout Buenos Aires. Je čas, aby se [ARG.GetAdjective] připravila na občanskou válku."
@@ -54,21 +54,21 @@
  ARG_political_events.14.t: "[GER.GetNameDefCap] odmítá naši žádost!"
  ARG_political_events.15.a: "Nedokážeme je zastavit."
  ARG_political_events.15.b: "Nevzdáme se své suverenity."
- ARG_political_events.15.desc: "Podle [ARG.GetAdjective] velvyslance v [ROOT.Capital.GetCapitalVictoryPointName] má naše současná vláda abdikovat a být nahrazena [ARG.GetAdjective] loutkovým režimem. Je vysoká pravděpodobnost, že naše odmítnutí povede k vyhlášení války. Musíme volit moudře."
+ ARG_political_events.15.desc: "Podle [ARG.GetAdjective] velvyslance v [ROOT.Capital.GetCapitalVictoryPointName] má naše současná vláda abdikovat a být nahrazena [ARG.GetAdjective] loutkou. Existuje vysoké riziko, že náš nesouhlas povede k vyhlášení války. Musíme volit moudře." # todo: CHANGED
  ARG_political_events.15.t: "[ARG.GetNameDefCap] vydává ultimátum"
  ARG_political_events.16.a: "Excelente!"
  ARG_political_events.16.desc: "[PAR.GetAdjectiveCap] vláda se rozhodla souhlasit s podmínkami, které jsme stanovili v ultimátu. Okamžitě z nich učiníme náš subjekt a co nejdříve nastolíme [ARG.GetAdjective] vládu."
  ARG_political_events.16.t: "[PAR.GetNameDefCap] souhlasí s podmínkami ultimáta"
  ARG_political_events.17.a: "Ustoupit, nestojí to za to..."
  ARG_political_events.17.b: "Budou litovat, že nás odmítli!"
- ARG_political_events.17.desc: "[PAR.GetAdjectiveCap] vláda se rozhodla odmítnout podmínky, které jsme jim předložili. To je nepřijatelné. Buď ustoupíme a necháme to být, nebo připravíme naše jednotky na válku."
+ ARG_political_events.17.desc: "[PAR.GetAdjective] vláda se rozhodla odmítnout podmínky, které jsme jim předložili. To je nepřijatelné. Buď ustoupíme a necháme to být, nebo připravíme naše jednotky na válku." # todo: CHANGED
  ARG_political_events.17.t: "[PAR.GetNameDefCap] odmítá podmínky ultimáta"
  ARG_political_events.18.a: "To je úleva..."
  ARG_political_events.18.desc: "Poté, co jsme si stáli za svým, se zdá, že [ARG.GetAdjective] vláda usoudila, že pokračování v tomto směru nestojí za to. Můžeme si nyní oddechnout s vědomím, že hrozba byla prozatím zažehnána."
  ARG_political_events.18.t: "[ARG.GetNameDefCap] ustupuje"
  ARG_political_events.19.a: "Nedokážeme je zastavit."
  ARG_political_events.19.b: "Nevzdáme se své nezávislosti."
- ARG_political_events.19.desc: "Podle [ARG.GetAdjective] velvyslance v [ROOT.Capital.GetCapitalVictoryPointName] má naše současná vláda abdikovat a být nahrazena [ARG.GetAdjective] loutkovým režimem. Je vysoká pravděpodobnost, že naše odmítnutí povede k vyhlášení války. Musíme volit moudře."
+ ARG_political_events.19.desc: "Podle [ARG.GetAdjective] velvyslance v [ROOT.Capital.GetCapitalVictoryPointName] má naše současná vláda odstoupit a být nahrazena [ARG.GetAdjective] loutkou. Existuje vysoká pravděpodobnost, že náš nesouhlas vyústí ve vyhlášení války. Musíme volit moudře." # todo: CHANGED
  ARG_political_events.19.t: "[ARG.GetNameDefCap] zasílá ultimátum"
  ARG_political_events.2.a: "Nezbývá nám mnoho možností."
  ARG_political_events.2.b: "Zatím nechceme zpřetrhat vazby."
@@ -95,11 +95,11 @@
  ARG_political_events.25.desc: "Skvělé zprávy! [CHL.GetAdjective] vláda se rozhodla vstoupit do frakce s námi. Společně budeme moci jako bratři čelit hrozbám, které přicházejí ze severu. Je to významný den a krok správným směrem k sjednocené Jižní Americe."
  ARG_political_events.25.t: "[CHL.GetNameDefCap] souhlasí se vstupem do naší frakce"
  ARG_political_events.26.a: "Jaké zklamání..."
- ARG_political_events.26.desc: "[CHL.GetAdjectiveCap] vláda tvrdohlavě odmítla připojit se k našim cílům dobyvačné expanze napříč kontinentem. Ačkoliv je k tomu v tuto chvíli nemůžeme donutit, stále můžeme přenést naši spravedlivou válku až k jejich hranicím. Každopádně je to smutný den pro vztahy mezi našimi dvěma zeměmi."
+ ARG_political_events.26.desc: "[CHL.GetAdjective] vláda se neoblomně odmítla připojit k našim cílům dobývání po celém kontinentu. Ačkoliv jim v tom nemůžeme vnutit ruku, stále můžeme přenést naši spravedlivou válku přímo před jejich práh. Každopádně je to smutný den pro vztahy mezi našimi dvěma zeměmi." # todo: CHANGED
  ARG_political_events.26.t: "[CHL.GetNameDefCap] odmítá vstup do naší frakce"
  ARG_political_events.27.a: "Nemůžeme se jim rovnat."
  ARG_political_events.27.b: "Nevzdáme se své nezávislosti."
- ARG_political_events.27.desc: "Podle [ARG.GetAdjective] velvyslance v [ROOT.Capital.GetCapitalVictoryPointName] má naše současná vláda abdikovat a být nahrazena [ARG.GetAdjective] loutkovým režimem. Je vysoká pravděpodobnost, že naše odmítnutí povede k vyhlášení války. Musíme volit moudře."
+ ARG_political_events.27.desc: "Podle [ARG.GetAdjective] velvyslance v [ROOT.Capital.GetCapitalVictoryPointName] má naše současná vláda abdikovat a být nahrazena [ARG.GetAdjective] loutkou. Existuje vysoké riziko, že náš nesouhlas povede k vyhlášení války. Musíme volit moudře." # todo: CHANGED
  ARG_political_events.27.t: "[ARG.GetNameDefCap] zasílá ultimátum"
  ARG_political_events.28.a: "Excelente!"
  ARG_political_events.28.desc: "[CHL.GetAdjectiveCap] vláda se rozhodla souhlasit s podmínkami, které jsme stanovili v ultimátu. Okamžitě z jejich území učiníme náš subjekt a co nejdříve nastolíme [ARG.GetAdjective] vládu."
@@ -126,7 +126,7 @@
  ARG_political_events.33.desc: "Dnes konečně padly Malvíny a Jižní Georgie do [ARG.GetAdjective] rukou. [ENG.GetNameDefCap] je obě postoupilo výměnou za mír. Ten jim můžeme poskytnout, zvláště nyní, když toto právoplatné [ARG.GetAdjective] území konečně patří nám."
  ARG_political_events.33.t: "[ENG.GetNameDefCap] souhlasí s postoupením ostrovů"
  ARG_political_events.34.a: "Válka pokračuje"
- ARG_political_events.34.desc: "[ENG.GetAdjectiveCap] tvrdohlavě odmítli vzdát se Malvín a Jižní Georgie. Zdá se, že navzdory ztrátám jsou odhodláni pokračovat v krveprolití. Je to jejich volba. V případě potřeby zničíme i [ENG.Capital.GetCapitalVictoryPointName]."
+ ARG_political_events.34.desc: "[ENG.GetAdjective] se neoblomně odmítli vzdát ostrovů Falkland a South Georgia. Zdá se, že navzdory svým ztrátám jsou odhodláni pokračovat v krveprolití. Je to jejich právo. Pokud bude nutné, zatlačíme je zpět k [ENG.Capital.GetCapitalVictoryPointName]." # todo: CHANGED
  ARG_political_events.34.t: "[ENG.GetNameDefCap] odmítá kapitulaci"
  ARG_political_events.35.a: "Dostali jsme, pro co jsme přišli. Podepište smlouvu."
  ARG_political_events.35.b: "I [ENG.Capital.GetCapitalVictoryPointName] si zaslouží pocítit, co je to válka!"
@@ -175,7 +175,7 @@
  ARG_political_events.50.desc: "Bohužel se zdá, že náš pokus vyvolat dělnickou stávku neproběhl zcela podle plánu. Naši řečníci sice upoutali pozornost několika lidí mířících do práce, ale i když se nám podařilo získat pár jedinců na naši stranu, stále musíme tvrdě pracovat, abychom přesvědčili obyvatelstvo obrátit se proti utlačujícím vyšším třídám."
  ARG_political_events.50.t: "[FROM.FROM.GetName] zažívá malou dělnickou stávku"
  ARG_political_events.51.a: "Získáváme podporu mas."
- ARG_political_events.51.desc: "Navzdory střetům s vedením podniků a fašistickými agitátory se dělnické stávce podařilo přilákat značný dav příznivců. Vedení PCA proneslo několik projevů o tom, že [FROM.FROM.GetName] bude zemí bez třídního rozdělení, které byly přijaty s potleskem a skandováním. Místní stranická organizace již oznámila nárůst členské základny."
+ ARG_political_events.51.desc: "Navzdory střetům s manažery a fašistickými agitátory se pracovní stávka v [FROM.FROM.GetName] podařila přilákat značný počet příznivců. Vedení PCA proneslo několik projevů o budoucnosti země bez třídních rozdílů, které sklidily potlesk a skandování davu. Místní stranická buňka již oznámila, že od shromáždění vzrostl počet členů." # todo: CHANGED
  ARG_political_events.51.t: "[FROM.FROM.GetName] zažívá dělnickou stávku"
  ARG_political_events.52.a: "Brzy budou naše cíle oslavovány!"
  ARG_political_events.52.desc: "Skandování a křik rozhněvaného davu nespokojených dělníků přinesly obrovskou vlnu podpory PCA. Tovární haly se vyprázdnily, kanceláře zůstaly opuštěné a venkovští farmáři se spojili, aby se postavili za svá práva a dali najevo svůj hněv vůči vládnoucí třídě. Zprávy o našem vlivu se šíří a podpora revoluce každým dnem roste..."
@@ -204,23 +204,23 @@
  ARG_political_events.71.desc: "Drtivou většinou si Fanny Edelman dokázala udržet svou pozici ve vládě. Zdá se, že cesta, kterou si [ARG.GetNameDef] přeje, je založena na stabilitě a růstu. Konkurenční kandidát Antonio Soto se vrátil do Patagonie a prozatím souhlasil s následováním Edelmanové plánů."
  ARG_political_events.71.t: "Fanny Edelman zůstává předsedkyní vlády"
  ARG_political_events.72.a: "Nejistá, ale nová budoucnost."
- ARG_political_events.72.desc: "V nečekaném vývoji událostí se Antoniu Sotovi podařilo získat podporu konference a byl ustanoven novým [ARG.GetAdjective] vůdcem, titulem, který chtěl v budoucnu zcela zrušit. Soto si přeje nasměrovat zemi na novou cestu anarchosyndikalismu a postupně odstranit jakoukoli formu hierarchie v zemi."
+ ARG_political_events.72.desc: "V překvapivém zvratu dokázal Antonio Soto přesvědčit konferenci a byl ustaven novým vůdcem v [ARG.GetNameDef], titulu, jehož rozpuštění dychtivě očekával. Soto chce vést zemi novým směrem — po stezce anarcho-syndikalismu — a nakonec zrušit jakoukoli formu hierarchie v zemi." # todo: CHANGED
  ARG_political_events.72.t: "Antonio Soto zavádí argentinský anarchosyndikalismus"
  ARG_political_events.73.a: "Jejich ambice vítáme - dostanou jak pakt, tak záruky!"
- ARG_political_events.73.b: "Můžeme nabídnout pakt o neútočení, ale nic víc."
+ ARG_political_events.73.b: "Můžeme jim nabídnout pakt o neútočení, nic víc." # todo: CHANGED
  ARG_political_events.73.c: "Tohle už zachází příliš daleko."
- ARG_political_events.73.desc: "[ARG.GetAdjectiveCap] diplomaté nás právě kontaktovali s žádostí o užší spolupráci v návaznosti na naše nedávné obchodní dohody a skutečnost, že se jejich ideologie stále více podobá té naší. Aktuálním požadavkem je uzavření paktu o neútočení a zároveň garance jejich nezávislosti."
+ ARG_political_events.73.desc: "[ARG.GetAdjective] diplomaté se právě na nás obrátili s žádostí o bližší spolupráci po našich nedávných obchodních dohodách a vzhledem k tomu, že jejich ideologie se nám začíná stále více podobal. Aktuální požadavek je podepsání paktu o neútočení mezi našimi zeměmi a záruka jejich nezávislosti." # todo: CHANGED
  ARG_political_events.73.t: "[FROM.GetNameDefCap] usiluje o užší spolupráci"
  ARG_political_events.74.a: "Fantastické!"
  ARG_political_events.74.desc: "\nPrávě jsme obdrželi odpověď, kterou nám zasílá [FROM.GetAdjective] vláda. Oceňují naše nedávné úsilí o obrat země a návrat k demokracii a rozhodli se souhlasit s našimi požadavky. Tím byla naše země posílena a pravděpodobnost vyhlášení války proti nám by se měla výrazně snížit."
- ARG_political_events.74.t: "[FROM.GetNameDefCap] souhlasí s garancí naší nezávislosti i paktem o neútočení"
- ARG_political_events.74.tt: "[FROM.GetFlag]§Y[FROM.GetNameDefCap]§! nyní garantuje naši nezávislost!\nMy a [FROM.GetFlag]§Y[FROM.GetNameDefCap]§! máme uzavřený §Ypakt o neútočení§!!"
+ ARG_political_events.74.t: "[FROM.GetNameDefCap] souhlasí jak se zárukou naší nezávislosti, tak s paktem o neútočení" # todo: CHANGED
+ ARG_political_events.74.tt: "[FROM.GetFlag]§Y[FROM.GetNameDefCap]§! nyní zaručuje naši nezávislost! \nVstoupili jsme do §Ypaktu o neútočení§! s [FROM.GetFlag]§Y[FROM.GetNameDefCap]§!!" # todo: CHANGED
  ARG_political_events.75.a: "Lepší než nic..."
- ARG_political_events.75.desc: "Právě jsme obdrželi odpověď, kterou nám zasílá [FROM.GetAdjective] vláda. Oceňují naše nedávné snahy o obrat země a návrat k demokracii, avšak souhlasili pouze částečně. Byl uzavřen pakt o neútočení, nicméně naši nezávislost se prozatím zavázali negarantovat."
+ ARG_political_events.75.desc: "Právě jsme obdrželi odpověď od [FROM.GetNameDef]. Chválí naše nedávné úsilí o změnu země a návrat k demokracii a rozhodli se vyhovět našim žádostem, ovšem pouze částečně. Byl podepsán pakt o neútočení, ale bohužel prozatím nezaručí naši nezávislost." # todo: CHANGED
  ARG_political_events.75.t: "[FROM.GetNameDefCap] souhlasí s paktem o neútočení"
- ARG_political_events.75.tt: "My a [FROM.GetFlag]§Y[FROM.GetNameDefCap]§! máme uzavřený §Ypakt o neútočení§!!"
+ ARG_political_events.75.tt: "Vstoupili jsme do §Ypaktu o neútočení§! s [FROM.GetFlag]§Y[FROM.GetNameDefCap]§!!" # todo: CHANGED
  ARG_political_events.76.a: "Jak nešťastné."
- ARG_political_events.76.desc: "Právě jsme obdrželi odpověď, kterou nám zasílá [FROM.GetAdjective] vláda. Oceňují naše úsilí o obnovení demokracie, avšak nepovažují za výhodné ani garantovat naši nezávislost, ani s námi uzavřít pakt o neútočení."
+ ARG_political_events.76.desc: "Právě jsme obdrželi odpověď od [FROM.GetNameDef]. Oceňují naše snahy o obnovení demokracie, ale nepovažují za prospěšné zaručit naši nezávislost ani uzavřít s námi pakt o neútočení." # todo: CHANGED
  ARG_political_events.76.t: "[FROM.GetNameDefCap] odmítá naši žádost o užší spolupráci"
  ARG_political_events.8.a: "Zklamání."
  ARG_political_events.8.desc: "Bohužel náš návrh narazil na naprostý nezájem. [ENG.GetAdjectiveCap] vláda se rozhodla, že Malvíny a Jižní Georgie by měly zůstat pod jejich ochranou. Přestože je to zklamání, alespoň víme, že naši spojenci jsou nablízku."
@@ -259,7 +259,7 @@
  CHL_news_events.1.t: "[CHL.GetNameDef] zažívá fašistický převrat"
  CHL_news_events.2.a: "To je přitažené za vlasy..."
  CHL_news_events.2.b: "Nikdo nám nebude stát v cestě!"
- CHL_news_events.2.d: "[CHL.GetLeader] oznámil obnovu starého $CHL_fascist_kingdom_DEF$ — irredentistického projektu, v němž si Chileané činí nárok na rozsáhlé části Argentiny již od dob španělského místokrálovství Peru — a [CHL.GetNameDef] zahajuje integraci těchto území. Jejich ambice však nekončí, nárokují si také části oblasti Río de la Plata."
+ CHL_news_events.2.d: "[CHL.GetLeader] oznámil obnovení starého království Chile, irredentistické myšlenky Chilejců nárokujících velké části Argentiny od dob španělského vicekrálovství Peru, a [CHL.GetNameDef] zahájil integraci nárokovaných území. Jejich ambice tím však nekončí — nárokují si také větší část oblasti Río de la Plata." # todo: CHANGED
  CHL_news_events.2.t: "Chile vyhlašuje obnovené Staré království"
  CHL_news_events.3.a: "Co si o sobě myslí?"
  CHL_news_events.3.b: "Jsme nová světová mocnost!"
@@ -267,7 +267,7 @@
  CHL_news_events.3.t: "Vzniká [CHL.GetNameDefCap]"
  CHL_news_events.4.a: "Znepokojivé..."
  CHL_news_events.4.b: "Přineseme svobodu a prosperitu těm, kteří to potřebují!"
- CHL_news_events.4.d: "[CHL.GetLeader] oznámil, že [CHL.GetNameDef] vyhlašuje antiimperialistickou křížovou výpravu za osvobození národů Ameriky od evropského útlaku. Mnozí se ptají, zda je éra kolonialismu skutečně u konce, nebo zda jde jen o další překážku na cestě světových mocností."
+ CHL_news_events.4.d: "[CHL.GetLeader] z [CHL.GetNameDef] oznámil, že stát vyrazí na protiimperialistickou křížovou výpravu, během níž osvobodí obyvatele Amerik od evropského útlaku. Mnozí se ptají, zda je éra kolonialismu skutečně u konce, nebo zda je to jen další zádrhel na cestě světových mocností." # todo: CHANGED
  CHL_news_events.4.t: "Mapučové vyhlašují křížovou výpravu proti imperialismu"
  CHL_news_events.5.a: "Cože?"
  CHL_news_events.5.b: "Jsme zpět, silnější než kdy dřív!"
@@ -380,7 +380,7 @@
  CHL_political_events.31.t: "[FROM.GetName] nám nepomůže"
  CHL_political_events.32.a: "Povolíme to"
  CHL_political_events.32.b: "Jsme silnější bez nich"
- CHL_political_events.32.desc: "[CHL.GetLeader] nás požádal o vstup do naší frakce. Tvrdí, že [CHL.GetNameDef] bude přínosem a že s jejich pomocí dokážeme svrhnout americkou hegemonii."
+ CHL_political_events.32.desc: "[CHL.GetLeader] z [CHL.GetNameDef] k nám přišel s žádostí o vstup do naší frakce. Tvrdí, že společně budeme mnohem silnější a že s jejich pomocí dokážeme svrhnout americkou hegemonii." # todo: CHANGED
  CHL_political_events.32.t: "[CHL.GetName] si přeje vstoupit do Osy"
  CHL_political_events.33.a: "Skutečně slavný den!"
  CHL_political_events.33.desc: "[GER.GetLeader] oznámil, že od dnešního dne se [CHL.GetNameDef] stává jejich důležitým spojencem v úsilí o získání plné kontroly nad Amerikami. Prohlásil, že dnešek znamená začátek konce demokracií v Americe."
@@ -437,7 +437,7 @@
  CHL_political_events.47.desc: "[CHL.GetName] hlásí velký úspěch. [FROM.GetName] souhlasí, že budoucnost patří Ose. Stačí už jen podepsat jejich přijetí."
  CHL_political_events.47.t: "[CHL.GetName] chce pozvat [FROM.GetName] do Osy"
  CHL_political_events.48.a: "Budeme to muset zvládnout sami"
- CHL_political_events.48.desc: "Bohužel, navzdory našemu emotivnímu apelu se [FROM.GetLeader] a jeho lid rozhodli, že je jim lépe bez nás, aniž by své rozhodnutí blíže vysvětlili. Prozatím se tedy my a [FROM.GetNameDef] znovu nesjednotíme."
+ CHL_political_events.48.desc: "Bohužel, navzdory našim emocionálním výzvám, [FROM.GetLeader] a jejich lid se rozhodli, že jsou bez nás lépe, a nevysvětlili podrobně, proč k tomuto rozhodnutí dospěli. Naše znovusjednocení s [FROM,GetNameDef] tedy prozatím nenastane." # todo: CHANGED
  CHL_political_events.48.t: "[FROM.GetName] se nepřipojuje k Ose"
  CHL_political_events.49.a: "Společně si vydobudeme vítězství"
  CHL_political_events.49.b: "Budoucnost patří jen nám"
@@ -531,12 +531,12 @@
  CHL_political_events.71.t: "Státní převrat generála Carlose Ibáñeze del Campo"
  CHL_political_events.72.a: "Je více těch, kteří jsou ochotni bojovat za antiimperialistickou věc"
  CHL_political_events.72.b: "Nebudeme slevovat ze svých ideálů!"
- CHL_political_events.72.desc: "Během prvního zasedání nového araukánského kongresu vznikl spor. Všichni se shodují, že antiiimperialismus musí být základním pilířem každého mapučského státu, avšak panuje neshoda, zda lze důvěřovat dalším sdílejícím tyto ideály, jako jsou komunisté a socialisté. Jedni tvrdí, že by mohli být užitečnými spojenci, druzí se obávají zrady při první příležitosti. Kdo má pravdu?"
+ CHL_political_events.72.desc: "Během první schůze nového araukaňského kongresu vznikl spor. Ačkoliv všichni souhlasí, že antiimperialismus musí být základním principem každého mapučského státu, panují neshody v otázce, zda lze důvěřovat těm, kdo sdílejí tyto ideály, jako jsou komunisté a socialisté, a zařadit je do mapučské vlády. Někteří tvrdí, že by se mohli ukázat jako užiteční spojenci, jiní zase, že nás při první příležitosti zradí. Kdo má pravdu?" # todo: CHANGED
  CHL_political_events.72.t: "První zasedání araukánského kongresu"
  CHL_political_events.73.a: "Měl by to být Manuel Manquilef"
  CHL_political_events.73.b: "Esteban Romero Sandoval má podporu lidu"
  CHL_political_events.73.c: "Venancio Coñuepán Huenchual nás dokáže vést"
- CHL_political_events.73.desc: "Nastal čas, aby se různé mapučské organizace a skupiny sjednotily pod jednou osobností, která je povede k vítězství proti jejich španělským nepřátelům, naváže na války proti Inkům a ponese odkaz Caupolicána. Společně proto volí nového Toquiho, válečného náčelníka, jenž povede svůj lid ke svobodě."
+ CHL_political_events.73.desc: "Nastal čas, aby se různé mapučské organizace a skupiny rozhodly pro osobu, pod jejíž vlajku se sjednotí, která je povede k vítězství nad španělskými nepřáteli, bude žít duchem válek proti Inkům a ponese odkaz Caupolicána. Sešly se proto, aby zvolily nového Toqui — válečného náčelníka, který sjednotí a povede svůj lid ke svobodě." # todo: CHANGED
  CHL_political_events.73.t: "Volba nositele sekery"
  CHL_political_events.74.a: "Ať žije král $CHL_antoine_iii$!"
  CHL_political_events.74.desc: "Zatímco se před prezidentským palácem v Santiagu shromažďují davy a válka trhá zemi na kusy, prezident Carlos Ibáñez del Campo oznamuje, že on i parlament zvolili Jacquesa Antoina Bernarda novým králem, čímž obnovují dávno ztracený titul jeho rodu z roku 1862. Ibáñez prohlásil, že Antoine III. je jedinou spásou národa a tím, kdo znovu sjednotí válkou zničenou společnost."
@@ -567,7 +567,7 @@
  CHL_political_events.80.t: "[FROM.GetName] nám nepomůže"
  CHL_political_events.81.a: "Budeme to muset přijmout"
  CHL_political_events.81.b: "Nepotřebujeme je!"
- CHL_political_events.81.desc: "[FROM.GetLeader] vyslyšel naši výzvu a slíbil, že [FROM.GetNameDef] k nám vyšle zbraně a dobrovolníky, avšak uvedl, že jejich pomoc nebude zadarmo a že za ni budeme muset zaplatit."
+ CHL_political_events.81.desc: "[FROM.GetLeader] z [FROM.GetNameDef] vyslyšel naši výzvu k zbraním a slíbil nám poslat zbraně a dobrovolníky, kolik jen budou moci ospravedlnit. Uvedl však, že jejich pomoc není zadarmo, a pokud ji chceme, budeme jim muset zaplatit." # todo: CHANGED
  CHL_political_events.81.t: "[FROM.GetName] říká, že nám pomůže - ovšem ne zadarmo"
  CHL_political_events.82.a: "Santiago zůstane naším hlavním městem"
  CHL_political_events.82.b: "Perquenco bylo starým hlavním městem"
@@ -577,7 +577,7 @@
  CHL_political_events.82.t: "Hlavní město království"
  CHL_political_events.83.a: "Okamžitě mobilizujte Národní gardu!"
  CHL_political_events.83.b: "Zajistěte co nejvíce území!"
- CHL_political_events.83.d: "Po několika dnech protestů a stávek se socialisté, komunisté a fašisté konečně rozhodli udeřit proti naší vládě. Požadují, aby Carlos Ibáñez del Campo co nejdříve předal moc Jorgemu Gonzálezovi von Marées. My se však nevzdáme bez boje. Po celé zemi jsou hlášeny přestřelky a je pravděpodobné, že v naši zemi vypukla občanská válka..."
+ CHL_political_events.83.d: "Po několika dnech protestů a stávkách se socialisté, komunisté a fašisté konečně rozhodli udeřit na naši vládu, když se před nimi naskytla příležitost. Požadovali, aby Carlos Ibáñez del Campo co nejdříve předal moc Jorgemu Gonzálezovi von Marées, ale nepůjdeme bez boje. V celé zemi byly hlášeny střety a je pravděpodobné, že máme před sebou občanskou válku..." # todo: CHANGED
  CHL_political_events.83.t: "Pokus o svržení Ibáñeze"
  CHL_political_events.84.a: "V tuto chvíli je možná opravdu naší jedinou nadějí..."
  CHL_political_events.84.desc: "Dnes dříve, když se zprávy o naší občanské válce začaly šířit světem, obdržel prezident Carlos Ibáñez del Campo zprávu z Francie. Záhadný muž, vydávající se za potomka staré chilské dynastie Orélie-Antoina I., krále Araukánie a Patagonie, tvrdí, že má podporu francouzských obchodníků a legionářů, kteří by nám mohli pomoci, ovšem za určitou cenu. Situace je zoufalá a mohou být nutná drastická opatření."
@@ -604,14 +604,14 @@
  CHL_political_events.9.a: "Odsoudit jejich kroky"
  CHL_political_events.9.b: "Požadovat odškodnění"
  CHL_political_events.9.c: "Tohle znamená válku!"
- CHL_political_events.9.d: "SS Tolten plula včera u Barnegatu ve státě New Jersey, když byla zasažena torpédem vypáleným z německé ponorky. Nákladní loď byla zakoupena z Dánska, avšak všech 27 členů posádky byli Chilané, z nichž přežil pouze jeden. Náš ministr zahraničí prohlásil, že si nepřeje hovořit se svým německým protějškem, a v ulicích Santiaga probíhají protiněmecké demonstrace. Jak na tuto situaci zareagujeme?"
+ CHL_political_events.9.d: "Loď SS Tolten plula u Barnegatu v New Jersey, když ji včera zasáhlo torpédo z německé ponorky. Nákladní loď byla zakoupena v Dánsku, ale všech 27 členů posádky byli Chilejci, z nichž přežil pouze jeden. Náš ministr zahraničí prohlásil, že nechce mluvit se svým německým protějškem, a v ulicích Santiaga probíhají proti-německé protesty. Jak na tuto situaci zareagujeme?" # todo: CHANGED
  CHL_political_events.9.t: "Potopení SS Tolten"
  CHL_political_events.90.a: "Je čas převzít ochranu Pitcairnu!"
  CHL_political_events.90.desc: "Náš spojenec [FROM.GetLeader] nám podle naší žádosti předal [270.GetName]. Konečně se tak naši lidé mohou cítit v bezpečí před zahraniční hrozbou a soustředit svou energii na vnitřní problémy."
  CHL_political_events.90.t: "[FROM.GetName] nám předává [270.GetName]"
  CHL_political_events.91.a: "Budeme si muset vystačit s tím, co máme..."
  CHL_political_events.91.b: "Musíme vzít věci do vlastních rukou!"
- CHL_political_events.91.desc: "Náš spojenec [FROM.GetLeader] nám odmítl předat [270.GetName]. Tvrdí, že je to příliš nebezpečné a že pouze parazitujeme na jejich říši."
+ CHL_political_events.91.desc: "Náš spojenec [FROM.GetLeader] z [FROM.GetNameDef] nám [270.GetName] nepředal. Tvrdí, že je to příliš nebezpečné, a že se jen přisáváme na jejich impérium." # todo: CHANGED
  CHL_political_events.91.t: "[FROM.GetName] odmítá předat [270.GetName]"
  CHL_political_events.92.a: "Titul udělíme tomu nejlepšímu!"
  CHL_political_events.92.b: "Postačí brilantní mladý důstojník"
@@ -661,7 +661,7 @@
  JUNO_brazil_events.12.t: "Masové integralistické shromáždění v [FROM.FROM.GetName]"
  JUNO_brazil_events.120.a: "Vědění nezná hranic."
  JUNO_brazil_events.120.b: "Místo toho jim nabídneme hospodářskou pomoc."
- JUNO_brazil_events.120.desc: "[FROM.GetNameDefCap] navrhuje partnerství za účelem sdílení vědeckých znalostí. Zatímco naši vědci většinou podporují rozšíření dostupnosti poznatků, armáda je opatrná ohledně poskytování informací, které by mohly v budoucnu ohrozit naši národní bezpečnost."
+ JUNO_brazil_events.120.desc: "[FROM.GetNameDefCap] navrhl partnerství za účelem vzájemného učení se z vědecké odbornosti. Zatímco naši vědci jsou převážně pro zvýšení dostupnosti poznatků, armáda je opatrná při poskytování informací, které by nakonec mohly ohrozit naši národní bezpečnost." # todo: CHANGED
  JUNO_brazil_events.120.t: "[FROM.GetNameDefCap] navrhuje sdílení technologií"
  JUNO_brazil_events.121.a: "Vzájemně výhodná dohoda!"
  JUNO_brazil_events.121.desc: "[FROM.GetNameDefCap] souhlasí s účastí v našem navrhovaném programu technologické výměny. Členové naší vědecké obce jsou touto zprávou nadšeni a již plánují návštěvy [FROM.GetAdjective] univerzit a továren."
@@ -699,12 +699,12 @@
  JUNO_brazil_events.136.t: "[SOV.GetNameDefCap] odmítá náš návrh dohody"
  JUNO_brazil_events.136.tt: "Získali jsme §Yzhoršení názoru§! ([SOV.GetFlag]§Y[SOV.GetAdjective]§! názor §R-50§!)."
  JUNO_brazil_events.137.a: "Tyto kolonie pro nás stejně nemají velký význam."
- JUNO_brazil_events.137.b.tt: "§RToto jim dá válečný cíl proti nám!§!"
+ JUNO_brazil_events.137.b.tt: "§RTo jim dá válečný cíl proti nám!§!" # todo: CHANGED
  JUNO_brazil_events.137.b: "Jejich právoplatnými vlastníky bychom měli být my."
  JUNO_brazil_events.137.desc: "[BRA.GetNameDef] nám zasílá poměrně ostře formulované sdělení. Požadují, abychom uvolnili [BRA_country_to_be_liberated.GetNameDef] a navrátili území jejich právoplatným vlastníkům."
  JUNO_brazil_events.137.t: "[BRA.GetNameDefCap] požaduje uvolnění jihoamerických kolonií"
  JUNO_brazil_events.138.a: "Nanejvýš uspokojivý výsledek."
- JUNO_brazil_events.138.desc: "Odpověď na naše požadavky, ať [FROM.GetNameDef] uvolní [BRA_country_to_be_liberated.GetNameDef], k nám právě dorazila. Poněkud překvapivě souhlasili s tím, že jejich propuštění a vznik nezávislého státu je tím nejlepším řešením."
+ JUNO_brazil_events.138.desc: "Odpověď na naše požadavky, aby [FROM.GetNameDef] uvolnil své [BRA_country_to_be_liberated.GetNameDef], k nám právě dorazila. Možná poněkud překvapivě souhlasili, že nejlepší cesta je nechat je odejít a prohlásit je nezávislým státem." # todo: CHANGED
  JUNO_brazil_events.138.t: "[FROM.GetNameDefCap] souhlasí se slobodou pro [BRA_country_to_be_liberated.GetNameDef]"
  JUNO_brazil_events.139.a: "Musíme je osvobodit, ať to stojí cokoliv."
  JUNO_brazil_events.139.desc: "Odpověď na naše požadavky, ať [FROM.GetNameDef] uvolní [BRA_country_to_be_liberated.GetNameDef], právě dorazila. S tvrzením, že jejich zahraniční politika není naší věcí, odmítli myšlenku přiznat jim jejich právoplatnou nezávislost."
@@ -762,7 +762,7 @@
  JUNO_brazil_events.161.desc: "[FROM.GetAdjectiveCap] vláda povolila svým korporacím zakládat u nás své [ROOT.GetAdjective] pobočky, pokud se tak rozhodnou. Zbývá už jen určit, jaký typ průmyslu chceme podpořit."
  JUNO_brazil_events.161.t: "[FROM.GetNameDefCap] souhlasí s výrobní spoluprací"
  JUNO_brazil_events.162.a: "Budeme hledat firemní partnery jinde."
- JUNO_brazil_events.162.desc: "[FROM.GetAdjectiveCap] diplomaté nás informovali, že jejich vláda v dohledné době neumožní jejich korporacím zakládat u nás své [ROOT.GetAdjective] pobočky. Jako důvod uvádějí obavy o ochranu duševního vlastnictví a riziko úniku vojenských tajemství k nepřátelským státům."
+ JUNO_brazil_events.162.desc: "[FROM.GetAdjective] diplomaté nás informovali, že jejich vláda nedovolí jejich korporacím zakládat dceřiné společnosti v [ROOT.GetNonIdeologyName] v dohledné budoucnosti. Jako důvody uvádějí obavy ohledně práv duševního vlastnictví a možnosti, že vojenská tajemství budou odhalena nepřátelským státům." # todo: CHANGED
  JUNO_brazil_events.162.t: "[FROM.GetNameDefCap] odmítá výrobní spolupráci"
  JUNO_brazil_events.163.a: "Prosadit legislativu Partido Trabalhista."
  JUNO_brazil_events.163.b: "Prosadit legislativu Partido Republicano."
@@ -773,7 +773,7 @@
  JUNO_brazil_events.17.t: "[FROM.Capital.GetCapitalVictoryPointName]ské dohody odmítnuty"
  JUNO_brazil_events.170.a: "Je čas odložit naše rozdíly."
  JUNO_brazil_events.170.b: "S takovým uspořádáním nikdy nemůžeme souhlasit!"
- JUNO_brazil_events.170.desc: "[FROM.GetNameDefCap] navrhuje začlenení naší země do jejich federace. Přestože jsme v poslední době my a [FROM.GetNameDef] úzce spolupracovali, mnoho příslušníků starší generace se zdráhá odložit historické křivdy výměnou za hospodářskou a politickou stabilitu. Ať už se rozhodneme jakkoli, bude to mít dlouhodobé následky."
+ JUNO_brazil_events.170.desc: "[FROM.GetNameDefCap] navrhl začlenění naší země do jejich federace. Ačkoliv jsme v poslední době úzce spolupracovali s [FROM.GetNameDef], mnoho starší generace je zdráhavých odložit své historické křivdy výměnou za ekonomickou a politickou stabilitu. Ať už se rozhodneme jakkoli, bude to mít pravděpodobně dopady na mnoho let dopředu." # todo: CHANGED
  JUNO_brazil_events.170.t: "[FROM.GetNameDefCap] navrhuje sjednocení"
  JUNO_brazil_events.171.a: "Je to historický okamžik!"
  JUNO_brazil_events.171.desc: "[FROM.GetNameDefCap] po dlouhých jednáních souhlasí s naším návrhem na sjednocení, včetně vyjasnění jejich postavení v našem politickém systému a ochrany klíčových zájmů jejich obyvatel."
@@ -799,7 +799,7 @@
  JUNO_brazil_events.190.desc: "Obdrželi jsme řadu hlášení, že [FROM.GetAdjective] operativci se snaží podporovat monarchistické nálady v naši zemi. V závislosti na našich dlouhodobých plánech bychom toto hnutí měli buď přijmout, nebo jej potlačit dříve, než se vymkne kontrole."
  JUNO_brazil_events.190.t: "[FROM.GetNameDefCap] podporuje [ROOT.GetAdjective] monarchismus"
  JUNO_brazil_events.191.a: "V budoucnu budeme muset použít jiné metody."
- JUNO_brazil_events.191.desc: "[FROM.GetNameDefCap][BRA.GetFlag] zavádí tvrdý zásah proti jakékoli propagaci monarchistických nálad. Nepřekvapivě to výrazně oslabilo působení našich operativců v této zemi."
+ JUNO_brazil_events.191.desc: "[FROM.GetNameDefCap][BRA.GetFlag] zavedl tvrdé potírání propagace monarchistických nálad. Není překvapivé, že to ochladilo vliv našich operativeců v zemi." # todo: CHANGED
  JUNO_brazil_events.191.t: "[FROM.GetNameDefCap] zakazuje monarchistické hnutí"
  JUNO_brazil_events.20.a: "Naše diplomatické manévrování přineslo ovoce."
  JUNO_brazil_events.20.desc: "Během nedávných setkání mezi [USA.GetAdjective] prezidentem a prezidentem [BRA.GetNonIdeologyName] v severovýchodní Brazílii se druhý jmenovaný zavázal dodržet závazky stanovené ve [USA.Capital.GetCapitalVictoryPointName]ských dohodách. To znamená, že nyní nasadí své vojenské síly do naší probíhající války proti tyranii po celém světě."
@@ -906,7 +906,7 @@
  JUNO_brazil_events.62.desc: "Náš nedávný návrh vyvolal překvapivou reakci. [POR.GetNameDefCap] odmítá myšlenku sjednocení, ale místo toho navrhuje vytvoření společenství našich dvou zemí. To by nám poskytlo některé výhody sjednocení, trochu méně nevýhod a umožnilo oběma státům zachovat si vlastní jedinečnou identitu."
  JUNO_brazil_events.62.t: "[POR.GetNameDefCap] navrhuje společenství"
  JUNO_brazil_events.63.a: "Copak nevidí, kolik bychom tím mohli získat?"
- JUNO_brazil_events.63.desc: "Náš návrh na sjednocení byl přijat s nezájmem a odmítnut. Navzdory veškerému úsilí přesvědčit je o výhodách této dohody nemá [POR.GetNameDef] žádný zájem znovusjednotit naše země."
+ JUNO_brazil_events.63.desc: "Náš návrh na sjednocení s [POR.GetNameDef] byl přijat lhostejným odmítnutím. Navzdory veškerému úsilí jim ukázat výhody této dohody [POR.GetAdjective] nemají zájem naše země znovu sjednotit." # todo: CHANGED
  JUNO_brazil_events.63.t: "[POR.GetNameDefCap] odmítá sjednocení"
  JUNO_brazil_events.64.a: "Výborně!"
  JUNO_brazil_events.64.desc: "Náš protinávrh na vytvoření společenství namísto přímého připojení se u [BRA.GetAdjective] vedení setkal s pozitivní odezvou. Zřekli se myšlenky sjednocení a souhlasí, že společenství by bylo přínosné pro obě strany."
@@ -958,7 +958,7 @@
  JUNO_brazil_events.85.t: "[FROM.GetNameDefCap] přijímá naše pozvání"
  JUNO_brazil_events.86.a: "Musíme znovu pomoci našim soudruhům!"
  JUNO_brazil_events.86.b: "Jedno neúspěšné povstání v Brazílii stačí."
- JUNO_brazil_events.86.desc: "[BRA.GetCommunistParty] nás znovu oslovuje s žádostí o pomoc. Přestože se nyní nenacházejí v ozbrojeném konfliktu, neúspěch při pokusu o převzetí moci v roce 1935 stále zůstává v živé paměti. Přejí si, abychom stáli po jejich boku aktivněji a zajistili, že se podobné fiasko nebude opakovat."
+ JUNO_brazil_events.86.desc: "Vůdci [BRA.GetCommunistParty] v [BRA.GetNameDef] se na nás opět obrátili s žádostí o pomoc. Přestože právě nejsou v ozbrojeném konfliktu, neúspěch uchopení moci v roce 1935 je stále živý v paměti všech. Chtějí, abychom stáli po jejich boku aktivněji, aby se podobné fiasko neopakovalo." # todo: CHANGED
  JUNO_brazil_events.86.t: "[BRA.GetAdjectiveCap] komunisté žádají o naši pomoc"
  JUNO_brazil_events.87.a: "Věděli jsme, že se můžeme spolehnout na [SOV.GetNamDef]!"
  JUNO_brazil_events.87.desc: "Jak jsme doufali, [SOV.GetAdjective] vedení nám v těchto těžkých časech nabídlo podporu. Samozřejmě na ně nemůžeme spoléhat při řešení všech našich problémů, ale jejich opětovná podpora je velmi vítanou pomocí."
@@ -989,10 +989,10 @@
  JUNO_brazil_news.6.d: "[BRA.GetAdjectiveCap] nepokoje se v posledních dnech zcela vymkly kontrole a vyústily v komunistický převrat. Vláda sice v roce 1935 zmařila pokus komunistického hnutí o svržení režimu, avšak nedokázala zastavit rostoucí rudou vlnu. Zatímco většina armády zůstala loajální centrální vládě, mnozí nižší důstojníci se přidali ke komunistům. Mnozí v regionu se obávají, že komunistická [BRA.GetNonIdeologyName] spustí dominový efekt po celém jihoamerickém kontinentu."
  JUNO_brazil_news.6.t: "[ROOT.GetNonIdeologyName] zažívá komunistický převrat"
  JUNO_guay_events.1.a: "Skvělé"
- JUNO_guay_events.1.desc: "Vojenské důstojnické sbory vyjádřily podporu vládnoucí vládě. Strategie usmiřování zafungovala a zdá se, že prostředky směřované do armády přinesly i další přínosy."
+ JUNO_guay_events.1.desc: "Vojenskí důstojníci vyjádřili podporu vládě. Strategie urovnávání zafungovala a zdá se, že prostředky směřované do armády měly i další přínosy." # todo: CHANGED
  JUNO_guay_events.1.t: "Důstojníci podporují vládu"
  JUNO_guay_events.10.a: "Tak tedy až do samého konce."
- JUNO_guay_events.10.desc: "[FROM.GetNameDefCap] nás informuje, že žádný mír nebude. Je zřejmé, že [FROM.GetName] hodlá naši zemi plně anektovat. Jedná se o totální válku, dokud nezůstane jenom jeden z nás."
+ JUNO_guay_events.10.desc: "[FROM.GetNameDefCap] nás informoval, že míru nebude. Je jasné, že [FROM.Getname] hodlá naši zemi úplně anektovat. Toto je totální válka až do posledního muže." # todo: CHANGED
  JUNO_guay_events.10.t: "[FROM.GetNameDef] se rozhoduje pokračovat v útoku"
  JUNO_guay_events.2.a: "Dobrá investice"
  JUNO_guay_events.2.b: "Nemáme zájem"
@@ -1006,7 +1006,7 @@
  JUNO_guay_events.4.desc: "[FROM.GetName] odmítá myšlenku investovat do naší země. To nelze vnímat jinak než jako diplomatické selhání."
  JUNO_guay_events.4.t: "[FROM.GetName] odmítá!"
  JUNO_guay_events.5.a: "Vše má svou cenu."
- JUNO_guay_events.5.desc: "Nastal čas splatit náš dluh, který u nás má [?var:old_world_power.GetName]. Ačkoli to na čas poškodí naši ekonomiku, každý dobrý ekonom řekne, že dluh nemusí být nutně špatný, pokud je investován - což je přesně to, co jsme učinili."
+ JUNO_guay_events.5.desc: "Nastal čas splatit naše dluhy vůči [?var:old_world_power.GetName]. Ačkoliv to na nějakou dobu poškodí naši ekonomiku, jak každý dobrý ekonom řekne, dluh není vždy špatný, pokud je investován — a právě to jsme udělali." # todo: CHANGED
  JUNO_guay_events.5.t: "Splacení investice do přehrady"
  JUNO_guay_events.6.a: "V této zbytečné válce nemůžeme pokračovat."
  JUNO_guay_events.6.b: "Území nám právem náleží"
@@ -1014,20 +1014,20 @@
  JUNO_guay_events.6.t: "[FROM.GetAdjectiveCap] vojenský postup"
  JUNO_guay_events.7.a: "O krok blíže k nadvládě."
  JUNO_guay_events.7.b: "Ve skutečnosti se nám daří, pokračujme"
- JUNO_guay_events.7.desc: "Naše vítězné jednotky vytlačily nepřítele z našich právoplatných území. [FROM.GetName] ustoupí a předá nám území namísto pokračování v prohrané bitvě. Prestižní vítězství pro nás - a oni netuší, že je to teprve začátek."
+ JUNO_guay_events.7.desc: "Naše vítězné jednotky vytlačily nepřátele z našich oprávněných území. [FROM.GetName] se rozhodl ustoupit a postoupit nám území místo vedení ztraceného boje. Prestižní vítězství pro nás — netuší však, že je to teprve začátek." # todo: CHANGED
  JUNO_guay_events.7.t: "[FROM.GetName] ustupuje"
  JUNO_guay_events.8.a: "Ukončeme tuto frašku"
  JUNO_guay_events.8.desc: "[FROM.GetName] nás informuje, že považuje za urážlivé vůbec uvažovat o vzdání se kontroly nad svou domovinou. Oznámili, že budou bojovat, dokud nebude naše vláda svržena a naše armáda rozpuštěna."
  JUNO_guay_events.8.t: "[FROM.GetName] odmítá ustoupit"
  JUNO_guay_events.9.a: "Velký přínos."
- JUNO_guay_events.9.desc: "[FROM.GetName] splácí svůj dluh plynoucí z naší investice do jejich infrastruktury. Dodržení této dohody naše země výrazně sblížilo."
+ JUNO_guay_events.9.desc: "[FROM.GetName] splatil svůj dluh z naší investice do jejich infrastruktury. Dodržení této dohody naše země přiblížilo." # todo: CHANGED
  JUNO_guay_events.9.t: "[FROM.GetName] splácí investici do přehrady"
  TOA_ven_blockade.1.a: "[FROM.GetName] je pro nás přisilný protivník."
  TOA_ven_blockade.1.b: "Tohle je vyhlášení války!"
  TOA_ven_blockade.1.desc: "[FROM.GetName] rozmístilo válečné lodě těsně u našeho pobřeží ve snaze zablokovat dodávky ropy směřující k jejich protivníkům. [FROM.GetAdjectiveCap] vláda prohlašuje, že neusiluje o přímý konflikt, ale pouze o nátlak na svého nepřítele. Jde však o jasnou eskalaci a přestože zatím nebyl nikdo zraněn, přítomnost válečných lodí výrazně napjala atmosféru v Caracasu."
  TOA_ven_blockade.1.t: "[FROM.GetName] blokuje přepravu ropy"
  TOA_ven_blockade.2.a: "Jasné porušení neutrality!"
- TOA_ven_blockade.2.desc: "[FROM.GetName] činí odvážný a pobuřující krok, po kterém je [VEN.GetName] pod blokádou. U Caracasu byly spatřeny válečné lodě a [VEN.GetAdjective] vláda byla údajně informována, že byla zavedena úplná blokáda s cílem zastavit obchod s ropou mezi našimi zeměmi."
+ TOA_ven_blockade.2.desc: "[FROM.GetName] podnikl odvážný a skandální krok a úplně blokuje [Ven.GetName]. U pobřeží Caracasu byly spatřeny hlavní válečné lodě a [VEN.GetAdjective] vláda byla údajně informována o vyhlášení úplné blokády, která má zastavit obchod s ropou mezi našimi zeměmi." # todo: CHANGED
  TOA_ven_blockade.2.t: "$TOA_ven_blockade.1.t$"
  brazil_promoting_communism_tt: "Odemkne rozhodnutí §YZakročit proti komunismu§! k potlačení [FROM.GetAdjective] vlivu na naši politiku."
  german_busch_and_gualberto_imprisoned: "Generálové §YGermán Busch§! a §YGualberto Villarroel López§! jsou uvězněni"
@@ -1036,7 +1036,7 @@
  paraguay.1.a: "Skvělý nápad"
  paraguay.1.b: "Na to nejsou prostředky"
  paraguay.1.desc: "Obnova Humaitá nám poskytla příležitost zvýšit výdaje na obranu a přidat další opevnění v okolí, včetně menší pevnosti k lepší ochraně říčního vstupu do hlavního města."
- paraguay.1.t: "Příležitost ke zvýšení výdajů na opevnění"
+ paraguay.1.t: "Příležitost zvýšit výdaje na opevnění" # todo: CHANGED
  paraguay.1.tt: "Po dokončení §Y$PAR_rebuild_humaita$§! se přidá navíc: "
  rafael_franco_is_exiled: "Generál §YRafael Franco§! je poslán do exilu"
  south_american_events.1.a: "Alfredo Baldomir nahradí Terru"
@@ -1046,7 +1046,7 @@
  south_american_events.1.desc: "Přestože byl diktátorem s pevnou kontrolou nad politikou země, Gabriel Terra oznámil, že se znovu budou konat volby. Mnozí však již výsledek znají - strana Colorado se moci nevzdá a Terrův švagr Alfredo Baldomir je jediným skutečným nástupcem uvnitř strany. Přesto lidé přicházejí k volbám, aby rozhodli o nové budoucnosti Uruguaye."
  south_american_events.1.t: "Terra vyhlašuje národní volby"
  south_american_events.10.a: "[FROM.GetNameDef] nás nepřelstí!"
- south_american_events.10.d: "Po oznámení [FROM.GetAdjective] vlády, že hodlá rozšířit své loďstvo o další hlavní lodě, se zdá, že křehká rovnováha sil na kontinentu byla narušena. Nyní musíme rozhodnout, jak na obnovenou hrozbu našeho agresivního souseda zareagujeme."
+ south_american_events.10.d: "S oznámením [FROM.GetAdjective] vlády, že hodlají rozšířit svou flotilu o více hlavních lodí, se zdá, že křehká rovnováha sil na kontinentu byla narušena. Nyní musíme rozhodnout, jak odpovědět na znovuobnovenou hrozbu, kterou nyní představuje náš agresivní soused." # todo: CHANGED
  south_american_events.10.t: "[FROM.GetName] oznamuje námořní expanzi"
  south_american_events.11.a: "Ayala musí odstoupit, nemůžeme dopustit další eskalaci..."
  south_american_events.11.b: "Ať zaplatí za vyhrožování naší republice!"
@@ -1054,7 +1054,7 @@
  south_american_events.11.t: "Pokus o vojenský převrat"
  south_american_events.12.a: "Tejada Sorzano musí oznámit svou rezignaci"
  south_american_events.12.b: "Okamžitě potlačte jejich vzpouru!"
- south_american_events.12.d: "Po největší stávkové vlně v dějinách země se armáda vedená mladým podplukovníkem Germánem Buschem přesunula k svržení vlády Tejady. Tvrdí, že na rozdíl od Tejady stojí na straně bolivijského lidu a socialistických ideálů Sjednocené socialistické strany a odborů. Lze s tím ještě něco udělat, nebo je už příliš pozdě vzhledem ke katastrofě války v Chacu?"
+ south_american_events.12.d: "Po dosud největším stávkovém hnutí v zemi přešla armáda pod vedením mladého podplukovníka Germána Busche k svržení vlády Tejady. Tvrdí, že na rozdíl od Tejady stojí na straně bolivijského lidu a socialistických ideálů Sjednocené socialistické strany a odborů. Lze je ještě zastavit, nebo je už příliš pozdě vzhledem k katastrofě války v Chacu?" # todo: CHANGED
  south_american_events.12.t: "Germán Busch se chystá svrhnout vládu"
  south_american_events.13.a: "Musíme pomoci lidem!"
  south_american_events.13.b: "Máme větší problémy"
@@ -1140,10 +1140,10 @@
  south_american_events.60.t: "[MEX.GetNameDefCap] podněcuje komunistické nálady"
  south_american_events.61.a: "Požadovat, aby opustila náš přístav"
  south_american_events.61.b: "Povolit ji zůstat v přístavu a opravit se"
- south_american_events.61.desc: "Kriegsmarine a Royal Navy se utkaly v prudké bitvě těsně u Montevidea. Těžce poškozená [GER.GetAdjective] loď zakotvila kolem 00:10 v našem přístavu a žádá o opravy, zatímco britští diplomaté na nás tlačí, abychom loď vyhnali zpět na moře, kde by ji Royal Navy nevyhnutelně zničila."
+ south_american_events.61.desc: "Kriegsmarine a Royal Navy se utkaly v prudké bitvě těsně u Montevidea. [GER.GetAdjective] loď, vážně poškozená, zakotvila kolem 00:10 v našich přístavech a požádala o opravy, zatímco britští diplomaté na nás tlačí, abychom loď donutili vyplout na moře, kde ji nevyhnutelně zničí Royal Navy." # todo: CHANGED
  south_american_events.61.t: "Bitva u Río de la Plata"
  south_american_events.62.a: "Zajímavé"
- south_american_events.62.desc: "Kolem 06:18 se lodě Kriegsmarine a Royal Navy střetly v boji těsně u Montevidea. Podle zpráv jsou německé lodě těžce poškozené a uchýlily se do přístavu uruguayského hlavního města. Britští diplomaté tlačí na uruguayskou vládu, aby v souladu s Haagskou úmluvou donutila loď opustit přístav, kde by ji čekající jednotky Royal Navy jistě zničily."
+ south_american_events.62.desc: "Kolem 06:18 se u Montevidea střetly lodě Kriegsmarine a Royal Navy. Podle zpráv jsou německé lodě těžce poškozené a hledají útočiště v přístavu uruguayského hlavního města. Britští diplomaté tlačí uruguayskou vládu, aby loď vyhnala z přístavu v souladu s haagskou úmluvou, kde ji jistě zničí čekající síly Royal Navy." # todo: CHANGED
  south_american_events.62.t: "Bitva u Río de la Plata"
  south_american_events.63.a: "Nechat je pokračovat."
  south_american_events.63.b: "Tvrdě zakročit proti těmto fašistickým agitátorům!"
@@ -1162,11 +1162,11 @@
  south_american_news.10.t: "[FROM.GetName] vyvolává námořní závody ve zbrojení"
  south_american_news.11.a: "Jak může být vojenská diktatura socialistická?"
  south_american_news.11.b: "Využijeme příležitosti!"
- south_american_news.11.d: "Po největším stávkovém hnutí v dějinách Bolívie převzala moc armáda pod vedením mladého podplukovníka Germána Busche a svrhla vládu Genuine Republican strany José Luise Tejady Sorzana. Tvrdí, že na rozdíl od Tejady stojí na straně bolivijského lidu a jeho socialistických ideálů - a po Tejadově rezignaci nyní plně převzali moc v zemi."
+ south_american_news.11.d: "Po dosud největším stávkovém hnutí v Bolívii přešla armáda pod vedením mladého podplukovníka Germána Busche k svržení vlády Genuine Republican José Luise Tejady Sorzana. Tvrdili, že na rozdíl od Tejady stojí na straně bolivijského lidu a jeho socialistických ideálů, a nyní s rezignací Tejady převzali plnou kontrolu nad Bolívií." # todo: CHANGED
  south_american_news.11.t: "Bolivijská socialistická revoluce v roce 1936"
  south_american_news.12.a: "Takhle se to rozhodně nedělá."
  south_american_news.12.b: "Ukončili jsme jejich podlý puč!"
- south_american_news.12.d: "Po největším stávkovém hnutí v dějinách Bolívie převzala moc armáda pod vedením mladého podplukovníka Germána Busche a pokusila se svrhnout vládu José Luise Tejady Sorzana. Tvrdili, že na rozdíl od Tejady stojí na straně lidových a socialistických ideálů, avšak nepodařilo se jim dobýt La Paz - policie a zbytky armády jejich skupinu dopadly a jejich vůdce uvěznily."
+ south_american_news.12.d: "Po dosud největším stávkovém hnutí v Bolívii přešla armáda pod vedením mladého podplukovníka Germána Busche k svržení vlády Genuine Republican José Luise Tejady Sorzana. Tvrdili, že na rozdíl od Tejady stojí na straně bolivijského lidu a jeho socialistických ideálů, ale když se jim nepodařilo dobýt La Paz, policie a zbývající vojáci jejich skupinu dopadli a uvěznili jejich vůdce." # todo: CHANGED
  south_american_news.12.t: "Bolivijští generálové zpackali svůj puč"
  south_american_news.13.a: "Otřesné"
  south_american_news.13.d: "Zemětřesení o síle 8,3 a maximální intenzitě X na Mercalliho škále zničilo chilská města Chillán a Concepción a zanechalo více než 28 000 mrtvých. Záchranné a rekonstrukční práce probíhají, ale tisíce lidí už přišly o domovy a země v regionu si nejsou jisty, jak nejlépe reagovat na tuto katastrofu."
@@ -1193,7 +1193,7 @@
  south_american_news.4.t: "Lidová revoluce v Uruguayi"
  south_american_news.5.a: "Tohle určitě změní mocenskou rovnováhu v regionu"
  south_american_news.5.b: "Znovu sjednoceni!"
- south_american_news.5.d: "Poprvé od války konfederace, kdy se rozpadl sjednocený stát Peru-Bolívie, a o němž se myslelo, že už nikdy nevznikne, je zpět. Někteří tvrdí, že jde jen o zástěrku imperialistických ambicí, jiní doufají, že konfederace dokáže sjednotit lid jako nikdy předtím. Jedno je však jisté - unie je tu, aby zůstala."
+ south_american_news.5.d: "Poprvé od války konfederační, kdy zaniklo sjednocené státní uspořádání Peru-Bolívie a zdálo se, že už nebude znovu existovat, je zpět. Někteří tvrdí, že je to jen fasáda k zakrytí skutečných imperialistických ambic vládců, ale mnozí doufají, že konfederační svaz dokáže sjednotit lid způsobem, jaký dosud neznal. Co je však jisté, je to, že unie tu má v úmyslu zůstat." # todo: CHANGED
  south_american_news.5.t: "Obnovení Peru-bolivijské konfederace"
  south_american_news.50.a: "Bolševici dostali, co si zasloužili."
  south_american_news.50.b: "Znepokojivá situace."
@@ -1226,6 +1226,9 @@
  south_american_news.8.t: "Únorová revoluce"
  south_american_news.9.a: "Zajímalo by mě, co si o tom myslí jejich lidé?"
  south_american_news.9.b: "Doufejme, že to je naposledy, co jsme ty povstalce viděli..."
- south_american_news.9.d: "Paraguayský prezident Eusebio Ayala oznámil, že on a republikánská garda pod vedením jeho pravé ruky José Félixe Estigarribia úspěšně potlačili vzpouru a pokus o převrat vojenských důstojníků podporujících revoluční febreristy a jejich vůdce, generála Rafaela Franca. Země se však nyní nachází v ještě horším stavu než před několika měsíci, kdy skončila válka o Chaco, a zdá se, že k obnovení stability má ještě daleko."
+ south_american_news.9.d: "Paraguayský prezident Eusebio Ayala oznámil, že on a republikánská garda vedená jeho pravou rukou José Félixem Estigarribiou úspěšně potlačili vzpouru a pokus o převrat vojenských důstojníků podporujících revoluční febreristy a jejich vůdce, generála Rafaela Franca. Země je nyní však v ještě horším stavu než před několika měsíci, kdy skončila válka v Chacu, a zdá se, že je stále daleko od obnovení jednoty." # todo: CHANGED
  south_american_news.9.t: "Vzpoura paraguayských důstojníků potlačena"
  united_french_monarhcist_faction: "Frankofonní hegemonie"
+ JUNO_brazil_news.7.t: "Smrt Pedra de Alcântara" # todo: NEW TRANSLATION
+ JUNO_brazil_news.7.desc: "Náš starý císař, Dom Pedro de Alcântara z Orléans-Braganza, princ z Grão Pará a císař Brazílie, zemřel. Během svého krátkého panování sloužil jako symbol míru a stability pro náš lid a stal se bodem sjednocení pro [FROM.GetAdjective]s během těchto bouřlivých časů. Smutní lidé vyšly do ulic, aby prokázali svou úctu a podporu zemřelému císaři. \n\n Národ doufá, že dědic a nástupce starého císaře, princ Pedro Gastão, bude pro [FROM.GetAdjective] lid podobně pevnou oporou. Princ bude brzy korunován císařem Dom Pedrem IV. - ať dlouho vládne!" # todo: NEW TRANSLATION
+ JUNO_brazil_news.7.a: "Ať žije Pedro Gastão z Orléans-Braganza!" # todo: NEW TRANSLATION

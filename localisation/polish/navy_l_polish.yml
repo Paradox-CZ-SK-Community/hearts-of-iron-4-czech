@@ -1,5 +1,5 @@
 ﻿l_polish:
- HOME_BASE_RIGHT_CLICK: "§GPravým kliknutím§! přesuneš pohled na aktuální domovskou základnu."
+ HOME_BASE_RIGHT_CLICK: "§GKlepněte pravým tlačítkem§! pro přesunutí zobrazení na aktuální domovskou základnu" # todo: CHANGED
  HOME_BASE_NONE: "Žádná"
  HOME_BASE_STATE_NAME: "$STATE$ ($LEVEL|Y$)"
  NAVAL_DOMINANCE_CURRENT_VALUE: "Poměr kontroly: $RATIO|%2G$\nAktuální námořní převaha: £naval_dominance_texticon£$CURRENT|0Y$"

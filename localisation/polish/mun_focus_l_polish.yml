@@ -199,7 +199,7 @@
  CZE_state_sponsored_recruitment_for_spain_desc: "V novém konfliktu, kde může zahraniční zásah hrát klíčovou roli, bychom měli povzbudit zkušené [ROOT.GetAdjective] dobrovolníky, aby podpořili stranu, která je nejbližší našim zásadám. Zároveň se při tom můžeme poučit o vývoji válčení za poslední desetiletí."
  CZE_support_spain_reward_tt: "§YÚčinky, pokud španělská frakce s našimi dobrovolníky zvítězí nebo prohraje:§!"
  CZE_profit_off_the_spanish_civil_war: "Vydělat na španělské občanské válce"
- CZE_profit_off_the_spanish_civil_war_desc: "Španělská občanská válka se stává zástupnou válkou velmocí. Neměli bychom riskovat životy našich statečných vojáků zapletením do takového konfliktu. Místo toho je to dokonalá příležitost financovat rozvoj našeho průmyslu prodejem zbraní, případně i oběma stranám."
+ CZE_profit_off_the_spanish_civil_war_desc: "Španělská občanská válka se stává zástupnou válkou velmocí. Neměli bychom riskovat životy našich statečných vojáků a zaplést se do takového konfliktu. Naopak je to dokonalá příležitost financovat rozvoj našeho průmyslu prodejem zbraní, případně i oběma stranám." # todo: CHANGED
  CZE_skoda_sell_weapons_to_SPR_tt: "Odemkne rozhodnutí: §Y$CZE_skoda_sell_weapons_to_SPR$§!"
  CZE_placate_benes_faction: "Ustoupit frakci Beneše"
  CZE_placate_benes_faction_desc: "$CZE_milan_hodza$ se musí smířit s tím, že jeho působení ve funkci ministra zahraničí dopadlo katastrofálně. $CZE_edvard_benesh$ je připraven nastoupit se svými podporovateli mezi Agrárníky a posílit postavení, které má $CZE_milan_hodza$ jako předsedy vlády, pokud se vzdá ministerstva zahraničí."
@@ -251,10 +251,10 @@
  CZE_demand_overlordship_of_yugoslav_league: "Požadovat suzerenitu nad [YUG.GetAdjective] ligou"
  CZE_demand_overlordship_of_yugoslav_league_desc: "Stejně jako [YUG.GetName] víme, že v mnohonárodním státě je někdy nutná místní autonomie, avšak jejich spojenectví je nyní příliš slabé, aby se ubránilo. Musíme přimět, ať to uzná i [YUG.GetNameDef] a dovolí nám zasáhnout."
  CZE_expand_the_rome_protocols: "Rozšířit Římské protokoly"
- CZE_expand_the_rome_protocols_desc: "Pro naši novou vládu je [ITA.capital.GetCapitalVictoryPointName] mnohem blíž než [GER.capital.GetCapitalVictoryPointName]. Vzhledem k neshodám mezi nimi ohledně Rakouska by vstup do Římských protokolů mohl znamenat, že [ITA.GetNameDef] získá potřebnou jistotu a bude pokračovat ve svém současném kurzu, než aby si za spojence zvolili [GER.GetNameDef]."
+ CZE_expand_the_rome_protocols_desc: "Naše nová vláda je mnohem více sladěna s tou v [ITA.capital.GetCapitalVictoryPointName] než v [GER.capital.GetCapitalVictoryPointName]. Vzhledem k neshodám mezi oběma ohledně Rakouska může vstup do Římských protokolů dát [ITA.GetNameDef] jistotu, kterou potřebuje, aby zůstala na současné cestě místo obratu k [GER.GetNameDef]." # todo: CHANGED
  CZE_prague_protocols: "Pražské protokoly"
  CZE_soviet_alliance: "Rozšířit spojeneckou smlouvu z roku 1935"
- CZE_soviet_alliance_desc: "Současná spojenecká smlouva, kterou s námi má [SOV.GetNameDef], je příliš nejasná, než abychom si mohli být jisti jejich zásahem, pokud budeme napadeni. Chceme-li si zajistit bezpečnost, musíme je oslovit s novou dohodou."
+ CZE_soviet_alliance_desc: "Současná smlouva o alianci s [SOV.GetNameDef] je příliš nejasná, abychom si byli jisti jejich zásahovou pomocí v případě útoku. Musíme je proto požádat o novou dohodu, pokud chceme zaručit naši bezpečnost." # todo: CHANGED
  CZE_airlift_soviet_support: "Letecké dopravení sovětské podpory"
  CZE_airlift_soviet_support_desc: "Absence společných hranic s naším [SOV.GetAdjective] spojencem vedl k novému nápadu dopravit [SOV.GetAdjective] jednotky letecky. Operace takového rozsahu ještě nikdy neproběhla, ale znamenala by, že [SOV.GetNameDef] nebude muset vstupovat na území našich sousedů, alespoň po souši."
  CZE_unlocks_volunteer_transport_raid_tt: "Odemkne §YÚder§!:\nLetecký most pro sovětské dobrovolníky na §Y[73.GetName]§!"
@@ -282,7 +282,7 @@
  CZE_ally_poland: "[POL.GetName] jako spojenec"
  CZE_ally_poland_desc: "S polsko-sovětskou válkou stále v paměti a rostoucí hrozbou na západě se [POL.GetNameDef] nachází v podobné bezpečnostní situaci jako my. Musíme je přesvědčit, že neutralita je nezachrání, a aby vsadili na nás."
  CZE_realize_the_polish_czechoslovak_confederation: "Vytvořit konfederaci"
- CZE_realize_the_polish_czechoslovak_confederation_desc: "Navzdory statečnému boji bylo [POL.GetNameDef] poraženo. S jeho vládou nyní v exilu se objevily myšlenky na unii s námi. Sloučením jejich vlády s naší bychom mohli sjednotit [POL.GetNameDef] pro tento nový stát a koordinovaně usilovat o osvobození společné vlasti."
+ CZE_realize_the_polish_czechoslovak_confederation_desc: "Navzdory jejich statečnému boji byla [POL.GetNameDef] poražena. S jejich vládou nyní v exilu se objevily myšlenky na unii s námi. Pokud by se jejich vláda sloučila s naší, mohli bychom svolat [POL.GetAdjective] k tomuto novému státu a podniknout koordinované úsilí o osvobození naší společné vlasti." # todo: CHANGED
  CZE_integrate_western_ukrainians: "Začlenit západní Ukrajince"
  CZE_integrate_western_ukrainians_desc: "Ukrajincům poskytuje [CZE.GetNameDef] značnou pomoc a autonomii, nyní se můžeme pokusit začlenit nově získaná území do naší ukrajinské provincie."
  CZE_ally_russia: "[SOV.GetNonIdeologyName] jako spojenec"
@@ -371,7 +371,7 @@
  CZE_revert_1926_anti_military_laws_desc: "Po pokusu o převrat, který vedl $CZE_radola_gajda$, přišla armáda a četnictvo o volební právo i některá další privilegia. Vzhledem ke klíčové roli armády v těchto těžkých časech je spravedlivé tato omezení odstranit a ukončit odluku mezi armádou a politikou."
  CZE_bop_to_fascism_support_tt: "Přidá třetinu hodnoty §Y$CZE_bop_army_readiness$§! k podpoře fašismu:"
  CZE_power_to_the_military: "Moc pro armádu"
- CZE_power_to_the_military_desc: "Je zřejmé, že při obraně národa nelze šetřit žádnými prostředky. Proto je zásadní, aby ti u moci rozuměli potřebám armády, a není lepšího způsobu, jak toho dosáhnout, než vojenskou vládou."
+ CZE_power_to_the_military_desc: "Je jasné, že v obraně národa nelze šetřit. Proto je zásadní, aby ti u moci rozuměli potřebám armády, a není lepšího způsobu, jak toho dosáhnout, než prostřednictvím vojenské vlády." # todo: CHANGED
  CZE_militarize_the_associations: "Militarizovat spolky"
  CZE_militarize_the_associations_desc: "Mnohé spolky, které má [CZE.GetNameDef], mohou přispět k obraně národa tím, že budou vyučovat dovednosti nezbytné pro vojáka ještě před mobilizací obyvatelstva."
  CZE_aggressive_foreign_policy: "Agresivní zahraniční politika"
@@ -426,7 +426,7 @@
  CZE_expand_praga_desc: "Praga byla dlouho dodavatelem různých komponent pro náš vojenský průmysl. Je rozumné jí přidělit další zakázky k jejímu rozvoji."
  CZE_shrink_educational_disparities: "Zmírnit vzdělávací rozdíly"
  CZE_shrink_educational_disparities_desc: "Našim venkovským oblastem se nedostává kvalitního vzdělání, které je běžné ve městech. Musíme tyto rozdíly odstranit rozsáhlými vzdělávacími programy zaměřenými na tyto oblasti."
- CZE_kickstart_rapid_rearmanent: "Spustit rychlé přezbrojení"
+ CZE_kickstart_rapid_rearmanent: "Zahájit rychlé přezbrojení" # todo: CHANGED
  CZE_kickstart_rapid_rearmanent_desc: "Mnozí politici a podnikatelé to mohou považovat za strašné rozhodnutí, ale musíme začít přezbrojovat ihned. Země kolem nás se neodzbrojují, právě naopak, a je to veřejné tajemství. Musíme připravit naši armádu, dokud ještě máme čas."
  CZE_keep_focus_on_weapon_exports: "Zachovat důraz na vývoz zbraní"
  CZE_keep_focus_on_weapon_exports_desc: "Náš rozsáhlý vývoz zbraní nás vyvedl z hospodářské krize. Obrátit tento trend by bylo politicky i hospodářsky nebezpečné. Pokračovat v dosavadním směru je nyní nejlepší možností. Hrozby proti nám jsou ostatně přehnané."
@@ -524,7 +524,7 @@
  CZE_anti_tank_development_desc: "Stále více armád nasazuje početnější a silnější obrněné síly, proto jsou zlepšení našich protitankových zbraní nezbytností. Schopnost ničit tanky polním dělostřelectvem rozhodne, zda nepřítele zastavíme, nebo prorazí."
  CZE_anti_tank_development_tech_tt: "Povolí §YProtitanková vylepšení§!\n§YDělostřelectvo§! Průbojnost: §G+5%§!\n§YPodpůrné dělostřelectvo§! Průbojnost: §G+5%§!\n§YProtitankové§! Průbojnost: §G+5%§!\n§YPodpůrné protitankové§! Průbojnost: §G+5%§!"
  CZE_recon_in_force: "Průzkum bojem"
- CZE_recon_in_force_desc: "To, že se naše průzkumná jednotka dostane do kontaktu s nepřítelem při prověřování jeho obrany, je neocenitelným způsobem, jak získat informace."
+ CZE_recon_in_force_desc: "Nechat náš průzkum navázat kontakt s nepřítelem při sondování jejich obrany je neocenitelný způsob, jak získat zpravodajské informace." # todo: CHANGED
  CZE_recon_in_force_tech_tt: "Povolí §Y$ABILITY_PROBING_ATTACK$§! \n§YPrůzkum§!: HP: §G+5§!\nPrůzkum: §G+10.0%§!."
  CZE_integrate_fortification_engineers: "Začlenit pevnostní ženisty"
  CZE_integrate_fortification_engineers_desc: "Když naši pevnostní ženisté právě nestaví stálá opevnění, můžeme je rychle přesunout na frontové úkoly a zlepšit naši obranu. Pomohou frontovým jednotkám budovat lepší polní opevnění."
@@ -631,7 +631,7 @@
  CZE_propose_unification_tt: "$CZE_decision_unlock$§YPozvat zemi do Československého svazu§!"
  CZE_integrate_nation_tt: "$CZE_decision_unlock$§YIntegrovat zemi§!"
  GER_integrate_czech_manufacturers: "Začlenit české výrobce"
- GER_integrate_czech_manufacturers_desc: "Průmysl nacházející se v Čechách je zlatým dolem výrobních zkušeností a průmyslových zdrojů pro naši ekonomiku. Dodatečná průmyslová síla českých výrobců by výrazně posílila náš zbrojní průmysl. Dává dokonalý smysl začlenit je do našich výrobních linek."
+ GER_integrate_czech_manufacturers_desc: "Průmysl ležící v Čechách je zlatým dolem výrobních znalostí a průmyslových zdrojů pro naši ekonomiku. Dodatečná průmyslová síla, kterou by přidali výrobci z Čech, by byla obrovským posílením našeho zbrojního průmyslu. Dává naprostý smysl je integrovat do našich výrobních linek." # todo: CHANGED
  GER_integrate_czech_manufacturers_no_aat_tt: "§GDostupné§! jako §YKonstruktér techniky§!:\n§Y$CZE_skoda_works_german_organization$§!, §Y$CZE_bohmische_mahrische_maschinenfabrik_ag_german_organization$§!, §Y$CZE_zlin_aircraft_organization$§! a §Y$CZE_ceska_zbrojovka_uhersky_brod_organization$§!"
  CZE_unlocks_sokolov_raid_pfot_tt: "Odemkne §YVýsadkový úder§! na §YFalknov§!"
  CZE_wielding_the_hammer: "Třímat kladivo"
@@ -644,3 +644,5 @@
  CZE_usurp_the_mantle_desc: "S naším královstvím táhnoucím se od Baltského moře po Jaderské a vládnoucím nad zeměmi historické regionální velmoci Rakouska můžeme nyní prohlásit, že jsme právoplatným nástupcem Svaté říše římské."
  CZE_austro_hungary_puppets: "Každý §Ysubjekt§!, který je cílem požadavku zaměření"
  CZE_decrease_autonomy_tier: "Každý subjekt úrovně §Y$autonomy_dominion$§! nebo §Y$autonomy_puppet$§!  ztratí jednu úroveň autonomie."
+ CZE_bend_the_bars: "$ITA_bend_the_bars$" # todo: NEW TRANSLATION
+ CZE_bend_the_bars_desc: "$GER_european_confederation_desc$" # todo: NEW TRANSLATION

@@ -119,8 +119,8 @@
  EQUIPMENT_DESIGNER_ANTI_SUB_ATTACK_ICON_TOOLTIP: "Útok proti ponorkám"
  EQUIPMENT_DESIGNER_ARMY_XP_COST: "£army_experience Náklady na návrh: $COST|Y0$"
  EQUIPMENT_DESIGNER_AUTO_BUTTON: "Auto"
- EQUIPMENT_DESIGNER_AUTO_BUTTON_ACTION_TO_ADJUST: "§GKlikněte§! pro §Hupravení§! aktuálního návrhu."
- EQUIPMENT_DESIGNER_AUTO_BUTTON_ACTION_TO_REPLACE: "§GShift+Click§! pro §Hnáhradu§! aktuálního návrhu."
+ EQUIPMENT_DESIGNER_AUTO_BUTTON_ACTION_TO_ADJUST: "§GKlikněte§! pro §Húpravu§! aktuálního návrhu" # todo: CHANGED
+ EQUIPMENT_DESIGNER_AUTO_BUTTON_ACTION_TO_REPLACE: "§GShift+Click§! pro §Hnahrazení§! aktuálního návrhu" # todo: CHANGED
  EQUIPMENT_DESIGNER_AUTO_BUTTON_DESC: "§HAutomatický návrh§!\nVygenerujte kompletní návrh, který nejlépe vyhovuje aktuálnímu návrhu."
  EQUIPMENT_DESIGNER_AUTO_BUTTON_DESC_DELAYED: "Budete mít možnost přezkoumat a upravit vygenerovaný návrh před jeho schválením a zaplacením jakýchkoli nákladů za zkušenosti."
  EQUIPMENT_DESIGNER_AUTO_UPGRADED_CHECKBOX_BUTTON_DESC: "§HAutomatické vylepšení§!\nPokud je zaškrtnuto, tento návrh bude automaticky vylepšen, když budou k dispozici lepší podvozky a moduly."
@@ -454,3 +454,43 @@
  EQUIPMENT_CATEGORIES_AUTO: "Automaticky §g($EQUIPMENT_CATEGORY$)§!"
  EQUIPMENT_CATEGORIES_DESC: "Vyberte kategorii vybavení pro filtrování"
  NAME_THEME_HISTORICAL_BM: "Historické monitory"
+ DESIGNER_ADD_COPY_ABOVE: "§GShift + Kliknutí§! pro přidání kopie slotu nad tímto" # todo: NEW TRANSLATION
+ DESIGNER_ADD_FILL_REGIMENT: "§GCtrl + Kliknutí§! pro vyplnění zbytku pluku kopiemi slotu nad tímto" # todo: NEW TRANSLATION
+ DESIGNER_ADD_FILL_REGIMENT_FROM_PICK: "§GCtrl + Kliknutí§! pro vyplnění celého pluku vybraným batalionem" # todo: NEW TRANSLATION
+ DESIGNER_ADD_COPY_LEFT_REGIMENT: "§GShift + Kliknutí§! pro přidání kopie prvního batalionu z pluku vlevo" # todo: NEW TRANSLATION
+ DESIGNER_ADD_FILL_REGIMENT_FROM_LEFT: "§GCtrl + Shift + Kliknutí§! pro vyplnění pluku kopiemi prvního batalionu z pluku vlevo" # todo: NEW TRANSLATION
+ DESIGNER_REMOVE_REGIMENT: "§GCtrl + Kliknutí§! pro odstranění všech batalionů v tomto pluku" # todo: NEW TRANSLATION
+ DESIGNER_HQ_ADD_COPY_ABOVE: "§GKliknutí§! pro přidání dalšího §H$UNIT$§! batalionu" # todo: NEW TRANSLATION
+ DESIGNER_HQ_REMOVE: "§GKliknutí§! pro odstranění" # todo: NEW TRANSLATION
+ DESIGNER_HQ_TITLE: "Návrhář velitelství armády" # todo: NEW TRANSLATION
+ DESIGNER_HQ_COMPOSITION: "Složení velitelství armády" # todo: NEW TRANSLATION
+ DESIGNER_HQ_COMPOSITION_DESC: "Složení batalionů a podpůrných čet, které tvoří tento vzor velitelství armády." # todo: NEW TRANSLATION
+ DESIGNER_HQ_SUPPORT_HEADER: "Podpora štábu" # todo: NEW TRANSLATION
+ DESIGNER_HQ_MODIFIERS_HEADER: "Bonusy velitele" # todo: NEW TRANSLATION
+ DESIGNER_HQ_MODIFIERS_HEADER_DESC: "Bonusy udělené veliteli nasazenému s tímto velitelstvím armády." # todo: NEW TRANSLATION
+ DESIGNER_HQ_BATTALIONS_HEADER: "Bataliony" # todo: NEW TRANSLATION
+ DESIGNER_BLOCKED_REGIMENTAL_SUPPORT: "Tento slot regimentální podpory je §Ruzamčen§!" # todo: NEW TRANSLATION
+ DESIGNER_BLOCKED_BY_REGIMENT_BATTALIONS: "§R- Vyžaduje alespoň §!§H$NUM_BATTALIONS|H$ řadových batalionů§!§R v pluku.§!" # todo: NEW TRANSLATION
+ DESIGNER_REGIMENT_SUPPORT_STATS_SCALED: "Statistiky, vybavení a personál jsou škálovány na $FACTOR|H%0$ protože pluk má $BATTALIONS|H$/$MAX_BATTALIONS|H$ batalionů." # todo: NEW TRANSLATION
+ DESIGNER_COMBATWIDTH_TOOLTIP: "Šířka boje: §Y$VALUE|0$§!\n\nŠířka boje udává, kolik místa tato divize zabere v boji. Například pokud má boj celkovou šířku §Y80§! můžete vměstnat §Y4§! divize o šířce §Y20§!" # todo: NEW TRANSLATION
+ DESIGNER_DIVISIONAL_COMPOSITION: "Složení divize" # todo: NEW TRANSLATION
+ DESIGNER_DEPLOYED_LEADER_MODIFIERS: "§HBonusy velitele:§!" # todo: NEW TRANSLATION
+ TECHNOLOGY_DEPLOYED_GENERAL_MODIFIERS_HEADER: "Modifikátory nasazených velitelů" # todo: NEW TRANSLATION
+ TECHNOLOGY_BATTALION_MODIFIERS_HEADER: "Modifikátory batalionu:" # todo: NEW TRANSLATION
+ DESIGNER_NEW_ARMY_HQ: "Nové velitelství armády" # todo: NEW TRANSLATION
+ DESIGNER_ARMY_SAVE_HQ: "Uložit £army_experience $XP|Y0$ £command_power $CP|Y0$" # todo: NEW TRANSLATION
+ DESIGNER_ARMY_SAVE_HQ_REFUND: "Uložit £army_experience $XP|Y0$ £command_power §G+$CP|0$§!" # todo: NEW TRANSLATION
+ DESIGNER_HQ_CP_COST_CHANGE: "§YCena nasazení velitelství se změní z £command_power $OLD|0H$ na £command_power $NEW|0H$§!" # todo: NEW TRANSLATION
+ DESIGNER_SUBUNIT_DEPLOYMENT_COST: "£command_power Náklady na nasazení velitelství: $COST|H1$" # todo: NEW TRANSLATION
+ DESIGNER_HQ_CP_INSUFFICIENT: "§RNedostatek £command_power velitelské síly k aktualizaci nasazených divizí velitelství.§!" # todo: NEW TRANSLATION
+ REGIMENTAL_SUPPORT_HEADER: "Regimentální podpora" # todo: NEW TRANSLATION
+ DESIGNER_HARDNESS_STAT_SUMMARY: "HA $VALUE$" # todo: NEW TRANSLATION
+ DESIGNER_HP_STAT_SUMMARY: "HP $VALUE$" # todo: NEW TRANSLATION
+ DESIGNER_ATTACK_STAT_SUMMARY: "AT $VALUE$" # todo: NEW TRANSLATION
+ DESIGNER_SPEED_STAT_SUMMARY: "SP $VALUE$" # todo: NEW TRANSLATION
+ DESIGNER_LAST_HQ_TEMPLATE: "§RVaše poslední šablona velitelství armády musí zůstat platnou šablonou velitelství armády§!" # todo: NEW TRANSLATION
+ DESIGNER_LAST_REGULAR_TEMPLATE: "§RNemůžete převést svou poslední ne-HQ šablonu na šablonu velitelství armády§!" # todo: NEW TRANSLATION
+ DESIGNER_HQ_TEMPLATE_IN_USE: "§RTato šablona velitelství armády je momentálně používána nasazeným velitelstvím armády a musí zůstat platnou šablonou velitelství armády§!" # todo: NEW TRANSLATION
+ DESIGNER_REGULAR_TEMPLATE_IN_USE: "§RTato šablona nemůže být převedena na šablonu velitelství armády, protože je momentálně používána nasazenými ne-HQ divizemi§!" # todo: NEW TRANSLATION
+ DESIGNER_REGULAR_TEMPLATE_IN_GARRISON: "§RTato šablona nemůže být převedena na šablonu velitelství armády, protože je momentálně používána jako šablona posádky pro některá obsazená území§!" # todo: NEW TRANSLATION
+ DESIGNER_REGIMENTAL_SUPPORT_COLUMN_TITLE: "Regimentální podpůrné čety. Jedná se o podpůrné jednotky připojené k plukům.\n\nRegimentální podpůrné čety neovlivňují §YMaximální rychlost§! divize (kromě bonusů terénu) a nezvyšují její §Yšířku boje§!." # todo: NEW TRANSLATION

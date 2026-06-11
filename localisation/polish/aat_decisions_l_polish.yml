@@ -196,7 +196,7 @@
  FIN_appoint_yrjo_leino_as_president_desc: "Yrjö Leino je ten, kdo může náš lid skutečně dovést k prosperitě, a proto bychom měli jeho zvolení prezidentem zvážit co nejdříve."
  FIN_balance_of_power_category: "$FIN_power_balance$"
  FIN_call_to_union_activism: "Vyzvat odbory k aktivitě"
- FIN_call_to_union_activism_desc: "Odbory mají sílu tlačit vládu k přijetí politik prospěšnějších dělnické třídě - teď je musíme uvést do akce."
+ FIN_call_to_union_activism_desc: "Odbory mají moc vyvíjet tlak na vládu, aby přijala politiky příznivější pro dělnickou třídu; nyní je musíme uvést do akce." # todo: CHANGED
  FIN_can_demand_peace_negotiations_flag: "Dokončil misi §Y$FIN_hold_leningrad_mission$§! (kontroluje stát §Y[195.GetName]§! alespoň §Y30 dní§!) a aktuálně ovládá §Y[195.GetName]§!"
  FIN_can_demand_territory_if_occupying_tt: "\n\nBudeme moci požadovat, aby [SOV.GetNameDef] poskytl územní ústupky, pokud kontrolujeme státy §Y[213.GetName]§!, §Y[215.GetName]§! nebo §Y[216.GetName]§!."
  FIN_cancel_motti_tactics_in_state: "Zastavit taktiku motti v [FROM.GetName]"
@@ -207,7 +207,7 @@
  FIN_coastal_garrisons_decision_cost_pp_xp_cp_tooltip: "Přijetí tohoto rozhodnutí stojí £pol_power  §Y[?FIN.FIN_coastal_garrisons_pp_xp_cost]§!, £army_experience  §Y[?FIN.FIN_coastal_garrisons_pp_xp_cost]§! a £command_power  §Y[?FIN.FIN_coastal_garrisons_cp_cost]§!."
  FIN_coastal_garrisons_desc: "Měli bychom vytvořit pobřežní posádky, jejichž úkolem bude chránit zemi před všemi námořními invazemi."
  FIN_confederated_finno_russian_republics_category: "Konfederace finsko-ruských republik"
- FIN_confederated_finno_russian_republics_category_desc: "V ruských republikách a na ruských územích žije mnoho finštiny mluvících národů, jako jsou Finové, Estonci, Karelé, Vepové, Izhorové, Voti, Seto, Voro a Ingri. Měli bychom vytvořit konfederaci států, která by oslovila všechny tyto a další národy."
+ FIN_confederated_finno_russian_republics_category_desc: "Na územích, která jsou nebo dříve byla ruskými republikami a správními oblastmi, žije mnoho finských národů, jako například Finns, Estonians, Karelians, Veps, Izhorians, Votes, Seto, Voro a Ingrians. Měli bychom založit konfederaci států, která by oslovila všechny tyto i další." # todo: CHANGED
  FIN_coup_preparations: "Přípravy převratu"
  FIN_coup_preparations_desc: "Převrat nemůže uspět, pokud předem neuděláme vše pro to, abychom mu zajistili úspěch. Příprava je klíčovou ingrediencí úspěchu."
  FIN_crack_down_on_fascists: "Tvrdě proti fašistům"
@@ -240,9 +240,9 @@
  FIN_finno_soviet_kinship_war_desc: "Během ruské občanské války vedli Finové tzv. příbuzenské války, během nichž vpadali na naše území, aby nám ukradli země, a nyní se o totéž znovu pokoušejí."
  FIN_foreign_politics_decision_category: "Zahraniční politika"
  FIN_form_a_military_government: "Ustavit vojenskou vládu"
- FIN_form_a_military_government_desc: "Současná civilní vláda prokázala slabost tváří v tvář nepřátelství a nesnázím. $FIN_carl_mannerheim$ už naší zemi jednou dobře sloužil a jistě to dokáže znovu. Musí ustavit vojenskou vládu, která odrazí každého nepřítele."
+ FIN_form_a_military_government_desc: "Současná civilní vláda projevila slabost tváří v tvář nepřátelství a nesnázím. $FIN_carl_mannerheim$ naší zemi dříve dobře sloužil a jistě tak učiní i nyní. Musí vytvořit vojenskou vládu, aby odrazil všechny naše nepřátele." # todo: CHANGED
  FIN_gather_funds_for_womens_shelters: "Sbírat prostředky na ženské azylové domy"
- FIN_gather_funds_for_womens_shelters_desc: "$FIN_miina_sillanpaa$ v posledním desetiletí usilovně pracovala na prosazování práv pracujících a svobodných žen a na zakládání azylů pro ženy. S podporou vlády by mohla dosáhnout ještě lepších výsledků."
+ FIN_gather_funds_for_womens_shelters_desc: "$FIN_miina_sillanpaa$ v uplynulém desetiletí velmi usilovně pracovala, bojovala za práva pracujících a svobodných žen a zakládala azylové domy pro ženy. Mohla by dosáhnout ještě lepších výsledků, kdyby jí vláda podpořila činnost." # todo: CHANGED
  FIN_gather_popular_support: "Získat podporu lidu"
  FIN_gather_popular_support_dec_tt: "Naše strana získá §G+10 %§! veškerého území a vojenských jednotek.\nNavíc budou vytvořeny další komunistické divize §Ymilice§!."
  FIN_gather_popular_support_desc: "Lid je pro každou revoluci či vládu životně důležitý a my bychom měli udělat maximum pro to, abychom získali co největší podporu."

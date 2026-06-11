@@ -91,9 +91,9 @@
  IRQ_ENG_attack_bonus: "Protibritský výcvik"
  IRQ_GER_attack_bonus: "Protineměcký výcvik"
  IRQ_ITA_attack_bonus: "Protiitalský výcvik"
- IRQ_USA_attack_bonus: "Protiamerický výcvik"
+ IRQ_USA_attack_bonus: "Protivamerický výcvik" # todo: CHANGED
  IRQ_agrarian_society: "Agrární společnost"
- IRQ_agrarian_society_desc: "Irácký průmysl se soustředí především na zemědělský sektor a konzervativní vedení regionu neprojevovalo žádný zájem o rozvoj a industrializaci země. K vyřešení problémů tohoto státu bude nutné věnovat dostatek času a úsilí."
+ IRQ_agrarian_society_desc: "Irácký průmysl se točí kolem zemědělského sektoru a konzervativní vedení v regionu nemělo zájem na rozvoji a industrializaci těchto oblastí. Bude potřeba věnovat tomu správný čas a úsilí, aby se problémy ve státě vyřešily." # todo: CHANGED
  IRQ_agrarian_society_modifier_level_down_tt: "§GSnižuje§! účinky $IRQ_agrarian_society$"
  IRQ_air_force_modifier: "Královské irácké letectvo"
  IRQ_air_force_modifier_IRQ: "Královské irácké letectvo"
@@ -147,7 +147,7 @@
  IRQ_royal_army_modifier_IRQ: "Královská irácká armáda"
  IRQ_royal_army_modifier_KUR: "Kurdská armáda"
  IRQ_royal_army_modifier_desc: "Irácká armáda, založená roku 1921 pod bedlivým [ENG.GetAdjective] dohledem, sloužila jako odstrašující prostředek proti agresi sousedních států. Vyšší důstojníci armády však dlouhodobě touží po příležitosti rozšířit a modernizovat své síly, aby sousedy nejen odrazovali, ale i nad nimi dominovali."
- IRQ_shia_resistance_modifier: "Nepoddajné šíitské kmeny"
+ IRQ_shia_resistance_modifier: "Neposlušné autonomní kmeny" # todo: CHANGED
  IRQ_state_company_for_cement_idea: "Všeobecná společnost pro [ROOT.GetAdjective] cement"
  IRQ_state_company_for_iron_and_steel: "Státní společnost pro železo a ocel"
  IRQ_state_company_of_cotton_industries_idea: "Státní společnost bavlnářského průmyslu"
@@ -184,7 +184,7 @@
  PER_communist_industrialization_idea: "Rychlá industrializace"
  PER_communist_industrialization_idea_desc: "Naše nová socialistická vláda musí rychle industrializovat, pokud má obstát ve zkoušce času. Ostatně je pravděpodobné, že jsme se nyní stali hrozbou pro ty, kteří se obávají vzestupu proletariátu."
  PER_compliant_subject_idea: "Poddajný subjekt"
- PER_compliant_subject_idea_desc: "Postavit se moci, jakou je [ROOT.OVERLORD.GetNameDef], nepřinese vítězství. Musíme sehrát svou roli subjektu a ukázat, že jsme hodni postavení silného vazala."
+ PER_compliant_subject_idea_desc: "Nemůžeme zvítězit postavením se proti mocnosti jako [ROOT.OVERLORD.GetNameDef]. Místo toho musíme sehrát svou roli jako subjekt a ukázat, že si zasloužíme být silným vazalem." # todo: CHANGED
  PER_complient_king: "Poddajný král"
  PER_conscription_idea: "Každý muž slouží"
  PER_conscription_idea_desc: "Zoufalé časy si žádají zoufalá opatření. Ačkoli nemůžeme věnovat čas a prostředky vytvoření plně profesionální armády, můžeme zajistit, aby každý práceschopný muž byl schopen vzít zbraň a bojovat za svou zemi."
@@ -221,7 +221,7 @@
  PER_idea_comintern_research_collaboration: "Výzkumná spolupráce frakce [ROOT.GetFactionName]"
  PER_idea_comintern_research_collaboration_desc: "[ROOT.GetAdjectiveCap] vědci navštíví [SOU.GetAdjective], kde budou vyškoleni předními odborníky, a poté přinesou své dovednosti zpět domů, aby přestavěli náš národ podle [SOU.GetAdjective] modelu."
  PER_idea_one_for_all_all_for_one: "Jeden za všechny, všichni za jednoho"
- PER_idea_one_for_all_all_for_one_desc: "Musíme jít nad rámec běžných opatření a zajistit, aby byl každý [ROOT.GetAdjective] občan připraven kdykoliv bránit svou zemi. Jen tak máme šanci obstát proti světovým mocnostem a zachovat si suverenitu a identitu po Velké hře."
+ PER_idea_one_for_all_all_for_one_desc: "Musíme udělat vše pro to, aby každý [ROOT.GetAdjective] občan byl připraven bránit [ROOT.GetNameDefCap] na okamžitý rozkaz. Pouze tak máme šanci proti světovým mocnostem a zachovat naši suverenitu a identitu po Velké hře." # todo: CHANGED
  PER_idea_reject_foreign_dominance: "[ROOT.GetAdjectiveCap] solidarita"
  PER_idea_reject_foreign_dominance_desc: "Zatímco se zahraniční mocnosti hrozivě stahují kolem našich hranic, neustoupíme. Budeme stát pevně a bránit se až do hořkého konce. [ROOT.GetAdjectiveCap] suverenita a identita přežije, ať to stojí cokoliv."
  PER_imperial_expansionism_idea: "Imperiální expanzionismus"
@@ -328,7 +328,7 @@
  PER_white_revolution_idea: "Zahájení Bílé revoluce"
  PER_white_revolution_idea_desc: "K urychlení modernizace naší země jsou zapotřebí razantní reformy. Bílá revoluce, neboli revoluce šáha a lidu, má zabezpečit, ať je [PER.GetNameDef] rovnocenný partner velkých západních národů."
  RAJ_a_loyal_government: "Loajální vláda"
- RAJ_a_loyal_government_desc: "Navzdory touze disidentů, ať je [RAJ.GetNameDef] nezávislý, zůstává naše vláda silná a stabilní. Budeme i nadále věrně a s odhodláním hájit zájmy Koruny."
+ RAJ_a_loyal_government_desc: "Navzdory touze po nezávislosti ze strany disidentů uvnitř [RAJ.GetNameDef] zůstává naše vláda silná a stabilní. Budeme i nadále hájit zájmy Koruny s disciplínou a odhodláním." # todo: CHANGED
  RAJ_british_naval_agreement: "Indicko-britská námořní dohoda"
  RAJ_congress_construction_effort_ns: "Kongres - zaměření na výstavbu"
  RAJ_congress_productivity_effort_ns: "Kongres - zaměření na produktivitu"
@@ -363,7 +363,7 @@
  SAU_refining_the_national_identity_idea: "Utváření národní identity"
  SOV_afg_resistance_active_here: "Afghánci podporovaná buňka odboje"
  SSB_saadabad_pact: "Saadabadský pakt"
- SSB_saadabad_pact_desc: "Smlouva o neútočení s dalšími blízkovýchodními zeměmi, která může vést k dalším a silnějším spolupracím.\n\n §RZahájení útočné války proti kterémukoli členovi Saadabadského paktu způsobí trvalou ztrátu tohoto ducha§!."
+ SSB_saadabad_pact_desc: "Smlouva o neútočení s ostatními zeměmi Blízkého východu; to by mohlo vést k dalším a silnějším formám spolupráce.\n\n §RZahájení útočné války proti jakémukoli členovi Saadabadského paktu způsobí, že tento duch navždy ztratíte§!." # todo: CHANGED
  SSB_saadabad_trade_agreement: "Saadabadská obchodní dohoda"
  SSB_saadabad_trade_agreement_desc: "Vzájemná obchodní dohoda mezi původními signatáři Saadabadského paktu, která usnadňuje spolupráci a více integrovanou ekonomiku zrušením všech cel a sdílením zdrojů."
  all_india_muslim_league_leader: "Vůdce Celoindické muslimské ligy"
@@ -526,3 +526,4 @@
  renaissance_man: "Renesanční člověk"
  sikh_activist: "Sikhský aktivista"
  supreme_leader: "Nejvyšší vůdce"
+ idea_SIA_army_of_siam_desc: "Armáda Siamu tvoří páteř obrany země; její organizace a tradice určují, jakým způsobem se po celé zemi formují a udržují vojáci a materiál." # todo: NEW TRANSLATION

@@ -398,14 +398,14 @@
  GOE_RAJ.24.t: "[ENG.GetName] přijímá mírovou nabídku"
  GOE_RAJ.25.a: "Podepsat mír"
  GOE_RAJ.25.b: "Ještě jsme neskončili"
- GOE_RAJ.25.desc: "[RAJ.GetAdjectiveCap] vláda uzavřela mír se svými bývalými suzerény a konečně dosáhla plné nezávislosti na imperiální nadvládě. Nyní máme možnost učinit totéž a odejít s významným morálním vítězstvím."
+ GOE_RAJ.25.desc: "[RAJ.GetAdjective] podepsal mír se svými bývalými suverény a konečně získal plnou nezávislost od imperiální nadvlády. Nyní máme možnost udělat totéž a odejít se značným morálním vítězstvím." # todo: CHANGED
  GOE_RAJ.25.t: "[RAJ.GetName] a [ENG.GetName] uzavírají bílý mír"
  GOE_RAJ.26.a: "Skvělé!"
  GOE_RAJ.26.desc: "Úspěšně jsme osvobodili našeho vůdce z vězení. Je to velký přínos, který vnese řád a strukturu do naší věci."
  GOE_RAJ.26.t: "$RAJ_subhas_chanda_bose$ osvobozen z vězení"
  GOE_RAJ.27.a: "Ne, válka musí pokračovat"
  GOE_RAJ.27.b: "Zní to jako dohoda"
- GOE_RAJ.27.desc: "Poté, co se [RAJ.GetNameDefCap] vymaňuje z okovů svých utlačovatelů, si již nepřeje, aby naše země pokračovaly v bezvýsledné válce."
+ GOE_RAJ.27.desc: "Poté, co se osvobodili od pout svých utlačovatelů, [RAJ.GetNameDefCap] už nepřeje, aby naše země vstupovaly do marné války." # todo: CHANGED
  GOE_RAJ.27.t: "[RAJ.GetNameDefCap] si přeje bílý mír"
  GOE_RAJ.28.a: "Zlověstné"
  GOE_RAJ.28.desc: "[FROM.GetName] odmítá náš pokus o ukončení konfliktu. Jedna říše tedy musí padnout. Budeme to my, nebo oni?"
@@ -499,7 +499,7 @@
  GOE_RAJ.49.desc: "Pákistánské jednotky si udržely kontrolu nad Kalkatou. Indické síly se po těžkých bojích stáhly a Pákistán nadále region drží. Indické vysílání selhání cenzuruje, aby se vyhnulo celonárodní ostudě."
  GOE_RAJ.49.t: "[PAK.GetName] stále drží [431.GetName]"
  GOE_RAJ.5.a: "Nepřijatelné"
- GOE_RAJ.5.desc: "[FROM.GetName] odmítá naše požadavky a zdůrazňuje, že je nezávislým královstvím s vlastními pravidly a zájmy."
+ GOE_RAJ.5.desc: "[FROM.GetName] odmítl naše požadavky a zdůraznil, že je to nezávislé království se svými vlastními pravidly a zájmy." # todo: CHANGED
  GOE_RAJ.5.t: "[FROM.GetName] odmítá"
  GOE_RAJ.50.a: "Hořká ztráta"
  GOE_RAJ.50.b: "[433.GetName] je právoplatně náš."
@@ -545,13 +545,13 @@
  GOE_RAJ_eic.6.b: "Nikdy"
  GOE_RAJ_eic.6.b_tt: "[FROM.GetName] již nebude moci žádat o žádné další území"
  GOE_RAJ_eic.6.c: "Zní to jako dohoda"
- GOE_RAJ_eic.6.desc: "[RAJ.GetName], usilující o rozšíření svých obchodních aktivit, nám předkládá nabídku, že odkoupí [RAJ_i_want_to_buy_this_land.GetName] výměnou za značnou míru investic v naší zemi."
- GOE_RAJ_eic.6.t: "[RAJ.GetName] chce odkoupit [RAJ_i_want_to_buy_this_land.GetName]" 
+ GOE_RAJ_eic.6.desc: "[RAJ.GetName], který usiluje o rozšíření svých obchodních aktivit, nám nabídl, že získá [RAJ_i_want_to_buy_this_land.GetName] výměnou za značnou investici do naší země." # todo: CHANGED
+ GOE_RAJ_eic.6.t: "[RAJ.GetName] chce odkoupit [RAJ_i_want_to_buy_this_land.GetName]"
  GOE_RAJ_eic.7.a: "Nakonec povolí"
  GOE_RAJ_eic.7.desc: "[FROM.GetName] nemá ochotu se tohoto území vzdát, avšak do budoucna nevylučuje jiné příležitosti k převodu odlišných území."
  GOE_RAJ_eic.7.t: "[FROM.GetName] se nechce vzdát svého území"
  GOE_RAJ_eic.8.a: "Podivný postoj"
- GOE_RAJ_eic.8.desc: "[FROM.GetName] zcela vylučuje jakýkoli převod území na nás a prohlašuje, že už samotný návrh je urážkou základní slušnosti."
+ GOE_RAJ_eic.8.desc: "[FROM.GetName] vyloučil jakýkoli převod území na nás a prohlásil, že navrhnout něco takového je urážkou slušnosti" # todo: CHANGED
  GOE_RAJ_eic.8.t: "[FROM.GetName] vylučuje jakékoli převody"
  GOE_RAJ_eic.9.a: "Skvělé obchody!"
  GOE_RAJ_eic.9.desc: "[FROM.GetName] přijala obchod. Peníze jim brzy zašleme a převod aktiv je na spadnutí."
@@ -702,7 +702,7 @@
  GOE_RAJ_loyalist.17.t: "Barmský wolfram odepřen pro [FROM.GetName]"
  GOE_RAJ_loyalist.77.t: "Obrana Barmy"
  GOE_RAJ_mughals_peace_deal.1.a: "Skvělé"
- GOE_RAJ_mughals_peace_deal.1.desc: "Konečně se ukázalo, že hospodářské obtíže vleklé války jsou pro [UK_INDIA.GetAdjective] vládu neúnosné. Navzdory námitkám svého suzeréna nám nabídli významné územní ústupky výměnou za mír."
+ GOE_RAJ_mughals_peace_deal.1.desc: "Konečně se ekonomické těžkosti plynoucí z probíhající války ukázaly být pro vládu [UK_INDIA.GetAdjective] příliš. Navzdory námitkám jejich vrchnosti nám nabídli značné územní ústupky výměnou za mír." # todo: CHANGED
  GOE_RAJ_mughals_peace_deal.1.t: "[UK_INDIA.GetName] nabízí územní ústupky"
  GOE_RAJ_navy.1.a: "To bude prospěšné pro nás oba!"
  GOE_RAJ_navy.1.b: "Nemáme zájem."
@@ -981,7 +981,7 @@
  IRQ_political_events.71.a: "Jsme už dostatečně legitimní."
  IRQ_political_events.71.b: "$IRQ_sharaf_bin_rajeh$ postačí"
  IRQ_political_events.71.c: "Potřebujeme prezidenta, ne krále!"
- IRQ_political_events.71.desc: "Mnozí v naší zemi stále nepovažují Zlatý čtverec za legitimní vládce a vnímají nás jako uzurpátory a nelegitimní lotry. Abychom tento problém vyřešili, přišli naši ministři s několika možnostmi. Buď budeme ignorovat volání lidu a doufat, že časem utichne, nebo dosadíme emíra z Táifu jako nového regenta za Fajsala II. Vždy však existuje i možnost přeměny na republiku, což by však mohlo být mezi náboženským obyvatelstvem velmi nepopulární..."
+ IRQ_political_events.71.desc: "Mnozí v naší zemi stále nepřijímají Zlatý čtverec jako své legitimní vládce a považují nás za uchvatitele moci a nelegitimní darebáky. Abychom tento problém vyřešili, přišli naši ministři s několika řešeními. Buď prostě ignorujeme volání lidu a doufáme, že časem utichne, nebo ustanovíme emíra Taifu jako nového regenta pro Faisala II. Vždy je ale také možnost proměnit se v republiku, i když by to mezi nábožensky založeným obyvatelstvem mohlo být velmi nepopulární..." # todo: CHANGED
  IRQ_political_events.71.t: "Legitimizace naší vlády"
  IRQ_political_events.72.a: "$IRQ_abd_al_ilah$ převezme regentství"
  IRQ_political_events.72.b: "$IRQ_faisal_ii$ by ho měl nahradit přímo!"
@@ -1104,7 +1104,7 @@
  PER_imperial_events.10.desc: "Dnes jsme obdrželi zprávu od [PER.GetAdjective] šáha s požadavkem, abychom jim předali kontrolu nad oblastí Balúčistánu. [PER.GetNameDef] tvrdí, že jim toto území náleží z božského práva. Musíme být opatrní - pokud je vyprovokujeme, mohou nám vyhlásit válku."
  PER_imperial_events.10.t: "[FROM.GetNameDefCap] požaduje Balúčistán"
  PER_imperial_events.100.a: "Ať se už nikdy nepokusí zaútočit."
- PER_imperial_events.100.desc: "Poté, co se nám podařilo vytlačit vetřelce zpět na jejich území, jsme pozvali jejich diplomaty do Teheránu k zahájení mírových rozhovorů. Naštěstí souhlasili a po hodinách jednání bylo dohodnuto, že přestanou útočit a [PER.GetNameDef] jako odškodnění získá jejich pohraniční území."
+ PER_imperial_events.100.desc: "Poté, co se nám podařilo vytlačit vetřelce a poslat je hlouběji do jejich vlastních zemí, jsme oslovili naše nepřátele a pozvali jejich diplomaty do Teheránu, aby zahájili mírová jednání. Naštěstí byli návrhu nakloněni a po hodinách diskusí jsme se dohodli, že přestanou útočit na [PER.GetNameDef] a jako důsledek postoupí svá pohraniční území." # todo: CHANGED
  PER_imperial_events.100.t: "Teheránská smlouva"
  PER_imperial_events.101.a: "Pak se zastavíme až v jejich hlavním městě!"
  PER_imperial_events.101.desc: "Přestože se nám podařilo vetřelce zatlačit zpět, naši protivníci odmítli mírové rozhovory v Teheránu. V důsledku toho konflikt pokračuje."
@@ -1214,13 +1214,13 @@
  PER_imperial_events.182.t: "[FROM.GetNameDefCap] odmítá naše podmínky"
  PER_imperial_events.190.a: "Můžeme s těmito podmínkami souhlasit"
  PER_imperial_events.190.b: "Není to pro nás výhodné, pokračujme ve válce."
- PER_imperial_events.190.desc: "[GetROOTMainInvaderOrNot190]"
+ PER_imperial_events.190.desc: "Dnes ráno jsme obdrželi zprávu od vlády [PER.GetAdjective] s návrhem ukončit nepřátelství a výměnou nám umožnit přístup k rozsáhlým množstvím jejich přírodních zdrojů. To by rychle ukončilo válku a umožnilo nám soustředit se na naše větší cíle. Kromě toho bychom byli v dobré pozici pokračovat v budoucích válečných snahách díky jejich ropným koncesím." # todo: CHANGED
  PER_imperial_events.190.t: "[FROM.GetNameDefCap] si přeje vyjednávat podmínky kapitulace"
  PER_imperial_events.191.a: "To je to nejlepší, co může [PER.GetNameDef] dostat"
- PER_imperial_events.191.desc: "[GetROOTMainInvaderOrNot191]"
+ PER_imperial_events.191.desc: "Vypadá to, že [FROM.GetAdjective] souhlasili s naší nabídkou a začali vypracovávat podmínky naší kapitulace. To znamená, že přijdeme o část našich přírodních zdrojů, ale je to daleko příznivější než stát se plnými subjekty pod kontrolou [FROM.GetNameDef]." # todo: CHANGED
  PER_imperial_events.191.t: "[FROM.GetNameDefCap] souhlasí s našimi podmínkami"
  PER_imperial_events.192.a: "To je ostuda..."
- PER_imperial_events.192.desc: "[GetROOTMainInvaderOrNot192]"
+ PER_imperial_events.192.desc: "Je to temný den. Náš nepřítel se rozhodl pokračovat v postupu na naše území navzdory svým ztrátám i navzdory našim požadavkům na mír. Jejich neochota dovolit nám ukončit válku a předat jim naše zdroje je zklamáním, a nemáme jinou možnost než pokračovat v boji." # todo: CHANGED
  PER_imperial_events.192.t: "[FROM.GetNameDefCap] odmítá naše podmínky"
  PER_imperial_events.2.a: "Skvělé zprávy."
  PER_imperial_events.2.desc: "[SOU.Capital.GetCapitalVictoryPointName] hlásí dobré zprávy! Náš diplomat se vrátil se zprávou, že [SOU.GetNameDef] si přeje připojit se k paktu o neútočení. To nám umožní pokračovat v přípravě válečných plánů, aniž by se nám oni do nich pletli."
@@ -1240,13 +1240,13 @@
  PER_imperial_events.202.t: "[FROM.GetName] odmítá Saadabadský pakt!"
  PER_imperial_events.210.a: "Postoupit území..."
  PER_imperial_events.210.b: "Nikdy nezískají naši zem."
- PER_imperial_events.210.desc: "[event_target:SSB_leader.GetLeader] sepsal dlouhý dopis, ve kterém nás informoval o [event_target:SSB_leader.GetAdjective] požadavcích na postoupení části pohraničního území. Ačkoli jde o zjevný a drzý pokus pošlapat naši suverenitu, pokud [ROOT.GetLeader] odmítne, mohlo by to vést k tomu, že [event_target:SSB_leader.GetNameDef] podnikne drastické kroky k zajištění těchto oblastí. Jak máme postupovat?"
- PER_imperial_events.210.t: "[event_target:SSB_leader.GetName] požaduje naše pohraniční území!"
+ PER_imperial_events.210.desc: "[FROM.GetLeader] napsal dlouhý dopis [ROOT.GetLeader], v němž je informoval o požadavcích [FROM.GetAdjective] na postoupení části pohraničního území do jejich rukou. Ačkoliv je to zjevný pokus pohrdat naší suverenitou, může to také znamenat, že [FROM.GetNameDef] by mohli podniknout drastické kroky k zajištění těchto území, pokud odmítneme. Jak máme postupovat?" # todo: CHANGED
+ PER_imperial_events.210.t: "[FROM.GetName] požaduje naše pohraniční území!" # todo: CHANGED
  PER_imperial_events.211.a: "Ti hlupáci..."
- PER_imperial_events.211.desc: "Dnes ráno nám zaslal [event_target:SSB_leader.GetNameDef], že neochotně souhlasí s našimi požadavky a již zahájili proces předání svého pohraničního území do našich rukou. Netuší, že jim to v budoucnu jen zkomplikuje situaci v rámci našich dalších plánů."
- PER_imperial_events.211.t: "[event_target:SSB_leader.GetName] souhlasí s našimi požadavky!"
+ PER_imperial_events.211.desc: "Dnes ráno jsme obdrželi zprávu od [FROM.GetNameDef], že zdráhavě souhlasí s našimi požadavky a tím zahájili proces postoupení svých pohraničních území nám. Netuší, že jim to jen pomůže v našich machinacích později." # todo: CHANGED
+ PER_imperial_events.211.t: "[FROM.GetName] souhlasí s našimi požadavky!" # todo: CHANGED
  PER_imperial_events.212.a: "Budou toho litovat."
- PER_imperial_events.212.desc: "Dnes ráno nám zaslal [event_target:SSB_leader.GetNameDef] zprávu, že naše požadavky rozhodně odmítají. Ačkoli to představuje jen menší komplikaci pro naše plány, znamená to, že si dané území budeme muset vzít pěkně po staru."
+ PER_imperial_events.212.desc: "Dnes ráno jsme obdrželi zprávu od [FROM.GetNameDef], že rozhodně odmítají naše požadavky. Zatímco to představuje jen malý problém vzhledem k našim plánům, znamená to, že si toto území budeme muset vzít starým způsobem." # todo: CHANGED
  PER_imperial_events.212.t: "[FROM.GetName] odmítá naše požadavky!"
  PER_imperial_events.220.a: "Mosaddek je zjevná volba"
  PER_imperial_events.220.b: "Možná bude lepší volbou Forúghí?"
@@ -1303,7 +1303,7 @@
  PER_imperial_events.72.t: "[GER.GetLeader] nemá čas na setkání"
  PER_imperial_events.80.a: "Máme větší problémy jinde. Stáhněme naše jednotky"
  PER_imperial_events.80.b: "Ne! Musíme postupovat dál!"
- PER_imperial_events.80.desc: "Nedávný postup [PER.GetAdjective] armády bohužel vedl k četným ztrátám na naší straně, zejména když převzali kontrolu nad několika našimi regiony. Situace se pro nás vyvinula nepříznivě a možná bychom měli zvážit konsolidaci ztrát a stažení jednotek z oblasti. To by však znamenalo postoupení části ztraceného území na [PER.GetNameDef]."
+ PER_imperial_events.80.desc: "Bohužel nedávný postup [PER.GetAdjective] armády způsobil na naší straně četné ztráty, především když si podmanili několik našich regionů. Situace v [PER.GetNameDef] se pro nás vyvinula nepříznivě a možná bychom měli zvážit konsolidaci ztrát a stažení jednotek z tohoto regionu. To by však znamenalo odevzdání části ztraceného území [PER.GetAdjective]s." # todo: CHANGED
  PER_imperial_events.80.t: "Situace na [PER.GetAdjective] frontě"
  PER_industrial_events.1.a: "To zní jako dobrý obchod"
  PER_industrial_events.1.b: "Tohle nepotřebujeme."
@@ -1342,7 +1342,7 @@
  PER_ssb_events.10.t: "[PER.GetName] podepisuje dohodu o vývozu ropy"
  PER_ssb_events.11.t: "[TUR.GetName] podepisuje dohodu o vývozu chromu"
  PER_ssb_events.2.a: "Skvělé!"
- PER_ssb_events.2.desc: "Schůzka skončila a [FROM.GetLeader] dal jasně najevo, že formální aliance mezi členy Saadabadského paktu je pro přežití našich zemí nanejvýš důležitá, a souhlasil se vstupem do aliance."
+ PER_ssb_events.2.desc: "Schůzka skončila a [FROM.GetLeader] jasně dal najevo, že formální aliance mezi členy Saadabádského paktu je pro přežití našich zemí nejvyšší důležitosti, a souhlasil se vstupem do aliance." # todo: CHANGED
  PER_ssb_events.2.t: "[FROM.GetNameDefCap] vstupuje do Saadabadského paktu!"
  PER_ssb_events.3.a: "Saadabadská aliance bude žít i bez nich!"
  PER_ssb_events.3.desc: "Schůzka skončila a bohužel se nám nepodařilo přesvědčit, aby se také připojil [FROM.GetLeader]. Naše stávající vojenská a hospodářská spolupráce bude pokračovat, ale [FROM.GetLeader] uvádí, že formální Saadabadská aliance není v nejlepším zájmu jeho země."
@@ -1360,7 +1360,7 @@
  PER_ssb_events.7.a: "Dnes je skvělý den pro [ROOT.GetNonIdeologyName]!"
  PER_ssb_events.7.desc: "[IRQ.GetNameDefCap] dnes schvaluje zákon, který otevírá obchod po trati Berlín-Bagdád všem signatářům Saadabadského paktu. To umožní rozsáhlý, snadný a levný obchod s celou Evropou a bude to přínosem pro naše ekonomiky."
  PER_ssb_events.7.t: "[IRQ.GetNameDefCap] otevírá železnici Berlín-Bagdád Saadabadskému paktu"
- PER_ssb_events.8.a: "Snad to nepřeroste v úplný rozpad paktu..."
+ PER_ssb_events.8.a: "Doufejme, že to nepřeroste v úplný kolaps paktu..." # todo: CHANGED
  PER_ssb_events.8.desc: "Znepokojivé zprávy: [FROM.PREV.GetNameDefCap] vyhlašuje válku jinému členu, čímž porušuje základní ustanovení Saadabadské smlouvy. V důsledku toho již není [FROM.PREV.GetNonIdeologyName] členem Saadabadského paktu. Jen čas ukáže, jaký dopad to bude mít na další vývoj paktu - možná to povede k větší soudržnosti zbývajících členů, nebo to naopak spustí řetězovou reakci, která Saadabadský pakt zahubí..."
  PER_ssb_events.8.t: "[FROM.PREV.GetNameDefCap] vyhlašuje válku na [FROM.PREV.FROM.GetNameDefCap] a porušuje Saadabadský pakt!"
  PER_ssb_events.9.a: "Skvělé!"
@@ -1376,7 +1376,7 @@
  RAJ_partition_1.a: "Nepřijatelné."
  RAJ_partition_1.desc: "To, co začalo jako civilní protest, přerostlo v násilí, když místní policejní složky zasáhly proti nespokojenému obyvatelstvu. [ENG.GetAdjectiveCap] policie tvrdí, že jednala pod hrozbou násilí, zatímco protestující trvají na tom, že se striktně drželi nenásilí.\nNikdo nebyl zabit, avšak 2 místní policisté utrpěli lehká zranění a 1 protestující byl po otřesu mozku převezen do místní nemocnice."
  RAJ_partition_1.t: "Protest v [FROM.GetName] přerůstá v násilí."
- SSB_if_join_tt: "Přijetí této dohody umožní §Ypakt o neútočení§!, odemkne §Yspolečný strom zaměření§! pro všechny signatářské země a udělí nám národní duch §Y$SSB_saadabad_pact$§!, který se bude postupně zlepšovat, jak budou v rámci společného stromu zaměření dokončována zaměření."
+ SSB_if_join_tt: "Přijetím této dohody se aktivuje §YPakt o neútočení§! a odemkne se §Yspolečný strom zaměření§! mezi všemi signatářskými zeměmi, a získáme národní duch §YSaadabadský pakt§!, který se bude postupem času zlepšovat, jak budou dokončována zaměření ve společném stromu zaměření." # todo: CHANGED
  SSB_resource_event_scripted_loc_chromium: "chromu"
  SSB_resource_event_scripted_loc_oil: "ropy"
  SSB_you_will_lose_the_bonus_tt: "§RVyhlášení války členu Saadabadského paktu je porušením smlouvy a povede k vašemu vyloučení - ztratíte národního ducha a navždy přijdete o přístup ke sdílenému stromu zaměření.§!"
@@ -1388,3 +1388,11 @@
  goe_japan.1.t: "Bós nabízí podporu pro barmské tažení"
  rejected_hashemite_federation_tt: "§RJiž nebudeme moci pozvat [FROM.GetNameDef] do naší federace!§!"
  the_1936_PAL_revolt_has_happened: "§YProběhlo palestinské povstání a Britové vyhnali disidenty do exilu.§!"
+ GOE_RAJ_news.4.t: "Sjednocený Hindustán" # todo: NEW TRANSLATION
+ GOE_RAJ_news.4.desc: "Bylo hlášeno, že [FROM.GetLeader] z [FROM.GetNameDef] vyhlásil sjednocení pro všechny národy na indickém subkontinentu, čímž začíná nová kapitola v dějinách Asie i celého světa. Mnoho analytiků již uvedlo, že sjednocení Hindustanu může mít zásadní dopad na světovou politiku a znamenat vzestup nové supervelmoci." # todo: NEW TRANSLATION
+ GOE_RAJ_news.4.a: "Skutečně nová supervelmoc" # todo: NEW TRANSLATION
+ GOE_RAJ_news.4.b: "Děsivé" # todo: NEW TRANSLATION
+ IRQ_political_events.44.t: "[FROM.GetNameDefCap] požaduje naši anexi" # todo: NEW TRANSLATION
+ IRQ_political_events.44.desc: "Vláda [FROM.GetNameDef] nás požádala, abychom se k nim připojili. Nastal čas rozhodnout, zda jejich žádost přijmeme, nebo odoláme vynucování cizí nadvlády." # todo: NEW TRANSLATION
+ IRQ_political_events.44.a: "$IRQ_political_events.40.a$" # todo: NEW TRANSLATION
+ IRQ_political_events.44.b: "$IRQ_political_events.40.b$" # todo: NEW TRANSLATION

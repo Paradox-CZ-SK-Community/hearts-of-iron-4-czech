@@ -6,7 +6,7 @@
  COUNTRYVIEW_GIE_INFO_BONUSES_ON_CORE: "Další bonusy při boji v našich domovských státech:"
  COUNTRYVIEW_GIE_INFO_BONUSES_ON_CORE_HOST: "Další bonusy při boji v jejich domovských státech:"
  COUNTRYVIEW_GIE_INFO_BONUSES_VS_OCCUPIER: "§HVeteránské exilové divize§! mají bojové bonusy, když je jejich protivníkem $OCCUPIERLIST$"
- COUNTRYVIEW_GIE_INFO_BUTTON: "§GKlikněte§! pro zobrazení aktuálních efektů."
+ COUNTRYVIEW_GIE_INFO_BUTTON: "§GKlikněte§! na tlačítko pro zobrazení aktuálních efektů" # todo: CHANGED
  COUNTRYVIEW_GIE_INFO_DELAYED: "§HLegitimita§! se zvyšuje účastí ve válkách hostitelské země."
  COUNTRYVIEW_GIE_INFO_DELAYED_HOST: "§HLegitimita§! se zvyšuje účastí ve válkách."
  COUNTRYVIEW_GIE_INFO_HOST: "Náš hostitel ($HOSTNAMEDEF|H$) těží z vyšší §Hlegitimity§!"
@@ -50,13 +50,13 @@
  GIE_RECRUITMENT_LOCKED_HOST: "$COUNTRY|HU$ potřebuje mít $VALUE|0H$ §Hlegitimity§!, než budeme moci naverbovat $TYPE|H$ s využitím §Hexilového veteránského personálu§!."
  GIE_RECRUITMENT_UNLOCKED: "Je dostupný nábor $TYPE|H$ divize"
  GIE_RECRUITMENT_UNLOCKED_EXILE_PLAYER: "Je dostupný nábor $TYPE|H$ divize pro $HOSTNAMEDEF|H$"
- GIE_REINSTATE_DISABLED_CAPITULATED: "Nelze obnovit $NAMEADJ$ vládu, protože §Hkapitulovala§!."
+ GIE_REINSTATE_DISABLED_CAPITULATED: "Nemůžete obnovit vládu $NAMEADJ$, dokud je §Hkapitulována§!." # todo: CHANGED
  GIE_REINSTATE_DISABLED_EXILE_VIEWING: "$NAMEDEF|UH$ nemůže obnovit naši vládu, dokud jsme kapitulovali."
- GIE_REINSTATE_EFFECT_DESC: "Obnovením vlády budou všechny §Hexilové divize§!, §Hvelitelé§! a §Hlodě§! vráceny zpět do $NAMEDEF|H$. Ztratíme přístup k jejich §Hexilový personál§! a letky budou uskladněny."
+ GIE_REINSTATE_EFFECT_DESC: "Obnovením vlády budou všechny $NAMEADJ$ §Hexilové divize§!, §Hvelitelé armády§! a §Hlodě§! převedeny zpět na $NAMEDEF|H$. Už nebudeme moci používat jejich §Hexilový veteránský personál§! pro §Hexilové letky§! a letadla budou vrácena do skladu." # todo: CHANGED
  GIE_REINSTATE_ENABLED: "Klikněte pro obnovení $NAMEADJ$ vlády."
  GIE_REINSTATE_ENABLED_EXILE_VIEWING: "$NAMEDEF|UH$ může obnovit naši vládu."
- GIE_REINSTATE_ENABLED_EXILE_VIEWING_LIBERATED: "Naše země byla zcela osvobozena. §HLegitimita§! bude denně klesat o $VALUE|H2$. Jakmile §HLegitimita§! dosáhne §H0§!, naše vláda bude automaticky obnovena."
- GIE_REINSTATE_ENABLED_LIBERATED: "$NAMEDEF|H$ byla zcela osvobozena a její §HLegitimita§! bude denně klesat o $VALUE|H2$. Jakmile §HLegitimita§! dosáhne §H0§!, vláda bude automaticky obnovena."
+ GIE_REINSTATE_ENABLED_EXILE_VIEWING_LIBERATED: "Naše země byla zcela osvobozena. §Hlegitimita§! bude denně snížena o $VALUE|H2$. Pokud §Hlegitimita§! dosáhne §H0§!, naše vláda bude automaticky obnovena." # todo: CHANGED
+ GIE_REINSTATE_ENABLED_LIBERATED: "$NAMEDEF|H$ byl zcela osvobozen a jejich §Hlegitimita§! bude denně snížena o $VALUE|H2$. Pokud §Hlegitimita§! dosáhne §H0§!, vláda bude automaticky obnovena." # todo: CHANGED
  GIE_SHIP_SELECTION_ITEM_EXILE_FLAG: "§HExil.§! $COUNTRYADJ|H$ $SHIPTYPE|H$"
  GOVERNMENT_IN_EXILE_LEGITIMACY: "Legitimita: $VALUE|H$"
  MANAGE_EXILES_HEADER: "Vlády v exilu"

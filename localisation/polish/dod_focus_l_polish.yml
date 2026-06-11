@@ -63,7 +63,7 @@
  CZE_doctrinal_innovation_desc: "Z výměn důstojníků a strategických jednání s našimi spojenci jsme se mnoho naučili. Spojení tak rozdílných názorů nás přivedlo na samý práh průlomové inovace."
  CZE_doctrine_bonus: "Doktrinální objevy"
  CZE_doctrine_bonus_2: "Inovativní válčení"
- CZE_doctrine_bonus_2_desc: "Zbraně samy o sobě neudělají armádu silnou, jsou zapotřebí také účinné doktríny. Vojenský technický ústav si je toho dobře vědom a nabídl několik návrhů."
+ CZE_doctrine_bonus_2_desc: "Samotné zbraně armádu nečiní účinnou, jsou potřeba i efektivní doktríny. Vojensko-technický institut si toho je vědom a nabídl několik návrhů." # todo: CHANGED
  CZE_doctrine_bonus_desc: "Zbraně samy o sobě nedělají armádu silnou, efektivní doktríny jsou také potřebné. Vojenský technický ústav si toho je dobře vědom a navrhl několik návrhů."
  CZE_exclude_the_slovaks: "Česká konsolidace"
  CZE_exclude_the_slovaks_desc: "Slováci jsou nespokojení od samého vzniku naší země. Vždy usilovali o větší politickou moc, vždy se dožadovali většího než spravedlivého podílu na národních zdrojích. Už nikdy více! Od nynějška bude moc soustředěna v českých rukou. §Toto povede k občanské válce.§!"
@@ -196,7 +196,7 @@
  HUN_assassinate_horthy: "Zavraždit Horthyho"
  HUN_assassinate_horthy_desc: "Starý admirál z Velké války má ve své současné funkci regenta Maďarského království příliš velkou moc a vliv a jeho postoj ke komunismu se ukazuje být pro snahy našich soudruhů docela problematický. Má-li náš národ najít cestu k Revoluci, musí být odstraněn z čela státu."
  HUN_assault_gun_focus: "Zaměření na samohybná dělá"
- HUN_assault_gun_focus_desc: "Místo toho, abychom se soustředili na plnohodnotné tanky, budeme místo toho spoléhat na samohybná děla, která budou mít vliv na průlomy naší pěchoty, což je mnohem efektivnější alternativa z hlediska nákladů."
+ HUN_assault_gun_focus_desc: "Namísto zaměření se na plnohodnotné tanky se budeme spoléhat na útočná děla, která pomohou naší pěchotě dosahovat průlomů jako nákladově efektivnější alternativa." # todo: CHANGED
  HUN_autarky: "Autarkie"
  HUN_autarky_desc: "Jsme příliš závislí na zahraničních zdrojích ropy. Měli bychom napodobit německé úsilí o vývoj syntetické ropy."
  HUN_balanced_budget: "Vyrovnaný rozpočet"
@@ -332,7 +332,7 @@
  HUN_reclaim_venetia: "Navrátit Benátsko"
  HUN_reclaim_venetia_desc: "Zrada Italů ve Velké válce nebyla zapomenuta. Je načase jim ukázat, kde je jejich místo, a vrátit Říši její přirozené hranice."
  HUN_reform: "Reforma"
- HUN_reform_desc: "Nemá smysl vytvářet námořnictvo založené na zastaralých myšlenkách. Dostali jsme příležitost vytvořit nové námořnictvo od nuly, bez zátěže starého. Měli bychom ji využít k vybudování co nejmodernějšího a nejschopnějšího námořnictva."
+ HUN_reform_desc: "Nemá smysl vytvářet námořnictvo postavené na zastaralých představách. Dostali jsme příležitost vybudovat nové námořnictvo od základů, bez břemene starého. Měli bychom ji využít k vybudování co nejmodernějšího a nejschopnějšího loďstva." # todo: CHANGED
  HUN_reintegrate_the_railroads: "Reintegrace železnic"
  HUN_reintegrate_the_railroads_desc: "Železniční sítě na území starého Rakouska-Uherska se po jeho rozpadu na samostatné státy rozpadly. Měli bychom se obrátit na ostatní bývalé konstituční státy a navrhnout reintegraci našich železničních sítí, abychom celkově zlepšili infrastrukturu."
  HUN_renew_the_rome_protocols: "Obnovit Římské protokoly"
@@ -355,7 +355,7 @@
  HUN_strengthen_the_monarchists: "Posílit monarchisty"
  HUN_strengthen_the_monarchists_desc: "Prvním krokem k návratu dřívější prestiže Maďarska je posílení těch stran, které volají po návratu k monarchii."
  HUN_submarines: "Ponorky"
- HUN_submarines_desc: "Ponorky v poslední válce téměř porazily nejsilnější námořnictvo planety. Nemůžeme být bráni vážně jako moderní námořnictvo, pokud nemáme vlastní ponorky."
+ HUN_submarines_desc: "Ponorky se v minulé válce dostaly blízko k porážce nejsilnějšího námořnictva planety. Nemůžeme být bráni vážně jako moderní námořnictvo, pokud nebudeme mít vlastní ponorky." # todo: CHANGED
  HUN_support_domestic_industry: "Podpora domácího průmyslu"
  HUN_support_domestic_industry_desc: "Armáda vyžaduje více vybavení a náš průmysl s ní musí držet krok. Nové zdroje nasměrujeme na rozšíření našeho zbrojního průmyslu."
  HUN_support_urbanization: "Podpora urbanizace"
@@ -472,7 +472,7 @@
  ROM_ground_support: "Pozemní podpora"
  ROM_ground_support_desc: "Kombinované síly jsou základním principem moderního vedení války. Letectvo musí být vycvičeno tak, aby v případě potřeby podporovalo pozemní síly."
  ROM_handle_the_king: "Zkrocení krále"
- ROM_handle_the_king_desc: "Musí být přijaty zákony, které omezí králův okázalý životní styl. Státní pokladna už nesmí sloužit k financování jeho osobních výdajů."
+ ROM_handle_the_king_desc: "Je nutné přijmout zákony, které omezí králův bujarý životní styl. Státní pokladna už nesmí být využívána na jeho osobní výdaje." # todo: CHANGED
  ROM_heavy_bombers: "Těžké bombardéry"
  ROM_heavy_bombers_desc: "Naše strategické bombardovací síly potřebují dostatečný dolet a nosnost pum. Velké bombardéry jsou jedinou reálnou možností, jak těchto požadavků dosáhnout."
  ROM_heavy_interceptors: "Těžké stíhačky"
@@ -813,7 +813,7 @@
  YUG_rare_minerals_exploitation: "Těžba vzácných kovů"
  YUG_rare_minerals_exploitation_desc: "Dříve nevyužívaná ložiska vzácných kovů se náhle stala velmi důležitými. Abychom je mohli využít, musíme okamžitě vybudovat potřebné doly a infrastrukturu."
  YUG_reclaim_istria_and_zadar: "Navrátit Istrii a Zadar"
- YUG_reclaim_istria_and_zadar_desc: "Itálie stále drží území Istrie a Zadaru. Je čas je vrátit zpátky do vlasti."
+ YUG_reclaim_istria_and_zadar_desc: "Itálie stále drží území Istrie a Zadaru. Je čas je přivést domů." # todo: CHANGED
  YUG_recognize_the_soviet_union: "Uznat Sovětský svaz"
  YUG_recognize_the_soviet_union_desc: "I když jsme v minulosti odmítali uznat bolševický stát na Východě, možná nastal čas, abychom svůj postoj v této věci přehodnotili. Zatímco západní demokracie se zdají být příliš slabé na to, aby bránily menší mocnosti, Sovětský svaz se může ukázat jako spolehlivější přítel."
  YUG_recruitment_flag: "Již naverbovaní Chorvaté"
@@ -874,7 +874,7 @@
  YUG_western_focus: "Prozápadní zaměření"
  YUG_western_focus_desc: "Klíčem k budoucnosti Jugoslávie jsou mocnosti na Západě, které jsou geograficky i ekonomicky bližší naší zemi."
  YUG_yugoslavian_path_to_communism: "Jugoslávská cesta k marxismu"
- YUG_yugoslavian_path_to_communism_desc: "Nepotřebujeme žádné vedení v našem boji za dělnickou věc. Shromáždíme ty, kteří přijmou naši nadvládu, a společně rozšíříme naši verzi Revoluce."
+ YUG_yugoslavian_path_to_communism_desc: "V boji za věc dělníků nepotřebujeme vedení zvenčí. Shromáždíme ty, kteří přijmou naše vedení, a společně rozšíříme naši verzi revoluce." # todo: CHANGED
  YUG_zara_for_axis: "Zara za členství v Osy"
  YUG_zara_for_axis_desc: "Italové tvrdí, že vláda v Zaře je právoplatným správcem Dalmácie, ale možná, že když je ujistíme, že bojujeme za stejnou věc, budou ochotni nám Zaru vrátit a alespoň na čas se vzdát svých balkánských ambicí."
  YUG_zmaj: "Zmaj"
@@ -898,6 +898,6 @@
  transylvania_create_one_units_tt: "(§YTransylvánie§!) Vytvořte §Y1 milice§!."
  ustasa_crushed: "Ustašovci byli poraženi"
  vojvodina_create_one_units_tt: "(§YVojvodina§!) Vytvořit §Y1 milici§!."
- yug_extreme_bravery_medal: "§Y[ROOT.GetNameDefCap]§! bude schopen udělit §YMedaili za extrémní odvahu§! §Ypolním velitelům§!."
+ yug_extreme_bravery_medal: "§Y[ROOT.GetNameDefCap]§! nyní bude moci udělit §YMedaili za mimořádnou statečnost§! §Ypolním důstojníkům§!." # todo: CHANGED
  CZE_healing_a_divided_nation: "Uzdravení rozděleného národa"
  CZE_healing_a_divided_nation_desc: "Lidé naší země nyní vědí, že pokud jde o jejich svobodu, naše slova jsou podložena činy. Konečně můžeme zacelit některé rány, které naši zemi hluboce rozdělovaly."

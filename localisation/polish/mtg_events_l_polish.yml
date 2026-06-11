@@ -176,11 +176,11 @@
  mexico.31.title: "Druhá mexická revoluce"
  mexico.32.a: "To zní dost nepravděpodobně. Kolik těm agentům platíme?"
  mexico.32.b: "Zatkněte „zoot suitery“ tak jako tak. Nepokoje ohrožují naše válečné úsilí."
- mexico.32.desc: "Mladí Hispánci v okázalých oblecích - „zoot suits“ - se stali terčem rasově motivovaných nepokojů v pohraničních městech na jihu, živených senzacechtivým zpravodajstvím o smrti teenagera v Los Angeles. Devět mexicko-amerických mladíků bylo v souvislosti s incidentem odsouzeno za vraždu.\n\nZpravodajští agenti sepsali hlášení, podle nichž jsou tito „zoot suiteři“ ve skutečnosti fašističtí agenti spolupracující s ultrakatolickými synarchisty v Mexiku, aby napomohli japonsko-německé invazi do Ameriky."
+ mexico.32.desc: "Hispánská mládež oblečená v nápadných šatech - 'zoot suits' - se stala terčem rasově motivovaných nepokojů v pohraničních městech na jihu, vyvolaných senzacechtivým zpravodajstvím o smrti dospívajícího v Los Angeles. Devět mexicko‑amerických mladíků bylo za tento incident odsouzeno za vraždu.\n\nZpravodajské agentury sestavily zprávy, podle nichž jsou nositelé zoot suitů ve skutečnosti fašističtí agenti, spolupracující s ultra‑katolickými Sinarquistas v Mexiku, aby pomohli japonsko‑německé invazi do Amerik." # todo: CHANGED
  mexico.32.title: "Nepokoje „Zoot Suit“"
  mexico.33.a: "Synarchisté jsou hrozbou pro Ameriku i Mexiko."
  mexico.33.b: "Jsou to jen děti! To je nespravedlnost!"
- mexico.33.desc: "Mladí Hispánci v okázalých oblecích - „zoot suits“ - se stali terčem rasově motivovaných nepokojů v pohraničních městech na sever od nás, živených senzacechtivým zpravodajstvím o smrti teenagera v Los Angeles. Devět mexicko-amerických mladíků bylo v souvislosti s incidentem odsouzeno za vraždu.\n\nAmeričtí zpravodajci sepsali hlášení, podle nichž jsou tito „zoot suiteři“ ve skutečnosti fašističtí agenti spolupracující s ultrakatolickými synarchisty v Mexiku, aby napomohli japonsko-německé invazi do Ameriky."
+ mexico.33.desc: "Hispánská mládež oblečená v nápadných šatech - 'zoot suits' - se stala terčem rasově motivovaných nepokojů v pohraničních městech na našem severu, vyvolaných senzacechtivým zpravodajstvím o smrti dospívajícího v Los Angeles. Devět mexicko‑amerických mladíků bylo za tento incident odsouzeno za vraždu.\n\nAmeričtí zpravodajci sestavili zprávy, podle nichž jsou nositelé zoot suitů ve skutečnosti fašističtí agenti, spolupracující s ultra‑katolickými Sinarquistas v Mexiku, aby pomohli japonsko‑německé invazi do Amerik." # todo: CHANGED
  mexico.33.title: "Nepokoje „Zoot Suit“"
  mexico.34.a: "Tato dohoda pomůže Německu i Mexiku."
  mexico.34.b: "Američané nakonec nejspíš stejně získají jakékoli plány, které pošleme."
@@ -242,7 +242,7 @@
  mexico.52.title: "[MEX.GetLeader] vyhlašuje sjednocení všech komunistických hnutí"
  mexico.53.a: "Konečně si přiznáváme své omyly."
  mexico.53.b: "Jen naše interpretace Marxovy vize je legitimní."
- mexico.53.desc: "Dlouho jsme věřili, že naši nynější vůdci šíří pravý výklad Marxe, Engelse a Lenina, nyní však byli donuceni k „sebekritice“ a veřejně přiznali, že trockistický výklad Lenina je jedinou správnou cestou k vítězství socialismu. V důsledku toho jsme se náhle ocitli izolováni. Naše aliance se rozpadla a stojíme před corneillovským dilematem: uznat oprávněnost trockistických názorů, nebo se ocitnout v izolaci a ve sporu s frakcí [MEX.GetFactionName]."
+ mexico.53.desc: "Dlouho jsme věřili, že naši současní vůdci šíří pravé pojetí Marxe, Engelse a Lenina, ale nyní byli donuceni podstoupit 'sebekritiku' a veřejně přiznat, že trockistické pojetí Lenina je jediná správná cesta k vítězství socialismu. V důsledku toho se náhle ocitáme izolováni. Naše aliance se zhroutila a stojíme před Korneliánským dilematem: uznat správnost trockistických názorů, nebo se stát izolovanými a v rozporu s [MEX.GetFactionName]." # todo: CHANGED
  mexico.53.title: "[MEX.GetLeader] vyhlašuje sjednocení všech komunistických hnutí"
  mexico.54.a: "Přijmout jeho požadavky."
  mexico.54.b: "S revolucionáři nevyjednáváme!"
@@ -252,7 +252,7 @@
  mexico.55.desc: "Tváří v tvář svým imperialistickým rozporům se [From.GetAdjective] vláda vzdala svých karibských držav. Je to velký den pro dělníky, avšak boj zdaleka nekončí. Proces nevyústil v úplnou svobodu pracujících, neboť ti nadále podléhají utlačovatelským institucím."
  mexico.55.title: "[From.GetNameDef] ustupuje z Karibiku!"
  mexico.56.a: "Pocítí hněv ozbrojeného proletariátu!"
- mexico.56.desc: "Arogantní odpovědí, typickou pro imperialistické utlačovatele, [From.GetNameDef] odmítl naše požadavky, aby stáhl svou chamtivou ruku z Karibiku! Jejich proletariát musí nyní čelit rozporu své vlády a pochopit, že slouží tyranům."
+ mexico.56.desc: "Ve své arogantní odpovědi, typické pro imperialistické utlačovatele, [From.GetNameDef] odmítl splnit naše požadavky na uvolnění jejich chamtivého držení Karibiku! Jejich proletariát musí nyní čelit rozporu své vlády a pochopit, že pracuje pro tyrany." # todo: CHANGED
  mexico.56.title: "[From.GetNameDef] odmítá naše požadavky"
  mexico.8.a: "Podpoříme vstup Mexika do frakce [Root.GetFactionName]."
  mexico.8.b: "Pro Mexiko máme jiné plány."
@@ -280,7 +280,7 @@
  mtg_britain.1000.a: "Král je mrtev. Ať žije královna!"
  mtg_britain.1000.d: "Dnes ráno přišla zpráva o smrti krále Jiřího VI. Válečné strasti si na králově zdraví vybíraly čím dál větší daň a nakonec jeho silné kouření a následná arterioskleróza a Buergerova choroba způsobily, že jeho dcera Elizabeth již přebrala mnoho otcových povinností.\n\nNyní Elizabeth usedne na otcův trůn a ponese panovnické jméno Alžběta II. Ačkoli je mladá, na tento okamžik byla připravována od chvíle, kdy strýcův morganatický sňatek učinil linii následnictví jasnou, a navzdory věku se od ní očekává, že bude dobrou královnou."
  mtg_britain.1000.t: "Zemřel král Jiří VI."
- mtg_britain.100_tt: "Pokud bude usnesení přijato, obdržíte:\n"
+ mtg_britain.100_tt: "§RPokud bude přijato, §!§Y[FROM.GetNameDef]§!§R by mohl vytvořit §!§YImperiální federaci§!§R a anektovat nás§!\n\nPokud bude rezoluce schválena, obdržíte:\n" # todo: CHANGED
  mtg_britain.101.a: "Budeme silnější jako jeden celek."
  mtg_britain.101.d: "[From.GetAdjectiveCap] vláda nás informovala, že s naším návrhem Imperiální federace souhlasí. Plně nás podporují a budou usilovat o přípravu integrace, pokud návrh projde."
  mtg_britain.101.t: "Imperiální konference: Federace - [From.GetName] přijímá"
@@ -295,7 +295,7 @@
  mtg_britain.104.d: "Návrh na Imperiální federaci narazil na pat. Ačkoli [CAN.GetNameDef], [SAF.GetNameDef], [AST.GetNameDef] a [NZL.GetNameDef] souhlasily, [RAJ.GetAdjective] vláda jako důvod odmítnutí uvedla zásadní kulturní odlišnosti a nedostatečný respekt k právům indického státu.\n\nMusíme se nyní rozhodnout, zda pokračovat s dominiemi, které souhlasily, a tím udělit pro [RAJ.GetNameDef] nezávislost, nebo návrh úplně odložit."
  mtg_britain.104.t: "Imperiální konference: Federace - částečný úspěch"
  mtg_britain.105.a: "Pak se zaměřme na dosažitelnější cíle."
- mtg_britain.105.d: "Bez jednomyslné podpory byl návrh Imperiální federace poražen. Vzhledem k tomu, že zájem o tuto alternativu k autonomii spíše klesá než roste, bude návrh definitivně vyškrtnut z programu budoucích imperiálních konferencí. Budeme naopak pokračovat v cestě k plné nezávislosti."
+ mtg_britain.105.d: "Bez jednomyslné podpory byla rezoluce o Imperiální federaci poražena. Zdá se, že zájem o tuto alternativu k domácí správě spíše klesá než roste, návrh bude nyní definitivně stažen z programu budoucích Imperiálních konferencí. Místo toho budeme nadále usilovat o dosažení plné nezávislosti." # todo: CHANGED
  mtg_britain.105.t: "Imperiální konference: Federace - neúspěch"
  mtg_britain.106.a: "Mají z nás strach."
  mtg_britain.106.d: "[From.GetNameDefCap] vydalo ultimátum a požaduje, abychom okamžitě snížili počet hlavních lodí a uvedli se tak do souladu s ustanoveními Washingtonské námořní smlouvy. Dodali, že pokud během 60 dnů nevyhovíme, jsou ochotni snížit počet našich hlavních lodí použitím vojenské síly."
@@ -457,7 +457,7 @@
  mtg_britain.54.d: "[From.GetNameDefCap] naši žádost o vstup do Kominterny odmítli. Stojíme sami za sebe."
  mtg_britain.54.t: "[From.GetName] žádost zamítá"
  mtg_britain.55.a: "Zrádci!"
- mtg_britain.55.d: "Některé elementy v naší straně nás už dlouho obviňují, že komunistickým ideálům svobody a rovnosti sloužíme jen na oko. Tyto elementy nyní zahájily pokus o převrat. Udrželi jsme se u moci, ale situace přerostla v otevřenou občanskou válku."
+ mtg_britain.55.d: "Některé části naší strany nás dlouho obviňovaly, že jen pokrytecky hlásáme komunistické ideály svobody a rovnosti. Tyto skupiny nyní zahájily pokus o převrat. Podařilo se nám udržet moc, ale situace se nyní vyostřila v plnohodnotnou občanskou válku." # todo: CHANGED
  mtg_britain.55.t: "Komunistická občanská válka"
  mtg_britain.56.a: "Nezaslouží si zlitování."
  mtg_britain.56.d: "Po vyčerpávající občanské válce se nám podařilo znovu získat kontrolu nad situací. Nyní můžeme začít čistit naši zemi od těchto zrádců..."
@@ -542,7 +542,7 @@
  mtg_britain.78.t: "[PAK.GetName] uznává naši nezávislost"
  mtg_britain.79.a: "Aspoň nebudeme se SSSR bojovat sami."
  mtg_britain.79.b: "Naše poslušnost z nás vyrvou jen přes naše mrtvoly!"
- mtg_britain.79.d: "[From.GetNameDefCap] nás informovalo, že potřebují průchod naším územím, aby mohli zaútočit na svého nepřítele, [SOV.GetNameDef]. Požadují naše okamžité vyhovění i rozsáhlý dozor nad vládou. Pokud ne, prý nemají jinou možnost než provést přesun svých sil naším územím i BEZ našeho souhlasu..."
+ mtg_britain.79.d: "[From.GetNameDefCap] nás informuje, že potřebují průchod naším územím, aby zaútočili na své nepřátele, [SOV.GetNameDef]. Požadují naši okamžitou spolupráci a rozsáhlý vládní dohled. Pokud nesouhlasíme, tvrdí, že nemají jinou možnost než přesunout své síly naším územím BEZ našeho souhlasu..." # todo: CHANGED
  mtg_britain.79.t: "[From.GetNameDefCap] požaduje poslušnost"
  mtg_britain.8.a: "Nepříjemná rána pro krále."
  mtg_britain.8.d: "[GETUKPROKINGNEWSPAPER] přinesl nedávno článek, v kterém připomněl královy povinnosti vůči zemi a lidu a uvádí, že jeho postavení a privilegia s sebou nesou břímě povinnosti; proto musí obětovat buď sňatek, nebo korunu."
@@ -679,12 +679,12 @@
  mtg_netherlands.18.d: "Dozvěděli jsme se, že Britové přijali nizozemský návrh sjednotit Nizozemí pod nizozemskou vlajkou. Zástupce naší vlády nikdo ani nekontaktoval..."
  mtg_netherlands.19.a: "To je vynikající nápad!"
  mtg_netherlands.19.b: "Nemáme zájem."
- mtg_netherlands.19.d: "[HOL.GetAdjectiveCap] zástupci nás kontaktovali s návrhem úzké spolupráce mezi státy tvořícími Nizozemí. Nyní chtějí, abychom tento projekt oficiálně podpořili."
+ mtg_netherlands.19.d: "[HOL.GetAdjective] zástupci nás kontaktovali s návrhem úzké spolupráce mezi státy tvořícími Nizozemí. Nyní si přejí, abychom tomuto projektu oficiálně vyjádřili podporu." # todo: CHANGED
  mtg_netherlands.19.t: "[From.GetNameDefCap] nás zve do Beneluxu"
  mtg_netherlands.2.a: "Náš úskok se vydařil."
  mtg_netherlands.2.d: "[HOL.GetAdjectiveCap] vláda přijala naši nabídku „ochrany“ ostrovů ABC."
  mtg_netherlands.2.t: "[From.GetNameDefCap] přijímá naši nabídku"
- mtg_netherlands.20.d: "[HOL.GetAdjectiveCap] zástupci nás kontaktovali s návrhem úzké spolupráce mezi demokratickými regionálními mocnostmi Evropy. Nyní chtějí, abychom tento projekt oficiálně podpořili."
+ mtg_netherlands.20.d: "[HOL.GetAdjective] zástupci nás kontaktovali s návrhem úzké spolupráce mezi demokratickými menšími mocnostmi Evropy. Nyní si přejí, abychom tento projekt oficiálně podpořili." # todo: CHANGED
  mtg_netherlands.20.t: "[From.GetNameDefCap] nás zve do Evropské unie"
  mtg_netherlands.21.a: "Pokud si myslí, že je to lepší..."
  mtg_netherlands.21.d: "Z našich jednání je zřejmé, že [From.GetNameDefCap] se snaží zajistit si kontrolu nad našimi záležitostmi... Některé menší duplicitní úřady byly prohlášeny za „zbytečné“ a odteď jsou řízeny přímo z Amsterdamu."
@@ -815,7 +815,7 @@
  mtg_netherlands.59.d: "Na nedávném setkání s našimi hodnostáři se nizozemský princ Bernhard dostal do diplomatické roztržky s jedním z našich zástupců. Zdá se, že jej obvinil z „vměšování do vnitřních záležitostí“."
  mtg_netherlands.59.t: "[From.GetName] má s námi diplomatickou roztržku"
  mtg_netherlands.6.a: "Pak nám nezbývá než přijmout [VEN.GetAdjective] nabídku."
- mtg_netherlands.6.b: "Nuže, Venezuelané to stejně nedostanou!"
+ mtg_netherlands.6.b: "No, Venezuelci to stejně nedostanou!" # todo: CHANGED
  mtg_netherlands.6.d: "[From.GetNameDefCap] odmítá převzít zodpovědnost za ostrovy ABC. Říkají, že se nemohou zaplést do „místních územních sporů“."
  mtg_netherlands.6.t: "[From.GetNameDefCap] odmítá ochranu ostrovů ABC"
  mtg_netherlands.60.a: "Ať tedy přitvrdí."
@@ -879,7 +879,7 @@
  mtg_netherlands.77.t: "[From.GetNameDef] navrhuje federaci"
  mtg_netherlands.78.d: "[From.GetAdjectiveCap] vláda nás informovala, že náš návrh jednotného státu v Nizozemí schvaluje. Pokud všechny strany souhlasí, můžeme přistoupit k uskutečnění našich plánů."
  mtg_netherlands.78.t: "[From.GetNameDef] přijímá federaci"
- mtg_netherlands.79.d: "[From.GetAdjectiveCap] zástupci nám sdělili, že v současnosti nevidí potřebu jednotného státu v Nizozemí. Těší se na pokračování spolupráce, ale při zachování plné suverenity."
+ mtg_netherlands.79.d: "[From.GetAdjective] zástupci nás informovali, že v současnosti nevidí potřebu sjednoceného státu v Nizozemí. Těší se na pokračování spolupráce s námi, avšak při zachování plné suverenity." # todo: CHANGED
  mtg_netherlands.79.t: "[From.GetNameDef] odmítá federaci"
  mtg_netherlands.8.a: "Skvělé zprávy!"
  mtg_netherlands.8.d: "[From.GetNameDefCap] se rozhodli podělit se s námi o plány bitevního křižníku třídy Scharnhorst."
@@ -1170,7 +1170,7 @@
  mtg_news.6.b: "Další místo k osvobození z jha bolševismu."
  mtg_news.6.c: "Revoluce kráčí vstříc svému nevyhnutelnému vítězství!"
  mtg_news.6.d: "Můžeme jen doufat, že zvítězila ta správná strana."
- mtg_news.6.desc: "\nPo měsících krveprolití a tisících obětí skončila druhá americká občanská válka. Pokus jižních států o odtržení selhal. Mnozí pozorovatelé poukazují na paralely s první americkou občanskou válkou. Opět se ukázalo, že průmyslová síla severních států převyšuje odhodlání jižních států. \n\n[USA.GetLeader] nyní čelí obtížnému úkolu znovu integrovat odtržené státy zpět do [USA.GetNameDef]. Vzhledem k tomu, že mezi oběma povstáními uplynulo pouze 80 let, mnoho členů vlády prosazuje mnohem přísnější tresty pro rebely než po první válce."
+ mtg_news.6.desc: "\nPo měsících krveprolití a nesčetných tisících obětí skončila Druhá americká občanská válka. Pokus jižanských států o odtržení selhal. Mnozí pozorovatelé poukazují na paralely s první americkou občanskou válkou. Znovu se ukázala převaha průmyslové síly severních států nad odhodláním jihu. \n\nVláda [USA.GetLeader] nyní čelí obtížnému úkolu reintegrace odpadlických států zpět do [USA.GetNameDef]. Po dvou povstáních vzdálených jen asi 80 let tlačí mnozí ve vládě na daleko tvrdší tresty pro povstalce než po první válce." # todo: CHANGED
  mtg_news.6.t: "Dělníci vítězí ve druhé americké občanské válce!"
  mtg_news.62.b: "Impérium je v krizi."
  mtg_news.62.desc: "Zástupci vlád dominií dnes oznámili, že jednostranně přeruší vztahy s korunou. Jako hlavní důvod uvádějí královo flagrantní ignorování názorů a přání vlád dominií a jejich obyvatel, kvůli čemuž již vztah Británie a Commonwealthu nemůže pokračovat. Tato krize, vyvolaná královým úmyslem oženit se s Wallis Simpsonovou, nyní vyústila ve vznik nového společenství národů tvořeného jednotlivými dominiemi a zdá se, že současné ochromení britské vlády znemožní jakoukoli reakci. Právě v to dominia doufala."
@@ -1265,7 +1265,7 @@
  mtg_usa_civil_war_democrats.41.t: "William Dudley Pelley vs. [USA.GetLeader]"
  mtg_usa_civil_war_fascists.1.a: "Musíme se vyhnout eskalaci."
  mtg_usa_civil_war_fascists.1.b: "Nesmíme se klanět davu."
- mtg_usa_civil_war_fascists.1.desc: "Pod vedením a organizací Stříbrné legie Ameriky pochodovala dnes hlavním městem řada centristických a pravicových organizací v jedné z největších demonstrací, jaké kdy Washington viděl. Další shromáždění byla nahlášena po celé zemi.\n\nPochod skončil před Kapitolem, kde dav požadoval, aby mu byli „shromáždění komunisté v Kongresu“ vydáni k postavení před „Velkou lidovou porotu“ za velezradu proti Spojeným státům.\n\nV soukromí někteří členové administrativy sdílejí některé z legitimnějších obav protestujících ohledně vlády práva a dodržování ústavních brzd a protivah. Jiní však navrhují vůči nim tvrdý postup. S dalšími demonstracemi plánovanými na příští týdny si musíme rychle vybrat."
+ mtg_usa_civil_war_fascists.1.desc: "Vedení a organizace Stříbrné legie Ameriky přimělo dnes řadu centristických a pravicových organizací, aby prošly hlavním městem v jednom z největších protestů, jaké Washington dosud viděl. O dalších shromážděních bylo hlášeno po celé zemi.\n\nPochod skončil před Kapitolem, kde dav požadoval, aby jim byli vydáni \"Komunisté shromáždění v Kongresu\", aby stanuli před \"Velkou lidovou porotou\" za velezradu proti Spojeným státům.\n\nSoukromě sdílí někteří členové administrativy některé oprávněné obavy protestujících o právní stát a dodržování ústavních brzd a protizávaží. Jiní však navrhují proti nim tvrdý postoj. S dalšími demonstracemi plánovanými na nadcházející týdny musíme rychle rozhodnout." # todo: CHANGED
  mtg_usa_civil_war_fascists.1.t: "Protesty Stříbrné legie"
  mtg_usa_civil_war_fascists.10.a: "Velmi znepokojivé zprávy."
  mtg_usa_civil_war_fascists.10.desc: "Včera byla napadena a krátce obsazena zbrojnice americké armády ve státě [GetCSAState]. Malý oddíl stráží čelil velkému ozbrojenému davu, který požadoval klíče od skladů. Když dorazily posily z nedaleké posádky, útočníci už byli pryč a odnesli s sebou velké množství pěchotních zbraní.\n\nVzhledem k tomu, že strážím se nic nestalo a posilám trvalo jejich cesta nápadně dlouho, někteří ve vládě spekulují, že šlo o koordinovaný útok."
@@ -1289,7 +1289,7 @@
  mtg_usa_civil_war_fascists.16.desc: "Podle důvěrné zprávy ministerstva obchodu plánuje stále více průmyslníků v severních částech USA přesunout výrobu do jiných států poté, co odbory vyhlásily řadu stávek za vyšší mzdy a kratší pracovní dobu. V podnikatelské komunitě zavládl hluboký neklid a mnozí tvrdí, že je čím dál obtížnější dosáhnout rozumného zisku ve státech, které nejsou ochotny tvrdě potlačit stávkující."
  mtg_usa_civil_war_fascists.16.t: "Průmyslník přesouvá civilní továrnu"
  mtg_usa_civil_war_fascists.2.a: "Byla prolita krev. Musíme počítat s tím, že než to skončí, bude prolita další."
- mtg_usa_civil_war_fascists.2.desc: "Napětí dnes v hlavním městě opět eskalovalo, když byla svolána další masová demonstrace, mimo jiné i Stříbrnou legií Ameriky. Opakováním svých dřívějších požadavků, aby byli zatčeni a vydáni někteří členové Kongresu, dali protestující hodinové ultimátum, po němž měli vtrhnout do Kapitolu a své osoby z listiny odvést silou. \n\nKdyž ultimátum vypršelo bez odezvy, vyrazily malé oddíly legionářů Stříbrné legie proti linii Kapitolské policie. Rozpoutala se krvavá mela, která rychle zachvátila i další protestující. Zatímco byla policie zaměstnána, jiné skupiny pronikly do budov. Procházely místnost po místnosti, několik zamýšlených obětí našly, ale při odchodu je zastavila ozbrojená policie. V následné přestřelce padlo několik útočníků a dva poslanci byli zraněni.\n\nNad hlavním městem se rozprostřela nepříjemná nálada a obě strany se navzájem obviňují z eskalace situace. Následujících několik týdnů ukáže, zda incident známý jako „Bitva o Kapitol“ byl koncem protestů, nebo pouze předehrou k ještě většímu konfliktu."
+ mtg_usa_civil_war_fascists.2.desc: "Napětí dnes eskalovalo při další demonstraci v hlavním městě, když další masovou protestní akci svolala mimo jiné Stříbrná legie Ameriky. Opakujíc své dřívější požadavky, aby bylo několik členů Kongresu zatčeno a předáno jim, vydali demonstranti ultimátum jednu hodinu, než vtrhnou do Kapitolu a násilím odvedou osoby na svém seznamu. \n\nKdyž ultimátum uplynulo bez reakce, malé oddíly legionářů přeběhly linii policie Kapitolu. Vznikla krvavá rvačka, která se rychle rozšířila a pohltila další protestující. Zatímco byla policie zaměstnána, jiné skupiny pronikly do budov. Procházeli místnosti a podařilo se jim najít několik vytipovaných obětí, ale byli zadrženi ozbrojenou policií. V následné přestřelce bylo několik útočníků zabito, zatímco dva kongresmani byli zraněni.\n\nV hlavním městě zavládla špatná nálada, přičemž obě strany obviňují druhou ze eskalace. Následující týdny ukážou, zda událost nyní známá jako Bitva o Capitol Hill byla koncem protestů, nebo pouze předehrou k ještě většímu konfliktu." # todo: CHANGED
  mtg_usa_civil_war_fascists.2.t: "Protesty přerůstají v násilí"
  mtg_usa_civil_war_fascists.20.a: "Nazvěme to pravým jménem: velezrada."
  mtg_usa_civil_war_fascists.20.desc: "Dnes v 8:00 dorazil do Bílého domu zvláštní posel z [CSAcapital.GetName], aby prezident [USA.GetLeader] obdržl nótu od státního zákonodárného sboru oznamující, že se [CSAcapital.GetName] již nebude považovat za součást republiky. S tvrzením, že je to základní právo každého civilizovaného národa - a s rozsáhlými citacemi z Prohlášení nezávislosti - nóta zároveň důrazně prohlašuje, že pokojné odtržení je v zájmu všech a že nový stát si nepřeje nic jiného než spravovat své záležitosti jako dobrý soused pro [USA.GetNameDef]."
@@ -1320,10 +1320,10 @@
  mtg_usa_diplomatic_protest.1.t: "[USA.GetNameDefCap] zasílají protestní nótu"
  mtg_usa_diplomatic_protest.2.a: "Ta území nestojí za válku."
  mtg_usa_diplomatic_protest.2.b: "Vzkažte prezidentovi, ať si hledí svého."
- mtg_usa_diplomatic_protest.2.desc: "Ve vystoupení před oběma komorami Kongresu oznámil prezident [USA.GetLeader], že jeho vláda nadále trvá na Monroeově doktríně, podle níž by žádná vnější moc neměla držet území v Americe. Ačkoli [USA.GetAdjective] vláda v praxi tolerovala, že jiné [USA.GetRulingIdeology] země vlastní malá území, nemůže přijmout to, co nazval „nezákonnou okupací a přímou hrozbou pro národní bezpečnost“.\n\nKrátce poté předal [USA.GetAdjective] velvyslanec nótu s prezidentovým ultimátem, aby kontrolu nad našimi drženými územími v Americe převzali [USA.GetNameDef]."
+ mtg_usa_diplomatic_protest.2.desc: "Ve vystoupení před oběma komorami Kongresu oznámil prezident [USA.GetLeader], že jeho vláda zůstává věrna Monroeově doktríně, která říká, že žádné cizí mocnosti by neměly držet území v Americe. Ačkoli v praxi vláda [USA.GetAdjective] tolerovala, že jiné [USA.GetRulingIdeology] země drží malá území, nemůže přijmout to, co nazval \"ilegální okupací a přímou hrozbou pro bezpečnost [USA.GetNameDef]\". \n\nKrátce poté [USA.GetAdjective] velvyslanec předal nótu s ultimátem prezidenta, aby předali kontrolu nad našimi americkými držbami [USA.GetNameDef]." # todo: CHANGED
  mtg_usa_diplomatic_protest.2.t: "[USA.GetNameDefCap] požadují předání amerických držav"
  mtg_usa_diplomatic_protest.3.a: "Zvážíme své možnosti."
- mtg_usa_diplomatic_protest.3.desc: "S odkazem na snahu předejít krveprolití souhlasil [From.GetLeader], že nám předá kontrolu nad jejich državami v Americe. Zda těmto územím okamžitě udělit plnou svrchovanost, nebo je ponechat pod naší přímou správou, je teď na ministerstvu zahraničí předmětem diskuse."
+ mtg_usa_diplomatic_protest.3.desc: "S odvoláním na touhu vyhnout se krveprolití se vláda [From.GetLeader] souhlasila předat nám kontrolu nad jejich americkými držbami. Zda bychom těmto územím měli okamžitě udělit plnou suverenitu, nebo je ponechat pod naší přímou správou, je v Ministerstvu zahraničí předmětem diskuse." # todo: CHANGED
  mtg_usa_diplomatic_protest.3.t: "[From.GetNameDefCap] vrací území"
  mtg_usa_diplomatic_protest.4.a: "Byli varováni. Rozhodli se varování nedbat."
  mtg_usa_diplomatic_protest.4.b: "Toto násilím nevyřešíme."
@@ -1395,7 +1395,7 @@
  mtg_usa_north_american_dominion.2.t: "[From.GetNameDefCap] přijímá podrobení"
  mtg_usa_north_american_dominion.3.a: "Smělá slova od někoho tak slabého."
  mtg_usa_north_american_dominion.3.b: "Možná má pravdu."
- mtg_usa_north_american_dominion.3.desc: "[From.GetLeader] reagoval na naši diplomatickou nótu s hlubokým rozhořčením. Ve své odpovědi prohlásil, že [From.GetNameDef] má dlouhou a hrdou historii nezávislosti a nikdy nedovolí, aby ji cizí moc vnucovala svou vůli.\n\nDále naléhal, aby prezident [USA.GetLeader] zvážil důsledky války kvůli této otázce; [USA.GetNameDef] by byl jistě označen za největší hrozbu míru, s nepředstavitelnými následky."
+ mtg_usa_north_american_dominion.3.desc: "[From.GetLeader] reagoval s hlubokým znepokojením na naši diplomatickou nótu. Ve své odpovědi prohlásil, že [From.GetNameDef] má dlouhou a hrdou historii nezávislosti a suverenity a nikdy by nedopustil, aby mu cizí moc vnucovala svou vůli.\n\nDále naléhal na prezidenta [USA.GetLeader], aby zvážil důsledky války o tuto záležitost, která by nepochybně označila [USA.GetNameDef] za největší hrozbu míru a mohla by mít nepředstavitelné následky." # todo: CHANGED
  mtg_usa_north_american_dominion.3.t: "[From.GetNameDefCap] odmítá"
  mtg_usa_pacific_pacification.1.a: "Jistě by se nevměšovali do vnitřních záležitostí."
  mtg_usa_pacific_pacification.1.b: "Ta území si ubráníme sami."
@@ -1502,5 +1502,20 @@
  panay_incident.6.a: "Jejich slabost je naší silou"
  panay_incident.6.d: "[USA.GetNameDef] se po ztrátě USS Panay obávají války. Jelikož jim zjevně chybí chuť ke vojenskému střetu, podařilo se [USA.GetAdjective] politikům prosadit stažení všech zbývajících [USA.GetAdjective] dělových člunů a personálu z Číny."
  panay_incident.6.t: "[USA.GetName] se stahují z Číny"
- us_pilot_training_tt: "Malá letka 25 stíhaček bude převedena, jakmile vypukne válka."
+ us_pilot_training_tt: "Malá letka 25 stíhaček bude přemístěna, až vypukne válka." # todo: CHANGED
  ven_claims_abc_islands: "§YVenezuela§! nabídla „ochranu“ pro §YCuraçao§!.\n"
+ mtg_britain.200.t: "[FROM.GetNameDefCap] se pokouší prosadit režim [FROM.GetRulingIdeology]" # todo: NEW TRANSLATION
+ mtg_britain.200.d: "V překvapivém zvratu událostí se vláda [FROM.GetLeader] pokusila získat podporu v [ROOT.GetName], aby změnila naši vládnoucí stranu na [FROM.GetRulingIdeology]." # todo: NEW TRANSLATION
+ mtg_britain.200.a: "Je bezpečnější souhlasit." # todo: NEW TRANSLATION
+ mtg_britain.200.b: "Přes naše mrtvoly!" # todo: NEW TRANSLATION
+ mtg_britain.200.tt: "§RToto může mít vážné následky§!" # todo: NEW TRANSLATION
+ mtg_britain.201.t: "[FROM.GetNameDefCap] odmítá změnu režimu" # todo: NEW TRANSLATION
+ mtg_britain.201.d: "V ohromujícím projevu neloajality [FROM.GetLeader] oznámil své odmítnutí podřídit se vůli [ROOT.GetLeader] v otázce role [ROOT.GetRulingIdeology] ve své vládě. Naším jediným způsobem, jak nyní dosáhnout změny režimu, je ozbrojený konflikt s [FROM.GetNameDef]." # todo: NEW TRANSLATION
+ mtg_britain.201.a: "Nechme to být, jednota je důležitější." # todo: NEW TRANSLATION
+ mtg_britain.201.b: "Je válka." # todo: NEW TRANSLATION
+ mtg_britain.202.t: "[FROM.GetNameDefCap] vyhlašuje válku" # todo: NEW TRANSLATION
+ mtg_britain.202.d: "Zdá se, že [FROM.GetLeader] naši odmítnutí nepřijal dobře a šel tak daleko, že oznámil oficiální vyhlášení války!" # todo: NEW TRANSLATION
+ mtg_britain.202.a: "Některé věci stojí za to bojovat." # todo: NEW TRANSLATION
+ mtg_britain.203.t: "[FROM.GetNameDefCap] upouští od tématu změny režimu" # todo: NEW TRANSLATION
+ mtg_britain.203.d: "V poznámce od [FROM.GetLeader] oznámili, že přijímají naše odmítnutí a uvedli, že je třeba zachovat jednotu Commonwealthu." # todo: NEW TRANSLATION
+ mtg_britain.203.a: "Žádná válka s mateřskou zemí." # todo: NEW TRANSLATION

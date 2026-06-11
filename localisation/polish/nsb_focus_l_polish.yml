@@ -790,7 +790,7 @@
  POL_press_the_habsburg_claim: "Prosadit habsburský nárok"
  POL_press_the_habsburg_claim_desc: "Maďarsko je příliš dlouho bez krále a arcivévoda Otto von Habsburg zůstává bez trůnu, který by mohl nazývat svým. Musíme prosadit nárok našeho příbuzného na trůn a zajistit habsburskou vládu v Evropě!"
  POL_pressure_for_the_west: "Tlačit na Západ"
- POL_pressure_for_the_west_desc: "Přesné hranice mezi Polskem a Německem byly předmětem debat v desetiletích po Velké válce. V těchto debatách si Němci ponechali většinu svých průmyslových center, zatímco Polsku zůstalo jen málo, co by připomínalo průmysl. Když Východ získal [SOV.GetNameDef], musí být tyto území nahrazeny Slezskem a Pomořanskem."
+ POL_pressure_for_the_west_desc: "Přesné hranice mezi Polskem a Německem byly předmětem debat v desetiletích po Velké válce. V této debatě si Němci ponechali většinu svých průmyslových center, což Polsku zanechalo jen málo připomínajícího průmysl. S východem odevzdaným [SOV.GetNameDef] musí být tato území nahrazena Slezskem a Pomořanskem." # todo: CHANGED
  POL_privatize_education: "Zabavit zahraniční podniky"
  POL_privatize_education_desc: "Ačkoli nám zahraniční investoři byli dosti užiteční, podniky, které zde založili, budou v polských rukou mnohem lépe využity. Původní vlastníky to rozhněvá, ale je to nezbytný čin vlastenectví."
  POL_pro_allied_government: "Jmenovat prospojeneckou vládu"
@@ -878,7 +878,7 @@
  POL_trust_in_the_west: "Důvěřovat Západu"
  POL_trust_in_the_west_desc: "Ačkoli Habsburkové z Rakouska bojovali proti západním mocnostem v první světové válce, Polsko je přítelem Západu. Musíme věřit, že naši spojenci za oceánem nám budou i nadále pomáhat, tak jako tolikrát v minulosti."
  POL_underground_conscripts: "Podzemní branci"
- POL_underground_conscripts_desc: "Odvod z řad buněk Polského podzemního státu výrazně zlepší bojovou schopnost našich vojáků proti našim utlačovatelům."
+ POL_underground_conscripts_desc: "Nábor z buněk Polského podzemního státu výrazně zlepší bojové schopnosti našich jednotek proti utlačovatelům." # todo: CHANGED
  POL_unite_west_slavia: "Sjednotit se s Čechami"
  POL_unite_west_slavia_desc: "S naším králem na trůnu Polska i Čech potřebujeme pouze sjednotit vnitřní správu Polska a Čech a sen o Západní Slavii bude naplněn."
  POL_warsaw_to_crimea_railway: "Železnice Varšava-Krym"
@@ -903,7 +903,7 @@
  SOV_THE_LONELY_ISLAND_NAME_NORMAL: "Osamělý ostrov"
  SOV_a_global_class_struggle: "Globální třídní boj"
  SOV_a_global_class_struggle_decision_tt: "Odemkne rozhodnutí §YPodnítit proletariát§! k destabilizaci evropských sousedů a k odůvodnění války proti nim."
- SOV_a_global_class_struggle_desc: "Boj za osvobození dělnické třídy musí být ze své podstaty globálním bojem. Dokud existuje jediná země podporující kapitalistický systém, není revoluce v bezpečí. Jakmile dělníci po celém světě poznají, že revoluce je opět na postupu, pohrnou se pod náš prapor a podpoří nás v našem úsilí."
+ SOV_a_global_class_struggle_desc: "Boj za osvobození dělnické třídy musí být z definice globální boj. Dokud existuje alespoň jedna země podporující kapitalistický systém, revoluce není v bezpečí. Jakmile dělníci po celém světě pochopí, že revoluce se opět rozbíhá, připojí se k našemu praporu a podpoří nás v našich snahách." # todo: CHANGED
  SOV_a_new_theory_of_revolution: "Nová teorie revoluce"
  SOV_a_new_theory_of_revolution_desc: "Marxistická teorie revoluce byla přesná v 19. století, ale realita 20. století vyžaduje revizi. Revoluce nezačíná vždy v nejvyspělejších zemích, a proto musíme přizpůsobit svůj přístup."
  SOV_a_sustainable_economy: "Udržitelná ekonomika"
@@ -938,7 +938,7 @@
  SOV_anti_fascist_policies: "Antifašistická politika"
  SOV_anti_fascist_policies_desc: "S fašisty nemůže být žádné mírové soužití. Měli bychom vyhledat všechny možné spojence a připravit se na nevyhnutelnou konfrontaci."
  SOV_approach_germany: "Přiblížit se Německu"
- SOV_approach_germany_desc: "Není důvod, proč bychom neměli být schopni dosáhnout dohody s Německem. Samozřejmě s nimi nebudeme moci navždy mírově koexistovat, ale Němci na nás nezaútočí, dokud budou mít v zádech západní Spojence - a my bychom je měli povzbudit, aby se vypořádali nejdříve s nimi."
+ SOV_approach_germany_desc: "Není důvod, proč bychom se nemohli dohodnout s Německem. Samozřejmě s nimi nebudeme moci žít v míru navěky, ale Němci nás nebudou napadat, dokud jim v zádech budou existovat západní spojenci - a měli bychom Němce povzbudit, aby se nejprve vypořádali s nimi." # todo: CHANGED
  SOV_approach_primakov: "Oslovit Primakova"
  SOV_approach_primakov_desc: "Vitalij Primakov je jedním z našich předních velitelů jízdy a jeho podpora by byla pro konsolidaci země nesmírně cenná."
  SOV_approach_primakov_tt: "§Y$SOV_vitaly_primakov$§! se v občanské válce postaví na stranu Levé opozice a přivede s sebou vojáky a loajální generály."
@@ -1015,8 +1015,8 @@
  SOV_comecon_alt_name: "$SOV_common_economic_space_name$"
  SOV_comecon_communist_name: "$SOV_comecon_name$"
  SOV_committee_in_exile: "Výbor v exilu"
- SOV_committee_in_exile_desc: "Nikdy si nemůžeme být jisti, na koho padne Stalinův šílený zrak příště. Musíme připravit tajné cesty a úkryty, abychom mohli propašovat lidi ze země, pokud zjistíme, že se někteří naši podporovatelé stali terčem další čistky."
- SOV_committee_in_exile_tt: "Odemkne rozhodnutí §Y$SOV_send_supporters_abroad$§!, které nám umožní poslat sympatizanty do exilu (§Gpostavy v exilu nemohou být odstraněny při čistkách§!). Vyhnané postavy se stanou dostupnými, jakmile vypukne občanská válka."
+ SOV_committee_in_exile_desc: "Nikdy si nemůžeme být jisti, na koho se Stalinův šílený pohled obrátí příště. Musíme připravit tajné trasy a úkryty k pašování lidí ze země, pokud zjistíme, že jsou někteří z našich stoupenců cílem další čistky." # todo: CHANGED
+ SOV_committee_in_exile_tt: "Odemkne §Y$SOV_send_supporters_abroad$§! rozhodnutí, které nám umožní poslat sympatizanty do exilu (§Gpostavy v exilu nemohou být obětí čistek§!). Exilované postavy budou dostupné, když vypukne občanská válka." # todo: CHANGED
  SOV_concessions_to_foreign_powers: "Ústupky cizím mocnostem"
  SOV_concessions_to_foreign_powers_desc: "Je hluboce ponižující, že musíme žebrat o zahraniční pomoc v našem boji za záchranu země, ale Stalinova tyranie a paranoia nás k tomu donutily."
  SOV_concessions_to_foreign_powers_tt: "Odemkne §Yrozhodnutí§! o žádosti o pomoc cizích mocností výměnou za ústupky."
@@ -1047,7 +1047,7 @@
  SOV_curtailment_of_the_collective_farms_tt: "Uzamkne zaměření Pětiletý plán"
  SOV_demand_balkan_submission: "Požadovat podrobení Balkánu"
  SOV_demand_balkan_submission_decisions_tt: "Aktivuje rozhodnutí k §Yposílání ultimát§! balkánským zemím."
- SOV_demand_balkan_submission_desc: "Minulé zkušenosti ukázaly, že země kolem nás využijí jakoukoli naši slabost. S válkou, která se blíží v Evropě, si nemůžeme dovolit mít sousedy s pochybnou loajalitou. Země na Balkáně a v Malé Asii si budou muset vybrat, zda budou stát s námi, nebo proti nám."
+ SOV_demand_balkan_submission_desc: "Minulé zkušenosti ukázaly, že země kolem nás využijí každé naší slabiny. S válkou, která se vaří v Evropě, si nemůžeme dovolit sousedy s pochybnými věrnostmi. Země na Balkáně a v Malé Asii si budou muset vybrat, zda stojí s námi, nebo proti nám." # todo: CHANGED
  SOV_demand_eastern_poland: "Požadovat východní Polsko"
  SOV_demand_eastern_poland_desc: "Na konci Velké války byla stanovena Curzonova linie a dohodnuta jako východní hranice Polska. Tato linie probíhá asi 200 kilometrů západně od současné polské hranice. Měli bychom jim tuto základní historickou skutečnost připomenout a zajistit, že hranice bude tam, kde má být."
  SOV_depoliticize_the_military: "Depolitizovat armádu"
@@ -1215,7 +1215,7 @@
  SOV_integrate_smirnovs_bloc_desc: "Máme několik starých trockistů, kteří byli nedávno zatčeni a uvězněni za odpor proti stalinistickému útlaku. Pár dobře volených slov na správných místech by mohlo zajistit jejich propuštění a vyhnanství, kde by mohli organizovat, zatímco by byli v bezpečí před politickou paranoiou. Nezapomenou, kdo jim pomohl uniknout."
  SOV_integrate_smirnovs_bloc_tt: "§Y$SOV_ivan_smirnov$§!, §Y$SOV_ivar_smilga$§! a §Y$SOV_aleksandr_shlyapnikov$§! budou propuštěni z vězení a posláni do exilu (§Gpostavy v exilu nemohou být odstraněny čistkou§!). Stanou se dostupnými jako poradci při vypuknutí občanské války.\nPřidá podporu Levé opozice ve dvou státech."
  SOV_intensify_pilot_training_program: "Zintenzivnit program výcviku pilotů"
- SOV_intensify_pilot_training_program_desc: "Chceme-li být konkurenceschopní, musí naše letectvo létat a bojovat za všech okolností. Nejlepší cestou k tomu je cvičit naše piloty na nejvyšší možnou úroveň. Co nám může chybět v počtech či technické vyspělosti, nahradíme prostou dovedností."
+ SOV_intensify_pilot_training_program_desc: "Abychom byli konkurenceschopní, naše letectvo musí být schopno létat a bojovat za všech okolností. Nejlepším způsobem, jak toho dosáhnout, je vycvičit naše piloty na co nejvyšší úroveň. To, co nám může chybět v počtech nebo technické vyspělosti, nahradíme čirou dovedností." # todo: CHANGED
  SOV_intensify_pilot_training_program_ns_tt: "$SOV_modify_airforce_ns_intro$ \nŠance na vznik esa: §G+15%§!  \nZtráta zkušeností při sestřelení: §G-15%§! \nŠance na letecké nehody: §G-25.0%§! \nPostih při nočních operacích: §G-10.00%§! \nPostih za špatné počasí: §G-15.00%§!  \nSpotřeba paliva letectva: §R+10.00%§!\n\n"
  SOV_international_revolutionary_marxist_centre: "Mezinárodní revoluční marxismus"
  SOV_international_revolutionary_marxist_centre_allies_tt: "\nKaždý nezávislý nestalinistický komunistický stát, s kterým je [ROOT.GetName] v míru: "
@@ -1232,7 +1232,7 @@
  SOV_intervention_in_china: "Intervence v Číně"
  SOV_intervention_in_china_chi: "[CHI.GetFlag][CHI.GetNameDef]"
  SOV_intervention_in_china_default: "podporovaná čínská frakce"
- SOV_intervention_in_china_desc: "Situace v Číně se zhoršila do té míry, že začíná ohrožovat naši bezpečnost. Musíme zasáhnout a dosadit v regionu spolehlivou vládu."
+ SOV_intervention_in_china_desc: "Situace v Číně se zhoršila natolik, že se stává hrozbou pro naši bezpečnost. Musíme zasáhnout a dosadit v regionu spolehlivou vládu." # todo: CHANGED
  SOV_intervention_in_china_prc: "[PRC.GetFlag][PRC.GetNameDef]"
  SOV_intervention_in_china_sik: "[SIK.GetFlag][SIK.GetNameDef]"
  SOV_intervention_in_china_wargoal_tt: "Získá §Y$puppet_wargoal_focus$§! válečný cíl proti všem čínským frakcím §Gkromě§! §Y[GetAppropriateSupportedChineseFaction]§!."
@@ -1252,7 +1252,7 @@
  SOV_last_purge_focus_days_tt: "Aktuální počet dnů: [?SOV_first_moscow_trial_flag:days|Y0]"
  SOV_latvian_claimed_states_tt: "[ROOT.GetNameDefCap] získá nárok na §Yvšechna [LAT.GetAdjective] domovská území§!."
  SOV_leader_of_the_party_and_the_people: "Vůdce strany a lidu"
- SOV_leader_of_the_party_and_the_people_desc: "Soudruh Stalin plní své těžké úkoly s pečlivostí a schopností a těší se neomezené podpoře jak strany, tak lidu. Jakýkoli náznak ješitnosti nebo sebezbožňování je mu cizí; je snad nejskromnějším člověkem na světě."
+ SOV_leader_of_the_party_and_the_people_desc: "Soudruh Stalin vykonával své těžké úkoly s pečlivostí a obratností a těší se bezpodmínečné a nedělené podpoře jak strany, tak lidu. Jakékoli náznaky marnivosti nebo sebaoslavování jsou mu cizí; je snad nejpokornějším člověkem naživu." # todo: CHANGED
  SOV_leader_of_the_party_and_the_people_trait_tt: "§Y[ROOT.GetLeader]§!: Upraví příslušný rys (§Y$stalin_inheritor_of_lenin$§! nebo §Y$stalin_servant_of_lenin$§!) o \nStabilita podle popularity strany: §G+15.00%§! \nPostih stability při obranné válce: §G+40.00%§! \nCena politických poradců: §G-25%§!\n"
  SOV_left_eliminate_right: "Odstranit pravici"
  SOV_left_eliminate_right_desc: "Uvnitř strany existují frakce, které jsou naprosto neslučitelné. Chceme-li převzít vládu a vrátit revoluci na správnou cestu, nemůžeme si dovolit nechat se rozptylovat jejich vměšováním. Pokud ale „soudruh“ Stalin hledá vnitřní nepřátele, mohli bychom mu některé lidi podstrčit..."
@@ -1263,7 +1263,7 @@
  SOV_left_opposition_coup_tt: "Přidává podporu Levé opozici v armádě, námořnictvu a letectvu.\nZahajuje §YSovětskou občanskou válku§!. "
  SOV_left_opposition_name: "Levá opozice"
  SOV_left_purges: "Odstranit kontrarevolucionáře"
- SOV_left_purges_desc: "Je tu mnoho dalších, kteří chovali zášť proti Stalinovi. Dokud stále upevňujeme svou moc, nesmíme dovolit, aby tito lidé začali tvořit kontrarevoluční buňky - jinak budeme mít brzy na krku další občanskou válku."
+ SOV_left_purges_desc: "Existuje mnoho dalších, kteří chovali odpor vůči Stalinovi. Dokud stále upevňujeme svou vládu, nesmíme dovolit, aby tito lidé začali tvořit kontrarevoluční buňky, jinak bychom brzy čelili další občanské válce." # todo: CHANGED
  SOV_left_purges_tt: "Poradci Pravé opozice budou odstraněni"
  SOV_left_right_purges_factionalism_tt: "Odstraní postih k politické síly z §Y$SOV_factionalism_modifier$§!"
  SOV_leningrad_polytechnical_institute: "[195.GetName]ský polytechnický institut"
@@ -1339,7 +1339,7 @@
  SOV_move_industry_to_the_urals_desc: "Válka přišla k nám a vlast je v ohrožení. Ačkoli naše síly budou bojovat do posledního náboje bez toho, aby ustoupili, nemůžeme si být jisti, že to bude stačit vzhledem k silám, které proti nám stojí. Musíme evakuovat továrny do bezpečí dříve, než budou obsazeny."
  SOV_move_industry_to_the_urals_trains_tt: "§R[?SOV_industrial_relocation_trains_focus] $train_equipment$s§! bude využito po dobu tohoto zaměření.\n\n"
  SOV_muster_the_old_guard: "Shromáždit starou gardu"
- SOV_muster_the_old_guard_desc: "Stále je mnoho těch, kteří kdysi bojovali za cara a vlast. Zestárli a změkli, ale zkušenosti, které válka dává, jsou nenahraditelné. Pokud se k nim dostaneme, mohli by tvořit zkušené jádro nové armády, až přijde čas získat zemi zpět."
+ SOV_muster_the_old_guard_desc: "Pořád je mnoho těch, kteří kdysi bojovali za cara a vlast. Stali se staršími a měkčími, ale zkušenost, kterou válka poskytuje, je nenahraditelná. Pokud je dokážeme oslovit, vytvořili by zkušené jádro nové armády, až nastane čas znovu získat zemi." # todo: CHANGED
  SOV_muster_the_old_guard_tt: "Naverbuje jednotky staré gardy, které se připojí na tvou stranu, až začne §Y[GetSovietCivilWarName]§!."
  SOV_my_brothers_keeper: "Strážce svého bratra"
  SOV_my_brothers_keeper_desc: "Starodávná dynastie Romanovců měla dynastické vazby na mnoho dalších šlechtických rodin. Některé z nich si stále drží moc, jiné o trůny přišly. Nyní, když jsme obnovili vlastní monarchii, měli bychom zajistit, aby i v těchto zemích byli dosazeni ti správní vládci."
@@ -1373,7 +1373,7 @@
  SOV_offer_poland_protection: "Nabídnout Polsku ochranu"
  SOV_offer_poland_protection_desc: "Polsko a polský lid trpěli po staletí mnohými útrapami a ponížením. Je veřejným tajemstvím, že Němci chtějí získat zpět území, které bylo Polsku přiděleno po Velké válce, a jsou ochotni použít násilí. Měli bychom polské vládě nabídnout ochranu, pokud bude ochotna diskutovat o otázce naší společné hranice."
  SOV_oil_production: "Ropná produkce"
- SOV_oil_production_desc: "Dalším logickým krokem v našem průmyslovém rozvoji i ve vojenské modernizaci je zvýšení motorizace. To si vyžádá obrovské zásoby maziv a paliva. Naštěstí disponujeme dostatečnými zásobami ropy, které lze využít, pokud rozvineme potřebný průmysl."
+ SOV_oil_production_desc: "Dalším logickým krokem v našem průmyslovém rozvoji i v modernizaci armády je zvýšení motorizace. To bude vyžadovat obrovské zásoby maziv a paliva. Naštěstí disponujeme dostatečnými zásobami ropy, které pro to můžeme využít, pokud vybudujeme potřebný průmysl." # todo: CHANGED
  SOV_oil_production_ns_tt: "$SOV_modify_fyp_ns_intro$ \nSyntetická ropa: §G+5.00%§! \nZisk paliva z rafinerií: §G+5.00%§! \n\n"
  SOV_oil_production_silo_tt: "Přidá §Y1 $fuel_silo$§! ve dvou z těchto států."
  SOV_optimize_production_lines: "Optimalizovat výrobní linky"
@@ -1442,9 +1442,9 @@
  SOV_preemptive_invasion_of_iran_desc: "[PER.GetNameDef] není spolehlivá, pokud by vypukla válka, a nemůžeme jí důvěřovat ani v tom, že nevstoupí do války proti nám. Místo abychom čekali, měli bychom situaci vyřešit a vyčistit pole působnosti."
  SOV_preemptive_invasion_of_iran_tt: "Jakmile [PER.GetAdjective] vláda kapituluje, uděláme z nich loutkový stát, začleníme několik pohraničních oblastí a získáme přístup k ropným zdrojům v [PER.GetAdjective] územích. Budeme moci požádat [ENG.GetAdjective] o společnou operaci."
  SOV_prepare_a_war_with_japan: "Připravit válku s Japonskem"
- SOV_prepare_a_war_with_japan_desc: "Než udeříme na Japonsko, musíme se ujistit, že nás nečekají žádná překvapení, a zintenzivnit naše průzkumné úsilí."
+ SOV_prepare_a_war_with_japan_desc: "Než zaútočíme na Japonsko, musíme se ujistit, že nás nečekají žádná překvapení, a zvýšit naše průzkumné úsilí." # todo: CHANGED
  SOV_proclaim_soviet_hegemony: "Vyhlásit sovětskou hegemonii"
- SOV_proclaim_soviet_hegemony_desc: "Je zřejmé, že sovětský systém vlády, sovětské hospodářství a sovětská společnost jsou v každém ohledu nesrovnatelně lepší než systémy, které je předcházely. Dokud tyto zastaralé systémy přetrvávají v jiných částech světa, budou se vždy najít lidé, kteří je budou zpochybňovat - a měli bychom je využít."
+ SOV_proclaim_soviet_hegemony_desc: "Je zřejmé, že sovětský systém vlády, sovětská ekonomika a sovětská společnost jsou ve všech ohledech mnohem nadřazené systémům, které je předcházely. Dokud tyto zastaralé systémy přetrvávají v jiných částech světa, vždy budou lidé ochotní je zpochybňovat, a tyto lidi bychom měli využít." # todo: CHANGED
  SOV_propaganda_campaigns_taken_10_or_greater_tt: "Provedeno alespoň §Y10§! propagandistických kampaní. (Aktuálně $SOV_propaganda_campaigns_taken_current_10$ kampaní)"
  SOV_propaganda_campaigns_taken_15_or_greater_tt: "Provedeno alespoň §Y15§! propagandistických kampaní. (Aktuálně $SOV_propaganda_campaigns_taken_current_15$ kampaní)"
  SOV_propaganda_campaigns_taken_20_or_greater_tt: "Provedeno alespoň §Y20§! propagandistických kampaní. (Aktuálně $SOV_propaganda_campaigns_taken_current_20$ kampaní)"
@@ -1490,7 +1490,7 @@
  SOV_rehabilitated_military: "Rehabilitovaná armáda"
  SOV_rehabilitated_military_desc: "[GetRehabilitatedMilitaryName]"
  SOV_rehabilitated_military_desc_alt: "Bolševici drželi armádu pod extrémně horlivým dohledem - a k čemu jim to bylo? Zatímco si musíme ponechat post politruka, aby vykořenil komunistické myšlenky, během války by měli vojenští důstojníci činit rozhodnutí na základě vojenské situace, nikoli politických ohledů."
- SOV_rehabilitated_military_desc_default: "Je nyní jasné, že přísný dohled nad armádou byl možná až příliš horlivý. V mírových dobách byl odůvodněný, ale ve válce musíme dát prostor profesionálům, aby rozhodovali na základě vojenské situace, nikoli politických úvah. Je čas omezit roli politruků a dát velitelům větší volnost."
+ SOV_rehabilitated_military_desc_default: "Je nyní jasné, že přísný dohled, který jsme nad armádou drželi, byl možná trochu přehnaný. Zatímco v míru byl zcela opodstatněný, za války bychom měli nechat profesionály činit rozhodnutí na základě vojenské situace, nikoli politických hledisek. Je čas trochu zkrotit politické důstojníky a dát velitelskému sboru větší volnost při vedení věcí." # todo: CHANGED
  SOV_rehabilitated_military_ns_tt: "$SOV_modify_the_red_army_ns_intro$ \nOrganizace divizí: §G+5.0%§! \n"
  SOV_reigniting_the_revolutionary_spirit: "Znovuzažehnout revolučního ducha"
  SOV_reigniting_the_revolutionary_spirit_desc: "Léta stalinského režimu otupila revoluční zápal našeho lidu. Našim dělníkům se říkalo, že revoluce přijde - někdy. Víme, že to není pravda: při současné úrovni světového vývoje musí být revoluce zažehnuta v jiných, méně rozvinutých zemích. A my ji zažehneme."
@@ -1565,7 +1565,7 @@
  SOV_secure_the_baltics_desc: "Pobaltský region byl dlouho nedílnou součástí Ruska. Odtrhli se v okamžiku národní slabosti a musí být získáni zpět co nejdříve."
  SOV_seek_a_defense_pact_with_the_allies: "Usilovat o obranný pakt se Spojenci"
  SOV_seek_a_defense_pact_with_the_allies_desc: "Ačkoli probíhaly neoficiální kontakty se západními demokraciemi, nebylo dohodnuto nic konkrétního ani právně závazného. Je načase dát inkoust na papír a ukázat světu, že západní demokracie jsou ochotny vytvořit s námi společnou frontu proti fašistické expanzi."
- SOV_seek_a_defense_pact_with_the_allies_event_effects_tt: "Pokud [GetCollectiveSecurityTarget] přijme, každá země podepíše pakt o neútočení a navzájem si poskytnou garance."
+ SOV_seek_a_defense_pact_with_the_allies_event_effects_tt: "Pokud [GetCollectiveSecurityTarget] přijme, každá země podepíše pakt o neútočení a vzájemně si poskytne záruky." # todo: CHANGED
  SOV_seek_a_defense_pact_with_the_allies_poland_tt: "[GetCollectiveSecurityTargetCaps] mohou prosazovat začlenění [POL.GetFlag]§Y[POL.GetNameDef]§! do paktu."
  SOV_seek_a_defense_pact_with_the_allies_target_eng: "[ENG.GetFlag]§Y[ENG.GetNameDef]§!"
  SOV_seek_a_defense_pact_with_the_allies_target_eng_caps: "[ENG.GetFlag]§Y[ENG.GetNameDefCap]§!"
@@ -1590,7 +1590,7 @@
  SOV_socialism_in_one_country_desc: "Ačkoli světová revoluce zůstává naším konečným cílem - a je vědecky prokázáno, že je nevyhnutelná - musíme nejprve zajistit socialismus v naší zemi, jinak by osvobození dělníků v jiných částech světa mohlo být zpožděno naší porážkou."
  SOV_socialism_in_one_country_ns_tt: "$SOV_modify_the_politburo_ns_intro$ \nObrana proti ideologickému posunu: §G+5.0%§! \nDenní podpora komunismu: §G+0.05§! \nPostih stability v obrané válce: §G+25.00%§! \n\n"
  SOV_socialist_emulation: "Socialistická soutěž"
- SOV_socialist_emulation_desc: "V kapitalistickém systému musí dělníci mezi sebou soupeřit o každodenní obživu, zatímco majitelé továren těží ze zlepšení, která zvyšují produktivitu. To je plýtvání a nelidské. Socialistický systém umožní těm, kteří zatím nejsou nejlepší, získat podporu, aby mohli rozvíjet své schopnosti učením se od těch, kteří vynikají."
+ SOV_socialist_emulation_desc: "V kapitalistickém systému se dělníci musejí navzájem soutěžit, aby si zajistili každodenní obživu, zatímco majitelé továren profitují z jakýchkoli zlepšení, kterých dělníci dosáhnou a jež vedou ke zvýšení produktivity. To je plýtvavé a nelidské. Socialistický systém umožní těm, kteří ještě nejsou nejlepší, získat podporu potřebnou k rozvoji svých schopností učením se od těch, kteří vynikají." # todo: CHANGED
  SOV_socialist_humanism: "Socialistický humanismus"
  SOV_socialist_humanism_desc: "Někteří marxističtí teoretici věří, že lidé nemají žádnou vlastní vůli a že jejich životy jsou zcela určovány materiálními faktory. To je očividně chybné a ve skutečnosti to odráží buržoazní pohled na dělnickou třídu. Lidé jsou víc než jen soubor orgánů a tak k nim musíme přistupovat."
  SOV_socialist_realism: "Socialistický realismus"
@@ -1627,7 +1627,7 @@
  SOV_stalins_cult_of_personality_desc: "Po odhalení šokujícího spiknutí proti svazu je zřejmé, že jedině prozíravé vedení soudruha Stalina zabránilo sestupu do občanské války či něčeho horšího. Každý sovětský občan, a vlastně každý člen světové dělnické třídy, dluží soudruhu Stalinovi věčnou vděčnost za jeho neúnavnou práci při obraně revoluce."
  SOV_stalins_cult_of_personality_tt: "£SOV_paranoia_text_icon Politická paranoia je odstraněna ze hry."
  SOV_steel_casting_industry: "Ocelářský průmysl"
- SOV_steel_casting_industry_desc: "Naše metalurgický průmysl byl v čele našeho hospodářského růstu, ale může být posunut ještě dál zavedením nových výrobních metod."
+ SOV_steel_casting_industry_desc: "Naše metalurgické odvětví stálo v čele průmyslového růstu, ale zavedením nových výrobních metod ho lze posunout ještě dál." # todo: CHANGED
  SOV_steel_casting_industry_ns_tt: "$SOV_modify_fyp_ns_intro$ \nVýstup továren: §G+5.00%§! \nVýstup loděnic: §G+5.00%§! \n\n"
  SOV_strengthen_heavy_industry: "Posílit těžký průmysl"
  SOV_strengthen_heavy_industry_desc: "Těžký průmysl je srdcem naší ekonomiky. Chceme-li zajistit, aby revoluce nejen přežila, ale i vzkvétala, musíme tento sektor dále posílit."
@@ -1637,7 +1637,7 @@
  SOV_strengthen_the_trade_unions: "Posílit odbory"
  SOV_strengthen_the_trade_unions_desc: "Pod Stalinovým vedením byly odbory překrouceny z nástroje, který měl zastupovat dělníky proti vedení, na nástroj vedení k řízení dělníků. Ačkoliv se to může zdát jako jeden z jeho menších zločinů, úplně to převrátilo ideu demokratického samosprávného vedení dělníků a fakticky jim zabránilo sklízet plody revoluce."
  SOV_submarine_warfare: "Ponorková válka"
- SOV_submarine_warfare_desc: "Ponorky nabízejí významné výhody v námořním boji. Dobře navržená moderní ponorka je prakticky nezjistitelná, dokud nevypálí torpéda, a může vyřadit kapitální loď mnohonásobně větší a dražší. Měli bychom se soustředit na vývoj těchto plavidel jako hlavní útočné síly našeho námořnictva."
+ SOV_submarine_warfare_desc: "Ponorky nabízejí výrazné výhody v námořním boji. Dobře navržená moderní ponorka je prakticky nepostřehnutelná, dokud nevystřelí torpéda, což může ochromit hlavní loď několikrát větší svou velikostí a cenou. Měli bychom se zaměřit na rozvoj těchto plavidel jako hlavní útočné síly naší flotily." # todo: CHANGED
  SOV_submarine_warfare_ns_tt: "$SOV_modify_red_fleet_ns_intro$ \n$SOV_the_red_fleet_submarine_1_bonus_tt$ \n\n"
  SOV_superior_war_machines: "Nadřazené válečné stroje"
  SOV_superior_war_machines_desc: "Tanky a obrněná vozidla se během posledního desetiletí významně vyvinuly. Díky rozsáhlému zbrojnímu průmyslu, který je dokáže vyrábět a zásobovat, dokážeme vyrobit nadřazená vozidla a nasadit je hromadně proti nepříteli."
@@ -1671,7 +1671,7 @@
  SOV_the_centre_desc: "Soudruh Stalin byl největším bojovníkem za náš národ. Budoucnost revoluce bychom měli ponechat v jeho více než schopných rukou."
  SOV_the_centre_ns_tt: "Přidá §Y$SOV_the_politburo_good_dynamic_modifier$§!, který poskytuje (Denní podpora komunismu: §G+0.05§!) \n\n"
  SOV_the_collectivization_process: "Proces kolektivizace"
- SOV_the_collectivization_process_desc: "Ačkoliv zbývá mnoho práce a v některých regionech byl špatně proveden, proces kolektivizace farem v Sovětském svazu je téměř dokončen a brzy přinese zvýšenou produkci zemědělského sektoru."
+ SOV_the_collectivization_process_desc: "Ačkoliv zbývá ještě mnoho práce a některé oblasti byly při tom špatně vedeny, proces kolektivizace statků v Sovětském svazu je téměř dokončen a brzy přinese zvýšenou produkci v zemědělském sektoru." # todo: CHANGED
  SOV_the_collectivization_process_ns_tt: "$SOV_modify_the_politburo_ns_intro$ \nTovárny na spotřební zboží: §Y-2.0%§! \nMaximální počet továren ve státě: §G+10%§! \nRychlost výstavby: §G+5.00%§! \n\n"
  SOV_the_comintern: "Kominterna"
  SOV_the_comintern_desc: "Boj za osvobození dělníků není omezen na jednu zemi; je to globální boj. Musíme rozšířit pomoc soudruhům v jakékoli zemi světa a bojovat proti silám reakce a kontrarevoluce, kdekoliv se objeví."
@@ -1750,12 +1750,12 @@
  SOV_the_need_for_policy_changes_desc: "Stává se stále jasnějším, že země směřuje špatným směrem. Stalin a jeho spojenci chtěli příliš mnoho a příliš rychle. Musíme se naučit chodit, než začneme běhat. Měli bychom povolat soudruha Sokolnikova, který odvedl velkou práci v raných letech Sovětského svazu, aby nás vrátil na správnou cestu."
  SOV_the_need_for_policy_changes_tt: "§Y$SOV_grigory_sokolnikov$§! se stane dostupným jako poradce."
  SOV_the_new_soviet_woman: "Nová sovětská žena"
- SOV_the_new_soviet_woman_desc: "Politická revoluce přinesla svobodu milionům lidí v našem svazu, především milionům žen, které už nejsou omezeny jen na roli manželek a matek, ale mohou stát i jako plně rovné na pracovišti."
+ SOV_the_new_soviet_woman_desc: "Politická revoluce přinesla svobodu milionům lidí v naší Unii, především milionům žen, které už nejsou omezeny jen na roli manželek a matek, ale nyní mohou také stát na pracovišti jako plně rovnocenné." # todo: CHANGED
  SOV_the_old_enemy: "Starý nepřítel"
  SOV_the_old_enemy_desc: "Švédsko bylo po léta trnem v oku říše. Znovu a znovu útočili na Rusko a snažili se vytvářet koalice proti nám. Car Petr I. je začal vytlačovat, když je porazil u Poltavy. V roce 1809 jsme je opět porazili a člověk by řekl, že to je poučilo. Ale stále se snaží zasahovat do našich zájmů v Pobaltí. Je načase tuto malou zemi jednou provždy rozdrtit."
  SOV_the_onslaught_on_colonialism: "Útok na kolonialismus"
  SOV_the_onslaught_on_colonialism_decision_tt: "Odemkne rozhodnutí §YOrganizovat pátou kolonu§! a §YPodnítit proletariát§! v afrických sousedech."
- SOV_the_onslaught_on_colonialism_desc: "Imperialismus a koloniální vykořisťování jsou nedílnou součástí pozdního kapitalismu. Držení milionů lidí v poddanství nám však poskytuje obrovský revoluční potenciál, který můžeme snadno využít. Utlačované masy v koloniálních říších touží svobodně dýchat - a my jejich řetězy rozbijeme."
+ SOV_the_onslaught_on_colonialism_desc: "Imperialismus a koloniální vykořisťování jsou životně důležitou součástí pozdního kapitalismu. Držení milionů lidí v otroctví nám však poskytuje gigantický revoluční potenciál, který můžeme snadno využít. Utlačované masy v koloniálních impériích touží po svobodě - a my jim zlomíme řetězy." # todo: CHANGED
  SOV_the_path_of_marxism_leninism: "Cesta marxismu-leninismu"
  SOV_the_path_of_marxism_leninism_desc: "Neomylné učení Marxe, Engelse a Lenina pozvedlo náš národ z nejhlubší zaostalosti k technologické a průmyslové rovnosti. Bylo by největší pošetilostí měnit směr právě teď. Neporazitelný prapor osvobození dělníků kráčí dál!"
  SOV_the_peoples_revolution: "Lidová revoluce"
@@ -1783,7 +1783,7 @@
  SOV_the_southern_thrust: "Úder na jih"
  SOV_the_southern_thrust_desc: "Naše jižní hranice je široce otevřený bok, kterého mohou nepřátelé využít. To nemůžeme tolerovat, ani čekat na mírové změny v regionu."
  SOV_the_stalin_constitution: "Stalinova ústava"
- SOV_the_stalin_constitution_desc: "Ústava z roku 1924 byla dobrým pokusem o uspořádání státu po občanské válce, ale splnila svůj účel. Potřebujeme novou ústavu. Především musíme uznat neúnavnou práci soudruha Stalina při udržení svazu silného a bezpečného, jehož genialita a moudrost byly klíčové při vedení věci komunismu vpřed."
+ SOV_the_stalin_constitution_desc: "Ústava z roku 1924 byla dobrým pokusem o uspořádání státu po občanské válce, ale splnila svůj účel. Je potřeba nová ústava. Především musíme uznat neúnavnou práci soudruha Stalina při udržování Unie silnou a bezpečnou a jehož génius a moudrost byly zásadní pro vedení věci komunismu kupředu." # todo: CHANGED
  SOV_the_stalin_constitution_ns_tt: "$SOV_modify_the_politburo_ns_intro$ \nObrana proti ideologickému posunu: §G+5.0%§! \nNárůst politické síly: §G+5%§! \n\n"
  SOV_the_supreme_soviet: "Nejvyšší sovět"
  SOV_the_supreme_soviet_desc: "Nechat jednoho člověka zastupovat celou zemi je vnitřně nedemokratické a tudíž kontrarevoluční. Místo toho zrušíme takové kultické chování a prohlásíme, že náš svaz bude navždy zastupován kolektivní vůlí lidu, shromážděného v Nejvyšším sovětu."

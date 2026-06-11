@@ -71,10 +71,10 @@
  SAVE_CAREER_TO_CLOUD: "Uložit kariérní profil do cloudu"
  SUBSCRIBE: "Přihlásit se"
  SUBSCRIPTION: "Předplatné DLC"
- SUBSCRIPTION_RESTART_DESCRIPTION: "Všechna DLC můžete stáhnout a nainstalovat ve Steamu. Hru je třeba restartovat, aby byla nová DLC dostupná."
+ SUBSCRIPTION_RESTART_DESCRIPTION: "Všechny DLC si můžete stáhnout a nainstalovat ve Steamu. Hru je nutné restartovat, aby bylo nové DLC dostupné." # todo: CHANGED
  SUBSCRIPTION_RESTART_TITLE: "Stáhnout nový obsah"
  SUBSCRIPTION_WIDGET: "Přihlaste se a získejte přístup k veškerému DLC!"
- SUBSCRIPTION_WIDGET_SIMP_CHINESE: "Koupit NCNS zde"
+ SUBSCRIPTION_WIDGET_SIMP_CHINESE: "Koupit TaoG zde" # todo: CHANGED
  SUBSCRIPTION_WIDGET_SUBSCRIBED: "Předplatné je aktivní!"
  SUB_MESSAGE_POPUP_DLC: "Všechna DLC zahrnuta!\nZískejte okamžitý přístup ke všem rozšířením, balíčkům zemí a modelům jednotek. Také obdržíte všechna nová DLC v den jejich vydání."
  SUB_MESSAGE_new_sub_DESC: ""
@@ -93,3 +93,5 @@
  DLC_DESCRIPTION_dlc049: "Vytvořte novou historii Japonska, Číny a Filipín v rozšíření No Compromise, No Surrender pro hru Hearts of Iron IV. Získejte větší kontrolu nad frakcemi, vytvořte nové vojenské doktríny a rozhodněte o osudu Pacifiku i dalších oblastí."
  PEACE_FOR_OUR_TIME: "Peace for our Time\n(Mír pro naši dobu)"
  DLC_DESCRIPTION_dlc051: "Obnovte České království, vytvořte unii středoevropských států, ochraňte se opevněním nebo vybudujte síť spojenců v novém stromu zaměření pro Československo v Peace for Our Time."
+ THUNDER_AT_OUR_GATES: "Hřmění u našich bran" # todo: NEW TRANSLATION
+ DLC_DESCRIPTION_dlc052: "Vstupte do samotného centra velení nasazením svých generálů na frontové linie a udělujte medaile svým nejúspěšnějším námořním kapitánům. Odražte japonskou invazi napříč jihovýchodní Asií jako Austrálie; vybudujte nové impérium jako Siám; a rozhodněte o budoucnosti Indonésie, s holandskou nadvládou nebo bez ní." # todo: NEW TRANSLATION

@@ -1,0 +1,9 @@
+﻿l_polish:
+ operation_rescue_general: "Zachránit zajatého velitele" # todo: NEW TRANSLATION
+ operation_rescue_general_desc: "§Jeden z našich velitelů byl zajat nepřítelem a je držen v zajetí. Musíme zahájit operaci, abychom je zachránili.§!" # todo: NEW TRANSLATION
+ free_general_free_in_transit: "Osvobodit během převozu" # todo: NEW TRANSLATION
+ free_general_free_in_transit_desc: "Naši operativci identifikovali blížící se přesun zajatce a naplánují příležitost k jeho zachycení a přepadení během převozu." # todo: NEW TRANSLATION
+ free_general_assault_holding_area: "Útok na místo zadržení" # todo: NEW TRANSLATION
+ free_general_assault_holding_area_desc: "Nepřítel drží našeho velitele na zabezpečeném místě, které naši operativci objevili. Připraví odvážný útok, aby zajatce osvobodili." # todo: NEW TRANSLATION
+ free_general_disguise_and_extract: "Přestrojení a evakuace" # todo: NEW TRANSLATION
+ free_general_disguise_and_extract_desc: "S využitím odborné vychytralosti naši operativci pomohou zajatému veliteli vytvořit převlek, díky kterému oklame své strážce a uprchne na přátelské území." # todo: NEW TRANSLATION

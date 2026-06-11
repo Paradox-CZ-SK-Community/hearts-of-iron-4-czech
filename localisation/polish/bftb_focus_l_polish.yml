@@ -481,7 +481,7 @@
  GRE_BEDROCK_FINANCIAL_STABILITY_FOCUS_NAME_STANDARD: "Základ balkánské finanční stability"
  GRE_COOPERATE_FOREIGN_MONOPOLIES_FOCUS_NAME_COMMUNIST: "Znárodnit zahraniční monopoly"
  GRE_COOPERATE_FOREIGN_MONOPOLIES_FOCUS_NAME_STANDARD: "Spolupracovat se zahraničními monopoly"
- GRE_FISCAL_RESPONSIBILITY_FOCUS_NAME_COMMUNIST: "Rozsáhlé přerozdělení bohatství"
+ GRE_FISCAL_RESPONSIBILITY_FOCUS_NAME_COMMUNIST: "Široké přerozdělení bohatství" # todo: CHANGED
  GRE_FISCAL_RESPONSIBILITY_FOCUS_NAME_STANDARD: "Fiskální odpovědnost"
  GRE_NENIKIKAMEN_FOCUS_DESCRIPTION_BYZANTINE: "Zvítězili jsme! Byzanc je pomstěna - po všech těch letech! Znovudobytím naší staré císařské metropole jsme o krok blíž k naplnění svého osudu! Stojíme na prahu nového věku pro Řecko - věku zrozeného z krve a ohně! Kosmídisy Nikas!"
  GRE_NENIKIKAMEN_FOCUS_DESCRIPTION_STANDARD: "Zvítězili jsme! Venizelos je po všech těch letech konečně očištěn! Megali idea triumfovala nad škarohlídy a těmi, kdo chtěli zmařit náš osud, a nyní stojíme na prahu nového věku pro Řecko - Zlatého věku!"
@@ -507,7 +507,7 @@
  GRE_a_socialist_economy_desc: "Řecký lid příliš dlouho krvácel pod autokratickou vládou falešného krále a válkychtivích venizelistů - je čas, aby se lid konečně měl dobře pod vládou, která ho staví na první místo!"
  GRE_abandon_french_italian_debt_tt: "Zřekneme se dluhů, které máme u §YFrancie§! a §YItálie§!.\n"
  GRE_abandon_the_greek_turkish_naval_treaty: "Zrušit řecko-tureckou námořní smlouvu"
- GRE_abandon_the_greek_turkish_naval_treaty_desc: "Smlouva, jež měla omezit velikost lodí, které smějí stavět Turci, nakonec nějakým způsobem spoutala stejnými omezeními i nás! Zapomeňme na to - Řecko mívalo slavné lodě, které dominovaly našim břehům, a v těchto nepokojných časech neexistuje lepší záruka bezpečí než obří bitevní loď!"
+ GRE_abandon_the_greek_turkish_naval_treaty_desc: "Smlouva, která měla omezit velikost lodí, které Turci směli stavět, se nějak ocitla tak, že nás zavázala stejnými omezeními! Zapomeňte na to, Řecko dříve mělo slavné hlavní lodě, které dominovaly našim pobřežím, a v této době zmatku není lepší bezpečí než obří bitevní loď!" # todo: CHANGED
  GRE_abandon_the_greek_turkish_naval_treaty_tt: "Politické sblížení s §YBritánií§! nebo §YNěmeckem§! nám umožní znovu vybudovat některé z našich starých §Ytěžkých lodí§!.\n"
  GRE_absolute_monarchy_opposition_tt: "§RTato cesta povede k občanské válce!§! \n§YVenezelisté§! se §Rvzbouří!§! \n§YKomunisté§! se §Rvzbouří!§!"
  GRE_academy_of_athens: "Athénská akademie"
@@ -576,7 +576,7 @@
  GRE_expand_our_tobacco_industry_desc: "Není pochyb, že naším největším a nejziskovějším exportem je tabák - produkt, který prodáváme po celém světě. Země, s nimiž už obchodujeme, jistě ocení, že jsme náš podnik připravili tak důkladně, že svět nikdy nebude mít nouzi o náš proslulý tabák."
  GRE_expansion_of_athens_university: "Rozšíření Athénské univerzity"
  GRE_expansion_of_athens_university_desc: "Věda a vyšší vzdělání jsou odjakživa nedílnou součástí řecké tradice a dnes není pro Řecko významnější akademická instituce než Národní a Kapodistriova univerzita v Athénách. Poskytnutím dodatečných prostředků a prostoru pro rozšíření výrazně zvýšíme užitek této instituce pro stát."
- GRE_exporting_more_luxury_commodoties: "Vyvážet více luxusního zboží"
+ GRE_exporting_more_luxury_commodoties: "Export více luxusních komodit" # todo: CHANGED
  GRE_exporting_more_luxury_commodoties_desc: "Tabák, olivy, feta, hrozny, fíky - chcete-li to nejlepší ze života, kupujete si delikatesy z Řecka! Neměli bychom mít problém dále posilovat náš mezinárodní obraz země s nejlepším luxusním zbožím na trhu."
  GRE_extracting_more_from_our_soil: "Vytěžit více z naší půdy"
  GRE_extracting_more_from_our_soil_desc: "Řecko je země bohatá na přírodní zdroje - stačí mít odhodlání je odkrýt. Technologii máme, teď už zbývá jen vůle."
@@ -738,7 +738,7 @@
  GRE_the_greek_industrial_revolution: "Řecká průmyslová revoluce"
  GRE_the_greek_industrial_revolution_desc: "Řecko se mělo zindustrializovat už před desítkami let, ale zkorumpovaní politici a vměšující se cizí mocnosti nám zanechali hospodářský systém z minulé éry. Nemáme luxus času měnit životní způsob pozvolna - musíme začít teď a pracovat rychle."
  GRE_the_hellenic_air_force: "Helénské letectvo"
- GRE_the_hellenic_air_force_desc: "Ačkoli byla naše letecká akademie založena teprve roku 1930, Řekové se účastnili letectví už od balkánských válek! Dobře chápeme význam silného letectva - kdybychom tak měli kapacity, jak své letectvo učinit větším a silnějším..."
+ GRE_the_hellenic_air_force_desc: "Ačkoli byla naše Akademie vzdušných sil založena teprve v roce 1930, Řekové se zabývají letectvím už od dob balkánských válek! Už chápeme důležitost silného letectva, kdybychom jen měli prostředky, abychom naše letectvo posílili a rozšířili..." # todo: CHANGED
  GRE_the_hellenic_army: "Helénská armáda"
  GRE_the_hellenic_army_desc: "Malá, zastaralá, ale houževnatá - tak mnozí popisují řeckou armádu, a není to nepřesné. Stačí zmodernizovat taktiku i výzbroj a staneme se skutečně obávanou silou na Balkáně."
  GRE_the_hellenic_navy: "Helénské námořnictvo"
@@ -749,7 +749,7 @@
  GRE_the_kings_government_desc: "Včasný zásah Jeho Veličenstva zabránil Venizelistům ve vytvoření nové vlády, a to v pravý čas! Je třeba vykonat mnoho práce! Demertzis splnil svůj účel jako centristický prostředník, ale nyní Řecko potřebuje silnějšího předsedu vlády."
  GRE_the_leonidas_line: "Začne se budovat §YLeonidova linie§! - řetězec pozemních opevnění podél našich často narušovaných hranic.\n"
  GRE_the_macedonian_farmlands: "Úrodná pole Makedonie"
- GRE_the_macedonian_farmlands_desc: "Hlavním exportem z [731.GetName] jsou zemědělské produkty. Na rozdíl od mnoha částí naší země je tento region pro zemědělství skvělý - a musíme toho využít, aby byla budoucnost naší země co nejlepší."
+ GRE_the_macedonian_farmlands_desc: "Hlavním vývozním artiklem [731.GetName] jsou zemědělské produkty. Na rozdíl od mnoha částí našich území je tento region výborný pro zemědělství, a musíme se na to zaměřit, aby budoucnost naší země byla co nejlepší." # todo: CHANGED
  GRE_the_metaxas_line: "Začne se budovat §YMetaxasova linie§! - řetězec pozemních opevnění podél našich často narušovaných hranic.\n"
  GRE_the_modern_movement: "Moderní hnutí"
  GRE_the_modern_movement_desc: "Fašismus je krédo 20. století - odpověď na neduhy rozbujelého kapitalismu i korupci komunismu. Je to bojový pokřik generace, která má dost cizí šikany! Generace, která má dost národní hanby! Generace, jež je připravena uvést Řecko do Nového věku jako velmoc - připravena čelit každé hrozbě i urážce! Aéra!"
@@ -797,7 +797,7 @@
  TUR_adana_to_baku_highway: "Dálnice Adana-Baku"
  TUR_adana_to_baku_highway_desc: "Už dlouho chceme posílit vazby s Kavkazem. [SOV.GetNameDef] může tuhle iniciativu pouze ocenit."
  TUR_add_medium_tank_technology_tt: "Přidá technologii: §YZákladní střední tank§!."
- TUR_alienate_our_allies_tt: "\n§RNaše radikální změna zahraniční politiky by nás mohla odcizit od našich spojenců, zejména pokud se na ně začneme zaměřovat.§!"
+ TUR_alienate_our_allies_tt: "\n§RNáš radikální obrat v zahraniční politice by nás mohl odcizit od našich spojenců, zvláště pokud je začneme cílit.§!" # todo: CHANGED
  TUR_aligning_bulgaria: "Srovnat Bulharsko do latě"
  TUR_aligning_bulgaria_desc: "[BUL.GetNameDef] - jediné z nás z Ústředních mocností, kdo přežil se suverenitou a životním stylem nedotčen - a co s tím udělali? Nic. Jsou to zbabělci! Uvidíme, jak zbabělí jsou, když jim dýcháme na krk a držíme je v šachu."
  TUR_american_motor_factories: "Americké motorárny"
@@ -1077,7 +1077,7 @@
  TUR_rebuke_the_treaty_of_lausanne: "Odmítnout Lausannskou smlouvu"
  TUR_rebuke_the_treaty_of_lausanne_desc: "Již jsme porušili tolik ustanovení smlouvy, která nám byla vnucena po Velké válce. Je čas konečně setřást jho našich nepřátel, tak jako to naši spojenci učinili před námi. Je to nešťastné, ale nemůžeme věřit v bezpečí našich západních hranic, dokud nebude vyřešena [GRE.GetAdjective] otázka."
  TUR_reclaim_macedonia: "Znovu získat sanžak Makedonyalı"
- TUR_reclaim_macedonia_desc: "Ti nevěrní psi na západě od nás sehráli klíčovou roli v rozpadu poslední Osmanské říše. Řekové nám to mají za zlé od chvíle, kdy jsme rozebrali jejich ubohou, neduživou říši - a nyní nám zabírají velkou část Thrákie a Makedonie. Je čas zachránit naše krajany a zároveň se trochu pomstít..."
+ TUR_reclaim_macedonia_desc: "Ti nevěrní psi na našem západě sehráli klíčovou roli při rozpadu poslední Osmanské říše. Řekové nám závidí už od okamžiku, kdy jsme rozebrali jejich ubohé, chřadnoucí impérium - a nyní drží velkou část Thrákie a Makedonie. Je čas zachránit naše krajané a zároveň si trochu pomstít..." # todo: CHANGED
  TUR_reclaiming_our_lost_empire: "Obnovit padlou říši"
  TUR_reclaiming_our_lost_empire_desc: "Odstranění kemalistů od moci a obnovení autority sultána byly jen první kroky našeho hlavního plánu. Potáhneme napříč celým světem, dokud nebude naše říše opět jednotná!"
  TUR_reconciling_kemalism_with_bolshevism: "Usmířit kemalismus s bolševismem"
@@ -1110,7 +1110,7 @@
  TUR_reuniting_thrace_through_force: "Znovusjednotit Thrákii silou"
  TUR_reuniting_thrace_through_force_desc: "V Thrákii stále žije značná [ROOT.GetAdjective] populace. Většinu držíme v Edirne, ale [GRE.GetNameDef] trvá na rozdělení území. Nyní musíme trvat na opaku."
  TUR_revive_turkish_revolutionism: "Oživit turecký revolucionismus"
- TUR_revive_turkish_revolutionism_desc: "Reforma tureckého politického systému se jasně ukázala jako nedostatečná tváří v tvář rozsáhlému odporu tureckého lidu. Je však řešením uklidnit masy, nebo zdvojnásobit radikálnost našich reforem? Kemalismus se již v minulosti změnil v jádru: kdo může říci, kam ho v budoucnu zavede další přetvoření jeho ideologických složek?"
+ TUR_revive_turkish_revolutionism_desc: "Reformace tureckého politického systému se ukázala jako nedostatečná tváří v tvář rozsáhlému odporu tureckého lidu. Ale je řešením zalíbit se masám, nebo zdvojnásobit radikalitu našich reforem? Kemalismus se už dříve změnil na zásadní úrovni: kdo ví, kam příští přeskupení jeho ideologických složek povede?" # todo: CHANGED
  TUR_saadabad_pact_faction_tt: "Pozveme všechny signatáře §YSádábádského paktu§! do formální aliance."
  TUR_salt_the_scars_of_the_great_war: "Posolit rány Velké války"
  TUR_salt_the_scars_of_the_great_war_desc: "Turecký národ v letech po válce za nezávislost změkčil. Kde je ten hněv, který tak nutně potřebujeme, abychom mohli světu ukázat svou sílu? Ve velké válce jsme ztratili tolik, více než většina ostatních, a přežili jsme jen proto, že jsme za právo na přežití bojovali zuby nehty. I v příští válce budeme bojovat zuby nehty."
@@ -1128,23 +1128,23 @@
  TUR_seizing_the_romanian_oil_fields: "Zabrat rumunská ropná pole"
  TUR_seizing_the_romanian_oil_fields_desc: "Rumunská ropná pole jsou životně důležitá pro válečné úsilí frakce [GER.GetFactionName]. Odříznout [ROM.GetNameDef] od ropy je jako zastavit přítok krve do srdce."
  TUR_soviet_tank_factories: "Sovětské tankové továrny"
- TUR_soviet_tank_factories_desc: "Zaujmeme-li ve své zahraniční politice výslovně protifašistický postoj, můžeme pro [ROOT.GetNameDef] prosadit schéma na podporu výroby obrněné techniky s [SOV.GetAdjective] pomocí."
+ TUR_soviet_tank_factories_desc: "Tím, že v zahraniční politice zaujmeme explicitně antifašistický postoj, můžeme zajistit úspěch plánu na podporu výroby obrněné techniky v [ROOT.GetNameDef] za pomoci [SOV.GetAdjective]s." # todo: CHANGED
  TUR_stop_the_stalinist_charade: "Ukončit stalinskou šarádu"
  TUR_stop_the_stalinist_charade_desc: "Pravou revoluci je třeba vrátit ke kořenům. Někde po cestě [SOV.GetNameDef] ztratil svůj účel i ducha. Musíme jim pomoci znovu nalézt ztracený idealismus."
  TUR_strengthening_our_navies: "Posílení našich námořnictev"
- TUR_strengthening_our_navies_desc: "Chceme-li se ve Středomoří ubránit, potřebujeme silná a schopná námořnictva. Společným úsilím dosáhneme minima nutného k ochraně našich hranic před blížícími se hrozbami."
+ TUR_strengthening_our_navies_desc: "Abychom se chránili v Středomoří, potřebujeme silná a schopná námořnictva. Prostřednictvím společného úsilí dosáhneme minimálních požadavků k ochraně našich hranic před dotírajícími hrozbami." # todo: CHANGED
  TUR_strike_at_the_fascist_menace: "Udeřit na fašistickou hrozbu"
  TUR_strike_at_the_fascist_menace_desc: "Fašismus je příliš nebezpečná ideologie, než aby se nechala volně řádit u nás za humny. Jak dlouho potrvá, než se fašistický mor chytí i našich lidí? Musíme fašisty rozdrtit - a tím zbavit jejich hnutí veškeré legitimity."
  TUR_strike_the_british_imperialists: "Udeřit na britské imperialisty"
  TUR_strike_the_british_imperialists_desc: "Svět se nikdy skutečně nezmění, dokud bude [ENG.GetNameDef] existovat v dnešní podobě. Musíme je rozdrtit a jejich odporné impérium zničit."
  TUR_subdue_the_magyars: "Podrobit si Maďary"
- TUR_subdue_the_magyars_desc: "Po staletích pod rakouskou nadvládou si možná myslí, že jsou daleko od svých kořenů, ale my vidíme Maďary takovými, jací skutečně jsou. Jsou to Turci, kteří to popírají; vlci, kteří se považují za jestřáby. Připomeneme Maďarům jejich dědictví."
+ TUR_subdue_the_magyars_desc: "Mohou si po staletích pod rakouskou nadvládou myslet, že jsou daleko od svých kořenů, ale my vidíme Maďara takového, jaký skutečně je. Je to Turk, který to popírá; vlk, který se považuje za jestřába. Připomeneme Maďarům jejich dědictví." # todo: CHANGED
  TUR_superiority_of_arms: "Převaha zbraní"
  TUR_superiority_of_arms_desc: "Proč házet proti problému lidi, když jsou kulky a granáty mnohem postradatelnější? Musíme lépe šetřit životy našich vojáků nasazením drtivé palebné síly."
  TUR_support_the_golden_square: "Podpořit Zlatý čtverec"
  TUR_support_the_golden_square_desc: "[IRQ.GetNameDef] je také domovem skupiny s nemalým vlivem, jejíž cíle se velmi podobají našim. Měli bychom tyto spřízněné osoby podpořit, aby nám pomohly odstranit imperialistickou přítomnost v regionu."
  TUR_supporting_the_east: "Podpora východu"
- TUR_supporting_the_east_desc: "Základem naší podpory jsou východní státy, ale kvalita jejich infrastruktury je ve srovnání s městskými provinciemi na západě žalostná. Podporou východu podpoříme své příznivce a zároveň se lépe připravíme na operace na východě a severu."
+ TUR_supporting_the_east_desc: "Právě naše státy na východě tvoří páteř naší podpory, a přesto je kvalita infrastruktury v těchto státech ve srovnání s městskými provinciemi na západě příšerná. Podporou východu podporujeme naše stoupence a zároveň se lépe připravujeme na operace na východě a severu." # todo: CHANGED
  TUR_taking_over_defense_of_the_gulf: "Převzít obranu Perského zálivu"
  TUR_taking_over_defense_of_the_gulf_desc: "Můžeme trochu ulevit našim [ENG.GetAdjective] spojencům tím, že jim nabídneme ochranu jejich středovýchodních držav. Pravděpodobně budou tomuto návrhu nakloněni, zejména s ohledem na vše, co jsme přispěli k válečnému úsilí... a na skutečnost, že by nás nemohli zastavit, abychom si tato území prostě zabrali."
  TUR_taking_responsibility_for_the_air_war: "Převzít odpovědnost za leteckou válku"
@@ -1183,7 +1183,7 @@
  TUR_the_pan_national_association_of_ulemas: "Pannacionální asociace ulemů"
  TUR_the_pan_national_association_of_ulemas_desc: "Náš pohyb není pouze národní: nestojíme jen za autoritou sultána, ale za autoritou muslimů po celém světě. Národnost nás nesvazuje, věříme v mezinárodní poslání islámu! Budeme spolupracovat s náboženskými vůdci z celého světa, abychom určili, jak nejlépe rozšířit a osvobodit náš náboženský lid mečem."
  TUR_the_path_of_the_wolf: "Cesta vlka"
- TUR_the_path_of_the_wolf_desc: "Jako vlk musíme být stále na lovu. Zůstaneme při zemi a zaútočíme, když to nepřítel nejméně čeká. Myšlení vlků si žádá dokonalý nástroj - ponorku."
+ TUR_the_path_of_the_wolf_desc: "Jako vlk musíme být stále na lovu. Budeme zůstávat skrytí a útočit, když nepřítel nejméně čeká. Máme mysl vlků a ponorka je dokonalý nástroj k uplatnění tohoto myšlení." # todo: CHANGED
  TUR_the_petra_proposal: "Návrh z Petry"
  TUR_the_petra_proposal_desc: "Naši poradci přišli s plánem, který by z nás učinil ochránce a správce [ENG.GetAdjective] protektorátů v Levantě. Strategie i návrh dávají smysl - zbývá je jen předložit [ENG.GetAdjective] vládě."
  TUR_the_pontic_redoubt: "Pontská reduta"
@@ -1197,11 +1197,11 @@
  TUR_the_sun_language_theory: "Teorie slunečního jazyka"
  TUR_the_sun_language_theory_desc: "Teorie slunečního jazyka tvrdí, že všechny lidské jazyky pocházejí z jediné turkické prajazyčné větve. Teorie je přirozeně zcela logická, a je nezbytné, abychom ji oficiálně státně podpořili a začali vyučovat po celé zemi."
  TUR_the_treaty_for_prosperity_and_trade: "Smlouva pro prosperitu a obchod"
- TUR_the_treaty_for_prosperity_and_trade_desc: "Budeme stát v čele kolektivní smlouvy na podporu volného obchodu podle zásad tržního liberalismu. Nemůžeme čekat, že všichni naši partneři plně přeorganizují své ekonomiky, ale alespoň můžeme skoncovat s protekcionismem na Balkáně."
+ TUR_the_treaty_for_prosperity_and_trade_desc: "Povedeme kolektivní smlouvu podporující volný obchod podle principů liberálního trhu. Nemůžeme očekávat, že všechny naše členské státy zcela přestaví své ekonomiky, aby umožnily volný obchod, ale alespoň můžeme ukončit protekcionismus na Balkáně." # todo: CHANGED
  TUR_the_turkish_tank_project: "Turecký projekt tanku"
  TUR_the_turkish_tank_project_desc: "Tank je zbraní budoucnosti a komunismus je krédem budoucnosti. K sobě se hodí jako çiğ köfte a rakı!"
  TUR_the_tuz_golu_training_facility: "Výcvikové středisko u Tuz Gölü"
- TUR_the_tuz_golu_training_facility_desc: "Středomořské klima naší země není vhodným prostředím pro výcvik našich vojáků, aby mohli adekvátně operovat v suchém podnebí. Rozhodli jsme se vybudovat výcvikové zařízení v blízkosti slaného jezera Tuz Gölü, aby naše jednotky byly lépe připraveny bojovat v suchém prostředí."
+ TUR_the_tuz_golu_training_facility_desc: "Středomořské klima naší země není vhodné pro výcvik vojáků tak, aby mohli adekvátně operovat v suchých oblastech. Rozhodli jsme se vybudovat výcvikové zařízení blízko solného jezera Tuz Gölü, aby byli naši vojáci lépe připraveni bojovat v vysušených podmínkách." # todo: CHANGED
  TUR_three_year_industrial_plan: "Tříletý průmyslový plán"
  TUR_three_year_industrial_plan_desc: "Jsme připraveni podstoupit celopoloostrovní industrializační úsilí, které by mohlo ohromit i [ENG.GetNameDef]. Podpoříme se navzájem jako rovní - a společně povstaneme nad sílu našich nepřátel díky kolektivní moci Balkánské dohody!"
  TUR_treaty_of_saadabad: "Smlouva ze Saadabadského paláce"
@@ -1222,7 +1222,7 @@
  TUR_unite_the_azeri_diaspora: "Sjednotit azerskou diasporu"
  TUR_unite_the_azeri_diaspora_desc: "Je naší svatou povinností sjednotit všechny turkické národy světa pod jedním státem a dokud neosvobodíme naše ázerbájdžánské bratry v zahraničí, naše mise neskončí."
  TUR_united_against_imperialism: "Spojená fronta proti imperialismu"
- TUR_united_against_imperialism_desc: "Všichni jsme byli oběťmi intrik mocností větších než my. Příliš často jsme byli šikanováni k uzavření smluv a dohod, které nás ponižovaly a oslabily. Prohlašujeme, že svět už není tím, čím býval - a že již nikdy nepodlehneme imperialistickému nátlaku!"
+ TUR_united_against_imperialism_desc: "Všichni jsme byli oběťmi machinací mocností větších než my. Příliš často jsme byli nátlakem přinuceni k smlouvám a dohodám, které nás ponížily a oslabily. Říkáme, že svět už není, jak býval, a že se nikdy více nepodrobíme imperiálnímu obtěžování!" # todo: CHANGED
  TUR_united_against_imperialism_tt: "Změna obliby Demokracie nebo Nezařazených u zemí §YBalkánského paktu§!: §G10%§!.\n"
  TUR_unlock_camelry_effect_tt: "Přidá technologii: §YVelbloudí jednotky§!."
  TUR_unlock_reconciliation_occupation_law_tt: "Odemkne okupační zákon: §YUsmíření§!."

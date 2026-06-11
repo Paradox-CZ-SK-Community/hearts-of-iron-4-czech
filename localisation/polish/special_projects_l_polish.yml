@@ -1,5 +1,5 @@
 ﻿l_polish:
- ABORT_DISMANTLE_FACILITY_DESC_TT: "§GKlikněte§! pro zrušení rozebírání zařízení."
+ ABORT_DISMANTLE_FACILITY_DESC_TT: "§GKlikněte§! pro zrušení demontáže budovy zařízení" # todo: CHANGED
  ABORT_DISMANTLE_PROJECT_POPUP_DESC: "Zrušit rozebírání zařízení?"
  ABORT_DISMANTLE_PROJECT_POPUP_TITLE: "Zrušit rozebírání"
  ADD_BREAKTHROUGH_POINTS_EFFECT_DESC: "Získat průlomové body:"
@@ -256,7 +256,7 @@
  SPECIAL_PROJECT_AVAILABLE_ALERT_TT: "§YDostupný speciální projekt§!"
  SPECIAL_PROJECT_AVAILABLE_PROJECTS: "$AMOUNT|Y$ projekt(ů) dostupných"
  SPECIAL_PROJECT_AVAILABLE_PROJECTS_COUNT: "$COUNT|G$"
- SPECIAL_PROJECT_BREAKTHROUGH_AVAILABLE: "$AMOUNT|Y$ průlom(ů) získáno"
+ SPECIAL_PROJECT_BREAKTHROUGH_AVAILABLE: "Získáno $AMOUNT|Y$ průlom(ů)" # todo: CHANGED
  SPECIAL_PROJECT_BREAKTHROUGH_COST: "Požaduje průlomové body: $AMOUNT$ $SPECIALIZATION|Y$"
  SPECIAL_PROJECT_BREAKTHROUGH_COST_ENOUGH: "$SPECIALIZATION|Y$: $AMOUNT|G$"
  SPECIAL_PROJECT_BREAKTHROUGH_COST_NOT_ENOUGH: "$SPECIALIZATION|Y$: $AMOUNT|R$"
@@ -272,7 +272,7 @@
  SPECIAL_PROJECT_COMPLETED_POPUP_TITLE: "Speciální projekt dokončen"
  SPECIAL_PROJECT_COMPLETED_POPUP_TOOLTIP: "Speciální projekt dokončen ve státě $STATE|Y$ za $FACILITY|Y$"
  SPECIAL_PROJECT_DEFAULT_ITERATION_REWARD_OPTION_CHOICE: "Tato volba bude automaticky vybrána, pokud bude dokončena nová iterace nebo projekt."
- SPECIAL_PROJECT_DEFAULT_ITERATION_REWARD_OPTION_DESC: "§GKlikněte§! pro zobrazení efektů."
+ SPECIAL_PROJECT_DEFAULT_ITERATION_REWARD_OPTION_DESC: "§GKlikněte§! pro zobrazení efektů" # todo: CHANGED
  SPECIAL_PROJECT_FACILITY_SPEED_FACTOR: "Rychlost výzkumu zařízení: $FACTOR$"
  SPECIAL_PROJECT_INJURE_SCIENTIST_FOR_DAYS: "[Character.GetName] bude zraněn na $DAYS|Y$ dní"
  SPECIAL_PROJECT_ITERATION_DEFAULT_CHOICE_REWARD_ALERT_DELAYED_TT: "Pokud není vybrána žádná volba, výchozí bude zvolena při další odměně iterace."
@@ -292,10 +292,10 @@
  SPECIAL_PROJECT_REMOVE_SCIENTIST_DELAY: "Vědec odebrán za $DAYS|0Y$ dní"
  SPECIAL_PROJECT_RESEARCH_OUTPUT: "§GPo dokončení výzkumu:§!"
  SPECIAL_PROJECT_RESEARCH_TIME_MIN_MAX_TOOLTIP_GAIN_PER_PROTOTYPE_PHASE: "Pokrok: $CURRENT_PROGRESS|Y0%$ (získává $PROGRESS_PER_ITERATION_MIN|Y0%$ až $PROGRESS_PER_ITERATION_MAX|Y0%$ každou iteraci)"
- SPECIAL_PROJECT_RESEARCH_TIME_MIN_MAX_TOOLTIP_NUMBER_PROTOTYPE_PHASE: "vyžaduje $TOTAL_NEEDED_MIN|Y0$ až $TOTAL_NEEDED_MAX|Y0$ iterací prototypu - $NUMBER_DONE|Y0$ dokončeno"
+ SPECIAL_PROJECT_RESEARCH_TIME_MIN_MAX_TOOLTIP_NUMBER_PROTOTYPE_PHASE: "vyžaduje $TOTAL_NEEDED_MIN|Y0$ až $TOTAL_NEEDED_MAX|Y0$ iteraci(í) prototypu - $NUMBER_DONE|Y0$ hotovo" # todo: CHANGED
  SPECIAL_PROJECT_RESEARCH_TIME_TOOLTIP_GAIN_PER_PROTOTYPE_PHASE: "Pokrok: $CURRENT_PROGRESS|Y0%$ (získává $PROGRESS_PER_ITERATION|Y0%$ každou iteraci)"
  SPECIAL_PROJECT_RESEARCH_TIME_TOOLTIP_MODIFIER: "$MODIFIER_NAME$: $MODIFIER_VALUE$"
- SPECIAL_PROJECT_RESEARCH_TIME_TOOLTIP_NUMBER_PROTOTYPE_PHASE: "vyžaduje $TOTAL_NEEDED|Y0$ iterací prototypu - $NUMBER_DONE|Y0$ dokončeno"
+ SPECIAL_PROJECT_RESEARCH_TIME_TOOLTIP_NUMBER_PROTOTYPE_PHASE: "vyžaduje $TOTAL_NEEDED|Y0$ iteraci(í) prototypu - $NUMBER_DONE|Y0$ hotovo" # todo: CHANGED
  SPECIAL_PROJECT_RESEARCH_TIME_TOOLTIP_SCIENTIST_MODIFIER: "($SCIENTIST_NAME$) $SCIENTIST_TRAIT|Y$ $MODIFIER_NAME_AND_VALUE$"
  SPECIAL_PROJECT_RESEARCH_TIME_TOOLTIP_SCIENTIST_SKILL: "$SCIENTIST_NAME$ ($SKILL_LEVEL_NAME|Y$): $MODIFIER_VALUE|%+=$"
  SPECIAL_PROJECT_RESEARCH_TIME_TOOLTIP_TOTAL: "Přibližný čas výzkumu: $REMAINING_DAYS|Y0$ dní"
@@ -457,7 +457,7 @@
  sp_air_bouncing_bomb_training_accidents_reward_desc: "Bohužel jsme při nízkých přiblíženích ztratili několik letadel. Musíme zpřísnit bezpečnostní opatření a cvičení."
  sp_air_bouncing_bomb_training_accidents_reward_option: "To je velmi nešťastné"
  sp_air_bouncing_bomb_type_of_explosives_reward: "Typ výbušniny"
- sp_air_bouncing_bomb_type_of_explosives_reward_desc: "Použitím Torpexu místo TNT můžeme výrazně zmenšit velikost bomby při zachování její výbušné síly."
+ sp_air_bouncing_bomb_type_of_explosives_reward_desc: "Použitím Torpexu místo TNT můžeme výrazně zmenšit velikost bomby při zachování výbušné síly." # todo: CHANGED
  sp_air_bouncing_bomb_type_of_explosives_reward_option: "To se může hodit"
  sp_air_centimetric_radar: "Centimetrický radar"
  sp_air_centimetric_radar_desc: "Vývoj centimetrického radaru umožní detekci mnohem menších cílů a použití menších antén."
@@ -648,7 +648,7 @@
  sp_land_reward_multi_charge_large_caliber_gun_breakthrough_in_propulsion_technology_desc: "[Character.GetName] dosáhl důležitého průlomu v technologii pohonu, výrazně zvýšující rychlost a sílu projektilů projektu [SpecialProject.GetName]. Tento pokrok otevírá nové možnosti účinnosti zbraně na bojišti a urychluje pokrok směrem k dokončení projektu."
  sp_land_reward_multi_charge_large_caliber_gun_successful_test_firing: "Úspěšná zkouška střelby"
  sp_land_reward_multi_charge_large_caliber_gun_successful_test_firing_desc: "Kanón [SpecialProject.GetName] právě úspěšně absolvoval milník v testovacím střelbě, demonstrující jeho impozantní dosah a přesnost. Tento úspěch posílil morálku výzkumného týmu a získal pozornost vysoce postavených úředníků, poskytující impuls projektu a obnovený optimismus pro jeho úspěch."
- sp_land_reward_multi_charge_large_caliber_gun_test_failure: "Katastrofální exploze"
+ sp_land_reward_multi_charge_large_caliber_gun_test_failure: "Katastrofální výbuch" # todo: CHANGED
  sp_land_reward_multi_charge_large_caliber_gun_test_failure_desc: "Během klíčové testovací zkoušky otřásla testovacím místem katastrofická exploze, která zničila kanón a způsobila značné škody na okolní infrastruktuře. Tým [Character.GetName] vyšetřuje příčinu exploze a zvládá následky incidentu, včetně veřejné kontroly a možných zpoždění v časovém plánu projektu."
  sp_land_reward_option_land_cruiser_ammunition_current: "Zachovat současný systém"
  sp_land_reward_option_land_cruiser_ammunition_new: "Zavést nový skladovací systém"
@@ -806,7 +806,7 @@
  sp_naval_ice_carrier_preference_a: "Síly přírody"
  sp_naval_ice_carrier_preference_b: "Nepřátelské síly"
  sp_naval_ice_carrier_unique_reward_a: "Zesílená ledová letadlová loď"
- sp_naval_ice_carrier_unique_reward_a_desc: "Zatímco investujeme obrovské množství času do stavby této obří letadlové lodi, musíme si být jisti, že ji poskytujeme nejlepší možnou ochranu. Co je naší největší starostí?"
+ sp_naval_ice_carrier_unique_reward_a_desc: "Při vynaložení obrovského množství času na stavbu této gigantické letadlové lodě musíme zajistit, že jí poskytneme co nejlepší ochranu. Co je naší největší obavou?" # todo: CHANGED
  sp_naval_midget_submarine: "Miniponorka"
  sp_naval_midget_submarine_desc: "Existuje místo v našich námořních schopnostech pro lehkou, levnou a všestrannou ponorku, která může být použita od sabotáží v přístavech po přepadání konvojů."
  sp_naval_midget_submarine_free_design: "Miniponorka"
@@ -897,7 +897,7 @@
  sp_naval_torpedo_cruiser_unique_reward_a: "Druhá šance - Torpédový křižník"
  sp_naval_torpedo_cruiser_unique_reward_a_desc: "S obnovením konceptu torpédového křižníku musíme rozhodnout o jeho roli ve flotile: zaměříme se na jejich sílu - torpéda; nebo na jejich hlavní slabinu - boj s torpédoborci?"
  sp_naval_underway_replenishment: "Zásobování na moři"
- sp_naval_underway_replenishment_desc: "Zásobování námoří daleko od domovských základen bylo vždy omezením. S našimi flotilami na extrémních vzdálenostech potřebujeme vyvinout nové metody doplňování zásob."
+ sp_naval_underway_replenishment_desc: "Zásobování námořnictva daleko od domovských základen bylo vždy omezujícím faktorem. S flotami operujícími na extrémní vzdálenosti musíme vyvinout nové metody doplňování zásob." # todo: CHANGED
  sp_naval_underway_replenishment_preference_a: "Větší dosah"
  sp_naval_underway_replenishment_preference_b: "Nižší využití konvojů"
  sp_naval_underway_replenishment_preference_c: "Najít rovnováhu"
@@ -917,12 +917,12 @@
  sp_nuclear_bomb_design_choice_reward_gun_type: "Dělo je bezpečnější volba."
  sp_nuclear_bomb_design_choice_reward_implosion: "Imploze je lepší design."
  sp_nuclear_bomb_espionage_threats_reward: "Hrozby špionáže"
- sp_nuclear_bomb_espionage_threats_reward_desc: "Bezpečnostní důstojníci tvrdí, že je třeba zvýšit bezpečnost na místě projektu [SpecialProject.GetName] a všech souvisejících aktivit. Výzkumníci, vedení [Character.GetName], argumentují, že svoboda pohybu a komunikace je zásadní pro postup."
+ sp_nuclear_bomb_espionage_threats_reward_desc: "Bezpečnostní důstojníci tvrdí, že je potřeba zvýšit bezpečnost na místě projektu [SpecialProject.GetName] a u všech souvisejících aktivit. Výzkumníci, vedení [Character.GetName], naopak tvrdí, že svoboda pohybu a komunikace je pro pokrok nezbytná." # todo: CHANGED
  sp_nuclear_bomb_espionage_threats_reward_increase_security: "Zvýšit bezpečnost"
  sp_nuclear_bomb_espionage_threats_reward_increase_security_tt: "Zvýšená bezpečnost snižuje riziko krádeže informací"
  sp_nuclear_bomb_espionage_threats_reward_no: "Nezvýšíme bezpečnost"
  sp_nuclear_bomb_information_leak_reward: "Únik informací"
- sp_nuclear_bomb_information_leak_reward_desc: "Jeden z pracovníků na projektu [SpecialProject.GetName] údajně předává informace zahraničním agentům. Zda to dělá úmyslně nebo ne, zatím není známo. Stejně tak je těžké určit škody, které to projektu způsobilo."
+ sp_nuclear_bomb_information_leak_reward_desc: "Jeden z pracovníků na [SpecialProject.GetName] zřejmě uniká informace zahraničním agentům. Zda to bylo úmyslné, zatím není známo. Rovněž je obtížné určit škody, které to projektu způsobilo" # todo: CHANGED
  sp_nuclear_bomb_information_leak_reward_tt: "Získat pokrok v projektu"
  sp_nuclear_bomb_test_prototype_reward: "Prototyp bomby"
  sp_nuclear_bomb_test_prototype_reward_desc: "[Character.GetName] a jeho tým vyrobil prototyp bomby. Úspěšné testování by výrazně zlepšilo náš pokrok. Na druhou stranu nyní máme jadernou bombu..."
@@ -932,7 +932,7 @@
  sp_nuclear_bomb_theoretical_breakthrough_generic_reward_desc: "[Character.GetName] vyřešil složitý teoretický problém během práce na nejnovějším prototypu. To vedlo ke zjednodušení designu bomby, což usnadní její výrobu."
  sp_nuclear_bomb_tt: "Jaderné reaktory začnou vyrábět §YJaderné bomby§!."
  sp_nuclear_design_choice_reward: "Design reaktoru"
- sp_nuclear_design_choice_reward_desc: "Při navrhování reaktoru musíme zvolit, jaký materiál použijeme pro moderátor. To ovlivní design celého reaktoru. Můžeme použít těžkou vodu, nebo grafit, obě mají své klady a zápory..."
+ sp_nuclear_design_choice_reward_desc: "Při návrhu reaktoru musíme zvolit materiál pro moderátor. To určí konstrukci celého reaktoru. Můžeme použít těžkou vodu nebo grafit, oba mají své výhody a nevýhody..." # todo: CHANGED
  sp_nuclear_design_choice_reward_graphite: "Čistý grafit je lepší moderátor"
  sp_nuclear_design_choice_reward_heavy_water: "Těžká voda bude levnější"
  sp_nuclear_engines: "Jaderné motory"
@@ -976,7 +976,7 @@
  sp_nuclear_submarine_eq_bonus_ic_reduction: "Jaderná ponorka - Levnější výroba"
  sp_nuclear_submarine_eq_bonus_quality: "Jaderná ponorka - Zaměření na kvalitu"
  sp_nuclear_war_support_generic_reward: "Veřejná podpora"
- sp_nuclear_war_support_generic_reward_desc: "Úspěšný test a úzce kontrolovaná mediální kampaň způsobily, že veřejnost chápe, že se blížíme vývoji nějaké superzbraně, která může porazit všechny nepřátele."
+ sp_nuclear_war_support_generic_reward_desc: "Úspěšný test a související, přísně kontrolované mediální pokrytí vedly veřejnost k přesvědčení, že se blížíme k vývoji jakési superzbraně, kterou lze použít k porážce všech nepřátel." # todo: CHANGED
  sp_nuclear_warheads: "Jaderné hlavice"
  sp_nuclear_warheads_desc: "Vytvořením kondenzovaných jaderných zbraní je budeme schopni využít jako nálož na různé raketové odpalovací systémy, což nám umožní zasáhnout na velké vzdálenosti."
  sp_rocket_design_choice_reward: "Dostřel versus nálož?"
@@ -1117,7 +1117,7 @@
  sp_naval_escort_carrier_desc: "Abychom ochránili naše zásobovací trasy, chceme vyvinout menší a hospodárnější letadlové lodě poskytující cenově efektivní vzdušné krytí a protiponorkové schopnosti napříč oceány."
  sp_naval_escort_carrier_free_design: "Eskortní letadlová loď"
  sp_naval_submarine_carrier: "Letadlová ponorka"
- sp_naval_submarine_carrier_desc: "Snažíme se vyvinout nový typ ponorky, schopný pojmout a vypouštět více letadel, aby prováděl mise přesahující pouhý letecký průzkum."
+ sp_naval_submarine_carrier_desc: "Chceme vyvinout nový typ ponorky, která bude schopna uskladnit a vypouštět více letadel, aby mohla plnit mise přesahující pouhý letecký průzkum." # todo: CHANGED
  sp_naval_submarine_carrier_free_design: "Letadlová ponorka"
  sp_naval_support_ships_unique_reward_a: "Pomocné lodě - Zaměření na zásobování"
  sp_naval_support_ships_unique_reward_a_desc: "Ačkoli je hodnota podpůrných lodí nesporná, musíme rozhodnout o jejich  operačním zaměření: cílené doplňování zásob menšího počtu lodí, nebo obecné doplňování zásob celé flotily."

@@ -4,7 +4,7 @@
  CAN_BOOST_OTHER_IDEOLOGIES: "Může zvýšit popularitu jiných ideologií"
  CAN_BOOST_OWN_IDEOLOGY: "Může zvýšit popularitu vlastní strany v jiných zemích"
  CAN_CREATE_COLLABORATION_GOVERNMENT: "Může vytvářet kolaborantské vlády"
- CAN_DECLARE_WAR_ON_SAME_IDEOLOGY: "Může vyhlásit válku zemi se stejnou ideologickou skupinou bez válečného cíle"
+ CAN_DECLARE_WAR_ON_SAME_IDEOLOGY: "Může ospravedlnit a vyhlásit válku zemi se stejnou ideologickou skupinou" # todo: CHANGED
  CAN_DECLARE_WAR_WITHOUT_WARGOAL_WHEN_IN_WAR: "Může vyhlásit válku sousedovi bez válečného cíle, když je ve válce s velmocí"
  CAN_FORCE_GOVERNMENT: "Může donutit vládu jiné země přijmout stejnou ideologii"
  CAN_GENERATE_FEMALE_COUNTRY_LEADERS: "Může generovat ženské vůdkyně zemí"

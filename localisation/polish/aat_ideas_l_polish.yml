@@ -85,9 +85,9 @@
  DEN_sovaernet_dynamic_modifier: "Søværnet"
  DEN_sovaernet_dynamic_modifier_desc: "Dánsko bývalo velmocí v Baltském moři a vládlo vlnám svými mocnými flotami - a dlouhou námořnickou historii jsme měli i předtím. Vikingové brázdili moře tam a zpátky, šířili strach a dobývali země. S odhodláním můžeme znovu vybudovat námořnictvo a opět vládnout mořím."
  DEN_sovaernet_dynamic_modifier_improved: "$DEN_sovaernet_dynamic_modifier$"
- DEN_sovaernet_dynamic_modifier_improved_desc: "Dánsko bývalo velmocí v Baltském moři a vládlo vlnám svými mocnými flotami - a dlouhou námořnickou historii jsme měli i předtím. Vikingové brázdili moře tam a zpátky, šířili strach a dobývali země. Ačkoli nás čeká ještě mnoho práce, námořnictvo získalo zpět velkou část své někdejší síly."
+ DEN_sovaernet_dynamic_modifier_improved_desc: "Dánsko bylo kdysi velmocí v Baltském moři a našimi mocnými loďstvy dominovalo vlnám — ale dávno předtím jsme mělo bohatou tradici mořeplavby. Vikingové pluli daleko a široko, šířili strach a dobývali země. Ačkoli nás čeká ještě mnoho práce, námořnictvo si navrátilo velkou část své bývalé slávy a síly." # todo: CHANGED
  DEN_sovaernet_dynamic_modifier_max_improved: "$DEN_sovaernet_dynamic_modifier$"
- DEN_sovaernet_dynamic_modifier_max_improved_desc: "Dánsko bývalo velmocí v Baltském moři a vládlo vlnám svými mocnými flotami - a dlouhou námořnickou historii jsme měli i předtím. Vikingové brázdili moře tam a zpátky, šířili strach a dobývali země. Vybudovali jsme naše námořnictvo a jsme připraveni znovu vyplout a vládnout mořím."
+ DEN_sovaernet_dynamic_modifier_max_improved_desc: "Dánsko bylo kdysi velmocí v Baltském moři a našimi mocnými loďstvy dominovalo vlnám — ale dávno předtím jsme mělo bohatou tradici mořeplavby. Vikingové pluli daleko a široko, šířili strach a dobývali země. Vybudovali jsme silné námořnictvo a jsme připraveni znovu vyplout a vládnout mořím." # todo: CHANGED
  DEN_war_preparations_dynamic_modifier: "Přípravy na válku"
  DEN_war_preparations_dynamic_modifier_desc: "Jen připravení přečkáme bouři. Musíme navýšit zásoby surovin a dalších potřeb pro chvíle, kdy budou třeba, a připravit náš průmysl na podporu válečného úsilí."
  FIN_academic_karelian_society_ns_1: "$FIN_academic_karelian_society$"
@@ -100,7 +100,7 @@
  FIN_coastal_batteries_effort: "Zaměření na pobřežní baterie"
  FIN_coastal_batteries_effort_desc: "$FIN_coastal_defense_desc$"
  FIN_commitment_from_construction_workers: "Závazek stavebních dělníků"
- FIN_commitment_from_construction_workers_desc: "Stavební dělníci dobře znají krutosti kapitalistického vykořisťování. Mnozí se proto stali horlivými stoupenci naší revolučního hnutí. Zatímco někteří vstoupili do ozbrojených sil, mnozí se zavazují využít své odborné znalosti při jakékoli stavební činnosti, kterou bude stát k vedení války potřebovat."
+ FIN_commitment_from_construction_workers_desc: "Stavební dělníci nejsou cizí krutostem kapitalistického vykořisťování. Mnozí se proto stali horlivými stoupenci našeho revolučního hnutí. Zatímco někteří vstoupili do ozbrojených sil, mnozí se zavazují využít své odborné znalosti při jakýchkoli stavebních operacích, které bude stát potřebovat k vedení války." # todo: CHANGED
  FIN_commitment_from_the_trade_unions: "Závazek odborů"
  FIN_commitment_from_the_trade_unions_desc: "Odbory po desetiletí tvrdě bojovaly proti nespravedlnostem kapitalistického útlaku na pracovišti a sehrály klíčovou roli při pozvedání třídního vědomí lidu. Nyní se s plným nasazením připojují k naší revoluci, aby jednou provždy ukončily kapitalismus."
  FIN_compensation_for_side_switch_bad: "Válečné reparace"
@@ -181,7 +181,7 @@
  ICE_christian_x: "Kristián X."
  ICE_christian_x_desc: "Kristián X. je společným králem Dánska a Islandu - posledním článkem spojujícím tyto dva národy."
  ICE_civil_defence_organization: "Organizace civilní obrany"
- ICE_civil_defence_organization_desc: "Každý islandský občan je kdykoli připraven udělat vše potřebné k ochraně své země, pomoci jejímu lidu a záchraně její infrastruktury."
+ ICE_civil_defence_organization_desc: "Každý islandský občan je připraven kdykoli udělat vše, co je třeba, aby ochránil svou zemi, pomohl svému lidu nebo zachránil infrastrukturu." # todo: CHANGED
  ICE_civilian_fleet: "Rozšířit civilní flotilu"
  ICE_compensation_purchase_idea: "Kompenzační platby"
  ICE_compensation_sale_idea: "Kompenzační platby"
@@ -190,7 +190,7 @@
  ICE_dissent_in_the_working_class: "Nespokojenost dělnické třídy"
  ICE_eimskip: "Eimskip"
  ICE_esso: "Esso"
- ICE_fascist_tech_sharing_group_desc: "Islandský stát zorganizoval výzkumný kooperativní program mezi sebou a státy s podobnou ideologií s cílem urychlit rozvoj své technologie."
+ ICE_fascist_tech_sharing_group_desc: "Islandský stát zorganizoval program výzkumné spolupráce mezi sebou a ideologicky spřízněnými státy ve snaze urychlit svůj technologický rozvoj." # todo: CHANGED
  ICE_fascist_tech_sharing_group_name: "Islandská výzkumná organizace"
  ICE_fishing_industry: "Rozšířit rybářský průmysl"
  ICE_fishing_industry_2: "Rozšířit rybářský průmysl"
@@ -267,7 +267,7 @@
  NOR_army_air_force_dmod: "Hærens Flyvevaaben"
  NOR_army_air_force_dmod_desc: "Naše počínající letectvo má prozatím za úkol podporovat pozemní armády, takže zatím není potřeba samostatné hierarchie."
  NOR_attack_denmark_ns: "Zaútočit na Dánsko"
- NOR_attack_denmark_ns_desc: "[DEN.GetNonIdeologyName] je naším mostem do zbytku Evropy. Bohužel to také znamená, že se může stát odrazovým můstkem nepřítele do Skandinávie. Nesmíme ho nechat nehlídaný."
+ NOR_attack_denmark_ns_desc: "[DEN.GetNonIdeologyName] jsou mostem k zbytku Evropy. Bohužel to také znamená, že se mohou stát odpalovací rampou našeho nepřítele do Skandinávie. Nemůžeme je nechat nehlídané." # todo: CHANGED
  NOR_attack_sweden_ns: "Zaútočit na Švédsko"
  NOR_attack_sweden_ns_desc: "[SWE.GetNonIdeologyName] je příliš důležitým cílem, než abychom ho ponechali neobsazený. Pokud si jejich zdroje nezajistíme jako první, mohou padnout do rukou nepřítele, nebo - což je snad ještě horší - [SWE.GetAdjective] válečných šmelinářů."
  NOR_broken_gun_ns: "Zlomená puška"
@@ -352,7 +352,7 @@
  NOR_royal_navy_dmod: "Sjøforsvaret"
  NOR_royal_navy_dmod_desc: "Naše hrdé námořnictvo bude chránit [NOR.GetName] i dál. Vždyť nejširší dálnicí do naší země je samotné Severní moře."
  NOR_second_north_sea_empire: "Druhá Severomořská říše"
- NOR_second_north_sea_empire_desc: "Regent Peder Anker Wedel-Jarlsberg prohlásil, že hodlá obnovit někdejší slávu Norska a že je jen otázkou času, kdy povstane nové norské impérium."
+ NOR_second_north_sea_empire_desc: "Regent Peder Anker Wedel-Jarlsberg prohlásil, že hodlá vrátit Norsko do jeho dávné slávy a že je jen otázkou času, než opět povstane nové norské impérium." # todo: CHANGED
  NOR_sivorg_ns: "Sivorg"
  NOR_sivorg_ns_desc: "Seskupení civilních odbojových skupin, včetně Koordinačního výboru a Kretsen. Jsou to muži a ženy domácí fronty, kteří musí udržet víru, že fašismus porazíme a [NOR.GetName] bude opět svobodné."
  NOR_the_hard_thirties_ns: "Těžká třicátá léta"
@@ -415,13 +415,13 @@
  SWE_folkhemmet_intactness_intact: "§GZachována§!"
  SWE_folkhemmet_intactness_value: "§YStav Folkhemmetu:§! [SWE_folkhemmet_status_text] ([?SWE.folkhemmet_intactness]/[?SWE.folkhemmet_max_intactness])"
  SWE_folkhemmet_pdx_tooltip: "Každý rok můžeme pro [SWE.GetnameDef] nastavit politiku přezbrojení či odzbrojení. Čím víc posuneme společnost směrem k přezbrojení, tím silnější budou bonusy k §Ypodpoře války§!, rychlosti stavby §Yvojenských továren§! a §Yloděnic§!, zatímco §Ystabilita§! a rychlost výstavby §Ycivilních továren§! budou slabší.\n§YFolkhemmet§! s 0 §YIntegritou§! je svým opakem - civilní bonusy jsou §Rnegativní§! a vojenské §Gpozitivní§!.\n\nKdyž se sejde přezbrojovací komise, máme po určitou dobu volnost změn politik. Jakmile její schůze skončí, volby zůstanou uzamčeny do dalšího roku."
- SWE_folkhemmet_system_desc: "Jak se svět neustále přibližuje globálnímu konfliktu, Švédsko váhá, zda má přezbrojit za cenu oslabení sociálního státu, nebo jej zachovat a riskovat nepřipravenost na budoucí válku."
+ SWE_folkhemmet_system_desc: "Jak se svět neustále přibližuje k celosvětovému konfliktu, Švédsko stojí před volbou, zda se přezbrojit na úkor svého systému sociálního zabezpečení, nebo ho zachovat vcelku a riskovat, že nebude připraveno na budoucí konflikt." # todo: CHANGED
  SWE_foreign_communist_influence: "Švédský socialistický vliv"
  SWE_foreign_minister: "Ministr zahraničí"
  SWE_foreign_minister_no_bba: "$SWE_foreign_minister$"
  SWE_formation_flying_idea: "Létání ve formaci"
  SWE_full_capacity_furnaces: "Pece na plný výkon"
- SWE_full_capacity_furnaces_desc: "Po uvalení embarga na našeho protivníka máme přebytek surovin. Těžký průmysl, který byl dříve omezen kvótami, má nyní vše, co potřebuje k nepřetržité výrobě. Naše zásoby se však rychle plní - měli bychom dát světu najevo, že jsme připraveni dodávat prostředky potřebné pro boj za lepší věc."
+ SWE_full_capacity_furnaces_desc: "Po uvalení embarga na našeho protivníka máme nyní přebytek surovin. Těžký průmysl, který byl dříve omezen kvótami, má nyní vše, co potřebuje, aby mohl pracovat ve dne v noci. Přesto se naše sklady rychle plní a měli bychom zajistit, aby světový trh věděl, že jsme ochotni dodat zdroje potřebné k vedení lepšího boje." # todo: CHANGED
  SWE_gateway_to_peace: "Brána k míru"
  SWE_gateway_to_peace_decision: "Bránit Finsko"
  SWE_gateway_to_peace_decision_tt: "\nZískání kontroly nad §YLeningradem§! donutí [SOV.GetName], aby jsme my a [FIN.GetName] s nim uzavřeli mír, nebo čelil vážným následkům."
@@ -450,7 +450,7 @@
  SWE_minor_hungershield_strike: "Celostátní stávky"
  SWE_navy_rearnament_value: "Přezbrojení námořnictva: [SWE_rearmament_status_text_navy] [?SWE.folkhemmet_navy_part]/[?SWE.folkhemmet_max_constituent_parts]"
  SWE_nordic_centralized_army: "Centralizovaná severská armáda"
- SWE_nordic_centralized_army_desc: "Severská armáda byla centralizována pod [?SWE.GetAdjective] velení. Naše schopnosti chránit vlastní hranice se tím však výrazně snížily a očekáváme, že severská armáda nás bude bránit místo nás."
+ SWE_nordic_centralized_army_desc: "Severská armáda byla centralizována pod kontrolou [?SWE.GetAdjective]. V důsledku toho jsou naše vlastní schopnosti bránit hranice značně omezené a očekáváme, že Severská armáda je za nás ochrání." # todo: CHANGED
  SWE_nordic_defense_council_group_desc: "Je přirozené, že si jako spojenci sdílíme své průlomy a inovace."
  SWE_nordic_defense_council_group_name: "Severská výzkumná výměna"
  SWE_nordic_defense_council_military_overhead: "Vojenská režie"

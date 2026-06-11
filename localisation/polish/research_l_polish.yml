@@ -35,7 +35,7 @@
  advanced_radio: "Pokročilé rádio"
  advanced_rocket_engines_desc: "Budoucnost raketové techniky otevírá možnosti, jako jsou mezikontinentální rakety, jejichž dolet nezná hranic, zatímco užitečné zatížení je stále smrtonosnější."
  advanced_rocket_engines: "Pokročilé raketové motory"
- advanced_rubber_processing_desc: "Univerzální syntetický kaučuk s vylepšenými procesy, jako jsou polymerační modifikátory dodecylmerkaptan, nám umožní rozšířit výrobu syntetického kaučuku."
+ advanced_rubber_processing_desc: "Obecný recept na syntetický kaučuk s vylepšenými procesy, jako jsou polymerizační modifikátory dodecylmerkaptanu, nám umožní rozšířit výrobu syntetického kaučuku." # todo: CHANGED
  advanced_rubber_processing: "Pokročilé zpracování gumy"
  advanced_ship_torpedo_launcher_desc: "Větší průměr trubek umožňuje použití větších torpéd s těžšími hlavicemi.\n\nMontáž tohoto modulu na §YLehké lodě§! nebo §YKřižníky§! umožňuje jim způsobit značné poškození nepřátelským §YHlavním lodím§!."
  advanced_ship_torpedo_launcher: "Pokročilý lodní torpédomet"
@@ -400,7 +400,7 @@
  deep_operations: "Hluboké operace"
  defence_in_depth_desc: "Nabídnutím relativně slabého odporu a dočasným ustoupením můžeme směnit prostor za čas a umožnit útočným silám, aby se unavily před protiútokem."
  defence_in_depth: "Obrana v hloubce"
- degaussing_desc: "Instalací výkonných elektromagnetických cívek lze výrazně snížit magentickou signaturu lodi, takže je mnohem méně zranitelná vůči magnetickým minám."
+ degaussing_desc: "Instalací silných elektromagnetických cívek lze dramaticky snížit magnetický podpis lodi, čímž se výrazně sníží její zranitelnost vůči magnetickým minám." # todo: CHANGED
  degaussing: "Demagnetizování"
  delay_desc: "I když nelze vyhrát bitvu, může být výhodné zpomalit postup útočných sil pomocí přepadů a zdržovacích taktik."
  delay: "Zdržování"
@@ -564,7 +564,7 @@
  hills_training_tech: "Výcvik v kopcích"
  home_defence_desc: "Pozorovatelé na zemi, stejně jako detekční a odposlouchávací stanice, spolupracují s naší leteckou silou na sledování a ničení nepřátelských incursion."
  home_defence: "Obrana domova"
- homing_torpedo_desc: "Vybavena akustickým detektorem, torpédo se může zaměřit na největší zdroj hluku před sebou - obvykle cíl."
+ homing_torpedo_desc: "Vybaveno akustickým detektorem, torpédo se dokáže navést na nejsilnější zdroj hluku před ním — obvykle na cíl." # todo: CHANGED
  homing_torpedo: "Naváděná torpéda"
  hospital_tech: "Polní nemocnice"
  human_infantry_offensive_desc: "Ofenzivní duch pěchoty je rozhodujícím prvkem vítězství v bitvách. Naše pěchota musí jít na čelo."
@@ -792,7 +792,7 @@
  modern_depth_charges: "Vylepšené hlubinné nálože"
  modern_naval_mines_desc: "Tato vysoce pokročilá mina detekuje malé změny ve vodním tlaku způsobené lodí, která se pohybuje poblíž."
  modern_naval_mines: "Tlaková mina"
- modern_oil_processing_desc: "Naše rafinérie ropy může být dále vylepšena pomocí nových pokročilých metod zpracování ropy, jako jsou hydrokrakování, alkylace, oxidace merkaptanů a izomerace."
+ modern_oil_processing_desc: "Naše ropné rafinerie lze dále zlepšit novými pokročilými metodami zpracování ropy, jako jsou hydrokrakování, alkylace, oxidace merkaptanů a izomerizace." # todo: CHANGED
  modern_oil_processing: "Moderní zpracování ropy"
  modern_rubber_processing_desc: "Přechod na optimalizované polymerizační procesy povede k nižším nákladům a vyšší produkci."
  modern_rubber_processing: "Moderní zpracování gumy"
@@ -807,7 +807,7 @@
  motorized_rocket_unit: "Motorizovaná raketová dělostřelectvo"
  mountain_defensive_training_desc: "Speciální výcvik umožní našim jednotkám lépe bránit v horském terénu."
  mountain_defensive_training: "Horský obranný výcvik"
- mountain_gun_desc: "Horský terén severní Indie vedl k vývoji dělostřeleckého kusu, který mohl být rozložen a dopraven na oslu tam, kde bylo potřeba."
+ mountain_gun_desc: "Hornatý terén vedl k vývoji dělostřeleckého kusu, který lze rozebrat a nést na hřbetě muly kamkoli je potřeba." # todo: CHANGED
  mountain_gun: "Horský kanón"
  mountain_warfare_desc: "Speciální výcvik, aby naši vojáci byli efektivní v horských oblastech."
  mountain_warfare_militias_tech: "$ITA_grande_rivolta_rurale$"
@@ -999,7 +999,7 @@
  RESEARCH_REPLACE_EXCLUSIVE_TITLE: "Nahradit vzájemně se vylučující výzkum"
  RESEARCH_REPLACE_MIO_TITLE: "Nahradit konstrukční tým"
  RESEARCH_REPLACE_TITLE: "Nahradit výzkum"
- RESEARCH_REPLACE_TRANSFER: "\n$SAVED|H0$ den(dní) dříve uloženého výzkumu bude převedeno na novou technologii."
+ RESEARCH_REPLACE_TRANSFER: "\n$SAVED|H0$ dní dříve uloženého výzkumu bude převedeno na novou technologii." # todo: CHANGED
  research_requirements_and: "Vyžaduje následující technologie:"
  research_requirements_or: "Vyžaduje jednu z následujících technologií:"
  RESEARCH_REQUIREMENTS_SINGLE: "§RPožaduje technologii ($TECH$)§!"
@@ -1117,7 +1117,7 @@
  sp_shock_hardening_techniques_desc: "Použitím technik tlumení otřesů a vyrovnání napětí jsme snížili riziko předčasných výbuchů - střely jsou nyní spolehlivější a účinnější."
  sp_shock_hardening_techniques: "Techniky odolnosti proti otřesům"
  sp_standard_tenshioned_replenishment_alongside_method_desc: "Standardizovaná metoda zásobování podél paluby, známá jako STREAM, představuje další vývoj při zajištění plynulého zásobování našich dálkových námořních operací."
- sp_standard_tenshioned_replenishment_alongside_method: "Standardizovaná metoda zásobování podél paluby"
+ sp_standard_tenshioned_replenishment_alongside_method: "Standardizovaná metoda napnutého zásobování podél boku" # todo: CHANGED
  sp_variable_time_fuze_shells_desc: "Nasazením granátů s variabilním časovým zapalovačem dosáhneme explozí ve vzduchu a tím výrazně větší účinné zóny zásahu. "
  sp_variable_time_fuze_shells: "Granáty s časovým zapalovačem"
  special_forces_doctrine_folder_desc: "Jak jsou naše speciální síly vycvičeny."
@@ -1317,7 +1317,7 @@
  modern_sonar: "Moderní sonar"
  modern_sonar_desc: "Pokroky ve filtrování signálu a směrovém skenování dávají tomuto novému typu sonaru bezkonkurenční přesnost a umožňují nám lovit nepřátelské ponorky s ničivou přesností. \n\nUmístění tohoto modulu do §YEelektronického slotu§! na §YLehkých lodích§! nebo §YKřižnících§! jim pomůže odhalovat nepřátelské §YPonorky§!."
  improved_seaplane_tender: "Vylepšený nosič hydroplánů"
- improved_seaplane_tender_desc: "Pokrok v zásobování na moři a technologii jeřábů pro vyzvedávání zvyšuje efektivitu provozu hydroplánů. \n\nUmístění modulu §YNosič hydroplánů§! na §YTorpédoborce§! zlepšuje jejich schopnost odhalovat nepřátelské lodě."
+ improved_seaplane_tender_desc: "Pokroky v technologii zásobování na moři a v jeřábech pro zotavení zlepšují efektivitu operací hydroplánů.\n\nNamontování modulu §YZásobovač hydroplánů§! na §YTorpédoborec§! zlepší jejich schopnost detekovat nepřátelské lodě." # todo: CHANGED
  seaplane_tender_advice_tt: "\nUmístění modulu §YNosič hydroplánů§! na §YTorpédoborce§! zlepšuje jejich schopnost odhalovat nepřátelské lodě."
  grand_banzai_charge: "Velký banzai útok"
  RANGERS_DOCTRINE_LABEL: "Hraničáři"

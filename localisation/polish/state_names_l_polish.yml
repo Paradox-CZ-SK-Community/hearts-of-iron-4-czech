@@ -201,7 +201,7 @@
  STATE_1014: "Bahrajn"
  STATE_1015: "Omán"
  STATE_1016: "Dafár"
- STATE_1017: "Trung Bo"
+ STATE_1017: "Da Nang" # todo: CHANGED
  STATE_1018: "Minami Kjúšú"
  STATE_1019: "Minami Tóhoku"
  STATE_101: "Grónsko"
@@ -433,12 +433,12 @@
  STATE_281: "Maldivy"
  STATE_282: "Kantó"
  STATE_283: "Kan-su"
- STATE_284: "Severní ostrov"
+ STATE_284: "Wellington" # todo: CHANGED
  STATE_285: "Nový Jižní Wales"
- STATE_286: "Čampa"
+ STATE_286: "Jižní Annam" # todo: CHANGED
  STATE_287: "Taklamakan"
  STATE_288: "Magwe"
- STATE_289: "Siam"
+ STATE_289: "Západní Siam" # todo: CHANGED
  STATE_28: "Alsace-Lorraine"
  STATE_290: "Španělská Afrika"
  STATE_291: "Bagdád"
@@ -489,9 +489,9 @@
  STATE_331: "Newfoundland"
  STATE_332: "Labrador"
  STATE_333: "Sarawak"
- STATE_334: "Kalimantan"
- STATE_335: "Jáva"
- STATE_336: "Malajsko"
+ STATE_334: "Západní Kalimantan" # todo: CHANGED
+ STATE_335: "Západní Jáva" # todo: CHANGED
+ STATE_336: "Kuala Lumpur" # todo: CHANGED
  STATE_337: "Faerské ostrovy"
  STATE_338: "Gloucestershire"
  STATE_339: "Izmir"
@@ -858,13 +858,13 @@
  STATE_664: "Jižní Slovensko"
  STATE_665: "Gábes"
  STATE_666: "Norrbotten"
- STATE_667: "Malé Sundy"
+ STATE_667: "Západní Nusa Tenggara" # todo: CHANGED
  STATE_668: "Moluky"
- STATE_669: "Západní Papua"
+ STATE_669: "Holandská Nová Guinea" # todo: CHANGED
  STATE_66: "Dolní Slezsko"
  STATE_670: "Laos"
  STATE_671: "Tonkin"
- STATE_672: "Sumatra"
+ STATE_672: "Jižní Sumatra" # todo: CHANGED
  STATE_673: "Sulawesi"
  STATE_674: "Střední Austrálie"
  STATE_675: "Al Hadžara"
@@ -921,8 +921,8 @@
  STATE_720: "Jižní Georgie"
  STATE_721: "Východní Timor"
  STATE_722: "Petsamo"
- STATE_723: "Jižní ostrov"
- STATE_724: "Severní Malajsie"
+ STATE_723: "Canterbury" # todo: CHANGED
+ STATE_724: "Jižní Siam" # todo: CHANGED
  STATE_725: "Nauru"
  STATE_726: "Samoa"
  STATE_727: "Liniové ostrovy"
@@ -934,7 +934,7 @@
  STATE_732: "Pamír"
  STATE_733: "Andamany"
  STATE_733_shaheed: "Šahíd"
- STATE_734: "Nendo"
+ STATE_734: "Ostrovy Santa Cruz" # todo: CHANGED
  STATE_735: "Savoy"
  STATE_736: "Litorale"
  STATE_737: "Bismarckovo souostroví"
@@ -1205,7 +1205,7 @@
  STATE_976: "Steiermark-Kärnten"
  STATE_977: "Antverpy"
  STATE_978: "Baden"
- STATE_979: "Kaiser-Wilhelmsland"
+ STATE_979: "Nová Guinea" # todo: CHANGED
  STATE_97: "Białystok"
  STATE_980: "Ardeny"
  STATE_981: "Barotseland"
@@ -1260,3 +1260,52 @@
  UKR_STATE_93: "Volyň"
  YUG_STATE_45: "Bačka"
  state_610_modern_name: "Že-che"
+ VIN_STATE_286: "Nam Trung Bo" # todo: NEW TRANSLATION
+ ARG_STATE_299: "Islas Malvinas" # todo: NEW TRANSLATION
+ STATE_669_indonesian: "Severní Papua" # todo: NEW TRANSLATION
+ GER_STATE_979: "Kaiser-Wilhelmsland" # todo: NEW TRANSLATION
+ FRA_STATE_1017: "Severní Annam" # todo: NEW TRANSLATION
+ STATE_1047: "Bangka-Belitung" # todo: NEW TRANSLATION
+ STATE_1048: "Padang" # todo: NEW TRANSLATION
+ STATE_1049: "Medan a Riouw" # todo: NEW TRANSLATION
+ STATE_1050: "Atjeh" # todo: NEW TRANSLATION
+ STATE_1051: "Východní Jáva" # todo: NEW TRANSLATION
+ STATE_1052: "Bali" # todo: NEW TRANSLATION
+ STATE_1053: "Východní Nusa Tenggara" # todo: NEW TRANSLATION
+ STATE_1054: "Nizozemský Timor" # todo: NEW TRANSLATION
+ STATE_1054_indonesian: "Západní Timor" # todo: NEW TRANSLATION
+ STATE_1055: "Východní Kalimantan" # todo: NEW TRANSLATION
+ STATE_1056: "Manado" # todo: NEW TRANSLATION
+ STATE_1057: "Nizozemská Papua" # todo: NEW TRANSLATION
+ STATE_1057_indonesian: "Jižní Papua" # todo: NEW TRANSLATION
+ STATE_1058: "Batávie" # todo: NEW TRANSLATION
+ STATE_1058_indonesian: "Jakarta" # todo: NEW TRANSLATION
+ STATE_1059: "Limbang" # todo: NEW TRANSLATION
+ STATE_1060: "Johor" # todo: NEW TRANSLATION
+ STATE_1061: "Perlis-Kedah" # todo: NEW TRANSLATION
+ STATE_1062: "Kelantan-Terengganu" # todo: NEW TRANSLATION
+ STATE_1063: "Pahang" # todo: NEW TRANSLATION
+ STATE_1064: "Perak" # todo: NEW TRANSLATION
+ STATE_1065: "Penang" # todo: NEW TRANSLATION
+ STATE_1066: "Cochinchina" # todo: NEW TRANSLATION
+ FRA_STATE_1066: "Cochinchine" # todo: NEW TRANSLATION
+ STATE_1067: "Battambang" # todo: NEW TRANSLATION
+ SIA_STATE_1067: "Phibunsongkhram" # todo: NEW TRANSLATION
+ SIA_STATE_1067_ALT: "Vnitřní Kambodža" # todo: NEW TRANSLATION
+ STATE_1068: "Bassac" # todo: NEW TRANSLATION
+ SIA_STATE_1068: "Champasak" # todo: NEW TRANSLATION
+ STATE_1069: "Lan Chang" # todo: NEW TRANSLATION
+ STATE_1070: "Bougainville" # todo: NEW TRANSLATION
+ STATE_1071: "Vanuatu" # todo: NEW TRANSLATION
+ FRA_STATE_1071: "Nové Hebridy" # todo: NEW TRANSLATION
+ ENG_STATE_1071: "Nové Hebridy" # todo: NEW TRANSLATION
+ STATE_1072: "Americká Samoa" # todo: NEW TRANSLATION
+ STATE_1073: "Vnitřní Papua" # todo: NEW TRANSLATION
+ STATE_1074: "Centrální západní Austrálie" # todo: NEW TRANSLATION
+ STATE_1075: "Západní Queensland" # todo: NEW TRANSLATION
+ STATE_1076: "Bangkokský stát" # todo: NEW TRANSLATION
+ STATE_1077: "Centrální Siam" # todo: NEW TRANSLATION
+ STATE_1078: "Východní Siam" # todo: NEW TRANSLATION
+ STATE_1079: "Auckland" # todo: NEW TRANSLATION
+ STATE_1080: "Marlborough" # todo: NEW TRANSLATION
+ STATE_1081: "Otago" # todo: NEW TRANSLATION

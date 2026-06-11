@@ -306,7 +306,7 @@
  SPA_encourage_local_mining: "Podpořit místní těžbu"
  SPA_encourage_local_mining_desc: "Naše průmyslová výroba potřebuje suroviny a příliš si zvykla na roli čistého dovozce. Podpořme širší rozvoj těžebních podniků, abychom využili bohatství Pyrenejského poloostrova a snížili závislost na zahraničních dodavatelích."
  SPA_settle_the_succession_question: "Vyřešit otázku nástupnictví"
- SPA_settle_the_succession_question_desc: "Karlistická věc je rozdělena do táborů podporujících různé nároky na trůn. Alfonso Carlos, karlistický dědic, zemřel koncem roku 1936 bez potomků, ale ještě předtím určil jako svého dědice Xaviera z Bourbon-Parmy. Někteří však naopak podporují nárok starého sesazeného konstitučního krále Alfonse XIII."
+ SPA_settle_the_succession_question_desc: "Karlistická záležitost je rozdělena mezi tábory, které podporují různé nároky na trůn. Alfonso Carlos, karlistický dědic, zemřel bez potomků koncem roku 1936, ale stihl jmenovat Xavier of Bourbon-Parma svým dědicem. Nicméně někteří místo toho podporují nárok starého v exilu žijícího ústavního krále Alfonse XIII." # todo: CHANGED
  SPA_dios_patria_rey: "Dios, Patria y Rey!"
  SPA_dios_patria_rey_desc: "Karlistické heslo se nese dějinami a ztělesňuje naše přesvědčení. Připomíná, že každý z nás hraje jen malou roli v obraně katolicismu, našich společenství a španělského národa jako celku a v uznání nejvyšší svrchovanosti našeho krále. Bůh, Vlast a Král!"
  SPA_restore_the_empire: "Obnovit impérium"
@@ -328,7 +328,7 @@
  SPA_found_the_academia_vazquez_de_mella: "Založit akademii Vázquez de Mella"
  SPA_found_the_academia_vazquez_de_mella_desc: "Musíme založit významné centrum tradicionalistického myšlení, které poslouží i karlistickým teoretikům k novým myšlenkovým pokrokům a přinese užitek nové španělské monarchii."
  SPA_a_fleet_worthy_of_a_king: "Loďstvo hodné krále"
- SPA_a_fleet_worthy_of_a_king_desc: "Má-li panovník prosazovat svou vůli napříč oceány, musíme námořnictvo výrazně rozšířit. Nová námořní infrastruktura bude vybudována bez prodlení."
+ SPA_a_fleet_worthy_of_a_king_desc: "Naše námořnictvo musí být výrazně rozšířeno, pokud má monarcha prosadit svou vůli na oceánech. Nová námořní infrastruktura bude neprodleně vybudována." # todo: CHANGED
  SPA_rebuild_the_battlefleet: "Obnovit hlavní loďstvo"
  SPA_rebuild_the_battlefleet_desc: "Po čtyři desetiletí od španělsko-americké války bylo naše námořnictvo malátné a bojácné. Zařazení nových hlavních lodí schopných postavit se jakémukoli nepříteli vdechne flotě nový život a umožní nám soupeřit na moři se sousedy."
  SPA_imperial_security: "Bezpečnost impéria"
@@ -512,7 +512,7 @@
  SPR_beacon_of_socialism: "Maják socialismu"
  SPR_beacon_of_socialism_desc: "Naše země je zářícím majákem socialismu, který přitahuje stejně smýšlející vědce toužící sloužit dělnické věci."
  SPR_increase_arms_production: "Zvýšit výrobu zbraní"
- SPR_increase_arms_production_desc: "Aby naše armáda mohla hájit ideály komunismu, potřebuje výzbroj. Průmyslovou kapacitu naší velké země musíme zvýšit, abychom ji dokázali zajistit."
+ SPR_increase_arms_production_desc: "Abychom bránili ideály komunismu, naše armáda potřebuje zbraně. Průmyslová kapacita naší velké země musí být zlepšena, abychom tyto zbraně mohli zajistit." # todo: CHANGED
  SPR_exploit_spains_riches: "Využít bohatství Španělska"
  SPR_exploit_spains_riches_desc: "Pyrenejský poloostrov je bohatý na přírodní zdroje. Jejich využití výrazně posílí náš válečný průmysl a zároveň vytvoří bohatství pro obnovu země."
  SPR_unify_the_london_bureau: "Sjednotit Londýnské byro"
@@ -797,8 +797,8 @@
  FRA_stimulate_the_dynamic_market_desc: "Dynamický trh je nejefektivnější formou organizace ekonomiky. Pořád jej však řídí lidé - a ti občas potřebují ujištění, že jejich dřina nepřijde vniveč. Zrušením některých omezení a poskytnutím garancí pomůžeme investorům překonat obavy a nastartovat hospodářství."
  FRA_agricultural_protectionism_desc: "Světová ekonomika je k našim tradičním způsobům produkce stále nepřátelštější. Neochráníme-li farmáře, brzy nás čeká krize nebývalých rozměrů: malé statky neobstojí proti masově vyráběným potravinám z ciziny."
  FRA_economic_devolution: "Ekonomická decentralizace"
- FRA_economic_devolution_desc: "Je absurdní myslet si, že nějaký úředník v Paříži ví lépe, co je nejlepší pro firmu v Bordeaux. Musíme důvěřovat našim podnikatelům a dát jim pravomoci hledat vlastní řešení."
- FRA_promote_entrepeneurship: "Podpořit podnikání"
+ FRA_economic_devolution_desc: "Je absurdní si myslet, že nějaký byrokrat v Paříži ví, co je nejlepší pro společnost v Bordeaux. Musíme důvěřovat našim podnikatelům a zmocnit je, aby vytvořili vlastní řešení." # todo: CHANGED
+ FRA_promote_entrepeneurship: "Podporovat podnikání" # todo: CHANGED
  FRA_promote_entrepeneurship_desc: "Tepajícím srdcem dynamického trhu je jednotlivec, který spatří příležitost a rychle ji využije. V posledních letech byl tento duch udusen zbytečnými regulacemi. Měli bychom je omezit."
  FRA_utilize_the_leagues: "Využít ligy"
  FRA_utilize_the_leagues_desc: "Je smutným faktem, že se politické násilí ve Francii stalo všední záležitostí. Má-li země přežít hrozbu komunistické revoluce, nesmíme se zdráhat přijmout pomoc těch, kdo jsou připraveni se komunistickým rváčům postavit i v ulicích."
@@ -826,7 +826,7 @@
  FRA_invite_portugal: "Pozvat Portugalsko"
  FRA_invite_portugal_desc: "Ač se její koloniální říše scvrkla, plamen objevování a dobývání v srdci každého Portugalce stále plane."
  FRA_compensate_italy: "Odškodnit Itálii"
- FRA_compensate_italy_desc: "V minulosti nás do sporů zatáhly kousky bezcenné pouště. Takové nesmysly lze snadno ukončit a rychle najít oboustranně přijatelné řešení."
+ FRA_compensate_italy_desc: "V minulosti nás spory o malé úseky pouště zatáhly do konfliktu. Takové nesmysly lze snadno zastavit a rychle najít vzájemně přijatelný výsledek." # todo: CHANGED
  FRA_intervention_in_greece: "Intervence v Řecku"
  FRA_intervention_in_greece_desc: "Řecko ovládá některá z nejcennějších území ve Středomoří. Nemůžeme připustit, aby je držela nepřátelská vláda - musíme jednat dřív."
  FRA_the_congress_of_paris: "Pařížský kongres"
@@ -1007,7 +1007,7 @@
  FRA_surface_combat: "Hladinový boj"
  FRA_surface_combat_desc: "S pokroky v dělostřelbě je takřka nemožné postavit loď, která by přežila dlouhý souboj s jinou hlavní lodí. Je mnohem lepší mít flotilu moderních torpédoborců a torpédových člunů, které nepřítele přetíží hromadnými salvami torpéd."
  FRA_prioritize_the_joffre_tt: "Přidá moderní §Yletadlovou loď§! rozestavěnou na 40 % do stavební fronty."
- POR_infrastructure_in_angola_tt: "Přidá §Y2 námořní základny§! v provincii Namibe v Angole.\n Přidá §Y3 námořní základny§! v provincii Luanda v Angole.\n"
+ POR_infrastructure_in_angola_tt: "Přidejte §Y2 námořní základnu§! v provincii Cabinda v Angole.\n   Přidejte §Y3 námořní základnu§! v provincii Luanda v Angole.\n" # todo: CHANGED
  FRA_SNCAN_formed: "Založena SNCAN"
  FRA_SNCAO_formed: "Založena SNCAO"
  FRA_SNCASE_formed: "Založena SNCASE"
@@ -1091,7 +1091,7 @@
  POR_carrier_effort: "Rozvoj letadlových lodí"
  POR_carrier_effort_desc: "S rostoucí hrozbou moderního letectva jsou letadlové lodě stále důležitější v boji o nadvládu na moři."
  POR_atlantic_defense_strategy: "Atlantická obranná strategie"
- POR_atlantic_defense_strategy_desc: "Naše ostrovy, izolované uprostřed oceánu, lze snadno dobývat jeden po druhém. S odpovídajícími investicemi z nich však můžeme udělat nepotopitelné letadlové lodě!"
+ POR_atlantic_defense_strategy_desc: "Naše ostrovy, izolované uprostřed oceánu, mohou být snadno dobyty jeden po druhém. S vhodnými investicemi je však lze proměnit v nepotopitelné letadlové lodě!" # todo: CHANGED
  POR_endless_sea_desc: "Naše enklávy v Asii jsou vystaveny nepřátelství okolních říší. Musíme se zaměřit na posílení jejich obrany, aby odolaly jakékoli možné invazi."
  POR_popular_front: "Lidová fronta"
  POR_popular_front_desc: "Španělská Lidová fronta ukazuje cestu. Musíme sjednotit komunisty, socialisty a anarchisty v široké frontě, která povede odpor proti fašismu a světovou revoluci."
@@ -1284,3 +1284,11 @@
  FRA_carry_the_revolution_west_tt: "Udělí §YSvrhnout vládu§! jako válečný cíl proti §YŠpanělsku§! nebo jakýmkoli přeživším nekomunistickým frakcím španělské občanské války."
  nationalist_victory: "Nacionalistické Španělsko vyhrálo španělskou občanskou válku"
  republican_victory: "Republikánské Španělsko vyhrálo španělskou občanskou válku"
+ POR_restart_investment_into_timor: "Obnovit investice do Timoru" # todo: NEW TRANSLATION
+ POR_restart_investment_into_timor_desc: "Timor byl během Velké hospodářské krize považován za ekonomickou zátěž, a od počátku krize tak od nás dostával jen málo podpory či řízení. S japonskou společností Nan'yō Kōhatsu, která v regionu investuje, je možná čas obnovit i naše vlastní investice tam." # todo: NEW TRANSLATION
+ POR_revert_the_local_autonomy_policies: "Zrušit politiku místní autonomie" # todo: NEW TRANSLATION
+ POR_revert_the_local_autonomy_policies_desc: "Po povstání v Manufahi v roce 1911 se naše koloniální politika vrátila k používání domorodých vládců jako loutkových představitelů, čímž byly opuštěny předchozí pokusy o hlubší integraci regionu. Možná bychom to měli zvrátit a přijmout multikulturnost našeho státu." # todo: NEW TRANSLATION
+ POR_invest_in_sandalwood_and_coffee_production: "Investovat do produkce santalového dřeva a kávy" # todo: NEW TRANSLATION
+ POR_invest_in_sandalwood_and_coffee_production_desc: "Naše hlavní plantážní společnost na Timoru, SAPT, může z dodatečných státních investic výrazně profitovat. Pokud je nyní podpoříme, jejich produkty nám mohou v blízké budoucnosti přinést značné výnosy." # todo: NEW TRANSLATION
+ POR_haven_of_neutrality_macau: "Macau, útočiště neutrality" # todo: NEW TRANSLATION
+ POR_haven_of_neutrality_macau_desc: "S naším současným neutrálním postojem a konfliktem, který zuří po celé Asii, se Macau stalo majákem naděje a stability v těchto bouřlivých časech. Měli bychom investovat do rozšíření této provincie." # todo: NEW TRANSLATION

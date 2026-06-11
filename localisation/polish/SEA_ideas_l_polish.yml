@@ -241,14 +241,14 @@
  JAP_add_the_imperial_way_modifier_tt: "Přidá §Y$JAP_the_imperial_way_dm$§!, což uděluje:\n"
  JAP_regional_development: "Regionální rozvoj"
  JAP_first_strike_principle_dm: "Zásada prvního úderu"
- JAP_first_strike_principle_dm_desc: "Revidovaná Národní obranná politika přijatá roku 1936 stanovila doktrínu, v níž je v případě vojenské krize naším operačním postupem zásada prvního úderu a krátkodobá operace. Příprava vojenské síly v době míru je tak nezbytná pro krátkodobé operace s ohledem na možnost vleklé a totální války. Tuto válku musíme vyhrát rychle, jinak ji nemusíme vyhrát vůbec!"
+ JAP_first_strike_principle_dm_desc: "Revidovaná národní obranná politika přijatá v roce 1936 vytyčila doktrínu, v níž stanovujeme princip prvního úderu a krátkodobých operací jako vojenský modus operandi v krizové situaci. Příprava vojenské síly v době míru je proto nezbytná pro zdůrazněné krátkodobé operace, přičemž bereme v úvahu i možnost vleklé a všeobecné války. Vyhrajeme tuto válku rychle, neboť jinak ji možná nevyhrajeme vůbec!" # todo: CHANGED
  JAP_first_strike_principle_dm_tt: "[GetFirstStrikePrincipleTarget1]\n[GetFirstStrikePrincipleTarget2]\n[GetFirstStrikePrincipleTarget3]"
  GetFirstStrikeString: "První úder proti"
  JAP_first_strike_principle_1: "$GetFirstStrikeString$ [?JAP.JAP_first_strike_principle_target_1.GetNameDef] §Wna [?JAP_first_strike_principle_remaining_days_1:days_left|Y0] dní§!"
  JAP_first_strike_principle_2: "$GetFirstStrikeString$ [?JAP.JAP_first_strike_principle_target_2.GetNameDef] §Wna [?JAP_first_strike_principle_remaining_days_2:days_left|Y0] dní§!"
  JAP_first_strike_principle_3: "$GetFirstStrikeString$ [?JAP.JAP_first_strike_principle_target_3.GetNameDef] §Wna [?JAP_first_strike_principle_remaining_days_3:days_left|Y0] dní§!"
  JAP_kantai_kessen_dm: "Kantai Kessen"
- JAP_kantai_kessen_dm_desc: "Po rozhodující porážce ruského loďstva v bitvě u Cušimy je námořnictvo plně přesvědčeno o doktríně, podle níž lze válku vyhrát jedinou rozhodující námořní bitvou. Jejich současné plány na zopakování podobného vítězství spočívají v přijetí obranného postoje, vyčkání na přiblížení nepřátelského loďstva a jeho zničení prudkou bitvou u japonského hlavního ostrova."
+ JAP_kantai_kessen_dm_desc: "S rozhodující porážkou ruského námořnictva v bitvě u Tsushimy nyní námořnictvo plně věří v doktrínu, podle níž lze válku vyhrát vedením a vítězstvím v jediné rozhodující námořní akci. Jejich současné plány zopakovat takové vítězství zahrnují přijetí obranného postoje a čekání na přiblížení nepřátelské flotily, kterou pak zničí v prudké bitvě u japonského pobřeží." # todo: CHANGED
  JAP_kantai_kessen_dm_tt: "[GetKantaiKessenTarget1]\n[GetKantaiKessenTarget2]\n[GetKantaiKessenTarget3]"
  GetKantaiKessenString: "Rozhodná bitva proti"
  JAP_kantai_kessen_1: "$GetKantaiKessenString$ [?JAP.JAP_kantai_kessen_target_1.GetNameDef] §Wna [?JAP_kantai_kessen_remaining_days_1:days_left|Y0] dní§!"
@@ -634,7 +634,7 @@
  CHI_republican_agitation_tt: "§RPokud podpora §YDemokratů§! přesáhne 40 %, vypukne občanská válka!§!"
  CHI_correcting_a_hisotrical_wrong_idea: "Napravení historické křivdy"
  CHI_liberated_by_democratic_china: "Osvobozena [CHI.GetNameDefCap]"
- CHI_liberated_by_democratic_china_desc: "Naše země konečně získala zaslouženou nezávislost na kolonizátorech. [CHI.GetNameDef] nám pomohla opět získat svobodu. Jejich činy jsou tak přesvědčivé, že komunistické myšlenky, jež hlásají, začínají zapouštět kořeny mezi naším lidem."
+ CHI_liberated_by_democratic_china_desc: "Naše země si konečně vydobyla svou oprávněnou nezávislost od kolonizátorů. S pomocí [CHI.GetNameDef] jsme opět svobodnou zemí. Jelikož jejich činy nám tak jasně pomáhají, začínají se mezi naším lidem uchycovat komunistické myšlenky, které hlásají." # todo: CHANGED
  CHI_declared_war_zone_idea: "Vyhlášená válečná zóna"
  CHI_bog_defensive_modifier: "Koordinovaná obrana"
  CHI_shanghai_international_settlement: "Šanghajská mezinárodní osada"
@@ -657,7 +657,7 @@
  CHI_protracted_warfare_idea_fake_ns: "$CHI_protracted_warfare_idea$"
  CHI_gung_ho_idea_fake_ns: "$CHI_gung_ho_idea$"
  PHI_defense_strategy_dynamic_modifier: "Obranná strategie"
- PHI_defense_strategy_dynamic_modifier_desc: "Jako souostroví jsou Filipíny přirozeně dobře bránitelné. To ale neznamená, že bychom neměli útočníkovi připravit další překážky."
+ PHI_defense_strategy_dynamic_modifier_desc: "Jelikož jde o souostroví, Filipíny jsou přirozeně poměrně dobře bránitelné. To ovšem neznamená, že bychom neměli přidat další překážky, které bude muset každý útočník překonat." # todo: CHANGED
  PHI_defense_strategy_dynamic_modifier_tt: "Obranná strategie"
  PHI_modify_defense_strategy_dynamic_modifier_tt: "Upraví §Y$PHI_defense_strategy_dynamic_modifier_tt$§! o:"
  PHI_add_defense_strategy_dynamic_modifier_tt: "Přidá §Y$PHI_defense_strategy_dynamic_modifier_tt$§!, což uděluje:\n"
@@ -669,7 +669,7 @@
  PHI_ruling_ideology_ideology_drift_tt: "Jakýkoli ideologický drift se bude slaďovat s vládní stranou"
  PHI_ruling_ideology_ideology_drift_tt_2: " Denní drift vládní strany: $RIGHT|+=2$"
  PHI_shaken_economy_dynamic_modifier: "Oslabená ekonomika"
- PHI_shaken_economy_dynamic_modifier_desc: "Dopady Velké hospodářské krize se v naší zemi stále ozývají a ekonomika zůstává otřesená a zranitelná vůči šokům. Ne vše je však špatné — na obzoru jsou nejslabší náznaky zotavení."
+ PHI_shaken_economy_dynamic_modifier_desc: "Důsledky Velké hospodářské krize stále doznívají v celé naší zemi a ekonomika zůstává otřesená a zranitelná vůči dalším šokům. Ne všechno je ale špatné — na obzoru se rýsují první slabé náznaky oživení." # todo: CHANGED
  PHI_replace_depression_dynamic_modifier_tt: "Nahradí §Y$PHI_the_great_depression_dynamic_modifier$§! za §Y$PHI_shaken_economy_dynamic_modifier$§!\nEfektivní změna:"
  PHI_replace_depression_dynamic_modifier_no_modifiers_tt: "Nahradí §Y$PHI_the_great_depression_dynamic_modifier$§! za §Y$PHI_shaken_economy_dynamic_modifier$§!"
  PHI_modify_shaken_economy_dynamic_modifier_tt: "Upraví §Y$PHI_shaken_economy_dynamic_modifier$§! o:"
@@ -682,7 +682,7 @@
  PHI_modify_economic_recovery_dynamic_modifier_tt: "Upraví §Y$PHI_economic_growth_dynamic_modifier$§! o:"
  PHI_replace_economic_dynamic_modifier_tt: "Nahradí §Y$PHI_recovering_economy_dynamic_modifier$§! za §Y$PHI_economic_growth_dynamic_modifier$§!\nEfektivní změna:\nLimit napětí pro vstup do frakce: §G-[?PHI_the_great_depression_join_faction_tension|%0]§!"
  PHI_pearl_of_the_orient_dynamic_modifier: "$PHI_pearl_of_the_orient_seas$"
- PHI_pearl_of_the_orient_dynamic_modifier_desc: "Naše ekonomika doslova vzkvétá. Osvobozeni od koloniální nadvlády můžeme konečně činit vlastní rozhodnutí a ukazovat světu, jaká prosperita je v jihovýchodní Asii možná."
+ PHI_pearl_of_the_orient_dynamic_modifier_desc: "Naše ekonomika absolutně vzkvétá; nyní, osvobozeni od koloniální nadvlády, jsme svobodní činit vlastní rozhodnutí a být důkazem hospodářského blahobytu možného zde v jihovýchodní Asii." # todo: CHANGED
  PHI_remove_economic_recovery_dynamic_modifier_tt: "Nahradí §Y$PHI_economic_growth_dynamic_modifier$§! za §Y$PHI_pearl_of_the_orient_dynamic_modifier$§!\n Efektivní změna:"
  PHI_modify_pearl_of_the_orient_dynamic_modifier_tt: "Upraví §Y$PHI_pearl_of_the_orient_dynamic_modifier$§! o:"
  PHI_philippine_army_dynamic_modifier: "Filipínská armáda"
@@ -693,7 +693,7 @@
  PHI_philippine_army_air_corps_dynamic_modifier_desc: "Přestože je tento druh vojska na Filipínách nový, touha ovládnout oblohu tím nijak neutrpěla."
  PHI_philippine_army_air_corps_dynamic_modifier_tt: "Upraví §Y$PHI_philippine_army_air_corps_dynamic_modifier$§! o:"
  PHI_american_interference_dynamic_modifier: "Americké zasahování"
- PHI_american_interference_dynamic_modifier_desc: "Cizí mocnost má nad naší zemí značný vliv. Pokud se máme skutečně cítit jako nezávislý stát, musíme toto přehnané ovládání prolomit."
+ PHI_american_interference_dynamic_modifier_desc: "Cizí moc má nad naší zemí značný vliv, a pokud si chceme skutečně užívat nezávislosti, musí být tato přehnaná kontrola, kterou nad námi vykonávají, prolomena." # todo: CHANGED
  PHI_american_interference_dynamic_modifier_tt: "Upraví §Y$PHI_american_interference_dynamic_modifier$§! o:"
  PHI_island_nation_dynamic_modifier: "Ostrovní národ"
  PHI_island_nation_dynamic_modifier_desc: "Filipíny jsou národem ostrovů, a naši lidé si tak přirozeně vytvořili silný vztah k moři."
@@ -753,7 +753,7 @@
  PHI_south_seas_development_company: "South Seas Development Company"
  PHI_south_seas_development_company_tt: "§Y$PHI_south_seas_development_company$§!, což uděluje:\nRychlost průmyslového výzkumu: §G+20%§!\nPodíl továren na spotřební zboží: §Y-5.0%§!"
  PHI_manila_railroad_company: "Manila Railroad Company"
- PHI_philippine_long_distance_telephone_company: "Philippine Long Distance Telephone Company"
+ PHI_philippine_long_distance_telephone_company: "Filipínská dálková telefonní společnost" # todo: CHANGED
  PHI_benguet_corporation: "Benguet Corporation"
  PHI_benguet_corporation_improved_tt: "Účinky koncernu §Y$PHI_benguet_corporation$§! jsou zlepšeny"
  PHI_marsman_and_company: "Marsman and Company"

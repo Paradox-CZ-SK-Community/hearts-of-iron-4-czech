@@ -127,7 +127,7 @@
  FIN_german_military_advisors: "Němečtí vojenští poradci"
  FIN_german_military_advisors_desc: "Vedení války se rychle mění díky motorizaci a letectvu. Možná nastal čas poučit se od našich [GER.GetAdjective] bratří ve zbrani, jak tyto nové prostředky co nejlépe využít."
  FIN_finnish_march_of_conquest: "Finský dobyvačný pochod"
- FIN_finnish_march_of_conquest_desc: "Příliš dlouho byli [SOU.GetNameDef] a jeho předchůdci těma, kdo útočil a my jsme se jen bránili. Nyní je čas zvrátit tok událostí a posunout hranice opačným směrem - osvobodit lid Karélie z [SOU.GetAdjective] útlaku, jakýmikoli prostředky."
+ FIN_finnish_march_of_conquest_desc: "Příliš dlouho jsme byli na obranné proti [SOU.GetNameDef] a jeho předchůdcům. Nyní je čas zvrátit situaci a zatlačit hranice zpět, osvobodit obyvatele Karélie od [SOU.GetAdjective] útlaku, za každou cenu." # todo: CHANGED
  FIN_joint_scientific_program: "Společný vědecký program"
  FIN_joint_scientific_program_desc: "Technologická převaha může rozhodnout o tom, zda národ vyjde z konfliktu vítězně. Sdílením vědomostí se spojenci zajistíme, že technologická výhoda bude na naší straně."
  FIN_modernize_the_industry: "Modernizovat průmysl"
@@ -213,7 +213,7 @@
  FIN_suomen_akatemia: "Suomen Akatemia"
  FIN_suomen_akatemia_desc: "Několik [ROOT.GetAdjective] intelektuálů vedených proslulým matematikem Leem Sariem prosazuje založení instituce Suomen Akatemia, která se stane přední národní akademickou institucí, bude pohánět vědecké inovace a pomůže umístit [ROOT.GetName] do čela technologického rozvoje."
  FIN_janiskoski_power_plant: "Elektrárna Jäniskoski"
- FIN_janiskoski_power_plant_desc: "Vybudujeme elektrárnu v Jäniskoski, aby poskytovala spolehlivou dodávku energii pro elektrickou huť niklového dolu Kolosjoki a poháněla růst v [722.GetName], což následně podnítí hospodářský rozvoj [ROOT.GetAdjective] severu."
+ FIN_janiskoski_power_plant_desc: "Postavíme elektrárnu v Jäniskoski, aby zajistila spolehlivou energii pro elektrickou tavírnu niklového dolu Kolosjoki a poháněla růst oblasti [722.GetName], což zase podnítí hospodářský rozvoj severního [ROOT.GetName]." # todo: CHANGED
  FIN_found_pohjolan_voima: "Založit Pohjolan Voima"
  FIN_found_pohjolan_voima_desc: "S nedávnou expanzí lesního i těžkého průmyslu roste potřeba energie. [ROOT.GetName] musí centralizovat výrobu elektřiny a využít obrovský potenciál vodní energie, aby poháněla jeho průmyslový růst."
  FIN_expand_imatra_hydropower_plant: "Rozšířit vodní elektrárnu Imatra"
@@ -408,7 +408,7 @@
  FIN_bring_foreign_armor_experts_variants_tt: "[GER.GetFlag]§Y[GER.GetNameDefCap]§! nám pošle §Y100§! starých lehkých tanků, pokud je v naší frakci. \n[ITA.GetFlag]§Y[ITA.GetNameDefCap]§!, [JAP.GetFlag]§Y[JAP.GetNameDefCap]§!, [SWE.GetFlag]§Y[SWE.GetNameDefCap]§!, [FRA.GetFlag]§Y[FRA.GetNameDefCap]§!, [ENG.GetFlag]§Y[ENG.GetNameDefCap]§!, [USA.GetFlag]§Y[USA.GetNameDefCap]§! a [SOV.GetFlag]§Y[SOV.GetNameDefCap]§! nám pošlou §Y50§! starých lehkých tanků, pokud jsou v naší frakci."
  FIN_finnish_supremacy_in_the_north_invite_to_faction_tt: "Každá nezávislá fašistická severská nebo pobaltská země získá událost §Y„[ROOT.GetNameDef] nás zve do frakce $FIN_finnish_supremacy_league$“§!."
  generic_current_targets: "Současné cíle: "
- FIN_finnish_supremacy_in_the_north_influence_tt: "\n\nOvlivňuje všechny nezávislé severské nebo pobaltské země, které nejsou pod fašistickým režimem."
+ FIN_finnish_supremacy_in_the_north_influence_tt: "\n\nOvlivňuje každou nezávislou severskou nebo pobaltskou zemi, která není pod fašistickým režimem." # todo: CHANGED
  FIN_finnish_supremacy_in_the_north_unlock_decisions_tt: "Odemkne rozhodnutí §YNátlak na vládu§! a §YPropagovat ideologické mítingy§! v severských a pobaltských zemích."
  FIN_finnish_supremacy_in_the_north_unlock_decisions_country_specific_tt: "Odemkne rozhodnutí §YNátlak na vládu§! a §YPropagovat ideologické mítingy§! v dané zemi."
  FIN_modify_fascist_regime_ns_intro: "Upraví §Y$FIN_fascist_regime$§! o"
@@ -676,7 +676,7 @@
  SWE_centralized_military_aid_desc: "Musíme zlepšit naše i schopnosti členských států. Investice do výroby zbraní poskytne našim armádám nástroje k obraně hranic."
  SWE_centralized_military_aid_tt: "Každý §Yčlen Severské obranné rady§! získá:\n   Přidat §G1§! stavební slot\n   Přidat §G1§! §Yvojenskou továrnu§!"
  SWE_merge_army_complexes: "Sloučit armádní komplexy"
- SWE_merge_army_complexes_desc: "Efektivnější bude zbrojní komplexy centralizovat. Ponechání v členských zemích nese riziko jejich ztráty při invazi."
+ SWE_merge_army_complexes_desc: "Bude efektivnější centralizovat naše vojenské komplexy. Nechat je v členských státech s sebou nese riziko jejich ztráty v případě invaze." # todo: CHANGED
  SWE_merge_army_complexes_tt: "Každý §Yčlen Severské obranné rady§!: §R-1§! §Yvojenská továrna§!\n(§Y[SWE.GetName]§!) §G+1§! §Yvojenská továrna§! za každého §Yčlena Severské obranné rady§!"
  SWE_nordic_centralized_air_command: "Severské centralizované letecké velení"
  SWE_nordic_research_exchange: "Severská výměna výzkumu"
@@ -746,7 +746,7 @@
  SWE_per_albin_line_desc: "[SWE.GetName] má rozsáhlé pobřeží, které je z velké části nechráněné. Abychom zabránili nepříteli vylodit invazní síly na našich březích, musíme vybudovat linii opevněných postavení po celé pobřeží, která je odrazí zpět do Baltu."
  SWE_swedish_shooting_movement: "Švédské střelecké hnutí"
  SWE_swedish_shooting_movement_desc: "Už téměř století organizuje [SWE.GetAdjective] střelecké hnutí střelnice a soutěže, aby zvýšilo střeleckou zdatnost civilního obyvatelstva a jeho vůli bojovat, bude-li to nutné. Vzhledem k dnešní bouřlivé situaci bychom do této organizace měli investovat."
- SWE_swedish_shooting_movement_tt: "Personál: §G+400§! za každou úroveň Hemvärnet\n§Y+100§! jednotek $SWE_infantry_equipment_0$ je přidáno do národních zásob za každou úroveň Hemvärnet\nZvyšuje počáteční zkušenost nasazovaných divizí Hemvärn z §Y10 %§! na §Y30 %§!\nZvyšuje počáteční vybavenost nasazovaných divizí Hemvärn z §Y60 %§! na §Y90 %§!\nZvyšuje počáteční faktor personálu nasazovaných divizí Hemvärn ze §Y70 %§! na §Y90 %§!"
+ SWE_swedish_shooting_movement_tt: "Personál: §G+400§! za každou úroveň Hemvärnetu\n§Y+100§! jednotek $SWE_infantry_equipment_0$ je přidáno do národních zásob za každou úroveň Hemvärnetu\nZvyšuje počáteční zkušenost nasazených Hemvärn divizí na §Y30%§! z §Y10%§!\nZvyšuje počáteční faktor vybavení nasazených Hemvärn divizí na §Y90%§! z §Y60%§!\nZvyšuje počáteční faktor personálu nasazených Hemvärn divizí na §Y90%§! z §Y70%§!" # todo: CHANGED
  SWE_mobilization_of_society: "Mobilizace společnosti"
  SWE_mobilization_of_society_desc: "Od dělníka v továrně po člena kabinetu musí být každý ochoten obětovat se pro obranu země. Ať už to znamená přeorientovat zdroje na válečnou výrobu, nebo sáhnout po zbrani - uděláme cokoli, aby [SWE.GetName] přežilo."
  SWE_end_the_fubkrieg: "Moderní taktika, moderní válka"
@@ -848,12 +848,12 @@
  SWE_sieze_landsverk: "Zabavit Landsverk"
  SWE_sieze_landsverk_desc: "Landsverk dlouho fungoval jako skulina, jíž [GER.GetAdjective] armáda obcházela omezení versailleské smlouvy při vývoji obrněných vozidel. Někteří ve vládě prosazují, abychom firmu zabavili a distancovali se tak od [GER.GetAdjective] válečného stroje."
  SWE_saltsjobaden_agreement: "Přijmout dohodu ze Saltsjöbadenu"
- SWE_saltsjobaden_agreement_desc: "Spory mezi dělníky a zaměstnavateli se vymykají kontrole a mohou srazit národ na kolena. Chceme-li obstát proti hrozbám na hranicích, musíme být jednotní - a tedy zavést dohodu, jež minimalizuje narušení pracovních vztahů."
+ SWE_saltsjobaden_agreement_desc: "Neshody mezi dělníky a zaměstnavateli vymykají kontrole a hrozí, že srazí národ na kolena. Musíme být jednotní, pokud chceme překonat hrozby na našich hranicích. Proto musíme zavést dohodu, která minimalizuje narušení způsobené pracovněprávními spory." # todo: CHANGED
  SWE_reject_saltsjobaden: "Odmítnout dohodu ze Saltsjöbadenu"
  SWE_reject_saltsjobaden_desc: "Tuto dohodu musíme odmítnout - oklešťuje práva zaměstnavatelů řídit své podniky a zároveň omezuje sílu dělníků stáhnout práci v případě křivdy. Nikdo z takového uspořádání neprofituje."
  SWE_ring_a_ding_ding: "Militärcykel"
  SWE_ring_a_ding_ding_desc: "Jízdní kola nepůsobí tak impozantně jako obrněné vozy či tanky, ale nabízejí vyšší mobilitu za zlomek ceny."
- SWE_aquire_modern_panzers: "Získat moderní Panzer"
+ SWE_aquire_modern_panzers: "Získat moderní panzery" # todo: CHANGED
  SWE_aquire_modern_panzers_desc: "Technologická stagnace už nejednou položila na kolena i zdánlivě nejsilnější státy. Získání moderní obrněné techniky je proto prioritou, chceme-li se podobnému osudu vyhnout."
  SWE_military_academy: "Vojenská akademie"
  SWE_military_academy_desc: "Jednotlivé složky armády v posledních letech nasbíraly spoustu zkušeností. Zřízením sítě vojenských akademií zajistíme, že se toto know-how předá dalším generacím."
@@ -896,7 +896,7 @@
  NOR_squash_dissent: "Potlačit odpor"
  NOR_squash_dissent_desc: "Nesmíme dopustit, aby plody naší námahy ukradla verbež. Je nezbytné jednou provždy vyhledat a vymazat nesouhlas. Koneckonců každý, kdo pochybuje o naší vládě, je naším nepřítelem."
  NOR_denounce_the_german_reich: "Odsoudit [GetNorwegianThreateningFascist]"
- NOR_denounce_the_german_reich_desc: "Nesmíme dovolit, aby [GetNorwegianThreateningFascist] pošlapal lidi tohoto světa. Musíme dát všem najevo, za čím stojíme, aby se k nám připojili v boji proti fašismu."
+ NOR_denounce_the_german_reich_desc: "Nemůžeme nechat [GetNorwegianThreateningFascist], aby pošlapával lidstvo. Musíme dát všem na světě najevo, za čím stojíme, aby se přidali na naši stranu proti fašismu." # todo: CHANGED
  NOR_moscows_education_centers: "Komunistická vzdělávací centra"
  NOR_moscows_education_centers_desc: "Léta učila Kominterna soudruhy z celé Skandinávie dovednostem potřebným k vedení revoluce v ilegalitě. Nyní je můžeme hostit na světle a učit, jak revoluci udržovat nepřetržitě."
  NOR_workers_and_farmers_rise: "Dělníci a rolníci, povstaňte"
@@ -918,7 +918,7 @@
  NOR_norwegian_engineering: "Norské inženýrství"
  NOR_norwegian_engineering_desc: "Chceme-li skutečně trvalou revoluci, musíme se odříznout od válečných prostředků vyrobených vykořisťovanými bratry a sestrami. Potřebujeme vlastní konstrukce a vlastní výrobu vybavení, má-li být tato revoluce skutečně naše."
  NOR_reawaken_the_permanent_revolution: "Znovu probudit permanentní revoluci"
- NOR_reawaken_the_permanent_revolution_desc: "Trockij nás učil, že revoluce neskončí - a nesmí skončit - dokud proletariát nesedí za volantem dějin. Pozvedněme proletariát Skandinávie a dál!"
+ NOR_reawaken_the_permanent_revolution_desc: "Trotskij nás naučil, že revoluce nepřestane, a skutečně revoluce nemůže přestat, dokud proletariát nebude za volantem dějin. Povznesme proletariát Skandinávie a dále!" # todo: CHANGED
  NOR_crush_stalin: "[GetCrushStalinName]"
  NOR_crush_stalin_desc: "Již léta Josif Stalin překrucuje slova Marxe a Lenina pro svůj prospěch, falešně odsuzuje své odpůrce ve vykonstruovaných procesech a obětuje nespočet životů ve jménu svého ega. Musíme jej zastavit dřív, než zničí budoucnost proletariátu."
  NOR_crush_stalin_canonical: "Rozdrtit Stalina"
@@ -949,7 +949,7 @@
  NOR_expanded_conscription_drive: "Rozšířit odvodovou kampaň"
  NOR_expanded_conscription_drive_desc: "Dokud boj neskončí, budeme potřebovat nové vojáky, kteří naplní bojiště, jež přetvoří dějiny podle našich ideálů. Každý muž i žena schopní boje se musí připojit do našich řad - jinak hrozí, že bude naše vlast přemožena."
  NOR_invite_soviet_designers: "Pozvat sovětské konstruktéry"
- NOR_invite_soviet_designers_desc: "Technické znalosti, které mají naši komunističtí spojenci, jsou o desetiletí před námi. Pokud nám půjčí své odborníky, můžeme naše nepřátele technologicky přeskočit a předejít zbytečnému krveprolití díky lepším zbraním a vozidlům."
+ NOR_invite_soviet_designers_desc: "Technické know-how, které naši komunističtí spojenci mají, je o desetiletí napřed před naším. Pokud nám půjčí své odborné znalosti, můžeme přeskočit naše nepřátele a vyhnout se zbytečnému krveprolití díky nadřazeným zbraním a vozidlům." # todo: CHANGED
  NOR_vote_of_no_confidence: "Hlasování o nedůvěre"
  NOR_vote_of_no_confidence_desc: "Můžeme věřit Nygaardsvoldovi a jeho dělnické straně, že udrží bolševiky i nacisty na uzdě? Jeho odzbrojování působí spíš jako řecký trik s otevřenými branami Tróje než jako čin premiéra připraveného bránit svou zemi před komunismem. Nesmíme dopustit, aby naši mladou zemi získal do svých rukou [SOU.GetNameDef]."
  NOR_liberal_conservative_alliance: "Liberálně-konzervativní aliance"
@@ -1017,7 +1017,7 @@
  NOR_the_kings_no: "Královo ne"
  NOR_the_kings_no_desc: "Náš král, Haakon VII., odmítl žádost nepřítele o podrobení. [NOR.GetName] není jen země, ale lid - a [NOR.GetAdjective] lid bude dál bojovat, i když všechna jejich země padne."
  NOR_prince_olavs_inspiration: "Inspirace prince Olava"
- NOR_prince_olavs_inspiration_desc: "Navzdory naší současné situaci má [NOR.GetAdjective] lid stále víru ve svého prince. Ačkoli se sám neúčastní bojů, jeho podpora z exilu je neocenitelná pro legitimitu naší vlády."
+ NOR_prince_olavs_inspiration_desc: "Navzdory naší současné situaci mají [NOR.GetAdjective] lidé stále víru ve svého prince. Ač se nepřipojí k boji, jeho podpora v exilu je neocenitelná pro legitimitu naší vlády." # todo: CHANGED
  NOR_establish_milorg: "Založit Milorg"
  NOR_establish_milorg_desc: "[NOR.GetAdjectiveCap] odboj proti okupaci zůstává silný, ale postrádá organizaci a disciplínu. Dobře koordinovaný vojenský odboj, řízený z exilu, by mohl položit základy návratu naší vlády na [NOR.GetAdjective] půdu."
  NOR_approach_the_coordinating_committee: "Navázat kontakt s Koordinačním výborem"
@@ -1054,7 +1054,7 @@
  NOR_empower_hirden: "Posílit Hirden"
  NOR_empower_hirden_desc: "Naše vlastní polovojenská organizace Hirden je páteří plánů Nasjonal Samling pro [NOR.GetAdjective] budoucnost. Soustředit se na ni bude zásadní pro uchopení vlády a případný boj."
  NOR_quislings_coup: "Quislingův převrat"
- NOR_quislings_coup_desc: "Podmínky jsou zralé pro nevyhnutelný vzestup Nasjonal Samling k moci. Pod pevným vedením svého Føreru Vidkuna Quislinga je to první krok k úplné kontrole [NOR.GetAdjective] území a k našemu budoucímu rozšíření po celé Skandinávii."
+ NOR_quislings_coup_desc: "Podmínky dozrály k nevyhnutelnému nástupu Nasjonal Samling k moci. Správně vedená jejím Førerem Vidkunem Quislingem je to první krok k úplné kontrole [NOR.GetAdjective] území a našemu následnému rozšíření po celé Skandinávii." # todo: CHANGED
  NOR_required_prep_fascist_TT: "§YCelková podpora fašistického převratu§! je vyšší než $RIGHT|0Y$ (Současná podpora: $LEFT|0Y$)"
  NOR_quislings_regime: "Quislingův režim"
  NOR_quislings_regime_desc: "Stabilita a genialita Førera Nasjonal Samling je zjevná. Ačkoli jej mnozí odmítají politicky i osobně, dokonce i ve vlastním kabinetu, nelze popřít, že jeho umíněnost a sebejistota přinesly výsledky. Je nepochybně schopen udržet fungující režim - jak dlouho? To teprve uvidíme."
@@ -1067,7 +1067,7 @@
  NOR_extensive_recruitment: "Rozšířené odvody"
  NOR_extensive_recruitment_desc: "Chceme-li rozšířit své impérium, musíme pročesat [NOR.GetAdjective] země a hledat vojáky se duchem svých norských předků. Rybaření a farmaření jsou druhořadé vedle rozmachu našeho impéria - každý schopný muž má být připraven chopit se zbraně."
  NOR_the_weapons_of_conquest: "Dobyvačné zbraně"
- NOR_the_weapons_of_conquest_desc: "K dobývání nepřátel je zapotřebí víc než jen mužů a vůle bojovat. Mnozí padnou, ale výroba nástrojů, jež zvýší jejich šance, znamená, že můžeme hranice posouvat ještě dál."
+ NOR_the_weapons_of_conquest_desc: "Dobytí našich nepřátel vyžaduje víc než jen muže a vůli bojovat. Mnozí zemřou, ale výroba nástrojů, které zlepší jejich šance, nám umožní rozšířit hranice ještě dál." # todo: CHANGED
  NOR_lynrytter: "Lynrytter"
  NOR_lynrytter_desc: "Když se Blitzkrieg ukázal být nadřazenou strategií, musíme jej přijmout a přejet tanky nepřátelské linie. Sám Ódin bude stát po našem boku, až naše obrněnce přinesou pro [NOR.GetNameDef] rychlé vítězství."
  NOR_ulfhedhnar_wolf_coats: "Ulfheðnar"
@@ -1085,7 +1085,7 @@
  NOR_fascist_military_collaboration: "Fašistická vojenská spolupráce"
  NOR_fascist_military_collaboration_desc: "Fašisté ze zahraničí nám pomohli dosáhnout našeho dnešního režimu a naštěstí jsme nyní v pozici navázat užší vojenskou spolupráci - téměř jako rovný s rovným."
  NOR_frontkjempere: "Frontkjempere"
- NOR_frontkjempere_desc: "Mnoho [NOR.GetAdjective] občanů touží po frontě, aby pomohli našim osvoboditelům dobývat v cizině. Mnozí padnou, ale to je cena za účast v celosvětovém nacionalistickém hnutí. Kdo ví, třeba si [NOR.GetName] vydobude tolik přízně, že dostane důvěru spravovat vlastní okupaci."
+ NOR_frontkjempere_desc: "Mnoho [NOR.GetAdjective] touží po frontách, aby pomohli našim osvoboditelům dobývat v cizině. Mnozí zemřou, ale to je jen cena, kterou platíme za to, že jsme součástí globálního nacionalistického hnutí. Kdo ví, možná si [NOR.GetName] natolik získá přízeň, že jí bude svěřeno řízení vlastní okupace." # todo: CHANGED
  NOR_fascist_industrial_investments: "Fašistické průmyslové investice"
  NOR_fascist_industrial_investments_desc: "Naši fašističtí přátelé mají know-how i kapitál potřebný pro moderní průmysl, který země potřebuje, aby obstála ve světe. Můžeme to využít a stát se ještě užitečnějším spojencem."
  NOR_norwegian_reichsprotectorate: "Norský říšský protektorát"
@@ -1113,9 +1113,9 @@
  NOR_send_the_storting_home: "Poslat Storting domů"
  NOR_send_the_storting_home_desc: "Náš národní parlament už dávno vydechl naposledy. Udržovat jej při životě jen prodlužuje jeho utrpení - a upřímně i naše. Nechť se politici vrátí domů ke svým rodinám; královi muži převezmou správu věcí do svých rukou."
  NOR_assure_the_population: "Uklidnit obyvatelstvo"
- NOR_assure_the_population_desc: "Může se zdát, že [ROOT.GetName] se řítí do záhuby, ale královský kancléř jménem krále Haakona VII. chce lid ujistit, že monarchie povede zemi pevnou rukou zpět ke stabilitě."
+ NOR_assure_the_population_desc: "Může se zdát, že [ROOT.GetName] se řítí k záhubě, ale královský kancléř, jménem krále Haakona VII., chce, aby obyvatelstvo vědělo, že monarchie udrží pevnou ruku, která přivede zemi zpět ke stabilitě." # todo: CHANGED
  NOR_demand_king_haakons_rise_to_power: "Požadovat nástup krále Haakona k moci"
- NOR_demand_king_haakons_rise_to_power_desc: "Díky ohnivému projevu barona Wedel-Jarlsberga volá [NOR.GetAdjective] lid po silné monarchii, která převezme vládu nad zemí. Jediný problém je, že sám král Haakon VII. neustále zdůrazňuje, že země má být spravována zástupci lidu. Zdá se, že král potřebuje trochu přesvědčit."
+ NOR_demand_king_haakons_rise_to_power_desc: "Díky vášnivému projevu barona Wedel-Jarlsberga volají lidé [NOR.GetName] po silně vládnoucí monarchii, která převezme otěže vlády. Jediný problém je, že sám král Haakon VII. neustále zdůrazňuje, že zemi by měli spravovat zástupci jejího lidu. Zdá se, že král potřebuje přesvědčit." # todo: CHANGED
  NOR_the_crowns_executive_powers: "Výkonné pravomoci koruny"
  NOR_the_crowns_executive_powers_desc: "Protože král dál odmítá výzvy, aby uchopil absolutní moc, nezbývá než mu výkonné pravomoci udělit. Až se probudí ze svého politického spánku, bude mít všechny nástroje, aby dovedl [ROOT.GetNonIdeologyName] ke slávě!"
  NOR_a_warden_king: "Král strážce"
@@ -1133,7 +1133,7 @@
  NOR_invite_cadillac_to_norway: "Pozvat Cadillac do Norska"
  NOR_invite_cadillac_to_norway_desc: "Před lety obdržel náš drahý princ Olav, tehdy ještě veselý chlapec, miniaturní Cadillac. Jistě ocení, když [NOR.GetNameDef] pozve samotný Cadillac, aby nám pomohl vyvíjet a vyrábět vozidla, která ponesou náš prapor přes těla našich nepřátel. Snad mu to připomene radostné chvíle dětství."
  NOR_enhance_coastal_defense: "Posílit pobřežní obranu"
- NOR_enhance_coastal_defense_desc: "Rozsáhlost našich pobřeží je darem i kletbou. Na jedné straně umožňuje našim mužům žít z moře, na druhé však skýtá nepříteli nesmírně širokou bránu k invazi."
+ NOR_enhance_coastal_defense_desc: "Rozsáhlost našich pobřeží je dvousečná zbraň. Na jedné straně umožňuje našim mužům prosperovat na moři, na druhé straně poskytuje nepříteli rozsáhlý vchod pro námořní invazi." # todo: CHANGED
  NOR_rule_the_northern_sea: "Vládnout Severnímu moři"
  NOR_rule_the_northern_sea_desc: "Nechť se naše království rozšíří do Severního moře! Naše lodě budou paží, která prodlouží naši moc až za horizont. K tomu však potřebujeme námořní základny, jež zajistí naši převahu, a výcvik i techniky, které nám dovolí plout dál."
  NOR_ramp_up_naval_production: "Zvýšit lodní výrobu"
@@ -1169,7 +1169,7 @@
  NOR_iceland_desc_PAWJ: "Po rozpadu Kalmarské unie nám byl Island nespravedlivě odebrán. Ačkoli od té doby uplynula staletí, nezapomněli jsme. Náš komoří, náš král a náš princ nebudou spát, dokud nebude tato křivda napravena a Island znovu součástí Norského království."
  NOR_iceland_desc_ALT: "Po rozpadu Kalmarské unie nám byl Island nespravedlivě odebrán. Ačkoli od té doby uplynula staletí, nezapomněli jsme. Naše královna, náš princ a lid, jemuž vládnou, nebudou spát, dokud nebude tato křivda napravena a Island se znovu nestane součástí Norského království."
  NOR_bjarmeland: "Bjarmeland"
- NOR_bjarmeland_desc: "[ROOT.GetAdjectiveCap] mořeplavci po staletí posouvali hranice možného i dosažitelného. Jedním z těchto případů je Bjarmeland - území, které jako první prozkoumali naši předkové, a které nám nyní uniká z rukou. Musíme po něm znovu sáhnout a učinit je naším."
+ NOR_bjarmeland_desc: "[ROOT.GetAdjective] průzkumníci po staletí rozšiřovali hranice možného a dosažitelného. Jedním z takových případů je Bjarmeland, který byl poprvé prozkoumán [NOR.GetAdjective]mi a nyní je mimo náš dosah. Musíme znovu natáhnout ruku a uchopit tuto zemi pro sebe." # todo: CHANGED
  NOR_claims_on_denmark: "Nároky na Dánsko"
  NOR_claims_on_denmark_desc: "[NOR_GetDanishClaimsDesc]"
  NOR_claims_on_denmark_desc_mon: "Dánsko možná bylo zemí, odkud pochází náš milovaný král, ale víme, že jeho pravým domovem bylo vždy [NOR.GetNonIdeologyName] - a to ještě předtím, než usedl na trůn. Musíme proto jeho starou vlast přivést do jeho říše - snad ho to povzbudí k aktivnější roli v naší monarchii."
@@ -1254,7 +1254,7 @@
  NOR_radar_research: "Výzkum radaru"
  NOR_radar_research_desc: "Jako země s rozsáhlým pobřežím musíme umět účinně dohlížet na přístupy k němu. Díky technickému zázraku jménem radar dokážeme včas zachytit přilétající letouny i lodě."
  NOR_repurpose_lighthouses: "Využít majáky"
- NOR_repurpose_lighthouses_desc: "Počasí i geologie učinily z majáků podél [ROOT.GetAdjective] pobřeží nutnost a symbol země. Přetvořme je v majáky naděje - osadíme je radarovým vybavením a pomohou nám odrazit vetřelce."
+ NOR_repurpose_lighthouses_desc: "Počasí a geologie učinily majáky po celém [ROOT.GetAdjective] pobřeží nezbytností, a dokonce symbolem našeho národa. Můžeme je proměnit v majáky naděje tím, že je využijeme k podpoře radarového vybavení a pomůžeme si tak odrazit vetřelce." # todo: CHANGED
  NOR_pilot_training: "Výcvik pilotů"
  NOR_pilot_training_desc: "Naše rodící se letectvo je malé a nerozvinuté, ale můžeme navázat na tradici letců a polárníků a inspirovat novou generaci [NOR.GetAdjective] pilotů, kteří nám zajistí trvalou nezávislost."
  NOR_the_royal_norwegian_navy: "$NOR_royal_navy_dmod$"
@@ -1323,7 +1323,7 @@
  NORDIC_shared_intelligence: "Sdílené zpravodajství"
  NORDIC_shared_intelligence_desc: "Celý projekt [NORDIC_get_alliance_name] spočívá ve sdílení moci — a pokud je vědění skutečně mocí, sdílejme, co víme o našich nepřátelích, co naši nepřátelé o nás vědí, a dokonce i co si ti nepřátelé myslí, že o nás vědí."
  NORDIC_northern_command: "Severské velení"
- NORDIC_northern_command_desc: "Společné velení je nutností, aby se naše akce lépe koordinovaly. Ozbrojené síly musí fungovat hladce společně a rozhodnutí musí být činěna rychle s ohledem na zájmy všech stran. Měli bychom zajistit zřízení takového velení, aby mohly být vypracovány další plány pro naše společné ozbrojené síly."
+ NORDIC_northern_command_desc: "Společné vojenské velení je nutností, abychom mohli lépe koordinovat naše kroky. Ozbrojené síly musí fungovat hladce společně a rozhodnutí musí být přijímána rychle a s ohledem na zájmy všech stran. Měli bychom zajistit zřízení takového velení, aby bylo možné vypracovat další plány pro naše společné ozbrojené síly." # todo: CHANGED
  NORDIC_democratic_institution_1: "Severská komise ministrů"
  NORDIC_communist_institution_1: "Severní federace"
  NORDIC_monarchist_institution_1: "Severská šlechta"
@@ -1353,7 +1353,7 @@
  NORDIC_nordic_navy_monarchist: "Královská armáda (Armada)"
  NORDIC_nordic_navy: "[NORDIC_get_nordic_navy_name]"
  NORDIC_nordic_navy_desc: "[NORDIC_get_nordic_navy_desc]"
- NORDIC_nordic_navy_desc_dem: "Rozsáhlost moří by každou z našich zemí jednotlivě přemohla, ale pokud spojíme síly, můžeme koordinovat operace a efektivněji využívat omezené zdroje. To bude úkolem zástupců v [NORDIC_get_nordic_navy_name], náročný úkol, ale budou mít podporu [NORDIC_get_alliance_name]."
+ NORDIC_nordic_navy_desc_dem: "Rozlehlost moří by naše země jednotlivě přerostla, ale pokud spojíme síly, můžeme koordinovat naše operace a využít naše omezené zdroje efektivněji, abychom překročili svoji váhu. To bude úkolem zástupců v [NORDIC_get_nordic_navy_name], náročný úkol, ale budou mít za sebou veškeré zdroje a podporu [NORDIC_get_alliance_name]." # todo: CHANGED
  NORDIC_nordic_navy_desc_com: "Vlny patří lidu a [NORDIC_get_alliance_name] je odhodláno je lidu osvobodit. [NORDIC_get_nordic_navy_name] zajistí, že poslední, co naši nepřátelé spatří, budou naše lodě nad rudým obzorem."
  NORDIC_nordic_navy_desc_mon: "Spojené námořnictvo [NORDIC_get_alliance_name] bude vládnout vlnám napříč našimi dominiony. [NORDIC_get_nordic_navy_name] bude příliv, který rozdrtí nepřátele až zbudou jen vraky."
  NORDIC_nordic_airforce_democratic: "Severský program letecké obrany"
@@ -1493,7 +1493,7 @@
  NORDIC_civilian_contributions: "Příspěvek civilistů"
  NORDIC_civilian_contributions_desc: "Hlavní populace získala pocit sdílené identity s ostatními členy aliance a bude ochotna přispět a obětovat zdroje potřebné k rozjezdu válečného stroje, který přinese bezpečí a slávu [NORDIC_get_alliance_name]."
  NORDIC_nuclear_research: "Jaderný výzkum"
- NORDIC_nuclear_research_desc: "Vědci nemohou zůstat zticha o novém světě, který nastane, až bude štěpení atomu zneužito jako zbraň. Proč bychom měli být ochuzeni o technologický zázrak, který by mohl válku ukončit jedním úderem?"
+ NORDIC_nuclear_research_desc: "Vědci nemohou držet jazyk za zuby, pokud jde o nový svět, který na nás čeká, až bude štěpení atomu konečně zbraňováno. Proč bychom měli být od tohoto technologického zázraku odříznuti, když by mohl jedním úderem ukončit válku." # todo: CHANGED
  NORDIC_nordic_rocketry: "Severská raketová technika"
  NORDIC_nordic_rocketry_desc: "Co kdyby naše bomby mohly být doručeny bez zásahu letadla? Samohybné zbraně jsou budoucností — mohli bychom zničit nepřítele z bezpečí Severského společenství, když si přejeme."
  NORDIC_standarized_parts: "Standardizované díly"
@@ -1613,7 +1613,7 @@
  ICE_royal_marines: "Královská námořní pěchota"
  ICE_royal_marines_desc: "Islandská armáda nikdy nebude velká, ale může být specializovaná. Pro ostrovní stát je námořní pěchota jasnou volbou. Vytvořením a výcvikem sboru mariňáků získáme flexibilní sílu, kterou lze nasadit kdekoliv."
  ICE_the_icelandic_police_force: "Islandská policie"
- ICE_the_icelandic_police_force_desc: "Armáda Islandu nikdy nebude početná. Můžeme ale rozšířit pravomoci národní policie tak, aby zajišťovala i obranu proti invazi. Tím efektivněji využijeme naše omezené lidské zdroje a posílíme obranu ostrova."
+ ICE_the_icelandic_police_force_desc: "Armáda Islandu nikdy nebude příliš velká. Jako alternativu můžeme rozšířit povinnosti národní policie tak, aby zahrnovaly i obranu proti invazi. Tím můžeme efektivněji využít omezený personál, který máme, a lépe připravit obranu ostrova." # todo: CHANGED
  ICE_infrastructure_projects: "Infrastrukturní projekty"
  ICE_infrastructure_projects_desc: "Pokud má naše země někdy zesílit, prvním krokem musí být výstavba infrastruktury. Dobrá infrastruktura je základem jakéhokoli průmyslového rozvoje."
  ICE_engineering_projects: "Stavební projekty"
@@ -1629,7 +1629,7 @@
  ICE_the_merchant_fleet: "Obchodní flotila"
  ICE_the_merchant_fleet_desc: "Lodě kdysi sehrály klíčovou roli při budování našeho národa - a budou i v jeho budoucnosti. Silné obchodní námořnictvo bude základem islandské ekonomiky."
  ICE_not_standing_idly_by: "Nezůstaneme nečinní"
- ICE_not_standing_idly_by_desc: "Válka přichází, ať se nám to líbí, nebo ne. Musíme ozbrojit národ, abychom měli šanci bránit ostrov. Je to otázka bytí nebo nebytí."
+ ICE_not_standing_idly_by_desc: "Válka přichází, ať se nám to líbí, nebo ne. Musíme postavit národ na zbraně, pokud chceme mít šanci ostrov ubránit. Je to otázka života a smrti, to je jisté." # todo: CHANGED
  ICE_expand_industrial_complexes: "Rozšířit průmyslové komplexy"
  ICE_expand_industrial_complexes_desc: "Náš vojenský průmysl výrazně zaostává za ostatními evropskými mocnostmi. Pokud výrazně neinvestujeme do rozšíření a podpory našich zbrojních organizací, nikdy je nedoženeme."
  ICE_political_unity: "Politická jednota"
@@ -1698,7 +1698,7 @@
  ICE_international_brigades: "Mezinárodní brigády"
  ICE_international_brigades_desc: "Boj proti útlaku musí pokračovat i po našem domácím vítězství - jinak o něj můžeme brzy přijít. Synové a dcery [ROOT.GetName] se musí připravit pomoci všude, kde bude třeba, a stát pro to udělá maximum: přijme potřebné zákony a poskytne zbraně i vybavení."
  ICE_state_owned_industry: "Státní průmysl"
- ICE_state_owned_industry_desc: "Malá země, jako je [ROOT.GetNameDef], se nemůže spoléhat na kapitalisty, že vyrobí vše potřebné. Abychom zajistili efektivitu a výrobu nejnutnějšího zboží, musí průmysl převzít stát. Už nebudeme závislí na zahraničním kapitálu - islandský stát se postará o své občany i ozbrojené síly."
+ ICE_state_owned_industry_desc: "Malá země, jako [ROOT.GetNameDef], se nemůže spoléhat na kapitalisty, aby vyráběli potřebné zboží. Abychom maximalizovali efektivitu a zajistili výrobu nejpotřebnějších produktů, musí stát vstoupit do hry a převzít kontrolu nad průmyslem. Země už nebude závislá na zahraničních investicích, aby přežila. Islandský stát se postará o své občany i ozbrojené síly." # todo: CHANGED
  ICE_organize_the_greyshirts: "Zorganizovat Šedé košile"
  ICE_organize_the_greyshirts_desc: "Dobře vyzbrojená mládežnická milice je užitečným nástrojem k výchově mladých v duchu našeho nového světa. Polovojenský výcvik navíc posílí schopnosti armády - což se hodí, až si budeme brát zpět to, co nám po právu náleží."
  ICE_research_cooperation: "Výzkumná spolupráce"
@@ -1714,7 +1714,7 @@
  ICE_recruiting_international_workers: "Nábor mezinárodních dělníků"
  ICE_recruiting_international_workers_desc: "Učiníme-li z naší země vzorovou společnost pro komunisty i socialisty a udržíme-li revoluční plamen jasný, přitáhneme mezinárodní revolucionáře stejně jako v raných letech sovětského státu. Musíme ukázat dělníkům i bojovníkům odkudkoli, že [ROOT.GetName] nese pochodeň - a že právě sem patří."
  ICE_international_research_community: "Mezinárodní výzkumné společenství"
- ICE_international_research_community_desc: "Od ostatních se lze naučit mnohé - skrze Kominternu i další společné projekty s různými státy. Zapojením do mezinárodního společenství dosáhne [ROOT.GetName] nové velikosti. Kolektivismus je jediná pravá cesta k pokroku!"
+ ICE_international_research_community_desc: "Je mnoho, co se dá naučit od ostatních, jak prostřednictvím Kominterny, tak prostřednictvím dalších kooperativních projektů se zeměmi po celém světě. Zapojením se do mezinárodní komunity dosáhne [ROOT.GetName] nových úrovní vznešenosti. Kolektivismus je jediná správná cesta k pokroku!" # todo: CHANGED
  ICE_international_research_community_tt: "Každá komunistická země, která není ve frakci, nebo je s ní [ROOT.GetName] ve frakci:"
  ICE_reclaiming_the_empire: "Znovuzískání impéria"
  ICE_reclaiming_the_empire_desc: "Grónsko osídlili kdysi vikingové z Islandu. Norsko a Dánsko se o něj od té doby přely, ač k ostrovu nemají skutečné právo. Je čas požadovat návrat Grónska jeho oprávněným vlastníkům. Cení-li si dědictví a historie, postoupí nám je bez podmínek. Pokračujme v cestě ke slávě!"
@@ -1755,9 +1755,9 @@
  ICE_death_from_above: "Smrt z nebes"
  ICE_death_from_above_desc: "Kdo ovládne oblohu, vyhraje válku - a vyhraje ji rychle. Pokud posílíme spolupráci mezi letectvem a armádou a vycvičíme výsadkové jednotky schopné ničit zásobovací linie nepřítele, budeme neporazitelní."
  ICE_we_shall_defend_our_island: "Budeme bránit náš ostrov"
- ICE_we_shall_defend_our_island_desc: "Náš ostrov je naším domovem - a nikdo jej nezná lépe než my. Specializujeme-li armádu na boj v horách, můžeme se stáhnout z pobřeží a zničit nepřítele, jakmile se vylodí a začne se cítit sebejistě."
+ ICE_we_shall_defend_our_island_desc: "Náš ostrov je náš domov a nikdo ho nezná tak dobře jako my. Specializací naší armády na boj v horách bychom se mohli stáhnout z pobřeží a zničit nepřátele hned poté, co vylodí a začnou se cítit sebejistě a spokojeně." # todo: CHANGED
  ICE_taking_the_fight_to_our_enemies: "Přenést boj k našim nepřátelům"
- ICE_taking_the_fight_to_our_enemies_desc: "Moře nás obklopuje a po staletí formovalo náš národ i naši povahu. Díky znalostem, které jsme z něj získali, můžeme přenést boj na území nepřátel - tam, kde to nejméně čekají."
+ ICE_taking_the_fight_to_our_enemies_desc: "Moře nás obklopuje a po staletí velká moře formovala náš lid a to, kým jsme. Využitím znalostí, které jsme z toho získali, můžeme vyrazit do boje proti našim nepřátelům na místech, kde to nejméně čekají." # todo: CHANGED
  DEN_kanslergadeforliget: "Pokračovat v Kanslergadeforliget"
  DEN_kanslergadeforliget_desc: "[ROOT.GetName] stále snáší důsledky Velké hospodářské krize, nezaměstnanost prudce roste a zemědělský sektor se hroutí. Musíme překročit stranické hranice a dospět k dohodě, jak čelit krizi, ve které se nacházíme."
  DEN_devalue_the_krone: "Devalvovat korunu"
@@ -1958,7 +1958,7 @@
  DEN_denmark_first: "Dánsko především"
  DEN_denmark_first_desc: "Dospěli jsme tak daleko vlastními silami - proč bychom měli hledat podporu u velmocí? [DEN.GetNameDef] bude stát na vlastních nohách a dorovná významem ostatní světové mocnosti. Længe leve Danmark!"
  DEN_rally_the_nation: "Svolat národ"
- DEN_rally_the_nation_desc: "Nyní, když jsme převzali kontrolu nad zemí, je nezbytné získat podporu lidu. I když proti nám nic nezmůžou, je mnohem lepší mít lid po svém boku než nůž v zádech. Obnovme [DEN.GetAdjective] hrdost a sjednoťme lid, aby bojoval za svou vlast!"
+ DEN_rally_the_nation_desc: "Teď, když jsme převzali kontrolu nad zemí, je naprosto důležité získat podporu lidu. I když možná nemohou mnoho udělat, aby nám odolali, je lepší mít lid po svém boku připravený bojovat za svou zemi než mít někoho s nožem v zádech. Obnovme [DEN.GetAdjective] hrdost a svoláme lid, aby bojoval za svou zemi!" # todo: CHANGED
  DEN_dano_german_military_cooperation: "Dánsko-německá vojenská spolupráce"
  DEN_dano_german_military_cooperation_desc: "Abychom posunuli naši armádu na úroveň potřebnou k dosažení našich cílů, je důležité obrátit se na [GER.GetNameDef] a požádat o vojenskou a technologickou spolupráci. Tento návrh přiblíží naši budoucnost k naplnění."
  DEN_institute_corporatism: "Zavést korporativismus"
@@ -2025,7 +2025,7 @@
  DEN_buy_allied_weapons: "Pořídit spojenecké zbraně"
  DEN_buy_allied_weapons_desc: "Jako menší národ máme omezené výrobní možnosti - a chceme-li si zajistit nezávislost, musíme získat co nejlepší výzbroj. Možná přesvědčíme spojence, aby nám v rámci dotovaného obchodu dodali potřebné zbraně."
  DEN_align_with_overlord: "Akceptovat [?DEN.DEN_overlord_nation.GetNameDef]"
- DEN_align_with_overlord_desc: "Ačkoli jsme si v mírové dohodě uchovali vysokou míru samostatnosti, stále jsme jen loutkou. To ale otevírá zajímavé příležitosti. Pokud budeme mít my a [?DEN.DEN_overlord_nation.GetNameDef] společné cíle, můžeme využít síly našeho pána a proměnit porážku ve vítězství..."
+ DEN_align_with_overlord_desc: "Přestože se nám v mírové dohodě s [?DEN.DEN_overlord_nation.GetNameDef] podařilo zachovat vysokou míru nezávislosti, jsme stále jen loutkou. To nám však otevírá zajímavé příležitosti. Možná, pokud se s [?DEN.DEN_overlord_nation.GetNameDef] sladíme, můžeme využít sílu našeho silnějšího suzeréna a proměnit tuto porážku ve vítězství..." # todo: CHANGED
  DEN_seek_industrial_investments: "Usilovat o průmyslové investice"
  DEN_seek_industrial_investments_desc: "Sblížení s okupantem a získání jejich důvěry nás staví do příhodné situace požádat našeho suzeréna o investice do našeho průmyslu a posílení výrobních kapacit."
  DEN_pledge_allegiance: "Složit přísahu věrnosti"

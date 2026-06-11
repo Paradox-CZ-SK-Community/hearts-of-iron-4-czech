@@ -212,7 +212,7 @@
  SOV_arms_purchases_idea_desc: "Vybrojení sovětské opozice nás bude něco stát, ale dlouhodobé zisky více než vyrovnají dočasné náklady."
  SOV_black_sea_shipyard: "Černomořská loděnice"
  SOV_broken_peace_dreams_attacker: "Zmařené sny o míru"
- SOV_broken_peace_dreams_attacker_desc: "Nová válka, do níž jsme se dostali krátce poté, co jsme veřejně slíbili prosazovat mírovou politiku, vyvolává v populaci nestabilitu a nedůvěru."
+ SOV_broken_peace_dreams_attacker_desc: "Tato nová válka, do níž jsme se zapletli krátce poté, co jsme veřejně slibovali prosazovat mír, vyvolává mezi obyvatelstvem nestabilitu a nedůvěru." # todo: CHANGED
  SOV_broken_peace_dreams_defender: "$SOV_broken_peace_dreams_attacker$"
  SOV_broken_peace_dreams_defender_desc: "$SOV_broken_peace_dreams_attacker_desc$"
  SOV_central_headquarters_of_the_partisan_movement: "Ústřední štáb partyzánského hnutí"
@@ -226,7 +226,7 @@
  SOV_common_economic_space_sov_default: "Společný hospodářský prostor"
  SOV_common_economic_space_sov_default_desc: "$SOV_comecon_sov_default_desc$"
  SOV_covert_military_buildup_idea: "Tajné vyzbrojování"
- SOV_covert_military_buildup_idea_desc: "Momentálně tajně podporujeme sovětskou opozici zřizováním skrytých zbrojních a muničních výrobních zařízení."
+ SOV_covert_military_buildup_idea_desc: "V současnosti tajně podporujeme sovětskou opozici zřizováním tajných továren na zbraně a munici." # todo: CHANGED
  SOV_covert_ukrainian_military_buildup_idea: "Tajný výcvik ukrajinské domobrany"
  SOV_covert_ukrainian_military_buildup_idea_desc: "Pomocí tajných výcvikových táborů cvičíme ukrajinskou domobranu, abychom vyvolali povstání proti stalinistům."
  SOV_curtailment_collective_farms_idea: "Omezení kolchozů"
@@ -238,7 +238,7 @@
  SOV_enemies_of_the_people_idea_desc: "Vždy budou existovat tací, kteří chtějí svrhnout vládu lidu. Musíme zůstat neustále ve střehu proti hrozbám, jak vnitřním, tak vnějším."
  SOV_exiled_flag: "Nachází se v exilu (§Gpostavy nemohou být v exilu odstraněny§!)"
  SOV_expanded_exploitation_of_gold_mines: "Rozšířená těžba zlatých dolů"
- SOV_expanded_exploitation_of_gold_mines_desc: "[ROOT.GetNameDef] svými investicemi do infrastruktury a průmyslové pomoci v severních územích umožnil zvýšit efektivitu využívání našich zlatých dolů v tomto regionu."
+ SOV_expanded_exploitation_of_gold_mines_desc: "Investice [SOV.GetAdjective] do infrastruktury a průmyslové pomoci v severních územích [ROOT.GetNameDef] nám umožnila zvýšit efektivitu využívání našich zlatých dolů v regionu." # todo: CHANGED
  SOV_face_western_fascism_ns: "Čelit západnímu fašismu"
  SOV_face_western_fascism_ns_desc: "$SOV_eradicate_western_fascism_desc$"
  SOV_face_western_fascism_ns_tt: "Útočný bonus proti §Yhlavním fašistickým zemím v Evropě§!: §G+10.0%§!, obranný bonus proti §Yhlavním fašistickým zemím v Evropě§!: §G10.0%§!."
@@ -292,7 +292,7 @@
  SOV_opposition_popular_support: "Lidová podpora opozice"
  SOV_opposition_popular_support_tt: "§LVzhledem k tomu, že velká část členů strany i veřejného mínění podporuje opozici, je udržení prohrané války mnohem obtížnější.§!\n\n"
  SOV_organized_wreckers_idea: "Škůdci"
- SOV_organized_wreckers_idea_desc: "Nepřátelé státu naverbovali mezi dělnickou třídou škůdce, kteří narušují klíčový průmysl a ztěžují dosažení výrobních cílů."
+ SOV_organized_wreckers_idea_desc: "Nepřátelé státu naverbovali mezi dělnickou třídou záškodníky, kteří narušují klíčový průmysl a ztěžují dosažení výrobních cílů." # todo: CHANGED
  SOV_organized_wreckers_idea_tt: "Nepřátelé mohou provádět sabotáže"
  SOV_planned_economy_dynamic_modifier: "Plánovaná ekonomika"
  SOV_politicized_military: "Politizovaná armáda"
@@ -404,11 +404,11 @@
  SOV_third_five_year_plan_civilian_dynamic_modifier: "$SOV_second_five_year_plan_dynamic_modifier$"
  SOV_third_five_year_plan_civilian_dynamic_modifier_alt: "$SOV_third_five_year_plan_dynamic_modifier_alt$"
  SOV_third_five_year_plan_dynamic_modifier: "$SOV_second_five_year_plan_dynamic_modifier$"
- SOV_third_five_year_plan_dynamic_modifier_alt: "Nový projekt industrializace"
+ SOV_third_five_year_plan_dynamic_modifier_alt: "Nový projekt národní industrializace" # todo: CHANGED
  SOV_third_five_year_plan_military_dynamic_modifier: "$SOV_second_five_year_plan_dynamic_modifier$"
  SOV_third_five_year_plan_military_dynamic_modifier_alt: "$SOV_third_five_year_plan_dynamic_modifier_alt$"
  SOV_training_activities_curtailed: "Omezené výcvikové aktivity"
- SOV_training_activities_curtailed_desc: "Během nedávných vojenských cvičení došlo k velkému procentu mechanických poruch vozidel a několika zraněním rekrutů. Dokud nezjistíme pravou příčinu těchto závad, byly hlavní cvičné aktivity omezeny, aby se předešlo dalším škodám na vojácích i technice."
+ SOV_training_activities_curtailed_desc: "Významné procento vozidel mělo mechanické závady a několik rekrutů bylo zraněno během posledních vojenských cvičení. Dokud nezjistíme skutečnou příčinu těchto mechanických poruch, omezili jsme velká cvičení, aby nedošlo k dalšímu poškození našich nováčků ani vojenského materiálu." # todo: CHANGED
  SOV_trotskyist_revolutionary_agitation: "Trockistická revoluční agitace"
  SOV_trotskyist_revolutionary_agitation_desc: "Trockističtí sympatizanti a další komunistické prvky spojené se [SOV.GetAdjective] bolševickou stranou burcují [ROOT.GetAdjective] masy, šíří marxistickou ideologii mezi dělnickou třídou a vyzývají k ozbrojenému boji proti naší vládě."
  SOV_trotskyist_revolutionary_agitation_tt: "Aktivace rozhodnutí §Y$ban_communist_party$§! sníží účinky tohoto národního ducha."
@@ -416,7 +416,7 @@
  SOV_tupolev_design_bureau_dissolved_flag: "$SOV_mig_design_bureau_dissolved_flag$"
  SOV_uncertain_counter_revolution_idea: "Nejistá kontrarevoluce"
  SOV_understaffed_bureaucracy: "Poddimenzovaná byrokracie"
- SOV_understaffed_bureaucracy_desc: "NKVD objevilo důkazy o rozsáhlém spiknutí uvnitř civilní správy a několik byrokratů bylo „odvoláno“ z funkce."
+ SOV_understaffed_bureaucracy_desc: "NKVD objevila důkazy o rozsáhlém spiknutí v civilní administraci a několik byrokratů bylo odvoláno z funkcí." # todo: CHANGED
  SOV_ussr_academy_of_sciences_dynamic_modifier: "Akademie věd SSSR"
  SOV_ussr_academy_of_sciences_dynamic_modifier_alt: "Imperiální akademie věd"
  SOV_workers_government_idea: "Dělnická vláda"
@@ -481,7 +481,7 @@
  branch_independence_spirit_desc: "Žádný pozemní ani námořní velitel nám nebude poroučet. Děláme věci po svém."
  brave_commanders_spirit: "Stateční velitelé"
  brave_commanders_spirit_desc: "K čertu s torpédy, plnou parou vpřed!"
- brown_water_spirit: "Pobřežní boje"
+ brown_water_spirit: "Pobřežní boj" # todo: CHANGED
  brown_water_spirit_desc: "Plavba a boj v souostroví vyžadují zvláštní dovednosti."
  bureau_of_ordnance_spirit: "Úřad pro výzbroj"
  bureau_of_ordnance_spirit_desc: "Úřad pro výzbroj ovlivňuje všechny konstrukce lodí.\n\n§GTento duch je dostupný díky našim skvělým torpédům.§!"
@@ -535,7 +535,7 @@
  efficient_communications_spirit: "Efektivní komunikace"
  efficient_communications_spirit_desc: "Komunikace, komunikace a komunikace."
  efficient_ground_crews_spirit: "Efektivní pozemní osádky"
- efficient_ground_crews_spirit_desc: "Piloti jsou fajn, ale to, co opravdu rozhoduje, je dostat letadla co nejrychleji do vzduchu."
+ efficient_ground_crews_spirit_desc: "Skvělí piloti jsou sice fajn, ale skutečně záleží na tom, aby se letadla dostala do vzduchu co nejrychleji." # todo: CHANGED
  elevated_engineering_corps_spirit: "Povýšený ženijní sbor"
  elevated_engineering_corps_spirit_desc: "Nejlepším měřítkem schopností a charakteru muže je dát mu lopatu a den, aby s ní něco dokázal."
  elite_fighter_pilots_spirit: "Elitní stíhací piloti"
@@ -646,7 +646,7 @@
  naval_modernism_spirit: "Modernismus"
  naval_modernism_spirit_desc: "Budoucnost je tady."
  naval_refit_yards_spirit: "Námořní přestavbové loděnice"
- naval_refit_yards_spirit_desc: "Minimalizace času v doku znamená maximum času na moři."
+ naval_refit_yards_spirit_desc: "Minimalizací času v doku maximalizujeme dobu, po kterou může být loď na moři." # todo: CHANGED
  naval_reform_spirit: "Námořní reforma"
  naval_reform_spirit_desc: "Válka se vždy mění."
  naval_wargames_spirit: "Námořní válečné hry"
@@ -672,7 +672,7 @@
  operational_reserve_spirit: "Operační zálohy"
  operational_reserve_spirit_desc: "Vždy mějte něco v rukávu. Vždy."
  overbearing_admirality_spirit: "Panovačná admiralita"
- overbearing_admirality_spirit_desc: "Vždy se poraď s admiralitou."
+ overbearing_admirality_spirit_desc: "Vždy se poraďte s admiralitou." # todo: CHANGED
  overbearing_army_spirit: "Panovačná armáda"
  overbearing_army_spirit_desc: "Námořnictvo je jen podpůrná složka armády."
  patriot_king: "Vlastenecký král"
@@ -727,7 +727,7 @@
  subservience_to_army_spirit: "Podřízenost armádě"
  subservience_to_army_spirit_desc: "Pracovní náplň je jednoduchá - bombardovat tam, kam generálové ukážou."
  subservience_to_navy_spirit: "Podřízenost námořnictvu"
- subservience_to_navy_spirit_desc: "Letadla jsou opravdu užitečná jen jako zbraň námořní podpory a průzkumu."
+ subservience_to_navy_spirit_desc: "Letectvo je opravdu užitečné pouze jako zbraň pro námořní podporu a průzkum." # todo: CHANGED
  subservient_democrat: "Podřízený demokrat"
  subservient_democrat_democratic: "Podřízený demokrat"
  subservient_ultranationalist: "Podřízený ultranacionalista"
@@ -762,7 +762,7 @@
  traditionalism_naval_academy_spirit_tt: "Vyšší šance, že noví admirálové získají rys §Y„$old_guard$“§!.\n§G50% šance§!, že noví admirálové dostanou extra bod dovednosti ve dvou kategoriích."
  trait_SOV_determined_desc: "Houževnatost některých jedinců jde daleko za hranice toho, co ostatní považují za rozumné."
  trait_SOV_foreign_military_advisor: "Zahraniční vojenský poradce"
- trait_SOV_foreign_military_advisor_desc: "Čas strávený v zahraničí je příležitost studovat taktiky, proti kterým se možná jednou postavíme."
+ trait_SOV_foreign_military_advisor_desc: "Čas strávený v zahraničí je příležitostí naučit se taktiky, proti nimž se jednou můžeme postavit." # todo: CHANGED
  trait_SOV_monarchist_sympathizer_desc: "Sympatie ke starým pořádkům mohou být hluboké. Často ruku v ruce s nenávistí."
  underfunded_academy_spirit: "Podfinancovaná akademie"
  underfunded_academy_spirit_desc: "Jsou lepší věci, za které utratit peníze, než učit lidi, jak se efektivněji zabíjet."

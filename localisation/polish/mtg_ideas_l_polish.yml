@@ -28,7 +28,7 @@
  HOL_de_crisisjaren: "De Crisisjaren"
  HOL_de_crisisjaren_desc: "V důsledku zvláštností světové ekonomiky zasáhla Velká hospodářská krize Nizozemsko mnohem později než jiné země. Rozhodnutí Nizozemců zachovat zlatý standard, zatímco jiné státy jej poměrně rychle opustily, ještě více prohloubilo tyto „krizové roky“. Snahy udržet gulden před devalvací znamenaly, že nezbyly žádné prostředky na pomoc skomírající ekonomice, natož na zlepšení ubohého stavu národní obrany.\n\nKrizi lze zmírnit investicemi do veřejných prací a stane se z velké části irelevantní, pokud kapitulujeme a ztratíme kontrolu nad krizí sužovanou pevninskou částí."
  HOL_de_vaarplicht_idea: "De Vaarplicht"
- HOL_de_vaarplicht_idea_desc: "„Na základě královského dekretu A5 jsou všichni nizozemští občané a poddaní, kteří nebyli odvedeni nebo nebyli dosud povoláni k činné službě, povinni vykonávat služby pro obchodní loďstvo nebo v jeho prospěch.“"
+ HOL_de_vaarplicht_idea_desc: ""Na základě královského dekretu A5 jsou všichni nizozemští občané a nizozemské subjekty, kteří nebyli povoláni k odvodu, nebo pokud byli, dosud nebyli povoláni do aktivní služby, povinni vykonávat služby pro obchodní námořnictvo nebo v jeho prospěch." # todo: CHANGED
  HOL_domestic_aircraft_production: "Domácí výroba letadel"
  HOL_german_defectors_1: "Němečtí přeběhlíci"
  HOL_german_defectors_1_desc: "Stálý proud německých přeběhlíků se pravidelně formuje do jednotek, které dychtí bojovat v náš prospěch za znovunastolení svého císaře."
@@ -150,7 +150,7 @@
  MEX_politicised_army: "Politizovaná armáda"
  MEX_politicised_army_2: "Politizovaná armáda"
  MEX_politicised_army_2_desc: "Podařilo se nám omezit výstřední sklony regionálních mocipánů zákazem politických milicí, jako byly Rudé košile generála Garrida a Zlaté košile generála Nicasia Rodrígueze."
- MEX_politicised_army_desc: "Vládci Mexika pocházeli z řad důstojníků revoluční armády téměř tři desetiletí. Bouřlivá doba vyžadovala pevné vedení. Otázka zní: bouře už pominuly, nebo se stupňují? Máme armádu profesionalizovat, nebo ponechat regionálním mocipánům - caciques a caudillos - jejich malá knížectví? Generálové jako Saturnino Cedillo v San Luis Potosí budují soukromé milice, aby si uchovali moc. Četná povstání nespokojených důstojníků z minulosti se pravděpodobně budou opakovat, pokud nezakročíme."
+ MEX_politicised_army_desc: "Vládci Mexika jsou už téměř tři desetiletí rekrutováni z důstojníků revoluční armády. Bouřlivé časy, kterými jsme prošli, si vyžádaly pevné vedení. Otázkou zůstává: odezněla bouřlivost, nebo se vyostřuje? Měli bychom armádu profesionalizovat, nebo dovolit regionálním silákům — caciques a caudillos — vyřezávat si drobná léna? Generálové jako Saturnino Cedillo v San Luis Potosí budují soukromé milice k ochraně své moci. Mnohá povstání, která v minulosti zahájili nespokojení důstojníci, pravděpodobně budou pokračovat, pokud nezasáhneme." # todo: CHANGED
  MEX_professional_army: "Escuela Superior de Guerra"
  MEX_professional_army_desc: "Díky naší vojenské škole se generálové naučili, jak vyvinout účinné zásobovací systémy, aby udrželi naše jednotky v boji s maximální efektivitou."
  MEX_proletarian_class_army: "Proletářská třídní armáda"

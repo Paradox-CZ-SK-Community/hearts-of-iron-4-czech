@@ -84,7 +84,7 @@
  BBA_african_union_events.8.desc: "[FROM.GetNameDef] souhlasí se vstupem do výkonné rady Organizace africké jednoty. Nyní probíhá podepisování příslušných smluv uznávajících pravomoc rady ve všech právních záležitostech."
  BBA_african_union_events.8.t: "[FROM.GetNameDefCap] se připojuje k výkonné radě"
  BBA_african_union_events.9.a: "Proč jsou vůbec členským státem?"
- BBA_african_union_events.9.desc: "[FROM.GetNameDef] odmítá vstoupit do výkonné rady Organizace africké jednoty. [FROM.GetLeader] uvádí obavy o svrchovanost a touhu uzavírat dohody se státy mimo organizaci bez schválení rady."
+ BBA_african_union_events.9.desc: "Vláda [FROM.GetNameDef] odmítla vstoupit do výkonné rady Organizace pro africkou jednotu. [FROM.GetLeader] uvádí obavy o suverenitu a touhu uzavírat dohody s národy mimo organizaci bez schválení rady." # todo: CHANGED
  BBA_african_union_events.9.t: "[FROM.GetNameDefCap] odmítá vstoupit do výkonné rady"
  BBA_ethiopia_anti_colonialism_events.2.a: "Mají pravdu, měli bychom tento koloniální konflikt okamžitě ukončit"
  BBA_ethiopia_anti_colonialism_events.2.b: "Válka skončí, až bude [?global.african_revolt_country.GetNameDef] padne"
@@ -98,7 +98,7 @@
  BBA_ethiopia_anti_colonialism_events.4.desc: "Navzdory našemu nátlaku [?global.african_colonial_country.GetAdjective] vláda odmítá uznat, že [?global.african_revolt_country.GetNameDef] je nezávislá země, a proto o ukončení bojů nechce ani slyšet. [?global.african_colonial_country.GetNameDef] se zjevně chystá zničit hnutí za nezávislost. Toto je pravděpodobně maximum, čeho lze dosáhnout pouze diplomacií."
  BBA_ethiopia_anti_colonialism_events.4.t: "[FROM.GetNameDefCap] odmítá uznat [?global.african_revolt_country.GetAdjective] nezávislost"
  BBA_ethiopia_anti_colonialism_events.5.a: "[ROOT.GetName] a [?global.african_supporting_country.GetName] stojí bok po boku!"
- BBA_ethiopia_anti_colonialism_events.5.desc: "Po neúspěšném pokusu o mediaci v naší válce proti [?global.african_colonial_country.GetAdjective] kolonizátorům začíná [?global.african_supporting_country.GetNameDef] aktivně podporovat [ROOT.GetAdjective] boj. [?global.african_supporting_country.GetName] ještě dnes kontaktuje [?global.african_colonial_country.GetAdjective] velvyslance, že [?global.african_supporting_country.GetNameDef] a [?global.african_colonial_country.GetName] jsou od toho momentu ve válečném stavu, a to až do okamžiku, kdy se [?global.african_colonial_country.GetNameDef] vzdá svých imperialistických a koloniálních ambicí v Africe i jinde."
+ BBA_ethiopia_anti_colonialism_events.5.desc: "Po neúspěšném pokusu o smír v naší válce proti [?global.african_colonial_country.GetNameDef] se [?global.african_supporting_country.GetNameDef] rozhodla aktivně začít podporovat [ROOT.GetAdjective] boj. [?global.african_colonial_country.GetAdjective] velvyslanec v [?global.african_supporting_country.GetName] byl informován, že [?global.african_supporting_country.GetNameDef] se od tohoto okamžiku považuje za ve válce s [?global.african_colonial_country.GetName] až do doby, kdy [?global.african_colonial_country.GetNameDef] zřekne svých imperialistických a koloniálních ambicí v Africe a jinde." # todo: CHANGED
  BBA_ethiopia_anti_colonialism_events.5.t: "[FROM.GetName] a [?global.african_colonial_country.GetName] jsou ve válce"
  BBA_ethiopia_anti_colonialism_events.6.a: "Další země osvobozena od imperialistů"
  BBA_ethiopia_anti_colonialism_events.6.desc: "Po silném diplomatickém [ROOT.GetAdjective] tlaku, včetně přímých jednání, kterých se zúčasnili [ROOT.GetLeader] a [?global.african_colonial_country.GetLeader], se [?global.african_colonial_country.GetAdjective] vláda rozhodla ustoupit a uznat [?global.african_revolt_country.GetAdjective] nezávislost.\nDíky přímé [ROOT.GetAdjective] intervenci je válka za [?global.african_revolt_country.GetAdjective] nezávislost konečně u konce. [?global.african_revolt_country.GetNameDefCap] je svobodná země a [ROOT.GetLeader] bude pro ne navždy národním hrdinou."
@@ -143,7 +143,7 @@
  BBA_ethiopia_balance_of_power_events.52.t: "Místní velmož chce rozšířit své území"
  BBA_ethiopia_balance_of_power_events.53.a: "Získat více pušek je teď důležitější než kontrola"
  BBA_ethiopia_balance_of_power_events.53.b: "Výroba zbraní v soukromých rukou zní příliš nebezpečně"
- BBA_ethiopia_balance_of_power_events.53.desc: "Jeden z místních vládců z [?ROOT.ETH_bop_state.GetName] žádá podporu pro zřízení místní výroby pušek a munice v [?ROOT.ETH_bop_state.GetName]. To by mohlo pomoci našim ozbrojeným silám získat lepší vybavení a zvýšit bojové schopnosti [ROOT.GetAdjective] armády."
+ BBA_ethiopia_balance_of_power_events.53.desc: "Jeden z pánů v [?ROOT.ETH_bop_state.GetName] chce podporu pro založení místní výroby pušek a munice v [?ROOT.ETH_bop_state.GetName]. To by mohlo pomoci našim ozbrojeným silám získat lepší vybavení a zlepšit bojové schopnosti [ROOT.GetAdjective] armády." # todo: CHANGED
  BBA_ethiopia_balance_of_power_events.53.t: "Regionální vládce chce vyrábět zbraně"
  BBA_ethiopia_balance_of_power_events.54.a: "Musíme s tím něco udělat"
  BBA_ethiopia_balance_of_power_events.54.b: "Bohužel s tím teď mnoho nenaděláme"
@@ -176,8 +176,8 @@
  BBA_ethiopia_communist_events.05.desc: "Dnes členové armády a protifašistické organizace známé jako Černí lvi zosnovali převrat proti vládě. Císař [ROOT.GetLeader] měl provést inspekci jednotek, když se proti němu skupina nespokojených vojáků obrátila a spolu se svými důstojníky jej zatkla.\n\nMezitím v [ROOT.Capital.GetCapitalVictoryPointName] obsadili Černí lvi klíčovou infrastrukturu města, včetně císařovy rezidence. Mnoho loajalistů z armády a policie bylo zabito při menších potyčkách, avšak to, co z [ETH.GetName] zůstalo, je nyní pod kontrolou prozatímní vlády. Většina obyvatelstva, vyčerpaná válkou s [ITA.GetName], jednoduše přijala autoritu nové vlády. Prvním rozhodnutím nové administrativy je nyní určit, jaký bude osud bývalého vládce."
  BBA_ethiopia_communist_events.05.t: "[ROOT.GetLeader] zvržen při převratu"
  BBA_ethiopia_communist_events.06.a: "Zrádci dostali, co si zasloužili."
- BBA_ethiopia_communist_events.06.desc: "Vojenští důstojníci, které podporuje [SOV.GetName], rozpustili prozatímní [ETH.GetAdjective] vládu. Důstojníci tvrdí, že jim [SOV.GetAdjective] zpravodajská služba poskytla důkazy, které prokazují, že [ROOT.GetLeader] zradil lid. Podle těchto důkazů členové vlády jednali o tom, že umožní [ITA.GetAdjective] jednotkám plně obsadit zemi výměnou za obrovské osobní bohatství. Po přestřelkách s Černými lvy jsou bývalí členové prozatímní vlády považováni za mrtvé nebo zatčené.\n\nArmáda nyní převzala vedení země s cílem obnovit pořádek a vymýtila spolupachatele tyhle zrady. Není jasné, jak trvalá bude nově vytvořená vojenská správní rada."
- BBA_ethiopia_communist_events.06.indy_desc: "Vojenští důstojníci rozpustili prozatímní [ETH.GetAdjective] vládu. Tvrdí, že jim zpravodajské služby poskytly důkazy, podle nichž [ROOT.GetLeader] zradil lid. Podle těchto důkazů členové jeho vlády jednali o tom, že umožní [ITA.GetAdjective] jednotkám plně obsadit zemi výměnou za obrovské osobní bohatství. Po přestřelkách s Černými lvy jsou bývalí členové prozatímní vlády považováni za mrtvé nebo zatčené.\n\nArmáda nyní převzala vedení země, aby obnovila pořádek a odstranila spolupachatele tyhle zrady."
+ BBA_ethiopia_communist_events.06.desc: "Důstojníci armády podporovaní [SOV.GetName] rozpuštěli prozatímní [ETH.GetAdjective] vládu. Důstojníci tvrdí, že jim [SOV.GetAdjective] zpravodajská služba poskytla důkazy, které dokazují, že vláda vedená [ROOT.GetLeader] zradila lid. Podle důkazů se členové vlády radili o povolení plného obsazení země [ITA.GetAdjective]mi vojsky výměnou za obrovská osobní bohatství. Po přestřelkách s Černými lvy jsou bývalí členové prozatímní vlády považováni za mrtvé nebo zatčené.\n\nVojenská vrstva nyní převzala vedení země, aby obnovila pořádek a vypudila spolupracovníky [ROOT.GetLeader]. Zůstává nejasné, jak trvalá bude nově vzniklá vojenská administrativní rada." # todo: CHANGED
+ BBA_ethiopia_communist_events.06.indy_desc: "Důstojníci armády rozpuštěli prozatímní [ETH.GetAdjective] vládu. Důstojníci tvrdí, že jim zpravodajské služby poskytly důkazy, které dokazují, že vláda vedená [ROOT.GetLeader] zradila lid. Podle důkazů se členové vlády radili o povolení plného obsazení země [ITA.GetAdjective]mi vojsky výměnou za obrovská osobní bohatství. Po přestřelkách s Černými lvy jsou bývalí členové prozatímní vlády považováni za mrtvé nebo zatčené.\n\nVojenská vrstva nyní převzala vedení země, aby obnovila pořádek a vypudila spolupracovníky [ROOT.GetLeader]." # todo: CHANGED
  BBA_ethiopia_communist_events.06.t: "Prozatímní vláda rozpuštěna"
  BBA_ethiopia_communist_events.07.a: "S komunisty se nevyjednává."
  BBA_ethiopia_communist_events.07.b: "Nemůžeme si nyní dovolit širší konflikt."
@@ -193,7 +193,7 @@
  BBA_ethiopia_communist_events.10.a: "Zradili nás."
  BBA_ethiopia_communist_events.10.desc: "[SOV.GetName] odmítá poslat pěchotní výstroj. Navzdory nejlepším snahám naší delegace přímo v jejich hlavním městě nám [SOV.capital.GetCapitalVictoryPointName] dáva jasně najevo, že teď mají dost vlastních problémů, než aby nám mohli něco poskytnout."
  BBA_ethiopia_communist_events.10.t: "[SOV.GetNameDefCap] odmítá poslat výstroj"
- BBA_ethiopia_communist_events.11.a: "Je to příležitost, kterou si nemůžeme nechat ujít."
+ BBA_ethiopia_communist_events.11.a: "To je příležitost, kterou nesmíme propásnout." # todo: CHANGED
  BBA_ethiopia_communist_events.11.b: "Nemůžeme riskovat, že cizí mocnosti poznají naše taktiky."
  BBA_ethiopia_communist_events.11.desc: "Nové vedení [ETH.GetNonIdeologyName] uznalo slabiny své armády v oblasti moderního válčení. Proto nás požádali o podporu při reorganizaci jejich ozbrojených sil. Je to skvělá příležitost dát našim důstojníkům zkušenosti v odlišném prostředí, ale také šance ovlivnit vnitřní [ETH.GetAdjective] mocenskou rovnováhu."
  BBA_ethiopia_communist_events.11.t: "[ETH.GetName] žádá o vojenské poradce"
@@ -202,10 +202,10 @@
  BBA_ethiopia_communist_events.12.t: "[SOV.GetAdjectiveCap] vybavení dorazilo"
  BBA_ethiopia_communist_events.14.a: "Výborný návrh."
  BBA_ethiopia_communist_events.14.b: "Musíme si udržet zásoby letadel."
- BBA_ethiopia_communist_events.14.desc: "[ETH.GetNameDefCap] nás žádá o podporu při budování vlastního letectva. Jejich návrh zahrnuje vyslání dobrovolníků, kteří by se cvičili po boku našich pilotů na starších, přebytečných letounech. Byla by to skvělá příležitost pro naše piloty získat další zkušenosti a otestovat naši techniku proti Italům."
+ BBA_ethiopia_communist_events.14.desc: "[ETH.GetNameDefCap] požádal o naši podporu při budování vlastního letectva. Jejich návrh zahrnuje poslání dobrovolníků, kteří by se cvičili po boku našich pilotů na starších, přebytečných letounech. Byla by to skvělá příležitost pro naše piloty získat více zkušeností a otestovat naše vybavení proti [ITA.GetAdjective]s." # todo: CHANGED
  BBA_ethiopia_communist_events.14.t: "[ETH.GetNameDefCap] žádá o pomoc při budování letectva"
  BBA_ethiopia_communist_events.15.a: "Bylo to už dávno potřeba."
- BBA_ethiopia_communist_events.15.desc: "V [ROOT.Capital.GetCapitalVictoryPointName] byli dnes spatřeni generálové, které vyslal [SOV.GetNameDef]. Poradcům byl představen současný stav struktury našich ozbrojených sil i průběh války, kterou s námi vede [ITA.GetName]. Snad nám pomohou modernizovat naše vojsko."
+ BBA_ethiopia_communist_events.15.desc: "Dnešního dne v [ROOT.Capital.GetCapitalVictoryPointName] přicestovali generálové z [SOV.GetNameDef]. Poradci dostávají přehled o současné struktuře našich ozbrojených sil a o stavu války s [ITA.GetName]. Snad budou schopni pomoci modernizovat naše síly." # todo: CHANGED
  BBA_ethiopia_communist_events.15.t: "[SOV.GetNameDefCap] posílá vojenské poradce"
  BBA_ethiopia_communist_events.16.a: "[SOV.GetNameDefCap] jako přítel? Nedá se jim věřit."
  BBA_ethiopia_communist_events.16.desc: "[SOV.Capital.GetCapitalVictoryPointName] odmítá poslat vojenské poradce, kteří by nám pomohli s modernizací armády. Navzdory tomuto nezdaru porazíme fašisty a budeme v modernizaci pokračovat sami."
@@ -231,7 +231,7 @@
  BBA_ethiopia_communist_events.22.desc: "[ITA.GetNameDef] dosud ignoruje naše požadavky na ukončení [ETH.GetAdjectiveCap] války. Je zřejmé, že jediný jazyk, kterému rozumí, je hrubá síla. Pokud budeme pokračovat v současném kurzu, [SOV.GetName] a [ITA.GetName] se ocitnou v nevyhutelné válce. Pokud nyní ustoupíme, ztratíme vše, čeho jsme dosáhli tím, že jsme vsadili na podporou [ETH.GetNonIdeologyName], a naše diplomatická váha na světové scéně výrazně poklesne."
  BBA_ethiopia_communist_events.22.t: "[ITA.GetNameDefCap] odmítá ukončit [ETH.GetAdjectiveCap] válku"
  BBA_ethiopia_communist_events.23.a: "[ITA.GetName] zažívá velké vítězství!"
- BBA_ethiopia_communist_events.23.desc: "Sovětský svaz ustoupil od své nedávné válečné rétoriky a vrátil se pouze k ostrým slovním protestům proti našim akcím v Etiopii. Zdá se, že jejich hrozby válkou nebyly ničím jiným než blufem."
+ BBA_ethiopia_communist_events.23.desc: "Sovětský svaz ustoupil od své nedávné válečné rétoriky a vrátil se k tvrdošíjným námítkám vůči našim činům v Etiopii. Zdá se, že jejich hrozba vyhlásit válku byla zřejmě jen bluf." # todo: CHANGED
  BBA_ethiopia_communist_events.23.t: "[SOV.GetNameDefCap] ustupuje"
  BBA_ethiopia_communist_events.24.a: "Je to nutné. Prozatím."
  BBA_ethiopia_communist_events.24.desc: "Diplomatická konfrontace, ve které se ocitli [ITA.GetName] a [SOV.GetNameDef], přerostla v otevřený konflikt. [SOV.GetAdjectiveCap] zástupci zaručili naši nezávislost a nyní nám pomohou na bojišti při odrážení Italů. Zdá se však, že to bude vykoupeno cenou naší nezávislosti. Od této chvíle budeme muset zajistit, aby naše zahraniční politika byla plně sladěna s politikou, kterou prosazuje [SOV.Capital.GetCapitalVictoryPointName]."
@@ -245,13 +245,13 @@
  BBA_ethiopia_communist_events.26.desc: "[SOV.GetNameDefCap] vylučuje možnost zprostředkování jednání mezi námi a Italy. Uvádějí neochotu, s jakou [ITA.GetName] naslouchá Společnosti národů, což by si vyžádalo hrozbu použití síly. Riziko eskalace do války mezi oběma zeměmi označil [SOV.GetLeader] za příliš nebezpečné."
  BBA_ethiopia_communist_events.26.t: "[SOV.GetNameDefCap] odmítá roli zprostředkovatele"
  BBA_ethiopia_communist_events.27.a: "Zradili nás."
- BBA_ethiopia_communist_events.27.desc: "[SOV.GetNameDefCap] ustupuje od svého závazku ukončit agresivní válku, kterou vůči nám vede [ITA.GetName]. Zdá se, že jejich ochota jít do války byla pouhým blufem. Nyní čelíme obtížnému úkolu ukončit tuto válku vlastními silami."
+ BBA_ethiopia_communist_events.27.desc: "[SOV.GetNameDefCap] ustoupil od svého závazku ukončit válečnou agresi [ITA.GetName]. Zdá se, že jejich ochota vyvolat válku byla ničím jiným než blufem. Nyní čelíme obtížnému úkolu ukončit tuto válku sami." # todo: CHANGED
  BBA_ethiopia_communist_events.27.t: "[SOV.GetNameDefCap] nedokázal zastavit [ITA.GetAdjective] agresi"
  BBA_ethiopia_communist_events.28.a: "Musíme to dovolit. Prozatím."
  BBA_ethiopia_communist_events.28.desc: "Diplomatická konfrontace, ve které se ocitli [ITA.GetName] a [SOV.GetNameDef], nyní utichla poté, co Italové souhlasili s ukončením jejich války proti nám. [SOV.GetNameDef] zaručuje naši nezávislost a dává jasně najevo, že útok proti bude považovat za útok proti sobě. Cenou za jejich pomoc při ukončení války je však naše nezávislost. Od této chvíle musíme zajistit, aby naše zahraniční politika byla plně sladěna s politikou, kterou prosazuje [SOV.Capital.GetCapitalVictoryPointName]."
  BBA_ethiopia_communist_events.28.t: "[SOV.GetNameDefCap] požaduje sladění zahraniční politiky"
  BBA_ethiopia_communist_events.29.a: "Jsme jim nesmírně vděční."
- BBA_ethiopia_communist_events.29.desc: "Diplomatická konfrontace, ve které se ocitli [ITA.GetName] a [SOV.GetNameDef], nyní utichla poté, co Italové souhlasili s ukončením jejich války proti nám. Jde o velké vítězství nad fašismem, avšak je nepravděpodobné, že by tím boj skončil. Snad bude [SOV.Capital.GetCapitalVictoryPointName] i nadálne našim přítelem."
+ BBA_ethiopia_communist_events.29.desc: "Diplomatické napětí mezi [ITA.GetName] a [SOV.GetNameDef] nyní opadlo, když se [ITA.GetAdjective]s dohodli ukončit svou válku proti nám. Je to velké vítězství proti fašismu, ale pravděpodobně to není konec boje. Snad budeme moci nadále spolupracovat s našimi přáteli v [SOV.Capital.GetCapitalVictoryPointName]." # todo: CHANGED
  BBA_ethiopia_communist_events.29.t: "[SOV.GetNameDefCap] úspěšně zprostředkovává řešení konfliktu"
  BBA_ethiopia_communist_events.30.a: "Zastavíme boje. Prozatím."
  BBA_ethiopia_communist_events.30.b: "Vítězství máme na dosah, teď nepřestaneme."
@@ -321,7 +321,7 @@
  BBA_ethiopia_communist_events.51.t: "[ETH.GetNameDefCap] nabízí mír"
  BBA_ethiopia_communist_events.52.a: "Máme důležitější záležitosti."
  BBA_ethiopia_communist_events.52.b: "Ukážeme jim, že zišli na scestí."
- BBA_ethiopia_communist_events.52.desc: "[ETH.GetAdjectiveCap] administrativa zosnovala operaci, jejímž cílem bylo přerušit naši kontrolu nad záležitostmi její země. [SOV.GetAdjectiveCap] personál po celém [ETH.Capital.GetCapitalVictoryPointName] byl v doprovodu [ETH.GetAdjective] jednotek odváděn do improvizovaných detenčních zařízení, než [ETH.GetLeader] informoval našeho velvyslance, že přebírá plnou kontrolu nad [ETH.GetAdjective] záležitostmi. Pokud zareagujeme rychle, možná se nám podaří znovu získat kontrolu nad situací. Okno příležitosti se však rychle uzavírá."
+ BBA_ethiopia_communist_events.52.desc: "Administrace [ETH.GetAdjective] zorganizovala operaci za účelem zvrácení naší kontroly nad záležitostmi státu. [SOV.GetAdjective] personál napříč [ETH.Capital.GetCapitalVictoryPointName] byl doprovázen [ETH.GetAdjective] jednotkami do provizorních detenčních center, než [ETH.Getleader] informoval našeho velvyslance, že [ETH.GetLeader.GetSheHe] převezme plnou kontrolu nad [ETH.GetAdjective] záležitostmi. Pokud budeme jednat rychle, můžeme být schopni znovu získat kontrolu nad situací. Nicméně okno příležitosti pro takový krok rychle mizí." # todo: CHANGED
  BBA_ethiopia_communist_events.52.t: "[ETH.GetNameDefCap] přerušuje vazby na [SOV.GetNameDef]"
  BBA_ethiopia_communist_events.53.a: "Lepší než nic."
  BBA_ethiopia_communist_events.53.desc: "V neuspokojivém obratu událostí nás [SOV.GetAdjective] diplomaté informovali, že momentálně nemohou uvolnit žádný vojenský personál. Uvádějí bezpečnostní obavy blíže k vlastním hranicím. Jako gesto dobré vůle nám však zaslali zásilku pěchotní výstroje."
@@ -691,14 +691,14 @@
  BBA_ethiopia_imperial_events.9.desc: "Bohužel [FROM.GetNameDef] odmítá velkorysou nabídku stát se našim subjektem. Navzdory našemu úsilí se nám nepodařilo přesvědčit [FROM.GetAdjective] vládu, že by to bylo ku prospěchu obou stran."
  BBA_ethiopia_imperial_events.9.t: "[FROM.GetNameDefCap] odmítá se podřídit"
  BBA_ethiopia_industrial_financial_events.2.a: "Nemají na to žádné právo!"
- BBA_ethiopia_industrial_financial_events.2.b: "Pokud si zachováme alespoň určitou míru autonomie"
+ BBA_ethiopia_industrial_financial_events.2.b: "Dokud si můžeme zachovat nějakou míru autonomie" # todo: CHANGED
  BBA_ethiopia_industrial_financial_events.2.c: "Je to skutečně v zájmu obou našich zemí"
- BBA_ethiopia_industrial_financial_events.2.desc: "S odkazem na skutečnost, že [ROOT.GetName] a [FROM.GetName] jsou úzce ekonomicky propojené a že velkou část [ROOT.GetAdjective] průmyslu již kontroluje [FROM.GetName], požaduje [FROM.GetLeader] odstranění pohraničních kontrol mezi oběma zeměmi. Kontrolu veškeré zahraniční politiky bude mít na starosti [FROM.GetName], aby byla zajištěna maximální ochrana, koordinace a efektivita. Fakticky by to znamenalo konec [ROOT.GetAdjective] nezávislosti.\nTo vše má být provedeno v nejlepším zájmu obou zemí, ujišťuje [FROM.GetLeader]."
+ BBA_ethiopia_industrial_financial_events.2.desc: "[FROM.GetLeader] s odkazem na skutečnost, že hospodářství [ROOT.GetName] a [FROM.GetName] jsou tak provázaná a že většina průmyslu v [ROOT.GetName] je již kontrolována [FROM.GetName], požaduje odstranění hraničních stanic mezi oběma zeměmi. Kontrola veškeré zahraniční politiky má být umístěna pod kontrolu [FROM.Getname], aby byla zajištěna maximální ochrana, koordinace a efektivita. V praxi by to znamenalo konec [ROOT.GetAdjective] nezávislosti.\n Všechny tyto kroky budou provedeny v nejlepším zájmu obou zemí, ujišťuje [FROM.GetLeader]." # todo: CHANGED
  BBA_ethiopia_industrial_financial_events.2.t: "[FROM.GetNameDefCap] požaduje integraci"
  BBA_ethiopia_industrial_financial_events.3.a: "Možná budeme muset použít sílu k ochraně našich zájmů"
  BBA_ethiopia_industrial_financial_events.3.desc: "Navzdory našemu úsilí vysvětlit situaci [FROM.GetLeader] odmítá vyhovět našim požadavkům posunout integraci našich ekonomik na vyšší úroveň. [FROM.GetLeader] tvrdí, že [FROM.GetAdjective] nezávislost nesmí být pošpiněna a nikdy nemůže být předmětem jakékoli diskuse."
  BBA_ethiopia_industrial_financial_events.3.t: "[FROM.GetName] odmítá spolupráci"
- BBA_ethiopia_industrial_financial_events.4.a: "Tomu lze vyhovět"
+ BBA_ethiopia_industrial_financial_events.4.a: "To lze jistě umožnit" # todo: CHANGED
  BBA_ethiopia_industrial_financial_events.4.desc: "[FROM.GetLeader] uznává potřebu dále prohlubovat naši spolupráci a koordinovat zahraniční i finanční politiku více než dosud. Zároveň však chce, ať si [FROM.GetName] v nové federaci zachová určitou míru autonomie."
  BBA_ethiopia_industrial_financial_events.4.t: "[FROM.GetName] chce si zachovat částečnou kontrolu"
  BBA_ethiopia_industrial_financial_events.5.a: "Je to ku prospěchu všech"
@@ -709,7 +709,7 @@
  BBA_ethiopia_military_and_tech_events.1.b: "Škola nám pomůže přejít k defenzivnějšímu myšlení"
  BBA_ethiopia_military_and_tech_events.1.c: "Škola zajistí, že nikdy nebudeme na válku nepřipraveni"
  BBA_ethiopia_military_and_tech_events.1.t: "Absolventi [GetEthiopianMilitaryAcademyName]"
- BBA_ethiopia_military_and_tech_events.1_peace.desc: "S válkou za námi máme nyní možnost dokončit vybudování naší vojenské akademie. První ročník kadetů může pomoci naší zemi vyhrát budoucí války a zajistit co nejlepší využití zkušeností z bojů s Italy."
+ BBA_ethiopia_military_and_tech_events.1_peace.desc: "Po skončení války máme nyní šanci dokončit zřízení naší vojenské akademie. První třída kadetů může pomoci naší zemi vyhrávat budoucí války a zajistit, že co nejlépe využijeme zkušenosti z boje s Italy." # todo: CHANGED
  BBA_ethiopia_military_and_tech_events.1_war.desc: "[GetEthiopianMilitaryAcademyName] uzavírá svůj první rok a úplně první ročník, který ho dokončil, bude muset zamířit přímo ze školy do války. Vybudovat tuto školu a dokončit výcvik prvního ročníku kadetů, a to současně s vedením války, je skutečně mimořádný výkon.\nToto je začátek nové éry pro [ROOT.GetAdjective] armádu!"
  BBA_italo_ethiopian_war_events.01.a: "Jakýmikoli prostředky"
  BBA_italo_ethiopian_war_events.01.b: "Musíme postupovat metodicky a uvážlivě"
@@ -719,7 +719,7 @@
  BBA_italo_ethiopian_war_events.02.desc: "Italové se snaží znovu získat iniciativu ve válce. Zahajují rozsáhlou ofenzívu ve snaze prorazit naše linie a zničit [ROOT.GetAdjective] říši jediným úderem.\nNaše síly musí vydržet. Je zásadní, aby odolaly dostatečně dlouho intenzivnímu bombardování a útokům tanků a dělostřelectva, abychom získali čas přesvědčit mezinárodní společenství, aby jednalo v náš prospěch."
  BBA_italo_ethiopian_war_events.02.t: "Hlavní italská ofenzíva"
  BBA_italo_ethiopian_war_events.03.a: "Sázky se zvyšují."
- BBA_italo_ethiopian_war_events.03.desc: "Naše ofenzíva zatlačila Italy zpět, ale nedosáhla svého cíle. Našim jednotkám došel dech a Italové se vzpamatovávají z šoku, který jim způsobila naše ofenziva.\nZpravodajské zprávy naznačují, že připravují nový postup, lépe připravený než minule. Naše síly musí vydržet. Čím déle je udržíme mimo naši zemi, tím více prostředků budou muset nasadit a tím snazší bude přesvědčit Společnost národů, že nejde o žádnou „koloniální potyčku“, ale o brutální agresi jednoho členského státu proti druhému."
+ BBA_italo_ethiopian_war_events.03.desc: "Naše ofenzíva sice Italy zatlačila zpět, ale nepodařilo se jí dosáhnout cíle. Naše oddíly ztratily hybnost a Italové se zotavují ze šoku po našem útoku.\nZpravodajské zprávy naznačují, že připravují nový útok, lépe připravený než ten minulý. Naše síly musí vydržet. Čím déle je udržíme mimo naši zemi, tím více budou nuceni nasadit, a tím snazší bude přesvědčit Společnost národů, že toto není pouhý "koloniální potyčka", ale krutá agrese jedné členské země proti jiné." # todo: CHANGED
  BBA_italo_ethiopian_war_events.03.t: "Italské posilování"
  BBA_italo_ethiopian_war_events.10.a: "Je to správná věc"
  BBA_italo_ethiopian_war_events.10.b: "Nemůžeme ohrožovat naši ekonomiku"
@@ -755,7 +755,7 @@
  BBA_italo_ethiopian_war_events.113.desc: "Společnost národů požaduje, ať [FROM.GetNameDef] okamžitě ukončí agresi, které obětí je [ETH.GetName]. [FROM.GetLeader] však zůstává neústupný a odmítá vyhovět. Jedná se o zjevné porušení mezinárodních pravidel a rada vyzvala mezinárodní společenství k akci."
  BBA_italo_ethiopian_war_events.113.t: "[FROM.GetName] odmítá vyhovět rezoluci Společnosti národů"
  BBA_italo_ethiopian_war_events.12.a: "Opravdu se nedá nikomu věřit, že?"
- BBA_italo_ethiopian_war_events.12.desc: "[FROM.GetLeader] informoval radu Společnosti národů, že [FROM.GetNameDef] neuzavře Suezský průplav pro [ITA.GetAdjective] lodě. Jedná se o jasné porušení mezinárodních dohod a po výzvě k nápravě [FROM.GetName] jednoduše oznámuje, že vystupuje ze Společnosti národů."
+ BBA_italo_ethiopian_war_events.12.desc: "[FROM.GetLeader] informoval Radu Společnosti národů, že [FROM.GetNameDef] nezavře Suezský průplav pro [ITA.GetName]. To je jasné porušení mezinárodních dohod, a když byli vyzváni k dodržení, [FROM.GetName] jednoduše oznámili, že opouštějí Společnost národů." # todo: CHANGED
  BBA_italo_ethiopian_war_events.12.t: "[FROM.GetName] odmítá uzavřít Suez"
  BBA_italo_ethiopian_war_events.120.a: "Měli bychom se zaměřit na něco jednoduššího"
  BBA_italo_ethiopian_war_events.120.b: "Stále to můžeme vyhrát!"
@@ -779,7 +779,7 @@
  BBA_italo_ethiopian_war_events.15.a: "Dobře"
  BBA_italo_ethiopian_war_events.15.b: "Škoda"
  BBA_italo_ethiopian_war_events.15.desc_a: "V důsledku rezoluce Společnosti národů umožňující podporu [ROOT.GetNonIdeologyName] začali přicházet dobrovolníci z celého světa. Z těchto dobrovolníků se formují mezinárodní brigády. Doufejme, že jejich bojové schopnosti odpovídají jejich nadšení."
- BBA_italo_ethiopian_war_events.15.desc_b: "I po rezoluci Společnosti národů umožňující podporu [ROOT.GetNonIdeologyName] je počet dobrovolníků, kteří nám přicházejí pomoci, bohužel velmi malý. Doufejme, že bojové schopnosti těchto statečných bojovníků za svobodu odpovídají jejich nadšení."
+ BBA_italo_ethiopian_war_events.15.desc_b: "I přes rezoluci Společnosti národů, která dovoluje podporu [ROOT.GetName], je počet dobrovolníků přicházejících nám pomoci v našem válečném úsilí bohužel velmi malý. Snad budou bojové schopnosti těchto statečných bojovníků za svobodu odpovídat jejich nadšení." # todo: CHANGED
  BBA_italo_ethiopian_war_events.15.t: "Naše výzva k mezinárodní pomoci"
  BBA_italo_ethiopian_war_events.16.a: "Budeme muset počkat a uvidíme."
  BBA_italo_ethiopian_war_events.16.desc: "Společnost národů nezašla tak daleko, aby se pokusila vytvořit vojenskou sílu k vyhnání [ITA.GetNonIdeologyName] z [ROOT.GetNonIdeologyName]. Povzbuzovala však členské státy k vyslání sil na pomoc při obnovení status quo. Existují náznaky, že několik zemí, i [FROM.GetName], organizuje výpravy. Zda jde jen o řeči, nebo skutečně přijdou na pomoc, se teprve ukáže."
@@ -797,7 +797,7 @@
  BBA_italo_ethiopian_war_events.202.desc: "Zpočátku to byl jen ojedinělé incidenty - některé nepravidelné jednotky nepřítele ztrácely víru a přecházely na naši stranu. Nyní však vojáci dezertují hromadně, a to nejen branci. Někteří dezertéři s sebou dokonce přinášejí těžkou techniku."
  BBA_italo_ethiopian_war_events.202.t: "Dezertace nepřítele"
  BBA_italo_ethiopian_war_events.203.a: "Zatlačíme vetřelce do moře"
- BBA_italo_ethiopian_war_events.203.desc: "Takzvaní odborníci nám při začátku války nedávali ani měsíc. Vydrželi jsme proti takzvané moderní armádě mnohem déle. Víme, jak bojují, a přizpůsobili jsme se tomu. Víra lidu se vrací, rekruti se hrnou k praporům z blízka i z daleka."
+ BBA_italo_ethiopian_war_events.203.desc: "Takzvaní odborníci nám na začátku války nedávali ani měsíc. Vydrželi jsme proti takzvané moderní armádě mnohem déle. Víme, jak bojují, a přizpůsobili jsme se tomu. Víra mezi lidmi se vrací, rekruti se hrnou pod prapory z blízka i daleka." # todo: CHANGED
  BBA_italo_ethiopian_war_events.203.t: "Přežití navzdory všem překážkám"
  BBA_italo_ethiopian_war_events.204.a: "Vítězství je nyní blízko"
  BBA_italo_ethiopian_war_events.204.desc: "Všude lidé povstávají proti vetřelcům, mladí i staří se přidávají k odboji a [ITA.GetName] musí vynakládat stále větší úsilí na jakýkoli postup. Ti, kteří nemohou bojovat, vyrábějí zbraně a vybavení pro armádu."
@@ -822,7 +822,7 @@
  BBA_italo_ethiopian_war_events.305.t: "Povyk v koloniích"
  BBA_italo_ethiopian_war_events.400.a: "Poslat ultimátum požadující úplné podrobení"
  BBA_italo_ethiopian_war_events.400.b: "[AFA.GetNameDef] vyřešíme později. Teď na to není čas."
- BBA_italo_ethiopian_war_events.400.desc: "[AFA.GetLeader], [AFA.GetAdjective] sultán, byl po dlouhou dobu pod silným [ROOT.GetAdjective] vlivem. Stejně jako v poslední válce zůstal neutrální, přestože je formálně součástí [ETH.GetAdjective] říše. Ve skutečnosti je jediným důvodem, proč má sultán stále moc, [ROOT.GetAdjective] dobrá vůle. Země sice prodala své pobřeží do [ROOT.GetNonIdeologyName], ale stále představuje překážku našeho dobývání. Pokud zabereme [?ITA.ITA_capture_state.GetName], mohlo by to stačit k přesvědčení sultána, aby se vzdal zbytku svého území."
+ BBA_italo_ethiopian_war_events.400.desc: "[AFA.GetLeader], sultán [AFA.GetNameDef], byl po dlouhou dobu pod silným vlivem [ROOT.GetAdjective]. Stejně jako během poslední války zůstal neutralní, přestože formálně patří do [ETH.GetAdjective] impéria. Ve skutečnosti jediným důvodem, proč sultán stále drží moc, je dobrá vůle [ROOT.GetAdjective]. Země možná prodala své pobřeží [ROOT.GetName], ale stále je překážkou v našem dobývání. Obsazení [?ITA.ITA_capture_state.GetName] by mohlo stačit, aby sultána přesvědčilo vzdát se zbytku svého území." # todo: CHANGED
  BBA_italo_ethiopian_war_events.400.t: "[AFA.GetNameDef] - teď nastal tvůj čas"
  BBA_italo_ethiopian_war_events.401.a: "Nemá smysl odporovat"
  BBA_italo_ethiopian_war_events.401.b: "Pokud chtějí naši zemi, budou si ji muset vzít silou"
@@ -1118,20 +1118,20 @@
  BBA_italy_interaction_events.13.t: "[FROM.GetName] odmítá předat Černou Horu"
  BBA_italy_interaction_events.14.a: "Stejně tam nemáme proč držet vojska"
  BBA_italy_interaction_events.14.b: "To by znamenalo, že se nemůžeme bránit!"
- BBA_italy_interaction_events.14.desc: "[ITA.GetLeader] vznesl požadavky na bezpečnostní záruky mezi našimi zeměmi, což je ještě pochopitelné. Mnohem pobuřující je však jeho požadavka, ať jsou [342.GetName] i [339.GetName] úplně demilitarizovány, což by mohlo vážně ohrozit naši bezpečnost, jelikož bychom nebyli schopni zřídit základní obranné pozice, pokud se nás [ITA.GetName] nebo jejich spojenci rozhodnu napadnout."
+ BBA_italy_interaction_events.14.desc: "[ITA.GetLeader] vydal požadavky na záruky bezpečnosti mezi našimi dvěma zeměmi, což je rozumělé. To, co je však neslýchané, je, že [ITA.GetLeader] také požaduje, abychom kompletně demilitarizovali jak [342.GetName], tak [339.GetName], což by mohlo ohrozit naši bezpečnost, neboť by to pro nás znamenalo neschopnost zřídit počáteční obranné pozice v případě, že by nás napadlo [ITA.GetName] nebo některý z jejích spojenců." # todo: CHANGED
  BBA_italy_interaction_events.14.t: "[ITA.GetName] požaduje úplnou demilitarizaci západní Anatolie"
  BBA_italy_interaction_events.15.a: "To nebudou očekávat"
- BBA_italy_interaction_events.15.desc: "[FROM.GetName] souhlasí s našimi požadavky a proto plně demilitarizuje západní Anatolii. To znamená, že budou mnohem slabší a nebudou schopni klást počáteční odpor, pokud bychom se rozhodli zaútočit."
+ BBA_italy_interaction_events.15.desc: "[FROM.GetName] souhlasil s našimi požadavky a rozhodl se kompletně demilitarizovat západní Anatolii. To znamená, že budou mnohem slabší a nebudou mít možnost poskytnout počáteční odpor, pokud bychom je napadli." # todo: CHANGED
  BBA_italy_interaction_events.15.t: "[FROM.GetName] vyhovuje našim požadavkům"
  BBA_italy_interaction_events.16.a: "Nenechávají nám jinou možnost"
- BBA_italy_interaction_events.16.desc: "[FROM.GetName] odmítá naši přátelskou žádost o bezpečnostní záruky a demilitarizaci [342.GetName] a [339.GetName]. To je naprosto nepřijatelné a budeme to muset řešit po svém."
+ BBA_italy_interaction_events.16.desc: "[FROM.GetName] odmítl naši přátelskou žádost o záruky bezpečnosti a odmítl demilitarizaci [342.GetName] a [339.GetName]. To je za hranou, a bude to třeba vyřešit po svém." # todo: CHANGED
  BBA_italy_interaction_events.16.t: "[FROM.GetName] nám upírá právo cítit se bezpečně!"
  BBA_italy_interaction_events.17.a: "Moc s tím nenaděláme..."
  BBA_italy_interaction_events.17.desc: "Náš suzerén [ITA.GetName] přijímá rozhodnutí předat region [45.GetName] Maďarům, kteří je ovládají. Má to posílit vztahy mezi italským a maďarským státem a nelze s tím mnoho dělat. Přesto podáme malý diplomatický protest, i když jej vyšší místa nejspíš ani nebudou číst."
  BBA_italy_interaction_events.17.t: "[ITA.GetName] převádí region [45.GetName] na [HUN.GetName]"
  BBA_italy_interaction_events.18.a: "Jsme o krok blíže ke znovusjednocení Řecka!"
  BBA_italy_interaction_events.18.b: "Italům se nepodřídíme, ať už jsou podmínky jakékoli!"
- BBA_italy_interaction_events.18.desc: "[ITA.GetNameDef] nás oslovuje s lákavou nabídkou. Nabízí nám vlastnictví Rhodu a Dodekanéských ostrovů výměnou za spojenectví. Je to nabídka, která zní až příliš dobře, aby byla pravdivá - a přesto je. Jak se rozhodneme?"
+ BBA_italy_interaction_events.18.desc: "[ITA.GetNameDef] nás oslovil lákavou nabídkou. Nabízejí nám vlastnictví ostrova Rhodos a Dodekanéských ostrovů výměnou za spojenectví s nimi. Zdá se, že je to nabídka, která je téměř příliš dobrá, aby byla pravdivá, ale není. Co máme dělat?" # todo: CHANGED
  BBA_italy_interaction_events.18.t: "Itálie nás oslovuje s nabídkou"
  BBA_italy_interaction_events.19.a: "A spojenectví tedy vznikne"
  BBA_italy_interaction_events.19.desc: "Řecká vláda dnes oznámila, že přijala naši nabídku a výměnou za vlastnictví Dodekanéských ostrovů zahájí vojenskou spolupráci. Uvidíme, kam nás to zavede."
@@ -1142,9 +1142,9 @@
  BBA_italy_interaction_events.20.a: "Bez nich nám bude lépe"
  BBA_italy_interaction_events.20.desc: "Řečtí zrádci odmítli naši nabídku na prodej ostrovů výměnou za spojenectví. To jen dokazuje neschopnost a slabost jejich vlády."
  BBA_italy_interaction_events.20.t: "[GRE.GetNameDef] nevděčně odmítá naši nabídku"
- BBA_italy_interaction_events.21.a: "Smola, Řecko, my jsme byli první!"
+ BBA_italy_interaction_events.21.a: "To máš, Řecko! Získali jsme to jako první!" # todo: CHANGED
  BBA_italy_interaction_events.21.b: "Italům se nepodřídíme, ať už jsou podmínky jakékoli!"
- BBA_italy_interaction_events.21.desc: "[ITA.GetNameDef] nás oslovila s lákavou nabídkou. Nabízí nám vlastnictví Rhodu a Dodekanéských ostrovů výměnou za spojenectví. Je to nabídka, která zní až příliš dobře, aby byla pravdivá - a přesto je. Jak se rozhodneme?"
+ BBA_italy_interaction_events.21.desc: "[ITA.GetNameDef] nás oslovil lákavou nabídkou. Nabízejí nám vlastnictví ostrova Rhodos a Dodekanéských ostrovů výměnou za spojenectví s nimi. Zdá se, že je to nabídka, která je téměř příliš dobrá, aby byla pravdivá, ale není. Co máme dělat?" # todo: CHANGED
  BBA_italy_interaction_events.21.t: "Itálie nás oslovuje s nabídkou"
  BBA_italy_interaction_events.22.a: "A spojenectví tedy vznikne"
  BBA_italy_interaction_events.22.desc: "Turecká vláda dnes oznámila, že přijala naši nabídku a výměnou za vlastnictví Dodekanéských ostrovů zahájí vojenskou spolupráci. Uvidíme, kam nás to zavede."
@@ -1173,7 +1173,7 @@
  BBA_italy_interaction_events.27.t: "Itálie nás žádá o pomoc proti Německu"
  BBA_italy_interaction_events.28.a: "Oui, pour la liberté!"
  BBA_italy_interaction_events.28.b: "Jen pokud oni a [ETH.GetNonIdeologyName] uzavřou mír"
- BBA_italy_interaction_events.28.desc: "Naši jihovýchodní sousedé nás požádali o pomoc při obraně Rakouska před možným německým útokem. Rakouskou nezávislost již garantují a žádají nás, abychom učinili totéž. Jak odpovíme?"
+ BBA_italy_interaction_events.28.desc: "Naši sousedé na jihovýchodě nás požádali, abychom jim pomohli odrazit případný německý útok proti státu Rakousko, jehož nezávislost právě garantují. Teď od nás žádají totéž. Jak máme reagovat?" # todo: CHANGED
  BBA_italy_interaction_events.28.t: "Itálie nás žádá o pomoc proti Německu"
  BBA_italy_interaction_events.29.a: "Nemůžeme je zastavit"
  BBA_italy_interaction_events.29.b: "Musíme se od nich distancovat"
@@ -1238,7 +1238,7 @@
  BBA_italy_interaction_events.4.t: "Požadavky na korunovaci italského prince"
  BBA_italy_interaction_events.40.a: "Podmínky jsou přijatelné"
  BBA_italy_interaction_events.40.b: "Francie nikdy nebude stát po boku Itálie"
- BBA_italy_interaction_events.40.desc: "Poté, co byly dohodnuty územní ústupky, zahájuje [ITA.GetName] proces, který má Itálii a Francii přivést do vojenské aliance zvané Streská fronta. Nyní není čas nečinně přihlížet - Francie musí jednat ve svém vlastním zájmu a spojit se s Itálií proti německé hrozbě."
+ BBA_italy_interaction_events.40.desc: "Nyní, když byly určeny územní ústupky, [ITA.GetName] zahájila proces, který přivede Itálii a Francii do vojenského spojenectví nazývaného Stresa Front. Není čas sedět bez hnutí; Francie musí jednat ve svém vlastním nejlepším zájmu a připojit se k Itálii proti německému nebezpečí." # todo: CHANGED
  BBA_italy_interaction_events.40.t: "Ratifikace Streské fronty"
  BBA_italy_interaction_events.41.a: "Nabídka, kterou nelze odmítnout"
  BBA_italy_interaction_events.41.b: "Lid chce svou nezávislost!"
@@ -1252,7 +1252,7 @@
  BBA_italy_interaction_events.43.t: "[FROM.GetName] odmítá naši nabídku"
  BBA_italy_interaction_events.44.a: "Zní to dobře"
  BBA_italy_interaction_events.44.b: "Proč bychom se měli spojovat s imperialisty?"
- BBA_italy_interaction_events.44.desc: "[FROM.GetLeader] zahájil iniciativu vytvořit alianci se státy Jižní Ameriky a sjednotit latinské kultury pod jednou vládou. To by pro nás mohla být dobrá záruka ochrany před Strýčkem Samem. Jak odpovíme?"
+ BBA_italy_interaction_events.44.desc: "[FROM.GetLeader] zahájil iniciativu spojenectví s národy Jižní Ameriky a sjednocení latinských kultur pod jedním mocenským celkem. To se zdá jako dobrá příležitost k ochraně před [USA.GetNameDef]. Jak máme reagovat?" # todo: CHANGED
  BBA_italy_interaction_events.44.t: "[FROM.GetName] nás zve do aliance"
  BBA_italy_interaction_events.45.a: "Skvělé"
  BBA_italy_interaction_events.45.desc: "[FROM.GetName] pokorně přijal naši nabídku aliance a připojil se k nám v boji proti společným nepřátelům. [ITA.GetNameDef] a Jižní Amerika ode dneška zahajují novou éru."
@@ -1598,11 +1598,11 @@
  BBA_swiss_expansion.11.t: "[FROM.GetNameDefCap] nás odmítá!"
  BBA_swiss_expansion.12.a: "Ať mají ty Alpy"
  BBA_swiss_expansion.12.b: "To je nepřijatelné!"
- BBA_swiss_expansion.12.desc: "V nečekaném zvratu událostí si [FROM.GetNameDef] činí nárok na [ROOT.GetAdjective] Alpy. Jejich argumentace je přinejlepším chatrná, nicméně mají značnou část populace rozmístěnou a připravenou k invazi, pokud odmítneme. Spolu s velmi příznivým terénem by případná válka byla dlouhá a nákladná, a proto musíme pečlivě zvážit své možnosti."
+ BBA_swiss_expansion.12.desc: "V nečekaném vývoji událostí [FROM.GetNameDef] uplatňuje nárok na [ROOT.GetAdjective] Alpy. Jejich argumenty jsou v lepším případě slabé, ale mají nasazen velký podíl populace připravený k invazi, pokud odmítneme. To spolu s velmi příznivým terénem pro ně by znamenalo dlouhou a nákladnou válku, pokud řekneme ne, takže musíme zvážit naše možnosti." # todo: CHANGED
  BBA_swiss_expansion.12.desc_FRA: "[FROM.GetNameDef], naše sesterská republika  usiluje o převzetí všech Alp pod svou ochranu a vznesla na ně nárok.\n\nNaše [ROOT.GetAdjective] Alpy jsou již velmi dlouho součástí našeho státu, avšak jejich začlenění do [FROM.GetAdjective] území by je odměnilo za jejich loajalitu a odhodlání a učinilo by z nich ještě silnějšího spojence."
  BBA_swiss_expansion.12.t: "[FROM.GetName] si činí nárok na naše alpská území"
  BBA_swiss_expansion.13.a: "Vítáme tyto nové kantony!"
- BBA_swiss_expansion.13.desc: "[FROM.GetAdjectiveCap] vláda učinila správné rozhodnutí a uznala, že jejich alpská území nám právem náleží. To nám zaručí větší bezpečnost před dalšími agresory."
+ BBA_swiss_expansion.13.desc: "[FROM.GetAdjective] vláda učinila správné rozhodnutí a připustila, že jejich alpská území právoplatně patří nám. To dále zaručí naši bezpečnost před agresory." # todo: CHANGED
  BBA_swiss_expansion.13.t: "[FROM.GetNameDefCap] přijímá naše požadavky!"
  BBA_swiss_expansion.14.a: "Získáme je tak či onak"
  BBA_swiss_expansion.14.desc: "Navzdory našemu ráznému požadavku na [FROM.GetAdjective] Alpy vyjádřuje [FROM.GetNameDef] odmítnutí našich nároků. Stále však máme jiné způsoby, jak se tohoto území zmocnit, pokud se rozhodneme pokračovat."
@@ -1666,14 +1666,14 @@
  BBA_switzerland.11.a: "Je to to nejlepší, co teď můžeme udělat"
  BBA_switzerland.11.b: "Na tohle nezapomeneme!"
  BBA_switzerland.11.desc_GER: "[SWI.GetNameDefCap] se opovažuje udělit Gustloffovu vrahovi ubohý osmnáctiletý trest! Je to politováníhodné, ale nemohli jsme více tlačit na přísnější rozsudek, aniž bychom riskovali zesílení výzev k bojkotu olympijských her.\n\nProzatím z Gustloffa alespoň udělá [?SWI.SWI_fascist_germany.GetNameDef] mučedníka a vraždu využijeme k propagandě. Možná se při budoucí invazi k Frankfurterovi dostaneme a vykonáme svou spravedlnost."
- BBA_switzerland.11.desc_SWI: "Protože se Spolková rada rozhodla do případu nezasahovat a ponechat jej soudům a právu Graubündenu, byl David Frankfurter, který úmyslně zavraždil Wilhelma Gustloffa, odsouzen k osmnácti letům vězení.\n\nVíme, že [?SWI.SWI_fascist_germany.GetNameDef] by si přál mnohem přísnější trest, takže naši diplomaté budou mít plné ruce práce s jejich uklidněním. Nemohli jsme si však dovolit v takové době působit dojmem, že se stavíme na jednu stranu. Právě neutralita může udržet [SWI.GetAdjective] lid v bezpečí během nadcházející bouře."
+ BBA_switzerland.11.desc_SWI: "Rada se rozhodla držet od případu stranou a svěřit ho soudům a grisonským zákonům; David Frankfurter, který úmyslně zavraždil Wilhelma Gustloffa, byl odsouzen k 18 letům vězení. \n\nVíme, že [?SWI.SWI_fascist_germany.GetNameDef] by si přál mnohem přísnější trest, takže naši diplomaté budou mít co dělat, aby je uklidnili, ale nemohli jsme riskovat, že v těchto časech budeme vypadat, že bereme stranu. Naše neutralita je to, co může během bouře, která přijde, udržet [SWI.GetAdjective] lid v bezpečí." # todo: CHANGED
  BBA_switzerland.11.t: "David Frankfurter odsouzen k vězení"
  BBA_switzerland.12.a: "Bude omilostněn"
  BBA_switzerland.12.b: "Odpyká si celý trest"
  BBA_switzerland.12.desc: "Nyní, když válka skončila a $GER_fascism_DEF$ již neexistuje, požádal David Frankfurter s pomocí svého právního zástupce George Brunschviga o milost za zabití Wilhelma Gustloffa v roce 1936.\n\nProtože již nejsme obklopeni fašistickými režimy a Frankfurterův čin byl nově zasazen do kontextu nacistických zvěrstev odhalených během války, nehrozí téměř žádné riziko vyplývající z jeho omilostnění. [ROOT.GetName] mu dokonce může zakázat návrat, jen tak, pro jistotu."
  BBA_switzerland.12.t: "David Frankfurter žádá o milost"
  BBA_switzerland.13.a: "Možná nakonec invaze nebude nutná"
- BBA_switzerland.13.desc: "Zástupce, kterého jsme vyslali, aby radil vdově po Gustloffovi, se vrátil se skvělými zprávami. Rozsudek [SWI.GetAdjective] soudců uložil Davidu Frankfurterovi velmi přísný trest, téměř odpovídající našim požadavkům."
+ BBA_switzerland.13.desc: "Zástupce, kterého jsme poslali poradit vdově po Gustloffovi, se vrátil s vynikajícími zprávami. Rozsudek soudců v [SWI.GetName] dal Davidu Frankfurterovi velmi přísný trest, který je dostatečně blízko tomu, co jsme požadovali." # todo: CHANGED
  BBA_switzerland.13.t: "[SWI.GetNameDefCap] přijímá náš požadavek"
  BBA_switzerland.14.a: "Uklidníme je, ale jejich žádost budeme ignorovat"
  BBA_switzerland.14.b: "Mají v něčem pravdu"
@@ -1754,7 +1754,7 @@
  BBA_switzerland.9.t: "[SWI.GetName] nás provokuje!"
  BBA_switzerland.97.a: "Vlny ožijí zvukem našich torpéd"
  BBA_switzerland.97.b: "On i jeho rodina mohou zůstat ve Švýcarsku a vystupovat dál"
- BBA_switzerland.97.desc: "Pod záminkou evropského turné se svou hudebně nadanou rodinou překročil naše hranice z Rakouska veterán ponorkového námořnictva a nabízí své pro [ROOT.GetNameDef] své služby výměnou za azyl.\n\nGeorg von Trapp měl působivou kariéru v rakousko-uherském námořnictvu, ale po Velké válce, rozpadu říše a ztrátě majetku vystupoval se svou rodinou zpěváků a hudebníků. Poté co [GER.GetNameDef] anektovalo Rakousko je tlačen do služby, a proto uprchl.\n\nJe jisté, že hudební nadání jeho rodiny bude vítáno stejně jako jeho námořní zkušenosti, zejména když nyní disponujeme pobřežím, ale nemáme personál k jeho obraně."
+ BBA_switzerland.97.desc: "Pod záminkou evropského turné se svou hudebně nadanou rodinou překročil náš hraniční pás z Rakouska veteránský kapitán ponorky a nabízí své služby [ROOT.GetNameDef] výměnou za azyl.\n\nGeorg von Trapp měl působivou kariéru v rakousko-uherském námořnictvu, ale od konce Velké války, rozpadu říše a ztráty svého majetku vystupoval se svou rodinou jako zpěvák a muzikant. Po anexi Rakouska [GER.GetNameDef] je nucen sloužit jim, a proto uprchl.\n\nJistě bude hudební talent jeho rodiny stejně ceněn jako jeho námořní zkušenosti, zvláště když máme pobřeží a žádné síly, které by ho bránily." # todo: CHANGED
  BBA_switzerland.97.t: "Veterán rakouského námořnictva nabízí své služby"
  BBA_switzerland_fascist.1.a: "Mohou se připojit k našemu bloku"
  BBA_switzerland_fascist.1.b: "Nepotřebujeme je!"
@@ -1788,7 +1788,7 @@
  BBA_switzerland_trade.1.b: "Naše civilní ekonomiky si navzájem pomohou"
  BBA_switzerland_trade.1.c: "Pomoc od bezzásadového neutrálního státu nepotřebujeme"
  BBA_switzerland_trade.1.d: "[FROM.GetName] není důvěryhodné"
- BBA_switzerland_trade.1.desc: "Navzdory své historické neutralitě se [FROM.GetNameDefCap] snaží navázat s naší zemí obchodní dohodu. Buď se chtějí přiklonit na naši stranu, nebo jsou zoufalejší, než jsme si mysleli.\n\nKaždopádně můžeme těžit z jejich průmyslové kapacity a výhodné polohy, aniž bychom museli podstupovat náročnou invazi do jejich silně opevněné země. Na druhou stranu by to mohlo posílit jejich postavení v případě, pokud se [ROOT.GetNameDef] rozhodne pro akci."
+ BBA_switzerland_trade.1.desc: "Přes svou historickou neutralitu se [FROM.GetNameDefCap] snaží uzavřít obchodní dohodu s naší zemí. Buď se snaží s námi sblížit, nebo jsou zoufalejší, než jsme si mysleli. \n\nKaždopádně můžeme těžit z využití jejich průmyslových kapacit a výhodné polohy, aniž bychom museli projít útrapou invaze do jejich silně opevněné země. Na druhou stranu by to mohlo posílit jejich postavení v případě budoucí invaze [ROOT.GetNameDef]" # todo: CHANGED
  BBA_switzerland_trade.1.t: "[FROM.GetNameDefCap] usiluje o obchodní dohody"
  BBA_switzerland_trade.10.a: "Nu dobrá"
  BBA_switzerland_trade.10.desc: "Navzdory zřejmému oboustrannému prospěchu se zdá, že [FROM.GetName] nemá zájem o rozšíření obchodu se zlatem se zbytkem světa."
@@ -1798,7 +1798,7 @@
  BBA_switzerland_trade.11.desc: "Již nyní využíváme [FROM.GetAdjective] trhy k obcházení obchodních bariér daných světovou politickou situací. Zvýšení našich rezerv tam by mohlo dále prospět naší ekonomice, i když by to zároveň pomohlo i té jejich."
  BBA_switzerland_trade.11.t: "Mohli bychom dále obchodovat se zlatem přes [FROM.GetAdjective] burzy"
  BBA_switzerland_trade.12.a: "Zaplatí za to"
- BBA_switzerland_trade.12.desc: "Tohle jsme měli čekat. Využili svou fasádu neutrality, aby nás bodli do zad. Bude to mít vážné následky pro naši ekonomiku a musíme odpovědět."
+ BBA_switzerland_trade.12.desc: "To je něco, co jsme měli očekávat. Využili své naoko neutrální polohy a bodli nás do zad. To bude mít vážné důsledky pro naši ekonomiku, musíme se odvetit." # todo: CHANGED
  BBA_switzerland_trade.12.t: "[FROM.GetNameDefCap] zabavuje naše zlaté rezervy!"
  BBA_switzerland_trade.13.a: "Musíme jim pomoci čelit fašismu"
  BBA_switzerland_trade.13.b: "Nic nám to nepřinese"
@@ -1808,7 +1808,7 @@
  BBA_switzerland_trade.14.desc: "Tyto investice nám pomohou zlepšit ekonomiku a umožní nám čelit těžkostem, které by fašismus mohl přinést pro [ROOT.GetNonIdeologyName]. Zároveň přiblíží naše země k sobě, možná i k přímému odporu vůči fašismu."
  BBA_switzerland_trade.14.t: "[FROM.GetNameDefCap] přinese investice pro [ROOT.GetNonIdeologyName]"
  BBA_switzerland_trade.15.a: "To je problém"
- BBA_switzerland_trade.15.desc: "Bohužel jsme byli informováni, že [FROM.GetName] nebude investovat do [ROOT.GetAdjective] ekonomiky. Vzhledem k hrozbě fašismu zůstáváme izolovanější, než bychom chtěli."
+ BBA_switzerland_trade.15.desc: "Bohužel jsme byli informováni, že [FROM.GetName] nebude investovat do [ROOT.GetAdjective] ekonomiky. Jsme více izolovaní, než bychom si přáli, vzhledem k hrozícímu nebezpečí fašismu." # todo: CHANGED
  BBA_switzerland_trade.15.t: "[FROM.GetNameDefCap] odmítá investovat"
  BBA_switzerland_trade.2.a: "Škoda"
  BBA_switzerland_trade.2.b: "Nenecháme se znovu napálit"
@@ -2056,7 +2056,7 @@
  bba_news.8.a: "Bohužel nepřekvapivé."
  bba_news.8.b: "To naše síly ještě víc roztáhne."
  bba_news.8.c: "Rozhodli se moudře."
- bba_news.8.desc: "Možná nepřekvapivě [AFA.GetNameDef] přijímá [ITA.GetAdjective] požadavky na podrobení. Zatímco [AFA.GetAdjective] vláda doufala, že se vyhne okupaci, bylo stále jasnější, že koloniální mocnosti v regionu jim na pomoc nepřijdou a ani sousední [ETH.GetName] nebude moci uvolnit vojenský personál na jejich podporu. V tak bezútěšné situaci vláda ustoupila [ITA.GetAdjective] nátlaku, aby ušetřila lid od zbytečného krveprolití. \n\n[ITA.GetAdjectiveCap] síly nyní vstupují do malého státu a zaujímají nové pozice na [ETH.GetAdjective] hranici. Není jasné, zda bude okupace trvalá a jak ovlivní širší konflikt, který spolu mají [ITA.GetName] a [ETH.GetName]."
+ bba_news.8.desc: "Možná pro mnohé nepřekvapivě, [AFA.GetNameDef] přijal požadavky [ITA.GetAdjective] na podrobení. Zatímco [AFA.GetAdjective] vláda doufala, že se vyhne okupaci, bylo čím dál jasnější, že koloniální mocnosti regionu jim nepřijdou na pomoc, ani sousední [ETH.GetName] nebude schopna uvolnit vojenský personál na jejich podporu. Situace byla natolik bezútěšná, že vláda podlehla tlaku [ITA.GetAdjective] a ušetřila tím lidem zbytečného krveprolití.\n\nSíly [ITA.GetAdjective] se nyní přesouvají do malého státu, aby zaujaly nové pozice na hranici s [ETH.GetNameDef]. Není jasné, zda bude okupace trvalá, nebo jak ovlivní širší konflikt [ITA.GetAdjective] s [ETH.GetName]. " # todo: CHANGED
  bba_news.8.t: "[AFA.GetName] se podřizuje [ITA.GetAdjective] požadavkům"
  captured_ethiopian_commanders_jimma_tt: "$ETH_seyoum_mengesha$, $ETH_ayalew_birru$, $ETH_balcho_safo$, $ETH_tadesse_birru$ a $ETH_ras_kassa$ budou uvězněni"
  captured_ethiopian_commanders_tt: "$ETH_seyoum_mengesha$, $ETH_ayalew_birru$ a $ETH_ras_kassa$ budou uvězněni"

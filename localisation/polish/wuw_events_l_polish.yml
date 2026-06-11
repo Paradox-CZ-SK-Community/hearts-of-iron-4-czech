@@ -54,7 +54,7 @@
  AUS_news_events.11.a: "Proč by to dělali?"
  AUS_news_events.11.b: "Přejeme jim hodně štěstí!"
  AUS_news_events.11.c: "Velký den pro [AUS.GetNameDef]!"
- AUS_news_events.11.desc: "[AUS.GetNameDefCap] se radikálně odklání od své minulosti a rozhodlo se založit vlastní frakci. [AUS.GetLeader] vyjadřuje naději, že další dělníci ve střední Evropě povstanou proti svým utlačovatelům a připojí se k nim v boji za práva lidu."
+ AUS_news_events.11.desc: "Odkloniv se radikálně od své minulosti, vedení [AUS.GetAdjective] pod vedením [AUS.GetLeader] se rozhodlo založit vlastní frakci. Vyjadřuje naději, že ostatní dělníci ve střední Evropě povstanou proti svým utlačovatelům a připojí se k nim v boji za práva lidu." # todo: CHANGED
  AUS_news_events.11.t: "[AUS.GetNameDefCap] zakládá $AUS_danubian_bloc$"
  AUS_news_events.12.a: "Skvělé"
  AUS_news_events.12.b: "Bereme na vědomí"
@@ -140,7 +140,7 @@
  AUS_political_events.11.desc: "[GER.GetAdjectiveCap] diplomaté vyjádřili obavy ohledně jednoho z členů našeho vojenského vrchního velení. Tvrdí, že ačkoli jsme suverénní stát a můžeme si dělat, co chceme, mohlo by to narušit diplomatické vztahy, které s námi má [GER.GetNameDef].\n\nMůžeme očekávat, že vezmou věci do vlastních rukou, pokud nebudeme jednat v jejich nejlepším zájmu."
  AUS_political_events.11.t: "[GER.GetNameDefCap] vyjadřuje nelibost vůči našemu vojenskému velení"
  AUS_political_events.110.a: "Znepokojivé"
- AUS_political_events.110.desc: "V důsledku státem financovaného shromáždění máme zprávy o prudkém nárůstu proti[ROOT.GetAdjective] nálad, které zažívá [FROM.GetNameDef]. [FROM.GetAdjectiveCap] vedení se na nás v této záležitosti přímo neobrátilo a lze jen předpokládat, že v tuto chvíli nemá zájem o diplomacii."
+ AUS_political_events.110.desc: "V důsledku vládou financovaného shromáždění máme zprávy o prudkém nárůstu anti-[ROOT.GetAdjective] v [FROM.GetNameDef]. Vedení [FROM.GetAdjective] se nám přímo neobrátilo, aby tyto záležitosti řešilo, a lze předpokládat, že v tuto chvíli nemají zájem o diplomacii." # todo: CHANGED
  AUS_political_events.110.t: "[FROM.GetNameDef] zažívá nárůst proti[ROOT.GetAdjective] nálad"
  AUS_political_events.111.a: "Minulost je minulost, podepíšeme to!"
  AUS_political_events.111.b: "Poté, co udělali? Rozhodně ne!"
@@ -163,7 +163,7 @@
  AUS_political_events.116.desc: "Dnešním dnem končí [ROOT.GetNonIdeologyName]-[FROM.GetAdjective] vojenské cvičení. Naše jednotky z něj výrazně profitovaly a doufáme, že [FROM.GetNameDef] také. Získání bližšího pohledu na operace [FROM.GetAdjective] armády nám rovněž poskytuje dobrý přehled o tom, s čím budeme pracovat, až se naše plány ohledně jejich budoucnosti naplní."
  AUS_political_events.116.t: "[ROOT.GetNonIdeologyName]-[FROM.GetAdjective] vojenské cvičení ukončeno"
  AUS_political_events.117.a: "Nevadí..."
- AUS_political_events.117.desc: "\nNavzdory zcela zjevným přínosům pro nás i [FROM.GetNameDef] odmítá náš návrh na společné vojenské cvičení. Naše armády se od sebe mohly mnoho naučit. Zároveň to mohla být vhodná příležitost, jak ovlivnit [FROM.GetNameDef] směrem, který bychom pro naše budoucí plány potřebovali."
+ AUS_political_events.117.desc: "\nNavzdory nejzřetelnějším výhodám pro nás i pro [FROM.GetNameDef] odmítli náš návrh na společné vojenské cvičení. Naše armády by se od sebe navzájem mnohé naučily. Mohla to být také příležitost k tomu, abychom ovlivnili [FROM.GetNameDef] tak, aby se posunuli tam, kde je potřebujeme pro naše budoucí plány." # todo: CHANGED
  AUS_political_events.117.t: "[FROM.GetNameDef] odmítá společné [ROOT.GetNonIdeologyName]-[FROM.GetAdjective] vojenské cvičení"
  AUS_political_events.118.a: "Budou se k nám muset připojit"
  AUS_political_events.118.b: "Necháme to na současných dohodách"
@@ -255,7 +255,7 @@
  AUS_political_events.25.desc: "[FROM.GetNameDefCap] reaguje na náš požadavek, aby se vzdali nároků na naše území, tím, že se těmto požadavkům podřídili. Zcela upustili od myšlenky získat tato území výměnou za naši podporu."
  AUS_political_events.25.t: "[FROM.GetNameDefCap] se vzdává nároků na naše území"
  AUS_political_events.26.a: "Pak jim žádná pomoc nepřísluší."
- AUS_political_events.26.desc: "Mysleli jsme si, že [FROM.GetAdjective] vláda je rozumná, když nás nedávno oslovila s žádostí o pomoc. Ukázalo se, že jsme se v nich mýlili. Na výzvu, aby se vzdali nároků na území, která nám právem patří, bezostyšně odmítli."
+ AUS_political_events.26.desc: "Mysleli jsme si, že [FROM.GetAdjective] jsou rozumný národ poté, co se nedávno obrátili na nás o pomoc. Ukázalo se, že jsme se v nich spletli. Když jsme je vyzvali, aby zřekli nároků na území, které právem patří nám, ostentativně to odmítli." # todo: CHANGED
  AUS_political_events.26.t: "[FROM.GetNameDefCap] se odmítá vzdát svých nároků"
  AUS_political_events.27.a: "Nezpůsobí žádnou újmu."
  AUS_political_events.27.b: "Rozhodně ne."
@@ -286,7 +286,7 @@
  AUS_political_events.31.desc: "Jak se po občanské válce usazuje prach, oslovili nás [FROM.GetAdjective] představitelé ohledně kompenzace za jejich úsilí v konfliktu. Požadují určitou formu odškodnění za vykonanou práci, ztracené muže a zbraně, které jejich dobrovolníci použili a opotřebovali."
  AUS_political_events.31.t: "[FROM.GetNameDefCap] žádá kompenzaci za svou pomoc"
  AUS_political_events.32.a: "Skvělé!"
- AUS_political_events.32.desc: "Naše žádost o kompenzaci byla vyslyšena [FROM.GetAdjective] nacionalisty a jako poděkování nám zapůjčili dělníky a materiál na výstavbu nové továrny v Dolním Rakousku. To nám umožní nahradit ztracené vybavení a bude velmi užitečné i do budoucna."
+ AUS_political_events.32.desc: "Náš požadavek na odškodnění byl vyslyšen [FROM.GetAdjective] nacionalisty a jako projev vděčnosti nám půjčili dělníky a materiál na vybudování nové továrny v Niederösterreich. To nám umožní nahradit ztracené vybavení a bude nám to i do budoucna velmi užitečné." # todo: CHANGED
  AUS_political_events.32.t: "[FROM.GetNameDefCap] nabízí pomoc s výstavbou nové továrny"
  AUS_political_events.33.a: "Skvělé!"
  AUS_political_events.33.desc: "Naše žádost o kompenzaci [SPA.GetAdjective] příjímá a jako poděkování nám zasílá část vybavení, které během občanské války ukořistili od svých protivníků, aby nahradili část výzbroje, o niž jsme při pomoci přišli."
@@ -297,7 +297,7 @@
  AUS_political_events.35.a: "[GetMilitiaName] už dostali svou šanci."
  AUS_political_events.35.b: "Lidé se prostě musí přizpůsobit."
  AUS_political_events.35.c: "Toto bude nový [ROOT.GetName]!"
- AUS_political_events.35.desc: "Rozhodnutí přizvat ke spolupráci [GetMilitiaName] mělo některé znepokojivé vedlejší účinky. Jakmile byla tato organizace legitimizována vedením státu, [GetMilitiaName] se stali odvážnějšími ve svých akcích proti civilnímu obyvatelstvu.\n\nNepokoje v zemi narostly, jelikož se naši lidé již necítí zcela ztotožněni s fungováním této organizace. Vůči našemu vedení se objevují otázky, zda máme [GetMilitiaName] skutečně pod kontrolou a zda toto rozhodnutí opravdu pomůže udržet zemi v bezpečí."
+ AUS_political_events.35.desc: "Naše nedávná spolupráce s [GetMilitiaName] měla několik znepokojujících vedlejších účinků. Poté, co byla organizace legalizována vedením země, se [GetMilitiaName] odvážila v útocích proti civilnímu obyvatelstvu více a více.\n\nNespokojenost v zemi vzrostla, protože naši lidé se již necítí úplně v pohodě s tím, jak organizace funguje. Vznikají otázky namířené na naše vedení, zda skutečně máme kontrolu nad [GetMilitiaName], a zda toto rozhodnutí opravdu pomůže udržet zemi v bezpečí." # todo: CHANGED
  AUS_political_events.35.t: "Paramilitární aktivity způsobují občanské nepokoje"
  AUS_political_events.36.a: "V pravý čas budeme známi jako [GetGrossosterreichCosmeticIdeology]"
  AUS_political_events.36.a_tt: "§YOdemkne rozhodnutí§! k postupné §Yintegraci německých domovských území§!."
@@ -399,7 +399,7 @@
  AUS_political_events.59.t: "[FROM.GetNameDefCap] podporuje plán Alfreda Jansi"
  AUS_political_events.6.a: "Připijme si na skvělé partnerství!"
  AUS_political_events.6.desc: "[FROM.GetNameDefCap] reaguje pozitivně na náš návrh spolupráce při budování letectva a sdílení zkušeností. Vidí obtíže, jimž čelíme po vyvázání se ze Saintgermainské smlouvy, a dokonce nám nabídli možnost nakupovat od nich přebytečné vybavení!"
- AUS_political_events.6.t: "[FROM.GetNameDefCap] přijímá náš návrh a umožňuje nám nákup vybavení"
+ AUS_political_events.6.t: "[FROM.GetNameDefCap] přijímá náš návrh a dává nám přístup k nákupu vybavení" # todo: CHANGED
  AUS_political_events.60.a: "Dobře, místo toho zvolíme Franze Böhmeho"
  AUS_political_events.60.a_tt: "§YFranz Böhme§! se stane §Gdostupným§! jako náčelník armády.\n\n§YAlfred Jansa§! §Rjiž nebude dostupný§! jako náčelník armády."
  AUS_political_events.60.b: "O to víc je důvod, proč Alfred Jansa musí zůstat!"
@@ -424,14 +424,14 @@
  AUS_political_events.65.t: "[FROM.GetNameDefCap] nabízí tržní podporu"
  AUS_political_events.66.a: "Zní to jako férová dohoda"
  AUS_political_events.66.b: "To pro nás nemá žádný přínos!"
- AUS_political_events.66.desc: "[FROM.GetLeader] se na nás obrací s tím, co označuje za nabídku. Jak federace roste, stává se stále důležitějším, aby všechny zúčastněné země bez výjimky spolupracovaly. Pro zjednodušení tohoto procesu [FROM.GetLeader] navrhuje, abychom se všichni sjednotili pod jejich vedením.\n\nUčinili bychom ústupky v oblasti suverenity, ale jako součást jednoho federativního státu bychom získali bezpečí plynoucí z větší armády a silnější diplomatické pozice."
+ AUS_political_events.66.desc: "[FROM.GetLeader] z [FROM.GetNameDef] se k nám obrátil s tím, co nazývá nabídkou. Jak federace roste, stává se stále důležitější, aby všechny zapojené země pracovaly bez selhání společně. Aby se toto zjednodušilo, navrhl [FROM.GetLeader], abychom se všichni sjednotili pod jejich vedením. \n\nUdělali bychom tím ústupky v naší suverenitě, ale jako součást jedné federativní země bychom také získali zabezpečení, které plyne z větší armády a větší diplomatické síly." # todo: CHANGED
  AUS_political_events.66.t: "[FROM.Get.GetNameDefCap] navrhuje federativní unii"
  AUS_political_events.67.a: "Skvělé!"
  AUS_political_events.67.desc: "Právě k nám dorazila skvělá zpráva, že [FROM.GetNameDef] souhlasí se vstupem do našeho nového federativního státu. To, co jsme jim nabídli, bylo zjevně dostatečné, aby považovali dohodu za výhodnou navzdory mírnému omezení jejich suverenity."
  AUS_political_events.67.t: "[FROM.GetNameDefCap] přijímá federativní unii"
  AUS_political_events.68.a: "Jsou rizikem pro jednotu federace!"
  AUS_political_events.68.b: "Budeme je bedlivě sledovat"
- AUS_political_events.68.desc: "Navzdory zjevným výhodám a skutečnosti, že by to bylo pro federaci nejlepší, [FROM.GetNameDef] odmítá náš návrh na užší unii. Lze jen spekulovat o jejich důvodech, ale zdá se, že nemají na paměti nejlepší zájmy federace."
+ AUS_political_events.68.desc: "Navzdory zřejmým výhodám a tomu, že to bylo zjevně nejlepší pro federaci, [FROM.GetNameDef] náš návrh na úzké sjednocení odmítl. Lze jen spekulovat o jejich důvodech, ale zdá se, že nemusí mít na srdci nejlepší zájmy federace." # todo: CHANGED
  AUS_political_events.68.t: "[FROM.GetNameDefCap] odmítá vstoupit do federativní unie"
  AUS_political_events.69.a: "Světlejší stránka naší současné situace"
  AUS_political_events.69.a_tt: "Odstraňuje rozhodnutí §Y$AUS_antischluss_category$§!."
@@ -475,7 +475,7 @@
  AUS_political_events.77.t: "Bezprostřední hrozba"
  AUS_political_events.78.a: "Pomůžeme, pokud budeme moci!"
  AUS_political_events.78.b: "Máme lepší věci na práci"
- AUS_political_events.78.desc: "Představitelé [FROM.GetCommunistParty] se na nás znovu obrátili se žádostí o pomoc. Přestože se v současnosti nenacházejí v ozbrojeném konfliktu, palčivá porážka občanské války a převratu v roce 1934 po boku sociálních demokratů je stále tíží. Opět usilují o to, ať je [FROM.GetNameDef] v jejich moci, a přejí si naši podporu."
+ AUS_political_events.78.desc: "Vůdci [FROM.GetCommunistParty] v [FROM.GetNameDef] se znovu obrátili na nás se žádostí o pomoc. I když nejsou v současnosti v ozbrojeném konfliktu, v mysli jim stále hoří palčivé vzpomínky na neúspěch občanské války a převrat v roce 1934 spolu se sociálními demokraty. Chtějí naši pomoc, když opět bojují o moc ve své zemi." # todo: CHANGED
  AUS_political_events.78.t: "[FROM.GetAdjectiveCap] komunisté žádají o naši podporu"
  AUS_political_events.79.a: "Skvělé!"
  AUS_political_events.79.a_tt: "V případě vypuknutí války je pravděpodobnější, že nám [FROM.GetFlag]§Y[FROM.GetNameDef]§! pošle dobrovolníky a poskytne vybavení formou Lend-Lease."
@@ -529,7 +529,7 @@
  AUS_political_events.90.a: "Kurt Schuschnigg je demokrat tělem i duší!"
  AUS_political_events.90.a_tt: "§YKurt Schuschnigg§! se stane vůdcem §YDemokratické§! strany."
  AUS_political_events.90.b: "Karl Renner nám již dříve dobře sloužil!"
- AUS_political_events.90.c: "Vinzenz Schumy osloví většinu voličů!"
+ AUS_political_events.90.c: "Vinzenz Schumy dokáže oslovit většinu voličů!" # todo: CHANGED
  AUS_political_events.90.desc: "První volby od „Seberozpuštění parlamentu“ byly ukončeny. Volební účast byla vysoká, neboť národ viděl, čím se země stane, pokud občané zanedbají své povinnosti voličů. Tři hlavní kandidáti dělí při konečném sčítání hlasů jen několik málo hlasů."
  AUS_political_events.90.t: "Výsledky našich voleb"
  AUS_political_events.91.a: "Kupředu, arcivévodo! Někdo ti podrží místo"
@@ -547,7 +547,7 @@
  AUS_political_events.93.t: "[463.GetName] mění majitele"
  AUS_political_events.94.a: "Stálo to za pokus"
  AUS_political_events.94.b: "Osvobodíme je!"
- AUS_political_events.94.desc: "Navzdory velmi vysoké částce, kterou od nás [FROM.GetNameDef] obdrží, tuto dohodu odmítají. [463.GetName] je území, na které máme zcela legitimní nárok, a který nám nyní aktivně upírají. Musíme promyslet, jak nejlépe postupovat."
+ AUS_political_events.94.desc: "Navzdory velmi vysoké částce, kterou jsme [FROM.GetNameDef] nabídli za získání [463.GetName], oni tuto dohodu odmítají. Máme velmi legitimní nárok na [463.GetName], který nám nyní aktivně zadržují. Musíme promyslet, jak v tom nejlépe postupovat." # todo: CHANGED
  AUS_political_events.94.t: "[463.GetName] zůstává [FROM.GetAdjective] územím"
  AUS_political_events.95.a: "[ROOT.GetNameDef] vás vítá!"
  AUS_political_events.95.a_tt: "Jeden pravý [ROOT.GetAdjective] patriot se přidal do našich řad"
@@ -738,14 +738,14 @@
  WW_hungary.100.t: "[FROM.GetName] nám uděluje protektorát Székelyföld"
  WW_hungary.101.a: "Svých činů budou litovat"
  WW_hungary.101.b: "Moc toho nezmůžeme"
- WW_hungary.101.desc: "[FROM.GetLeader] odmítl naše požadavky na autonomní sikulský protektorát. Sikulský lid tak zůstává zranitelný a nechráněný. Jelikož se jejich současní vládci o ně příliš nestarají, měli bychom zasáhnout a oblast obsadit?"
+ WW_hungary.101.desc: "[FROM.GetLeader] z [FROM.GetNameDef] odmítl naše požadavky na autonomní székelyský protektorát. Lidé Székely zůstávají zranitelní a nechránění. Vzhledem k tomu, že jejich současní suzeréni se o ně málo starají, měli bychom zasáhnout a obsadit tento region?" # todo: CHANGED
  WW_hungary.101.t: "[FROM.GetName] nám odmítá dát Székelyföld"
  WW_hungary.102.a: "Gömbös musí převzít mimořádné pravomoci!"
  WW_hungary.102.desc: "Po měsících kampaní a protestů proti regentu Miklósi Horthymu pochodovala fašistická hnutí, inspirovaná povstáním Křížové kosy a Mussoliniho pochodem na Řím, na naše hlavní město a požadují, aby Horthy odstoupil ve prospěch příznivějšího Gyuly Gömböse."
  WW_hungary.102.t: "Pochod na Budapešť"
  WW_hungary.103.a: "Ustoupit a učinit Szálasiho novým Nemzetvezető"
  WW_hungary.103.b: "Souhlasíme s jejich podmínkami, ale za jistých okolností"
- WW_hungary.103.desc: "Poté, co vyzbrojil Stranu národní vůle, aby pochodovala na Budapešť a pomohla mu převziž vedení ve státě, již Gömbös tyto síly nepotřebuje a snaží se je potlačit. Dnes ráno však obklíčily Sándorův palác v Budapešti a požadují jeho odstoupení ve prospěch svého vůdce Ference Szálasiho. MOVE mezitím zahájil obkličování města a země stojí na pokraji kolapsu. Jak máme postupovat?"
+ WW_hungary.103.desc: "Poté, co Gömbös vyzbrojil Stranu národní vůle, aby mohla vykročit do Budapešti a získat tak národní vedení, pro ně již nemá žádné další využití a podnikl kroky k jejich potlačení. Dnes ráno je však obklíčili v Sándorově paláci v Budapešti a požadují, aby odstoupil ve prospěch jejich vůdce, Ference Szálasiho. MOVE se v reakci začala pohybovat tak, aby město obklíčila, a země stojí na pokraji zhroucení. Co by mělo být učiněno?" # todo: CHANGED
  WW_hungary.103.t: "Převrat Ference Szálasiho"
  WW_hungary.104.a: "Nestojí to za krveprolití"
  WW_hungary.104.b: "Tak ať si přijdou!"
@@ -911,7 +911,7 @@
  WW_hungary.34.t: "[FROM.GetNameDefCap] odmítá habsburského panovníka"
  WW_hungary.35.a: "Rádi je přijmeme mezi sebe"
  WW_hungary.35.b: "Nemáme pro ně využití"
- WW_hungary.35.desc: "[FROM.GetLeader] nás po návštěvě našeho velkolepého hlavního města oslovil s tvrzením, že hovoří jménem veškerého [FROM.GetAdjective] lidu, a vyjádřil přání, aby se naše dva národy spojily ve vojenské alianci s cílem dále rozšiřovat území jak [ROOT.GetAdjective], tak [FROM.GetAdjective] národa."
+ WW_hungary.35.desc: "[FROM.GetLeader] se po návštěvě naší velké metropole obrátil na nás a tvrdí, že mluví jménem všech [FROM.GetAdjective] lidí, přejíc, aby se naše obě země spojily v vojenský pakt s cílem dalšího rozšíření území jak [ROOT.GetAdjective], tak [FROM.GetAdjective] národa." # todo: CHANGED
  WW_hungary.35.t: "[FROM.GetNameDefCap] si přeje vstoupit do naší frakce"
  WW_hungary.36.a: "Budujme naši budoucnost společně!"
  WW_hungary.36.desc: "Velký a ctihodný [FROM.GetLeader] souhlasil s vytvořením nové vojenské aliance, která posílí již existující vazby mezi našimi národy. Naši lidé zaplnili ulice, aby oslavili tuto významnou událost, jež symbolizuje znovuzrození [ROOT.GetAdjective] státu a začátek nové éry pro jeho obyvatele."
@@ -928,7 +928,7 @@
  WW_hungary.39.t: "[FROM.GetNameDefCap] vstupuje do Centrálních mocností"
  WW_hungary.4.a: "Dobrá, ať si ji vezmou..."
  WW_hungary.4.b: "Nebo jinak... co?"
- WW_hungary.4.desc: "Sedmihradsko bylo po dlouhou dobu součástí [HUN.GetAdjective] zemí, než jim bylo odebráno Trianonskou smlouvou. [HUN.GetNameDef] se s touto ztrátou nikdy nesmířilo a opakovaně veřejně prohlašovalo Sedmihradsko za nedílnou součást svého státu. S nedávnými změnami politické situace své nároky znovu oživilo a požaduje, abychom jim celé Sedmihradsko předali... nebo jinak."
+ WW_hungary.4.desc: "Sedmihradsko bývalo dlouho součástí [HUN.GetNameDef], než jim bylo odebráno Smlouvou z Trianonu. Bohužel se [HUN.GetNameDef] ztráty svého území nikdy nevzpamatovalo. V různých dobách veřejně prohlašovali Sedmihradsko za nedílnou součást svého národa. S nedávnými změnami v politické situaci znovu postoupili své nároky a požadují, abychom jim předali celé Sedmihradsko... nebo nastane následek." # todo: CHANGED
  WW_hungary.4.t: "[HUN.GetNameDefCap] požaduje Sedmihradsko"
  WW_hungary.40.a: "Pak tedy povedeme my!"
  WW_hungary.40.b: "Musíme zkusit jiný přístup"
@@ -936,7 +936,7 @@
  WW_hungary.40.t: "[FROM.GetNameDefCap] nás zneucťuje"
  WW_hungary.41.a: "Rádi je přijmeme mezi sebe"
  WW_hungary.41.b: "Nemáme pro ně využití"
- WW_hungary.41.desc: "[FROM.GetLeader] nás po návštěvě našeho velkolepého hlavního města oslovil s tvrzením, že hovoří jménem veškerého [FROM.GetAdjective] lidu, a vyjádřil přání, aby se naše dva národy spojily ve vojenské alianci s cílem dále rozšiřovat území jak [ROOT.GetAdjective], tak [FROM.GetAdjective] národa."
+ WW_hungary.41.desc: "[FROM.GetLeader] se po návštěvě naší velké metropole obrátil na nás a tvrdí, že mluví jménem všech [FROM.GetAdjective] lidí, přejíc, aby se naše obě země spojily v vojenský pakt s cílem dalšího rozšíření území jak [ROOT.GetAdjective], tak [FROM.GetAdjective] národa." # todo: CHANGED
  WW_hungary.41.t: "[FROM.GetNameDefCap] si přeje obnovit Velkou alianci"
  WW_hungary.42.a: "Chraňme naši budoucnost společně!"
  WW_hungary.42.desc: "Velký a ctihodný [FROM.GetLeader] souhlasil s vytvořením nové vojenské aliance. Naši lidé zaplnili ulice, aby oslavili tuto významnou událost, která symbolizuje znovuzrození [ROOT.GetAdjective] státu a začátek nové éry pro jeho obyvatele."
@@ -1120,7 +1120,7 @@
  WW_hungary.9.t: "[FROM.GetNameDefCap] předává [975.GetName] výměnou za záruky"
  WW_hungary.90.a: "Miklós Horthy je přirozenou volbou"
  WW_hungary.90.b: "István Horthy má podporu lidu"
- WW_hungary.90.desc: "Bylo rozhodnuto, že monarchie bude oficiálně obnovena, avšak nastal problém. Neobjevili se žádní vhodní kandidáti a regent musí rozhodnout brzy. Mohl by se korunovat sám, což by však bylo značně nepopulární, nebo zvolit alternativu a korunovat svého syna Istvána Horthyho, který je mezi lidmi velmi oblíbený. Kdo by měl být vybrán?"
+ WW_hungary.90.desc: "Nyní bylo rozhodnuto, že monarchie bude oficiálně obnovena, ale máme problém. Zatím se neobjevili žádní vhodní kandidáti, přesto regent musí brzy rozhodnout. Mohl by se korunovat sám, což by bylo široce nepopulární, nebo by mohl jít alternativní cestou a korunovat svého syna Istvána Horthyho, který je mezi lidmi velmi oblíbený. Kdo by měl být pro tuto pozici zvolen?" # todo: CHANGED
  WW_hungary.90.t: "Korunovace apoštolského krále"
  WW_hungary.91.a: "Dobrá, přijímáme"
  WW_hungary.91.b: "Asi si o sobě hodně myslí"
@@ -1189,14 +1189,14 @@
  congo_independence_struggle.16.t: "[FROM.GetNameDefCap] ustupuje a uděluje nám nezávislost"
  congo_independence_struggle.17.a: "Nemáme na výběr než to přijmout"
  congo_independence_struggle.17.b: "Jsou pomatení. Okamžitě vyšleme expediční sbor k obnovení pořádku!"
- congo_independence_struggle.17.d: "Dnes ráno jsme rádiem obdrželi narychlo sepsanou zprávu od koloniálního guvernéra pro [COG.GetNonIdeologyName]. Tvrdil, že dav vnikl do jeho oficiální rezidence, pacifikoval stráže zbraněmi cizí výroby a předal mu prohlášení o nezávislosti. Poté okamžitě odešli. Nejznepokojivější je, že tento dav byl veden prvky Force Publique, četnictva pověřeného udržováním pořádku.\n\nProhlášení požaduje okamžité stažení koloniální správy a následné předání legitimní moci civilní vládě vytvořené z vedení tohoto povstání. Nemůžeme si dělat iluze - riziko je skutečné, a skutečnost, že dav byl vyzbrojen zbraněmi nepocházejícími z [BEL.GetAdjective] produkce, naznačuje přímý zájem zahraničních aktérů, kteří by mohli povstalce vojensky podporovat."
+ congo_independence_struggle.17.d: "Dnes ráno jsme rádiosignálem obdrželi pohotovou zprávu od koloniálního guvernéra [COG.GetNameDef]. Tvrdil, že dav vnikl do jeho oficiální rezidence, zneškodnil stráže zbraněmi cizí výroby a předal mu deklaraci nezávislosti. Poté rychle odešli. Nejznepokojujícím bylo, že bylo uvedeno, že tento dav vedly prvky Force Publique, gendarmérie zodpovědné za udržování pořádku. \n\nDeklarace požádala o okamžité stažení koloniální administrativy a následné předání legitimní moci civilní vládě, která má být vytvořena z vůdců tohoto povstání. Nemůžeme být v žádném omylu, že riziko je reálné, a fakt, že byl tento dav vyzbrojen zbraněmi nebelgické výroby, může naznačovat, že zahraniční subjekty projevily přímý zájem a mohly by povstalce vojensky podporovat." # todo: CHANGED
  congo_independence_struggle.17.t: "[FROM.GetNameDefCap] usiluje o nezávislost za každou cenu"
  congo_independence_struggle.18.a: "Dnes se bude slavit!"
  congo_independence_struggle.18.d: "Zdá se, že naše ultimátum bylo naším suzerénem bráno dostatečně vážně, protože dnes jsme obdrželi podepsaný dekret nezávislosti od koloniální správy. Již probíhají přípravy na oficiální stažení [BEL.GetAdjective] vlajky a s tím i na pokojné předání moci našemu novému režimu. Ačkoliv bylo dosaženo hlavního cíle, skutečná práce na vytvoření vlády teprve začíná. Čeká nás mnoho úkolů - rozvoj ekonomiky, normalizace vztahů s ostatními státy a samozřejmě splacení určitých dluhů těm, kteří nás v dosažení tohoto snu podpořili."
  congo_independence_struggle.18.t: "[FROM.GetNameDefCap] nás nechává jít"
  congo_independence_struggle.19.a: "Jen vítězství je může zachránit!"
  congo_independence_struggle.19.b: "Tohle je příliš nebezpečné. Musíme ustoupit."
- congo_independence_struggle.19.d: "Máme zprávy, že [BEL.GetAdjective] jednotky zahájily mobilizaci v Léopoldville a připravují tvrdý zásah proti neloajálním prvkům v řadách Force Publique. Navzdory našim snahám zastrašit [BEL.GetAdjective] vládu a dosáhnout nezávislosti bez krveprolití se koloniální mocnosti rozhodly udržet kontrolu jediným způsobem, který znají - silou. Naše okno příležitosti se rychle uzavírá a musíme se rozhodnout, zda dáme signál k povstání, nebo ustoupíme dříve, než se situace vymkne kontrole."
+ congo_independence_struggle.19.d: "Máme zprávy, že belgické jednotky začaly mobilizovat v Léopoldville a potlačují neloajální prvky napříč Force Publique. Navzdory našim nejlepším snahám zastrašit belgickou vládu a dosáhnout našeho cíle nezávislosti bez krveprolití, koloniální mocnosti se rozhodly udržet moc jediným způsobem, který znají — silou. Naše okno příležitosti se rychle zavírá a musíme rozhodnout, zda vydat rozkaz našim podporovatelům povstat, nebo ustoupit dříve, než věci utečou z kontroly." # todo: CHANGED
  congo_independence_struggle.19.t: "[FROM.GetNameDefCap] se chystá na válku"
  congo_independence_struggle.2.a: "Dokud budou nadále bojovat po našem boku"
  congo_independence_struggle.2.b: "Dobrá, ale jen pokud nám zaplatí vysoké odškodné"
@@ -1204,7 +1204,7 @@
  congo_independence_struggle.2.d: "Právě nás oslovila skupina, která tvrdí, že zastupuje hnutí za nezávislost pro [COG.GetNonIdeologyName], našeho koloniálního subjektu. Přestože si koloniální správa již nějakou dobu uvědomuje rostoucí nálady za nezávislost, troufalost o ni skutečně požádat je poněkud zaskočila. Upozorňují nás, že dosažení cíle svobodného a nezávislého státu má širokou místní podporu a že příliš tvrdá reakce by mohla vést k násilí a možná i k válce.\n\nMusíme také zvážit naše globální závazky a prestiž. Nejvíce diplomatickou nabídkou by proto bylo umožnit jim vstoupit mezi nás jako rovnocenní partneři v rámci [BEL.GetAdjectiveCap] společenství.\n\nAlternativně je však značná část našeho bohatství odvozena právě z tohoto území a jeho ztráta by měla mimořádně tvrdý dopad na naše finance. Mohli bychom po nich požadovat zaplacení svobody - za velmi vysokou cenu.\n\nNakonec můžeme jednoduše říci ne a mobilizovat naše síly jako varování proti jakémukoli možnému povstání."
  congo_independence_struggle.2.t: "[FROM.GetNameDefCap] nás oslovuje ohledně své nezávislosti"
  congo_independence_struggle.20.a: "Do zbraně, bratři!"
- congo_independence_struggle.20.d: "Přijali jsme opatření, která byla v našich silách, abychom udrželi kontrolu nad rychle se zhoršující situací, včetně systematického odstraňování zrádných prvků z řad Force Publique. Bohužel byl tento otevřenější postup vnímán jako nepřátelský a vzbouřené jednotky zahájily palbu na své důstojníky, jakmile se k nim přiblížili. Těmito výstřely začala válka za nezávislost naplno a situace se zcela vymkla kontrole obou stran.\n\nExistují oblasti, které nám zůstaly loajální, protože nejvíce pocítily přímé přínosy kolonizace, avšak většina země je nyní postavena proti nám."
+ congo_independence_struggle.20.d: "Učinili jsme, co bylo v našich silách, abychom si udrželi kontrolu nad rychle se zhoršující situací, včetně systematického odstranění zrádných prvků v rámci Force Publique. Bohužel byl tento otevřenější krok vnímán jako agresivní a vzbouřené jednotky zahájily palbu na své důstojníky, jakmile je spatřily přicházet. Těmito ranami válka za nezávislost začala naplno a zatím se vymkla kontrole obou stran. \n\nExistují oblasti, které zůstaly loajální vůči nám, protože cítily přímé výhody kolonizace, avšak většina země je nyní proti nám." # todo: CHANGED
  congo_independence_struggle.20.t: "Kongo vyhlašuje válku za nezávislost!"
  congo_independence_struggle.21.a: "Sláva [BEL.GetAdjective] impériu!"
  congo_independence_struggle.21.d: "Naše rychlá reakce na probíhající situaci v Kongu zjevně napětí uklidnila. [BEL.GetAdjectiveCap] důstojníci rychle zasáhli a pacifikovali známé vzbouřené elementy Force Publique. Po zajištění jejich další loajality vzpoura rychle vyhasla a nejhlasitější hlasy byly umlčeny - ve většině případů silnými zdmi vězení.\n\nKoloniální správa využila příležitosti a rozšířila svou kontrolu nad všemi úrovněmi vlády, v důsledku čehož nyní máme nad kolonií mnohem větší míru kontroly než dříve."
@@ -1228,7 +1228,7 @@
  congo_independence_struggle.4.d: "Obdrželi jsme zprávu od [BEL.GetNonIdeologyName], že doslova stanovili cenu naší nezávislosti. Připomínají nám značné kapitálové investice, které do naší země vložili - od pokládky rozsáhlých železničních tratí přes rozvoj těžby až po obecné rozšiřování infrastruktury.\n\nTehdy bylo toto prezentováno jako součást jejich odpovědnosti koloniálního vládce a jako součást procesu civilizace. Nyní to však používají jako zástavu k udržení naší loajality prostřednictvím ekonomické závislosti.\n\nPožadovaná částka není nedosažitelná, je však extrémně vysoká a v krátkodobém horizontu by naši zemi zruinovala, zatímco v dlouhodobém by nás připoutala dluhy. Otázkou tedy je, zda tato cena stojí za nezávislost, nebo zda má být zaplacena krví."
  congo_independence_struggle.4.t: "[FROM.GetNameDefCap] nám umožní se vykoupit"
  congo_independence_struggle.5.a: "Naše mise skončila!"
- congo_independence_struggle.5.d: "Právě jsme obdrželi zprávu od nového [COG.GetAdjective] velvyslance, že přijali nabídku nezávislosti od [BEL.GetAdjective] koloniální vlády výměnou za vstup do [BEL.GetAdjectiveCap] společenství jako plnoprávný a rovnocenný člen. Nyní začíná práce na stažení správy z Koloniálního úřadu a předání těchto pravomocí jejich nové vládě."
+ congo_independence_struggle.5.d: "Právě jsme obdrželi zprávu od nového velvyslance z [COG.GetName], oznamující, že přijali nabídku nezávislosti na [BEL.GetAdjective] koloniální nadvládě výměnou za vstup do [BEL.GetAdjective] Commonwealthu jako plnoprávný a rovnoprávný člen. Nyní začíná práce na převzetí správy z Koloniálního úřadu a jejím přenesení na jejich novou vládu." # todo: CHANGED
  congo_independence_struggle.5.t: "Necháváme [FROM.GetNameDef] jít"
  congo_independence_struggle.6.a: "Požadujme, aby se stali zámořským departementem"
  congo_independence_struggle.6.b: "Pak žádná jednání nebudou"
@@ -1240,7 +1240,7 @@
  congo_independence_struggle.7.t: "Necháváme [FROM.GetNameDef] jít"
  congo_independence_struggle.8.a: "Dobrá. Přijímáme..."
  congo_independence_struggle.8.b: "To je nepřijatelné, požadujeme plnou nezávislost!"
- congo_independence_struggle.8.d: "[BEL.GetName] se domnívá, že nejsme schopni si vynutit nezávislost silou, a rozhodlo se blufovat. Nabídli nám „příležitost“ stát se zámořským departementem, což by z nás v podstatě učinilo rozšíření jejich státu s občanskými právy, avšak bez autonomie utvářet vlastní budoucnost. Možná mají pravdu, že nemáme dostatečnou vojenskou sílu se tomu postavit, avšak konečné rozhodnutí je na nás."
+ congo_independence_struggle.8.d: "[BEL.GetName] se zdá, že si myslí, že nejsme schopni získat nezávislost silou, a vyzval nás, abychom své blufy ukázali. Nabídli nám „příležitost“ stát se zámořským departementem, v podstatě by to z nás udělalo rozšíření jejich státu s právy na občanství, ale bez autonomie vytvářet vlastní budoucnost. Mohou mít pravdu, že postrádáme vojenskou sílu tomu čelit, ale volba je nakonec na nás." # todo: CHANGED
  congo_independence_struggle.8.t: "[FROM.GetNameDefCap] z nás chce udělat zámořský departement"
  congo_independence_struggle.9.a: "V Kongu se schyluje ke krizi"
  congo_independence_struggle.9.d: "Dnešní svítání přineslo zvuk střelby, když vzbouřené prvky Force Publique zaútočily na vládní budovy v Léopoldville. Loajální stráže palbu opětovaly a podařilo se jim rebely zatlačit, napětí je však extrémně vysoké a přicházejí zprávy o dalších vzpourách v jednotkách Force Publique i o tom, že se po celém Kongu začínají ozbrojovat a shromažďovat místní milice."
@@ -1276,7 +1276,7 @@
  warning_they_may_instead_apporach_our_neighbor_tt: "§R[FROM.GetNameDefCap] se může místo toho obrátit na našeho souseda§!"
  when_intercontinental_bomber_project_is_completed_tt: "Po dokončení speciálního projektu §Y$sp_air_intercontinental_bomber$§!:"
  wuw_GER_chinese_diplomacy.1.a: "To se bude hodit"
- wuw_GER_chinese_diplomacy.1.desc: "\nNáš velký spojenec na Západě, [FROM.GetNameDefCap], nám posílá zásilky zbraní a munice. To však není vše - vyslali také skupinu inženýrů a průmyslníků, kteří nám pomohou s rozvojem vlastní výroby zbraní, aby se naše válečná ekonomika mohla po staletích ponížení opět postavit na nohy."
+ wuw_GER_chinese_diplomacy.1.desc: "\nNaši velcí spojenci na západě, [FROM.GetAdjective], nám poslali zásilku zbraní a munice. To však není vše — poslali také skupinu inženýrů a průmyslníků, kteří nám pomohou ve vývoji vlastních zbraní, aby se naše vojenská ekonomika mohla po staletích ponížení opět postavit na nohy." # todo: CHANGED
  wuw_GER_chinese_diplomacy.1.t: "[FROM.GetNameDefCap] nám posílá zbraně a materiál"
  wuw_GER_chinese_diplomacy.2.a: "Skutečně štědrý přítel"
  wuw_GER_chinese_diplomacy.2.b: "Nemůžeme se vzdát našich přírodních zdrojů"
@@ -1314,7 +1314,7 @@
  wuw_GER_civil_war.4.desc: "Po skončení občanské války a úplném rozbití nacistického režimu vyvstala otázka, zda je opravdu moudré nechat otevřeně politické polovojenské organizace volně působit v naší zemi. Vzhledem k tomu, že nad nimi má Junta jen minimální formální kontrolu, možná by bylo rozumné je zakázat a vynutit jejich rozpuštění. Případně bychom se je mohli pokusit ponechat, ale výrazně je omezit tak, aby již nepředstavovaly hrozbu."
  wuw_GER_civil_war.4.t: "Budoucnost polovojenských složek"
  wuw_GER_civil_war.5.a: "Nesmíme jim dovolit uspět!"
- wuw_GER_civil_war.5.desc: "Dorazily k nám zprávy o slezských a polských partyzánech, kteří ve Slezsku zahájili palbu na německé vojáky. Usilují o nezávislost pro svůj národ a naši občanskou válku považovali za známku slabosti, kterou potřebovali k odhodlání se odtrhnout. Musíme zajistit, aby jejich cíle nebyly naplněny a jejich povstání bylo co nejrychleji potlačeno."
+ wuw_GER_civil_war.5.desc: "Dostaly se k nám zprávy, že slezští a polští partyzáni v Slezsku začali střílet na německé vojáky. Usilují o nezávislost svého národa a viděli naši občanskou válku jako znamení slabosti, které je podnítilo získat odvahu k odtržení. Musíme zajistit, aby jejich cíle nebyly dosaženy, a že jejich povstání bude potlačeno co nejrychleji." # todo: CHANGED
  wuw_GER_civil_war.5.t: "Čtvrté slezské povstání"
  wuw_GER_civil_war.6.a: "Za proletariát!"
  wuw_GER_civil_war.6.b: "Rozdrtíme tuto chátru!"
@@ -1326,7 +1326,7 @@
  wuw_GER_civil_war.7.t: "Loajalita Kriegsmarine"
  wuw_GER_civil_war.8.a: "Zaplatí za svou zradu!"
  wuw_GER_civil_war.8.b: "Stát bude litovat porušení svých slibů"
- wuw_GER_civil_war.8.desc: "Roky poté, co jsme slíbili obnovit námořnictvo v jeho bývalé slávě, se zdá, že Erich Raeder a Kriegsmarine už mají dost našeho neustálého otálení. Dnes se pokusili o státní převrat proti naší vládě. Naštěstí selhal, ale abychom zajistili, že se to už nebude opakovat, musíme provést čistku mezi mnoha vysoce postavenými důstojníky a prvky v našich ozbrojených silách..."
+ wuw_GER_civil_war.8.desc: "Roky poté, co jsme slibovali obnovu námořnictva do bývalé slávy, zdá se, že Erich Raeder a Kriegsmarine mají dost našeho nekonečného odkládání, protože dnes se pokusili o státní převrat proti naší vládě. Naštěstí se jim to nepodařilo, ale abychom zajistili, že se to nebude opakovat, musíme provést čistky mezi mnoha vysokými důstojníky a prvky našich ozbrojených sil..." # todo: CHANGED
  wuw_GER_civil_war.8.t: "Puč Kriegsmarine"
  wuw_GER_civil_war.9.a: "Dobře nám sloužil"
  wuw_GER_civil_war.9.desc: "Po zajištění vítězství nad nacistickou hrozbou se hlava vojenské vlády August von Mackensen znovu rozhodl stáhnout z polního velení kvůli svému věku a zhoršujícímu se zdravotnímu stavu a oznámil, že se nadále bude věnovat pouze administrativním povinnostem."
@@ -1533,8 +1533,8 @@
  wuw_GER_diplomacy.70.desc: "[FROM.GetAdjectiveCap] propagandisté začali v poslední době ovlivňovat naše obyvatelstvo a přetahovat ho na svou stranu. Slibují našim lidem skvělou budoucnost, pokud bychom se k jejich zemi připojili jako spojenec. Nejde nutně o hrozbu pro naši nezávislost, ale rozhodně o akt agrese proti naší současné vládě, neboť nově šířené noviny hlásají slabiny našeho systému. Možná bychom mohli využít dalšího přítele, i když to zřejmě nebude naposledy, co k nám posílá [FROM.GetLeader] své pěšáky."
  wuw_GER_diplomacy.70.t: "[FROM.GetNameDefCap] zasahuje do naší politiky"
  wuw_GER_diplomacy.71.a: "Je to v nejlepším zájmu našeho lidu."
- wuw_GER_diplomacy.71.desc: "Naši suzeréni nás právě informovali o restrukturalizaci naší současné dohody. Ve snaze sjednotit pracující napříč územím po nás budou požadovat, abychom jim zpřístupnili větší část našeho průmyslu pro využití k obecnému dobru našeho lidu. Ačkoli jsme do toho neměli co mluvit, nemáme prostor si stěžovat. Věděli jsme, že když nám [FROM.GetNameDef] nabízí pomoc, může to za tím být cena, kterou zaplatíme."
- wuw_GER_diplomacy.71.t: "Zřízení Lidového komisariátu [ROOT.GetNonIdeologyName]"
+ wuw_GER_diplomacy.71.desc: "Naši suzeréni v [FROM.GetNameDef] nás právě informovali o restrukturalizaci naší současné dohody. Ve snaze sjednotit dělníky napříč celou oblastí od nás budou požadovat přístup k větší části našeho průmyslu, aby jej využili ve prospěch našich lidí. Ačkoliv jsme při tom neměli slovo, není prostor pro stížnosti. Věděli jsme, když nabídli svou pomoc, že to může být právě cena, kterou zaplatíme." # todo: CHANGED
+ wuw_GER_diplomacy.71.t: "Zřízení Volkskommissariatu [ROOT.GetNonIdeologyName]" # todo: CHANGED
  wuw_GER_diplomacy.72.a: "Nemáme důvod jim nevěřit"
  wuw_GER_diplomacy.72.a_tt: "§RPokud komunističtí podporovatelé vyhrají občanskou válku, [FROM.GetNameWithFlag] se nás může pokusit podrobit!§!"
  wuw_GER_diplomacy.72.b: "Na tohle jim neskočíme!"
@@ -1555,7 +1555,7 @@
  wuw_GER_diplomacy.76.t: "[FROM.GetNameDefCap] požaduje naše podrobení"
  wuw_GER_diplomacy.77.a: "Proč ne?"
  wuw_GER_diplomacy.77.b: "Rozhodně ne!"
- wuw_GER_diplomacy.77.desc: "Naši severní sousedé nám zaslali požadavek na uspořádání referenda o připojení k nim. Tvrdí, že náš lid je jim velmi podobný a že si zaslouží žít sjednoceně, a naznačují, že bychom se jim měli podřídit. Bude nám ponechána určitá míra svobody, avšak naše zahraniční politika a další záležitosti již bude sledovat a řídit [FROM.GetNameDefCap]."
+ wuw_GER_diplomacy.77.desc: "Naši sousedé ze severu nám zaslali požadavky, abychom pořádali referendum o připojení k nim. Tvrdí, že náš lid je jim velmi podobný a že si zaslouží žít sjednoceně, a naznačili, že bychom se jim měli podřídit. Budeme si ještě moci ponechat určitou míru svobody, ale naše zahraniční politika mimo jiné bude sledována a řízena [FROM.GetAdjective]mi." # todo: CHANGED
  wuw_GER_diplomacy.77.t: "[FROM.GetNameDefCap] požaduje uspořádání referenda o připojení"
  wuw_GER_diplomacy.78.a: "Den, který stojí za to oslavit!"
  wuw_GER_diplomacy.78.desc: "Po vítězství těch [FROM.GetAdjective] občanů, kteří se v nedávném referendu chtěli k nám připojit, se [FROM.GetNameDef] vrací s pozitivní odpovědí. Od této chvíle se nám podřídí v zájmu našeho lidu."
@@ -1610,7 +1610,7 @@
  wuw_GER_diplomacy.92.desc: "Odezva od našich [FROM.GetAdjective] soudruhů byla pozitivní. Vítají naše sblížení s jejich politickou doktrínou a sdílejí naděje na dobrou spolupráci do budoucna. Pokud jde o to, jak tohoto cíle dosáhnout co nejlépe, přišli s návrhem, který by mohl přechod usnadnit a urychlit. Navrhují výměnu politického vůdce - ačkoli je Ernst Thälmann bezesporu schopným lídrem, jsou přesvědčeni, že Walter Ulbricht by mohl poskytnout lepší základ pro naši budoucí spolupráci."
  wuw_GER_diplomacy.92.t: "[FROM.GetNameDefCap] schvaluje naše sblížení"
  wuw_GER_diplomacy.93.a: "Skvělé!"
- wuw_GER_diplomacy.93.desc: "Poněkud překvapivě bylo [FROM.GetAdjective] vedení ochotno nahradit Ernsta Thälmanna. Tento krok učinili v zájmu posílení dobrých vztahů s námi a zajištění toho, aby byly naše politické agendy dostatečně sladěné a spolupráce probíhala bez třenic. To je třeba považovat za úspěch!"
+ wuw_GER_diplomacy.93.desc: "Možná překvapivě bylo vedení [FROM.GetAdjective] ochotné vyměnit Ernsta Thälmanna. Provedli tuto výměnu ve snaze budovat dobré vztahy s námi a zajistit, aby naše politické agendy byly dostatečně kompatibilní pro bezproblémovou spolupráci. To je třeba považovat za úspěch!" # todo: CHANGED
  wuw_GER_diplomacy.93.t: "[FROM.GetNameDef] dosazuje Waltera Ulbrichta"
  wuw_GER_diplomacy.94.a: "Ta tvrdohlavá [FROM.GetAdjective] nátura..."
  wuw_GER_diplomacy.94.desc: "Navzdory tomu, že náš návrh byl míněn jako dobře míněná pomoc našim [FROM.GetAdjective] soudruhům, oni jej tvrdohlavě odmítli. Zdá se, že jej považovali za pokus zasahovat do jejich politiky, ačkoli to rozhodně nebylo naším záměrem."
@@ -1897,7 +1897,7 @@
  wuw_GER_realpolitik.48.t: "[FROM.GetLeader] odmítá rozdělení Československa"
  wuw_GER_realpolitik.49.a: "Dobře..."
  wuw_GER_realpolitik.49.b: "Pak nás budou muset vzít silou!"
- wuw_GER_realpolitik.49.desc: "Náš suzerén nás zcela zradil a rozhodl se postoupit naše země na [GER.GetNameDef]. Máme přijmout jejich rozhodnutí, nebo se pokusit odporovat?"
+ wuw_GER_realpolitik.49.desc: "Náš suzerén nás úplně zradil a rozhodl se předat naše země [GER.GetNameDef]. Měli bychom se podřídit jejich rozhodnutí, nebo se jim postavit?" # todo: CHANGED
  wuw_GER_realpolitik.49.t: "Náš suzerén nás postupuje na [GER.GetNameDef]"
  wuw_GER_realpolitik.5.a: "[ROOT.GetNameDef] nebude mít s integrací problém"
  wuw_GER_realpolitik.5.b: "Možná bychom z nich mohli udělat náš subjekt"
@@ -1930,7 +1930,7 @@
  wuw_GER_realpolitik.56.t: "[FROM.GetNameDefCap] se nevzdává"
  wuw_GER_realpolitik.57.a: "Budeme muset situaci přijmout"
  wuw_GER_realpolitik.57.b: "Vítězství nebo smrt!"
- wuw_GER_realpolitik.57.desc: "[FROM.GetAdjectiveCap] vůdce [FROM.GetLeader] zašel dál, než bylo původně slíbeno, a manipuluje s trhy, aby ještě více zvýšil naši ekonomickou závislost. Je to krok, který má zajistit, že se nemůžeme vydat vlastní cestou. Pokud s nimi okamžitě nepřerušíme vazby, prakticky to ukončí naši existenci jako nezávislé země. Jak máme postupovat?"
+ wuw_GER_realpolitik.57.desc: "[FROM.GetLeader] z [FROM.GetNameDef] šel dál, než bylo původně slíbeno, a manipuluje trhy, aby dále zvýšil naši závislost na jejich ekonomice, v kroku, který má zajistit, že se od nich nemůžeme odklonit. Pokud se okamžitě neosvobodíme, prakticky to znamená konec našeho statutu nezávislého národa. Jak bychom měli v tomto postupovat?" # todo: CHANGED
  wuw_GER_realpolitik.57.t: "[FROM.GetNameDefCap] integruje naši ekonomiku"
  wuw_GER_realpolitik.58.a: "Skvělé!"
  wuw_GER_realpolitik.58.desc: "Radostná zpráva, že [FROM.GetNameDef] přijímá další integraci s námi, byla dnes v Říšském sněmu přivítána velkým potleskem. Zdá se, že naše nabídka byla dostatečně výhodná, i přes mírné omezení jejich suverenity."
@@ -1945,14 +1945,14 @@
  wuw_GER_realpolitik.6.t: "[FROM.GetNameDefCap] požaduje naši anexi"
  wuw_GER_realpolitik.60.a: "Budeme muset situaci přijmout"
  wuw_GER_realpolitik.60.b: "Vítězství nebo smrt!"
- wuw_GER_realpolitik.60.desc: "Integrace našich ekonomik zjevně nestačila k tomu, aby byl [FROM.GetAdjectiveCap] vůdce [FROM.GetLeader] uspokojen, jelikož dnes zašel ještě dál, než bylo původně slíbeno. Nyní požaduje naši úplnou integraci do jejich státu. Pokud s nimi okamžitě nepřerušíme vazby, bude to konec našeho postavení nezávislé země. Jak máme postupovat?"
+ wuw_GER_realpolitik.60.desc: "Integrace našich ekonomik zřejmě [FROM.GetAdjective]m nestačila, protože [FROM.GetLeader] z [FROM.GetNameDef] dnes šel ještě o krok dál a nyní požaduje naši úplnou integraci do jejich země. Pokud se od nich okamžitě neodřízneme, bude to konec našeho statutu jako nezávislého národa. Jak bychom měli postupovat?" # todo: CHANGED
  wuw_GER_realpolitik.60.t: "[FROM.GetNameDefCap] požaduje úplnou integraci"
  wuw_GER_realpolitik.61.a: "Skvělé!"
  wuw_GER_realpolitik.61.desc: "Radostná zpráva, že [FROM.GetNameDef] přijímá plnou integraci do našeho státu, byla dnes v Říšském sněmu přivítána bouřlivým potleskem. Naše nabídka pro ně byla zjevně natolik výhodná, že ji přijali i přes úplnou ztrátu suverenity."
  wuw_GER_realpolitik.61.t: "[FROM.GetNameDefCap] přijímá úplnou integraci"
  wuw_GER_realpolitik.62.a: "Jsou hrozbou jednotě federace!"
  wuw_GER_realpolitik.62.b: "Budeme je pozorně sledovat"
- wuw_GER_realpolitik.62.desc: "Navzdory zjevným výhodám a tomu, že je to nejlepší pro federaci, [FROM.GetNameDef] odmítá náš návrh na úplnou integraci. Můžeme jen spekulovat o jejich důvodech, ale zdá se, že možná nemají nejlepší zájmy unie na paměti."
+ wuw_GER_realpolitik.62.desc: "Navzdory zřejmým výhodám a tomu, že to bylo zjevně nejlepší pro unii, [FROM.GetNameDef] náš návrh na úplnou integraci odmítl. Lze jen spekulovat o jejich důvodech, ale zdá se, že nemusí mít na mysli nejlepší zájmy unie." # todo: CHANGED
  wuw_GER_realpolitik.62.t: "[FROM.GetNameDefCap] odmítá úplnou integraci"
  wuw_GER_realpolitik.63.a: "Rádi přijmeme"
  wuw_GER_realpolitik.63.b: "Zní to podezřele..."
@@ -2193,7 +2193,7 @@
  wuw_HUN_news_events.3.t: "[HUN.GetNameDefCap] obnovuje Ústřední mocnosti"
  wuw_HUN_news_events.4.a: "Musí být zničeni!"
  wuw_HUN_news_events.4.b: "Svět je náš!"
- wuw_HUN_news_events.4.desc: "[HUN.GetAdjectiveCap] vůdce [HUN.GetLeader] oznámil ambice země ovládnout svět a nastolit [HUN.GetAdjective] hegemonii na všech kontinentech. Tvrdí, že je to rodné právo lidu Apoštolského království a že se už nikdy neskloní před cizí mocí."
+ wuw_HUN_news_events.4.desc: "[HUN.GetLeader] z [HUN.GetNameDef] oznámil ambice národa dominovat světu a založit [HUN.GetAdjective] hegemonii na všech kontinentech. Tvrdí, že je to rodné právo lidu Apoštolského království a že se nikdy opět nepodvolí cizím mocnostem." # todo: CHANGED
  wuw_HUN_news_events.4.t: "[HUN.GetNameDefCap] vyhlašuje globální ambice"
  wuw_HUN_news_events.5.a: "Konečně máme krále!"
  wuw_HUN_news_events.5.b: "Objevil se nový nepřítel"
@@ -2213,7 +2213,7 @@
  wuw_HUN_news_events.8.a: "Konečně!"
  wuw_HUN_news_events.8.b: "Mír nikdy nebyl možností..."
  wuw_HUN_news_events.8.c: "Překvapivé, ale vítané"
- wuw_HUN_news_events.8.desc: "Dnes generální tajemník Maďarska Mátyás Rákosi vyhlásil vznik nové Maďarské lidové republiky a oznámil, že jeho vláda hledá možnosti, jak s ní může [SOV.GetNameDef] navázat užší spolupráci. Ačkoliv vyhlašuje stát jako otevřenou demokracii, autoritativní vláda je více než zjevná. Jaká budoucnost čeká maďarský lid?"
+ wuw_HUN_news_events.8.desc: "Dnes generální tajemník Maďarska, Mátyás Rákosi, vyhlásil vznik nové Maďarské lidové republiky a oznámil, že země usiluje o zvýšení spolupráce s [SOV.GetNameDef]. Ačkoliv prohlásil zemi za otevřenou demokracii, diktátorské řízení národa není těžké přehlédnout. Jaká bude budoucnost maďarského lidu?" # todo: CHANGED
  wuw_HUN_news_events.8.t: "Vyhlášení Maďarské lidové republiky"
  wuw_HUN_news_events.9.a: "Zpět v pravých rukou"
  wuw_HUN_news_events.9.b: "To jim nepatří!"
@@ -2352,10 +2352,10 @@
  ww_BEL_event_diplomatic.8.desc: "Právě jsme obdrželi zajímavou nabídku od [BEL.GetAdjective] delegace. Projevili zájem koupit od nás Calais, aby „sjednotili svá historická území“. Nabídnutá částka je vysoká a výrazně by posílila naši ekonomiku, otázkou je však, zda tato ztráta půdy stojí za to. Je třeba dodat, že jejich diplomaté naznačili zhoršení vztahů, pokud nabídku odmítneme."
  ww_BEL_event_diplomatic.8.t: "Belgie chce koupit Calais"
  ww_BEL_event_diplomatic.9.a: "Budeme muset zase přemalovat mapy..."
- ww_BEL_event_diplomatic.9.desc: "Náš koloniální guvernér byl právě informován, že [BEL.GetName] a [FRA.GetName] uzavřeli dohodu o výměně Calais za část našich území - konkrétně Coquilhatville a Stanleyville. Evropští vládci opět mění hranice Afriky, a to bez nás, kteří zde skutečně žijeme!"
+ ww_BEL_event_diplomatic.9.desc: "Náš koloniální guvernér byl právě informován, že [BEL.GetName] uzavřel dohodu s [FRA.GetName], podle které vymění Calais za několik našich států, konkrétně Coquilhatville a Stanleyville. Opět evropští suveréni mění hranice Afriky bez jakéhokoli vstupu od nás, kteří tu skutečně žijeme!" # todo: CHANGED
  ww_BEL_event_diplomatic.9.t: "Coquilhatville a Stanleyville prodány Francii!"
  ww_BEL_event_misc.1.a: "Jeho nástupce je muž na správném místě!"
- ww_BEL_event_misc.1.desc: "Émile Vandervelde, přezdívaný „le patron“ („šéf“), dlouholetý socialistický politik a předseda [BEL.GetAdjective] vlády, zemřel. Proslul jako člen belgické delegace na Pařížské mírové konferenci, která ukončila Velkou válku, a stal se zarputilým odpůrcem fašismu, dokonce prosazoval přímý zásah ve Španělské občanské válce na straně republikánů. \n\nHenri de Man se ujal funkce nového předsedy vlády a ještě dnes bude přísahat do rukou krále."
+ ww_BEL_event_misc.1.desc: "Émile Vandervelde, přezdívaný 'le patron' (šéf), dlouholetý socialistický politik a premiér [BEL.GetName], zemřel. Byl známý jako člen belgické delegace na Pařížské mírové konferenci, která ukončila Velkou válku, a stal se rázným odpůrcem fašismu, dokonce prosazoval přímý zásah do španělské občanské války na straně republikánů. \n\nHenri de Man převzal funkci nového premiéra a dnes později složí přísahu před králem." # todo: CHANGED
  ww_BEL_event_misc.1.t: "Šéf je mrtev"
  ww_BEL_event_misc.3.a: "Pravděpodobně postavili motor naší ekonomiky!"
  ww_BEL_event_misc.3.desc: "Cockerill je společnost, která stojí přímo v srdci belgického průmyslu. Během své existence se nevěnovala jen výrobě železa a oceli, ale také precizně konstruovaným strojům včetně parních motorů, vlaků a dokonce i bitevních lodí. Vybudovala si vynikající pověst a stala se jednou z hlavních sil ocelářského průmyslu západní Evropy. \n\nAdolphe Greiner, generální ředitel, spolu s dalšími členy vedení zůstali na svých pozicích po celou dobu obléhání Lutychu během Velké války a zajišťovali práci pro své zaměstnance tak dlouho, jak jen to bylo možné. Po obsazení odmítla společnost vyrábět pro okupační síly, a proto byla většina jejího těžkého ocelářského vybavení odvezena. \n\nBěhem meziválečného období se však vzpamatovala a dodnes patří mezi nejvýznamnější průmyslové podniky."
@@ -2407,14 +2407,14 @@
  ww_BEL_event_spanish_interaction.4.desc: "Byli jsme informováni, že před několika hodinami se v [FROM.GetAdjective] hlavním městě konalo shromáždění a projev na naši podporu. [FROM.GetAdjectiveCap] vedení znovu zopakovalo svou podporu naší věci v naději, že nám to poskytne více prostoru k akcím, jakmile naši lidé získají větší důvěru v naši vládu."
  ww_BEL_event_spanish_interaction.4.t: "[FROM.GetAdjectiveCap] projev na podporu našeho boje"
  ww_BEL_event_spanish_interaction.5.a: "Skvělé zprávy!"
- ww_BEL_event_spanish_interaction.5.desc: "V poslední době jsme zaznamenali nárůst imigrace [FROM.GetAdjective] občanů. Mnozí z těchto přistěhovalců vyjadřují ochotu vstoupit do našich ozbrojených sil, pokud budeme potřebovat jejich pomoc. Lze se jen domnívat, že jde o vědomé gesto z jejich strany."
+ ww_BEL_event_spanish_interaction.5.desc: "V poslední době jsme zaznamenali nárůst imigrace [FROM.GetAdjective] občanů. Mnozí z těchto imigrantů uvádějí, že jsou ochotni se připojit k našim ozbrojeným silám, pokud bychom jejich pomoc potřebovali. Můžeme jen tušit, že jde o cílené úsilí ze strany [FROM.GetAdjective]." # todo: CHANGED
  ww_BEL_event_spanish_interaction.5.t: "Podpora emigrace [FROM.GetAdjective] občanů"
  ww_BEL_event_spanish_interaction.6.a: "Skvělý nápad!"
  ww_BEL_event_spanish_interaction.6.b: "Vážíme si jejich podpory, ale ne."
  ww_BEL_event_spanish_interaction.6.desc: "Dříve tak neutrální [FROM.GetNameDefCap] nám posílá překvapivý návrh. Chtějí s námi vytvořit alianci a doufají, že jim to umožní poskytnout nám ještě účinnější podporu v našem boji proti nacionalistům."
  ww_BEL_event_spanish_interaction.6.t: "[FROM.GetNameDefCap] navrhuje alianci"
  ww_BEL_event_spanish_interaction.7.a: "Vpřed!"
- ww_BEL_event_spanish_interaction.7.desc: "[FROM.GetAdjectiveCap] nám zasílá kladnou odpověď na náš návrh vytvoření [ROOT.GetFactionName]. Budeme stát bok po boku proti nacionalistické hrozbě!"
+ ww_BEL_event_spanish_interaction.7.desc: "[FROM.GetAdjective] odpověděli kladně na náš návrh vytvořit [ROOT.GetFactionName]. Postavíme se společně proti nacionalistické hrozbě!" # todo: CHANGED
  ww_BEL_event_spanish_interaction.7.t: "[FROM.GetNameDef] se připojuje k frakci [ROOT.GetFactionName]"
  ww_BEL_event_spanish_interaction.8.a: "Jak nezdvořilé!"
  ww_BEL_event_spanish_interaction.8.desc: "S ohledem na podporu, kterou jsme [FROM.GetAdjective] vládě soustavně poskytovali, jsme doufali, že náš návrh bude přijat pozitivně. Ukázalo se, že tomu tak není - naši iniciativu odmítli s tím, že si naší pomoci váží, ale alianci si nepřejí."
@@ -2447,7 +2447,7 @@
  ww_BEL_event_war.6.a: "Dobrá iniciativa — spolupracujme na hladkém přechodu."
  ww_BEL_event_war.6.b: "Zajímavé, zvážíme jejich nabídku."
  ww_BEL_event_war.6.c: "Je to jen záminka pro legitimní odpor. Ne."
- ww_BEL_event_war.6.desc: "Skupina belgických státních úředníků k nám přišla s nabídkou: dovolíme-li jim pokračovat v práci na úřadech, zajistí hladké fungování místní správy během tohoto přechodného období. Belgická vláda dokonce přijala zákony, které činí jejich spolupráci s námi legální, aby snížila dopady okupace na obyvatelstvo — a belgické banky jim byly autorizovány vyplácet mzdy. \n\nTo je příležitost ukázat naši ochotu spolupracovat s místními, což může významně omezit aktivní odpor v regionu."
+ ww_BEL_event_war.6.desc: "Skupina belgických úředníků se na nás obrátila se žádostí; umožněte jim pokračovat v jejich občanské správě a oni zajistí, že místní vláda bude v této přechodné době fungovat hladce. Belgická vláda přijala zákony, které jejich spolupráci s námi legalizují ve snaze snížit dopad okupace na jejich lid. Dokonce povolili belgickým bankám, aby nadále vyplácely platy těmto administrátorům. To je příležitost ukázat ochotu spolupracovat s místními a přispěje to k potlačení aktivního odboje v regionu." # todo: CHANGED
  ww_BEL_event_war.6.t: "Generální tajemníci"
  ww_BEL_event_war.7.a: "Naše jednotky budou brzy pochodovat ulicemi Paříže!"
  ww_BEL_event_war.7.desc: "Naši nejvyšší diplomaté a generálové se nedávno sešli a doporučili nám, že pokud konflikt zůstane omezený — tedy pokud se nezapojí žádná další velmoc — mohli bychom dosáhnou, ať [FRA.GetName] zasedne k jednacímu stolu, a získat rychlý mír. Víme, že se obávají rostoucího napětí a jako my si nepřejí být zataženi do další globální války. \n\nPodle našich výpočtů bude pád Paříže dostatečným důkazem našich schopností a oni by možná byli ochotni jednat o předání sporného Calais."
@@ -2500,7 +2500,7 @@
  ww_congo.19.a: "Éra imperialismu je u konce"
  ww_congo.19.b: "Zvítězili jsme!"
  ww_congo.19.c: "Zdrcující rána..."
- ww_congo.19.d: "Svobodná konžská vláda ve Stanleyville zahájila válku za nezávislost proti belgickému koloniálnímu impériu. Ačkoliv to trvalo nějakou dobu, jejich vzpoura nakonec přemohla koloniální jednotky a obsadila klíčová města v Kongu. Nyní vyhlásili oficiální nezávislost a mezi nimi a jejich bývalými utlačovateli se hledá mírová dohoda."
+ ww_congo.19.d: "Nedávno vláda Svobodného Konga ve Stanleyville zahájila válku za nezávislost vůči belgickému koloniálnímu impériu. Ačkoli to chvíli trvalo, jejich povstání nakonec přemohlo koloniální jednotky v oblasti a obsadilo klíčová města v Kongu. Nyní oficiálně vyhlásili nezávislost a bylo zahájeno usilování o mírovou dohodu s jejich bývalými utlačovateli.." # todo: CHANGED
  ww_congo.19.t: "Konžské povstání úspěšné"
  ww_congo.20.a: "Není na nás, abychom jim bránili"
  ww_congo.20.b: "Kdo jim tu nezávislost povolil?"
@@ -2677,7 +2677,7 @@
  ww_congo.65.desc: "\n[FROM.GetAdjectiveCap] vůdce [FROM.GetLeader] odmítl naši žádost o pašování uranu do jejich země, neboť se prý nechtějí snížit na úroveň mezinárodních zločinců."
  ww_congo.65.t: "[FROM.GetLeader] odmítá dohodu o uranu"
  ww_congo.66.a: "To je opravdu škoda..."
- ww_congo.66.desc: "\n[FROM.GetAdjectiveCap] vůdce [FROM.GetLeader] se rozhodl zrušit naši probíhající dohodu o uranu, protože si [FROM.GetNameDef] myslí, že je příliš nákladná."
+ ww_congo.66.desc: "\n[FROM.GetLeader], vůdce [FROM.GetNameDef], se rozhodl zrušit naši probíhající dohodu o uranu, protože byla považována za příliš nákladnou pro [FROM.GetAdjective] národ." # todo: CHANGED
  ww_congo.66.t: "[FROM.GetNameDefCap] ruší dohodu o uranu"
  ww_congo.67.a: "Velice rádi!"
  ww_congo.67.b: "Je to příliš nebezpečné"
@@ -2687,7 +2687,7 @@
  ww_congo.68.desc: "\n[FROM.GetAdjectiveCap] vůdce [FROM.GetLeader] souhlasil se vstupem do Uranového rozvojového trustu, který jsme navrhli. Jejich jaderný program tak může konečně pokračovat díky nově získanému uranu."
  ww_congo.68.t: "[FROM.GetLeader] vstupuje do Uranového rozvojového trustu"
  ww_congo.69.a: "Škoda..."
- ww_congo.69.desc: "\n[FROM.GetAdjectiveCap] vůdce [FROM.GetLeader] odmítl naši pozvánku do Uranového rozvojového trustu, protože prý musí udržet veškeré jaderné programy v naprostém utajení — odhalení byť jen drobné informace prý představuje příliš velké riziko."
+ ww_congo.69.desc: "\n[FROM.GetLeader], vůdce [FROM.GetNameDef], odmítl naše pozvání do Uranium Development Trust s tím, že musí všechny jaderné programy držet v utajení, protože by bylo příliš nebezpečné, aby se jakákoli informace mohla dostat k nepříteli." # todo: CHANGED
  ww_congo.69.t: "[FROM.GetLeader] zavrhuje náš návrh"
  ww_congo.7.a: "Skvělé!"
  ww_congo.7.desc: "[BEL.GetAdjectiveCap] koloniální správa schválila naši žádost zvýšit produkci potravin snížením těžby s cílem „zlepšit sociální podmínky koloniální populace“."
@@ -2710,6 +2710,6 @@
  ww_congo.8.desc: "Stále více Konžanů, kteří dobře ovládají francouzštinu, vyznávají křesťanství a mají alespoň středoškolské vzdělání, začíná vytvářet novou společenskou vrstvu. Koloniální správci jim začali říkat Évolué — „poevropštělí“. Přestože jejich postup vzhůru bude stále omezen pravidly koloniálního režimu, vzdělanější populace jednoho dne přinese naší zemi prosperitu."
  ww_congo.8.t: "Vznik nové střední třídy"
  ww_congo.9.a: "Tito muži jednou povedou národ k nezávislosti"
- ww_congo.9.desc: "S růstem naší nové střední třídy a šířením vzdělání ve městech začíná mnoho [COG.GetAdjective] občanů číst politické teoretiky. Objevuje se celá nová generace politiků a zastánců nezávislosti. Započala nová éra pro [COG.GetAdjective] národ!"
+ ww_congo.9.desc: "S naším nedávným rostoucím středním stavem a mnoha lidmi ve městech s vyšším než základním vzděláním začalo hodně [COG.GetAdjective] číst díla politických teoretiků a řada nových politiků a zastánců nezávislosti začíná vstupovat na scénu. To značí nový rozmach pro [COG.GetAdjective] národ!" # todo: CHANGED
  ww_congo.9.t: "Évolué vstupují do [ROOT.GetAdjective] politiky"
  yugoslavia_mefo_bills_tt: "Používá jugoslávské zlato ke snížení nákladů na §Y[GetMilitaryProductionModifierName]§!.\n"

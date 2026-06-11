@@ -166,16 +166,16 @@
  country: "Země"
  country_idea_desc: "Ideje, které motivují a vedou naši zemi."
  economic: "Hospodářství"
- economic_idea_desc: "Ideje pro přizpůsobení ekonomiky vaší země na válku."
+ economic_idea_desc: "Nápady, jak připravit ekonomiku vaší země na válku." # todo: CHANGED
  espionage: "Špionáž"
  espionage_idea_desc: "Ideje o tom, jak naše země provádí špionáž."
- manage_occupied_territories: "§GKlikněte pro správu svých okupovaných oblastí.§!"
+ manage_occupied_territories: "§GKlikněte pro správu vašich obsazených území§!" # todo: CHANGED
  manage_occupied_territories_desc: "§T můžete nastavit politiky okupace a osvobodit země, které mají domovské území ve vašich okupovaných oblastech.§!"
  manage_occupied_territories_empty: "§RNemáte žádná obsazená území ke správě.§!"
  manage_occupied_territories_no_occupation: "§RMomentálně nemáte obsazené žádné území, které není považováno za vaše domovské.§!"
  manage_occupied_territories_puppet: "§RK uvolnění zemí potřebujete vyšší status autonomie.§!"
  military: "Vojenský"
- military_idea_desc: "Ideje o tom, jak by měla fungovat armáda země."
+ military_idea_desc: "Představy o tom, jak by měla fungovat armáda země." # todo: CHANGED
  not_releaseable: "§RŽádné vaše území nepovažuje $COUNTRY|H$§! za své domovské území"
  political: "Politika"
  political_idea_desc: "Ideje, které nyní dominují politické scéně."

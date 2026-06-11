@@ -352,7 +352,7 @@
  RAJ_local_leaders_investments_mils: "[?RAJ_local_leaders_mils|0+]"
  RAJ_local_leaders_investments_mils_chance: "[?RAJ_local_leaders_mils_chance|%+]"
  RAJ_local_leaders_investments_mils_name_text: "Vojenský průmysl"
- RAJ_local_leaders_investments_mils_tt: "Rozvoj vojenského průmyslu:\nPostaví až §G1§! §YVojenskou továrnu§!, §G1§! §YInfrastrukturu§! a §Y2§! stavební sloty ve státě."
+ RAJ_local_leaders_investments_mils_tt: "Rozvoj vojenského průmyslu: \nVybudujte až §G1§! §Yvojenskou továrnu§!, §G1§! §Yinfrastrukturu§! a §Y2§! stavební sloty ve státě." # todo: CHANGED
  RAJ_local_leaders_investments_probability_header: "Šance"
  RAJ_local_leaders_investments_tt: "Počet již dokončených investic."
  RAJ_military_matters: "Vojenské záležitosti"
@@ -427,7 +427,7 @@
  more_than_2_controlled_factories: "Více než §Y2§! ovládané §YCivilní továrny§! (aktuálně §Y[?actually_controlled_civs]§!)"
  more_than_4_controlled_factories: "Více než §Y4§! ovládané §YCivilní továrny§! (aktuálně §Y[?actually_controlled_civs]§!)"
  neo_assyrian_empire_category: "Obnovit Novoasyrskou říši"
- neo_assyrian_empire_category_desc: "V době svého největšího rozmachu ovládala Novoasyrská říše většinu Blízkého východu. Měli bychom usilovat o navrácení naší země k její dávné slávě a znovu dobýt naše starobylé impérium."
+ neo_assyrian_empire_category_desc: "Na svém největším rozsahu dominovala Nová asyrská říše většině Blízkého východu. Měli bychom usilovat o obnovení našeho státu do jeho starověké slávy a znovu dobýt naši bývalou říši." # todo: CHANGED
  neo_assyrian_empire_decision: "Získat zpět naši dávnou slávu"
  neo_mesopotamia_category: "Obnovit Mezopotámii"
  neo_mesopotamia_decision: "Obnovit kolébku civilizace"
@@ -449,7 +449,7 @@
  tier_four_threshold_tt: "Zvyšuje práh setrvání v §Y$tier_three_threshold$§! o: §Y$RIGHT|+=.0$§! §YCivilních továren§!"
  tier_one_threshold: "1. daňové pásmo pro nízké příjmy"
  tier_taxes_header_1: "§W  Daňové\n   pásmo§!                                                                                                                                                                                                                                                                                                                "
- tier_taxes_header_1_tt: "Na konci §Yfiskálního roku§! se od nás očekává, že zaplatíme část příjmu anglické vládě ve formě §Yfaktoru továren na spotřební zboží§!. Čím více civilních továren ovládáme (mimo obchod a továrny subjektů), tím více musíme zaplatit. Počet civilních továren potřebný k setrvání v konkrétním daňovém pásmu je zobrazen v poli §YPásmo zdanitelného příjmu§! a sazba daně v odpovídajícím poli."
+ tier_taxes_header_1_tt: "Na konci §Yfiskálního roku§! se od nás očekává, že zaplatíme část našich příjmů anglické vládě ve formě §Yfaktoru továren na spotřební zboží§!. Čím více civilních továren ovládáme, s výjimkou obchodu a továren vlastněných loutkami, tím více budeme muset zaplatit. Počet civilních továren potřebných k setrvání v konkrétním daňovém pásmu je zobrazen v buňkách §YPásma zdanitelného příjmu§!, a míra zdanění je zobrazena v odpovídající buňce." # todo: CHANGED
  tier_taxes_header_2: "§WPásmo zdanitelného\n         příjmu§!"
  tier_taxes_header_3: "§W   Sazba\n    daně§!"
  tier_three_threshold: "3. daňové pásmo pro vysoké příjmy"
@@ -464,3 +464,11 @@
  united_arab_rep_core_state: "Integrovat §Y[FROM.GetName]§! a [ROOT.GetName]"
  united_arab_republic_cat: "$IRQ_proclaim_united_arab_republic$"
  united_arab_republic_cat_desc: "$IRQ_proclaim_united_arab_republic_desc$"
+ GOE_form_hindustan_category: "Sjednocení Hindustánu" # todo: NEW TRANSLATION
+ GOE_form_hindustan_category_desc: "S dobytím všech indických území na dosah je nejvyšší čas, aby [ROOT.GetLeader] vyhlásil sjednocení Hindustánu, aby získal podporu a pozornost pro naši velkou zemi." # todo: NEW TRANSLATION
+ GOE_form_hindustan: "Sjednotit Hindustán" # todo: NEW TRANSLATION
+ GOE_form_country_india_required_states_tt: "Kontroluje všechny §Yindické§! státy" # todo: NEW TRANSLATION
+ GOE_form_country_pakistan_required_states_tt: "Kontroluje všechny §YPákistánské§! státy" # todo: NEW TRANSLATION
+ GOE_form_country_india_coring_states_tt: "Získat domovské území ve všech §Yindických§! státech" # todo: NEW TRANSLATION
+ GOE_form_country_pakistan_coring_states_tt: "Získat domovské území ve všech §YPákistánských§! státech" # todo: NEW TRANSLATION
+ is_the_current_invitation_target_of_IRQ_hashemite_flag: " Je momentálně zván do Federace" # todo: NEW TRANSLATION

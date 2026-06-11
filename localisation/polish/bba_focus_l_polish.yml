@@ -224,7 +224,7 @@
  ETH_expanding_the_railway_network_desc: "Železnice jsou klíčové pro přepravu surovin do továren a dále na domácí či zahraniční trhy. Rozšířením sítě zlepšíme schopnost dopravit zdroje tam, kde jsou potřeba. Zároveň to lidem po celé zemi otevře větší příležitosti přesunu do rostoucích [ETH.GetAdjective] průmyslových měst ."
  ETH_experts: "Odborníci"
  ETH_exploit_french_weakness: "Využít francouzské slabosti"
- ETH_exploit_french_weakness_desc: "Zatímco se [FRA.GetNameDef] hašteří nad troskami svého impéria, máme příležitost anektovat Francouzské Somálsko do naší velké říše. Je nepravděpodobné, že by měli chuť na další boj, ale musíme být připraveni na cokoli."
+ ETH_exploit_french_weakness_desc: "Zatímco [FRA.GetAdjective] jsou zaměstnáni hádkami nad popelem svého impéria, máme příležitost anektovat území Francouzského Somálska do našeho velkého impéria. Je nepravděpodobné, že by [FRA.GetAdjective] měli chuť na další boj, ale musíme být připraveni na všechno." # todo: CHANGED
  ETH_exploit_french_weakness_tt: "Odemkne rozhodnutí obsadit §YFrancouzské Somálsko§!\n§RPodstoupení těchto rozhodnutí hrozí válkou s Vichistickou Francií!§!"
  ETH_fait_accompli: "Hotová věc"
  ETH_fait_accompli_desc: "Mnozí předpokládali, že se [ETH.GetName] stane pouhou poznámkou pod čarou v dějinách kolonialismu. Místo toho překonala drtivou přesilu - nejenže odrazila [ITA.GetAdjective] invazi, ale Italy z východní Afriky zcela vypudila. Zbývá jen, aby [ITA.GetNameDef] formálně uznala svou porážku."
@@ -318,7 +318,7 @@
  ETH_local_committees: "Místní lidové rady"
  ETH_local_committees_desc: "Máme příležitost vytvořit nový systém vlády, oproštěný od zbytečných vrstev hierarchie, které nevyhnutelně plodí korupci a potlačují vůli lidu. Využijme této šance k vytvoření federace komun řídících se zásadami anarchokomunismu."
  ETH_lord_of_lords: "Pán pánů"
- ETH_lord_of_lords_desc: "Ačkoli naše říše zahrnuje mnoho kultur, všechny se klaní témuž Pánu pánů. I ti nejušlechtilejší páni vědí, že jejich povinností je sloužit císaři. Jeho Veličenstvo je nesporným vládcem těchto zemí."
+ ETH_lord_of_lords_desc: "Ačkoliv naše impérium sestává z mnoha kultur, všichni se klanějí stejnému Pánu pánů. Dokonce i ti nejvznešenější páni znají svou povinnost vůči císaři. Jeho veličenstvo je nepochybným vládcem těchto zemí." # todo: CHANGED
  ETH_mass_transit: "Kolektivizovaná hromadná doprava"
  ETH_mass_transit_desc: "Velká část naší dopravní infrastruktury je zastaralá a vyžaduje reorganizaci, aby se dala efektivněji využívat. Nejlépe tyto reformy provedou dělníci, kteří infrastrukturu obsluhují."
  ETH_medal_gain_tt: "Zvyšuje množství ZK získaných veliteli divizí při udělení medaile o §G+75%§!"
@@ -428,7 +428,7 @@
  ETH_recruit_from_the_african_diaspora: "Verbovat z africké diaspory"
  ETH_recruit_from_the_african_diaspora_desc: "Protože nechtějí vidět zánik jednoho z posledních pozůstatků nezávislé Afriky, mnozí příslušníci africké diaspory po celém světě jsou připraveni chopit se zbraní a bojovat po našem boku. Společně bude zachráněna nejen [ETH.GetName], ale i samotná myšlenka africké svobody."
  ETH_recruit_mercenaries: "Naverbovat žoldnéře"
- ETH_recruit_mercenaries_desc: "V armádě nyní panuje značné napětí mezi vojáky různého původu. Mnozí jsou loajální starému režimu a nelze jim věřit. Než tyto neloajální živly vykořeníme, potřebujeme síly, jejichž věrnost je nepochybná. A nejjednodušší způsob, jak si zajistit loajalitu, jsou tvrdé peníze."
+ ETH_recruit_mercenaries_desc: "V armádě panují značné napětí mezi vojáky z různých prostředí. Mnozí jsou loajální ke starému režimu a nelze jim důvěřovat. Dokud tyto neloajální prvky nevykážeme, potřebujeme síly, které jsou beze sporu loajální k nám. Nejjednodušším způsobem, jak vzbudit loajalitu, je nabídnout tvrdé peníze." # todo: CHANGED
  ETH_red_army_engineers: "Ženisté Rudé armády"
  ETH_red_army_engineers_desc: "Velká část infrastruktury naší země byla během [ITA.GetAdjective] invaze těžce poškozena. Chceme-li vybudovat skutečnou dělnickou republiku, musíme nejen opravit, co jsme měli, ale zahájit i program rychlé industrializace. Využijme dovedností našich soudruhů v Rudé armádě k nastartování tohoto procesu."
  ETH_reform_the_currency: "Měnová reforma"
@@ -499,7 +499,7 @@
  ETH_soviet_aid_desc: "Úspěšně jsme setřásli okovy feudální věrnosti. Nyní musíme porazit fašisty a začít budovat naši dělnickou republiku. Pokud někdo bude mít pro naši věc pochopení, pak to bude jistě [SOV.GetAdjective] lid."
  ETH_soviet_aid_tt: "§R\n[SOV.GetNameDefCap] budou za pomoc očekávat větší kontrolu nad našimi záležitostmi! §!"
  ETH_soviet_mediation: "Sovětské zprostředkování"
- ETH_soviet_mediation_desc: "Navzdory hrdinskému úsilí našeho lidu při zastavení [ITA.GetAdjective] invaze jsme daleko od úplného vítězství. Společnost národů prokázala neochotu nám pomoci, a tak je naší jedinou nadějí [SOV.GetNameDefCap]."
+ ETH_soviet_mediation_desc: "Navzdory hrdinskému úsilí našeho lidu při zadržení [ITA.GetAdjective] invaze jsme daleko od možnosti dosáhnout nad nimi naprostého vítězství. Společenství národů prokázalo, že nám nechce pomoci, proto je naší jedinou nadějí [SOV.GetNameDefCap]." # todo: CHANGED
  ETH_soviet_mediation_tt: "§R\n[SOV.GetNameDefCap] se nás může pokusit převzít výměnou za to, že bude vyjednávat s [ITA.GetName]! §!"
  ETH_soviet_rejection_tt: "\n[SOV.GetFlag]§Y[SOV.GetNameDefCap]§! §Rpravděpodobně tento návrh odmítnou, pokud již nejsou komunisté nebo procházejí občanskou válkou!§!"
  ETH_soviet_rifles: "Sovětské pušky"
@@ -542,7 +542,7 @@
  ETH_the_american_radio_address: "Projev do amerického rozhlasu"
  ETH_the_american_radio_address_desc: "Zákony Společnosti národů jsou neustále porušovány, jak se opakují akty agrese. Aby duch prokletých nezískal převahu nad lidským pokolením, měli by všichni milovníci míru spolupracovat a pevně stát na obraně zákonnosti a pokoje."
  ETH_the_capital_victory_parade: "Vítězná přehlídka v [ROOT.Capital.GetCapitalVictoryPointName]"
- ETH_the_capital_victory_parade_desc: "Ačkoli nás náš velký vůdce zachránil před jistou zkázou, mnozí lidé jsou k motivům, které má [ETH.GetLeader], nedůvěřiví a touží po dnech staré císařské rodiny. Musíme jim připomenout, jak vděční by měli být, a ukázat slavnou budoucnost, kterou má [ETH.GetNameDef] před sebou."
+ ETH_the_capital_victory_parade_desc: "Přestože náš veliký vůdce nás zachránil před jistým zničením, mnozí naši lidé jsou podezřívaví vůči motivům [ETH.GetLeader] a touží po dnech staré císařské rodiny. Musíme jim připomenout, že by měli být [ETH.GetLeader] vděční, a ukázat jim slavnou budoucnost, která čeká [ETH.GetName]." # todo: CHANGED
  ETH_the_common_soldier: "Řadový voják"
  ETH_the_common_soldier_desc: "Armáda je ničím bez řadových vojáků, kteří denně nasazují život bez očekávání odměny či uznání. Těmto hrdinům náleží úcta za jejich přínos naší společné bezpečnosti."
  ETH_the_defense_of_addis_ababa: "Obrana Addis Abeby"
@@ -572,7 +572,7 @@
  ETH_the_italian_language_desc: "Jazyk je stále jednou z největších překážek hlubší spolupráce s Italy. Proto zavedeme italštinu jako druhý jazyk v celé státní správě, včetně armády. Snad to urychlí kulturní výměnu a zefektivní strategické plánování."
  ETH_the_italo-ethiopian_empire: "Italsko-etiopské impérium"
  ETH_the_italo-ethiopian_empire_desc: "Jak povstáváme z popela staré říše, začíná vznikat nová Italsko-[ETH.GetAdjective] říše. Ačkoliv jsme nedávno bojovali proti sobě, je stále jasnější, že [ITA.GetName] i [ETH.GetName] jsou spolu nyní silnější. Naší povinností je rozšířit panství naší společné říše."
- ETH_the_italo-ethiopian_empire_tt: "Odemkne rozhodnutí §YItalsko-etiopské impérium§! k získání statusu §Ydomovského území§! na nárokovaných územích po jejich dobytí.\nBudou převedena, pokud v nárokovaném státu ani v žádném sousedním státu není nepřátelská divize"
+ ETH_the_italo-ethiopian_empire_tt: "Odemyká §YItalo-[ETH.GetAdjective] Impérium§! rozhodnutí, která udělují domovská území na nárokovaném území poté, co jsou dobyta.\nBudou převedena, pokud se v nárokovaném státě nebo v libovolném přilehlém státě nenachází žádná nepřátelská divize" # todo: CHANGED
  ETH_the_junior_officer_corps: "Sbor mladších důstojníků"
  ETH_the_junior_officer_corps_desc: "Ozbrojeným silám po staletí dominovali aristokraté. Chceme-li zvýšit jejich účinnost na bojišti, musíme zřídit důstojnické školy a výcvikové programy, které upřednostní zásluhy před protekcí. Prvním krokem bude zřízení sboru mladších důstojníků."
  ETH_the_king_of_kings: "Král králů"
@@ -634,7 +634,7 @@
  ETH_victory_in_the_desert: "Vítězství v poušti"
  ETH_victory_in_the_desert_desc: "Ogaden je nejslabším místem italské fronty. Soustřeďme se na jejich porážku zde a poté dobyjme jejich přístavy na jihu. Uvolníme si tak záda a budeme moci postupovat na Eritreu."
  ETH_volunteers: "Dobrovolníci"
- ETH_volunteers_desc: "Pro utlačované po celém světě je [ETH.GetName] symbol naděje v boji proti drtivé imperialistické agresi. Nyní se lidé za hranicemi shromažďují pod [ETH.GetAdjective] prapory, aby s námi bojovali. Zdá se, že stále existují tací, kteří nedovolí, aby [ITA.GetLeader] mohl jen tak, z rozmaru, uhasit cen o svobodě."
+ ETH_volunteers_desc: "Po celém světě utlačované národy považují [ETH.GetName] za symbol naděje v boji proti drtivé imperialistické agresi. Nyní se lidé zpoza našich hranic začínají sjednocovat pod [ETH.GetAdjective] prapory, aby bojovali po našem boku. Zdá se, že stále existují ti, kdo nechtějí vidět sen o svobodě uhašený na rozmary [ITA.GetLeader]." # todo: CHANGED
  GER_chancellor_title: "Kancléř"
  GER_fascism_leader_title: "Führer"
  GER_female_kaiser_title: "Kaiserin"
@@ -907,7 +907,7 @@
  ITA_carica_di_isbuscenskij_desc: "Někteří říkají, že doba koně a jezdce na bojišti skončila a roli jízdy převzaly tanky a letadla. Mýlí se - kůň nepotřebuje palivo, pozemní obsluhu ani náhradní díly, jen občas novou podkovu. To dává kavalerii jasnou výhodu i na moderním bojišti."
  ITA_carica_di_isbuscenskij_re_tt: "$ITA_modify_regio_esercito_dynamic_modifier_ns_intro$ \n$modifier_army_sub_unit_cavalry_attack_factor$: §G+3.00%§! \n$modifier_army_sub_unit_cavalry_speed_factor$: §G+3.00%§! \n$modifier_unit_cavalry_design_cost_factor$: §G-25.00%§! \n$modifier_unit_camelry_design_cost_factor$: §G-25.00%§! \n\n"
  ITA_catholic_action: "Katolická akce"
- ITA_catholic_action_desc: "Naše katolická mládežnická organizace se ukazuje jako velmi účinný nástroj při potírání komunistů, prosazování zásad katolické sociální spravedlnosti a při rozšiřování řad ozbrojených sil ochotnými branci."
+ ITA_catholic_action_desc: "Naše katolická mládežnická organizace se ukazuje jako velmi účinný prostředek při vyhledávání komunistů, prosazování katolických principů sociální spravedlnosti a rozšiřování řad našich ozbrojených sil o nadšené nové brance." # todo: CHANGED
  ITA_catholic_action_re_tt: "$ITA_modify_regio_esercito_dynamic_modifier_ns_intro$ \n$MODIFIER_ARMY_MORALE_FACTOR$: §G+5.0%§! \n$MODIFIER_CONSCRIPTION_TOTAL_FACTOR$: §G+10%§! \n\n"
  ITA_christian_democracy: "Křesťanská demokracie"
  ITA_christian_democracy_desc: "Křesťanskodemokratická strana je konzervativní středová politická organizace vedená Alcidem De Gasperim, která si získala podporu lidu propojením křesťanských ideálů s ideou svobody. Měli bychom jim umožnit vytvořit vládu, pokud zůstanou loajální monarchii."
@@ -934,7 +934,7 @@
  ITA_common_ground_bop_tt: "§Y$ITA_power_balance$§! se posune o §Y15%§! směrem k §Yopoziční frakci§!."
  ITA_common_ground_desc: "Musíme zanechat rozdílů s jinými politickými skupinami, s nimiž ve skutečnosti sdílíme stejné cíle. Je čas spolupracovat a vést nový italský stát k pokroku."
  ITA_compagnie_auto_avio_sahariane: "Rozšířit Compagnie Auto Avio Sahariane"
- ITA_compagnie_auto_avio_sahariane_desc: "Compagnie Auto Avio Sahariane v Libyi se ukázala jako velmi účinná v kombinaci s vlastními průzkumnými letadly. Rozšíření tohoto designu by mělo naše síly učinit ještě silnějšími a vštípit našim nepřátelům strach z Boha!"
+ ITA_compagnie_auto_avio_sahariane_desc: "Auto-saharské jednotky v Libyi se ukázaly jako velmi účinné v kombinaci s vlastními průzkumnými letouny. Rozšíření tohoto uspořádání by mělo naše síly učinit ještě hrozivějšími a nahnat hrůzu našim nepřátelům!" # todo: CHANGED
  ITA_compagnie_auto_avio_sahariane_ra_tt: "$ITA_modify_regia_aeronautica_dynamic_modifier_ns_intro$ \n$MODIFIER_AIR_INTERCEPT_EFFICIENCY$: §G+5%§!\n$MODIFIER_GROUND_ATTACK_FACTOR$: §G+5.0%§! \n\n"
  ITA_compagnie_auto_avio_sahariane_re_tt: "$ITA_modify_regio_esercito_dynamic_modifier_ns_intro$ \n$MODIFIER_ORG_LOSS_WHEN_MOVING$: §G-5.0%§! \n$MODIFIER_OUT_OF_SUPPLY_FACTOR$: §G-5.0%§! \n\n"
  ITA_condemn_colonialism: "Odsoudit kolonialismus"
@@ -972,7 +972,7 @@
  ITA_crush_the_mafia: "Rozdrtit mafii"
  ITA_crush_the_mafia_desc: "Mafie a četné bandy pašeráků, vyděračů a obecně zločinců se během občanské války znovu vynořily. Je naší povinností vůči italskému lidu je vymýtit a obnovit v zemi bezpečnost a stabilitu."
  ITA_culto_del_duce: "Culto del Duce"
- ITA_culto_del_duce_desc: "Benito Mussolini, dobyvatel Afriky, mstitel Adwy, je bezpochyby nejdůležitější italský státník od dob římských císařů. Je zosobněním mužnosti, zcela bez strachu. Musíme zajistit, aby každý Ital věděl, že by se měl navždy snažit být Mussolinimu co nejpodobnější."
+ ITA_culto_del_duce_desc: "Benito Mussolini, dobyvatel Afriky, mstitel Adwy, je bezpochyby nejdůležitějším italským státníkem od dob římských císařů. Je absolutním vrcholem mužnosti, zcela bez strachu. Měli bychom zajistit, aby každý Ital věděl, že by se měl navždy snažit být co nejpodobnější Mussolinimu." # todo: CHANGED
  ITA_decima_flottiglia_mas: "Decima Flottiglia MAS"
  ITA_decima_flottiglia_mas_desc: "Teseo Tesei a Elios Toschi z Genio Navale navrhli samohybný torpédo, které lze použít k infiltrace nepřátelských přístavů - financováním vývoje této i dalších unikátních zbraní a výcvikem speciální jednotky, která je bude používat, bychom mohli dosáhnout dramatických, nečekaných vítězství nad nepřáteli."
  ITA_decima_flottiglia_mas_rm_tt: "$ITA_modify_regia_marina_dynamic_modifier_ns_intro$ \n$MODIFIER_SUB_RETREAT_SPEED$: §G+5%§! \n$MODIFIER_CONVOY_RAIDING_EFFICIENCY_FACTOR$: §G+2.00%§! \n$MODIFIER_NAVAL_CRITICAL_SCORE_CHANCE_FACTOR$: §G+2.00%§! \n\n"
@@ -1030,7 +1030,7 @@
  ITA_empower_the_unions_desc: "V italské dělnické třídě je ohromný potenciál. Musíme zajistit, aby odbory měly prostředky a pravomoci k regulaci a optimalizaci pracovních sil naší země."
  ITA_empower_the_unions_military_industry_dm_tt: "$ITA_modify_military_industry_dynamic_modifier_ns_intro$ \n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: §G+5.00%§! \n$MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_FACTOR$: §G+5.00%§! \n$MODIFIER_PRODUCTION_FACTORY_EFFICIENCY_GAIN_FACTOR$: §G+5.00%§! \n\n"
  ITA_end_fiat_ansaldo_duopoly: "Ukončit duopol Fiat-Ansaldo"
- ITA_end_fiat_ansaldo_duopoly_desc: "Náš strojírenský a motorový sektor dlouho ovládají dvě firmy: Fiat a Ansaldo. Ač jde o světově špičkové podniky, jejich dominance růst brzdí, protože konkurence na trhu nepřežije. Pokud chceme mít dlouhodobě zdravé odvětví, musíme tento duopol prolomit."
+ ITA_end_fiat_ansaldo_duopoly_desc: "Náš strojírenský a motorový průmysl je dlouho ovládán dvěma firmami: Fiat a Ansaldo. Ač jsou tyto dvě společnosti bezesporu špičkové inženýrské firmy, poněkud dusí růst, protože na trhu nemohou obstát konkurenti. Budeme muset tento duopol rozbít, pokud chceme mít v dlouhodobém horizontu zdravý strojírenský sektor." # todo: CHANGED
  ITA_end_fiat_ansaldo_duopoly_heavy_templates_tt: "\nJakmile bude vyzkoumána technologie §Y$improved_heavy_tank_chassis$§!:\n"
  ITA_end_fiat_ansaldo_duopoly_medium_templates_tt: "\nJakmile bude vyzkoumána technologie §Y$improved_medium_tank_chassis$§!:\n"
  ITA_end_fiat_ansaldo_duopoly_military_industry_tt: "$ITA_modify_military_industry_dynamic_modifier_ns_intro$ \n$armor_research$: §G+15%§! \n$infantry_weapons_research$: §G+15%§! \n$artillery_research$: §G+15%§! \n$air_equipment_research$: §G+15%§! \n$naval_equipment_research$: §G+15%§! \n$MODIFIER_PRODUCTION_LACK_OF_RESOURCE_PENALTY_FACTOR$: §G-10.00%§! \n\n"
@@ -1239,10 +1239,10 @@
  ITA_la_battaglia_per_la_terra_desc: "Základem silné fašistické společnosti je země sama a lidé, kteří na ní pracují. V Itálii je stále mnoho oblastí, kde můžeme získat užitnou půdu odvodněním bažin a zavlažováním polí."
  ITA_la_battaglia_per_le_nascite: "La Battaglia per le Nascite"
  ITA_la_battaglia_per_le_nascite_desc: "Chceme-li zaujmout své právoplatné místo ve světě, musíme mít vojenskou sílu si je vybojovat. K tomu potřebujeme vojáky. Nestačí, aby měl pár jedno či dvě děti - dříve než vyhrajeme války, musíme vyhrát Bitvu o porodnost."
- ITA_late_to_the_atomic_party_flag: "§R[ROOT.GetFlag][ROOT.GetName] již nelze považovat za průkopníka technologie $atomic_research$§!"
+ ITA_late_to_the_atomic_party_flag: "§R[ROOT.GetFlag][ROOT.GetName] už nelze považovat za průkopníka technologie $atomic_research$§!" # todo: CHANGED
  ITA_latin_initiatives: "Latinské iniciativy"
  ITA_legge_bottai: "Legge Bottai"
- ITA_legge_bottai_desc: "Římské umění a kultura jsou základem celé moderní evropské kultury. Nikdy nesmíme dopustit, aby tyto historické poklady přebily modernistické směry. Itálie se musí dívat do budoucna, ale nikdy nesmí zapomenout na svou minulost."
+ ITA_legge_bottai_desc: "Římské umění a kultura byly základem veškeré moderní kultury v Evropě. Nemůžeme nikdy dovolit, aby tyto historické poklady ustoupily modernismu. Zatímco Itálie musí vždy hledět do budoucnosti, nesmí nikdy zapomenout na svou minulost." # todo: CHANGED
  ITA_liberate_gramsci: "Osvobodit Gramsciho"
  ITA_liberate_gramsci_desc: "Náš soudruh, marxistický filosof Antonio Gramsci, je už více než deset let vězněn fašistickou vládou a jeho zdravotní stav se rychle zhoršuje. Musíme zorganizovat tajnou operaci, abychom jej vysvobodili a zachránili mu život - nepochybně se stane klíčovou postavou naší dělnické revoluce."
  ITA_liberate_gramsci_tt: "§Y$ITA_antonio_gramsci$§! bude propuštěn z vězení a dostane náležitou léčbu. Dále po komunistické větvi bude dostupný jako §Yvůdce $communism$ země§!."
@@ -1282,7 +1282,7 @@
  ITA_midget_submarines_decision_tt: "\nPo dokončení zaměření §Y$ITA_cooperation_programs$§!: \nOdemkne rozhodnutí §Y$ITA_export_midget_submarines$§!."
  ITA_midget_submarines_desc: "Čistá voda Středozemního moře je pro větší ponorky nebezpečná. Výstavba malých lodí s krátkým doletem a nízkou viditelností může zvýšit jejich šance na přežití ve středomořském prostředí a poskytnout nám sílu, kterou potřebujeme k hlídkování v důležitých úžinách, jako je Sicilský průliv."
  ITA_milan_comms_industry: "Milánský komunikační průmysl"
- ITA_milan_comms_industry_desc: "Nový obor radiodetekce a měření vzdálenosti nabízí mnoho příležitostí a nepochybně se stane důležitou oblastí vojenské techniky. Musíme zajistit, abychom s vývojem drželi krok."
+ ITA_milan_comms_industry_desc: "Nová oblast radiodetekce a měření vzdálenosti nabízí mnoho příležitostí a bezpochyby se stane důležitou oblastí vojenské techniky. Musíme zajistit, že budeme schopni držet krok s vývojem v této oblasti." # todo: CHANGED
  ITA_military_agreements: "Vojenské dohody"
  ITA_military_agreements_desc: "Od našich spojenců se máme co učit; musíme je oslovit s návrhem programu vojenské a technologické spolupráce."
  ITA_military_cooperation: "Vojenská spolupráce"
@@ -1515,7 +1515,7 @@
  ITA_seize_old_equipment: "Zabavit starou výzbroj"
  ITA_seize_old_equipment_desc: "Po celé zemi je ve skladištích uloženo velké množství staré vojenské výzbroje. Navzdory stáří bude její zabavení a rozdělení našim silám velkým krokem směrem k vítězství ve válce."
  ITA_self_propelled_guns: "Samohybná děla"
- ITA_self_propelled_guns_desc: "Tank možná způsobil revoluci ve vedení války, ale v mnoha ohledech je samohybné dělo nejcennějším vozidlem na bojišti. Palebná podpora, kterou poskytují relativně levná a jednoduchá vozidla, je k nezaplacení při prorážení opevnění či v boji proti nepřátelským tankům."
+ ITA_self_propelled_guns_desc: "Tank možná způsobil revoluci ve válčení, ale v mnoha ohledech je samohybné dělo nejcennějším vozidlem na bojišti. Palebná podpora, kterou poskytují relativně levná a jednoduchá vozidla, je neocenitelná při boji s pevnostmi nebo proti nepřátelským tankům." # todo: CHANGED
  ITA_self_propelled_guns_military_industry_tt: "$ITA_modify_military_industry_dynamic_modifier_ns_intro$ \n$ITA_self_propelled_guns_dynamic_modifier_tt$\n"
  ITA_servizio_informazione_militare: "Servizio Informazioni Militare"
  ITA_servizio_informazione_militare_desc: "Naše armáda potřebuje k plánování operací přesné informace. K tomu potřebujeme ústřední organizaci, která tyto informace shromažďuje a analyzuje a v případě potřeby provádí i ofenzivní akce proti vybraným cílům."
@@ -1548,7 +1548,7 @@
  ITA_steel_industry_in_terni_desc: "Ocelárny v Terni byly dlouho páteří italské produkce oceli. V nadcházejících válkách se na ně budeme muset spoléhat ještě více. Pár investic navíc se později bezpochyby mnohonásobně vrátí."
  ITA_steel_industry_in_terni_ricostruzione_industriale_tt: "$ITA_modify_ricostruzione_industriale_dynamic_modifier_ns_intro$ \n$modifier_production_speed_arms_factory_factor$: §G+2.50%§! \n\n"
  ITA_stockpile_fuel: "Vytvořit zásoby paliva"
- ITA_stockpile_fuel_desc: "Ropa je krví v žilách našich lodí — bez ní by flotila ochrnula. Protože Itálie nemá významné domácí zásoby, je životně důležité budovat skladovací nádrže a plnit je, abychom udrželi síly v chodu i tehdy, kdyby nás budoucí konflikty odřízly od dovozu."
+ ITA_stockpile_fuel_desc: "Ropa je krev, která koluje v žilách našich lodí; bez ní by flotila zůstala nečinná. Vzhledem k tomu, že Itálie postrádá zásadní domácí zásoby ropy, je nezbytné vybudovat zásobníky na ropu a naplnit je, aby naše síly vydržely i kdyby nás budoucí konflikty odřízly od dovozu." # todo: CHANGED
  ITA_stop_the_squandering: "Zarazit plýtvání"
  ITA_stop_the_squandering_desc: "Mussolini příliš dlouho utrácel peníze a zdroje, které si Itálie nemůže dovolit — je čas učinit přítrž tomuto bezhlavému plýtvání! Musíme zkrotit výdaje a soustředit kapitál na zlepšení jiných oblastí."
  ITA_stop_the_squandering_military_industry_tt: "$ITA_modify_military_industry_dynamic_modifier_ns_intro$ \n$MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY$: §G+5.00%§! \n\n"
@@ -1570,7 +1570,7 @@
  ITA_strengthen_the_papacy: "Posílit papežství"
  ITA_strengthen_the_papacy_desc: "Je zřejmé, že vliv papeže na italskou společnost je velmi silný. Jediný způsob, jak udržet národní stabilitu, je posílit postavení Církve v rámci Italského království."
  ITA_strengthen_the_regime: "Posílit režim"
- ITA_strengthen_the_regime_desc: "Boje za ekonomickou nezávislost ukázaly, že fašismus není slabá a měkká ideologie jako liberální režimy před ním. Musíme zajistit, aby na to lid nikdy nezapomněl."
+ ITA_strengthen_the_regime_desc: "Boje za ekonomickou nezávislost ukázaly, že fašismus není slabá a měkká ideologie, jako liberální režimy, které mu předcházely. Měli bychom zajistit, aby si toho lidé nikdy nezapomněli." # todo: CHANGED
  ITA_struggle_in_ethiopia: "Boj v Etiopii"
  ITA_struggle_in_ethiopia_desc: "Náš postup v Etiopii je výrazně pozadu, ale nemůžeme dopustit, aby nás takové drobné klopýtnutí demoralizovalo. Italské zbraně a fašistický systém zvítězí — ať to stojí cokoli."
  ITA_subdue_the_sentinels: "Porazit strážce"
@@ -1639,7 +1639,7 @@
  ITA_the_kings_finest_desc: "Vytvoříme zvláštní divize složené z vojáků a důstojníků věrných italské koruně a vycvičíme je tak, aby se staly elitou našeho Osvobozeneckého vojska."
  ITA_the_kings_finest_spawn_divs_tt: "Vytvoří §Y3 $infantry$§! divize a §Y1 Divisione Celere§! ve státě [THIS.GetName]. \n\n"
  ITA_the_man_of_providence: "Muž Prozřetelnosti"
- ITA_the_man_of_providence_desc: "Mussolini nebyl jen na správném místě ve správný čas. Každý krok jako by vedla boží vůle, aby se právě v tu chvíli chopil otěží Itálie."
+ ITA_the_man_of_providence_desc: "Mussolini nebyl jen na správném místě ve správný čas. Každý krok byl veden, jako by božská vůle zajistila, že Mussolini převzal otěže Itálie právě tehdy." # todo: CHANGED
  ITA_the_new_emperor_of_ethiopia: "Nový etiopský císař"
  ITA_the_new_emperor_of_ethiopia_desc: "Lid Etiopie žil po staletí pod vládou císařů. Naším úkolem by bylo jistě jednodušší, kdybychom jim jednoduše předložili nového císaře - korunováním našeho krále novým etiopským císařem."
  ITA_the_new_emperor_of_ethiopia_has_idea_vittorio_emanuele_tt: "Má národní duch §Y$vittorio_emanuele$§!"
@@ -1718,7 +1718,7 @@
  SWI_all_adults_training: "Výcvik pro všechny dospělé"
  SWI_all_adults_training_desc: "V dnešní situaci není prostor pro náhodu. Každý schopný dospělý musí být připraven chopit se zbraně proti komukoli, kdo by nás napadl. Švýcarsko patří všem, proto jej musí bránit všichni."
  SWI_allied_gold: "Spojenecké zlato"
- SWI_allied_gold_desc: "Víry událostí a sankce omezily obchod se zlatem, ale díky naší neutralitě můžeme otevřít možnost zvýšeného obchodu se zlatem s dalšími demokratickými zeměmi, podpořit jejich ekonomiky a udržet fašismus na uzdě."
+ SWI_allied_gold_desc: "Řevnivý vír a sankce, které obklopují současné události, omezily obchod se zlatem a ztížily ho, ale díky naší neutrální pozici můžeme otevřít možnost zvýšeného obchodu se zlatem s ostatními demokratickými zeměmi, čímž podpoříme demokratické ekonomiky a udržíme fašismus na uzdě." # todo: CHANGED
  SWI_alpine_aspirations: "Alpské ambice"
  SWI_alpine_aspirations_desc: "Ústřední [ROOT.GetAdjective] vláda se rozrostla a proměnila v Helvétskou republiku - máme nyní prostředky ke správě většího území. [FRA.GetNameDef] od nás obdrží požadavku o rozšíření naší kontrolní zóny, abychom byli blíž sjednocení Alp pod jediným praporem."
  SWI_alpine_redoubt: "Alpská reduta"
@@ -1771,7 +1771,7 @@
  SWI_centralize_switzerland: "Centralizovat Švýcarsko"
  SWI_centralize_switzerland_desc: "[ROOT.GetNonIdeologyName], k němuž směřujeme, je na hony vzdálen staré Švýcarské konfederaci. Nebudeme už konfederací, nýbrž centralizovaným státem, z něhož moc pramení shora a stéká k masám."
  SWI_citizen_supply_mandate: "Povinné zásoby občanů"
- SWI_citizen_supply_mandate_desc: "Nevíme, jak by invaze probíhala, a i kdybychom se mohli spolehnout na centralizované zásobování, neodpovídá to naší velitelské struktuře. Proto musí každá [ROOT.GetAdjective] domácnost skladovat zásoby alespoň na 2 měsíce - pro sebe i pro místní milice."
+ SWI_citizen_supply_mandate_desc: "Nevíme, jak by invaze probíhala, a i kdybychom se mohli spolehnout na centralizovanou zásobovací síť, ta není kompatibilní s naší strukturou velení. Proto musí každá [ROOT.GetAdjective] domácnost skladovat alespoň 2 měsíce zásob ve svých domovech, jak pro sebe, tak pro své místní milice." # todo: CHANGED
  SWI_closer_democratic_ties: "Užší demokratické vazby"
  SWI_closer_democratic_ties_desc: "Jak autokracie vrhá stín na Evropu, nemusíme to sami zvládnout - ale spoluprací s dalšími demokraciemi můžeme její postup zastavit. Prvním krokem je navázat těsnější vztahy a dokázat, že dokážeme přispět k věci."
  SWI_closer_ties_with_germany: "Užší vazby na [SWI_get_fascist_neighbor_cap]"
@@ -1779,7 +1779,7 @@
  SWI_complete_siegfried_line: "Dokončit Siegfriedovu linii"
  SWI_complete_siegfried_line_desc: "[GER.GetNameDefCap] vybudoval impozantní bariéru, aby pro něj [FRA.GetName] nepředstavovala hrozbu, a máme důvody věřit, že se budeme muset bránit i my - zvlášť pokud se více sblížíme s [GER.GetNonIdeologyName]. Proto musíme koordinovat a vybudovat doplňující obranu."
  SWI_connect_to_the_maginot_line: "Napojit se na Maginotovu linii"
- SWI_connect_to_the_maginot_line_desc: "Větry války vanou směrem k Francii a je pravděpodobné, že její nepřátelé narazí na tzv. Maginotovu linii. To nás staví do nebezpečné pozice, protože [?SWI.SWI_biggest_fascist.GetNonIdeologyName] může chtít linii obejít přes naše území. Proto je koordinace nevyhnutelná - my a [FRA.GetName] musíme vytvořit jednotnou frontu."
+ SWI_connect_to_the_maginot_line_desc: "Větry války směřují na [FRA.GetName], a je velká šance, že její nepřátelé budou muset zaútočit na tzv. Maginotovu linii, což nás staví do nebezpečné situace, protože [?SWI.SWI_biggest_fascist.GetNonIdeologyName] by mohl být v pokušení ji obejít invazí na nás. Proto se musíme s [FRA.GetName] koordinovat a vytvořit jednotný front." # todo: CHANGED
  SWI_crack_down_on_dissent: "Zasáhnout proti nesouhlasu"
  SWI_crack_down_on_dissent_desc: "[ROOT.GetNonIdeologyName] nesmí být rozštěpeno, protože jediná trhlina ve společnosti může vést ke zřícení [ROOT.GetAdjective] vlády."
  SWI_create_anti_tank_template_TT: "Bude vytvořena šablona §YŠvýcarská milice - protitanková§!"
@@ -1870,7 +1870,7 @@
  SWI_industrial_production: "Průmyslová výroba"
  SWI_industrial_production_desc: "Domácí frontu nelze zanedbávat. Každé schopné tělo v [ROOT.GetAdjective] kantonech musí být ochotné obětovat se pro náš válečný stroj."
  SWI_infiltrate_federal_police: "Infiltrovat spolkovou policii"
- SWI_infiltrate_federal_police_desc: "Spolková policie má mandát potírat cizí propagandu a nedemokratické síly - ideální místo k infiltraci, abychom zabránili tomu, aby se terčem stala naše vlastní frakce. Postupem času nám to umožní likvidovat nepřátele pod záminkou národní bezpečnosti."
+ SWI_infiltrate_federal_police_desc: "S mandátem vyhledávat zahraniční propagandu a nedemokratické síly je Federální policie ideálním místem k infiltraci a zamezení tomu, aby se naší vlastní frakci dostalo pozornosti. Nakonec nám to také umožní odstraňovat nepřátele pod záminkou národní bezpečnosti." # todo: CHANGED
  SWI_integrate_refugees_into_the_army: "Začlenit uprchlíky do armády"
  SWI_integrate_refugees_into_the_army_desc: "Jako oáza míru a demokracie uprostřed oceánu fašismu a války přitahuje [ROOT.GetName] mnohé, kdo hledají bezpečné útočiště. Někteří chtějí přispět k porážce těch, kdo je vyhnali z domovů, a mnozí jsou profesionální vojáci. Můžeme jim umožnit bojovat za Švýcarsko a lepší budoucnost."
  SWI_join_france: "Připojit se k Francii"
@@ -1905,7 +1905,7 @@
  SWI_mountaneer_paratroopers: "Horskí výsadkáři"
  SWI_mountaneer_paratroopers_desc: "[ROOT.GetNonIdeologyName] je po celém světě známá svými impozantními štíty a mnoho našich obyvatel nazývá hory domovem. Této výhody můžeme využít k výcviku nadřazených výsadkářů - síly, která seskočí v cizích nebesích a získá cizí hory ke slávě pro [ROOT.GetNameDef]."
  SWI_multipurpose_tanks: "Víceúčelové tanky"
- SWI_multipurpose_tanks_desc: "Stejně jako všestranné zavírací nože, které vydáváme pěchotě, potřebujeme stroje, jež zacelí každou mezeru a splní jakýkoli úkol. V tankovém boji máme co dohánět, proto musíme vyvíjet širokou paletu řešení, abychom měli ucelenou sílu."
+ SWI_multipurpose_tanks_desc: "Stejně jako univerzální víceúčelové nože, které vydáváme naší pěchotě, potřebujeme stroje, které mohou zaplnit jakoukoli mezeru a splnit jakýkoli úkol potřebný pro naše válečné úsilí. V oblasti tankového boje toho máme hodně co dohánět, takže musíme mít širokou škálu vývojů, abychom vytvořili komplexní sílu." # todo: CHANGED
  SWI_national_defense_fund: "Národní obranný fond"
  SWI_national_defense_fund_desc: "Obrana země vyžaduje víc než pot a dřinu - potřebujeme i finance na dovoz vybavení a surovin k přípravě na nejhorší. Zřízením a propagací fondu, do nějž mohou [ROOT.GetAdjective] občané dobrovolně přispívat, vyrovnáme navýšení vojenského rozpočtu a zároveň ukážeme [ROOT.GetAdjective] participativní přístup."
  SWI_national_redoubt: "Réduit national"
@@ -1914,7 +1914,7 @@
  SWI_naval_industry_desc: "I když se na nově získaném pobřeží najdou zbytky námořního průmyslu, musíme jej rychle a komplexně rozšířit a vybudovat soudržný rámec výroby i údržby hodný skutečně mocného švýcarského námořnictva."
  SWI_naval_industry_tt: "Přidá §G1§! stavební slot and §Y1 Loděnici§! v každém pobřežním státě. (Max. 10)"
  SWI_neutral_entente: "Neutralní Dohoda"
- SWI_neutral_entente_desc: "Nejsme jediným neutrálním státem na světě a s rostoucím rizikem, že válčící mocnosti poruší naši snahu zůstat mimo jejich konflikty, je musíme důrazněji odradit. Musíme získat vzájemnou pomoc ostatních neutrálních zemí, aby válka proti jedné znamenala válku proti všem."
+ SWI_neutral_entente_desc: "Nejsme jediným neutrálním státem na světě, a vzhledem k riziku války a k tomu, že agresivní mocnosti by mohly zasahovat do naší touhy nevstupovat do jejich konfliktů, je třeba je více odradit. Musíme vyhledat vzájemnou pomoc všech ostatních neutrálních zemí, aby válka proti jednomu neutrálnímu znamenala válku proti všem neutrálním." # todo: CHANGED
  SWI_neutral_entente_faction: "Neutralní Dohoda"
  SWI_neutrality_decisions_disabled_TT: "Rozhodnutí §Y$SWI_absolute_neutrality_decisions_category$§! budou deaktivovány."
  SWI_oasis_of_democracy: "Oáza demokracie"
@@ -1924,7 +1924,7 @@
  SWI_ortswehren: "Ortswehren"
  SWI_ortswehren_desc: "Totální válka znamená, že každý [ROOT.GetAdjective] občan musí být připraven bránit svůj kanton - ne každý však může do milic. Zřídíme místní stráže jako oporu, o niž se milice mohou opřít, když budou bránit [SWI.GetName]."
  SWI_panoramaheim_branch: "Panoramaheim"
- SWI_panoramaheim_branch_desc: "Ve Stuttgartu stojí dům zvaný „Panoramahaus“ - zdroj mnoha pátých kolon s cílem destabilizovat [ROOT.GetAdjective] vládu a otevřít dveře režimu vedenému fašisty."
+ SWI_panoramaheim_branch_desc: "V Stuttgartu stojí dům, který nazývají 'Panorama House', a byl zdrojem mnoha agentů páté kolony s cílem destabilizovat vládu [ROOT.GetAdjective] a otevřít dveře fašistickému režimu." # todo: CHANGED
  SWI_patriotic_shooting_clubs: "Vlastenecké střelecké kluby"
  SWI_patriotic_shooting_clubs_desc: "[ROOT.GetName] má dlouhou tradici střeleckých klubů a soutěží. Někteří naši rekreační střelci převyšují profesionální odstřelovače jiných zemí. Tyto kluby můžeme zapojit do milic a zlepšit naši obranyschopnost."
  SWI_plains_warfare: "Válčení na pláních"
@@ -1941,7 +1941,7 @@
  SWI_pro_helvetia: "Pro Helvetia"
  SWI_pro_helvetia_desc: "Duchovní obrana, kterou [ROOT.GetName] vyžaduje, musí zabezpečit, aby [ROOT.GetAdjective] kultura zůstala jedinečná, nedělitelná a odlišná od našich sousedů. Nová organizace Pro Helvetia bude naše sdílené švýcarské hodnoty - úzce svázané s demokracií - chránit a šířit, aby zajistila přežití proti přesile."
  SWI_professionalize_militias: "Zprofesionalizovat milice"
- SWI_professionalize_militias_TT: "Všechny divize §YŠvýcarských občanských milicí§! se stanou §Ypěchotnými§! divizemi a rozhodnutí §Y$SWI_military_readiness_decisions_category$§! bude deaktivováno."
+ SWI_professionalize_militias_TT: "Všechny divize §YŠvýcarská občanská milice§! se stanou divizemi §YStandardní pěchota§! a rozhodnutí §Y$SWI_military_readiness_decisions_category$§! budou deaktivována." # todo: CHANGED
  SWI_professionalize_militias_desc: "Při současném vývoji už příležitostná milice z branců stačit nebude. Musíme vycvičit každého schopného člověka a vytvořit profesionální armádu, z níž půjde strach."
  SWI_prolonged_service: "Prodloužená služba"
  SWI_prolonged_service_desc: "Naše povinná služba je pro vleklou válku nedostatečná. Federální vládě musíme dát nástroje, aby mohla držet občany pod zbraní déle, i za cenu omezení některých svobod."
@@ -1966,7 +1966,7 @@
  SWI_reaffirm_spiritual_defense: "Potvrdit duchovní obranu"
  SWI_reaffirm_spiritual_defense_desc: "Naše konfederace hájí švýcarské národní hodnoty od roku 1932 v reakci na rostoucí hrozbu autoritářství. Dnes hrozba visí ve vzduchu ještě víc - musíme obnovit závazek bránit náš způsob života fyzicky i duchovně."
  SWI_reduce_military_training_age: "Snížit věk nástupu do výcviku"
- SWI_reduce_military_training_age_desc: "Obvykle začínají [ROOT.GetAdjective] občané s výcvikem ve 20 letech, ale abychom měli dostatek lidí pod zbraní, budou muset začít o rok dříve. Doufejme, že to bude stačit."
+ SWI_reduce_military_training_age_desc: "Obvykle se [ROOT.GetAdjective] začínají připravovat na boj ve 20 letech, ale abychom měli potřebné počty k přežití, budou naši občané muset zahájit výcvik o rok dříve. Doufejme, že to bude stačit." # todo: CHANGED
  SWI_reduce_militia_activation_time_TT: "Čas na plnou mobilizaci našich §Yobčanských milicí§! bude snížen o §G$RIGHT|0$§! dní"
  SWI_request_austrian_occupation: "Vyžádat si správu [AUS.GetAdjective] území"
  SWI_request_austrian_occupation_desc: "[ROOT.GetNonIdeologyName] anektovalo [848.GetName], ale to není náš konečný cíl. Můžeme [?SWI_fascist_overlord.GetName] dokázat, že zvládneme spravovat větší území - ulevíme jim a učiníme z frakce [ROOT.GetFactionName] efektivnější válečný stroj."
@@ -1980,14 +1980,14 @@
  SWI_rig_infrastructure_to_blow_TT: "Když nepřítel obsadí jeden z našich domovských států, všechna §YInfrastruktura§!, §YŽeleznice§!, §YDistribuční uzly§! a §YPozemní pevnosti§! budou zcela zničeny. §YVojenské§! a §YCivilní továrny§! budou částečně poškozeny."
  SWI_rig_infrastructure_to_blow_desc: "Jestli vetřelce vpustíme přes hranice, nesmíme jim vše naservírovat na stříbrném podnosu. Musíme infrastrukturu připravit tak, aby ji bylo možné vyřadit z provozu, zpomalit jejich postup a vynutit nákladné opravy."
  SWI_rolling_fortresses: "Pohyblivé pevnosti"
- SWI_rolling_fortresses_desc: "Naše tanky mohou přirozeně zapadnout do současných obranných doktrín - jako vysunuté opěrné body pevností, které chrání naše hory. Neprolomí-li nepřítel opevněnou frontu, nikdy se k našim kantonům nedostane."
+ SWI_rolling_fortresses_desc: "Naše tanky mohou být součástí naší současné obranné doktríny, takže jsou pokročilou pozicí tvrzí, které brání naše hory. Pokud nepřítel nedokáže projít našimi opevněnými frontovými liniemi, nikdy nedosáhne našich kantonů." # todo: CHANGED
  SWI_secret_pact_with_allies_TT: "Pokud se ocitneme ve válce, okamžitě se připojíme k jejich frakci."
  SWI_secret_pact_with_the_allies: "Tajný pakt se Spojenci"
  SWI_secret_pact_with_the_allies_desc: "[ROOT.GetName] není připravena na totální válku ani na otevřené připojení k frakci, ale bez přátel nebudeme v bezpečí. Abychom v případě překvapivé invaze ubránili demokracii, můžeme na tajné setkání pozval [?SWI.SWI_best_dem_ally.GetNameDef] a dohodnout se: slíbíme skrytou podporu a přípravy na vstup do války - oni nás ochrání, budeme-li napadeni."
  SWI_seek_allied_trade: "Usilovat o obchod se Spojenci"
  SWI_seek_allied_trade_desc: "S nepřáteli všude kolem musíme zajistit životně důležitý obchod se Spojenci. S trochou štěstí se vyhneme hněvu dalších sousedů za utužování vztahů s jejich rivaly."
  SWI_seek_trade_agreement_with_germany: "Obchodní dohoda s Německem"
- SWI_seek_trade_agreement_with_germany_desc: "Fašismus děsí svým vzestupem a byť je to hořká pilulka, určitá hospodářská spolupráce může být tím, co nás udrží mimo jejich zaměřovač."
+ SWI_seek_trade_agreement_with_germany_desc: "Fašismus pokračuje ve svém děsivém vzestupu, a i když to může být těžko stravitelné, povolení určité ekonomické spolupráce může být to, co potřebujeme, aby jejich zaměření nebylo na nás." # todo: CHANGED
  SWI_share_spy_networks: "Sdílet špionážní sítě"
  SWI_share_spy_networks_desc: "Cíl pro [?SWI.SWI_best_dem_ally.GetNameDefCap] je stejný jako náš: držet fašismus na uzdě - a není nutné kvůli tomu provokovat [?SWI.SWI_biggest_fascist.GetNameDef]. [ROOT.GetName] má zkušené operativce, kteří splynou s německou, italskou i francouzskou společností; tuto výhodu můžeme našemu spojenci zapůjčit."
  SWI_size_and_opinion_chance_tooltip: "\nBudou spíše souhlasit na základě §Yvelikosti§! našich ozbrojených sil a jejich §Ynázoru§! na nás."
@@ -2037,11 +2037,11 @@
  SWI_the_petition_of_the_200: "Petice dvou set"
  SWI_the_petition_of_the_200_desc: "Dvě stě členů široké škály stran reprezentujících [ROOT.GetAdjective] fašismus a autoritářství předložilo tuto petici shromáždění: [GER.GetNameDef] je naše budoucnost a v zájmu sebezáchovy s ním musíme spolupracovat."
  SWI_the_second_helvetic_republic: "Druhá Helvétská republika"
- SWI_the_second_helvetic_republic_desc: "Roku 1798 dobyl [ROOT.GetNameDef] nechvalně proslulý diktátor Napoleon Bonaparte a ustavil Helvétskou republiku jako nástroj podmanění našeho lidu. Naštěstí jsou ty dny pryč a podruhé můžeme očekávat spravedlivější svazek s naším dlouholetým sousedem."
+ SWI_the_second_helvetic_republic_desc: "V roce 1798 nechvalně proslulý diktátor Napoleon Bonaparte dobyl [ROOT.GetName] a zřídil Helvétskou republiku jako nástroj k podrobení našeho lidu. Naštěstí pro nás jsou tyto dny pryč a můžeme si být jisti, že podruhé můžeme očekávat spravedlivější svazek s naším dlouholetým sousedem." # todo: CHANGED
  SWI_thunder_in_the_valleys: "Hrom v údolích"
  SWI_thunder_in_the_valleys_desc: "Obrněné válčení nemá v našich horách své místo - ale chceme-li útočit a zasáhnout nepřátele dřív, než dosáhnou nás, musíme rychle dohnat ztrátu a vyvinout vlastní vozidla."
  SWI_tighten_press_censorship: "Zpřísnit cenzuru tisku"
- SWI_tighten_press_censorship_desc: "Není prostor pro chyby - jediné slovo může rozhodnout o přežití konfederace, nebo o jejím pádu do zapomnění. Nemůžeme dopustit, aby svobodný tisk ohrozil naši budoucnost; musí být přísně kontrolován přesně tak, jak to [?SWI.SWI_biggest_fascist.GetNameDef] vyžaduje."
+ SWI_tighten_press_censorship_desc: "Není prostor pro chyby, jedno slovo může rozhodnout mezi přežitím konfederace a jejím pádem do zapomnění. Nemůžeme nechat svobodný tisk ohrozit naši budoucnost, musí být přísně kontrolován přesně způsobem, který požaduje [?SWI.SWI_biggest_fascist.GetNameDef]." # todo: CHANGED
  SWI_total_defense: "Totální obrana"
  SWI_total_defense_desc: "Totální válka vyžaduje totální obranu - pokud budou všechny milice připravené a nasadí proti vetřelcům vše, co mají, můžeme mít šanci na přežití."
  SWI_train_navy_staff: "Vyškolit námořní štáb"
