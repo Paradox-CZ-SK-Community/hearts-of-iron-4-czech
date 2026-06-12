@@ -86,7 +86,7 @@
  tfv_australia.80.d: "[From.GetNameDefCap] se postupem času stal více sympatizujícím s imperiálními ambicemi [Root.GetNameDef]. Jako jediná další významná vojenská síla v regionu se [From.GetNameDefCap] rozhodli, že je lepší stát po našem boku jako hrdý spojenec než jako pokorný služebník.\n\nAby zvýšili náš zájem, návrh na západopacifickou alianci jasně vymezuje [Root.GetAdjective] sféru tak, aby zahrnovala i několik území, která jsou aktuálně pod kontrolou [From.GetAdjective] nepřátel."
  tfv_australia.80.t: "Nabídka zpoza moře"
  tfv_australia.81.a: "[Root.GetNameDefCap] a [From.GetNameDefCap] budou z tohohle profitovat v celém západním Pacifiku."
- tfv_australia.81.d: "Naše delegace v Japonsku se vrátila vítězně. Podepsali jsme oficiální alianci s [JAP.GetName]. Dokument jasně vymezuje sféry zájmů každé z našich zemí, do kterých druhá nesmí zasahovat." # todo: CHANGED
+ tfv_australia.81.d: "Naše delegace v Japonsku se vrátila vítězně. Podepsali jsme oficiální alianci s Japonskem. Dokument jasně vymezuje sféry zájmů pro každou z našich zemí, do nichž druhá nesmí zasahovat."
  tfv_australia.81.t: "[From.GetNameDefCap] schvaluje alianci"
  tfv_australia.82.a: "Pokud nebudou stát při nás, donutíme je, aby před námi poklekli."
  tfv_australia.82.d: "Navzdory našemu vstupu do popředí světové scény odmítlo [From.GetNameDef] uznat náš význam v regionu západního Pacifiku.\nNejenže nás přímo odmítli, ale také jasně vyjádřili, že jejich doktrína Nanšin-rón by je mohla zavést daleko za Indonésii - až k samotnému australskému kontinentu."
@@ -196,7 +196,7 @@
  tfv_new_zealand.2.desc: "Po pečlivém zvážení schválil Ústřední výbor Kominterny naši žádost o členství."
  tfv_new_zealand.2.t: "Členství v Kominterně schváleno"
  tfv_new_zealand.3.a: "Možná se mýlí oni?"
- tfv_new_zealand.3.desc: "Naše delegace musela vyslechnout dlouhou přednášku předsedy Kominterny, vysvětlující, že země tak malá jako ta naše nemůže být typem rozvinutého průmyslového státu, ze kterého by mohla vzejít komunistická revoluce. Zjevně jsme prý něco jiného. Každopádně nemůžeme být součástí Kominterny." # todo: CHANGED
+ tfv_new_zealand.3.desc: "Naše delegace musela snést dlouhou přednášku předsedy Kominterny, který vysvětloval, že země tak malá, jako je ta naše, nemůže být vyspělým průmyslovým státem schopným vyprodukovat komunistickou revoluci. Jsme prý něco jiného. V každém případě se nemůžeme stát součástí Kominterny."
  tfv_new_zealand.3.t: "Žádost o členství v Kominterně zamítnuta"
  tfv_new_zealand.4.a: "Pokud budou znát své místo."
  tfv_new_zealand.4.b: "Proč brát diplomacií to, co můžeš vzít válkou?"
@@ -223,10 +223,10 @@
  tfv_new_zealand.92.t: "[From.GetNameDefCap] odmítá"
  tfv_raj.1.a: "Měly by jít do Spojeného království."
  tfv_raj.1.b: "Potřebujeme je pro obranu vlasti!"
- tfv_raj.1.desc: "Po celém Impériu byly v místních komunitách zřízeny \"Fighter Funds\" na shromažďování peněz na nové stíhačky pro Královské letectvo. Bohatí jednotlivci také přispěli na nákup letadel pro armádu. Nizám z Hyderabadu daroval dostatek peněz na financování nákupu 2 plných letek. Otázka zní, kde by měly být umístěny." # todo: CHANGED
+ tfv_raj.1.desc: "Po celém Impériu vznikají v místních komunitách „Sbírky pro stíhačky“ k vybírání peněz na nové stíhačky pro Royal Air Force. Přispěli i bohatí jednotlivci, aby armáda mohla nakoupit letouny. Nizám z Hajdarábádu daroval tolik peněz, že to financuje nákup dvou plných letek. Otázkou zůstává, kde by měly být umístěny."
  tfv_raj.1.t: "Sbírky pro stíhačky"
  tfv_raj.2.a: "Velmi se hodí."
- tfv_raj.2.desc: "Nizám z Hyderabadu, indický princ, štědře daroval peníze na nákup dvou plných letek našich nejmodernějších stíhaček pro Královské letectvo. Vláda mu vyjádřila poděkování a oznámila, že první letadlo ponese jméno \"Spirit of Hyderabad\"." # todo: CHANGED
+ tfv_raj.2.desc: "Nizám z Hajdarábádu, indické kníže, velkoryse daroval prostředky na nákup dvou plných letek našich nejmodernějších stíhaček pro Royal Air Force. Vláda vyjádřila poděkování a prohlásila, že první letoun ponese jméno „Duch Hajdarábádu“."
  tfv_raj.2.t: "Indické kníže daruje stíhačky"
  tfv_raj.201.a: "Udeřte z nebes, bratři!"
  tfv_raj.201.desc: "Vojáci Battaglione Azad Hindoustan, rekrutovaní z válečných zajatců, přísahali, že obětují své životy za indickou svobodu. Tito elitní vojáci, vycvičení v sabotážích a infiltraci, jsou také schopni seskočit padákem a způsobit chaos za nepřátelskými liniemi."
@@ -235,7 +235,7 @@
  tfv_raj.21.desc: "Bengálsko už hladomory zažilo, ale tentokrát se okolnosti sešly tak, že je vše mnohem horší než obvykle. Ohromně neschopná koloniální správa se ukázala být zcela nezpůsobilá - nebo snad i neochotná - adekvátně reagovat na cyklon, který zničil velkou část bengálské úrody rýže. Jak proudí uprchlíci z válkou zasažených oblastí země, poptávka po potravinách roste den ode dne, zatímco nabídka zaostává. \n\nCeny potravin prudce vzrostly, což vede k tomu, že lidé se vyhýbají práci, jež už nezaplatí ani stravu pro jejich rodiny. Nábor do armády také výrazně poklesl, protože stále více lidí odmítá opustit své domovy a bojovat za vládu, která pro ně nic nedělá."
  tfv_raj.21.t: "Bengálský hladomor"
  tfv_raj.210.a: "Znepokojivé."
- tfv_raj.210.desc: "Místní dělníci právě odešli na oběd, když prudká exploze otřásla jednou z našich továren. Budova byla značně poškozena a několik dělníků bylo zraněno létajícím sklem. Naštěstí se zdá, že strojní nástroje zůstaly převážně nepoškozené. Policie a armádní jednotky vybudovaly perimetr, zatímco vyšetřovatelé prohledávají trosky v hledání stop po příčině výbuchu.\n\nKolují fámy, že šlo o práci buňky odboje z hnutí Quit India, která přeměnila svůj protest v násilí ve svém boji za svobodu." # todo: CHANGED
+ tfv_raj.210.desc: "Místní dělníci měli právě polední přestávku, když prudký výbuch otřásl jednou z našich továren. Budova samotná byla výrazně poškozena a několik dělníků zranila létající skla. Naštěstí se zdá, že obráběcí stroje zůstaly převážně neporušené. Policie a armádní jednotky vytvořily perimetr, zatímco vyšetřovatelé probírají sutiny při hledání stop po příčině exploze.\n\nŠíří se zvěsti, že šlo o práci buňky odboje z hnutí Quit India, které ve své touze po svobodě přešlo od protestů k násilí."
  tfv_raj.210.t: "Sabotáže?"
  tfv_raj.211.a: "Copak je nikdo nezastaví?"
  tfv_raj.211.desc: "Jen několik týdnů po první explozi byla náhle zničena druhá továrna - opět těsně poté, co dělníci opustili hlavní halu na oběd. Sotva lze pochybovat, že jde o práci organizované odbojové skupiny, která vede dobře naplánovanou kampaň sabotáží a teroru. Drzé útoky za bílého dne ukazují, že si útočníci jsou sami sebou více než jistí."
@@ -253,13 +253,13 @@
  tfv_raj.31.t: "[SOV.GetNameDefCap] podporuje indickou nezávislost"
  tfv_raj.32.a: "Boj pokračuje."
  tfv_raj.32.desc_SOV_helps: "Naše jednání v Moskvě byla ohromným úspěchem. Dnešní titulek v Pravdě zní: „Boj indického lidu za svobodu je i naším bojem!“ Soudruh [SOV.GetLeader] se osobně setkal s Čandrou Bósem a přislíbil plnou podporu."
- tfv_raj.32.desc_SOV_helps_ENG_reject: "Naše naděje na snadnou cestu k nezávislosti byly krutě zničeny britským koloniálním úřadem. Když [SOV.GetAdjective] velvyslanec oslovil úřad s požadavkem, abychom mohli určovat svůj vlastní osud, bylo mu rychle řečeno, že není o čem jednat. [ENG.GetAdjective] vláda tvrdí, že otázka naší nezávislosti je vnitřní záležitostí, do které žádná cizí moc nemůže zasahovat." # todo: CHANGED
+ tfv_raj.32.desc_SOV_helps_ENG_reject: "Naše naděje na snadnou cestu k nezávislosti brutálně ukončil britský koloniální úřad. Když [SOV.GetAdjective] velvyslanec přišel s požadavkem, abychom si mohli určovat vlastní osud, bylo mu rychle řečeno, že není o čem jednat. [ENG.GetAdjectiveCap] vláda tvrdí, že otázka naší nezávislosti je vnitřní záležitostí, do níž žádná cizí mocnost nesmí zasahovat."
  tfv_raj.32.t: "[SOV.GetNameDefCap] přebírá naši věc"
  tfv_raj.33.a: "Možná bychom měli požádat Němce?"
  tfv_raj.33.desc: "$RAJ_subhas_chanda_bose$ se snažil přimět [SOV.GetAdjective] vládu, aby pomohla našemu boji, ale jeho úsilí nebylo korunováno úspěchem. Po několika dnech čekání na schůzku dostal příležitost k setkání, které trvalo sotva deset minut. \n\nAčkoli [SOV.GetLeader] vyjádřil velký obdiv k revolučnímu boji našeho lidu, zároveň dal jasně najevo, že nevěří, že je naše země připravena na další krok k úplnému komunismu."
  tfv_raj.33.t: "[SOV.GetNameDef] odmítá pomoci"
  tfv_raj.34.a: "Triumf!"
- tfv_raj.34.desc: "Dnes začíná nová éra v indických dějinách. Po staletích pod cizí nadvládou jsme konečně dosáhli plné nezávislosti. Místní [ENG.GetAdjective] státní úředníci byli nařízeni, aby pomáhali při přechodu na [RAJ.GetAdjective] domovskou vládu a budou během následujících několika měsíců odesláni domů.\n\nS pomocí našich nových [SOV.GetAdjective] soudruhů se nyní můžeme soustředit na úkol před námi - budování národa pro náš lid." # todo: CHANGED
+ tfv_raj.34.desc: "Dnešek znamená začátek nové éry indických dějin. Po staletích cizí nadvlády jsme konečně dosáhli plné nezávislosti. Místní [ENG.GetAdjective] úředníci dostali rozkaz pomoci s přechodem na [RAJ.GetAdjective] samosprávu a během několika příštích měsíců budou odesláni domů. \n\nS pomocí našich nových [SOV.GetAdjective] soudruhů se nyní můžeme soustředit na úkol, který nás čeká - budování země pro náš lid."
  tfv_raj.34.t: "Svoboda pro Indii"
  tfv_raj.40.a: "Britové nám vzali kolonie. Teď vezmeme my jejich."
  tfv_raj.40.b: "Jaký absurdní nápad."
@@ -271,13 +271,13 @@
  tfv_raj.41.t: "[GER.GetNameDefCap] podporuje indickou nezávislost"
  tfv_raj.42.a: "Boj pokračuje."
  tfv_raj.42.desc_GER_helps: "Po setkání s [GER.GetAdjective] ministrem zahraničí a obhájení své věci dokázal $RAJ_subhas_chanda_bose$ přesvědčit Němce, aby nás podpořili. Bós se rovněž setkal s německým vůdcem a několik hodin probírali společné zájmy, včetně zformování jednotky indických dobrovolníků z britských válečných zajatců."
- tfv_raj.42.desc_GER_helps_ENG_reject: "Naše naděje na snadnou cestu k nezávislosti byly krutě zničeny britským koloniálním úřadem. Když [GER.GetAdjective] velvyslanec oslovil úřad s požadavkem, abychom mohli určovat svůj vlastní osud, bylo mu rychle řečeno, že není o čem jednat. [ENG.GetAdjective] vláda tvrdí, že otázka naší nezávislosti je vnitřní záležitostí, do které žádná cizí moc nemůže zasahovat." # todo: CHANGED
+ tfv_raj.42.desc_GER_helps_ENG_reject: "Naše naděje na snadnou cestu k nezávislosti brutálně ukončil britský koloniální úřad. Když [GER.GetAdjective] velvyslanec přišel s požadavkem, abychom si mohli určovat vlastní osud, bylo mu rychle řečeno, že není o čem jednat. [ENG.GetAdjectiveCap] vláda tvrdí, že otázka naší nezávislosti je vnitřní záležitostí, do níž žádná cizí mocnost nesmí zasahovat."
  tfv_raj.42.t: "[GER.GetNameDefCap] přebírá naši věc"
  tfv_raj.43.a: "Zatraceně."
  tfv_raj.43.desc: "$RAJ_subhas_chanda_bose$ se snažil přimět [GER.GetAdjective] vládu, aby pomohla našemu boji, ale jeho úsilí nebylo korunováno úspěchem. Po několika dnech čekání na schůzku s [GER.GetLeader] dostal příležitost k setkání, které trvalo sotva deset minut. \n\nAčkoli [GER.GetLeader] vyjádřil velký obdiv k naší situaci a fanatickému duchu odporu, zároveň dal jasně najevo, že nepovažuje naši zemi za hodnou vynakládání prostředků."
  tfv_raj.43.t: "[GER.GetAdjectiveCap] odmítají pomoci"
  tfv_raj.44.a: "Triumf!"
- tfv_raj.44.desc: "Dnes začíná nová éra v indických dějinách. Po staletích pod cizí nadvládou jsme konečně dosáhli plné nezávislosti. Místní [ENG.GetAdjective] státní úředníci byli nařízeni, aby pomáhali při přechodu na [RAJ.GetAdjective] domovskou vládu a budou během následujících několika měsíců odesláni domů.\n\nS pomocí našich nových [GER.GetAdjective] přátel se nyní můžeme soustředit na úkol před námi - budování národa pro náš lid." # todo: CHANGED
+ tfv_raj.44.desc: "Dnešek znamená začátek nové éry indických dějin. Po staletích cizí nadvlády jsme konečně dosáhli plné nezávislosti. Místní [ENG.GetAdjective] úředníci dostali rozkaz pomoci s přechodem na [RAJ.GetAdjective] samosprávu a během několika příštích měsíců budou odesláni domů. \n\nS pomocí našich nových [GER.GetAdjective] přátel se nyní můžeme soustředit na úkol, který nás čeká - budování země pro náš lid."
  tfv_raj.44.t: "Svoboda pro Indii"
  tfv_raj_focus_paratrooper_tt: "Výsadkáři Battaglione Azad Hindoustan budou nasazeni v Itálii."
  tfv_raj_quit_india_unrest_tt: "Očekává se, že příznivci hnutí budou požadovat změny."
@@ -367,7 +367,7 @@
  tfv_south_africa.4.d: "Po dlouhém zvažování přišla britská vláda s kompromisem ohledně obrany afrických kolonií. V rámci tohoto nového plánu budou kolonie zodpovědné za vlastní obranu, ale získají větší svobodu ve správě svých záležitostí."
  tfv_south_africa.4.t: "Africký kompromis"
  tfv_south_africa.40.a: "Rádi nabídneme, co jen můžeme."
- tfv_south_africa.40.b: "Poskytnutí našich tajemství by ohrozilo naši národní bezpečnost." # todo: CHANGED
+ tfv_south_africa.40.b: "Sdílení našich tajemství by ohrozilo naši národní bezpečnost."
  tfv_south_africa.40.d: "Poté, co [From.GetAdjective] vláda vyhodnotila vojenskou misi do jejich země jako úspěšnou, navrhla  formální výzkumnou dohodu mezi našimi státy."
  tfv_south_africa.40.t: "[From.GetNameDef] navrhuje výzkumnou dohodu"
  tfv_south_africa.41.a: "Pokud vás učí [SOV.GetNameDef], pak se učíte od vítězů dějin!"

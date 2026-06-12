@@ -11,7 +11,7 @@
  MUN_czech.2.a: "Samozřejmě jim pomůžeme"
  MUN_czech.2.b: "Možná bude lepší je dále neposilovat"
  MUN_czech.3.t: "Partyzánská činnost v Sudetech"
- MUN_czech.3.d: "V návaznosti na nedávný zájem [FROM.getname] o anektování Sudet se paramilitární skupiny začaly zapojovat do potyček proti nám. Začaly napadat vládní budovy a v několika oblastech podrývají naši obranu. Pokud chceme zlepšit naši vojenskou situaci v této oblasti, musíme se těmito paramilitárními skupinami vypořádat." # todo: CHANGED
+ MUN_czech.3.d: "V důsledku nedávného zájmu, který projevuje [FROM.GetName] o anexi Sudet, začaly zde proti nám působit polovojenské jednotky. Ty útočí na vládní budovy a podkopávají naši obranu v několika oblastech. Pokud chceme zlepšit naši vojenskou situaci v oblasti, musíme se s těmito skupinami vypořádat."
  MUN_czech.3.a: "Jak by to ještě mohlo být horší?"
  MUN_czech.4.t: "Krize důvěry"
  MUN_czech.4.d: "Nedávné zprávy o vojenské agresi proti nám otřásly vládou až do základů. [CZE.GetLeader] ztratil víru ve schopnost své vlády vést zemi touto krizí. Požadoval, aby $CZE_jan_syrovy$ převzal velení situace a vedl zemi. $CZE_jan_syrovy$ sice uvedl, že se vedení zdráhá ujmout, avšak [CZE.GetLeader] mu sdělil, že nemá jinou možnost, než nás provést touto krizí."
@@ -20,7 +20,7 @@
  MUN_czech.5.t: "Smrt Tomáše Garrigue Masaryka"
  MUN_czech.5.d: "Masaryk byl po více než dvě desetiletí stabilizující postavou československé politiky. Když se zdálo nemožné vytvářet koalice a politické patové situace byly nepřekonatelné, Masaryk znovu a znovu dokázal vykonat politické zázraky, které pomáhaly posilovat a rozvíjet Československo do dnešní podoby. Jeho odchod je ztrátou pro celý národ."
  MUN_czech.5.a: "Nenahraditelný politický velikán."
- MUN_czech.7.t: "Přehodnocení závazků vůči [CZE.getnamedef]" # todo: CHANGED
+ MUN_czech.7.t: "Stojí [CZE.GetNameDef] za válku?"
  MUN_czech.7.d: "Nedávno k nám dorazily zprávy, že [GER.GetNameDef] si přeje anektovat Sudety a neváhá kvůli tomu i napadnout [CZE.GetNonIdeologyName]. V současnosti má s námi [CZE.GetNameDef] obrannou dohodu, což znamená, že pokud vstoupí do války, budeme povinni jim přijít na pomoc. Pokud se tomu chceme vyhnout, musíme tyhle obranné dohody okamžitě anulovat."
  MUN_czech.7.a: "Stojíme při našich přátelích"
  MUN_czech.7.b: "Pak nás [GER.GetNameDef] projede taky"
@@ -126,7 +126,7 @@
  MUN_czech.1026.a: "Jejich ztráta"
  MUN_czech.1026.b: "Znepokojivý vývoj"
  MUN_czech.1026.france_refuses_to_lead: "Navzdory nabídke vedoucí úlohy výměnou za vstup do naší aliance, kterou má [FROM.GetNameDef] na svém stole, se rozhodli ji nepřijmout. Zdá se, že se snaží zůstat neutrální, nebo si jen kupují čas."
- MUN_czech.1026.sphere_of_influence: "Ačkoliv nám členové [FROM.GetAdjective] vlády ujistili, že si cení našeho zapojení do [ROOT.GetFactionName], řekli, že rozšiřování našeho vlivu na Balkán by bylo příliš daleko a může odradit potenciální spojence." # todo: CHANGED
+ MUN_czech.1026.sphere_of_influence: "Ačkoli nás členové [FROM.GetAdjective] vlády ujistili, že si naší účasti ve frakci [ROOT.GetFactionName] váží, uvedli, že rozšiřování našeho vlivu na Balkán by zašlo příliš daleko a mohlo by odradit potenciální spojence."
  MUN_czech.1026.guarantee: "Naši diplomaté hlásí, že navzdory svému úsilí [FROM.GetNameDef] nesouhlasí s naším návrhem smlouvy o vzájemné obraně. Zdá se, že odhadují, že jsme ohroženi více než oni; doufejme, že se mýlí."
  MUN_czech.1026.faction_merge: "Navzdory našemu nejlepšímu úsilí se naši a [FROM.GetAdjective] diplomaté nedokázali dohodnout na tom, že se [ROOT.GetFactionName] a [FROM.GetFactionName] sjednotí."
  MUN_czech.1026.non_aggression: "Navzdory ujištěním o svých mírových úmyslech odmítli [FROM.GetAdjective] diplomaté podepsat s naší zemí pakt o neútočení. Proč tomu tak je, se teprve ukáže."
@@ -195,7 +195,7 @@
  MUN_czech.1039.d: "Ve světle dohody o autonomii, kterou od nás má [SLO.GetName], se $RUT_augustin_voloshyn$ dotazuje, zda by jeho region nemohl získat stejný druh federalizační dohody. Zdá se to absurdní, ale vzhledem k okolnostem musíme tyto požadavky brát vážně."
  MUN_czech.1039.a: "To ještě uvidíme"
  MUN_czech.1040.t: "[CZE.GetName] nám nabízí dohodu o celní unii"
- MUN_czech.1040.d: "[CZE.getnameDEFCAP] nedávno znovu otevřela diplomatická jednání o celní unii mezi našimi dvěma zeměmi. Dohoda, kterou se snaží uzavřít, se zdá být spravedlivá, ale později může obsahovat další požadavky, na které nemusíme být připraveni. Tato smlouva a to, co je předmětem výměny, se zdá být triviální a symbolické, takže nebude na škodu ji podepsat." # todo: CHANGED
+ MUN_czech.1040.d: "[CZE.GetNameDef] se snaží obnovit diplomatická jednání o celní unii mezi našimi dvěma zeměmi. Nabízená dohoda se zdá být spravedlivá, ale může později obsahovat další požadavky, na které nemusíme být připraveni. Tato smlouva i předmět obchodu působí bezvýznamně a symbolicky, takže jejím podpisem nic nezkazíme."
  MUN_czech.1040.a: "Zdá se neškodná"
  MUN_czech.1040.b: "Tomu nelze věřit"
  MUN_czech.1041.t: "[FROM.GetName] odmítá dohodu o celní unii"
@@ -230,7 +230,7 @@
  MUN_czech.1050.a: "Pak bychom měli nabídnout výhodnější podmínky"
  MUN_czech.1050.b: "Hledejme si lepší spojence"
  MUN_czech.1051.t: "[FROM.GetName] požaduje svoji sféru vlivu"
- MUN_czech.1051.d: "Náš nový spojenec, [FROM.GetNameDef], projevil zájem rozšířit svůj vliv za hranice. V důsledku toho přijeli [FROM.GetAdjective] zástupci žádat o povolení a podporu tohoto rozšíření, kde má být stanovena jasná hranice mezi oblastmi pod vlivem [ROOT.GetAdjective] a [FROM.GetAdjective]." # todo: CHANGED
+ MUN_czech.1051.d: "Náš nový spojenec vyjádřil zájem rozšířit svůj vliv za své hranice. [FROM.GetNameDef] proto žádá o svolení a podporu pro tuto expanzi, při níž má být stanovena jasná hranice mezi oblastmi, které bude ovládat [ROOT.GetNameDef] a které budou pod [FROM.GetAdjective] vlivem."
  MUN_czech.1051.a: "Měli bychom posílit našeho klíčového [FROM.GetAdjective] spojence"
  MUN_czech.1052.t: "[FROM.GetName] žádá, abychom umožnili průchod [SOV.GetAdjective] vojskům"
  MUN_czech.1052.d: "Po nové diplomatické dohodě, kterou uzavřeli [FROM.GetNameDef] a [SOV.GetNameDef], [FROM.GetNameDef] věří, že je [SOV.GetNameDef] v případě konfliktu ochrání. Jedinou překážkou je absence pozemního spojení mezi oběma zeměmi, a proto se [FROM.GetAdjective] diplomaté obrátili na naši vládu s žádostí, abychom v případě války umožnili průchod [SOV.GetAdjective] vojsk přes naše území."

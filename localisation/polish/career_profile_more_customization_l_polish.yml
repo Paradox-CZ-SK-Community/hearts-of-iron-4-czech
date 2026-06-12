@@ -25,7 +25,7 @@
  CAREER_PROFILE_CAS_LABEL: "Letecká podpora"
  CAREER_PROFILE_CIVILIAN_FACTORIES_BUILT_LABEL: "Vybudované civilní továrny"
  CAREER_PROFILE_CLOUD_STORAGE_NOT_AVAILABLE_POPUP_HEADER: "Cloudové úložiště není k dispozici"
- CAREER_PROFILE_CLOUD_STORAGE_NOT_AVAILABLE_POPUP_MESSAGE: "Vaše data, statistiky a ocenění nebudou nahrána.\n Zkontrolujte Steam Cloud." # todo: CHANGED
+ CAREER_PROFILE_CLOUD_STORAGE_NOT_AVAILABLE_POPUP_MESSAGE: "Vaše data, statistiky a ocenění nebudou nahrána.\n Zkontrolujte svůj Steam Cloud."
  CAREER_PROFILE_COMPARE_DAYS: "$VALUE|Y*$ dní"
  CAREER_PROFILE_COMPARE_DAYS_DIFFERENCE: "$VALUE|=+*$ dní"
  CAREER_PROFILE_COMPARE_HOURS: "$VALUE|Y*$ hodin"
@@ -115,7 +115,7 @@
  CAREER_PROFILE_PRODUCTION_IS_POWER_SILVER: "§H250§! továren"
  CAREER_PROFILE_PUNCH_IT: "Přetlač to!"
  CAREER_PROFILE_PUNCH_IT_DESCRIPTION: "Úspěšně proveďte nálet na Středisko pro jaderný výzkum, přičemž ovládáte alespoň jeden stát sousedící s cílem."
- CAREER_PROFILE_PUNCH_IT_QUOTE: ""Pro záchranu života národa bylo nutné obnovit v armádě vůli zemřít"\n\n - Alexander Kerensky o červnové ofenzívě" # todo: CHANGED
+ CAREER_PROFILE_PUNCH_IT_QUOTE: "\"Jestli měl národ přežít, armáda se musela naučit znovu umírat.\"\n\n - Alexander Kerenský o červnové ofenzívě"
  CAREER_PROFILE_QUALITY_OVER_QUANTITY: "Kvalita nad kvantitou"
  CAREER_PROFILE_QUALITY_OVER_QUANTITY_BRONZE: "Poměr §H1.5:1§!"
  CAREER_PROFILE_QUALITY_OVER_QUANTITY_DESCRIPTION: "Mějte výhodný poměr ztrát poté, co způsobíte nepříteli alespoň 1 milion obětí."

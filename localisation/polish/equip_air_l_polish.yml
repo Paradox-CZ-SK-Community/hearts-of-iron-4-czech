@@ -20,11 +20,11 @@
  ARG_tac_bomber_equipment_3: "I.Ae 24 Calquin"
  ARG_tac_bomber_equipment_3_short: "Calquin"
  AST_CAS_equipment_1: "CAC Wirraway"
- AST_CAS_equipment_1_short: "Wirraway" # todo: CHANGED
- AST_CAS_equipment_2: "CAC CA-11 Woomera" # todo: CHANGED NUMBER
- AST_CAS_equipment_2_short: "CA-4 Woomera" # todo: CHANGED
- AST_CAS_equipment_3: "CAC CA-11 Woomera" # todo: CHANGED
- AST_CAS_equipment_3_short: "CA-11 Woomera" # todo: CHANGED
+ AST_CAS_equipment_1_short: "Wirraway"
+ AST_CAS_equipment_2: "CAC CA-4 Woomera"
+ AST_CAS_equipment_2_short: "CA-4 Woomera"
+ AST_CAS_equipment_3: "CAC CA-11 Woomera"
+ AST_CAS_equipment_3_short: "CA-11 Woomera"
  AST_cv_CAS_equipment_1: "Hawker Osprey"
  AST_cv_CAS_equipment_1_short: "Osprey"
  AST_cv_CAS_equipment_2: "Blackburn Skua"
@@ -45,50 +45,50 @@
  AST_cv_nav_bomber_equipment_2_short: "Roc"
  AST_cv_nav_bomber_equipment_3: "Blackburn Firebrand"
  AST_cv_nav_bomber_equipment_3_short: "Firebrand"
- AST_fighter_equipment_0: "Hawker Demon" # todo: CHANGED
- AST_fighter_equipment_0_short: "Demon" # todo: CHANGED
- AST_fighter_equipment_1: "CAC Wirraway" # todo: CHANGED
- AST_fighter_equipment_1_short: "Wirraway" # todo: CHANGED
- AST_fighter_equipment_2: "CAC Boomerang" # todo: CHANGED
- AST_fighter_equipment_2_short: "Boomerang" # todo: CHANGED
- AST_fighter_equipment_3: "CAC CA-15" # todo: CHANGED
- AST_fighter_equipment_3_short: "CA-15" # todo: CHANGED
+ AST_fighter_equipment_0: "Hawker Demon"
+ AST_fighter_equipment_0_short: "Demon"
+ AST_fighter_equipment_1: "CAC Wirraway"
+ AST_fighter_equipment_1_short: "Wirraway"
+ AST_fighter_equipment_2: "CAC Boomerang"
+ AST_fighter_equipment_2_short: "Boomerang"
+ AST_fighter_equipment_3: "CAC CA-15"
+ AST_fighter_equipment_3_short: "CA-15"
  AST_heavy_fighter_equipment_1: "Bristol Blenheim"
  AST_heavy_fighter_equipment_1_short: "Blenheim"
  AST_heavy_fighter_equipment_2: "Bristol Beaufighter"
  AST_heavy_fighter_equipment_2_short: "Beaufighter"
- AST_heavy_fighter_equipment_3: "de Havilland Mosquito" # todo: CHANGED
- AST_heavy_fighter_equipment_3_short: "Mosquito" # todo: CHANGED
- AST_jet_fighter_equipment_1: "de Havilland Vampire" # todo: CHANGED
- AST_jet_fighter_equipment_1_short: "Vampire" # todo: CHANGED
- AST_jet_fighter_equipment_2: "CAC CA-23" # todo: CHANGED
- AST_jet_fighter_equipment_2_short: "CA-23" # todo: CHANGED
- AST_jet_strat_bomber_equipment_1: "Avro Vulcan" # todo: CHANGED
- AST_jet_strat_bomber_equipment_1_short: "Vulcan" # todo: CHANGED
- AST_jet_tac_bomber_equipment_1: "English Electric Canberra" # todo: CHANGED
- AST_jet_tac_bomber_equipment_1_short: "Canberra" # todo: CHANGED
+ AST_heavy_fighter_equipment_3: "de Havilland Mosquito"
+ AST_heavy_fighter_equipment_3_short: "Mosquito"
+ AST_jet_fighter_equipment_1: "de Havilland Vampire"
+ AST_jet_fighter_equipment_1_short: "Vampire"
+ AST_jet_fighter_equipment_2: "CAC CA-23"
+ AST_jet_fighter_equipment_2_short: "CA-23"
+ AST_jet_strat_bomber_equipment_1: "Avro Vulcan"
+ AST_jet_strat_bomber_equipment_1_short: "Vulcan"
+ AST_jet_tac_bomber_equipment_1: "English Electric Canberra"
+ AST_jet_tac_bomber_equipment_1_short: "Canberra"
  AST_jet_tac_bomber_equipment_2: "English Electric Canberra"
  AST_jet_tac_bomber_equipment_2_short: "Canberra"
- AST_nav_bomber_equipment_1: "Lockheed Hudson" # todo: CHANGED
- AST_nav_bomber_equipment_1_short: "Hudson" # todo: CHANGED
- AST_nav_bomber_equipment_2: "PBY Catalina" # todo: CHANGED
- AST_nav_bomber_equipment_2_short: "Catalina" # todo: CHANGED
- AST_nav_bomber_equipment_3: "Bristol Beaufort" # todo: CHANGED
- AST_nav_bomber_equipment_3_short: "Beaufort" # todo: CHANGED
- AST_strat_bomber_equipment_1: "Vickers Wellington" # todo: CHANGED
- AST_strat_bomber_equipment_1_short: "Wellington" # todo: CHANGED
+ AST_nav_bomber_equipment_1: "Lockheed Hudson"
+ AST_nav_bomber_equipment_1_short: "Hudson"
+ AST_nav_bomber_equipment_2: "PBY Catalina"
+ AST_nav_bomber_equipment_2_short: "Catalina"
+ AST_nav_bomber_equipment_3: "Bristol Beaufort"
+ AST_nav_bomber_equipment_3_short: "Beaufort"
+ AST_strat_bomber_equipment_1: "Vickers Wellington"
+ AST_strat_bomber_equipment_1_short: "Wellington"
  AST_strat_bomber_equipment_2: "Avro Lancaster"
  AST_strat_bomber_equipment_2_short: "Lancaster"
  AST_strat_bomber_equipment_3: "Avro Lincoln"
  AST_strat_bomber_equipment_3_short: "Lincoln"
- AST_tac_bomber_equipment_0: "Westland Wapiti" # todo: CHANGED
- AST_tac_bomber_equipment_0_short: "Wapiti" # todo: CHANGED
- AST_tac_bomber_equipment_1: "Fairey Battle" # todo: CHANGED
- AST_tac_bomber_equipment_1_short: "Battle" # todo: CHANGED
- AST_tac_bomber_equipment_2: "Martin Baltimore" # todo: CHANGED
- AST_tac_bomber_equipment_2_short: "Baltimore" # todo: CHANGED
- AST_tac_bomber_equipment_3: "Martin Baltimore" # todo: CHANGED
- AST_tac_bomber_equipment_3_short: "Baltimore" # todo: CHANGED
+ AST_tac_bomber_equipment_0: "Westland Wapiti"
+ AST_tac_bomber_equipment_0_short: "Wapiti"
+ AST_tac_bomber_equipment_1: "Fairey Battle"
+ AST_tac_bomber_equipment_1_short: "Battle"
+ AST_tac_bomber_equipment_2: "Martin Baltimore"
+ AST_tac_bomber_equipment_2_short: "Baltimore"
+ AST_tac_bomber_equipment_3: "Martin Baltimore"
+ AST_tac_bomber_equipment_3_short: "Baltimore"
  AUS_fighter_equipment_0: "Phönix D.III"
  AUS_fighter_equipment_0_short: "D.III"
  BEL_CAS_equipment_1: "Avions Fairey Battle"
@@ -500,7 +500,7 @@
  GER_jet_fighter_equipment_2: "Heinkel He 162 'Volksjäger'"
  GER_jet_fighter_equipment_2_short: "He 162"
  GER_jet_strat_bomber_equipment_1: "Horten H.XVIII"
- GER_jet_strat_bomber_equipment_1_desc: "Experimentální konstrukce plnokřídlého letadla představuje budoucnost stealth bombardérů. V kombinaci s mezikontinentálním dosahem může tento bombardér zasáhnout i naše nejvzdálenější nepřátele dříve, než budou schopni odpovědět." # todo: CHANGED
+ GER_jet_strat_bomber_equipment_1_desc: "Experimentální konstrukce s létajícím křídlem představuje budoucnost v oblasti nenápadných (stealth) bombardérů. V kombinaci s mezikontinentálním doletem dokáže tento bombardér zasáhnout i nejvzdálenější nepřátele dříve, než stihnou zareagovat."
  GER_jet_strat_bomber_equipment_1_short: "H.XVIII"
  GER_jet_tac_bomber_equipment_1: "Henschel Hs 132"
  GER_jet_tac_bomber_equipment_1_short: "Hs 132"
@@ -626,12 +626,12 @@
  GXC_tac_bomber_equipment_2_short: "Typ 40"
  GXC_tac_bomber_equipment_3: "CAMCO typ 44"
  GXC_tac_bomber_equipment_3_short: "Typ 44"
- HOL_CAS_equipment_1: "$INS_CAS_equipment_1$" # todo: CHANGED
- HOL_CAS_equipment_1_short: "$INS_CAS_equipment_1_short$" # todo: CHANGED
- HOL_CAS_equipment_2: "$INS_CAS_equipment_2$" # todo: CHANGED
- HOL_CAS_equipment_2_short: "$INS_CAS_equipment_2_short$" # todo: CHANGED
- HOL_CAS_equipment_3: "$INS_CAS_equipment_3$" # todo: CHANGED
- HOL_CAS_equipment_3_short: "$INS_CAS_equipment_3_short$" # todo: CHANGED
+ HOL_CAS_equipment_1: "$INS_CAS_equipment_1$"
+ HOL_CAS_equipment_1_short: "$INS_CAS_equipment_1_short$"
+ HOL_CAS_equipment_2: "$INS_CAS_equipment_2$"
+ HOL_CAS_equipment_2_short: "$INS_CAS_equipment_2_short$"
+ HOL_CAS_equipment_3: "$INS_CAS_equipment_3$"
+ HOL_CAS_equipment_3_short: "$INS_CAS_equipment_3_short$"
  HOL_fighter_equipment_0: "Fokker D.XVII"
  HOL_fighter_equipment_0_short: "Fokker D.XVII"
  HOL_fighter_equipment_1: "Fokker D.XXI"
@@ -640,24 +640,24 @@
  HOL_fighter_equipment_2_short: "F.K. 58"
  HOL_fighter_equipment_3: "Fokker D.XXX"
  HOL_fighter_equipment_3_short: "Fokker D.XXX"
- HOL_heavy_fighter_equipment_1: "$INS_heavy_fighter_equipment_1$" # todo: CHANGED
- HOL_heavy_fighter_equipment_1_short: "$INS_heavy_fighter_equipment_1_short$" # todo: CHANGED
- HOL_heavy_fighter_equipment_2: "$INS_heavy_fighter_equipment_2$" # todo: CHANGED
- HOL_heavy_fighter_equipment_2_short: "$INS_heavy_fighter_equipment_2_short$" # todo: CHANGED
- HOL_heavy_fighter_equipment_3: "$INS_heavy_fighter_equipment_3$" # todo: CHANGED
- HOL_heavy_fighter_equipment_3_short: "$INS_heavy_fighter_equipment_3_short$" # todo: CHANGED
+ HOL_heavy_fighter_equipment_1: "$INS_heavy_fighter_equipment_1$"
+ HOL_heavy_fighter_equipment_1_short: "$INS_heavy_fighter_equipment_1_short$"
+ HOL_heavy_fighter_equipment_2: "$INS_heavy_fighter_equipment_2$"
+ HOL_heavy_fighter_equipment_2_short: "$INS_heavy_fighter_equipment_2_short$"
+ HOL_heavy_fighter_equipment_3: "$INS_heavy_fighter_equipment_3$"
+ HOL_heavy_fighter_equipment_3_short: "$INS_heavy_fighter_equipment_3_short$"
  HOL_nav_bomber_equipment_1: "Fokker T.IVa"
  HOL_nav_bomber_equipment_1_short: "Fokker T.IVa"
  HOL_nav_bomber_equipment_2: "Fokker T.VIII"
  HOL_nav_bomber_equipment_2_short: "Fokker T.VIII"
  HOL_nav_bomber_equipment_3: "Koolhoven F.K.65"
  HOL_nav_bomber_equipment_3_short: "Koolhoven F.K.65"
- HOL_strat_bomber_equipment_1: "$INS_strat_bomber_equipment_1$" # todo: CHANGED
- HOL_strat_bomber_equipment_1_short: "$INS_strat_bomber_equipment_1_short$" # todo: CHANGED
- HOL_strat_bomber_equipment_2: "$INS_strat_bomber_equipment_2$" # todo: CHANGED
- HOL_strat_bomber_equipment_2_short: "$INS_strat_bomber_equipment_2_short$" # todo: CHANGED
- HOL_strat_bomber_equipment_3: "$INS_strat_bomber_equipment_3$" # todo: CHANGED
- HOL_strat_bomber_equipment_3_short: "$INS_strat_bomber_equipment_3_short$" # todo: CHANGED
+ HOL_strat_bomber_equipment_1: "$INS_strat_bomber_equipment_1$"
+ HOL_strat_bomber_equipment_1_short: "$INS_strat_bomber_equipment_1_short$"
+ HOL_strat_bomber_equipment_2: "$INS_strat_bomber_equipment_2$"
+ HOL_strat_bomber_equipment_2_short: "$INS_strat_bomber_equipment_2_short$"
+ HOL_strat_bomber_equipment_3: "$INS_strat_bomber_equipment_3$"
+ HOL_strat_bomber_equipment_3_short: "$INS_strat_bomber_equipment_3_short$"
  HOL_tac_bomber_equipment_0: "Fokker C.V D/E"
  HOL_tac_bomber_equipment_0_short: "Fokker C.V D/E"
  HOL_tac_bomber_equipment_1: "Fokker T.V"
@@ -1840,7 +1840,7 @@
  scout_plane_equipment_1_desc: "Shromažďování zpravodajských informací o pohybu nepřátelských vojsk a poskytování zpráv o rozmístění nepřátelských námořních sil bylo původním posláním letounů již od jejich prvního nasazení ve Velké válce a je stále důležitým úkolem."
  scout_plane_equipment_2: "Průzkumné letadlo II"
  scout_plane_equipment_2_desc: "Vývojem speciálních letounů pro letecký monitoring a dálkový průzkum si zajistíme, že získáme a udržíme si přesný obraz o záměrech a schopnostech našeho protivníka."
- scout_plane_equipment_desc: "Letoun vyvinutý speciálně pro fotografický průzkum. Spoléhá především na rychlost a skrytost, aby přežil; v přímém souboji však neobstojí." # todo: CHANGED
+ scout_plane_equipment_desc: "Letadlo vyvinuté speciálně pro fotografický průzkum. Při přežití spoléhá především na rychlost a utajení, ale v přímém souboji prohraje."
  strat_bomber: "Strategický bombardér"
  strat_bomber_equipment: "Strategický bombardér"
  strat_bomber_equipment_1: "Strategický bombardér I"
@@ -1897,111 +1897,111 @@
  CZE_scout_plane_equipment_1_short: "E-60"
  CZE_scout_plane_equipment_2: "Praga K-64"
  CZE_scout_plane_equipment_2_short: "K-64"
- AST_jet_plane: "de Havilland Vampire" # todo: NEW TRANSLATION
- AST_jet_plane_short: "Vampire" # todo: NEW TRANSLATION
- AST_medium_jet_plane: "English Electric Canberra" # todo: NEW TRANSLATION
- AST_medium_jet_plane_short: "Canberra" # todo: NEW TRANSLATION
- AST_transport_plane_equipment_1: "de Havilland Express" # todo: NEW TRANSLATION
- AST_transport_plane_equipment_1_short: "de Havilland DH.86" # todo: NEW TRANSLATION
- AST_transport_plane_equipment_2: "Douglas C-47 Skytrain" # todo: NEW TRANSLATION
- AST_transport_plane_equipment_2_short: "C-47 Skytrain" # todo: NEW TRANSLATION
- AST_transport_plane_equipment_3: "Avro York Type 685" # todo: NEW TRANSLATION
- AST_transport_plane_equipment_3_short: "Avro York" # todo: NEW TRANSLATION
- INS_fighter_equipment_0: "Fokker D.XVII" # todo: NEW TRANSLATION
- INS_fighter_equipment_0_short: "Fokker D.XVII" # todo: NEW TRANSLATION
- INS_fighter_equipment_1: "Fokker D.XXI" # todo: NEW TRANSLATION
- INS_fighter_equipment_1_short: "Fokker D.XXI" # todo: NEW TRANSLATION
- INS_fighter_equipment_2: "Brewster B-339C" # todo: NEW TRANSLATION
- INS_fighter_equipment_2_short: "B-339C" # todo: NEW TRANSLATION
- INS_fighter_equipment_3: "Fokker D.XXX" # todo: NEW TRANSLATION
- INS_fighter_equipment_3_short: "Fokker D.XXX" # todo: NEW TRANSLATION
- INS_fighter_equipment_4: "Lockheed P-80 Shooting Star" # todo: NEW TRANSLATION
- INS_fighter_equipment_4_short: "P-80" # todo: NEW TRANSLATION
- INS_heavy_fighter_equipment_1: "Fokker G.I Hispano" # todo: NEW TRANSLATION
- INS_heavy_fighter_equipment_1_short: "G.I Hispano" # todo: NEW TRANSLATION
- INS_heavy_fighter_equipment_2: "Fokker G.I Mercury" # todo: NEW TRANSLATION
- INS_heavy_fighter_equipment_2_short: "G.I Mercury" # todo: NEW TRANSLATION
- INS_heavy_fighter_equipment_3: "Fokker G.I Wasp" # todo: NEW TRANSLATION
- INS_heavy_fighter_equipment_3_short: "G.I Wasp" # todo: NEW TRANSLATION
- INS_heavy_fighter_equipment_4: "P82 Twin Mustang" # todo: NEW TRANSLATION
- INS_heavy_fighter_equipment_4_short: "P-82" # todo: NEW TRANSLATION
- INS_CAS_equipment_0: "Fokker C.X" # todo: NEW TRANSLATION
- INS_CAS_equipment_0_short: "Fokker C.X" # todo: NEW TRANSLATION
- INS_CAS_equipment_1: "Northrop A-17" # todo: NEW TRANSLATION
- INS_CAS_equipment_1_short: "A-17" # todo: NEW TRANSLATION
- INS_CAS_equipment_2: "Douglas A-20C Havoc" # todo: NEW TRANSLATION
- INS_CAS_equipment_2_short: "A-20C Havoc" # todo: NEW TRANSLATION
- INS_CAS_equipment_3: "Douglas A-26 Invader" # todo: NEW TRANSLATION
- INS_CAS_equipment_3_short: "A-26 Invader" # todo: NEW TRANSLATION
- INS_CAS_equipment_4: "de Havilland Vampire" # todo: NEW TRANSLATION
- INS_CAS_equipment_4_short: "Vampire" # todo: NEW TRANSLATION
- INS_tac_bomber_equipment_0: "Martin B-10 WH-1" # todo: NEW TRANSLATION
- INS_tac_bomber_equipment_0_short: "B-10 WH-1" # todo: NEW TRANSLATION
- INS_tac_bomber_equipment_1: "Fokker T.V" # todo: NEW TRANSLATION
- INS_tac_bomber_equipment_1_short: "Fokker T.V" # todo: NEW TRANSLATION
- INS_tac_bomber_equipment_2: "Fokker T.IX" # todo: NEW TRANSLATION
- INS_tac_bomber_equipment_2_short: "Fokker T.IX" # todo: NEW TRANSLATION
- INS_tac_bomber_equipment_3: "B-25 Mitchell" # todo: NEW TRANSLATION
- INS_tac_bomber_equipment_3_short: "B-25 Mitchell" # todo: NEW TRANSLATION
- INS_strat_bomber_equipment_0: "Fokker F.XVIII" # todo: NEW TRANSLATION
- INS_strat_bomber_equipment_0_short: "Fokker F.XVIII" # todo: NEW TRANSLATION
- INS_strat_bomber_equipment_1: "Boeing B-17 Flying Fortress" # todo: NEW TRANSLATION
- INS_strat_bomber_equipment_1_short: "B-17 Flying Fortress" # todo: NEW TRANSLATION
- INS_strat_bomber_equipment_2: "Consolidated B-24 Liberator" # todo: NEW TRANSLATION
- INS_strat_bomber_equipment_2_short: "B-24 Liberator" # todo: NEW TRANSLATION
- INS_strat_bomber_equipment_3: "Boeing B-29 Superfortress" # todo: NEW TRANSLATION
- INS_strat_bomber_equipment_3_short: "B-29 Superfortress" # todo: NEW TRANSLATION
- INS_nav_bomber_equipment_0: "Fokker T.IV" # todo: NEW TRANSLATION
- INS_nav_bomber_equipment_0_short: "Fokker T.IV" # todo: NEW TRANSLATION
- INS_nav_bomber_equipment_1: "Consolidated PBY Catalina" # todo: NEW TRANSLATION
- INS_nav_bomber_equipment_1_short: "PBY Catalina" # todo: NEW TRANSLATION
- INS_nav_bomber_equipment_2: "Fokker T.VIII" # todo: NEW TRANSLATION
- INS_nav_bomber_equipment_2_short: "Fokker T.VIII" # todo: NEW TRANSLATION
- INS_nav_bomber_equipment_3: "Consolidated PB4Y-2 Privateer" # todo: NEW TRANSLATION
- INS_nav_bomber_equipment_3_short: "PB4Y-2" # todo: NEW TRANSLATION
- INS_scout_plane_equipment_0: "Fokker C.XI" # todo: NEW TRANSLATION
- INS_scout_plane_equipment_0_short: "Fokker C.XI" # todo: NEW TRANSLATION
- INS_scout_plane_equipment_1: "Fokker S.IX" # todo: NEW TRANSLATION
- INS_scout_plane_equipment_1_short: "Fokker S.IX" # todo: NEW TRANSLATION
- INS_scout_plane_equipment_2: "Dornier Do 24" # todo: NEW TRANSLATION
- INS_scout_plane_equipment_2_short: "Dornier Do 24" # todo: NEW TRANSLATION
- INS_transport_plane_equipment_1: "Lockheed Model 12 Electra Junior" # todo: NEW TRANSLATION
- INS_transport_plane_equipment_1_short: "Electra Junior" # todo: NEW TRANSLATION
- INS_transport_plane_equipment_2: "Lockheed Model 18 Lodestar" # todo: NEW TRANSLATION
- INS_transport_plane_equipment_2_short: "Lodestar" # todo: NEW TRANSLATION
- SIA_fighter_equipment_0: "Vought V-93S Corsair" # todo: NEW TRANSLATION
- SIA_fighter_equipment_0_short: "V-93S Corsair" # todo: NEW TRANSLATION
- SIA_fighter_equipment_1: "Curtiss Hawk III" # todo: NEW TRANSLATION
- SIA_fighter_equipment_1_short: "Hawk III" # todo: NEW TRANSLATION
- SIA_fighter_equipment_2: "Tachikawa Ki-55" # todo: NEW TRANSLATION
- SIA_fighter_equipment_2_short: "Ki-55" # todo: NEW TRANSLATION
- SIA_fighter_equipment_3: "Nakajima Ki-43" # todo: NEW TRANSLATION
- SIA_fighter_equipment_3_short: "Ki-43" # todo: NEW TRANSLATION
- SIA_heavy_fighter_equipment_1: "Kawasaki Ki-38" # todo: NEW TRANSLATION
- SIA_heavy_fighter_equipment_1_short: "Ki-38" # todo: NEW TRANSLATION
- SIA_heavy_fighter_equipment_2: "Kawasaki Ki-45" # todo: NEW TRANSLATION
- SIA_heavy_fighter_equipment_2_short: "Ki-45" # todo: NEW TRANSLATION
- SIA_heavy_fighter_equipment_3: "Kawasaki Ki-102" # todo: NEW TRANSLATION
- SIA_heavy_fighter_equipment_3_short: "Ki-102" # todo: NEW TRANSLATION
- SIA_CAS_equipment_1: "Mitsubishi Ki-30" # todo: NEW TRANSLATION
- SIA_CAS_equipment_1_short: "Ki-30" # todo: NEW TRANSLATION
- SIA_CAS_equipment_2: "Mitsubishi Ki-51" # todo: NEW TRANSLATION
- SIA_CAS_equipment_2_short: "Ki-51" # todo: NEW TRANSLATION
- SIA_CAS_equipment_3: "Kawasaki Ki-66" # todo: NEW TRANSLATION
- SIA_CAS_equipment_3_short: "Ki-66" # todo: NEW TRANSLATION
- SIA_tac_bomber_equipment_1: "Martin B-10" # todo: NEW TRANSLATION
- SIA_tac_bomber_equipment_1_short: "Martin B-10" # todo: NEW TRANSLATION
- SIA_tac_bomber_equipment_2: "Mitsubishi Ki-21" # todo: NEW TRANSLATION
- SIA_tac_bomber_equipment_2_short: "Ki-21" # todo: NEW TRANSLATION
- SIA_strat_bomber_equipment_1: "Boeing B-17 Flying Fortress" # todo: NEW TRANSLATION
- SIA_strat_bomber_equipment_1_short: "B-17 Flying Fortress" # todo: NEW TRANSLATION
- SIA_strat_bomber_equipment_2: "Nakajima Ki-49" # todo: NEW TRANSLATION
- SIA_strat_bomber_equipment_2_short: "Ki-49" # todo: NEW TRANSLATION
- SIA_strat_bomber_equipment_3: "Nakajima G8N" # todo: NEW TRANSLATION
- SIA_strat_bomber_equipment_3_short: "G8N" # todo: NEW TRANSLATION
- SIA_nav_bomber_equipment_1: "Douglas TBD Devastator" # todo: NEW TRANSLATION
- SIA_nav_bomber_equipment_1_short: "TBD Devastator" # todo: NEW TRANSLATION
- SIA_nav_bomber_equipment_2: "Mitsubishi G4M" # todo: NEW TRANSLATION
- SIA_nav_bomber_equipment_2_short: "G4M" # todo: NEW TRANSLATION
- SIA_nav_bomber_equipment_3: "P1Y Ginga" # todo: NEW TRANSLATION
- SIA_nav_bomber_equipment_3_short: "P1Y Ginga" # todo: NEW TRANSLATION
+ AST_jet_plane: "de Havilland Vampire"
+ AST_jet_plane_short: "Vampire"
+ AST_medium_jet_plane: "English Electric Canberra"
+ AST_medium_jet_plane_short: "Canberra"
+ AST_transport_plane_equipment_1: "de Havilland Express"
+ AST_transport_plane_equipment_1_short: "de Havilland DH.86"
+ AST_transport_plane_equipment_2: "Douglas C-47 Skytrain"
+ AST_transport_plane_equipment_2_short: "C-47 Skytrain"
+ AST_transport_plane_equipment_3: "Avro York Type 685"
+ AST_transport_plane_equipment_3_short: "Avro York"
+ INS_fighter_equipment_0: "Fokker D.XVII"
+ INS_fighter_equipment_0_short: "Fokker D.XVII"
+ INS_fighter_equipment_1: "Fokker D.XXI"
+ INS_fighter_equipment_1_short: "Fokker D.XXI"
+ INS_fighter_equipment_2: "Brewster B-339C"
+ INS_fighter_equipment_2_short: "B-339C"
+ INS_fighter_equipment_3: "Fokker D.XXX"
+ INS_fighter_equipment_3_short: "Fokker D.XXX"
+ INS_fighter_equipment_4: "Lockheed P-80 Shooting Star"
+ INS_fighter_equipment_4_short: "P-80"
+ INS_heavy_fighter_equipment_1: "Fokker G.I Hispano"
+ INS_heavy_fighter_equipment_1_short: "G.I Hispano"
+ INS_heavy_fighter_equipment_2: "Fokker G.I Mercury"
+ INS_heavy_fighter_equipment_2_short: "G.I Mercury"
+ INS_heavy_fighter_equipment_3: "Fokker G.I Wasp"
+ INS_heavy_fighter_equipment_3_short: "G.I Wasp"
+ INS_heavy_fighter_equipment_4: "P82 Twin Mustang"
+ INS_heavy_fighter_equipment_4_short: "P-82"
+ INS_CAS_equipment_0: "Fokker C.X"
+ INS_CAS_equipment_0_short: "Fokker C.X"
+ INS_CAS_equipment_1: "Northrop A-17"
+ INS_CAS_equipment_1_short: "A-17"
+ INS_CAS_equipment_2: "Douglas A-20C Havoc"
+ INS_CAS_equipment_2_short: "A-20C Havoc"
+ INS_CAS_equipment_3: "Douglas A-26 Invader"
+ INS_CAS_equipment_3_short: "A-26 Invader"
+ INS_CAS_equipment_4: "de Havilland Vampire"
+ INS_CAS_equipment_4_short: "Vampire"
+ INS_tac_bomber_equipment_0: "Martin B-10 WH-1"
+ INS_tac_bomber_equipment_0_short: "B-10 WH-1"
+ INS_tac_bomber_equipment_1: "Fokker T.V"
+ INS_tac_bomber_equipment_1_short: "Fokker T.V"
+ INS_tac_bomber_equipment_2: "Fokker T.IX"
+ INS_tac_bomber_equipment_2_short: "Fokker T.IX"
+ INS_tac_bomber_equipment_3: "B-25 Mitchell"
+ INS_tac_bomber_equipment_3_short: "B-25 Mitchell"
+ INS_strat_bomber_equipment_0: "Fokker F.XVIII"
+ INS_strat_bomber_equipment_0_short: "Fokker F.XVIII"
+ INS_strat_bomber_equipment_1: "Boeing B-17 Flying Fortress"
+ INS_strat_bomber_equipment_1_short: "B-17 Flying Fortress"
+ INS_strat_bomber_equipment_2: "Consolidated B-24 Liberator"
+ INS_strat_bomber_equipment_2_short: "B-24 Liberator"
+ INS_strat_bomber_equipment_3: "Boeing B-29 Superfortress"
+ INS_strat_bomber_equipment_3_short: "B-29 Superfortress"
+ INS_nav_bomber_equipment_0: "Fokker T.IV"
+ INS_nav_bomber_equipment_0_short: "Fokker T.IV"
+ INS_nav_bomber_equipment_1: "Consolidated PBY Catalina"
+ INS_nav_bomber_equipment_1_short: "PBY Catalina"
+ INS_nav_bomber_equipment_2: "Fokker T.VIII"
+ INS_nav_bomber_equipment_2_short: "Fokker T.VIII"
+ INS_nav_bomber_equipment_3: "Consolidated PB4Y-2 Privateer"
+ INS_nav_bomber_equipment_3_short: "PB4Y-2"
+ INS_scout_plane_equipment_0: "Fokker C.XI"
+ INS_scout_plane_equipment_0_short: "Fokker C.XI"
+ INS_scout_plane_equipment_1: "Fokker S.IX"
+ INS_scout_plane_equipment_1_short: "Fokker S.IX"
+ INS_scout_plane_equipment_2: "Dornier Do 24"
+ INS_scout_plane_equipment_2_short: "Dornier Do 24"
+ INS_transport_plane_equipment_1: "Lockheed Model 12 Electra Junior"
+ INS_transport_plane_equipment_1_short: "Electra Junior"
+ INS_transport_plane_equipment_2: "Lockheed Model 18 Lodestar"
+ INS_transport_plane_equipment_2_short: "Lodestar"
+ SIA_fighter_equipment_0: "Vought V-93S Corsair"
+ SIA_fighter_equipment_0_short: "V-93S Corsair"
+ SIA_fighter_equipment_1: "Curtiss Hawk III"
+ SIA_fighter_equipment_1_short: "Hawk III"
+ SIA_fighter_equipment_2: "Tačikawa Ki-55"
+ SIA_fighter_equipment_2_short: "Ki-55"
+ SIA_fighter_equipment_3: "Nakadžima Ki-43"
+ SIA_fighter_equipment_3_short: "Ki-43"
+ SIA_heavy_fighter_equipment_1: "Kawasaki Ki-38"
+ SIA_heavy_fighter_equipment_1_short: "Ki-38"
+ SIA_heavy_fighter_equipment_2: "Kawasaki Ki-45"
+ SIA_heavy_fighter_equipment_2_short: "Ki-45"
+ SIA_heavy_fighter_equipment_3: "Kawasaki Ki-102"
+ SIA_heavy_fighter_equipment_3_short: "Ki-102"
+ SIA_CAS_equipment_1: "Mitsubishi Ki-30"
+ SIA_CAS_equipment_1_short: "Ki-30"
+ SIA_CAS_equipment_2: "Mitsubishi Ki-51"
+ SIA_CAS_equipment_2_short: "Ki-51"
+ SIA_CAS_equipment_3: "Kawasaki Ki-66"
+ SIA_CAS_equipment_3_short: "Ki-66"
+ SIA_tac_bomber_equipment_1: "Martin B-10"
+ SIA_tac_bomber_equipment_1_short: "Martin B-10"
+ SIA_tac_bomber_equipment_2: "Mitsubishi Ki-21"
+ SIA_tac_bomber_equipment_2_short: "Ki-21"
+ SIA_strat_bomber_equipment_1: "Boeing B-17 Flying Fortress"
+ SIA_strat_bomber_equipment_1_short: "B-17 Flying Fortress"
+ SIA_strat_bomber_equipment_2: "Nakadžima Ki-49"
+ SIA_strat_bomber_equipment_2_short: "Ki-49"
+ SIA_strat_bomber_equipment_3: "Nakadžima G8N"
+ SIA_strat_bomber_equipment_3_short: "G8N"
+ SIA_nav_bomber_equipment_1: "Douglas TBD Devastator"
+ SIA_nav_bomber_equipment_1_short: "TBD Devastator"
+ SIA_nav_bomber_equipment_2: "Mitsubishi G4M"
+ SIA_nav_bomber_equipment_2_short: "G4M"
+ SIA_nav_bomber_equipment_3: "P1Y Ginga"
+ SIA_nav_bomber_equipment_3_short: "P1Y Ginga"

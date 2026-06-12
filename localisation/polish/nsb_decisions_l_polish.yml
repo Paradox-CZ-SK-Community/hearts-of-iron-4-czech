@@ -161,7 +161,7 @@
  SOV_SOP_civil_war_divisions_tt: "Podpora armády: [?SOV.SOV_exiles_army_support|%Y0] \nPodpora námořnictva: [?SOV.SOV_exiles_navy_support|%Y0] \nPodpora letectva: [?SOV.SOV_exiles_air_support|%Y0] \n\nPodpora obyvatelstva: [?SOV_opposition_popular_support|Y1]§Y%§!\n (Podpora obyvatelstva ovlivňuje úroveň kapitulace [FROM.GetLeader]a a přidává partyzánské jednotky během války)"
  SOV_SOP_civil_war_divisions_value: "[?SOV.SOV_exiles_army_support|%Y0]"
  SOV_SOS_civil_war_divisions_tt: "Kdyby nyní vypukla občanská válka, [SOV.GetLeader] by se mohl spolehnout na věrnost [?SOV.SOV_centre_army_support|%Y0] armády, [?SOV.SOV_centre_navy_support|%Y0] námořnictva a [?SOV.SOV_centre_air_support|%Y0] letectva.\n----\nKaždý den existuje §Y20%§! riziko, že Stalin zahájí válku, pokud paranoia přesáhne §R90%§!\n"
- SOV_SOS_civil_war_divisions_tt_long: "§YPodpora občanské války§!\n§LJe nesmírně důležité zajistit co největší podporu v případě vypuknutí občanské války v ozbrojených silách i mezi obyvatelstvem jako celkem.\n\n§![GetArmedForcesText]\n\n----\nKaždý den existuje §Y20%§! riziko, že Stalin rozpoutá válku, když bude paranoia nad §R90%§!\n----\n[GetCategoryStateText]" # todo: CHANGED
+ SOV_SOS_civil_war_divisions_tt_long: "§YPodpora v občanské válce§!\n§LJe nesmírně důležité zajistit co největší podporu v případě vypuknutí občanské války - jak v ozbrojených silách, tak mezi obyvatelstvem.\n\n§![GetArmedForcesText]\n\n----\nExistuje denní riziko §Y20%§!, že Stalin zahájí válku, pokud je paranoia nad §R90%§!\n----\n[GetCategoryStateText]"
  SOV_SOS_civil_war_divisions_value: "[?SOV.SOV_centre_army_support|%Y0]"
  SOV_SOT_civil_war_divisions_tt: "Podpora armády: [?SOV.SOV_left_opposition_army_support|%Y0] \nPodpora námořnictva: [?SOV.SOV_left_opposition_navy_support|%Y0] \nPodpora letectva: [?SOV.SOV_left_opposition_air_support|%Y0] \n\nPodpora obyvatelstva: [?SOV_opposition_popular_support|Y1]§Y%§!\n (Podpora obyvatelstva ovlivňuje úroveň kapitulace [FROM.GetLeader]a a přidává partyzánské jednotky během války)"
  SOV_SOT_civil_war_divisions_value: "[?SOV.SOV_left_opposition_army_support|%Y0]"
@@ -170,7 +170,7 @@
  SOV_add_borderline_state_to_plot_desc: "placeholder: při začátku války se může stát odtrhnout a připojit k tvému území"
  SOV_agreed_anglo_soviet_invasion_of_iran_flag: "Dohodnuta společná anglo-sovětská invaze do Íránu"
  SOV_align_admiral_stalin: "[ROOT.GetLeader] si zajistí loajalitu admirála"
- SOV_align_admiral_stalin_desc: "Využitím hrozeb, úplatků a osobních vazeb se [ROOT.GetLeader] snaží zajistit loajalitu námořního velitele jako přípravu na budoucí konflikt." # todo: CHANGED
+ SOV_align_admiral_stalin_desc: "Pomocí hrozeb, úplatků a osobních kontaktů se [ROOT.GetLeader] snaží zajistit loajalitu námořního velitele jako přípravu na budoucí konflikt."
  SOV_align_admiral_stalin_tt: "§Y[?SOV.SOV_selected_admiral_stalin.GetName]§! se stane loajálním [ROOT.GetLeader]ovi"
  SOV_align_general_stalin: "[ROOT.GetLeader] si zajistí loajalitu generála"
  SOV_align_general_stalin_desc: "Využitím všech dostupných prostředků se [ROOT.GetLeader] snaží zajistit loajalitu armádního velitele jako přípravu na budoucí konflikt."
@@ -184,9 +184,9 @@
  SOV_army_framejob_tt: "Jeden generál nebo polní maršál bude obviněn ze zrady."
  SOV_assassinate_stalin: "Odstranit Stalina"
  SOV_assassinate_stalin_bad_tt: "Je proveden atentát na Stalina\nŠance na úspěch: §Y50%§!\n £trigger_yes základ: 50 %\n £trigger_no $SOV_infiltrate_the_nkvd$: +30%"
- SOV_assassinate_stalin_desc: "Jediným způsobem, jak pokojně odstranit tyranii, je odstranit tyrana. Je to akt zoufalství, ale masy ušetříme hrůz další občanské války. Musíme ho zlikvidovat a poté pokračovat v plánech na převrat, dříve než jeho nástupce stihne získat dostatek podpory." # todo: CHANGED
+ SOV_assassinate_stalin_desc: "Jediným způsobem, jak pokojně odstranit tyranii, je odstranit tyrana. Je to akt zoufalství, ale masy budou ušetřeny hrůz další občanské války. Musíme ho skolit a pak pokračovat v plánu převratu, než jeho nástupce získá dostatek podpory."
  SOV_assassinate_stalin_good_tt: "Je proveden atentát na Stalina\nŠance na úspěch = §G80%§!\n £trigger_yes základ: 50 %\n £trigger_yes $SOV_infiltrate_the_nkvd$: +30%"
- SOV_assassinate_stalin_outcome_tt: "---\nPokud bude pokus úspěšný, §Y$SOV_lavrenty_beriya$§! převezme dočasnou kontrolu, čímž se vytvoří příležitost pro úspěšný převrat.\nPokud pokus selže, $SOV_paranoia_very_high_increase_effect_tt$." # todo: CHANGED
+ SOV_assassinate_stalin_outcome_tt: "---\nPokud bude pokus úspěšný, §Y$SOV_lavrenty_beriya$§! převezme dočasně moc, čímž vznikne příležitost pro úspěšný převrat.\nPokud pokus selže, $SOV_paranoia_very_high_increase_effect_tt$."
  SOV_assassinated_stalin_flag: "Stalin byl odstraněn"
  SOV_atomic_program_others: "[FROM.GetAdjectiveCap] jaderný program"
  SOV_atomic_program_others_caps: "[FROM.GetAdjectiveCap] jaderný program"
@@ -273,7 +273,7 @@
  SOV_concessions_japan_vladivostok_SCW_accept: "Pokud přijato, [JAP.GetNameDef] pošle jednotky, které budou bojovat s [GetSovietOppositionName] během války. [JAP.GetNameDefCap] získá kontrolu nad Vladivostokem po skončení války."
  SOV_concessions_japan_vladivostok_SCW_desc: "Japonská armáda si vždy dělala zálusk na Vladivostok. Proto by měli být nakloněni pomoci nám s expedičním sborem, pokud využijeme budoucí vlastnictví oblasti jako vyjednávací trumf."
  SOV_concessions_uk_belarus_SCW: "Nezávislé Bělorusko výměnou za britskou podporu"
- SOV_concessions_uk_belarus_SCW_accept: "Pokud bude přijato, [ENG.GetNameDef] začne stavět vojenské továrny v [?SOV.SOV_civil_war_start_state.GetName]. [BLR.GetNameDefCAP] se na konci války stane nezávislým." # todo: CHANGED
+ SOV_concessions_uk_belarus_SCW_accept: "Pokud přijato, [ENG.GetNameDef] začne stavět vojenské továrny v [?SOV.SOV_civil_war_start_state.GetName]. [BLR.GetNameDefCAP] se stane nezávislým po skončení války."
  SOV_concessions_uk_belarus_SCW_desc: "Také [ENG.GetAdjective] vláda sympatizuje s výzvami [BLR.GetAdjective] exilové vlády k nezávislosti. Pokud jim slíbíme, že po válce propustíme [BLR.GetNameDef], jistě nám budou chtít dodat zbraně."
  SOV_daunt_admirals_minor_tt: "Až 5 velitelů námořnictva získá vlastnost §Y$trait_SOV_cowed_by_stalin_army$§!:\n- Šance na rozhodnutí k ústupu: §R-25%§!"
  SOV_daunt_admirals_tt: "Až 5 velitelů námořnictva získá vlastnost §Y$trait_SOV_cowed_by_stalin_army$§!:\n- Šance na rozhodnutí k ústupu: §R-25%§!"
@@ -365,7 +365,7 @@
  SOV_infiltrate_stalinist_plans_in_spain_poum_desc: "Brzy bude do Španělska vyslána nová várka sovětských vojenských poradců, aby pomohli buržoazní republikánské vládě, a my máme šanci mezi nimi propašovat několik antistalinistických agentů.\nTito agenti navážou kontakt a zverbují vojáky, brigadisty a milicionáře sympatizující s POUM na buržoazní republikánské straně, aby vytvořili síť informátorů, která nám umožní znát nepřátelské plány dřív, než budou provedeny."
  SOV_influence_air_opposition_level_tt: "Podpora v letectvu je nižší než §Y70%§!"
  SOV_influence_airforce_opposition: "Zvýšit podporu v letectvu"
- SOV_influence_airforce_opposition_desc: "Využitím našich kontaktů v ozbrojených silách bychom měli být schopni najít piloty a letecké velitele, kteří jsou nakloněni naší věci. Mít letectvo na naší straně jistě válku výrazně usnadní." # todo: CHANGED
+ SOV_influence_airforce_opposition_desc: "Díky našim kontaktům v ozbrojených silách bychom měli najít piloty a velitele, kteří sympatizují s naší věcí. Mít letectvo na naší straně nám válku nepochybně značně usnadní."
  SOV_influence_airforce_opposition_tt: "Podpora letectva roste"
  SOV_influence_army_opposition: "Zvýšit podporu v armádě"
  SOV_influence_army_opposition_desc: "Protože jsme se již infiltrovali do armády, můžeme začít vyhledávat nižší důstojníky a vojáky sympatizující s naší věcí a zajistit, aby se v případě války přidali na naši stranu."
@@ -450,7 +450,7 @@
  SOV_military_offensive: "[GetMilitaryOffensiveName]"
  SOV_military_offensive_activate_decision_tt: "\nAktivuje misi: §YProbíhající vojenská ofenzíva v [FROM.GetName]§! (Abychom v této misi uspěli, musíme ovládnout hlavní cíl §Y[FROM.GetName]§! a všechny jeho sousední státy, které jsou nyní pod kontrolou nepřítele. Ovládnutí pouze hlavního cíle nám zabrání utrpět postihy za neúspěch mise)"
  SOV_military_offensive_current_scope_main_objective_tt: "\nHlavní cíl:"
- SOV_military_offensive_current_scope_negihbors_tt: "\nVedlejší cíle (sousedé):" # todo: CHANGED
+ SOV_military_offensive_current_scope_negihbors_tt: "\nVedlejší cíle (sousední státy):"
  SOV_military_offensive_desc: "Začneme s přípravami vojenské ofenzívy na dobytí [FROM.GetName]."
  SOV_military_offensive_generic_name: ""
  SOV_military_offensive_in_progress_flag: "Jiná vojenská ofenzíva již probíhá."
@@ -503,7 +503,7 @@
  SOV_navy_framejob_tt: "Jeden admirál bude obviněn z protistátní činnosti."
  SOV_nkvd_cd_tt: "\nToto rozhodnutí bude znovu dostupné za §Y120 dní§!."
  SOV_noisy_meeting_in_paris: "placeholder: uspořádat hlučné shromáždění v Paříži"
- SOV_noisy_meeting_in_paris_desc: "Zástupný text: Ještě nedokončeno, vyvolává u Stalina podezření vůči jednomu z jeho loajálních politických poradců" # todo: CHANGED
+ SOV_noisy_meeting_in_paris_desc: "placeholder: zatím nedokončeno, způsobí, že Stalin začne podezřívat jednoho ze svých loajálních politických poradců"
  SOV_northern_crackdown_timer: "Zátah v severním regionu"
  SOV_northern_crackdown_timer_desc: "NKVD se rozhodla zaměřit na severní region, provádí hromadná zatýkání a výslechy, aby zajistila loajalitu obyvatel regionu."
  SOV_northern_crackdown_timer_tt: "Jeden stát v severním regionu bude připojen k Centristům."
@@ -593,7 +593,7 @@
  SOV_permanent_revolution_dec_cat_desc_soviet: "$SOV_the_permanent_revolution_desc$"
  SOV_permanent_revolution_dec_cat_desc_targets: "Marxistická teorie učí, že revoluce je nevyhnutelná, pokud jsou podmínky správné, a četní [SOV.GetAdjective] agenti působící na našem území zajišťují, aby mezi dělnickou třídou vznikly podmínky vhodné pro úspěšné ozbrojené povstání v [ROOT.GetName]."
  SOV_plan_start_of_uprising_archangelsk: "Zřídit tajné velitelství v [FROM.GetName]."
- SOV_plan_start_of_uprising_archangelsk_desc: "Severní region má přístup k přístavům a je relativně blízko Moskvy, což z něj činí dobrou základnu. Nicméně má slabou vnitřní infrastrukturu a nízký stupeň rozvoje, takže vedení války odsud bude poněkud obtížné, pokud se něco neudělá pro zmírnění této situace." # todo: CHANGED
+ SOV_plan_start_of_uprising_archangelsk_desc: "Severní region má přístup k přístavům a je poměrně blízko Moskvy, což z něj dělá dobrý základ. Má však špatnou vnitřní infrastrukturu a nízkou vyspělost, takže vedení války z tohoto místa bude poněkud obtížné, pokud se něco neudělá pro zlepšení situace."
  SOV_plan_start_of_uprising_chita: "Zřídit tajné velitelství v [FROM.GetName]."
  SOV_plan_start_of_uprising_chita_desc: "Sibiř je tradičně protistalinskou a antibolševickou baštou. Region může být málo rozvinutý, ale mělo by být relativně snadné získat jej pro naši věc."
  SOV_plan_start_of_uprising_odessa: "Zřídit tajné velitelství v [FROM.GetName]."
@@ -621,7 +621,7 @@
  SOV_poster_right_text: "[GetDaysRemainingRight]"
  SOV_preparations_for_operation_countenance: "Přípravy na Operaci Countenance"
  SOV_preparations_for_operation_countenance_mission_tt: "Jakmile je aktivní mise §Y$SOV_operation_countenance$§!, [GetOperationCountenanceTooltip] jednotky budou mít §Y[?SOV.SOV_operation_countenance_mission_days] dní§!, aby byl [PER.GetNameDef] donucen ke kapitulaci, než se pokusí připojit k jiné frakci a naše populace začne pochybovat o našich vojenských schopnostech."
- SOV_preparations_for_operation_countenance_tt: "Budeme mít §Y[?SOV.SOV_operation_countenance_preparation_days] dní§! na přípravu před začátkem $SOV_operation_countenance$ a vyhlášení války [PER.GetNameDef]. \n$SOV_preparations_for_operation_countenance_mission_tt$\n" # todo: CHANGED
+ SOV_preparations_for_operation_countenance_tt: "Budeme mít §Y[?SOV.SOV_operation_countenance_preparation_days] dní§! na přípravu před začátkem $SOV_operation_countenance$ a vyhlášením války [PER.GetNameDef]. \n$SOV_preparations_for_operation_countenance_mission_tt$\n"
  SOV_pressure_country_government_balkan: "$SOV_pressure_country_government_baltic$"
  SOV_pressure_country_government_balkan_desc: "$SOV_pressure_country_government_baltic_desc$"
  SOV_pressure_country_government_baltic: "Tlačit na [FROM.GetAdjective] vládu"
@@ -722,7 +722,7 @@
  SOV_sabotage_behind_enemy_lines_cost: "£command_power  §Y15§!"
  SOV_sabotage_behind_enemy_lines_cost_blocked: "£command_power  §R15§!"
  SOV_sabotage_behind_enemy_lines_decision: "Sabotáž za nepřátelskými liniemi"
- SOV_sabotage_behind_enemy_lines_decision_desc: "Loajální partyzáni operující za nepřátelskými liniemi mohou být využiti k narušení nepřátelské komunikace v [FROM.Getname]. Útoky na velitelská stanoviště, přerušování telegrafních vodičů nebo vykolejování vlaků dělají nepřítele méně připraveným odolat útokům našich jednotek a zvyšují šanci na úspěšné osvobození Ruska." # todo: CHANGED
+ SOV_sabotage_behind_enemy_lines_decision_desc: "Lojální partyzáni operující za nepřátelskými liniemi mohou být využiti k narušení nepřátelských komunikací ve státě [FROM.Getname]. Útoky na velitelská stanoviště, přestřihávání telegrafních drátů nebo vykolejování vlaků sníží připravenost nepřítele a zvýší šance na úspěšné osvobození Ruska."
  SOV_sabotage_behind_enemy_lines_decision_tt: "§YNepřátelské jednotky§! utrpí poškození §Yorganizace§!"
  SOV_secure_leningrad_opposition: "Zajistit Leningrad"
  SOV_secure_leningrad_opposition_desc: "Využijeme naše kontakty v Moskvě, abychom zajistili, že se v oblasti zvednou partyzáni a pokusí se město dobýt od centristů."
@@ -734,7 +734,7 @@
  SOV_secure_the_administration_mission_desc: "[FROM.GetLeader] pracuje na dokončení zaměření $SOV_secure_the_administration$."
  SOV_secure_the_administration_mission_tt: "---\nPo začátku občanské války získají centristé modifikátory z zaměření §Y$SOV_secure_the_administration$§!."
  SOV_select_headquarters_text: "Vyber základnu pro povstání kliknutím na ikonu velitelství na mapě:\n\n£select_headquarters_texticon"
- SOV_select_state_text: "Založit nové buňky pro rozšíření vlivu na mapě:\n\n £infiltrate_state_texticon\n\n" # todo: CHANGED
+ SOV_select_state_text: "Zakládej nové buňky a rozšiřuj vliv na mapě:\n\n £infiltrate_state_texticon\n\n"
  SOV_send_elite_commandos_poum: "Poslat elitní komanda"
  SOV_send_elite_commandos_poum_desc: "Máme vysoce vycvičené a schopné lidi, kteří dokáží úspěšně provádět speciální operace, stejně jako nestalinistické veterány občanské války a armádní veterány, kteří vědí, jak vést boj.\nTyto síly musíme poskytnout vládě POUM v jejím boji proti fašismu a stalinismu."
  SOV_send_elite_commandos_poum_flag: "Byla vyslána elitní komanda do Španělska"
@@ -881,7 +881,7 @@
  form_country_uzbekistan_coring_states_tt: "Získá domovská území na všech §Yuzbeckých§! státech."
  form_country_uzbekistan_required_states: "Ovládá všechny §Yuzbecké§! státy."
  form_idel_ural_category: "Sjednocení Idel-Uralu"
- form_idel_ural_category_desc: "1. března 1918 se Milli Mejlis, známý také jako Národní rada, pokusil vyhlásit vznik Idel-Uralické republiky, ale byl zmařen oběma stranami občanské války. Dnes je koncepce sjednoceného národa v tomto regionu stále do značné míry neprobádaná, ale pokud by někdo takovou republiku vyhlásil za účelem ochrany obyvatel před ruským imperialismem, lidová podpora by byla velká." # todo: CHANGED
+ form_idel_ural_category_desc: "1. března 1918 se Milli Mejlis, známý také jako Národní rada, pokusil vyhlásit vznik Idel-Uralské republiky, ale byl potlačen oběma stranami občanské války. Dnes je koncept jednotného národa v tomto regionu stále málo prozkoumán, ale pokud by někdo vyhlásil stát, aby chránil lidi před ruským imperialismem, podpora lidu by byla značná."
  form_idel_uralic_republic: "Naplnit sny Milli Mejlisu"
  form_mountainous_republic: "Sjednotit Horskou republiku"
  form_mountainous_republic_category: "Vytvořit Horskou republiku Severního Kavkazu"

@@ -26,7 +26,7 @@
  FRA_flying_artillery: "Létající dělostřelectvo"
  FRA_france_undividable: "Nedělitelná Francie"
  FRA_full_employment: "Plná zaměstnanost"
- FRA_full_employment_desc: "Jsme v záviděníhodné pozici s velmi nízkou nezaměstnaností, částečně kvůli masivnímu krveprolití během První světové války. To však firmám ztížilo hledání kvalifikovaných pracovníků a armádě se těžko daří konkurovat trhu práce při náboru. Prodloužení branné povinnosti by problém pouze zhoršilo. Měli bychom se pokusit najít jiné zdroje personálu, které by kompenzovaly nedostatek, buď formou náboru, nebo v rámci ekonomiky." # todo: CHANGED
+ FRA_full_employment_desc: "Jsme v záviděníhodné pozici s velmi nízkou nezaměstnaností, částečně kvůli masakrům Velké války. To však ztěžuje firmám nacházet kvalifikované pracovníky a armáda těžko soupeří s pracovním trhem o rekruty. Rozšíření branné povinnosti by problém jen zhoršilo. Měli bychom hledat jiné zdroje Personálu, abychom vyrovnali nedostatek — ať už v náboru, nebo v ekonomice."
  FRA_german_exiles: "Němečtí exulanti"
  FRA_global_investments: "Globální investice"
  FRA_hidden_materials: "Skryté materiály"
@@ -72,7 +72,7 @@
  SPA_awaiting_the_rebellion: "Vyčkávání na povstání"
  SPA_awaiting_the_rebellion_desc: "Puč byl pečlivě naplánován a jsme připraveni jej kdykoli spustit. Poučili jsme se však z dřívějších nezdarů. Místo opakování fiaska Sanjurjady z roku 1932 počkáme, až lidové nálady dostatečně podpoří naši věc — tím zajistíme, že nebudeme tak snadno svrženi."
  SPA_carlism: "Karlismus"
- SPA_carlism_desc: "V roce 1830 král Ferdinand VII. vyhlásil Pragmatickou sankci a učinil svou dceru, budoucí Isabelu II., dědičkou. Tento akt vyřadil jeho bratra Infanta Carlose z linie následnictví, a tak po králově smrti stoupenci Infanta Carlose započali sérii občanských válek, sjednoceni pod praporem karlistického hnutí a bojující za obnovení salického práva nástupnictví.\n\nO sto let později je karlistické hnutí stále velmi živé a jeho milice, zvané Requetés, cvičí neustále v očekávání doby, kdy budou opět potřeba k obraně křesťanství a prosazení návratu právoplatného krále." # todo: CHANGED
+ SPA_carlism_desc: "V roce 1830 vydal král Ferdinand VII. Pragmatickou sankci a určil svou dceru, budoucí Isabelu II., za dědičku trůnu. Tímto aktem vyřadil z následnictví svého bratra infanta Carlose, a tak po králově smrti rozpoutali jeho stoupenci sérii občanských válek, sjednoceni pod praporem karlismu a bojující za obnovení sálského nástupnictví.\n\nO století později je karlistické hnutí stále velmi živé a jeho milice zvané Requetés neúnavně trénují, aby byly připraveny znovu bránit křesťanství a prosadit návrat právoplatného krále."
  SPA_crusade_against_democracy: "Křížové tažení proti demokracii"
  SPA_diego_hidalgo_y_duran: "Diego Hidalgo y Durán"
  SPA_disjointed_carlist_juntas: "Roztříštěné karlistické junty"

@@ -1,6 +1,6 @@
 ﻿l_polish:
  CANCEL_ALL_CONSTRUCTION: "§GCtrl+klik pro §Hzrušení veškeré§G výstavby.§!§!§!"
- CANCEL_CONSTRUCTION: "§GKliknutím §Hzrušíte§G stavbu§!§!§!" # todo: CHANGED
+ CANCEL_CONSTRUCTION: "§GKliknutím §Hzrušíte§G stavbu§!§!§!"
  CANCEL_REPAIRS: "Nelze §Rzrušit§! opravy!"
  CIC_BANK_CONSTRUCTION_CONTRIBUTION: "Aktuálně přispívá $BOOST|2H$ /den na $NUM|H$ stavebních linkách."
  CIC_BANK_CURRENTLY_EARNED_FROM_DEAL: "$COUNTRY|H$ ($NUM|H$): §G+$PAYMENT|2$§! /měsíc"
@@ -72,7 +72,7 @@
  CONSTRUCTION_MAPMODE_TOOLTIP_REMOVE: "§GPravým kliknutím§! odstraníte jednu stavbu této budovy.\n§GShift+pravý klik§! odstraní všechny stavby všech budov."
  CONSTRUCTION_MAPMODE_TOOLTIP_SHARED: "$NAME|H$ využívá $USED_SLOTS|Y$ z celkových $MAX_SLOTS|Y$ stavebních slotů.\n$LIST$"
  CONSTRUCTION_MAPMODE_TOOLTIP_SHARED_LIST_ENTRY: "$NAME|H$: $LEVEL$"
- CONSTRUCTION_MAPMODE_TOOLTIP_TO_MAX_AMOUNT: "§GShift+Kliknutím§! postavíte maximální počet budov" # todo: CHANGED
+ CONSTRUCTION_MAPMODE_TOOLTIP_TO_MAX_AMOUNT: "§GShift+Kliknutím§! postavíte maximální počet budov"
  CONSTRUCTION_MAPMODE_WATER_TOOLTIP: "Nelze stavět $BUILDING|H$ na vodě."
  CONSTRUCTION_MAP_ICON_ENTRY: "£backhoe_icon_small   $VAL$/$MAX$"
  CONSTRUCTION_MAP_ICON_ENTRY_WITH_TEMP: "£backhoe_icon_small   $VAL$+$ADD|H$/$MAX$"

@@ -73,7 +73,7 @@
  germany.60.c: "Nebudou stát sami! Přiveďme Brity do války!"
  germany.61.c: "Musíme přijít na pomoc Nizozemcům!"
  japan_border_conflict.1.a: "Nepřijatelné."
- japan_border_conflict.1.desc: "V rámci udržování demarkační čáry na hranici mezi námi a [JAP.GetNameDef] byla vyslána pracovní skupina zkontrolovat demarkační ukazatele u jezera Chasan. Při přibližování k hranici byla pracovní skupina postřílena místní japonskou hlídkou. \n\nVznášeli jsme formální diplomatický protest, ale japonský velvyslanec trvá na tom, že pracovní skupina byla vyslána, aby posunula ukazatele a umožnila nám nárokovat více území.\n\nJaponci nás ujišťují, že budou respektovat hranici, ale nebudou dovolovat žádné \"manipulace\" se současnou demarkací a v případě našeho pokusu o to odpovědí budou silou.\n\nTo v praxi znamená, že se již v této oblasti nemůžeme volně pohybovat po svém území." # todo: CHANGED
+ japan_border_conflict.1.desc: "V rámci udržování demarkační linie na [JAP.GetAdjective] hranici byla vyslána pracovní četa, aby zkontrolovala pohraniční značky poblíž jezera Chasan. Když se přiblížili k hranici, četa byla ostřelována místním japonským stanovištěm.\n\nPodali jsme formální diplomatický protest, ale japonský velvyslanec trvá na tom, že četa byla vyslána k posunutí značek, aby nám umožnila nárokovat si více území.\n\nJaponci nás ujistili, že budou respektovat hranici, ale nedovolí žádné „manipulace“ se současnou demarkací a v případě pokusu odpoví silou.\n\nTo v praxi znamená, že se v oblasti již nemůžeme volně pohybovat po našem vlastním území."
  japan_border_conflict.1.t: "Japonská provokace na naší hranici"
  japan_border_conflict.2.a: "Vyřešili jsme tuto záležitost čestně."
  japan_border_conflict.2.b: "Musíme připravit odpovídající reakci."
@@ -123,7 +123,7 @@
  wtt_britain.26.t: "Francouzi odevzdávají flotilu"
  wtt_britain.27.a: "Nesmíme dovolit, aby francouzská flotila sloužila německým zájmům!"
  wtt_britain.27.b: "To je příliš nepřijatelné. Musíme ustoupit."
- wtt_britain.27.d: "Francouzi odmítli naše požadavky. Nyní nám zůstává nechtěná volba — ustoupit, nebo se obrátit proti našim dřívějším spojencům..." # todo: CHANGED
+ wtt_britain.27.d: "Francouzi naše požadavky odmítli. Stojíme nyní před nelehkou volbou: ustoupit, nebo se obrátit proti našim donedávna spojencům..."
  wtt_britain.27.t: "Francouzi odmítají ultimátum"
  wtt_britain.28.d: "Irská vláda přijala náš návrh a připojila se k naší věci výměnou za Severní Irsko."
  wtt_britain.28.t: "Irsko přijímá MacDonaldův návrh"
@@ -131,7 +131,7 @@
  wtt_britain.29.d: "Irská vláda náš návrh odmítla a odmítá se připojit k našemu boji za demokracii."
  wtt_britain.29.t: "Irsko odmítá MacDonaldův návrh"
  wtt_britain.30.a: "Zachránili nás před invazí!"
- wtt_britain.30.d: "Americká vláda, s laskavou podporou American Committee for Defense of British Homes, nám zaslala nouzovou dodávku starých pušek, vybavení a několika dělostřeleckých kusů. Je to příliš roztříštěný soubor na to, aby byl skutečně užitečný pro naši armádu, ale bezpochyby velmi pomůže při spěšném vyzbrojování posádek domobrany." # todo: CHANGED
+ wtt_britain.30.d: "Americká vláda nám s laskavou podporou Amerického výboru na obranu britských domovů poslala nouzovou zásilku starých pušek, vybavení a několika dělostřeleckých kusů. Jedná se o příliš rozmanitý sortiment, aby byl pro naši armádu skutečně užitečný, ale bezpochyby velmi pomůže při rychlém vybavení posádek domobrany."
  wtt_britain.30.t: "Americké nouzové dodávky zbraní"
  wtt_britain_lease_azores.1.a: "Lepší než nás vtáhnout do války..."
  wtt_britain_lease_azores.1.b: "Jaký z toho máme prospěch?"
@@ -172,7 +172,7 @@
  wtt_china.11.desc: "[From.GetNameDef] odpověděl na naši nótu a slíbila, že nás bude o všech dalších rozhodnutích konzultovat. Náš velvyslanec byl povýšen na zvláštního zástupce se zadáním dohlédnout, aby [From.GetAdjective] vláda příliš neodbočila od svého závazku."
  wtt_china.11.t: "[From.GetNameDefCap] se podřizuje"
  wtt_china.12.a: "Budeme muset přijmout opatření."
- wtt_china.12.desc: "Naše diplomatická nóta adresovaná [From.GetNameDef] byla zřejmě uniklá tiskem, který je nyní v rozrušení. Dokonce i mezinárodní noviny napsaly velmi nepříznivé články, označující naše rozumné požadavky na konzultaci za \"vměšování se do vnitřních záležitostí\", \"nebezpečný precedent\" a dokonce \"nahý imperialismus\". \n\nNetřeba dodávat, že [From.GetAdjective] vláda odmítla o záležitosti dál jednat a naznačila, že její opětovné otevření by vedlo k úplnému pozastavení diplomatických kontaktů." # todo: CHANGED
+ wtt_china.12.desc: "Naše diplomatická nóta, kterou od nás obdržel [From.GetNameDef], zřejmě unikla do tisku, který je teď na nohou. Dokonce i mezinárodní noviny přinesly velmi nelichotivé komentáře, označující naše rozumné požadavky na konzultace za „vměšování do vnitřních záležitostí“, „nebezpečný precedens“ a dokonce „čistý imperialismus“.\n\nNení třeba dodávat, že [From.GetAdjective] vláda odmítla o věci dále diskutovat a naznačila, že opětovné otevření tématu by vedlo k úplnému přerušení diplomatických kontaktů."
  wtt_china.12.t: "[From.GetNameDefCap] vzdoruje"
  wtt_china.2.a: "Ví, kde je jeho místo."
  wtt_china.2.desc: "[From.GetLeader] poslal posla zpět s osobní poznámkou, že bude přísně dodržovat naše rozkazy a koordinovat se s naší vládou."
@@ -186,7 +186,7 @@
  wtt_china_shared.1.t: "[From.GetNameDefCap] nabízí podporu"
  wtt_china_shared.10.a: "Musíme je podpořit, jak jen můžeme."
  wtt_china_shared.10.b: "Nesmíme se nechat zatáhnout do tohoto konfliktu."
- wtt_china_shared.10.desc_a: "Soong Mei-Ling, manželka Chiang Kai-sheka a jedna z jeho nejdůvěryhodnějších rádců, odcestovala do Washingtonu, aby lobovala za zvýšení podpory Číně v jejím boji proti Japonsku. Čínské letectvo zoufale potřebuje moderní stroje a zkušené piloty, kteří by je ovládali.\n\nSoongin apel rezonoval u široké veřejnosti a řada našich pilotů posléze rezignovala ze služby, aby se přihlásili do čínské společnosti poskytující \"Training and Instruction\" čínským pilotům.\n\nS vyřešenou otázkou pilotů se Soong Mei-Ling obrátila na nás s žádostí o povolení přesměrovat přibližně 150 našich nejmodernějších stíhaček k přezbrojení čínského letectva." # todo: CHANGED
+ wtt_china_shared.10.desc_a: "Soong Mej-ling, manželka Čankajška a jedna z jeho nejdůvěryhodnějších rádců, odcestovala do Washingtonu, aby lobovala za zvýšenou podporu Číně v boji proti Japonsku. Čínské letectvo zoufale potřebuje moderní letadla a zkušené piloty, kteří je budou létat.\n\nSoongové apel rezonoval u široké veřejnosti a řada našich pilotů rezignovala na službu, aby se přihlásila u čínské společnosti poskytující „výcvik a instruktáž“ čínským pilotům.\n\nPo vyřešení otázky pilotů nás Soong Mej-ling požádala o povolení převést asi 150 našich nejmodernějších stíhaček k přezbrojení čínského letectva."
  wtt_china_shared.10.desc_b: "Válka v Číně si vybrala daň na čínském letectvu. Přečísleni a přezbrojeni protivníky statečně bojovali o oblohu nad Čínou.\n\nNavzdory statečnosti svých pilotů [From.GetAdjective] letectvo zoufale shání nová letadla a piloty k náhradě ztrát. Delegace, kterou vyslal [From.GetLeader], dorazila do Washingtonu, aby vyjednala převod asi 150 moderních stíhaček a aby obdobný počet pilotů mohl odletět do Číny a tato letadla pilotovat."
  wtt_china_shared.10.t: "Létající tygři"
  wtt_china_shared.11.a: "Musíme je podpořit, jak jen můžeme."
@@ -207,13 +207,13 @@
  wtt_china_shared.14.desc: "Naše žádost narazila na hluché uši. Ačkoli několik vysoce postavených důstojníků americké armády naznačilo ochotu přijmout úkol, ministr války i prezident [From.GetLeader] to oba vetovali jako nepraktické a nevhodné pro národní zájem."
  wtt_china_shared.14.t: "Žádná pomoc od [From.GetNameDef]"
  wtt_china_shared.2.a: "Jejich boj je i naším bojem."
- wtt_china_shared.2.desc: "Při soukromé rozmluvě vládní představitelé z [From.GetNameDef] projevili velký zájem o to, co můžeme udělat na podporu nezávislého státu. Byly uvolněny prostředky pro skupiny obhajující větší nezávislost a začali jsme organizovat \"Prozatímní svobodnou [From.GetAdjective] vládu v exilu\"." # todo: CHANGED
+ wtt_china_shared.2.desc: "V soukromém rozhovoru projevili vládní úředníci velký zájem o to, co můžeme udělat pro podporu nezávislého státu. Byly uvolněny prostředky pro skupiny prosazující větší nezávislost a začali jsme organizovat „Prozatímní svobodnou [From.GetAdjective] vládu v exilu“."
  wtt_china_shared.2.t: "[From.GetNameDefCap] přijímá naši podporu"
  wtt_china_shared.3.a: "Hanba."
  wtt_china_shared.3.desc: "V přísné nótě nás [From.GetLeader] informoval, že jeho vláda nebude tolerovat žádné vměšování do vnitřních [From.GetAdjective] záležitostí. Diplomatický protokol nám brání, abychom byl [From.From.GetLeader] vyhlášen  personou non grata a zakázat mu vstup, ale prakticky celé naši delegaci bylo sděleno, že [From.GetNameDef] jejich přítomnost nepovažuje za žádoucí."
  wtt_china_shared.3.t: "[From.GetNameDefCap] odmítá naši podporu"
  wtt_china_shared.4.a: "Znepokojivé."
- wtt_china_shared.4.desc: "Zdá se, že nedávná návštěva [From.From.GetLeader] v [From.GetNameDef] nebyla jen výměnou zdvořilostí u čaje. V poslední době se dříve oddělené a roztříštěné hnutí za nezávislost v zemi začalo mnohem lépe koordinovat. Skoro to vypadá, jako by jim někdo pomáhal organizovat věci z ciziny." # todo: CHANGED
+ wtt_china_shared.4.desc: "Zdá se, že když [From.From.GetLeader] navštívil [From.GetNameDef], jeho cílem nebyla jen výměna zdvořilostí u čaje. V poslední době začala dříve oddělená a roztříštěná hnutí za nezávislost v zemi spolupracovat mnohem lépe. Skoro to vypadá, jako by jim někdo pomáhal zvenčí."
  wtt_china_shared.4.t: "Hnutí za nezávislost pro [From.GetNameDef] sílí"
  wtt_denmark.1.a: "Hodně štěstí."
  wtt_denmark.1.d: "Po přerušení kontaktů po invazi převzal islandský parlament kontrolu nad vlastními zahraničními záležitostmi. Považuje se to za dočasné opatření až do konce okupace."
@@ -324,7 +324,7 @@
  wtt_germany.39.desc: "Čínští představitelé nás kontaktovali s nabídkou možné výměny, která prý uspokojí obě strany. Navrhují navrátit Čching-tao do právoplatných německých rukou výměnou za záruku, že neodvoláme misi von Falkenhausena."
  wtt_germany.39.t: "Čína nabízí dohodu o Čching-tau"
  wtt_germany.4.a: "Nepochybně povede národ dobře."
- wtt_germany.4.d: "Uprostřed extatických oslav se Wilhelm II. vrátil jako císař do Německého císařství! Nizozemsko si zaslouží dík za to, že mu v uplynulých desetiletích poskytlo bezpečný úkryt a mnohokrát odmítlo jeho vydání našim bývalým nepřátelům. Ačkoliv národ v nedávné občanské válce hodně utrpěl, doufá se, že císařův návrat přinese další stabilitu a jednotu." # todo: CHANGED
+ wtt_germany.4.d: "Uprostřed bouřlivých oslav se Vilém II. vrátil jako císař do Německé říše! Nizozemsku vděčíme za to, že mu v uplynulých desetiletích poskytlo bezpečné útočiště a že několikrát odmítlo jeho vydání našim bývalým nepřátelům. Ačkoli země v nedávné občanské válce mnoho utrpěla, doufáme, že císařův návrat přinese další stabilitu a jednotu."
  wtt_germany.4.t: "Císař se vrací do Německa"
  wtt_germany.40.a: "Dokážeme být trpěliví."
  wtt_germany.40.desc: "[From.GetNameDefCap] naši žádost o navrácení Čching-taa jednoznačně odmítli. Nezbývá než se o jeho návrat pokusit později."
@@ -422,7 +422,7 @@
  wtt_germany.70.desc: "Dnes [From.GetAdjective] vláda odpověděla na náš návrh reintegrace staré Rakousko-Uherské říše. Jednoznačně uvedla, že nikdy dobrovolně nepřijme naše vedení v takovém podniku."
  wtt_germany.70.t: "[From.GetName] odmítá integraci"
  wtt_germany.71.a: "Nastal úsvit nové éry Rakouska-Uherska."
- wtt_germany.71.desc: "Oba naši sousední nástupnické státy po rozpadu Rakousko-Uherska přijaly navrhované znovuzačlenění svých území do naší země a tím pádem opětovné formování Rakousko-Uherského císařství. Podepsání smlouvy o znovusjednocení bylo na ulicích přivítáno nadšenými masami a [GER.GetAdjective] vláda nás dychtivě přivítala zpět ve své alianci." # todo: CHANGED
+ wtt_germany.71.desc: "Oba naši sousední nástupnické státy Rakousko-Uherska přijaly navrženou reintegraci svých zemí do našeho státu, čímž znovu vzniká Rakousko-Uherská říše. Podpis smlouvy o znovusjednocení přivítaly v ulicích nadšené davy a [GER.GetAdjective] vláda nás s povděkem přivítala zpět ve své alianci."
  wtt_germany.71.t: "Znovuvytvoření Rakousko-Uherské říše"
  wtt_germany.72.a: "Skvělý nápad - naše osudy byly stejně propojené."
  wtt_germany.72.b: "Nemyslíme si; naše suverenita je příliš cenná."
@@ -440,7 +440,7 @@
  wtt_germany.8.d: "[From.GetNameDefCap] oslovilo promonarchistické a protifašistické prvky italské vlády a odboje s plánem na atentát na Mussoliniho a dosazení Viktora Emanuela III. do čela země. Němci nás ujišťují, že atentát zvládnou; po nás chtějí pouze potvrdit ochotu vytvořit náhradní vládu a zavázat se k budoucí vojenské podpoře německých záměrů."
  wtt_germany.8.t: "Německo nabízí podporu monarchistickému převratu"
  wtt_germany.9.a: "Můžeme uvést naše plány do pohybu."
- wtt_germany.9.d: "Prvky v italské vládě i v podzemí přijaly náš návrh na státní převrat. Připravují se na rychlé uchopení moci pro krále, jakmile atentát proběhne." # todo: CHANGED
+ wtt_germany.9.d: "Prvky v italské vládě a odboji přijaly náš návrh na převrat. Připravují se na rychlé převzetí moci pro krále hned po provedení atentátu."
  wtt_germany.9.t: "Italové přijímají návrh na převrat"
  wtt_germany.999.a: "To je skvělý nápad!"
  wtt_germany.999.b: "To si nemyslíme."
@@ -452,7 +452,7 @@
  wtt_hanoi_route.2.desc_war_with_from: "Dostali jsme informace, že [From.GetAdjective] síly okupující Hanoj zabavily několik nákladních plavidel vezoucích pro nás zásoby. Lodě, které jsou ještě na moři, se obrátily a prchají do neutrálních přístavů.\n\nTímto směrem už žádné další zásoby očekávat nemůžeme."
  wtt_infiltration.1.t: "Zásah proti infiltraci"
  wtt_infiltration.10.a: "Připravte se bojovat za Čínu!"
- wtt_infiltration.10.desc: "V Komunistické straně se cosi chystá. Naše zpravodajské služby zachytily několik kurýrů pohybujících se mezi základnovými oblastmi, nesoucích tajné rozkazy hovořící o tom, že se v tajných základnách po celé zemi připravuje \"The Revolutionary Counterstroke\". Sbírají se vojáci a zásoby pro velkou operaci — možná dokonce pro celonárodní povstání. Musíme okamžitě učinit opatření." # todo: CHANGED
+ wtt_infiltration.10.desc: "V Komunistické straně se něco chystá. Naše zpravodajské služby zachytily řadu kurýrů pohybujících se mezi základnami s tajnými rozkazy, jež hovoří o přípravě „revolučního protiúderu“ v tajných základnách po celé zemi. Shromažďují se vojáci i zásoby pro velkou operaci - možná i celonárodní povstání. Musíme se okamžitě připravit."
  wtt_infiltration.10.t: "Komunistické povstání"
  wtt_infiltration.2.a: "Pošlete tam vojáky."
  wtt_infiltration.2.desc: "Vyšetřování našich úřadů odhalilo v [infiltrated_state.GetName] komunistickou základnu. Je třeba co nejdříve nasadit plnou sílu naší armády proti těmto banditům. Jakékoli prodlení jim může umožnit rozšířit operační zázemí a jejich vykořenění výrazně ztížit."
@@ -470,13 +470,13 @@
  wtt_infiltration.3.desc: "Během našich posledních razií na známých komunistických skrýších naši agenti nenašli nic nového. Víme, že komunističtí infiltrátoři jsou v naší zemi stále aktivní, ale zdá se, že neoperují žádné další buňky, o kterých bychom už nevěděli."
  wtt_infiltration.3.t: "Komunisté pod kontrolou"
  wtt_infiltration.4.a: "Doufejme, že jsme se jich všech zbavili."
- wtt_infiltration.4.desc: "Zprávy o rozsáhlé komunistické infiltraci se zdají být hrubě přeceněné. Nájezdy na řadu známých skrýší a komunistických aktivistů nic nevynesly. To buď znamená, že komunisti nebyli schopni zorganizovat žádné buňky, nebo že jsme zlikvidovali ty, které se jim podařilo vytvořit. Musíme však zůstat ostražití, protože se bezpochyby pokusí nás před novým útokem ukolébat do falečného pocitu bezpečí." # todo: CHANGED
+ wtt_infiltration.4.desc: "Zprávy o rozsáhlé komunistické infiltraci se zdají být poněkud přehnané. Razie na řadě známých skrýší a na komunistických aktivistech nepřinesly nic. To buď znamená, že komunisté nebyli schopni vytvořit žádné buňky, nebo že jsme ty, které se jim podařilo založit, rozdrtili. Musíme však zůstat bdělí, protože se nás nepochybně pokusí ukolébat falešným pocitem bezpečí, než své úsilí znovu zahájí."
  wtt_infiltration.4.t: "Komunistická infiltrace poražena?"
  wtt_infiltration.5.a: "Doufejme, že k tomu nedojde."
  wtt_infiltration.5.desc: "Vlastenecké hlídky se přiblížily k naší základnové oblasti v [infiltrated_state.GetName]. Budou-li ochotni nasadit prostředky, mohou ji v soustředěné vojenské operaci skutečně zlikvidovat."
  wtt_infiltration.5.t: "Odhalena základna v [infiltrated_state.GetName]"
  wtt_infiltration.6.a: "Revoluce zaznamenala komplikace."
- wtt_infiltration.6.desc: "Nepřátelské síly zahájily útok na naši základnovou oblast v [infiltrated_state.GetName]. Od našich družstevníků ve státě jsme neobdrželi žádné zprávy, ale nepřátelský tisk hlásí dokončení \"[infiltrated_state.GetName] Encirclement and Eradication Campaign\". Musíme předpokládat to nejhorší." # todo: CHANGED
+ wtt_infiltration.6.desc: "Nepřátelské jednotky zahájily útok na naši základnovu v [infiltrated_state.GetName]. Ze státu jsme neobdrželi žádné zprávy od našich soudruhů, ale nepřátelský tisk informuje o završení „[infiltrated_state.GetName]ské kampaně obklíčení a vyhlazení“. Musíme předpokládat to nejhorší."
  wtt_infiltration.6.t: "Základna v [infiltrated_state.GetName] napadena"
  wtt_japan.1.a: "Je čas přijmout japonskou dominanci na Východě."
  wtt_japan.1.b: "Budou si je muset vzít silou!"
@@ -609,7 +609,7 @@
  wtt_ledo_road.4.t: "[From.GetNameDefCap] znovu otevírá Cestu z Ledo"
  wtt_manchukou.1.a: "Celá ta republika nikdy neměla fungovat."
  wtt_manchukou.1.b: "Ať to zkusí."
- wtt_manchukou.1.desc: "Zdá se, že [From.GetLeader] učinil rozhodnutí konečně rozšířit svou autoritu do dalekých oblastí Číny. Představitel [From.GetAdjective] vlády dorazil a požaduje, abychom se poklonili jedinému pravému císaři Číny, Synu nebes, [From.GetLeader]. Odmítání to udělat, pokračoval, bude potrestáno velezradou nejvyššího řádu." # todo: CHANGED
+ wtt_manchukou.1.desc: "Zdá se, že [From.GetLeader] se rozhodl konečně rozšířit svou autoritu do vzdálených oblastí Číny. Dorazil zástupce [From.GetAdjective] vlády a požaduje, abychom se poklonili jedinému pravému císaři Číny, Synu nebes, [From.GetLeader]. Pokud tak neučiníme, dodal, bude to potrestáno jako velezrada nejvyššího řádu."
  wtt_manchukou.1.t: "[From.GetNameDefCap] požaduje podrobení"
  wtt_manchukou.11.a: "Budovat letecký průmysl"
  wtt_manchukou.11.b: "Investovat do automobilového průmyslu"
@@ -626,7 +626,7 @@
  wtt_manchukou_bandit_sabotage.21.desc: "Došly zprávy z jednoho z našich závodů v [FROM.GetName], že se minulou noc rozhořel rozsáhlý požár. Místní hasiči sice stále hasí plameny, ale jsou přesvědčeni, že požár budou mít do konce dne pod kontrolou. Škoda na závodu se zdá být značná, protože požár zřejmě začal v skladovací části, kde byly uskladněny vysoce hořlavé chemikálie.\n\nVojenská rozvědka zahájila důkladné vyšetřování, aby zjistila, jak mohl požár propuknout navzdory nejpřísnějším bezpečnostním opatřením. První indicie nasvědčují úmyslnému zapálení jako pravděpodobné možnosti."
  wtt_manchukou_bandit_sabotage.21.t: "Zbrojovka sabotována"
  wtt_manchukou_bandit_sabotage.22.t: "Civilní továrna sabotována"
- wtt_manchukou_bandit_sabotage.23.desc: "Někdy během uplynulé noci se hlavní železniční most v [FROM.GetName] zřítil pod vahou projíždějícího muničního vlaku. Záchranné a vyprošťovací práce ztěžovaly sekundární výbuchy munice. Osádka vlaku je stále pohřešována, předpokládá se, že zahynula.\n\nVojenské zpravodajství vyslalo tým, aby místo prozkoumal, jakmile to bude bezpečné, aby zjistilo, jak mohl pevný most bez varovných znaků spadnout.\n\nMístní svědci hlásí, že v údolí pod mostem byla viděna malá skupina den před zřícením. Jejich pobyt je nyní neznámý." # todo: CHANGED
+ wtt_manchukou_bandit_sabotage.23.desc: "Během uplynulé noci se v [FROM.GetName] zřítil větší železniční most pod vahou projíždějícího vlaku s municí. Záchranné a vyprošťovací práce ztěžují sekundární výbuchy munice. Posádka vlaku je stále pohřešována, předpokládá se, že je mrtvá.\n\nVojenská rozvědka vyslala tým, aby místo prozkoumal, jakmile to bude bezpečné, a zjistil, jak mohl pevný most zkolabovat bez varovných příznaků.\n\nMístní svědci hlásí, že den před zřícením viděli v údolí pod mostem malou skupinu. Jejich současné místo pobytu není známo."
  wtt_manchukou_bandit_sabotage.23.t: "Most vyhozen do vzduchu"
  wtt_news.1.a: "Teď už není cesty zpět."
  wtt_news.1.b: "Zradila je armáda! Nesmíme dopadnout stejně."
@@ -639,7 +639,7 @@
  wtt_news.10.d: "To eskaluje fakt rychle..."
  wtt_news.10.desc: "V reakci na nedávné německé oznámení o vytvoření středoevropské aliance proti sovětské agresi přijala sovětská vláda opatření k drastickému zrychlení vojenské výroby.\n\nMluvčí Kremlu dal jasně najevo, že Sovětský svaz nemůže nečinně přihlížet, jak se tato hrozba rozvíjí na jeho hranicích. Opatření, jak jí čelit, musí být a už byla okamžitě přijata."
  wtt_news.10.t: "Sověti stupňují zbrojení"
- wtt_news.1000.a: "Hrůzná tragédie... S neočekávanými následky." # todo: CHANGED
+ wtt_news.1000.a: "Hrůzná tragédie... S neočekávanými následky."
  wtt_news.1000.desc: "Při strašlivé tragédii byl dnes při pokusu o přistání v Londýně zničen vzducholoď Hindenburg. Z dosud neznámých příčin byla vzducholoď zachvácena plameny a zřítila se na zem, přičemž zahynuli všichni cestující a členové posádky na palubě - včetně prakticky všech členů širší německé císařské rodiny.\n\nJedinou přeživší je princezna Victoria Louise, která byla vyslána předem, aby pomohla s přípravami obřadu. Princezna, třetí členka královské rodiny, která nese jméno „Victoria“ po své babičce, německé císařovně Victorii, a své prababičce, královně Victorii, se tak stala jedinou zbývající dědičkou trůnu. Přestože je stále otřesená ztrátou své rodiny, nastoupila nyní na trůn jako německá císařovna Viktorie I."
  wtt_news.1001.a: "Jak strašná tragédie!"
  wtt_news.1001.desc: "Při strašlivé tragédii byl dnes při pokusu o přistání v Londýně zničen vzducholoď Hindenburg. Z dosud neznámých příčin byla vzducholoď zachvácena plameny a zřítila se na zem, přičemž zahynuli všichni cestující a členové posádky na palubě - včetně všech členů širší německé císařské rodiny.\n\nS úplným zničením císařské rodiny převzala vláda přímou kontrolu, ale zdá se nepravděpodobné, že by to v krátkodobém horizontu vedlo k návratu demokracie."
@@ -647,7 +647,7 @@
  wtt_news.11.b: "Musíme zabezpečit své hranice!"
  wtt_news.11.c: "Společně jim dokážeme čelit!"
  wtt_news.11.d: "Je to ta jiskra?"
- wtt_news.11.desc: "S pozváním jednoho z jejich pohraničních států do [GER.GetFactionName] sovětská vláda zřetelně varovala před dalším zasahováním do záležitostí 'jejich sféry vlivu'.\n\nNepotvrzené zprávy naznačují mobilizaci sovětských vojenských sil, které se možná připravují na válku." # todo: CHANGED
+ wtt_news.11.desc: "Po pozvání jednoho ze svých pohraničních států do frakce [GER.GetFactionName] sovětská vláda nekompromisně varovala před dalším vměšováním do záležitostí „jejich sféry vlivu“.\n\nNeověřené zprávy naznačují mobilizaci sovětských ozbrojených sil, možná přípravu na válku."
  wtt_news.11.e: "Musíme se připravit na válku!"
  wtt_news.11.t: "Sověté zajišťují svou sféru"
  wtt_news.12.a: "Neměli jsme jinou možnost."
@@ -756,7 +756,7 @@
  wtt_news.34.b: "Jsou více než vítáni."
  wtt_news.34.c: "Dobrovolníci? Spíš žoldáci!"
  wtt_news.34.d: "Konec amerického izolacionismu?"
- wtt_news.34.desc: "Po čínském apelaci na americké piloty a techniky, aby se připojili k dobrovolnické jednotce, prezident USA [USA.GetLeader] oficiálně schválil přesměrování více než stovky moderních stíhacích letounů do čínského letectva. Pilotům v armádě, námořnictvu nebo námořní pěchotě USA je také uděleno volno, aby se mohli ke této jednotce přihlásit.\n\nPrvní lodě nesoucí nové stíhačky mají vyplout, jakmile bude sestaveno nezbytné vybavení. Představitelé Kongresu vyjádřili obavy, že obcházení hranic mezinárodního práva tímto způsobem vyvolá následky." # todo: CHANGED
+ wtt_news.34.desc: "Po čínské výzvě americkým pilotům a mechanikům, aby se přidali k dobrovolnické jednotce, prezident USA [USA.GetLeader] oficiálně schválil převod více než stovky moderních stíhacích letounů pro čínské letectvo. Pilotům americké armády, námořnictva či námořní pěchoty je také uděleno volno, aby se k jednotce mohli připojit.\n\nPrvní lodě s novými stíhači mají vyplout, jakmile bude shromážděno potřebné vybavení. Představitelé Kongresu vyjádřili obavy, že takové balancování na hraně mezinárodního práva bude mít důsledky."
  wtt_news.34.t: "Vznikají Létající tygři"
  wtt_news.35.a: "Pohoršující!"
  wtt_news.35.b: "Vše podle plánu."
@@ -832,14 +832,14 @@
  wtt_news.44.b: "Křivda napravena."
  wtt_news.44.c: "Kdo si myslí, že je?"
  wtt_news.44.d: "Vskutku velkolepý návrat."
- wtt_news.44.desc: "Oblečen do bohatě zdobených rouch hodných čínského císaře se [MAN.GetLeader], Syn nebes, Pán na deset tisíc let, císař Velké čchingovské dynastie, ujal Dračího trůnu při neobvyklé druhé korunovaci a nyní přebývá v Zakázaném městě, stejně jako jeho předci. Odkazujíc na staré zvyky, [MAN.GetLeader] tvrdí, že vítězství jeho sil v čínské občanské válce dokazuje, že má mandát od nebes k vedení Číny.\n\nZda hodlá rozšířit svou vládu až tak, aby zahrnovala ‚Vše pod nebem‘, jak tvrdili předchozí císaři, teprve ukáže čas." # todo: CHANGED
+ wtt_news.44.desc: "V bohatě zdobených rouchách hodných císaře Číny usedl [MAN.GetLeader], Syn nebes, Pán deseti tisíc let, císař Velké dynastie Čching, při neobvyklé druhé korunovaci na Dračí trůn a nyní sídlí v Zakázaném městě stejně jako jeho předci. Odkazujíce na staré zvyky, [MAN.GetLeader] tvrdí, že vítězství jeho sil v čínské občanské válce dokazuje, že má Mandát nebes vést Čínu.\n\nZda hodlá rozšířit svou vládu tak, aby zahrnovala „Vše pod nebem“, jak tvrdili předchozí císaři, se teprve uvidí."
  wtt_news.44.e: "Neslýchané!"
  wtt_news.44.t: "[MAN.GetLeader] si nárokuje Mandát nebes"
  wtt_news.45.a: "Politika. Politika se nemění."
  wtt_news.45.b: "Ohromující úspěch."
  wtt_news.45.c: "Lepší než násilí."
  wtt_news.45.d: "Možná tak právě zabránili občanské válce."
- wtt_news.45.desc: "Po rozsáhlém boji o moc mezi [old_leader.GetLeader] a [new_leader.GetLeader] první nakonec přiznal porážku a setkal se s [new_leader.GetLeader] ve svém sídle. Po pouhých dvou hodinách jednání [old_leader.GetLeader] zjevně přijal návrh na předání moci [new_leader.GetLeader] a odstoupil z funkce předsedy vlády Republiky. \n\nSkupiny stoupenců obou vůdců se dříve shromáždily před domem, což vyvolalo obavy z možných násilných střetů v závislosti na výsledku.\n\nNicméně nebyla hlášena žádná násilnost a zdá se, že přechod moci proběhl poměrně hladce." # todo: CHANGED
+ wtt_news.45.desc: "Po rozsáhlém mocenském boji, který mezi sebou svedli [old_leader.GetLeader] a [new_leader.GetLeader], první z nich nakonec uznal porážku a pozval [new_leader.GetLeader] na sektání ve své rezidenci. Po pouhých dvou hodinách jednání [old_leader.GetLeader] zjevně přijal návrh na předání moci a odstoupil z funkce předsedy vlády republiky.\n\nPřed domem se dříve shromáždily skupiny podporovatelů obou lídrů, což vyvolávalo obavy z násilných střetů v závislosti na výsledku.\n\nK násilí však nedošlo a zdá se, že předání moci proběhlo poměrně hladce."
  wtt_news.45.t: "[new_leader.GetLeader] přebírá vedení Číny"
  wtt_news.46.a: "Přímá hrozba."
  wtt_news.46.b: "Sjednotíme celou Čínu!"
@@ -870,7 +870,7 @@
  wtt_news.50.desc: "Německý rozhlas dnes oznámil, že zrádné prvky armády se pokusily o puč. Po explozi ve Führerově hlavním stanu, která zabila Hitlera a zranila několik dalších, zaútočily armádní jednotky na řadu kanceláří a útvarů SS.\n\nZatímco [GER.GetLeader] tvrdí, že má plnou kontrolu nad zemí i armádou, stále přicházejí zprávy o přestřelkách mezi loajalisty a povstalci po celé zemi.\n\nProslýchá se, že další vedoucí členové nacistické strany plánují v tomto chaosu uchvátit moc."
  wtt_news.50.t: "Hitler zavražděn"
  wtt_news.51.c: "Začátek konce?"
- wtt_news.51.desc: "Německé rádio dnes oznámilo, že zrádné prvky v armádě se pokusily o puč. Po explozi ve Führerově velitelství, která zázrakem těžce neporanila Hitlera a zranila několik dalších, se vojenské jednotky pokusily obsadit několik vládních úřadů v Berlíně. \n\nZpráva o přežití [GER.GetLeader] se rychle rozšířila a většina jednotek pod kontrolou pučistů se mezitím vrátila do svých kasáren.\n\nNěkolik vysokých německých důstojníků spáchalo v následku neúspěšného pokusu sebevraždu, místo aby čelili hanbě procesu před nechvalně proslulým \"Lidovým soudem\"." # todo: CHANGED
+ wtt_news.51.desc: "Německý rozhlas dnes oznámil, že zrádné prvky armády se pokusily o puč. Po explozi ve Führerově hlavním stanu, která Hitlera zázrakem jen lehce zranila a poranila několik dalších, se armádní jednotky pokusily převzít kontrolu nad několika vládními úřady v Berlíně.\n\nZpráva, že je [GER.GetLeader] stále naživu, se rychle rozšířila a většina jednotek pod kontrolou pučistů se mezitím vrátila do kasáren.\n\nŘada vysoce postavených německých důstojníků spáchala po neúspěšném pokusu sebevraždu, aby se vyhnula potupě procesu před nechvalně proslulým „Lidovým soudem“."
  wtt_news.51.t: "[GER.GetLeader] přežil pokus o atentát"
  wtt_news.52.desc: "Německý rozhlas dnes oznámil, že [GER.GetLeader] převzal vládu. Po přestřelce ve Führerbunkru, během níž byl Führer smrtelně raněn, se jednotky SS rychle přesunuly a obsadily všechny hlavní silnice a železniční uzly vedoucí z Berlína. Mezitím prý jednotky Luftwaffe a Heer dostaly rozkaz soustředit se na Berlín a obnovit pořádek."
  wtt_news.53.a: "Slavný den pro všechny Skandinávce!"
@@ -978,7 +978,7 @@
  wtt_prc.11.desc: "[From.GetLeader] prohlédl a rozhodl se připojit k naší alianci. Jeho síly nás nyní podpoří v nadcházejících bitvách."
  wtt_prc.11.t: "[From.GetNameDefCap] se připojuje k Vládě národní obrany"
  wtt_prc.12.a: "Přinutíme ho k poslušnosti."
- wtt_prc.12.desc: "Z nepochopitelných důvodů [From.GetLeader] odmítl s námi spolupracovat i v těch nejzákladnějších otázkách. Tvrdí, že jsme nic jiného než banda banditů, kteří budou brzy vyhlazeni, a vyzval ostatní vojenské pány, aby se k němu připojili v opozici." # todo: CHANGED
+ wtt_prc.12.desc: "Z nepochopitelných důvodů odmítl [From.GetLeader] spolupracovat i v těch nejzákladnějších otázkách. Tvrdí, že jsme jen banda banditů, kteří budou brzy „vymýceni“, a vyzval ostatní válečné vůdce, aby se k němu přidali v odporu."
  wtt_prc.12.t: "[From.GetNameDefCap] odmítá"
  wtt_prc.2.a: "Jak paranoidní."
  wtt_prc.2.desc: "Po dlouhém zvažování se [From.GetLeader] rozhodl odmítnout naši delegaci. Naše zdroje uvnitř vlády hlásí, že vidí komunistické spiknutí všude a věří, že se snažíme převzít vládu a ukrást mu zemi."
@@ -992,7 +992,7 @@
  wtt_prc.21.desc: "[JAP.GetManchuriaPuppet] nám zaslalo zprávu, že z jedné z našich továren v noci vypukl rozsáhlý požár. Místní hasiči s ním stále bojují, ale věří, že jej do konce dne dostanou pod kontrolu. Škody na továrně se zdají značné; oheň zřejmě vznikl ve skladové části s vysoce hořlavými chemikáliemi.\n\nVojenské zpravodajství zahájilo důkladné vyšetřování, jak se mohl požár navzdory nejpřísnějším bezpečnostním opatřením rozhořet. První stopy silně naznačují žhářství."
  wtt_prc.21.t: "Zbrojovka sabotována"
  wtt_prc.22.t: "Civilní továrna sabotována"
- wtt_prc.23.desc: "Někdy během uplynulé noci se hlavní železniční most v [JAP.GetManchuriaPuppet] zřítil pod vahou projíždějícího muničního vlaku. Záchranné a vyprošťovací práce ztěžovaly sekundární výbuchy munice. Osádka vlaku je stále pohřešována, předpokládá se, že zahynula.\n\nVojenské zpravodajství vyslalo tým, aby místo prozkoumal, jakmile to bude bezpečné, aby zjistil, jak mohl pevný most bez varovných znaků spadnout.\n\nMístní svědci hlásí, že v údolí pod mostem byla viděna malá skupina den před zřícením. Jejich pobyt je nyní neznámý." # todo: CHANGED
+ wtt_prc.23.desc: "Někdy během poslední noci se v [JAP.GetManchuriaPuppet] zřítil hlavní železniční most pod tíhou projíždějícího muničního vlaku. Záchranné a vyprošťovací práce komplikují sekundární exploze munice. Posádka vlaku je stále nezvěstná a je považována za mrtvou.\n\nVojenské zpravodajství vyslalo tým k prozkoumání místa hned, jakmile to bude bezpečné, aby zjistil, jak se mohl robustní most bez varování zřítit.\n\nMístní svědci hlásí, že den před zřícením viděli v údolí pod mostem malou skupinu lidí. Jejich současný pobyt není znám."
  wtt_prc.23.t: "Most vyhozen do povětří"
  wtt_prc.24.desc: "Jedna z našich hlídek v [JAP.GetManchuriaPuppet] se neohlásila. Pátrací skupina postupující po trase hlídky nalezla bojiště se známkami toho, že byla přepadena a zničena brutálním bojem zblízka.\n\nZda útočníci utrpěli nějaké ztráty, není v tuto chvíli známo, ale jediná nalezená těla patří vojákům japonské armády.\n\nSkoro to vypadá, jako by byla záměrně ponechána na místě - snad jako vzkaz."
  wtt_prc.24.t: "Hlídka přepadena"
@@ -1030,11 +1030,11 @@
  wtt_warlord_vs_prc.1.a: "Věrná loutka se může hodit."
  wtt_warlord_vs_prc.1.a_tooltip: "To povede k válce s §H[communist_china.GetNameDef]§!, pokud odmítnou.\n"
  wtt_warlord_vs_prc.1.b: "Pro tak očividný oportunismus nemáme využití."
- wtt_warlord_vs_prc.1.desc: "Delegace od [warlord.GetLeader] přicestovala do Moskvy, aby nás oslovila ohledně možné podpory v interním stranickém boji o moc. Tvrdí, že [communist_china.GetLeader] není dostatečně oddaný věci komunismu a může ve skutečnosti živit reakční myšlenky a zradit revoluci v jejím nejkritičtějším okamžiku.\n\n[warlord.GetLeader] místo toho navrhuje, abychom ho podpořili, slibujíc věčnou a neochvějnou oddanost komunistické věci obecně a [SOU.GetLeader] konkrétně." # todo: CHANGED
+ wtt_warlord_vs_prc.1.desc: "Delegace zastupující [warlord.GetLeader] dorazila do Moskvy, aby nás oťukala ohledně možné podpory ve vnitrostranickém mocenském boji. Tvrdí, že [communist_china.GetLeader] není k věci komunismu dostatečně oddán a možná dokonce chová reakční myšlenky a v nejkritičtější chvíli revoluci zradí.\n\n[warlord.GetLeader] naproti tomu navrhuje, abychom podpořili jeho, a [SOU.GetLeader] může počítat s jeho věčnou a neochvějnou loajalitou komunistické věci."
  wtt_warlord_vs_prc.1.t: "[warlord.GetLeader] žadoní o podporu"
  wtt_warlord_vs_prc.10.a: "[communist_china.GetLeader] není hoden toho, abych za něj umírali."
  wtt_warlord_vs_prc.10.b: "Nebudeme toho součástí."
- wtt_warlord_vs_prc.10.desc: "Postaven před volbu mezi vzdáním se moci nebo vyzváním sovětského blafování, [communist_china.GetLeader] zvolil to druhé. Bohužel se zdá, že [SOV.GetLeader] neblafoval a nepřátelství propukla. Vzhledem k naší prekérní pozici jsme vystaveni intenzivnímu tlaku z obou stran, přičemž Sověti požadují, abychom jim pomohli svrhnout zrádce.\n\nOdmítnutí, říkají, by bylo totéž, co se postavit na stranu [communist_china.GetLeader]." # todo: CHANGED
+ wtt_warlord_vs_prc.10.desc: "Tváří v tvář volbě vzdát se moci, nebo dorovnat sovětský blaf, si [communist_china.GetLeader] zvolil druhé. Bohužel se zdá, že [SOV.GetLeader] neblafoval a nepřátelské akce začaly. Vzhledem k naší prekérní pozici jsme vystaveni silnému tlaku z obou stran; Sověti požadují, abychom jim pomohli sesadit zrádce.\n\nOdmítnutí, říkají, by bylo totéž, jakobych napřímo řekli, že [communist_china.GetLeader] má naši plnou podporu."
  wtt_warlord_vs_prc.10.t: "Přidej se k nám, nebo zemři"
  wtt_warlord_vs_prc.2.a: "Ať přijde [communist_china.GetLeader] do Moskvy si to vyříkat."
  wtt_warlord_vs_prc.2.b: "Před zrádci se nikdy neskloníme!"
@@ -1062,7 +1062,7 @@
  wtt_warlord_vs_prc.32.desc: "[From.GetLeader] přivítal našeho zvláštního zástupce a jmenoval ho svým osobním poradcem. Nyní máme velmi dobrou kontrolu nad jejich vnitřní i zahraniční politikou."
  wtt_warlord_vs_prc.32.t: "[From.GetNameDefCap] přijímá"
  wtt_warlord_vs_prc.33.a: "Pro příště musíme být jasnější."
- wtt_warlord_vs_prc.33.desc: "Ačkoli byla myšlenka přijata vstřícně, [From.GetLeader] zdvořile, ale pevně odmítl naši žádost být mu umožněno více přímo ovlivňovat jejich politiku. Zdá se, že jsme 'neobeznámeni' s podmínkami na místě a měli bychom nechat provádění marxistických učení na místních odbornících." # todo: CHANGED
+ wtt_warlord_vs_prc.33.desc: "Ačkoli byl myšlence nakloněn, [From.GetLeader] zdvořile, ale pevně odmítl náš požadavek, abychom mohli jejich politiku přímo ovlivňovat. Zdá se, že jsme prý „neobeznámeni“ s místními podmínkami a měli bychom implementaci marxistických učení přenechat místním odborníkům."
  wtt_warlord_vs_prc.33.t: "[From.GetNameDefCap] odmítá"
  wtt_warlord_vs_prc.34.a: "Takže nás chce vyzkoušet?"
  wtt_warlord_vs_prc.34.desc: "[From.GetLeader] ignoruje stále důraznější požadavky, aby převedl platby, na kterých jsme se dříve dohodli. Dokonce ani žádosti, aby přijel do Moskvy a vysvětlil se, nezůstaly bez odezvy."

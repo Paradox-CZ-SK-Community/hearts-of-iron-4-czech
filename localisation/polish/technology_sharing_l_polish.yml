@@ -74,7 +74,7 @@
  RAJ_naval_tech_sharing_group_desc: "Výměna námořního výzkumu mezi Východoindickou společností a Londýnem. Někteří diplomaté šeptají, že dát tolik moci společnosti je nerozumné, ale co oni ví?"
  RAJ_naval_tech_sharing_group_name: "Výměna námořních technologií Východoindické společnosti a Londýna"
  SOV_comecon_desc: "Systém vědecké spolupráce mezi zeměmi RVHP prospěšný technologicky zaostávajícím členům."
- SOV_comecon_name: "Princip sdílení technologií RVHP" # todo: CHANGED
+ SOV_comecon_name: "Rada vzájemné hospodářské pomoci"
  SOV_common_economic_space_desc: "Program technologické spolupráce mezi zeměmi společného hospodářského prostoru prospěšný technologicky zaostávajícím členům."
  SOV_common_economic_space_name: "Program technologické spolupráce"
  SOV_imperial_academies_of_sciences_joint_program_desc: "Společný program technologického výzkumu a rozvoje založený Ruskou imperiální akademií věd."
@@ -137,7 +137,7 @@
  socialist_science_pool_name: "Sociální vědecký fond"
  spr_research_desc: "Zkrácená doba výzkumu technologií vyvinutých Sovětským svazem."
  spr_research_name: "Sovětský technologický pokrok"
- swpi_research_desc: "Zkrácený čas výzkumu pro technologie, které byly prozkoumány jinými zeměmi v iniciativě South-West Pacific Initiative." # todo: CHANGED
+ swpi_research_desc: "Zkrácená doba výzkumu technologií, které byly vyvinuty ostatními zeměmi v jižně-západní tichomořské iniciativě."
  swpi_research_name: "Výzkum SWPI"
  tizard_mission_desc: "Elektronický výzkum sdílený mezi Anglií a USA."
  tizard_mission_name: "Tizardova mise"
@@ -151,7 +151,7 @@
  CZE_balkan_tech_sharing_group_desc: "Výzkumná dohoda, kterou tvoří převážně balkánské země a [CZE.GetNameDef], jejímž cílem je udržet jejich průmyslové technologie na úrovni větších zemí."
  CZE_german_czechoslovak_equipment_design_group_name: "Československo-německý výbor pro konstrukci výzbroje"
  CZE_german_czechoslovak_equipment_design_group_desc: "[GER.GetNameDef] a [CZE.GetNameDef] zahájují vědeckou spolupráci na konstrukci tanků a letadel."
- cominwealth_allied_research_name: "Výzkum Cominwealthu" # todo: NEW TRANSLATION
- cominwealth_allied_research_desc: "Zkrácený čas potřebný k výzkumu technologií, které provádějí členové Cominwealthu." # todo: NEW TRANSLATION
- siam_tech_sharing_group: "Thajský výzkum" # todo: NEW TRANSLATION
- siam_tech_sharing_group_desc: "Zkrácený čas potřebný k výzkumu technologií, které provádějí ostatní thajské spojenecké země." # todo: NEW TRANSLATION
+ cominwealth_allied_research_name: "Výzkum Cominwealthu"
+ cominwealth_allied_research_desc: "Zkrácený čas potřebný k výzkumu technologií, které provádějí členové Cominwealthu."
+ siam_tech_sharing_group: "Thajský výzkum"
+ siam_tech_sharing_group_desc: "Zkrácený čas potřebný k výzkumu technologií, které provádějí ostatní thajské spojenecké země."

@@ -112,7 +112,7 @@
  BEL_currently_undertaking_intervention_decision_flag: "Právě probíhá jiné rozhodnutí §Y$BEL_intervention_in_spain_cat$§!."
  BEL_dismantle_BEL_SPR_alliance_decision: "Rozpustit frakci [ROOT.GetFactionName]"
  BEL_emergency_measures_on_production_front: "Nouzová opatření na výrobní frontě"
- BEL_encourage_emigration_to_spain_decision: "Podpořit emigraci do [FROM.GetNameDef]" # todo: CHANGED
+ BEL_encourage_emigration_to_spain_decision: "Podpořit emigraci směr [FROM.GetNameDef]"
  BEL_establish_research_sharing_group_decision: "Založit skupinu pro sdílení výzkumu"
  BEL_force_congolese_capitulation_decision: "Vynutit [COG.GetAdjective] kapitulaci"
  BEL_force_congolese_capitulation_decision_tt: "Loajalistický stát Kongo znovu anektuje vládu ve Stanleyville a v Kongu opět zavládne mír, což umožní jejich postupnou reintegraci do našeho státu"
@@ -151,7 +151,7 @@
  COG_anti_colonialism_category: "Antikoloniální politika"
  COG_anti_colonialism_category_desc: "Uděláme vše pro podporu odbojových hnutí po celém regionu, dokud nebude mor imperialismu konečně vymýcen."
  COG_anti_colonialism_decision: "Proti[FROM.GetAdjective] propaganda"
- COG_anti_colonialism_decision_desc: "[FROM.GetAdjective] imperialismus v Africe musí skončit. Svět se musí probudit a uvědomit si, že dny [FROM.GetAdjective] kolonialismu jsou pryč. Lidé v [FROM.GetNameDef] musí vyvíjet tlak na své vůdce, aby uvolnili své utlačované africké kolonie." # todo: CHANGED
+ COG_anti_colonialism_decision_desc: "[FROM.GetAdjectiveCap] imperialismus v Africe musí skončit. Svět se musí probudit a pochopit, že dny [FROM.GetAdjective] kolonialismu jsou pryč. [FROM.GetNameDef] musí vyvinout tlak na své vůdce, aby propustili své utlačované africké kolonie."
  COG_anti_colonialism_map_category_name: "Koloniální státy, kde lze podpořit odboj"
  COG_arm_resistance_decision: "Ozbrojit proti[FROM.OWNER.GetAdjective] odboj ve [FROM.GetName]"
  COG_arm_resistance_decision_desc: "Vyzbrojit odboj v tomto státě."
@@ -525,7 +525,7 @@
  GER_supporting_the_uprising_decision: "Podpořit povstání - [FROM.GetNameDef]"
  GER_sway_the_austrians_decision: "Získat [AUS.GetAdjective] veřejné mínění na naši stranu"
  GER_the_fading_eagle_category: "Chřadnoucí orel"
- GER_the_fading_eagle_category_desc: "Naši italští spojenci nám ukázali své pravé barvy, protože se jejich lid obrátil proti nám. To vystavuje naše jižní křídlo velkému nebezpečí a musíme udělat vše, co je v našich silách, abychom z této situace vytěžili co nejvíce a převzali nad ní kontrolu." # todo: CHANGED
+ GER_the_fading_eagle_category_desc: "Naši italští spojenci nám ukázali svou pravou tvář - jejich lid se obrátil proti nám. To staví náš jižní bok do velkého nebezpečí a my musíme udělat vše, co je v našich silách, abychom posbírali střepy a převzali nad situací kontrolu."
  GER_the_fate_of_east_turkestan_area: "Předat správu Východního Turkestánu Říšskému komisariátu Turkestan"
  GER_the_fate_of_greater_finland: "Osud Karélie"
  GER_the_fate_of_greenland_and_nfl: "Rozšířit správní oblast Říšského komisariátu Nordamerika"
@@ -702,7 +702,7 @@
  USA_has_completed_reinforcement_flag: "§Y[USA.GetNameWithFlag]§! výrazně posílily Monroeovu doktrínu a zmařily naše plány."
  USA_has_sent_demand_monroe_flag: "Druhá strana již posílá požadavky"
  antilles_category: "Antilská konfederace"
- antilles_category_desc: "Antilská konfederace byla vášnivou myšlenkou Ramón Emeterio Betancese o nutnosti, aby se domorodci Karibiku sjednotili do regionálního celku, který by usiloval o zachování svrchovanosti a blaha antilských národů. Podpora byla nejsilnější od 50. let 19. století až do španělsko‑americké války, a od té doby většinou vyvanula, ale není vše ztraceno. Vzpomínkou na ducha naší společné cesty se můžeme pokusit antílskou konfederaci jednou provždy založit. Antily pro Antilly!" # todo: CHANGED
+ antilles_category_desc: "Antilská konfederace byla zapálenou myšlenkou Ramóna Emeteria Betancese o nutnosti spojit karibské domorodé národy do regionálního celku, který by usiloval o zachování suverenity a blahobytu antilských národů. Podpora byla nejsilnější od 50. let 19. století až do španělsko-americké války a od té doby převážně opadla, ale ne vše je ztraceno. Vyvoláním ducha naší společné cesty můžeme usilovat o definitivní ustavení Antilské konfederace. Antily Antilanům!"
  arrow_cross_insurgency_happened: "Došlo k povstání Šípových křížů"
  decision_cost_20_convoy_10_NavXP: "£GFX_topbar_convoys §Y20§! £navy_experience §Y10§!"
  decision_cost_20_convoy_10_NavXP_blocked: "£GFX_topbar_convoys §R20§! £navy_experience §R10§!"
@@ -725,7 +725,7 @@
  develop_katanga_cobalt_deposits_2: "Dále rozšířit ložiska kobaltu v Katanze"
  expand_the_rudabanya_iron_mine: "Rozšířit železný důl v Rudabányi"
  form_sweden_hungary_category: "Sjednocená království Švédska a Maďarska"
- form_sweden_hungary_category_desc: "Možná s Švédy nemáme příliš společného. Co ale máme, je to, že jsme spojeni v našem královském domě a Carl Wilhelm si přeje vrátit se a vládnout i svým starým domovinám. Musíme jeho sen proměnit ve skutečnost." # todo: CHANGED
+ form_sweden_hungary_category_desc: "Se Švédy toho možná nemáme tolik společného. Spojuje nás však náš královský rod a Carl Wilhelm se chce vrátit vládnout i svým starým domovinám. Musíme jeho sen proměnit ve skutečnost."
  germany_formable_category: "Znovusjednocení Německa"
  germany_formable_category_desc: "Myšlenka sjednoceného německého národa je v myslích našich občanů už dlouho. Nyní, po našich nedávných dobytích německých území, je čas vyhlásit znovusjednocení Německa!"
  goering_as_king_tt: "Přidá krále Göringa jako uzamčeného poradce"

@@ -58,7 +58,7 @@
  AIRWING_DISRUPTED_VAL: "$VAL|0%$"
  AIRWING_G_STR: "$COUNT|G0$/$LIMIT|0$ ($VALUE|%0G$)"
  AIRWING_H_STR: "$COUNT|H0$/$LIMIT|0$ ($VALUE|%0H$)"
- AIRWING_ITEM_DESC: "§GClick§! pro výběr této letky" # todo: CHANGED
+ AIRWING_ITEM_DESC: "§GKlikněte§! pro výběr této letky."
  AIRWING_MAP_STACK_HEADER: "$COUNT|H$ §Hletek§! $TYPE|H$"
  AIRWING_MERGE: "Sloučit letky"
  AIRWING_MERGE_BLOCKED: "§RPro sloučení vyberte dvě nebo více letek stejného typu ze stejné letecké základny, která nejsou exilovými letkami, nebo z téže vlády v exilu, nejsou dobrovolníky a neprobíha jejich transfer.§!"
@@ -194,8 +194,8 @@
  AIR_ASSIGN_DESC: "Chcete přiřadit všechny letky v dosahu k $REGION|H$?\nBude přiřazeno $COUNT|H$ letek."
  AIR_ASSIGN_UNASSIGNED_NO_WING_IN_RANGE_DESC: "V dosahu nejsou žádné nepřiřazené letky."
  AIR_ASSIGN_UNASSIGNED_NO_WING_IN_RANGE_TITLE: "Žádné letky v dosahu"
- AIR_BASE_CARRIER_SEPARATOR_DESELECT: "§GClick pro odebrání letek umístěných zde z výběru§!" # todo: CHANGED
- AIR_BASE_CARRIER_SEPARATOR_SELECT: "§GClick pro přidání letek umístěných zde do výběru§!" # todo: CHANGED
+ AIR_BASE_CARRIER_SEPARATOR_DESELECT: "§GKlikněte pro odebrání zde umístněných letek z výběru.§!"
+ AIR_BASE_CARRIER_SEPARATOR_SELECT: "§GKlikněte pro přidání zde umístněných letek do výběru.§!"
  AIR_BASE_CLOSE: "§GKlikněte pro zavření okna letecké základny§!"
  AIR_BASE_GOTO_CTRL_CLICK: "§GCtrl+klik pro přechod na leteckou základnu§!"
  AIR_BASE_GOTO_RIGHT_CLICK: "§GKlikněte pravým tlačítkem pro přechod na leteckou základnu§!"
@@ -244,7 +244,7 @@
  AIR_EQUIPMENT_DRAG: "$COUNT$ $TYPE$"
  AIR_MISSION_EXTENSION_ENTRY: "$COUNT$ $TYPE$ z $LOCATION$"
  AIR_MORE_GROUND_CREWS: "Více pozemního personálu"
- AIR_MORE_GROUND_CREWS_CANCEL_DESC: "§RCancel§! zrušit bonus efektivity u $NAME|H$" # todo: CHANGED
+ AIR_MORE_GROUND_CREWS_CANCEL_DESC: "§RZrušit§! bonus efektivity pro $NAME|H$"
  AIR_MORE_GROUND_CREWS_DESC: "Vynaložte a udržujte $VALUE|R1$£command_power pro získání bonusu efektivity $VAL|+%.0$ pro $NAME|H$."
  AIR_MORE_GROUND_CREWS_NOT_ENOUGH: "§RNedostatek Velitelské síly.§!"
  AIR_NO_RESERVES: "§RNemáte žádná letadla v rezervách, která by bylo možné zde umístit.§!"
@@ -377,7 +377,7 @@
  ATTACH_AIR_WING_SELECT_SOME: "§RVyberte letky pro připojení k armádě§!"
  AVG_EFFICIENCY: "$VAL|%0$"
  CANNOT_ATTACH_AIR_WING_DESC: "§RVybrané letky nelze připojit k armádě§!"
- CLICK_AIR_WING_SEE_DETAILS: "§GClick pro zobrazení podrobností§!" # todo: CHANGED
+ CLICK_AIR_WING_SEE_DETAILS: "§GKlikněte pro zobrazení podrobností.§!"
  CREATE_AIRWING_VIEW_FILTER_BREAKDOWN: "$ARCHTYPE|H$ ($COUNT|H$ se shoduje)"
  CREATE_AIRWING_VIEW_FILTER_DESC: "Zobrazit pouze $ARCHTYPES$"
  CREATE_AIR_GROUP: "Vytvořit leteckou skupinu"
@@ -409,9 +409,9 @@
  OPEN_DESIGNER_VIEW_NOT_FOREIGN: "§GKlikněte§! pro otevření této varianty v návrháři vybavení. Cizí varianty nelze upravovat."
  OUR_MISSIONS: "Naše mise"
  QUICK_DEPLOY_DESELECTED_AND_NOT_SELECTABLE_CHECKBOX_DESC: "Dosáhli jste maximálního počtu tlačítek §Hrychlého nasazení§!. Pro přidání nového jedno odeberte."
- QUICK_DEPLOY_DESELECTED_AND_SELECTABLE_CHECKBOX_DESC: "§GClick§! pro přidání tlačítka §HRychlé nasazení§!" # todo: CHANGED
- QUICK_DEPLOY_SELECTED_CHECKBOX_DESC: "§GClick§! pro odstranění tlačítka §HRychlé nasazení§!" # todo: CHANGED
- QUICK_DEPLOY_SELECTION_WINDOW_DESC: "§GClick§! pro přidání typů letadel do rychlého nasazení" # todo: CHANGED
+ QUICK_DEPLOY_DESELECTED_AND_SELECTABLE_CHECKBOX_DESC: "§GKlikněte§! pro přidání tlačítka §Hrychlého nasazení§!."
+ QUICK_DEPLOY_SELECTED_CHECKBOX_DESC: "§GKlikněte§! pro odebrání tlačítka §Hrychlého nasazení§!."
+ QUICK_DEPLOY_SELECTION_WINDOW_DESC: "§GKlikněte§! pro přidání typů letadel pro rychlé nasazení."
  QUICK_DEPLOY_SELECTION_WINDOW_OPEN_DESC: "Rychlé nasazení\n\nPřidejte zkratky pro nasazení §Hletek§! určitého typu."
  QUICK_DEPLOY_WING_DISABLE_NO_EQUIP_DESC: "Přidat $PLANE_TYPE|H$ letku.\nNemáte žádná letadla typu $PLANE_TYPE$ ve skladech.\n\nVyrobte více letadel typu $PLANE_TYPE|H$ pro další nasazení."
  QUICK_DEPLOY_WING_DISABLE_NO_MAN_DESC: "Přidat $PLANE_TYPE|H$ letku.\nNemáte dostatek Personálu."
@@ -429,7 +429,7 @@
  ROCKET_AIR_REGION_RIGHT_CLICK_NONE: "§RŽádné vybrané rakety nelze přiřadit sem:§!"
  ROCKET_AIR_REGION_RIGHT_CLICK_NOT_ALL: "§RNelze přiřadit všechny vybrané rakety:§!"
  ROCKET_DEPLOYING_FROM_STOCKPILE: "Nasazování ze skladů"
- ROCKET_ITEM_DESC: "§GClick§! pro výběr této rakety" # todo: CHANGED
+ ROCKET_ITEM_DESC: "§GKlikněte§! pro výběr této rakety."
  ROCKET_MISSION_WING_STATUS_1: "$NUM$ slot $NAME|H$ $STATUS|H$."
  ROCKET_NO_EQUIPMENT: "Žádné vybavení ve skladech"
  ROCKET_REINFORCE_ANY: "Použít aktuální i zastaralé rakety pro doplnění"
@@ -441,7 +441,7 @@
  SELECT_HALF_WINGS_BLOCKED: "§RJe nutné vybrat alespoň §H2§! letky§!"
  SELECT_NICHE_INDEX: "Vybrat specializaci"
  SELECT_ROCKET: "Vybrat raketu"
- SETUP_AIR_WING_MOVE_INFO: "§GClick§! pro přesun až §H100§! letadel tohoto typu" # todo: CHANGED
+ SETUP_AIR_WING_MOVE_INFO: "§GKlikněte§! pro přesun až §H100§! letadel tohoto typu."
  START_SAM_WINGS: "§TSpustit odpalování v oblasti.§!"
  STRAT_RADAR_EFFICIENCY: "$VAL|%0$"
  STRAT_RADAR_EFFICIENCY_DESC: "§HEfektivita spřáteleného radaru§!\nČím vyšší je §Yefektivita radaru§! v oblasti, tím snazší je pro interceptory nalézt nepřítele a pro hlídky odhalit další letadla. Vyšší efektivity dosáhnete budováním radarů vyšší úrovně v dosahu."

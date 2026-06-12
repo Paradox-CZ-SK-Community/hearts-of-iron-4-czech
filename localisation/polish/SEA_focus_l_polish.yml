@@ -42,7 +42,7 @@
  JAP_konoes_first_cabinet: "První kabinet Konoa"
  JAP_konoes_first_cabinet_desc: "Senžúró Hajaši má být jen krátkodobým přechodným premiérem. Princ Fumimaro Konoe, apolitický a vzdělaný staršinou Saiondži Kinmočim, je ideálním kandidátem ke stabilizaci chaotické politické situace a ke sjednocení národa v duchu. Je čas, aby vytvořil vlastní kabinet, osobně doporučený císaři Hirohitovi samotným Saiondžim."
  JAP_new_order_in_east_asia: "Nový řád ve Východní Asii"
- JAP_new_order_in_east_asia_desc: "V nedávných prohlášeních [ROOT.GetLeader] se stalo stále jasnějším, že hodlá ustanovit nový řád ve Východní Asii, který má šest hlavních cílů. Patří mezi ně trvalá stabilita východní Asie, sousedská přátelství a mezinárodní spravedlnost, společná obrana proti komunismu, vytvoření nové kultury, ekonomická koheze a spolupráce a nakonec světový mír." # todo: CHANGED
+ JAP_new_order_in_east_asia_desc: "[ROOT.GetLeader] a jeho nedávna prohlášení dávají jasně najavo, že hodlá ustavit nový řád ve Východní Asii, který má šest hlavních cílů: trvalou stabilitu Východní Asie, sousedské přátelství a mezinárodní spravedlnost, společnou obranu proti komunismu, vytvoření nové kultury, hospodářskou soudržnost a spolupráci a nakonec světový mír."
  JAP_new_order_in_east_asia_faction: "Nový řád ve Východní Asii"
  JAP_new_order_in_east_asia_tt: "Po získání zaměření $JAP_sea_greater_east_asian_co_properity_sphere$ se tato frakce transformuje"
  JAP_reiterate_the_three_principles_of_hirota: "Zopakovat Hirotovy tři principy"
@@ -142,7 +142,7 @@
  JAP_form_the_jikyoku_iinkai_desc: "Abychom lépe kontrolovali naše importy a exporty pro [USA.GetNameDef] a zároveň se pokusili přesvědčit [USA.GetAdjective] lid, aby se postavil na naši stranu proti [CHI.GetAdjective] nepřátelům, měli bychom založit Japonský výbor pro obchod a informace."
  japanese_committee_on_trade_and_information_pom: "Japonský výbor pro obchod a informace"
  JAP_strategic_offensives: "Strategické ofenzivy"
- JAP_strategic_offensives_desc: "[CHI.GetNameDefCap] se ukazuje jako velmi tvrdý oříšek k rozlousknutí, a naše vysoké velení vyzvalo k lépe koordinovaným ofenzívám, cílícím na různé body zájmu. S Gekokujo na zemi, které maří naše vyšší zájmy, musíme je nejprve omezit, abychom tyto operace konečně mohli rozběhnout." # todo: CHANGED
+ JAP_strategic_offensives_desc: "[CHI.GetNameDefCap] se ukazuje jako velmi tvrdý oříšek k rozlousknutí a naše vrchní velení vyzvalo k provádění lépe koordinovaných ofenziv, zaměřených na různé klíčové oblasti. Jelikož nás Gekokudžó v terénu brzdí v našich vyšších zájmech, musíme nejprve zkrotit je, abychom konečně mohli tyto operace rozjet."
  JAP_strategic_offensives_tt: "Odemkne rozhodnutí k §Yzahájení ofenziv§!, které dávají dočasné bonusy v §Yčínských státech§!"
  JAP_intensify_anti_guerilla_operations: "Zintenzivnit operace proti partyzánům"
  JAP_intensify_anti_guerilla_operations_desc: "Partyzáni a infiltrátoři brzdí postup a úspěch našich vojenských tažení v Číně, protože útočí tam, kde nás to bolí nejvíc. Musíme připravit koordinovaný úder proti těmto banditům a zlikvidovat jejich buňky na našem území - ať už jakýmkoli způsobem!"
@@ -249,7 +249,7 @@
  JAP_the_crysanthemum_throne: "Chryzantémový trůn"
  JAP_the_crysanthemum_throne_desc: "Frakce uvnitř naší armády se příliš hádají a nemohou se shodnout, koho povýšit na post předsedy vlády. Vzhledem k nestabilní situaci by mohlo být moudré, aby císař zasáhl a převzal přímou kontrolu."
  JAP_solidify_tohokai_rule: "Upevnit vládu Tóhókai"
- JAP_solidify_tohokai_rule_desc: "S nástupem Nakanova do funkce premiéra se frakce Tōhōkai uvnitř Asociace pro podporu císařské vlády stala největší. Nyní máme příležitost skutečně upevnit vládu pod Společností Východu a zajistit Nakanovu roli v [ROOT.GetAdjective] politice na nadcházející roky!" # todo: CHANGED
+ JAP_solidify_tohokai_rule_desc: "S Nakanovým povýšením do funkce předsedy vlády se frakce Tóhókai v rámci Asociace pro podporu císařské vlády stala tou nejsilnější. Nyní máme příležitost skutečně upevnit vládu Společnosti Východu a zajistit Nakanovu roli v [ROOT.GetAdjective] politice na příští roky!"
  JAP_national_defense_brotherhood: "Bratrstvo národní obrany"
  JAP_national_defense_brotherhood_desc: "Abychom financovali naši válečnou snahu, Nobusuke Kiši a Hideki Tódžó vymysleli plán na Gokoku Dóšikai - politickou organizaci, která má lépe koordinovat finanční strategie a průmyslové iniciativy země. Toto spojení je však kontroverzní a mnoho problémů může stát v cestě tomuto bratrstvu."
  JAP_supreme_council_for_direction_of_war: "Vrchní rada pro vedení války"
@@ -528,7 +528,7 @@
  JAP_develop_sophisticated_artillery_equipment: "Vyvinout moderní dělostřeleckou výzbroj"
  JAP_develop_sophisticated_artillery_equipment_desc: "Armáda dala jasně najevo, že její dělostřelectvo je zastaralé a je třeba s tím něco udělat. Měli bychom investovat do vývoje moderních děl, abychom nemuseli útočit, dokud nepřítel není již napůl podmaněn palbou."
  JAP_expand_the_irago_proving_ground: "Rozšířit polygon Irago"
- JAP_expand_the_irago_proving_ground_desc: "Abychom lépe dominovali na bojišti, měli bychom rozšířit zkušební polygon Irago, kde testujeme nové a experimentální zbraně. Tam bychom mohli vyvinout válečné nástroje, které přimějí všechny naše nepřátele k poslušnosti." # todo: CHANGED
+ JAP_expand_the_irago_proving_ground_desc: "Abychom lépe ovládli bojiště, měli bychom rozšířit zkušební prostor Irago, kde testujeme nové a experimentální zbraně. Možná tam vyvineme nástroje války, které přivedou naše nepřátele k poslušnosti."
  JAP_sea_mountaineers: "Zřídit pluky horské pěchoty"
  JAP_sea_mountaineers_desc: "Naše armáda si uvědomila, že nedokáže proniknout do hornatých oblastí jižní a západní Číny, pokud se něco nezmění. Požádala proto o vytvoření speciálních brigád horských jednotek, které povedou útok a prorazí nepřátelské linie."
  JAP_jungle_adaptation: "Úpravy pro boj v džungli"
@@ -609,7 +609,7 @@
  JAP_nationalize_fujinagata_shipyards: "Znárodnit loděnice Fudžinagata"
  JAP_nationalize_fujinagata_shipyards_desc: "Loděnice Fudžinagata jsou významným výrobcem lodí a železničních vozů v Ósace, strategicky důležitým pro náš válečný průmysl. Abychom rozšířili kapacity a získali více pracovní síly, měli bychom tyto loděnice znárodnit."
  JAP_naval_armaments_program: "Program námořního vyzbrojování"
- JAP_naval_armaments_program_desc: "Aby naše loděnice a průmysl udržely krok s našimi stále rostoucími ambicemi, námořnictvo vypracovalo nové rozšířené plány v rámci Doplňkového programu rychlých námořních zbrojení. To zahrnuje nové válečné lodě a cílem je rozšířit námořnictvo na alespoň 293 plavidel." # todo: CHANGED
+ JAP_naval_armaments_program_desc: "Aby naše loděnice a průmysl držely krok s našimi rostoucími ambicemi, námořnictvo připravilo nový plán rozšíření v rámci Programu rychlého doplnění námořní výzbroje. Obsahuje nové válečné lodě a cílem je rozšířit námořnictvo na alespoň 293 plavidel."
  JAP_naval_armaments_program_tt: "Se splněným §Y$JAP_focus_on_aircraft_carriers$§!: Vytvoří §Yvariant§! letadlové lodě a §Y4 výrobní linky§! třídy Šókaku\nSe splněným §Y$JAP_balanced_naval_approach$§!: Vytvoří varianty §Yletadlové lodě§! i §Ysuper-bitevní lodě§! a §Y2 linky§! obou — třídy Šókaku i třídy Jamato\nSe splněným §Y$JAP_sea_battleship_initiative$§!: Vytvoří §Yvariant§! super-bitevní lodě a §Y4 linky§! třídy Jamato\n"
  JAP_radio_guided_missiles: "Tepelně naváděné střely"
  JAP_radio_guided_missiles_desc: "Císařský armádní zbrojní výbor dosáhl velkého pokroku ve vývoji naváděných zbraní. Přiblížili se průlomu ve vývoji volně padající, infračerveně naváděné, gyroskopicky stabilizované střely určené pro shazování na lodní cíle. Tato nová zbraň dostala jméno „Ke-Gó“."
@@ -662,11 +662,11 @@
  JAP_mountain_village_operation_units_desc: "Sanzó Nosaka povolil vznik podzemních polovojenských jednotek a buněk v odlehlých a venkovských vesnicích za účelem vedení partyzánských operací a přípravy celostátní komunistické revoluce. K tomuto účelu se po celé zemi začala šířit příručka „Jak pěstovat cibulky květin“."
  JAP_mountain_village_operation_units_tt: "Odemkne rozhodnutí ke §YZřízení partyzánských jednotek§! ve státech, které povstanou ve správný čas"
  JAP_return_of_the_manchukuo_exiles: "Návrat exulantů z Mančukua"
- JAP_return_of_the_manchukuo_exiles_desc: "Mnoho socialistických teoretiků a ekonomů odešlo pracovat do různých syndikalistických družstev a dalších odvětví, která byla založena v Mandžusku po jeho dobytí Kwantungskou armádou v naději, že tam rozšíří revoluční myšlení, ačkoli to netrvalo dlouho. Měli bychom přimět přechodného premiéra, aby usnadnil návrat těchto osob výměnou za vyslání několika generálů do exilu." # todo: CHANGED
+ JAP_return_of_the_manchukuo_exiles_desc: "Mnozí socialističtí teoretici a ekonomové pracovali v různých syndikalistických družstvech a průmyslových podnicích založených v Mandžusku po jeho dobytí Kuantungskou armádou — jejich snaha však byla krátká. Měli bychom přimět prozatímního premiéra, aby umožnil návrat těchto osob výměnou za to, že několik generálů odešleme do exilu."
  JAP_return_of_the_manchukuo_exiles_tt: "Pouze státy s §Y$JAP_state_infiltrated_by_the_jcp$§! se k nám přidají na začátku §YObčanské války§!"
  JAP_return_of_the_manchukuo_exiles_2_tt: "§G5§! §YGenerálů IJA urozeného původu§! bude posláno do §YMandžuska§! výměnou za §YSocialistické průmyslníky§!"
  JAP_organize_the_fifth_column: "Organizovat pátou kolonu"
- JAP_organize_the_fifth_column_desc: "Jak se naše čtyři kolony blíží k Ósace a Tokiu, pátá kolona podporovatelů povstane zevnitř měst a podkopá obranu nepřátel zevnitř. Zorganizujeme tyto 'páté kolony' ve všech městech, k nimž se přiblížíme, čímž získáme rozhodující výhodu v boji za národní osvobození." # todo: CHANGED
+ JAP_organize_the_fifth_column_desc: "Jak naše čtyři kolony postupují na Ósaku a Tokio, pátá kolona povstane uvnitř těchto měst a podkope nepřátelskou obranu zevnitř. Zorganizujeme tyto „páté kolony“ ve všech městech, která oblehneme, čímž získáme rozhodující výhodu ve válce za národní osvobození."
  JAP_organize_the_fifth_column_tt: "Odemkne rozhodnutí k povzbuzování partyzánů k §YPoškozování nepřátelských jednotek§! během občanské války"
  JAP_organize_the_fifth_column_2_tt: "Získáme 5 jednotek s §Y5 milicemi§! v každé."
  JAP_revoke_the_peace_preservation_law: "Zrušit Zákon na ochranu míru"
@@ -681,7 +681,7 @@
  JAP_the_labor_farmer_faction_ascendant_desc: "V debatě zvítězila idealističtější a na rolnictvo zaměřená frakce Rónó-ha, která překvapivě porazila Kóza-ha. Přestože se tento zastřešující směr stal vítězným, zůstává otázka — kdo se stane novým premiérem republiky?"
  JAP_the_labor_farmer_faction_ascendant_tt: "Jakékoliv modifikátory budou převedeny na §Y$JAP_rounouha_modifier$§!"
  JAP_sea_fate_of_the_imperial_family: "Osud císařské rodiny"
- JAP_sea_fate_of_the_imperial_family_desc: "Nastal čas postarat se o poslední zbytky dědičné vlády v Japonsku a eliminovat je. Existuje mnoho způsobů, jak postupovat, avšak musíme jít opatrně, protože císařská rodina si stále užívá značné popularity mezi naším lidem. Musíme rozhodnout, jaký osud potká bývalého císaře a jeho rodinu." # todo: CHANGED
+ JAP_sea_fate_of_the_imperial_family_desc: "Nastal čas odstranit poslední pozůstatky dědičné vlády v Japonsku. Máme mnoho možností, jak postupovat, avšak musíme být opatrní, neboť císařská rodina je stále velmi populární. Musíme rozhodnout, jaký osud potká bývalého císaře a jeho příbuzné."
  JAP_hold_a_peoples_tribunal: "Uspořádat lidový tribunál"
  JAP_hold_a_peoples_tribunal_desc: "Mnozí spáchali závažné zločiny ve jménu předchozích vlád a bojovali proti revoluci. Musíme tyto osoby veřejně soudit a okamžitě vymýtit jakoukoliv kontrarevoluční činnost!"
  JAP_hold_a_peoples_tribunal_tt: "Několik §YVojenských poradců§! bude souzeno za kolaboraci s předchozí vládou a odejde do výslužby:"
@@ -835,7 +835,7 @@
  JAP_build_an_anti_army_coalition: "Vybudovat protiarmádní koalici"
  JAP_build_an_anti_army_coalition_desc: "Abychom čelili již tak silnému vlivu armády, nemůžeme pokračovat ve stranických rozepřích. Musíme vytvořit koalici, která společně potáhne Japonsko k lepší budoucnosti."
  JAP_ensure_cross_party_support: "Zajistit mezistranickou podporu"
- JAP_ensure_cross_party_support_desc: "Nyní, když koalice vzniká, musíme usilovat o získání podpory i ostatních stran, abychom se nezhroutili tváří v tvář nepřízni. Společně můžeme znovu přivodit ducha Taishōské demokracie!" # todo: CHANGED
+ JAP_ensure_cross_party_support_desc: "Nyní, když se koalice formuje, musíme usilovat o získání podpory i ostatních stran, abychom se nezhroutili tváří v tvář obtížím. Společně můžeme navrátit ducha taišó demokracie!"
  JAP_gather_royal_pacifists_support: "Získat podporu královských pacifistů"
  JAP_gather_royal_pacifists_support_desc: "V královské rodině je mnoho těch, kteří nepodporují dominanci armády v politice a doktrínu totální války. Měli bychom kontaktovat Sadako Kudžó, Nobuhita a Kóičiho Kidóa, abychom získali jejich podporu pro odstranění vojenských prvků z vlády."
  JAP_gather_royal_pacifists_support_tt: "Pokud se §Ycísař Hirohito§! během §Yobčanské války§! postaví na stranu armády, budeme si moci udržet §Ykrálovskou podporu§! jeho mladšího bratra §YNobuhita§! a jeho matky §YSadako Kudžó§!"
@@ -850,7 +850,7 @@
  JAP_sway_the_navy_moderates_tt: "Udržíme si větší část §Ycísařského námořnictva§! a jeho sil během §Yobčanské války§!"
  JAP_sway_the_navy_moderates_2_tt: "§G4§! §Yadmirálové§! se stanou loajálními vůči nám"
  JAP_bribe_generals: "Uplatit generály"
- JAP_bribe_generals_desc: "Ač radikální, ne všichni členové našeho vojenského štábu chtějí stát na straně zla. Přidávají se ke svým druhům z povinnosti a cti, ale možná je lze přesvědčit, aby podpořili lepší věc, pokud do toho investujeme dostatek času a úsilí." # todo: CHANGED
+ JAP_bribe_generals_desc: "Ač radikální, ne všichni naši vojenští důstojníci chtějí stát na straně zla. Ke svým druhům v armádě se připojují z povinnosti a cti, ale možná je lze přesvědčit, aby podpořili lepší věc, dáme-li jim dost času a úsilí."
  JAP_bribe_generals_tt: "§G4§! §Ygenerálové§! se stanou loajálními vůči nám"
  JAP_appoint_new_generals: "Jmenovat nové generály"
  JAP_appoint_new_generals_desc: "Nyní, když se mnoho generálů rozhodlo postavit proti nám, čelíme nedostatku schopných velitelů. Musíme udělat vše, co je v našich silách, a povolat novou generaci armádních velitelů."
@@ -858,7 +858,7 @@
  JAP_implement_army_reforms_desc: "S odstraněním starého vojenského štábu nadešel čas odstranit i jejich zastaralé představy o vedení války. Armáda bude postupně reorganizována na sebeobranné síly a „princip prvního úderu“ se stane pouhou myšlenkou minulosti."
  JAP_implement_army_reforms_tt: "§ROdstraní§! možnost získat modifikátory §YPrincip prvního úderu§! a §YKantai kessen§! nabízené zaměřením §YImperiální obranný plán§!"
  JAP_a_new_take_on_state_shintoism: "Prosazovat teorii sekulárních svatyní"
- JAP_a_new_take_on_state_shintoism_desc: "Religiózní politika a politická teorie, která vznikla za vlády Meiji a je označována jako Jinja hishūkyōron, hlásá, že šintoistické svatyně jsou spíše sekulární než náboženské povahy, a že šinto je jednoduše sekulární soubor japonských národních tradic. Měli bychom tuto teorii nadále podporovat, abychom mohli toto hnutí využít ve svůj prospěch." # todo: CHANGED
+ JAP_a_new_take_on_state_shintoism_desc: "Náboženská politika a teorie vzniklá za vlády Meidži, známá jako Jindža Hišúkjóron, tvrdí, že šintoistické svatyně jsou svou povahou sekulární, nikoliv náboženské, a že šinto je jen souborem japonských národních tradic. Měli bychom tuto teorii dále propagovat a využít tohoto hnutí ve svůj prospěch."
  JAP_crush_the_spirit_of_gekokujo: "Potlačit ducha gekokudžó"
  JAP_crush_the_spirit_of_gekokujo_desc: "V raném období Šówa docházelo opakovaně k činům gekokudžó, kdy nižší důstojníci usilovali o svržení svých nadřízených, což narušuje řetězec velení. Musíme tyto myšlenky potlačit co nejdříve!"
  JAP_organize_a_general_election: "Uspořádat všeobecné volby"
@@ -870,7 +870,7 @@
  JAP_draft_the_showa_constitution_desc_key_emperor_eian: "Přijímáme a respektujeme císařskou historii našeho národa. Avšak autoritářství nemá v Japonsku, které budujeme, místo. Nového císaře zachováme jako ceremoniální hlavu státu, ale jeho moc omezíme v ústavě, podobně jako v mnoha západních zemích."
  JAP_draft_the_showa_constitution_desc_key_emperor_showa: "Přijímáme a respektujeme císařskou historii našeho národa. Avšak autoritářství nemá v Japonsku, které budujeme, místo. Císaře zachováme jako ceremoniální hlavu státu, ale jeho moc omezíme v ústavě, podobně jako v mnoha západních zemích."
  JAP_form_the_ldp: "Založit LDP"
- JAP_form_the_ldp_desc: "Nyní, když si Rikken Seiyūkai zajistila kontrolu nad sněmovnou i kabinetem, je čas ji přetvořit v efektivnější vládnoucí strukturu. Podle pokynu Ichiro Hatoyamy nastal čas založit Liberální demokratickou stranu, zaměřenou na vládnutí zemi v dohledné budoucnosti." # todo: CHANGED
+ JAP_form_the_ldp_desc: "Nyní, když Rikken Seijúkai získala kontrolu nad sněmem i kabinetem, je čas reformovat ji do efektivnějšího správního orgánu. Podle pokynů Ičiróa Hatójamy je načase založit Liberálně demokratickou stranu, která bude vládnout zemi v nadcházejících letech."
  JAP_rikken_minseito_victory: "Vítězství Rikken Minseitó"
  JAP_rikken_minseito_victory_desc: "Výsledek voleb je jasný. Liberálně-progresivní Rikken Minseitó zvítězila rozdílem třídy a získá jasnou většinu. Zdá se, že lid rozhodl, jakým směrem se má země vydat."
  JAP_rikken_minseito_victory_flag: "Rikken Minseitó vyhrála všeobecné volby"
@@ -878,7 +878,7 @@
  JAP_rikken_seiyukai_victory_desc: "Výsledek voleb je jasný. Liberálně-konzervativní Rikken Seijúkai zvítězila rozdílem třídy a získá jasnou většinu. Zdá se, že lid rozhodl, jakým směrem se má země vydat."
  JAP_rikken_seiyukai_victory_flag: "Rikken Seijúkai vyhrála všeobecné volby"
  JAP_minshu_shugi: "Minšu šugi"
- JAP_minshu_shugi_desc: "Ač doposud jsme následuvali politickou doktrínu Minpon Shugi, pravá demokracie spočívá v mezích Minshu Shugi. Koneckonců 'v zákoně suverenita národa přísluší lidu', což v doktríně Minpon není případ, protože zdůrazňuje monarchistickou suverenitu nade vše. Musíme tyto nové myšlenky zakotvit v ústavě!" # todo: CHANGED
+ JAP_minshu_shugi_desc: "Až dosud jsme se řídili doktrínou Minpon šugi, avšak pravá demokracie leží v principech Minšu šugi. „Podle zákona národní suverenita náleží lidu“ - což není případ doktríny Minpon, neboť ta klade důraz na monarchickou suverenitu. Musíme tyto nové myšlenky vtisknout do ústavy!"
  JAP_minpon_shugi: "Minpon šugi"
  JAP_minpon_shugi_desc: "Politická doktrína Minpon šugi, zrozená v éře Taišó, je definována jako „politika, která si při výkonu moci cení prospěchu, štěstí a názorů lidu“. Neodporuje císařské instituci a prospívá jak lidu, tak císaři. Měli bychom v našem demokratickém systému založeném na monarchické suverenitě pokračovat a vtisknout jej do nové ústavy."
  JAP_promote_meritocracy: "Prosazovat meritokracii"
@@ -886,7 +886,7 @@
  JAP_experimental_housing_solutions: "Experimentální bytová řešení"
  JAP_experimental_housing_solutions_desc: "Městský rozvoj by se měl řídit čtyřmi funkčními kategoriemi: bydlení, práce, doprava a rekreace. Kendžó Tange spolu s dalšími začínajícími architekty navrhují nový způsob výstavby měst, součást nového hnutí, které nazývají metabolismus. Měli bychom tuto myšlenku prosazovat, abychom zlepšili životní podmínky všech občanů."
  JAP_embrace_amakudari: "Prosazovat amakudari"
- JAP_embrace_amakudari_desc: "Amakudari, doslova 'sestup z nebes', popisuje praxi, kdy naši odebraní vysoce postavení byrokraté přecházejí do vrcholných manažerských pozic v soukromých firmách, často ve stejném průmyslu, který dříve regulovali. I když to může značně zhoršit efektivitu našich odvětví, poskytuje nám to významný vhled a kontrolu nad naší společností." # todo: CHANGED
+ JAP_embrace_amakudari_desc: "Amakudari, „sestup z nebes“, popisuje praxi, kdy naši penzionovaní vyšší úředníci přecházejí do vedení soukromých podniků, často v odvětvích, která dříve regulovali. Ač to může výrazně zhoršit efektivitu našich odvětví, poskytuje nám to značný přehled i kontrolu nad společností."
  JAP_agricultural_protectionism: "Zemědělský protekcionismus"
  JAP_agricultural_protectionism_desc: "Světová ekonomika je čím dál nepřátelštější k našim tradičním způsobům produkce. Pokud nepřijmeme opatření na ochranu našich farmářů, brzy čelíme krizi nebývalých rozměrů, protože naši rolníci nebudou schopni konkurovat masově vyráběným potravinám ze zahraničí."
  JAP_machida_chuuji_focus: "Premiérství Mačidy Čúdžiho"
@@ -915,7 +915,7 @@
  JAP_closer_ties_with_the_usa: "Užší vztahy s USA"
  JAP_closer_ties_with_the_usa_desc: "Poté, co se nám podařilo znovu obnovit demokracii, naši diplomaté tvrdě pracují na opravě vztahů, které armáda poškodila - počínaje Spojenými státy americkými. Měli bychom je oslovit a pokusit se zajistit dohodu, která upevní naše přátelství do budoucna."
  JAP_ally_the_philippines: "Spojit se s Filipínami"
- JAP_ally_the_philippines_desc: "Poté, co jsme nedávno obnovili naše vazby s jejich bývalými suverény, je snad načase nabídnout [PHI.GetAdjective] vládě pozvání, aby se připojila k naší alianci. Domníváme se, že by z této dohody výrazně profitovaly obě strany." # todo: CHANGED
+ JAP_ally_the_philippines_desc: "Poté, co znovu navázali své vztahy s bývalými vládci, možná nastal čas nabídnout [PHI.GetAdjective] vládě vstup do naší aliance. Jak to vidíme, obě strany by z dohody výrazně profitovaly."
  JAP_strike_the_soviets: "Udeřit na starého rivala"
  JAP_strike_the_soviets_desc: "Stojíme jako hradba proti bolševikům, kteří nám ukradli severní Karafuto. Od sibiřské expedice a rusko-japonské války naši lidé opět touží válce, aby konečně vytlačili [SOV.GetNameDef] z východní Sibiře a zajistili naši sféru vlivu."
  JAP_free_colonized_asian_countries: "Osvobodit kolonizované asijské země"
@@ -992,7 +992,7 @@
  JAP_the_koiso_cabinet_desc: "S tím, jak císař vyjadřuje rostoucí nedůvěru ve schopnosti [ROOT.GetLeader]a a japonských císařských sil, projevil přání sjednotit národ a hledat cestu z války, aby se zabránilo úplnému zničení země. Ačkoli je Koišo mezi politiky a generály neoblíbeným kandidátem, mohl by být schopen vyvést národ z konfliktu."
  JAP_the_war_has_not_necessarily_developed_focus: "Neochvějný odpor k východoasijskému konfliktu"
  JAP_the_war_has_not_necessarily_developed_focus_desc: "Rivalita mezi armádou a námořnictvem je stále trnem v patě a naše strategie ukončit válku rozhodujícím úderem proti nepříteli selhala. Zdá se, že nám docházejí možnosti. Možná je čas přijmout hanbu a přivést naši zemi do éry bez konfliktů."
- JAP_the_war_has_not_necessarily_developed_focus_tt: "Radikální části armády se pokusí provést převrat, aby zabránily císaři vysílat prohlášení o kapitulaci našeho národa." # todo: CHANGED
+ JAP_the_war_has_not_necessarily_developed_focus_tt: "Radikální části armády se pokusí provést převrat, aby zabránily císaři odvysílat projev o kapitulaci."
  JAP_japans_longest_day: "Nejdelší den Japonska"
  JAP_japans_longest_day_desc: "Neslavný premiér a jeho přisluhovači byli odstraněni a pomýlený císař byl dán do domácího vězení. Nyní je čas znovu oživit válečné úsilí a vrátit naši zemi zpátky slávu, která jí byla předurčena."
  JAP_the_surrender_broadcast: "Projev o kapitulaci"
@@ -1037,7 +1037,7 @@
  PRC_burn_the_paper_tigers_desc: "Obrátíme se na [CHI.GetName] a ostatní, abychom usilovali o vytvoření Druhé sjednocené fronty proti našim společným nepřátelům."
  PRC_rally_the_peasants: "Zmobilizovat rolníky"
  PRC_rally_the_peasants_desc: "Rolnictvo tvoří náš hlavní mocenský základ, protože [CHI.GetNameDef] svou správou zpustošilo jejich životy. Mají mnoho co získat z našich slibovaných reforem."
- PRC_rally_the_28_bolsheviks: "Svolat 28 ½ bolševiků" # todo: CHANGED
+ PRC_rally_the_28_bolsheviks: "Zmobilizovat 28 ½ bolševiků"
  PRC_rally_the_28_bolsheviks_desc: "Rozsáhlé znalosti 28 ½ bolševiků — vycvičených v Sovětském svazu jako budoucí vůdci vlády a armády — musí být v těchto těžkých časech využity naplno."
  PRC_guide_central_committee: "Vést ústřední výbor"
  PRC_guide_central_committee_desc: "Musíme stanovit jasný kurz pro Ústřední výbor. Pokud nedokážeme udržet jednotu strany, nemůžeme doufat, že sjednotíme Čínu."
@@ -1584,7 +1584,7 @@
  CHI_zhonghua_minzu_focus_tt: "Odemkne rozhodnutí ke získání domovských území na [MON.GetFlag] §Y[MON.GetAdjective]§!, [TAN.GetFlag] §Y[TAN.GetAdjective]§! a [TIB.GetFlag] §Y[TIB.GetAdjective]§! státy"
  CHI_zhonghua_minzu_focus_2_tt: "Nahradí §Y$CHI_the_political_tutelage_dm$§! za §Y$CHI_the_political_tutelage_upgraded_dm$§!, efektivní změna:"
  CHI_toward_a_socialist_economy: "K socialistické ekonomice"
- CHI_toward_a_socialist_economy_desc: "Abychom skutečně změnili naši společnost k lepšímu, musíme změnit tok peněz a odstavit šéfy korporací, kteří se dostali do funkcí jen díky protekci. Pracující muž opět získá slovo ve své zemi a všichni [ROOT.GetAdjective] budou v rovnosti!" # todo: CHANGED
+ CHI_toward_a_socialist_economy_desc: "Chceme-li skutečně změnit společnost, musíme změnit tok peněz a odstranit korporátní šéfy, kteří získali pozice skrze nepotismus. Pracující opět získá hlas a všichni [ROOT.GetAdjective] občané si budou rovni!"
  CHI_enact_georgist_tax_reforms: "Zavést georgistické daňové reformy"
  CHI_enact_georgist_tax_reforms_desc: "Georgismus byl základem Sunova ekonomického myšlení a požadoval daň z vlastněné půdy. „Jediným spravedlivým a rovnoměrně distribuovaným zdrojem financování vlády je daň, na níž založíme náš nový systém.“"
  CHI_leverage_contacts: "Využít kontakty"
@@ -1672,7 +1672,7 @@
  CHI_a_functioning_bureaucracy_first: "Nejdříve fungující byrokracie"
  CHI_a_functioning_bureaucracy_first_desc: "Kontrola státního aparátu je důležitá, ale zbytečná, pokud žádný aparát není. Připustíme určitou míru samosprávy institucí a necháme schopné jedince postupovat podle zásluh, nikoli podle „správných“ názorů."
  CHI_extend_jurisdiction_to_the_provinces: "Rozšířit pravomoci do provincií"
- CHI_extend_jurisdiction_to_the_provinces_desc: "[ROOT.GetRulingParty] dobře ovládli velká města a centrální instituce, ale na periferii bychom mohli udělat víc. Rozšíření naší moci hodně pomůže sjednotit Čínu a odrazit [JAP.GetAdjective] nápor." # todo: CHANGED
+ CHI_extend_jurisdiction_to_the_provinces_desc: "[ROOT.GetRulingParty] dobře zvládá kontrolu měst a centrálních institucí, ale periférie zaostává. Rozšíření našeho vlivu sjednotí Čínu a pomůže zadržet [JAP.GetAdjective] nápor."
  CHI_affirm_civilian_primacy: "Stvrdit nadvládu civilní vlády"
  CHI_affirm_civilian_primacy_desc: "Čankajšek vybudoval moc na armádě, ale důstojníci jsou snadno ovlivnitelní a málokdo z nich pracuje v náš prospěch. Musíme ozbrojeným silám jasně sdělit, že jsou podřízeny civilní autoritě."
  CHI_proclaim_a_new_chapter: "Vyhlásit novou kapitolu"
@@ -1736,7 +1736,7 @@
  CHI_prosecute_cronyism: "Stíhat klientelismus"
  CHI_prosecute_cronyism_desc: "Příliš dlouho převládaly osobní zájmy nad zájmy státu. Nepotismus, úplatkářství a zpronevěra rozkládaly naši společnost. To odteď končí - přichází nová éra ctnosti!"
  CHI_crack_down_on_illicit_goods: "Potlačit nezákonné zboží"
- illicit_good_improvement_increase: "Zvyšuje rychlost, jakou je §Ynelegální obchod§! odstraňován o §G+2%§! každých §Y6 měsíců§!" # todo: CHANGED
+ illicit_good_improvement_increase: "Zvyšuje rychlost, kterou je §Y$CHI_illicit_trade$§! odstraňován, o §G+2%§! každých §Y6 měsíců§!"
  which_will_give_tt: "Což udělí:"
  CHI_crack_down_on_illicit_goods_desc: "Příliš dlouho jsme byli vydáni napospas jedům v naší společnosti. Musíme je odmítnout a vstoupit do nového století silnější a jasnější myslí."
  CHI_turn_a_blind_eye: "Přimhouřit oko"
@@ -2093,7 +2093,7 @@
  CHI_navy_spooks: "Rozvinout námořní zpravodajské služby"
  CHI_navy_spooks_desc: "Moře okolo Číny jsou rušnými tepnami obchodu. Kde jsou obchodníci, tam jsou zvěsti. A kde jsou zvěsti, tam číhají příležitosti..."
  CHI_promote_admiral: "Povýšit admirály"
- CHI_promote_admiral_desc: "Naše nedávné námořní stavební úsilí jednoho dne učiní naše zesláblé válečné lodě z 19. století zastaralými. To však představuje příležitost přeměnit je na výcviková plavidla pro posádky i velitele; s výcvikovým programem optimalizovaným podle strategického směru našeho námořnictva." # todo: CHANGED
+ CHI_promote_admiral_desc: "Naše nedávné loděnicové programy brzy učiní naše zastaralé válečné lodě z 19. století nepoužitelnými. Je v tom však i příležitost — přeměnit je na výcviková plavidla pro posádky i velitele; s výcvikovým programem zaměřeným přesně podle naší námořní strategie."
  CHI_promote_admiral_tt: "Pokud bylo vzato §Y$CHI_deny_the_enemy$§!, získají všichni admirálové rys §Y$green_water_expert$§! \n\nPokud bylo vzato §Y$CHI_dominate_the_enemy$§!, získají všichni admirálové rys §Y$blue_water_expert$§!"
  CHI_promote_admiral_dingwen_tt: "Povýší §Y$CHI_jiang_dingwen_admiral$§! na admirála"
  CHI_heavy_ship_research: "Výzkum hlavních lodí"
@@ -2115,7 +2115,7 @@
  CHI_heavy_cruiser_focus: "Zaměření na těžké křižníky"
  CHI_heavy_cruiser_focus_desc: "Naše hladinové námořnictvo — i když je pozůstatkem dynastie Čching — nám dobře sloužilo téměř půl století. Svět se mění, ale bylo by neuvážené zavrhnout takové množství institucionálních znalostí v boji s krátkodosahovými, pancéřovanými křižníky. Naše budoucnost by měla stavět na minulosti."
  CHI_mobile_bases: "Mobilní základny"
- CHI_mobile_bases_desc: "Jak zbytek světa dokazuje, vzduch představuje budoucnost války. Naše schopnost udeřit na dálku je však omezena naší geografií. Následujíc příklad velmocí musíme soustředit úsilí na mobilní úderné platformy." # todo: CHANGED
+ CHI_mobile_bases_desc: "Jak svět ukazuje, budoucnost války patří vzduchu. Naše schopnost zasáhnout na dálku je však omezena geografií. Po vzoru velmocí musíme soustředit úsilí na mobilní úderné platformy."
  CHI_the_seas_of_tomorrow: "Moře zítřka"
  CHI_the_seas_of_tomorrow_desc: "Sníme o budoucnosti, v níž Čína povede svět v měkké síle i technologické vyspělosti. Strávili jsme roky doháněním obrovských flotil koloniálních mocností a našich regionálních rivalů — nyní je čas určovat kurz budoucnosti sami."
  CHI_the_seas_of_tomorrow_tt: "Zpřístupní §Yvědce§! specializovaného na dříve zvolenou oblast."
@@ -2274,7 +2274,7 @@
  PHI_encourage_chinese_immigration: "Podpořit čínskou imigraci"
  PHI_encourage_chinese_immigration_desc: "Čínští obchodníci se ukázali být mimořádně podnikaví při zakládání malých podniků. Měli bychom tento příliv talentu a kapitálu využít a podporovat další růst tohoto sektoru."
  PHI_japanese_observers: "Japonští pozorovatelé"
- PHI_japanese_observers_desc: "Vzhledem k tomu, že se naše vztahy stále více prohlubují, Japonci souhlasili s vysláním vojenského oddílu do naší země. Mají tak možnost na vlastní oči poznat, jak fungují evropské velitelské struktury v přátelském prostředí, zatímco my se můžeme učit z jejich výjimečné bojové odbornosti a předávat tuto moudrost dolů řadám." # todo: CHANGED
+ PHI_japanese_observers_desc: "S nadále se prohlubujícími vztahy mezi našimi zeměmi Japonci souhlasili se zasláním vojenského oddílu do Filipín. Ten se má na místě seznámit s evropským stylem velení v přátelském prostředí, zatímco my získáme přístup k jejich vynikajícím bojovým zkušenostem, které pak můžeme šířit dál v našich řadách."
  PHI_one_observer_advisor_focus_tt: "Efekt při dokončení jednoho z §Y$PHI_japanese_advisors$§! nebo §Y$PHI_japanese_observers$§!:"
  PHI_both_observer_advisor_focus_tt: "Efekt při dokončení obou §Y$PHI_japanese_advisors$§! a §Y$PHI_japanese_observers$§!:"
  PHI_treaty_of_manila: "Manilská smlouva"
@@ -2321,10 +2321,10 @@
  PHI_far_east_air_force: "Letecké síly Dálného východu"
  PHI_far_east_air_force_desc: "Filipíny jsou zvyklé hlavně na pozemní a námořní síly, ale nic nám nebrání rozšířit i naše vzdušné síly. Letecké síly Dálného východu by měly být umístěny právě zde a naše letiště rozšířena, aby umožnila většímu počtu letadel útočit mnohem blíže potenciálním hrozbám."
  PHI_bring_in_eisenhower: "Přivést Eisenhowera"
- PHI_bring_in_eisenhower_desc: "Podobně jako MacArthur pracuje Dwight D. Eisenhower od roku 1935 jako poradce filipínské vlády a MacArthur nyní považuje za vhodné oficiálně jej přivést do svého štábu jako slibného důstojníka. Ačkoli se objevily zprávy o antipatii mezi oběma, možná jejich rozdílné osobnosti a styly vedení budou tím, co zaručí bezpečí národa." # todo: CHANGED
+ PHI_bring_in_eisenhower_desc: "Podobně jako MacArthur pracoval i Dwight D. Eisenhower od roku 1935 jako poradce filipínské vlády. MacArthur nyní uznal za vhodné přivést tohoto nadějného důstojníka oficiálně do svého štábu. Přestože mezi nimi kolují zprávy o antipatiích, možná jsou jejich odlišné osobnosti to, co udrží naši zemi v bezpečí."
  PHI_police_chief_eisenhower: "Policejní šéf Eisenhower"
  PHI_police_chief_eisenhower_desc: "S naší nově plánovanou metropolí Quezon City [PHI.GetLeader] rozhodl, že bude potřebovat vysoce postaveného policejního šéfa. Prezident měl vždy výborné pracovní vztahy s Dwightem D. Eisenhowerem a věří, že s vhodnou motivací by jej mohl přesvědčit, aby tuto roli přijal - a tím se trvale připoutal k filipínské věci."
- PHI_eisenhower_stays_tt: "§YDwight D. Eisenhower§! zůstane na Filipínách a již jej nemůže odvolat [USA.GetNameDef]" # todo: CHANGED
+ PHI_eisenhower_stays_tt: "§YDwight D. Eisenhower§! zůstane na Filipínách a [USA.GetNameDef] jej již nebudou moci odvolat."
  PHI_mariveles_naval_base: "Námořní základna Mariveles"
  PHI_mariveles_naval_base_desc: "Manila má jen základní námořní zařízení, ale její potenciál je mnohem větší. Prvním krokem by mělo být rozšíření námořní základny Mariveles na bataanském břehu zátoky. Tento hlubokomořský přístav může pojmout rozsáhlejší zařízení pro výrobu a údržbu námořních plavidel."
  PHI_gunboat_diplomacy: "Diplomacie dělových člunů"
@@ -2462,7 +2462,7 @@
  PHI_malayo_polynesia: "Malajsko-Polynésie"
  PHI_malayo_polynesia_desc: "Historicky jsme sdíleli kulturní, historické i etnické vazby s Malajským poloostrovem a Indonésií. V duchu tohoto bratrství bychom jim měli rozšířit stejná práva a výsady, jaká mají naši vlastní lidé."
  PHI_war_for_oceania: "Válka o Oceánii"
- PHI_war_for_oceania_desc: "Oceánie je definována samotným oceánem, ale naši lidé po staletí křižují tyto vody. Je čas začlenit tyto ostrovy do našeho rostoucího národa." # todo: CHANGED
+ PHI_war_for_oceania_desc: "Oceánii definuje samotný oceán — rozptýlená souostroví a vzdálené ostrovy. Naši lidé brázdí tato moře od nepaměti. Je čas začlenit tyto ostrovy do našeho rodícího se národa."
  PHI_conquest_of_japan: "Dobytí Japonska"
  PHI_conquest_of_japan_desc: "Japonsko bylo naším hlavním rivalem v námořní kontrole regionu. Je čas tuto soutěž ukončit a jednou provždy nad nimi zvítězit."
  PHI_filipino_polynesian_reunification: "Páni Pacifiku"
@@ -2477,13 +2477,13 @@
  PHI_support_for_chinese_communists: "Podpora čínských komunistů"
  PHI_support_for_chinese_communists_desc: "Komunisté dál bojují v Číně jak proti Japoncům, tak proti militaristům. Můžeme jim propašovat muže a materiál podél Žluté řeky - přímo pro jejich boj, nebo prostě k rozdmýchání konfliktu."
  PHI_the_red_sun_over_manila: "Rudé slunce nad Manilou"
- PHI_the_red_sun_over_manila_desc: "Komunistické nálady v celých Filipínách rostou a poprvé se objevila nejistá příležitost dosáhnout skutečné moci. Neúspěšné povstání Sakdalistů připomíná marnost ozbrojeného povstání proti americky podporované vládě, a proto musíme hledat spíše politické prostředky k převzetí moci." # todo: CHANGED
+ PHI_the_red_sun_over_manila_desc: "Komunistické nálady rostou a poprvé se objevila skutečná šance na převzetí moci. Neúspěšné povstání Sakdalistů ukázalo marnost ozbrojeného odporu proti americké vládě — musíme zvolit politickou cestu."
  PHI_partido_komunista_ng_pilipinas_coup: "Puč PKP"
  PHI_partido_komunista_ng_pilipinas_coup_desc: "Začalo to jako generální stávka rolníků, která se rozšířila do továren. Lid promluvil — a Národní shromáždění padlo do rukou komunistů. Unions a kolektivy nyní horečně vybírají nové vedení a rozhodují, kdo bude novým generálním tajemníkem."
  PHI_national_confederation: "Národní konfederace"
  PHI_national_confederation_desc: "Nyní, když jsme u moci, je čas konsolidovat naše držení. Kalipunang Pambansa ng Magbubukid sa Pilipinas — Národní konfederace filipínských rolníků — by měla být jedním z prvních spojenců, které oslovíme."
  PHI_anti_intervention_strategies: "Protiintervenční strategie"
- PHI_anti_intervention_strategies_desc: "S narůstajícím napětím mezi námi a Spojenými státy musíme udělat vše, co je v našich silách, aby byla zachována dlouhodobá životaschopnost našeho nově vzniklého komunistického státu — buď cílenými ústupky, nebo tím, že jim vezmeme, co můžeme, dříve než napětí přeroste v otevřená nepřátelství." # todo: CHANGED
+ PHI_anti_intervention_strategies_desc: "S rostoucím napětím mezi námi a Spojenými státy musíme učinit vše pro dlouhodobou životaschopnost našeho komunistického státu — ať už skrze ústupky, nebo získáním všeho, co jde, než napětí přeroste v otevřenou nepřátelství."
  PHI_rally_the_fisherfolk: "Zmobilizovat rybáře"
  PHI_rally_the_fisherfolk_desc: "Jako souostroví máme rozsáhlé rybářské komunity. Měli bychom tyto „sedláky moře“ zapojit do komunistického hnutí a využít jejich potenciál."
  PHI_smugglers: "Pašeráci"
@@ -2504,7 +2504,7 @@
  PHI_national_defense_act: "Zákon o národní obraně"
  PHI_national_defense_act_desc: "Zákon o národní obraně z 21. prosince 1935 přidělil filipínské armádě 16 milionů pesos. Zbývá jen rozhodnout, jak je investovat — všechny složky ozbrojených sil i obranné instalace volají po prostředcích."
  PHI_war_plan_orange: "Válečný plán Oranžová"
- PHI_war_plan_orange_desc: "Základní premisou Plánu války Oranžové je, že Filipíny musí v případě konfliktu nadále sloužit jako americká přední operační základna, a proto je nejdůležitějším objektem k obraně Manilský záliv. Musíme provést obranná nařízení s tímto cílem a soustředit naše obrany kolem této kritické strategické oblasti." # todo: CHANGED
+ PHI_war_plan_orange_desc: "Základní myšlenkou Válečného plánu Oranžová je, že Filipíny musí zůstat americkou předsunutou základnou a nejdůležitějším bodem obrany je Manilská zátoka. Musíme se podle toho řídit a koncentrovat obranu kolem tohoto strategického prostoru."
  PHI_beach_defense_strategy: "Strategie obrany pláží"
  PHI_beach_defense_strategy_desc: "S dostatkem vojáků a děl dokážeme udržet obvod Filipín. Tato strategie zajistí, že Filipíny jako celek zůstanou zapojeny do jakékoli potenciální dlouhodobé vojenské kampaně."
  PHI_fortify_corregidor: "Opevnit Corregidor"
@@ -2652,7 +2652,7 @@
  KHM_undermine_kmt_rule: "Podkopat vládu Kuomintangu"
  KHM_undermine_kmt_rule_desc: "Kuomintang příliš dlouho drancoval provincii a utlačoval místní obyvatelstvo. Je čas připravit se na svržení tyranské kliky Ma v Chotanu!"
  KHM_establish_the_kashgar_clique: "Založit kašgarskou kliku"
- KHM_establish_the_kashgar_clique_desc: "Dříve jsme usilovali o distanc od Kuomintangu. Pokud toho chceme skutečně dosáhnout, měli bychom se inspirovat rodinou Ma a vytvořit si vlastní kliku. Nastal čas to uskutečnit a zformovat se pod zástavou zástupce vojenského velitele oblasti Kašgar, Mahmut Muhiti." # todo: CHANGED
+ KHM_establish_the_kashgar_clique_desc: "Již dříve jsme usilovali o distancování se od Kuomintangu. Pokud toho chceme skutečně dosáhnout, musíme si vzít příklad z rodiny Ma a založit vlastní kliku. Nastal čas proměnit to ve skutečnost a sjednotit se pod zástupcem vojenského velitele kašgarského regionu, Mahmúdem Muhitim."
  KHM_shizangs_coup: "Š'-cangův převrat"
  KHM_shizangs_coup_desc: "Po dokončení příprav a přesunu 24. a 25. ujgurského pluku pod Muhitiho velením k obklíčení Chotanu můžeme zahájit náš tah a vyhnat chuiské vedení z města. Sláva Mahmúdu Š'-cangovi a ať žije emirát Chotan!"
  KHM_shizangs_coup_tt: "Mnozí §Ygenerálové Ma§! §Rodejdou§! a připojí se k jiným klikám Ma"
@@ -2667,7 +2667,7 @@
  KHM_rally_the_faithful: "Shromáždit věřící"
  KHM_rally_the_faithful_desc: "Abychom uspěli v zajištění autonomie vůči cizím mocnostem, musíme shromáždit věřící a vytvořit v našem hlavním městě nový vojenský řád."
  KHM_indian_expeditionary_forces_plan: "Plán indických expedičních sil"
- KHM_indian_expeditionary_forces_plan_desc: "[ENG.GetAdjective] navrhovali plán poskytnout nám vojenskou pomoc z [RAJ.GetNameDef], pokud bychom se ocitli pod útokem nepřítele. Možná by bylo moudré navázat s nimi bližší vztahy." # todo: CHANGED
+ KHM_indian_expeditionary_forces_plan_desc: "[ENG.GetNameDef] navrhuje plán, podle něhož nám [RAJ.GetNameDef] poskytne vojenskou pomoc v případě napadení nepřítelem. Možná by bylo moudré navázat s nimi užší vztahy."
  KHM_expand_the_madrasas: "Rozšířit medresy"
  KHM_expand_the_madrasas_desc: "Abychom lépe kontrolovali obyvatelstvo a učili je zásadám, podle nichž mají žít, měli bychom zvýšit financování muslimských vzdělávacích institucí v naší zemi."
  KHM_promote_anti_communism: "Podporovat antikomunismus"
@@ -2726,7 +2726,7 @@
  CHI_sea_industrial_research_projects: "Průmyslové výzkumné projekty"
  CHI_sea_industrial_research_projects_desc: "Bez moderního průmyslu zaostaneme a brzy nás přeroste centrální vláda. Financování výzkumu nám umožní držet krok se světem."
  CHI_sea_expand_public_education: "Rozšířit veřejné školství"
- CHI_sea_expand_public_education_desc: "Bez populace, která má přístup ke vzdělání, zaostaneme za ostatními národy. Abychom zajistili prosperitu našeho státu, musíme proto investovat do veřejného školství." # todo: CHANGED
+ CHI_sea_expand_public_education_desc: "Bez vzdělané populace zaostaneme za ostatními národy. Aby naše země prosperovala, musíme investovat do veřejného vzdělávání."
  CHI_sea_fund_research_projects: "Financovat výzkumné projekty"
  CHI_sea_fund_research_projects_desc: "Abychom si udrželi technologický náskok, musíme podporovat výzkum. Tím pomůžeme jak naší vědě, tak obyvatelstvu."
  CHI_sea_rely_on_our_infantry: "Spoléhat na pěchotu"
@@ -2846,11 +2846,11 @@
  MAN_tsr_beiyang_university: "Pej-jangská univerzita"
  MAN_tsr_beiyang_university_desc: "Bez řádného vzdělání budou naši lidé postrádat příležitosti a naše výzkumné úsilí zaostane za zbytkem Číny i světa. Měli bychom proto založit univerzitu na počest Pana Fu, posledního premiéra staré vlády Pej-jangu."
  MAN_tsr_the_southern_expedition: "Jižní tažení"
- MAN_tsr_the_southern_expedition_desc: "Severní expedice Kuomintangu kdysi rozvrátila naši krásnou republiku. Měli bychom napravit tuto chybu zahájením jižní expedice a konečně zlikvidovat neúspěšný stát, který nyní obsadil Nanjing." # todo: CHANGED
+ MAN_tsr_the_southern_expedition_desc: "Severní tažení Kuomintangu kdysi rozdrtilo naši krásnou republiku. Měli bychom tuto chybu napravit zahájením jižního tažení a konečně ukončit existenci nefunkčního státu, který dnes sídlí v Nankingu."
  MAN_tsr_proclaim_the_republic_of_china: "Prohlásit Čínskou republiku"
  MAN_tsr_proclaim_the_republic_of_china_desc: "Se všemi hlavními městy pod naší kontrolou se můžeme konečně prohlásit Čínskou republiku a legitimním nástupcem vlády Pej-jangu. Co přinese budoucnost, je zatím nejasné, ale nyní jsme přinesli demokracii celé Číně — a snad tomu tak zůstane po tisíc let."
  MAN_tsr_finish_off_the_japanese_threat: "Zničit japonskou hrozbu"
- MAN_tsr_finish_off_the_japanese_threat_desc: "Japonci, naši původní okupanti, byli příliš dlouho zbaveni trestu. Je čas ukončit jejich frašku a ukázat, který stát má právo vládnout Asii." # todo: CHANGED
+ MAN_tsr_finish_off_the_japanese_threat_desc: "Japonci, naši původní okupanti, byli příliš dlouho ušetřeni spravedlivého trestu. Je čas ukončit tuhle frašku a ukázat, který stát má skutečné právo vládnout Asii."
  MAN_tsr_an_industrial_power: "Průmyslová velmoc"
  MAN_tsr_an_industrial_power_desc: "S průmyslem konečně schopným konkurovat Západu bychom jej měli dále rozšířit. V čase se tak staneme hlavní průmyslovou mocností Asie — a poté celého světa."
  MAN_tsr_zhao_shangzhis_coup: "Převrat Žao Šang-č'a"
@@ -2860,7 +2860,7 @@
  MAN_tsr_research_cooperation: "Výzkumná spolupráce s KSSP"
  MAN_tsr_research_cooperation_desc: "Mezi oblastmi pod kontrolou naší strany chybí skutečná komunikace. Měli bychom proto koordinovat výzkumné projekty uvnitř KSSP, aby žádná část nezaostávala."
  MAN_tsr_the_long_march_south: "Dlouhý pochod na jih"
- MAN_tsr_the_long_march_south_desc: "Nastal čas. Přesunem našich jednotek přes hranici zahájíme závěrečné stadium občanské války v Číně. Je ještě příliš brzy na to, kdo zvítězí, ale se špičkovým manévrováním bude pro naše nepřátele těžké držet krok." # todo: CHANGED
+ MAN_tsr_the_long_march_south_desc: "Nastal čas. Přesunem našich vojsk přes hranici zahájíme závěrečnou fázi občanské války v Číně. Je příliš brzy říci, kdo zvítězí, ale s odborným manévrováním pro nepřítele nebude snadné držet s námi krok."
  MAN_tsr_soviet_aid: "Sovětská pomoc"
  MAN_soviet_volunteers_tt: "[SOV.GetFlag] §YSovětský svaz§! bude ochotnější poslat nám dobrovolníky."
  MAN_tsr_soviet_aid_desc: "Se Sovětským svazem na severu a východě nebude složité zorganizovat přepravu vybavení i mužů na naše území. Měli bychom je požádat, aby pomohli svým ideologickým spojencům v Číně."
@@ -2903,7 +2903,7 @@
  SIC_the_governor_of_sichuan: "Guvernér S'-čchuanu"
  SIC_the_governor_of_sichuan_desc: "Liou Siang, současný guvernér a synovec Liou Wen-chueje, ovládá nejbohatší a nejvýznamnější část S'-čchuanu. Měli bychom ji dále rozvíjet a zlepšovat naše technologické schopnosti v duchu jeho reforem."
  SIC_develop_chongqing: "Rozvoj Čchung-čchingu"
- SIC_develop_chongqing_desc: "Chongqing je srdcem provincie Sichuan a měli bychom usilovat o jeho další industrializaci. Pokud se chceme postavit cizím nebo vnitřním hrozbám, musíme mít i průmyslovou základnu, která nás podpoří." # todo: CHANGED
+ SIC_develop_chongqing_desc: "Čchung-čching je srdcem S'-čchuanu a měli bychom jej dále industrializovat. Pokud chceme čelit cizím nebo vnitřním hrozbám, musíme mít i průmyslové zázemí."
  SIC_armor_efforts: "Podpora tankových sil"
  SIC_armor_efforts_desc: "Naše tankové a letecké kapacity jsou příliš malé na moderní konflikt. Měli bychom zlepšit naši technologii, abychom dokázali čelit cizím hrozbám."
  SIC_sichuan_still_stands: "S'-čchuan stále stojí"
@@ -2929,7 +2929,7 @@
  MA_unified_training_program: "Sjednocené výcvikové programy"
  MA_unified_training_program_desc: "Abychom ochránili naše hranice a udrželi pevnou kontrolu nad severovýchodem, je naprosto nezbytné zlepšit kvalitu našich jednotek a zároveň koordinovat nábor, aby nám žádní cenní rekruti neunikli."
  MA_strenghten_regional_trade: "Posílit regionální obchod"
- MA_strenghten_regional_trade_desc: "Ač jsou naše země rozlehlé, naše ekonomiky v mnoha ohledech zaostávají. Musíme koordinovat obchod a průmyslový rozvoj, abychom tyto problémy zmírnili." # todo: CHANGED
+ MA_strenghten_regional_trade_desc: "Ačkoliv jsou naše území rozsáhlá, naše ekonomiky trpí v mnoha ohledech nedostatky. Musíme koordinovat obchod a průmyslový rozvoj, abychom tyto problémy zmírnili."
  MA_strenghten_regional_trade_tt: "Všichni členové získají §G1§! §Ycivilní továrnu§! ve svém hlavním městě"
  MA_promises_of_mutual_defense: "Sliby vzájemné obrany"
  MA_promises_of_mutual_defense_desc: "Po uzavření předchozích dohod můžeme nyní přistoupit k uzavření smlouvy o vzájemné obraně, která zajistí, že si všichni přijdeme na pomoc, pokud na naše území vnikne jakákoli cizí mocnost, čínská či jiná."
@@ -2960,7 +2960,7 @@
  XIC_request_relocation_to_northeastern_command: "Žádat přesun k SV velení"
  XIC_request_relocation_to_northeastern_command_desc: "S dokončením naší mise potlačování banditů v Šan-si je čas, aby [CHI.GetLeader] obdržel plán , v němž doporučíme, aby $CHI_zhang_xueliang$ převzal roli severní bašty a ochránce [608.GetName], které momentálně drží [HBC.GetLeader]. Tím budeme schopni dále usilovat o obnovení kdysi mocné Feng-tchianské kliky."
  XIC_invite_zuolin_loyalsits: "Přizvat Cuo-linovy loajalisty"
- XIC_invite_zuolin_loyalsits_desc: "Mnoho vojáků a generálů sloužících v armádě [MAN.GetNameDef] bylo kdysi věrných otci [ROOT.GetLeader], Zhang Zuolinovi. Je čas se jim tajně ozvat a pozvat je, aby se vrátili do [ROOT.GetNameDef]." # todo: CHANGED
+ XIC_invite_zuolin_loyalsits_desc: "Mnozí vojáci a generálové sloužící v armádě [MAN.GetNameDef] byli kdysi loajální otci [ROOT.GetLeader], Čang Cuo-linovi. Je čas je tajně oslovit a pozvat je zpět ke službě [ROOT.GetNameDef]."
  XIC_reestablish_the_zhili_army: "Obnovit Č'-li armádu"
  XIC_reestablish_the_zhili_army_desc: "Č'-li armáda Feng-tchienské kliky bývala Cuo-linovou armádou v dnešní provincii Che-pej a Pej-pingu. Měli bychom tuto organizaci obnovit jako důležitý krok k budování Kliky od základů."
  XIC_recruit_mancurian_bandits: "Naverbovat mandžuské bandity"
@@ -3006,7 +3006,7 @@
  CHI_tsr_never_another_national_protection_war: "Už nikdy další Válka národní ochrany"
  CHI_tsr_never_another_national_protection_war_desc: "Válka národní ochrany 1915-1916 byla pokusem neloajálních generálů a republikánů svrhnout legitimního císaře Chung-siena. Aby se to již nikdy neopakovalo, musíme rychle potlačit autonomní válečníky a nezávislé armády a soustředit veškerou moc do rukou Syna nebes!"
  CHI_tsr_tianxia: "Tchien-sia"
- CHI_tsr_tianxia_desc: "Všechny země na této zemi byly svému nebeskému vladaři přiděleny podle univerzálních a jasně stanovených principů řádu. Středem této země má být [ROOT.GetAdjective] dvůr a císař. Nastal čas nárokovat si naše místo jako Střední říše a jako pravou kolébku lidské civilizace!" # todo: CHANGED
+ CHI_tsr_tianxia_desc: "Všechny země pod nebem byly svěřeny našemu nebeskému panovníkovi univerzálním řádem. Jeho centrem je [ROOT.GetAdjective] dvůr a císař. Nadešel čas, abychom zaujali své místo jako Říše středu — skutečná kolébka lidské civilizace!"
  CHI_tsr_the_reorganied_government: "Reorganizovaná vláda"
  CHI_tsr_the_reorganied_government_desc: "Po zhroucení režimu [CHI.GetLeader]a a jeho zbabělém ústupu na západ jsme zde jako legitimní čínský stát. Na potvrzení toho faktu [ROOT.GetLeader] navštívil hrob Sunjatsena a prohlásil, že bude dodržovat republikánské principy, které kdysi stanovil."
  CHI_tsr_military_industrial_collaboration: "Vojenská spolupráce"
@@ -3033,13 +3033,13 @@
  CHI_tsr_a_new_chinese_identity: "Nová čínská identita"
  CHI_tsr_a_new_chinese_identity_desc: "S osudem Číny v našich rukou musíme posílit naši pozici a dokázat, že jsme důstojným partnerem a skutečnou Čínskou republikou podle vize Sunjatsena."
  CHI_tsr_our_place_in_the_sphere: "Naše místo ve sféře"
- CHI_tsr_our_place_in_the_sphere_desc: "Poté, co se stala skutečným partnerem Japonska místo pouhého satelitu, bychom měli najít své místo v rámci Společné sféry prosperity a Velké Východní Asie jako celku. Čína se opět stane světovou mocností!" # todo: CHANGED
+ CHI_tsr_our_place_in_the_sphere_desc: "Když jsme se stali skutečným partnerem Japonska místo pouhé loutky, měli bychom najít své místo ve Vzájemné prosperitě a celé východní Asii. Čína se znovu stane světovou mocností!"
  CHI_tsr_deepen_our_collaboration: "Prohloubit spolupráci"
  CHI_tsr_deepen_our_collaboration_desc: "Pod vedením Japonského impéria jsme dosáhli velkých úspěchů proti našim nepřátelům. Měli bychom prohloubit naši spolupráci, aby byl cíl sjednocené Asie konečně naplněn."
  YUN_rally_around_long_yun: "Semknout se kolem Lung Jüna"
  YUN_rally_around_long_yun_desc: "Zatímco sever ovládají radikální diktátoři, kteří za svými ideologiemi jdou za každou cenu, náš region je stabilní a občané jej považují za demokratickou pevnost díky rostoucí ekonomice a sociálním, vzdělávacím i politickým reformám. Měli bychom se proto semknout za architektem tohoto zázraku, Lung Jünem!"
  YUN_expand_local_infrastructure: "Rozšířit místní infrastrukturu"
- YUN_expand_local_infrastructure_desc: "Aby byla naše provincie lépe průjezdná, musíme investovat do infrastruktury, která vydrží v horském terénu jako je ten náš. Tímto způsobem bude možné přepravovat více zboží mezi našimi městy." # todo: CHANGED
+ YUN_expand_local_infrastructure_desc: "Aby byla naše provincie skutečně prostupná, musíme investovat do infrastruktury udržitelné v horském terénu, jaký je pro nás typický. Tím zároveň usnadníme přepravu zboží mezi našimi městy."
  YUN_strive_for_self_sufficiency: "Usilovat o soběstačnost"
  YUN_strive_for_self_sufficiency_desc: "Chceme-li, aby naše demokracie skutečně prosperovala, musíme zajistit, že nebudeme příliš závislí na pomoci severních ideologů a dokážeme se v nadcházejících letech uživit sami."
  YUN_a_land_of_mountains: "Země hor"
@@ -3047,11 +3047,11 @@
  YUN_political_reforms: "Politické reformy"
  YUN_political_reforms_desc: "Abychom mohli lépe spravovat náš stát, musíme zajistit, že naše politické procesy budou co nejméně zatíženy průtahy a korupcí a že z naší byrokracie bude těžit ekonomika, nikoli naopak."
  YUN_eduational_reforms: "Podporovat vzdělávací reformy"
- YUN_eduational_reforms_desc: "Lidové vyučování bylo odloženo na sever, ale pokud chceme, aby se doktor Sunův sen někdy splnil, musíme v něm pokračovat, byť jen zde, v naší provincii." # todo: CHANGED
+ YUN_eduational_reforms_desc: "Výchova lidu byla odsunuta na sever, avšak pokud se má sen doktora Suna někdy naplnit, musíme v ní pokračovat, byť jen zde v naší provincii."
  YUN_the_democratic_fortress: "Demokratická pevnost"
- YUN_the_democratic_fortress_desc: "Se všemi provedenými reformami lze jistě říci, že jsme baštou demokracie v tvrdé politické krajině Číny. Nyní se můžeme začít obracet ven a zkusit přinést naše osvícení novým myslím." # todo: CHANGED
+ YUN_the_democratic_fortress_desc: "Po dokončení všech našich reforem lze skutečně říci, že jsme baštou demokracie v drsné politické krajině Číny. Nyní se můžeme obrátit navenek a zjistit, zda dokážeme naše osvícení přinést i dalším."
  YUN_strengthen_burmic_ties: "Posílit vazby s Barmou"
- YUN_strengthen_burmic_ties_desc: "Naše místní obyvatelstvo má četné vazby jak k Číně, tak k Barmě skrze Lolo-barmštinu mluvící populaci. Jako syn velkého Tusi musí Long Yun přinést demokracii i na jih a osvobodit je z pout kolonialismu." # todo: CHANGED
+ YUN_strengthen_burmic_ties_desc: "Naše obyvatelstvo má silné vazby jak na Čínu, tak na Barmu prostřednictvím lolo-barmsky mluvící populace. Jako syn významného tusi musí Lung Jün přinést demokracii i na jih a osvobodit tamní obyvatele z okovů kolonialismu."
  CHI_sea_secure_internal_politics: "$CHI_secure_internal_politics$"
  CHI_sea_secure_internal_politics_desc: "$CHI_secure_internal_politics_desc$"
  CHI_sea_strenghten_warlord_authority: "$CHI_strenghten_warlord_authority$"
@@ -3522,7 +3522,7 @@
  MAN_tsr_imperial_university: "$MAN_imperial_university$"
  MAN_tsr_imperial_university_desc: "$MAN_imperial_university_desc$"
  MAN_tsr_move_capitals: "$MAN_move_capitals$"
- MAN_tsr_move_capitals_desc: "Starobylým hlavním městem celé Číny bylo vždy Peking. Nyní, když byl znovu dobyt, můžeme v triumfu vrátit císaře do jeho starého domova." # todo: CHANGED
+ MAN_tsr_move_capitals_desc: "Starodávným hlavním městem celé Číny byl vždy Peking. Nyní, když byl znovu dobyt, může se císař triumfálně vrátit do svého starého domova."
  MAN_tsr_claim_the_mandate_of_heaven: "$MAN_claim_the_mandate_of_heaven$"
  MAN_tsr_claim_the_mandate_of_heaven_desc: "$MAN_claim_the_mandate_of_heaven_desc$"
  MAN_tsr_reclaim_the_empire: "$MAN_reclaim_the_empire$"

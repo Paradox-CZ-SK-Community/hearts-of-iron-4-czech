@@ -134,7 +134,7 @@
  COUP_STRENGTH_TOOLTIP: "§HSíla převratu§! je určena popularitou podporované ideologie v cílové zemi.\n\nPokus o převrat bude silnější, čím nižší je £stability_texticon §Ystabilita§! cíle, a slabší, pokud nedodáte veškeré požadované vybavení."
  CP_ATTACHE: "Vysílání atašé pro $COUNTRY|H$"
  DAYS_TRANSFER: "$DAYS|H$ dní"
- DEN_cooperative_subject: "Kooperativní subjekt" # todo: CHANGED
+ DEN_cooperative_subject: "Spolupracující subjekt"
  DEN_deepening_partnership: "Prohlubování partnerství"
  DEN_deteriorating_overlord_relations: "Toto zhorší vztahy, které s námi má [?DEN.DEN_overlord_nation.GetFlag][?DEN.DEN_overlord_nation.GetName]"
  DEN_deteriorating_subject_relations: "To zhorší vztahy, které s námi má [DEN.GetNameDef]"
@@ -1090,7 +1090,7 @@
  MAPMODE_FACTION_TARGET: "§T$COUNTRY|UH$ je ve frakci s $FROM|H$.§!"
  MAPMODE_GOOD_OPINION: "§T$COUNTRY|UH$ má o nás velmi dobrý názor.§!"
  MAPMODE_GOOD_OPINION_TARGET: "§T$COUNTRY|UH$ má velmi dobrý názor na $FROM|H$.§!"
- MASTER_CALLED_US_TO_WAR: "Náš suzerén $MASTER|Y$ potřebuje naši pomoc a povolal nás do $WAR|Y$." # todo: CHANGED
+ MASTER_CALLED_US_TO_WAR: "Náš suzerén $MASTER|Y$ potřebuje naši pomoc a povolal nás do války $WAR|Y$."
  MEMBERS_LABEL: "Členové:"
  MISSING_FACTION_INITIATIVE: "Chybí £faction_initiative_texticon£ §Y$INITIATIVE|0$§! iniciativy frakce"
  MISSING_PP: "Chybí £pol_power §Y$PP|0$§! politické síly."
@@ -1335,7 +1335,7 @@
  SWI_supporting_resistance: "Podpora odboje na našem území"
  SWI_suspicions_of_coverup: "Podezření na utajování v aféře Gustloff"
  SWI_suspicious_preparations: "Podezřelé přípravy"
- SWI_swift_retribution_for_gustloff: "Provedli rychlou odplatu za vraždu Gustloffa" # todo: CHANGED
+ SWI_swift_retribution_for_gustloff: "Rychlá odplata za atentát na Gustloffa"
  SWI_they_lied_to_us: "Lhali nám!"
  SWI_too_costly_to_invade: "Invaze do Švýcarska by byla příliš nákladná"
  SWI_too_harsh_on_frankfurter: "Přísný trest pro Davida Frankfurtera"
@@ -1382,8 +1382,8 @@
  WARGOAL_MODIFIER_DESC: "Modifikátory válečného cíle"
  WARGOAL_THREAT_VALUE: "Zdůvodnění tohoto válečného cíle zvýší světové napětí o $VALUE|Y%0$."
  WE_ALREADY_AT_COUNTRYS_WARS: "Již se účastníme všech válek, které vede $COUNTRY|H$"
- WE_AT_WAR_WITH_COUNTRY_FRIEND: "Jsme ve válce proti zemi, která bojuje ve válce společně s $COUNTRY|H" # todo: CHANGED
- WE_FRIENDS_WITH_COUNTRY_AT_WAR: "Bojujeme ve válce společně se zemí, která je ve válce s $COUNTRY|H" # todo: CHANGED
+ WE_AT_WAR_WITH_COUNTRY_FRIEND: "Jsme ve válce proti zemi, kterou považuje $COUNTRY|H$ za spojence"
+ WE_FRIENDS_WITH_COUNTRY_AT_WAR: "Bojujeme po boku země, proti které bojuje i $COUNTRY|H$"
  X_JOINS_ALLIED_WARS: "$WHO|H$ se připojuje k válkám země $WHOM|H$"
  X_JOINS_ATTACKER_WAR_THREAT: "$WHO|U$ se připojuje k útočné válce $WAR$"
  X_JOINS_CIVIL_WAR_THREAT: "$WHO|U$ se připojuje k $WAR$"
@@ -1699,5 +1699,5 @@
  CZE_allows_passage_of_soviet_troops: "Povoluje průchod sovětských vojsk"
  CZE_i_am_agreeable_to_license: "Nákupní smlouvy Škoda a ČKD"
  DR_LEND_LEASE_CONVOY_OVERCOMMIT: "Kapacita konvojů překročena: "
- indonesia_usa_rejected_renville_modifier: "Odmítli pomoct" # todo: NEW TRANSLATION
- indonesia_china_trade_modifier: "Čínsko-indonéští migranti" # todo: NEW TRANSLATION
+ indonesia_usa_rejected_renville_modifier: "Odmítli pomoct"
+ indonesia_china_trade_modifier: "Čínsko-indonéští migranti"

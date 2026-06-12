@@ -13,8 +13,8 @@
  ALERT_DIVISION_NO_EQUIPMENT_FROM_GARRISON_REINFORCEMENT: "§TPožadované vybavení pro posily posádek:§!"
  ALERT_DIVISION_NO_EQUIPMENT_INSTANT: "§HChybějící výroba vybavení§!"
  ALERT_DIVISION_NO_EQUIPMENT_NICHED: "$NAME|H$ $NICHE$"
- ALERT_ENEMY_CRYPTO_IS_BROKEN_TOOLTIP: "Úspěšně jste rozluštili šifru následujících zemí:" # todo: CHANGED
- ALERT_ENEMY_CRYPTO_IS_BROKEN_TOOLTIP_DELAYED: "§GLevým kliknutím§! otevřete okno kryptologie" # todo: CHANGED
+ ALERT_ENEMY_CRYPTO_IS_BROKEN_TOOLTIP: "Úspěšně jste prolomili šifru následujících zemí:"
+ ALERT_ENEMY_CRYPTO_IS_BROKEN_TOOLTIP_DELAYED: "§GLevé tlačítko§! pro otevření okna kryptologie."
  ALERT_ENEMY_GENERATE_WARGOAL: "$COUNTRY|Y$ hledá záminku proti §Ynám§!."
  ALERT_ENEMY_GENERATE_WARGOAL_FACTION_MEMBER: "$COUNTRY|Y$ hledá záminku proti $TARGET|Y$"
  ALERT_FACTION_GENERATE_WARGOAL: "$COUNTRY|Y$ hledá záminku proti $TARGET|Y$"
@@ -27,7 +27,7 @@
  ALERT_NAVAL_COMBAT_INFO: "Ve flotilách označených jako důležité probíhá $NUM|H$ nových námořních bitev."
  ALERT_NAVAL_COMBAT_INFO_REGION: "V této oblasti probíhá $NUM|H$ nových námořních bitev."
  ALERT_NO_CRYPTO_IS_BEING_DECRYPTED_TOOLTIP: "§RNedekóduje se žádná nepřátelská šifra.§!"
- ALERT_NO_CRYPTO_IS_BEING_DECRYPTED_TOOLTIP_DELAYED: "§GLevým kliknutím§! otevřete okno kryptologie" # todo: CHANGED
+ ALERT_NO_CRYPTO_IS_BEING_DECRYPTED_TOOLTIP_DELAYED: "§GLevé tlačítko§! pro otevření okna kryptologie."
  ALERT_OPERATIVE_READY_TO_RECRUIT_DELAYED: "§GKlikněte§! pro otevření náborového okna"
  ALERT_OPERATIVE_READY_TO_RECRUIT_INSTANT: "Může být najat nový operativec"
  ALERT_PRIORITY: "§HPriorita upozornění flotily:§! $TYPE$"
@@ -118,7 +118,7 @@
  alert_got_raided_delayed_entry: "$TARGET_NAME$ byl zasažen úderem $RAID_TYPE_NAME|H$. Výsledek: $OUTCOME$."
  alert_got_raided_delayed_header: ""
  alert_got_raided_instant: "§YNepřátelské údery provedeny§!"
- alert_headquarter_admiral_delayed: "Přidělte admirála, aby zvýšil účinnost §Yúderných skupin§! působících v dosahu námořních velitelství" # todo: CHANGED
+ alert_headquarter_admiral_delayed: "Přiřaďte admirála pro zvýšení efektivity §Yúderných skupin§! operujících v dosahu námořního velitelství"
  alert_headquarter_admiral_instant: "K námořnímu velitelství lze přiřadit admirála:"
  alert_headquarter_admiral_location: "  $LOCATION|Y$"
  alert_hostile_troops_delayed: "V bráněné oblasti se nacházejí nepřátelské jednotky."

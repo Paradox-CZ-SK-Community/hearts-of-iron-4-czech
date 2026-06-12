@@ -1,7 +1,7 @@
 ﻿l_polish:
  poland.13.a: "[faction_invitee_target.GetNameDefCap] je samozřejmě náš přítel!"
  poland.13.b: "[faction_invitee_target.GetLeader] je někdo, komu nemůžeme důvěřovat."
- poland.13.d: "[From.GetLeader] požádal, aby [Root.GetAdjective] vláda pozvala [Root.GetFactionName], s odkazem na velký strategický přínos, který by [faction_invitee_target.GetAdjective] spojenectví mělo v případě invaze." # todo: CHANGED
+ poland.13.d:0 "[From.GetLeader] požádal [Root.GetAdjective] vládu o přijetí do frakce [Root.GetFactionName] s odkazem na velký strategický přínos, který by [faction_invitee_target.GetAdjective] aliance získala v případě invaze."
  poland.13.t: "[From.GetNameDefCap] usiluje o spolupráci s [faction_invitee_target.GetAdjective] vládou"
  poland.1301.a: "Samozřejmě!"
  poland.1301.b: "O tohle '[From.GetFactionName]' nemáme zájem."

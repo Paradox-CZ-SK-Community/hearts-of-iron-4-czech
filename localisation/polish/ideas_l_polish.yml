@@ -56,7 +56,7 @@
  ARG_uribaldi_diaz_brittenberg: "Uribaldi Díaz Brittenberg"
  AST_abandon_the_westminster_system_communism: "Opustit westminsterský systém"
  AST_abandon_the_westminster_system_fascism: "Opustit westminsterský systém"
- AST_alexander_hore_ruthven: "A. Hore-Ruthven" # todo: CHANGED
+ AST_alexander_hore_ruthven: "A. Hore-Ruthven"
  AST_all_in: "Všechno nebo nic!"
  AST_arms_for_the_revolution: "Zbraně pro revoluci"
  AST_arthur_allen: "Arthur Allen"
@@ -273,7 +273,7 @@
  CHI_chen_yi: "Čchen I"
  CHI_civil_war_deserters: "Deserteři z občanské války"
  CHI_communist_uprisings: "Komunistické povstání"
- CHI_communist_uprisings_desc: "Napětí mezi komunisty a nacionalisty panuje ve všech koutech země. Pokud podpora komunistů v zemi příliš vzroste, komunisté převezmou kontrolu nad státem." # todo: CHANGED
+ CHI_communist_uprisings_desc: "Napětí mezi komunisty a nacionalisty je přítomné ve všech koutech země. Pokud komunistická podpora v zemi vzroste příliš vysoko, komunisté převezmou kontrolu nad státem."
  CHI_fang_zeyi: "Fang Ce-i"
  CHI_gao_zhihang: "Kao Č“-chang"
  CHI_generic_democratic_reformer: "Po Si-Laj"
@@ -630,7 +630,7 @@
  GER_barbarossa_desc: "Poté, co jsme překvapili [SOV.GetAdjective] vládu, musíme nyní využít naši výhodu, než se mohou vzpamatovat a zahájit jakékoli zásadní protiofenzívy."
  GER_carl_friedrich_goerdeler: "Carl Friedrich Goerdeler"
  GER_communist_refugees: "Komunističtí uprchlíci"
- GER_communist_refugees_desc: "Německo začalo razantně potírat komunismus ve své zemi natolik, že velká část jejich občanů prchá přes hranici Sárska do naší země, způsobuje nepokoje a přidává se k PCF." # todo: CHANGED
+ GER_communist_refugees_desc: "Německo potlačilo komunismus ve své zemi natolik, že velká část jeho občanů přechází přes sárskou hranici do naší země, vyvolává nepokoje a přidává se k PCF."
  GER_dismantle_czechoslovakian_forts: "Demontáž československých pevností"
  GER_dismantle_maginot: "Demontáž Maginotovy linie"
  GER_german_swedish_trade_agreement: "Německo-švédská obchodní dohoda"
@@ -1348,7 +1348,7 @@
  PRU_vladimiro_lopez_trigoso: "Vladimiro Lopéz Trigoso"
  RAJ_agha_khan_iii: "Agha Khan III."
  RAJ_agrarian_society: "Agrární společnost"
- RAJ_agrarian_society_desc: "Místní správci věří, že jejich agrární způsob života učinil velkou část indické populace prostě nezpůsobilou pro vojenskou službu nebo válčení jakéhokoli druhu. Trvají na tom, že bychom měli rekrutovat pouze ze takzvaných \"válečnických kmenů\". Toto přesvědčení je tak rozšířené a hluboce zakořeněné, že jeho překonání potrvá alespoň jedno pokolení nebo bude vyžadovat značné investice do venkova." # todo: CHANGED
+ RAJ_agrarian_society_desc: "Místní správci jsou přesvědčeni, že kvůli agrárnímu způsobu života je velká část indického obyvatelstva prostě nezpůsobilá k vojenské službě nebo k jakémukoli druhu války. Tvrdí, že bychom měli rekrutovat pouze z takzvaných „válečných kmenů“. Toto přesvědčení je natolik rozšířené a zakořeněné, že k jeho překonání bude zapotřebí nejméně jedné generace nebo značných investic na venkově."
  RAJ_agrarian_society_dynamic: "$RAJ_agrarian_society$"
  RAJ_agrarian_society_dynamic_desc: "$RAJ_agrarian_society_desc$"
  RAJ_all_india_forward_bloc_communism: "All India Forward Bloc"
@@ -1991,7 +1991,7 @@
  communism_defeated: "Komunismus poražen"
  communism_defeated_desc: "Demokracie zvítězila nad totalitárním komunismem a demokratické strany se spojily proti této staré hrozbě."
  communist_influence: "Komunistický vliv"
- communist_influence_desc: "Komunistický nátlak učinil komunismus velmi populárním a země je náchylná přiklonit se k jiným komunistům." # todo: CHANGED
+ communist_influence_desc: "Tlak komunistů učinil komunismus velmi populárním a země je náchylná se spojit s jinými komunistickými zeměmi."
  communist_partisans_recruiting: "Nábor komunistických partyzánů"
  communist_pressure: "Komunistický nátlak"
  communist_revolutionaries: "Komunističtí revolucionáři"

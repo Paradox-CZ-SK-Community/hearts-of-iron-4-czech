@@ -72,7 +72,7 @@
  has_taken_decision_to_form_gran_columbia: "Přijal rozhodnutí vytvořit Gran Kolumbii"
  hoofin_it_tt: "Sjednotil Arábii s 30 divizemi velbloudí jízdy"
  i_didnt_vote_tt: "Vyhraj španělskou občanskou válku jako anarchisté."
- i_have_the_high_ground_tt: "Jako [AFG.GetNonIdeologyName] ovládni všechny státy, které pokrývají Himaláje" # todo: CHANGED
+ i_have_the_high_ground_tt: "Jako [AFG.GetNonIdeologyName] ovládni všechny státy, které pokrývají Himaláje"
  i_see_everything_tt: "Dosáhni 90% zpravodajství ve všech kategoriích u libovolné hlavní země bez aktivace dešifrování."
  i_shall_either_find_a_way_or_make_one_tt: "Jako [RAJ.GetNonIdeologyName] plně ovládej [2.GetName] a měj ve státě jednotku sloní jízdy."
  im_just_passing_by_tt: "Jako [RAJ.GetNonIdeologyName] vlastni stát na každém kontinentu, zatímco jsi v míru"
@@ -92,7 +92,7 @@
  otto-man_tt: "Kontroluje §Y[88.GetName]§!, §Y[89.GetName]§!, §Y[91.GetName]§! a všechny počáteční státy:\n§Y[AUS.GetNameDef]\n[HUN.GetNameDef]\n[CZE.GetNameDef]\n[CRO.GetNameDef]\n[LBV.GetNameDef]\n[ROM.GetNameDef]\n[BUL.GetNameDef]\n[GRE.GetNameDef]\n[TUR.GetNameDef]§!"
  paradisus_paradoxum_tt: "Jako [JAP.GetNonIdeologyName] vyhlas vytvoření Čisté buddhistické země"
  pesky_greeks_tt: "Jako [PER.GetNonIdeologyName] se staň vlastníkem všech domovských území [GRE.GetNonIdeologyName]"
- place_in_the_sun_tt: "Dobytí ostrova v Karibiku" # todo: CHANGED
+ place_in_the_sun_tt: "Dobyl ostrov v Karibiku"
  portugal_macau_my_day_tt: "Vytvoř kolaborantskou vládu v Macau a nech ji vlastnit všechna domovská území Číny a Mandžukua."
  prussia_of_the_balkans_tt: "Kontroluje domovské státy Rumunska, Řecka, Jugoslávie a Albánie."
  putting_the_raid_on_the_medway_to_shame_tt: "Libovolná země:\nPůvodní země je [ENG.GetName]\nMaximálně §Y0 Hlavní lodě§!"

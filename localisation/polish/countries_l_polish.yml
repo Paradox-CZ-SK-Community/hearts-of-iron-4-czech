@@ -101,8 +101,8 @@
  ALT_democratic_DEF: "Altajská republika"
  ALT_democratic: "Altaj"
  ALT_fascism_ADJ: "altaj-ojrat."
- ALT_fascism_DEF: "Nové gengisidské impérium Altajců a Oiratů" # todo: CHANGED
- ALT_fascism: "Nové gengisidské impérium Altajců a Oiratů" # todo: CHANGED
+ ALT_fascism_DEF: "Nové říše Čingischánova Altajců a Ojratů"
+ ALT_fascism: "Nové říše Čingischánova Altajců a Ojratů"
  ALT_neutrality_ADJ: "altaj."
  ALT_neutrality_DEF: "Konfederativní republika Altaj"
  ALT_neutrality: "Konfederativní republika Altaj"
@@ -1123,9 +1123,9 @@
  DEN_subject_DEF: "$OVERLORDADJ$ Dánsko"
  DEN_subject: "$OVERLORDADJ$ Dánsko"
  DEN: "Dánsko"
- DIP_ADJ: "Partyzánský" # todo: CHANGED
- DIP_DEF: "Indičtí partyzáni" # todo: CHANGED
- DIP: "Indičtí partyzáni" # todo: CHANGED
+ DIP_ADJ: "partyzán."
+ DIP_DEF: "Indičtí partyzáni"
+ DIP: "Indičtí partyzáni"
  DJI_ADJ: "džibut."
  DJI_communism_ADJ: "džibut."
  DJI_communism_DEF: "Džibutská socialistická republika"
@@ -1927,18 +1927,18 @@
  INC: "Novoincký stát"
  INS_ADJ: "indon."
  INS_communism_ADJ: "malaj."
- INS_communism_DEF: "Lidový demokratický front" # todo: CHANGED
- INS_communism: "Lidový demokratický front" # todo: CHANGED
+ INS_communism_DEF: "Lidový demokratický front"
+ INS_communism: "Lidový demokratický front"
  INS_DEF: "Indonésie"
  INS_democratic_ADJ: "indon."
  INS_democratic_DEF: "Indonéská republika"
  INS_democratic: "Indonéská republika"
  INS_fascism_ADJ: "indon."
- INS_fascism_DEF: "Republika Indonésie" # todo: CHANGED
- INS_fascism: "Republika Indonésie" # todo: CHANGED
+ INS_fascism_DEF: "Republika Indonésie"
+ INS_fascism: "Republika Indonésie"
  INS_neutrality_ADJ: "indon."
- INS_neutrality_DEF: "Republika Indonésie" # todo: CHANGED
- INS_neutrality: "Republika Indonésie" # todo: CHANGED
+ INS_neutrality_DEF: "Republika Indonésie"
+ INS_neutrality: "Republika Indonésie"
  INS: "Indonésie"
  INU_ADJ: "inuit."
  INU_communism_ADJ: "inuit."
@@ -3081,13 +3081,13 @@
  NZL_communism_DEF: "Lidová republika Aotearoa"
  NZL_communism: "Lidová republika Aotearoa"
  NZL_DEF: "Nový Zéland"
- NZL_democratic_ADJ: "Novozélandský" # todo: CHANGED
+ NZL_democratic_ADJ: "novozél."
  NZL_democratic_DEF: "Nový Zéland"
  NZL_democratic: "Nový Zéland"
- NZL_fascism_ADJ: "Kiwi" # todo: CHANGED
+ NZL_fascism_ADJ: "kiw."
  NZL_fascism_DEF: "Říše Kiwi"
  NZL_fascism: "Říše Kiwi"
- NZL_neutrality_ADJ: "Novozélandský" # todo: CHANGED
+ NZL_neutrality_ADJ: "novozél."
  NZL_neutrality_DEF: "Republika Nova Zeelandia"
  NZL_neutrality: "Republika Nova Zeelandia"
  NZL: "Nový Zéland"
@@ -4084,7 +4084,7 @@
  SIA_fascism: "Siamská říše"
  SIA_neutrality_ADJ: "siams."
  SIA_neutrality_DEF: "Siamské království"
- SIA_neutrality: "Siam" # todo: CHANGED
+ SIA_neutrality: "Siam"
  SIA: "Siam"
  SID_communism_ADJ: "sidam."
  SID_communism_DEF: "Sidamská socialistická unie jižních národů"
@@ -4833,8 +4833,8 @@
  URG_communism: "Socialistická republika Uruguay"
  URG_DEF: "Uruguay"
  URG_democratic_ADJ: "uruguay."
- URG_democratic_DEF: "Uruguayská východní republika" # todo: CHANGED
- URG_democratic: "Uruguayská východní republika" # todo: CHANGED
+ URG_democratic_DEF: "Uruguayská východní republika"
+ URG_democratic: "Uruguayská východní republika"
  URG_fascism_ADJ: "uruguay."
  URG_fascism_DEF: "Nový konstituční Uruguay"
  URG_fascism: "Nový konstituční Uruguay"
@@ -4926,8 +4926,8 @@
  VGE_neutrality_DEF: "Povolžské Německo"
  VGE_neutrality: "Povolžské Německo"
  VGE_SOV_communism_subject_ADJ: "povolž.-něm."
- VGE_SOV_communism_subject_DEF: "Volžská německá autonomní sovětská socialistická republika" # todo: CHANGED
- VGE_SOV_communism_subject: "Volžská německá autonomní sovětská socialistická republika" # todo: CHANGED
+ VGE_SOV_communism_subject_DEF: "Povolžská německá autonomní SSR"
+ VGE_SOV_communism_subject: "Povolžská německá ASSR"
  VIN_ADJ: "vietnam."
  VIN_communism_ADJ: "vietnam."
  VIN_communism_DEF: "Demokratická republika Vietnam"
@@ -4940,8 +4940,8 @@
  VIN_fascism_DEF: "Vietnamská říše"
  VIN_fascism: "Vietnamská říše"
  VIN_neutrality_ADJ: "vietnam."
- VIN_neutrality_DEF: "Císařství Dai Nam" # todo: CHANGED
- VIN_neutrality: "Císařství Dai Nam" # todo: CHANGED
+ VIN_neutrality_DEF: "Císařství Dai Nam"
+ VIN_neutrality: "Císařství Dai Nam"
  VIN: "Vietnam"
  VLA_communism_ADJ: "vladivostok."
  VLA_communism_DEF: "Vladivostocký syndikalistický kolektiv"
@@ -5689,154 +5689,154 @@
  GAL_ADJ: "halič."
  SIA_thailand: "Thajsko" # todo: NEW TRANSLATION
  SIA_thailand_DEF: "Království Thajska" # todo: NEW TRANSLATION
- SIA_thailand_ADJ: "thajský" # todo: NEW TRANSLATION
+ SIA_thailand_ADJ: "thaj."
  SIA_great_thai_empire: "Velká thajská říše" # todo: NEW TRANSLATION
  SIA_great_thai_empire_DEF: "Velká thajská říše" # todo: NEW TRANSLATION
- SIA_great_thai_empire_ADJ: "thajský" # todo: NEW TRANSLATION
+ SIA_great_thai_empire_ADJ: "thaj."
  AST_autonomy_associated_dominion: "Austrálie" # todo: NEW TRANSLATION
  AST_autonomy_associated_dominion_DEF: "Dominium Austrálie" # todo: NEW TRANSLATION
  NZL_autonomy_dominion: "Dominium Nového Zélandu" # todo: NEW TRANSLATION
  NZL_autonomy_dominion_DEF: "Dominium Nového Zélandu" # todo: NEW TRANSLATION
- NZL_autonomy_dominion_ADJ: "novozélandský" # todo: NEW TRANSLATION
- RAJ_subject: "$OVERLORDADJ$ Indie" # todo: NEW TRANSLATION
+ NZL_autonomy_dominion_ADJ: "novozél."
+ RAJ_subject: "$OVERLORDADJ$ Indie"
  BLI_fascism: "Wilwatikta" # todo: NEW TRANSLATION
  BLI_fascism_DEF: "Wilwatikta" # todo: NEW TRANSLATION
- BLI_fascism_ADJ: "Majapahit" # todo: NEW TRANSLATION
+ BLI_fascism_ADJ: "majap."
  BLI_democratic: "Pulau Dewata Bali" # todo: NEW TRANSLATION
  BLI_democratic_DEF: "Pulau Dewata Bali" # todo: NEW TRANSLATION
- BLI_democratic_ADJ: "balijský" # todo: NEW TRANSLATION
+ BLI_democratic_ADJ: "balij."
  BLI_neutrality: "Království Bali" # todo: NEW TRANSLATION
  BLI_neutrality_DEF: "Království Bali" # todo: NEW TRANSLATION
- BLI_neutrality_ADJ: "balijský" # todo: NEW TRANSLATION
+ BLI_neutrality_ADJ: "balij." # todo: NEW TRANSLATION
  BLI_communism: "Balijská unie" # todo: NEW TRANSLATION
  BLI_communism_DEF: "Balijská unie" # todo: NEW TRANSLATION
- BLI_communism_ADJ: "balijský" # todo: NEW TRANSLATION
+ BLI_communism_ADJ: "balij." # todo: NEW TRANSLATION
  BLI: "Bali" # todo: NEW TRANSLATION
  BLI_DEF: "Bali" # todo: NEW TRANSLATION
- BLI_ADJ: "balijský" # todo: NEW TRANSLATION
+ BLI_ADJ: "balij." # todo: NEW TRANSLATION
  ATJ_fascism: "Vznešený sultanát Aceh" # todo: NEW TRANSLATION
  ATJ_fascism_DEF: "Vznešený sultanát Aceh" # todo: NEW TRANSLATION
- ATJ_fascism_ADJ: "acehský" # todo: NEW TRANSLATION
+ ATJ_fascism_ADJ: "aceh." # todo: NEW TRANSLATION
  ATJ_democratic: "Svobodný stát Aceh" # todo: NEW TRANSLATION
  ATJ_democratic_DEF: "Svobodný stát Aceh" # todo: NEW TRANSLATION
- ATJ_democratic_ADJ: "acehský" # todo: NEW TRANSLATION
+ ATJ_democratic_ADJ: "aceh." # todo: NEW TRANSLATION
  ATJ_neutrality: "Království Aceh Darussalam" # todo: NEW TRANSLATION
  ATJ_neutrality_DEF: "Království Aceh Darussalam" # todo: NEW TRANSLATION
- ATJ_neutrality_ADJ: "acehský" # todo: NEW TRANSLATION
+ ATJ_neutrality_ADJ: "aceh." # todo: NEW TRANSLATION
  ATJ_communism: "Revoluční stát Aceh" # todo: NEW TRANSLATION
  ATJ_communism_DEF: "Revoluční stát Aceh" # todo: NEW TRANSLATION
- ATJ_communism_ADJ: "acehský" # todo: NEW TRANSLATION
+ ATJ_communism_ADJ: "aceh." # todo: NEW TRANSLATION
  ATJ: "Aceh" # todo: NEW TRANSLATION
  ATJ_DEF: "Aceh" # todo: NEW TRANSLATION
- ATJ_ADJ: "acehský" # todo: NEW TRANSLATION
+ ATJ_ADJ: "aceh." # todo: NEW TRANSLATION
  SSI_fascism: "Velké království Siak" # todo: NEW TRANSLATION
  SSI_fascism_DEF: "Velké království Siak" # todo: NEW TRANSLATION
- SSI_fascism_ADJ: "Siak Malay" # todo: NEW TRANSLATION
+ SSI_fascism_ADJ: "siak-malay."
  SSI_democratic: "Republika Siak" # todo: NEW TRANSLATION
  SSI_democratic_DEF: "Republika Siak" # todo: NEW TRANSLATION
- SSI_democratic_ADJ: "Siak Malay" # todo: NEW TRANSLATION
+ SSI_democratic_ADJ: "siak-malay."
  SSI_neutrality: "Sultanát Siak Sri Indrapura" # todo: NEW TRANSLATION
  SSI_neutrality_DEF: "Sultanát Siak Sri Indrapura" # todo: NEW TRANSLATION
- SSI_neutrality_ADJ: "Siak Malay" # todo: NEW TRANSLATION
+ SSI_neutrality_ADJ: "siak-malay."
  SSI_communism: "Sovětská republika Siak Sri Indrapura" # todo: NEW TRANSLATION
  SSI_communism_DEF: "Sovětská republika Siak Sri Indrapura" # todo: NEW TRANSLATION
- SSI_communism_ADJ: "Siak Malay" # todo: NEW TRANSLATION
+ SSI_communism_ADJ: "siak-malay."
  SSI: "Siak" # todo: NEW TRANSLATION
  SSI_DEF: "Siak" # todo: NEW TRANSLATION
- SSI_ADJ: "Siak Malay" # todo: NEW TRANSLATION
+ SSI_ADJ: "siak-malay."
  POK_fascism: "Velké království Mempawah" # todo: NEW TRANSLATION
  POK_fascism_DEF: "Velké království Mempawah" # todo: NEW TRANSLATION
- POK_fascism_ADJ: "Dayak" # todo: NEW TRANSLATION
+ POK_fascism_ADJ: "dayak."
  POK_democratic: "Dayacká republika Západního Borneo" # todo: NEW TRANSLATION
  POK_democratic_DEF: "Dayacká republika Západního Borneo" # todo: NEW TRANSLATION
- POK_democratic_ADJ: "Dayak" # todo: NEW TRANSLATION
+ POK_democratic_ADJ: "dayak."
  POK_neutrality: "Sultanát Pontianak Kadriyah" # todo: NEW TRANSLATION
  POK_neutrality_DEF: "Sultanát Pontianak Kadriyah" # todo: NEW TRANSLATION
- POK_neutrality_ADJ: "Dayak" # todo: NEW TRANSLATION
+ POK_neutrality_ADJ: "dayak."
  POK_communism: "Sovětská republika Západního Kalimantanu" # todo: NEW TRANSLATION
  POK_communism_DEF: "Sovětská republika Západního Kalimantanu" # todo: NEW TRANSLATION
- POK_communism_ADJ: "West Bornean" # todo: NEW TRANSLATION
+ POK_communism_ADJ: "západoborn."
  POK: "Pontianak" # todo: NEW TRANSLATION
  POK_DEF: "Pontianak" # todo: NEW TRANSLATION
- POK_ADJ: "Dayak" # todo: NEW TRANSLATION
+ POK_ADJ: "dayak."
  GOW_fascism: "Sultanát Sulawesi" # todo: NEW TRANSLATION
  GOW_fascism_DEF: "Sultanát Sulawesi" # todo: NEW TRANSLATION
- GOW_fascism_ADJ: "Sulawesian" # todo: NEW TRANSLATION
+ GOW_fascism_ADJ: "sulawes."
  GOW_democratic: "Republika Sulawesi" # todo: NEW TRANSLATION
  GOW_democratic_DEF: "Republika Sulawesi" # todo: NEW TRANSLATION
- GOW_democratic_ADJ: "Sulawesian" # todo: NEW TRANSLATION
+ GOW_democratic_ADJ: "sulawes."
  GOW_neutrality: "Sultanát Gowa" # todo: NEW TRANSLATION
  GOW_neutrality_DEF: "Sultanát Gowa" # todo: NEW TRANSLATION
- GOW_neutrality_ADJ: "Makassarese" # todo: NEW TRANSLATION
+ GOW_neutrality_ADJ: "makassar."
  GOW_communism: "Unie lidových republik Bornea a Sulawesi" # todo: NEW TRANSLATION
  GOW_communism_DEF: "Unie lidových republik Bornea a Sulawesi" # todo: NEW TRANSLATION
- GOW_communism_ADJ: "Sulawesian" # todo: NEW TRANSLATION
+ GOW_communism_ADJ: "sulawes."
  GOW: "Gowa" # todo: NEW TRANSLATION
  GOW_DEF: "Gowa" # todo: NEW TRANSLATION
- GOW_ADJ: "Makassarese" # todo: NEW TRANSLATION
+ GOW_ADJ: "makassar."
  TNE_fascism: "Království Gapi" # todo: NEW TRANSLATION
  TNE_fascism_DEF: "Království Gapi" # todo: NEW TRANSLATION
- TNE_fascism_ADJ: "Gapi" # todo: NEW TRANSLATION
+ TNE_fascism_ADJ: "gapij."
  TNE_democratic: "Spojené státy Moluk" # todo: NEW TRANSLATION
  TNE_democratic_DEF: "Spojené státy Moluk" # todo: NEW TRANSLATION
- TNE_democratic_ADJ: "Moluccan" # todo: NEW TRANSLATION
+ TNE_democratic_ADJ: "moluc."
  TNE_neutrality: "Sultanát Ternate" # todo: NEW TRANSLATION
  TNE_neutrality_DEF: "Sultanát Ternate" # todo: NEW TRANSLATION
- TNE_neutrality_ADJ: "Ternate" # todo: NEW TRANSLATION
+ TNE_neutrality_ADJ: "ternat." # todo: NEW TRANSLATION
  TNE_communism: "Lidová republika Moluk" # todo: NEW TRANSLATION
  TNE_communism_DEF: "Lidová republika Moluk" # todo: NEW TRANSLATION
- TNE_communism_ADJ: "Moluccan" # todo: NEW TRANSLATION
+ TNE_communism_ADJ: "moluc."
  TNE: "Ternate" # todo: NEW TRANSLATION
  TNE_DEF: "Ternate" # todo: NEW TRANSLATION
- TNE_ADJ: "Ternate" # todo: NEW TRANSLATION
+ TNE_ADJ: "ternat." # todo: NEW TRANSLATION
  BOU_fascism: "Melanéský stát Bougainville" # todo: NEW TRANSLATION
  BOU_fascism_DEF: "Melanéský stát Bougainville" # todo: NEW TRANSLATION
- BOU_fascism_ADJ: "Bougainvillean" # todo: NEW TRANSLATION
+ BOU_fascism_ADJ: "bougainvil." # todo: NEW TRANSLATION
  BOU_democratic: "Republika Bougainville" # todo: NEW TRANSLATION
  BOU_democratic_DEF: "Republika Bougainville" # todo: NEW TRANSLATION
- BOU_democratic_ADJ: "Bougainvillean" # todo: NEW TRANSLATION
+ BOU_democratic_ADJ: "bougainvil." # todo: NEW TRANSLATION
  BOU_neutrality: "Republika Severních Šalomounových ostrovů" # todo: NEW TRANSLATION
  BOU_neutrality_DEF: "Republika Severních Šalomounových ostrovů" # todo: NEW TRANSLATION
- BOU_neutrality_ADJ: "Bougainvillean" # todo: NEW TRANSLATION
+ BOU_neutrality_ADJ: "bougainvil." # todo: NEW TRANSLATION
  BOU_communism: "Revoluční socialistická republika Bougainville" # todo: NEW TRANSLATION
  BOU_communism_DEF: "Revoluční socialistická republika Bougainville" # todo: NEW TRANSLATION
- BOU_communism_ADJ: "Bougainvillean" # todo: NEW TRANSLATION
+ BOU_communism_ADJ: "bougainvil." # todo: NEW TRANSLATION
  BOU: "Bougainville" # todo: NEW TRANSLATION
  BOU_DEF: "Bougainville" # todo: NEW TRANSLATION
- BOU_ADJ: "Bougainvillean" # todo: NEW TRANSLATION
+ BOU_ADJ: "bougainvil." # todo: NEW TRANSLATION
  VAN_fascism: "Impérium Ni-Vanuatu" # todo: NEW TRANSLATION
  VAN_fascism_DEF: "Impérium Ni-Vanuatu" # todo: NEW TRANSLATION
- VAN_fascism_ADJ: "Vanuatuan" # todo: NEW TRANSLATION
+ VAN_fascism_ADJ: "vanuat." # todo: NEW TRANSLATION
  VAN_democratic: "Republika Vanuatu" # todo: NEW TRANSLATION
  VAN_democratic_DEF: "Republika Vanuatu" # todo: NEW TRANSLATION
- VAN_democratic_ADJ: "Vanuatuan" # todo: NEW TRANSLATION
+ VAN_democratic_ADJ: "vanuat." # todo: NEW TRANSLATION
  VAN_neutrality: "Vznešená republika Vemerana" # todo: NEW TRANSLATION
  VAN_neutrality_DEF: "Vznešená republika Vemerana" # todo: NEW TRANSLATION
- VAN_neutrality_ADJ: "Vemeranan" # todo: NEW TRANSLATION
+ VAN_neutrality_ADJ: "vemeran."
  VAN_communism: "Lidová prozatímní vláda Vanuatu" # todo: NEW TRANSLATION
  VAN_communism_DEF: "Lidová prozatímní vláda Vanuatu" # todo: NEW TRANSLATION
- VAN_communism_ADJ: "Vanuatuan" # todo: NEW TRANSLATION
+ VAN_communism_ADJ: "vanuat."
  VAN: "Vanuatu" # todo: NEW TRANSLATION
  VAN_DEF: "Vanuatu" # todo: NEW TRANSLATION
- VAN_ADJ: "vanuatský" # todo: NEW TRANSLATION
+ VAN_ADJ: "vanuat."
  VAN_ENG_subject: "Kondominium Nových Hebrid" # todo: NEW TRANSLATION
  VAN_ENG_subject_DEF: "Kondominium Nových Hebrid" # todo: NEW TRANSLATION
- VAN_ENG_subject_ADJ: "New Hebridean" # todo: NEW TRANSLATION
+ VAN_ENG_subject_ADJ: "novohebr."
  VAN_FRA_subject: "Condominium des Nouvelles-Hébrides" # todo: NEW TRANSLATION
  VAN_FRA_subject_DEF: "le Condominium des Nouvelles-Hébrides" # todo: NEW TRANSLATION
- VAN_FRA_subject_ADJ: "New Hebridean" # todo: NEW TRANSLATION
+ VAN_FRA_subject_ADJ: "novohebr."
  CPS_fascism: "Impérium Champasak" # todo: NEW TRANSLATION
  CPS_fascism_DEF: "Impérium Champasak" # todo: NEW TRANSLATION
- CPS_fascism_ADJ: "Bassac Laotian" # todo: NEW TRANSLATION
+ CPS_fascism_ADJ: "laos."
  CPS_democratic: "Republika Champasak" # todo: NEW TRANSLATION
  CPS_democratic_DEF: "Republika Champasak" # todo: NEW TRANSLATION
- CPS_democratic_ADJ: "Bassac Laotian" # todo: NEW TRANSLATION
+ CPS_democratic_ADJ: "laos." # todo: NEW TRANSLATION
  CPS_neutrality: "Království Champasak" # todo: NEW TRANSLATION
  CPS_neutrality_DEF: "Království Champasak" # todo: NEW TRANSLATION
- CPS_neutrality_ADJ: "Bassac Laotian" # todo: NEW TRANSLATION
+ CPS_neutrality_ADJ: "laos." # todo: NEW TRANSLATION
  CPS_communism: "Lidová demokratická republika Bassac" # todo: NEW TRANSLATION
  CPS_communism_DEF: "Lidová demokratická republika Bassac" # todo: NEW TRANSLATION
- CPS_communism_ADJ: "Bassac Laotian" # todo: NEW TRANSLATION
+ CPS_communism_ADJ: "laos." # todo: NEW TRANSLATION
  CPS: "Champasak" # todo: NEW TRANSLATION
  CPS_DEF: "Champasak" # todo: NEW TRANSLATION
- CPS_ADJ: "Bassac Laotian" # todo: NEW TRANSLATION
+ CPS_ADJ: "laos." # todo: NEW TRANSLATION

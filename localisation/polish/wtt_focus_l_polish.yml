@@ -35,11 +35,11 @@
  CHI_closer_ties_with_germany: "Užší vazby\ns Německem"
  CHI_closer_ties_with_germany_desc: "Naše mise do Německa otevřela možnost ještě větší spolupráce, včetně půjčky na financování dalšího průmyslového rozvoje."
  CHI_coastal_patrol_planes: "Letadla pobřežní hlídky"
- CHI_coastal_patrol_planes_desc: "Naše dlouhé pobřeží lze efektivně hlídat jen ze vzduchu. Moderní námořní bombardéry nám umožní bránit pobřeží, aniž bychom spotřebovali příliš mnoho prostředků." # todo: CHANGED
+ CHI_coastal_patrol_planes_desc: "Naše dlouhé pobřeží lze účinně hlídat pouze ze vzduchu. Moderní námořní bombardéry nám umožní bránit naše pobřeží bez vynaložení velkých prostředků."
  CHI_collaboration_with_the_japanese: "Spolupráce s Japonci"
  CHI_collaboration_with_the_japanese_desc: "Ať už jsou jejich plány vůči Číně jakékoli, Japonci dali jasně najevo, že jsou ochotni s námi spolupracovat, pokud jim prokážeme dostatečný respekt."
  CHI_combined_arms_warfare: "Kombinované válčení"
- CHI_combined_arms_warfare_desc: "Zatímco nákladní automobily stačí pro počáteční experimenty s moderním mechanizovaným bojem, jejich slabá průchodnost terénem a nedostatek pancéřování je činí nevhodnými pro práci v první linii." # todo: CHANGED
+ CHI_combined_arms_warfare_desc: "Náklaďáky jsou sice dostatečně dobré pro počáteční experimenty v moderní mechanizované válce, ale jejich špatná průchodnost terénem a nedostatečné pancéřování je činí nevhodnými pro práci v první linii."
  CHI_commit_to_korean_independence: "Zavázat se k nezávislosti Koreje"
  CHI_commit_to_korean_independence_desc: "Korejci byli prvními oběťmi japonské okupace. Mezi národy světa budou opět stát jako svobodný národ."
  CHI_communist_administrators: "Komunističtí administrátoři"
@@ -51,7 +51,7 @@
  CHI_construction_battalions: "Stavební prapory"
  CHI_construction_battalions_desc: "Jestli má naše země něčeho dostatek, pak jsou to lidé. Můžeme zformovat speciální jednotky, které potřebují jen lopaty, aby mohly vykonávat základní vojenskou ženijní práci."
  CHI_control_yuan: "Kontrolní komora"
- CHI_control_yuan_desc: "Korupce je v každé vládě nevyhnutelná. Efektivní vláda vyžaduje úsilí ji udržet na uzdě. Vytvoříme samostatný orgán státní moci, rovnocenný zákonodárné, výkonné a soudní větvi." # todo: CHANGED
+ CHI_control_yuan_desc: "Korupce je v každé vládě nevyhnutelná. Účinné vládnutí však vyžaduje snahu ji udržet pod kontrolou. Zřídíme proto samostatnou mocenskou složku, rovnocennou zákonodárné, výkonné a soudní moci."
  CHI_cooperation_with_the_communists: "Spolupráce s komunisty"
  CHI_cooperation_with_the_communists_desc: "KMT se pokusil vybudovat moderní stát, ale neuspěl. Země je rozdělená více než kdy jindy, rolníci žijí ve strachu z vlády, korupce bují na všech úrovních státní správy a japonští imperialisté se nacházejí hned za hranicemi. Možná je komunismus lepší vizí budoucnosti."
  CHI_cooperation_with_the_communists_effect_tooltip: "Vojevůdci, kteří se postavili na stranu nacionalistů, mohou začít s námi §Hpohraniční konflikty§! jako odpověď.\n"
@@ -77,11 +77,11 @@
  CHI_embrace_the_opium_trade: "Využít obchod s opiem"
  CHI_embrace_the_opium_trade_desc: "Stát potřebuje peníze, aby mohl fungovat. V naší současné situaci si nemůžeme příliš vybírat, odkud budou pocházet."
  CHI_examination_yuan: "Examinační úřad"
- CHI_examination_yuan_desc: "Po tisíce let byli čínští úředníci vybíráni v přísných zkouškách. Ač se potřebné texty mohly změnit, princip zůstává stejný." # todo: CHANGED
+ CHI_examination_yuan_desc: "Po tisíce let byli čínští úředníci vybíráni přísnými zkouškami. Ačkoli se potřebné texty mohly změnit, princip výběru zůstává stejný."
  CHI_executive_yuan: "Výkonný úřad"
  CHI_executive_yuan_desc: "Vláda je založena na výkonném úřadu, který aplikuje zákony. Je tedy logické, že jeho vytvoření je prvním krokem k vybudování funkční republiky."
  CHI_expand_the_academica_sinica: "Rozšířit Academica Sinica"
- CHI_expand_the_academica_sinica_desc: "Po tisíciletí vedla Čína svět ve vývoji umění a věd. Zvýšení financování našich univerzit je pouze prvním krokem k navrácení této pozice." # todo: CHANGED
+ CHI_expand_the_academica_sinica_desc: "Po tisíce let vedla Čína svět v rozvoji umění a věd. Zvýšení financování našich univerzit je jen prvním krokem k obnovení tohoto postavení."
  CHI_experimental_mechanised_unit: "Experimentální mechanizovaná divize"
  CHI_experimental_mechanised_unit_desc: "Teoretici v Evropě dlouho diskutovali o nejlepším způsobu využití tanků. Zdá se, že divize kombinující mobilní pěchotu s rychlými tanky je nejlepší přístup. Založíme takovou divizi."
  CHI_experimental_mechanised_unit_effect: "Získat divizi se 2 §YLehkými tanky§! a 4 §YMotorizovanými§! prapory\n"
@@ -125,9 +125,9 @@
  CHI_ideological_education: "Ideologické vzdělávání"
  CHI_ideological_education_desc: "Základem našeho budoucího úspěchu je dnešek. Budoucí generace se musí naučit základní pravdu, že celá historie je historií třídního boje a jejich role v něm."
  CHI_imperial_legacy: "Císařský odkaz"
- CHI_imperial_legacy_desc: "Čína stála po tisíciletí jako dominantní síla na Východě, zajišťující mír a stabilitu v regionu. Je čas, abychom si opět nárokovali svou bývalou pozici." # todo: CHANGED
+ CHI_imperial_legacy_desc: "Čína je po tisíciletí dominantní silou na Východě, která je zárukou míru a stability v regionu. Je načase, abychom získali zpět své dřívější postavení."
  CHI_indian_cooperation: "Spolupráce s Indií"
- CHI_indian_cooperation_desc: "Národy Indie bojují o shození posledních okovů koloniálního útlaku. Měli bychom je oslovit, podpořit jejich boj a spolupracovat na lepší budoucnosti pro obě naše země." # todo: CHANGED
+ CHI_indian_cooperation_desc: "Lid Indie bojuje za to, aby se zbavil posledních okovů koloniálního útlaku. Měli bychom jim vyjít vstříc, podpořit jejich boj a společně pracovat na lepší budoucnosti obou našich národů."
  CHI_industrial_evacuations: "Evakuace průmyslu"
  CHI_industrial_evacuations_desc: "Moderní válka se vyhrává v továrnách. Armáda beze zbraní není nic jiného než skupina lidí v hloupých kloboucích."
  CHI_industrial_investment: "Investice do průmyslu"
@@ -140,7 +140,7 @@
  CHI_institute_cross_border_raids_desc: "Nebudeme bráni jako seriózní nezávislý uchazeč v boji o čínské vůdcovství, pokud světu neprokážeme, že jsme schopni a ochotni bojovat za svou zemi. Několik malých vpádů ukáže naše odhodlání a mohlo by nám umožnit zmocnit se některých nebráněných území."
  CHI_institute_cross_border_raids_effect_tooltip: "Odemkne £decision_icon_small §Hrozhodnutí§! k zahájení §Hpohraničních konfliktů§! s militaristama a [WTT_communist_china.GetNameDef]\n"
  CHI_integrate_tibet: "Integrace Tibetu"
- CHI_integrate_tibet_desc: "Experiment s tibetskou nezávislostí je u konce. Vojenská invaze je jednou z možností, ale měli bychom se nejprve pokusit přivést je zpět klidnými prostředky." # todo: CHANGED
+ CHI_integrate_tibet_desc: "Experiment tibetské nezávislosti skončil. Vojenská invaze je jednou z možností, ale měli bychom se pokusit přivést je zpět do svazku mírovou cestou."
  CHI_inter_party_coordination_council: "Mezistranická koordinační rada"
  CHI_inter_party_coordination_council_desc: "Prvním krokem k přeměně naší země ve fungující demokracii s více stranami a k ukončení nezbytného komandování lidu bude organizace, která umožní ostatním zainteresovaným stranám vyjádřit se k tvorbě politiky."
  CHI_investment_into_shipbuilding: "Investice do stavby lodí"
@@ -158,11 +158,11 @@
  CHI_joint_tank_development: "Společný vývoj tanků"
  CHI_joint_tank_development_desc: "Po zkušenostech získaných při spolupráci se sovětskými konstruktéry bychom měli vytvořit společné konstrukční týmy, abychom mohli lépe koordinovat práci a vzájemně se od sebe učit."
  CHI_judicial_yuan: "Soudní komora"
- CHI_judicial_yuan_desc: "Dr. Sun Yat-Sen si představoval moderní republiku se zásadou dělby moci. Naše soudnictví musí být nezávislé na vnějších vlivech a rozhodovat případy výhradně na základě zákona." # todo: CHANGED
+ CHI_judicial_yuan_desc: "Doktor Sunjatsen si představoval moderní republiku se systémem dělby moci. Naše soudnictví musí být nezávislé na vnějším vlivu a rozhodovat případy výhradně na základě práva."
  CHI_judiciary_reforms: "Reformy soudnictví"
  CHI_judiciary_reforms_desc: "Má-li naše správa něco změnit, musíme zajistit, aby všichni soudci byli dostatečně vzdělaní a mohli správně uplatňovat naše zákony."
  CHI_labor_reform: "Reforma práce"
- CHI_labor_reform_desc: "Metody a zvyky práce v Číně se vyvíjely po tisíciletí. Nastal čas přenést je do moderní doby." # todo: CHANGED
+ CHI_labor_reform_desc: "Metody a zvyky práce v Číně se vyvíjely po tisíciletí. Je načase přenést je do moderní doby."
  CHI_land_redistribution: "Redistribuce půdy"
  CHI_land_redistribution_desc: "Rolníci jsou bezohledně vykořisťováni statkáři, přestože tvoří základ našeho hospodářství. Učinit z lidí, kteří na půdě hospodaří, ty, kteří ji skutečně vlastní, povede k mnohem spravedlivější a produktivnější společnosti."
  CHI_land_reform: "Pozemková reforma"
@@ -202,11 +202,11 @@
  CHI_modern_logistics: "Moderní logistika"
  CHI_modern_logistics_desc: "Bez funkčního logistického systému nebudeme schopni udržovat armádu v poli."
  CHI_modern_submarines: "Moderní ponorky"
- CHI_modern_submarines_desc: "Japonci nejsou ochotni nám poskytnout technické znalosti, abychom mohli jejich flotě čelit v otevřeném boji, ale považují ponorkovou válku za pomocné odvětví. My s tím samozřejmě nemusíme souhlasit." # todo: CHANGED
+ CHI_modern_submarines_desc: "Japonci nám nechtějí poskytnout technické znalosti, abychom se mohli postavit jejich flotile v otevřeném boji, ale ponorkovou válku považují za pomocnou složku. My ovšem tento názor nemusíme nutně sdílet."
  CHI_nationalism: "Nacionalismus"
  CHI_nationalism_desc: "Myšlenka příslušnosti k národu - spíše než ke kmeni nebo náboženství - mění skupinu lidí ve stát."
  CHI_naval_aviation: "Námořní letectví"
- CHI_naval_aviation_desc: "Budoucností námořnictva jsou letadlové lodě. Nebudeme považováni za opravdovou námořní mocnost, pokud nebudeme vlastnit vlastní letadlové lodě." # todo: CHANGED
+ CHI_naval_aviation_desc: "Budoucností námořního válčení je letadlová loď. Nikdy nebudeme považováni za skutečnou námořní velmoc, pokud nebudeme mít vlastní letadlové lodě."
  CHI_new_life_movement: "Hnutí nového života"
  CHI_new_life_movement_desc: "Čtyři ctnosti: morálka, čestnost, spravedlnost a věrnost budou od nynějška vést naše občany k lepšímu a produktivnějšímu životu."
  CHI_new_model_province: "Nová modelová provincie"
@@ -233,7 +233,7 @@
  CHI_proclaim_rival_government: "Vyhlásit vlastní vládu"
  CHI_proclaim_rival_government_desc: "Je na čase, aby se naše ambice staly oficiálními. Nepožadujeme nic menšího než plnou kontrolu nad Čínou a budeme jednat se zbytkem světa jako rovný s rovným."
  CHI_provoke_border_clashes: "Pohraniční konflikty s nacionalisty"
- CHI_provoke_border_clashes_desc: "Nemůžeme si zatím dovolit riziko totální války. Malý, omezený konflikt nám umožní získat cenné území, aniž bychom byli úplně zničeni. Ideálně udeříme právě ve chvíli, kdy má protivník své síly nasazeny jinde." # todo: CHANGED
+ CHI_provoke_border_clashes_desc: "Zatím nemůžeme riskovat plnohodnotnou válku. Malý, omezený konflikt nám umožní získat cenné pozice, aniž bychom byli přímo rozdrceni. V ideálním případě udeříme právě ve chvíli, kdy náš protivník nasadí své síly jinde."
  CHI_provoke_border_clashes_effect_tooltip: "Odemkne £decision_icon_small §Hrozhodnutí§! pro zahájení §Hpohraničního konfliktu§! s [WTT_current_china_leader.GetNameDef]\n"
  CHI_public_education_reform: "Reforma veřejného vzdělávání"
  CHI_public_education_reform_desc: "Základ moderního národa spočívá ve znalostech a vědě. Nejprve musíme zlepšit a posílit tento základ."
@@ -256,7 +256,7 @@
  CHI_refugee_relief_agency: "Úřad pro pomoc uprchlíkům"
  CHI_refugee_relief_agency_desc: "V důsledku válečných otřesů se miliony lidí ocitly bez domova. Vytvoříme úřad, který jim pomůže najít nové bydlení."
  CHI_refugee_resettlement: "Přesídlení uprchlíků"
- CHI_refugee_resettlement_desc: "Miliony zoufalých a bezdomovných uprchlíků způsobených válkou je třeba někam usadit. Poskytnutí útočiště na našem území nám umožní udržet je jako zdroj náboru pro armádu i ekonomiku." # todo: CHANGED
+ CHI_refugee_resettlement_desc: "Miliony zoufalých uprchlíků bez domova, které vytvořila válka, je třeba někde usadit. Poskytnout jim útočiště na našem území znamená, že si je můžeme ponechat jako zdroj rekrutů pro naši armádu a ekonomiku."
  CHI_renegotiate_the_unequal_treaties: "Znovu projednat Nerovné smlouvy"
  CHI_renegotiate_the_unequal_treaties_desc: "Západ nám příliš dlouho diktoval, jak máme podnikat uvnitř našich vlastních hranic. Jejich občané jsou chráněni před našimi zákony a my nemáme co mluvit do toho, jak v našich městech podnikají. To musí skončit. Budeme se k nim opět stavět jako rovný k rovnému."
  CHI_renounce_the_mcmahon_line: "Odmítnout\nMcMahonovu linii"
@@ -266,7 +266,7 @@
  CHI_root_out_corruption: "Vymýtit korupci"
  CHI_root_out_corruption_desc: "Vládní úředníci po celá desetiletí zneužívali svého postavení k plnění vlastních kapes a šikanování obyvatelstva a zavírali oči před zločinci, kteří jim plnili kapsy. Tomu je nyní konec."
  CHI_rural_militias: "Vesnické milice"
- CHI_rural_militias_desc: "Na rozlehlém venkově vojenská podpora často trvá dlouho, než dorazí na místo vpádu. Vytvořením místních milicí zajistíme, že každý vetřelec bude mít obtíže pohybovat se po naší krajině." # todo: CHANGED
+ CHI_rural_militias_desc: "V rozlehlých oblastech trvá vojenské podpoře často dlouho, než se dostane na místo vpádu. Posilováním místní domobrany můžeme zajistit, že případný útočník bude mít problém projít naší krajinou."
  CHI_rural_reconstruction_movement: "Hnutí za obnovu venkova"
  CHI_rural_reconstruction_movement_desc: "Dobře vzdělané obyvatelstvo je klíčem k modernizaci národa. Nemůžeme se spoléhat jen na hrstku vzdělaných úředníků - duch poznání a vědy musí proniknout do každé vesnice."
  CHI_rural_schooling: "Školy pro venkov"
@@ -416,7 +416,7 @@
  JAP_japanese_settlement: "Japonské osídlení"
  JAP_japanese_settlement_desc: "Usazením našich vlastních lidí v Mandžusku můžeme zvýšit pracovní sílu a tím vytvořit příznivější místa pro továrny."
  JAP_jet_prototypes: "Prototypy proudových letadel"
- JAP_jet_prototypes_desc: "Budoucnost letectví neleží u vrtulí. Musíme se zaměřit na proudový pohon pro zlepšení schopností našich letadel." # todo: CHANGED
+ JAP_jet_prototypes_desc: "Budoucnost letectví nespočívá ve vrtulích. Pro zlepšení schopností našich letadel se musíme zaměřit na proudový pohon."
  JAP_join_comintern: "Připojit se ke Kominterně"
  JAP_join_comintern_desc: "Proti světu nemůžeme stát sami. Musíme se postavit společně s rodištěm komunismu a chránit revoluci!"
  JAP_join_the_london_naval_treaty: "Připojit se k Londýnské námořní dohodě"
@@ -506,7 +506,7 @@
  JAP_strike_on_the_southern_resource_area: "Útok na Jižní surovinovou oblast"
  JAP_strike_on_the_southern_resource_area_desc: "Nastal čas zahájit náš plán. Zaútočíme na jih a získáme pro sebe západní kolonie bohaté na zdroje."
  JAP_strike_south_doctrine: "Doktrína úderu na jih"
- JAP_strike_south_doctrine_desc: "Ač bohatá, Čína nevlastní všechny zdroje, které potřebujeme. Nedaleko na jihu se však nachází Nizozemské východní Indie a britské kolonie Malajsie a Borneo. Pro skutečnou soběstačnost musíme získat nad těmito oblastmi kontrolu a odebrat ji evropským imperialistům." # todo: CHANGED
+ JAP_strike_south_doctrine_desc: "Ačkoli je Čína bohatá, nemá všechny zdroje, které potřebujeme. Nedaleko na jihu však leží Nizozemská východní Indie a britské kolonie Malajsko a Borneo. Abychom byli skutečně soběstační, musíme nad těmito oblastmi vyrvat kontrolu evropským imperialistům."
  JAP_support_the_kodoha_faction: "Podpořit frakci Kódóha"
  JAP_support_the_kodoha_faction_desc: "Objevila se nová frakce, která má v úmyslu převzít kontrolu nad vládou a zasáhnout na sever do Sovětského svazu. V zájmu císaře a budoucnosti říše musíme zajistit, aby tato frakce zvítězila!"
  JAP_supremacy_of_technology: "Síla technologie"
@@ -556,7 +556,7 @@
  MAN_assertiveness: "Asertivita"
  MAN_assertiveness_desc: "Japonci nám stále vládnou s nesnesitelnou arogancí. Měli bychom jim připomenout, že i my jsme Říše hodná úcty."
  MAN_bolster_nationalism: "Podpořit nacionalismus"
- MAN_bolster_nationalism_desc: "Příliš dlouho lidé považovali Manchukuo za umělý výtvor vytvořený Japonci. Ale každá země byla kdysi jen myšlenkou. Musíme v lidech vybudovat pocit mandžuské identity a proměnit tu myšlenku v realitu." # todo: CHANGED
+ MAN_bolster_nationalism_desc: "Lidé příliš dlouho považovali Mandžusko za umělý konstrukt vytvořený Japonci. Ale každý národ byl kdysi jen myšlenkou. Musíme v lidech upevnit pocit mandžuské identity a proměnit tuto ideu ve skutečnost."
  MAN_chinese_leadership: "Vůdčí postavení v Číně"
  MAN_chinese_leadership_desc: "Čínský lid potřebuje čínského vůdce. Měli bychom veřejně prohlásit, že naším cílem není nic menšího než úplné obnovení císařské vlády nad celou Čínou."
  MAN_claim_the_mandate_of_heaven: "Obnovit Mandát nebes"
@@ -590,7 +590,7 @@
  MAN_imperial_university: "Císařská univerzita"
  MAN_imperial_university_desc: "Říše potřebuje k prosazování své věci chytré lidi. Měli bychom vytvořit místo, kde se budou scházet ti nejlepší a nejchytřejší z našich lidí, aby se učili jeden od druhého."
  MAN_independence_war: "Válka za nezávislost"
- MAN_independence_war_desc: "Nastal čas svléknout okovy útlaku a bojovat za naše dávné svobody. Manchukuo bude první část Číny, která se osvobodí od veškerého cizího útlaku." # todo: CHANGED
+ MAN_independence_war_desc: "Nastal čas odhodit okovy útlaku a bojovat za naše dávné svobody. Mandžusko bude první částí Číny, která se nadechne svobody od všeho cizího útlaku."
  MAN_invite_japanese_investors: "Pozvat japonské investory"
  MAN_invite_japanese_investors_desc: "Rozvoj naší země bude vyžadovat pomoc zvenčí. Řada firem v Japonsku naznačila, že jsou ochotny investovat do naší země."
  MAN_invite_japanese_settlers: "Pozvat japonské osadníky"
@@ -602,7 +602,7 @@
  MAN_mamc: "MAMC"
  MAN_mamc_desc: "Vytvoření společnosti Manchurian Aircraft Manufacturing nám umožní vybudovat moderní letectvo, které se dokáže postavit jakémukoli jinému."
  MAN_move_capitals: "Přesunout hlavní město"
- MAN_move_capitals_desc: "Starobylé hlavní město celé Číny vždy bylo Peking. Nyní, když bylo znovu dobyto, můžeme triumfálně vrátit císaře do jeho starého domova." # todo: CHANGED
+ MAN_move_capitals_desc: "Starobylým hlavním městem celé Číny byl vždy Bejing. Nyní, když byl znovu dobyt, se může císař triumfálně vrátit do svého starého domova."
  MAN_mukden_arsenal: "Mukdenská zbrojovka"
  MAN_mukden_arsenal_desc: "Stará císařská zbrojovka bude tvořit jádro nového vojensko-průmyslového komplexu, který bude naši armádu zásobovat moderními zbraněmi."
  MAN_mukden_military_academy: "Mukdenská vojenská akademie"
@@ -635,13 +635,13 @@
  MAN_staff_the_court_with_manchus: "Obsadit dvůr Mandžuy"
  MAN_staff_the_court_with_manchus_desc: "Dynastie Čching vládla Číně po celá staletí. Chceme-li získat zpět svou někdejší slávu, musíme zajistit, abychom se co nejvíce drželi jejich příkladu."
  MAN_the_two_emperors: "Dva císaři"
- MAN_the_two_emperors_desc: "Nastal čas zbavit se absurdní představy, že nejsme plně rovnocennými partnery Japonců. Naši dva císaři jsou jako bratři!" # todo: CHANGED
+ MAN_the_two_emperors_desc: "Nastal čas skoncovat s absurdní představou, že jsme něco jiného než zcela rovnocenní partneři Japonců. Naši dva císaři jsou jako bratři!"
  MAN_trade_delegation: "Obchodní delegace"
  MAN_trade_delegation_desc: "Zbytek světa je v průmyslových metodách dále než my. Měli bychom vyslat delegaci, která by studovala jejich postupy a hledala způsoby, jak zlepšit ty naše."
  MAN_vassalize_mengukuo: "Vazalizovat Mengkukský stát"
  MAN_vassalize_mengukuo_desc: "Princ z Mengkukua není hoden stát po boku císaře z Mandžuska. Je načase ukončit tento hloupý experiment a vrátit ho na správné místo."
  MAN_white_russian_advisers: "Poradci z řad bělogvardějců"
- MAN_white_russian_advisers_desc: "Po ruské občanské válce někteří Rusové dali přednost exilu před osudem, který pro poražené plánovali Sověti. Tyto bělogvardějce můžeme využít k obnově a výcviku naší armády." # todo: CHANGED
+ MAN_white_russian_advisers_desc: "Po ruské občanské válce někteří Rusové upřednostnili exil před osudem, který jim připravili bolševici. Tyto muže můžeme využít k reorganizaci a výcviku naší armády."
  PRC_100_regiments_campaign: "Tažení sta pluků"
  PRC_100_regiments_campaign_desc: "Prozatím jsme se soustředili na menší střety a přestřelky. Naši nepřátelé nás považují za slabé a za pouhou nepříjemnost. Ukolébáni falešným pocitem bezpečí budou špatně připraveni na rozsáhlou ofenzívu."
  PRC_abolish_the_land_rent: "Zrušit pronájem půdy"
@@ -675,7 +675,7 @@
  PRC_infiltration: "Infiltrace"
  PRC_infiltration_desc: "Nacionalisté by chtěli, abychom s nimi bojovali v otevřeném boji. Nesmíme podlehnout pokušení. Na nepřátelské území vyšleme malé skupiny vojáků, kteří budou budovat zázemí. Až nastane správný čas, vyvoláme povstání a zaskočíme Nacionalisty."
  PRC_internationalism: "Internacionalismus"
- PRC_internationalism_desc: "Dělníci a rolníci celého světa se musí sjednotit, aby shodili své okovy. Rameno v rameno vybudujeme lepší budoucnost." # todo: CHANGED
+ PRC_internationalism_desc: "Dělníci a rolníci celého světa se musí sjednotit, aby se zbavili svých okovů. Bok po boku vybudujeme lepší budoucnost."
  PRC_land_redistribution: "Přerozdělování půdy"
  PRC_land_redistribution_desc: "Lidé, kteří na půdě pracují, jsou po staletí nuceni platit nájem lidem, kteří ji skutečně vlastní. Tohle musíme změnit."
  PRC_literacy_programs: "Programy na podporu gramotnosti"
@@ -719,7 +719,7 @@
  PRC_socialist_market_economy: "Socialistická tržní ekonomika"
  PRC_socialist_market_economy_desc: "Cesta k socialismu a komunismu musí z definice vést přes kapitalismus. V Číně se nikdy nerozvinulo řádné kapitalistické tržní hospodářství, což téměř znemožňuje pokrok směrem k socialismu. Nejprve musíme rozvinout kapitalistické způsoby výroby, teprve pak můžeme pokročit dále."
  PRC_soviet_economic_aid: "Sovětská hospodářská pomoc"
- PRC_soviet_economic_aid_desc: "Zkáza Dlouhého pochodu by bez vnější pomoci trvala generace, než by byla překonána. Měli bychom se obrátit na Sověty s žádostí o ekonomickou pomoc." # todo: CHANGED
+ PRC_soviet_economic_aid_desc: "Spoušť způsobenou Dlouhým pochodem by bez vnější pomoci trvalo překonat celé generace. Měli bychom se obrátit na Sověty a požádat je o hospodářskou pomoc."
  PRC_soviet_leadership: "Sovětské vedení"
  PRC_soviet_leadership_desc: "Sovětský svaz je nejvýznamnější zemí na cestě k plnému komunismu. Měli bychom to uznat a poučit se z jejich příkladu."
  PRC_strengthen_the_central_secretariat: "Posílit Ústřední sekretariát"

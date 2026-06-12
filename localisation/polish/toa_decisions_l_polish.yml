@@ -30,7 +30,7 @@
  ARG_increase_military_salaries: "Zvýšit vojenské platy"
  ARG_instigate_worker_strike: "Podnítit dělnickou stávku v [FROM.GetName]"
  ARG_international_loan_decisions: "Mezinárodní půjčky"
- ARG_international_loan_decisions_desc: "Abychom obnovili [ROOT.GetAdjective] ekonomiku, bylo by rozumné obrátit se na velmoci světa o půjčku, která by nastartovala náš proces oživení. Musíme si však dát pozor, abychom se příliš nezadlužili." # todo: CHANGED
+ ARG_international_loan_decisions_desc: "Abychom obnovili [ROOT.GetAdjective] ekonomiku, bylo by rozumné obrátit se na světové velmoci se žádostí o půjčku, která nastartuje proces oživení. Musíme si však dávat pozor, abychom se nezadlužili až přespříliš."
  ARG_international_loan_decisions_tt: "Odemkne rozhodnutí §Y$ARG_international_loan_decisions$§!. Pokud cílové státy souhlasí, [ROOT.GetNonIdeologyName] získá:\n$ARG_international_loan_tt$"
  ARG_international_loan_tt: "Přidá §Y$ARG_international_loan_modifier$§!, který poskytuje:\nDenní náklady na politickou sílu: §R-20,0 %§!\nEfektivita získávání surovin: §G+5,0 %§!\nRychlost výstavby: §G+4,0 %§!\nVýstup továren: §G+6,0 %§!\nVýstup loděnic: §G+6,0 %§!\n"
  ARG_intervenciones_federales_decisions: "Federální intervence"
@@ -65,10 +65,10 @@
  ARG_south_american_unity_decisions_desc: "Nyní, když jsme sjednotili obyvatele Jižní Ameriky pod jednou vlajkou, můžeme upevnit svou nadvládu nad kontinentem postupnou integrací území bývalých velkých států."
  ARG_south_american_unity_decisions_tt: "Odemkne rozhodnutí §Y$ARG_south_american_unity_decisions$§!, která nám umožní integrovat dobytá území do našeho státu."
  ARG_support_the_farmers_decisions: "Podpora zemědělců"
- ARG_support_the_farmers_decisions_desc: "Když v našem novém komunistickém státě stanovujeme standard rovnosti pro všechny, je nesmírně důležité, abychom nezapomněli na proletariát, který dlouho a tvrdě pracoval na polích farem [ARG.GetNameDef]. Měli bychom přesměrovat peníze na podporu farmářů, aby měli stejnou šanci na dobrý život jako ti, kteří žijí ve městech." # todo: CHANGED
+ ARG_support_the_farmers_decisions_desc: "Jak v našem novém komunistickém státě zavádíme rovnost pro všechny, je nesmírně důležité nezapomínat na proletariát, který po dlouhá léta tvrdě pracoval na polích [ARG.GetAdjective] farem. Měli bychom směřovat prostředky na podporu zemědělců, aby měli stejnou šanci na kvalitní život jako obyvatelé měst."
  ARG_support_the_farmers_decisions_tt: "Odemkne rozhodnutí §Y$ARG_support_the_farmers_decisions$§!."
  ARG_unite_the_workers_decisions: "Sjednotit dělníky"
- ARG_unite_the_workers_decisions_desc: "Základem komunistického hnutí byl vždy pracovitý a utlačovaný proletariát. Nyní, když se [ARG.GetAdjective] politické prostředí posouvá doleva, je na PCA, aby v některých našich větších městech vyvolal pracovní stávky a získal lidi na podporu naší slavné revoluce!" # todo: CHANGED
+ ARG_unite_the_workers_decisions_desc: "Páteří komunistického hnutí byl vždy pracující a utlačovaný proletariát. Nyní, když se [ARG.GetAdjective] politická scéna posouvá doleva, je na PCA, aby vyvolala dělnické stávky v některých našich hlavních městech a sjednotila lid za naši slavnou revolucí!"
  ARG_united_workers_decisions_tt: "Odemkne rozhodnutí §Y$ARG_unite_the_workers_decisions$§!."
  ARG_uniting_workers_in_progress: "Probíhá podněcování dělnické stávky"
  ARG_usa_loan_flag: "[USA.GetAdjectiveCap] půjčka"
@@ -402,9 +402,9 @@
  WLS_restore_y_wladfa_decision: "Obnovit Y Wladfa"
  drill_for_oil_in_chaco_boreal: "Těžit ropu v Chacu"
  drill_for_oil_in_chaco_boreal_2: "Musíme vrtat hlouběji"
- drill_for_oil_in_chaco_boreal_desc: "Americká společnost Standard Oil objevila ropu v této oblasti koncem 20. let, ale rozhodla se ji dále nezkoumat, protože to bylo považováno za příliš nákladné. Pokud si však přejeme, můžeme se pokusit podniknout to, co oni tehdy neučinili." # todo: CHANGED
+ drill_for_oil_in_chaco_boreal_desc: "Americká společnost Standard Oil objevila v regionu ropu koncem 20. let, ale rozhodla se v průzkumu nepokračovat, protože byl považován za příliš nákladný. Pokud však chceme, můžeme se pokusit uskutečnit záměr, do něhož se tehdy nepustili."
  form_liga_federal_cat: "Obnovit Federální ligu"
- form_liga_federal_cat_desc: "Území Uruguaye bylo kdysi součástí krátce existujícího většího celku známého jako Federální liga. Je čas znovuobnovit Ligu a zaujmout naše místo jako větší mocnost v záležitostech Jižní Ameriky." # todo: CHANGED
+ form_liga_federal_cat_desc: "Území Uruguaye bylo kdysi součástí krátce existujícího většího celku známého jako Federální liga. Nastal čas ligu znovu obnovit a zaujmout své místo mezi významnými mocnostmi Jižní Ameriky."
  form_liga_federal_dec: "Obnovit Federální ligu"
  guianas_category: "Sjednocení Guyany"
  guianas_category_desc: "Region Guyany byl po dlouhou dobu rozdělen mezi koloniální mocnosti, které ovládají podoblasti Cayenne, Guyanu, Amapá, Surinam a Guayanu. Je nejvyšší čas region osvobodit od okupačních sil!"

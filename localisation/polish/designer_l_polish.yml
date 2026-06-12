@@ -119,8 +119,8 @@
  EQUIPMENT_DESIGNER_ANTI_SUB_ATTACK_ICON_TOOLTIP: "Útok proti ponorkám"
  EQUIPMENT_DESIGNER_ARMY_XP_COST: "£army_experience Náklady na návrh: $COST|Y0$"
  EQUIPMENT_DESIGNER_AUTO_BUTTON: "Auto"
- EQUIPMENT_DESIGNER_AUTO_BUTTON_ACTION_TO_ADJUST: "§GKlikněte§! pro §Húpravu§! aktuálního návrhu" # todo: CHANGED
- EQUIPMENT_DESIGNER_AUTO_BUTTON_ACTION_TO_REPLACE: "§GShift+Click§! pro §Hnahrazení§! aktuálního návrhu" # todo: CHANGED
+ EQUIPMENT_DESIGNER_AUTO_BUTTON_ACTION_TO_ADJUST: "§GKlikněte§! pro §Húpravu§! aktuálního návrhu"
+ EQUIPMENT_DESIGNER_AUTO_BUTTON_ACTION_TO_REPLACE: "§GShift+Click§! pro §Hnahrazení§! aktuálního návrhu"
  EQUIPMENT_DESIGNER_AUTO_BUTTON_DESC: "§HAutomatický návrh§!\nVygenerujte kompletní návrh, který nejlépe vyhovuje aktuálnímu návrhu."
  EQUIPMENT_DESIGNER_AUTO_BUTTON_DESC_DELAYED: "Budete mít možnost přezkoumat a upravit vygenerovaný návrh před jeho schválením a zaplacením jakýchkoli nákladů za zkušenosti."
  EQUIPMENT_DESIGNER_AUTO_UPGRADED_CHECKBOX_BUTTON_DESC: "§HAutomatické vylepšení§!\nPokud je zaškrtnuto, tento návrh bude automaticky vylepšen, když budou k dispozici lepší podvozky a moduly."

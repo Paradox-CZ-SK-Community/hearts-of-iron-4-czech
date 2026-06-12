@@ -16,7 +16,7 @@
  ENG_appeal_to_imperial_loyalists_desc: "Navzdory nyní jen papírové nezávislosti dominií je mezi jejich občany stále mnoho těch, kteří zůstávají loajální ke koruně. Pokud je dokážeme oslovit, můžeme podkopat vlády dominií ještě před invazemi, které budou nutné k opětovnému získání kontroly nad nimi."
  ENG_appeal_to_imperial_loyalists_tt: "Odemkne rozhodnutí §YVýzvu imperiálním loajalistům§!, která umožní vyvolat probritské občanské války v bývalých dominiích.\n"
  ENG_bermuda_invasion_launch_point: "Bermudy jako výchozí bod invaze"
- ENG_bermuda_invasion_launch_point_desc: "Invaze do Severní Ameriky nebude snadný úkol. Musíme posílit naše zázemí na Bermudách, aby bylo možné pojmout invazní síly po nezbytně dlouhou dobu, než budou vyslány šířit Revoluci přímo na americké pobřeží." # todo: CHANGED
+ ENG_bermuda_invasion_launch_point_desc: "Invaze do Severní Ameriky nebude snadný úkol. Musíme vybudovat naše základny na Bermudách tak, aby byly schopné pojmout invazní síly po potřebnou dobu, než budou moci být vyslány k šíření revoluce přímo na americké pobřeží."
  ENG_bring_the_dominions_back_into_the_fold: "Přivést dominia zpátky do svazku"
  ENG_bring_the_dominions_back_into_the_fold_desc: "Hra je rozehrána a figurky jsou na svých místech. Nyní je čas uvést náš plán do pohybu a „napravit“ představu nezávislosti v myslích vůdců dominií."
  ENG_bring_the_dominions_back_into_the_fold_tt: "Odemkne rozhodnutí §YSpolupráci s imperiálním povstáním§!.\n"
@@ -131,11 +131,11 @@
  ENG_reassess_continental_commitments: "Přehodnotit závazky na kontinentu"
  ENG_reassess_continental_commitments_desc: "Ačkoli náš nedávný postoj k Evropě byl zavázat se k našim spojencům z Velké války, čelit hrozbám, které představuje [GER.GetName] a hrozící [SOV.GetName], politické rozdíly mezi námi a našimi starými spojenci se staly výraznějšími. Možná nastal čas přehodnotit, kde leží naše loajalita."
  ENG_reclaim_burma: "Znovu získat Barmu"
- ENG_reclaim_burma_desc: "[BRM.GetName] krátké období nezávislosti musí nyní skončit. Naše síly jsou na svém místě a připraveny vrátit zemi jejímu právoplatnému suzerénovi" # todo: CHANGED
+ ENG_reclaim_burma_desc: "Krátké období, kdy byla [BRM.GetName] nezávislá, musí skončit. Naše síly jsou připraveny vrátit tuto zemi jejímu oprávněnému vládci."
  ENG_reclaim_the_jewel_in_the_crown: "Znovu získat klenot koruny"
  ENG_reclaim_the_jewel_in_the_crown_desc: "Krátké období, kdy byla Indie nezávislá, musí skončit. Naše síly jsou připraveny vrátit klenot koruny."
  ENG_revisit_colonial_policy: "Přehodnotit koloniální politiku"
- ENG_revisit_colonial_policy_desc: "Časy se mění. Je jasné, že se v rámci impéria budou nadále objevovat hnutí za nezávislost, a v stále silnější podobě. Pokud se nechceme nutit k investování stále větších prostředků do potlačování těchto hnutí, musíme uznat, že naše impérium dosloužilo a nyní mu musí být dovoleno najít si vlastní cestu ve světě." # todo: CHANGED
+ ENG_revisit_colonial_policy_desc: "Časy se mění. Je zřejmé, že hnutí za nezávislost budou v impériu neustále vznikat, a to v čím dál silnější podobě. Pokud nechceme být nuceni vynakládat stále větší prostředky na potlačování těchto hnutí, musíme si přiznat, že naše impérium už splnilo svůj účel a nyní musí být ponecháno, aby si našlo vlastní cestu do světa."
  ENG_secure_the_imperial_shipping_routes: "Zajistit imperiální námořní trasy"
  ENG_secure_the_imperial_shipping_routes_desc: "Soudržnost našeho koloniálního impéria závisí na naší schopnosti chránit obchodní lodní dopravu, která jej spojuje, a promítat naši sílu tam, kde je to nutné. Vždy jsme se při tom spoléhali na rozsáhlou flotilu lehkých křižníků a musíme zajistit, aby jejich počet zůstal dostatečný, abychom mohli být přítomni všude najednou."
  ENG_secure_the_italian_alliance: "Zajistit italské spojenectví"
@@ -157,7 +157,7 @@
  ENG_soviet_cooperation: "Sovětská spolupráce"
  ENG_soviet_cooperation_desc: "Ačkoli máme rozdíly, sdílíme také společného nepřítele. Navrhneme útok z obou stran a rozdrtíme Němce, dřív než pochopí, co se stalo."
  ENG_special_air_service: "Special Air Service"
- ENG_special_air_service_desc: "Důstojník jménem David Stirling přišel s myšlenkou, že malá komanda by mohla obtěžovat nepřítele za jeho liniemi a způsobit mu ohromné škody. Pojmenování je 'Vzdušná služba' má navíc ten efekt, že nepřítel uvěří, že se musí bránit i proti výsadkářům. Tato myšlenka může mít rozhodně své opodstatnění." # todo: CHANGED
+ ENG_special_air_service_desc: "Důstojník jménem David Stirling přišel s myšlenkou, že malá komando jednotka by mohla obtěžovat nepřítele v týlu a způsobit obrovské škody. Nazvat je „Air Service“ má navíc tu výhodu, že nepřítel uvěří, že se musí bránit i proti výsadkářům. V této myšlence může být skutečně velký potenciál."
  ENG_spirit_of_the_industrial_revolution: "Duch průmyslové revoluce"
  ENG_spirit_of_the_industrial_revolution_desc: "Britské ostrovy byly kolébkou průmyslové revoluce. V tomto duchu ukážeme světu, čeho mohou dosáhnout osvobození dělníci ve státem řízené ekonomice."
  ENG_steady_as_she_goes: "Držet se kurzu"
@@ -194,7 +194,7 @@
  ENG_vanguard_tt_communism: "Vyrobit WLNS Vanguard.\n"
  ENG_vanguard_tt_hms: "Vyrobit HMS Vanguard.\n"
  ENG_withdraw_from_contested_territories: "Stáhnout se ze sporných území"
- ENG_withdraw_from_contested_territories_desc: "Řada území po celém světě, považovaných za britská zámořská území, je nárokována sousedními státy. To vyvolává diplomatické napětí, a proto by bylo lepší přehodnotit jejich status pod jurisdikcí Spojeného království." # todo: CHANGED
+ ENG_withdraw_from_contested_territories_desc: "Řada území po celém světě, považovaných za součást britských zámořských území, je nárokována sousedními státy. To vyvolává diplomatické napětí, a proto může být lepší znovu posoudit jejich status pod jurisdikcí Spojeného království."
  HOL_WILHELMINISM_FASCISM: "Dynastické vazby mezi naší královskou rodinou a německým císařem, který od války sídlí v Huis Doorn, jsou stále silné. Možná můžeme využít jeho oblibu v německé armádě pro naše zisky a vytvořit mocný stát, který nám bude po válce vděčný."
  HOL_WILHELMINISM_NEUTRALITY: "Dynastické vazby mezi naší královskou rodinou a německým císařem, který až do nedávna žil v exilu v Huis Doorn v Nizozemsku, jsou stále silné. My, kdo jsme rodina, bychom měli stát spolu a Němci máme důvod poděkovat, že jsme jejich císaře hostili po tak dlouhou dobu."
  HOL_a_new_dutch_unity: "Nová nizozemská jednota"
@@ -344,7 +344,7 @@
  HOL_implement_the_program: "Realizovat „Program“"
  HOL_implement_the_program_desc: "Nyní, když je národ zajištěn pod vedením našeho Vůdce, je čas uskutečnit stranický „Program“. Silná vláda, hospodářské a sociální reformy a zrušení svobody tisku a volebního práva jsou jen některé z bodů, které učiní náš lid silnějším. Všichni musí splnit svou povinnost vůči Vlasti!"
  HOL_java: "Jáva"
- HOL_java_desc: "Hlavní ostrov našich Východních Indií by měl být silně investován, abychom jej přiblížili odpovídající úrovni industrializace pro současnou dobu." # todo: CHANGED
+ HOL_java_desc: "Hlavní ostrov našich Východních Indií by měl být předmětem rozsáhlých investic, abychom jej více přiblížili odpovídajícímu stupni industrializace dnešní doby."
  HOL_join_germany: "Připojit se k Německu"
  HOL_join_germany_desc: "My, kteří jsme spřízněného ducha, bychom měli držet pohromadě proti světu. Nastal čas požádat o členství v Ose."
  HOL_join_the_french: "Připojit se k Francouzům"
@@ -555,13 +555,13 @@
  MEX_focus_compensation: "Kompenzace"
  MEX_focus_compensation_desc: "Ropné koncese byly legálně prodány společnostem Royal Dutch Shell a Standard Oil. Nemůžeme vinit zahraniční firmy z toho, že usilují o zisk. Měli bychom zachovat integritu našeho právního systému tím, že cizincům za znárodnění koncesí zaplatíme odškodnění."
  MEX_focus_confederation_of_mexican_workers: "Konfederace mexických dělníků"
- MEX_focus_confederation_of_mexican_workers_desc: "Politická elita v Mexiku se vždy snažila kontrolovat činnost odborů. CTM nahradí CROM, jelikož ta je vnímána jako zkorumpovaná a zdiskreditovaná spojením s neoblíbenými bývalými představiteli režimu." # todo: CHANGED
+ MEX_focus_confederation_of_mexican_workers_desc: "Mexická politická elita se vždy snažila kontrolovat činnost odborů. CTM nahradí CROM, protože ta je považována za zkorumpovanou a zdiskreditovanou kvůli spojení s nepopulárními vůdci minulého režimu."
  MEX_focus_control_the_army: "Ovládnout armádu"
  MEX_focus_control_the_army_desc: "Armáda je možná nejdůležitější mocenskou základnou v Mexiku. Posledních dvacet let ukázalo, že vůle lidu může být prosazena jen bajonety. Neposlušní generálové proto představují hrozbu samotné existenci státu, natož jeho legitimity."
  MEX_focus_crusade_against_atheism: "Křížová výprava proti ateismu"
  MEX_focus_crusade_against_atheism_desc: "Většina kristerských vůdců byla počátkem 30. let vládou dopadena a zavražděna. Několika se však podařilo uniknout čistkám a jsou připraveni znovu vést věřící Mexika. Viva Cristo Rey a blahoslavená Panna Maria Guadalupská!"
  MEX_focus_depoliticised_army: "Depolitizovaná armáda"
- MEX_focus_depoliticised_army_desc: "Generálové nemají právo na věrnost svých vojáků. Konečným zdrojem legitimity je mexický stát. Měli bychom zabránit, aby si generálové pěstovali myšlenky na rebelii, rotací je mezi státy, aby nemohli budovat klientelistické sítě ani získat osobní loajalitu svých vojáků." # todo: CHANGED
+ MEX_focus_depoliticised_army_desc: "Generálové nemají žádné právo na loajalitu svých vojáků. Konečným zdrojem legitimity je mexický stát. Měli bychom zabránit generálům v pomyšlení na povstání tím, že je budeme rotovat mezi provinciemi, aby si nemohli budovat sítě protekcí ani zajišťovat osobní věrnost vojáků."
  MEX_focus_ejido_worker_militias: "Dělnické milice ejid"
  MEX_focus_ejido_worker_militias_desc: "Pozemková reforma slíbená v Ústavě z roku 1917 postupuje pomalu. Statkáři často využívají násilníky a soukromé armády, aby zastrašili své nájemce a zabránili přerozdělování. Organizujme rolníky, farmáře a dělníky do komunitních milicí, aby chránili výdobytky, kterých jsme proti nespravedlnosti dosáhli."
  MEX_focus_end_land_reform: "Ukončit pozemkovou reformu"
@@ -619,7 +619,7 @@
  MEX_focus_liberate_the_antilles: "Osvobodit Antily"
  MEX_focus_liberate_the_antilles_desc: "Mnohé karibské ostrovy jsou stále okupovány imperialistickými mocnostmi, které pokračují v útlaku trvajícím nepřetržitě od objevení Ameriky. Ukončíme tuto nespravedlnost kolonialismu jednou provždy!"
  MEX_focus_liberate_the_caribbean: "Osvobodit Karibik"
- MEX_focus_liberate_the_caribbean_desc: "Stejně jako zbytek Latinské Ameriky byly karibské státy bezohledně vykořisťovány evropskými imperialisty, než se osvobodily. Ačkoli jsou stále slabé, zasluhují si naši ochranu. Národní hrdost Mexika vyžaduje, abychom zajistili Karibik a zabránili jeho vykořisťování imperialisty!" # todo: CHANGED
+ MEX_focus_liberate_the_caribbean_desc: "Stejně jako zbytek Latinské Ameriky byly i karibské státy bezohledně vykořisťovány evropskými imperialisty, než setřásly své okovy. Ačkoliv jsou stále slabé, zaslouží si naši ochranu. Mexická národní hrdost vyžaduje, abychom zajistili Karibik proti vykořisťování imperialisty!"
  MEX_focus_liberty_and_justice_for_all: "Svoboda a spravedlnost pro všechny"
  MEX_focus_liberty_and_justice_for_all_desc: "Američané jsou nyní největší ekonomickou mocností v dějinách. Sověti se možná rychle industrializují a Němci možná rozumějí válce lépe, ale výhody Ameriky doplňuje její důraz na svobodu jednotlivce a spoléhání na instituce místo hrubé síly. Rozšíření našich ekonomických vazeb na vojenské spojenectví by bylo přirozené."
  MEX_focus_march_southwards: "Pochod na jih"
@@ -661,7 +661,7 @@
  MEX_focus_propaganda_pact: "Propagandistický pakt"
  MEX_focus_propaganda_pact_desc: "Hrozba komunismu se v myslích věrných hispánských vlastenců stále zvětšuje. S našimi novými spojenci vytvoříme hradbu bajonetů proti zákeřné bolševické hrozbě. Předvedeme naši jednotu a bratrství mexickému lidu, abychom jej ujistili o jistotě totálního vítězství nad nenáviděným nepřítelem!"
  MEX_focus_purchase_belize: "Zakoupení Belize"
- MEX_focus_purchase_belize_desc: "Toto malé území bylo za koloniálních časů dlouho nárokováno španělskou korunou, byť nikdy nebylo osídleno peninsulares. Po ztrátě španělského koloniálního impéria během napoleonských válek postupně Británie upevnila svůj vliv v oblasti, což vyvrcholilo vznikem kolonie Britský Honduras v roce 1862. Území by mělo být postoupeno Mexiku jako gesto dobré vůle." # todo: CHANGED
+ MEX_focus_purchase_belize_desc: "Toto malé území bylo v koloniálních dobách dlouho nárokované španělskou korunou, ačkoli nikdy nebylo osídleno peninsulares. Po rozpadu španělské koloniální říše během napoleonských válek Británie postupně upevnila svou moc nad tímto územím, což vyvrcholilo vytvořením kolonie Britský Honduras v roce 1862. Území by mělo být předáno Mexiku jako gesto dobré vůle."
  MEX_focus_purge_the_bureaucracy: "Očista byrokracie"
  MEX_focus_purge_the_bureaucracy_desc: "Callistas jsou odstraňováni ze svých nezasloužených mocenských pozic. Máme mnoho vhodných náhradníků, mužů schopných a inteligentních, kteří budou vděční za příležitost sloužit Mexiku..."
  MEX_focus_push_past_the_darien_gap: "Postup za Dariénskou šíji"
@@ -669,7 +669,7 @@
  MEX_focus_raiding_navy: "Nájezdové loďstvo"
  MEX_focus_raiding_navy_desc: "Nemůžeme doufat, že doženeme hlavní námořní mocnosti světa v soupeření na hladině proti bitevním lodím a letadlovým lodím. Místo toho bychom měli přerušovat nepřátelské transporty, než dorazí, abychom ochránili Mexiko před invazí."
  MEX_focus_realpolitik: "Realpolitik"
- MEX_focus_realpolitik_desc: "Máme svá ideologická přesvědčení, ale Mexiko jako stát má vlastní zájmy oddělené od mezinárodního boje. Musíme kráčet opatrně v bouřlivých časech, které přicházejí. Jediný špatný krok by mohl přivolat plnou váhu potenciálních imperialistů a tyranů na naše hlavy." # todo: CHANGED
+ MEX_focus_realpolitik_desc: "Máme své ideologické přesvědčení, ale Mexiko jako stát má své vlastní zájmy, oddělené od mezinárodního boje. Musíme kráčet opatrnou cestou v nadcházejících bouřlivých časech. Jeden chybný krok by mohl přivést plnou tíhu imperialistů a tyranů na naše hlavy."
  MEX_focus_redeem_aztlan: "Vykoupení Aztlanu"
  MEX_focus_redeem_aztlan_desc: "Mexičtí obyvatelé v osvobozených oblastech Spojených států sní o vládě, která je nebude utlačovat kvůli jejich původu, místu narození nebo jazyku, kterým mluví doma. Tento sen se stal skutečností."
  MEX_focus_reform_the_cristero_guard: "Reforma Kristerské gardy"
@@ -689,7 +689,7 @@
  MEX_focus_rewrite_the_constitution: "Přepsat ústavu z roku 1917"
  MEX_focus_rewrite_the_constitution_desc: "Ústava sepsaná krutými generály staví stát nad Církev, činí manželství občanským aktem, brání duchovenstvu podporovat politické kandidáty a odmítá uznat katolickou Církev jako zdroj morální autority v Mexiku. Musíme tyto rozpory napravit formálním ustanovením katolické víry za státní náboženství."
  MEX_focus_royal_dutch_shell: "Royal Dutch Shell"
- MEX_focus_royal_dutch_shell_desc: "Royal Dutch Shell je britsko-nizozemská společnost držící 60 % mexických ropných koncesí. Kompromisem se zahraničními ropnými společnostmi v otázce pracovních sporů můžeme dosáhnout dohody, která bude pro oba stran výhodná." # todo: CHANGED
+ MEX_focus_royal_dutch_shell_desc: "Royal Dutch Shell je britsko-nizozemská firma, která drží 60 % mexických ropných koncesí. Kompromisem se zahraničními ropnými společnostmi v otázce pracovních sporů můžeme dosáhnout dohody výhodné pro obě strany."
  MEX_focus_rural_infrastructure: "Venkovská infrastruktura"
  MEX_focus_rural_infrastructure_desc: "Železniční systém byl rozšířen za éry Díaze, ale soustředil se převážně na severní města, aby usnadnil obchod s Amerikou. Musíme protáhnout železnice dále na jih."
  MEX_focus_rural_schools: "Venkovské školy"
@@ -721,7 +721,7 @@
  MEX_focus_television_innovators: "Televizní inovátoři"
  MEX_focus_television_innovators_desc: "Mexiko má překvapivě vyspělý elektrotechnický průmysl. Guillermo González Camarena a další členové „Ligy radioamatérů“ experimentují s barevným televizním vysíláním. Pokud se na tyto projekty zaměříme, můžeme se stát světovými lídry v komunikačních technologiích."
  MEX_focus_the_gold_shirts: "Zlaté košile"
- MEX_focus_the_gold_shirts_desc: "Generál Nicolás Rodríguez Carrasco založil Zlaté košile v roce 1933, aby porazil komunistické zrádce pracující proti vládě. Paramilitární skupina by se měla stát křídlem vlády, neboť její cíl je obdivuhodný a její metody nezbytné." # todo: CHANGED
+ MEX_focus_the_gold_shirts_desc: "Generál Nicolás Rodríguez Carrasco založil Zlaté košile v roce 1933, aby porazil komunistické zrádce pracující proti vládě. Tato polovojenská skupina by se měla stát vládním křídlem, protože její cíl je chvályhodný a metody nezbytné."
  MEX_focus_the_red_shirts: "Rudé košile"
  MEX_focus_the_red_shirts_desc: "Guvernér Tomás Garrido Canabal vytvořil Rudé košile v roce 1930 na obranu revoluce proti katolické církvi a jejím reakčním kněžím. Vyhledávání a ničení nepřátel lidu je chvályhodná věc, a proto bychom měli Rudé košile začlenit do armády."
  MEX_focus_triumph_of_synarchism: "Triumf synarchismu"

@@ -76,7 +76,7 @@
  AST_fly_the_jolly_roger: "Vztyčte černé vlajky"
  AST_fly_the_jolly_roger_desc: "Z naší ostrovní pevnosti můžeme vysílat houfy ponorek, aby obtěžovaly a ničily nepřátelský obchod a zásobování, které proplouvají kolem našich břehů."
  AST_fund_australian_defense_research: "Financovat australský obranný výzkum"
- AST_fund_australian_defense_research_desc: "Nyní, když je Austrálie plně suverénní zemí, už nedostáváme přístup k pokročilým prototypům a plánům jako dříve. Musíme zajistit, že vždy zůstaneme před našimi nepřáteli a nezaostaneme technologicky." # todo: CHANGED
+ AST_fund_australian_defense_research_desc: "Nyní, když je Austrálie plně suverénní zemí, již nemáme přístup k pokročilým prototypům a plánům jako dříve. Musíme zajistit, abychom byli vždy o krok napřed před našimi nepřáteli a nezůstali technologicky pozadu."
  AST_fund_owen_gun_research: "Financování výzkumu Owenovej pušky"
  AST_fund_owen_gun_research_desc: "Evelyn Owen vyvinul nový samopal, který odolá drsným podmínkám války v džungli. Na výrobu a zdokonalení této zbraně bychom měli vynaložit vládní prostředky."
  AST_hmas_assault: "HMAS Útok"
@@ -243,7 +243,7 @@
  CAN_defence_scheme_no_2: "Obranné schéma č. 2"
  CAN_defence_scheme_no_2_desc: "Obranné schéma č. 2 je náš pohotovostní plán pro případ války v Tichomoří mezi Spojenými státy a Japonským císařstvím. V ideálním případě zůstaneme v případě války neutrální, ale bez ohledu na okolnosti bude na našem západním pobřeží zřízena silná obrana."
  CAN_defense_research_grants: "Granty pro obranný výzkum"
- CAN_defense_research_grants_desc: "Nyní, když je Kanada plně suverénní zemí, už nedostáváme přístup k pokročilým prototypům a plánům jako dříve. Musíme zajistit, že vždy zůstaneme před našimi nepřáteli a nezaostaneme technologicky." # todo: CHANGED
+ CAN_defense_research_grants_desc: "Nyní, když je Kanada plně suverénní zemí, již nemáme přístup k pokročilým prototypům a plánům jako dříve. Musíme zajistit, abychom byli vždy o krok napřed před našimi nepřáteli a nezůstávali technologicky pozadu."
  CAN_degauss_ship_hulls: "Demagnetizace lodních trupů"
  CAN_degauss_ship_hulls_desc: "Začneme demagnetizovat trupy našich lodí, čímž snížíme jejich magnetickou signaturu. To je ochrání před magnetickými minami a sníží elektronický profil lodí."
  CAN_demand_labrador_and_newfoundland: "Požadovat Labrador a Newfoundland"
@@ -416,13 +416,13 @@
  ENG_ROYAL_TANK_REGIMENT_NAME_COMMUNIST: "Republikánský gardový tankový pluk"
  ENG_ROYAL_TANK_REGIMENT_NAME_HISTORICAL: "Královský tankový pluk"
  ENG_belgium_security: "Zabezpečit Belgii"
- ENG_belgium_security_desc: "Jedno varování zjevně nestačilo. Pokud politické tendence budou pokračovat jako dosud, Belgie začne ohrožovat naše vody. Musíme zasáhnout a zajistit si strategický opěrný bod na pevnině Evropy." # todo: CHANGED
+ ENG_belgium_security_desc: "Varování zjevně nestačilo. Pokud budou politické tendence pokračovat tak jako dosud, bude Belgie představovat přímé ohrožení našich vod. Musíme zasáhnout a vytvořit strategickou oporu na evropské pevnině."
  ENG_benelux_intervention: "Intervence v Beneluxu"
  ENG_benelux_intervention_desc: "Politické prostředí v Beneluxu je vůči nám stále nepřátelštější. Měli bychom vyslat jasné varování, že žádného nepřítele demokracie nebudeme tolerovat a jsme připraveni v případě potřeby použít sílu."
  ENG_danish_intervention: "Intervence v Dánsku"
- ENG_danish_intervention_desc: "Dánská podpora nepřátel světového míru nadále roste. Existuje jen jeden způsob, jak zajistit, aby zůstali na naší straně. Měli bychom využít Dánsko k získání strategického opěrného bodu v regionu pro případ nutné pozemní invaze v Evropě." # todo: CHANGED
+ ENG_danish_intervention_desc: "Dánská podpora nepřátelům světového míru stále roste. Existuje jen jeden způsob, jak zajistit, aby zůstali na naší straně. Měli bychom využít Dánsko k vytvoření strategického předmostí v regionu pro případ, že by byla nutná pozemní invaze do Evropy."
  ENG_dutch_security: "Zabezpečit Nizozemsko"
- ENG_dutch_security_desc: "Politická hnutí v Nizozemsku nadále podporují naše nepřátele. Nizozemsko bude muset být potlačeno, aby byla zajištěna svobodná Evropa." # todo: CHANGED
+ ENG_dutch_security_desc: "Politická hnutí v Nizozemsku nadále podporují naše nepřátele. Nizozemsko bude muset být pokořeno, aby byla zajištěna svobodná Evropa."
  ENG_embargo_germany: "Embargo na Německo"
  ENG_embargo_germany_desc: "Německé zbrojení je urážkou a velkou hrozbou pro světový mír. Nebudeme jim dodávat zdroje, které potřebují k pohánění své válečné mašinérie."
  ENG_embargo_ussr: "Embargo na [SOV.GetNameDefCap]"
@@ -456,7 +456,7 @@
  ENG_war_with_japan_desc: "Všechny ostatní možnosti jsou vyčerpány a Japonci se odmítají vzdát své rozpínavosti. V zájmu bezpečnosti Britského impéria a obyvatel Asie si musíme Japonce podrobit."
  ENG_war_with_ussr: "Operace Nemyslitelné"
  ENG_war_with_ussr_desc: "[SOU.GetNameDef] a hrozba, kterou představuje, pokračuje v růstu navzdory našim námitkám. Nemůžeme tolerovat agresivní [SOU.GetName] a nezbývá nám nic jiného než jít do války za lepší zítřky."
- FOCUS_SHORTCUT_TOOLTIP: "§GLevým kliknutím§! se přesuňte na cestu $PATH|H$" # todo: CHANGED
+ FOCUS_SHORTCUT_TOOLTIP: "§GLevým kliknutím§! přepněte na cestu $PATH|H$."
  FRA_aggressive_focus: "Útočné zaměření"
  FRA_aggressive_focus_desc: "Nemůžeme nečinně přihlížet tomu, jak se nepřátelé přibližují k našim hranicím. A nemůžeme nechat naše spojence, aby se ve válečném scénáři starali sami o sebe. Připravte naši armádu! Gamelin je muž na svém místě."
  FRA_air_doctrine: "Letecká doktrína"
@@ -524,7 +524,7 @@
  FRA_industrial_expansion_desc: "Potřebujeme silnější domácí průmyslové zastoupení. Máme dostatek připravené pracovní síly, ale potřebujeme více továrních linek."
  FRA_industrial_expansion_tt: "Není dost stavebních míst pro §YCivilné továrny§! v kontinentální Francii"
  FRA_infantry_focus: "Levée en masse"
- FRA_infantry_focus_desc: "Všichni muži i ženy schopní boje se zapojí. Hromadná výroba zbraní sníží jejich cenu. Dáme pušku do ruky každému." # todo: CHANGED
+ FRA_infantry_focus_desc: "Všichni muži i ženy, schopní bojovat, se zapojí. Hromadná výroba zbraní sníží náklady. Každý dostane svou pušku."
  FRA_initiate_government_reform: "Reforma vlády"
  FRA_initiate_government_reform_desc: "Svět se stal nebezpečným. Už se nemůžeme nechat svazovat vlastními malichernými spory. Je čas posílit postavení našich politiků a pohnout se kupředu v zájmu Francie."
  FRA_invite_romania: "Přizvat Rumunsko"
@@ -542,7 +542,7 @@
  FRA_light_medium_armor: "Automitrailleuses"
  FRA_light_medium_armor_desc: "Pěchota má ze zákona pod kontrolou všechny tankové síly. Lehčí a rychlejší jezdecká „vozidla“ neboli Automitrailleuses jsou vhodnější pro cestování a stále mohou způsobovat určité škody svými namontovanými zbraněmi."
  FRA_little_entente: "Malá dohoda"
- FRA_little_entente_desc: "Malá dohoda, aliance vzniklá po Velké válce k zabránění agrese Rakouska a Maďarska vůči jejich sousedům, byla podporována Francií, ale nyní se začíná rozpadat. Místo upevňování vztahů s Británií bychom měli převzít iniciativu k obnovení a konsolidaci této frakce, počínaje jejími zakladateli v Československu." # todo: CHANGED
+ FRA_little_entente_desc: "Malá dohoda, aliance vytvořená po Velké válce s cílem zabránit agresi Rakouska a Maďarska vůči jejich sousedům, byla podporována Francií, ale nyní se začala rozpadat. Namísto zajišťování vazeb s Británií bychom měli převzít iniciativu k obnově a konsolidaci tohoto uskupení, počínaje jeho zakladateli v Československu."
  FRA_mechanized_focus: "Zaměření na mechanizaci"
  FRA_mechanized_focus_desc: "Obrněná vozidla hrají ve válce stále důležitější roli. I když jsou o něco méně hrozivá než průměrný tank, poskytují nám výhodu v oblasti komunikace, velení, dopravy a boje ve městě."
  FRA_metropolitan_france: "Investice do kontinentální Francie"
@@ -569,7 +569,7 @@
  FRA_revise_versailles: "Revize Versailles"
  FRA_revise_versailles_desc: "Němci již ignorují reparace stanovené Versailleskou smlouvou, což ukazuje, že Francie již nevzbuzuje respekt. Když už, tak máme právo požadovat více za životy ztracené ve Velké válce, ale spravedlivá smlouva by vyžadovala silnou Francii, novou Francii, která by ji prosadila."
  FRA_right_wing_rhetoric: "Pravicová rétorika"
- FRA_right_wing_rhetoric_desc: "Musíme se soustředit na oslovení každého Francouze a povznést jejich národní ducha. Ukažme jim, že můžeme být silnými vůdci, které potřebují, a stanou se hrdými občany naší slavné země." # todo: CHANGED
+ FRA_right_wing_rhetoric_desc: "Musíme se zaměřit na oslovení všech Francouzů a pozvednout jejich národního ducha. Ukažte jim, že můžeme být silnými vůdci, které potřebují, a oni se stanou hrdými občany našeho slavného národa."
  FRA_scw_intervention_nationalists: "Intervence na straně Nacionalistů"
  FRA_scw_intervention_nationalists_desc: "Nacionalisté ve Španělsku konečně získávají půdu pod nohama. Jejich věc je spravedlivá a každý, kdo je ochoten za ně bojovat, by měl mít tú možnost."
  FRA_scw_intervention_republicans: "Intervence na straně Republikánů"
@@ -593,7 +593,7 @@
  GER_KDF_WAGEN_NAME: "KdF-Wagen"
  GER_VOLKS_WAGEN_NAME: "Volkswagen"
  GER_a_new_and_better_germany: "Nové a lepší Německo"
- GER_a_new_and_better_germany_desc: "Při obnově našeho národa bychom měli usilovat o víc než jen o to nezbytné, aby to, co nyní vybudujeme, obstálo v čase." # todo: CHANGED
+ GER_a_new_and_better_germany_desc: "Při obnově našeho národa bychom se měli snažit jít nad rámec toho, co je nezbytné, aby to, co nyní budujeme, obstálo ve zkoušce času."
  GER_accept_british_naval_dominance: "Akceptovat britskou námořní nadvládu"
  GER_accept_british_naval_dominance_desc: "V boji proti komunismu potřebujeme spojence a Britové jsou hlavním kandidátem. V zájmu zlepšení vztahů zmírníme jejich obavy tím, že uznáme jejich námořní převahu a zřekneme se rozsáhlého budování námořnictva."
  GER_air_doctrine_shortcut: "Vojenské letectvo"
@@ -1007,7 +1007,7 @@
  NZL_2nzef: "2NZEF"
  NZL_2nzef_desc: "Navzdory hrůzám poslední války je Nový Zéland připraven znovu vyrazit na pochod. Právě teď se organizuje 2. novozélandská expediční armáda (2nd New Zealand Expeditionary Force)."
  NZL_amend_the_maori_affairs_act: "Změnit zákon o Maorech"
- NZL_amend_the_maori_affairs_act_desc: "Musíme novelizovat Zákon o maorských záležitostech tak, aby zvýšil produktivitu málo využívaných půd, aniž by zbytečně vysídloval naše maorské občany." # todo: CHANGED
+ NZL_amend_the_maori_affairs_act_desc: "Musíme změnit zákon o Maorech tak, aby zvýšil produktivitu nedostatečně využívané půdy, ale aby zbytečně nevytlačoval naše maorské spoluobčany."
  NZL_army_reforms: "Armádní reformy"
  NZL_army_reforms_desc: "Měli bychom modernizovat systém výcviku a služebního postupu v naší armádě. Tak budeme připraveni na vše, co se stane v probíhající světové krizi."
  NZL_arrest_pacifist_leaders: "Zatknout pacifistické vůdce"
@@ -1021,7 +1021,7 @@
  NZL_bob_semple_tank: "Tank Bob Semple"
  NZL_bob_semple_tank_desc: "Proč by Nový Zéland nemohl mít vlastní tank? Ministerstvo prací v Temuce vyvíjí lehký tank vyzbrojený pouze kulomety. I kdybychom se nikdy nedostali dál než k prototypu, získané zkušenosti budou neocenitelné."
  NZL_bomber_focus: "Zaměření na bombardéry"
- NZL_bomber_focus_desc: "Lehké bombardéry mohou účinně chránit naše pobřeží a budou potřeba v boji zámoří proti našim nepřátelům." # todo: CHANGED
+ NZL_bomber_focus_desc: "Lehké bombardéry mohou účinně chránit naše pobřeží a budou potřebné v boji proti našim nepřátelům v zámoří."
  NZL_bureau_of_industry: "Úřad pro průmysl"
  NZL_bureau_of_industry_desc: "Nový Zéland je zemědělská společnost s důrazem na rančerství. Úřad pro průmysl musí podporovat velké investice do průmyslové infrastruktury a výroby."
  NZL_capital_ship_effort: "Zaměření na hlavní lodě"
@@ -1045,7 +1045,7 @@
  NZL_expand_devonport_naval_base: "Rozšířit námořní základnu Devonport"
  NZL_expand_devonport_naval_base_desc: "Námořní základna Devonport bude velitelstvím našeho námořnictva, ale musí být rozšířena, aby splňovala nové požadavky totální války."
  NZL_expand_the_nzpaf: "Rozšířit NZPAF"
- NZL_expand_the_nzpaf_desc: "Stálé letectvo Nového Zélandu potřebuje nové pobřežní hlídkové čluny a námořní bombardéry. Moderní státy nesmí zanedbávat vzdušnou válku." # todo: CHANGED
+ NZL_expand_the_nzpaf_desc: "Novozélandské stálé letectvo (New Zealand Permanent Air Force) potřebuje nová pobřežní hlídková plavidla a námořní bombardéry. Moderní národy nemohou zanedbávat leteckou válku."
  NZL_expand_the_university_of_auckland: "Rozšiřte Univerzitu v Aucklandu"
  NZL_expand_the_university_of_auckland_desc: "Aucklandská univerzita je naší nejdůležitější vysokoškolskou institucí. Rozšířením jejího zázemí se můžeme pokusit udržet některé z našich nejlepších mozků zde doma."
  NZL_fighter_focus: "Zaměření na stíhače"
@@ -1077,7 +1077,7 @@
  NZL_modern_fighters: "Moderní stíhače"
  NZL_modern_fighters_desc: "Je čas modernizovat naše stíhačky na rychlejší stroje s delším doletem. Naši spojenci ukázali cestu s jedněmi z nejpokročilejších letadel, které kdy svět viděl."
  NZL_national_defense_institute: "Institut národní obrany"
- NZL_national_defense_institute_desc: "Nyní, když je Nový Zéland plně suverénní zemí, už nedostáváme přístup k pokročilým prototypům a plánům jako dříve. Musíme zajistit, že vždy zůstaneme před našimi nepřáteli a nezaostaneme technologicky." # todo: CHANGED
+ NZL_national_defense_institute_desc: "Nyní, když je Nový Zéland plně nezávislou zemí, již nemáme přístup k pokročilým prototypům a plánům jako dříve. Musíme zajistit, abychom byli vždy o krok napřed před našimi nepřáteli a nezůstávali technologicky pozadu."
  NZL_national_roads_board: "Národní silniční úřad"
  NZL_national_roads_board_desc: "Drsný terén Nového Zélandu brání vytvoření uceleného systému výstavby silnic, ale musíme zlepšit to, co máme. Je třeba prozkoumat systém dálnic, zpevnit silnice a proklestit hory novými cestami."
  NZL_new_zealand_steel: "Novozélandská ocel"
@@ -1113,7 +1113,7 @@
  NZL_the_lee_affair: "Kauza Lee"
  NZL_the_lee_affair_desc: "John Lee, poslanec za Grey Lynn, působí v labouristické frakci problémy. Agituje za radikálnější program namísto opatrné cesty, kterou se ubíráme. Je třeba přijmout opatření k utlumení jeho vzpoury."
  NZL_the_manpower_act: "Zákon o pracovní síle"
- NZL_the_manpower_act_desc: "Od začátku války přicházeli Maorové do měst ve velkém počtu. Zákon o personálu nám umožní nasměrovat tyto síly do novozélandských továren." # todo: CHANGED
+ NZL_the_manpower_act_desc: "Od začátku války přicházejí Maorové do měst v hojném počtu. Zákon o pracovní síle nám umožní nasměrovat tuto vlnu do novozélandských továren."
  NZL_think_big: "Myslet ve velkém"
  NZL_think_big_desc: "Zvykli jsme si vnímat se jako menší dominium než naši australští nebo kanadští spojenci. Nový Zéland je však zcela schopný dosáhnout průmyslové velikosti."
  NZL_transfer_ships_tt: "[ENG.GetNameDefCap] k nám přepraví §Y2 Lehké křižníky§!."
@@ -1130,7 +1130,7 @@
  RAJ_all_india_forward_bloc: "All India Forward Bloc"
  RAJ_all_india_forward_bloc_desc: "All India Forward Bloc se domnívá, že britský odchod z Indie trvá příliš dlouho. Je třeba zaujmout razantnější - až militantní - postoj."
  RAJ_an_indian_sandhurst: "Indický Sandhurst"
- RAJ_an_indian_sandhurst_desc: "Indie žádala vlastní vojenskou školu už od poslední války a konečně jsme v roce 1932 jednu založili. Indická vojenská akademie už několik let vydává indické důstojníky a poskytuje nám jádro velitelského sboru." # todo: CHANGED
+ RAJ_an_indian_sandhurst_desc: "Indie požadovala vlastní vojenskou akademii již od poslední války, až jsme ji v roce 1932 konečně vytvořili. Indická vojenská akademie již několik let vychovává indické důstojníky, kteří nám poskytují základní velitelskou skupinu."
  RAJ_army_motorization: "Motorizace armády"
  RAJ_army_motorization_desc: "Indie je příliš velká na to, aby se dala efektivně překonat vlakem a koňmi. Armáda by měla mít motorizované divize a pravidelnou nákladní dopravu."
  RAJ_assam_oil: "Ásámská ropa"
@@ -1184,13 +1184,13 @@
  RAJ_indian_armor: "Indický pancíř"
  RAJ_indian_armor_desc: "Indie by se měla zaměřit na vývoj vlastních obrněných a tankových divizí."
  RAJ_indian_defense_research: "Indický obranný výzkum"
- RAJ_indian_defense_research_desc: "Nyní, když je Indie plně suverénní zemí, už nedostáváme přístup k pokročilým prototypům a plánům jako dříve. Musíme zajistit, že budeme vždy před našimi nepřáteli a technologicky nezaostaneme." # todo: CHANGED
+ RAJ_indian_defense_research_desc: "Nyní, když je Indie plně nezávislou zemí, již nemáme přístup k pokročilým prototypům a plánům jako dříve. Musíme zajistit, abychom byli vždy o krok napřed před našimi nepřáteli a nezůstali technologicky pozadu."
  RAJ_indian_gentlemen_officers: "Indičtí gentlemanští důstojníci"
  RAJ_indian_gentlemen_officers_desc: "Gentlemani, kteří sloužili Rádži díky úzké spolupráci s imperiálními úřady, představují připravenou zásobu velitelů, pokud bychom potřebovali loajální muže do čela nové indické armády."
  RAJ_indian_gurkhas: "Indičtí Gurkhové"
  RAJ_indian_gurkhas_desc: "Gurkhové z paňdžábské a nepálské vysočiny jsou legendární pro své vojenské schopnosti. Už mnoho let věrně slouží Rádži a vynikají ve všech druzích války."
  RAJ_indian_institute_of_science: "Indický vědecký institut"
- RAJ_indian_institute_of_science_desc: "Kampus Indického institutu věd v Bangalore umožňuje nejlepším a nejbystřejším z indické populace posunout naše pokroky dál." # todo: CHANGED
+ RAJ_indian_institute_of_science_desc: "Kampus Indického vědeckého institutu v Bangalore umožňuje těm nejlepším a nejchytřejším z indické populace pokračovat v našem pokroku."
  RAJ_indian_national_army: "Indická národní armáda"
  RAJ_indian_national_army_desc: "Byla zorganizována Indická národní armáda, odlišná od sil kontrolovaných Brity. Můžeme ji vybudovat v oblastech bez britského vměšování a postavit se proti Spojencům, kteří z Rádže odčerpávají indickou pracovní sílu."
  RAJ_indian_national_army_effect: "Fašističtí podporovatelé zahájí občanskou válku za svobodu. Velikost závisí na podpoře strany a pokroku autonomie."
@@ -1225,7 +1225,7 @@
  RAJ_land_clearance_desc: "Díky většímu vlivu, který je zajištěn prostřednictvím místních představitelů, můžeme ve jménu státu lépe využívat naše přírodní zdroje a půdu."
  RAJ_land_clearance_effect_tt: "§H$RAJ_population_decisions$§! rozhodnutí nyní přidávají §G1§! stavební slot.\n$apply_integration_effects_retroactively$"
  RAJ_lessons_of_the_great_war: "Poučení z Velké války"
- RAJ_lessons_of_the_great_war_desc: "Indičtí koloniální vojáci se zúčastnili poslední světové války a poučení z tohoto konfliktu by mělo být uplatněno při výcviku a organizaci armády." # todo: CHANGED
+ RAJ_lessons_of_the_great_war_desc: "Indičtí koloniální vojáci se účastnili poslední světové války a poučení z tohoto konfliktu by se mělo promítnout do výcviku a organizace armády."
  RAJ_lions_of_the_great_war: "Lvi Velké války"
  RAJ_lions_of_the_great_war_desc: "Sikhové mají silnou vojenskou tradici a v poslední válce se velmi vyznamenali. Lvi z Paňdžábu tvoří samostatný silný pluk a region je zralý na další nábor."
  RAJ_modernizing_army: "Modernizace armády"
@@ -1580,7 +1580,7 @@
  SOV_transpolar_flights: "Transpolární lety"
  SOV_transpolar_flights_desc: "Naši nejodvážnější piloti právě začínají dokazovat, že odvážné trasy přes Arktidu jsou možné. Využíváním takových nečekaných zkratek při plánování vzdušných bojů budeme moci nepřítele překvapit."
  SOV_ultimatum_to_greece: "Ultimátum pro Řecko"
- SOV_ultimatum_to_greece_desc: "Egejské ostrovy jsou posledním strategickým prvkem, který potřebujeme k zajištění volného působení Rudé flotily. Řekové jsou tlačeni ze všech stran a pravděpodobně ustoupí část území, aby se vyhnuli totální válce." # todo: CHANGED
+ SOV_ultimatum_to_greece_desc: "Egejské ostrovy jsou posledním strategickým bodem, který potřebujeme k tomu, aby Rudá flotila mohla volně operovat. Řekové jsou pod tlakem ze všech stran a pravděpodobně se vzdají malého území, aby se vyhnuli totální válce."
  SOV_war_since_purge: "Od dokončení Velké očisty proběhla válka."
  SOV_war_with_germany: "Válka s Německem"
  SOV_war_with_germany_desc: "Německá hrozba stále roste. Můžeme a musíme německou armádu zničit a přinutit ji, aby se sklonila před svými novými pány."
@@ -1605,7 +1605,7 @@
  USA_USACE_projects: "Projekty pro ženisty z USACE"
  USA_USACE_projects_desc: "Ženijní sbor americké armády (US Army Corps of Engineers) bude mít za úkol vybudovat základy pro mnoho budoucích vojenských projektů, jaké svět ještě neviděl. Essayons!"
  USA_accumulated_wealth_tax_act: "Zákon o dani z nabytého majetku"
- USA_accumulated_wealth_tax_act_desc: "Někteří lidé v naší zemi nashromáždili absurdní množství kapitálu. Peníze leží pasivně na bankovních účtech nebo jsou investovány do nepřiměřeně velkých budov, pozlaceného nábytku a drahých obrazů. Nic z toho neslouží žádnému ekonomicky užitečnému účelu. Zavedením nové daně přinutíme ty z našich občanů, kteří nashromáždili takové zbytečné bohatství, aby peníze znovu investovali do ekonomiky." # todo: CHANGED
+ USA_accumulated_wealth_tax_act_desc: "Někteří lidé v naší zemi nashromáždili absurdní množství bohatství. Tyto peníze leží pasivně na bankovních účtech nebo jsou investovány do neprakticky velkých budov, pozlaceného nábytku a drahých obrazů. Nic z toho neslouží žádnému životaschopnému ekonomickému účelu. Zavedením nové daně přimějeme ty z našich občanů, kteří nashromáždili takové zbytečné bohatství, aby peníze znovu investovali do ekonomiky."
  USA_adjusted_compensation_act: "Zákon o upravené náhradě"
  USA_adjusted_compensation_act_desc: "Našim veteránům z Velké války byla slíbena spravedlivá penze. Mnozí z nich se v poslední době ocitli v těžké situaci, když je postihla krize. Musíme udělat vše, co je v našich silách, abychom pomohli těm, kteří odpověděli na volání republiky v její nejtěžší hodině."
  USA_advanced_basing: "Předsunuté základny"
@@ -1623,7 +1623,7 @@
  USA_ally_with_the_silver_shirts: "Spojit se se Stříbrnými košilemi"
  USA_ally_with_the_silver_shirts_desc: "K tomu, abychom našemu národu vrátili jeho správné místo ve světě a uplatnili náš Zjevný osud, je nutná zásadnější reorganizace. Stříbrné košile nám k tomu pomohou."
  USA_america_first: "Amerika na prvním místě"
- USA_america_first_desc: "Někteří by chtěli, abychom utráceli naše poklady a krev naší mládeže v cizích válkách. Nesmíme se nechat svést těmito válečníky a místo toho budeme žít podle jednoduchého pravidla: Amerika především — všichni ostatní až poté." # todo: CHANGED
+ USA_america_first_desc: "Někteří lidé by chtěli, abychom utráceli naše poklady a krev naší mládeže v cizích válkách. Těmito válečnými štváči se nesmíme nechat ovlivnit a místo toho se budeme řídit jednoduchou zásadou: Amerika na prvním místě - všichni ostatní až na druhém."
  USA_amphibious_operations: "Obojživelné operace"
  USA_amphibious_operations_desc: "Pokud se nenaplní naše nejhorší noční můry, tato válka na americké půdě neskončí. Součástí cesty k vítězství musí být dobře provedené vylodění."
  USA_anti_bolshevist_aid: "Protibolševická pomoc"
@@ -1637,10 +1637,10 @@
  USA_arsenal_of_democracy: "Arzenál demokracie"
  USA_arsenal_of_democracy_desc: "Bez ohledu na to, zda se rozhodneme přímo zasáhnout do války, musí demokratické země vědět, že je vyzbrojíme a podpoříme."
  USA_battleship_primacy: "Priorita bitevních lodí "
- USA_battleship_primacy_desc: "S japonským odmítnutím washingtonské námořní smlouvy se můžeme opět dostat do závodu ve zbrojení na oceánech. Zajistíme, že budeme mít zároveň nejvíce i nejlepší bitevní lodě." # todo: CHANGED
+ USA_battleship_primacy_desc: "Po vypovězení Washingtonské námořní smlouvy Japonskem nás možná čekají další závody ve zbrojení na oceánech. Zajistíme, abychom měli nejvíce a nejlepších bitevních lodí."
  USA_black_chamber: "Operace Black Chamber"
  USA_black_chamber_complete: "§RPŘÍSNĚ TAJNÉ§!"
- USA_black_chamber_desc: "Máme informace o politických aktivitách v řadě amerických zemí, které nejsou v souladu s našimi zájmy. Naštěstí jsme vytvořili podzemní propagandistickou síť a jsme připraveni tyto země nasměrovat k nám. To musíme udělat, aby doma nehrozilo nebezpečí." # todo: CHANGED
+ USA_black_chamber_desc: "Máme informace o politických aktivitách v řadě amerických zemí, které nejsou v souladu s našimi zájmy. Naštěstí jsme vytvořili podzemní propagandistickou síť a jsme připraveni tlačit tyto země naším směrem. To je něco, co musíme udělat, abychom zajistili, že nebudeme ohroženi doma."
  USA_build_the_pentagon: "Postavit Pentagon"
  USA_build_the_pentagon_desc: "Rozšíření naší armády vyžaduje nové globální velitelství k jejímu řízení."
  USA_bureau_of_aeronautics: "Úřad pro letectví"
@@ -1692,7 +1692,7 @@
  USA_embargo_the_empire: "Embargo na Impérium"
  USA_embargo_the_empire_desc: "Přestože jsme měli dlouho dobré vztahy, Britové zradili ideály, které jsme doufali, že se naučí dodržovat. Je načase, aby poznali důsledky."
  USA_empower_the_huac: "Posílit Výbor pro neamerickou činnost"
- USA_empower_the_huac_desc: "Výbor Sněmovny pro neamerické aktivity plní v naší zdravé demokracii důležitou funkci. Nesmíme dovolit neloajálním elementům, aby se pokoušely ovlivnit politický proces." # todo: CHANGED
+ USA_empower_the_huac_desc: "Sněmovní Výbor pro neamerickou činnost plní v naší zdravé demokracii důležitou funkci. Nesmíme připustit, aby se neloajální živly pokoušely ovlivňovat politický proces."
  USA_end_monarchism: "Konec monarchismu"
  USA_end_monarchism_desc: "Evropské monarchie už jednou uvrhly svět do světové války - nemůžeme jim dovolit, aby to udělaly znovu. Naši předkové vedli válku s anglickým králem, aby získali svobodu - my osvobodíme svět od jeho tyranie navždy!"
  USA_escort_effort: "Zaměření na doprovod"
@@ -1715,13 +1715,13 @@
  USA_fleet_submarines: "Ponorkové loďstvo"
  USA_fleet_submarines_desc: "Oba naši nejpravděpodobnější protivníci v námořní válce spoléhají na zahraniční obchod, který se ukázal jako velmi zranitelný vůči ponorkám. Tyto ponorky by musely mít velmi dlouhý dosah, aby mohly překonávat oceány a operovat v blízkosti nepřátelského pobřeží."
  USA_focus_on_asia: "Zaměření na Asii"
- USA_focus_on_asia_desc: "Zatímco většina lidí hledí s obavami na Evropu, čelíme také nejistotě a nestabilitě v Pacifiku. Může být v našem nejlepším zájmu zasáhnout v zahraničí dříve, než budeme napadeni blíže domovu." # todo: CHANGED
+ USA_focus_on_asia_desc: "Zatímco většina lidí s obavami vzhlíží k Evropě, nejistotě a nestabilitě čelíme i v Tichomoří. Možná by bylo v našem nejlepším zájmu zasáhnout v zahraničí dříve, než zaútočíme blíže k domovu."
  USA_focus_on_europe: "Zaměřit se na Evropu"
  USA_focus_on_europe_desc: "Evropské velmoci jsou opět připraveny uvrhnout svět do světové války. Nemůžeme jako dříve čekat, až se nás to dotkne. Musíme být připraveni rozhodně zasáhnout, pokud některý z evropských národů ohrozí mír."
  USA_full_desegregation: "Úplné zrušení segregace"
- USA_full_desegregation_desc: "Příliš dlouho některé naše státy zacházely s lidmi odlišně na základě starých, zastaralých a nelidských kritérií. V svobodné republice musí být každý občan zacházen stejně — nikoli odděleně." # todo: CHANGED
+ USA_full_desegregation_desc: "V některých našich státech se příliš dlouho zacházelo s lidmi odlišně na základě starých, zastaralých a nelidských kritérií. Ve svobodné republice musí být s každým občanem zacházeno stejně - a ne odděleně."
  USA_fund_the_navy: "Financovat námořnictvo"
- USA_fund_the_navy_desc: "Musíme být schopni přizpůsobit se čemukoli novému, co nám nepřátelé přichystají. Zvýšení financí na námořní cvičení povede k efektivnějšímu námořnictvu, které bude schopné takticky předčit nepřátele." # todo: CHANGED
+ USA_fund_the_navy_desc: "Musíme být schopni se přizpůsobit všemu, co nám naši nepřátelé předhodí. Zvýšené financování námořních cvičení povede k efektivnějšímu námořnictvu, které dokáže takticky předčit naše nepřátele."
  USA_global_hegemony: "Globální hegemonie"
  USA_global_hegemony_desc: "Stojíme na prahu dosažení globální nadvlády, která nám umožní předcházet konfliktům jen díky naší existenci. Musíme jen zajistit, aby zbývající velmoci na planetě uznaly naše postavení."
  USA_great_depression_cooldown: "Nová legislativa ještě stále vzniká"
@@ -1752,7 +1752,7 @@
  USA_lend_lease_act_desc: "Velké světové demokracie jsou napadány. Pokud bitvu prohrají, je jen otázkou času, kdy válka dorazí i k našim břehům. Musíme udělat vše, co je v našich silách, abychom je podpořili - i když nebudou schopni zaplatit vybavení okamžitě."
  USA_lend_lease_act_neutrality_tt: "\n\nSchválení Zákona o neutralitě §Rdrasticky zvýší§! požadavky na schválení Zákona o půjčce a pronájmu"
  USA_liberty_for_the_philippines: "Svoboda pro Filipíny"
- USA_liberty_for_the_philippines_desc: "Lidé na Filipínách ukázali schopnost organizovat své vlastní záležitosti a je načase, aby byly oficiálně odstraněny poslední zbytky americké kontroly nad jejich zemí." # todo: CHANGED
+ USA_liberty_for_the_philippines_desc: "Obyvatelé Filipín prokázali, že jsou schopni spravovat své záležitosti sami, a je nejvyšší čas, aby byly oficiálně odstraněny poslední zbytky americké kontroly nad jejich zemí."
  USA_liberty_ships: "Lodě svobody"
  USA_liberty_ships_desc: "Masová výroba nákladních lodí musí doprovázet náš průmyslový rozvoj, aby se náš materiál a vojáci dostali do míst, kde je jich zapotřebí."
  USA_limited_intervention: "Omezená intervence"
@@ -1782,7 +1782,7 @@
  USA_naval_radar: "Námořní radar"
  USA_naval_radar_desc: "Radar nabízí lákavé možnosti, jak vzít nepřátelům krytí pod rouškou noci a odhalit je i za špatného počasí."
  USA_neutrality_act: "Zákon o neutralitě"
- USA_neutrality_act_desc: "Zdá se stále jistější, že v Evropě vypukne válka. Během Velké války americké firmy prodávaly spojencům velké množství zbraní a mnozí věří, že vstup USA byl do značné míry motivován snahou zajistit zaplacení těchto dodávek. Tentokrát nebude žádného profitování na válce." # todo: CHANGED
+ USA_neutrality_act_desc: "Zdá se stále jistější, že v Evropě vypukne válka. Během Velké války prodaly americké společnosti Spojencům velké množství zbraní a mnozí se domnívají, že americký vstup byl motivován především snahou zajistit, aby tyto dodávky byly zaplaceny. Tentokrát však k žádnému válečnému prospěchářství nedojde."
  USA_north_american_dominion: "Severoamerické dominium"
  USA_north_american_dominion_desc: "Po zabezpečení našich bezprostředních hranic musíme hledět dál, abychom předešli jakémukoli ohrožení Severní Ameriky. Nemůžeme tolerovat žádný darebácký stát v regionu."
  USA_office_of_scientific_research_and_development: "Úřad pro vědecký výzkum a vývoj"
@@ -1796,15 +1796,15 @@
  USA_pacific_pacification: "Pacifikace Tichomoří"
  USA_pacific_pacification_desc: "Austrálie a Nový Zéland jsou příliš daleko od Británie, než aby je mohly účinně bránit. Nemůžeme připustit, aby je ovládl národ, který považuje [USA.GetNameDef] za nepřítele."
  USA_pax_americana: "Pax Americana"
- USA_pax_americana_desc: "Mír v Americe musí být udržen. Máme sílu zajistit, aby pošetilé spory mezi sousedními státy neeskalovaly. Válka u našich dveří je přesně to, co naši nepřátelé chtějí, a musíme udělat vše, abychom jí zabránili." # todo: CHANGED
+ USA_pax_americana_desc: "Mír v Americe musí být zachován. Máme sílu zajistit, aby se drobné spory mezi sousedními národy nevyhrocovaly. Válka u našich dveří je přesně to, co naši nepřátelé chtějí, a my musíme udělat vše pro to, abychom jí zabránili."
  USA_pax_americana_tt: "@USA §YSpojené státy§! mohou zasahovat do válek mezi americkými zeměmi"
  USA_pearl_harbor_gambit: "Pearl Harborský gambit"
  USA_pearl_harbor_gambit_desc: "Námořní základna v Pearl Harboru je pro Japonce snadným cílem. Když tam umístíme flotilu, budeme demonstrovat svou sílu v Tichomoří. Odváží se takový odvážný krok zpochybnit?"
  USA_pearl_harbor_gambit_tt: "§YZatímco je aktivní fokus, bude mít Japonsko příležitost zaútočit.§!"
  USA_preemptive_intervention: "Preventivní intervence"
- USA_preemptive_intervention_desc: "Nemůžeme dál jen bezmocně přihlížet, jak sousední státy stavějí válečné prostředky určené k potlačení nás či našich spojenců. Musíme zasáhnout ve jménu vyššího dobra naší mocné země a světa." # todo: CHANGED
+ USA_preemptive_intervention_desc: "Už nemůžeme nečinně přihlížet tomu, jak sousední země budují válečné nástroje, které mají potlačit nás nebo naše spojence. Musíme zasáhnout pro větší dobro naší mocné země a světa."
  USA_prepare_intervention: "Připravit intervenci"
- USA_prepare_intervention_desc: "Prostřednictvím diplomatických a obchodních rozhodnutí se naše postavení na mezinárodní scéně změnilo z neutrálního a izolacionistického na aktivní postoj vůči zahraniční agresi. Naše vojenské politiky se tímto budou v budoucnu řídit." # todo: CHANGED
+ USA_prepare_intervention_desc: "Díky diplomatickým a obchodním rozhodnutím se naše pozice na mezinárodní scéně změnila z neutrální a izolacionistické na pozici zaujímající postoj k zahraničním agresím. To se v budoucnu odrazí i v naší vojenské politice."
  USA_privatize_the_TVA: "Privatizovat TVA"
  USA_privatize_the_TVA_desc: "Tennessee Valley Authority (TVA) vytlačila soukromou konkurenci a získala vliv na stavební práce v oblasti. Nemůže být úkolem vlády dělat věci, které soukromý sektor prokazatelně zvládá lépe."
  USA_protect_south_america: "Ochraňovat Jižní Ameriku"
@@ -1812,7 +1812,7 @@
  USA_protectionist_tariffs: "Ochranná cla"
  USA_protectionist_tariffs_desc: "Volný obchod otevřel naše trhy zahraničním konkurentům, z nichž mnozí zvýšili vlastní tarify a cla. Naše společnosti čelí silné konkurenci, zatímco jejich si užívají ochranu celní zdi. To musí skončit."
  USA_reach_out_to_the_ware_group: "Kontaktovat Wareho skupinu"
- USA_reach_out_to_the_ware_group_desc: "Uvnitř naší vlády existuje malá skupina oddaných komunistů. Myslí si, že působí v utajení, ale my známe jejich jména. Možná by mohli vidět, že se naše cíle shodují, a byli by přesvědčeni připojit se k vládě." # todo: CHANGED
+ USA_reach_out_to_the_ware_group_desc: "Uvnitř naší vlády existuje malá skupina oddaných komunistů. Věří, že působí v utajení, ale my známe jejich jména. Možná by mohli vidět, že se náš cíl shoduje, a mohli by se nechat přesvědčit, aby se k vládě připojili."
  USA_recruit_the_free_corps: "Naverbovat Svobodné sbory"
  USA_recruit_the_free_corps_desc: "Vzhledem k tomu, že armáda je stále více podezřelá, musíme se obrátit na hrdiny Velké války. V hodině nouze přišel Německé republice na pomoc německý Freikorps. Potřebujeme podobnou organizaci, která nám zůstane věrná, až přijde naše hodina nouze."
  USA_reestablish_the_gold_standard: "Znovu zavést Zlatý standard"
@@ -1837,7 +1837,7 @@
  USA_send_lindbergh_to_germany: "Poslat Lindbergha do Německa"
  USA_send_lindbergh_to_germany_desc: "Slavný letec se nabídl, že se vydá do Evropy, aby prozkoumal, jak se Německo obnovilo po poslední válce. To by nám mělo poskytnout cenné zkušenosti. Lindbergh také naznačil, že by byl ochoten zapojit se do vlády v roli poradce."
  USA_shatter_the_empires: "Rozdrtit impéria"
- USA_shatter_the_empires_desc: "Byli jsme kdysi kolonií globálního impéria, dokud jsme si svobodu nevybojovali krví. Naše republika se nemůže skutečně cítit bezpečně, dokud nebudou ti, kteří si nárokují vládu nad světem, zadrženi." # todo: CHANGED
+ USA_shatter_the_empires_desc: "Kdysi jsme byli kolonií globálního impéria, dokud jsme si svou svobodu nevykoupili krví. Naše republika se nemůže cítit skutečně bezpečně, dokud nebudou zkroceni ti, kteří sní o tom, že jsou pány tohoto světa."
  USA_south_america: "Jižní Amerika"
  USA_south_america_desc: "Koloniální říše už nikdy nesmí mít možnost expandovat do Jižní Ameriky, budeme garantovat nezávislost našich jižních bratrů, abychom je ochránili."
  USA_strategic_bombing: "Strategické bombardování"
@@ -2036,7 +2036,7 @@
  ah_why_we_fight: "$why_we_fight$"
  ah_why_we_fight_desc: "$why_we_fight_desc$"
  air_base_expansion_focus: "Rozšíření leteckých základen"
- air_base_expansion_focus_desc: "Abychom lépe podporovali naši armádu, letectvo potřebuje větší letecké základny." # todo: CHANGED
+ air_base_expansion_focus_desc: "Pro lepší podporu armády potřebuje letectvo větší letecké základny."
  air_bonus: "Bonus pro modely letadel"
  air_defense_focus: "Ochrana vzduchu"
  air_defense_focus_bypass_tt: "Nedostatek stavebních slotů pro §Yprotivzdušnou obranu§!"
@@ -2067,13 +2067,13 @@
  army_innovations_focus: "Vojenské inovace"
  army_innovations_focus_desc: "Nyní, když je armáda uznávanou hlavní složkou říše, je vhodné věnovat více prostředků na studium pozemních doktrín."
  army_motorization_focus: "Motorizace armády"
- army_motorization_focus_desc: "Větší zaměření na motorizaci zvýší rychlost, jakou se pěchota dostane na bojiště — alespoň v oblastech s dobrými silnicemi." # todo: CHANGED
+ army_motorization_focus_desc: "Větší zaměření na motorizaci zvýší rychlost, s jakou pěchota může dosáhnout bojiště, alespoň v oblastech s dobrými silnicemi."
  army_primancy_focus: "Dominance armády"
  army_primancy_focus_desc: "Ze dvou hlavních ozbrojených složek je to skutečně armáda, která je pravou rukou Říše! Její schopnost dobýt a udržet území daleko převyšuje menší schopnosti, které může poskytnout námořnictvo. Uvědomíme-li si tuto prostou a samozřejmou skutečnost a věnujeme-li armádě více prostředků, jsou její možnosti neomezené."
  arty_bonus: "Bonus k technologiím dělostřelectva"
  atlantikwall_tooltip: "Umístěte §Ypobřežní pevnosti§! v každém z následujících atlantických pobřežních států, které plně ovládáte:\n"
  atlantikwall_tooltip_2: "§YAquitaine§!\n§YPoitou§!\n§YLoire§!\n§YBrittany§!\n§YNormandy§!\n§YPas de Calais§!\n§YVlaanderen§!\n§YHolland§!\n§YFriesland§!\n§YWeser-Ems§!\n§YHannover§!\n§YSchleswig-Holstein§!\n§YJutland§!\n§YOstlandet§!\n§YVestlandet§!\n§YTrondelag§!\n§YNord-Norge§!\n"
- available_chief_of_airforce: "§GDostupný§! jako §YŠéf letectva§!:\n" # todo: CHANGED
+ available_chief_of_airforce: "§GK dispozici§! jako §Ynáčelník letectva§!:\n"
  available_chief_of_army: "§GK dispozici§! jako §Ynáčelník armády§!:\n"
  available_chief_of_navy: "§GK dispozici§! jako §Ynáčelník námořnictva§!:\n"
  available_designer: "§GK dispozici§! jako §Ynávrhářská společnost§!:\n"
@@ -2099,7 +2099,7 @@
  bomber_command_focus: "Bombardovací velení"
  bomber_command_focus_desc: "Jak vždy říkal Giulio Douhet; 'Bombardér se vždy dostane skrz!'. Navzdory pokroku radarových technologií a protiletadlové obrany bychom měli upřednostnit vývoj lepších bombardérů."
  bomber_focus: "Zaměření na bombardéry"
- bomber_focus_desc: "Až budou lidé budoucnosti mluvit o hrůze dnešních válek, významnou roli bude hrát oheň padající z nebe. Uděláme vše, aby tyto příběhy vyprávěli naši nepřátelé." # todo: CHANGED
+ bomber_focus_desc: "Jak vždycky říkal Giulio Douhet: 'Bombardér vždycky projde!'. Nehledě na pokroky v radarové technologii a protivzdušné obraně bychom měli upřednostnit vývoj lepších bombardérů."
  britain_enforced_our_loyalty: "Británie si vynutila naši loajalitu."
  can_degaussing_tech: "Získejte technologii demagnetování"
  capital_ships_bonus: "Bonus k modelům hlavní lodí"
@@ -2144,7 +2144,7 @@
  continuous_restrict_freedom: "Potlačit subjekty"
  continuous_restrict_freedom_desc: "Naši koloniální poddaní mají poněkud hloupé představy o věcech jako 'sebeurčení' nebo 'národní nezávislost'. Je načase je těchto představ zbavit."
  continuous_special_facility: "Výstavba zařízení"
- continuous_special_facility_desc: "Máme příležitost vylepšit naše výzkumné zařízení tak, aby pojalo více vědců a nalezlo nový průlom, který může změnit podobu budoucí války." # todo: CHANGED
+ continuous_special_facility_desc: "Máme příležitost zlepšit naše výzkumná zařízení, abychom mohli hostit více vědců a najít nový průlom, který může změnit naše budoucí válčení.
  continuous_suppression: "Potlačení odporu"
  continuous_suppression_desc: "Infiltrací hlavních odbojových skupin na okupovaném území a obracením jejich vůdců můžeme výrazně snížit množství škod, které mohou způsobit."
  continuous_tech_share: "Sdílení technologií"
@@ -2187,7 +2187,7 @@
  fighter_command_focus: "Velitelství stíhaček"
  fighter_command_focus_desc: "Naší hlavní prioritou musí být kontrola vlastního nebe! Těžko si představit důležitější oblast vojenského výzkumu, než je vývoj stíhaček."
  fighter_focus: "Zaměření na stíhače"
- fighter_focus_desc: "Stále jsme neviděli konec vzdušných soubojů z Velké války. Pokud budeme v vývoji stíhaček o krok napřed, získáme v budoucnu výhodu." # todo: CHANGED
+ fighter_focus_desc: "Ve Velké válce jsme neviděli poslední letecké souboje. Udržování náskoku ve vývoji stíhacích letounů nám v budoucnu poskytne výhodu."
  flag_franco_british_union: "Franco-britská unie"
  fleet_in_being_bonus: "Bonus pro doktríny Flotila v pohybu"
  flexible_navy: "Flexibilní námořnictvo"
@@ -2332,7 +2332,7 @@
  radar_focus: "RADAR"
  radar_focus_desc: "Schopnost odhalit nepřátelské bombardéry bude pro válečné úsilí klíčová. Neměli bychom šetřit prostředky na další rozvoj radarové technologie a budování sítě detekčních stanic podél pobřeží."
  radar_tech_bonus: "Bonus k technologiím RADAR"
- remove_chief_of_airforce: "§ROdvolat§! jako §YŠéf letectva§!:\n" # todo: CHANGED
+ remove_chief_of_airforce: "§ROdvolat§! jako §Ynáčelníka letectva§!:\n"
  remove_chief_of_army: "§ROdstranit§! jako §Ynáčelníka armády§!:\n"
  remove_chief_of_navy: "§ROdstranit§! jako §Ynáčelníka námořnictva§!:\n"
  remove_military_high_command: "§ROdstranit§! z §Yvrchního velení§!:\n"
@@ -2485,5 +2485,5 @@
  NZL_purchase_old_ships_desc: "$SMB_purchase_destroyers_and_subs_desc$" # todo: NEW TRANSLATION
  NZL_the_plan: "Plán výcviku pilotů Britského společenství" # todo: NEW TRANSLATION
  NZL_the_plan_desc: "Spojili jsme se s našimi spojenci, abychom sdíleli zkušenosti a poznatky ve výcviku pilotů. Válka by mohla být vyhrána ze vzduchu, takže Plán výcviku pilotů Britského společenství by mohl být klíčem k vítězství." # todo: NEW TRANSLATION
- either_tt: "Dostaneme možnost buď:" # todo: NEW TRANSLATION
- or_tt: "nebo" # todo: NEW TRANSLATION
+ either_tt: "Dostaneme možnost buď:"
+ or_tt: "nebo"

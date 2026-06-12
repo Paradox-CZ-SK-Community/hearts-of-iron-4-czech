@@ -305,7 +305,7 @@
  LIT_monarchy_events.2.t: "Král Mindaugas III."
  LIT_monarchy_events.2_tt: "§YMindaugas III.§! se stává [Root.GetNonIdeologyAdjective] králem, zatímco §Y[Root.GetLeader]§! zůstává vůdcem [Root.GetRulingParty]"
  NSB_Soviet_fascist_civil_war.001.a: "Do zbraně!"
- NSB_Soviet_fascist_civil_war.001.desc: "Čas politických manévrů je u konce. Ozbrojený boj proti komunistům byl obnoven. Utvořil se výbor, který nás povede touto válkou. Tentokrát budeme bojovat jednotně až do konce. Tentokrát nebude porážka. Tentokrát znovu získáme impérium!" # todo: CHANGED
+ NSB_Soviet_fascist_civil_war.001.desc: "Čas politických manévrů skončil. Ozbrojený boj proti komunistům znovu vzplanul. Vznikl výbor, který nás tímto bojem provede. Tentokrát budeme bojovat jednotně až do konce. Tentokrát nás nečeká porážka. Tentokrát naši říši dobudeme!"
  NSB_Soviet_fascist_civil_war.001.t: "[GetSovietCivilWarName]!"
  NSB_Soviet_fascist_civil_war.002.a: "Dokonalé"
  NSB_Soviet_fascist_civil_war.002.desc: "Divize Ruki jsou připraveny povstat a bojovat proti komunistickým utlačovatelům."
@@ -593,7 +593,7 @@
  NSB_soviet_civil_war_common.100.b: "Nemůžeme postrádat personál"
  NSB_soviet_civil_war_common.100.desc: "[FROM.GetAdjectiveCap] opoziční skupiny plánují povstání. Jejich hlavní vyjednavač nabídl, že až bude [FROM.GetLeader] poražen, předá Vladivostok výměnou za podporu v případě občanské války."
  NSB_soviet_civil_war_common.100.t: "Vladivostok výměnou za podporu"
- NSB_soviet_civil_war_common.100_exiles.desc: "Ruské opoziční skupiny v Mandžusku plánují povstání proti [FROM.GetLeader]. Jejich hlavní vyjednavač $SOV_konstantin_rodzayevsky$ nabídl po jejich porážce [FROM.GetLeader] odevzdat Vladivostok výměnou za japonskou podporu bílým silám během občanské války." # todo: CHANGED
+ NSB_soviet_civil_war_common.100_exiles.desc: "Ruské opoziční skupiny v Mandžusku plánují povstání. Jejich hlavní vyjednavač, $SOV_konstantin_rodzayevsky$, nabídl, že až bude [FROM.GetLeader] poražen, předá Vladivostok výměnou za japonskou podporu bílých sil během občanské války."
  NSB_soviet_civil_war_common.101.a: "To by mělo zajistit náš týl"
  NSB_soviet_civil_war_common.101.desc: "[FROM.GetAdjectiveCap] režim souhlasil s naší žádostí a v případě potřeby nás podpoří silným expedičním sborem proti stalinistům. Vladivostok jim připadne po skončení bojů."
  NSB_soviet_civil_war_common.101.desc_exiles: "Naši [FROM.GetAdjective] přátelé souhlasili s naší žádostí a podpoří náš boj proti bolševikům silným expedičním sborem, jakmile povstání vypukne. Předání Vladivostoku je vysoká cena, ale někdy jsou oběti nutné - alespoň dočasně."
@@ -618,13 +618,13 @@
  NSB_soviet_civil_war_common.106.b: "To zní velmi dobře. Měli bychom dokonce vyslat i několik vojenských poradců"
  NSB_soviet_civil_war_common.106.c: "Nezaplétejme se do toho"
  NSB_soviet_civil_war_common.106.desc_exiles_before: "Antikomunistické skupiny v Mandžusku kují pikle, jak může být [SOV.GetLeader] odstraněn. Plánují svrhnout bolševiky další občanskou válkou. Zástupci této skupiny nás oslovili s žádostí o pomoc se skrytou vojenskou podporou výměnou za budoucí práva na těžbu ropy v ropných polích v Baku."
- NSB_soviet_civil_war_common.106.desc_exiles_civil_war: "Ruská bílá vojska povstala proti [SOS.GetLeader], čímž zahájila další občanskou válku v Rusku. Rebelové se k nám obrátili s nabídkou budoucích práv k ropným polím v Baku výměnou za pomoc při budování jejich vojenské kapacity." # todo: CHANGED
+ NSB_soviet_civil_war_common.106.desc_exiles_civil_war: "[SOS.GetLeader] čelí ohromné krizi. Ruské bílé síly povstaly a rozpoutaly další občanskou válku v Rusku. Povstalci nás oslovili s nabídkou budoucích práv na ropná pole v Baku výměnou za pomoc s budováním jejich vojenských kapacit."
  NSB_soviet_civil_war_common.106.desc_right_opp_before: "[FROM.GetAdjectiveCap] opoziční skupiny plánují převrat proti Stalinovi. Oslovily nás s žádostí o pomoc se skrytou vojenskou podporou výměnou za budoucí práva na těžbu ropy v ropných polích v Baku."
- NSB_soviet_civil_war_common.106.desc_right_opp_civil_war: "[SOV.GetNameDefCap], vedené [SOV.GetLeader], povstalo proti [SOS.GetLeader] a vede zoufalou občanskou válku. Rebelové se k nám obrátili s nabídkou budoucích práv k ropným polím v Baku výměnou za pomoc při budování jejich vojenské kapacity." # todo: CHANGED
+ NSB_soviet_civil_war_common.106.desc_right_opp_civil_war: "[SOS.GetLeader] čelí ohromné krizi. [SOV.GetLeader] a jemu věrné síly povstaly a bojují zoufalou občanskou válku. Povstalci nás oslovili s nabídkou budoucích práv na ropná pole v Baku výměnou za pomoc s budováním jejich vojenských kapacit."
  NSB_soviet_civil_war_common.106.t: "Skrytá pomoc výměnou za ropná pole v Baku"
  NSB_soviet_civil_war_common.107.a: "Dobré zprávy"
- NSB_soviet_civil_war_common.107.desc_advisors: "Vláda [FROM.GetAdjective] souhlasila s pomocí při budování vojenského průmyslu výměnou za budoucí práva na ropu. Kromě toho souhlasila také s vysláním několika vojenských \"poradců\", kteří u nás zůstanou po dobu trvání občanské války." # todo: CHANGED
- NSB_soviet_civil_war_common.107.desc_normal: "Naše žádost o pomoc při budování vojenské kapacity byla u [FROM.GetNameDef] přijata kladně. Vláda [FROM.GetAdjective] pomůže vybudovat vojenské továrny výměnou za budoucí práva na ropu na Kavkaze." # todo: CHANGED
+ NSB_soviet_civil_war_common.107.desc_advisors: "[FROM.GetAdjectiveCap] vláda souhlasila s pomocí při budování vojenského průmyslu výměnou za budoucí ropná práva. Navíc souhlasila i s vysláním několika vojenských „poradců“, kteří u nás zůstanou po dobu trvání občanské války."
+ NSB_soviet_civil_war_common.107.desc_normal: "Naše žádost o pomoc s budováním našich vojenských kapacit přijímá [FROM.GetNameDef] mimořádně příznivě. [FROM.GetAdjectiveCap] vláda pomůže postavit vojenské továrny výměnou za budoucí ropná práva na Kavkaze."
  NSB_soviet_civil_war_common.107.t: "[FROM.GetNameDefCap] souhlasí s pomocí výměnou za ropná pole v Baku"
  NSB_soviet_civil_war_common.108.a: "Budeme si tedy muset poradit sami"
  NSB_soviet_civil_war_common.108.desc: "Naše jednání byla bez výsledku. Navzdory nabídce budoucích ropných práv nám [FROM.GetNameDef] nepomůže vybudovat více vojenského průmyslu."
@@ -640,18 +640,18 @@
  NSB_soviet_civil_war_common.111.desc: "[FROM.GetNameDefCap] souhlasí se zahájením výcviku ukrajinských milic. Jakmile budou jednotky připravené, budou propašovány na Ukrajinu a zahájí povstání proti stalinistickému režimu."
  NSB_soviet_civil_war_common.111.t: "[FROM.GetNameDefCap] vycvičí ukrajinské milice"
  NSB_soviet_civil_war_common.112.a: "Škoda"
- NSB_soviet_civil_war_common.112.desc: "Po několika dnech jednání se [FROM.GetLeader] náhle rozhodl nepodpořit ukrajinské povstání, čímž naše vyjednavače nechal bez ponětí, proč byl jejich návrh odmítnut." # todo: CHANGED
+ NSB_soviet_civil_war_common.112.desc: "Po několika dnech jednání se [FROM.GetLeader] náhle rozhodl nepodpořit ukrajinské povstání a našim vyjednavačům nezbylo než tápat, proč byl jejich návrh odmítnut."
  NSB_soviet_civil_war_common.112.t: "[FROM.GetNameDefCap] odmítá ukrajinský návrh"
  NSB_soviet_civil_war_common.113.a: "[SOS.GetLeader] má zjevě mnohem víc nepřátel"
  NSB_soviet_civil_war_common.113.b: "Dobré vědět"
  NSB_soviet_civil_war_common.113.c: "Počkat, cože?"
- NSB_soviet_civil_war_common.113.desc_before: "Naši němečtí kontakty hlásí, že ukrajinské milice, které vycvičili, jsou připraveny udeřit. Jednotky byly vybaveny a vycvičeny a budou tajně rozmístěny na Ukrajině, očekávajíce vypuknutí války." # todo: CHANGED
- NSB_soviet_civil_war_common.113.desc_started: "Naši němečtí kontakty hlásí, že ukrajinské milice, které vycvičili, jsou připraveny udeřit. Jednotky byly vybaveny a tajně dopraveny na strategická místa. Byl dán rozkaz k útoku a povstání začne každou chvíli." # todo: CHANGED
- NSB_soviet_civil_war_common.113.t: "Ukrajinské milice připraveny" # todo: CHANGED
+ NSB_soviet_civil_war_common.113.desc_before: "Naše německé kontakty hlásí, že ukrajinské milice, které vycvičily, jsou připravené udeřit. Jednotky byly vyzbrojeny i vycvičeny a budou tajně nasazeny na Ukrajině, kde vyčkají na vypuknutí války."
+ NSB_soviet_civil_war_common.113.desc_started: "Naše německé kontakty hlásí, že ukrajinské milice, které vycvičily, jsou připravené udeřit. Jednotky byly vyzbrojeny a tajně přesunuty na strategická místa. Rozkaz vyrazit byl vydán a povstání začne každou chvíli."
+ NSB_soviet_civil_war_common.113.t: "Ukrajinské milice jsou připraveny"
  NSB_soviet_civil_war_common.114.a: "Tohle je nepřijatelné!"
  NSB_soviet_civil_war_common.114.b: "No, nakonec jsme s tím souhlasili"
  NSB_soviet_civil_war_common.114.c: "To bude vážná rána, kterou [SOS.GetLeader] určitě pocítí."
- NSB_soviet_civil_war_common.114.desc: "Německy vycvičení ukrajinští vojáci zajistili kontrolu nad klíčovými městy po celé Ukrajině. Byl vytvořen provizorní kabinet vedený [UKR.GetLeader] a [UKR.GetNameDef] se vyhlásilo nezávislým státem." # todo: CHANGED
+ NSB_soviet_civil_war_common.114.desc: "Němci vycvičení ukrajinští vojáci ovládli klíčová města po celé Ukrajině. Byla vytvořena prozatímní vláda, kterou vede [UKR.GetLeader] a [UKR.GetNameDef] se prohlašuje za nezávislou zemi."
  NSB_soviet_civil_war_common.114.t: "Ukrajinské povstání"
  NSB_soviet_civil_war_common.115.a: "Skvělý nápad"
  NSB_soviet_civil_war_common.115.b: "Už tak máme dost vlastních problémů"
@@ -670,7 +670,7 @@
  NSB_soviet_civil_war_common.118.desc: "Členové protistalinistické sovětské opozice v současnosti vedou kampaň proti stalinistickému režimu. Byla zorganizována řada protistalinistických shromáždění a [ROOT.GetName] je také místem, kde vedou sbírky.\nKromě získávání veřejné podpory své věci nás tajně oslovili s žádostí o zbraně na podporu povstání."
  NSB_soviet_civil_war_common.118.t: "Sovětská opozice žádá o podporu"
  NSB_soviet_civil_war_common.119.a: "Skvělé"
- NSB_soviet_civil_war_common.119.desc: "Vláda [FROM.GetAdjective] souhlasila, že nás bude tajně zásobovat zbraněmi." # todo: CHANGED
+ NSB_soviet_civil_war_common.119.desc: "[FROM.GetAdjectiveCap] vláda souhlasila, že nám tajně dodá zbraně."
  NSB_soviet_civil_war_common.119.t: "[FROM.GetNameDefCap] podporuje naši věc"
  NSB_soviet_civil_war_common.120.a: "Škoda"
  NSB_soviet_civil_war_common.120.desc: "Naše sbírky byly úspěšné. [FROM.GetAdjectiveCap] vláda nám však odmítla dodat zbraně."
@@ -794,12 +794,12 @@
  NSB_soviet_fascist_tsarist.22.b: "Aliance? Naše odpověď zní ne."
  NSB_soviet_fascist_tsarist.22.desc: "[SOV.GetAdjectiveCap] zástupci nás oslovili s návrhem aliance. Navrhují, že vzhledem k podobným světonázorům a zájmům našich nových vlád by bylo rozumné úžeji spolupracovat v hospodářské i vojenské oblasti."
  NSB_soviet_fascist_tsarist.22.t: "Berlínsko-moskevská osa"
- NSB_soviet_fascist_tsarist.23.desc: "Vláda [SOV.GetAdjective] nás informuje, že by ráda participovala na vytvoření našeho nového diplomatického Paktu Osy. Už připravují odeslání diplomatických a vojenských styčných důstojníků." # todo: CHANGED
+ NSB_soviet_fascist_tsarist.23.desc: "[SOV.GetAdjectiveCap] vláda nás informuje, že se ráda zapojí do vytvoření naší nové diplomatické osy. Již nyní podniká přípravy na vyslání diplomatických a vojenských styčných důstojníků."
  NSB_soviet_fascist_tsarist.23.t: "Berlínsko-moskevská osa: návrh přijat"
  NSB_soviet_fascist_tsarist.24.a: "Velmi nešťastné... Jistě to není známka nepřátelských úmyslů?"
  NSB_soviet_fascist_tsarist.24.desc: "[SOV.GetAdjectiveCap] diplomaté nás dnes informovali, že jejich vláda odmítla náš návrh."
  NSB_soviet_fascist_tsarist.24.t: "Berlínsko-moskevská osa: návrh odmítnut"
- NSB_soviet_fascist_tsarist.25.a: "Ihned pošleme vyslance." # todo: CHANGED
+ NSB_soviet_fascist_tsarist.25.a: "Neprodleně vyšleme vyslance."
  NSB_soviet_fascist_tsarist.25.b: "Obáváme se, že naše zájmy se s japonskými neshodují."
  NSB_soviet_fascist_tsarist.25.desc: "[SOV.GetAdjectiveCap] zástupci předložili návrh, který zahrňuje také [JAP.GetNameDef] do naší aliance. Vzhledem k historii napjatých vztahů, které mezi sebou mají [SOV.GetName] a [JAP.GetName], navrhují, abychom byli právě my těmi, kdo je osloví a zprostředkují jednání mezi oběma mocnostmi."
  NSB_soviet_fascist_tsarist.25.t: "Tokijská osa"
@@ -821,7 +821,7 @@
  NSB_soviet_fascist_tsarist.30.a: "Sláva!"
  NSB_soviet_fascist_tsarist.30.desc: "[JAP.GetName] nás informuje, že se rozhodlo přijmout [SOV.GetAdjective] návrh a je připraveno připojit se k naší alianci při nejbližší příležitosti."
  NSB_soviet_fascist_tsarist.31.a: "Budeme si muset vystačit bez nich."
- NSB_soviet_fascist_tsarist.31.desc: "[JAP.GetName] nás s politováním informují, že se domnívají, že návrh [SOV.GetAdjective] momentálně není v jejich nejlepším zájmu, a proto jsou nuceni odmítnout." # todo: CHANGED
+ NSB_soviet_fascist_tsarist.31.desc: "[JAP.GetName] nás s politováním informuje, že [SOV.GetAdjective] návrh v současnosti nepovažuje za odpovídající svým zájmům, a proto jej musí odmítnout."
  NSB_soviet_fascist_tsarist.32.a: "Každý spojenec proti bolševismu je vítán."
  NSB_soviet_fascist_tsarist.32.b: "Nelze mu věřit!"
  NSB_soviet_fascist_tsarist.32.desc: "Během posledního nepřátelského ústupu byl našimi jednotkami zajat vysoce postavený [SOV.GetAdjective] generál. V zajetí tento generál, Andrej Vlasov, prohlásil svůj „antibolševismus“ a nyní navrhuje vytvořit divize ze zajatých Rusů, které by po našem boku bojovaly proti „stalinismu“."
@@ -880,7 +880,7 @@
  NSB_soviet_foreign_politics_events.152.b: "Zatím na ně nebudeme dál tlačit..."
  NSB_soviet_foreign_politics_events.152.c: "Připravte invazi na [FROM.GetNameDef]!"
  NSB_soviet_foreign_politics_events.152.d: "Musíme připravit společnou invazi s [ENG.GetAdjective]"
- NSB_soviet_foreign_politics_events.152.desc: "Naše pokusy vyřešit nevyřízené otázky s [FROM.GetNameDef] diplomatickou cestou se zdají být neúspěšné. Když náš velvyslanec požádal [FROM.GetLeader] o další kolo jednání, byl ostře informován, že [FROM.GetAdjective] jasně stanovili svůj postoj a že už není o čem dál diskutovat." # todo: CHANGED
+ NSB_soviet_foreign_politics_events.152.desc: "Naše pokusy vyřešit nevyřešené otázky, které s námi má [FROM.GetNameDef] diplomatickou cestou, zřejmě selhaly. Když náš velvyslanec požádal o další kolo jednání, [FROM.GetLeader] mu stroze sdělil, že [FROM.GetNameDef] na své pozici trvá a že není o čem dál jednat."
  NSB_soviet_foreign_politics_events.152.t: "[FROM.GetNameDefCap] odmítá"
  NSB_soviet_foreign_politics_events.153.a: "Musíme zajistit Perský koridor!"
  NSB_soviet_foreign_politics_events.153.b: "Budeme respektovat [PER.GetAdjective] nezávislost."
@@ -921,13 +921,13 @@
  NSB_soviet_foreign_politics_events.251.desc: "Zdá se, že [FROM.GetLeader] dospěl k závěru, že [JAP.GetNameDef] se chystá na válku - a ta pravděpodobně vypukne v blízké budoucnosti. [FROM.GetAdjectiveCap] zástupce v našem hlavním městě nás proto vyzval, abychom uvedli naše pohraniční jednotky do pohotovosti a mobilizovali armádu v přípravě na bezprostřední [JAP.GetAdjective] útok."
  NSB_soviet_foreign_politics_events.251.t: "[FROM.GetNameDefCap] a [JAP.GetNameDef] se připravují na válku"
  NSB_soviet_foreign_politics_events.252.a: "Den zúčtování nadešel!"
- NSB_soviet_foreign_politics_events.252.desc: "Dlouho očekávaná válka s [JAP.GetNameDef] nadešla. Dnes dříve začaly [FROM.GetAdjective] síly útoky na [JAP.GetAdjective] pozice po celé Číně a nyní nastal čas, abychom se k nim připojili. Po boku našich [FROM.GetAdjective] spojenců smeteme [JAP.GetAdjective] síly z našich zemí!" # todo: CHANGED
+ NSB_soviet_foreign_politics_events.252.desc: "[JAP.GetNameDef] je s námi ve válce! Dlouho očekávaná válka vypukla. Dnes dříve zahájily [FROM.GetAdjective] síly útoky na [JAP.GetAdjective] pozice po celé Číně a nyní nadešel čas, abychom se k nim připojili. Bok po boku s našimi [FROM.GetAdjective] spojenci vyženeme [JAP.GetAdjective] síly z našich zemí!"
  NSB_soviet_foreign_politics_events.252.t: "[JAP.GetNameDef] je s námi ve válce"
  NSB_soviet_foreign_politics_events.260.a: "Je to bolestivé, ale snesitelné."
  NSB_soviet_foreign_politics_events.260.b: "Válka se ještě může obrátit v náš prospěch."
- NSB_soviet_foreign_politics_events.260.desc: "Po přeběhnutí Kuril a jižního Sachalinu nabídl velitel [FROM.GetAdjective] přímerí na současných liniích v přípravě na mírovou smlouvu. Neřeklo se, že tato mírová smlouva by pravděpodobně uznala alespoň severní ostrovy za nové hranice, což by de facto odevzdalo Kurily a jižní Sachalin [FROM.GetNameDef]." # todo: CHANGED
+ NSB_soviet_foreign_politics_events.260.desc: "Po obsazení Kuril a jižního Sachalinu nabídl [FROM.GetAdjective] velitel příměří na současných liniích jako přípravu na mírovou smlouvu. Nebylo výslovně řečeno, že by tato smlouva s největší pravděpodobností uznala alespoň severní ostrovy jako nové hranice, čímž by Kurily a jižní Sachalin fakticky postoupila na [FROM.GetNameDef]."
  NSB_soviet_foreign_politics_events.260.t: "[FROM.GetNameDefCap] nabízí mír"
- NSB_soviet_foreign_politics_events.261.desc: "Po přeběhnutí Kuril a jižního Sachalinu, stejně jako provedení vylodění na Hokkaidu, nabídl velitel [FROM.GetAdjective] přímerí na současných liniích v přípravě na mírovou smlouvu. Zdá se pravděpodobné, že tato mírová smlouva by uznala vlastnictví Kuril a Sachalinu [FROM.GetAdjective] a postavila Hokkaido pod [FROM.GetAdjective] správu." # todo: CHANGED
+ NSB_soviet_foreign_politics_events.261.desc: "Po obsazení Kuril a jižního Sachalinu a po provedení vylodění na Hokkaidó nabídl [FROM.GetAdjective] velitel příměří na současných liniích jako přípravu na mírovou smlouvu. Zdá se pravděpodobné, že tato smlouva uzná [FROM.GetAdjective] vlastnictví Kuril a Sachalinu a postaví Hokkaidó pod [FROM.GetAdjective] správu."
  NSB_soviet_foreign_politics_events.262.b: "Jaký nesmyslný návrh!"
  NSB_soviet_foreign_politics_events.263.a: "To dramaticky změní rovnováhu sil."
  NSB_soviet_foreign_politics_events.263.b: "Nemůžeme jim věřit, že dodrží slovo."
@@ -987,7 +987,7 @@
  NSB_soviet_foreign_politics_events.278.desc: "Našim diplomatům byl doručen dopis od [FROM.GetAdjective] velvyslance, v němž náš soused — zjevně znepokojený vojenskými schopnostmi [ROOT.GetName] — nabízí vojenskou pomoc při obnově [ROOT.GetAdjective] armády tím, že do naší země pošle vybavení a instruktory. Obdržíme letadla a vybavení pro letectvo, pušky a kulomety pro naše jednotky; budou vybudovány dělostřelecké dílny a opevnění a otevřeny letecké školy pro výcvik místních pilotů. Výměnou se [FROM.GetAdjective] vláda snaží snížit obchodní bariéry a zvýšit [ROOT.GetAdjective] vývoz komoditního zboží, jako je vlna, bavlna, kožešiny a kůže."
  NSB_soviet_foreign_politics_events.278.t: "[FROM.GetAdjectiveCap] vojenská pomoc"
  NSB_soviet_foreign_politics_events.279.a: "Moudré rozhodnutí!"
- NSB_soviet_foreign_politics_events.279.desc: "Naši diplomaté v [SIK.GetNameDef] nás informovali, že náš návrh poskytnout vojenskou pomoc [SIK.GetName] byl přijat [SIK.GetLeader]. Zdá se, že čínský vůdce je dychtivý posílit svou armádu a vojenskou obranu a věří, že s pomocí [ROOT.GetAdjective] bude [SIK.GetNameDef] schopen odolat nepřátelským mocnostem přicházejícím z východu." # todo: CHANGED
+ NSB_soviet_foreign_politics_events.279.desc: "Naši diplomaté v [SIK.GetNameDef] nás informovali, že návrh poskytnout pro [SIK.GetName] vojenskou pomoc schválil samotný [SIK.GetLeader]. Zdá se, že čínský vůdce chce posílit svou armádu a obranu a věří, že s [ROOT.GetAdjective] pomocí bude [SIK.GetNameDef] schopno obstát proti nepřátelským mocnostem přicházejícím z východu."
  NSB_soviet_foreign_politics_events.279.t: "[FROM.GetNameDefCap] přijímá naši vojenskou pomoc"
  NSB_soviet_foreign_politics_events.280.a: "Je to férová nabídka."
  NSB_soviet_foreign_politics_events.280.b: "To stačí, nepotřebujeme je!"
@@ -998,14 +998,14 @@
  NSB_soviet_foreign_politics_events.281.t: "[FROM.GetNameDefCap] přijímá naši pomoc"
  NSB_soviet_foreign_politics_events.282.a: "Nemáme jinou možnost."
  NSB_soviet_foreign_politics_events.282.b: "Musíme s touto fraškou skoncovat!"
- NSB_soviet_foreign_politics_events.282.desc: "Obdrželi jsme oficiální komuniké od [FROM.GetNameDef], které požaduje integraci [ROOT.GetNameDef] jako Nezávislé sovětské socialistické republiky, podřízené vládě [FROM.GetNameDef]. Sám [FROM.GetLeader] slíbil, že náš národ si zachová určitý stupeň autonomie a že Rudá armáda bude připravena bránit Sinkiang, jako by to byla sovětská půda. Podle něj jsou tyto kroky nezbytné pro zajištění efektivní spolupráce mezi našimi zeměmi v těchto těžkých časech. \nS ohledem na velké investice [FROM.GetNameDef] v naší zemi a rostoucí [FROM.GetAdjective] vliv na naši ekonomiku je nejlepší dobře zvážit odpověď před jejím odesláním." # todo: CHANGED
+ NSB_soviet_foreign_politics_events.282.desc: "[FROM.GetNameDef] zasílá oficiální komuniké požadující integraci [ROOT.GetNameDef] jako nezávislé sovětské socialistické republiky, podřízené [FROM.GetAdjective] vládě. Sám [FROM.GetLeader] slíbil, že náš národ si zachová určitou míru autonomie a že Rudá armáda bude připravena bránit Sin-ťiang, jako by šlo o sovětskou půdu. Podle něj jsou to nezbytná opatření, která mají zajistit účinnou spolupráci mezi našimi zeměmi v těchto těžkých časech.\nVzhledem k rozsáhlým investicím, které provádí [FROM.GetNameDef] v naší zemi a rostoucímu [FROM.GetAdjective] vlivu na naši ekonomiku bude nejlepší odpověď pečlivě zvážit."
  NSB_soviet_foreign_politics_events.282.t: "[SOV.GetNameDefCap] požaduje formalizaci sovětské republiky [ROOT.GetNameDef]"
  NSB_soviet_foreign_politics_events.283.a: "Vítejte ve Svazu, soudruzi!"
  NSB_soviet_foreign_politics_events.283.desc: "[FROM.GetLeader] zasílá oficiální komuniké, ve kterém přijal integraci čínské provincie Sin-ťiang jako nezávislé sovětské socialistické republiky, podřízené [ROOT.GetAdjective] vládě. Naše rozsáhlé rozvojové projekty v regionu prokázaly [ROOT.GetAdjective] dobrou vůli při budování dobrých vztahů se spojenci a poskytování pomoci, když je potřeba. Tyto kroky pomohly [FROM.GetLeader] pochopit, že naše požadavky jsou pouze nezbytnými opatřeními k zajištění účinné spolupráce mezi našimi zeměmi v těchto těžkých časech."
  NSB_soviet_foreign_politics_events.283.t: "[SIK.GetNameDefCap]"
  NSB_soviet_foreign_politics_events.284.a: "Brání spolupráci mezi našimi zeměmi."
  NSB_soviet_foreign_politics_events.284.b: "Nenecháme tuto urážku bez trestu!"
- NSB_soviet_foreign_politics_events.284.desc: "Obdrželi jsme oficiální komuniké od [FROM.GetLeader], které odmítá naše požadavky na integraci [FROM.GetNameDef] jako Nezávislé sovětské socialistické republiky. Zdá se, že velké investice, které jsme učinili na rozvoj regionu a pomoc našim čínským sousedům, pro [FROM.GetLeader] nic neznamenaly, a nadále na [ROOT.GetNameDef] nahlíží s nedůvěrou." # todo: CHANGED
+ NSB_soviet_foreign_politics_events.284.desc: "[FROM.GetLeader] zasílá oficiální komuniké, ve kterém odmítl naše požadavky na integraci [FROM.GetNameDef] jako nezávislé sovětské socialistické republiky. Zdá se, že rozsáhlé investice, které jsme vynaložili na rozvoj regionu a podporu našich čínských sousedů, pro [FROM.GetLeader] neznamenaly nic; stále se na [ROOT.GetNameDef] dívá s nedůvěrou."
  NSB_soviet_foreign_politics_events.284.t: "[FROM.GetNameDefCap] odmítá naše požadavky"
  NSB_soviet_foreign_politics_events.285.a: "Společně se postavíme našim nepřátelům!"
  NSB_soviet_foreign_politics_events.285.b: "Je čas hledat nové přátele jinde!"
@@ -1021,10 +1021,10 @@
  NSB_soviet_foreign_politics_events.287.t: "[SIK.GetNameDefCap] opouští frakci [ROOT.GetFactionName]"
  NSB_soviet_foreign_politics_events.30.a: "Ať si mají tu zmrzlou pustinu."
  NSB_soviet_foreign_politics_events.30.b: "To je opravdu dobrý vtip."
- NSB_soviet_foreign_politics_events.30.desc: "Před několika týdny začala [FROM.GetAdjective] propaganda a [FROM.GetAdjective]-orientovaná média cíleně znovu otevírat otázku Aljašky. Tvrdí zásadně, že prodej Aljašky v roce 1867 byl buď podvodný, nebo proveden pod nátlakem. Dále prohlašují, že Aljašané, jak domorodci tak osadníci, by byli zjevně lépe na tom jako občané [FROM.GetNameDef].\n\nDnes [FROM.GetAdjective] velvyslanec doručil oficiální nótu, v níž uvádí, že tzv. \"Vláda Aljašské autonomní republiky v exilu\" formálně požádala o připojení k [FROM.GetNameDef] a že [FROM.GetLeader] jejich žádost schválil. Podle něj zbývá už jen vyjednat podrobnosti o převodu moci." # todo: CHANGED
+ NSB_soviet_foreign_politics_events.30.desc: "Před několika týdny zahájila [FROM.GetAdjective] propagandu a [FROM.GetAdjective] spřízněná média zřetelnou a koordinovanou kampaň, která znovu otevírá otázku Aljašky. V zásadě tvrdí, že nákup Aljašky v roce 1867 byl buď podvodný, nebo uzavřený pod nátlakem. Dále prohlašují, že obyvatelé Aljašky — domorodci i osadníci — by na tom byli zjevně lépe jako [FROM.GetAdjective] občané .\n\nDnes [FROM.GetAdjective] velvyslanec předal oficiální nótu, v níž uvádí, že takzvaná „Vláda Aljašské autonomní republiky v exilu“ formálně požádala [FROM.GetNameDef] o připojení a že [FROM.GetLeader] jejich žádost schválil. Podle jeho slov už zbývá jen dojednat detaily předání moci."
  NSB_soviet_foreign_politics_events.30.t: "[FROM.GetNameDefCap] požaduje navrácení Aljašky"
- NSB_soviet_foreign_politics_events.31.a: "Ještě jedna chyba carů odstraněna." # todo: CHANGED
- NSB_soviet_foreign_politics_events.31.desc: "Při formálním ceremoniálu v pevnosti Sitka [FROM.GetNameDef] převedlo svrchovanost nad Aljaškou zpět na nás. Zatímco většina obyvatel Aljašky se zdá mít k tomuto převodu smíšené pocity, doma populace slaví." # todo: CHANGED
+ NSB_soviet_foreign_politics_events.31.a: "Další carský omyl napraven."
+ NSB_soviet_foreign_politics_events.31.desc: "Při slavnostním ceremoniálu ve Fort Sitka převedli [FROM.GetNameDef] suverenitu nad Aljaškou zpět na nás. Ačkoli většina obyvatel Aljašky má ohledně tohoto předání smíšené pocity, doma lidé slaví."
  NSB_soviet_foreign_politics_events.31.t: "Aljaška navrácena"
  NSB_soviet_foreign_politics_events.32.a: "Aha, mysleli si, že blafujeme?"
  NSB_soviet_foreign_politics_events.32.b: "Poslední, co potřebujeme, je víc zmrzlé hlíny."
@@ -1051,7 +1051,7 @@
  NSB_soviet_paranoia_system_events.01.a: "Je na jeho obavách vůbec něco pravdy?"
  NSB_soviet_paranoia_system_events.01.desc: "Na nedávném zasedání Ústředního výboru soudruh [Root.GetLeader] upozornil na narůstající frakcionářství uvnitř strany. Ačkoli ho všichni členové výboru rychle ujistili o své plné a bezpodmínečné podpoře, zjevně to jeho obavy nijak výrazně nezmírnilo. Soudruh [Root.GetLeader] zdůraznil, že musíme být vždy ve střehu před sabotéry a škůdci, kteří kují pikle proti státu — ať už jsou v jakékoli funkci.\n\nTato zpráva mnohé ve straně překvapila, protože se domnívali, že hrozba rozkolu skončila Trockého vyhnanstvím."
  NSB_soviet_paranoia_system_events.01.t: "[Root.GetLeader] znepokojen frakcionářstvím"
- NSB_soviet_paranoia_system_events.11.a: "Nádor tak blízko u srdce musí být vyříznut bez milosti." # todo: CHANGED
+ NSB_soviet_paranoia_system_events.11.a: "Nádor tak blízko srdce je třeba vyříznout bez milosti."
  NSB_soviet_paranoia_system_events.11.b: "Nemůžeme někoho odsoudit na základě tak chatrných důkazů!"
  NSB_soviet_paranoia_system_events.11.desc: "Na základě anonymního udání byl zatčen [?ROOT.SOV_purged_character_for_loc.GetName]. NKVD ho obvinila ze špionáže, sabotáže a spiknutí proti státu. Zatímco dotyčný dál tvrdí, že je nevinný, vyšetřovatelé jsou přesvědčeni, že během několika týdnů proti němu shromáždí dostatečné důkazy. Buď se pod výslechem zlomí, nebo se podaří získat dostatek svědectví od lidí v jeho okolí, kteří budou ochotni vypovídat o jeho zločinech. V každém případě za tato obvinění nepochybně hrozí trest smrti nebo doživotní těžké práce."
  NSB_soviet_paranoia_system_events.11.t: "Poradce obviněn ze zrady"
@@ -1085,14 +1085,14 @@
  NSB_soviet_paranoia_system_events.24.a: "[?ROOT.SOV_accused_character_for_loc.GetName] musí stanout před spravedlností."
  NSB_soviet_paranoia_system_events.24.b: "[?ROOT.SOV_accuser_character_for_loc.GetName] pouze hledá cestu, jak si zachránit vlastní kůži."
  NSB_soviet_paranoia_system_events.24.c: "Ukončit vyšetřování bez rozsudku."
- NSB_soviet_paranoia_system_events.24.desc: "Do vrchního velení armády dorazila zpráva. V ní [?ROOT.SOV_accuser_character_for_loc.GetName] obviňuje svého kolegu generála [?ROOT.SOV_accused_character_for_loc.GetName] z velmi vážného zanedbání povinností. Podle [?ROOT.SOV_accuser_character_for_loc.GetName] se [?ROOT.SOV_accused_character_for_loc.GetName] spikl s cizími a reakčními prvky a předával informace zahraničním zpravodajským službám. Dále uvádí množství „nehod“ při výcviku, které se staly pod velením [?ROOT.SOV_accused_character_for_loc.GetName], a tvrdí, že šlo ve skutečnosti o sabotáže ze strany zrádného generála a jeho spolukonspirátorů v armádě. Výše zmínění spolukonspirátoři po rozsáhlém výslechu tato obvinění potvrdili." # todo: CHANGED
+ NSB_soviet_paranoia_system_events.24.desc: "Na vrchní velení armády dorazila zpráva, v níž [?ROOT.SOV_accuser_character_for_loc.GetName] uvádí velmi závažná selhání povinností, kterých se měl dopustit jeho kolega, generál [?ROOT.SOV_accused_character_for_loc.GetName]. Jak uvádí [?ROOT.SOV_accuser_character_for_loc.GetName], generál [?ROOT.SOV_accused_character_for_loc.GetName] zosnoval spiknutí se zahraničními a reakčními prvky a předával informace cizí rozvědce. Dále poukazuje na množství výcvikových nehod, k nimž došlo, když výcviku velel [?ROOT.SOV_accused_character_for_loc.GetName], a tvrdí, že ve skutečnosti šlo o sabotáže spáchané tímto proradným generálem a jeho spolupachateli v armádě. Uvedení spolupachatelé tato obvinění po dlouhých výsleších potvrdili."
  NSB_soviet_paranoia_system_events.24.t: "[?ROOT.SOV_accuser_character_for_loc.GetName] tvrdí, že [?ROOT.SOV_accused_character_for_loc.GetName] páchá protisovětskou činnost"
  NSB_soviet_paranoia_system_events.24_paranoia_accused_decrease_tt: "£SOV_paranoia_text_icon Politická paranoia klesá podle úrovně odstraněného velitele: §G[?SOV.SOV_accused_unit_leader_level]§!"
  NSB_soviet_paranoia_system_events.24_paranoia_accused_increase_tt: "£SOV_paranoia_text_icon Politická paranoia roste podle úrovně neodstraněného velitele: §R[?SOV.SOV_accused_unit_leader_level]§!"
  NSB_soviet_paranoia_system_events.24_paranoia_both_decrease_tt: "£SOV_paranoia_text_icon Politická paranoia klesá podle úrovně odstraněných velitelů: §G[?SOV.SOV_combined_unit_leader_level]§!"
  NSB_soviet_paranoia_system_events.24_paranoia_both_increase_tt: "£SOV_paranoia_text_icon Politická paranoia roste podle úrovně neodstraněných velitelů: §R[?SOV.SOV_combined_unit_leader_level]§!"
  NSB_soviet_paranoia_system_events.28.a: "Nesmíme dopustit, aby se ta hniloba rozšířila."
- NSB_soviet_paranoia_system_events.28.b: "Tato obvinění jsou hrubým nadsazením drobných problémů." # todo: CHANGED
+ NSB_soviet_paranoia_system_events.28.b: "Tato obvinění hrubě zveličují drobné prohřešky."
  NSB_soviet_paranoia_system_events.28.desc: "Přicházejí zprávy o rozsáhlé síti důstojníků, kteří ostře kritizují, jak [Root.GetLeader] řídí vojenské záležitosti. Zatčení na základě obvinění z pobuřování, sabotáže a protisovětského smýšlení během výslechů rychle prozrazují další jména ze sítě. O loajalitě generálů existovala podezření už dlouho, ale tohle ukazuje, že možná nelze věřit ani majorům a plukovníkům."
  NSB_soviet_paranoia_system_events.28.t: "Velká čistka mezi nižšími důstojníky armády"
  NSB_soviet_paranoia_system_events.29.a: "Všichni zrádci musí zaplatit nejvyšší cenu."
@@ -1147,7 +1147,7 @@
  NSB_soviet_policies_of_collective_security.3.t: "[FROM.GetNameDefCap] odmítá náš návrh"
  NSB_soviet_policies_of_collective_security.4.a: "Mají pravdu."
  NSB_soviet_policies_of_collective_security.4.b: "Návrh byl z nějakého důvodu jen mezi námi."
- NSB_soviet_policies_of_collective_security.4.desc: "Zatímco jsou zásadně otevřeni paktu vzájemné pomoci, vláda [FROM.GetAdjective] má určité obavy ohledně postavení Polska. Zdá se, že stanovisko vlády [FROM.GetAdjective] je, že Polsko musí být do paktu zahrnuto. \n\nTo je otázka, na které delegace [FROM.GetAdjective] neuhne, a požádali, abychom formálně pozvali [POL.GetNonIdeologyName] do paktu." # todo: CHANGED
+ NSB_soviet_policies_of_collective_security.4.desc: "Ačkoli je [FROM.GetAdjective] vláda v zásadě otevřena paktu vzájemné pomoci, má určité obavy ohledně postavení Polska. Zdá se, že stanovisko [FROM.GetAdjective] vlády je takové, že Polsko musí být do paktu zahrnuto.\n\nV tomto bodě není [FROM.GetAdjective] delegace ochotna ustoupit a žádá, abychom formálně pozvali [POL.GetNonIdeologyName] k účasti v paktu."
  NSB_soviet_policies_of_collective_security.4.t: "[FROM.GetNameDefCap] prosazuje, ať je [POL.GetNonIdeologyName] zahrnuto do paktu"
  NSB_soviet_policies_of_collective_security.5.a: "To by smlouvu nemělo potopit."
  NSB_soviet_policies_of_collective_security.5.b: "Pak dohoda padá."
@@ -1160,17 +1160,17 @@
  NSB_soviet_policies_of_collective_security.7.b: "Copak nevědí, že Sovětům se nedá věřit?"
  NSB_soviet_policies_of_collective_security.7.desc: "[FROM.GetAdjectiveCap] velvyslanec nás informoval, že jeho země a [SOV.GetNameDef] právě podepsali smlouvu o vzájemné pomoci. Podle jejích podmínek na sebe žádná ze stran nezaútočí a budou se snažit si vzájemně pomáhat v době války.\n\nDále uvedl, že jeho vláda podepsala tuto smlouvu pouze s výslovnou podmínkou, že se k paktu budeme moci připojit i my, pokud si to budeme přát."
  NSB_soviet_policies_of_collective_security.7.t: "[SOV.GetAdjectiveCap]-[FROM.GetAdjective] pakt vzájemné pomoci"
- NSB_soviet_policies_of_collective_security.8.a: "Taková mylná loajalita." # todo: CHANGED
+ NSB_soviet_policies_of_collective_security.8.a: "Taková nepatřičná loajalita."
  NSB_soviet_policies_of_collective_security.8.desc: "Naše snahy vyjednat smlouvu skončily neúspěchem. Zdá se, že [POL.GetNonIdeologyName] a jeho zahrnutí do paktu bylo kritickým bodem, v němž nebylo možné nalézt kompromis."
  NSB_soviet_policies_of_collective_security.8.t: "[FROM.GetNameDefCap] odmítá podepsat pakt, pokud tam nebude také [POL.GetNameDef]"
  NSB_soviet_policies_of_collective_security.9.a: "Pochopili to."
- NSB_soviet_policies_of_collective_security.9.desc: "Po dalším kole jednání se vláda [FROM.GetAdjective] souhlasila podepsat pakt navzdory svým dřívějším výhradám ohledně vyloučení Polska. I když v delegaci [FROM.GetAdjective] stále panuje jisté reptání, zdají se být ochotni pokračovat v ratifikaci smlouvy." # todo: CHANGED
+ NSB_soviet_policies_of_collective_security.9.desc: "Po dalších jednáních [FROM.GetAdjective] vláda souhlasila s podpisem paktu navzdory dřívějším výhradám k vyloučení Polska. Ačkoli v [FROM.GetAdjective] delegaci stále panuje určité reptání, zdá se, že jsou ochotni pokračovat v ratifikaci smlouvy."
  NSB_soviet_policies_of_collective_security.9.t: "[FROM.GetNameDefCap] souhlasí s podpisem paktu"
  NSB_soviet_policies_of_collective_security_agreed_effects_tt: "Pokud pakt vstoupí v platnost, budeme souhlasit s následujícími podmínkami:"
  NSB_soviet_policies_of_collective_security_condition_effects_tt: "Pokud jak [FROM.GetNameDef], tak [POL.GetAdjective] vláda souhlasí s tím, aby bylo [POL.GetNonIdeologyName] zahrnuto do paktu, budou stejné efekty aplikovány i na [POL.GetNameDef]."
  NSB_soviet_policies_of_collective_security_poland_included_effects_from_tt: "[SOV.GetFlag]§Y[SOV.GetNameDefCap]§!, [ROOT.GetFlag]§Y[ROOT.GetNameDefCap]§! a [FROM.GetFlag]§Y[FROM.GetNameDefCap]§! se vzdají veškerých nároků a válečných cílů vůči sobě navzájem, podepíší pakt o neútočení a budou si navzájem garantovat nezávislost."
  NSB_soviet_policies_of_collective_security_poland_included_effects_root_tt: "[SOV.GetFlag]§Y[SOV.GetNameDefCap]§!, [ROOT.GetFlag]§Y[ROOT.GetNameDefCap]§! a [POL.GetFlag]§Y[POL.GetNameDefCap]§! se vzdají veškerých nároků a válečných cílů vůči sobě navzájem, podepíší pakt o neútočení a budou si navzájem garantovat nezávislost."
- NSB_soviet_policies_of_collective_security_refusing_poland_inclusion_tt: "Odmítneme návrh [FROM.GetAdjective] na zahrnutí [POL.GetNameDef] do paktu. [FROM.GetNameDefCap] bude muset zvolit mezi přijetím našeho původního návrhu nebo opuštěním myšlenky kolektivní dohody o vzájemné pomoci." # todo: CHANGED
+ NSB_soviet_policies_of_collective_security_refusing_poland_inclusion_tt: "Odmítneme [FROM.GetAdjective] návrh, aby bylo do paktu zahrnuto i [POL.GetNonIdeologyName]. [FROM.GetNameDefCap] si bude muset vybrat mezi přijetím našeho původního návrhu nebo opuštěním myšlenky kolektivní dohody o vzájemné pomoci."
  NSB_soviet_policies_of_collective_security_tt: "Pokud [POL.GetAdjective] vláda souhlasí, bude [POL.GetNameDef] zahrnuto do kolektivní dohody o vzájemné pomoci, stejně jako [FROM.GetNameDef] a [ROOT.GetNameDef]."
  NSB_soviet_propaganda_capmaign_events.1.a: "Vybudují si vlastní, rudejší budoucnost."
  NSB_soviet_propaganda_capmaign_events.1.desc: "Naši přátelé a průvodci zahájili program, jehož cílem je pro [SOV.GetNameDef] zajistit, aby si nyní vyrůstající generace plně uvědomovala, co se od ní očekává. Dobrý komunista musí být fyzicky zdatný, aby mohl vykonávat práci potřebnou k budování lepšího světa, a zároveň dobře vzdělaný, aby plně chápal, co je třeba učinit.\n\nNadšení mladí lidé v naší zemi se tím inspirovali a nyní se snaží tento přístup co nejvíce napodobovat."
@@ -1191,10 +1191,10 @@
  NSB_soviet_soviet_german_trade_agreement.2.desc: "[FROM.GetAdjectiveCap] diplomaté nás informovali, že souhlasili s naším návrhem. Naše státy vstoupily do obchodního paktu, v jehož rámci bude [ROOT.GetNameDef] dodávat suroviny, jako je obilí, bavlna, ropa, kovové rudy a kaučuk, do [FROM.GetNameDef]. Výměnou obdržíme nedokončený křižník třídy Hipper, plány dalších válečných lodí, těžká námořní děla a vzorky [FROM.GetAdjective] letadel.\nTato dohoda nám nepochybně pomůže při vývoji moderních vojenských technologií."
  NSB_soviet_soviet_german_trade_agreement.2.t: "[GER.GetNameDefCap] podepisuje $NSB_soviet_soviet_german_trade_agreement.1.t$"
  NSB_soviet_soviet_german_trade_agreement.3.a: "Tvrdohlaví hlupáci!"
- NSB_soviet_soviet_german_trade_agreement.3.desc: "Po několika pokusech našeho velvyslance přesvědčit [FROM.GetAdjective] úředníky o vzájemných výhodách obchodní smlouvy mezi našimi zeměmi nám [FROM.GetAdjective] diplomaté právě sdělili, že nemají zájem uzavřít obchodní dohodu s [ROOT.GetNameDef]." # todo: CHANGED
+ NSB_soviet_soviet_german_trade_agreement.3.desc: "Po několika pokusech našeho velvyslance přesvědčit [FROM.GetAdjective] představitele o vzájemných výhodách obchodního paktu mezi našimi zeměmi nás [FROM.GetAdjective] diplomaté právě informovali, že nemají zájem s námi uzavřít obchodní dohodu."
  NSB_soviet_soviet_german_trade_agreement.3.t: "[GER.GetNameDefCap] odmítá $NSB_soviet_soviet_german_trade_agreement.1.t$"
  NSB_soviet_spanish_civil_war.1.a: "Vítáme všechny španělské uprchlíky."
- NSB_soviet_spanish_civil_war.1.desc: "Včera do Kronštadtu dorazila loď plná španělských uprchlíků, kteří utíkali z vlasti kvůli blížícímu se pádu jejich vlády v občanské válce. Přijala je naše delegace z [ROOT.Capital.GetName], která se o skupinu postarala; byla tvořena převážně dětmi, ale i několika španělskými politiky a vojáky. \nMezi nimi byl i významný komunistický bojovník [?SOV.SOV_spanish_general.GetName], se kterým naši zástupci jednali. Bývalý španělský důstojník uvedl, že Španělé přicházejí do [ROOT.GetNameDef] zahojit své rány a najít solidaritu pro svůj úkol osvobodit španělský lid, a požádal [ROOT.GetAdjective] vládu, aby uznala jeho vojenskou hodnost a vrátila ho do služby, aby mohl pokračovat v boji proti fašismu a imperialismu." # todo: CHANGED
+ NSB_soviet_spanish_civil_war.1.desc: "Včera dorazila do Kronštadtu loď, přeplněná španělskými uprchlíky prchajícími ze země kvůli hrozícímu pádu jejich vlády v občanské válce. Přivítala je naše delegace, která se o skupinu postarala; tvořily ji převážně děti, ale také několik španělských politiků a vojáků.\nMezi nimi byl i významný komunistický bojovník [?SOV.SOV_spanish_general.GetName], s nímž naši zástupci vedli rozhovor. Tento bývalý důstojník španělské armády uvedl, že Španělé hledí na [ROOT.GetNameDef] jako na naději - nejen, aby si vyléčili rány, ale také, aby našli solidaritu pro svůj úkol osvobodit španělský lid, a požádal [ROOT.GetAdjective] vládu, aby uznala jeho vojenskou hodnost a znovu jej přijala do služby, aby mohl pokračovat v boji proti fašismu a imperialismu."
  NSB_soviet_spanish_civil_war.1.t: "[?SOV.SOV_spanish_general.GetName] vstupuje do [ROOT.GetAdjective] služeb"
  NSB_soviet_spanish_civil_war.2.a: "Tohle je začátek světové revoluce!"
  NSB_soviet_spanish_civil_war.2.desc: "Sympatizanti ze Sovětského svazu organizují mobilizaci a výcvik stovek členů mezinárodních brigád, kteří podporují naši věc: vyhrát válku, aniž bychom se vzdali revoluce. Tito odvážní příslušníci mezinárodního proletariátu a rolnictva jsou připraveni položit život v boji proti fašismu a buržoazii."
@@ -1295,7 +1295,7 @@
  SOV_sinikiang_influence_cg_tt_sik: "§Y[SOV.GetFlag][SOV.GetNameDefCap]§! získá touto dohodou bonus §Y-1,0 %§! ke spotřebnímu zboží."
  SOV_sinikiang_influence_cg_tt_sov: "$SOV_modify_fyp_ns_intro$\nTovárny na spotřební zboží: §Y-1,0 %§!"
  SOV_sinkiang_when_project_finishes_tt: "\nEfekty po dokončení projektu:"
- SOV_ukraine_insurrection_tt: "[ROOT.GetName] bude cvičit ukrajinské milice výměnou za budoucí §Ypráva k přírodním zdrojům§! na Ukrajině.\n" # todo: CHANGED
+ SOV_ukraine_insurrection_tt: "[ROOT.GetName] bude cvičit ukrajinskou milici výměnou za budoucí §Ypráva na zdroje§! na Ukrajině.\n"
  SOV_zinovyev: "Zinovjev"
  USA_operation_1: "Operace Sunstroke"
  USA_operation_2: "Operace Carnival"
@@ -1313,7 +1313,7 @@
  nsb_coup.1.desc: "Po týdnech pečlivého plánování dnes skupina důstojníků, které velil [Root.GetLeader], zahájila plán, kterému říká [Root.GetOperationName] - plán na převzetí kontroly nad vládou.\n\nDlouhá přípravná fáze se vyplatila, neboť jednotky, které považoval [Root.GetLeader] za loajální, dokázaly rychle převzít kontrolu nad všemi důležitými vládními budovami. Místní stráže a policejní jednotky, postavené před drtivou přesilu, se vzdaly bez jediného výstřelu. Zátarasy kolem hlavního města zachytily všechny vládní ministry, kteří se pokusili uprchnout.\n\nS předchozí vládou nyní bezpečně ve vazbě oznámil [Root.GetLeader] zbytku krajiny, jak se veci teď mají, jako hotovou věc.  hotovou věc. Očekává se, že místní úřady se rychle zařadí."
  nsb_coup.1.t: "[Root.GetNameDef] má nového vůdce, [Root.GetLeader] přebírá vládu"
  nsb_coup.2.a: "A tihle lidé chtěli řídit zemi?"
- nsb_coup.2.desc: "Po týdnech plánování včera v noci skupina důstojníků nařídila provedení [Root.GetOperationName], plánu na uchopení kontroly nad vládou. \n\nVypadá to, že museli svůj plán vyvolat předčasně, protože jejich operace působí uspěchaně a špatně koordinovaně. Zdá se, že nebyli informováni o změnách v rozpisu stráže; skupina vojáků loajálních k převratu se objevila v kanceláři [Root.GetLeader] s rozkazem zatknout nebo zabít — právě ve chvíli, kdy byla stráž střídána, a tak čelili dvojnásobnému počtu stráží, než očekávali. Následující střet byl krátký a brutální, zanechav několik vojáků na obou stranách mrtvých či zraněných, zatímco [Root.GetLeader] se mu podařilo uniknout.\n\n[Root.GetLeader] se od té doby objevil na veřejnosti i v rozhlase, čímž ukázal, že pokus o atentát byl neúspěšný. Po zhroucení převratu několik důstojníků v naší armádě spáchalo sebevraždu, aby se vyhnuli zatčení, nebo se rozhodli padnout v boji, když byly proti nim vyslány jednotky, zatímco velitelé různých posádek složili přísahu věrnosti [Root.GetLeader]." # todo: CHANGED
+ nsb_coup.2.desc: "Po týdnech plánování včera v noci skupina důstojníků nařídila, ať se uskuteční [Root.GetOperationName] - plán na převzetí kontroly nad vládou.\n\nZdá se, že museli svůj plán uvést do pohybu předčasně, protože jejich operace působí zbrkle a špatně koordinovaně. Skupina vojáků loajálních puči se podle všeho neorientovala ve změnách rozpisu stráží a objevila se v kanceláři vůdce s rozkazy zatknout ho nebo zabít - právě ve chvíli, kdy docházelo ke střídání stráže, takže čelili dvojnásobnému počtu strážných, než očekávali. Následná přestřelka byla krátká a brutální; na obou stranách zůstalo několik mrtvých či zraněných, zatímco [Root.GetLeader] se dokázal dostat do bezpečí.\n\n[Root.GetLeader] se od té doby objevil na veřejnosti i v rozhlase, čímž dal najevo, že pokus o atentát byl neúspěšný. Po zhroucení puče řada důstojníků naší armády spáchala sebevraždu, aby unikla zatčení, nebo se rozhodla padnout se zbraní v ruce, když byly vyslány jednotky k jejich zatčení, zatímco velitelé různých posádek přislíbili, že jejich loajalitu má jen a pouze [Root.GetLeader]."
  nsb_coup.2.t: "Pokus o převrat selhal"
  nsb_coup.3.a: "Rozdrtíme toto povstání!"
  nsb_coup.3.desc: "Po týdnech plánování včera v noci skupina důstojníků nařídila, ať se uskuteční [Root.GetOperationName] - plán na převzetí kontroly nad vládou.\n\nZdá se, že museli svůj plán uvést do pohybu předčasně a události se rychle vymkly kontrole. Pokus zatknout nebo zabít [Root.GetLeader] selhal v obou směrech a síť zátarasů kolem hlavního města se ještě neuzavřela, když mnoha vládním činitelům podařilo uprchnout.\n\n[Root.GetAdjectiveCap] vláda přežila a bude bojovat dál; [Root.GetLeader] slíbil, že zrádce dostihne spravedlnost - jakýmikoli prostředky."
@@ -1331,8 +1331,8 @@
  nsb_news.10.d: "Stalinovo Rusko se zhroutilo jako domeček z karet."
  nsb_news.10.desc_communist_opposition: "Kapitulace posledních jednotek, na které se spoléhal [SOS.GetLeader], znamená, že [GetSovietCivilWarName] skončila. [SOV.GetLeader] se prohlásil za vítěze a slíbil, že [SOV.GetNameDef] povstane z popela občanské války a zkázy. Před námi je titánský úkol a situace ve světě je nejasná, ale on trvá na tom, že právě začala nová éra pro [SOV.GetNameDef] i pro svět. Zda za těmto prohlášením dostojí, teprve uvidíme."
  nsb_news.10.desc_exiles: "To, co se zdálo být nemožným podnikem - obnovení boje proti bolševikům exilovým bělogvardějským hnutím - se navzdory všem prognózám proměnilo ve vítězství. [SOV.GetLeader] prohlásil, že [SOS.GetNameDef] byl poražen, a slíbil navrátit Rusko jeho někdejší slávě. Válka zpustošila velkou část Ruska a stála zemi nesmírné oběti.\n\n[SOS.GetLeader] není nikde k nalezení a jeho osud je zatím neznámý. Povídá se, že uprchl ze země několik dní před kapitulací a že se možná skrývá někde v Jižní Americe."
- nsb_news.10.desc_exiles_puppet: "S japonskou pomocí se prozatímní vládě Ruska podařilo porazit [SOS.GetLeader] a dosáhnout vítězství v [GetSovietCivilWarName]. Stát se v podstatě subjekt-státem [JAP.GetNameDef] je však vysoká cena a mnohé nutí pochybovat, zda je to skutečné vítězství pro bílou věc." # todo: CHANGED
- nsb_news.10.desc_stalinist: "S kapitulací posledních povstaleckých jednotek je [GetSovietCivilWarName] oficiálně u konce. V bombastickém projevu národu se [SOS.GetLeader] prohlásil za architekta tohoto vítězství a vychvaloval statečnost a věrnost Rudé armády. \n\nS vnitřními nepřáteli zničenými jednou provždy může [SOV.Getleader] začít hledat cíle jinde. Dlouhodobé následky rozsáhlého zničení průmyslu a ztrát na životech se teprve ukážou." # todo: CHANGED
+ nsb_news.10.desc_exiles_puppet: "S pomocí Japonců se prozatímní ruské vládě podařilo porazit [SOS.GetLeader] a dovést občanskou válku k vítězství. Stát se fakticky [JAP.GetAdjective] loutkou je však vysoká cena a mnohé vede k otázce, zda je to opravdu vítězství bílé věci."
+ nsb_news.10.desc_stalinist: "S kapitulací posledních vzbouřeneckých jednotek je [GetSovietCivilWarName] oficiálně u konce. V bombastickém projevu k národu [SOS.GetLeader] prohlásil sám sebe za strůjce tohoto vítězství a vychválil statečnost a loajalitu Rudé armády.\n\nS vnitřními nepřáteli jednou provždy zničenými se může [SOV.Getleader] začít dívat jinam. Dlouhodobé dopady rozsáhlého zničení průmyslu a ztrát na životech se teprve projeví."
  nsb_news.10.e: "Zbavit se Stalina bylo nejspíš to nejlepší."
  nsb_news.10.f: "Těmto novým vůdcům bude těžké důvěřovat."
  nsb_news.10.g: "Možná je [SOV.GetLeader] rozumnější partner."
@@ -1382,9 +1382,9 @@
  nsb_news.302.b: "Zase?"
  nsb_news.302.d: "Poprvé to bylo na počátku ruské občanské války a rychle se rozpadlo. Podruhé jako sovětská republika, která byla po sovětské ústavě z roku 1936 rozdělena. Nyní potřetí [FROM.GetLeader] usiloval o znovusjednocení zakavkazských zemí a ty jsou opět připraveny nejen bránit svá území, ale i rozšiřovat se na cizí. Jen čas ukáže, co podniknou."
  nsb_news.302.t: "Zakavkazsko znovu sjednoceno"
- nsb_news.303.a: "Konečně je Sibiř svobodná od okovů imperialismu!" # todo: CHANGED
+ nsb_news.303.a: "Konečně je Sibiř osvobozena z pout imperialismu!"
  nsb_news.303.b: "Ruské sevření na východě povoluje..."
- nsb_news.303.d: "Po staletích vlády pod Ruskem není Sibiř nyní jen regionem pod cizí mocí, ale politickou entitou, která je sjednocená a připravená bojovat za svá práva za každou cenu. Obyvatelé Sibiře se radují, neboť dny imperialismu jsou pryč a budou žít v nezávislém státě bez zahraniční intervence. Republika prohlásila, že však nebude stát stranou, neboť je zde více obyvatel Sibiře, kteří musí být chráněni a osvobozeni za každou cenu!" # todo: CHANGED
+ nsb_news.303.d: "Po staletích ruské nadvlády už Sibiř není jen regionem podřízeným cizí moci, ale politickým subjektem, který je sjednocen a připraven bojovat za svá práva za každou cenu. Lidé na Sibiři jásají - dny imperialismu jsou pryč a mohou žít v nezávislém státě bez cizího vměšování. Republika však prohlásila, že nebude nečinně sedět - vždyť je tu víc sibiřského lidu, který je třeba chránit a osvobodit, za každou cenu!"
  nsb_news.303.t: "Sibiř sjednocena"
  nsb_news.304.a: "Tentokrát obstojí v zkoušce času!"
  nsb_news.304.b: "Tak kdeže to je?"
@@ -1405,7 +1405,7 @@
  nsb_news.401.a: "Naše slavná země potřebuje silné vůdce!"
  nsb_news.401.b: "Zda se tím něco zlepší, se teprve uvidí."
  nsb_news.401.c: "Rodí se nový spojenec?"
- nsb_news.401.desc: "Pouhé měsíce poté, co svou vládu zlegitimizovali znovuzavedením Zemského soboru, rozpuštěly fašistické prvky ve vládě [SOV.GetAdjective] nový parlament a postavily zemi pod kontrolu [SOV.GetLeader]. Zatím nový korunovaný car hraje ceremoniální roli, ale je zřejmé, že mu zůstalo jen velmi málo skutečné moci.\n\nV důsledku změny režimu se nacionalistická rétorika již výrazně zvýšila, s projevy oslavujícími bratrství 'slovanských národů' a zároveň odsuzujícími minulé 'přestupky' sousedních mocností." # todo: CHANGED
+ nsb_news.401.desc: "Jen pár měsíců poté, co si vláda zlegitimizovala moc obnovením Zemského soboru, rozpustily fašistické prvky v [SOV.GetAdjective] vládě nový parlament a [SOV.GetLeader] je tým, kdo drží v rukou skutečnou moc. Nově korunovaný car zatím hraje roli pouze symbolickou, ale je zřejmé, že mu zbylo jen málo skutečné moci.\n\nV návaznosti na změnu režimu již citelně zesílila nacionalistická rétorika - projevy o bratrství „slovanských národů“ i odsudky minulých „křivd“ ze strany sousedních mocností."
  nsb_news.401.t: "Zemský sobor rozpuštěn"
  nsb_news.402.a: "Naše slavná aliance povstává!"
  nsb_news.402.b: "Skvělý nápad našich nových spojenců na východě."
@@ -1465,13 +1465,13 @@
  nsb_news.8.b: "Co to bude znamenat pro nás?"
  nsb_news.8.c: "Ať žije království!"
  nsb_news.8.d: "Zajímavé."
- nsb_news.8.desc: "Dne 4. června 1918 byl Wilhelm Karl von Urach demokraticky zvolen králem Litvy s drtivou podporou, avšak zásahy Německé říše znamenaly, že referendum bylo prohlášeno za neplatné a Litva se se svým králem nikdy nesjednotila. Přesto prezident Litvy dnes zrušil svůj vlastní úřad a vyhlásil krále Mindaugase III. hlavou státu nového Království Litvy.\n\nS Antanasem Smetonou nyní v úřadu předsedy vlády se národ stal absolutní monarchií a zdá se, že nová vlna litevského vlastenectví a jingoismu se šíří po celé zemi." # todo: CHANGED
+ nsb_news.8.desc: "Dne 4. června 1918 byl Vilém Karel z Urachu s ohromující podporou demokraticky zvolen králem Litvy, avšak zásah Německé říše způsobil, že bylo referendum prohlášeno za neplatné a Litva nikdy svého krále nedostala. Přes to všechno dnes litevský prezident zrušil svůj úřad a prohlásil krále Mindaugase III. hlavou státu nového Litevského království.\n\nS Antanasem Smetonou nyní v roli předsedy vlády se země stala absolutní monarchií a v celé zemi se šíří nová vlna litevského vlastenectví a šovinismu."
  nsb_news.8.t: "Litevské království"
  nsb_news.9.a: "K vítězství!"
  nsb_news.9.b: "Že to došlo až sem."
  nsb_news.9.c: "Komunisté se zničí i sami."
  nsb_news.9.d: "[SOS.GetLeader] jistě zvítězí."
- nsb_news.9.desc_exiles: "Poněkud nečekaně se bílé síly znovu povstaly proti bolševikům. Jejich věc mohla vypadat ztracená, ale v uplynulých měsících existovalo několik zpráv o vojenském nárůstu v Mandžusku a na Sibiři, a dnes brzy ráno byla v [SOV.capital.GetName] vyhlášena prozatímní vláda Ruska. \n\n[Vláda [SOS.GetAdjective]] okamžitě mobilizovala Rudou armádu a Rusko je opět vtaženo do občanské války. Západní mocnosti zatím neprojevily zájem do konfliktu zasahovat. Zůstává však otázkou, jak na tento vývoj zareagují Japonci." # todo: CHANGED
+ nsb_news.9.desc_exiles: "Poměrně nečekaně znovu povstaly bílé síly proti bolševikům. Jejich věc se mohla zdát ztracená, ale v uplynulých měsících přicházely zprávy o vojenském hromadění v Mandžusku a na Sibiři. Dnes ráno byl [SOV.capital.GetName] svědkem vyhlášení prozatímní ruské vlády.\n\n[SOS.GetAdjectiveCap] vláda okamžitě zmobilizovala Rudou armádu, čímž bylo Rusko znovu uvrženo do občanské války. Západní mocnosti zatím neprojevily zájem do konfliktu zasáhnout. Zda a jak zareagují Japonci, se teprve ukáže."
  nsb_news.9.desc_left: "V Rusku znovu vypukla občanská válka. Vzpomínky na poslední občanskou válku jsou stále živé, a přece došlo až k tomuto. Po letech politických půtek mezi stalinistickými a trockistickými frakcemi se sovětská vláda konečně rozštěpila a obě skupiny nyní bojují v ulicích o ovládnutí země.\n\n[SOV.GetLeader] se prohlásil za vůdce toho, co nazývá [SOV.GetNameDef], zatím co [SOV.Capital.GetName] a okolí je oblast, kterou drží [SOS.Getleader] stále ve svých rukou."
  nsb_news.9.desc_right: "V Sovětském Rusku se opět bojuje. Tentokrát to však není válka mezi bolševiky a „bílými“, nýbrž střet soupeřících frakcí uvnitř komunistické strany. [SOS.GetLeader] drží hlavní město, zatímco vzbouřenci, které vede [SOV.GetLeader], si za své centrum zvolili [SOV.Capital.GetName]. Kolují zvěsti, že [SOV.GetLeader] se může opřít o podporu cizích mocností, ale pravdivost těchto řečí zůstává nejasná."
  nsb_news.9.e: "Co to bude znamenat pro komunistickou věc?"

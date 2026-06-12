@@ -78,7 +78,7 @@
  POL_baltic_alliance_focus: "Pobaltská aliance"
  POL_baltic_alliance_focus_desc: "Po pádu Polska jsou nepochybně na řadě Baltové, takže je rozumné, aby tyto tři národy odložily své pohrdání polským státem a postavily se po našem boku proti společným nepřátelům na obou stranách našich společných hranic."
  POL_baltic_navy: "Strážce Baltského moře"
- POL_baltic_navy_desc: "Nikdo nepřepluje naše blokády, nikdo nevystoupí na břehy Polska ani jeho spojenců. Baltské moře patří Polsku a nikomu jinému." # todo: CHANGED
+ POL_baltic_navy_desc: "Nikdo nesmí projít kolem našich blokád, nikdo se nesmí vylodit u břehů Polska nebo jeho spojenců. Baltské moře patří Polsku a nikomu jinému."
  POL_baltic_security: "Zabezpečit Pobaltí"
  POL_baltic_security_desc: "Ačkoli jsme se spoléhali na podporu Západu, neustálé ústupky Němcům v nás vyvolávají pochybnosti, zda by nás spojenci v případě invaze bránili. Snad tím, že budeme sami chránit své východoevropské sousedy, se nám podaří udržet určitý mír."
  POL_baltic_ultimatums: "Ultimátum pobaltským státům"
@@ -348,7 +348,7 @@
  POL_seek_accommodation_with_germany: "Hledat smír s Německem"
  POL_seek_accommodation_with_germany_desc: "Proč bychom měli bojovat, když jsme si více podobní než rozdílní?"
  POL_segregated_seating_abolished: "Zrušena lavicová segregace"
- POL_segregated_seating_abolished_desc: "Desítky let mělo polské školství systém segregovaného sezení pro osoby s odlišným etnickým původem. Nyní, když byl tento postup zrušen, je stát na dobré cestě vytvořit skutečně multikulturní společnost rovných." # todo: CHANGED
+ POL_segregated_seating_abolished_desc: "V polském školství byl po desetiletí zaveden systém odděleného sezení pro osoby s odlišným etickým zázemím. Nyní, když byla tato praxe zrušena, je stát na dobré cestě k vytvoření skutečně multikulturní společnosti rovných."
  POL_silesia_fortified_area: "Slezské opevnění"
  POL_silesia_fortified_area_desc: "Další pevnosti postavené na jihu zajistí další obranu."
  POL_slavic_revanchism: "Polský revanšismus"
@@ -359,7 +359,7 @@
  POL_strengthen_the_polish_state: "Posílit polský stát"
  POL_strengthen_the_polish_state_desc: "Nemůžeme si dovolit zůstat rozděleni. Naše síla prosadit změny je úměrná naší jednotě v Senátu i Sejmu."
  POL_strike_force: "Ambice draka"
- POL_strike_force_desc: "Doposud bylo polské námořnictvo ve snahách o modernizaci skromné a plaché, ale už ne. Velký polský drak vypluje na vlny a Němci i Rusové se budou třást jeho řevu, když se na obzoru vynoří jako bestie!" # todo: CHANGED
+ POL_strike_force_desc: "Polské námořnictvo se doposud snažilo o modernizaci skromně a chabě, to se však změní. Na vlnách se objeví velký polský drak a Němci i Rusové se budou třást před jeho řevem, až se jako šelma vynoří na obzoru!"
  POL_study_foreign_built_ships: "Studium britských návrhů lodí"
  POL_study_foreign_built_ships_desc: "Britské námořnictvo bylo po desetiletí spojencem Polska, ale v poslední době se Polsko díky britské politice ustupování ocitlo v nejisté situaci, protože nemá žádné přátele, na které by se mohlo spolehnout. Možná, že díky studiu britských konstrukcí budeme moci začít vyrábět stejně účinné a velkolepé lodě."
  POL_study_foreign_tanks: "Studovat zahraniční tanky"

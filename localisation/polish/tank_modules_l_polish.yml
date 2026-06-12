@@ -117,7 +117,7 @@
  auto_loader: "Automatický nabíječ"
  auto_loader_desc: "Automatický mechanismus, který nabíjí granáty a umožňuje tanku udržovat vysokou palebnou frekvenci po delší časové období."
  basic_heavy_tank_chassis: "Zákl. těžký podvozek"
- basic_heavy_tank_chassis_desc: "Důkladná analýza Velké války ukázala, že je potřeba těžké vozidlo, které prolomí nepřátelskou zákopovou linii a otevře cestu pro lehčí síly k využití průlomu. Takové vozidlo by mělo být těžce vyzbrojené a dobře obrněné, ale nemusí být příliš rychlé." # todo: CHANGED
+ basic_heavy_tank_chassis_desc: "Podrobná analýza Velké války ukázala, že je potřeba těžkého vozidla pro prorážení příkopové linie nepřítele a otevření cesty lehčím silám, aby mohly využít průlom. Takové vozidlo by mělo být těžce vyzbrojeno a dobře obrněno, ale nemusí být příliš rychlé."
  basic_heavy_tank_chassis_short: "1934 Těžký podvozek"
  basic_light_tank_chassis: "Zákl. lehký podvozek"
  basic_light_tank_chassis_desc: "Technologické pokroky učinily designy bezprostředního poválečného období v podstatě zastaralými. Moderní bojiště vyžaduje nový, čistý design, který zahrnuje pokroky v metalurgii a vnitřním uspořádání."
@@ -291,7 +291,7 @@
  light_tank_chassis_1: "Zákl. lehký podvozek"
  light_tank_chassis_2: "Vylep. lehký podvozek"
  light_tank_chassis_3: "Pokr. lehký podvozek"
- light_tank_chassis_desc: "Malý a kompaktní podvozek, ideální pro levné a lehké vozidlo určené pro úkoly jako průzkum a palebná podpora. Jeho omezená nosnost jej činí nevhodným pro nesení těžkého pancéřování nebo velkých kanónů." # todo: CHANGED
+ light_tank_chassis_desc: "Malý a kompaktní podvozek, ideální pro levné a lehké vozidlo určené pro úkoly jako průzkum a palebná podpora. Jeho omezená nosnost ho činí nevhodným pro přepravu těžkého pancíře nebo velkých děl."
  light_tank_destroyer_chassis: "Lehký stíhač tanků"
  light_tank_destroyer_chassis_0: "Meziv. lehký stíhač tanků"
  light_tank_destroyer_chassis_1: "Zákl. lehký stíhač tanků"
@@ -405,27 +405,27 @@
  tank_cast_armor: "Litý pancíř"
  tank_cast_armor_desc: "Celý podvozek, včetně pancíře, je odlitek jako jediné jednotky. Nákladný a časově náročný proces, který umožňuje mnohem silnější pancíř s méně slabými místy."
  tank_christie_suspension: "Christieovo zavěšení"
- tank_christie_suspension_desc: "Vyvinuto americkým vynálezcem, tento systém zavěšení umožňuje výjimečně vysoké rychlosti." # todo: CHANGED
+ tank_christie_suspension_desc: "Vyvinuto americkým vynálezcem, toto zavěšení umožňuje výjimečně vysoké rychlosti."
  tank_close_support_gun: "Dělo pro blízkou podporu"
  tank_close_support_gun_desc: "Malá zbraň určená k palbě vysoce explozivních střel proti nepřátelským polním opevněním, které mají pomoci pěchotě při útoku. Je sice schopna zasáhnout tanky, ale díky krátké hlavni a omezenému množství munice si nedokáže poradit se silnějšími nepřátelskými tanky."
  tank_diesel_engine: "Dieselový motor"
  tank_diesel_engine_desc: "Motor běžící na naftu je spolehlivější než benzínový motor, ale není tak rychlý při stejné velikosti motoru."
  tank_gas_turbine_engine: "Plynová turbína"
- tank_gas_turbine_engine_desc: "Turbinový motor vyvinutý z proudových motorů. Vysoká spotřeba paliva, ale nejvyšší rychlost ze všech motorů pro danou velikost motoru." # todo: CHANGED
+ tank_gas_turbine_engine_desc: "Turbína vyvinutá z proudových motorů. Vysoká spotřeba paliva, ale nejvyšší rychlost jakéhokoli motoru při dané velikosti motoru."
  tank_gasoline_engine: "Benzinový motor"
  tank_gasoline_engine_desc: "Motor běžící na benzin bude rychlejší pro danou velikost motoru, ale palivo bude mnohem náchylnější k vzplanutí."
  tank_half_track_suspension: "Polo-pásová zavěšení"
  tank_half_track_suspension_desc: "Toto uspořádání, které je hybridem mezi plně pásovým vozidlem a běžným kolovým podvozkem, má vpředu dvojici kol pro řízení a zadní pásovou nápravu pro zlepšení výkonu v terénu. Ačkoli má omezenou nosnost, je stále levnější než plně pásová konstrukce."
  tank_heavy_cannon: "Základný těžký kanón"
  tank_heavy_cannon_2: "Vylepšený těžký kanón"
- tank_heavy_cannon_2_desc: "Zbraň schopná vystřelit velký projektil. Díky vynikající průbojnosti pancíře a slušnému výkonu proti neobrněným cílům jsou jejími hlavními nevýhodami rozměry a cena, které ji činí příliš neohrabanou pro montáž do většiny vozidel, která nejsou speciálně navržena k jejímu nesení." # todo: CHANGED
+ tank_heavy_cannon_2_desc: "Zbraň, která dokáže vystřelit velký výbušný granát. S výjimečnou penetrační schopností pancíře a slušnou výkonností proti měkkým cílům jsou jejími největšími nevýhodami obrovská velikost a cena, které ji činí příliš neohrabanou pro montáž do většiny vozidel, která nejsou speciálně navržena k jejímu přepravě."
  tank_heavy_cannon_3: "Pokročilý těžký kanón"
- tank_heavy_cannon_3_desc: "Zbraň schopná vystřelit velký projektil. Díky vynikající průbojnosti pancíře a slušnému výkonu proti neobrněným cílům jsou jejími hlavními nevýhodami rozměry a cena, které ji činí příliš neohrabanou pro montáž do většiny vozidel, která nejsou speciálně navržena k jejímu nesení." # todo: CHANGED
- tank_heavy_cannon_desc: "Zbraň schopná vystřelit velký projektil. Díky vynikající průbojnosti pancíře a slušnému výkonu proti neobrněným cílům jsou jejími hlavními nevýhodami rozměry a cena, které ji činí příliš neohrabanou pro montáž do většiny vozidel, která nejsou speciálně navržena k jejímu nesení." # todo: CHANGED
+ tank_heavy_cannon_3_desc: "Zbraň schopná vystřelit velký granát. S výjimečnou penetrační schopností a slušným výkonem proti měkkým cílům jsou její největší nevýhody obrovské rozměry a cena, což ji činí příliš neohrabanou na to, aby byla umístěna na většině vozidel, která nejsou speciálně navržena k její přepravě."
+ tank_heavy_cannon_desc: "Zbraň, která může vystřelit velkou granát. S výjimečnou průnikovou schopností pancéřování a slušným výkonem proti měkkým cílům jsou jejími největšími nevýhodami velikost a cena, což ji činí příliš neobratnou pro montáž ve většině vozidel, která nejsou speciálně navržena k jejímu nošení."
  tank_heavy_fixed_superstructure_turret: "Těžká pevná nadstavba"
  tank_heavy_fixed_superstructure_turret_desc: "Pevná nadstavba umožňuje hlavní výzbroji pouze mířit v malém oblouku bez otáčení celého vozidla. Umožňuje to však nasadit větší výzbroj při celkově menší velikosti, což dělá vozidlo ideální na přepadové akce."
  tank_heavy_howitzer: "Těžká houfnice"
- tank_heavy_howitzer_desc: "Těžká polní houfnice upravená pro montáž do vozidla. Jejím hlavním účelem je nepřímá palebná podpora proti neobrněným cílům, ale v případě potřeby může být použita pro přímou palbu na cíl. Protože nese jen malé množství průbojné munice, není vhodná pro boj proti tankům." # todo: CHANGED
+ tank_heavy_howitzer_desc: "Těžká polní houfnice přizpůsobená k montáži do vozidla. Její primární účel je nepřímá palebná podpora proti měkkým cílům, ale může být v případě potřeby odpálena přímo na cíl. Nese pouze malé množství municí s proražením pancíře, není tedy vhodná pro protitankový boj."
  tank_heavy_machine_gun: "Těžký kulomet"
  tank_heavy_machine_gun_desc: "Kulomet poskytuje slušnou schopnost boje proti pěchotě za nízkou cenu. I při použití speciální protipancéřové munice je jeho protipancéřový výkon velmi slabý."
  tank_heavy_three_man_tank_turret: "Věž pro tři muže"
@@ -450,14 +450,14 @@
  tank_light_two_man_tank_turret_desc: "Věž umožňující dvěma členům posádky sdílet práci při obsluze výzbroje a pozorování situace. Stále však neumožňuje efektivní dělení práce mezi posádku."
  tank_medium_cannon: "Střední kanón"
  tank_medium_cannon_2: "Vylepšený střední kanón"
- tank_medium_cannon_2_desc: "Univerzální zbraň vhodná pro širokou škálu úkolů. Nevyniká ani proti pěchotě, ani proti tankům, ale poskytuje vozidlu značnou flexibilitu." # todo: CHANGED
- tank_medium_cannon_desc: "Univerzální zbraň vhodná pro širokou škálu úkolů. Nevyniká ani proti pěchotě, ani proti tankům, ale poskytuje vozidlu značnou flexibilitu." # todo: CHANGED
+ tank_medium_cannon_2_desc: "Univerzální zbraň dobře vyhovující široké škále úkolů. Neexceluje ani v protitankovém ani v protipěchotním boji, ale poskytuje vozidlu velkou flexibilitu."
+ tank_medium_cannon_desc: "Univerzální zbraň dobře vhodná pro širokou škálu úkolů. Ani v protitankovém, ani v protiinfantryním znám neexceluje, ale poskytuje vozidlu velkou flexibilitu."
  tank_medium_fixed_superstructure_turret: "Střední pevná nadstavba"
  tank_medium_fixed_superstructure_turret_desc: "Pevná nadstavba umožňuje hlavnímu zbrani pohybovat se pouze v malém oblouku bez otočení celého vozidla. Nicméně umožňuje vozidlu instalovat větší hlavní zbraň a přitom zůstat celkově menší, což činí vozidlo ideálním pro přepadové akce."
  tank_medium_howitzer: "Střední houfnice"
  tank_medium_howitzer_2: "Vylepšená střední houfnice"
- tank_medium_howitzer_2_desc: "Střední polní houfnice upravená pro montáž do vozidla. Jejím hlavním účelem je nepřímá palebná podpora proti neobrněným cílům, ale v případě potřeby může být použita pro přímou palbu na cíl. Protože nese jen malé množství průbojné munice, není vhodná pro boj proti tankům." # todo: CHANGED
- tank_medium_howitzer_desc: "Střední polní houfnice upravená pro montáž do vozidla. Jejím hlavním účelem je nepřímá palebná podpora proti neobrněným cílům, ale v případě potřeby může být použita pro přímou palbu na cíl. Protože nese jen malé množství průbojné munice, není vhodná pro boj proti tankům." # todo: CHANGED
+ tank_medium_howitzer_2_desc: "Mediální polní houfnice upravená pro montáž v vozidle. Její primární účel je nepřímá palebná podpora proti měkkým cílům, ale může být vystřelena i přímo na cíl, pokud je to nutné. Nosí pouze malé množství municí s průbojným schopnostmi, proto není vhodná pro práci proti tankům."
+ tank_medium_howitzer_desc: "Střední polní houfnice přizpůsobená pro instalaci do vozidla. Jejím hlavním účelem je nepřímá palebná podpora proti měkkým cílům, ale může být vypálena přímo na cíl, pokud je to nutné. Při přepravě pouze malého množství pancéřových nábojů, není vhodná pro práci proti tankům."
  tank_medium_one_man_tank_turret: "Věž pro jednoho muže"
  tank_medium_one_man_tank_turret_desc: "Malá věžička jen málo dost velká, aby pojala jednoho člena posádky, jehož úkolem je mířit a nabíjet hlavní výzbroj a také dohlížet na cíle a hrozby."
  tank_medium_three_man_tank_turret: "Věž pro tři muže"

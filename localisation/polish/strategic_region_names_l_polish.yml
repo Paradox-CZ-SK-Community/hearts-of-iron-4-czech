@@ -58,10 +58,10 @@
  STRATEGICREGION_151: "Západní Sibiř"
  STRATEGICREGION_152: "Vnější Mongolsko"
  STRATEGICREGION_153: "Severní Indie"
- STRATEGICREGION_154: "Střední Japonsko" # todo: CHANGED
+ STRATEGICREGION_154: "Střední Japonsko"
  STRATEGICREGION_155: "Západní Mandžusko"
  STRATEGICREGION_156: "Jižní Austrálie"
- STRATEGICREGION_157: "Severní ostrov" # todo: CHANGED
+ STRATEGICREGION_157: "Severní ostrov"
  STRATEGICREGION_158: "Sundské ostrovy"
  STRATEGICREGION_159: "Borneo"
  STRATEGICREGION_160: "Filipíny"
@@ -297,9 +297,9 @@
  STRATEGICREGION_99: "Dálněvýchodní Indický oceán"
  STRATEGICREGION_9: "Finský záliv"
  STRATEGICREGION_NAMIBIA: "Namibie"
- STRATEGICREGION_299: "Severní Japonsko" # todo: NEW TRANSLATION
- STRATEGICREGION_300: "Jižní Japonsko" # todo: NEW TRANSLATION
- STRATEGICREGION_301: "Jižní ostrov" # todo: NEW TRANSLATION
- STRATEGICREGION_302: "Jihovýchodní Austrálie" # todo: NEW TRANSLATION
- STRATEGICREGION_303: "Západní Austrálie" # todo: NEW TRANSLATION
- STRATEGICREGION_304: "Severozápadní Austrálie" # todo: NEW TRANSLATION
+ STRATEGICREGION_299: "Severní Japonsko"
+ STRATEGICREGION_300: "Jižní Japonsko"
+ STRATEGICREGION_301: "Jižní ostrov"
+ STRATEGICREGION_302: "Jihovýchodní Austrálie"
+ STRATEGICREGION_303: "Západní Austrálie"
+ STRATEGICREGION_304: "Severozápadní Austrálie"

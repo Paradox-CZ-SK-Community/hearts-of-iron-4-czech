@@ -2,7 +2,7 @@
  ADD_MEDAL_DESC: "Chcete udělit následující vyznamenání?\n\n$MEDAL_NAME|H$\n\nBude to stát £pol_power $COST|H$."
  ADD_MEDAL_TITLE: "Udělit vyznamenání"
  AIRFIELD_HISTORY: "Zajistil letiště v $PROVINCE$."
- ARMY_FIELD_OFFICER_EXPERIENCE_GAIN_TOOLTIP: "§HZisk zkušeností důstojníka§!\nZkušenosti důstojníka se získávají rychlostí $MULT|%H$ běžné hodnoty.\n\nKaždá medaile udělená této divizi zvyšuje přírůstek o $PER_MEDAL|%H$." # todo: CHANGED
+ ARMY_FIELD_OFFICER_EXPERIENCE_GAIN_TOOLTIP: "§HZisk zkušeností důstojníka§!\nZkušenosti důstojníka se získávají rychlostí $MULT|%H$ běžné hodnoty.\n\nKaždá medaile udělená této divizi zvyšuje přírůstek o $PER_MEDAL|%H$."
  ASSIGN_MEDAL_TOOLTIP: "§HUdělit vyznamenání§!\n\nKliknutím udělíte veliteli této jednotky vyznamenání za tuto akci."
  AUS_medal_1: "Kruckenkreuz"
  AVAILABLE_TRAITS_BUT_CANNOT_HAS: "Pokud by měl alespoň $REQUIRED|H0$ zkušeností (nyní: $CURRENT|R0$), získal by při povýšení jednu z následujících vlastností:\n$LIST|H$\n\nMůžete jej povýšit i tak, ale §Rnebude udělena žádná vlastnost§!."
@@ -17,7 +17,7 @@
  COMMANDER_PROMOTED_HISTORY: "Velitel $SUBJECT$ byl povýšen v poli v $PROVINCE$."
  COMMANDER_ROSTER_DIVISION_BUTTON: "Důstojníci"
  COMMANDER_ROSTER_DIVISION_TOOLTIP: "§HDůstojníci§!"
- COMMANDER_ROSTER_DIVISION_TOOLTIP_DELAYED: "Důstojníci jsou ti, kteří mají na starosti jednotky pod vaším velením. Mohou být povýšeni na generály." # todo: CHANGED
+ COMMANDER_ROSTER_DIVISION_TOOLTIP_DELAYED: "Důstojníci jsou ti, kteří mají na starosti jednotky pod vaším velením. Mohou být povýšeni na generály."
  COMMANDER_TITLE_TEXT_DIVISION: "Důstojník"
  COMMANDING_DIVISION: "$UNIT$"
  CONQUERED_PROVINCE_HISTORY: "Zajistil $PROVINCE$ před $SUBJECT$ jednotkami."
@@ -43,7 +43,7 @@
  DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Generálporučík"
  DIVISION_EXPERIENCE_TITLE_DEFAULT: "Důstojník"
  DIV_COMMAND_ITEM_DETAILS: "$COMMANDER|H$\nVelí $UNIT|g$\n\n"
- DIV_COMMAND_XP_TOOLTIP: "§HZkušenosti důstojníka§!\n\nPři povýšení by tento důstojník získal $XP|H0$ XP." # todo: CHANGED
+ DIV_COMMAND_XP_TOOLTIP: "§HZkušenosti důstojníka§!\n\nPři povýšení by tento důstojník získal $XP|H0$ XP."
  ETH_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0: "Asmacc"
  ETH_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1: "Grasmacc"
  ETH_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2: "Cagnasasmacc"
@@ -77,7 +77,7 @@
  GER_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3: "Generalleutnant"
  GER_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Gen. der Waffengatung"
  GER_eben_emael_entry: "Účastnil se německého nájezdu na Eben Emael"
- GRANT_CITATION: "§HPřidělit vyznamenání§!\n\nKlikněte pro výběr vyznamenání, které tomuto důstojníkovi udělíte." # todo: CHANGED
+ GRANT_CITATION: "§HPřidělit vyznamenání§!\n\nKlikněte pro výběr vyznamenání, které tomuto důstojníkovi udělíte."
  HIGH_VP_HISTORY: "Účastnil se obléhání $PROVINCE$."
  HIRED_NEW_DIVISIONAL_GENERAL_DESC: "Opravdu chcete povýšit $CHARACTER$ do hodnosti generála?\n\nTím se resetuje zkušenost této divize a bude nás to stát\n$COST|H$ £command_power."
  HIRED_NEW_DIVISIONAL_GENERAL_TITLE: "Povýšit důstojníka v poli"

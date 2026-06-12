@@ -272,7 +272,7 @@
  ENG_urge_restraint_desc: "Je nezbytné, aby náš příští pochod proběhl bez incidentů. Násilná reakce by mohla přerůst v celostátní nepokoje a dokonce občanskou válku. I když to může odradit některé z nejtvrdších příznivců, musíme dát jasně najevo, že se pochod nesmí za žádnou cenu zvrhnout v násilí."
  ENG_urge_restraint_tt: "Výrazně snižuje šanci na §YNásilný pochod§! při příštím §Ypochodu Černých košil§!.\n"
  ENG_utilize_home_guard_in_factories: "Nasadit Domobranu do továren"
- ENG_utilize_home_guard_in_factories_tt: "Toto rozhodnutí se znovu aktivuje každých §Y184§! dní" # todo: CHANGED
+ ENG_utilize_home_guard_in_factories_tt: "Toto rozhodnutí se znovu zpřístupní každých §Y184§! dní"
  HOL_anti_pacifist_propaganda: "Antipacifistická propaganda"
  HOL_anti_pacifist_propaganda_desc: "Pouze tvrdá práce a obětování prostředků změní postoje našeho lidu. Zahájíme rozsáhlou propagandistickou kampaň, která lidem vysvětlí, že si už brzy nebudeme moci dovolit luxus bezbrannosti bez následků."
  HOL_assemble_air_squadron: "Sestavit leteckou eskadru"
@@ -292,7 +292,7 @@
  HOL_crack_down_on_pacifist_movements: "Potlačit pacifistická hnutí"
  HOL_crack_down_on_pacifist_movements_desc: "Různá pacifistická hnutí již dostatečně zbrzdila naše zbrojení. Pokud nelze přesvědčit lid, jeho hlas musí být umlčen silou."
  HOL_demand_increased_dutch_trade_with_germany: "Požadovat zvýšení nizozemského obchodu s Německem"
- HOL_demand_increased_dutch_trade_with_germany_desc: "Nizozemci si musí... připomenout... své obchodní povinnosti vůči německému státu, stejně jako svou vojenskou zranitelnost jako náš soused. Samozřejmě nenápadně." # todo: CHANGED
+ HOL_demand_increased_dutch_trade_with_germany_desc: "Nizozemcům musí být... jemně připomenuté... jejich obchodní závazky vůči německému státu a také jejich vojenskou zranitelnost. Samozřejmě nenápadně."
  HOL_demand_reduced_dutch_trade_with_germany: "Požadovat omezení nizozemského obchodu s Německem"
  HOL_demand_reduced_dutch_trade_with_germany_desc: "Nizozemci musí být srovnáni do latě a podřízeni obchodním omezením uvaleným na Německo. Jistě by si nepřáli, abychom je do těchto omezení zahrnuli také..."
  HOL_drain_the_water_lines: "Odvodnění vodní linie"
@@ -334,11 +334,11 @@
  HOL_pursue_diplomatic_grievances_desc: "Urážky směřované na prince Bernharda a vlastně na celou naši vládu přerostly v plnohodnotný diplomatický spor až po vojenské hrozby. Požadujeme okamžitou a jednoznačnou omluvu, jinak se můžeme cítit nuceni svá slova podložit činy..."
  HOL_pursue_diplomatic_grievances_tt: "Může vést k získání válečného cíle proti cíli.\n"
  HOL_radio_oranje: "Radio Oranje"
- HOL_radio_oranje_desc: "Je čas na další vysílání "Radio Orange" v nizozemštině na BBC, aby dodalo naději jak těm v okupované vlasti, tak i těm, kteří bojují za svobodu po boku našich spojenců." # todo: CHANGED
+ HOL_radio_oranje_desc: "Je čas na další nizozemsky vedené vysílání „Radio Oranje“ na BBC, aby přineslo naději jak těm v okupované vlasti, tak těm, kteří bojují za svobodu po boku našich spojenců."
  HOL_relocate_government_to_batavia: "Přesunout vládu do Batávie"
  HOL_relocate_government_to_batavia_desc: "Naše pevninské území bylo přemoženo, ale naše kolonie zůstaly nedotčené. Přestože to odporuje přání královny, můžeme přesunout vládu do Batávie, hlavního města Východní Indie, a odtud pokračovat ve válce."
  HOL_request_aid_for_the_engelandvaarders: "Požádat o pomoc pro Engelandvaardery"
- HOL_request_aid_for_the_engelandvaarders_desc: "Přes 100 mil Severního moře, které odděluje Anglii od Nizozemska, nijak neodradí Nizozemce, kteří se snaží uniknout okupaci a bojovat po boku svých krajanů za osvobození vlasti. V chatrných malých veslicích nebo kajacích tito "Engelandvaarders" nebo "England Sailors" odvážně čelí otevřenému moři za podmínek tak obtížných, že méně než jeden z deseti plavbu přežije. Už samotný pokus z nich dělá jedny z nejodvážnějších z odvážných, a je naší povinností požádat Brity, aby udělali vše, co mohou, aby zvýšili pravděpodobnost jejich úspěchu." # todo: CHANGED
+ HOL_request_aid_for_the_engelandvaarders_desc: "Více než 100 mil Severního moře odděluje Anglii od Nizozemska, ale to neodradilo Nizozemce, kteří prchají z okupace a chtějí bojovat po boku svých krajanů za osvobození vlasti. V chatrných veslicích či kajacích se tito „Engelandvaarders“ (plavci do Anglie) odvažují na otevřené vody, v podmínkách tak obtížných, že cestu přežije méně než jeden z deseti. Už jen pokus je řadí mezi ty nejodvážnější a naší povinností je požádat Brity, aby udělali vše, co mohou, aby zvýšili šance jejich úspěchu."
  HOL_request_equipment: "Požádat o vybavení"
  HOL_request_equipment_desc: "Naše armáda naléhavě potřebuje vybavení k podpoře nezbytného rozšíření. Možná by nám potenciální budoucí spojenci mohli pomoci..."
  HOL_request_equipment_tt: "NEBO\n"
@@ -432,9 +432,9 @@
  MTG_send_treaty_warning_to_FROM_desc: "[From.GetNameDef] si zřejmě myslí, že si nevšimneme nepravidelností v jejich námořním zbrojení. Měli bychom je upozornit na jejich chybu v úsudku."
  MTG_send_treaty_warning_to_FROM_previous_signatory: "Vydat varování pro [From.GetNameDef]"
  MTG_treaty_reduction_mission: "Provést námořní odzbrojení"
- MTG_treaty_reduction_mission_desc: "Veřejně jsme se zavázali ke snížení počtu aktivních Hlavních lodí v našem námořnictvu. Musíme se jich naléhavě zbavit, abychom dosáhli dohodnutých čísel." # todo: CHANGED
+ MTG_treaty_reduction_mission_desc: "Veřejně jsme se zavázali ke snížení počtu hlavních lodí v naší flotile. Musíme se jich urychleně zbavit, abychom splnili dohodnuté počty."
  MTG_treaty_reduction_signatory_mission: "Vrátit se k velikosti flotily podle smlouvy"
- MTG_treaty_reduction_signatory_mission_desc: "Jako signatáři Námořní smlouvy nám je povoleno pouze určité množství Hlavních lodí. V současnosti překračujeme přidělený počet a lidé se začínají ptát, zda jsme opravdu tak zavázáni myšlence mezinárodního omezení zbrojení, jak tvrdíme." # todo: CHANGED
+ MTG_treaty_reduction_signatory_mission_desc: "Jako signatáři námořní smlouvy smíme mít jen určité množství hlavních lodí. V současnosti tento počet překračujeme a lidé už začínají pochybovat, zda jsme skutečně oddáni myšlence mezinárodního omezování zbrojení."
  MTG_treaty_renew_mission: "Druhá londýnská námořní konference"
  Naval_treaty_50: "mezi 50 a 75 %"
  Naval_treaty_75: "mezi 75 a 90 %"

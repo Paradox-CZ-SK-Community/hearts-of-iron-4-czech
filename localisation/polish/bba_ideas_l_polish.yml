@@ -18,7 +18,7 @@
  ETH_army_2_dynamic_modifier: "Tradiční válčení"
  ETH_army_3_dynamic_modifier: "Tradiční válčení"
  ETH_arranged_expansion_modifier: "Domluvené územní rozšíření"
- ETH_arranged_expansion_modifier_tt: "Kontrola bude převedena na Etiopii, když bude stát plně ovládán spojencem a když v tomto státě ani v žádném sousedním státě nebude žádná nepřátelská divize.\nNáklady nabídky pro Etiopii na mírové konferenci jsou vynásobeny §G0.55§!." # todo: CHANGED
+ ETH_arranged_expansion_modifier_tt: "Kontrola bude předána Etiopii, jakmile bude stát plně pod kontrolou spojence a v tomto státu ani v žádném sousedním státě nebudou nepřátelské divize.\nCena nabídky pro Etiopii na mírové konferenci násobena §G0,55§!."
  ETH_bloch: "Bloch"
  ETH_bofors: "Bofors"
  ETH_chitet_law: "Chitet"
@@ -71,7 +71,7 @@
  ETH_ncgf: "Nazareth Canvas and Garment Factory"
  ETH_nissan: "Nissan"
  ETH_on_our_own_idea: "Sami za sebe"
- ETH_on_our_own_idea_desc: "Mezinárodní společenství zaujalo stanovisko v konfliktu mezi [ITA.GetName] a [ETH.GetName] a rozhodlo, že žádné jiné země by se neměly vměšovat. [ETH.GetName] stojí osamocená v této zoufalé hodině." # todo: CHANGED
+ ETH_on_our_own_idea_desc: "Mezinárodní společenství zaujalo postoj v konfliktu, který mezi sebou svádí [ITA.GetName] a [ETH.GetName] a rozhodlo, že žádná další země by neměla zasahovat. [ETH.GetName] stojí v této zoufalé hodině osamocena."
  ETH_peacekeeping_forces_idea: "Prápory Kagnew"
  ETH_peoples_army_idea: "Lidová armáda"
  ETH_political_officers: "Političtí vojenští důstojníci"
@@ -379,7 +379,7 @@
  SWI_increase_timeout_TT: "Časový limit mise §Y$SWI_militia_active$§! se zvýší o §G$RIGHT|0$§! dní."
  SWI_increased_defense_budget: "Navýšit rozpočet na obranu"
  SWI_infiltrated_federal_police_idea: "Infiltrace spolkové policie"
- SWI_infiltrated_federal_police_idea_desc: "Fašistické prvky infiltrovaly Federální policii a její zpravodajskou složku. Nelze ani spočítat, všemi jakými způsoby pomáhají našemu fašistickému sousedovi infiltrovat společnost [SWI.GetName]." # todo: CHANGED
+ SWI_infiltrated_federal_police_idea_desc: "Do spolkové policie a její zpravodajské složky pronikly fašistické elementy. Nelze říci, jak všemožně pomáhají našemu fašistickému sousedovi pronikat do [SWI.GetAdjective] společnosti."
  SWI_infiltrated_federal_police_idea_no_lar: "$SWI_infiltrated_federal_police_idea$"
  SWI_infrastructure_rigged_to_blow: "Podminovaná infrastruktura"
  SWI_infrastructure_rigged_to_blow_desc: "Nesmíme dovolit, aby nepřítel použil námi vybudovanou infrastrukturu a průmysl proti nám; jsme připraveni vše vyhodit do povětří, jakmile nepřítel převezme kontrolu."
@@ -394,7 +394,7 @@
  SWI_no_confederation_president_idea_desc: "Došlo k nepředstavitelnému: Spolková rada nedokázala zvolit prezidenta Švýcarské konfederace. Bude stát mnoho úsilí se z této situace dostat."
  SWI_oerlikon: "Oerlikon"
  SWI_old_switzerland_idea: "Návrat ke starému Švýcarsku"
- SWI_old_switzerland_idea_desc: "Po dlouhém období hrůzné války a nemorální expanze vyžadují lidé [ROOT.GetName] nic menšího než návrat k neutralitě a demokracii předválečných časů. Tyto bouřlivé časy brzy pominou." # todo: CHANGED
+ SWI_old_switzerland_idea_desc: "Po dlouhém období krutých válek a nemorální expanze nepožadují [ROOT.GetAdjective] obyvatelé nic menšího než návrat k neutralitě a demokracii předválečných časů. Tyto bouřlivé časy brzy skončí."
  SWI_pro_helvetia_idea: "Pro Helvetia"
  SWI_pro_helvetia_idea_desc: "Aby Švýcarsko přežilo, musí být svébytnou zemí nezávislou na jazycích, jimiž se v něm mluví. Proto má Pro Helvetia za úkol prosazovat švýcarské hodnoty a s nimi spojený závazek k demokracii."
  SWI_rearmaming_idea: "Probíhající přezbrojování"

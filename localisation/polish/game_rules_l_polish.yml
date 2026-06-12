@@ -92,7 +92,7 @@
  RULE_ALLOW_KICK_FACTION_ALLOWED_DESC: "Vůdce bloku může vyhodit kteroukoliv zemi z bloku."
  RULE_ALLOW_KICK_FACTION_BLOCKED_DESC: "Vůdce bloku nemůže vyhodit žádného člena bloku."
  RULE_ALLOW_TAKE_OVER_FACTION: "Převzít vedení bloku"
- RULE_ALLOW_TAKE_OVER_FACTION_ALLOWED_DESC: "Země mohou převzít vedení frakce, pokud splní kritéria." # todo: CHANGED
+ RULE_ALLOW_TAKE_OVER_FACTION_ALLOWED_DESC: "Země může převzít vedení bloku, pokud splňuje kritéria."
  RULE_ALLOW_TAKE_OVER_FACTION_BLOCKED_DESC: "Země nemohou převzít vedení bloku."
  RULE_GROUP_DIVISION_TEMPLATES: "Šablony divizí"
  RULE_ALLOW_PARATROOPERS: "Parašutistické výsadky"
@@ -207,7 +207,7 @@
  RULE_OPTION_GER_COMMUNIST_SPARTACUS: "Obnova Spartakovské ligy"
  RULE_OPTION_GER_COMMUNIST_SPARTACUS_AI_DESC: "Německá AI se pokusí svrhnout nacisty a přinést komunistickou revoluci do Německa. Poté se pokusí nainstalovat demokratický socialistický režim pod novou Spartakovskou ligou a šířit komunistické revoluční plameny po celé Evropě."
  RULE_OPTION_GER_ALT_FASCIST: "Alternativní fašismus"
- RULE_OPTION_GER_ALT_FASCIST_AI_DESC: "Německé AI se pokusí nahradit Hitlera jedním z členů vnitřního kruhu, vzít v úvahu obavy von Neuratha a pokusit se prosadit svůj Nový světový řád." # todo: CHANGED
+ RULE_OPTION_GER_ALT_FASCIST_AI_DESC: "Německá AI se pokusí nahradit Hitlera členem vnitřního kruhu, vyslyší obavy von Neuratha a pokusí se prosadit svůj nový světový řád."
  RULE_OPTION_DEMOCRATIC: "Demokracie"
  RULE_OPTION_NEUTRALITY: "Neutralita"
  RULE_OPTION_HISTORICAL: "Historický"
@@ -264,12 +264,12 @@
  RULE_OPTION_DEMOCRATIC_YUG_AI_DESC: "Jugoslávská AI se pokusí udržet demokratickou vládu tím, že půjde relevantními větvemi národního stromu zaměření."
  RULE_FASCIST_YUG_AI_DESC: "Jugoslávská AI se pokusí přiblížit fašistickým zemím Evropy a nakonec vstoupit do aliance s nimi."
  RULE_HISTORICAL_YUG_AI_DESC: "Jugoslávská AI bude nejvěrněji následovat historický sled událostí."
- RULE_OPTION_DEMOCRATIC_CZE_AI_DESC: "Československé AI se pokusí zůstat demokratické a zaměří se převážně na svůj vnitřní rozvoj tím, že půjde příslušnými cestami stromu národních zaměření." # todo: CHANGED
+ RULE_OPTION_DEMOCRATIC_CZE_AI_DESC: "Československá AI se pokusí zůstat demokratická a soustředit se převážně na svůj vnitřní rozvoj tím, že půjde relevantními větvemi národního stromu zaměření."
  RULE_OPTION_COMMUNIST_CZE_AI_DESC: "Československá AI se pokusí reformovat zemi na komunismus a vstoupit do aliance se Sovětským svazem nebo jinou významnou komunistickou zemí."
  RULE_OPTION_DEMOCRATIC_ALTERNATE_CZE_AI_DESC: "Československá AI se pokusí vytvořit vlastní frakci k obraně, zatímco zůstane demokratické, tím že půjde relevantními cestami národního stromu zaměření."
  RULE_FASCIST_CZE_AI_DESC: "Československá AI se pokusí přeměnit zemi na fašistickou a vstoupit do dohody s Německem tím, že půjde relevantními cestami v národním stromu zaměření."
  RULE_HISTORICAL_CZE_AI_DESC: "Československá AI bude co nejvíce sledovat historický sled událostí."
- RULE_FASCIST_ROM_AI_DESC: "Rumunské AI se pokusí následovat historii a připojit se k Ose tím, že půjde příslušnými cestami ve stromu národních zaměření." # todo: CHANGED
+ RULE_FASCIST_ROM_AI_DESC: "Rumunská AI se pokusí sledovat historii a připojit se k Ose tím, že půjde relevantními cestami národního stromu zaměření."
  RULE_OPTION_COMMUNIST_AST_AI_DESC: "Australská AI se pokusí proměnit zemi v komunistickou a spojit se s Kominternou tím, že půjde relevantní cestou v národním stromu zaměření."
  RULE_OPTION_DEMOCRATIC_HISTORICAL_AST_AI_DESC: "Australská AI se pokusí sledovat historický sled událostí a rozhodnutí v národním stromu zaměření."
  RULE_DEMOCRATIC_ALTERNATE_AST_AI_DESC: "Australská AI se pokusí získat úplnou nezávislost od Spojeného království a stát se hlavní silou v jejich regionu, tím že půjde relevantními cestami národního stromu zaměření."
@@ -284,7 +284,7 @@
  RULE_FASCIST_SAF_AI_DESC: "Jihoafrická AI se pokusí stát fašistickým a uzavřít dohodu s Německem tím, že půjde relevantní cestou v národním stromu zaměření."
  RULE_OPTION_COMMUNIST_NZL_AI_DESC: "AI se pokusí stát komunistickým a připojit se ke Kominterně tím, že půjde relevantní cestou v národním stromu zaměření."
  RULE_OPTION_DEMOCRATIC_HISTORICAL_NZL_AI_DESC: "AI se bude snažit co nejvíce sledovat historický sled událostí."
- RULE_DEMOCRATIC_ALTERNATE_NZL_AI_DESC: "AI se pokusí zůstat demokratická a dosáhnout plné suverenity tím, že se vydá příslušnou cestou ve stromu národních zaměření." # todo: CHANGED
+ RULE_DEMOCRATIC_ALTERNATE_NZL_AI_DESC: "AI se pokusí zůstat demokratickým a vytvořit plnou suverenitu tím, že půjde relevantní cestou v národním stromu zaměření."
  RULE_FASCIST_NZL_AI_DESC: "AI se pokusí stát fašistickým a spojit se s Japonskem tím, že půjde relevantní cestou v národním stromu zaměření."
  RULE_OPTION_COMMUNIST_RAJ_AI_DESC: "Indická AI se pokusí získat nezávislost spojením se Sovětským svazem tím, že půjde relevantní cestou v národním stromu zaměření."
  RULE_OPTION_GOE_HISTORICAL: "GOE - Historické"
@@ -300,9 +300,9 @@
  RULE_OPTION_GOE_INDIA_MUGHAL: "GOE - Mughalská říše"
  RULE_OPTION_GOE_INDIA_MUGHAL_RAJ_AI_DESC: "Indie se pokusí vytvořit Mughalskou říši."
  RULE_OPTION_GOE_INDIA_COMMUNISM: "GOE - Komunismus (agrární socialismus)"
- RULE_OPTION_GOE_INDIA_COMMUNISM_RAJ_AI_DESC: "Indie se pokusí získat nezávislost prostřednictvím komunistického stromu národních zaměření. Pokud bude úspěšná, zaměří se na zemědělský hospodářský růst a vytvoření vlastní jedinečné socialistické ideologie." # todo: CHANGED
+ RULE_OPTION_GOE_INDIA_COMMUNISM_RAJ_AI_DESC: "Indie se pokusí získat nezávislost přes komunistický strom zaměření. Pokud uspěje, Indie se zaměří na zemědělský ekonomický růst a vytvoří vlastní jedinečnou socialistickou ideologii."
  RULE_OPTION_GOE_INDIA_COMMUNISM_URBAN: "GOE - Komunismus (městský industrialismus)"
- RULE_OPTION_GOE_INDIA_COMMUNISM_URBAN_RAJ_AI_DESC: "Indie se pokusí získat nezávislost prostřednictvím komunistického stromu národních zaměření. Pokud uspěje, zaměří se na urbanizaci a rychlou industrializaci společnosti a pokusí se vyhledat pomoc od Sovětského svazu." # todo: CHANGED
+ RULE_OPTION_GOE_INDIA_COMMUNISM_URBAN_RAJ_AI_DESC: "Indie se pokusí získat nezávislost přes komunistický strom zaměření. Pokud uspěje, Indie se zaměří na urbanizaci a rychlou industrializaci společnosti a pokusí se získat pomoc ze Sovětského svazu."
  RULE_OPTION_DEMOCRATIC_HISTORICAL_RAJ_AI_DESC: "Indická AI zůstane loajální Británii a pokusí se sledovat historický sled událostí."
  RULE_FASCIST_RAJ_AI_DESC: "Indická AI se pokusí získat nezávislost prostřednictvím aliance s fašistickými zeměmi tím, že půjde relevantní cestou v národním stromu zaměření."
  RULE_OPTION_HISTORICAL_SOV_AI_DESC: "Sovětská AI se bude snažit co nejvíce sledovat historický sled událostí."
@@ -316,7 +316,7 @@
  RULE_RIGHT_OPPOSITION_COOPERATIVE: "Kooperativní pravá opozice"
  RULE_OPTION_RIGHT_OPPOSITION_COOPERATIVE_SOV_AI_DESC: "Sovětská AI se pokusí dostat Pravou opozici k moci a začlenit další opoziční skupiny do strany tím, že půjde relevantními větvemi národního stromu zaměření. Cílem AI je vytvořit Nejvyšší sovět."
  RULE_OPTION_COMMUNIST_POL_AI_DESC: "Polská AI se pokusí dosáhnout porozumění s SSSR, aby se ochránilo před agresí, tím že půjde relevantními cestami v národním stromu zaměření."
- RULE_OPTION_HISTORICAL_POL_AI_DESC: "Polské AI se pokusí co nejvíce následovat historický sled událostí." # todo: CHANGED
+ RULE_OPTION_HISTORICAL_POL_AI_DESC: "Polská AI se pokusí co nejvíce sledovat historický sled událostí."
  RULE_FASCIST_POL_AI_DESC: "Polská AI se pokusí smířit s Německem za účelem ochrany tím, že půjde relevantními cestami v národním stromu zaměření."
  RULE_OPTION_DEMOCRATIC_POL_AI_DESC: "Polská AI se pokusí obnovit demokracii a připojit se k Spojencům."
  RULE_OPTION_FASCIST_INDEPENDENT: "Fašismus - Falangistická internacionála"
@@ -371,7 +371,7 @@
  RULE_ALLOW_LICENSING_SAME_IDEOLOGY_TT: "Pravidlo hry: §RZemě mohou získávat výrobní licence pouze od zemí, které sdílí stejnou vládnoucí ideologii.§!"
  RULE_OPTION_DEMOCRATIC_ENG_AI_DESC: "Britská AI se pokusí ochránit Polsko a vést spojence v obraně proti Němcům tím, že půjde relevantní cestou v národním stromu zaměření."
  RULE_OPTION_TRADE_UNIONS: "Ústupky odborům"
- RULE_OPTION_TRADE_UNIONS_ENG_AI_DESC: "Britské AI se pokusí udělat ústupky odborům a stát se komunistickým státem tím, že se vydá příslušnou cestou ve stromu národních zaměření." # todo: CHANGED
+ RULE_OPTION_TRADE_UNIONS_ENG_AI_DESC: "Britská AI se pokusí udělat ústupky odborům a stát se komunistickým tím, že půjde relevantní cestou v národním stromu zaměření."
  RULE_OPTION_THE_KINGS_PARTY: "Posílit Královu stranu"
  RULE_OPTION_THE_KINGS_PARTY_ENG_AI_DESC: "Britská AI se pokusí podpořit sňatek krále Eduarda VIII. s Wallis Simpsonovou a posílit Královu stranu tím, že půjde relevantní cestou v národním stromu zaměření."
  RULE_OPTION_DEMOCRATIC_NO_MORE_APPEASEMENT: "Žádné další ústupky"
@@ -552,14 +552,14 @@
  RULE_OPTION_BALKAN_ENTENTE: "Zachránit Balkán"
  RULE_OPTION_BALKAN_ENTENTE_DESC: "Turecko se zaváže k udržení bezpečnosti na Balkáně a pokusí se vytvořit frakci s Řeckem, Rumunskem a Jugoslávií."
  RULE_EXILES_TSARIST: "Carští exulanti"
- RULE_OPTION_EXILES_TSARIST_SOV_AI_DESC: "Sovětské AI vyžene komunisty občanskou válkou a znovu nastolí carské Rusko tím, že se vydá příslušnou cestou ve stromu národních zaměření." # todo: CHANGED
+ RULE_OPTION_EXILES_TSARIST_SOV_AI_DESC: "Sovětská AI vyžene komunisty občanskou válkou a obnoví carské Rusko výběrem příslušné cesty v národním stromu zaměření."
  RULE_EXILES_FASCIST: "Fašističtí exulanti"
- RULE_OPTION_EXILES_FASCIST_SOV_AI_DESC: "Sovětské AI vyžene komunisty občanskou válkou a ustanoví fašistickou vládu tím, že se vydá příslušnou cestou ve stromu národních zaměření." # todo: CHANGED
+ RULE_OPTION_EXILES_FASCIST_SOV_AI_DESC: "Sovětská AI vyžene komunisty občanskou válkou a zřídí fašistickou vládu výběrem příslušné cesty v národním stromu zaměření."
  RULE_FASCIST_LIT_AI_DESC: "Litevská AI se pokusí ustanovit fašistickou vládu výběrem příslušné cesty v národním stromu zaměření."
  RULE_FASCIST_LAT_AI_DESC: "Lotyšská AI se pokusí ustanovit fašistickou vládu výběrem příslušné cesty v národním stromu zaměření."
  RULE_FASCIST_EST_AI_DESC: "Estonská AI se pokusí ustanovit fašistickou vládu výběrem příslušné cesty v národním stromu zaměření."
  RULE_COMMUNIST_BALTIC_AI_DESC: "AI se pokusí zřídit komunistický režim výběrem příslušné cesty v národním stromu zaměření."
- RULE_HISTORICAL_ETH_AI_DESC: "Etiopské AI se pokusí porazit Itálii s pomocí Společnosti národů, a pokud to selže, pokusí se odejít do exilu. Poté se bude snažit získat zpět své domovské území a znovu vybudovat Etiopii." # todo: CHANGED
+ RULE_HISTORICAL_ETH_AI_DESC: "Etiopská AI se pokusí porazit Itálii za pomoci Společnosti národů a pokud to selže, pokusí se odejít do exilu. Následně se pokusí obnovit území a restartovat Etiopii."
  RULE_OPTION_ETH_IMPERIAL: "Impérium - Lev stojí pevně"
  RULE_ETH_IMPERIAL_AI_DESC: "Etiopská AI se pokusí porazit Itálii sama, bez pomoci Společnosti národů. Poté se pokusí rozšířit své impérium."
  RULE_OPTION_ETH_STALINIST_desc: "AI se pokusí přeměnit Etiopii v komunistickou zemi a získat podporu Sovětského svazu, čímž se stane stalinskou loutkou."
@@ -574,7 +574,7 @@
  RULE_OPTION_SWI_ALLIED_DEMOCRATIC: "Demokracie - Spojenci"
  RULE_OPTION_SWI_ALLIED_DEMOCRATIC_AI_DESC: "AI vyzbrojí Švýcarsko a připraví jej na válku, přikloní Švýcarsko k demokratickým mocnostem světa a nakonec zruší neutralitu ve prospěch spojenců."
  RULE_OPTION_SWI_EXPANSIONIST_DEMOCRATIC: "Demokracie - Expanze"
- RULE_OPTION_SWI_EXPANSIONIST_DEMOCRATIC_AI_DESC: "AI se pokusí přesvědčit státy kolem Švýcarska, aby se připojily ke konfederaci, a ozbrojí zemi v přípravě na to, že vlády těchto států odmítnou nechat jejich státy svobodné." # todo: CHANGED
+ RULE_OPTION_SWI_EXPANSIONIST_DEMOCRATIC_AI_DESC: "AI bude přemlouvat státy okolo Švýcarska ke vstupu do konfederace a vyzbrojí zemi v přípravě na protivníky, kteří nechtějí své státy pustit."
  RULE_OPTION_SWI_IMPERIAL: "Imperiální"
  RULE_OPTION_SWI_IMPERIAL_AI_DESC: "AI se pokusí vytvořit Alpinský protektorát zrušením neutrality a demokracie ve prospěch militaristického a expanzionistického režimu."
  RULE_OPTION_SWI_FASCIST: "Fašismus"
@@ -621,7 +621,7 @@
  RULE_OPTION_SWE_DEMOCRATIC_NORDIC_DEFENCE_COUNCIL: "Demokracie - Severská obranná rada"
  RULE_OPTION_SWE_DEMOCRATIC_NORDIC_DEFENCE_COUNCIL_DESC: "AI se pokusí vytvořit Severskú obrannú rada pro ochranu severanů."
  RULE_OPTION_NOR_STALINIST: "Komunismus - Stalinismus"
- RULE_OPTION_NOR_STALINIST_AI_DESC: " The AI will attempt to increase the popularity of Communism, while aligning Norway to Stalin's Soviet Union, or the biggest Non-Trotskyist Communist country if Stalin has been ousted." # todo: CHANGED
+ RULE_OPTION_NOR_STALINIST_AI_DESC: "AI se pokusí zvýšit popularitu komunismu, přitáhnout Norsko k Sovětskému svazu za Stalina nebo ke největší ne-trockistické komunistické zemi, pokud byl Stalin sesazen."
  RULE_OPTION_NOR_TROSTSKYIST: "Komunismus - Trockismus"
  RULE_OPTION_NOR_TROSTSKYIST_AI_DESC: "AI bude usilovat o udržení Leva Trockého v Norsku a dodržovat jeho principy komunismu, bojovat proti Sovětskému svazu, pokud je stalinský, a spojit se s ním, pokud se Trocký stane jeho vůdcem."
  RULE_OPTION_NOR_FASCIST: "Fašismus - Nasjonal Samling"
@@ -647,7 +647,7 @@
  CHL_AI_BEHAVIOR: "@CHL Chile"
  RULE_HISTORICAL_CHL_AI_DESC: "Chilská AI posílí demokratický systém a zvolí podporu sociálně demokratických politik při zachování rovnováhy sil a zapojí se do globálního boje jen pokud se protáhne."
  RULE_OPTION_CHL_COMMUNIST: "Sociálně demokratická republika Chile"
- RULE_OPTION_CHL_COMMUNIST_AI_DESC: "Chilské AI využije nestability způsobené fašisty k požadavku rezignace Artura Alessandriho a zvýšení prezidentských pravomocí, aby mohlo nastolit komunistický stát." # todo: CHANGED
+ RULE_OPTION_CHL_COMMUNIST_AI_DESC: "Chilská AI využije nestability způsobené fašisty k požadavkům na rezignaci Arturo Alessandriho a zvýšení prezidentských pravomocí pro nastolení komunistického státu."
  RULE_OPTION_CHL_OPERATION_BOLIVAR: "Spolupráce s operací Bolívar"
  RULE_OPTION_CHL_OPERATION_BOLIVAR_DESC: "Chilská AI půjde fašistickou cestou, bude stát na straně Německé říše, pokud dostane šanci, nakonec vyhlásí válku a pokusí se obnovit staré království Chile."
  RULE_OPTION_CHL_PAN_HISPANISM: "Panhispanismus"
@@ -714,7 +714,7 @@
  RULE_OPTION_AUS_DEMOCRATIC_ALPINE_FEDERATION_AI: "Rakouský demokratický - Alpinská federace"
  RULE_OPTION_AUS_DEMOCRATIC_ALPINE_FEDERATION_AI_DESC: "AI se pokusí obnovit demokracii v Rakousku a vytvořit Alpinskou federaci."
  RULE_OPTION_AUS_ANTI_ANSCLUSS_STRESS_AI: "Variant Historický - Östfrei!"
- RULE_OPTION_AUS_ANTI_ANSCLUSS_STRESS_AI_DESC: "AI se bude do značné míry řídit historickou cestou, ale bude se pokoušet odvrátit Anschluss za každou cenu, bojovat zuby nehty za svou nezávislost až do hořkého konce. This might present a challenge or delay to the outbreak of the war" # todo: CHANGED
+ RULE_OPTION_AUS_ANTI_ANSCLUSS_STRESS_AI_DESC: "AI bude do značné míry následovat historickou cestu, ale bude se snažit odvrátit Anšlus za každou cenu, bojovat zuby nehty za svou nezávislost až do hořkého konce. To může představovat výzvu nebo zpoždění vypuknutí války."
  BEL_AI_BEHAVIOR: "@BEL Belgium"
  RULE_OPTION_HISTORICAL_BEL_AI: "Historický"
  RULE_OPTION_HISTORICAL_BEL_AI_DESC: "Belgie se nejprve pokusí odrazit útoky, poté ustoupí do Konga a bude pokračovat ve válce odtud."
@@ -729,9 +729,9 @@
  COG_AI_BEHAVIOR: "@COG Belgian Congo"
  RULE_OPTION_HISTORICAL_COG_AI_DESC: "AI v Kongu zůstane spojena s Belgií a plně využije svůj vztah s národem, nakonec usilujíc o větší autonomii."
  RULE_OPTION_COG_DEM_INDEPENDENCE_AI: "Hnutí za demokratickou emancipaci"
- RULE_OPTION_COG_DEM_INDEPENDENCE_AI_DESC: "Kongoská AI se pokusí získat nezávislost co nejdříve pokojnými prostředky a později bude prosazovat demokracii po celé Africe." # todo: CHANGED
+ RULE_OPTION_COG_DEM_INDEPENDENCE_AI_DESC: "Konžská AI se pokusí co nejdříve získat nezávislost mírovými prostředky a později bude prosazovat demokracii v Africe."
  RULE_OPTION_COG_COM_INDEPENDENCE_AI: "Hnutí za komunistickou emancipaci"
- RULE_OPTION_COG_COM_INDEPENDENCE_AI_DESC: "Kongoská AI se pokusí získat nezávislost co nejdříve pokojnými prostředky a později se bude snažit šířit komunismus po celé Africe." # todo: CHANGED
+ RULE_OPTION_COG_COM_INDEPENDENCE_AI_DESC: "Konžská AI se pokusí co nejdříve získat nezávislost mírovými prostředky a později se pokusí šířit komunismus v Africe."
  RULE_OPTION_COG_COM_REVOLUTION_AI: "Simbova revoluce"
  RULE_OPTION_COG_COM_REVOLUTION_AI_DESC: "Konžská AI se pokusí vymanit ze svých koloniálních vládců násilnou revolucí a následnou občanskou válkou a poté se pokusí šířit komunismus po africkém kontinentu."
  AFG_AI_BEHAVIOR: "@AFG Afghanistan"
@@ -813,7 +813,7 @@
  RULE_OPTION_MONARCHIST_CZE_AI_DESC: "Československá AI přejde na monarchismus a pokusí se obnovit České císařství."
  RULE_ALLOW_RELEASE_NATIONS_ALL_NATIONS_SUDETENLAND_TOOLTIP: "Tento národ nesmí být nikdy uvolněn."
  RULE_ALLOW_RELEASE_NATIONS_ALL_NATIONS_RUTHENIA_TOOLTIP: "Tento národ nesmí být nikdy uvolněn."
- AST_AI_BEHAVIOR_TAOG: "$AST_AI_BEHAVIOR$" # todo: NEW TRANSLATION
+ AST_AI_BEHAVIOR_TAOG: "$AST_AI_BEHAVIOR$"
  RULE_OPTION_AST_AI_RANDOM_TAOG_HISTORICAL: "Historické" # todo: NEW TRANSLATION
  RULE_OPTION_AST_AI_RANDOM_TAOG_HISTORICAL_DESC: "Pevně zakotvená, byť nestabilní demokracie dává Austrálii základy, aby se mohla rozhlédnout po širém světě a připravit se na blížící se bouři." # todo: NEW TRANSLATION
  RULE_OPTION_AST_ADELA_FASCIST_TAOG_AI: "Fašistická Adela" # todo: NEW TRANSLATION
@@ -842,5 +842,5 @@
  RULE_OPTION_HISTORICAL_SIA_AI_DESC: "AI se bude řídit historickým vývojem. AI zvolí fašistickou větev, zaútočí na Indočínu a připojí se k japonské frakci." # todo: NEW TRANSLATION
  RULE_OPTION_MONARCHIST_SIA_AI: "Monarchistický" # todo: NEW TRANSLATION
  RULE_OPTION_MONARCHIST_SIA_AI_DESC: "AI zvolí monarchistickou cestu." # todo: NEW TRANSLATION
- RULE_OPTION_DEMOCRATIC_SIA_AI: "$RULE_OPTION_DEMOCRATIC$" # todo: NEW TRANSLATION
- RULE_OPTION_DEMOCRATIC_SIA_AI_DESC: "$RULE_DEMOCRATIC_ALTERNATE_NZL_AI_DESC$" # todo: NEW TRANSLATION
+ RULE_OPTION_DEMOCRATIC_SIA_AI: "$RULE_OPTION_DEMOCRATIC$"
+ RULE_OPTION_DEMOCRATIC_SIA_AI_DESC: "$RULE_DEMOCRATIC_ALTERNATE_NZL_AI_DESC$"

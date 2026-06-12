@@ -1501,7 +1501,7 @@
  LBA_ITA_fascism_autonomy_satellite_DEF: "Království Libye"
  LBA_subject: "$OVERLORDADJ$ Severní Afrika"
  LBV_AUS_danubian_state: "Podunajská Lombardie-Benátsko"
- LBV_AUS_danubian_state_ADJ: "Lombardsko-Benátsko-Dunajský" # todo: CHANGED
+ LBV_AUS_danubian_state_ADJ: "podunaj."
  LBV_AUS_danubian_state_DEF: "Podunajská Lombardie-Benátsko"
  LEB_mandate: "Libanonská republika"
  LEB_mandate_ADJ: "libanon."
@@ -2033,7 +2033,7 @@
  POL_BEL_autonomy_eu_member_DEF: "Evropské Polsko"
  POL_EMPIRE_fascism: "Polské impérium"
  POL_EMPIRE_fascism_DEF: "Polské impérium"
- POL_GER_fascism_autonomy_puppet: "Generalgouvernement" # todo: CHANGED
+ POL_GER_fascism_autonomy_puppet: "Generální gouvernement"
  POL_GER_fascism_autonomy_puppet_DEF: "Generální gouvernement"
  POL_GER_fascism_autonomy_reichsprotectorate: "Generální gouvernement"
  POL_GER_fascism_autonomy_reichsprotectorate_DEF: "Generální gouvernement"
@@ -2740,7 +2740,7 @@
  gojjam_neutrality_DEF: "Království Godžam"
  greater_ethiopia: "Velká Etiopie"
  greater_ethiopia_ADJ: "etiop."
- greater_ethiopia_DEF: "Velká etiopská unie" # todo: CHANGED
+ greater_ethiopia_DEF: "Velká Etiopie"
  greater_ethiopia_communism: "Východoafrická socialistická republika"
  greater_ethiopia_communism_ADJ: "východoafr."
  greater_ethiopia_communism_DEF: "Východoafrická socialistická republika"
@@ -3035,18 +3035,18 @@
  transcaucasia_unified_fascism_DEF: "Zakavkazský ultranacionalistický stát"
  transcaucasia_unified_neutrality: "Království Zakavkazsko"
  transcaucasia_unified_neutrality_DEF: "Království Zakavkazsko"
- true_plurinational_bolivia_communism: "Plurinacionální lidová republika Bolívie" # todo: CHANGED
+ true_plurinational_bolivia_communism: "Mnohonárodní lidová republika Bolívie"
  true_plurinational_bolivia_communism_ADJ: "bolív."
- true_plurinational_bolivia_communism_DEF: "Plurinacionální lidová republika Bolívie" # todo: CHANGED
- true_plurinational_bolivia_democratic: "Plurinacionální republika Bolívie" # todo: CHANGED
+ true_plurinational_bolivia_communism_DEF: "Mnohonárodní lidová republika Bolívie"
+ true_plurinational_bolivia_democratic: "Mnohonárodní republika Bolívie"
  true_plurinational_bolivia_democratic_ADJ: "bolív."
- true_plurinational_bolivia_democratic_DEF: "Plurinacionální republika Bolívie" # todo: CHANGED
- true_plurinational_bolivia_fascism: "Plurinacionální království Bolívie" # todo: CHANGED
+ true_plurinational_bolivia_democratic_DEF: "Mnohonárodní republika Bolívie"
+ true_plurinational_bolivia_fascism: "Mnohonárodní království Bolívie"
  true_plurinational_bolivia_fascism_ADJ: "bolív."
- true_plurinational_bolivia_fascism_DEF: "Plurinacionální království Bolívie" # todo: CHANGED
- true_plurinational_bolivia_neutrality: "Plurinacionální stát Bolívie" # todo: CHANGED
+ true_plurinational_bolivia_fascism_DEF: "Mnohonárodní království Bolívie"
+ true_plurinational_bolivia_neutrality: "Mnohonárodní stát Bolívie"
  true_plurinational_bolivia_neutrality_ADJ: "bolív."
- true_plurinational_bolivia_neutrality_DEF: "Plurinacionální stát Bolívie" # todo: CHANGED
+ true_plurinational_bolivia_neutrality_DEF: "Mnohonárodní stát Bolívie"
  turkestan_united: "Turkestán"
  turkestan_united_ADJ: "turk."
  turkestan_united_DEF: "Turkestán"
@@ -3167,23 +3167,23 @@
  CZE_great_moravia_democratic: "Federace moravských států"
  CZE_great_moravia_democratic_DEF: "Federace moravských států"
  CZE_great_moravia_ADJ: "velkomor."
- INS_HOL: "Nizozemské Východní Indie" # todo: NEW TRANSLATION
- INS_HOL_DEF: "Nizozemské Východní Indie" # todo: NEW TRANSLATION
- INS_HOL_autonomy_dominion: "Dominion Indonésie" # todo: NEW TRANSLATION
- INS_HOL_autonomy_dominion_DEF: "Dominion Indonésie" # todo: NEW TRANSLATION
- INS_JAP: "Obránci vlasti" # todo: NEW TRANSLATION
- INS_JAP_DEF: "Obránci vlasti" # todo: NEW TRANSLATION
- INS_JAP_ADJ: "Indonéský" # todo: NEW TRANSLATION
- INS_HOL_FLAG: "$INS_HOL$" # todo: NEW TRANSLATION
- INS_HOL_FLAG_DEF: "$INS_HOL_DEF$" # todo: NEW TRANSLATION
- INS_HOL_FLAG_autonomy_dominion: "$INS_HOL_autonomy_dominion$" # todo: NEW TRANSLATION
- INS_HOL_FLAG_autonomy_dominion_DEF: "$INS_HOL_autonomy_dominion_DEF$" # todo: NEW TRANSLATION
+ INS_HOL: "Nizozemská Východní Indie"
+ INS_HOL_DEF: "Nizozemská Východní Indie"
+ INS_HOL_autonomy_dominion: "Dominium Indonésie"
+ INS_HOL_autonomy_dominion_DEF: "Dominium Indonésie"
+ INS_JAP: "Obránci vlasti"
+ INS_JAP_DEF: "Obránci vlasti"
+ INS_JAP_ADJ: "indonés."
+ INS_HOL_FLAG: "$INS_HOL$"
+ INS_HOL_FLAG_DEF: "$INS_HOL_DEF$"
+ INS_HOL_FLAG_autonomy_dominion: "$INS_HOL_autonomy_dominion$"
+ INS_HOL_FLAG_autonomy_dominion_DEF: "$INS_HOL_autonomy_dominion_DEF$"
  INS_aslia: "Aslia" # todo: NEW TRANSLATION
  INS_aslia_DEF: "Federace Aslie" # todo: NEW TRANSLATION
- INS_aslia_ADJ: "Aslijský" # todo: NEW TRANSLATION
+ INS_aslia_ADJ: "aslij." # todo: NEW TRANSLATION
  INS_aslia_communism: "Aslia" # todo: NEW TRANSLATION
  INS_aslia_communism_DEF: "Federace Aslie" # todo: NEW TRANSLATION
- INS_aslia_communism_ADJ: "Aslijský" # todo: NEW TRANSLATION
+ INS_aslia_communism_ADJ: "aslij." # todo: NEW TRANSLATION
  INS_UNION: "Svaz Nizozemska a Indonésie" # todo: NEW TRANSLATION
  INS_UNION_DEF: "Svaz Nizozemska a Indonésie" # todo: NEW TRANSLATION
  INS_REP_UNION: "Spojené státy Indonésie" # todo: NEW TRANSLATION
@@ -3196,21 +3196,21 @@
  HND_UNIFIED_democratic_DEF: "Hindustánská federace" # todo: NEW TRANSLATION
  HND_UNIFIED_communism: "Hindustánská unie" # todo: NEW TRANSLATION
  HND_UNIFIED_communism_DEF: "Hindustánská unie" # todo: NEW TRANSLATION
- HND_UNIFIED_communism_ADJ: "Hindustánský" # todo: NEW TRANSLATION
+ HND_UNIFIED_communism_ADJ: "hindustán."
  HND_UNIFIED_democratic_ADJ: "Hindustánský" # todo: NEW TRANSLATION
  HND_UNIFIED_neutrality_ADJ: "Hindustánský" # todo: NEW TRANSLATION
- HND_UNIFIED_fascism_ADJ: "Hindustánský" # todo: NEW TRANSLATION
+ HND_UNIFIED_fascism_ADJ: "hindustán."
  INS_maphilindo_democratic: "Federace Malajských národů" # todo: NEW TRANSLATION
  INS_maphilindo_democratic_DEF: "Federace Malajských národů" # todo: NEW TRANSLATION
- INS_maphilindo_democratic_ADJ: "Malajský" # todo: NEW TRANSLATION
+ INS_maphilindo_democratic_ADJ: "malaj." # todo: NEW TRANSLATION
  INS_maphilindo_communism: "Unie Malajských národů" # todo: NEW TRANSLATION
  INS_maphilindo_communism_DEF: "Unie Malajských národů" # todo: NEW TRANSLATION
- INS_maphilindo_communism_ADJ: "Malajský" # todo: NEW TRANSLATION
+ INS_maphilindo_communism_ADJ: "malaj." # todo: NEW TRANSLATION
  INS_maphilindo_neutrality: "Federace Malajských národů" # todo: NEW TRANSLATION
  INS_maphilindo_neutrality_DEF: "Federace Malajských národů" # todo: NEW TRANSLATION
- INS_maphilindo_neutrality_ADJ: "Malajský" # todo: NEW TRANSLATION
+ INS_maphilindo_neutrality_ADJ: "malaj." # todo: NEW TRANSLATION
  INS_maphilindo_fascism: "Malajská říše" # todo: NEW TRANSLATION
  INS_maphilindo_fascism_DEF: "Malajská říše" # todo: NEW TRANSLATION
- INS_maphilindo_fascism_ADJ: "Malajský" # todo: NEW TRANSLATION
- CZE_CEF_communism: "$CZE_union_expanded_communism$" # todo: NEW TRANSLATION
- CZE_CEF_communism_def: "$CZE_union_expanded_communism_DEF$" # todo: NEW TRANSLATION
+ INS_maphilindo_fascism_ADJ: "malaj." # todo: NEW TRANSLATION
+ CZE_CEF_communism: "$CZE_union_expanded_communism$"
+ CZE_CEF_communism_def: "$CZE_union_expanded_communism_DEF$"

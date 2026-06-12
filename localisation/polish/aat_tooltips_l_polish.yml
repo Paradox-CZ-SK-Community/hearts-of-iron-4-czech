@@ -41,8 +41,8 @@
  DEN_joint_military_drills_tt: "\n§Y$DEN_joint_military_drills$§! bude ovlivněno různými způsoby podle toho, ke které frakci se [DEN.GetNameDef] připojí přes rozhodnutí §Y$DEN_seek_an_alliance$§!\n\n"
  DEN_launches_destroyers_tt: "[DEN.GetNameDefCap] spustí všechny své získané torpédoborce"
  DEN_lego: "Společnost Lego"
- DEN_loses_one_offmap_civ_tt: "([DEN.GetFlag][DEN.GetNameDefCap]) Odeberte §R1§! mimo-mapový §Y$industrial_complex$§!." # todo: CHANGED
- DEN_loses_two_offmap_civ_tt: "([DEN.GetFlag][DEN.GetNameDefCap]) Odeberte §R2§! mimo-mapové §YCivilní továrny§!." # todo: CHANGED
+ DEN_loses_one_offmap_civ_tt: "([DEN.GetFlag][DEN.GetNameDefCap]) Odebere §R1§! mimo-mapovou §Y$industrial_complex$§!."
+ DEN_loses_two_offmap_civ_tt: "([DEN.GetFlag][DEN.GetNameDefCap]) Odebere §R2§! mimo-mapové §Ycivilní továrny§!."
  DEN_mic_to_overlord_10_or_more_tt: "§Y$DEN_occupation_laws_dynamic_modifier$§! poskytuje alespoň §G+10.00%§! vojenského průmyslu suzerénovi"
  DEN_mic_to_overlord_5_or_more_tt: "§Y$DEN_occupation_laws_dynamic_modifier$§! poskytuje alespoň §G+5.00%§! vojenského průmyslu suzerénovi"
  DEN_military_advisors_cost_big_tt: "  - Cena všech vojenských poradců: §G-15%§!"
@@ -149,7 +149,7 @@
  NOR_communist_prep_level_3_TT: "$NOR_communist_prep_intro$\n $NOR_communist_prep_join_comm_side$\n $NOR_communist_prep_2_militias$\n $NOR_communist_prep_join_light_damage$"
  NOR_communist_prep_max_preparedness_trigger_TT: "§YCelková podpora revoluce§! je menší než [?NOR.NOR_comm_prep_max_preparedness]"
  NOR_communist_prep_unlock_level_3_TT: "Umožní výcvik §Ykomunistických milic§! ve státech prostřednictvím rozhodnutí §YBurcování proletariátu§!"
- NOR_convert_militias_to_regulars_TT: "Převede všechny divize §YMilice§! na §YBěžnou pěchotu§!" # todo: CHANGED
+ NOR_convert_militias_to_regulars_TT: "Převede všechny §Ymilice§! na §Yřádnou pěchotu§!"
  NOR_country_prep_modernize_armed_forces_TT: "Celková připravenost Norska je více než §Y15§!"
  NOR_decision_cost_his_exile_convoy_pp: "£GFX_topbar_convoys §Y200§! £pol_power §Y50§!"
  NOR_decision_cost_his_exile_convoy_pp_blocked: "£GFX_topbar_convoys §R200§! £pol_power §R50§!"

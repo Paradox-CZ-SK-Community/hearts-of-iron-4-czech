@@ -13,15 +13,15 @@
  ARG_anti_british_sentiment_idea: "Protibritské nálady"
  ARG_anti_british_sentiment_idea_desc: "Od chvíle, kdy jsme my a [ENG.GetNameDef] přerušili vztahy, se vládou šíří vlna protibritských nálad. Již nejsme svázáni jejich smlouvami a obchodními dohodami. Nyní se můžeme soustředit na to podstatné: válku."
  ARG_anti_corruption_modifier: "Protikorupční politika"
- ARG_anti_corruption_modifier_desc: "Korupce, která sužovala vládu naší země, byla naprosto nepřijatelná. Díky politice Marcela T. de Alveara jsme konečně mohli začít končit s očividnými podvodnými praktikami, kterých se naši politici dopouštěli." # todo: CHANGED
+ ARG_anti_corruption_modifier_desc: "Korupce, která sužovala vládu naší země, byla naprosto nepřijatelná. Díky politikám Marcela T. de Alveara jsme konečně dokázali začít s potíráním otevřených a podvodných praktik našich politiků."
  ARG_anti_soviet_idea: "Protisovětské nálady"
  ARG_anti_soviet_idea_desc: "Hrozbu komunismu a nebezpečí, které představuje pro naši zemi, nelze ignorovat. [SOV.GetNameDefCap] se neustále ukazuje jako mocnost schopná zničit náš způsob života. Lidé se obávají rudé hrozby - a právem."
  ARG_argentina_first_idea: "$ARG_argentina_first$"
- ARG_argentina_first_idea_desc: "Není snadné jít na to o samotě, zvláště když máme tak vznešené cíle dobytí na kontinentu Jižní Ameriky. Nicméně pokud se necháme zatáhnout fašistickými hnutími v Evropě, můžeme ztratit ze zřetele náš pravý cíl: sjednocenou Jižní Ameriku." # todo: CHANGED
+ ARG_argentina_first_idea_desc: "Jít vlastní cestou není nikdy snadné, obzvláště s tak ambiciózními cíli, jaké máme v Jižní Americe. Pokud se však příliš svážeme s fašistickými hnutími v Evropě, mohli bychom ztratit ze zřetele náš skutečný cíl: sjednocenou Jižní Ameriku."
  ARG_argentina_for_all_idea: "Argentina pro všechny"
  ARG_argentina_for_all_idea_desc: "Naše velká země je domovem rozmanitého obyvatelstva a dlouhou dobu bylo téměř nemožné je sjednotit pod jedním praporem. Je čas změnit přístup. [ARG.GetNameDef] musí být zemí otevřenou a přístupnou všem, kteří ji nazývají domovem."
  ARG_argentine_beef_idea: "Argentinské hovězí"
- ARG_argentine_beef_idea_desc: "Od chvíle, kdy byly do [ARG.GetNameDef] poprvé přivezeny dobytky v roce 1536 španělskými konkvistadory, se hovězí stalo základem tradiční argentinské kuchyně. Díky tomu se naše hovězí stalo známé po celém světě a existuje velká poptávka po jeho vývozu." # todo: CHANGED
+ ARG_argentine_beef_idea_desc: "Od doby, kdy byl roku 1536 do země přivezen první skot španělskými dobyvateli, je hovězí maso základem tradiční argentinské kuchyně. Díky tomu je argentinské hovězí známé po celém světě a je po něm vysoká poptávka."
  ARG_argentine_beef_trade_idea: "Obchod s argentinským hovězím"
  ARG_argentine_metropole_idea: "Argentinská metropole"
  ARG_argentine_metropole_idea_desc: "Naše země dlouho prosperovala díky venkovskému zemědělství a těžbě. S postupem do 20. století se však mění i představa ideálního [ARG.GetAdjective] života. Mnozí se stěhují do rozšířených a prosperujících měst s vidinou metropolitního způsobu života."
@@ -33,7 +33,7 @@
  ARG_british_argentine_agreement: "[ENG.GetAdjectiveCap]-[ARG.GetAdjective] dohoda"
  ARG_british_argentine_agreement_desc: "[ENG.GetNameDefCap] má s námi dohodu o lepších obchodních podmínkách, čímž máme mírnou slebu na obchod s nimi."
  ARG_british_cooperation_idea: "$ARG_british_cooperation$"
- ARG_british_cooperation_idea_desc: "[ENG.GetNameDefCap] byla jedním z našich nejdéle trvajících obchodních partnerů. Pokračujeme-li v dodržování našich mnoha smluv a dohod, můžeme zaznamenat posun naší ideologie směrem k té jejich." # todo: CHANGED
+ ARG_british_cooperation_idea_desc: "[ENG.GetNameDefCap] patří k našim nejdéle trvajícím obchodním partnerům. Jak nadále dodržujeme smlouvy a dohody, může se naše ideologie postupně přibližovat té jejich."
  ARG_buying_the_islands_idea: "Zakoupení ostrovů v Jižním Atlantiku"
  ARG_buying_the_islands_idea_desc: "Ukázalo se, že nákup dvou celých ostrovů je mimořádně nákladný. Tento dluh budeme splácet ještě dlouhou dobu."
  ARG_chade_cade: "CHADE-CADE"
@@ -45,7 +45,7 @@
  ARG_committee_of_state_security_idea_no_lar_desc: "$ARG_committee_of_state_security_idea_lar_desc$"
  ARG_construction_guilds_idea: "Argentinské stavební cechy"
  ARG_corruption_crackdown_modifier: "$ARG_crack_down_on_corruption$"
- ARG_corruption_crackdown_modifier_desc: "Korupce, která sužovala vládu naší země, byla naprosto nepřijatelná. Díky politice Roberta Maríi Ortize jsme konečně mohli začít končit s očividnými podvodnými praktikami, kterých se naši politici dopouštěli." # todo: CHANGED
+ ARG_corruption_crackdown_modifier_desc: "Korupce, která sužovala vládu naší země, byla naprosto nepřijatelná. Díky politikám Roberta Maríi Ortize jsme konečně začali potírat otevřené a podvodné praktiky politiků."
  ARG_counter_interlligence_program_idea: "Argentinský program kontrašpionáže"
  ARG_counter_interlligence_program_idea_desc: "Špionáž je jednou z mnoha front tohoto globálního konfliktu. Efektivní program kontrašpionáže je klíčový pro přežití ve válce. Zaměřujeme se proto spíše na obranná opatření než na útočné podvratné akce."
  ARG_cut_ties_with_britain_idea: "Přerušení vztahů s Británií"
@@ -70,7 +70,7 @@
  ARG_free_association_idea: "Svobodné sdružení producentů"
  ARG_free_association_idea_desc: "Svobodné sdružení je vztah mezi jednotlivci bez státu, společenských tříd, hierarchie či soukromého vlastnictví výrobních prostředků. Podle vládnoucích anarchosyndikalistů to umožní lidem svobodně se sdružovat a vytvářet vlastní podmínky existence."
  ARG_growing_nationalism_modifier: "Rostoucí nacionalistické hnutí"
- ARG_growing_nationalism_modifier_desc: "Argentinská nacionalistická strana způsobila v zemi vlnu a stále více lidí se k ní hlásí, aby podpořili její rostoucí ideologii. Argentinský nacionalismus usiluje o obnovení [ARG.GetAdjective] identity a upevnění naší pozice jako dominantní mocnosti v Jižní Americe." # todo: CHANGED
+ ARG_growing_nationalism_modifier_desc: "Argentinská nacionalistická strana získává stále větší podporu a stále více lidí se přidává k jejím řadám. Nacionalismus usiluje o obnovení [ARG.GetAdjective] identity a upevnění dominantního postavení v Jižní Americe."
  ARG_hispano_argentina_manufacturer: "$ARG_hispano_argentina_organization$"
  ARG_improved_cooperation_idea: "Zlepšená spolupráce"
  ARG_improved_cooperation_idea_desc: "[ARG.GetNameDefCap] a [ENG.GetNameDef] slaďují své zájmy."
@@ -97,7 +97,7 @@
  ARG_maintain_neutrality_idea: "Zaměřeni sami na sebe"
  ARG_maintain_neutrality_idea_desc: "Ukázali jsme, že nemáme zájem o globální konflikty. Naším hlavním cílem jsme my sami. Nechť je to jasné pro všechny - [ARG.GetNameDef] se bude soustředit na své vlastní cíle."
  ARG_military_government_idea: "Vojenská vláda"
- ARG_military_government_idea_desc: "Pedro Pablo Ramírez převzal vládu a zřídil vojensky řízený stát. Tato změna režimu byla vyvolána mnoha voláními po změně směrem od dříve zkorumpované a podvodné Concordancie. S manifestem zaměřeným na [ARG.GeAdjective] expanzionismus se naše země v budoucnu jistě setká s mnoha konflikty." # todo: CHANGED
+ ARG_military_government_idea_desc: "Pedro Pablo Ramírez převzal moc a zřídil vojenský režim. Tento převrat byl vyvolán voláním po změně po zkorumpované a podvodné vládě Concordancie. S manifestem zaměřeným na [ARG.GetAdjective] expanzionismus čeká naši zemi řada budoucích konfliktů."
  ARG_modify_argentine_airforce_ns_intro: "Upraví §Y$ARG_airforce_modifier$§! o"
  ARG_modify_argentine_army_ns_intro: "Upraví §Y$ARG_army_modifier$§! o"
  ARG_modify_argentine_navy_ns_intro: "Upraví §Y$ARG_navy_modifier$§! o"
@@ -105,16 +105,16 @@
  ARG_modify_growing_nationalism_ns_intro: "Upraví §Y$ARG_growing_nationalism_modifier$§! o"
  ARG_modify_international_loan_intro: "Upraví §Y$ARG_international_loan_modifier$§! o"
  ARG_monroe_doctrine_idea: "V souladu s Monroeovou doktrínou"
- ARG_monroe_doctrine_idea_desc: "Monroeova doktrína dlouho sloužila jako způsob, jak zabránit evropskému vměšování na západní polokouli. Je nezbytné, abychom ji dodržovali, pokud máme přežít nápor války." # todo: CHANGED
+ ARG_monroe_doctrine_idea_desc: "Monroeova doktrína již dlouho slouží jako prostředek k zabránění evropským zásahům na západní polokouli. Je naprosto klíčové ji dodržovat, pokud máme přežít nadcházející válečné bouře."
  ARG_navy_modifier: "$SMB_navy_ARG$"
  ARG_no_gods_no_masters_idea: "¡Liberación!"
- ARG_no_gods_no_masters_idea_desc: "I když ostatní země na kontinentu nemusí sdílet názory naší vlády, bylo by proti naší ideologii sedět a nezasáhnout, pokud by byly dobyty dotěrnými a agresivními vetřelci. Jestliže by některý z našich sousedů padl do rukou invazora, musíme vzít zbraně a osvobodit je." # todo: CHANGED
+ ARG_no_gods_no_masters_idea_desc: "Ačkoli se ostatní státy kontinentu nemusí s naší vládou shodovat, bylo by proti naší ideologii nečinně přihlížet, jak jsou dobývány zuřivými a agresivními útočníky. Pokud kterýkoli z našich sousedů padne pod náporem invazní moci, musíme pozvednout zbraně a osvobodit jej."
  ARG_our_own_path_idea: "$ARG_our_own_path$"
- ARG_our_own_path_idea_desc: "Navzdory všemu utrpení, které jsme museli podstoupit, aby jsme se sem dostali, je [ARG.GetNameDef] schopna stát pevně na vlastních nohou, bez ohýbání kolen před jinými národy, frakcemi nebo konglomeráty. Volíme si vlastní cestu v těchto bouřlivých časech." # todo: CHANGED
+ ARG_our_own_path_idea_desc: "Navzdory všem útrapám, které jsme museli překonat, dnes [ARG.GetNameDef] stojí pevně na vlastních nohou, aniž by se klaněla jiným státům, frakcím či zájmovým skupinám. V těchto bouřlivých časech si volíme vlastní cestu."
  ARG_political_corruption_modifier: "Politická korupce"
- ARG_political_corruption_modifier_desc: "Po mnoho let byla [ARG.GetNameDef] sužována intenzivní korupcí ve vládě. I když se zdálo, že vznik Concordancie by mohl tento stav zmírnit, podvody při hlasování a zastrašování voličů nadále přetrvávaly." # todo: CHANGED
+ ARG_political_corruption_modifier_desc: "Po mnoho let byla [ARG.GetNameDef] sužována zakořeněnou korupcí ve státní správě. Ačkoli se předpokládalo, že vznik Concordancie tuto situaci zmírní, podvodné volby a zastrašování voličů nadále přetrvávaly."
  ARG_preparing_for_war_idea: "Příprava na válku"
- ARG_preparing_for_war_idea_desc: "Kontinent Jižní Ameriky se nad námi vznáší jako kořist připravená k uchopení. Naše armády se připravují na válku, zatímco naši politici a diplomaté horlivě vytvářejí dokumenty a ultimáta na přípravu na naši dobyvačnou kampaň. Zmije je připravena udeřit." # todo: CHANGED
+ ARG_preparing_for_war_idea_desc: "Kontinent Jižní Ameriky se před námi rozprostírá, zralý k ovládnutí. Naše armády se připravují na válku, zatímco politici a diplomaté horečně připravují dokumenty a ultimáta pro nadcházející tažení. Zmije je připravena udeřit."
  ARG_public_works_investment_idea: "Investice do veřejných prací"
  ARG_public_works_investment_idea_desc: "Pro [ARG.GetAdjective] vládu je zásadní financovat a zadávat projekty veřejných prací určené pro rekreaci, zaměstnanost, zdravotnictví a bezpečnost. Tyto investice výrazně zlepší kvalitu života širší [ARG.GetAdjective] společnosti."
  ARG_raf_cooperation_idea: "Spolupráce s RAF"
@@ -126,7 +126,7 @@
  ARG_refused_embargo_idea: "Odmítnutí embarga"
  ARG_refused_embargo_idea_desc: "[ARG.GetNameDefCap] odmítá náš požadavek na uvalení embarga na Osu."
  ARG_regulated_salaries: "Regulované mzdy"
- ARG_regulated_salaries_desc: "Přijali jsme opatření, která zabrání tomu, aby byli naši zaměstnaní občané podplaceni domácím průmyslem. Dohoda mezi průmyslem a dělníky se ukázala být pro naši zemi velmi přínosná." # todo: CHANGED
+ ARG_regulated_salaries_desc: "Přijali jsme opatření, která mají zabránit domácímu průmyslu podhodnocovat mzdy zaměstnanců. Dohoda mezi průmyslem a dělníky se ukázala jako mimořádně přínosná pro celý stát."
  ARG_resource_extration_focus: "Zaměření na těžbu surovin"
  ARG_roca_runciman_new_partner_idea: "La Platská smlouva"
  ARG_roca_runciman_treaty_idea: "Roca-Runcimanova smlouva"
@@ -135,7 +135,7 @@
  ARG_social_welfare_fund_ns: "[ARG.GetAdjectiveCap] fond sociálního zabezpečení"
  ARG_social_welfare_fund_ns_desc: "[ARG.GetNameDef] navyšuje výdaje na sociální politiku. Již nyní pozorujeme pozitivní dopady v podobě spokojenější populace a rostoucí důvěry ve vládu."
  ARG_socialist_unification_idea: "Socialistické sjednocení"
- ARG_socialist_unification_idea_desc: "Silou naší slavné revoluce jsme se konečně dokázali prosadit jako převládající ideologie na kontinentu Jižní Ameriky. Tato válka, vybojovaná krví a statečností, naplnila náš lid touhou po větší vlasti pro Jihoamerické socialistické republiky." # todo: CHANGED
+ ARG_socialist_unification_idea_desc: "Díky síle naší slavné revoluce jsme se konečně stali dominantní ideologií v Jižní Americe. Tato válka, vybojovaná krví a odvahou, naplnila náš lid touhou po větší vlasti pro Jihoamerické socialistické republiky."
  ARG_socialist_volunteers_idea: "$ARG_socialist_volunteers$"
  ARG_socialist_volunteers_idea_desc: "Abychom zajistili mezinárodní revoluci, musíme poskytovat pomoc našim socialistickým bratřím všude tam, kde je jí třeba. Pokud máme dostatek lidských zdrojů, musíme vysílat dobrovolníky do boje proti buržoazii po celém světě!"
  ARG_spirit_of_the_cisplatine_war_idea: "Duch Argentinsko-brazilské války"
@@ -149,9 +149,9 @@
  ARG_subdue_dissension_idea: "Potlačený nesouhlas"
  ARG_subdue_dissension_idea_desc: "Probíhající vojenské neshody byly konečně potlačeny. Do budoucna to musí být varováním, abychom pečlivě sledovali možné projevy neklidu v jednotlivých složkách vlády."
  ARG_towards_a_greater_argentina_idea: "$ARG_towards_a_greater_argentina$"
- ARG_towards_a_greater_argentina_idea_desc: "[ARG.GetNameDefCap] velmi utrpěla na počátku 20. století, jak vpádem Velké hospodářské krize, tak následným začátkem Hanebného desetiletí. Navzdory neustálým podvodným volbám, pokusům o převraty a zkorumpovaným státním úředníkům jsme dokázali vyjít jako stabilní a efektivní národ." # todo: CHANGED
+ ARG_towards_a_greater_argentina_idea_desc: "[ARG.GetNameDefCap] ve 20. letech 20. století těžce trpěla jak Velkou hospodářskou krizí, tak následným obdobím Hanebné dekády. Navzdory neustálým podvodným volbám, pokusům o převrat a zkorumpovaným úředníkům jsme se dokázali stát stabilním a efektivním státem."
  ARG_united_workers_idea: "Sjednocení pracující"
- ARG_united_workers_idea_desc: "Dělník je páteří socialistické revoluce. Proletariát stojí jednotně proti korupci a podvodům, které kapitalismus rozšířil po [ARG.GetNameDef]" # todo: CHANGED
+ ARG_united_workers_idea_desc: "Dělník je páteří socialistické revoluce. Proletariát stojí jednotně proti korupci a podvodům, kterými se [ARG.GetNameDef] nakazila od kapitalismu."
  ARG_us_army_training_idea: "$ARG_us_army_training$"
  ARG_us_army_training_idea_desc: "Díky užším napojením na [USA.GetNameDef] jsme převzali jejich výcvikové postupy. Pokud budeme cvičit naše jednotky stejně jak to dělají oni, získáme silnější a odolnější armádu."
  ARG_war_division_idea: "Válečné oddělení"
@@ -186,7 +186,7 @@
  BRA_article_138: "Článek 138"
  BRA_article_138_desc: "$BRA_implement_article_138_desc$"
  BRA_atheist_state: "Ateistický stát"
- BRA_atheist_state_desc: "Jako stát zaměřený na vědecký pokrok nesmíme ztrácet čas zaběhováním se v kléru. Správa země a náboženství jejích obyvatel by se neměly míchat a my hodláme to tak i nadále udržet." # todo: CHANGED
+ BRA_atheist_state_desc: "Jako stát zaměřený na vědecký pokrok nemůžeme věnovat pozornost duchovenstvu. Správa země a víra obyvatel se nemají prolínat a my to hodláme zachovat."
  BRA_banco_do_brasil_idea: "Banco do Brasil"
  BRA_banco_do_brasil_idea_desc: "$BRA_banco_do_brasil_desc$"
  BRA_bernadini_manufacturer: "$BRA_bernadini_organization$"
@@ -199,7 +199,7 @@
  BRA_collaboration_with_the_church: "Spolupráce s církví"
  BRA_collaboration_with_the_church_desc: "Církev má pro mnoho Brazilců zásadní význam. Konzultacemi politik s duchovenstvem můžeme získat jejich masovou podporu pro naši vládu."
  BRA_collectivized_agriculture: "Kolektivizované zemědělství"
- BRA_collectivized_agriculture_desc: "Kolektivizací našeho zemědělství jsme zvýšili jeho efektivitu a posílili komunistickou ideologii mezi naším lidem." # todo: CHANGED
+ BRA_collectivized_agriculture_desc: "Kolektivizací našeho zemědělství jsme zvýšili jeho efektivitu a posílili komunistickou ideologii mezi obyvatelstvem."
  BRA_commonwealth_idea: "Členský stát Lusofonního společenství"
  BRA_commonwealth_idea_desc: "Tato země je členem Lusofonního společenství, komunity se silnými historickými vazbami, kde je portugalština často nejpoužívanějším jazykem. Členské státy se dohodly na spolupráci v otázkách společného zájmu, jako jsou technologie a zahraniční politika."
  BRA_court_the_military_idea: "Získávání přízně armády"
@@ -243,7 +243,7 @@
  BRA_king_vassouras: "Dom Pedro Henrique"
  BRA_king_vassouras_desc: ""
  BRA_liberated_by_communist_brazil: "[BRA.GetAdjectiveCap] osvobození"
- BRA_liberated_by_communist_brazil_desc: "Naše země konečně získala zaslouženou nezávislost od kolonizátorů. S pomocí [BRA.GetNameDef] jsme opět svobodnou zemí. Jejich činy nám tak zjevně pomáhají, že se komunistické myšlenky, které hlásají, začínají u našeho lidu uchycovat." # todo: CHANGED
+ BRA_liberated_by_communist_brazil_desc: "Naše země konečně získala svou právoplatnou nezávislost na kolonizátorech. [BRA.GetNameDef] zařídila, že jsme opět svobodnou zemí. Jelikož jejich činy nám zjevně pomohly, začínají se mezi naším obyvatelstvem zakořeňovat i komunistické myšlenky."
  BRA_lloyd_brasileiro_idea: "Lloyd Brasileiro"
  BRA_modify_aotci_ns_intro: "Upraví §Y$BRA_aftermath_of_the_coup$§! o:"
  BRA_modify_brazilian_airforce_ns_intro: "Upraví §Y$BRA_airforce_modifier$§! o"
@@ -292,7 +292,7 @@
  BRA_separatism_idea: "Separatistické nálady"
  BRA_separatism_idea_desc: "V celé zemi existuje mnoho lidí, kteří mají výhrady vůči centrální vládě Brazílie nebo odmítají podporovat méně rozvinuté státy. V minulosti tyto nálady vedly ke krátkodobým separatistickým hnutím. Pokud politickou situaci brzy nestabilizujeme, může dojít k rozpadu Brazílie."
  BRA_stability_and_unity: "Řád a pokrok"
- BRA_stability_and_unity_desc: "Díky pečlivému politickému manévrování se nám podařilo vytvořit pevnější a stále více sjednocenou republiku. Na tomto základě budeme i nadále chránit občany naší velké země." # todo: CHANGED
+ BRA_stability_and_unity_desc: "Pečlivým politickým manévrováním se nám podařilo vytvořit silnější a stále jednotnější republiku. Na tomto základu budeme nadále chránit občany našeho velkého národa."
  BRA_supporting_operation_bolivar: "Podpora operace Bolívar"
  BRA_sway_the_neighbors_lar: "Zpravodajská kampaň k ovlivnění sousedů"
  BRA_tax_haven: "Rozvíjející se daňový ráj"
@@ -346,7 +346,7 @@
  CHL_chile_payments_from_peru: "Platby z Peru"
  CHL_chile_payments_from_peru_desc: "V důsledku nedávného odkupu [951.GetName] nám [PRU.GetNameDef] každý měsíc vyplácí značnou finanční částku, což oživuje naši ekonomiku."
  CHL_chilean_economy_dynamic_modifier: "Chilská ekonomika"
- CHL_chilean_economy_dynamic_modifier_desc: "Vzhledem k silné závislosti na vývozu mědi a dusičnanů mezi jinými komoditami byla chilská ekonomika těžce zasažena po velkém krachu, kdy její největší obchodní partner, tedy USA, přestal z Chile dovážet, a země byla nucena odprodat části území, aby ekonomika úplně neskončila v troskách. Byly učiněny kroky ke zlepšení situace, ale je třeba udělat více. Chilská ekonomika bude jednoho dne opět skvělá!" # todo: CHANGED
+ CHL_chilean_economy_dynamic_modifier_desc: "Kvůli silné závislosti na vývozu mědi, ledku a dalších surovin byla chilská ekonomika těžce zasažena po Velkém krachu, když její největší obchodní partner, Spojené státy, přestali z Chile dovážet tovar. Země byla nucena prodávat části svého území, aby zabránila úplnému kolapsu ekonomiky. Byly podniknuty kroky k nápravě, ale je třeba udělat více. Chilská ekonomika bude jednou opět velká!"
  CHL_claims_patagonia: "Patagonie prohlášena za vlastní"
  CHL_communist_party_in_power: "Partido Comunista"
  CHL_compania_electro_industrial_valdivia: "Compañía Electro-Siderúrgica e Industrial de Valdivia"
@@ -412,7 +412,7 @@
  CHL_impose_new_taxes_tt: "Po odstranění národního ducha §Y$CHL_imposed_new_taxes$§! upraví §Y$CHL_chilean_economy_dynamic_modifier$§! následovně:\n $MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+5%§!\n $MODIFIER_CONSUMER_GOODS_FACTOR$: §Y-10%§!"
  CHL_imposed_new_taxes: "Uvaleny nové daně"
  CHL_introduced_the_franc_idea: "Zaveden frank"
- CHL_introduced_the_franc_idea_desc: "Aby se země zotavila ze svých ran a našla své místo na světové scéně, musí se stát součástí širší frankofonní sféry. Velký krok směrem k tomu byl učiněn nahrazením starého pesa Araucanían Franc." # todo: CHANGED
+ CHL_introduced_the_franc_idea_desc: "Aby se země dokázala zotavit ze svých ran a zaujmout místo na světové scéně, musí se stát součástí širší frankofonní sféry. Klíčovým krokem bylo nahrazení starého pesa araukánským frankem."
  CHL_invited_french_academia: "Francouzská akademická obec"
  CHL_invited_french_academia_desc: "Důležitou součástí frankofonní sféry je společný způsob myšlení. Proto budeme podporovat přesun francouzských akademiků do [CHL.GetNonIdeologyName]."
  CHL_lack_of_funds: "Nedostatek financí"
@@ -504,7 +504,7 @@
  CHL_the_kings_scouts: "Královi skauti"
  CHL_the_kings_scouts_desc: "Již od dětství se náš král s nadšením účastnil polovojenských aktivit francouzského skautského hnutí. Nyní přenese stejnou vášeň a zápal i na [CHL.GetAdjective] mládež."
  CHL_the_mapuche_conflict: "Mapučský konflikt"
- CHL_the_mapuche_conflict_desc: "Od doby, kdy byla Araucania pacifikována a její území a obyvatelé násilně integrováni do chilského státu, byli domorodí Mapučové vystěhováni, znevýhodněni a nespokojeni. Zatímco mezi nimi existují skupiny usilující o spolupráci a integraci, jsou i ti, kteří se snaží stát všemi možnými způsoby podvrátit." # todo: CHANGED
+ CHL_the_mapuche_conflict_desc: "Od pacifikace Araukánie a násilného začlenění její půdy a obyvatel do chilského státu byli původní Mapučové vysídlováni, znevýhodňováni a zůstávali nespokojeni. Zatímco část z nich usiluje o spolupráci a integraci, jiní se snaží stát všemi možnými prostředky rozvracet."
  CHL_the_true_enemy_idea: "Úder proti skutečnému nepříteli"
  CHL_unified_in_spirit_idea: "Sjednoceni duchem"
  CHL_unified_in_spirit_idea_desc: "Amerindiánské a polynéské národy spolupracují na koordinaci a výcviku svých armád, čímž výrazně zvyšují jejich efektivitu."
@@ -561,7 +561,7 @@
  URG_modify_uruguayan_navy_ns_intro: "Upraví §Y$URG_navy_modifier$§! o"
  URG_navy_modifier: "$SMB_navy_URG$"
  URG_terra_dictatorship: "Terrův diktátorský režim"
- URG_terra_dictatorship_desc: "Od revoluce 31. března 1933 je u moci Gabriel Terra a jeho stoupenci, včetně těch následujících Batllismo, stejně jako Bílá strana a její vůdce Luis Alberto de Herrera. Terra vládne s neomezenou mocí, bez autority, která by mohla zpochybnit jeho rozhodnutí. Pro Uruguay to znamená přísnou neutralitu, neboť Terra si přeje vnitřní rozvoj a kontrolu nad tím, zda se v případě nečekaných válek, jak v Jižní Americe, tak přes Atlantský oceán, připojíme na nějakou stranu." # todo: CHANGED
+ URG_terra_dictatorship_desc: "Od revoluce 31. března 1933 je Gabriel Terra se svými stoupenci - včetně batllistů, Bílé strany a jejího vůdce Luise Alberta de Herrery - u moci bez jakékoli skutečné opozice. Pro Uruguay to znamená přísnou neutralitu, neboť Terra usiluje o vnitřní rozvoj a chce si zachovat kontrolu nad volbou stran v případných válkách, jak v Jižní Americe, tak za Atlantikem."
  USA_monroe_doctrine_enforcer: "Vynucovatel Monroeovy doktríny"
  USA_monroe_doctrine_enforcer_desc: "Od poloviny 19. století se snažíme chránit západní polokouli před vnějšími zásahy koloniálních mocností. Ačkoli se parametry této doktríny v průběhu času měnily, její podstata spočívá v tom, že naši sousedé v Severní a Jižní Americe očekávají naši pomoc v době konfliktu. Zda, kdy a jak doktrínu prosadíme, je však na našem vlastním rozhodnutí."
  USA_monroe_doctrine_idea: "Monroeova doktrína"

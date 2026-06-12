@@ -272,7 +272,7 @@
  raid_type_nuclear_strike: "Jaderný úder"
  raid_type_nuclear_strike_desc: "Strategický bombardér s doprovodem zamíří na vybraný cíl, shodí atomovou bombu a pokusí se uniknout z oblasti dříve, než ho zasáhne tlaková vlna."
  raid_type_oilfield_raid: "Nálet na ropné pole"
- raid_type_oilfield_raid_desc: "Letecký úder zaměřený na vyřazení významného ropného pole a připojených rafinerií, aby vážně narušil nepřátelskou výrobu paliva na delší dobu." # todo: CHANGED
+ raid_type_oilfield_raid_desc: "Letecký úder zaměřený na velké ropné pole a přilehlé rafinerie s cílem vážně narušit nepřátelskou produkci paliva."
  raid_type_outcome_header: "$RAID_TYPE$ - výsledek"
  raid_type_outcome_header_actor: "$RAID_TYPE|H$ skončil"
  raid_type_outcome_header_victim: "Zasažen: $RAID_TYPE|H$"
@@ -388,7 +388,7 @@
  tooltip_success_chance_base: "Základní šance: $VAL|%0H$"
  tooltip_success_chance_capped_by_risk: "§RŠance na úspěch omezena z důvodu vysokého rizika kritického selhání (§!$RISK|%0H$§R)§!"
  tooltip_success_chance_risk: "Základní riziko: $VAL|%0H$"
- tooltip_raid_category_land_infiltration_raids: "§HPozemní nájezdy§! \nMalé nájezdy prováděné pozemními silami za nepřátelskými liniemi, využívající nenápadnost a klam k provádění rychlých úderů a ústupů." # todo: CHANGED
+ tooltip_raid_category_land_infiltration_raids: "§HPozemní nájezdy§! \nMalé nájezdy prováděné pozemními silami za nepřátelskými liniemi, využívající nenápadnost a klam k rychlým úderům a ústupovým akcím."
  raid_type_nuclear_missile_strike_submarine: "$raid_type_nuclear_missile_strike$ z ponorky"
  raid_type_nuclear_missile_strike_submarine_desc: "$raid_type_nuclear_missile_strike_desc$"
  raid_type_thermonuclear_missile_strike_submarine: "$raid_type_thermonuclear_missile_strike$ z ponorky"
@@ -407,11 +407,11 @@
  raid_type_PRC_probe_border_defenses_raid: "Nájezd na pohraniční obranu"
  raid_tooltip_trigger_title: "$TITLE|H$:"
  raid_type_CHI_great_wall_raid_land: "Infiltrační nájezd na Velkou zeď"
- raid_type_CHI_great_wall_raid_land_desc: "Zeď již nemá takovou obrannou hodnotu jako v minulosti, ale stále může poskytnout opevněnému nepříteli výhodu. Posláním malých skupin vojáků můžeme proniknout za nepřátelské linie a odpálit pečlivě umístěné nálože, abychom jejich výhodu zneškodnili." # todo: CHANGED
+ raid_type_CHI_great_wall_raid_land_desc: "Zeď již nemá takový obranný význam jako dříve, ale stále může poskytnout dobře zakopanému nepříteli výhodu. Pokud pošleme malou skupinu vojáků, pronikneme do nepřátelských linií a odpálíme dobře umístěné nálože, můžeme jejich výhodu zneutralizovat."
  raid_target_name_great_wall: "§H$the_great_wall$§!"
  raid_type_CZE_sokolov_raid_pfot: "Útok na Falknov"
  raid_type_CZE_sokolov_raid_pfot_desc: "$raid_type_GER_eben_emael_raid_desc$"
- RAID_SHIFT_CLICK_QUICK_START: "§GShift+Click§! k okamžité přípravě nájezdu" # todo: CHANGED
+ RAID_SHIFT_CLICK_QUICK_START: "§GShift+Kliknutí§! pro okamžitou přípravu úderu."
  sokolov_raided_modifier: "Falknov napaden"
  sokolov_raided_limited_success_modifier: "$sokolov_raided_modifier$"
  sokolov_raided_success_modifier: "$sokolov_raided_modifier$"
@@ -426,7 +426,7 @@
  success_modifier_completed_kido_butai_focus: "dokončil zaměření §Y$JAP_form_the_kido_butai$§!" # todo: NEW TRANSLATION
  success_modifier_completed_kido_butai_focus_improvement: "- Dokončit zaměření §Y$JAP_form_the_kido_butai$§!" # todo: NEW TRANSLATION
  tooltip_raid_modifier_effect_improvement_no_source: "  §g(aktuální efekt: §!$VALUE$/$MAX$§g)§!" # todo: NEW TRANSLATION
- raid_target_name_state: "$LOCATION|H$" # todo: NEW TRANSLATION
+ raid_target_name_state: "$LOCATION|H$"
  raid_type_INS_militia_increase_activity_raid: "Pokus o partyzánskou infiltraci" # todo: NEW TRANSLATION
  raid_type_INS_militia_increase_activity_raid_desc: "Pošleme milice do státu, kde navážou kontakt s místními revolucionáři a vytvoří partyzánské buňky. Pokud operace proběhne hladce, pokusíme se proniknout do regionu a převzít kontrolu od Nizozemců.\n\n§WCílový stát musí být v dosahu republikánského §YBunkru§!, §YŽeleznice§! nebo §YNámořní základny§!. Tyto budovy mohou být použity jako výchozí body.§!\n\n§YÚčinky:§!\n§RPřiřazená divize je spotřebována§!\n§YÚspěch:§!\n       §WStane se vlastníkem a správcem státu\n       Zvýší eskalaci o §R1§!§!.\n§YČástečný úspěch:§!\n       §WPřidá §Yjednu úroveň§! aktivity milic, čímž zvýší šanci na úspěch při budoucích pokusech.§!\n§YNeúspěch:§!\n       §WŽádné efekty§!." # todo: NEW TRANSLATION
  raid_type_INS_militia_port_raid: "Obsadit námořní základnu" # todo: NEW TRANSLATION

@@ -1114,7 +1114,7 @@
  heavy_ship_nuclear_engine_1_desc: "Výkonný jaderný reaktor, schopný pohánět i ty nejtěžší lodě bez potřeby doplňování paliva."
  heavy_ship_nuclear_engine_1_short: "Reaktor těžké lodě"
  light_ship_engine_1: "Motor 35,000 Shp"
- light_ship_engine_1_desc: "Malý soubor parních turbín může pohánět menší loď vysokou rychlostí, nebo poskytovat výkon větší lodi při nižších rychlostech." # todo: CHANGED
+ light_ship_engine_1_desc: "Malá sada parních turbín dokáže pohánět menší loď vysokou rychlostí, nebo větší loď nižší rychlostí."
  light_ship_engine_1_short: "Lehký motor I"
  light_ship_engine_2: "Motor 40,000 Shp"
  light_ship_engine_2_desc: "Díky vysokotlakým kotlům lze při stejné váze a velikosti zařízení dosáhnout vyššího výkonu."
@@ -1140,7 +1140,7 @@
  ship_anti_air_2_desc: "Malý automatický kanón vystřeluje výrazně větší střely a dokáže zničit letadlo několika zásahy."
  ship_anti_air_2_short: "Protivzdušná obrana II"
  ship_anti_air_3: "37mm protiletadlový kanón"
- ship_anti_air_3_desc: "Předchozí ráže děl se ukázaly být příliš slabé na to, aby spolehlivě zničily útočné letadlo dříve, než může shodit svou munici. Větší granát vyžaduje větší dělo, ale při zásahu má výrazně vyšší šanci cíl zničit." # todo: CHANGED
+ ship_anti_air_3_desc: "Předchozí ráže se ukázaly jako příliš slabé k tomu, aby spolehlivě zničily letadlo dříve, než vypustí munici. Silnější střela vyžaduje větší zbraň, ale podstatně zvyšuje šanci na zásah cíle."
  ship_anti_air_3_short: "Protivzdušná obrana III"
  ship_anti_air_4: "40mm čtyřhlavňový protiletadlový kanón"
  ship_anti_air_4_desc: "Nejnovější model protivzdušných zbraní využívá poháněnou lafetu pro sledování rychlých cílů a pokročilý zaměřovací systém pro koordinaci palby z více stanovišť."
@@ -1183,7 +1183,7 @@
  ship_armor_ice_carrier_deck_2: "Ocelová výztuha pykretové paluby"
  ship_armor_ice_carrier_deck_2_desc: "Pykret vyztužený ocelí poskytuje pevnější konstrukci, schopnou odolávat většímu poškození, a zároveň lepší izolaci."
  ship_armor_ice_carrier_deck_3: "Kompozitní ledová paluba"
- ship_armor_ice_carrier_deck_3_desc: "Použité materiály a metody nabízejí nejlepší odolnost konstrukce a snižují dopad počasí na provoz lodi." # todo: CHANGED
+ ship_armor_ice_carrier_deck_3_desc: "Použité materiály a metody zajišťují nejlepší odolnost konstrukce a snižují vliv počasí na provoz lodě."
  ship_armor_shbb: "Pancíř 450mm pás / 210mm paluba"
  ship_armor_shbb_desc: "Vrcholné řešení v oblasti pancéřování - toto schéma je navrženo tak, aby odolalo všem známým projektilům hlavní výzbroje. Loď s tímto pancířem je schopna čelit a potopit jakoukoli bitevní loď na světě."
  ship_armor_shbb_short: "Supertěžký pancíř"
@@ -1251,7 +1251,7 @@
  ship_light_medium_battery_1_desc: "Kompromis mezi kadencí palby a hmotností střely - tento kanón je určen pro lehké křižníky k boji proti menším lodím."
  ship_light_medium_battery_1_short: "Baterie lehkého křižníku I"
  ship_light_medium_battery_2: "15 cm kanón"
- ship_light_medium_battery_2_desc: "Tento kanón představuje logický vývoj oproti předchozím modelům a má umožnit lehkým křižníkům pohodlnou převahu v palebné síle nad torpédoborci a staršími křižníky." # todo: CHANGED
+ ship_light_medium_battery_2_desc: "Tento kanón je logickým vývojem předchozích modelů a má zajistit lehkým křižníkům převahu v palebné síle nad torpédoborci a staršími křižníky."
  ship_light_medium_battery_2_short: "Baterie lehkého křižníku II"
  ship_light_medium_battery_3: "15.5 cm kanón"
  ship_light_medium_battery_3_desc: "Lafetace s lehkým pancéřováním a moderními technologiemi dále zvyšuje rozdíl v palebné síle mezi lehkými křižníky a torpédoborci."
@@ -1283,7 +1283,7 @@
  ship_radar_2: "Vylepšený decimetrický vyhledávací radar"
  ship_radar_2_desc: "Vylepšený radar pracující v pásmu 30 cm dokáže přesně měřit vzdálenost a směr i menších lodí na vzdálenost přes 25 kilometrů."
  ship_radar_2_short: "Radar II"
- ship_radar_3: "Centimetrový dělostřelecký radar" # todo: CHANGED
+ ship_radar_3: "Centimetrický dělostřelecký radar"
  ship_radar_3_desc: "Radar s dutinovým magnetronem umožňuje detekci velmi malých cílů, včetně vodních sloupů od dopadajících granátů - umožňuje tak skutečnou slepou palbu i v noci a za nepříznivého počasí."
  ship_radar_3_short: "Radar III"
  ship_radar_4: "Integrovaný radar řízení palby"

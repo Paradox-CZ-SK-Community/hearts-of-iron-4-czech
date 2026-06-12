@@ -38,8 +38,8 @@
  CANNOT_RECRUITE_OPERATIVE_NO_SLOT: "§RŽádné dostupné sloty pro nábor operativce§!"
  CANNOT_RECRUITE_OPERATIVE_NO_SLOT_DESC: "První slot získáte založením Zpravodajské agentury. Další sloty budou dostupné po 5. vylepšení nebo po přiřazení poradce s rysem §H$head_of_intelligence$§!.\nŠéf špionáže odemyká další sloty podle počtu zemí ve frakci. Loutky nebo země s velmi malým počtem továren nepřispívají k dalším slotům."
  CANNOT_RECRUITE_OPERATIVE_NO_USABLE_SLOTS: "§RŽádné volné sloty§!"
- CAN_RECRUITE_OPERATIVE: "§GKlikněte§! pro nábor operativece do této pozice" # todo: CHANGED
- CHANGE_INTELLIGENCE_AGENCY_NAME_BUTTON: "§GKlikněte§! pro změnu názvu a odznaku" # todo: CHANGED
+ CAN_RECRUITE_OPERATIVE: "§GKlikněte§! pro nábor operativce do tohoto slotu."
+ CHANGE_INTELLIGENCE_AGENCY_NAME_BUTTON: "§GKlikněte§! pro změnu názvu a insignie."
  CLICK_DISBAND_OPERATIVE: "§GKlikněte§! pro propuštění tohoto operativce"
  CLICK_DISBAND_OPERATIVE_DESC: "Po propuštění se operativec vrátí do náborového fondu a uvolní svůj slot pro najmutí nového."
  CLICK_TO_ADD_NEW: "Klikněte na mapu pro přidání země jako cíle dešifrování."
@@ -54,7 +54,7 @@
  CREATE_AGENCY_BLOCKED: "§RBlokováno§!"
  CREATE_AGENCY_BUTTON: "Založit agenturu"
  CREATE_AGENCY_BUTTON_PROGRESS: "Agentura se vytváří..."
- CREATE_AGENCY_BUTTON_TOOLTIP: "§GKlikněte§! pro zahájení budování zpravodajské agentury" # todo: CHANGED
+ CREATE_AGENCY_BUTTON_TOOLTIP: "§GKlikněte§! pro zahájení budování Zpravodajské agentury."
  CREATE_AGENCY_BUTTON_TOOLTIP_NO_FACTORIES: "§RNemáte dostatek §HCivilních továren§! k založení agentury§! (můžete použít $CURRENT|H$ továren a potřebujete $NEEDED|H$)."
  CREATE_AGENCY_MODIFIER_NAME: "Založení agentury"
  CREATE_AGENCY_SLOW: "§RChybí vám Civilní továrny.\nTo zpomalí proces o $MALUS|%0$§!"
@@ -63,10 +63,10 @@
  CRYPTOLOGY_NOT_ACTIVE: "§ROddělení kryptologie není vybudováno§!"
  CRYPTO_ACTIVATE_ACTIVE_BONUSES_ACTIVATED: "Aktivní dešifrovací bonusy jsou povoleny. Po dobu $NUM|H$ dní získáte následující bonusy navíc k pasivním:"
  CRYPTO_ACTIVATE_ACTIVE_BONUSES_ACTIVATED_ALL: "Aktivní dešifrovací bonusy jsou povoleny. Po dobu $NUM|H$ dní získáte následující bonusy:"
- CRYPTO_ACTIVATE_ACTIVE_BONUSES_NOT_READY_YET: "Nepřátelská šifra ještě není zcela rozluštěna. Jakmile bude, můžete aktivovat své aktivní dešifrovací bonusy na $NUM|H$ dní nad rámec pasivních, ale nepřítel si uvědomí, že byla rozluštěna, a následně svou šifru resetuje." # todo: CHANGED
+ CRYPTO_ACTIVATE_ACTIVE_BONUSES_NOT_READY_YET: "Nepřátelská šifra ještě není plně dešifrována. Jakmile bude, můžete aktivovat aktivní bonusy dešifrování na $NUM|H$ dní navíc k pasivním, ale nepřítel bude vědět o vašem dešifrování a následně změní svou šifru"
  CRYPTO_ACTIVATE_DESC: "Opravdu chcete §HAktivovat§! aktivní bonusy dešifrování proti $COUNTRY|H$?\n\nBudou informováni, že jsme prolomili jejich šifry, a změní je, čímž aktivní bonusy skončí."
  CRYPTO_ACTIVATE_TITLE: "Aktivovat dešifrování"
- CRYPTO_CLICK_TO_ACTIVATE_ACTIVE_BONUSES: "§GKlikněte§! pro aktivaci aktivních dešifrovacích bonusů" # todo: CHANGED
+ CRYPTO_CLICK_TO_ACTIVATE_ACTIVE_BONUSES: "§GKlikněte§! pro aktivaci aktivních dešifrovacích bonusů."
  CRYPTO_CLICK_TO_ACTIVATE_ACTIVE_BONUSES_2: "Získáme následující bonusy po dobu $NUM|H$ dní navíc k pasivním, ale nepřítel si uvědomí naše dešifrování a následně změní svou šifru."
  CRYPTO_CLICK_TO_ADD_DESC: "Kliknutím přidáte $COUNTRY|H$ do seznamu dešifrování"
  CRYPTO_CLICK_TO_START_DECRYPTION: "§GKlikněte§! pro zahájení dešifrování"
@@ -145,7 +145,7 @@
  OPERATION_HAS_TOKEN: "Má $NAME|H$"
  OPERATION_HAS_TOKEN_NOT: "Nemá $NAME|H$"
  OPERATION_NOT_ALL_OPERATIVES_ASSIGNED: "Ještě nebyli přiděleni všichni operativci"
- OPERATION_ONMAP_CLICK_FOR_DETAILS: "§GKlikněte§! pro zobrazení detailů" # todo: CHANGED
+ OPERATION_ONMAP_CLICK_FOR_DETAILS: "§GKlikněte§! pro zobrazení podrobností."
  OPERATION_ONMAP_CLICK_FOR_MORE: "§GKlikněte§! pro zobrazení dalších operací"
  OPERATION_ONMAP_STATUS_COMPLETED: "Operace byla dokončena."
  OPERATION_ONMAP_STATUS_IN_PROGRESS: "Operace bude dokončena $DATE|H$"
@@ -153,7 +153,7 @@
  OPERATION_ONMAP_STATUS_READY: "Operace je připravena ke spuštění!"
  OPERATION_OPERATIVE_ASSIGNMENT_NOT_ANYMORE: "Operativce nelze odvolat, jakmile byli vysláni na operaci"
  OPERATION_OPERATIVE_ASSIGNMENT_NOT_YET: "Operativce lze přiřadit po zahájení shromažďování zdrojů pro operaci"
- OPERATION_OUTLOOK_DESC: "Vyhlídka operace je určena dvěma faktory.\n§HRiziko§! které vám říká pravděpodobnost, že jeden z vašich operativeců bude po dokončení operace zajat nebo zabit.\n§HBonusový výsledek§! dává vašim operativecům šanci získat vylepšený výsledek nebo jiné odměny nad rámec základního." # todo: CHANGED
+ OPERATION_OUTLOOK_DESC: "Vyhlídky operace jsou určeny dvěma faktory.\n§HRiziko§! určuje pravděpodobnost, že bude některý z operativců po dokončení operace zajat nebo zabit.\n§HBonusový výsledek§! dává operativcům šanci na lepší výsledek nebo další odměny nad rámec základního."
  OPERATION_REQUIREMENT_CIVILIAN_FACTORIES: "$FACTORIES|H$ po dobu $NUM|H$ dní"
  OPERATION_REQUIREMENT_CIVILIAN_FACTORIES_NOT_MET: "Postup je aktuálně zpomalen, protože nemáte dostatek dostupných civilních továren."
  OPERATION_REQUIREMENT_FULFILLED: "Nasbírali jste $HAS|H$/$NUM|H$ jednotek $NAME|H$."
@@ -194,7 +194,7 @@
  OPERATION_VIEW_LAUNCH_COLLECTING: "Momentálně připravujeme spuštění této operace shromažďováním všech potřebných zdrojů."
  OPERATION_VIEW_LAUNCH_LAUNCH: "Zahájení operace."
  OPERATION_VIEW_LAUNCH_LAUNCH_DELAYED: "Jakmile to uděláte, operaci nelze zastavit a vaši operativci nebudou moci po dobu jejího trvání dělat nic jiného."
- OPERATION_VIEW_LAUNCH_PREPARE: "§GKlikněte§! pro zahájení příprav na tuto operaci" # todo: CHANGED
+ OPERATION_VIEW_LAUNCH_PREPARE: "§GKlikněte§! pro zahájení příprav této operace."
  OPERATION_VIEW_LOCATION: "Vyberte cílový stát pro tuto operaci."
  OPERATION_VIEW_LOCATION_MORE: "Cílové státy musí splňovat následující kritéria:"
  OPERATION_VIEW_OPERATION_ALREADY_IN_PROGRESS: "Operace již probíhá"
@@ -219,8 +219,8 @@
  OPERATIVE_COUNT_FACTION: "Operativci naverbovaní frakcí: $COUNT|H$"
  OPERATIVE_DISBAND_DESC: "Opravdu chcete §Rpropustit§! tohoto operativce? Potrvá nějaký čas, než budete moci naverbovat nového."
  OPERATIVE_DISBAND_TITLE: "Propustit operativce"
- OPERATIVE_FORCED_INTO_HIDING: "§RDonucen k úkrytu§!" # todo: CHANGED
- OPERATIVE_FORCED_INTO_HIDING_DESC: "Tento operativec byl odhalen během plnění úkolu a byl donucen přerušit kontakt při úniku před pronásledovateli. Kontaktuje nás, jakmile se zbaví svých pronásledovatelů." # todo: CHANGED
+ OPERATIVE_FORCED_INTO_HIDING: "§RDonucen se skrývat§!"
+ OPERATIVE_FORCED_INTO_HIDING_DESC: "Tento operativec byl při plnění úkolu odhalen a byl nucen přerušit kontakt při úniku před pronásledovateli. Kontaktuje nás, jakmile setřese své pronásledovatele."
  OPERATIVE_GENERIC_CODENAME_PATTERN: "Agent $NR$"
  OPERATIVE_HARMED_IN_MISSION: "§RZraněn při misi§!"
  OPERATIVE_HARMED_IN_MISSION_DESC: "Tento operativec byl při plnění úkolu zraněn. Bude potřebovat nějaký čas na zotavení."
@@ -312,7 +312,7 @@
  OPERATIVE_MISSION_ROOT_OUT_RESISTANCE_TITLE: "Potlačování odboje"
  OPERATIVE_MISSION_ROOT_OUT_RESISTANCE_TT: "Potlačování $FLAG$ $COUNTRY_ADJ|H$ odboje v $STATE|H$"
  OPERATIVE_MISSION_ROOT_OUT_RESISTANCE_VALID_TARGET: "Přiřadit $CODENAME$ k £operative_mission_icons_small|4£ Potlačování odboje v $STATE|H$ a okolních státech"
- OPERATIVE_MISSION_TOGGLE_DESC: "§GKlikněte pravým tlačítkem§! pro zahájení mise na aktuální síti" # todo: CHANGED
+ OPERATIVE_MISSION_TOGGLE_DESC: "§GPravé tlačítko§! pro zahájení mise v aktuální síti."
  OPERATIVE_NAME_AND_CODENAME: "$CODENAME|H$ ($NAME|H$)"
  OPERATIVE_NATIONALITY: "Tento operativec má $NATIONALITY|H$ národnost, což přináší následující bonusy."
  OPERATIVE_NATIONALITY_DESC: "Operativec má výhodu při působení v zemi, jejíž národnost má.\n\nU misí £operative_mission_icons_small|1£ Vybudovat zpravodajskou síť, £operative_mission_icons_small|2£ Nenápadná zpravodajská síť a £operative_mission_icons_small|4£ Potlačování odboje se bere v úvahu země, která je okupována, nebo pokud žádná není, správce daného státu."
@@ -340,9 +340,9 @@
  REVEAL_INTEL: "Odhalit informace\n$DAYS$ dní"
  REVEAL_INTEL_LEFT: "Informace odhaleny\n($DAYS$ dní)"
  SELECT_OPERATIVE_TITLE: "Vyberte operativce k přidělení"
- SELECT_REGION_ON_CLICK: "§GKlikněte§! pro výběr tohoto regionu jako cíle" # todo: CHANGED
+ SELECT_REGION_ON_CLICK: "§GKlikněte§! pro výběr tohoto regionu jako cíle."
  SELECT_REGION_ON_CLICK_DISABLED: "§RTento region nelze vybrat jako cíl.§!"
- SELECT_STATE_ON_CLICK: "§GKlikněte§! pro výběr tohoto státu jako cíle" # todo: CHANGED
+ SELECT_STATE_ON_CLICK: "§GKlikněte§! pro výběr tohoto státu jako cíle."
  SELECT_STATE_ON_CLICK_DISABLED: "§RTento stát nelze vybrat jako cíl.§!"
  SHOW_INTEL_LEDGER: "Zobrazit Zpravodajský přehled pro informace o ostatních zemích."
  SLOTS_FROM_AGENCY_UPGRADES: "Z vylepšení agentury: $NUM|+=$"

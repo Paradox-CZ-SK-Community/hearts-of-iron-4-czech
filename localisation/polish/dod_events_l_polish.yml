@@ -62,7 +62,7 @@
  DOD_hungary.25.desc: "Navzdory osobní žádosti maďarského krále hlasoval parlament proti jakékoli podpoře Švédsku. Opozice pohrozila, že v případě, že se [HUN.GetLeader] pokusí o jakýkoli krok, který by porušil maďarskou neutralitu, bude proti němu vznesen návrh na vyjádření nedůvěry."
  DOD_hungary.25.a: "Jsme na to sami."
  DOD_hungary.26.t: "Maďarsko posílá podporu"
- DOD_hungary.26.desc: "Maďarsko otevřelo své staré arsenály a poslalo nám několik repasovaných pušek a další pěchotní výzbroje. Několik tisíc maďarských dobrovolníků se také dostalo k nám." # todo: CHANGED
+ DOD_hungary.26.desc: "Maďarsko otevřelo své staré sklady a poslalo nám řadu zrenovovaných pušek a jiného pěchotního vybavení. Několik tisíc maďarských dobrovolníků se k nám vydalo také."
  DOD_hungary.26.a: "Jsou velmi vítáni."
  DOD_hungary.27.t: "Maďarsko zasahuje"
  DOD_hungary.27.desc: "Maďarská vláda vydala prohlášení, že jakýkoli útok na Švédsko je považován za útok i na Maďarsko. Maďarská armáda byla uvedena do vysoké pohotovosti a očekává se, že vstoupí do války, jakmile bude dokončena mobilizace."
@@ -80,7 +80,7 @@
  DOD_hungary.32.b: "Obrátit se na Francii o pomoc."
  DOD_hungary.32.c: "Obrátit se na Británii o pomoc."
  DOD_hungary.33.t: "Maďarsko žádá o podporu"
- DOD_hungary.33.desc: "Maďarsko nedávno začalo sondovat u svých sousedů možnost přehodnocení některých omezení uložených po poslední válce. Konkrétně chtějí znovuzavést brannou povinnost a rozšířit svůj vojenský průmysl. Maďarský argument zní, že svět se s každým dnem stává méně bezpečným a že potřebují řádnou armádu k obraně. [From.From.GetNameDefCap] si myslí opak." # todo: CHANGED
+ DOD_hungary.33.desc: "Maďarsko nedávno začalo sondovat své sousedy ohledně revize některých omezení uvalených na něj po poslední válce. Konkrétně chtějí znovu zavést odvod a rozšířit své vojenské průmysly. Maďarský argument je, že svět je s každým dnem méně bezpečný a že potřebují řádnou armádu, aby se mohli bránit. [From.From.GetNameDefCap] si to ovšem nemyslí."
  DOD_hungary.33.a: "Maďarsku by mělo být povoleno omezené přezbrojení."
  DOD_hungary.33.b: "Nemůžeme narušit rovnováhu sil v regionu."
  DOD_hungary.34.t: "[From.GetName] podporuje Maďarsko"
@@ -98,7 +98,7 @@
  DOD_hungary.40.a: "Okamžitě vydat ultimátum."
  DOD_hungary.40.b: "Nemůžeme si teď dovolit válku."
  DOD_hungary.41.t: "[From.GetName] vydává ultimátum"
- DOD_hungary.41.desc: "Naše nedávné rozhodnutí opustit Trianonskou smlouvu bylo [From.GetNameDef] překvapivě ostře odmítnuto. [From.GetLeader] údajně požádal, aby [From.GetAdjective] armáda okamžitě připravila plán zásahu. Mezitím [From.GetAdjective] velvyslanec vyzval, abychom upřesnili naše prohlášení týkající se smlouvy, naznačujíc, že vojenská možnost je stále na stole." # todo: CHANGED
+ DOD_hungary.41.desc: "Na naše nedávné rozhodnutí opustit Trianonskou smlouvu zareagovalo [From.GetNameDef] překvapivě rázně. [From.GetLeader] údajně nařídil, aby se [From.GetAdjective] armáda okamžitě připravila na zásah. Mezitím [From.GetAdjective] velvyslanec požádal, abychom objasnili naše prohlášení ohledně smlouvy, což naznačuje, že vojenská možnost je stále na stole."
  DOD_hungary.41.a: "Jistě jen blafují."
  DOD_hungary.41.b: "Zdá se, že došlo k nedorozumění."
  DOD_hungary.42.t: "[From.GetName] ustupuje."
@@ -135,7 +135,7 @@
  DOD_hungary.53.b: "Neprojdou!"
  DOD_hungary.53.c: "Možná je čas na kompromis."
  DOD_hungary.54.t: "[ROM.GetNameDefCap] mobilizuje"
- DOD_hungary.54.desc: "V reakci na naše vojenské přípravy podepsal [ROM.GetLeader] Generální rozkaz č. 1, čímž postavil [ROM.GetAdjective] armádu do nejvyšší pohotovosti. [ROM.GetAdjective] letectvo obsadilo svá bojová stanoviště a jejich stíhačky se pustily do nácvikových vzdušných soubojů s našimi. [ROM.GetAdjective] velvyslanec požádal o svůj pas. Zatím nezazněla žádná střelba, ale je jen otázkou času, než se tato krize rozpadne v válku. \n\nNaši velvyslanci v Británii, Francii a Německu hlásí horečnou aktivitu ve svých zahraničních úřadech, což naznačuje, že tyto země by se mohly o rozvíjející se krizi zajímat. Pokud chceme toto vyřešit silou, musíme udeřit rychle." # todo: CHANGED
+ DOD_hungary.54.desc: "V reakci na naše vojenské přípravy podepsal [ROM.GetLeader] rozkaz č. 1, který staví [ROM.GetAdjective] armádu do nejvyšší pohotovosti. [ROM.GetAdjectiveCap] letectvo obsadilo svá válečná stanoviště a jejich stíhači se s našimi pouštějí do cvičných soubojů. [ROM.GetAdjectiveCap] velvyslanec si vyžádal jeho pas. Zatím nepadl ani výstřel, ale je jen otázkou času, kdy tato krize přeroste ve válku. \n\nNaši velvyslanci v Británii, Francii a Německu hlásí horečnou aktivitu na tamních ministerstvech zahraničí, což naznačuje, že by tyto země mohly mít o rodící se krizi zájem. Chceme-li to vyřešit silou, musíme udeřit rychle."
  DOD_hungary.54.a: "Vymyká se to kontrole."
  DOD_hungary.54.b: "Tak tedy válka."
  DOD_hungary.54.c: "Nabídnout přijetí nestranného sprostředkovatele."
@@ -159,7 +159,7 @@
  DOD_hungary.59.a: "Jistě budeme."
  DOD_hungary.59.b: "Nemáme zájem je bránit."
  DOD_hungary.60.t: "Balkánská krize"
- DOD_hungary.60.desc: "V posledních dnech se napjaté vztahy mezi Maďarskem a Rumunskem zcela zhroutily. Maďarsko požadovalo, aby Rumunsko postoupilo sporná území Sedmihradska Maďarsku. Rumunsko odmítlo. Obě strany nyní mobilizovaly své síly a válka v regionu se jeví jako nevyhnutelná.\n\nZahraniční úřad považuje za nezbytné, abychom připravili zásah na obranu našich zájmů v regionu. Existuje také šance, že samotná hrozba našeho zapojení přiměje druhou stranu k vyjednávání." # todo: CHANGED
+ DOD_hungary.60.desc: "Během posledních dní se napjaté vztahy mezi Maďarskem a Rumunskem zcela zhroutily. Maďarsko požádalo Rumunsko, aby jim předalo sporná území Transylvánie. Rumunsko odmítlo. Obě strany nyní mobilizovaly své síly a válka v regionu se zdá být nevyhnutelná.\n\nMinisterstvo zahraničí považuje za nezbytné připravit intervenci k obraně našich zájmů v oblasti. Je také šance, že pouhá hrozba našeho zapojení přiměje druhou stranu usednout k jednacímu stolu."
  DOD_hungary.60.a: "Měli bychom podpořit Maďarsko."
  DOD_hungary.60.b: "Měli bychom podpořit Rumunsko."
  DOD_hungary.60.c: "Je to jen další z mnoha hloupostí na Balkáně."
@@ -184,7 +184,7 @@
  DOD_hungary.64.a: "Černý den."
  DOD_hungary.64.b: "Pořád můžeme bojovat."
  DOD_hungary.65.t: "Maďarsko odmítá přijmout výsledek mediace"
- DOD_hungary.65.desc: "Když byl [HUN.GetLeader] informován o výsledcích arbitráže ve sporných územích, odmítl je přijmout. Podle něj by cokoli méně než úplné obnovení starých hranic Maďarska bylo urážkou každého Maďara, žijícího i mrtvého.\n\nŠel ještě dál a prohlásil, že doba jednání a diplomacie je pryč a že nyní existuje jen jeden způsob, jak tuto otázku vyřešit. \n\nRumunská vláda se zeptala, kde stojíme v tomto sporu, vzhledem k tomu, že jsme jim dříve souhlasili s podporou." # todo: CHANGED
+ DOD_hungary.65.desc: "Po seznámení s výsledky arbitráže o sporných územích je [HUN.GetLeader] odmítl přijmout. Podle něj je cokoli menšího než úplné obnovení starých hranic Maďarska urážkou každého Maďara živého i mrtvého.\n\nZašel ještě dál, když řekl, že čas jednání a diplomacie pominul a že nyní existuje jen jediný způsob, jak lze tuto otázku vyřešit. \n\nRumunská vláda se nás dotázala, kde v tomto sporu stojíme, vzhledem k tomu, že jsme se dříve zavázali je podporovat."
  DOD_hungary.65.a: "Naše nabídka tak daleko nesahá."
  DOD_hungary.65.b: "Maďary je třeba zastavit, než si podrobí celý region."
  DOD_hungary.66.t: "Rumunsko odmítá přijmout výsledek mediace"
@@ -192,7 +192,7 @@
  DOD_hungary.66.a: "Přejeme jim vítězství."
  DOD_hungary.66.b: "Byli bychom ochotni je podpořit."
  DOD_hungary.67.t: "Jednání se hroutí"
- DOD_hungary.67.desc: "Jednání mezi Velmocemi se zcela zhroutila, protože obě země nedokázaly najít společnou řeč. Jakýkoli pokus o kompromis byl zmařen vzájemně nepřijatelnými požadavky. Delegace se vrátily do svých domovských zemí a záležitost zůstává nevyřešená." # todo: CHANGED
+ DOD_hungary.67.desc: "Jednání mezi velmocemi se zcela zhroutila, protože obě země nedokázaly najít společnou řeč. Jakýkoli pokus o kompromisní řešení vykolejily vzájemně nepřijatelné požadavky. Delegace odcestovaly zpět do svých zemí a otázka zůstala nevyřešena."
  DOD_hungary.67.a: "Rozhodne ocel, krev a oheň."
  DOD_hungary.68.t: "Transylvánská arbitráž"
  DOD_hungary.68.desc: "Obě strany nás oslovily, abychom rozhodli, komu připadne Transylvánie. Ministerstvo zahraničí připravilo následující podklad:\n\n„V současné situaci by nebylo vhodné přiřknout celou Transylvánii jedné straně. Kompromisní řešení, nepopulární, ale pro obě strany přijatelné, by mělo být upřednostněno, abychom se vyhnuli urážce jedné strany do té míry, že odmítne urovnání.“"
@@ -213,17 +213,17 @@
  DOD_hungary.71.c: "Transylvánie zůstane Rumunsku."
  DOD_hungary.72.t: "Transylvánská konference - 2. den"
  DOD_hungary.72.desc_HUN_all: "Maďarská strana nám předložila návrh na vyřešení hrozící krize. Nepřekvapivě požadují, aby byla celá Transylvánie co nejdříve předána Maďarsku. Můžeme tento návrh přijmout, bezpochyby by to však popudilo naše rumunské spojence. \n\nMůžeme rovněž předložit protinávrh. Náš hlavní diplomat důrazně doporučuje tuto možnost. Kompromisní řešení by mohlo být přijatelnější pro obě strany."
- DOD_hungary.72.desc_compromise: "Maďarská strana nám předložila nabídku na řešení hrozící krize. Ve své nabídce by severní část Sedmihradska připadla Maďarsku, jižní části by zůstaly Rumunsku. \n\nNáš hlavní diplomat se domnívá, že to ukazuje, že Maďaři dostali chladné nohy, a že bychom měli tlačit na ještě lepší podmínky." # todo: CHANGED
- DOD_hungary.72.desc_HUN_nothing: "Maďarská strana překvapivě nabídla usmiřující podmínky. Celé Sedmihradsko by zůstalo u Rumunska výměnou za několik drobných ústupků pro etnické menšiny. Rumunský zástupce nás důrazně nabádá, abychom tuto nabídku přijali, a slibuje, že ústupky budou prosazeny během několika dnů, pokud bude dohoda uzavřena." # todo: CHANGED
+ DOD_hungary.72.desc_compromise: "Maďarská strana nám předložila návrh na vyřešení hrozící krize. Podle něj by severní část Transylvánie připadla Maďarsku a jižní části by zůstaly Rumunsku. \n\nNáš hlavní diplomat se domnívá, že to ukazuje, že Maďarům „došla odvaha“, a měli bychom tlačit na ještě lepší podmínky."
+ DOD_hungary.72.desc_HUN_nothing: "Maďarská strana překvapivě nabídla smířlivé podmínky. Celá Transylvánie by zůstala Rumunsku výměnou za drobné ústupky pro etnické menšiny. Rumunský zástupce nás velmi důrazně nabádá k přijetí s tím, že ústupky budou v případě souhlasu prosazeny během několika dnů."
  DOD_hungary.72.a: "Přijmout návrh."
  DOD_hungary.72.b: "Tlačit na lepší podmínky."
  DOD_hungary.73.t: "Transylvánská konference - 3. den"
- DOD_hungary.73.desc: "Po zamítnutí maďarské nabídky je nyní na nás, abychom předložili jiné podmínky." # todo: CHANGED
+ DOD_hungary.73.desc: "Poté, co jsme se rozhodli maďarský návrh odmítnout, je nyní na nás, abychom předložili jiné podmínky."
  DOD_hungary.73.a: "Přiřknout celou Transylvánii Maďarsku."
  DOD_hungary.73.b: "Přiřknout Maďarsku Severní Transylvánii."
  DOD_hungary.73.c: "Transylvánie zůstane Rumunsku."
  DOD_hungary.74.t: "Transylvánská konference - 4. den"
- DOD_hungary.74.desc_HUN_all: "Rumunská strana se zdá být silně úzkostná, aby byla záležitost ukončena, když naši předchozí usmiřující nabídku odmítli a místo toho nabídli postoupit celé Sedmihradsko Maďarsku. V soukromých diskuzích si naše delegace nedokázaly vysvětlit, proč by takovou nabídku učinili, ale vypadá to upřímně. Měli bychom ji přijmout." # todo: CHANGED
+ DOD_hungary.74.desc_HUN_all: "Rumunská strana zřejmě vykazuje velkou netrpělivost věc uzavřít, neboť náš předchozí smířlivý návrh odmítla a místo toho nabídla předání celé Transylvánie Maďarsku. V soukromé debatě naše delegace nenašly důvod, proč by takový návrh předložili, ale zdá se být upřímný. Měli bychom jej přijmout."
  DOD_hungary.74.desc_compromise: "Rumuni nabídli kompromisní řešení - rozdělení Transylvánie na dvě části. Vzhledem k napětí mezi oběma zeměmi to může být nejlepší možné řešení."
  DOD_hungary.74.desc_HUN_nothing: "Nepřekvapivě rumunská strana v otázce Transylvánie nepovolila. Zdá se, že je plně odhodlána udržet celou Transylvánii v rámci Rumunska. V této fázi jednání toho mnoho nezmůžeme - buď jejich nabídku přijmeme, nebo odejdeme."
  DOD_hungary.74.a: "Přijímáme."
@@ -255,7 +255,7 @@
  DOD_hungary.85.a: "Tolik k myšlence sebeurčení národů."
  DOD_hungary.85.b: "Vezmeme si, co je naše."
  DOD_hungary.86.t: "[From.GetNameDefCap] nás odmítá podpořit"
- DOD_hungary.86.desc: "[From.GetAdjective] vláda odmítla naši žádost, abychom ji podpořili tváří v tvář zjevné [HUN.GetAdjective] agresi. Ačkoli jsou naší věci nakloněni, nejsou ochotni riskovat životy nebo bohatství pro její obranu." # todo: CHANGED
+ DOD_hungary.86.desc: "[From.GetAdjectiveCap] vláda odmítla naši žádost o krytí tváří v tvář zjevné [HUN.GetAdjective] agresi. I když sympatizují s naší věcí, nejsou ochotni riskovat lidské životy ani finanční prostředky na její obranu."
  DOD_hungary.86.a: "Válku nelze vyhrát pouze vřelými slovy."
  DOD_hungary.86.b: "Pak budeme bojovat sami."
  DOD_hungary.90.t: "[HUN.GetNameDefCap] požaduje [45.GetName]"
@@ -266,7 +266,7 @@
  DOD_hungary.91.desc: "\n[FROM.GetNameDef] souhlasila s postoupením Vojvodiny. Naše síly převzaly plnou kontrolu."
  DOD_hungary.91.a: "Dobře."
  DOD_hungary.92.t: "[From.GetNameDefCap] odmítá naše požadavky."
- DOD_hungary.92.desc: "V napjatém setkání s [FROM.GetLeader] bylo naší delegaci řečeno, že svrchovanost Vojvodiny není předmětem diskuse a že v žádném případě se [FROM.GetAdjective] vláda takovému tlaku nepodvolí. Lid Vojvodiny se vyjádřil v roce 1919 a rozhodl se zůstat u [FROM.GetNameDef]. Co se týče [FROM.GetAdjective] vlády, tím je věc uzavřena." # todo: CHANGED
+ DOD_hungary.92.desc: "Na napjaté schůzce [FROM.GetLeader] sdělil naší delegaci, že suverenita Vojvodiny není předmětem jednání a že [FROM.GetAdjective] vláda by se takovému tlaku nikdy nepodvolila. Obyvatelé Vojvodiny se vyjádřili v roce 1919 a zvolili setrvání u [FROM.GetNameDef]. Pokud jde o [FROM.GetAdjective] vládu, tím je věc uzavřena."
  DOD_hungary.92.a: "Možná ano."
  DOD_hungary.92.b: "Požádat o podporu Německo."
  DOD_hungary.92.c: "Požádat o podporu Itálii."
@@ -278,27 +278,27 @@
  DOD_hungary.93.b: "Do této záležitosti se nezapojíme."
  DOD_hungary.94.t: "[From.GetNameDefCap] nabízí podporu proti Jugoslávii"
  DOD_hungary.94.desc: "\nJednání po neoficiálních kanálech s [From.GetNameDef] vedla k předběžné dohodě, že Jugoslávie by měla být buď zcela rozpuštěna, nebo alespoň výrazně zmenšena. \n\nS novými podporovateli můžeme nyní s [YUG.GetAdjective] vládou jednat z pozice drtivé síly. Můžeme se také rozhodnout věc vyřešit silou, dokud je jugoslávská armáda stále nepřipravená."
- DOD_hungary.94.a: "Vyslat ultimátum Bělehradu!" # todo: CHANGED
+ DOD_hungary.94.a: "Pošlete ultimátum do Bělehradu!"
  DOD_hungary.94.b: "Udeřit hned teď!"
  DOD_hungary.95.t: "[From.GetNameDefCap] naši nabídku odmítá"
  DOD_hungary.95.desc: "\nPo několika kolech jednání nebylo s [From.GetAdjective] vládou dosaženo dohody o přeuspořádání Jugoslávie. V nótě, kterou podepsal samotný [From.GetLeader], se uvádí, že jakékoli nevyřešené územní otázky budou řešeny na bilaterálním základě „až to situace bude vyžadovat“."
  DOD_hungary.95.a: "Škoda."
  DOD_hungary.95.b: "Pak do toho půjdeme sami!"
  DOD_hungary.96.t: "Ultimátum z Budapešti"
- DOD_hungary.96.desc_HUN_GER: "Místo zklidnění situace vedla naše silná reakce na nejnovější maďarské požadavky týkající se Vojvodiny zřejmě k paktu mezi Maďarskem a Německem. V nedávném projevu [GER.GetLeader] nazval Slovinsko \"jednou ze starých, neodčiněných provincií Říše\", které by mělo být co nejdříve získáno zpět. Maďarský i německý velvyslanec předali nótu, podle které mají být Vojvodina a Slovinsko okamžitě převedeny pod jejich kontrolu." # todo: CHANGED
- DOD_hungary.96.desc_HUN_ITA: "Místo zklidnění situace vedla naše silná reakce na nejnovější maďarské požadavky týkající se Vojvodiny zřejmě k paktu mezi Maďarskem a Itálií. V nedávném projevu [ITA.GetLeader] označil Dalmácii za \"neodčiněný daleký břeh Jadranu\". Maďarský i italský velvyslanec předali nótu, podle které mají být Vojvodina a Dalmácie okamžitě převedeny pod jejich kontrolu." # todo: CHANGED
- DOD_hungary.96.desc_HUN_both: "Naše odmítnutí podvolit se maďarským požadavkům nevedlo ke změně stanoviska v Budapešti. Rozzuřená rétorika vycházející z maďarského hlavního města je nyní vyrovnána stejně znepokojujícími prohlášeními z Říma a Berlína. Obě země vyjádřily podporu maďarskému postavení a současně oznámily vlastní požadavky. Velvyslanci všech tří zemí se společně objevili na ministerstvu zahraničí, aby formálně předali nótu požadující, aby byly Vojvodina, Slovinsko a Dalmácie převedeny pod kontrolu příslušných žadatelů." # todo: CHANGED
+ DOD_hungary.96.desc_HUN_GER: "Namísto uklidnění situace naše rázná reakce na poslední maďarské požadavky ohledně Vojvodiny zjevně vedla k paktu mezi Maďarskem a Německem. [GER.GetLeader] ve svém nedávném projevu označil Slovinsko za „jednu ze starých, nevykoupených provincií Říše“, která má být co nejdříve znovuzískána. Maďarský i německý velvyslanec nám oba předali nótu, že Vojvodina a Slovinsko mají být okamžitě předány do jejich správy."
+ DOD_hungary.96.desc_HUN_ITA: "Namísto uklidnění situace naše rázná reakce na poslední maďarské požadavky ohledně Vojvodiny zjevně vedla k paktu mezi Maďarskem a Itálií. [ITA.GetLeader] ve svém nedávném projevu označil Dalmácii za „nevykoupené vzdálené pobřeží Jadranu“. Maďarský i italský velvyslanec nám oba předali nótu, že Vojvodina a Dalmácie mají být okamžitě předány do jejich správy."
+ DOD_hungary.96.desc_HUN_both: "Naše odmítnutí ustoupit maďarským požadavkům nezměnilo nálady v Budapešti. Rozhněvanou rétoriku z maďarského hlavního města nyní doplňují stejně znepokojivá prohlášení z Říma a Berlína. Obě země vyjádřily podporu maďarské pozici a současně oznámily vlastní soubor požadavků. Velvyslanci všech tří zemí se společně dostavili na ministerstvo zahraničí, aby formálně předali nótu požadující, aby Vojvodina, Slovinsko a Dalmácie byly předány jejich příslušným nárokovatelům."
  DOD_hungary.96.a: "Nemáme jinou možnost než přijmout."
  DOD_hungary.96.b: "Raději padneme v boji!"
  DOD_hungary.97.t: "Jugoslávie vzdoruje"
  DOD_hungary.97.desc: "Ačkoli čelí drtivé přesile, [YUG.GetAdjective] vláda odmítla přijmout realitu a našim zástupcům sdělila, že pokud budeme hledat vojenské řešení, najdeme [YUG.GetAdjective] armádu dobře připravenou a odhodlanou."
  DOD_hungary.97.a: "Tak tedy válka."
  DOD_hungary.100.t: "Maďarsko požaduje Slovensko"
- DOD_hungary.100.desc: "Maďarská vláda nás oslovila ohledně budoucího statusu Slovenska. Silně věří, že by měla mít plnou kontrolu nad osudem Slovenska, vzhledem k tomu, že Slovensko bývalo součástí Maďarska za dob monarchie.\n\nAčkoli se maďarská delegace vyhýbala výslovným hrozbám, naše zpravodajská služba hlásí znepokojivé množství aktivit v maďarské armádě." # todo: CHANGED
+ DOD_hungary.100.desc: "Maďarská vláda nás oslovila ohledně budoucího statusu Slovenska. Jsou přesvědčeni, že by měli mít plnou kontrolu nad osudem Slovenska, jelikož Slovensko bývalo za dob impéria součástí Maďarska.\n\nAčkoli se maďarská delegace vyhýbala otevřeným hrozbám, naše zpravodajská služba hlásí znepokojivou míru aktivity v maďarské armádě."
  DOD_hungary.100.a: "Nemáme na výběr."
  DOD_hungary.100.b: "Neodstoupíme ani píď."
- DOD_hungary.101.t: "Slovensko převedeno" # todo: CHANGED
- DOD_hungary.101.desc: "Slovensko se vrátilo pod naši kontrolu. Otázkou nyní je, jak ho uspořádat. Zatímco mnoho členů vlády upřednostňuje přímou anexi, označovanou jako \"Návrat k historickým hranicím\", jiní mají obavy z dopadu pokusu o začlenění tolika ne-maďarů do našeho státu. Jejich preferovanou možností by bylo zřídit v Bratislavě devoluovanou vládu s určitými pravomocemi vnitřní politiky, ale úzce spojenou s námi ve všech ostatních záležitostech." # todo: CHANGED
+ DOD_hungary.101.t: "Slovensko převedeno"
+ DOD_hungary.101.desc: "Slovensko se vrátilo pod naši kontrolu. Otázkou nyní je, jak jej uspořádat. Mnozí ve vládě upřednostňují přímou anexi a nazývají to „návrat k historickým hranicím“, jiní se však obávají dopadů snahy integrovat do našeho státu tak velký počet Nemaďarů. Jejich preferovanou variantou by bylo zřízení pověřené vlády v Bratislavě, která by měla určité pravomoci v oblasti vnitřní politiky, ale ve všech ostatních záležitostech by se řídila našimi pokyny."
  DOD_hungary.101.a: "Vrátíme se k našim starým hranicím."
  DOD_hungary.101.b: "Loutková vláda je vhodnější."
  DOD_hungary.102.t: "[From.GetNameDefCap] odmítá předat Slovensko"
@@ -306,7 +306,7 @@
  DOD_hungary.102.a: "Nechme tu věc být."
  DOD_hungary.102.b: "Obrátit se na Německo ohledně rozdělení země."
  DOD_hungary.103.t: "Maďarsko chce rozdělit [CZE.GetNameDef]"
- DOD_hungary.103.desc: "Maďarská vláda nás oslovila s nabídkou rozdělení [CZE.GetNameDef]. Dostat bychom západní části země, zatímco Maďarsko by získalo většinu Slovenska, přičemž demarkační čára mezi našimi zeměmi by přibližně proťala zemi. \n\nUjistili nás, že pokud nakonec dostanou svůj díl, jsou ochotni nechat nás učinit první krok." # todo: CHANGED
+ DOD_hungary.103.desc: "Maďarská vláda k nám přišla s nabídkou rozdělit [CZE.GetNameDef]. Západní části země bychom získali my, zatímco Maďarsko by dostalo většinu Slovenska, přičemž demarkační linie mezi našimi zeměmi by zhruba rozpůlila stát. \n\nUjistili nás, že pokud nakonec dostanou svůj díl, jsou ochotni nechat první krok na nás."
  DOD_hungary.103.a: "Budeme mít jejich zájmy na paměti."
  DOD_hungary.103.b: "Nedostanou nic."
  germany.55.do: "Dodržet slib Maďarsku."
@@ -373,7 +373,7 @@
  DOD_hungary.118.desc: "Naše rázná reakce na sovětsko-maďarskou agresi zřejmě přinesla ovoce. V „Pravdě“ nedávno vyšel hlavní článek proti „antisocialistickým revizionistickým nárokům“, jenž zvlášť zmiňuje nároky na Besarábii a Transylvánii jako „imperialistické chování, jímž se vyspělé socialistické národy světa neřídí“.\n\nReakce v Budapešti však byla velmi vlažná. Je možné, že [HUN.GetLeader] si stále dělá zálusk na naše území."
  DOD_hungary.118.a: "Jen ať to zkusí."
  DOD_hungary.120.t: "Maďarsko navrhuje podporu Československu"
- DOD_hungary.120.desc: "[HUN.GetLeader] odcestoval do Moskvy s návrhem nabídnout společnou záruku [CZE.GetNameDef] výměnou za zrušení omezení Komunistické strany a předání suverenity jižního Slovenska Maďarsku." # todo: CHANGED
+ DOD_hungary.120.desc: "[HUN.GetLeader] odcestoval do Moskvy s návrhem nabídnout společnou garanci pro [CZE.GetNameDef] výměnou za zrušení omezení vůči komunistické straně a za převod svrchovanosti nad jižním Slovenskem na Maďarsko."
  DOD_hungary.120.a: "Skvělý nápad."
  DOD_hungary.120.b: "Proč bychom se měli zaplétat do imperialistických válek?"
  DOD_hungary.121.t: "Kominterna nabízí záruku"
@@ -393,7 +393,7 @@
  DOD_hungary.124.a: "Zajímavé schéma."
  DOD_hungary.124.b: "Nebudeme tolerovat jejich vměšování v našem sousedství!"
  DOD_hungary.126.t: "[CZE.GetNameDef] odmítá"
- DOD_hungary.126.desc: "[CZE.GetAdjective] vláda údajně odmítla nabídku záruky kvůli 'nesnesitelným' ústupkům požadovaným na oplátku.\n\nNicméně náš velvyslanec v [SOV.GetNameDef] hlásí, že v [SOV.GetAdjective] ministerstvu zahraničí probíhá intenzivní aktivita. Fámy v diplomatických kruzích naznačují možnou dohodu s Německem." # todo: CHANGED
+ DOD_hungary.126.desc: "Již včera údajně [CZE.GetAdjective] vláda odmítla nabídku garance kvůli „nesnesitelným“ ústupkům, které byly požadovány na oplátku. \n\nNáš velvyslanec pro [SOV.GetNameDef] však hlásí, že na [SOV.GetAdjective] ministerstvu zahraničí panuje čilý ruch. Z diplomatických kruhů se šíří zvěsti o možné dohodě s Německem."
  DOD_hungary.126.a: "Uvidíme."
  DOD_hungary.127.t: "Německo souhlasí, aby bylo [CZE.GetNameDef] rozděleno"
  DOD_hungary.127.desc: "[GER.GetLeader] podepsal tajnou Berlínskou smlouvu, v níž se německá vláda zavazuje rozdělit [CZE.GetNameDef] na dvě sféry vlivu a slibuje respektovat jakékoli rozhodnutí týkající se Slovenska."
@@ -420,13 +420,13 @@
  DOD_hungary.141.b: "Podat diplomatický protest."
  DOD_hungary.141.c: "Následovat [From.GetAdjective] příklad."
  DOD_hungary.142.t: "Bledská dohoda"
- DOD_hungary.142.desc: "Podařilo se nám zajistit [From.GetAdjective] podporu pro částečnou revizi Trianonské smlouvy. Všechna omezení naší armády byla zrušena. Mezinárodní inspektoři zbraní opustili zemi a válečné ministerstvo připravilo počáteční plány na skromné rozšíření našich ozbrojených sil." # todo: CHANGED
+ DOD_hungary.142.desc: "Zajistili jsme si [From.GetAdjective] podporu pro částečnou revizi Trianonské smlouvy. Veškerá omezení naší armády byla zrušena. Mezinárodní zbrojní inspektoři opustili zemi a ministerstvo války připravilo počáteční plány skromného rozšíření našich ozbrojených sil."
  DOD_hungary.142.a: "Skvělé."
  DOD_hungary.143.t: "[From.GetNameDefCap] zasílá protestní nótu"
  DOD_hungary.143.desc: "Dnes nám [From.GetAdjective] velvyslanec předal následující nótu: \n„[From.GetNameDef] s vážným znepokojením sleduje nedávný vývoj, jakým prochází [HUN.GetNameDef]. Trianonská smlouva byla dlouho zárukou míru a stability v regionu. Ačkoli [From.GetAdjective] vláda v zásadě přijímá, že země mají mít možnost volit svůj osud, musíme důrazně vyzvat [HUN.GetAdjective] vládu, aby se smlouvy držela. Důsledky další destabilizace regionu by se mohly velmi rychle vymknout kontrole.“"
  DOD_hungary.143.a: "Dobře pro ně."
  DOD_hungary.144.t: "[From.GetNameDefCap] trvá na zákazu přezbrojení"
- DOD_hungary.144.desc: "Jednání o možné revizi Trianonské smlouvy příliš nepokročila za počáteční fázi. Vláda [From.GetNameDef] jasně dala najevo, že ze svého stanoviska zachování status quo nepustí ani o píď.\n\nMůžeme to buď přijmout, nebo se pokusit získat podporu od třetí strany." # todo: CHANGED
+ DOD_hungary.144.desc: "Jednání o možné revizi Trianonské smlouvy se nepohnula dál než za úvodní fázi. [From.GetNameDef] dalo jasně najevo, že se od svého postoje zachování status quo nehne ani o píď.\n\nBuď to přijmeme, nebo se pokusíme získat podporu třetí strany."
  DOD_hungary.144.a: "Musíme ustoupit jejich tlaku."
  DOD_hungary.144.b: "Požádat o podporu velmoc."
  DOD_hungary.145.t: "Žádost o podporu"
@@ -437,7 +437,7 @@
  DOD_hungary.145.d: "Itálie"
  DOD_hungary.145.e: "Británie"
  DOD_hungary.146.t: "[HUN.GetLeader] žádá o diplomatickou podporu"
- DOD_hungary.146.desc: "Maďarská vláda se v současnosti snaží změnit Trianonskou smlouvu, aby Maďarsko mohlo začít obnovovat svou armádu. Jednání v Bledu jsou několik dní zablokovaná. Maďarský velvyslanec se obrátil na naši vládu s žádostí vyvinout diplomatický tlak na druhou stranu.\n\nZahraniční úřad varuje, že postoj na straně Maďarska by nepochybně negativně ovlivnil vztahy s jeho sousedy a změnil rovnováhu sil v oblasti. Avšak odmítnutí Maďarům by je mohlo přimět k agresivnímu kroku a úplnému opuštění diplomacie, což by mohlo destabilizovat celý region." # todo: CHANGED
+ DOD_hungary.146.desc: "Maďarská vláda se v současnosti snaží upravit Trianonskou smlouvu tak, aby Maďarsko mohlo začít znovu budovat své vojsko. Jednání v Bledu jsou již několik dní na mrtvém bodě. Maďarský velvyslanec požádal naši vládu, abychom na druhou stranu vyvinuli diplomatický tlak.\n\nMinisterstvo zahraničí varuje, že postavení se na stranu Maďarska by nepochybně negativně ovlivnilo vztahy s jeho sousedy a posunulo rovnováhu sil v oblasti. Odepření však může Maďary přimět k agresivnímu kroku a k úplnému opuštění diplomacie, což by mohlo destabilizovat celý region."
  DOD_hungary.146.a: "Maďarsku musí být dovoleno přezbrojit."
  DOD_hungary.146.b: "Maďarsku nesmí být dovoleno přezbrojit."
  DOD_hungary.147.t: "[From.GetNameDefCap] zasahuje do krize kolem maďarského přezbrojení"
@@ -470,10 +470,10 @@
  DOD_hungary.153.b: "Nenůžeme si dovolit riziko úniku."
  DOD_hungary.154.desc: "[From.GetAdjectiveCap] letectvo právě pořádá zkoušky nové těžké stíhačky. Podle našeho leteckého atašé má náš nejnovější typ nakročeno k vítězství. Brzy se očekává formální žádost [From.GetAdjective] vlády. \n\nZástupci výrobce jsou silně pro prodej, nicméně existují obavy o národní bezpečnost při prodeji naší nejmodernější techniky do ciziny. Máme prodej povolit?"
  DOD_hungary.155.t: "Soutěž stíhaček dokončena"
- DOD_hungary.155.desc: "Po jednáních s výrobcem a státními úředníky jsme úspěšně získali licenci na výrobu nového stíhače. Vzorek letadla již dorazil, aby školil mechaniky na jeho údržbu, a kompletní sada výkresů a plánů se očekává brzy. Výroba může začít kdykoli." # todo: CHANGED
+ DOD_hungary.155.desc: "Po jednáních s výrobcem a státními úřady jsme úspěšně získali výrobní licenci na novou stíhačku. Vzorový letoun již dorazil k výcviku mechaniků na údržbu a brzy očekáváme kompletní sadu výkresů a plánů. Výroba může začít kdykoli."
  DOD_hungary.155.a: "Paráda."
  DOD_hungary.160.t: "Soutěž bombardérů"
- DOD_hungary.160.desc: "Studie leteckého ministerstva odhalila, že naše letectvo není vybaveno na podporu armády. Dlouhodobé letecké údery i blízká letecká podpora byly identifikovány jako klíčové oblasti, ve kterých máme kritický nedostatek. Vláda uvolnila prostředky na havarijní program na získání moderního bombardéru, ale musíme se rozhodnout, které letadlo máme pořídit." # todo: CHANGED
+ DOD_hungary.160.desc: "Studie Leteckého ministerstva odhalila, že naše letectvo je špatně vybavené k podpoře armády. Za klíčové oblasti, v nichž kriticky zaostáváme, byly označeny dálkové nálety a blízká letecká podpora. Vláda uvolnila prostředky na urychlený program pořízení moderního bombardéru, ale musíme rozhodnout, jaký letoun pořídit."
  DOD_hungary.160.a: "Malý bombardér pro blízkou podporu."
  DOD_hungary.160.b: "Větší letoun s delším doletem."
  DOD_hungary.161.t: "Soutěž lehkých bombardérů"
@@ -487,7 +487,7 @@
  DOD_hungary.164.t: "[From.GetAdjectiveCap] soutěž bombardérů"
  DOD_hungary.164.desc: "[From.GetAdjectiveCap] letectvo právě pořádá zkoušky nového středního bombardéru. Podle našeho leteckého atašé má náš nejnovější typ nakročeno k vítězství. Brzy se očekává formální žádost [From.GetAdjective] vlády. \n\nZástupci výrobce jsou silně pro prodej, nicméně existují obavy o národní bezpečnost při prodeji naší nejmodernější techniky do ciziny. Máme prodej povolit?"
  DOD_hungary.165.t: "Soutěž bombardérů dokončena"
- DOD_hungary.165.desc: "Po jednáních s výrobcem a státními úředníky jsme úspěšně získali licenci na výrobu nového bombardéru. Vzorek letadla již dorazil, aby školil mechaniky na jeho údržbu, a kompletní sada výkresů a plánů se očekává brzy. Výroba může začít kdykoli." # todo: CHANGED
+ DOD_hungary.165.desc: "Po jednáních s výrobcem a státními úřady jsme úspěšně získali výrobní licenci na nový bombardér. Vzorový letoun již dorazil k výcviku mechaniků na údržbu a brzy očekáváme kompletní sadu výkresů a plánů. Výroba může začít kdykoli."
  DOD_hungary.165.a: "Paráda."
  DOD_hungary.170.t: "Konec smlouvy"
  DOD_hungary.170.desc: "S odchodem svých starých podporovatelů nestojí Trianonská smlouva ani za papír, na němž je vytištěna. Nikdo už nemůže odmítnout naše právo nosit zbraň!"
@@ -511,7 +511,7 @@
  DOD_romania.11.desc: "[From.GetLeader] vyhlásil podporu Cordon Sanitaire. Dojeli [From.GetAdjective] zástupci, aby projednali detaily připojení k naší frakci a připravili plány vojenské pomoci v případě války."
  DOD_romania.11.a: "Dobře."
  DOD_romania.12.t: "[From.GetNameDefCap] odmítá."
- DOD_romania.12.desc: "Jednání s [From.GetNameDef] o vstupu do naší frakce se zhroutila. Delegace z [From.GetNameDef] předložila rozsáhlý seznam požadavků jako předpoklad vstupu do naší frakce, včetně dalekosáhlých závazků vojenské podpory.\n\nGenerální štáb tyto požadavky odmítl z důvodu, že je nemožné je splnit, a Zahraniční úřad nyní věří, že šlo o záměrný tah [From.GetLeader], aby naši nabídku odmítl, aniž by vypadal zodpovědně." # todo: CHANGED
+ DOD_romania.12.desc: "Jednání o vstupu do naší frakce zkrachovala. Včera [From.GetAdjective] delegace předložila obsáhlý seznam požadavků jako podmínku vstupu, včetně dalekosáhlých závazků vojenské podpory.\n\nGenerální štáb tyto požadavky odmítl s tím, že jsou nesplnitelné, a ministerstvo zahraničí se nyní domnívá, že šlo o pouze o promyšlený krok, jak by mohl [From.GetLeader] naši nabídku odmítnout, aniž by za to nesl odpovědnost."
  DOD_romania.12.a: "Jak nezdvořilé."
  DOD_romania.20.t: "Rumunsko požaduje garanci"
  DOD_romania.20.desc: "Už několik měsíců se snažíme zajistit alianci, aby bylo [ROM.GetNameDef] s námi v alianci, byť jen proto, abychom jejich ropu udrželi mimo nepřátelské ruce. Nyní [ROM.GetLeader] prohlásil, že formální záruka vojenské podpory v případě války je nezbytným krokem ještě předtím, než by jeho vláda vůbec zvažovala vstup do naší frakce."
@@ -546,7 +546,7 @@
  DOD_romania.42.a: "Nestojí to za krveprolití."
  DOD_romania.42.b: "Uvidíme, zda má pravdu."
  DOD_romania.50.t: "Rumunsko požaduje změny ve vládě."
- DOD_romania.50.desc: "Když [ROM.GetLeader] veřejně požadoval, aby mu bylo umožněno vetovat jakékoliv jmenování [HUN.GetAdjective] vlády, jednoduše proto, že to bylo v rumunském zájmu, většina lidí v diplomatických službách to považovala za jednoduchou propagandu určenou domácímu publiku. \n\nByli jsme poněkud překvapeni, když jsme o něco později obdrželi oficiální nótu ve stejném duchu.\n\nHrozba vojenské síly, pokud nesplníme požadavky, poslala Generální štáb do paniky a Vysoké velení armády vzneslo vážné pochybnosti, zda bychom Rumuny u hranice udrželi." # todo: CHANGED
+ DOD_romania.50.desc: "Když [ROM.GetLeader] veřejně požadoval, aby mohl vetovat jakékoli jmenování v [HUN.GetAdjective] vládě jen proto, že je to v rumunském zájmu, považovala většina diplomatické služby za pravděpodobné, že jde o pouhou propagandu pro domácí publikum. \n\nO to překvapenější jsme byli, když po čase dorazila oficiální nóta se stejným obsahem.\n\nHrozba použít vojenskou sílu, pokud nevyhovíme, uvrhla generální štáb do paniky a vrchní velení armády vyjádřilo vážné pochybnosti, zda bychom Rumuny na hranici udrželi."
  DOD_romania.50.a: "Nemáme na výběr."
  DOD_romania.50.b: "Můžeme učinit některé ústupky."
  DOD_romania.50.c: "Lépe zemřít svobodný než žít jako otrok."
@@ -562,11 +562,11 @@
  DOD_romania.53.a: "Nestojí to za čas ani námahu."
  DOD_romania.53.b: "Vítězství je jisté. Do války!"
  DOD_romania.60.t: "Rumunsko požaduje radikální reorganizaci"
- DOD_romania.60.desc: "S rumunskou armádou připravenou na našich hranicích kolují fámy o jejím účelu. Když se náš velvyslanec v Bukurešti dotazoval na tuto záležitost, bylo mu přímo řečeno, že [ROM.GetLeader] rozhodl, že jednotná Jugoslávie už není v jeho zájmu. Místo toho má být náš národ rozdělen do řady klientských států pod přímou rumunskou kontrolou.\n\nOficiální ultimátum se očekává během hodiny." # todo: CHANGED
+ DOD_romania.60.desc: "Zatímco rumunská armáda stojí u našich hranic, šíří se zvěsti o jejím úkolu. Když se náš velvyslanec v Bukurešti na věc zeptal, bylo mu bez obalu řečeno, že [ROM.GetLeader] se rozhodl, že jednotná Jugoslávie není v jeho zájmu. Naopak má být naše země rozdělena na řadu klientských států pod přímou rumunskou kontrolou.\n\nOficiální ultimátum se očekává každou chvíli."
  DOD_romania.60.a: "Nemáme naději se jim postavit."
  DOD_romania.60.b: "Nikdy!"
  DOD_romania.61.t: "[From.GetNameDefCap] ustupuje"
- DOD_romania.61.desc: "Jen několik minut před vypršením ultimáta Bělehradu dorazilo oficiální sdělení, které uvádělo, že jugoslávská vláda byla rozpuštěna a převedla své pravomoci na řadu místních vlád, z nichž všechny prohlásily věrnost nám." # todo: CHANGED
+ DOD_romania.61.desc: "Jen několik minut před vypršením ultimáta Belgradu dorazilo oficiální prohlášení, že jugoslávská vláda se rozpustila a předala své pravomoci řadě místních vlád, které všechny prohlásily svou loajalitu vůči nám."
  DOD_romania.61.a: "Dobře."
  DOD_romania.62.t: "[From.GetNameDefCap] vzdoruje"
  DOD_romania.62.desc: "[YUG.GetAdjectiveCap] vláda nechala ultimátum vypršet bez odpovědi. Průzkumné lety odhalily přesuny vojsk na jugoslávské straně hranice, což přimělo generální štáb k revizi plánů invaze. Přední vojenští poradci odmítli garantovat, že vítězství nad Jugoslávií bude rychlé."
@@ -599,7 +599,7 @@
  DOD_romania.70.desc: "Jugoslávská vláda uznala porážku. Síly spojeneckých mocností převzaly kontrolu nad zemí a obsadily své vymezené zóny."
  DOD_romania.70.a: "Další vítězství diplomacie."
  DOD_romania.71.t: "Jugoslávie vzdoruje"
- DOD_romania.71.desc: "Jugoslávská armáda zaujala pozice podél našich hranic a jugoslávské letectvo obsadilo svá bojová stanoviště. Vypadají, že jsou připraveni bojovat. \n\nZdroj v jugoslávském válečném ministerstvu však tvrdí, že jde pouze o gesto vzdoru, protože [YUG.GetLeader] pevně věří, že jen blafujeme a že válka nenastane." # todo: CHANGED
+ DOD_romania.71.desc: "Jugoslávská armáda obsadila pozice podél naší hranice a jugoslávské letectvo zaujalo válečná postavení. Vypadají připraveni bojovat. \n\nZdroj na jugoslávském ministerstvu války však tvrdí, že jde jen o gesto vzdoru, protože [YUG.GetLeader] pevně věří, že blafujeme a k válce nedojde."
  DOD_romania.71.a: "Neblafovali jsme."
  DOD_romania.81.t: "Králova milenka kupuje vilu"
  DOD_romania.81.desc: "Magda Lupescu, milenka krále Carola II., si podle zpráv pořídila novou vilu v drahé bukurešťské čtvrti. Jak si ji mohla dovolit, bylo předmětem rozsáhlých spekulací. Nové důkazy v zahraničním tisku silně naznačují, že nákup sám schválil král a zaplatil jej z vládních peněz.\n\nSkandál se šíří a musíme co nejdříve vydat veřejné prohlášení."
@@ -610,19 +610,19 @@
  DOD_romania.82.a: "Pomluva je trestný čin."
  DOD_romania.82.b: "Autor bude okamžitě propuštěn."
  DOD_romania.83.t: "Král pořádá okázalý večírek"
- DOD_romania.83.desc: "Přestože byla schválena samotným králem, oficiální zpráva o nedávné hostině v královském paláci vyvolala velký veřejný nesouhlas. Fotografie královy milenky v drahých francouzských večerních šatech a podrobný popis sedmichodového jídla podávaného ze zlatých talířů dále rozhněvaly obyvatelstvo, které stále trpí následky Velké hospodářské krize.\n\nKrál požaduje, abychom okamžitě vydali veřejné prohlášení podpory." # todo: CHANGED
+ DOD_romania.83.desc: "Navzdory tomu, že jej sám král schválil, vyvolalo oficiální zpravodajství o nedávné hostině v královském paláci velké pobouření veřejnosti. Fotografie královy milenky v drahých francouzských večerních šatech a podrobné popisy sedmichodového menu na zlatých talířích ještě více popudily obyvatele, kteří stále trpí následky Velké deprese.\n\nKrál žádá, abychom okamžitě vydali veřejné prohlášení podpory."
  DOD_romania.83.a: "Král musí být reprezentativní."
  DOD_romania.83.b: "Královy soukromé záležitosti nejsou věcí vlády."
  DOD_romania.84.t: "Králova milenka spatřena v Paříži"
  DOD_romania.84.desc: "Francouzské noviny jsou plné eskapád Magdy Lupescu v Paříži, kde si údajně dopřává rozsáhlé nákupní orgie.\n\nSamo o sobě by to nebylo neobvyklé, ale zprávy, že s přepravou nákupů pomohlo rumunské velvyslanectví a že dala obchodům pokyn posílat účty rumunské vládě, převzal i domácí tisk. Byli jsme požádáni, abychom tyto informace okomentovali."
- DOD_romania.84.a: "Slečna Lupescu jednala na žádost krále." # todo: CHANGED
+ DOD_romania.84.a: "Slečna Lupescuová jednala na žádost krále."
  DOD_romania.84.b: "Vláda nekomentuje jednání soukromých osob."
  DOD_romania.85.t: "King tráví dovolenou v Nice"
  DOD_romania.85.desc: "S doprovodem své milenky a většiny vnitřního kruhu dorazil král Carol II. na dovolenou do Nice. Ubytován v královském salonku hotelu Negresco sdělil místním reportérům, že další týdny stráví u nejlepšího jídla a pohostinnosti, s plánovanými návštěvami opery v Nice a krátkými nákupy v Paříži.\n\nMístní tisk klade nepříjemné otázky o načasování i o tom, odkud se na to vezmou peníze."
  DOD_romania.85.a: "Šlo o oficiální státní návštěvu."
  DOD_romania.85.b: "Král jezdí každoročně na dovolenou do Nice."
  DOD_romania.86.t: "Král zapleten do skandálu zpronevěry"
- DOD_romania.86.desc: "Po fámách o korupci v armádních zadávacích procesech král slíbil nestranné vyšetřování záležitosti. Předběžná zpráva unikla do tisku a potvrdila nejen fámy, ale přímo uváděla jména nejbližších králových poradců v této záležitosti.\n\nCelá aféra se stala pro vládu ostudou. Král požaduje kroky, ale zároveň deklaroval svou plnou podporu dotčeným poradcům." # todo: CHANGED
+ DOD_romania.86.desc: "Po pověstech o korupci v armádních nákupech přislíbil král nestranné vyšetření. Do tisku unikla předběžná zpráva, která nejen pověsti potvrzuje, ale přímo do věci zaplétá královy nejbližší poradce.\n\nCelá záležitost je pro vládu trapná. Král žádá akci, ale dotčeným poradcům vyjádřil plnou podporu."
  DOD_romania.86.a: "Podepsaná smlouva je nedotknutelná."
  DOD_romania.86.b: "Reformovat postup."
  DOD_romania.110.t: "Rumunsko nabízí, jak rozdělit [CZE.GetNameDef]"
@@ -637,14 +637,14 @@
  DOD_romania.113.a: "Je čas přehodnotit přístup."
  DOD_romania.113.b: "Udeříme sami."
  DOD_romania.114.t: "Německé ultimátum"
- DOD_romania.114.desc: "S německými jednotkami hromadícími se na našich hranicích vydali velvyslanci Německa a Rumunska společné ultimátum: pokud nesouhlasíme s odevzdáním Slovenska Maďarsku a Rumunsku a nestaneme se 'protektorátem' Německa, německé letectvo (Luftwaffe) je připraveno 'vyhladit' Prahu, zatímco maďarské jednotky se chystají napadnout naši zemi od jihu." # todo: CHANGED
+ DOD_romania.114.desc: "Zatímco se na našich hranicích soustřeďují německá vojska, předali velvyslanci Německa a Rumunska společné ultimátum: Pokud nepředáme Slovensko Maďarsku a Rumunsku a nestaneme se „protektorátem“ Německa, je Luftwaffe připravena „vymazat“ Prahu a maďarská vojska se chystají napadnout naši zemi z jihu."
  DOD_romania.114.a: "Nemáme na výběr."
- DOD_romania.114.b: "Raději smrt než hanba." # todo: CHANGED
+ DOD_romania.114.b: "Volíme raději smrt než potupu."
  DOD_romania.115.t: "[CZE.GetLeader] vzdoruje"
  DOD_romania.115.desc: "Překvapivě, [CZE.GetAdjective] vláda ignorovala naše ultimátum a mobilizovala armádu. [CZE.GetLeader] slíbil, že každý vetřelec narazí na armádu více než připravenou bránit zemi do posledního muže."
  DOD_romania.115.a: "Zvážíme možnosti."
  DOD_romania.120.t: "Pozvat zahraniční automobilky"
- DOD_romania.120.desc: "Několik zahraničních výrobců nákladních vozidel projevilo zájem otevřít v Rumunsku továrnu na výrobu nových vozů jak pro komerční trh, tak pro armádu. Výběr jednoho z nich bude považován za vlajkový obchod, po kterém by mohly následovat další získané licence na výrobu.\n\nKoho bychom měli oslovit?" # todo: CHANGED
+ DOD_romania.120.desc: "Několik zahraničních výrobců nákladních vozů projevilo zájem otevřít v Rumunsku továrnu na nové náklaďáky pro civilní trh i armádu. Výběr jedné z nich bude vlajkovou zakázkou, po níž by mohly následovat další výrobní licence.\n\nKoho máme oslovit?"
  DOD_romania.120.a: "Vauxhall pro rychlejší vozidla."
  DOD_romania.120.b: "Opel pro spolehlivé německé inženýrství."
  DOD_romania.120.c: "Ford pro masovou výrobu."
@@ -660,7 +660,7 @@
  DOD_yugoslavia.3.a: "Hluboce se mýlí."
  DOD_yugoslavia.3.b: "Zachráníme je."
  DOD_yugoslavia.10.t: "Pátá kolona"
- DOD_yugoslavia.10.desc: "Jak se po zemi roznesla zpráva o vyhlášení války Německu, rychle se ukázalo, že mnoho lidí v zemi nechce vzít zbraně proti vetřelcům. Většinové chorvatské jednotky odmítly rozkazy k přesunu k hranici a při několika příležitostech dokonce otevřely palbu na jiné jednotky, které rozkazy plnily.\n\nZdá se, že už se nemůžeme spoléhat na Chorvaty, že nás podpoří, což obranu hranice s Německem činí velmi obtížnou." # todo: CHANGED
+ DOD_yugoslavia.10.desc: "Jakmile se rozšířila zpráva o vyhlášení války Německu, rychle se ukázalo, že mnozí v zemi nehodlají pozvednout zbraň proti vetřelcům. Jednotky s převahou Chorvatů odmítly rozkazy přesunout se k hranici a v několika případech dokonce zahájily palbu na jiné jednotky, které rozkazy plnily.\n\nNa podporu Chorvatů se už spoléhat nemůžeme, což obranu hranic s Německem značně ztěžuje."
  DOD_yugoslavia.10.a: "Zrádci!"
  DOD_yugoslavia.10.b: "Upřímně, mají něco do sebe..."
  warning_we_will_change_to_this_country_tt: "§RBudeme hrát jako [CRO.GetNameDef]§!"
@@ -676,7 +676,7 @@
  DOD_yugoslavia.21.desc: "Naše nákupní komise zajistila prodej několika [From.GetAdjective] stíhacích letounů pro naše letectvo. První stroje už dorazily a piloti zahájili přeškolení."
  DOD_yugoslavia.21.a: "Výborně."
  DOD_yugoslavia.22.t: "[From.GetNameDefCap] schvaluje prodej bombardérů"
- DOD_yugoslavia.22.desc: "Naše nákupní komise v [From.GetNameDef] zajistila prodej řady středních bombardérů pro naše letectvo. První stroje již byly obdrženy a naši piloti zahájili konverzní výcvik." # todo: CHANGED
+ DOD_yugoslavia.22.desc: "Naše nákupní komise zajistila prodej několika [From.GetAdjective] středních bombardérů pro naše letectvo. První stroje už dorazily a piloti zahájili výcvik na nový typ."
  DOD_yugoslavia.30.t: "Otázka [YUG.GetNameDef]"
  DOD_yugoslavia.30.desc: "\nPo návratu Rakouska do říše nyní my a [YUG.GetNameDef] sdílíme společnou hranici. [YUG.GetLeader] byl ohledně našeho navrhovaného přeuspořádání Evropy poměrně tichý. Možná je načase připomenout, že přijde chvíle, kdy si budou muset vybrat."
  DOD_yugoslavia.30.a: "Přitlačit na ně."
@@ -833,7 +833,7 @@
  czech.19.t: "Hanba před smrtí"
  czech.19.d: "[From.GetLeader] si uvědomil to, co my víme odjakživa: [From.GetNameDef] může nadále existovat jen pod naší ochranou. Ač to vylučuje možnost přímé okupace jejich území, může být lepší mít ochotného spojence a vyhnout se vměšování cizích aktérů."
  czech.20.t: "Hanba před smrtí"
- czech.20.d: "[From.GetLeader] přijal naši nabídku. [From.GetAdjective] plenipotenciář dorazil do Prahy, aby koordinoval politiku." # todo: CHANGED
+ czech.20.d: "[From.GetLeader] přijal naši nabídku. Do Prahy dorazil [From.GetAdjective] splnomocněnec, aby koordinoval politiku."
  czech.20.a: "Je to jediná cesta."
  czech.21.t: "Hanba před smrtí"
  czech.21.d: "Když jsme předložili náš návrh, [From.GetLeader] prý zvolal „Ani za tisíc let!“, načež se pustil do sáhodlouhé tirády o méněcennosti našeho národa, našeho státního zřízení, a toho, jak „kvalitní“ vůdce vlastně [CZE.GetLeader] je. Oficiální odmítnutí podáno nebylo, ale náš velvyslanec si nedělá iluze."
@@ -850,7 +850,7 @@
  czech.27.d: "Ačkoli se [From.GetLeader] s naší delegací setkal, zatím odmítl zavázat svou zemi ke vstupu do Malé dohody. Zdá se, že se [From.GetName] se obává, že vstup do naší aliance by mohl narušit křehkou rovnováhu sil v regionu."
  czech.28.t: "Rumunsko v Malé dohodě"
  czech.32.t: "Česko-maďarské sbližování"
- czech.32.d: "Ententa vedená [From.GetNameDef] byla dlouho zaměřena na omezování naší země. Nicméně jak roste německá moc, [From.GetNameDef] se cítí stále více ohrožena tímto směrem. Neochotný čelit hrozbě ze dvou stran, [From.GetLeader] nyní usiluje o dohodu s námi. \n\nNaše vláda je v této otázce rozštěpená. Jedna frakce věří, že dohoda s [From.GetNameDef] je prvním krokem k protržení obklíčení, zatímco druhá frakce poukazuje na to, že by to nepochybně vyvolalo hněv [GER.GetLeader]." # todo: CHANGED
+ czech.32.d: "Malá dohoda, kterou vede [From.GetNameDef] dlouho směřovala k zadržování naší země. S růstem německé moci se však [From.GetNameDef] cítí stále více ohrožena z této strany. Nechtějíce čelit hrozbě na dvou frontách, [From.GetLeader] nyní usiluje o dohodu s námi. \n\nNaše vláda je v této věci rozdělena. Jedna frakce věří, že pokud se chce [From.GetNameDef] dohodnout, je to prvním krokem k prolomení našeho obklíčení, zatímco druhá varuje, že [GER.GetLeader] tím bude jistě popuzen."
  czech.32.a: "Přijímáme jejich nabídku."
  czech.32.b: "Nikdy!"
  czech.33.d: "[From.GetLeader] byl k naší nabídce překvapivě vstřícný. Podepsali jsme smlouvu o přátelství, která potvrzuje, že si vzájemně nevznášíme územní nároky."
@@ -868,11 +868,11 @@
  dod_news.2.b: "Rozhodli se moudře."
  dod_news.2.c: "Velmi znepokojivé zprávy..."
  dod_news.2.t: "[CZE.GetName] vstupuje do Osy"
- dod_news.2.d: "Šokujíc mnohé v Evropě, [CZE.GetName] podepsalo smlouvu o alianci s [GER.GetNameDef]. [CZE.GetName], dříve silně demokratické, se v posledních měsících stále více posouvá k pravici." # todo: CHANGED
+ dod_news.2.d: "K šoku velké části Evropy podepsali [CZE.GetName] a [GER.GetNameDef] spojeneckou smlouvu. [CZE.GetName], dříve pevná demokratická bašta, v posledních měsících stále více směřovala doprava."
  dod_news.3.t: "[CZE.GetName] vstupuje do Kominterny"
- dod_news.3.d: "[CZE.GetName] podepsalo smlouvu o alianci s [SOV.GetNameDef]. [CZE.GetName], dříve silně demokratické, se v posledních měsících stále více posouvá k levici." # todo: CHANGED
+ dod_news.3.d: "K šoku velké části Evropy podepsali [CZE.GetName] a [SOV.GetNameDef] spojeneckou smlouvu. [CZE.GetName], dříve pevná demokratická bašta, v posledních měsících stále více směřovala doleva."
  dod_news.4.t: "[CZE.GetName] vydává Sudety"
- dod_news.4.d: "V kroku, který mnohé překvapil, [CZE.GetName] dnes jednostranně odevzdalo Sudety Německu. Na dotaz zdroj na [CZE.GetName] ministerstvu zahraničí odpověděl, že 'Bylo zřejmé, kterým směrem vítr vane, to byla jediná cesta k národnímu přežití.' \n\nNejmenovaný francouzský ministr údajně odsoudil [CZE.GetNameAdj] krok a tvrdil, že Západ by [CZE.GetName] podpořil, kdyby na ně Německo vyvíjelo tlak." # todo: CHANGED
+ dod_news.4.d: "K překvapení mnohých [CZE.GetName] dnes jednostranně vydala oblast Sudet Německu. Na dotaz zdroj z [CZE.GetAdjective] ministerstva zahraničí odpověděl, že „bylo zřejmé, odkud vítr vane, a tohle byla jediná cesta k přežití národa.“ \n\nNejmenovaný francouzský ministr údajně tenhle krok odsoudil s tvrzením, že Západ by [CZE.GetName] podpořil, kdyby na ně Německo tlačilo."
  dod_news.4.a: "Nebyla jiná možnost."
  dod_news.4.b: "Svou prozíravostí předešli krizi."
  dod_news.4.c: "Rozhodli se správně."

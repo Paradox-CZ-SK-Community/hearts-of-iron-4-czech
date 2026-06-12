@@ -30,7 +30,7 @@
  AFG_turkmen_khan: "Turkmenský chán"
  AFG_turko_persian_emperor: "Císař Turko-Persie"
  AFG_uzbek_scholar: "Uzbecký učenec"
- ALREADY_HAS_MAX_ALLOWED_ASSIGNABLE_TRAITS: "Velitel již má maximální počet přiřaditelných vlastností.\n" # todo: CHANGED
+ ALREADY_HAS_MAX_ALLOWED_ASSIGNABLE_TRAITS: "Velitel již má maximální počet přiřaditelných rysů.\n"
  ARG_anarchosyndicalist: "Anarcho-syndikalista"
  ARG_argentine_fascist: "Argentinský fašista"
  ARG_argentine_nationalist: "Argentinský nacionalista"
@@ -218,7 +218,7 @@
  DEN_fascist_populist: "Fašistický populista"
  DEN_freedom_council_traits: "Politická jednota"
  DEN_kommunist: "Komunistický politik"
- DEN_konservativ: "Konservativní politik" # todo: CHANGED
+ DEN_konservativ: "Konzervativní politik"
  DEN_plenipotentiary: "Zplnomocněnec [?DEN.DEN_overlord_nation.GetAdjective] vlády"
  DEN_rightwing_populist: "Pravicový populista"
  DEN_socialdemokrat: "Socialistický politik"
@@ -244,7 +244,7 @@
  FIN_personal_agenda_annala_tt: "§GSilný národ§!: Mít více než §Y300.000§! £GFX_manpower_texticon  $MANPOWER$ v terénu a méně než §Y5%§! Progrese kapitulace během války zvýší £GFX_power_balance_texticon §YDůvěru veřejnosti§!. \n  - §RPokud jde o podporu socialistů§!: Mít více než §Y9%§! podporu pro $democratic$ nebo $communism$ ideologie sníží £GFX_power_balance_texticon §YDůvěru veřejnosti§!. \n  - $losing_soverignty_threatened_tt$"
  FIN_personal_agenda_kallio_tt: "§GLikvidace extremistů§!: Mít méně než §Y1%§! podporu pro $fascism$ a $communism$ ideologie zvýší £GFX_power_balance_texticon §YDůvěru veřejnosti§!. \n  - §RZnepokojivá podpora extremistů§!: Mít více než §Y9%§! podporu pro $fascism$ nebo $communism$ ideologie sníží £GFX_power_balance_texticon §YDůvěru veřejnosti§!. \n  - $losing_soverignty_threatened_tt$"
  FIN_personal_agenda_kuusinen_tt: "§GSolární soustava organizací§!: Mít všechny §Yskandinávské§! a §Ypobaltské domovské státy§! pod kontrolou Finska nebo spojence zvýší £GFX_power_balance_texticon §YDůvěru veřejnosti§!. \n  - §RZapomenutí Fino-karelové§!: Nemít pod kontrolou státy §YKarjala§!, §YKola§!, §YOnega§! a §YOloněc§! sníží £GFX_power_balance_texticon §YDůvěru veřejnosti§!. \n  - $losing_soverignty_threatened_tt$"
- FIN_personal_agenda_leino_tt: "§GZlikvidovaný evropský fašismus§!: Mít méně než §Y1%§! podpory ideologie $fascism$ při udržení Evropy bez fašistických vlád zvýší £GFX_power_balance_texticon §YDůvěru veřejnosti§!. \n  - §RRozdělený proletariát§!: Mít méně než §Y80%§! podpory ideologie $communism$ sníží £GFX_power_balance_texticon §YDůvěru veřejnosti§!. \n  - $losing_soverignty_threatened_tt$" # todo: CHANGED
+ FIN_personal_agenda_leino_tt: "§GVymazání evropského fašismu§!: Mít méně než §Y1%§! podporu pro $fascism$ ideologii, zatímco Evropa zůstává bez fašistických vlád, zvýší £GFX_power_balance_texticon §YDůvěru veřejnosti§!. \n  - §RRozdělený proletariát§!: Mít méně než §Y80%§! podporu pro $communism$ ideologii sníží £GFX_power_balance_texticon §YDůvěru veřejnosti§!. \n  - $losing_soverignty_threatened_tt$"
  FIN_personal_agenda_mannerheim_tt: "§GSpolehlivý vůdce§!: Být ve válce zvýší £GFX_power_balance_texticon §YDůvěru veřejnosti§!. \n  - §RJmenovaný regent§!: Být v míru sníží £GFX_power_balance_texticon §YDůvěru veřejnosti§!."
  FIN_personal_agenda_paasikivi_tt: "§GRealistický konzervativec§!: Mít více než §Y95%§! £GFX_stability_texticon $stability$ zvýší £GFX_power_balance_texticon §YDůvěru veřejnosti§!. \n  - §RSprávce§!: Mít méně než §Y60%§! £GFX_stability_texticon $stability$ sníží £GFX_power_balance_texticon §YDůvěru veřejnosti§!. \n  - $losing_soverignty_threatened_tt$"
  FIN_personal_agenda_ryti_tt: "§GSen o Velkém Finsku§!: Ovládání finských domovských států vlastněných nepřítelem zvýší £GFX_power_balance_texticon §YDůvěru veřejnosti§!. \n  - §RZnepokojivá podpora socialistů§!: Mít více než §Y9%§! podporu pro $democratic$ nebo $communism$ ideologie sníží £GFX_power_balance_texticon §YDůvěru veřejnosti§!. \n  - $losing_soverignty_threatened_tt$"
@@ -752,7 +752,7 @@
  POL_sanation_left_leader_desc: "§LPodporovatel Waleryho Sławka a sanační levice.§!"
  POL_sanation_right_leader: "Vůdce sanační pravice"
  POL_sanation_right_leader_desc: "§LPodporovatel Edwarda Rydz-Śmigłego a sanační pravice.§!"
- PRC_28_bolshevik_trait: "28 ½ potlačeno" # todo: CHANGED
+ PRC_28_bolshevik_trait: "28½ potlačeno"
  PRC_28_bolshevik_trait_bo_gu: "$PRC_28_bolshevik_trait$"
  PRC_28_bolshevik_trait_improved: "28½ legalizováno"
  PRC_28_bolshevik_trait_improved_bo_gu: "$PRC_28_bolshevik_trait_improved$"
@@ -851,15 +851,15 @@
  SIK_the_king_of_sinkiang: "Král Sin-ťiangu"
  SIL_prince_of_pless_trait: "Kníže z Plessu, hrabě z Hochbergu, baron z Fürstensteinu"
  SKILL_ATTACK: "§HÚtok§!"
- SKILL_ATTACK_DESC: "§LDovednost útoku zvyšuje útočné statistiky jednotek, které vede velitel.§!" # todo: CHANGED
+ SKILL_ATTACK_DESC: "§LÚtok zvyšuje útočné statistiky jednotek, které jsou vedeny velitelem.§!"
  SKILL_DEFENSE: "§HObrana§!"
- SKILL_DEFENSE_DESC: "§LDovednost obrany zvyšuje obranné statistiky jednotek, které vede velitel.§!" # todo: CHANGED
+ SKILL_DEFENSE_DESC: "§LObrana zvyšuje obranné statistiky jednotek, které jsou vedeny velitelem.§!"
  SKILL_LEVEL_CURRENT_PROGRESS: "Aktuální pokrok: $VALUE|H%0$"
- SKILL_LEVEL_DETAILS: "Po dosažení další úrovně získá velitel 3 náhodné body do statistik. Typ vlastností, které velitel má, zvyšuje šanci získat bod v příslušných statistikách." # todo: CHANGED
+ SKILL_LEVEL_DETAILS: "Po povýšení získává velitel 3 náhodné body. Typ vlastností, který velitel má, zvyšuje šance na získání bodu v příslušných statistikách."
  SKILL_LEVEL_MAX: "Velitel je již na maximální úrovni."
- SKILL_LEVEL_NEXT_AMOUNT: "Váš velitel potřebuje $VALUE|H$ zkušeností k postupu na další úroveň." # todo: CHANGED
+ SKILL_LEVEL_NEXT_AMOUNT: "Váš velitel potřebuje $VALUE|H$ zkušeností k postupu na další úroveň."
  SKILL_LOGISTICS: "§HLogistika§!"
- SKILL_LOGISTICS_DESC: "§LDovednost logistiky snižuje spotřebu zásob jednotek, které vede velitel.§!" # todo: CHANGED
+ SKILL_LOGISTICS_DESC: "§LLogistika snižuje spotřebu zásob jednotek, které vede velitel.§!"
  SKILL_NAVY_LEADER_ATTACK: "§HÚtok§!"
  SKILL_NAVY_LEADER_ATTACK_DESC: "§LÚtok zvyšuje útočné statistiky lodí, které jsou vedeny admirálem.§!"
  SKILL_NAVY_LEADER_COORDINATION: "§HKoordinace§!"
@@ -869,9 +869,9 @@
  SKILL_NAVY_LEADER_LEVEL_DETAILS: "Po povýšení získává admirál 3 náhodné body. Typ vlastností, který admirál má, zvyšuje šance na získání bodu v příslušných statistikách."
  SKILL_NAVY_LEADER_LEVEL_NEXT_AMOUNT: "Váš admirál potřebuje $VALUE|H$ zkušeností k postupu na další úroveň."
  SKILL_NAVY_LEADER_MANEUVERING: "§HManevrování§!"
- SKILL_NAVY_LEADER_MANEUVERING_DESC: "§LDovednost manévrování zvyšuje bojové schopnosti lodí, které jsou vedeny admirálem.§!"
+ SKILL_NAVY_LEADER_MANEUVERING_DESC: "§LManévrování zvyšuje bojové schopnosti lodí, které jsou vedeny admirálem.§!"
  SKILL_PLANNING: "§HPlánování§!"
- SKILL_PLANNING_DESC: "§LDovednost plánování zvyšuje rychlost plánování jednotek, které vede velitel.§!" # todo: CHANGED
+ SKILL_PLANNING_DESC: "§LPlánování zvyšuje rychlost plánování jednotek, které vede velitel.§!"
  SLO_vodca_trait: "Vodca"
  SND_proven_loyalty: "Prokázaná loajalita"
  SND_traitor_warlord: "Zrádný válečný pán"
@@ -892,7 +892,7 @@
  SWE_close_ties_to_the_military: "Úzké vazby na armádu"
  SWE_committee_against_the_finnish_white_terror: "Výbor proti finskému bílému teroru"
  SWE_disillusioned_with_the_government: "Zklamaný vládou"
- SWE_disillusioned_with_the_government_desc: "Tento velitel je vážně znechucen vládou" # todo: CHANGED
+ SWE_disillusioned_with_the_government_desc: "Tento velitel je vážně znechucen vládou"
  SWE_education_for_all: "Vzdělání pro všechny"
  SWE_every_barrel_counts: "Každý sud se počítá"
  SWE_fallen_riksdag_trait: "Chaos a zmatek"
@@ -929,7 +929,7 @@
  SWE_the_eternal: "Věčný"
  SWE_the_great: "Velký"
  SWE_wounded_in_protests: "Zraněn při protestech"
- SWE_wounded_in_protests_desc: "Tento velitel byl zraněn při potlačování výtržníků" # todo: CHANGED
+ SWE_wounded_in_protests_desc: "Tento generál byl zraněn při pokusu o potlačení protestujících"
  SWI_anarchist: "Anarchista"
  SWI_anti_communist: "Komunista"
  SWI_anti_fascist: "Antifašista"
@@ -962,7 +962,7 @@
  SWI_technocrat: "Technokrat"
  SWI_trade_unionist: "Odborový předák"
  SWI_weapons_designer: "Zbraňový konstruktér"
- TERRAIN_TRAITS_DESC: "Terénní vlastnosti dávají bonusy velitelům, kteří bojují v konkrétních terénech. Lze je přiřadit ručně nebo je získat zkušeností podobně jako získané vlastnosti." # todo: CHANGED
+ TERRAIN_TRAITS_DESC: "Terénní rysy poskytují bonusy velitelům, kteří bojují v určitém terénu. Lze je přidělovat ručně nebo je získávat na základě zkušeností jako získané rysy."
  TIB_strongman_of_tibet: "Silný muž Tibetu"
  TIB_tulku_trait: "Tulku"
  TRAIT_ASSIGNABLE_TO_UNIT_MARSHALS: "Rysy polních maršálů lze přiřadit pouze polním maršálům.\n"
@@ -1320,7 +1320,7 @@
  crown_regent: "Korunní regent"
  crowned_adder: "Korunovaná zmije"
  crowned_adder_2: "Korunovaná zmije"
- cruiser_captain: "Velitel křižníku" # todo: CHANGED
+ cruiser_captain: "Velitel křižníku"
  cruiser_captain_desc: "§LTento důstojník prokázal velkou dovednost v obsluze křižníků.§!"
  cultural_hegemony_theorist: "Teoretik kulturní hegemonie"
  cultural_preserver: "Kultúrní zachránce a učenec"
@@ -1537,7 +1537,7 @@
  heels_nipper: "Okopávač kotníků"
  hero_of_the_peasantry: "Hrdina rolnictva"
  hidden_sympathies: "Skryté sympatie"
- hidden_sympathies_desc: "§LTento velitel v soukromí vyjádřil některé neloajální názory a s největší pravděpodobností podpoří povstání zahájená podvratnými prvky.§!" # todo: CHANGED
+ hidden_sympathies_desc: "§LTento velitel v soukromí vyjádřil některé neloajální názory a s největší pravděpodobností podpoří povstání zahájená podvratnými prvky.§!"
  hierarch_minister_of_corporations: "Hierarcha - ministr korporací"
  hierarch_minister_of_education: "Hierarcha - ministr školství"
  hierarch_minister_of_foreign_affairs: "Hierarcha - ministr zahraničních věcí"
@@ -1597,7 +1597,7 @@
  infantry_ratio_over_80: "Poměr pěchoty > §H80%§!"
  infantry_tank_manufacturer: "Konstruktér pěchotních tanků"
  infirm: "Nemocný"
- inflexible_strategist: "Tvrdohlavý obránce" # todo: CHANGED
+ inflexible_strategist: "Tvrdohlavý obránce"
  inflexible_strategist_desc: "§LZkušený, ale tvrdohlavý. Dostatečně dobrý plán může přežít kontakt s nepřítelem.§!"
  inner_mongol_prp_chairman: "Předseda Lidové revoluční strany Vnitřního Mongolska"
  inshore_fighter: "Pobřežní bojovník"
@@ -1706,7 +1706,7 @@
  master_armorer: "Mistr zbrojíř"
  master_of_politics: "Mistr politiky"
  media_personality: "Mediální osobnost"
- media_personality_desc: "§LTento velitel půjde nad rámec povinností, aby mluvil s médii a vždy se bude snažit být středem pozornosti.§!" # todo: CHANGED
+ media_personality_desc: "§LTento generál se bude snažit mluvit s médii a vždy se pokusí být v centru pozornosti.§!"
  mediterranean_naval_manufacturer: "Konstruktér středomořského námořnictva"
  medium_aircraft_manufacturer: "Konstruktér středních letadel"
  medium_tank_manufacturer: "Konstruktér středních tanků"
@@ -2016,7 +2016,7 @@
  ruanda_urundi_governor: "Guvernér Ruandy-Urundi"
  ruthless_tycoon: "Bezohledný magnát"
  safety_first: "Bezpečnost nadevše"
- safety_first_desc: "§LS našimi zatracenými loděmi není nic špatně. Ne dnes, ne zítra, nikdy!§!" # todo: CHANGED
+ safety_first_desc: "§LS našimi zatracenými loděmi není nic špatně. Ne dnes, ne zítra, nikdy!§!"
  scavenger: "Mrchožrout"
  scavenger_desc: "§LVíce pravděpodobné, že bude sbírat a opravovat zajatou techniku pro použití svými vlastními jednotkami.§!"
  scholar_of_ethiopian_and_somali_studies: "Vědec pro etiopské a somálské studie"
@@ -2312,7 +2312,7 @@
  wounded: "Zraněný"
  wounded_desc: "§LZ ošklivého zranění se bude nějakou dobu zotavovat.§!"
  zaibatsu_bank: "Banka Zaibacu"
- well_renowned_military_theorist: "Proslulý vojenský teoretik" # todo: CHANGED
+ well_renowned_military_theorist: "Proslulý vojenský teoretik"
  army_guerilla_organizer_1: "Organizátor partyzánů\n(Specialista)"
  army_guerilla_organizer_2: "Organizátor partyzánů\n(Expert)"
  army_guerilla_organizer_3: "Organizátor partyzánů\n(Génius)"

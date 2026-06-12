@@ -62,9 +62,9 @@
  CHANGE_TEMPLATE_UNIT: "Změnit šablonu divize"
  CHOOSE_INSIGNIA: "Vyberte insignii"
  CLEAR_TASK_FORCE_COMPOSITION_TEMPLATE: "Resetovat všechny požadavky na nulu"
- CLICK_NAVY_SEE_DETAILS: "§GKlikněte pro zobrazení detailů§!" # todo: CHANGED
+ CLICK_NAVY_SEE_DETAILS: "§GKlikněte pro zobrazení podrobností.§!"
  CLICK_TO_ASSIGN: "Klikněte pro přiřazení."
- CLICK_TO_ASSIGN_COMMANDER: "§GKlikněte pro přiřazení velitele§!" # todo: CHANGED
+ CLICK_TO_ASSIGN_COMMANDER: "§GKlikněte pro přiřazení velitele.§!"
  CLICK_TO_ASSIGN_TRAITS: "§HKlik§! pro přiřazení nového §Hrysu§! pro tohto §Hvelitele§!"
  CLICK_TO_ASSIGN_TRAITS_DETAIL: "$LEADER|H$ má $NUM|H$ zbývajících slotů pro přirazení rysů."
  CLICK_TO_HIDE_ARMIES: "Klikněte na §HSkrýt§! armády patřící této skupině.\n"
@@ -94,13 +94,13 @@
  DIG_IN_UNIT: "Tato jednotka je §Hzakopaná§!. Získává $DIG|0+%$ obranný bojový bonus s maximem $MAX|0%Y$."
  DISABLE_TASK_FORCE_AUTO_REINFORCEMENT: "§GKlikněte§! pro §Hzakázání§! §HAutomatickho doplňovaní§! vybraných úderných skupin"
  DISABLE_TASK_FORCE_UNDERWAY_REPLENISHMENT: "§GKlikněte§! pro §Hdeaktivaci§! §HZásobování během plavby§! pro vybrané úderné skupiny"
- DISBAND_ALL_UNIT: "§RRozpustí§! všechny vybrané divize" # todo: CHANGED
+ DISBAND_ALL_UNIT: "§RRozpustit§! všechny vybrané divize"
  DISBAND_PRIDE_OF_THE_FLEET_COST: "Rozpuštění vaší §HChlouby flotily§! §H($NAME$)§! bude stát $COST|R$ £pol_power"
  DISBAND_UNIT: "Rozpustit"
  DISCARD_TASK_FORCE_COMPOSITION_TEMPLATE: "Zrušit zvolenou šablonu"
  DIVISION: "divize"
  DIVISION_PLURAL: "divizí"
- DIVISION_VIEW_SELECT_ARMY: "§GKlikněte§! pro výběr armády této divize" # todo: CHANGED
+ DIVISION_VIEW_SELECT_ARMY: "§GKlikněte§! pro výběr armády z této divize."
  EFFECT_ON_ALL: " na "
  ENABLE_TASK_FORCE_AUTO_REINFORCEMENT: "§GKlikněte§! pro §Hpovolení§! §HAutomatickho doplňovaní§! úderných skupin"
  ENABLE_TASK_FORCE_UNDERWAY_REPLENISHMENT: "§GKlikněte§! pro §Hpovolení§! §HZásobování během plavby§! pro vybrané úderné skupiny"
@@ -343,7 +343,7 @@
  TASK_FORCE_COMPOSITION_ADD_1: "§GKlikněte§! pro přidání §Y+1§!"
  TASK_FORCE_COMPOSITION_ADD_5: "§GCtrl + Klik§! pro přidání §Y+5§!"
  TASK_FORCE_COMPOSITION_ANY_ROLE: "Tuto podmínku splní lodě tohoto typu přiřazené k jakékoli roli."
- TASK_FORCE_COMPOSITION_ANY_ROLE_CLICK_TO_SELECT: "§GKlikněte§! pro výběr konkrétní role pro tento požadavek" # todo: CHANGED
+ TASK_FORCE_COMPOSITION_ANY_ROLE_CLICK_TO_SELECT: "§GKlikněte§! pro výběr konkrétní role pro tento požadavek"
  TASK_FORCE_COMPOSITION_EDITOR_DESC: "Umožňuje nastavit cílový počet lodí jednotlivých tříd, které chcete udržovat v úderní skupině.\nVyžaduje povolené §YAutomatické doplňování§!"
  TASK_FORCE_COMPOSITION_EDITOR_TITLE: "Editor složení úderné skupiny"
  TASK_FORCE_COMPOSITION_FROM_SELECTED: "Nastavit šablonu z aktuálního složení úderné skupiny"
@@ -425,7 +425,7 @@
  UNIT_LEADER_PROMOTE_WITH_COST: "Povýšit £command_power $CP|2R$"
  UNIT_LEADER_SEARCH: "Hledat"
  UNIT_LEADER_SKILL: "$SKILL|Y$"
- UNIT_LEADER_SKILL_LAND_DESC: "Mít vyšší dovednost než nepřátelský velitel dává veliteli další šanci zvolit protitaktiku k poražení nepřítele. Dovednost velitele se zvyšuje, jak získává zkušenosti.\n\n" # todo: CHANGED
+ UNIT_LEADER_SKILL_LAND_DESC: "Mít vyšší dovednost než nepřátelský velitel dává veliteli další šanci zvolit protitaktiku k poražení nepřítele. Dovednost velitele se zvyšuje, jak získává zkušenosti.\n\n"
  UNIT_LEADER_SKILL_NAVY_DESC: "Dovednost admirála roste, jak získává zkušenosti.\n\n"
  UNIT_LEADER_SKILL_OPERATIVE_DESC: "Schopnost operativce se zvyšuje, jak získává zkušenosti.\n\n"
  UNIT_LEADER_SKILL_SORT: "Dovednost"
@@ -515,7 +515,7 @@
  category_special_forces_leg_infantry: "Pěchota speciálních sil"
  category_strat_bomber: "Strategické bombardéry"
  category_support_artillery: "Podpůrná dělostřelba"
- category_support_battalions: "Všechny podpůrné společnosti" # todo: CHANGED
+ category_support_battalions: "Podpůrné roty"
  category_tac_bomber: "Taktické bombardéry"
  category_tank_destroyers: "Tankové stíhače"
  category_tanks: "Tanky"
@@ -550,7 +550,7 @@
  helicopter_brigade: "Vrtulníková brigáda"
  helicopter_brigade_desc: "Brigáda vrtulníků pro obecné účely, schopná poskytovat flexibilní mobilní podporu v různých oblastech."
  helicopter_field_hospital: "Vrtulníková záchranná evakuace"
- helicopter_field_hospital_desc: "Pozor všichni! Přilétají vrtulníky se zraněnými! Evakuační vrtulníky dokážou dostat raněné z bojiště mnohem rychleji než běžná sanitka." # todo: CHANGED
+ helicopter_field_hospital_desc: "Pozor všem jednotkám! Přilétají vrtulníky s raněnými! Evakuační vrtulníky dokážou přepravit zraněné z bojiště mnohem rychleji než běžné sanitky."
  helicopter_recon: "Vrtulníkový průzkum"
  helicopter_recon_desc: "Speciálně vycvičení průzkumníci ve vrtulnících schopní rychle provádět průzkum bez ohledu na terén a navádět přesné údery."
  helicopter_transport: "Vrtulníková přeprava"
@@ -569,7 +569,7 @@
  light_tank_destroyer_brigade: "Lehký stíhač tanků"
  light_tank_destroyer_brigade_desc: "Stíhače tanků jsou obrněná vozidla s nadprůměrně silným kanónem instalovaným v pevné nástavbě místo otočné věže. Lehký stíhač tanků je postaven na podvozku lehkého tanku - nabízí dobrou pohyblivost, ale omezenou palebnou sílu oproti těžším strojům."
  light_tank_recon: "Obrněná průzkumná rota"
- light_tank_recon_desc: "Použitím lehkých tanků v průzkumné roli můžeme provádět průzkum palbou a lépe porozumět tomu, čemu čelíme." # todo: CHANGED
+ light_tank_recon_desc: "Použitím lehkých tanků v průzkumné roli můžeme provádět průzkum bojem a lépe poznat nepřátelské postavení."
  logistics_company: "Logistická rota"
  logistics_company_desc: "Zajišťuje plánování, požadavky a distribuci zásob pro potřeby divize."
  long_range_patrol_support: "Dálkově průzkumná rota"
@@ -643,11 +643,11 @@
  penal_battalion: "Trestanecký prapor"
  penal_battalion_desc: "Nejlepší potrava pro mlýnek na maso."
  pioneer_support: "Ženijní podpora"
- pioneer_support_desc: "Pionýři jsou schopní inženýři, zkušení ve zpevňování vylodění, v obecných inženýrských pracích a v upevňování obsazeného území." # todo: CHANGED
+ pioneer_support_desc: "Pionýři jsou zkušení ženisté, kteří se vyznají ve vytváření předmostí, inženýrských projektech a upevňování získaných pozic."
  rangers: "Specialisté pro těžký terén"
  rangers_desc: "Díky specializaci na infiltrace a taktickou připravenost můžeme těžit z tvrdého výcviku našich Hraničářů v nepřátelských podmínkách."
  rangers_support: "Průzkumní hraničáři"
- rangers_support_desc: "Průzkumní hraničáři jsou elitní potyčkové jednotky, specializující se na infiltrace, průzkum a boj na blízko." # todo: CHANGED
+ rangers_support_desc: "Průzkumní hraničáři jsou elitní lehké jednotky, specializované na infiltraci, průzkum a boj zblízka."
  recon: "Průzkumný jezdecký oddíl"
  recon_desc: "Vysílání menších skupin k průzkumu před hlavními silami nám umožňuje získat zpravodajské informace o poloze a síle nepřítele."
  river: "Řeka"
@@ -689,7 +689,7 @@
  MODIFIER_NAVAL_INVASION_DIVISION_CAP: "Kapacita divizí na námořní invazi"
  MODIFIER_NAVAL_INVASION_DIVISION_CAP_DESC: "Maximální počet divizí, které lze přidělit k námořní invazi."
  MODIFIER_AIR_INVASION_DIVISION_CAP: "Kapacita divizí pro vzdušnou invazi"
- MODIFIER_AIR_INVASION_DIVISION_CAP_DESC: "Maximální počet divizí, které mohou být přiřazeny k rozkazu vzdušné invaze." # todo: CHANGED
+ MODIFIER_AIR_INVASION_DIVISION_CAP_DESC: "Maximální počet divizí, které lze přidělit k rozkazu vzdušné invaze."
  MINIMUM_SEAZONE_DOMINANCE_NEEDED: "Tato námořní zóna vyžaduje alespoň $VALUE|0Y$ £naval_dominance_texticon£ §HNámořní převahy§!, aby byla považována za kontrolovanou přátelskými silami."
  PREPARATION_BASE_DAILY_DECAY: "Základní denní úbytek: $VALUE|0%Y$"
  PREPARATION_BASE_DAILY_DECAY_MANUAL_ORDER: "Základní denní úbytek (manuální rozkaz jednotky): $VALUE|0%Y$"
@@ -705,26 +705,26 @@
  HQ_LIST_ITEM_CLICK_TO_DEPLOY: "§GKlikněte§! pro nasazení s touto šablonou velení armády" # todo: NEW TRANSLATION
  HQ_LIST_ITEM_RIGHT_CLICK_TO_DESIGN: "§GKlikněte pravým tlačítkem§! pro otevření návrháře velení armády" # todo: NEW TRANSLATION
  HQ_LIST_ITEM_INSUFFICIENT_CP: "§RNedostatečná velitelská síla§! (£command_power $COST|H0$ vyžadováno)" # todo: NEW TRANSLATION
- ARMY_HQ_TEMPLATES: "Šablony velení armády" # todo: NEW TRANSLATION
- ARMY_HQ_TEMPLATES_TOGGLE_TOOLTIP: "§GKlikněte§! pro přepnutí seznamu §YŠablon velení armády§!, kde můžete prohlížet a spravovat šablony velení armády." # todo: NEW TRANSLATION
- ARMY_HQ_DESIGNER: "Návrhář velení armády" # todo: NEW TRANSLATION
- ARMY_HQ_DEPLOYED_DETAILS: "$DEPLOYED$/$ARMIES$" # todo: NEW TRANSLATION
- ARMY_HQ_DEPLOYED_DETAILS_TOOLTIP: "Nasazená §Yvelení armády§!: §Y$DEPLOYED$§!\nCelkem armád: §Y$ARMIES$§!" # todo: NEW TRANSLATION
+ ARMY_HQ_TEMPLATES: "Šablony Armádního velitelství"
+ ARMY_HQ_TEMPLATES_TOGGLE_TOOLTIP: "§GKlikněte§! pro přepnutí seznamu §YŠablon Armádního velitelství§!, kde můžete prohlížet a spravovat šablony Armádních velitelství."
+ ARMY_HQ_DESIGNER: "Návrhář Armádního velitelství"
+ ARMY_HQ_DEPLOYED_DETAILS: "$DEPLOYED$/$ARMIES$"
+ ARMY_HQ_DEPLOYED_DETAILS_TOOLTIP: "Nasazená §YArmádní velitelství§!: §Y$DEPLOYED$§!\nCelkem armád: §Y$ARMIES$§!"
  anti_tank_battery: "Protitanková baterie" # todo: NEW TRANSLATION
  anti_tank_battery_desc: "" # todo: NEW TRANSLATION
  anti_air_battery: "Protiletadlová baterie" # todo: NEW TRANSLATION
  anti_air_battery_desc: "" # todo: NEW TRANSLATION
- light_tank_destroyer_support: "Lehká podpora ničičů tanků" # todo: NEW TRANSLATION
- medium_tank_destroyer_support: "Střední podpora ničičů tanků" # todo: NEW TRANSLATION
- heavy_tank_destroyer_support: "Těžká podpora ničičů tanků" # todo: NEW TRANSLATION
- modern_tank_destroyer_support: "Moderní podpora ničičů tanků" # todo: NEW TRANSLATION
- light_sp_anti_air_support: "Lehká samohybná protiletadlová podpora" # todo: NEW TRANSLATION
- medium_sp_anti_air_support: "Střední samohybná protiletadlová podpora" # todo: NEW TRANSLATION
- heavy_sp_anti_air_support: "Těžká samohybná protiletadlová podpora" # todo: NEW TRANSLATION
- modern_sp_anti_air_support: "Moderní samohybná protiletadlová podpora" # todo: NEW TRANSLATION
+ light_tank_destroyer_support: "Lehká podpora stíhačů tanků" # todo: NEW TRANSLATION
+ medium_tank_destroyer_support: "Střední podpora stíhačů tanků" # todo: NEW TRANSLATION
+ heavy_tank_destroyer_support: "Těžká podpora stíhačů tanků" # todo: NEW TRANSLATION
+ modern_tank_destroyer_support: "Moderní podpora stíhačů tanků" # todo: NEW TRANSLATION
+ light_sp_anti_air_support: "Lehká samohybná PVO podpora" # todo: NEW TRANSLATION
+ medium_sp_anti_air_support: "Střední samohybná PVO podpora" # todo: NEW TRANSLATION
+ heavy_sp_anti_air_support: "Těžká samohybná PVO podpora" # todo: NEW TRANSLATION
+ modern_sp_anti_air_support: "Moderní samohybná PVO podpora" # todo: NEW TRANSLATION
  hq_support_company: "Štábní četa" # todo: NEW TRANSLATION
  hq_support_company_desc: "Specializovaná štábní četa, která administruje a pomáhá s aktivitami jednotky." # todo: NEW TRANSLATION
- hq_engineer: "Inženýrský štáb" # todo: NEW TRANSLATION
+ hq_engineer: "Ženijní štáb" # todo: NEW TRANSLATION
  hq_engineer_desc: "Zabývá se otázkami opevnění a opatřeními pro mobilitu a omezení mobility." # todo: NEW TRANSLATION
  hq_recon: "Průzkumný štáb" # todo: NEW TRANSLATION
  hq_recon_desc: "Sbírá a analyzuje průzkumná data získaná z terénu." # todo: NEW TRANSLATION

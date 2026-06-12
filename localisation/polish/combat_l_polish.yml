@@ -1,6 +1,6 @@
 ﻿l_polish:
  AA_MODIFIER: "Protivzdušná obrana: $NUM|+%$"
- ARMY_AMOUNT_PENALTY: "§RVelíte příliš mnoha armádám. Všechny statistiky sníženy o $PENALTY|Y1%$§!" # todo: CHANGED
+ ARMY_AMOUNT_PENALTY: "§RVedete příliš mnoho armád. Všechny statistiky sníženy o $PENALTY|Y1%$§!"
  ATTACH_AIRWING_TO_GROUP_TOOLTIP: "§GPravým tlačítkem§! přiřadíte letky k armádě"
  ATTACKING: "Útočí"
  BASE_ESCAPE_SPEED: "Základ: $NUM|+%$"
@@ -326,7 +326,7 @@
  TACTICS_COMMAND_COST_CAN_AFFORD: "$COST|H$£command_power"
  TACTICS_COMMAND_COST_CAN_NOT_AFFORD: "$COST|R$£command_power"
  TACTICS_CURRENT_PHASE: "Aktuální fáze: $NAME|Y$"
- TACTICS_CURRENT_PHASE_DESC: "Aktuální fáze boje. Pouze taktiky z této fáze mohou být vybrány veliteli na každé straně." # todo: CHANGED
+ TACTICS_CURRENT_PHASE_DESC: "Aktuální fáze boje. Pouze taktiky vhodné pro tuto fázi mohou být vybrány generály na obou stranách."
  TACTICS_DAMAGE_ATTACKER: "Taktické poškození pro útočníka:"
  TACTICS_DAMAGE_DEFENDER: "Taktické poškození pro obránce:"
  TACTICS_DEFENDER_ORG_DAMAGE_MODIFIER: "Modifikátor poškození organizace obránce:"
@@ -367,16 +367,16 @@
  WING_CAN_NOT_ATTACH_TRAINING: "§RNelze přiřadit během §Hleteckých cvičení§!§!"
  WING_CAN_NOT_ATTACH_WRONG_TYPE: "§RNámořní bombardéry a strategické bombardéry nelze přiřadit k armádám§!"
  close_combat: "Boj zblízka"
- combat_stat_anti_air: "§HProtiletadlová obrana flotily§!\n\nProtiletadlová obrana flotily se počítá z protiletadlové hodnoty všech lodí v celé flotile a naruší nepřátelské bombardéry útočící na flotilu a sníží poškození, které mohou způsobit.\n" # todo: CHANGED
+ combat_stat_anti_air: "§HPVO flotily§!\n\nPVO flotily je vypočítána ze všech lodí ve flotile a narušuje nepřátelské bombardéry útočící na flotilu a snižuje škody, které mohou způsobit.\n"
  combat_stat_depth_charges_info: "§HHlubinné nálože§!\n\nHlubinné nálože se používají proti ponorkám, které nelze napadnout jinými typy zbraní.\n"
  combat_stat_heavy_guns_info: "§HTěžká děla§!\n\nTěžká děla jsou účinnější proti §YHlavním lodím§!. Dosáhnou na dvě nejbližší skupiny nepřátel a upřednostňují větší cíle.\n"
  combat_stat_light_guns_info: "§HLehká děla§!\n\nLehká děla jsou účinnější proti §YDoprovodním lodím§!. Zaměřují se na nejbližší nepřátelské cíle.\n"
  combat_stat_torpedoes_info: "§HTorpéda§!\n\nTorpéda ignorují pancíř a jsou mnohem účinnější proti §YHlavním lodím§!. Počet vypuštěných torpéd závisí na §Yefektivitě doprovodu§!.\n"
  damage_dealt_air: "  Námořní bombardéry: $NUM|.0H$ ($RATIO|%.0H$)\n"
- damage_dealt_anti_air: "$NUM|.0H$ nepřátelských letadel bylo sestřeleno protiletadlovou obranou.\n" # todo: CHANGED
+ damage_dealt_anti_air: "$NUM|.0H$ nepřátelských letadel bylo sestřeleno protivzdušnou obranou.\n"
  damage_dealt_battle_box: "  Hlavní lodě: $NUM|.0H$ ($RATIO|%.0H$)\n"
  damage_dealt_by_box: "Způsobené poškození podle typů:\n"
- damage_dealt_by_ship_types: "Poškození způsobené jednotlivými typy lodí:\n" # todo: CHANGED
+ damage_dealt_by_ship_types: "Způsobené poškození podle typů lodí:\n"
  damage_dealt_by_type: "  $TYPE$: $NUM|.0H$ ($RATIO|%.0H$)\n"
  damage_dealt_carriers: "  Letadlové lodě: $NUM|.0H$ ($RATIO%|.0H$)\n"
  damage_dealt_convoys: "  Konvoje: $NUM|.0H$ ($RATIO|%.0H$)\n"
@@ -398,6 +398,6 @@
  total_damage_dealt: "Celkové způsobené poškození: $NUM|.0H$ ($RATIO|%.0H$ z nepřátelského zdraví)\n"
  total_damage_received: "\nCelkové utrpěné poškození: $NUM|.0H$\n"
  SELECT_GROUP_TOOLTIP_WITH_HQ: "§GKlik§! pro výběr všech divizí\n§GCtrl+Klik§! pro výběr všech divizí kromě velitelství" # todo: NEW TRANSLATION
- SELECT_GROUP_HQ_REASSIGN_BLOCKED_TOOLTIP: "§YVelitelství armád§! §Rnelze§! přiřadit k jiné armádě" # todo: NEW TRANSLATION
+ SELECT_GROUP_HQ_REASSIGN_BLOCKED_TOOLTIP: "§YArmádní velitelství§! §Rnelze§! přiřadit k jiné armádě" # todo: NEW TRANSLATION
  COMMAND_GROUP_CANT_REASSIGN: "§RŽádnou z vybraných divizí není možné přeřadit z jejich současných armád§!" # todo: NEW TRANSLATION
- ARMY_HQ_BADGE_TOOLTIP: "§YVelitelství armády§! §Y$NAME$§! je v boji." # todo: NEW TRANSLATION
+ ARMY_HQ_BADGE_TOOLTIP: "§YArmádní velitelství§! §Y$NAME$§! je v boji." # todo: NEW TRANSLATION

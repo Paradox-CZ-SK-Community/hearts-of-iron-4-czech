@@ -71,12 +71,12 @@
  PEACE_CONFERENCE_ON_CLICK_ADD_STACKABLE: "§GKlikněte§! pro přidání $ACTION$ na vybraný požadavek"
  PEACE_CONFERENCE_ON_CLICK_CANCEL_ALL_ACTIONS: "§GKlikněte§! pro zrušení všech akcí níže"
  PEACE_CONFERENCE_ON_CLICK_CANCEL_SELECT: "§GKlikněte§! pro zrušení"
- PEACE_CONFERENCE_ON_CLICK_CHANGE_TARGET_TAG: "§GKlikněte§! pro přepnutí na $ACTION$ $COUNTRY|Y$" # todo: CHANGED
+ PEACE_CONFERENCE_ON_CLICK_CHANGE_TARGET_TAG: "§GKlikněte§! pro přepnutí na $ACTION$ $COUNTRY|Y$."
  PEACE_CONFERENCE_ON_CLICK_EXPAND_BIDDINGS: "§GKlikněte§! pro přepnutí seznamu požadavků"
- PEACE_CONFERENCE_ON_CLICK_OPEN_CONFLICT_POPUP: "§GKlikněte§! pro vyřešení sporného požadavku" # todo: CHANGED
- PEACE_CONFERENCE_ON_CLICK_OPEN_SELECTED_POPUP: "§GKlikněte§! pro zobrazení požadavků, které jste neodeslali" # todo: CHANGED
- PEACE_CONFERENCE_ON_CLICK_REMOVE_STACKABLE: "§GKlikněte§! pro odstranění všech doplňkových požadavků z rodičovských požadavků" # todo: CHANGED
- PEACE_CONFERENCE_ON_CLICK_RESOLVE_CONFLICT: "§GKlikněte§! pro vyřešení sporného požadavku" # todo: CHANGED
+ PEACE_CONFERENCE_ON_CLICK_OPEN_CONFLICT_POPUP: "§GKlikněte§! pro vyřešení sporného požadavku."
+ PEACE_CONFERENCE_ON_CLICK_OPEN_SELECTED_POPUP: "§GKlikněte§! pro zobrazení požadavky, které ještě nebyli odeslány."
+ PEACE_CONFERENCE_ON_CLICK_REMOVE_STACKABLE: "§GKlikněte§! pro odstranění všech dodatečných požadavků z nadřazených požadavků"
+ PEACE_CONFERENCE_ON_CLICK_RESOLVE_CONFLICT: "§GKlikněte§! pro vyřešení sporného požadavku"
  PEACE_CONFERENCE_ON_CLICK_SELECT_ACTION: "§GKlikněte§! pro výběr"
  PEACE_CONFERENCE_ON_CLICK_SELECT_ALL_ACTIONS: "§GKlikněte§! pro výběr všech akcí níže"
  PEACE_CONFERENCE_ON_CLICK_SELECT_NEGOTIATOR: "§GKlikněte§! pro zobrazení jejich pohledu"
@@ -96,8 +96,8 @@
  PEACE_CONFERENCE_PUPPET_LABEL: "Subjekt"
  PEACE_CONFERENCE_REJECTED: "$COUNTRY$ odmítlo smlouvu"
  PEACE_CONFERENCE_RESET: "Resetovat vybrané akce"
- PEACE_CONFERENCE_RIGHTCLICK_GOTO_CAPITAL: "§GKlikněte pravým tlačítkem§! pro přechod do hlavního města" # todo: CHANGED
- PEACE_CONFERENCE_RIGHTCLICK_GOTO_STATE: "§GKlikněte pravým tlačítkem§! pro přechod do státu" # todo: CHANGED
+ PEACE_CONFERENCE_RIGHTCLICK_GOTO_CAPITAL: "§GPravým kliknutím§! přejděte do hlavního města."
+ PEACE_CONFERENCE_RIGHTCLICK_GOTO_STATE: "§GPravý klik§! pro přechod do státu."
  PEACE_CONFERENCE_SELECT_A_VICTOR: "Vyber vítěze, abys viděl jeho úhel pohledu"
  PEACE_CONFERENCE_SEND: "Odeslat vybrané akce"
  PEACE_CONFERENCE_SEND_DESC: "Vznést požadavek na vybrané akce za cenu §Y$VALUE$§!"
@@ -110,7 +110,7 @@
  PEACE_CONFERENCE_TURN: "Tah č. $TURN|Y$"
  PEACE_CONFERENCE_TURN_CURRENT: "Tah č. $TURN|Y$ - probíhá"
  PEACE_CONFERENCE_TURN_CURRENT_DESC: "Mírové akce pro tento tah"
- PEACE_CONFERENCE_TURN_DESC: "Mírové akce provedené během kola $TURN|Y$" # todo: CHANGED
+ PEACE_CONFERENCE_TURN_DESC: "Mírové akce, které byly provedeny během $TURN|Y$. kola"
  PEACE_CONFERENCE_UNDERLYINGRESOURCE_TOOLTIP: "$UNDERLYING_RESOURCE|Y$"
  PEACE_CONFERENCE_WHITE_PEACE: "@$ACTOR_TAG$$ACTOR_COUNTRY|Y$ a $RECIPIENT_COUNTRY|Y$@$RECIPIENT_TAG$\npodepsaly §Ybílý mír§!."
  PEACE_CONFERENCE_WINNER: "@$TAG$$COUNTRY|Y$ anektuje $STATES|Y$ států."
@@ -254,7 +254,7 @@
  PEACE_TIMED_EFFECT_DEMILITARIZED_ZONE_NAME: "Demilitarizovaná zóna"
  PEACE_TIMED_EFFECT_RESOURCE_RIGHTS: "Práva na zdroje"
  PEACE_TIMED_EFFECT_WAR_REPARATION_AMOUNT_DESCRIPTION: "$AMOUNT|Y$ mimo mapu továrny"
- PEACE_TIMED_EFFECT_WAR_REPARATION_NAME: "Civilní továrny předané jako válečné reparace" # todo: CHANGED
+ PEACE_TIMED_EFFECT_WAR_REPARATION_NAME: "Civilní továrny převedeny jako válečné reparace"
  PEACE_TREATY_THREAT: "Mír - $TREATY$"
  PEACE_UNSTACK_ALL: "Odstranit všechny další požadavky"
  PEACE_UNSTACK_ON_ALL: "Odstranit všechny"

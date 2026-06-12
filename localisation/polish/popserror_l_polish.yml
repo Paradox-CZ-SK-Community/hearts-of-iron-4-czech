@@ -1,5 +1,5 @@
 ﻿l_polish:
- POPS_NO_MESSAGE: "Neočekávaná chyba nastala" # todo: CHANGED
+ POPS_NO_MESSAGE: "Došlo k neočekávané chybě"
  POPS_UNEXPECTED_ERROR: "Došlo k neočekávané chybě."
  POPS_account-exists: "Účet s touto e-mailovou adresou již existuje"
  POPS_bad-password-length: "Heslo je příliš krátké"

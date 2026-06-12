@@ -71,8 +71,8 @@
  AST_submarine_4_desc: "Ponorky třídy V nebo třídy Vampire byly založeny na menších plavidlech předchozí třídy U. Byly větší, ale stále relativně malé, s lepšími námořními schopnostmi, ale omezeným operačním dosahem a výzbrojí."
  BRA_battleship_1: "Třída Minas Gerais"
  BRA_battleship_1_desc: "Minas Gerais byla třída dvou dreadnoughtů postavených Velkou Británií pro Brazílii na počátku 20. století. Byly aktivní během druhé světové války, ale byly příliš zastaralé pro jakoukoli vážnou službu, místo toho byly používány jako pobřežní obranné lodě podél brazilského pobřeží."
- BRA_destroyer_1: "Třída Maranhão" # todo: CHANGED
- BRA_destroyer_1_desc: "Maranhão byl britsky postavený torpédoborec třídy K, který byl v roce 1922 prodán Brazílii. Loď měla výtlak něco málo přes 930 tun a byla vyzbrojena čtyřmi děly ráže 4 palce." # todo: CHANGED
+ BRA_destroyer_1: "Třída Maranhão"
+ BRA_destroyer_1_desc: "Maranhão byl britsky postavený torpédoborec třídy K, který byl v roce 1922 prodán Brazílii. Loď měla výtlak něco málo přes 930 tun a byla vyzbrojena čtyřmi děly ráže 4 palce."
  BRA_destroyer_2: "Třída Juruena"
  BRA_destroyer_2_desc: "Torpédoborce třídy Juruena byly sérií šesti torpédoborců třídy H, které objednala Brazílie z Velké Británie na konci 30. let. Lodě však nikdy nebyly dodány, protože je Britové zkonfiskovali, když vypukla válka v roce 1939. Měly výtlak přes 1 300 tun, měly dobrou rychlost a byly vyzbrojeny třemi QF 4,7 palcovými kanóny Mk IX jako hlavními děly, a osmi 533mm torpédomety."
  BRA_destroyer_3: "Třída Marcílio Dias"
@@ -192,7 +192,7 @@
  ENG_carrier_4: "Třída Implacable"
  ENG_carrier_4_desc: "Letadlové lodě třídy Implacable byly objednány v rámci Námorního programu 1938 a byly v podstatě vylepšenými verzemi dřívější třídy Illustrious. Válka a změna priorit na menší plavidla pro ochranu konvojů v raných a středních fázích války zpomalily stavbu těchto plavidel. Byly to větší plavidla schopná nést více letadel a přitom uchovávat silný pancíř jak na trupu, tak na palubě. Silnější motory poskytly větší rychlost a operační dosah ve srovnání s třídou Illustrious."
  ENG_destroyer_1: "Třída V/W"
- ENG_destroyer_1_desc: "Tyto torpédoborce zahrnovaly třídy Admiralty a Thornycroft V a W. Byly postaveny v rámci Programu válečného nouzového stavu a představovaly vrchol vývoje britského designu torpédoborců během první světové války, ztělesňující vylepšení svých předchůdců i nové technologické pokroky. Velké množství těchto lodí bylo postaveno v pozdních fázích první světové války a později se staly páteří torpédoboreckých flotil Royal Navy. Od 30. let byly zařazovány do záložních flotil a nakonec používány převážně k doprovodu konvojů. Šlo o dobře vyzbrojená, rychlá plavidla s dobrým dosahem." # todo: CHANGED
+ ENG_destroyer_1_desc: "Tyto torpédoborce zahrnovaly třídy Admiralty a Thornycroft V a W. Byly postaveny v rámci Programu válečného nouzového stavu a představovaly vrchol vývoje britského designu torpédoborců během první světové války, ztělesňující vylepšení svých předchůdců i nové technologické pokroky. Velké množství těchto lodí bylo postaveno v pozdních fázích první světové války a později se staly páteří torpédoboreckých flotil Royal Navy. Od 30. let byly zařazovány do záložních flotil a nakonec používány převážně k doprovodu konvojů. Šlo o dobře vyzbrojená, rychlá plavidla s dobrým dosahem."
  ENG_destroyer_2: "Třída G/H/I"
  ENG_destroyer_2_desc: "Třída torpédoborců G, H a I byla objednána jako součást námořních konstrukčních programů z let 1933 a 1934. Byly to obecně opakování předchozí třídy F, s mírným snížením velikosti. Výzbroj tříd G a H je stejná jako ve třídě F, obě používají kanóny o ráži 4,7 palce. Tyto lodě měly dlouhý dolet, byly dostatečně vyzbrojeny a měly silný torpédový complement. Byly široce používány během války a utrpěly řadu ztrát."
  ENG_destroyer_3: "Třída J/K/N"
@@ -518,7 +518,7 @@
  NOR_submarine_3: "Třída Uredd"
  NOR_submarine_3_desc: "Třída Uredd se skládala ze dvou britských ponorek třídy U postavených pro norské námořnictvo v exilu mezi lety 1941 a 1943. Lodě měly výtlak 540 tun a byly vyzbrojeny čtyřmi torpédovými tubami o průměru 533 mm. Měly dobrý complement britského radaru a sonaru, a potápěcí hloubku 60 m."
  NOR_submarine_4: "Třída Utsira"
- NOR_submarine_4_desc: "Třída Utsira sestávala ze čtyř britských ponorek třídy Vampire. Byly postaveny mezi lety 1943 a 1944, přičemž jen jedna byla před koncem války převedena k norskému námořnictvu v exilu. Lodě byly pouze mírným vylepšením oproti předchozí třídě U. Měly výtlak 545 tun, byly vyzbrojeny čtyřmi torpédovými vývody ráže 533 mm a měly hloubku ponoru 90 m." # todo: CHANGED
+ NOR_submarine_4_desc: "Třída Utsira se skládala ze čtyř britských ponorek třídy Vampire. Byly postaveny mezi lety 1943 a 1944, přičemž pouze jedna byla převedena do norského námořnictva v exilu před koncem války. Lodě byly pouze mírným vylepšením předchozí třídy U. Měly výtlak 545 tun, byly vyzbrojeny čtyřmi 533mm torpédomety a měly potápěcí hloubku 90m."
  NZL_SH_battleship_1: "Třída Centurion"
  NZL_SH_battleship_1_desc: "Třída Centurion byla třída hypotetických těžkých bitevních lodí královského námořnictva postavená k proti velkým plavidlům německého a japonského námořnictva. Velké 18 palcové kanóny a silný pancíř poskytují lodi potřebnou palebnou sílu a ochranu k boji proti těmto plavidlům. Silná AA výzbroj, dlouhý dosah a dobrá rychlost byly nezbytné k pokrytí rozsáhlých moří Britského impéria."
  NZL_SH_battleship_2: "Třída Lion II"
@@ -564,7 +564,7 @@
  NZL_light_cruiser_2: "Třída Southampton"
  NZL_light_cruiser_2_desc: "Lehké křižníky třídy Southampton byly podtřídou křižníků třídy Town a byly navrženy k potlačení japonských křižníků třídy Mogami. Tato plavidla byla dobře pancéřována, měla dobrou rychlost a dosah a nesla ohromující výzbroj dvanácti 6palcovými děly ve čtyřech trojitých věžích. Byly základem pro mnoho následných návrhů lehkých křižníků RN."
  NZL_light_cruiser_3: "Třída Gambia"
- NZL_light_cruiser_3_desc: "Třída Gambia byla novozélandské označení pro britské lehké křižníky třídy Crown Colony. Šlo o vylepšené verze dřívější třídy Town, avšak se zjednodušeným designem pro urychlení stavby a snížení nákladů. Lodě nesly stejné děla jako jejich předchůdci — čtyři trojité věže se 6palcovými děly. Byly podobně pancéřované, ale díky menším motorům měl jejich dosah poněkud omezený. Typ zahrnoval dvě podsérie: Fiji a Ceylon." # todo: CHANGED
+ NZL_light_cruiser_3_desc: "Třída Gambia byla novozélandskou označení pro britské lehké křížníky třídy Crown Colony. Jednalo se o vylepšené verze dřívějších křížníků třídy Town, ale s jednodušším designem určeným k urychlení výroby a snížení nákladů. Lodě nesly stejná děla jako jejich předchůdci, čtyři trojité věže s 6 palcovými děly. Byly podobně obrněné, ale kvůli svým menším motorům byl jejich dosah poněkud omezen. Typ zahrnoval dva podtypy: Fiji a Cejlon."
  NZL_light_cruiser_4: "Třída Black Prince"
  NZL_light_cruiser_4_desc: "Třída Black Prince byla kanadským označením pro britské lehké křižníky třídy Minotaur (nebo třídy Swiftsure). Tyto křižníky byly navrženy jako modifikovaná verze třídy Crown Colony, zahrnující válečné modifikace, které byly schváleny v roce 1941. Měly delší operační dosah a početnější protiletadlové zbraně než třída Crown Colony, zatímco hlavní výzbroj byla zredukována na tři trojité věže. Byly postaveny příliš pozdě na to, aby ovlivnily výsledek války, a většina objednaných plavidel byla následně zrušena."
  NZL_submarine_1: "Třída L"
@@ -986,7 +986,7 @@
  YUG_submarine_1: "Třída Hrabri"
  YUG_submarine_1_desc: "Dvě ponorky třídy Hrabri byly původně položeny jako britské ponorky třídy L pro Královské námořnictvo, ale byly prodány a nakonec dokončeny pro Jugoslávii pomocí modifikovaného designu v roce 1928. Byly to velké ponorky s výtlakem 975 tun a byly vyzbrojeny šesti torpédovými tubusy o průměru 533 mm."
  YUG_submarine_2: "Třída Osvetnik"
- YUG_submarine_2_desc: "Dvě ponorky třídy Osvetnik byly navrženy a postaveny ve Francii na základě projektu ponorek třídy Circe. Byly o něco menší než předchozí ponorky třídy Hrabri. Vyzbrojené šesti torpédovými vývody ráže 533 mm, přesto měly srovnatelnou údernou sílu." # todo: CHANGED
+ YUG_submarine_2_desc: "Dvě ponorky třídy Osvetnik byly navrženy a postaveny ve Francii na základě projektu ponorek třídy Circe. Byly o něco menší než předchozí ponorky třídy Hrabri. Vyzbrojené šesti torpédovými vývody ráže 533 mm, přesto měly srovnatelnou údernou sílu."
  battle_cruiser_1: "Bitevní křižník I"
  battle_cruiser_1_desc: "Po válce vznikla závod o výzbroj bitevních křižníků, který vedl k několika silně vyzbrojeným designům, které obětovaly pancéřování pro rychlost ve srovnání s bitevními loděmi."
  battle_cruiser_2: "Bitevní křižník II"
@@ -1071,7 +1071,7 @@
  ship_hull_carrier_conversion_ca_desc: "Po letech experimentů se letadlová loď pomalu vyvinula do vlastní třídy lodí. Schopna podporovat rostoucí počet stále mocnějších letadel, letadlová loď se chystá stát posledním slovem v námořním projekci moci."
  ship_hull_carrier_desc: "Po letech experimentů se letadlová loď pomalu vyvinula na svou vlastní třídu lodí. Schopná podporovat stále rostoucí počet stále silnějších letadel, letadlová loď je připravena stát se posledním slovo v projekci námořní síly."
  ship_hull_carrier_modern: "Moderní letadlová loď"
- ship_hull_carrier_modern_desc: "Největší a nejpokročilejší letadlové lodě, schopné využívat nejnovější technologie, vybavení a pokroky. Jsou ztělesněním nejmodernějšího zbrojení." # todo: CHANGED
+ ship_hull_carrier_modern_desc: "Největší a nejmodernější letadlové lodě, schopné používat nejnovější technologie, vybavení a pokroky. Jsou zosobněním 'nejmodernější' výzbroje."
  ship_hull_cruiser: "Křižník"
  ship_hull_cruiser_1: "Raný trup křižníku"
  ship_hull_cruiser_1_desc: "Ačkoli je vázán ustanoveními Washingtonské námořní smlouvy, křižník je stále nejflexibilnější válečná loď. Tento trup umožňuje stavbu lehkého křižníku pro krytí a průzkum, nebo těžkého křižníku pro podporu bojové linie."

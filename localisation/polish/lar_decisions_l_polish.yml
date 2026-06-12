@@ -294,7 +294,7 @@
  SPA_primo_de_rivera_speech_desc: "José Antonio Primo de Rivera je jedním ze zakladatelů Falange Española. Veřejný řečník kritický k demokracii - možná by měl být povzbuzen k dalším projevům, které zvýší naši lidovou podporu a dále destabilizují zemi."
  SPA_reassert_dominance: "Znovu prosadit dominanci nad [From.GetNameDef]"
  SPA_reassign_disloyal_leader_mission: "Přeřadit neloajálního velitele"
- SPA_reassign_disloyal_leader_mission_desc: "Vláda je čím dál podezřívavější vůči některým z našich podporovatelů v armádě a nyní plánuje přeložit jednoho z našich klíčových spolukonspirátorů na odlehlé místo, což nám značně ztíží plánování a spolupráci." # todo: CHANGED
+ SPA_reassign_disloyal_leader_mission_desc: "Vláda je stále více podezřívavá k některým našim podporovatelům v armádě a nyní plánuje přeřadit jednoho z našich klíčových spoluspiklenců na vzdálené působiště, což nám značně ztíží plánování a spolupráci."
  SPA_salamanca_offensive: "Ofenziva v Salamance"
  SPA_salamanca_offensive_mission: "Hrozící ofenziva v Salamance"
  SPA_secure_the_northern_garrisons_mission_tt: "Nacionalisté zvýší §YKontrolu posádek§! na §RÚplnou§! v §Y[171.GetName]§!, §Y[174.GetName]§!, §Y[788.GetName]§!, §Y[791.GetName]§!, §Y[176.GetName]§!, §Y[166.GetName]§! a §Y[172.GetName]§!.\n\nNacionalisté začnou občanskou válku s kontrolou těchto provincií, pokud jejich §YKontrola posádek§! v nich bude alespoň §YSlabá§!.\n"
@@ -304,7 +304,7 @@
  SPA_suppress_the_strikes_desc: "Stávky způsobují obrovské nepokoje a hospodářské škody v naší zemi. Pošleme naše milice, aby je rozbily a zajistily, že se lidé vrátí do práce."
  SPA_suppress_the_strikes_tt: "Stávky byly zcela potlačeny"
  SPA_sway_leader_loyalty: "Získat loajalitu velitele"
- SPA_sway_leader_loyalty_desc: "S vhodnými prostředky přesvědčování můžeme rozšířit naši podporu mezi předními důstojníky španělské armády. Mít jejich podporu, až přijde čas, se může ukázat jako neocenitelné." # todo: CHANGED
+ SPA_sway_leader_loyalty_desc: "Správnými prostředky přesvědčování můžeme rozšířit naši podporu mezi předními důstojníky španělské armády. Jejich podpora se v pravý čas může ukázat jako neocenitelná."
  SPA_swayed_leader_loyalty_flag: "Loajalita byla získána."
  SPA_the_army_of_africa_mission_tt: "Při začátku občanské války získají nacionalisté 5 vycvičených jednotek se §Y7 pěšími§! a §Y2 dělostřeleckými§! prapory a s podporou §Yprůzkumných§! a §Yženijních§! jednotek, stejně jako zaručenou kontrolu nad §Y[290.GetName]§!.\n"
  SPA_union_militar_flag: "Unión Militar kontaktována"
@@ -437,4 +437,4 @@
  spr_civil_war_divisions_counter_full_breakdown: "Republikánské Španělsko by v současnosti začalo s [?SPR.spr_civil_war_divisions_counter_var|+0] §Hdivizemi§!, kdyby občanská válka vypukla nyní.\n"
  spr_civil_war_divisions_counter_icon_value: "[?SPR.spr_civil_war_divisions_counter_var|0H]"
  SPA_suppress_the_strikes_tt_NOT: "Není: Úplně potlačil celonárodní stávky"
- POR_timor_overseas_territory: "Integrovat Timor" # todo: NEW TRANSLATION
+ POR_timor_overseas_territory: "Integrovat Timor"

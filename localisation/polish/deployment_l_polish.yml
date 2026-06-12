@@ -24,7 +24,7 @@
  CONVEYOR_LINE_CANCEL_ACCEPT_SINGLE_DESC: "Opravdu chceš §Rzrušit§! výcvik této divize?\n(Divize bude také §Rodstraněna§!)"
  CONVEYOR_LINE_CANCEL_ACCEPT_TITLE: "§RZrušit§! výcvik"
  CONVEYOR_LINE_CANCEL_DESC: "§RZrušit§! výcvik této divize."
- CONVEYOR_LINE_DEPLOY_DESC: "§GKlikněte§! pro okamžité nasazení této řady" # todo: CHANGED
+ CONVEYOR_LINE_DEPLOY_DESC: "§GKlikni§! pro okamžité nasazení této divize."
  CONVEYOR_LINE_PREFIX_NAME_EDIT_DESC: "Napište zde pro změnu aktuálního prefixu linky."
  CONVEYOR_LINE_SERIES_BASE: "$CURRENT$/$TARGET$"
  CONVEYOR_LOW_PRIORITY_DESC: "Nízká priorita doplňování"
@@ -43,9 +43,9 @@
  CONVEYOR_TRAINING_NOT_FINISHED: " Výcvik této linky ještě není dokončen."
  COPY: "Kopírovat"
  DECOMMISSION_TEMPLATE_TOGGLE_OFF: "Znovuzařadit"
- DECOMMISSION_TEMPLATE_TOGGLE_OFF_DESC: "§GKlikněte§! pro opětovné uvedení této šablony do provozu, označí ji jako v provozu" # todo: CHANGED
+ DECOMMISSION_TEMPLATE_TOGGLE_OFF_DESC: "§GKlik§! pro znovuzařazení této šablony, což označí, že je aktivní."
  DECOMMISSION_TEMPLATE_TOGGLE_ON: "Vyřadit"
- DECOMMISSION_TEMPLATE_TOGGLE_ON_DESC: "§GKlikněte§! pro vyřazení této šablony, označí ji jako vyřazenou" # todo: CHANGED
+ DECOMMISSION_TEMPLATE_TOGGLE_ON_DESC: "§GKlik§! pro vyřazení této šablony, což označí, že je vyřazena."
  DELETE_TEMPLATE: "§RVymazat§! šablonu ze seznamu."
  DELETE_TEMPLATE_DESC: "Opravdu chcete tuto šablonu smazat?"
  DELETE_TEMPLATE_TITLE: "Smazat šablonu"
@@ -72,7 +72,7 @@
  DEPLOYMENT_LINES_HIT_THE_CAP: "Můžeme vycvičit maximálně $CAP|*H$ mužů.\nOmezeno maximálním počtem personálu v poli ( $RATIO|H0%$ z $INFIELD|*H$. Minimálně: $MINPOSSIBLE|*H$ mužů)"
  DEPLOYMENT_LINES_HIT_THE_DIVISION_CAP: "§RDosáhnuto maxima pro tuhle šablonu§! \n"
  DEPLOYMENT_LINE_CHOOSE_OTHER_NAME: "§HZvolte další historické jméno.§!\n§GKlikněte§! pro otevření seznamu všech historických jmen, která jsou stále k dispozici. Je možné změnit skupinu jmen úpravou šablony."
- DEPLOYMENT_LINE_EDIT_NAME: "§GKlikněte§! a napište vlastní název" # todo: CHANGED
+ DEPLOYMENT_LINE_EDIT_NAME: "Pro použití vlastního názvu §Gklikněte§! a napište."
  DEPLOYMENT_LINE_NAME_OVERRIDE_CANCEL: "§HVymazat vlastní název§!\nSnažíme se obnovit původně přiřazený název, pokud není již obsazen."
  DEPLOYMENT_LINE_OUT_OF_NAMES: "§gNedostatek historických jmen.§!"
  DEPLOYMENT_LOW_PRIORITY_DESC: "Nízká priorita vybavení"
@@ -83,7 +83,7 @@
  DEPLOYMENT_NOT_ALLOWED_REASON_EXCEED_DIVISION_CAP: "§RNelze§! nasadit divizi, která by překročila limit pro danou šablony divize"
  DEPLOYMENT_NOT_ALLOWED_REASON_MANPOWER: "§RNelze§! nasadit divizi, která nemá žádné muže."
  DEPLOYMENT_NOT_ALLOWED_REASON_SPECIAL_FORCES: "§RNelze§! nasadit divizi, která by překročila náš limit speciálních jednotek"
- DEPLOYMENT_NOT_ALLOWED_REASON_TRAINING: "Nelze §RNasadit§! jednotku, která není alespoň $VALUE|1H%$ vycvičená (aktuálně $CURRENT|1R%$)" # todo: CHANGED
+ DEPLOYMENT_NOT_ALLOWED_REASON_TRAINING: "§RNelze§! nasadit divizi, která není vycvičena alespoň na $VALUE|1H%$ (Aktuálně $CURRENT|1R%$)"
  DEPLOYMENT_PRIORITY_LABEL: "Priorita"
  DEPLOYMENT_PROGRESS_LABEL: "Pokrok"
  DEPLOYMENT_RAIDS_DESC: "§YNálety§!\n§TNastavte prioritu vybavení pro přípravu náletů§!"
@@ -94,12 +94,12 @@
  DEPLOYMENT_TEMPLATE_ITEM_COPY: "§GKlikněte pro zkopírování do našich nasaditelných šablon§!"
  DEPLOYMENT_TEMPLATE_ITEM_EDIT: "§GKlikněte pro úpravu šablony divize§!"
  DEPLOYMENT_TEMPLATE_ITEM_VIEW: "§GKlikněte pro zobrazení šablony divize§!"
- DEPLOYMENT_TEMPLATE_LABEL: "Šablony divizí" # todo: CHANGED
+ DEPLOYMENT_TEMPLATE_LABEL: "Šablony divizí"
  DEPLOYMENT_TRAINING: "Výcvik: $VALUE|%Y0$ $MAXVALUE|$"
  DEPLOYMENT_TRAINING_MAXVALUE_DESC: "/ $VALUE|H%0$ ( Maximální úroveň výcviku závisí na množství vybavení )"
  DEPLOYMENT_VIEW_SPECIAL_FORCES_DETAILS: "$USED$/$CAP$"
  DEPLOY_CONVEYOR_DISABLED_TOOLTIP: "Nemá žádné divize ve výcviku připravené k okamžitému §Rnasazení§!."
- DEPLOY_CONVEYOR_TOOLTIP: "§GKlikněte§! pro okamžité nasazení všech řad" # todo: CHANGED
+ DEPLOY_CONVEYOR_TOOLTIP: "§GKlikni§! pro okamžité nasazení všech divizí vo výcviku."
  DIVISIONS_QUEUED: "Počet divizí: $N$"
  DIVISION_CAP_LIMIT_DESC: "Tato divize využívá limit šablony, protože to je nejnižší limit."
  DIVISION_CAP_OF_TEMPLATE: "Tato šablona má limit na úrovni $NUM|Y$."
@@ -158,6 +158,6 @@
  group_mobile_combat_support_title: "Mobilní podpůrné prapory"
  group_mobile_title: "Mobilní prapory"
  group_support_title: "Podpůrné roty"
- DEPLOYMENT_TEMPLATE_ITEM_EDIT_HQ: "§GKlikněte pro úpravu šablony velitelství armády§!" # todo: NEW TRANSLATION
- ONLY_ONE_HQ_TEMPLATE_LEFT: "§RNemůžete smazat poslední šablonu velitelství armády.§!" # todo: NEW TRANSLATION
- DEPLOYMENT_CANNOT_TRAIN_HQ: "§RŠablony velitelství armády nelze vycvičit§!, lze je pouze nasadit z armády s §Ypřiděleným velitelem.§!" # todo: NEW TRANSLATION
+ DEPLOYMENT_TEMPLATE_ITEM_EDIT_HQ: "§GKlikněte pro úpravu šablony Armádního velitelství§!"
+ ONLY_ONE_HQ_TEMPLATE_LEFT: "§RNemůžete smazat poslední šablonu Armádního velitelství.§!"
+ DEPLOYMENT_CANNOT_TRAIN_HQ: "§RŠablony Armádních velitelství nelze vycvičit§!, lze je pouze nasadit z armády s §Ypřiděleným velitelem.§!"

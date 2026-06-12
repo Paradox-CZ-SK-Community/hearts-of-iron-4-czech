@@ -42,10 +42,10 @@
  JAP_jotaro_watanabe_was_killed: " Džótaro Watanabe byl zabit rebely"
  JAP_aizawa_trial_ongoing_tt: "Výsledek incidentu určí, které politické cesty budou dostupné"
  JAP_increase_takahashi_korekiyo_security_decision: "Zvýšit ochranu kolem $JAP_takahashi_korekiyo$"
- JAP_increase_takahashi_korekiyo_security_decision_tt: "Bezpečnost kolem Takahashi Korekiyo bude zvýšena, aby ho chránila v případě útoků armádních radikálů, ale v důsledku toho mohou přeuspořádat svůj seznam cílů a přesunout více sil k eliminaci někoho jiného" # todo: CHANGED
+ JAP_increase_takahashi_korekiyo_security_decision_tt: "Bezpečnost kolem Takahašiho Korekija bude posílena, aby ho chránila v případě útoků armádních radikálů, ale v důsledku toho mohou přeuspořádat svůj seznam cílů a přesunout více sil k eliminaci někoho jiného"
  JAP_will_not_impact_focus_choices_tt: "Toto neovlivní volbu zaměření"
  JAP_increase_jotaro_watanabe_security_decision: "Zvýšit ochranu kolem Džótara Watanabeho"
- JAP_increase_jotaro_watanabe_security_decision_tt: "Bezpečnost kolem Jōtarō Watanabe bude zvýšena, aby ho chránila v případě útoků armádních radikálů, ale v důsledku toho mohou přeuspořádat svůj seznam cílů a přesunout více sil k eliminaci někoho jiného" # todo: CHANGED
+ JAP_increase_jotaro_watanabe_security_decision_tt: "Bezpečnost Džótara Watanabeho bude posílena, aby ho chránila v případě útoků armádních radikálů, ale v důsledku toho mohou přeuspořádat svůj seznam cílů a přesunout více sil k eliminaci někoho jiného"
  JAP_kwantung_army_decisions: "Kantó-gun"
  JAP_kwantung_army_decisions_desc: "Naše síly v Mandžusku a Číně, Kantó-gun, jednají vysoce autonomně a často bez povolení. Původně měly chránit pronajaté území Kuantung, ale jejich moc značně přesáhla původní mandát. Pokud nepřevezmeme kontrolu, mohou nás vtáhnout do války."
  JAP_kwantung_army_impatience: "Netrpělivost armády Kantó-gun"
@@ -67,7 +67,7 @@
  JAP_hand_mongol_states_to_mengkukuo_decision: "Předat mongolské státy §Y[MEN.GetAdjective]§! administrativě"
  JAP_hand_chinese_states_to_the_reorganized_government_decision: "Předat státy Kuomintangu §Y[RNG.GetAdjective]§! administrativě"
  JAP_spiritual_mobilization_decisions: "Duchovní mobilizace"
- JAP_spiritual_mobilization_decisions_desc: "[ROOT.GetAdjective] lid je pevný a připraven podpořit naši vládu v každém jejím rozhodnutí, pokud mu bude dána dostatečná motivace. Měli bychom mobilizovat obyvatelstvo duchovně i tělesně, aby mohli přispět k válečnému úsilí." # todo: CHANGED
+ JAP_spiritual_mobilization_decisions_desc: "[ROOT.GetAdjectiveCap] lid je odhodlaný podpořit vládu v každém jejím rozhodnutí, pokud dostane dostatečnou motivaci. Měli bychom mobilizovat obyvatelstvo duchovně i fyzicky."
  JAP_luxury_is_the_enemy_decision: "Luxus je nepřítel!"
  JAP_form_a_labor_patriot_corps_decision: "Vytvořit vlastenecké pracovní sbory"
  JAP_produce_bullet_stamps_decision: "Vyrábět „střelecké známky“"
@@ -754,7 +754,7 @@
  expand_transvaal_coal_mines: "Rozšířit uhelné doly v [275.GetName]"
  expand_bihar_coal_mines: "Rozšířit uhelné doly v [435.GetName]"
  JAP_assault_tauran_decision: "Připravit útok na [MON.GetAdjective] pozice"
- JAP_assault_tauran_decision_desc: "Vzhledem k nedávné provokaci ze strany [MON.GetAdjective]s a jejich okupaci vesnice Tauran u jezera Buir musíme připravit naše jednotky, aby je vytlačily dříve, než bude jejich nárok na naše právoplatné území legitimizován." # todo: CHANGED
+ JAP_assault_tauran_decision_desc: "Kvůli nedávné provokaci [MON.GetAdjective] vojsk a jejich okupaci vesnice Tauran u jezera Buir musíme připravit naše jednotky, abychom je vytlačili dříve, než bude jejich nárok na naše právoplatné území legitimizován."
  JAP_tauran_border_incident_forgotten_1: "Klesá morálka jednotek"
  JAP_tauran_border_incident_forgotten_1_desc: "Pokud chceme vesnici někdy získat zpět od našich nepřátel, musíme udeřit rychle."
  JAP_tauran_border_conflict_warning_MON: "Provokace na [MAN.GetAdjective] hranici"

@@ -254,8 +254,8 @@
  wtt_political_organisation.11.desc: "Naše kampaň za zmenšení podpory pro [majority_country.GetLeader] se zdá být daleko od dokončené. Navzdory našemu nejlepšímu úsilí většina občanů v [state.GetName] stále vyjádřuje podporu [majority_country.GetLeader]."
  wtt_political_organisation.11.t: "Zpráva z [state.GetName]"
  wtt_political_organisation.12.a: "Zvítězíme."
- wtt_political_organisation.12.desc_has_majority: "Operativeci [From.GetLeader] v [state.GetName] zahájili kampaň zastrašování a politického teroru. Docházejí zprávy, že občané, kteří nás podporují, jsou veřejně obtěžováni a označováni za zrádce. Funkcionáři strany byli zbiti a některé naše kanceláře byly zapáleny. Navzdory tomu většina místního obyvatelstva stále odmítá podlehnout teroru a nadále nás podporuje." # todo: CHANGED
- wtt_political_organisation.12.desc_not_majority: "[state.GetName] prožívá bezprecedentní vlnu politického násilí. Pouliční boje mezi stoupenci [From.GetLeader] a [majority_country.GetLeader] jsou denním jevem. Prozatím se zdá, že [majority_country.GetLeader] má stále většinu obyvatelstva na své straně." # todo: CHANGED
+ wtt_political_organisation.12.desc_has_majority: "Agenti od [From.GetLeader] v [state.GetName] zahájili kampaň zastrašování a politického teroru. Přichází zprávy, že občané, kteří nás podporují, jsou veřejně obtěžováni a označováni za zrádce. Funkcionáři byli zbiti a některé naše kanceláře byly zapáleny. Přes vše toto většina místní populace stále odmítá podlehnout teroru a pokračuje v naší podpoře."
+ wtt_political_organisation.12.desc_not_majority: "[state.GetName] prožívá bezprecedentní vlnu politického násilí. Pouliční boje mezi podporovateli [From.GetLeader] a [majority_country.GetLeader] jsou denním jevem. Momentálně to vypadá, že [majority_country.GetLeader] má většinu populace za sebou."
  wtt_political_organisation.12.t: "Útlak v [state.GetName]"
  wtt_political_organisation.2.a: "Boj pokračuje."
  wtt_political_organisation.2.desc: "Zdroje v [state.GetName] hlásí, že [majority_country.GetNameDef] se zřejmě intenzivně snaží zvýšit podporu v celém regionu. Jasná většina populace je stále na jejich straně."

@@ -26,7 +26,7 @@
  CONSTRUCTION_INFO_SUBJECT: "Tuto konstrukci pro nás vytváří $WHO|H$. Pokud nepoužívají všechny továrny, můžeme přispět svými."
  CONSTRUCTION_MASTER_BUILDING_CANT_REDUCE: "§RNemáme povoleno snížit úroveň nebo zrušit tuto konstrukci.§!"
  CONSTRUCTION_MASTER_BUILDING_LEVELS: "$MASTER|UH$ nyní pro nás staví $LVL|H$ úrovní $BUILDING|H$."
- CONSTRUCTION_MASTER_BUILDING_REDUCE_LEVELS: "Je nám dovoleno snížit tuto úroveň výstavby pouze o $LVL|R." # todo: CHANGED
+ CONSTRUCTION_MASTER_BUILDING_REDUCE_LEVELS: "Tuto úroveň výstavby smíme snížit pouze o $LVL|R$.
  CONTINUOUS_AUTONOMY_EFFECT: "$REASON$: £autonomy_texticon $VAL|+=2$"
  CONTINUOUS_AUTONOMY_EFFECTS: "§HPokračující efekty na autonomii§!"
  EFFECT_FREEDOM_EFFECT: "Subjekt obdržel"
@@ -75,5 +75,5 @@
  SUBJECT_OF_NAME: "Subjekt:\n$VALUE|H$"
  autonomy_sea_warlord_subject: "Subjekt válečného vůdce"
  autonomy_sea_integrated_warlord_subject: "Integrovaný subjekt válečného vůdce"
- autonomy_taog_indonesian_union_state: "Indonéský svazový stát" # todo: NEW TRANSLATION
- autonomy_associated_dominion: "Přidružený dominion" # todo: NEW TRANSLATION
+ autonomy_taog_indonesian_union_state: "Indonéský svazový stát"
+ autonomy_associated_dominion: "Přidružené dominium"

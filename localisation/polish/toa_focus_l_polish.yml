@@ -57,7 +57,7 @@
  ARG_chilean_ultimatum: "Ultimátum pro [CHL.GetNonIdeologyName]"
  ARG_chilean_ultimatum_desc: "Příliš dlouho přetrvávalo napětí na našich hranicích s [CHL.GetNonIdeologyName]. Pokud se chceme skutečně zajistit jako dominantní mocnost Jižní Ameriky, musíme je co nejdříve neutralizovat. Buď se k nám připojí mírovou cestou, nebo vytáhneme na jejich území a vezmeme si to, co je naše."
  ARG_committee_of_state_security: "Výbor státní bezpečnosti"
- ARG_committee_of_state_security_desc: "Jak světové napětí roste, stále více nepřátel naší ideologie se začíná vyrojovat. Abychom udrželi moc, je nezbytné, abychom se zaměřili na vytvoření zpravodajské agentury, která bude vynucovat naše hodnoty jak v [ARG.GetNameDef], tak mezinárodně." # todo: CHANGED
+ ARG_committee_of_state_security_desc: "S rostoucím světovým napětím se stále více nepřátel naší ideologie odvažuje vystrčit hlavu. Abychom si udrželi moc, je nezbytné zaměřit se na vytvoření zpravodajské služby, která bude prosazovat naše hodnoty jak doma, tak i na mezinárodní úrovni."
  ARG_communist_civil_war_tt: "§Y[ROOT.GetFlag][ROOT.GetName]§! se §Rocitne v občanské válce mezi komunisty a současnou vládou!§!"
  ARG_communist_faction: "Internacional Sudamericana"
  ARG_conquer_paraguay: "Dobýt [PAR.GetNameDefCap]"
@@ -109,7 +109,7 @@
  ARG_encourage_the_red_scare: "Rudý strach"
  ARG_encourage_the_red_scare_desc: "Zdá se, že fašismus není jedinou hrozbou, které bychom se měli obávat. [SOV.GetName] roste a tahle hrozba je stejně naléhavá. Komunismus představuje další protiklad demokracie a měli bychom být obezřetní vůči jeho šíření."
  ARG_end_operation_bolivar: "Ukončit operaci Bolívar"
- ARG_end_operation_bolivar_desc: "Objevili jsme kontinuální proud špionážních misí nasměrovaných do země z [GER.GetName]. S humorem to nazvali 'Operation Bolívar'. To je nepřijatelné a musíme okamžitě ukončit všechny [GER.GetAdjectives] operace v [ARG.GetName]." # todo: CHANGED
+ ARG_end_operation_bolivar_desc: "Odhalili jsme nepřetržitý proud špionážních misí, které do naší země posílá [GER.GetName]. Ironicky je pojmenovali „Operace Bolívar“. To je nepřijatelné, [ARG.GetName] musí okamžitě utnout veškeré [GER.GetAdjective] operace."
  ARG_end_the_coup_tt: "§GZvolením tohoto zaměření budou ukončeny mise vojenského převratu.§!"
  ARG_envoy_to_london: "Vyslanec do Londýna"
  ARG_envoy_to_london_desc: "[ENG.GetName] patří již mnoho let k našim nejbližším spojencům a nyní, když stojíme po jejich boku proti jejich nepřátelům, by bylo moudré vyslat [ARG.GetAdjective] vyslance do Londýna, abychom prohloubili vztahy s [ENG.GetAdjective] vládou."
@@ -138,7 +138,7 @@
  ARG_help_the_allies_desc: "Jak se válka dále stupňuje, [USA.GetName] tlačí na to, abychom opustili neutralitu a formálně se připojili ke Spojencům. Pokud se tak rozhodneme, staneme se oficiálním aktérem tohoto globálního konfliktu."
  ARG_hitler_1: "Do čtvrtice všeho dobrého"
  ARG_hitler_2_core_tt: "Získáme §Ydomovské území§! na všech bývalých §Yněmeckých§! státech."
- ARG_hitler_1_desc: "S naším novým prezidentem ve vládě byl zahájen okamžitý tlak na drastické změny v [ARG.GetNameDef], aby napodobili minulou moc, kterou drželo [GER.GetNameDef]. Señor Hilter se zdá být odhodlán založit Čtvrtou říši v Jižní Americe. Co by se mohlo tentokrát pokazit?" # todo: CHANGED
+ ARG_hitler_1_desc: "S novým prezidentem ve vládě okamžitě došlo k tlaku na zásadní změny, které musí [ARG.GetNameDef] prodělat, aby se napodobila někdejší moc, kterou disponoval [GER.GetNameDef]. Señor Hilter se zdá být odhodlán založit Čtvrtou říši v Jižní Americe. Co by se tentokrát mohlo pokazit?"
  ARG_hitler_2: "Guerra Relámpago"
  ARG_hitler_2_desc: "Guerra Relámpago, známá také jako „blesková válka“, je způsob vedení boje založený na drtivé síle mechanizované palebné moci. Náš prezident chce rychle expandovat a tvrdí, že „dohání ztracený čas“. Z nepochopitelných důvodů tyto plány zahrnují i [GER.GetNameDef]."
  ARG_hitler_2_tt: "Získáme válečný cíl §Y$annex_everything$§! proti všem §Ynefašistickým§! zemím v §YJižní Americe§!."
@@ -247,7 +247,7 @@
  ARG_reinforce_the_education_system_desc: "Vzdělání je základem demokratického státu. Každý, kdo žije v naši zemi, by měl mít možnost navštěvovat školu a rozvíjet se jako poctivý a pracovitý občan. Měli bychom tuto příležitost využít k cílenému financování určitých oborů v naději, že to umožní vlastní technologický a ekonomický rozvoj."
  ARG_reinforced_alliance.tt: "([ENG.GetFlag]§Y[ENG.GetNameDefCap]§!) obdrží událost „§Y$ARG_political_events.73.t$§!“, která nabídne §Ysmlouvu o neútočení§! a §Yzáruku nezávislosti§! mezi našimi zeměmi. Pravděpodobnost přijetí je vyšší, pokud mají §Yvysoký názor§! na nás."
  ARG_reinforced_alliance: "Posílení spolupráce"
- ARG_reinforced_alliance_desc: "Náš blízký vztah s Británií se ukazuje jako velmi užitečný, ale čím více studujeme jejich armádu, tím bolestněji nám dochází, že nejsme tak připraveni na případný konflikt, jak bychom mohli být. Měli bychom zvážit požádání o jejich výraznější podporu ve formě záruk a paktu o neútočení." # todo: CHANGED
+ ARG_reinforced_alliance_desc: "Naše úzké vztahy s Británií se ukazují jako velmi užitečné, avšak čím více studujeme jejich armádu, tím jasněji vidíme, že nejsme na případný konflikt připraveni tak, jak bychom mohli být. Měli bychom zvážit žádost o jejich otevřenější podporu ve formě záruk a smlouvy o neútočení."
  ARG_release_hellmuth: "Propustit Hellmutha"
  ARG_release_hellmuth_desc: "Osmar Hellmuth je [ARG.GetAdjective] občan [GER.GetAdjective] původu, který byl za staré vlády zatčen poté, co byl odhalen jako spolupracovník fašistické vlády, které ovládala [GER.GetNameDef]. Měli bychom jej okamžitě propustit a místo toho jej zaměstnat v naší vlastní zpravodajské službě."
  ARG_revisit_the_roca_runciman_treaty: "Znovu projednat smlouvu Roca-Runciman"
@@ -332,7 +332,7 @@
  ARG_unite_the_workers_of_argentina: "Sjednotit dělníky Argentiny"
  ARG_unite_the_workers_of_argentina_desc: "pokud se má [ARG.GetNameDef] změnit k lepšímu, musíme přesvědčit proletariát naší země, že radikální zlepšení jsou nezbytná k ukončení jejich utrpení. Sjednoťme pracující všech profesí a ukažme vládě, že status quo musí skončit!"
  ARG_universidad_de_buenos_aires: "Universidad de Buenos Aires"
- ARG_universidad_de_buenos_aires_desc: "Od univerzitních reforem z roku 1918 dokázala Universidad de Buenos Aires udržet spolusprávou řízené, demokraticky volené instituce a orgány. Jako největší univerzita v [ARG.GetName] bude investice do jejího rozvoje nadále vytvářet vysoce vzdělané jedince způsobilé vést zemi do budoucnosti." # todo: CHANGED
+ ARG_universidad_de_buenos_aires_desc: "Od univerzitních reforem roku 1918 si Universidad de Buenos Aires dokázala udržet spolusprávu a demokraticky volené instituce i orgány. Jako největší [ARG.GetAdjective] univerzita bude další investování do jejího rozvoje nadále produkovat vysoce vzdělané jedince schopné vést zemi do budoucnosti."
  ARG_university_reforms: "Univerzitní reformy"
  ARG_university_reforms_desc: "Jak posilujeme náš vzdělávací systém, naskýtá se skvělá příležitost reformovat také univerzity. Rozvoj vysokoškolského vzdělávání nám umožní lépe využívat výzkumná oddělení našich univerzit."
  ARG_uraguayan_ultimatum.tt: "([URG.GetFlag]§Y[URG.GetNameDefCap]§!) obdrží událost „§Y$ARG_political_events.19.t$§!“, která po nich bude požadovat, aby se stali naším §Ysubjektem§!. Pravděpodobnost přijetí je vyšší, pokud mají na nás §Yvysoký názor§!."
@@ -349,7 +349,7 @@
  ARG_women_in_industry: "Ženy v průmyslu"
  ARG_women_in_industry_desc: "Po příliš dlouhou dobu se od žen očekávalo, že zůstanou doma a budou pečovat o rodinu. Pokud může žena vést naši zemi, je jen správné umožnit jim pracovat i v dalších odvětvích. To výrazně pomůže hospodářské budoucnosti, protože se značně rozšíří naše pracovní síla."
  ARG_work_with_the_nationalists: "Spolupracovat s nacionalisty"
- ARG_work_with_the_nationalists_desc: "Možná je čas zvolit jiný přístup k vládnutí. Rostoucí korupce, která léta sužuje volby, nejeví známky zpomalení. Pokud budeme spolupracovat s nacionalistickými skupinami v zemi, můžeme mít lepší šanci obnovit pořádek v [ARG.GetNameDef]." # todo: CHANGED
+ ARG_work_with_the_nationalists_desc: "Možná nastal čas zvolit jiný přístup k vládnutí. Neustále narůstající korupce, která již roky sužuje volby, jasně ukazuje, že se situace nezlepšuje. Pokud budeme spolupracovat s nacionalistickými subjekty v zemi, můžeme mít [ARG.GetNameDef] větší šanci obnovit pořádek."
  ARG_workers_rights: "Práva pracujících"
  ARG_workers_rights_desc: "Jedním ze základních pilířů naší socialistické revoluce bylo zlepšení kvality života proletářských pracujících v [ARG.GetNameDef]. Nyní, když jsme převzali výrobní prostředky, musíme zajistit, aby špatné pracovní podmínky již nadále netrápily naše pole a továrny."
  ARG_worst_timeline_flag: "§Y[ARG.GetNameDef]§! má na čele §YSeñora Hiltera§!"
@@ -373,7 +373,7 @@
  BRA_amazonian_settlement_tt: "Odemkne rozhodnutí §Y$BRA_amazonian_settlement_cat$§! pro rozvoj amazonských států."
  BRA_anaue: "Anauê!"
  BRA_anaue_desc: "Naše hnutí přijalo výraz původního kmene Tupi, „Anauê“, jako bojový pokřik. Tento výraz začal ztělesňovat bratrství členů a jejich neochvějnou loajalitu k ochraně našeho státu. Anauê!"
- BRA_anaue_tt: "Odemkne rozhodnutí k náboru integralistických milicových divizí ve státech po dokončení tamních shromáždění. \nNáborem získá nového generála s atributem §Y$militias_officer$§!: \n Obrana milice §G+5%§! \n Rychlost milice §G+5%§! \n Organizace milice §G+5%§!" # todo: CHANGED
+ BRA_anaue_tt: "Odemkne rozhodnutí k náboru integralistických milic v jednotlivých státech po dokončení shromáždění.\nNaverbuje nového generála s vlastností §Y$militias_officer$§!:\n Obrana milic §G+5 %§!\n Rychlost milic §G+5 %§!\n Organizace milic §G+5 %§!"
  BRA_anti_democracy_in_south_america_tt: "Získáme válečný cíl §Y$puppet_wargoal_focus$§! proti všem §Ydemokratickým a nezařazeným§! zemím v §YJižní Americe§!."
  BRA_anti_imperialism: "Vyhnat impériá"
  BRA_anti_imperialism_desc: "Některým státům v našem okolí dosud nebyla přiznána jejich právoplatná nezávislost. Stále existují impériá, které si nárokují kontrolu nad těmito územími. Kolonialismus a imperialismus patří minulosti a je nejvyšší čas to těmto říším jasně sdělit."
@@ -427,7 +427,7 @@
  BRA_consolidation_of_labor_laws_fallback_tt: "V závislosti na předchozích volbách zaměření upraví jeden z následujících národních duchů:\n§Y$BRA_estado_novo_modifier$§! nebo §Y$BRA_estado_moderno_modifier$§!."
  BRA_constitutional_monarchy: "Kompromis konstituční monarchie"
  BRA_constitutional_monarchy_desc: "Sílící hnutí za obnovu císařství a slábnoucí podporou současného režimu rostou výzvy ke kompromisnímu řešení ke stabilizaci země. Nejvýraznějším návrhem je zřízení reprezentativní konstituční monarchie při zachování politické moci v Národním kongresu."
- BRA_constitutional_monarchy_tt: "V závislosti na předchozím výběru mezi §Y$BRA_petropolis_line$§! a §Y$BRA_vassouras_line$§! bude aktivován jeden z následujících národních duchů:" # todo: CHANGED
+ BRA_constitutional_monarchy_tt: "V závislosti na předchozí volbě mezi §Y$BRA_petropolis_line$§! a §Y$BRA_vassouras_line$§! bude aktivován jeden z následujících národních duchů:"
  BRA_constitutional_monarchy_tt_2: "§Ynebo§!"
  BRA_continue_centralization: "Podporovat centralizaci"
  BRA_continue_centralization_desc: "[ROOT.GetNameDefCap] je zemí mnoha kultur rozprostřených na obrovském území. Pokud neuděláme více pro sjednocení jednotlivých států, hrozí fragmentace či dokonce vojenské zásahy sousedů. Pouze silná centrální vláda dokáže ochránit náš lid a demokracii."
@@ -461,7 +461,7 @@
  BRA_departamento_de_ordem_politica_e_social: "Departamento de Ordem Política e Social"
  BRA_departamento_de_ordem_politica_e_social_desc: "Propaganda a nátlak nestačí k odrazení nejoddanějších radikálů či zahraničních agentů. Potřebujeme proto novou tajnou policii k vyšetřování těchto hrozeb."
  BRA_departamento_feminino: "Departamento Feminino"
- BRA_departamento_feminino_desc: "Existuje nespočet žen, které jsou stejně vlastenecké a věrné jako jejich manželé a otcové. Měli bychom jim dát možnost zapojit se do našeho hnutí a pracovat společně na obnovení [BRA.GetAdjective] slávy." # todo: CHANGED
+ BRA_departamento_feminino_desc: "Existuje nespočet žen, které jsou stejně vlastenecké a oddané jako jejich manželé a otcové. Měli bychom jim dát příležitost zapojit se do našeho hnutí a společně pracovat na obnově [BRA.GetAdjective] velikosti."
  BRA_depose_vargas: "[ROOT.GetLeader] musí být sesazen"
  BRA_depose_vargas_desc: "[ROOT.GetLeader] se stal přítěží. Ačkoli je schopným politikem, lidé mají jen omezenou míru tolerance. Chceme-li se vyhnout návratu do úpadku, musíme jej odstranit a nahradit přijatelnějším vůdcem z armády."
  BRA_desenvolvimentismo: "Desenvolvimentismo"
@@ -488,7 +488,7 @@
  BRA_establish_caloi: "Zřídit továrnu Caloi"
  BRA_establish_caloi_desc: "Rostoucí světové napětí ztížilo dovoz jízdních kol a součástek z Evropy a Severní Ameriky. Díky dostatku kaučuku a oceli bychom měli založit vlastní továrnu a zapojit kola i do armádního využití."
  BRA_establish_companhia_vale_do_rio_doce: "Companhia Vale do Rio Doce"
- BRA_establish_companhia_vale_do_rio_doce_desc: "Byly objeveny rozsáhlé žíly železné rudy a další bohaté ložiska v Minas Gerais, zejména v regionu Itabira. Musíme zajistit, aby stát mohl tyto zdroje využít a rozvinout tato ložiska založením nové společnosti s tímto hlavním cílem." # todo: CHANGED
+ BRA_establish_companhia_vale_do_rio_doce_desc: "V Minas Gerais, zejména v oblasti Itabira, byly objeveny rozsáhlé žíly železné rudy a další bohatá ložiska nerostů. Musíme zajistit, aby stát mohl tyto zdroje využít a rozvíjet jejich těžbu založením nové společnosti, jejímž hlavním cílem bude právě tento úkol."
  BRA_establish_psad: "Zřídit DASP"
  BRA_establish_psad_desc: "Státní aparát, který umožňuje provádění vládních politik, je zastaralý. Založíme Departamento Administrativo do Serviço Público (DASP), aby nám pomohl efektivněji spravovat stát a udržet hospodářskou výkonnost."
  BRA_establish_the_brazilian_investment_bank: "Propodnikatelské zdanění"
@@ -593,7 +593,7 @@
  BRA_jaguar_diplomacy_desc: "[CHI.GetName] nedávno využili jedno ze svých původních zvířat jako diplomatický dar. Navzdory ideologickým rozdílům se zdá, že jde o účinný způsob, jak urovnat napjaté vztahy se zahraničními vládami. Možná bychom mohli stejnou techniku použít i my, abychom odradili velmoci od vměšování do našich záležitostí."
  BRA_jaguar_diplomacy_tt: "Odemkne rozhodnutí §Y$BRA_jaguar_diplomacy_cat$§! k uklidnění velmocí, které se staví proti komunismu v Jižní Americe, prostřednictvím uzavírání smluv o neútočení."
  BRA_join_the_comintern: "Vstoupit do Kominterny"
- BRA_join_the_comintern_desc: "Příliš dlouho stál [BRA.GetNameDef] mimo Komintern, a přitom spoléhal na její podporu. Je nejvyšší čas, abychom se řádně snažili o vstup!" # todo: CHANGED
+ BRA_join_the_comintern_desc: "[BRA.GetNonIdeologyName] příliš dlouho stála mimo Kominternu, a přesto se spoléhala na její podporu. Nastal nejvyšší čas usilovat o plnoprávné členství!"
  BRA_julieta_soria: "Julieta Soria"
  BRA_kgbrazil: "[BRA_kgbrazil_key]"
  BRA_kgbrazil_cangaco: "Rede Coiteiros"
@@ -636,7 +636,7 @@
  BRA_organization_of_american_unity_desc: "Naše vnitřní politika byla v posledních letech úspěšná, nyní je čas obrátit pozornost k zahraničním vztahům a podpoře spolupráce napříč hemisférou prostřednictvím Organizace amerických států."
  BRA_organization_of_american_unity_tt: "Odemkne rozhodnutí §YPozvat do Organizace amerických států§! pro přizvání dalších zemí do této nadnárodní organizace."
  BRA_oust_prestes: "Zabránit kultu osobnosti"
- BRA_oust_prestes_desc: "Komunistickou společnost by neměla řídit hrstka jednotlivců. I když takové státy existují, obáváme se, že je jen otázkou času, než se stanou ničím jiným než kultem osobnosti. Abychom zabránili, že se nám toto stane, měl by ANL výbor převzít kontrolu nad politickými záležitostmi země." # todo: CHANGED
+ BRA_oust_prestes_desc: "Komunistická společnost nemá být řízena několika jednotlivci. Ačkoli existují země, které tak fungují, obáváme se, že je jen otázkou času, než se z nich stanou pouhé kulty osobnosti. Abychom tomuto osudu předešli, měla by rada ANL převzít řízení politických záležitostí země."
  BRA_pact_of_silence: "Pakt mlčení"
  BRA_pact_of_silence_desc: "Národy povstávají a národy padají. S pádem tolika z nich se v poslední době objevuje přebytek odborníků ve všech oblastech, kteří hledají bezpečnější útočiště. Možná bychom mohli přivřít oči nad jejich původem, pokud budeme moci těžit z jejich odborných znalostí."
  BRA_panama_push: "Nátlak na Panamu"
@@ -666,7 +666,7 @@
  BRA_promote_resource_extraction: "Podporovat těžbu surovin"
  BRA_promote_resource_extraction_desc: "Naše země byla obdařena bohatými přírodními zdroji. Pro podporu hospodářského růstu a nezávislosti budeme investovat do moderní těžební techniky pro náš průmysl."
  BRA_provoke_argentina: "Vyprovokovat Argentinu"
- BRA_provoke_argentina_desc: "Je jasné, že [ARG.GetName] si přeje nás izolovat a zničit, ale pokud budeme jednat příliš ukvapeně, abychom tomu zabránili, můžeme čelit hněvu [USA.GetName]. Místo toho vyprovokujeme [ARG.GetAdjective]s, aby vystřelili první, a konečně se pomstíme za Cisalpinský konflikt!" # todo: CHANGED
+ BRA_provoke_argentina_desc: "Je zřejmé, že [ARG.GetName] nás chce izolovat a zničit, avšak pokud budeme jednat příliš unáhleně, mohli se [USA.GetName] rozzlobit. Místo toho vyprovokujeme Argentince k prvnímu výstřelu a konečně se dočkáme odplaty za Argentinsko-brazilskou válku!"
  BRA_purchase_soviet_equipment: "Nakoupit sovětské vybavení"
  BRA_purchase_soviet_equipment_desc: "Naše armáda trpí v současnosti velkým nedostatkem vybavení. Chceme-li ji dále rozšiřovat, potřebujeme možnost nakupovat techniku za výhodných podmínek od důvěryhodného spojence. S trochou vyjednávání bychom mohli zajistit, že nám s vybavením pomůže [SOV.GetNameDef]."
  BRA_radicalize_the_proletariat: "Radikalizovat proletariát"
@@ -728,7 +728,7 @@
  BRA_south_american_research_cooperation_desc: "Není tajemstvím, že průmysl a univerzity v Latinské Americe nemají přístup ke stejnému financování jako mnozí naši rivalové. Spoluprací v rámci společného výzkumného institutu se však můžeme vyhnout duplicitám a zrychlit tempo inovací v celém regionu."
  BRA_south_american_tech_sharing_group_tt: "Pokud členové frakce v Jižní Americe souhlasí se vstupem:"
  BRA_soviet_arms_industry: "Pozvat sovětský zbrojní průmysl"
- BRA_soviet_arms_industry_desc: "Máme silný vojenský průmysl v [BRA.GetNameDef], ale v poslední době hledáme způsoby, jak jeho sílu ještě více posílit. Některé [SOV.GetAdjective] vojensko-průmyslové organizace projevily zájem o zřízení provozů v [BRA.GetNameDef], měli bychom zvážit jejich pozvání." # todo: CHANGED
+ BRA_soviet_arms_industry_desc: "[BRA.GetNameDef] má silný vojenský průmysl, ale v poslední době hledáme způsoby, jak jej ještě více posílit. Některé [SOV.GetAdjective] vojensko-průmyslové organizace projevily zájem zahájit činnost u nás, měli bychom zvážit jejich pozvání."
  BRA_soviet_economic_aid: "Sovětská hospodářská pomoc"
  BRA_soviet_economic_aid_desc: "Po letech vedení představiteli s odlišnými představami se naše ekonomika nenachází ve stavu, který bychom si přáli. Abychom urychlili její obnovu, měli bychom zvážit žádost o pomoc od zemí se stejným ideovým směřováním."
  BRA_spirit_of_acre_war: "Oživit ducha Války o Acre"
@@ -773,7 +773,7 @@
  BRA_union_of_latin_american_socialist_republics: "Založit ULASR"
  BRA_union_of_latin_american_socialist_republics_desc: "Naše revoluční hnutí nadále narušuje struktury buržoazní společnosti napříč kontinentem. Je zřejmé, že už nejsme jen hnutím [ROOT.GetAdjective] soudruhů - jsme hnutím Jihoameričanů a je čas, aby naše politické struktury tuto změnu odrážely."
  BRA_united_kingdom_of_brazil_and_portugal: "Spojená království Brazílie a Portugalska"
- BRA_united_kingdom_of_brazil_and_portugal_desc: "Obnova císařského rodu Brazílie znovu probudila monarchistické nálady i v Portugalsku. Možná bychom toho měli využít jako příležitosti sjednotit naše národy pod jediným monarchou. Koneckonců oba státy mohou vzájemně těžit z svých zdrojů a odborností." # todo: CHANGED
+ BRA_united_kingdom_of_brazil_and_portugal_desc: "Obnova brazilského císařského rodu znovu probudila monarchistické nálady i v Portugalsku. Možná bychom této příležitosti mohli využít ke znovusjednocení našich zemí pod jedním panovníkem."
  BRA_united_kingdom_of_brazil_and_portugal_tt: "Požádá, aby se §Y[POR.GetFlag][POR.GetNonIdeologyName]§! a §Y[BRA.GetFlag][BRA.GetNonIdeologyName]§! sjednotili. Pokud §Y[POR.GetFlag][POR.GetNonIdeologyName]§! souhlasí, stanou se subjektem Brazílie. Mohou však nabídnout alternativu nebo návrh odmítnout."
  BRA_united_states_of_brazil: "Spojené státy Brazílie"
  BRA_united_states_of_brazil_desc: "Ačkoli jsme v rámci ústavy z roku 1934 učinili mnoho pro podporu politické a hospodářské rovnosti, zůstáváme omezeni jejími ustanoveními. Je v zájmu státu tuto nevýraznou ústavu opustit a nahradit ji ústavou po vzoru Spojených států amerických."
@@ -804,7 +804,7 @@
  CHL_1938_chilean_presidential_election_tt: "Když se §Yprezidentské volby§! uskuteční koncem §Yříjna 1938§!, toto zaměření bude automaticky dokončeno"
  CHL_CHL_international_loans_tt: "Odemkne rozhodnutí §YVzít si půjčky§! od zahraničních mocností za účelem zlepšení ekonomiky"
  CHL_a_french_alliance: "Sjednotit frankofony"
- CHL_a_french_alliance_desc: "Když naši monarchističtí přátelé ve Francii převzali moc, bylo by moudré usilovat o spojenectví s nimi, jelikož sdílejí naše cíle i kulturní dědictví a jazyk. Společně jsme nezastavitelní." # todo: CHANGED
+ CHL_a_french_alliance_desc: "Protože se naši monarchističtí přátelé ve Francii chopili moci, bylo by moudré usilovat o spojenectví s nimi. Sdílíme stejné úmysly, cíle, dědictví i jazyk. Společně jsme nezastavitelní."
  CHL_a_grand_armada: "Velká Armada"
  CHL_a_grand_armada_desc: "Stejně jako za časů starého Španělského impéria, z něhož jsme vzešli, si Carlos Ibáñez del Campo přeje Velkou Armadu - dostatečně silnou, aby dokázala čelit britskému královskému námořnictvu, Američanům i německé oceánské flotile zároveň. A tak se staň!"
  CHL_a_joint_application_to_the_allies: "Společná žádost Spojencům"
@@ -823,7 +823,7 @@
  CHL_advancements_in_telecommunications: "Pokrok v telekomunikacích"
  CHL_advancements_in_telecommunications_desc: "Naši vědci ve výzkumu a vývoji začali vyvíjet lepší způsoby využití nejen rádia, ale také rozšiřovat možnosti využití televize. Díky tomu můžeme snáze šířit obecné informace mezi obyvatelstvo a lépe komunikovat poznatky mezi vzdálenými vědeckými pracovišti."
  CHL_alianza_popular_libertadora_as_a_vanguard: "Alianza Popular Libertadora"
- CHL_alianza_popular_libertadora_as_a_vanguard_desc: "Protože je obtížné vládnout zcela sám, bylo by moudré vytvořit koaliční vládu s poradci z různých pravicových politických stran, aby přinesli své názory do vlády." # todo: CHANGED
+ CHL_alianza_popular_libertadora_as_a_vanguard_desc: "Protože je obtížné vládnout zcela samostatně, bylo by moudré vytvořit koaliční vládu s poradci z různých pravicových stran, aby mohli přinášet své názory ke společnému stolu."
  CHL_align_the_marxists: "Sjednotit marxisty"
  CHL_align_the_marxists_desc: "V naší zemi je mnoho těch, kteří považují současnou vládní strukturu za slabou, ale řadu z nich lze poměrně snadno přesvědčit, aby vládu podpořili, pokud se k nim levicový prezident obrátí."
  CHL_align_the_police: "Sjednotit vyšetřovací policii"
@@ -873,7 +873,7 @@
  CHL_convene_the_araucanian_congress: "Svolat araukánský kongres"
  CHL_convene_the_araucanian_congress_desc: "Čas zahájit válku za nezávislost se blíží, ale uvnitř našeho hnutí panuje rozkol. Někteří tvrdí, že komunisté by byli užitečnými spojenci se společnými cíli, jiní se obávají frakcionářství a zrady v rozhodující chvíli. Komu lze věřit?"
  CHL_cooperate_with_operation_bolivar: "Spolupracovat na Operaci Bolívar"
- CHL_cooperate_with_operation_bolivar_desc: "Němci nám však hodně pomohli. Když jsme to nejvíce potřebovali, němečtí osadníci přišli kolonizovat Araucanía, a nyní potřebují pomoc v potýkání se s Američany. Je naší povinností jim v tom pomoci a splatit dluh, který jim dlužíme." # todo: CHANGED
+ CHL_cooperate_with_operation_bolivar_desc: "Němci pro nás udělali mnoho. Když jsme to nejvíce potřebovali, němečtí osadníci přišli kolonizovat Araukánii a nyní potřebují pomoc proti Američanům. Je naší povinností jim pomoci a splatit dluh, který jim dlužíme."
  CHL_cooperation_with_the_falange: "Spolupráce s Národní falangou"
  CHL_cooperation_with_the_falange_desc: "Národní falanga je křesťanskodemokratická strana založená roku 1935, složená převážně z progresivních a reformních katolíků. Jelikož se mnoho jejich politik shoduje s našimi, nemělo by být obtížné je přizvat do vlády."
  CHL_counter_operation_bolivar: "Čelit Operaci Bolívar"
@@ -881,10 +881,10 @@
  CHL_crown_antoine_as_sovereign_king: "Korunovat Antoina svrchovaným králem"
  CHL_crown_antoine_as_sovereign_king_desc: "Jacques Antoine Bernard se během naší občanské války vrátil z Francie s pomocí pro naši vládu, za cenu toho, že mu předáme moc a udělíme titul svrchovaného krále Araukánie a Patagonie. Co by se mohlo pokazit?"
  CHL_crusade_against_imperialism: "Křížová výprava proti imperialismu"
- CHL_crusade_against_imperialism_desc: "Nastal čas, kdy jsme připraveni postavit se širému světu ve jménu spravedlnosti! Je čas ukázat dekadentním Evropanům, že se jim už neukloníme. Do zbraně, muži, tentokrát přeneseme boj k nim!" # todo: CHANGED
+ CHL_crusade_against_imperialism_desc: "Konečně nastal čas postavit se širšímu světu ve jménu spravedlnosti! Ukážeme dekadentním Evropanům, že si na nás už nedovolí. Do zbraně! Tentokrát jim boj přineseme my."
  CHL_crusade_against_imperialism_tt: "Odemkne rozhodnutí k §Yosvobození amerindiánských§! a §Ypolynéských států§! z imperialistického útlaku"
  CHL_cultivate_fanaticism: "Pěstovat fanatismus"
- CHL_cultivate_fanaticism_desc: "Bez sjednocení nemají lidé Jižní a Střední Ameriky budoucnost, a to musí být všem jasné. Pokud nyní nevstaneme proti Američanům, jistě padneme do jejich manipulativních a imperialistických spárů. Čest dělá Hispánce, a zuřivost je to, co okusí každý, kdo se nám postaví." # todo: CHANGED
+ CHL_cultivate_fanaticism_desc: "Bez sjednocení nemají obyvatelé Jižní a Střední Ameriky budoucnost a to musí být všem jasné. Pokud se nyní nepostavíme Američanům, jistě padneme do jejich manipulativních a imperialistických spárů. Čest definuje Hispánce a zuřivost okusí každý, kdo se nám postaví."
  CHL_defense_of_the_hemisphere: "Obrana polokoule"
  CHL_defense_of_the_hemisphere_desc: "Mnohé státy na naší polokouli by velmi ocenily ochranu před USA, a právě to jim můžeme nabídnout my - spolu s Němci."
  CHL_demand_demilitarization_of_patagonia: "Požadovat demilitarizaci Patagonie"
@@ -919,7 +919,7 @@
  CHL_electing_a_toqui_tt: "Budeme moci zvolit vůdce s unikátní vlastností"
  CHL_embargo_strategies: "Strategie embarg"
  CHL_embargo_strategies_desc: "Existuje více způsobů, jak podporovat naše demokratické spojence, než jen posílat vojáky do boje, a čas ukázal, že ekonomická opatření mohou být stejně účinná. Proto bychom měli uvalit embargo na nepřátele našich přátel a připravit je o měď a dusičnany, které potřebují k vedení války."
- CHL_embargo_strategies_tt: "Uvalíme §Yembargo§! na všechny národy ve válce s hlavními §Ydemokratickými§! zeměmi světa." # todo: CHANGED
+ CHL_embargo_strategies_tt: "Uvalíme §Yembargo§! na všechny státy ve válce s §Ydemokratickými§! velmocemi světa."
  CHL_embrace_indigenous_corporatism: "Přijmout domorodý korporativismus"
  CHL_embrace_indigenous_corporatism_desc: "Myšlenky Venancia Coñuepána Huenchuala o korporativismu založeném na starých tradicích chilského domorodého řemesla a stavebnictví bychom měli přijmout a učinit z nich oficiální státní politiku pro naše průmysly."
  CHL_empower_the_preparation_department: "Posílit oddělení příprav"
@@ -940,7 +940,7 @@
  CHL_enter_patagonia: "Vstoupit do Patagonie"
  CHL_enter_patagonia_desc: "Pokud nám Argentinci alespoň na okamžik uvěří, je to důkaz, že jsme je zmátli a vystrašili. Nastal čas, aby naše jednotky vstoupily do Patagonie a udeřily tvrdě dříve, než vůbec pochopí, co se stalo."
  CHL_escalate_the_laguna_del_desierto_issue: "Vyostřit spor o Lagunu del Desierto"
- CHL_escalate_the_laguna_del_desierto_issue_desc: "Vymezení kolem Laguna del Desierto je velmi nejasné a navíc nakloněné Argentincům. Měli bychom obsadit tu část regionu, která nám právem náleží, a možná jít i o něco dál." # todo: CHANGED
+ CHL_escalate_the_laguna_del_desierto_issue_desc: "Vymezení hranic kolem Laguny del Desierto je velmi nejasné a navíc nakloněné ve prospěch Argentiny. Měli bychom obsadit část regionu, která nám právem náleží, a možná zajít ještě o něco dál."
  CHL_establish_a_royal_guard: "Zřídit královskou gardu"
  CHL_establish_a_royal_guard_desc: "Žádný král se neobejde bez velkolepého dvora a stráží po svém boku, a Antoine III. bohužel nemá ani jedno. Zřízení královské gardy by proto mělo být nejvyšší prioritou."
  CHL_establish_corfo: "Zřídit CORFO"
@@ -968,7 +968,7 @@
  CHL_expand_the_mountain_regiments: "Rozšířit horské pluky"
  CHL_expand_the_mountain_regiments_desc: "Naše nejelitnější jednotky jsou specializované horské pluky, schopné tvrdého boje kdekoli v zemi. Měli bychom nařídit generálům, aby se s těmito jednotkami střídali a cvičili, a poskytnout jim veškeré potřebné speciální vybavení."
  CHL_expand_the_naval_arsenal: "Rozšířit námořní arzenál"
- CHL_expand_the_naval_arsenal_desc: "Arsenales de Marina jsou naším důvěryhodným výrobcem lodí a také nám pomáhají udržovat flotilu v tak dobrém stavu, jakého jsme v posledních letech dosáhli, což daleko převyšuje úroveň údržby, jaké dosáhla kterákoliv jiná jihoamerická země. Nyní bychom měli zvýšit jejich financování, abychom se připravili na válku." # todo: CHANGED
+ CHL_expand_the_naval_arsenal_desc: "Arsenales de Marina jsou naším spolehlivým výrobcem lodí a pomáhají udržovat flotilu ve výrazně lepším stavu než v jiných jihoamerických zemích. Nyní bychom měli zvýšit jejich financování, abychom je připravili na válku."
  CHL_expand_the_officer_corps: "Rozšířit důstojnický sbor"
  CHL_expand_the_officer_corps_desc: "Mnoho důstojníků loajálních fašistickým či socialistickým směrům opustilo službu. Musíme rozšířit důstojnický sbor a vychovat mladé důstojníky, abychom tento nedostatek vyřešili."
  CHL_focus_on_cattle_and_wool: "Zaměřit se na dobytek a vlnu"
@@ -1004,11 +1004,11 @@
  CHL_impose_new_taxes: "Zavést nové daně"
  CHL_impose_new_taxes_desc: "Naše státní pokladna se po mnoha snahách o navrácení země do jejího bývalého stavu značně vyprázdnila. Abychom tuto situaci zmírnili, dobrým plánem by bylo zavést nové daně z příjmu pro obyvatelstvo. Zpočátku se jim to možná nebude líbit, ale dejme tomu čas - uklidní se a my budeme mít k dispozici mnohem více prostředků."
  CHL_incorporate_machi_into_the_army: "Začlenit machi do armády"
- CHL_incorporate_machi_into_the_army_desc: "Machi jsou tradiční léčitelé a náboženští vůdci v naší víře a jsou známí svými tradičními léčebnými uměními. Měli bychom zajistit, aby každá divize měla alespoň jednoho, aby byla zajištěna zdraví našich jednotek v boji." # todo: CHANGED
+ CHL_incorporate_machi_into_the_army_desc: "Machi jsou tradiční léčitelé a náboženští vůdci v rámci našeho náboženství, známí svými tradičními léčebnými postupy. Měli bychom zajistit, aby měla každá divize alespoň jednoho, což pomůže udržet zdraví našich vojáků v boji."
  CHL_increase_presidential_powers: "Rozšířit prezidentské pravomoci"
  CHL_increase_presidential_powers_desc: "Prezident je jediný, kdo je potřeba k vedení země, protože silný vůdce je lepší než roztříštěný a slabý parlament. Prezident je parlament a není zapotřebí jejich politické účasti."
  CHL_increase_spending_on_public_works: "Zvýšit výdaje na veřejné práce"
- CHL_increase_spending_on_public_works_desc: "Jestli něco Alessandri během svého prezidentství dokázal, pak to, že veřejné projekty jsou skvělý způsob, jak oživit ekonomiku." # todo: CHANGED
+ CHL_increase_spending_on_public_works_desc: "Pokud něco Alessandri během svého prezidentství prokázal, pak to, že veřejné práce jsou skvělým způsobem, jak znovu nastartovat ekonomiku."
  CHL_indigenous_union: "Svaz původních obyvatel Ameriky"
  CHL_inflation_control_by_the_central_bank: "Kontrola inflace Banco Central de Chile"
  CHL_inflation_control_by_the_central_bank_desc: "Banco Central de Chile byla založena prezidentem Arturem Alessandrim v roce 1925. Měli bychom ji pověřit kontrolou inflace, aby podporovala dlouhodobý hospodářský rozvoj Chile a zabránila spirálovitému růstu cen způsobujícímu ekonomické a politické škody."
@@ -1019,7 +1019,7 @@
  CHL_introduce_the_franc: "Zavést frank"
  CHL_introduce_the_franc_desc: "Chilské peso je slabé a selhávající a navíc je spojováno se starým chilským státem. Měli bychom usilovat o zavedení franku jako náhrady této měny, ku prospěchu celé země."
  CHL_invest_in_shipping: "Investovat do lodní dopravy"
- CHL_invest_in_shipping_desc: "Vojenské využití moře není jediné. Jako země do značné míry závislá na obchodu a s offshore regiony, jako je Rapa Nui, bychom měli rozšířit obchodní loďstvo a investovat prostředky do rozvoje námořního průmyslu." # todo: CHANGED
+ CHL_invest_in_shipping_desc: "Moře neslouží jen armádě. Jako země do značné míry závislá na obchodu a s držbami v zámoří, jako je Rapa Nui, bychom měli rozšířit obchodní loďstvo a investovat prostředky do rozvoje lodního průmyslu."
  CHL_invite_carlist_refugees: "Pozvat karlistické uprchlíky"
  CHL_invite_carlist_refugees_desc: "Karlísté ve Španělsku jsou nám blízcí jako spoluzastánci monarchie. Jelikož byli vyhnáni ze svých domovů, mohli bychom si získat jejich přízeň tím, že jim nabídneme útočiště."
  CHL_invite_french_academia: "Pozvat francouzskou akademickou obec"
@@ -1038,7 +1038,7 @@
  CHL_joint_invasion_of_mexico: "Společná invaze do Mexika"
  CHL_joint_invasion_of_mexico_desc: "Nyní, když jsme si zajistili spojenectví s novou Francouzskou říší, je čas zopakovat to, co se nám kdysi nepodařilo. Mexické císařství musí znovu povstat, jinak všichni padneme pod náporem Američanů!"
  CHL_joint_research_initiatives: "Společné výzkumné iniciativy"
- CHL_joint_research_initiatives_desc: "Nyní, když jsme spojenci, bychom měli usilovat o vzájemné zřízení laboratoří a programů výzkumné spolupráce, abychom podpořili vývoj zbraní nad rámec toho, čeho jsou kapitalisté a imperialisté světa schopni." # todo: CHANGED
+ CHL_joint_research_initiatives_desc: "Jako spojenci bychom se měli snažit společně zakládat laboratoře a programy výzkumné spolupráce, abychom posunuli vývoj zbraní dále, než jsou schopni kapitalisté a imperialisté světa."
  CHL_joint_research_initiatives_tt: "§YChile§! a všechny země v naší frakci vstoupí do §Yskupiny sdílení technologií§!"
  CHL_kickstart_the_arsenal_of_democracy: "Nastartovat arzenál demokracie"
  CHL_kickstart_the_arsenal_of_democracy_desc: "Je pravděpodobné, že budeme v blízké budoucnosti zataženi do velkého konfliktu. Abychom se v takové situaci neocitli na pokraji zničení, musíme rychle rozšířit naše vojensko-průmyslové organizace."
@@ -1055,7 +1055,7 @@
  CHL_law_of_permanent_defense_of_democracy: "Zákon o trvalé obraně demokracie"
  CHL_law_of_permanent_defense_of_democracy_desc: "Komunistická hrozba se vznáší nejen nad námi, ale nad celým světem. Pokud chceme přežít studenou válku, která nepochybně přijde, musíme zajistit, aby komunisté neměli žádnou možnost svrhnout náš režim a ohrozit náš lid."
  CHL_liberate_the_caribbean: "Osvobodit Karibik"
- CHL_liberate_the_caribbean_desc: "Karibik nemusí být celý hispánský, ani nutně latinskoamerický, přesto by měl spadat do naší sféry vlivu a musíme učinit veškerá opatření, abychom ostrovy zajistili pro sebe." # todo: CHANGED
+ CHL_liberate_the_caribbean_desc: "Karibik sice není celý hispánský ani latinskoamerický, přesto by měl spadat do naší sféry vlivu a musíme přijmout veškerá opatření k zajištění ostrovů pro sebe."
  CHL_look_to_tradition: "Obrátit se k tradicím"
  CHL_look_to_tradition_desc: "Arturo Alessandri měl svou chvíli slávy a dosud nevyřešil žádný z palčivých problémů, které nad zemí stále visí. Musíme proto ustoupit od liberalismu a vrátit se k osvědčeným tradičním hodnotám, na nichž jsme kdysi stavěli."
  CHL_low_cost_housing: "Dostupné bydlení"
@@ -1111,7 +1111,7 @@
  CHL_propose_closer_cooperation_desc: "Komunistické státy v našem okolí sice sdílejí naši ideologii, ale jsou strategicky roztříštěné a nekoordinované. Měli bychom je vzít pod svá křídla a lépe je vést."
  CHL_propose_closer_cooperation_tt: "Odešle událost všem §Ykomunistickým státům§! v §YJižní a Střední Americe§! s požadavkem, aby se nám podřídily"
  CHL_protect_the_easter_island: "Chránit Velikonoční ostrov"
- CHL_protect_the_easter_island_desc: "Velikonoční ostrov, místními známý jako Rapa Nui, je neustále ohrožován fašisty na západě. Musíme nejen opevnit ostrov a rozvinout jeho přístavy, ale také preventivně udeřit na každého, kdo by si nárokoval Tichý oceán." # todo: CHANGED
+ CHL_protect_the_easter_island_desc: "Velikonoční ostrov, místně známý jako Rapa Nui, je neustále ohrožován fašisty na západě. Musíme ostrov nejen opevnit a rozšířit jeho přístavy, ale také preventivně udeřit proti každému, kdo by si chtěl činit nárok na Tichý oceán."
  CHL_protect_the_easter_island_tt: "Získáme §Yválečný cíl na svržení vlády§! na §Y[JAP.GetName]§!, §Y[NZL.GetName]§! nebo §Y[AST.GetName]§!, pokud jsou §Ynezávislé§! a §Yfašistické§! nebo §Yneutrální§! a jsou ve válce s §Yamerickou demokracií§!"
  CHL_public_works: "Projekty veřejných prací"
  CHL_public_works_desc: "Od chvíle, kdy USA uzavřely své hranice a zastavily export, se naše ekonomika zhroutila a obyvatelstvo se rozprchlo. Abychom se z této katastrofy zotavili co nejefektivněji, měli bychom podporovat rozsáhlé programy veřejných prací po vzoru amerického New Dealu."
@@ -1129,7 +1129,7 @@
  CHL_recruit_young_officers_desc: "Mnoho vysoce postavených generálů zastávalo levicovější sympatie a po našem převzetí moci téměř všichni podali rezignaci. Měli bychom proto povýšit vlastenecké a fanatické mladé důstojníky z řad vojska, aby nahradili své dekadentní nadřízené."
  CHL_recruit_young_officers_tt: "Někteří mladí důstojníci budou povýšeni na §Ygenerály§!"
  CHL_reestablish_the_republican_guard: "Znovuobnovit republikánskou gardu"
- CHL_reestablish_the_republican_guard_desc: "Nyní, když jsme opět pod útokem, musí být Republikánská garda znovu sestavena, aby odrazila vysoce postavenou hrozbu, která se nás rozhodla pronásledovat. Do zbraně, muži, bojujte za svou republiku!" # todo: CHANGED
+ CHL_reestablish_the_republican_guard_desc: "Nyní, když jsme znovu napadeni, musí být Republikánská garda znovu sestavena, aby čelila vážné hrozbě, která nás pronásleduje. Do zbraně, muži, bojujte za republiku!"
  CHL_repeal_the_separation_of_church_an_state: "Zrušit odluku církve od státu"
  CHL_repeal_the_separation_of_church_an_state_desc: "Oddělení církve od státu bylo závažnou chybou a musí být co nejdříve napraveno. Církev je naším spojencem, to přece všichni dobře víme."
  CHL_request_assistance_in_the_war: "Požádat o pomoc ve válce"
@@ -1142,7 +1142,7 @@
  CHL_return_to_the_continent: "Návrat na kontinent"
  CHL_return_to_the_continent_desc: "V současném francouzském systému je zakořeněna slabost a my jsme zde, abychom ji využili. Je čas se znovu vrátit na kontinent a získat zpět své dědictví."
  CHL_return_to_the_parliamentary_era: "Návrat k parlamentní éře"
- CHL_return_to_the_parliamentary_era_desc: "Existuje jen jedna univerzální pravda: moc korumpuje a absolutní moc korumpuje absolutně. Musíme proto zajistit, aby parlament měl co největší slovo, aby šílený prezident nemohl řídit celou budoucnost našeho národa." # todo: CHANGED
+ CHL_return_to_the_parliamentary_era_desc: "Existuje jen jedna univerzální pravda: moc korumpuje a absolutní moc korumpuje absolutně. Musíme proto zajistit, aby měl parlament co největší slovo, aby šílený prezident nemohl řídit celou budoucnost našeho národa."
  CHL_return_to_the_parliamentary_era_tt: "Najme §YMiguela Cruchagu Tocornala§! jako poradce"
  CHL_revise_the_social_classes: "Přehodnotit společenské třídy"
  CHL_revise_the_social_classes_desc: "Nyní, když máme znovu vlastní společnost, je nejvyšší čas restrukturalizovat společenské třídy tak, aby lépe odpovídaly našim názorům a ideálům. Éra Evropanů se brzy chýlí ke konci!"
@@ -1200,7 +1200,7 @@
  CHL_suppress_the_nacistas_desc: "Movimiento Nacional-Socialista je v poslední době na vzestupu a je zřejmé, že se chystají k akci. Musíme zůstat ostražití a potlačit jakýkoli odpor, kdekoliv se objeví."
  CHL_suppress_the_nacistas_tt: "Nacistické povstání bude §Goslabeno§!"
  CHL_sway_ariosto_hererra: "Získat Ariosta Herreru"
- CHL_sway_ariosto_hererra_desc: "Generál Ariosto Herrera projevil silné antisocialistické sympatie, ale není nám nutně loajální. Bylo by rozumné zajistit jeho podporu a podporu jeho nejvěrnějších mužů, protože lidé jako on se nám v řadách jistě hodí." # todo: CHANGED
+ CHL_sway_ariosto_hererra_desc: "Generál Ariosto Herrera je znám svými silnými antisocialistickými postoji, ale jeho loajalita k nám není jistá. Bylo by moudré zajistit si podporu jeho i jeho nejvěrnějších mužů, protože lidé jako on se nám mohou v našich řadách rozhodně hodit."
  CHL_sway_ariosto_hererra_tt: "§YAriosto Herrera§! a jeho muži se k nám připojí při státním převratu"
  CHL_syndicalize_the_production_sector: "Syndikalizovat výrobní sektor"
  CHL_syndicalize_the_production_sector_desc: "Výrobní sektor je v současnosti sužován neefektivitou a krutými haciendados, kteří myslí jen na vlastní zisk. Měli bychom průmysl syndikalizovat a zavést skutečný falangistický korporativní průmyslový model."
@@ -1209,7 +1209,7 @@
  CHL_taking_back_patagonia_kingdom: "Znovusjednotit království"
  CHL_taking_back_patagonia_kingdom_desc: "Přestože jsme se prohlásili za nové Království Araukánie a Patagonie, stále nám chybí podstatná část království, konkrétně Patagonie. Musíme se snažit říši co nejdříve znovu sjednotit, jinak riskujeme ztrátu i té malé legitimity, kterou máme."
  CHL_taking_back_patagonia_mapuche: "Znovuzískat Puelmapu"
- CHL_taking_back_patagonia_mapuche_desc: "Starý mapučský region Puelmapu, velké části dnešní argentinské Patagonie, jsou stále pod cizím utlačováním a nemůžeme osvobodit žádné jiné amerindiánské národy, dokud úspěšně neosvobodíme ten svůj. Proto, jelikož není jiné cesty, budeme muset jít do války...." # todo: CHANGED
+ CHL_taking_back_patagonia_mapuche_desc: "Starobylý mapučský region Puelmapu, tvořící velkou část dnešní argentinské Patagonie, je stále pod cizím útlakem. Dokud neosvobodíme vlastní lid, nemůžeme osvobozovat další domorodé národy. Nezbývá nám tedy jiná možnost než jít do války..."
  CHL_the_future_of_Chile: "[CHL.GetName] a budoucnost"
  CHL_the_future_of_Chile_desc: "Komunistická strana se musí sejít, aby rozhodla o dalším směřování v nadcházejících letech, jelikož současná široká koalice se nedokáže shodnout ve všech bodech. Na výběr jsou marxista $CHL_elias_lafertte_gavino$, socialista $CHL_marmaduke_grove$, stalinista $CHL_carlos_contreras_labarca$ a trockista $CHL_manuel_hidalgo_plaza$."
  CHL_the_hispanic_alliance: "Hispánská aliance"
@@ -1246,7 +1246,7 @@
  CHL_undo_colonialist_occupations_desc: "Koloniální mocnosti příliš dlouho okupovaly části Hispánské Ameriky. Je čas jim ukázat, že s námi si zahrávat nebudou. Pošlete armádu!"
  CHL_undo_colonialist_occupations_tt: "Odemkne rozhodnutí k §Yobsazení Belize a Panamského průplavu§!"
  CHL_unified_by_will: "Sjednoceni vůlí"
- CHL_unified_by_will_desc: "Amerindiánské a polynéské národy byly nyní sjednoceny naším antiimperialistickým úsilím, ale to nestačí. Pokud chceme odvrátit invaze Evropanů na staletí dopředu, musíme se spojit a vytvořit jeden národ pro všechny naše lidi, sjednocení vůlí mít stát, který nebude řízen Evropany." # todo: CHANGED
+ CHL_unified_by_will_desc: "Domorodé a polynéské národy byly sjednoceny naším antiimperialistickým úsilím, ale to nestačí. Chceme-li po staletí odrazit evropské invaze, musíme se spojit v jeden stát - stát našich národů, nespravovaný Evropany."
  CHL_unified_in_spirit: "Sjednoceni duchem"
  CHL_unified_in_spirit_desc: "Sdílíme společný cíl a dokážeme spolupracovat jako dobře promazaný stroj. I když nespojujeme naše státy v jeden, měli bychom usilovat o společné armády a vyšší míru koordinace. Národy Ameriky a Pacifiku jsou sjednoceny duchem!"
  CHL_unified_in_spirit_tt: "Všechny §Yamerindské a polynéské subjekty§! rovněž získají tohoto národního ducha"
@@ -1304,7 +1304,7 @@
  GUAY_cooperation_in_the_americas: "$BRA_cooperation_in_the_americas$"
  GUAY_cooperation_in_the_americas_desc: "$BRA_cooperation_in_the_americas_desc$"
  GUAY_coup_detat: "Následky státního převratu"
- GUAY_coup_detat_desc: "Stará vláda padla! Získali jsme kontrolu nad všemi institucemi navzdory krátkému střetu s vládě nakloněnými silami. Byly odzbrojeny bez obětí a jejich zbraně byly přidány do našeho arzenálu." # todo: CHANGED
+ GUAY_coup_detat_desc: "Stará vláda padla! Získali jsme kontrolu nad všemi institucemi navzdory krátkému střetu se silami loajálními vládě. Ty byly odzbrojeny bez obětí a jejich zbraně byly přidány do našich zásob."
  GUAY_cult_of_personality: "Kult osobnosti"
  GUAY_cult_of_personality_desc: "Abychom posílili národ, vyzdvihneme našeho drahého vůdce a vytvoříme kult osobnosti. Symbol, za kterým se obyčejný lid může shromáždit a zemřít."
  GUAY_dam_construction: "Výstavba přehrad"
@@ -1317,7 +1317,7 @@
  GUAY_develop_new_territories: "Rozvíjet nová území"
  GUAY_develop_new_territories_desc: "Nejlepším způsobem, jak vyhladit územní změny, je nabídnout lidem vyšší kvalitu života, než měli dříve. To bude naše politika."
  GUAY_disperse_military_power: "Rozptýlit vojenskou moc"
- GUAY_disperse_military_power_desc: "Abychom zajistili budoucnost našeho kabinetu, musíme zajistit, že armáda si nebude moci uchvátit moc." # todo: CHANGED
+ GUAY_disperse_military_power_desc: "Abychom zajistili budoucnost našeho kabinetu, musíme se ujistit, že armáda nebude schopna převzít moc pro sebe."
  GUAY_empower_the_land_owners: "Posílit vlastníky půdy"
  GUAY_empower_the_land_owners_desc: "Vlastníci půdy jsou nejsilnější klikou v zemi. Posílíme je tím, že jim přidělíme více půdy, a na oplátku získáme jejich podporu."
  GUAY_empower_the_land_owners_desc_tt: "Vlastníci půdy budou s větší pravděpodobností stavět vysoce hodnotné budovy, jako jsou §Ycivilní továrny§!, §Yvojenské továrny§!, §Yloděnice§! a §Ydodatečné stavební sloty§!"
@@ -1361,7 +1361,7 @@
  GUAY_national_academy_of_sciences_3_desc: "Každý Jihoameričan si zaslouží vyšší vzdělání. Ovládnutí kontinentu nám dává dostatek zdrojů, abychom jej poskytli každému muži i ženě."
  GUAY_national_academy_of_sciences_desc: "Další investice do výzkumu nám umožní rychleji vyvíjet nové zbraně a dohnat velmoci."
  GUAY_nationalize_foreign_owned_companies: "Znárodnit zahraniční společnosti"
- GUAY_nationalize_foreign_owned_companies_desc: "Příliš dlouho zahraniční společnosti těžily z našich zdrojů pro svůj prospěch — dost bylo toho." # todo: CHANGED
+ GUAY_nationalize_foreign_owned_companies_desc: "Příliš dlouho zahraniční společnosti vykořisťovaly naše zdroje pro svůj zisk. Tomu je konec."
  GUAY_no_second_american_colonization: "Žádná druhá americká kolonizace"
  GUAY_no_second_american_colonization_desc: "Náš kontinent se kýve mezi Osou a Spojenci a zatímco naši sousedé se vidí jen jako pod cizím jhem, Jižní Amerika si zaslouží lepší osud. Osud, který si utvoříme sami, nespoutaný dědictvím kolonizace - a pokud k tomu budeme muset pošlapat ty s menší vizí, budiž."
  GUAY_not_at_war_with_old_power: "Není ve válce se zvolenou starou mocností"
@@ -1420,7 +1420,7 @@
  JUNO_naval_academy_random_admirals_tt: "Až §Y3§! náhodně vybraní námořní velitelé získají §G+1§! k dovednosti koordinace"
  JUNO_support_company_initiative: "Iniciativa podpůrných rot"
  PAR_a_call_out_for_aid: "Výzva o pomoc"
- PAR_a_call_out_for_aid_desc: "Využijeme prezidentovy [FRA.GetAdjective] manželky k tomu, aby lobovala u [FRA.GetAdjective] vlády za povolení dobrovolníkům pomáhat v našem boji." # todo: CHANGED
+ PAR_a_call_out_for_aid_desc: "Využijeme prezidentovu [FRA.GetAdjective] manželku k lobbování u [FRA.GetAdjective] vlády, aby povolila dobrovolníkům pomoci v našem boji."
  PAR_a_great_charter: "Velká charta"
  PAR_a_great_charter_desc: "Naše ústava musí být zrušena a nahrazena novou velkou chartou. Nová budoucnost pro zemi!"
  PAR_accept_american_loans: "Přijmout americké půjčky"
@@ -1442,11 +1442,11 @@
  PAR_ask_for_bankroll: "Požádat o financování"
  PAR_ask_for_bankroll_desc: "Nemůžeme si tuto válku dovolit, zatímco je ekonomika v troskách. Je zřejmé, že potřebujeme zahraniční sílu, která nás bude financovat, aby se celá země neponořila do anarchie."
  PAR_assasinate_rafael_franco: "Zavraždit Rafaela Franca"
- PAR_assasinate_rafael_franco_desc: "Kdybychom mohli uřezat hlavu hada, mohlo by to drasticky snížit morálku nepřítele. Kontaktujeme místní disidenty v Chacu a poskytneme jim nástroje k tomu, aby to provedli." # todo: CHANGED
+ PAR_assasinate_rafael_franco_desc: "Pokud bychom usekli hlavu hadovi, mohlo by to drasticky snížit morálku nepřítele. Navážeme kontakt s místními disidenty v Chacu a poskytneme jim prostředky, aby to provedli."
  PAR_ban_the_liberal_party: "Zakázat Liberální stranu"
  PAR_ban_the_liberal_party_desc: "Liberální strana spřádá intriky s Bolívijci. Vyhnanství jejich vůdců je jediným přijatelným trestem. Naši sílu budeme čerpat z Coloradů."
  PAR_ban_vouchers: "Zakázat poukázky jako mzdu"
- PAR_ban_vouchers_desc: "Musíme zabránit zaměstnavatelům platit pracovníkům takzvanými \"bílými penězi\". Poukázky, které zaměstnavatelé dávají zaměstnancům jako alternativu k penězům, upevňují nerovnost a vytvářejí závislost zaměstnanců. To musí skončit." # todo: CHANGED
+ PAR_ban_vouchers_desc: "Musíme zabránit zaměstnavatelům vyplácet mzdy v tzv. „bílých penězích“. Poukázky nahrazující peníze udržují nerovnost a vytvářejí závislost zaměstnance. To musí skončit."
  PAR_brazilian_road_finance: "[BRA.GetAdjectiveCap] financování silnic"
  PAR_brazilian_road_finance_desc: "[USA.GetName] přesvědčily [BRA.GetAdjective] vládu, aby investovala do rozšíření naší silniční infrastruktury."
  PAR_by_all_means_which_to_win: "Všemi prostředky k vítězství"
@@ -1454,7 +1454,7 @@
  PAR_central_bank_of_paraguay: "Centrální banka Paraguaye"
  PAR_central_bank_of_paraguay_desc: "Zřídíme centrální banku, která se stane jediným prostředníkem zahraničního obchodu."
  PAR_chaco_war_decoration: "Vyznamenání za válku v Chacu"
- PAR_chaco_war_decoration_desc: "Váleční veteráni z války v Chacu si zaslouží vyznamenání, která jim předchozí vláda nikdy neudělila. Malý náklad na ukojení armády." # todo: CHANGED
+ PAR_chaco_war_decoration_desc: "Veteráni války v Chacu si zaslouží vyznamenání, která jim předchozí vláda nikdy neudělila. Malá cena za uklidnění armády."
  PAR_cult_of_personality: "$GUAY_cult_of_personality$"
  PAR_cult_of_personality_desc: "$GUAY_cult_of_personality_desc$"
  PAR_discipline_hierarchy_and_order: "Disciplína, hierarchie a řád"
@@ -1472,7 +1472,7 @@
  PAR_get_rid_of_obsolete_guns: "Zbavit se zastaralých zbraní"
  PAR_get_rid_of_obsolete_guns_desc: "Výzbroj naší armády se skládá ze zastaralých zbraní. Musíme se modernizovat odstraněním kovového šrotu, který nás brzdí, a modernizovat naše sklady."
  PAR_goad_bolivia: "Provokovat Bolívii"
- PAR_goad_bolivia_desc: "Pokud bychom zapojili Bolívii do konfliktu, vzbouřenci by byli mnohem slabší. Ačkoliv je to riskantní, vydáme falešný telegram, který naznačí Francoovo přání rozšířit jeho dobytí do Bolívie po skončení občanské války, doufejme, že tak pobídneme vládu [BOL.GetAdjective], aby se zapojila." # todo: CHANGED
+ PAR_goad_bolivia_desc: "Pokud bychom vtáhli Bolívii do konfliktu, povstalci by výrazně zeslábli. Je to riskantní, ale rozešleme falešný telegram naznačující Francovu touhu po expanzi do Bolívie po skončení občanské války, a snad tak vyprovokujeme [BOL.GetAdjective] vládu k zásahu."
  PAR_invite_japanese_settlers: "Pozvat japonské osadníky"
  PAR_invite_japanese_settlers_desc: "Vzhledem k tomu, že [BRA.GetName] zastavila japonskou imigraci, máme ideální příležitost je pozvat k nám. Osadníci posílí zemědělství i celou ekonomiku."
  PAR_join_the_allies: "Připojit se ke Spojencům"
@@ -1504,7 +1504,7 @@
  PAR_put_estigarribia_on_a_pedestal: "Vyzdvihnout Estigarribiu"
  PAR_put_estigarribia_on_a_pedestal_desc: "José Félix Estigarribia je široce považován za hrdinu války o Chaco a nyní i za klíčovou postavu vítězství v občanské válce. Využijeme jej k propagandistickým účelům ke zmírnění poválečného napětí, sjednocení země a jako odměnu za jeho služby."
  PAR_radicalize_the_police: "Radikalizovat policii"
- PAR_radicalize_the_police_desc: "Policie je zásadní pro udržení vnitřního pořádku, zatímco armáda se soustředí na vnější hrozby, ale může se stát mocnějším nástrojem podpory státu. Poskytneme jí větší zdroje a na oplátku ji začleníme do vládního okruhu; pokud se armáda nebo policie stanou příliš mocnými, vždy je můžeme postavit proti sobě." # todo: CHANGED
+ PAR_radicalize_the_police_desc: "Policie je klíčová pro udržení vnitřního pořádku, zatímco armáda se soustředí na vnější hrozby, avšak může se stát ještě účinnějším nástrojem upevnění státu. Poskytneme jí více prostředků a na oplátku ji začleníme do vládní struktury. Pokud by se armáda či policie staly příliš mocnými, vždy je můžeme poštvat proti sobě."
  PAR_reach_out_to_european_contacts: "Obrátit se o pomoc na [USA.GetAdjective] kontakty"
  PAR_reach_out_to_european_contacts_desc: "Armáda je oproti našim provizorním silám příliš silná. Musíme spolknout hrdost a obrátit se na [USA.GetName] o pomoc a přesvědčit je, že komunistický stát v jejich bezprostředním okolí není v jejich zájmu."
  PAR_rebuild_humaita: "Obnovit Humaitá"
@@ -1600,7 +1600,7 @@
  SMB_brown_water_navy: "Říční loďstvo"
  SMB_brown_water_navy_desc: "Řeky vinoucí se džunglemi Jižní Ameriky nejsou naší armádou využívány dostatečně. Rozšíříme proto naše říční loďstvo o menší říční útočné čluny, které budou podporovat naše jednotky v oblastech vzdálených od posil a zásobování."
  SMB_carrier_conversion: "Přestavěné letadlové lodě"
- SMB_carrier_conversion_desc: "Naše námořní letecká síla není dostatečná k obraně národních zájmů. Zatímco si nemůžeme dovolit stavět účelové letadlové lodě, mohli bychom zakoupit vyřazené křižníky a přestavět je na jednoduché letadlové lodě jako dočasné opatření." # todo: CHANGED
+ SMB_carrier_conversion_desc: "Naše námořní letectvo není dostatečné k obraně národních zájmů. Přestože si nemůžeme dovolit stavbu specializovaných letadlových lodí, můžeme zakoupit vyřazené křižníky a přestavět je na jednoduché nosiče letadel jako dočasné řešení."
  SMB_coastal_fleet: "[SMB_coastal_fleet_key]"
  SMB_coastal_fleet_default: "Pobřežní loďstvo"
  SMB_coastal_fleet_desc: "Nemáme velké ambice vést námořní války po celém světě. Hlavním úkolem našeho loďstva by proto měla být ochrana pobřeží a zabránění vylodění nepřátelských sil."
@@ -1624,7 +1624,7 @@
  SMB_degaussing_desc: "Zahájíme demagnetování trupů našich lodí, čímž snížíme jejich magnetickou stopu. To je ochrání před magnetickými minami a omezí jejich elektronický podpis."
  SMB_department_of_military_intelligence: "[SMB_department_of_military_intelligence_key]"
  SMB_department_of_military_intelligence_default: "Oddělení vojenského zpravodajství"
- SMB_department_of_military_intelligence_default_desc: "Ačkoliv se slova mohou zdát navzájem protichůdná, je důležité pochopit, že bez řádné znalosti nepřátelských pozic a motivací bude obtížné je porazit v přímém boji. Zřízení oddělení vojenské rozvědky pro armádu je proto nutností." # todo: CHANGED
+ SMB_department_of_military_intelligence_default_desc: "Bez přesných informací o pozicích a úmyslech nepřítele bude obtížné jej porazit v přímém boji. Zřízení oddělení vojenského zpravodajství je proto nezbytné."
  SMB_department_of_military_intelligence_desc: "[SMB_department_of_military_intelligence_desc_key]"
  SMB_department_of_propaganda: "[SMB_department_of_propaganda_key]"
  SMB_department_of_propaganda_default: "Oddělení propagandy"
@@ -1641,7 +1641,7 @@
  SMB_domestic_production_desc: "[SMB_domestic_production_desc_key]"
  SMB_enlarge_naval_facilities: "[SMB_enlarge_naval_facilities_key]"
  SMB_enlarge_naval_facilities_default: "Rozšířit námořní zařízení"
- SMB_enlarge_naval_facilities_desc: "Nedávný vývoj ve světě jasně ukázal, že naše námořnictvo se musí rozšířit, pokud chceme udržet adekvátní flotilu. Prvním krokem k tomu je rozšíření našich stávajících námořních zařízení." # todo: CHANGED
+ SMB_enlarge_naval_facilities_desc: "Nedávný vývoj ve světě jasně ukazuje, že naše námořnictvo musí růst, chceme-li udržet odpovídající sílu. Prvním krokem je rozšíření stávajících námořních zařízení."
  SMB_escort_fleet: "[SMB_escort_fleet_key]"
  SMB_escort_fleet_default: "Doprovodné loďstvo"
  SMB_escort_fleet_desc: "Éra velkých bitevních flotil je pryč. Moderní námořní válka vyžaduje menší lodě operující v doprovodných formacích spolu s omezeným počtem hlavních lodí. Námořnictvo musí své plány tomuto přístupu přizpůsobit."
@@ -1677,7 +1677,7 @@
  SMB_jet_tech_bonus: "Pokročilý letecký bonus"
  SMB_joint_operative_command: "[SMB_joint_operative_command_key]"
  SMB_joint_operative_command_default: "Velitelství společných operací"
- SMB_joint_operative_command_default_desc: "Nyní, když jsme rozvinuli nejen naši armádu, ale také položili dobré základy pro naše letectvo, je čas zavést koordinaci a spolupráci mezi těmito různými složkami ozbrojených sil. Zřídíme společné operační velení složené z velitelů vybraných z obou oblastí." # todo: CHANGED
+ SMB_joint_operative_command_default_desc: "Nyní, když jsme rozvinuli nejen armádu, ale také letectvo, je čas zajistit koordinaci a spolupráci mezi těmito složkami. Založíme proto velitelství společných operací složené z velitelů obou oblastí."
  SMB_joint_operative_command_desc: "[SMB_joint_operative_command_desc_key]"
  SMB_jungle_pioneers: "$SMB_support_company_bra$"
  SMB_jungle_pioneers_desc: "$SMB_support_company_default_desc$"
@@ -1748,7 +1748,7 @@
  SMB_navy_foreign_advisors_tt: "Odemkne rozhodnutí §YPozvat zahraniční poradce§! pro výcvik námořnictva"
  SMB_nimble_air_force: "[SMB_nimble_air_force_key]"
  SMB_nimble_air_force_default: "Obratné letectvo"
- SMB_nimble_air_force_default_desc: "Letadla by měla být schopna přemanévrovat nejen nepřátelská letadla, ale také bdělé oči jejich protiletadlových děl a námořních plavidel. Letecké síly by měly sestávat z menších letadel, uzpůsobených pro vzdušné souboje a nálety dostatečně efektivním způsobem, aniž by však byla příliš těžká pro rychlé a rozhodné manévrování." # todo: CHANGED
+ SMB_nimble_air_force_default_desc: "Letadla musí dokázat manévrovat nejen proti nepřátelským strojům, ale i proti protiletadlové palbě a lodím. Letectvo by mělo být tvořeno lehčími, obratnými letouny vhodnými pro vzdušné souboje a přesné údery."
  SMB_nimble_air_force_desc: "[SMB_nimble_air_force_desc_key]"
  SMB_nuclear_program: "[SMB_nuclear_program_key]"
  SMB_nuclear_program_default: "Domácí jaderný program"
@@ -1777,7 +1777,7 @@
  SMB_reescalate_the_naval_arms_race_desc: "Od Velké války jsme se zdržovali výrazného rozšiřování flotily. Vzhledem k blížící se válce však musíme získat náskok před sousedy."
  SMB_regular_infantry: "[SMB_regular_infantry_key]"
  SMB_regular_infantry_default: "Síla obyčejného vojáka"
- SMB_regular_infantry_default_desc: "Ačkoliv je výzbroj stejně důležitá jako cokoliv jiného, skutečnou silou každé armády je jednotlivec — voják, který brání svou vlast, chrání své základní hodnoty a bojuje za své blízké. Proto musíme vynaložit veškeré úsilí na zvýšení morálky běžného vojáka a dát mu co nejlepší šance na vítězství v jeho nejtěžších bitvách." # todo: CHANGED
+ SMB_regular_infantry_default_desc: "Technika je důležitá, ale skutečnou silou armády je jednotlivý voják bojující za svou vlast, hodnoty a blízké. Musíme proto posílit jeho morálku a dát mu co nejlepší šanci uspět."
  SMB_regular_infantry_desc: "[SMB_regular_infantry_desc_key]"
  SMB_special_forces: "[SMB_special_forces_key]"
  SMB_special_forces_BRA: "Comando de Operações Especiais"
@@ -1850,7 +1850,7 @@
  URG_accion_revisionista_del_uruguay: "Acción Revisionista del Uruguay"
  URG_accion_revisionista_del_uruguay_desc: "Adolfo Agorio je jednou z hlavních postav uruguayského fašismu. Jeho vliv může být odrazovým můstkem pro širší hnutí, které zachvátí [URG.GetNonIdeologyName]. Pozveme je do vlády a poskytneme jim legitimitu."
  URG_allow_nazi_movements_among_german_uruguayan: "[GER.GetNonIdeologyName]-[URG.GetAdjective] nacistická hnutí"
- URG_allow_nazi_movements_among_german_uruguayan_desc: "Mezi [GER.GetAdjective]-[URG.GetAdjective] menšinami v zemi existuje malé nacistické hnutí, bezpochyby ovlivněné zahraniční politikou jejich vlasti. Někteří volají po umlčení této rétoriky, ale lze ji použít k dalšímu šíření naší agendy." # todo: CHANGED
+ URG_allow_nazi_movements_among_german_uruguayan_desc: "Mezi [GER.GetAdjective]-[URG.GetAdjective] menšinami existují menší nacistická hnutí, ovlivněná zahraniční politikou své domoviny. Namísto jejich potlačení je můžeme využít k prosazení vlastní agendy."
  URG_american_air_bases: "Americké letecké základny"
  URG_american_air_bases_desc: "Spojené státy na nás tlačí, abychom jim umožnili zřídit letecké základny na našem území. To nám pomůže chránit se před hrozbami Osy."
  URG_americanism: "Amerikanismus"
@@ -1894,13 +1894,13 @@
  URG_law_no_9943: "Zákon č. 9943"
  URG_law_no_9943_desc: "Navzdory neutralitě je zřejmé, že svět rychle směřuje k nejistotě. Musíme připravit naše ozbrojené síly a zavést celostátní odvody k obraně hranic."
  URG_legacy_of_batlle: "Odkaz Batlleho"
- URG_legacy_of_batlle_desc: "Kam nás budoucnost zavede, je jasné, že strana Colorado je navždy spjata s odkazem José Batlle y Ordóñeze. Vždy budeme přijímat jeho myšlenku univerzální sociální spravedlnosti" # todo: CHANGED
+ URG_legacy_of_batlle_desc: "Ať už nás budoucnost zavede kamkoli, je jasné, že strana Colorado je navždy spjata s odkazem Josého Batlle y Ordóñeze. Vždy budeme hájit jeho ideu univerzální sociální spravedlnosti."
  URG_legalize_the_pool: "Legalizovat sázky"
  URG_legalize_the_pool_desc: "Legalizace sázek zvýší státní příjmy a zároveň se bude těšit velké oblibě mezi obyvatelstvem."
  URG_mercado_modelo: "Mercado Modelo"
  URG_mercado_modelo_desc: "Je čas opustit starý zemědělský trh a slavnostně otevřít Mercado Modelo, největší zemědělský trh v zemi."
  URG_merge_falangist_movements: "Sjednotit falangistická hnutí"
- URG_merge_falangist_movements_desc: "S výjimkou uruguayského revizionismu podníceného Adolfem Agoriem je falangismus nejpopulárnějším autoritářským hnutím v zemi, ale je rozdělen do několika skupin. Sjednotíme je, aby se stali větším hnutím, než jakým by mohli být samostatně." # todo: CHANGED
+ URG_merge_falangist_movements_desc: "S výjimkou uruguayského revizionismu Adolfa Agoria je falangismus nejrozšířenějším autoritářským hnutím v zemi, avšak je rozdělen do několika skupin. Sjednotíme je, aby společně tvořily silnější celek."
  URG_ministry_of_public_works: "Podpora ministerstva veřejných prací"
  URG_ministry_of_public_works_desc: "Abychom podpořili industrializaci země, vytvoříme rozsáhlý program výstavby silnic a dělnického bydlení prostřednictvím ministerstva veřejných prací."
  URG_pay_of_all_external_debts: "Splatit veškeré zahraniční dluhy"
@@ -1908,7 +1908,7 @@
  URG_pluna: "Pluna"
  URG_pluna_desc: "Pluna je rychle se rozvíjející národní letecký dopravce pro nákladní i charterové služby. Investice do něj mohou přenést naše letectví do moderní éry."
  URG_prohibition_of_usury: "Zákaz lichvy"
- URG_prohibition_of_usury_desc: "Už nemůžeme dovolovat, aby věřitelé poskytovali půjčky, které nepřiměřeně zvýhodňují věřitele. Je třeba zavést zákony proti lichvě, aby se tomu zabránilo." # todo: CHANGED
+ URG_prohibition_of_usury_desc: "Nemůžeme dále tolerovat půjčky, které nepřiměřeně zvýhodňují věřitele. Musí být zavedeny zákony proti lichvě, aby se tomu zabránilo."
  URG_rapid_industrialization: "Rychlá industrializace"
  URG_rapid_industrialization_desc: "Vše je připraveno k tomu, abychom naši zemi uvedli do nové éry. Vydáme se cestou rychlé industrializace a definitivně vstoupíme do 20. století."
  URG_recognize_francoist_spain: "Uznat frankistické Španělsko"

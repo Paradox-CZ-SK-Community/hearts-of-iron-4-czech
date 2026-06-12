@@ -143,11 +143,11 @@
  PRODUCTION_EXPAND: "§GKlikněte§! pro rozšíření.\n§GCtrl + Klikněte§! pro rozšíření všech těchto kategorií.\n§GShift + Klikněte§! pro rozšíření všech výrobních linek."
  PRODUCTION_FACTORIES_LABEL: "Továrny"
  PRODUCTION_FACTORY_ASSIGN_DESC: "Klikněte a přiřaďte £factory_item $FACTORIES|Y$ §Yvojenské továrny§! k této výrobní lince. To by poskytlo základní výrobní výstup £production_cost $OUTPUT|Y$ za den.\nCelkový výstup bude ovlivněn §Yzdroji§!, §Yvýrobní efektivitou§! a dalšími §Yvýrobními modifikátory§!."
- PRODUCTION_FACTORY_SCALE_DOWN: "§GKlikněte§! znovu pro zmenšení zobrazení na §Y1x§!" # todo: CHANGED
- PRODUCTION_FACTORY_SCALE_UP: "§GKlikněte§! pro zvětšení zobrazení na §Y$SCALE$x§!" # todo: CHANGED
+ PRODUCTION_FACTORY_SCALE_DOWN: "§GKlikněte§! znovu pro zmenšení zobrazení na §Y1x§!"
+ PRODUCTION_FACTORY_SCALE_UP: "§GKlikněte§! pro zvětšení zobrazení na §Y$SCALE$x§!"
  PRODUCTION_FILTER_ARMS_FACTORIES: "Použité vojenské továrny"
- PRODUCTION_FILTER_CLICK_TO_HIDE: "§GKlikněte§! pro §Rskrytí§! celé této kategorie" # todo: CHANGED
- PRODUCTION_FILTER_CLICK_TO_SHOW: "§GKlikněte§! pro §Gzobrazení§! celé této kategorie" # todo: CHANGED
+ PRODUCTION_FILTER_CLICK_TO_HIDE: "§GKlikněte§! pro §Rskrytí§! celé této kategorie"
+ PRODUCTION_FILTER_CLICK_TO_SHOW: "§GKlikněte§! pro §Gzobrazení§! celé této kategorie"
  PRODUCTION_FILTER_DOCKYARDS: "Použité loděnice"
  PRODUCTION_FILTER_RIGHTCLICK: "\n§GPravý klik§! pro přepnutí sbalení všech těchto kategorií."
  PRODUCTION_FILTER_SHIFTCLICK: "\n§GShift+klik§! pro §Rskrytí§! všeho ostatního."
@@ -158,7 +158,7 @@
  PRODUCTION_INFANTRY_BUTTON_NO_FACTORIES_DISABLED: "Nemáme §Ržádné vojenské továrny!§!"
  PRODUCTION_LACKING_RESOURCES_FILTER: "Dostatek surovin"
  PRODUCTION_LINE_CANCEL: "§GKlikněte§! pro §Rzrušení§! této výrobní linky.\n§GShift+klik§! pro §Rzrušení§! všech výrobních linek."
- PRODUCTION_LINE_CANCEL_SHIP_REFIT: "§GKlikněte§! pro §Rpotopení§! této lodi, která je přestavována" # todo: CHANGED
+ PRODUCTION_LINE_CANCEL_SHIP_REFIT: "§GKlikněte§! pro §Rpotopení§! této lodi, která je přezbrojována."
  PRODUCTION_LINE_CHANGE: "§GKlikněte pro §Hzměnu§! vyráběného zařízení.\nPři přechodu na novější verzi stejného zařízení si zachováte část efektivity.\n§!§RZtratíte veškerý pokrok výroby pro tuto linku.§!"
  PRODUCTION_LINE_CHANGE_NAVAL: "§GKlikněte pro §Hzměnu§! vyráběného vybavení.\n§!§RZtratíte veškerý pokrok výroby na této lince.§!"
  PRODUCTION_LINE_CONVERT_DESC: "Konverze ze zásob bude používat §Hzastaralé zařízení§! nebo §Hukořistěné zařízení§! v rámci zásob a převede je na modifikovaná vozidla požadovaná z aktuální výrobní linky za snížené náklady. Toto bude pokračovat, dokud zásoby nebudou vyprázdněny."
@@ -206,8 +206,8 @@
  PRODUCTION_NAVAL_DEPLOY_LIST: "Cíl nasazení"
  PRODUCTION_NAVAL_LABEL: "§TNámořní vybavení§!"
  PRODUCTION_NAVAL_NAME_LIST: "Jména lodí"
- PRODUCTION_NAVAL_NAME_LIST_ADD_NAME: "§GKlikněte§! pro pojmenování dalšího $EQUIPMENT|H$ z tohoto řádku $NAME|H$" # todo: CHANGED
- PRODUCTION_NAVAL_NAME_LIST_BUTTON_CLICK: "§GKlikněte§! pro změnu názvu" # todo: CHANGED
+ PRODUCTION_NAVAL_NAME_LIST_ADD_NAME: "§GKlikněte§! pro pojmenování další $EQUIPMENT|H$ z této linky $NAME|H$."
+ PRODUCTION_NAVAL_NAME_LIST_BUTTON_CLICK: "§GKlikněte§! pro změnu jména."
  PRODUCTION_NAVAL_NAME_LIST_BUTTON_FALLBACK: "Jména lodí"
  PRODUCTION_NAVAL_NAME_LIST_BUTTON_NAME: "Další $EQUIPMENT|H$ z této linky bude pojmenována $NAME|H$."
  PRODUCTION_NAVAL_NAME_LIST_EMPTY_NOT_ALLOWED: "§RPrázdné názvy nejsou povoleny.§!"
@@ -286,9 +286,9 @@
  PRODUCTION_UNITS_PER_YEAR: "$UNITS|Y$ jednotek ročně"
  PRODUCTION_UPGRADING_FILTER: "Modernizace"
  PRODUCTION_VARIANT_OBSOLETE_NO: "Vyřazeno"
- PRODUCTION_VARIANT_OBSOLETE_NO_DESC: "§GKlikněte§! pro vyřazení této varianty a označení za zastaralou výzbroj" # todo: CHANGED
+ PRODUCTION_VARIANT_OBSOLETE_NO_DESC: "§GKlikněte§! pro vyřazení této varianty, což ji označí jako zastaralé vybavení."
  PRODUCTION_VARIANT_OBSOLETE_YES: "Znovuzavedení"
- PRODUCTION_VARIANT_OBSOLETE_YES_DESC: "§GKlikněte§! pro znovuzařazení této varianty a označení za aktuální výzbroj" # todo: CHANGED
+ PRODUCTION_VARIANT_OBSOLETE_YES_DESC: "§GKlikněte§! pro znovu uvedení této varianty do služby, čímž ji označíte jako aktuální zařízení."
  PRODUCTION_VEHICLES_BUTTON: "Stavět obrněná vozidla"
  PRODUCTION_VEHICLES_BUTTON_DISABLED: "Obrněná vozidla nejsou §Rvynalezena§!!"
  PRODUCTION_VEHICLES_BUTTON_NO_FACTORIES_DISABLED: "Nemáme §Ržádné vojenské továrny!§!"

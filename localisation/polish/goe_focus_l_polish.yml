@@ -160,7 +160,7 @@
  AFG_fascist_cw_is_over: "Amanulláhovo povstání je u konce. (Fašisté svrhli vládu a zvítězili v občanské válce.)"
  AFG_follower_of_islam: "Následovník islámu"
  AFG_follower_of_islam_desc: "Islám stojí v jádru naší víry již více než tisíc let a měli bychom zajistit, aby se náš vůdce řídil jeho zásadami a vedl náš národ k nové zlaté éře."
- AFG_foreign_influence_tt: "Přidá §Y[PREV.GetIdeologyNameWithCaps] Vliv na vzestupu§!, který poskytuje (Denně [PREV.GetIdeologyNameWithCaps] Podpora: §G+0.02§!) po dobu §Y365§! dní" # todo: CHANGED
+ AFG_foreign_influence_tt: "Přidá §Y[PREV.GetIdeologyNameWithCaps] na vzestupu§!, který poskytuje (Denní podpora pro [PREV.GetRulingIdeology] ideologii: §G+0.02§!) po dobu §Y365§! dní"
  AFG_foreign_military_advisors: "Pozvat zahraniční vojenské poradce"
  AFG_foreign_military_advisors_desc: "Abychom naši armádu vycvičili podle moderních standardů, bude nejrychlejším řešením pozvat poradce ze západních zemí. Pomohou vycvičit novou generaci [ROOT.GetAdjective] mužů pro boj na neustále se vyvíjejícím bojišti."
  AFG_forge_a_national_identity: "Vytvořit národní identitu"
@@ -471,7 +471,7 @@
  AFG_the_crown_and_the_world: "Koruna a svět"
  AFG_the_crown_and_the_world_desc: "Osudem říše je stát se nepřekonatelnou světovou supervelmocí. Rozšiřováním vlivu, posilováním síly a prosazováním své dominance si zajistíme postavení nejvyšší mocnosti moderního světa."
  AFG_the_echoes_of_panipat: "Ozvěny Panípatu"
- AFG_the_echoes_of_panipat_desc: "Třetí bitva u Panipatu stále doznívá v paměti všech na indickém subkontinentu. Tam jsme rozdrtili maráthské síly a upevnili naši nadvládu nad severozápadem Indie. Je čas to zopakovat a srazit domýšlivé dědice Maráthské konfederace!" # todo: CHANGED
+ AFG_the_echoes_of_panipat_desc: "Třetí bitva u Panípatu dosud zní v paměti celého indického subkontinentu. Tehdy jsme rozdrtili maráthská vojska a upevnili svou nadvládu nad severozápadní Indií. Nastal čas to zopakovat a udeřit na domýšlivé dědice Maráthské konfederace!"
  AFG_the_faqirs_revolt: "Fakírovo povstání"
  AFG_the_faqirs_revolt_desc: "Konečně nastal ten pravý čas. Fakírovy síly jsou připraveny povstat na východě proti zkorumpované vládě v Kábulu a obnovit islámské tradice, na nichž naše země kdysi spočívala. Inšalláh, zachráníme Afghánistán!"
  AFG_timurid_bureaucracy: "Tímúrovská byrokracie"
@@ -648,7 +648,7 @@
  IRQ_increase_italian_business_relations: "Dovoz z [ITA.GetNonIdeologyName]"
  IRQ_increase_italian_business_relations_desc: "Nemůžeme zůstat zcela závislí na Angličanech. Naštěstí jsou Italové více než ochotni nám v tomto úsilí pomoci."
  IRQ_increase_prime_ministers_powers: "Posílit pravomoci předsedy vlády"
- IRQ_increase_prime_ministers_powers_desc: "Prokázalo se, že irácký lid si nepřeje absolutní vládu pod hašimovskou dynastií, a tím se nám naskytla příležitost jednou provždy zajistit ústavní povahu jejich vlády a nasměrovat Irák na více západní cestu." # todo: CHANGED
+ IRQ_increase_prime_ministers_powers_desc: "Ukázalo se, že irácký lid netouží po absolutní vládě hašemitské dynastie. Nyní se tedy otevírá příležitost jednou provždy upevnit ústavní charakter vlády a nasměrovat Irák západním směrem."
  IRQ_independent_flight_schools: "Nezávislé letecké školy"
  IRQ_independent_flight_schools_desc: "Naši piloti byli většinou cvičeni v zahraničí [ENG.GetAdjective] instruktury, avšak nyní máme dostatečný počet pilotů, abychom mohli zahájit domácí výcvik."
  IRQ_infantry_focus: "Posílit pěchotu"
@@ -849,7 +849,7 @@
  PER_ally_the_bazaari: "Získat elity"
  PER_ally_the_bazaari_desc: "Mezi [PER.GetAdjective] elitami roste nespokojenost se směřováním země. Mnozí se obávají o budoucnost svých podniků či majetku a mohou být ochotni podpořit naši věc výměnou za záruky ochrany před politickými otřesy."
  PER_anti_air_development: "Financovat protivzdušnou obranu"
- PER_anti_air_development_desc: "Továrny v našich městech se staly cílem nepřátelských bombardérů, kteří chtějí narušit naše ekonomické a průmyslové pokroky. Měli bychom přesměrovat zdroje do vývoje opatření proti vzdušným náletům." # todo: CHANGED
+ PER_anti_air_development_desc: "Továrny v našich městech se staly cílem nepřátelských bombardérů, kteří se snaží narušit náš hospodářský a průmyslový rozvoj. Měli bychom proto nasměrovat zdroje do rozvoje protivzdušné obrany."
  PER_anti_air_research: "Iniciativa výzkumu protiletadlové obrany"
  PER_anti_air_research_boost: "Výzkum protiletadlové obrany"
  PER_anti_air_research_desc: "Naše současné protiletadlové zbraně začínají zastarávat. Musíme vyvinout větší úsilí při výzkumu nových technologií, které pomohou chránit náš stát před hrozbami z oblohy."
@@ -1032,7 +1032,7 @@
  PER_expand_oil_production: "Rozšířit těžbu ropy"
  PER_expand_oil_production_desc: "[PER.GetNonIdeologyName] má ohromné zásoby ropy a byla by hloupost tento potenciál nevyužít. Rozšiřme těžbu, abychom měli v budoucnu silnou vyjednávací pozici vůči Západu."
  PER_expand_tabriz_masshad: "Spojení Tabríz-Mašhad"
- PER_expand_tabriz_masshad_desc: "Musíme pokračovat v rozšiřování Transiránské železnice. Zaměřme se na rozšíření železničního propojení mezi městy Tabriz a Mashhad." # todo: CHANGED
+ PER_expand_tabriz_masshad_desc: "Musíme pokračovat v rozšiřování Transíránské železnice. Zaměřme se na propojení měst Tabríz a Mašhad."
  PER_expand_tehran_abbas: "Spojení Teherán-Bandar Abbás"
  PER_expand_tehran_abbas_desc: "Musíme pokračovat v rozšiřování Transíránské železnice. Zaměřme se na propojení měst Teherán a Bandar Abbás."
  PER_expand_tehran_armor: "Rozšířit závody Tehran Armor"
@@ -1272,7 +1272,7 @@
  PER_plant_resistance_cells: "Zakládat buňky odboje"
  PER_plant_resistance_cells_desc: "Abychom se připravili na náš preventivní úder, bylo by moudré rozdmýchat politické nepokoje v našich sousedních regionech. [IRQ.GetNameDef] se zdá být výbornou volbou, stejně jako okupované oblasti, které drží [AZR.GetNameDef], [GEO.GetNameDef], [ARM.GetNameDef] a [TMS.GetNameDef]."
  PER_post_war_spoils: "Poválečná kořist"
- PER_post_war_spoils_desc: "Nyní, když válka skončila, stojíme před otázkou, co udělat s naší ochrannou okupací [IRQ.GetNonIdeologyName] a [AFG.GetNonIdeologyName]. Po konzultacích s našimi spojenci jsme se rozhodli, že nejlepší postup je začlenit tato území do správy [PER.GetNameDef]. Tímto způsobem můžeme zajistit silnější a stabilnější Střední východ." # todo: CHANGED
+ PER_post_war_spoils_desc: "Nyní, když válka skončila, musíme rozhodnout, jaký osud čeká [IRQ.GetNonIdeologyName] a [AFG.GetNonIdeologyName]. Po jednání s našimi spojenci jsme se rozhodli, že nejlepším řešením bude, ať se o tyto území postará [PER.GetNameDef]. Tím zajistíme silnější a stabilnější Blízký východ."
  PER_preemptive_invasion_of_iran_tt: "Jakmile [PER.GetNameDef] kapituluje, vytvoříme z této země subjekt, přičemž začleníme několik států na našich hranicích a získáme práva na suroviny v [PER.GetAdjective] státech bohatých na ropu. Budeme moci požádat o [SOU.GetAdjective] intervenci k provedení společné operace."
  PER_preemptive_strike: "Preventivní úder"
  PER_preemptive_strike_desc: "Nikdo nebude ohrožovat naši suverenitu. Abychom zajistili, že ti, kdo na nás hledí chamtivým pohledem, pochopí, že se do nás nemají plést, ukážeme jim plnou sílu [PER.GetAdjective] ozbrojených sil. Pokud udeříme jako první, nebudou připraveni čelit rychlému a drtivému útoku."
@@ -1466,7 +1466,7 @@
  PER_transfer_officers_to_intelligence_desc: "Abychom posílili operace naší zpravodajské služby, musíme přesunout některé z našich intelektuálně nadanějších důstojníků do zpravodajské sekce."
  PER_treaty_of_tehran_tt: "Odešle událost pro [ENG.GetFlag]§Y[ENG.GetNameDef]§! a [SOV.GetFlag]§Y[SOV.GetNameDef]§! s žádostí o stažení jejich jednotek a ukončení války."
  PER_trial_fifty_three: "Proces s Padesáti třemi"
- PER_trial_fifty_three_desc: "Komunistické politické organizace se ukazují být problémem v našem procesu upevňování vlády Pahlaví v [PER.GetNameDef]. Nemůžeme dovolit, aby se tyto antimonarchistické nálady vyvíjely a případně vedly k masovým demonstracím. Místo toho musíme tyto disidenty postavit před soud a nechat tribunál rozhodnout o jejich osudu." # todo: CHANGED
+ PER_trial_fifty_three_desc: "Komunistické politické organizace představují problém při upevňování vlády dynastie Pahlaví nad zemí. Nemůžeme dovolit, aby se tyto protimonarchistické nálady šířily a vedly k masovým protestům. Musíme tyto odpůrce postavit před soud a nechat tribunál rozhodnout o jejich osudu."
  PER_trial_fifty_three_tt: "Zvolením tohoto zaměření budou všichni §Ykomunističtí§! poradci vyloučeni z vlády."
  PER_united_progressive_parties: "Sjednocené progresivní strany"
  PER_united_progressive_parties_desc: "Po abdikaci Šáha máme příležitost vybudovat progresivnější budoucnost pro [ROOT.GetNonIdeologyName]. Abychom toho dosáhli, musíme sjednotit všechny progresivní strany do jedné velké koalice, která prosadí naši agendu."
@@ -1576,13 +1576,13 @@
  RAJ_armoured_corps_center_and_school_desc: "Budoucnost válčení spočívá v mechanizované síle. Založení centra mechanizovaných sil nám umožní cvičit naše jednotky v mechanizované taktice a učinit z tanků hrot naší moderní vojenské strategie."
  RAJ_army_shortcut: "Důstojníci"
  RAJ_arrest_congress_leaders: "Zatknout vůdce Kongresu"
- RAJ_arrest_congress_leaders_desc: "Vůdci Kongresu se nepřizpůsobí nové realitě vlády společností. Stále se brání a při sebemenší příležitosti dělají povyk. Musíme potlačit rozdmýchávače dříve, než se to rozšíří." # todo: CHANGED
+ RAJ_arrest_congress_leaders_desc: "Vůdci Kongresu se odmítají přizpůsobit nové realitě vlády společnosti. Nadále kladou odpor a při každé příležitosti vyvolávají nepokoje. Musíme tyto buřiče potlačit dříve, než se jejich vliv rozšíří."
  RAJ_assam_oil_dlc: "Ásámská ropa"
  RAJ_assam_oil_dlc_desc: "Nedávno jsme objevili rozsáhlá ropná naleziště v Ásámu. Založením státní ropné společnosti a vybudováním těžebních zařízení můžeme výrazně posílit naši ekonomiku."
  RAJ_assume_eastern_naval_responsibilities: "Převzít východní námořní odpovědnost"
  RAJ_assume_eastern_naval_responsibilities_desc: "Není pochyb o tom, že [JAP.GetNameDef] na východě vyvolává napětí. Jak se jejich plány začínají naplňovat, je nezbytné připravit naše námořnictvo na obranu [RAJ.GetAdjective] vod. Musíme požádat korunu, aby nám vyslala lodě [ENG.GetAdjective] námořnictva na pomoc."
  RAJ_attract_scientists: "Přilákat vědce"
- RAJ_attract_scientists_desc: "S naším obrovským bohatstvím nyní můžeme přilákat nejlepší vědce z celého světa." # todo: CHANGED
+ RAJ_attract_scientists_desc: "Díky našemu velkému bohatství nyní můžeme přilákat nejlepší vědce z celého světa."
  RAJ_authoritarianship: "Autoritářství"
  RAJ_authoritarianship_desc: "Silná centralizovaná moc zajistí mír, spravedlnost a stabilitu našeho nového státu."
  RAJ_automating_the_army: "Automatizace armády"
@@ -1602,7 +1602,7 @@
  RAJ_ban_untouchability_once_and_for_all: "Navždy zakázat nedotknutelnost"
  RAJ_ban_untouchability_once_and_for_all_desc: "Nedotknutelnost je skvrnou naší společnosti, která nás rozděluje v době, kdy nejvíce potřebujeme jednotu. Jejím zrušením potvrdíme důstojnost každého Inda a učiníme zásadní krok k vybudování spravedlivého a inkluzivního státu."
  RAJ_bathe_in_hellfire: "Ponořit se do pekelného ohně"
- RAJ_bathe_in_hellfire_desc: "Naši nepřátelé budou mít jen dvě možnosti: podřídit se, nebo čelit hranici." # todo: CHANGED
+ RAJ_bathe_in_hellfire_desc: "Naši nepřátelé budou mít jen dvě možnosti - podřídit se, nebo čelit hranici."
  RAJ_bathe_in_hellfire_desc_tt: "§YJaderné zbraně§! nyní trvale zničí §Y50%§! §Yvojenských továren§! v cílovém státě.\n§YTermonukleární zbraně§! nyní trvale zničí §Y100%§! §Yvojenských továren§! v cílovém státě."
  RAJ_bhoodan_movement: "Hnutí Bhúdán"
  RAJ_bhoodan_movement_desc: "Dobrovolným přerozdělením půdy posílíme bezzemky a obnovíme spravedlnost na venkově. Navrácením půdy těm, kteří na ní pracují, si získáme nejen jejich práci, ale i jejich trvalou loajalitu."
@@ -2157,7 +2157,7 @@
  RAJ_prioritize_civilian_cargo: "Upřednostnit civilní náklad"
  RAJ_prioritize_civilian_cargo_desc: "Silné zázemí je klíčem k vítězství. Upřednostněním civilního nákladu zajistíme včasné dodávky potravin, zboží a materiálů pro udržení obyvatelstva i průmyslu, čímž posílíme odolnost země v době krize."
  RAJ_privatized_healthcare: "Privatizované zdravotnictví"
- RAJ_privatized_healthcare_desc: "Volání po komunistických systémech zdravotní péče musí být potlačeno napříč našimi držbami. Zdravotní péče bude poskytována těm, kdo si ji vydobyli neviditelnou rukou trhu." # todo: CHANGED
+ RAJ_privatized_healthcare_desc: "Požadavky na komunistické zdravotnické systémy musí být potlačeny v celém našem území. Zdravotní péče bude poskytována těm, kteří si ji zasloužili prostřednictvím neviditelné ruky trhu."
  RAJ_privatized_tutelage: "Privatizované vzdělávání"
  RAJ_privatized_tutelage_desc: "Vzdělání bude vyhrazeno těm, kteří si ho zaslouží, prostřednictvím přísně privatizovaného systému škol a univerzit, bez nežádoucích živlů."
  RAJ_procure_the_armor: "Varunovo pancéřování"
@@ -2536,7 +2536,7 @@
  SSB_coordinate_military_production: "Rozšířit náš vliv"
  SSB_coordinate_military_production_desc: "Dny velkých říší a nadvlády jsou pryč - ve srovnání se zbytkem světa jsme zeslábli. Ale už nejsme sami. Stojíme sjednoceni Saadabadským paktem. Společně můžeme znovu povstat a zaujmout své místo vládců tohoto regionu."
  SSB_economic_cooperation: "Hospodářská spolupráce"
- SSB_economic_cooperation_desc: "S hrozbou vojenských gigantů ze všech stran se potřeba hospodářské spolupráce v rámci paktu Saadabad stává čím dál zřejmější. Musíme si otevřít trhy navzájem a snížit naše tarify, čímž snížíme naši závislost na světových velmocích." # todo: CHANGED
+ SSB_economic_cooperation_desc: "S hrozbou vojenských titánů ze všech stran je potřeba hospodářské spolupráce mezi členy Saadabadského paktu stále zřejmější. Musíme si navzájem otevřít trhy a snížit cla, abychom omezili naši závislost na světových velmocích."
  SSB_expand_afghanistans_military_infrastructure: "[AFG.GetAdjectiveCap] poušní výcvik"
  SSB_expand_afghanistans_military_infrastructure_desc: "[AFG.GetNonIdeologyName] má bohaté zkušenosti s bojem v poušti a se zvládáním obtížného terénu. Všechny členské státy mohou z těchto znalostí výrazně těžit."
  SSB_expand_iranian_oil_fields: "Vývoz [PER.GetAdjective] ropy"
@@ -2569,7 +2569,7 @@
  SSB_saadabad_research_cooperation: "Výzkumná spolupráce Saadabadského paktu"
  SSB_saadabad_research_cooperation_desc: "Po formalizaci aliance je logickým dalším krokem sjednotit naše výzkumné a vědecké kapacity a vytvořit jednotný vědecký výbor."
  SSB_savak_protect_us: "SAVAK chrání nás všechny"
- SSB_savak_protect_us_desc: "SAVAK odvádí skvělou práci v ochraně naší země prostřednictvím kontrašpionáže. Máme možnost nabídnout ochranu zbytku paktu sdílením našich znalostí v oblasti kontrašpionáže, čímž prospějeme našim spojencům téměř bez nákladů pro nás." # todo: CHANGED
+ SSB_savak_protect_us_desc: "SAVAK odvádí skvělou práci při ochraně našeho národa prostřednictvím kontrarozvědky. Máme příležitost nabídnout tuto ochranu i zbytku paktu sdílením našich znalostí z oblasti kontrarozvědky, což našim spojencům přinese výhody téměř bez nákladů."
  SSB_spirit_tooltip: "Upravuje §YSaadabadský pakt§!:"
  SSB_the_saadabad_pact: "Saadabadský pakt"
  SSB_the_saadabad_pact_desc: "Nemáme co ztratit a vše získat, pokud zůstaneme přátelští se svými sousedy. Myšlenka smlouvy, která by toto přátelství formalizovala, byla několikrát nastolena - je nejvyšší čas převzít iniciativu a zajistit, aby toto přátelství bylo zakotveno ve smlouvě."

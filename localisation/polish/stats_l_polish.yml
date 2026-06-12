@@ -377,7 +377,7 @@
  STAT_RAILWAY_GUN_ANNEX_RATIO_VALUE: "$VALUE|H0%$"
  STAT_RAILWAY_GUN_ATTACK: "Bombardovací palba: "
  STAT_RAILWAY_GUN_ATTACK_DERIVED_MODIFIERS: "Účinnost pevnosti: $FORTS|=-%1$\nÚčinnost zákopů: $ENTRENCHMENT|=-%1$\nPotlačení nepřítele: $BOMBARDMENT|=+%1$"
- STAT_RAILWAY_GUN_ATTACK_DESC: "Podpora bombardování snižuje trest způsobený pevnostmi, bonus k opevnění protivných jednotek a jejich bojovou efektivitu.\n\n$STAT_RAILWAY_GUN_ATTACK_DERIVED_MODIFIERS$" # todo: CHANGED
+ STAT_RAILWAY_GUN_ATTACK_DESC: "Podpora dělostřeleckým bombardováním snižuje obranné bonusy z opevnění a další bojové výhody nepřátelské jednotky.\n\n$STAT_RAILWAY_GUN_ATTACK_DERIVED_MODIFIERS$"
  STAT_RAILWAY_GUN_ATTACK_DIFF: " $VALUE|=+1$"
  STAT_RAILWAY_GUN_ATTACK_RANGE: "Dostřel: "
  STAT_RAILWAY_GUN_ATTACK_RANGE_DESC: "Maximální vzdálenost, na kterou může jednotka poskytovat dělostřeleckou podporu."

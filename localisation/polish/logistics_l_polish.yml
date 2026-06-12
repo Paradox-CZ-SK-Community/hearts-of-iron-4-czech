@@ -21,8 +21,8 @@
  LOGISTICS_DELETE_EQUIPMENT_CONFIRM_TITLE: "§HZničit uskadněné vybavení§!"
  LOGISTICS_EFFICIENCY_DESC: "Průměrná £prod_eff  výrobní efektivita továren produkujících každý typ vybavení"
  LOGISTICS_EFFICIENCY_LABEL: "Průměrná £prod_eff výrobní efektivita"
- LOGISTICS_EFFICIENCY_NOT_HUNDRED_HIGH_VALUE: "§HVýrobní linky§! vyrábějící $EQUIPMENT|H$ vybavení pracují s průměrnou $EFFICIENCY|Y%$ §HEfektivitou§!. Denně by mohlo být vyrobeno dalších $ADDITIONAL|^0Y$ jednotek." # todo: CHANGED
- LOGISTICS_EFFICIENCY_NOT_HUNDRED_LOW_VALUE: "§HVýrobní linky§! vyrábějící $EQUIPMENT|H$ vybavení pracují s průměrnou $EFFICIENCY|Y%$ §HEfektivitou§!. Denně by mohlo být vyrobeno dalších $ADDITIONAL|^1Y$ jednotek." # todo: CHANGED
+ LOGISTICS_EFFICIENCY_NOT_HUNDRED_HIGH_VALUE: "§HVýrobní linky§! produkující $EQUIPMENT|H$ fungují s průměrnou $EFFICIENCY|Y%$ §Hefektivitou§!. Je zde potenciál pro výrobu dalších $ADDITIONAL|^0Y$ kusů denně."
+ LOGISTICS_EFFICIENCY_NOT_HUNDRED_LOW_VALUE: "Tovární §Hvýrobní linky§! produkující $EQUIPMENT|H$ fungují s průměrnou $EFFICIENCY|Y%$ §Húčinností§!. Je zde potenciál pro výrobu dalších $ADDITIONAL|^1Y$ kusů denně."
  LOGISTICS_EFFICIENCY_SORT_BY: "Klikněte pro seřazení podle £prod_eff výrobní efektivity"
  LOGISTICS_EQUIPMENT_TYPE_LABEL: "Typ vybavení"
  LOGISTICS_EQUIPMENT_TYPE_SORT_BY: "Klikněte pro seřazení podle typu vybavení"

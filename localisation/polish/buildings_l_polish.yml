@@ -190,7 +190,7 @@
  naval_facility_desc: "Experimentální zařízení pro námořní inženýrství umožňují zahájit výzkumné projekty týkající se povrchových lodí a ponorek.\nStředisko lze vytvořit pouze v pobřežní provincii."
  naval_facility_plural: "Střediska námorního výzkumu"
  naval_headquarters: "Námořní velitelství"
- naval_headquarters_desc: "Tato budova vám umožňuje přidělit admirála, který zvýší účinnost §Yúderných skupin§! působících v dosahu Námořního velitelství.\n\nAž $MAXNUM|H$ velitelství může mít současně přiděleného admirála.\n   Aktuálně přiděleno: $CURRNUM|H$\n\nNámořní velitelství lze postavit pouze v pobřežním státě, který má námořní základnu alespoň 8. úrovně. " # todo: CHANGED
+ naval_headquarters_desc: "Tato budova vám umožňuje přiřadit admirála, který zvýší efektivitu §YÚderných skupin§! operujících v dosahu Námořního velitelství.\n\nAž $MAXNUM|H$ velitelství může mít současně přiřazeného admirála.\n   Aktuálně přiřazeno: $CURRNUM|H$\n\nNámořní velitelství lze postavit pouze v pobřežní provincii, která má námořní základnu alespoň na úrovni 8. "
  naval_supply_hub: "Námořní zásobovací uzel"
  naval_supply_hub_desc: "Tato budova umožňuje vašim flotilám doplňovat zásoby a palivo v této základně kromě jejich domovských základen, čímž potenciálně prodlouží operační dosah vašich §YÚderných skupin§!.\nA Námořní zásobovací uzel lze postavit pouze v pobřežní provincii, která má námořní základnu alespoň na úrovni 8."
  nuclear_facility: "Středisko pro jaderný výzkum"
@@ -219,7 +219,7 @@
  landmark_prague_castle: "Pražský hrad"
  landmark_prague_castle_desc: "Starobylý Pražský hrad, největší hradní komplex na světě, po staletí sloužil jako sídlo králů, císařů a nyní konečně prezidentů Československa. Jeho vnější podoba jasně ukazuje, že nejde o obrannou stavbu, nýbrž o symbol moci, připomínající velkolepé paláce. Za jeho vnějšími zdmi se navíc nachází největší československý kostel, dokončený roku 1926."
  landmark_bojnice_castle: "Bojnický zámek"
- landmark_bojnice_castle_desc: "Bojnický zámek kdysi hostil maďarské krále a další vysoce postavené šlechtice, ale od svého odtržení od Maďarska v roce 1920 slouží jako jedna z nejkrásnějších staveb na Slovensku." # todo: CHANGED
+ landmark_bojnice_castle_desc: "Bojnický zámek kdysi hostil uherské krále a další vysoce postavené šlechtice, avšak po oddělení od Maďarska roku 1920 slouží jako jedna z nejkrásnějších staveb na Slovensku."
  cataract_dam_mountain: "Přehrada Cataract" # todo: NEW TRANSLATION
  cataract_dam_mountain_plural: "Přehrady Cataract" # todo: NEW TRANSLATION
  cataract_dam_mountain_desc: "Dokončena v roce 1907, přehrada Cataract patří k významným raným inženýrským počinům koloniální Austrálie. Postavěná na řece Cataract v oblasti Southern Highlands v Novém Jižním Walesu zůstává jednou ze čtyř hlavních nádrží zásobujících město Sydney sladkou vodou." # todo: NEW TRANSLATION

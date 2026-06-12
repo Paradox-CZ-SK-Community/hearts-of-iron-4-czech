@@ -78,7 +78,7 @@
  SUBDOCTRINE_AIR_CAVALRY_DESC: "Vrtulník umožňuje zavést do pozemní války nový - svislý - rozměr. Můžeme armádu přizpůsobit tak, aby tuto možnost využila s maximální mobilitou a překvapením."
  air_cavalry_airborne_observers: "Vzdušní pozorovatelé"
  air_cavalry_service_and_support: "Servis a podpora"
- air_cavalry_rescue_liasions: "Záchranné spojky" # todo: CHANGED
+ air_cavalry_rescue_liasions: "Záchranné styčné týmy"
  air_cavalry_transport_assault: "Transportní útok"
  air_cavalry_intervention_units: "Intervenční jednotky"
  SUBDOCTRINE_MOBILE_RECON_AND_ASSAULT: "Mobilní průzkum a útok"
@@ -402,7 +402,7 @@
  carrier_battlegroups_dedicated_record_keeping: "Pečlivá evidence"
  carrier_battlegroups_floating_fortresses: "Soustředěná protiletadlová palba"
  SUBDOCTRINE_CARRIER_AIRFIELDS: "Plovoucí letiště"
- SUBDOCTRINE_CARRIER_AIRFIELDS_DESC: "Paluba letadlové lodi je nejdražší kus nemovitosti na Zemi. Nesmí se šetřit úsilí, aby se z ní vytěžilo maximum možné letecké síly." # todo: CHANGED
+ SUBDOCTRINE_CARRIER_AIRFIELDS_DESC: "Paluba letadlové lodě je nejdražším místem na světě. Žádné úsilí nesmí být šetřeno na maximalizaci její letecké kapacity."
  floating_airfields_traffic_control_systems: "Koordinace letového provozu"
  floating_airfields_floating_city: "Organizace štábních činností"
  floating_airfields_veteran_pilots: "Plánování útoků leteckých skupin"
@@ -437,7 +437,7 @@
  light_task_forces_evasive_engagements_focus: "Efektivní povrchové krytí"
  light_task_forces_localized_sea_power: "Místní kontrola moře"
  SUBDOCTRINE_SUBMARINE_WOLFPACKS: "Vlčí smečky"
- SUBDOCTRINE_SUBMARINE_WOLFPACKS_DESC: "Lovte rozptýleně — udeřte společně. Naše ponorky se mohou rozptýlit, aby pokryly rozsáhlé úseky oceánu, a pak si navzájem signalizovat, aby se sešly, když je spatřena vhodná kořist." # todo: CHANGED
+ SUBDOCTRINE_SUBMARINE_WOLFPACKS_DESC: "Lovit rozptýleně — udeřit společně. Naše ponorky mohou pokrýt ohromné plochy oceánu a svolat ostatní, jakmile je objevena kořist."
  wolfpacks_predictive_expertise: "Rychlý přístup"
  wolfpacks_pack_search_patterns: "Vyhledávací vzory smečky"
  wolfpacks_improvisation: "Kultura improvizace"
@@ -647,7 +647,7 @@
  air_subdoctrine_operational_air_support_tactical_bomber_preservation: "Techniky vyhýbání zachycení"
  SUBDOCTRINE_TACTICAL_BATTLEFIELD_SUPPORT: "Taktická bojová podpora"
  SUBDOCTRINE_TACTICAL_BATTLEFIELD_SUPPORT_DESC: "Flotila lehkých bombardérů zasypávající nepřátelská opevnění z nebe připraví cestu pro postup našich jednotek."
- air_subdoctrine_tactical_battlefield_support_keypoint_bombing: "Přípravné letecké bombardování" # todo: CHANGED
+ air_subdoctrine_tactical_battlefield_support_keypoint_bombing: "Přípravné bombardování"
  air_subdoctrine_tactical_battlefield_support_logistical_bombing: "Logistické bombardování"
  air_subdoctrine_tactical_battlefield_support_ship_hunters: "Dostupnost průbojné munice"
  air_subdoctrine_tactical_battlefield_support_dedicated_record_keeping: "Úsporné používání paliva"
