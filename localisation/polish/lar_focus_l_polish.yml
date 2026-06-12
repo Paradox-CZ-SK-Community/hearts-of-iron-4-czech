@@ -1284,3 +1284,11 @@
  FRA_carry_the_revolution_west_tt: "Udělí §YSvrhnout vládu§! jako válečný cíl proti §YŠpanělsku§! nebo jakýmkoli přeživším nekomunistickým frakcím španělské občanské války."
  nationalist_victory: "Nacionalistické Španělsko vyhrálo španělskou občanskou válku"
  republican_victory: "Republikánské Španělsko vyhrálo španělskou občanskou válku"
+ POR_restart_investment_into_timor: "Obnovit investice do Timoru" # todo: NEW TRANSLATION
+ POR_restart_investment_into_timor_desc: "Timor byl během Velké hospodářské krize považován za ekonomickou zátěž, a od počátku krize tak od nás dostával jen málo podpory či řízení. S japonskou společností Nan'yō Kōhatsu, která v regionu investuje, je možná čas obnovit i naše vlastní investice tam." # todo: NEW TRANSLATION
+ POR_revert_the_local_autonomy_policies: "Zrušit politiku místní autonomie" # todo: NEW TRANSLATION
+ POR_revert_the_local_autonomy_policies_desc: "Po povstání v Manufahi v roce 1911 se naše koloniální politika vrátila k používání domorodých vládců jako loutkových představitelů, čímž byly opuštěny předchozí pokusy o hlubší integraci regionu. Možná bychom to měli zvrátit a přijmout multikulturnost našeho státu." # todo: NEW TRANSLATION
+ POR_invest_in_sandalwood_and_coffee_production: "Investovat do produkce santalového dřeva a kávy" # todo: NEW TRANSLATION
+ POR_invest_in_sandalwood_and_coffee_production_desc: "Naše hlavní plantážní společnost na Timoru, SAPT, může z dodatečných státních investic výrazně profitovat. Pokud je nyní podpoříme, jejich produkty nám mohou v blízké budoucnosti přinést značné výnosy." # todo: NEW TRANSLATION
+ POR_haven_of_neutrality_macau: "Macau, útočiště neutrality" # todo: NEW TRANSLATION
+ POR_haven_of_neutrality_macau_desc: "S naším současným neutrálním postojem a konfliktem, který zuří po celé Asii, se Macau stalo majákem naděje a stability v těchto bouřlivých časech. Měli bychom investovat do rozšíření této provincie." # todo: NEW TRANSLATION

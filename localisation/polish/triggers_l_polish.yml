@@ -117,7 +117,7 @@
  TRIGGER_AUTONOMY_STATE_GREATER_THAN: "Je autonomnější než $NAME|H$"
  TRIGGER_AUTONOMY_STATE_LESS_THAN: "Je méně autonomní než $NAME|H%$"
  TRIGGER_AUTONOMY_STATE_RATIO_GREATER_THAN: "Pokrok autonomie nad $VALUE|H%$"
- TRIGGER_AUTONOMY_STATE_RATIO_LESS_THAN: "Pokrok autonomie pod $VALUE|H%$"
+ TRIGGER_AUTONOMY_STATE_RATIO_LESS_THAN: "Pokrok autonomie menší než $VALUE|H%$"
  TRIGGER_AVERAGE_UNIT_LEADER_STAT_LESS_THAN: "Průměrné statistiky pod $VALUE|H$"
  TRIGGER_AVERAGE_UNIT_LEADER_STAT_MORE_THAN: "Průměrné statistiky nad $VALUE|H$"
  TRIGGER_CANNOT_SELECT_TRAIT_TRAIT: "Nemůže vybrat vlastnost $NAME|H$"
@@ -1008,3 +1008,20 @@
  GOAL_T_TRIGGER_B: "Počet divizí ve frakci ($LEFT|0H$) je větší než $RIGHT|0H$"
  TRIGGER_EQUIPMENT_CURRENT_VALUE: " (aktuální zásoby: $CURRENT|H$)"
  TRIGGER_ENERGY_RATIO: "Poměr energie"
+ TRIGGER_HAS_COMPLETED_GOAL_TRIGGER: "$COUNTRY|H$ již dříve splnil cíl frakce $GOAL|H$" # todo: NEW TRANSLATION
+ TRIGGER_HAS_NOT_COMPLETED_GOAL_TRIGGER: "$COUNTRY|H$ dosud nesplnil cíl frakce $GOAL|H$" # todo: NEW TRANSLATION
+ TRIGGER_IS_IN_STATE: "Je v $STATE|H$" # todo: NEW TRANSLATION
+ TRIGGER_NOT_IS_IN_STATE: "Není v $STATE|H$" # todo: NEW TRANSLATION
+ TRIGGER_IS_PROMOTED_FROM_UNIT: "Byl povýšen z jednotky" # todo: NEW TRANSLATION
+ TRIGGER_IS_NOT_PROMOTED_FROM_UNIT: "Nebyl povýšen z jednotky" # todo: NEW TRANSLATION
+ TRIGGER_CAN_BE_CAPTURED: "Může být zajat" # todo: NEW TRANSLATION
+ TRIGGER_CAN_NOT_BE_CAPTURED: "Nelze zajmout" # todo: NEW TRANSLATION
+ TRIGGER_GENERAL_CAPTURED: "Je v zajetí" # todo: NEW TRANSLATION
+ TRIGGER_GENERAL_NOT_CAPTURED: "Není v zajetí" # todo: NEW TRANSLATION
+ TRIGGER_ANY_GENERAL_CAPTURED: "Alespoň jeden z našich velitelů je v zajetí" # todo: NEW TRANSLATION
+ TRIGGER_NO_GENERAL_CAPTURED: "Žádný z našich velitelů není v zajetí" # todo: NEW TRANSLATION
+ TRIGGER_HAS_GENERAL_CAPTURED_BY: "Je některý z našich velitelů zajat zemí $COUNTRY|H$" # todo: NEW TRANSLATION
+ TRIGGER_HAS_NOT_GENERAL_CAPTURED_BY: "Žádný z našich velitelů není zajat zemí $COUNTRY|H$" # todo: NEW TRANSLATION
+ can_unlock_second_track_special_forces_doctrine_yes: "Speciální jednotky §HSpecializace větve§! Požadavek splněn" # todo: NEW TRANSLATION
+ can_unlock_second_track_special_forces_doctrine_no: "Vyžaduje dodatečnou specializaci Speciálních jednotek §HSpecializace větve§!" # todo: NEW TRANSLATION
+ volunteer_target_is_triggered_uprising_tt: "§Y[ROOT.GetNameWithFlag]§! může posílat dobrovolníky pouze do povstání, která sama vyvolala." # todo: NEW TRANSLATION

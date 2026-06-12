@@ -1,6 +1,6 @@
 ﻿l_polish:
  ADD_DESIGN_TEMPLATE_BONUS_DESC: "Má slevu $DISCOUNT|2%Y$ na tento design"
- ADD_DIVISIONAL_COMMANDER_XP: "Získává $VAL|H$ zkušeností velitelského důstojníka"
+ ADD_DIVISIONAL_COMMANDER_XP: "Získá $VAL|H0$ zkušeností důstojníka"
  CHANGE_DIV_TEMPLATE_EFFECT: "$DIV$ přechází na šablonu $TEMPLATE|H$"
  CHANGE_TAG_EFFECT: "Země se změní na $COUNTRY|Y$."
  CIVIL_WAR_COUNTRY_EFFECT_BEGIN: "Odbojářská země:\n"
@@ -37,7 +37,7 @@
  EFFECT_ADD_DECRYPTION: "Dešifrování proti $COUNTRY|H$: $AMOUNT|+*$"
  EFFECT_ADD_DECRYPTION_RATIO: "Dešifrování proti $COUNTRY|H$: $RATIO|+%0$"
  EFFECT_ADD_DESIGN_TEMPLATE_BONUS: "Získat $DISCOUNT|2%Y$ slevu na $USES|Y$ navrhovaných šablonách. Lze použít na: $NAME|Y$"
- EFFECT_ADD_DOCTRINE_COST_REDUCTION: "$USES$$REDUCTION|G%.0$ snížení nákladů pro: $LIST|Y$."
+ EFFECT_ADD_DOCTRINE_COST_REDUCTION: "$USES$$REDUCTION|G%.0$ Snížení nákladů na doktríny pro: $LIST|Y$."
  EFFECT_ADD_DYMAMIC_MODIFIER: "Přidává $NAME|H$, který uděluje:\n$DESC$"
  EFFECT_ADD_DYMAMIC_MODIFIER_WITH_DAYS: "Přidává $NAME|H$ ($NUM|H$ dní), který uděluje:\n$DESC$"
  EFFECT_ADD_EQUIPMENT_PRODUCTION: "Přidává výrobní linku $EQUIPMENT|Y$.\n"
@@ -482,3 +482,8 @@
  is_literally_china_tt_NOT: "NENÍ: $is_literally_china_tt$"
  is_chinese_warlord_tt: "Původní země je §Yčínský militarista§!"
  is_chinese_warlord_tt_NOT: "NENÍ: $is_chinese_warlord_tt$"
+ EFFECT_CAPTURE_GENERAL: "$COUNTRY_NAME_DEF|H$ jej drží v zajetí"
+ EFFECT_RELEASE_GENERALS: "Propustí všechny zajaté generály z $COUNTRY_NAME_DEF|H$" # todo: NEW TRANSLATION
+ EFFECT_RELEASE_FROM_CAPTIVITY: "Je propuštěn ze zajetí"
+ REDUCE_FOCUS_DAYS_EFFECT_NEGATIVE: "Zvýší dobu potřebnou pro zaměření $FOCUS|Y$ o $DAYS|0Y$ dnů"
+ REDUCE_FOCUS_DAYS_MULTIPLE_HEADER_NEGATIVE: "Zvýší dobu o $DAYS|0Y$ dnů pro:"

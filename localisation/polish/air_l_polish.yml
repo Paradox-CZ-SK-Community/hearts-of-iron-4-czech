@@ -270,7 +270,7 @@
  AIR_REINFORCEMENT_HIGH_PRIORITY: "Vysoká priorita posil"
  AIR_REINFORCEMENT_LOW_PRIORITY: "Nízká priorita posil"
  AIR_REINFORCEMENT_MEDIUM_PRIORITY: "Střední priorita posil"
- AIR_REINFORCE_ANY: "Použít aktuální i zastaralé letadla pro doplnění §Hletky§!." 
+ AIR_REINFORCE_ANY: "Použít aktuální i zastaralé letadla pro doplnění §Hletky§!."
  AIR_REINFORCE_ANY_MIXED: "Většina letek: $AIR_REINFORCE_ANY_SHORT$"
  AIR_REINFORCE_ANY_SHORT: "§HBěžná letka§!"
  AIR_REINFORCE_DESC: "Pro změnu pravidel doplnění §HReorganizujte§! letku."

@@ -280,7 +280,7 @@
  mtg_britain.1000.a: "Král je mrtev. Ať žije královna!"
  mtg_britain.1000.d: "Dnes ráno přišla zpráva o smrti krále Jiřího VI. Válečné strasti si na králově zdraví vybíraly čím dál větší daň a nakonec jeho silné kouření a následná arterioskleróza a Buergerova choroba způsobily, že jeho dcera Elizabeth již přebrala mnoho otcových povinností.\n\nNyní Elizabeth usedne na otcův trůn a ponese panovnické jméno Alžběta II. Ačkoli je mladá, na tento okamžik byla připravována od chvíle, kdy strýcův morganatický sňatek učinil linii následnictví jasnou, a navzdory věku se od ní očekává, že bude dobrou královnou."
  mtg_britain.1000.t: "Zemřel král Jiří VI."
- mtg_britain.100_tt: "Pokud bude usnesení přijato, obdržíte:\n"
+ mtg_britain.100_tt: "§RPokud bude přijato, §!§Y[FROM.GetNameDef]§!§R může vytvořit §!§YImperiální federaci§!§R a anektovat nás§!\n\nPokud bude rezoluce schválena, obdržíte:\n"
  mtg_britain.101.a: "Budeme silnější jako jeden celek."
  mtg_britain.101.d: "[From.GetAdjectiveCap] vláda nás informovala, že s naším návrhem Imperiální federace souhlasí. Plně nás podporují a budou usilovat o přípravu integrace, pokud návrh projde."
  mtg_britain.101.t: "Imperiální konference: Federace - [From.GetName] přijímá"
@@ -1502,5 +1502,20 @@
  panay_incident.6.a: "Jejich slabost je naší silou"
  panay_incident.6.d: "[USA.GetNameDef] se po ztrátě USS Panay obávají války. Jelikož jim zjevně chybí chuť ke vojenskému střetu, podařilo se [USA.GetAdjective] politikům prosadit stažení všech zbývajících [USA.GetAdjective] dělových člunů a personálu z Číny."
  panay_incident.6.t: "[USA.GetName] se stahují z Číny"
- us_pilot_training_tt: "Malá letka 25 stíhaček bude převedena, jakmile vypukne válka."
+ us_pilot_training_tt: "Malá letka 25 stíhaček bude přemístěna, až vypukne válka."
  ven_claims_abc_islands: "§YVenezuela§! nabídla „ochranu“ pro §YCuraçao§!.\n"
+ mtg_britain.200.t: "[FROM.GetNameDefCap] se pokouší prosadit režim [FROM.GetRulingIdeology]" # todo: NEW TRANSLATION
+ mtg_britain.200.d: "V překvapivém zvratu událostí se vláda [FROM.GetLeader] pokusila získat podporu v [ROOT.GetName], aby změnila naši vládnoucí stranu na [FROM.GetRulingIdeology]." # todo: NEW TRANSLATION
+ mtg_britain.200.a: "Je bezpečnější souhlasit." # todo: NEW TRANSLATION
+ mtg_britain.200.b: "Přes naše mrtvoly!" # todo: NEW TRANSLATION
+ mtg_britain.200.tt: "§RToto může mít vážné následky§!" # todo: NEW TRANSLATION
+ mtg_britain.201.t: "[FROM.GetNameDefCap] odmítá změnu režimu" # todo: NEW TRANSLATION
+ mtg_britain.201.d: "V ohromujícím projevu neloajality [FROM.GetLeader] oznámil své odmítnutí podřídit se vůli [ROOT.GetLeader] v otázce role [ROOT.GetRulingIdeology] ve své vládě. Naším jediným způsobem, jak nyní dosáhnout změny režimu, je ozbrojený konflikt s [FROM.GetNameDef]." # todo: NEW TRANSLATION
+ mtg_britain.201.a: "Nechme to být, jednota je důležitější." # todo: NEW TRANSLATION
+ mtg_britain.201.b: "Je válka." # todo: NEW TRANSLATION
+ mtg_britain.202.t: "[FROM.GetNameDefCap] vyhlašuje válku" # todo: NEW TRANSLATION
+ mtg_britain.202.d: "Zdá se, že [FROM.GetLeader] naši odmítnutí nepřijal dobře a šel tak daleko, že oznámil oficiální vyhlášení války!" # todo: NEW TRANSLATION
+ mtg_britain.202.a: "Některé věci stojí za to bojovat." # todo: NEW TRANSLATION
+ mtg_britain.203.t: "[FROM.GetNameDefCap] upouští od tématu změny režimu" # todo: NEW TRANSLATION
+ mtg_britain.203.d: "V poznámce od [FROM.GetLeader] oznámili, že přijímají naše odmítnutí a uvedli, že je třeba zachovat jednotu Commonwealthu." # todo: NEW TRANSLATION
+ mtg_britain.203.a: "Žádná válka s mateřskou zemí." # todo: NEW TRANSLATION

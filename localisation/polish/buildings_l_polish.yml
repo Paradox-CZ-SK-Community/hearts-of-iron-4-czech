@@ -220,3 +220,6 @@
  landmark_prague_castle_desc: "Starobylý Pražský hrad, největší hradní komplex na světě, po staletí sloužil jako sídlo králů, císařů a nyní konečně prezidentů Československa. Jeho vnější podoba jasně ukazuje, že nejde o obrannou stavbu, nýbrž o symbol moci, připomínající velkolepé paláce. Za jeho vnějšími zdmi se navíc nachází největší československý kostel, dokončený roku 1926."
  landmark_bojnice_castle: "Bojnický zámek"
  landmark_bojnice_castle_desc: "Bojnický zámek kdysi hostil uherské krále a další vysoce postavené šlechtice, avšak po oddělení od Maďarska roku 1920 slouží jako jedna z nejkrásnějších staveb na Slovensku."
+ cataract_dam_mountain: "Přehrada Cataract" # todo: NEW TRANSLATION
+ cataract_dam_mountain_plural: "Přehrady Cataract" # todo: NEW TRANSLATION
+ cataract_dam_mountain_desc: "Dokončena v roce 1907, přehrada Cataract patří k významným raným inženýrským počinům koloniální Austrálie. Postavěná na řece Cataract v oblasti Southern Highlands v Novém Jižním Walesu zůstává jednou ze čtyř hlavních nádrží zásobujících město Sydney sladkou vodou." # todo: NEW TRANSLATION

@@ -2154,3 +2154,5 @@
  if_they_back_down_or_lose_a_border_conflict_tt: "Pokud ustoupí nebo prohrají hraniční konflikt:"
  SEA_PRC_misc_events.19.e: "[FROM.GetNameDefCap] odevzdává [743.GetName]"
  PHI_laurel_help: "§YJosé Laurel§! zvýší šanci na získání japonské podpory při §YZajištění japonských záruk§!"
+ SEA_japan_foreign_policy.4.c: "Jsme uprostřed války! Požádejte je, aby počkali." # todo: NEW TRANSLATION
+ SEA_japan_foreign_policy.4.c_tt: "Budeme požádáni, abychom reagovali, jakmile omezená válka skončí." # todo: NEW TRANSLATION

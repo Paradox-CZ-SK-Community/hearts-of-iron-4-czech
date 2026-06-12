@@ -14,7 +14,7 @@
  COMMAND_POWER_ALLOCATED: "Přiděleno: $VALUE|+=0$"
  COMMAND_POWER_ALLOCATED_TOOLTIP_ENTRY: "         - $NAME|0$: $VALUE|=+0$"
  COMMAND_POWER_CAP_CHANGE: "VS limit:"
- COMMAND_POWER_DESC: "§HVelitelská síla§! se používá pro různé vojenské operace a povyšování generálů. Může být využito na jednorázové operace nebo může být přiděleno na kontinuitní operace. Růst a maximální kapacita §HVelitelská síla§! může být zvýšena různými doktrínami a národními duchy."
+ COMMAND_POWER_DESC: "§HVelitelská síla§! se používá pro různé vojenské operace a povýšení generálů. Lze ji utratit na jednorázové operace nebo ji přidělit na průběžné operace. Růst a maximální kapacita §HVelitelské síly§! mohou být zvýšeny různými doktrínami a národními duchy."
  COMMAND_POWER_GAIN: "§TDenní zisk: $VALUE|Y2$§!"
  COMMAND_POWER_TOOLTIP_AIR_MISSION: "$MISSION_TYPE$ ($WING_NAME|H$ na $LOCATION|H$)"
  COMMAND_POWER_TOOLTIP_AIR_MISSION_UNASSIGNED: "$MISSION_TYPE$ ($WING_NAME|H$)"

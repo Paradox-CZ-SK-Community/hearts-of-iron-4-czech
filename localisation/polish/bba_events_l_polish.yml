@@ -193,7 +193,7 @@
  BBA_ethiopia_communist_events.10.a: "Zradili nás."
  BBA_ethiopia_communist_events.10.desc: "[SOV.GetName] odmítá poslat pěchotní výstroj. Navzdory nejlepším snahám naší delegace přímo v jejich hlavním městě nám [SOV.capital.GetCapitalVictoryPointName] dáva jasně najevo, že teď mají dost vlastních problémů, než aby nám mohli něco poskytnout."
  BBA_ethiopia_communist_events.10.t: "[SOV.GetNameDefCap] odmítá poslat výstroj"
- BBA_ethiopia_communist_events.11.a: "Je to příležitost, kterou si nemůžeme nechat ujít."
+ BBA_ethiopia_communist_events.11.a: "To je příležitost, kterou nesmíme propásnout."
  BBA_ethiopia_communist_events.11.b: "Nemůžeme riskovat, že cizí mocnosti poznají naše taktiky."
  BBA_ethiopia_communist_events.11.desc: "Nové vedení [ETH.GetNonIdeologyName] uznalo slabiny své armády v oblasti moderního válčení. Proto nás požádali o podporu při reorganizaci jejich ozbrojených sil. Je to skvělá příležitost dát našim důstojníkům zkušenosti v odlišném prostředí, ale také šance ovlivnit vnitřní [ETH.GetAdjective] mocenskou rovnováhu."
  BBA_ethiopia_communist_events.11.t: "[ETH.GetName] žádá o vojenské poradce"

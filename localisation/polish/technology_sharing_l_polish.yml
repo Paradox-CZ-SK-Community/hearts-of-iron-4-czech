@@ -151,3 +151,7 @@
  CZE_balkan_tech_sharing_group_desc: "Výzkumná dohoda, kterou tvoří převážně balkánské země a [CZE.GetNameDef], jejímž cílem je udržet jejich průmyslové technologie na úrovni větších zemí."
  CZE_german_czechoslovak_equipment_design_group_name: "Československo-německý výbor pro konstrukci výzbroje"
  CZE_german_czechoslovak_equipment_design_group_desc: "[GER.GetNameDef] a [CZE.GetNameDef] zahájují vědeckou spolupráci na konstrukci tanků a letadel."
+ cominwealth_allied_research_name: "Výzkum Cominwealthu"
+ cominwealth_allied_research_desc: "Zkrácený čas potřebný k výzkumu technologií, které provádějí členové Cominwealthu."
+ siam_tech_sharing_group: "Thajský výzkum"
+ siam_tech_sharing_group_desc: "Zkrácený čas potřebný k výzkumu technologií, které provádějí ostatní thajské spojenecké země."

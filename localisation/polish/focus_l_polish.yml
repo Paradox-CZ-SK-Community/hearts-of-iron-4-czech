@@ -2481,3 +2481,9 @@
  JAP_military_doctrine_shortcut: "Armáda"
  JAP_revere_the_emperor_shortcut: "Politika: Císařská cesta"
  JAP_okadas_military_purge_speech_shortcut: "Politika:\nVojenská čistka"
+ NZL_purchase_old_ships: "$SMB_purchase_destroyers_and_subs$" # todo: NEW TRANSLATION
+ NZL_purchase_old_ships_desc: "$SMB_purchase_destroyers_and_subs_desc$" # todo: NEW TRANSLATION
+ NZL_the_plan: "Plán výcviku pilotů Britského společenství" # todo: NEW TRANSLATION
+ NZL_the_plan_desc: "Spojili jsme se s našimi spojenci, abychom sdíleli zkušenosti a poznatky ve výcviku pilotů. Válka by mohla být vyhrána ze vzduchu, takže Plán výcviku pilotů Britského společenství by mohl být klíčem k vítězství." # todo: NEW TRANSLATION
+ either_tt: "Dostaneme možnost buď:"
+ or_tt: "nebo"

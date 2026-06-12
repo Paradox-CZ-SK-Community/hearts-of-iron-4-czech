@@ -39,28 +39,28 @@
  AST_artillery_equipment_1_short: "QF 18-pounder"
  AST_artillery_equipment_2: "QF 25-pounder"
  AST_artillery_equipment_3: "BL 5.5-inch Medium Gun"
- AST_gw_tank_equipment: "Mark V"
- AST_gw_tank_equipment_short: "Mark V"
- AST_heavy_tank_aa_equipment_2: "Churchill AA"
+ AST_gw_tank_equipment: "Vickers II" # todo: CHANGED
+ AST_gw_tank_equipment_short: "Vickers II" # todo: CHANGED
+ AST_heavy_tank_aa_equipment_2: "Churchill Local Pattern Anti-Air" # todo: CHANGED
  AST_heavy_tank_aa_equipment_2_short: "Churchill AA"
- AST_heavy_tank_aa_equipment_3: "Black Prince Marksman"
- AST_heavy_tank_aa_equipment_3_short: "Black Prince Marksman"
- AST_heavy_tank_artillery_equipment_1: "Gun Carrier Mk. I"
- AST_heavy_tank_artillery_equipment_1_short: "Gun Carrier Mk. I"
- AST_heavy_tank_artillery_equipment_2: "Churchill AVRE"
- AST_heavy_tank_artillery_equipment_2_short: "Churchill AVRE"
- AST_heavy_tank_artillery_equipment_3: "Black Prince AVRE"
- AST_heavy_tank_artillery_equipment_3_short: "Black Prince AVRE"
- AST_heavy_tank_destroyer_equipment_2: "Churchill Gun Carrier"
- AST_heavy_tank_destroyer_equipment_2_short: "Churchill Gun Carrier"
- AST_heavy_tank_destroyer_equipment_3: "Hector"
- AST_heavy_tank_destroyer_equipment_3_short: "Hector"
- AST_heavy_tank_equipment_1: "Vickers A1E1 'Independent'"
- AST_heavy_tank_equipment_1_short: "Vickers"
+ AST_heavy_tank_aa_equipment_3: "Churchill Black Prince Anti-Air" # todo: CHANGED
+ AST_heavy_tank_aa_equipment_3_short: "Black Prince AA" # todo: CHANGED
+ AST_heavy_tank_artillery_equipment_1: "Matilda II SP Artillery" # todo: CHANGED
+ AST_heavy_tank_artillery_equipment_1_short: "Matilda II SPA" # todo: CHANGED
+ AST_heavy_tank_artillery_equipment_2: "Churchill Local Pattern SP Artillery" # todo: CHANGED
+ AST_heavy_tank_artillery_equipment_2_short: "Churchill SPA" # todo: CHANGED
+ AST_heavy_tank_artillery_equipment_3: "Churchill Black Prince SP Artillery" # todo: CHANGED
+ AST_heavy_tank_artillery_equipment_3_short: "Black Prince SPA" # todo: CHANGED
+ AST_heavy_tank_destroyer_equipment_2: "Churchill Local Pattern Tank Destroyer" # todo: CHANGED
+ AST_heavy_tank_destroyer_equipment_2_short: "Churchill TD" # todo: CHANGED
+ AST_heavy_tank_destroyer_equipment_3: "Churchill Black Prince Tank Destroyer" # todo: CHANGED
+ AST_heavy_tank_destroyer_equipment_3_short: "Black Prince TD" # todo: CHANGED
+ AST_heavy_tank_equipment_1: "Matilda II" # todo: CHANGED
+ AST_heavy_tank_equipment_1_short: "Matilda II" # todo: CHANGED
  AST_heavy_tank_equipment_2: "Churchill Lokální varianta"
- AST_heavy_tank_equipment_2_short: "Churchill LV"
+ AST_heavy_tank_equipment_2_short: "Churchill" # todo: CHANGED
  AST_heavy_tank_equipment_3: "Churchill Black Prince"
- AST_heavy_tank_equipment_3_short: "Black Prince LV"
+ AST_heavy_tank_equipment_3_short: "Black Prince" # todo: CHANGED
  AST_infantry_at2: "PIAT"
  AST_infantry_at: "Protitanková puška Boys"
  AST_infantry_equipment_0: "LSAF Rifle No.1 MkIII"
@@ -71,56 +71,56 @@
  AST_infantry_equipment_2_short: "Owen Gun"
  AST_infantry_equipment_3: "Electrolux SMLE-CAR"
  AST_infantry_equipment_3_short: "Electrolux SMLE-CAR"
- AST_light_tank_aa_equipment_1: "Vickers II AA"
- AST_light_tank_aa_equipment_1_short: "Vickers II AA"
- AST_light_tank_aa_equipment_2: "Matilda AA"
- AST_light_tank_aa_equipment_2_short: "Matilda AA"
- AST_light_tank_aa_equipment_3: "Valentine AA"
- AST_light_tank_aa_equipment_3_short: "Valentine AA"
- AST_light_tank_artillery_equipment_1: "Birch"
- AST_light_tank_artillery_equipment_1_short: "Birch"
- AST_light_tank_artillery_equipment_2: "Nosič 3-palcového minometu (Aust.)"
- AST_light_tank_artillery_equipment_2_short: "LP2 3-palcový"
- AST_light_tank_artillery_equipment_3: "Bishop"
- AST_light_tank_artillery_equipment_3_short: "Bishop"
- AST_light_tank_destroyer_equipment_1: "Deacon"
- AST_light_tank_destroyer_equipment_1_short: "Deacon"
- AST_light_tank_destroyer_equipment_2: "LP2-A QF 2-Pounder"
- AST_light_tank_destroyer_equipment_2_short: "LP2"
- AST_light_tank_destroyer_equipment_3: "Archer"
- AST_light_tank_destroyer_equipment_3_short: "Archer"
- AST_light_tank_equipment_1: "Vickers Medium Mark II"
- AST_light_tank_equipment_1_short: "Vickers II"
- AST_light_tank_equipment_2: "Matilda Lokální varianta"
- AST_light_tank_equipment_2_short: "Matilda LV"
- AST_light_tank_equipment_3: "Valentine Lokální varianta"
- AST_light_tank_equipment_3_short: "Valentine LV"
+ AST_light_tank_aa_equipment_1: "Vickers Mk VI Anti-Air" # todo: CHANGED
+ AST_light_tank_aa_equipment_1_short: "Vickers Mk VI AA" # todo: CHANGED
+ AST_light_tank_aa_equipment_2: "M3 Light Anti-Air" # todo: CHANGED
+ AST_light_tank_aa_equipment_2_short: "M3 Light AA" # todo: CHANGED
+ AST_light_tank_aa_equipment_3: "Crusader II Anti-Air" # todo: CHANGED
+ AST_light_tank_aa_equipment_3_short: "Crusader II AA" # todo: CHANGED
+ AST_light_tank_artillery_equipment_1: "Vickers Mk VI SP Artillery" # todo: CHANGED
+ AST_light_tank_artillery_equipment_1_short: "Vickers Mk VI SPA" # todo: CHANGED
+ AST_light_tank_artillery_equipment_2: "M3 Light SP Artillery" # todo: CHANGED
+ AST_light_tank_artillery_equipment_2_short: "M3 Light SPA" # todo: CHANGED
+ AST_light_tank_artillery_equipment_3: "Crusader II SP Artillery" # todo: CHANGED
+ AST_light_tank_artillery_equipment_3_short: "Crusader II SPA" # todo: CHANGED
+ AST_light_tank_destroyer_equipment_1: "Vickers Mk VI Tank Destroyer" # todo: CHANGED
+ AST_light_tank_destroyer_equipment_1_short: "Vickers Mk VI TD" # todo: CHANGED
+ AST_light_tank_destroyer_equipment_2: "M3 Light Tank Destroyer" # todo: CHANGED
+ AST_light_tank_destroyer_equipment_2_short: "M3 Light TD" # todo: CHANGED
+ AST_light_tank_destroyer_equipment_3: "Crusader II Tank Destroyer" # todo: CHANGED
+ AST_light_tank_destroyer_equipment_3_short: "Crusader II TD" # todo: CHANGED
+ AST_light_tank_equipment_1: "Vickers Mk VI" # todo: CHANGED
+ AST_light_tank_equipment_1_short: "Vickers Mk VI" # todo: CHANGED
+ AST_light_tank_equipment_2: "M3 Light" # todo: CHANGED
+ AST_light_tank_equipment_2_short: "M3 Light" # todo: CHANGED
+ AST_light_tank_equipment_3: "Crusader II" # todo: CHANGED
+ AST_light_tank_equipment_3_short: "Crusader II" # todo: CHANGED
  AST_mechanized_equipment_1: "Bren Carrier LV"
  AST_mechanized_equipment_1_short: "Bren Carrier"
  AST_mechanized_equipment_2: "Universal Carrier LV"
  AST_mechanized_equipment_2_short: "Universal Carrier"
- AST_mechanized_equipment_3: "Windsor Carrier LV"
- AST_mechanized_equipment_3_short: "Windsor Carrier"
- AST_medium_tank_aa_equipment_1: "Crusader AA"
- AST_medium_tank_aa_equipment_1_short: "Crusader AA"
- AST_medium_tank_aa_equipment_2: "Cromwell AA"
- AST_medium_tank_aa_equipment_2_short: "Cromwell AA"
- AST_medium_tank_aa_equipment_3: "Comet Marksman"
- AST_medium_tank_aa_equipment_3_short: "Comet Marksman"
- AST_medium_tank_artillery_equipment_1: "Centaur"
- AST_medium_tank_artillery_equipment_1_short: "Centaur"
- AST_medium_tank_artillery_equipment_2: "Avenger"
- AST_medium_tank_artillery_equipment_2_short: "Avenger"
- AST_medium_tank_artillery_equipment_3: "Sexton"
- AST_medium_tank_artillery_equipment_3_short: "Sexton"
- AST_medium_tank_destroyer_equipment_1: "Cavalier"
- AST_medium_tank_destroyer_equipment_1_short: "Cavalier"
- AST_medium_tank_destroyer_equipment_2: "Charioteer"
- AST_medium_tank_destroyer_equipment_2_short: "Charioteer"
- AST_medium_tank_destroyer_equipment_3: "AC IV"
- AST_medium_tank_destroyer_equipment_3_short: "AC IV"
- AST_medium_tank_equipment_1: "Crusader Lokální Varianta"
- AST_medium_tank_equipment_1_short: "Crusader LV"
+ AST_mechanized_equipment_3: "Kangaroo Carrier LP" # todo: CHANGED
+ AST_mechanized_equipment_3_short: "Kangaroo Carrier" # todo: CHANGED
+ AST_medium_tank_aa_equipment_1: "M3 Grant Anti-Air" # todo: CHANGED
+ AST_medium_tank_aa_equipment_1_short: "M3 Grant AA" # todo: CHANGED
+ AST_medium_tank_aa_equipment_2: "AC I Sentinel Anti-Air" # todo: CHANGED
+ AST_medium_tank_aa_equipment_2_short: "Sentinel AA" # todo: CHANGED
+ AST_medium_tank_aa_equipment_3: "AC III Thunderbolt Anti-Air" # todo: CHANGED
+ AST_medium_tank_aa_equipment_3_short: "Thunderbolt AA" # todo: CHANGED
+ AST_medium_tank_artillery_equipment_1: "M3 Grant SP Artillery" # todo: CHANGED
+ AST_medium_tank_artillery_equipment_1_short: "M3 Grant SPA" # todo: CHANGED
+ AST_medium_tank_artillery_equipment_2: "AC I Sentinel SP Artillery" # todo: CHANGED
+ AST_medium_tank_artillery_equipment_2_short: "Sentinel SPA" # todo: CHANGED
+ AST_medium_tank_artillery_equipment_3: "Yeramba" # todo: CHANGED
+ AST_medium_tank_artillery_equipment_3_short: "Yeramba" # todo: CHANGED
+ AST_medium_tank_destroyer_equipment_1: "M3 Grant Tank Destroyer" # todo: CHANGED
+ AST_medium_tank_destroyer_equipment_1_short: "M3 Grant TD" # todo: CHANGED
+ AST_medium_tank_destroyer_equipment_2: "AC I Sentinel Tank Destroyer" # todo: CHANGED
+ AST_medium_tank_destroyer_equipment_2_short: "Sentinel TD" # todo: CHANGED
+ AST_medium_tank_destroyer_equipment_3: "AC III Thunderbolt Tank Destroyer" # todo: CHANGED
+ AST_medium_tank_destroyer_equipment_3_short: "Thunderbolt TD" # todo: CHANGED
+ AST_medium_tank_equipment_1: "M3 Grant" # todo: CHANGED
+ AST_medium_tank_equipment_1_short: "M3 Grant" # todo: CHANGED
  AST_medium_tank_equipment_2: "AC I Sentinel"
  AST_medium_tank_equipment_2_short: "Sentinel"
  AST_medium_tank_equipment_3: "AC III Thunderbolt"
@@ -1028,7 +1028,7 @@
  GER_mechanized_equipment_3_desc: "Aktualizovaná verze Sd.Kfz. 251 vybavená infračerveným reflektorem."
  GER_mechanized_equipment_3_short: "Sd.Kfz. 251/20"
  GER_medium_tank_aa_equipment_1: "Flakpanzer III Möbelwagen"
- GER_medium_tank_aa_equipment_1_desc: "Přezdívaný Möbelwagen (Nábytkový vůz) kvůli své krabicovité věži při zavřeném stavu, šlo o improvizované samohybné protiletadlové dělo postavené na podvozku Panzer IV a vyzbrojené 3,7cm kanónem."
+ GER_medium_tank_aa_equipment_1_desc: "Přezdívaný Möbelwagen (doslova \"nákladní dodávka\") díky krabicovité věži v uzavřeném stavu; šlo o improvizovaný samohybný protiletadlový kanón postavený na podvozku Panzer IV a vyzbrojený dělem ráže 3,7 cm." # todo: CHANGED
  GER_medium_tank_aa_equipment_1_short: "Möbelwagen"
  GER_medium_tank_aa_equipment_2: "Flakpanzer IV Ostwind"
  GER_medium_tank_aa_equipment_2_desc: "Flakpanzer IV 'Ostwind' (německy: 'Východní vítr') byl samohybný protiletadlový kanón založený na tanku Panzer IV. Byl vyvinut v roce 1944 jako nástupce dřívějšího Flakpanzer IV. Věž tanku Panzer IV byla odstraněna a nahrazena otevřenou, šestiúhelníkovou věží, která obsahovala 3,7 cm FlaK 43. Uzavřená konstrukce by byla preferovaná, ale to nebylo možné kvůli těžkému kouři generovanému zbraní."
@@ -1064,7 +1064,7 @@
  GER_modern_tank_aa_equipment_1: "Kugelblitz"
  GER_modern_tank_aa_equipment_1_short: "Kugelblitz"
  GER_modern_tank_destroyer_equipment_1: "E-25 Standardpanzer"
- GER_modern_tank_destroyer_equipment_1_desc: "Aktualizovaná verze Jagdpanzer IV, E-25 je rychlejší a lépe pancéřovaná."
+ GER_modern_tank_destroyer_equipment_1_desc: "Aktualizovaná verze Jagdpanzer IV — E-25 je rychlejší a lépe obrněná." # todo: CHANGED
  GER_modern_tank_destroyer_equipment_1_short: "E-25"
  GER_modern_tank_equipment_1: "E-50 Standardpanzer"
  GER_modern_tank_equipment_1_desc: "Série Entwicklung byla pozdní válečný pokus Německa vyprodukovat standardizovanou řadu návrhů tanků. Měly existovat standardní návrhy v šesti různých váhových kategoriích. E-50 Standardpanzer byl určen jako standardní střední tank, nahrazující řady tanků Panther a Tiger a konverze na jejich základě."
@@ -3492,7 +3492,7 @@
  battle_cruiser_desc: "Velká hlavní loď s útočnými schopnostmi blížícími se bitevní lodi, ale s lehčím pancéřováním výměnou za vyšší rychlost."
  battleship: "Bitevní loď"
  battleship_desc: "Největší hlavní loď vybavená největšími děly a nejsilnějším pancířem, jaký lze za peníze pořídit. Taková drahá investice si zaslouží odpovídající podporu menších doprovodných lodí."
- both_cruisers_desc: "Lehký křižník - lehké doprovodné plavidlo. Jeho primární úkol je chránit hlavní lodě před neprátelskými lehkými plavidly, ale může také vypouštět silné torpéda, která mohou poškodit větší lodě.\n\nTěžký křižník - Velký pancéřový křižník, který je poměrně flexibilní. Dobrá volba pro národy, které si nemohou dovolit stavět větší hlavní lodě."
+ both_cruisers_desc: "Lehký křižník - lehké doprovodní plavidlo. Jeho hlavním úkolem je chránit hlavní lodě před nepřátelskými lehkými loděmi, ale dokáže také vypustit silná torpéda, která mohou poškodit i větší lodě.\n\nTěžký křižník - velký pancéřový křižník, který je poměrně všestranný. Dobrá volba pro země, které si nemohou dovolit stavět větší hlavní lodě." # todo: CHANGED
  carrier: "Letadlová loď"
  carrier_armor_upgrade: "Pancéřování"
  carrier_armor_upgrade_desc: "Silnější pancíř k ochraně lodi před nepřátelskou palbou."
@@ -3871,9 +3871,9 @@
  ship_torpedo_upgrade_desc: "Torpéda představují silný útočný prostředek menších lodí s vysokou šancí na kritický zásah."
  strat_bomber_intercontinental_equipment: "Mezikontinentální bombardér"
  strat_bomber_intercontinental_equipment_1: "Mezikontinentální bombardér"
- strat_bomber_intercontinental_equipment_1_desc: "Obří letoun navržený speciálně pro mise na extrémně dlouhé vzdálenosti. Je určen k provádění strategického bombardování napříč kontinenty."
+ strat_bomber_intercontinental_equipment_1_desc: "Obří letoun speciálně navržený pro mise s ultradlouhým dosahem, určený k provádění strategického bombardování napříč kontinenty." # todo: CHANGED
  strat_bomber_intercontinental_equipment_1_short: "Mezikont. bombardér"
- strat_bomber_intercontinental_equipment_desc: "Obří letoun navržený speciálně pro mise na extrémně dlouhé vzdálenosti. Je určen k provádění strategického bombardování napříč kontinenty."
+ strat_bomber_intercontinental_equipment_desc: "Obří letoun speciálně navržený pro mise s ultradlouhým dosahem, určený k provádění strategického bombardování napříč kontinenty." # todo: CHANGED
  strat_bomber_intercontinental_equipment_short: "Mezikont. bombardér"
  sub_engine_upgrade: "Motor"
  sub_engine_upgrade_desc: "Loď s výkonnějším motorem lépe manévruje a urdržuje vzdálenost od nepřítele v boji."
@@ -3943,7 +3943,7 @@
  train_equipment_1: "Civilní vlak"
  train_equipment_1_desc: "Zabaven armádou z běžné civilní nákladní dopravy, tento vlakový stroj je dobře uzpůsoben k přepravě velkého množství zásob na dlouhé vzdálenosti. Jeho civilní konstrukce ho však činí zranitelným."
  train_equipment_2: "Válečný úsporný vlak"
- train_equipment_2_desc: "Zjednodušený design, který vynechává mnoho prvků běžných nákladních vlaků ve prospěch levnější výroby. Je stejně zranitelný jako obyčejný vlak, ale lze ho snáze nahradit."
+ train_equipment_2_desc: "Zjednodušený návrh, který kvůli levnější výrobě vypouští mnoho prvků běžných u nákladních vlaků. Přesto zůstává stejně zranitelný jako běžný vlak, ale lze jej snáze nahradit." # todo: CHANGED
  train_equipment_3: "Obrněný vlak"
  train_equipment_3_desc: "Lokomotiva obložená těžkým pancířem, aby byla méně zranitelná vůči nepřátelským útokům. Uveze stejné množství nákladu jako jiné typy, ale její výroba je nákladnější."
  train_equipment_desc: "Vlaky přepravují zásoby z hlavního zásobovacího centra do distribučních uzlů napojených na železnici."
@@ -4138,3 +4138,112 @@
  CZE_train_equipment_1: "Lokomotiva 387"
  CZE_train_equipment_2: "Lokomotiva 534"
  CZE_train_equipment_3: "Obrněná lokomotiva 376"
+ NZL_train_equipment_1: "NZR třída J" # todo: NEW TRANSLATION
+ NZL_train_equipment_2: "NZR třída KA" # todo: NEW TRANSLATION
+ AST_heavy_tank_destroyer_equipment_1: "Stíhač tanků Matilda II" # todo: NEW TRANSLATION
+ AST_heavy_tank_destroyer_equipment_1_short: "Matilda II ST" # todo: NEW TRANSLATION
+ AST_heavy_tank_aa_equipment_1: "Matilda II protiletadlový" # todo: NEW TRANSLATION
+ AST_heavy_tank_aa_equipment_1_short: "Matilda II PL" # todo: NEW TRANSLATION
+ AST_armored_car_equipment_0: "Vickers Crossley" # todo: NEW TRANSLATION
+ AST_armored_car_equipment_0_short: "Vickers Crossley" # todo: NEW TRANSLATION
+ AST_armored_car_equipment_1: "Daimler Dingo" # todo: NEW TRANSLATION
+ AST_armored_car_equipment_1_short: "Dingo" # todo: NEW TRANSLATION
+ AST_armored_car_equipment_2: "T17E1 Staghound" # todo: NEW TRANSLATION
+ AST_armored_car_equipment_2_short: "Staghound" # todo: NEW TRANSLATION
+ AST_amphibious_mechanized_equipment_1: "LVT-2" # todo: NEW TRANSLATION
+ AST_amphibious_mechanized_equipment_1_short: "LVT-2" # todo: NEW TRANSLATION
+ INS_light_tank_equipment_1: "Pancéřové vozidlo 1" # todo: NEW TRANSLATION
+ INS_light_tank_equipment_1_short: "PVT-1" # todo: NEW TRANSLATION
+ INS_light_tank_equipment_2: "Pancéřové vozidlo 2" # todo: NEW TRANSLATION
+ INS_light_tank_equipment_2_short: "PVT-2" # todo: NEW TRANSLATION
+ INS_light_tank_equipment_3: "Pancéřové vozidlo 5" # todo: NEW TRANSLATION
+ INS_light_tank_equipment_3_short: "PVT-5" # todo: NEW TRANSLATION
+ INS_light_tank_artillery_equipment_1: "Pancéřové dělo 1" # todo: NEW TRANSLATION
+ INS_light_tank_artillery_equipment_1_short: "PTG-1" # todo: NEW TRANSLATION
+ INS_light_tank_artillery_equipment_2: "Pancéřové dělo 2" # todo: NEW TRANSLATION
+ INS_light_tank_artillery_equipment_2_short: "PTG-2" # todo: NEW TRANSLATION
+ INS_light_tank_artillery_equipment_3: "Pancéřové dělo 5" # todo: NEW TRANSLATION
+ INS_light_tank_artillery_equipment_3_short: "PTG-5" # todo: NEW TRANSLATION
+ INS_light_tank_destroyer_equipment_1: "Stíhač tanků 1" # todo: NEW TRANSLATION
+ INS_light_tank_destroyer_equipment_1_short: "TJ-1" # todo: NEW TRANSLATION
+ INS_light_tank_destroyer_equipment_2: "Stíhač tanků 2" # todo: NEW TRANSLATION
+ INS_light_tank_destroyer_equipment_2_short: "TJ-2" # todo: NEW TRANSLATION
+ INS_light_tank_destroyer_equipment_3: "Stíhač tanků 5" # todo: NEW TRANSLATION
+ INS_light_tank_destroyer_equipment_3_short: "TJ-5" # todo: NEW TRANSLATION
+ INS_medium_tank_equipment_1: "Bojový tank 3" # todo: NEW TRANSLATION
+ INS_medium_tank_equipment_1_short: "GVT-3" # todo: NEW TRANSLATION
+ INS_medium_tank_equipment_2: "Bojový tank 4" # todo: NEW TRANSLATION
+ INS_medium_tank_equipment_2_short: "GVT-4" # todo: NEW TRANSLATION
+ INS_medium_tank_equipment_3: "Bojový tank 6" # todo: NEW TRANSLATION
+ INS_medium_tank_equipment_3_short: "GVT-6" # todo: NEW TRANSLATION
+ INS_medium_tank_artillery_equipment_1: "Pancéřová houfnice 3" # todo: NEW TRANSLATION
+ INS_medium_tank_artillery_equipment_1_short: "PTH-3" # todo: NEW TRANSLATION
+ INS_medium_tank_artillery_equipment_2: "Pancéřová houfnice 4" # todo: NEW TRANSLATION
+ INS_medium_tank_artillery_equipment_2_short: "PTH-4" # todo: NEW TRANSLATION
+ INS_medium_tank_artillery_equipment_3: "Pancéřová houfnice 5" # todo: NEW TRANSLATION
+ INS_medium_tank_artillery_equipment_3_short: "PTH-5" # todo: NEW TRANSLATION
+ INS_medium_tank_destroyer_equipment_1: "Stíhač tanků 3" # todo: NEW TRANSLATION
+ INS_medium_tank_destroyer_equipment_1_short: "TJ-3" # todo: NEW TRANSLATION
+ INS_medium_tank_destroyer_equipment_2: "Stíhač tanků 4" # todo: NEW TRANSLATION
+ INS_medium_tank_destroyer_equipment_2_short: "TJ-4" # todo: NEW TRANSLATION
+ INS_medium_tank_destroyer_equipment_3: "Stíhač tanků 6" # todo: NEW TRANSLATION
+ INS_medium_tank_destroyer_equipment_3_short: "TJ-6" # todo: NEW TRANSLATION
+ INS_heavy_tank_equipment_1: "Těžký tank I" # todo: NEW TRANSLATION
+ INS_heavy_tank_equipment_1_short: "ZT-I" # todo: NEW TRANSLATION
+ INS_heavy_tank_equipment_2: "Těžký tank II" # todo: NEW TRANSLATION
+ INS_heavy_tank_equipment_2_short: "ZT-II" # todo: NEW TRANSLATION
+ INS_heavy_tank_equipment_3: "Těžký tank III" # todo: NEW TRANSLATION
+ INS_heavy_tank_equipment_3_short: "ZT-III" # todo: NEW TRANSLATION
+ INS_super_heavy_tank_equipment_1: "Supertěžký tank" # todo: NEW TRANSLATION
+ INS_super_heavy_tank_equipment_1_short: "SH. Tank" # todo: NEW TRANSLATION
+ INS_modern_tank_equipment_1: "Bojový tank 8" # todo: NEW TRANSLATION
+ INS_modern_tank_equipment_1_short: "GVT-8" # todo: NEW TRANSLATION
+ INS_armored_car_equipment_0: "Wilton-Fijenoord obrněný vůz" # todo: NEW TRANSLATION
+ INS_armored_car_equipment_0_short: "WF obrněný vůz" # todo: NEW TRANSLATION
+ INS_mechanized_equipment_1: "Univerzální vůz I" # todo: NEW TRANSLATION
+ INS_mechanized_equipment_1_short: "Univerzální vůz I" # todo: NEW TRANSLATION
+ INS_mechanized_equipment_2: "Univerzální vůz II" # todo: NEW TRANSLATION
+ INS_mechanized_equipment_2_short: "Univerzální vůz II" # todo: NEW TRANSLATION
+ INS_mechanized_equipment_3: "Univerzální vůz Braat" # todo: NEW TRANSLATION
+ INS_mechanized_equipment_3_short: "Univerzální vůz Braat" # todo: NEW TRANSLATION
+ INS_infantry_equipment_0: "Mannlicher M95" # todo: NEW TRANSLATION
+ INS_infantry_equipment_0_short: "Mannlicher M95" # todo: NEW TRANSLATION
+ INS_infantry_equipment_1: "M1 Garand" # todo: NEW TRANSLATION
+ INS_infantry_equipment_1_short: "M1 Garand" # todo: NEW TRANSLATION
+ INS_infantry_equipment_2: "Johnson M41" # todo: NEW TRANSLATION
+ INS_infantry_equipment_2_short: "Johnson M41" # todo: NEW TRANSLATION
+ INS_infantry_equipment_3: "M3 SMG" # todo: NEW TRANSLATION
+ INS_infantry_equipment_3_short: "M3 SMG" # todo: NEW TRANSLATION
+ INS_support_weapons: "Kulomet Madsen" # todo: NEW TRANSLATION
+ INS_artillery_equipment_1: "M23 Vickers" # todo: NEW TRANSLATION
+ INS_artillery_equipment_1_short: "M23 Vickers" # todo: NEW TRANSLATION
+ INS_artillery_equipment_2: "Houfnice Bofors m/40" # todo: NEW TRANSLATION
+ INS_artillery_equipment_2_short: "Bofors Houfnice" # todo: NEW TRANSLATION
+ INS_anti_tank_equipment_1: "Cannone da 47/32" # todo: NEW TRANSLATION
+ INS_anti_tank_equipment_1_short: "Cannone da 47/32" # todo: NEW TRANSLATION
+ INS_anti_tank_equipment_2: "Solothurn S-18/1000" # todo: NEW TRANSLATION
+ INS_anti_tank_equipment_2_short: "Solothurn S-18" # todo: NEW TRANSLATION
+ SIA_gw_tank_equipment: "Tank z Velké války" # todo: NEW TRANSLATION
+ SIA_gw_tank_equipment_short: "Tank z Velké války" # todo: NEW TRANSLATION
+ SIA_light_tank_equipment_1: "Vickers 6-Ton" # todo: NEW TRANSLATION
+ SIA_light_tank_equipment_1_short: "Vickers 6-Ton" # todo: NEW TRANSLATION
+ SIA_light_tank_equipment_2: "Type 95 Ha-Go" # todo: NEW TRANSLATION
+ SIA_light_tank_equipment_2_short: "Type 95 lehký" # todo: NEW TRANSLATION
+ SIA_light_tank_equipment_3: "Type 98 Ke-Ni" # todo: NEW TRANSLATION
+ SIA_light_tank_equipment_3_short: "Type 98" # todo: NEW TRANSLATION
+ SIA_medium_tank_equipment_1: "Type 89 I-Go" # todo: NEW TRANSLATION
+ SIA_medium_tank_equipment_1_short: "Type 89" # todo: NEW TRANSLATION
+ SIA_medium_tank_equipment_2: "Type 97 Shinhōtō Chi-Ha" # todo: NEW TRANSLATION
+ SIA_medium_tank_equipment_2_short: "Type 97" # todo: NEW TRANSLATION
+ SIA_medium_tank_equipment_3: "Type 3 Chi-Nu" # todo: NEW TRANSLATION
+ SIA_medium_tank_equipment_3_short: "Type 3" # todo: NEW TRANSLATION
+ SIA_heavy_tank_equipment_1: "Type 95 těžký tank" # todo: NEW TRANSLATION
+ SIA_heavy_tank_equipment_1_short: "Type 95 těžký" # todo: NEW TRANSLATION
+ SIA_heavy_tank_equipment_2: "Churchill Mk VII" # todo: NEW TRANSLATION
+ SIA_heavy_tank_equipment_2_short: "Churchill" # todo: NEW TRANSLATION
+ SIA_heavy_tank_equipment_3: "M26 Pershing" # todo: NEW TRANSLATION
+ SIA_heavy_tank_equipment_3_short: "M26" # todo: NEW TRANSLATION
+ SIA_super_heavy_tank_equipment_1: "TOG I" # todo: NEW TRANSLATION
+ SIA_super_heavy_tank_equipment_1_short: "TOG I" # todo: NEW TRANSLATION
+ SIA_modern_tank_equipment_1: "M46 Patton" # todo: NEW TRANSLATION
+ SIA_modern_tank_equipment_1_short: "M46" # todo: NEW TRANSLATION

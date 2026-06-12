@@ -1955,3 +1955,5 @@
  right_wing_tt: "K moci se dostává §Ypravicový§! prezident"
  working_on_the_pan_american_highway: "Práce na Panamerické dálnici"
  ARG_paraguayan_ultimatum.tt: "([PAR.GetFlag]§Y[PAR.GetNameDefCap]§!) obdrží událost '§Y$ARG_political_events.19.t$§!', která bude požadovat, aby se stali naší §Yloutkou§!. S větší pravděpodobností ji přijmou, pokud na nás mají §Yvysoký názor§!"
+ BRA_claim_the_french_throne: "Uplatnit nárok na francouzský trůn" # todo: NEW TRANSLATION
+ BRA_claim_the_french_throne_desc: "Díky rodu Orléans-Braganza má naše dynastie nárok na francouzský trůn, který dosud nebyl uplatněn. Pedro Gastão z Orléans-Braganza si přeje tento nárok využít k rozšíření našeho území. To je situace, kterou prostě musíme využít!" # todo: NEW TRANSLATION

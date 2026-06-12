@@ -644,3 +644,5 @@
  CZE_usurp_the_mantle_desc: "S naším královstvím táhnoucím se od Baltského moře po Jaderské a vládnoucím nad zeměmi historické regionální velmoci Rakouska můžeme nyní prohlásit, že jsme právoplatným nástupcem Svaté říše římské."
  CZE_austro_hungary_puppets: "Každý §Ysubjekt§!, který je cílem požadavku zaměření"
  CZE_decrease_autonomy_tier: "Každý subjekt úrovně §Y$autonomy_dominion$§! nebo §Y$autonomy_puppet$§!  ztratí jednu úroveň autonomie."
+ CZE_bend_the_bars: "$ITA_bend_the_bars$"
+ CZE_bend_the_bars_desc: "$GER_european_confederation_desc$"

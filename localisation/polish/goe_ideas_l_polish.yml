@@ -147,7 +147,7 @@
  IRQ_royal_army_modifier_IRQ: "Královská irácká armáda"
  IRQ_royal_army_modifier_KUR: "Kurdská armáda"
  IRQ_royal_army_modifier_desc: "Irácká armáda, založená roku 1921 pod bedlivým [ENG.GetAdjective] dohledem, sloužila jako odstrašující prostředek proti agresi sousedních států. Vyšší důstojníci armády však dlouhodobě touží po příležitosti rozšířit a modernizovat své síly, aby sousedy nejen odrazovali, ale i nad nimi dominovali."
- IRQ_shia_resistance_modifier: "Nepoddajné šíitské kmeny"
+ IRQ_shia_resistance_modifier: "Neposlušné autonomní kmeny"
  IRQ_state_company_for_cement_idea: "Všeobecná společnost pro [ROOT.GetAdjective] cement"
  IRQ_state_company_for_iron_and_steel: "Státní společnost pro železo a ocel"
  IRQ_state_company_of_cotton_industries_idea: "Státní společnost bavlnářského průmyslu"
@@ -184,7 +184,7 @@
  PER_communist_industrialization_idea: "Rychlá industrializace"
  PER_communist_industrialization_idea_desc: "Naše nová socialistická vláda musí rychle industrializovat, pokud má obstát ve zkoušce času. Ostatně je pravděpodobné, že jsme se nyní stali hrozbou pro ty, kteří se obávají vzestupu proletariátu."
  PER_compliant_subject_idea: "Poddajný subjekt"
- PER_compliant_subject_idea_desc: "Postavit se moci, jakou je [ROOT.OVERLORD.GetNameDef], nepřinese vítězství. Musíme sehrát svou roli subjektu a ukázat, že jsme hodni postavení silného vazala."
+ PER_compliant_subject_idea_desc: "Postavit se mocnosti, jakou je [ROOT.OVERLORD.GetNameDef], nepřinese vítězství. Musíme sehrát svou roli subjektu a ukázat, že jsme hodni postavení silného vazala."
  PER_complient_king: "Poddajný král"
  PER_conscription_idea: "Každý muž slouží"
  PER_conscription_idea_desc: "Zoufalé časy si žádají zoufalá opatření. Ačkoli nemůžeme věnovat čas a prostředky vytvoření plně profesionální armády, můžeme zajistit, aby každý práceschopný muž byl schopen vzít zbraň a bojovat za svou zemi."
@@ -526,3 +526,4 @@
  renaissance_man: "Renesanční člověk"
  sikh_activist: "Sikhský aktivista"
  supreme_leader: "Nejvyšší vůdce"
+ idea_SIA_army_of_siam_desc: "Armáda Siamu tvoří páteř obrany země; její organizace a tradice určují, jakým způsobem se po celé zemi formují a udržují vojáci a materiál." # todo: NEW TRANSLATION

@@ -22,7 +22,7 @@
  CUSTOM_GAME_RULE_OPTION_DISALLOWS_ACHIEVEMENTS: "§RNedovoluje získání úspěchů.§!"
  CUSTOM_GAME_SETTINGS_BACK: "Zpět"
  CUSTOM_GAME_SETTINGS_GROUP_CUSTOMIZED_TOOLTIP: "§HPřizpůsobené možnosti§!\nNěkterá pravidla v této skupině byla změněna oproti výchozím hodnotám."
- CUSTOM_GAME_SETTINGS_GROUP_CUSTOMIZED_TOOLTIP_DELAYED: "§GKliknutím§! resetujete celou skupinu na výchozí nastavení."
+ CUSTOM_GAME_SETTINGS_GROUP_CUSTOMIZED_TOOLTIP_DELAYED: "§GKlikněte§! pro obnovení celé skupiny na výchozí nastavení"
  CUSTOM_GAME_SETTINGS_GROUP_DEFAULT_TOOLTIP: "§HVýchozí možnosti§!\nVšechna pravidla v této skupině mají výchozí nastavení."
  CUSTOM_GAME_SETTINGS_LOAD: "Načíst sadu"
  CUSTOM_GAME_SETTINGS_LOAD_TOOLTIP: "Načíst dříve uloženou sadu vlastních pravidel hry."

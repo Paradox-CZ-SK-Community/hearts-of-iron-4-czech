@@ -160,7 +160,7 @@
  AFG_fascist_cw_is_over: "Amanulláhovo povstání je u konce. (Fašisté svrhli vládu a zvítězili v občanské válce.)"
  AFG_follower_of_islam: "Následovník islámu"
  AFG_follower_of_islam_desc: "Islám stojí v jádru naší víry již více než tisíc let a měli bychom zajistit, aby se náš vůdce řídil jeho zásadami a vedl náš národ k nové zlaté éře."
- AFG_foreign_influence_tt: "Přidá §Y[PREV.GetIdeologyNameWithCaps] na vzestupu§!, který poskytuje (Denní podpora pro [PREV.GetRulingIdeology] ideologii: §G+0.02§!)"
+ AFG_foreign_influence_tt: "Přidá §Y[PREV.GetIdeologyNameWithCaps] na vzestupu§!, který poskytuje (Denní podpora pro [PREV.GetRulingIdeology] ideologii: §G+0.02§!) po dobu §Y365§! dní"
  AFG_foreign_military_advisors: "Pozvat zahraniční vojenské poradce"
  AFG_foreign_military_advisors_desc: "Abychom naši armádu vycvičili podle moderních standardů, bude nejrychlejším řešením pozvat poradce ze západních zemí. Pomohou vycvičit novou generaci [ROOT.GetAdjective] mužů pro boj na neustále se vyvíjejícím bojišti."
  AFG_forge_a_national_identity: "Vytvořit národní identitu"
@@ -2603,3 +2603,7 @@
  revolutionary_mass_assault: "Revoluční masivní útok"
  tech_recon_focus_bonus_tt: "£GFX_unit_recon_icon_small $category_recon$\nPrůzkum: §G+200%§!"
  unlock_decisions_silk_road_tt: "Odemkne rozhodnutí k získání domovských území na více oblastech §YHedvábné stezky§!"
+ AFG_unify_the_islamic_world_tt: "Obdrží událost: §Y[ROOT.GetNameDefCap] nás zve do své frakce§!" # todo: NEW TRANSLATION
+ AFG_extend_a_hand_to_tokyo_tt: "Budeme se snažit připojit k frakci §Y[JAP.GetNameDef]§!" # todo: NEW TRANSLATION
+ PER_force_abdication_tt: "\n§RPokud má nezařazená strana více než 50% podpory, Šáh rozpoutá proti nám občanskou válku!§!" # todo: NEW TRANSLATION
+ PER_iranian_socialist_revolution_tt: "\n§RPokud má komunistická strana méně než 50% podpory, Šáh rozpoutá proti nám občanskou válku!§!" # todo: NEW TRANSLATION

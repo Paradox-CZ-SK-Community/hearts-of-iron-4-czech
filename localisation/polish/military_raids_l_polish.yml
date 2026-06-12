@@ -419,3 +419,17 @@
  raid_type_SOV_transport_volunteers_to_CZE: "Letecký most pro sovětské dobrovolníky"
  raid_type_SOV_transport_volunteers_to_CZE_desc: "Československo požádalo o vojenskou pomoc, avšak absence společných hranic komplikuje logistiku. Místo toho můžeme sestavit sbor dobrovolníků, který bude letecky přepraven, aby bojoval jako součást československé armády."
  raid_target_name_CZE_volunteer_transport: "Letiště Mukačevo"
+ tooltip_launch_button_right_click: "§GKlikněte pravým tlačítkem§! pro nalezení §Y$NAME$§!" # todo: NEW TRANSLATION
+ raid_type_rescue_captured_general: "Zachránit zajatého velitele" # todo: NEW TRANSLATION
+ raid_type_rescue_captured_general_desc: "Tým vojáků pronikne za nepřátelské linie, aby nalezl a zachránil velitele drženého nepřítelem." # todo: NEW TRANSLATION
+ raid_type_rescue_captured_general_captive_line: "§Y$NAME$§! je zde držen v zajetí." # todo: NEW TRANSLATION
+ success_modifier_completed_kido_butai_focus: "dokončil zaměření §Y$JAP_form_the_kido_butai$§!" # todo: NEW TRANSLATION
+ success_modifier_completed_kido_butai_focus_improvement: "- Dokončit zaměření §Y$JAP_form_the_kido_butai$§!" # todo: NEW TRANSLATION
+ tooltip_raid_modifier_effect_improvement_no_source: "  §g(aktuální efekt: §!$VALUE$/$MAX$§g)§!" # todo: NEW TRANSLATION
+ raid_target_name_state: "$LOCATION|H$"
+ raid_type_INS_militia_increase_activity_raid: "Pokus o partyzánskou infiltraci" # todo: NEW TRANSLATION
+ raid_type_INS_militia_increase_activity_raid_desc: "Pošleme milice do státu, kde navážou kontakt s místními revolucionáři a vytvoří partyzánské buňky. Pokud operace proběhne hladce, pokusíme se proniknout do regionu a převzít kontrolu od Nizozemců.\n\n§WCílový stát musí být v dosahu republikánského §YBunkru§!, §YŽeleznice§! nebo §YNámořní základny§!. Tyto budovy mohou být použity jako výchozí body.§!\n\n§YÚčinky:§!\n§RPřiřazená divize je spotřebována§!\n§YÚspěch:§!\n       §WStane se vlastníkem a správcem státu\n       Zvýší eskalaci o §R1§!§!.\n§YČástečný úspěch:§!\n       §WPřidá §Yjednu úroveň§! aktivity milic, čímž zvýší šanci na úspěch při budoucích pokusech.§!\n§YNeúspěch:§!\n       §WŽádné efekty§!." # todo: NEW TRANSLATION
+ raid_type_INS_militia_port_raid: "Obsadit námořní základnu" # todo: NEW TRANSLATION
+ raid_type_INS_militia_port_raid_desc: "Pošleme milice převlečené za rybáře na malých člunech, které doufejme nebudou odhaleny. Po vylodění se pokusí vytvořit partyzánské buňky a budou spolupracovat s místními partyzány, aby v případě příležitosti obsadili námořní základnu. Jedná se o velmi riskantní podnik; pokud budou milice spatřeny, operace jistě selže.\n\n§YÚčinky:§!\n§RPřiřazená divize je spotřebována§!\n§YÚspěch:§!\n       §WStane se vlastníkem a správcem státu\n       Zvýší eskalaci o §R1§!§!.\n§YČástečný úspěch:§!\n       §WPřidá §Yjednu úroveň§! aktivity milic, čímž zvýší šanci na úspěch při budoucích pokusech.§!\n§YNeúspěch:§!\n       §WŽádné efekty§!." # todo: NEW TRANSLATION
+ SIA_pacific_island_raid: "Útok na tichomořský ostrov" # todo: NEW TRANSLATION
+ SIA_pacific_island_raid_desc: "Zaútočíme na tichomořský ostrov a pokusíme se vážně poškodit jejich námořní stavby, lodě a armády na něm." # todo: NEW TRANSLATION

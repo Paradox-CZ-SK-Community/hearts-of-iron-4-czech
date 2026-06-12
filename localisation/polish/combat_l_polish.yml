@@ -397,3 +397,7 @@
  tactical_withdrawal: "Taktický ústup"
  total_damage_dealt: "Celkové způsobené poškození: $NUM|.0H$ ($RATIO|%.0H$ z nepřátelského zdraví)\n"
  total_damage_received: "\nCelkové utrpěné poškození: $NUM|.0H$\n"
+ SELECT_GROUP_TOOLTIP_WITH_HQ: "§GKlik§! pro výběr všech divizí\n§GCtrl+Klik§! pro výběr všech divizí kromě velitelství" # todo: NEW TRANSLATION
+ SELECT_GROUP_HQ_REASSIGN_BLOCKED_TOOLTIP: "§YArmádní velitelství§! §Rnelze§! přiřadit k jiné armádě" # todo: NEW TRANSLATION
+ COMMAND_GROUP_CANT_REASSIGN: "§RŽádnou z vybraných divizí není možné přeřadit z jejich současných armád§!" # todo: NEW TRANSLATION
+ ARMY_HQ_BADGE_TOOLTIP: "§YArmádní velitelství§! §Y$NAME$§! je v boji." # todo: NEW TRANSLATION

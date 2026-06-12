@@ -334,7 +334,7 @@
  targeted_sabotage_infrastructure_3_tt: "Místní odboj ve státě [From.From.GetName] provede velké úsilí o sabotáž infrastruktury."
  targeted_sabotage_organize_more_meetings: "Organizovat více schůzí"
  targeted_sabotage_organize_more_meetings_desc: "Rozhovory s dělníky ukázaly, že pořádání dlouhých schůzí o malicherných věcech výrazně zpomaluje výrobu a pro naše agenty je to prakticky bez nákladů."
- targeted_sabotage_organize_more_meetings_outcome: "Náš operativec úspěšně pronikl do středního managementu cílové společnosti a agresivně „restrukturalizoval“ procesy. Produktivita výrazně klesla."
+ targeted_sabotage_organize_more_meetings_outcome: "Náš operativec úspěšně pronikl do středního managementu cílové společnosti a agresivně „restrukturalizoval“ procesy. Produktivita výrazně klesla." # todo: NEW TRANSLATION
  targeted_sabotage_plant_explosives: "Nastražit výbušniny"
  targeted_sabotage_plant_explosives_desc: "Ve spolupráci s místními odbojáři naši agenti v noci infiltrovali továrnu, umístili nálože k nosným konstrukcím a zřítili celou halu na výrobní zařízení."
  targeted_sabotage_plant_explosives_outcome: "Tým úspěšně odpálil nálože a budovu zničil. Přestože výrobní stroje utrpěly jen lehčí škody, obnova bude trvat dlouho."

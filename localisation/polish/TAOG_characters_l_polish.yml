@@ -1,0 +1,178 @@
+﻿l_polish:
+ INS_sukarno: "Sukarno" # todo: NEW TRANSLATION
+ INS_a_t_van_starkenborgh_stachouwer: "A. T. Van Starkenborgh Stachouwer" # todo: NEW TRANSLATION
+ INS_bonifacius_cornelis_de_jonge: "Bonifacius Cornelis de Jonge" # todo: NEW TRANSLATION
+ INS_amir_sjarifuddin_harahap: "Amir Sjarifuddin" # todo: NEW TRANSLATION
+ INS_sutan_sjahrir: "Sutan Sjahrir" # todo: NEW TRANSLATION
+ INS_tan_malaka: "Tan Malaka" # todo: NEW TRANSLATION
+ INS_mohammad_hatta: "Mohammad Hatta" # todo: NEW TRANSLATION
+ INS_national_committee: "Národní výbor" # todo: NEW TRANSLATION
+ INS_andries_cornelis_dirk_de_graeff: "Andries Cornelis Dirk de Graeff" # todo: NEW TRANSLATION
+ INS_charles_welter: "Charles Welter" # todo: NEW TRANSLATION
+ INS_christian_willhelm_bodenhausen: "Christian Bodenhausen" # todo: NEW TRANSLATION
+ INS_harry_kuneman: "Harry Kuneman" # todo: NEW TRANSLATION
+ INS_adipati_soejono: "Adipati Soejono" # todo: NEW TRANSLATION
+ INS_mohammad_hunsi_tharmin: "Mohammad Tharmin" # todo: NEW TRANSLATION
+ INS_oto_iskandar_di_nata: "Oto Iskandar di Nata" # todo: NEW TRANSLATION
+ INS_i_j_k_hendrowahyono: "I.J.K. Hendrowahyono" # todo: NEW TRANSLATION
+ INS_dick_de_hoog: "Dick de Hoog" # todo: NEW TRANSLATION
+ INS_soetardjo_kartohadikusomo: "Soetardjo Kartohadikusomo" # todo: NEW TRANSLATION
+ INS_hok_hoei_kan: "Hok Hoei Kan" # todo: NEW TRANSLATION
+ INS_sam_ratulangi: "Sam Ratulangi" # todo: NEW TRANSLATION
+ INS_achmad_soebardjo: "Achmad Soebardjo" # todo: NEW TRANSLATION
+ INS_wirantakusumah_v: "Wiranatakusumah V" # todo: NEW TRANSLATION
+ INS_surachman_tjokoadisurjo: "Surachman Tjokroadisurjo" # todo: NEW TRANSLATION
+ INS_supomo: "Supomo" # todo: NEW TRANSLATION
+ INS_dr_samsi_sastrawidagda: "Dr Samsi Sastrawidagda" # todo: NEW TRANSLATION
+ INS_ki_hajar_dewantara: "Ki Hajar Dewantara" # todo: NEW TRANSLATION
+ INS_iwa_kusuma_sumantri: "Iwa Kusuma Sumantri" # todo: NEW TRANSLATION
+ INS_dr_boentaran_martooatmodjo: "Dr Boentaran Martooatmodjo" # todo: NEW TRANSLATION
+ INS_mohammad_natsir: "Mohammad Natsir" # todo: NEW TRANSLATION
+ INS_mohammad_roem: "Mohammad Roem" # todo: NEW TRANSLATION
+ INS_sjafruddin_prawiranegara: "Sjafruddin Prawiranegara" # todo: NEW TRANSLATION
+ INS_njono: "Njono" # todo: NEW TRANSLATION
+ INS_setyadjit_soegondo: "Setyadjit Soegondo" # todo: NEW TRANSLATION
+ INS_musso: "Musso" # todo: NEW TRANSLATION
+ INS_murk_boersta: "Murk Boersta" # todo: NEW TRANSLATION
+ INS_henri_gerard_winkelman: "Henri Gerard Winkelman" # todo: NEW TRANSLATION
+ INS_gerardus_johannes_berenschot: "Gerardus Johannes Berenschot" # todo: NEW TRANSLATION
+ INS_tjalling_bakker: "Tjalling Bakker" # todo: NEW TRANSLATION
+ INS_gustav_adolf_ilgen: "Gustav Adolf Ilgen" # todo: NEW TRANSLATION
+ INS_jacob_jan_pesman: "Jacob Jan Pesman" # todo: NEW TRANSLATION
+ INS_pierre_antoine_cox: "Pierre Antoine Cox" # todo: NEW TRANSLATION
+ INS_ludolph_hendrik_van_oyen: "Ludolph Hendrik van Oyen" # todo: NEW TRANSLATION
+ INS_conrad_helfrich: "Conrad Helfrich" # todo: NEW TRANSLATION
+ INS_dirk_reinhard_adelbert_van_langen: "Dirk Reinhard Adelbert van Langen" # todo: NEW TRANSLATION
+ INS_simon_spoor: "Simon Spoor" # todo: NEW TRANSLATION
+ INS_gustave_statius_muller: "Gustave Statius Muller" # todo: NEW TRANSLATION
+ INS_sudirman: "Sudirman" # todo: NEW TRANSLATION
+ INS_oerip_soemohardjo: "Oerip Soemohardjo" # todo: NEW TRANSLATION
+ INS_gatot_soebroto: "Gatot Soebroto" # todo: NEW TRANSLATION
+ INS_soengkono: "Soengkono" # todo: NEW TRANSLATION
+ INS_moestopo: "Moestopo" # todo: NEW TRANSLATION
+ INS_sutomo: "Sutomo" # todo: NEW TRANSLATION
+ INS_supriyadi: "Supriyadi" # todo: NEW TRANSLATION
+ INS_djatikoesoemo: "Djatikoesoemo" # todo: NEW TRANSLATION
+ INS_maludin_simbolan: "Maludin Simbolan" # todo: NEW TRANSLATION
+ INS_soerjadi_soerjadarma: "Soerjadi Soerjadarma" # todo: NEW TRANSLATION
+ INS_mas_pardi: "Mas Pardi" # todo: NEW TRANSLATION
+ INS_mohammad_nazir_isa: "Mohammad Nazir Isa" # todo: NEW TRANSLATION
+ INS_t_b_simatupang: "T. B. Simatupang" # todo: NEW TRANSLATION
+ INS_kartosoewirjo: "Kartosoewirjo" # todo: NEW TRANSLATION
+ INS_syarif_kasim: "Syarif Kasim II" # todo: NEW TRANSLATION
+ INS_iskandar_sjah: "Sultan Muhammad Jabir Syah" # todo: NEW TRANSLATION
+ INS_sultan_muhibuddin: "Sultan Muhammad Tahir Muhibuddin" # todo: NEW TRANSLATION
+ INS_syarif_muhammad_alkadrie: "Syarif Hamid II" # todo: NEW TRANSLATION
+ INS_alauddin_syah: "Alauddin Muhammad Da'ud Syah II" # todo: NEW TRANSLATION
+ INS_dewa_geg: "Ida I Dewa Agung Gde Oka Geg" # todo: NEW TRANSLATION
+ CPS_ratsadanay: "Král Ratsadanay" # todo: NEW TRANSLATION
+ MAL_onn_jaafar: "Onn Jaafar" # todo: NEW TRANSLATION
+ MAL_shenton_thomas: "Shenton Thomas" # todo: NEW TRANSLATION
+ MAL_lai_teck: "Lai Teck" # todo: NEW TRANSLATION
+ MAL_ibrahim_hj_yaacob: "Ibrahim Hj Yaacob" # todo: NEW TRANSLATION
+ MAL_winston_tyron: "Winston Tyron" # todo: NEW TRANSLATION
+ SIA_phraya_songsuradet: "Phraya Songsuradet" # todo: NEW TRANSLATION
+ SIA_plaek_phibunsongkhram: "Plaek Phibunsongkhram" # todo: NEW TRANSLATION
+ SIA_pridi_banomyong: "Pridi Banomyong" # todo: NEW TRANSLATION
+ SIA_rangsit_prayurasakdi: "Rangsit Prayurasakdi" # todo: NEW TRANSLATION
+ SIA_luang_wichitwathakan: "Luang Wichitwathakan" # todo: NEW TRANSLATION
+ SIA_charun_rattanakun_seriroengrit: "Charun Rattanakun Seriroengrit" # todo: NEW TRANSLATION
+ SIA_adul_aduldejajaras: "Adul Aduldejajaras" # todo: NEW TRANSLATION
+ SIA_phichit_kriangsakphichit: "Phichit Kriangsakphichit" # todo: NEW TRANSLATION
+ SIA_luang_haansongkhram: "Luang Haansongkhram" # todo: NEW TRANSLATION
+ SIA_mangkorn_phromyothi: "Mangkorn Phromyothi" # todo: NEW TRANSLATION
+ SIA_luang_chawengsaksongkhram: "Luang Chawengsaksongkhram" # todo: NEW TRANSLATION
+ SIA_aditya_dibabha: "Aditya Dibabha" # todo: NEW TRANSLATION
+ SIA_jira_wichitsongkhram: "Jira Wichitsongkhram" # todo: NEW TRANSLATION
+ SIA_prince_subhasvasti: "Princ Subhasvasti" # todo: NEW TRANSLATION
+ SIA_prajadhipok: "Prajadhipok" # todo: NEW TRANSLATION
+ SIA_rambai_barni: "Rambai Barni" # todo: NEW TRANSLATION
+ SIA_ananda_mahidol: "Ananda Mahidol" # todo: NEW TRANSLATION
+ SIA_bowardej: "Princ Boworadej" # todo: NEW TRANSLATION
+ SIA_josiah_crosby: "Josiah Crosby" # todo: NEW TRANSLATION
+ SIA_puey_ungpakorn: "Puey Ungpakorn" # todo: NEW TRANSLATION
+ SIA_seni_pramoj: "Seni Pramoj" # todo: NEW TRANSLATION
+ SIA_prayoon_pamornmontri: "Prayoon Pamornmontri" # todo: NEW TRANSLATION
+ SIA_direk_jayanama: "Direk Jayanama" # todo: NEW TRANSLATION
+ SIA_phra_sitthi_ruang_dejpol: "Phra Sitthi Ruang Dejpol" # todo: NEW TRANSLATION
+ SIA_pao_pienlert_boripanyutakit: "Pao Pienlert Boripanyutakit" # todo: NEW TRANSLATION
+ SIA_sanguan_tularaksa: "Sanguan Tularaksa" # todo: NEW TRANSLATION
+ SIA_chao_phraya_sri_dharmathibhet: "Sri Dharmathibhet" # todo: NEW TRANSLATION
+ SIA_vanich_pananont: "Vanich Pananont" # todo: NEW TRANSLATION
+ SIA_manopakorn_nitithada: "Manopakorn Nitithada" # todo: NEW TRANSLATION
+ SIA_damrong_rajanubhab: "Damrong Rajanubhab" # todo: NEW TRANSLATION
+ SIA_paribatra_sukhumbandhu: "Paribatra Sukhumbandhu" # todo: NEW TRANSLATION
+ SIA_wan_waithayakon: "Wan Waithayakon" # todo: NEW TRANSLATION
+ SIA_vilas_osathanondh: "Vilas Osathanondh" # todo: NEW TRANSLATION
+ SIA_dhani_nivat: "Dhani Nivat" # todo: NEW TRANSLATION
+ SIA_chamkat_phalangkun: "Chamkat Phalangkun" # todo: NEW TRANSLATION
+ SIA_phra_bisal_sukhumvit: "Phra Bisal Sukhumvit" # todo: NEW TRANSLATION
+ SIA_kukrit_pramoj: "Kukrit Pramoj" # todo: NEW TRANSLATION
+ SIA_khuang_aphaiwong: "Khuang Aphaiwong" # todo: NEW TRANSLATION
+ SIA_tiang_sirikhan: "Tiang Sirikhan" # todo: NEW TRANSLATION
+ SIA_phin_choonhavan: "Phin Choonhavan" # todo: NEW TRANSLATION
+ SIA_sindh_kamalanavin: "Sindh Kamalanavin" # todo: NEW TRANSLATION
+ SIA_prayoon_yuthasastrkosol: "Prayoon Yuthasastrkosol" # todo: NEW TRANSLATION
+ SIA_luang_subhachalasai: "Luang Subhachalasai" # todo: NEW TRANSLATION
+ AST_joseph_lyons: "Joseph Lyons" # todo: NEW TRANSLATION
+ AST_billy_hughes: "Billy Hughes" # todo: NEW TRANSLATION
+ AST_jack_miles: "Jack Miles" # todo: NEW TRANSLATION
+ AST_fred_paterson: "Fred Paterson" # todo: NEW TRANSLATION
+ AST_percy_stephensen: "P.R. Stephensen" # todo: NEW TRANSLATION
+ AST_adela_walsh: "Adela Pankhurst Walsh" # todo: NEW TRANSLATION
+ AST_essington_lewis: "Essington Lewis" # todo: NEW TRANSLATION
+ AST_jacob_vouza: "Jacob Vouza" # todo: NEW TRANSLATION
+ AST_geoffrey_street: "Geoffrey Street" # todo: NEW TRANSLATION
+ AST_florence_v._mckenzie: "Florence V. McKenzie" # todo: NEW TRANSLATION
+ AST_eric_l._lloyd: "Eric L. Lloyd" # todo: NEW TRANSLATION
+ AST_jack_lang: "Jack Lang" # todo: NEW TRANSLATION
+ AST_dorothy_tangney: "Dorothy Tangney" # todo: NEW TRANSLATION
+ AST_arthur_fadden: "Arthur Fadden" # todo: NEW TRANSLATION
+ AST_james_scullin: "James Scullin" # todo: NEW TRANSLATION
+ AST_maurice_blackburn: "Maurice Blackburn" # todo: NEW TRANSLATION
+ AST_alexander_rud_mills: "Alexander Rud Mills" # todo: NEW TRANSLATION
+ AST_rex_ingamells: "Rex Ingamells" # todo: NEW TRANSLATION
+ AST_clare_stevenson: "Clare Stevenson" # todo: NEW TRANSLATION
+ AST_gordon_bennett: "Gordon Bennett" # todo: NEW TRANSLATION
+ AST_kenneth_eather: "Kenneth Eather" # todo: NEW TRANSLATION
+ AST_edward_milford: "Edward Milford" # todo: NEW TRANSLATION
+ AST_herbert_lloyd: "Herbert Lloyd" # todo: NEW TRANSLATION
+ AST_stanley_savige: "Stanley Savige" # todo: NEW TRANSLATION
+ AST_ivan_dougherty: "Ivan Dougherty" # todo: NEW TRANSLATION
+ AST_frank_berryman: "Frank Berryman" # todo: NEW TRANSLATION
+ AST_george_wootten: "George Wootten" # todo: NEW TRANSLATION
+ AST_gwynydd_meredith: "Gwynydd Meredith" # todo: NEW TRANSLATION
+ AST_reginald_saunders: "Reginald Saunders" # todo: NEW TRANSLATION
+ AST_joseph_burnett: "Joseph Burnett" # todo: NEW TRANSLATION
+ AST_eric_feldt: "Eric Feldt" # todo: NEW TRANSLATION
+ AST_james_mcmanus: "James McManus" # todo: NEW TRANSLATION
+ AST_leighton_bracegirdle: "Leighton Bracegirdle" # todo: NEW TRANSLATION
+ AST_brudenell_white: "Brudenell White" # todo: NEW TRANSLATION
+ AST_percival_mcneil: "Percival McNeil" # todo: NEW TRANSLATION
+ AST_guy_royle: "Guy Royle" # todo: NEW TRANSLATION
+ AST_george_jones: "George Jones" # todo: NEW TRANSLATION
+ AST_stanley_goble: "Stanley Goble" # todo: NEW TRANSLATION
+ AST_george_mackinolty: "George Mackinolty" # todo: NEW TRANSLATION
+ AST_james_cannan: "James Cannan" # todo: NEW TRANSLATION
+ AST_peter_jeffrey: "Peter Jeffrey" # todo: NEW TRANSLATION
+ AST_mark_oliphant: "Mark Oliphant" # todo: NEW TRANSLATION
+ AST_jack_piddington: "Jack Piddington" # todo: NEW TRANSLATION
+ AST_lawrence_wackett: "Lawrence Wackett" # todo: NEW TRANSLATION
+ AST_uap_advisor_tt: "Současná vládnoucí strana je §YU.A.P§!." # todo: NEW TRANSLATION
+ AST_alp_advisor_tt: "Současná vládnoucí strana je §YA.L.P§!." # todo: NEW TRANSLATION
+ NZL_bob_semple: "Bob Semple" # todo: NEW TRANSLATION
+ NZL_leslie_lefeaux: "Leslie Lefeaux" # todo: NEW TRANSLATION
+ NZL_thomas_leech: "Thomas Leech" # todo: NEW TRANSLATION
+ NZL_william_polson: "William Polson" # todo: NEW TRANSLATION
+ NZL_alexander_galbraith: "Alexander Galbraith" # todo: NEW TRANSLATION
+ NZL_john_a_lee: "John A. Lee" # todo: NEW TRANSLATION
+ NZL_bernard_ashwin: "Bernard Ashwin" # todo: NEW TRANSLATION
+ NZL_vic_wilcox: "Vic Wilcox" # todo: NEW TRANSLATION
+ GER_gunther_prien: "Günther Prien" # todo: NEW TRANSLATION
+ USA_slade_cutter: "Slade Cutter" # todo: NEW TRANSLATION
+ ENG_frederic_john_walker: "Frederic John Walker" # todo: NEW TRANSLATION
+ ITA_salvatore_todaro: "Salvatore Todaro" # todo: NEW TRANSLATION
+ JAP_kosaku_aruga: "Kōsaku Aruga" # todo: NEW TRANSLATION
+ SOV_ivan_travkin: "Ivan Travkin" # todo: NEW TRANSLATION
+ AST_hector_waller: "Hector Waller" # todo: NEW TRANSLATION
+ FRA_raymond_fenard: "Raymond Fenard" # todo: NEW TRANSLATION

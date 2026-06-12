@@ -1736,7 +1736,7 @@
  CHI_prosecute_cronyism: "Stíhat klientelismus"
  CHI_prosecute_cronyism_desc: "Příliš dlouho převládaly osobní zájmy nad zájmy státu. Nepotismus, úplatkářství a zpronevěra rozkládaly naši společnost. To odteď končí - přichází nová éra ctnosti!"
  CHI_crack_down_on_illicit_goods: "Potlačit nezákonné zboží"
- illicit_good_improvement_increase: "Zvyšuje rychlost, kterou je §Y$CHI_illicit_trade$§! odstraňován, o §G+2 %§! každých §Y6 měsíců§!"
+ illicit_good_improvement_increase: "Zvyšuje rychlost, kterou je §Y$CHI_illicit_trade$§! odstraňován, o §G+2%§! každých §Y6 měsíců§!"
  which_will_give_tt: "Což udělí:"
  CHI_crack_down_on_illicit_goods_desc: "Příliš dlouho jsme byli vydáni napospas jedům v naší společnosti. Musíme je odmítnout a vstoupit do nového století silnější a jasnější myslí."
  CHI_turn_a_blind_eye: "Přimhouřit oko"

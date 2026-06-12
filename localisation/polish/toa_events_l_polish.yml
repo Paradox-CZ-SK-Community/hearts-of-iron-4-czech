@@ -1229,3 +1229,6 @@
  south_american_news.9.d: "Paraguayský prezident Eusebio Ayala oznámil, že on a republikánská garda pod vedením jeho pravé ruky José Félixe Estigarribia úspěšně potlačili vzpouru a pokus o převrat vojenských důstojníků podporujících revoluční febreristy a jejich vůdce, generála Rafaela Franca. Země se však nyní nachází v ještě horším stavu než před několika měsíci, kdy skončila válka o Chaco, a zdá se, že k obnovení stability má ještě daleko."
  south_american_news.9.t: "Vzpoura paraguayských důstojníků potlačena"
  united_french_monarhcist_faction: "Frankofonní hegemonie"
+ JUNO_brazil_news.7.t: "Smrt Pedra de Alcântara" # todo: NEW TRANSLATION
+ JUNO_brazil_news.7.desc: "Náš starý císař, Dom Pedro de Alcântara z Orléans-Braganza, princ z Grão Pará a císař Brazílie, zemřel. Během svého krátkého panování sloužil jako symbol míru a stability pro náš lid a stal se bodem sjednocení pro [FROM.GetAdjective]s během těchto bouřlivých časů. Smutní lidé vyšly do ulic, aby prokázali svou úctu a podporu zemřelému císaři. \n\n Národ doufá, že dědic a nástupce starého císaře, princ Pedro Gastão, bude pro [FROM.GetAdjective] lid podobně pevnou oporou. Princ bude brzy korunován císařem Dom Pedrem IV. - ať dlouho vládne!" # todo: NEW TRANSLATION
+ JUNO_brazil_news.7.a: "Ať žije Pedro Gastão z Orléans-Braganza!" # todo: NEW TRANSLATION

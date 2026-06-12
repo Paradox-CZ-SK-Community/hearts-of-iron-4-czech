@@ -181,3 +181,5 @@
  sabotage_commercial_nuclear_reactor: "Sabotáž komerčního jaderného reaktoru"
  senbu_occupation_law: "Senbu"
  sabotage_coal: "Sabotovat uhelné zdroje"
+ INS_direct_rule_occupation_law: "Přímá správa" # todo: NEW TRANSLATION
+ INS_local_autonomy_occupation_law: "Místní autonomie" # todo: NEW TRANSLATION
