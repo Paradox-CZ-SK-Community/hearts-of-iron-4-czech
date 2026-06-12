@@ -84,7 +84,7 @@
  BBA_african_union_events.8.desc: "[FROM.GetNameDef] souhlasí se vstupem do výkonné rady Organizace africké jednoty. Nyní probíhá podepisování příslušných smluv uznávajících pravomoc rady ve všech právních záležitostech."
  BBA_african_union_events.8.t: "[FROM.GetNameDefCap] se připojuje k výkonné radě"
  BBA_african_union_events.9.a: "Proč jsou vůbec členským státem?"
- BBA_african_union_events.9.desc: "[FROM.GetNameDef] odmítá vstoupit do výkonné rady Organizace africké jednoty. [FROM.GetLeader] uvádí obavy o svrchovanost a touhu uzavírat dohody se státy mimo organizaci bez schválení rady.
+ BBA_african_union_events.9.desc: "[FROM.GetNameDef] odmítá vstoupit do výkonné rady Organizace africké jednoty. [FROM.GetLeader] uvádí obavy o svrchovanost a touhu uzavírat dohody se státy mimo organizaci bez schválení rady."
  BBA_african_union_events.9.t: "[FROM.GetNameDefCap] odmítá vstoupit do výkonné rady"
  BBA_ethiopia_anti_colonialism_events.2.a: "Mají pravdu, měli bychom tento koloniální konflikt okamžitě ukončit"
  BBA_ethiopia_anti_colonialism_events.2.b: "Válka skončí, až bude [?global.african_revolt_country.GetNameDef] padne"

@@ -705,9 +705,9 @@
  HQ_LIST_ITEM_CLICK_TO_DEPLOY: "§GKlikněte§! pro nasazení s touto šablonou velení armády" # todo: NEW TRANSLATION
  HQ_LIST_ITEM_RIGHT_CLICK_TO_DESIGN: "§GKlikněte pravým tlačítkem§! pro otevření návrháře velení armády" # todo: NEW TRANSLATION
  HQ_LIST_ITEM_INSUFFICIENT_CP: "§RNedostatečná velitelská síla§! (£command_power $COST|H0$ vyžadováno)" # todo: NEW TRANSLATION
- ARMY_HQ_TEMPLATES: "Šablony Armádního velitelství"
+ ARMY_HQ_TEMPLATES: "Šablony Arm. velitelství"
  ARMY_HQ_TEMPLATES_TOGGLE_TOOLTIP: "§GKlikněte§! pro přepnutí seznamu §YŠablon Armádního velitelství§!, kde můžete prohlížet a spravovat šablony Armádních velitelství."
- ARMY_HQ_DESIGNER: "Návrhář Armádního velitelství"
+ ARMY_HQ_DESIGNER: "Návrhář Arm. velitelství"
  ARMY_HQ_DEPLOYED_DETAILS: "$DEPLOYED$/$ARMIES$"
  ARMY_HQ_DEPLOYED_DETAILS_TOOLTIP: "Nasazená §YArmádní velitelství§!: §Y$DEPLOYED$§!\nCelkem armád: §Y$ARMIES$§!"
  anti_tank_battery: "Protitanková baterie" # todo: NEW TRANSLATION
@@ -785,6 +785,6 @@
  category_marines_and_amphibious: "Všechny jednotky námořní pěchoty a amfibické jednotky" # todo: NEW TRANSLATION
  northern_territory_recon_support: "Průzkumná jednotka Severního teritoria" # todo: NEW TRANSLATION
  northern_territory_recon_support_desc: "Díky místní znalosti a dovednostem přežití v buši dohlíží průzkumná jednotka Severního teritoria i na nejodlehlejší a nejnehostinnější oblasti." # todo: NEW TRANSLATION
- category_tank_destroyer_regimental_support: "Pluková podpora ničičů tanků" # todo: NEW TRANSLATION
+ category_tank_destroyer_regimental_support: "Pluková podpora stíhačů tanků" # todo: NEW TRANSLATION
  category_self_propelled_anti_air_regimental_support: "Pluková podpora samohybných protiletadlových jednotek" # todo: NEW TRANSLATION
  category_regimental_support_artillery: "Pěchotní děla a raketová baterie" # todo: NEW TRANSLATION
