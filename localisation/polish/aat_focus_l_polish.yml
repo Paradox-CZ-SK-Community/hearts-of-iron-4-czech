@@ -479,6 +479,7 @@
  SWE_united_kingdoms_of_sweden_and_norway_desc: "Po narvické krizi a našich následných územních ziscích zůstalo [NOR.GetName] oslabené a opuštěné. Nyní musíme zasadit poslední ránu [NOR.GetAdjective] nezávislosti a vynutit znovusjednocení našich národů pod jedním vládcem."
  SWE_swedish_finnish_defense_agreement: "Švédsko-finská obranná dohoda"
  SWE_swedish_finnish_defense_agreement_desc: "Dokud nebude vyřešena hrozba, kterou představuje [SOV.GetNameDef], je v našem zájmu s Finy vojensky spolupracovat. Jednoho dne je znovu přivedeme pod naši vládu, ale nyní máme důležitější otázky."
+ SWE_swedish_finnish_defense_agreement_faction: "Švédsko-finská obranná dohoda"
  SWE_danish_alignment: "Sblížení s Dánskem"
  SWE_danish_alignment_desc: "[DEN.GetName] leží strategicky a je výrazně slabší než jeho sousedé, což téměř zaručuje, že se jej některý z nich pokusí připravit o [DEN.GetAdjective] nezávislost. Proto bychom měli udeřit první, dokud máme příležitost."
  SWE_finnish_integration: "Östra Rikshalvan"
@@ -2189,4 +2190,3 @@
  DEN_advanced_flight_modifier_tt: "$DEN_modify_flyvevabnet_dynamic_modifier$: \n$MODIFIER_AIR_MISSION_EFFICIENCY$: §G+5.0%§! \n$MODIFIER_AIR_NIGHT_PENALTY$: §G-5.00%§! \n$MODIFIER_AIR_WEATHER_PENALTY$: §G-5.00%§!\n\n"
  DEN_undermine_overlord_continuous_focus: "Podkopávat vliv suzeréna"
  DEN_undermine_overlord_continuous_focus_desc: "Musíme dělat vše pro to, abychom se svému suzerénu vzepřeli, podkopali jeho vliv, a tím zajistili dánskou suverenitu."
- SWE_swedish_finnish_defense_agreement_faction: "Švédsko-finská obranná dohoda"

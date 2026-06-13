@@ -1,388 +1,388 @@
 ﻿l_polish:
- idea_INS_volksraad: "Volksraad" # todo: NEW TRANSLATION
- idea_INS_volksraad_desc: "Volksraad je rada zřízená Nizozemskem v roce 1918 jako součást systému „Ethical Policies“, která měla vytvořit systém polodemokracie, kde mohou být zastoupeny různé etnické menšiny a kultury napříč souostrovím. Ačkoli je teoreticky demokratická, generální guvernér a nizozemská koruna mají neomezené veto." # todo: NEW TRANSLATION
- INS_volksraad_custom_tt: "Umožňuje najímat §YVolksraad poradce§!\nUmožňuje používat §YVolksraad rozhodnutí§!" # todo: NEW TRANSLATION
- INS_great_depression: "Velká hospodářská krize" # todo: NEW TRANSLATION
- INS_great_depression_desc: "Ačkoliv bezprostřední dopad Velké hospodářské krize na Indie byl malý, následné protekcionistické politiky, které země po celém světě zavedly, měly ničivé účinky na ekonomiku Indii, která je závislá na nepřetržitém exportu surovin jako kaučuk a ropa." # todo: NEW TRANSLATION
- INS_great_depression_tt: "Mění §Y$INS_great_depression$§! takto:" # todo: NEW TRANSLATION
- INS_dutch_east_indies: "Neefektivní správa" # todo: NEW TRANSLATION
- INS_dutch_east_indies_desc: "Východní Indie jsou rozsáhlé souostroví obsahující stovky odlišných kultur a jazyků, což z něj činí notoricky obtížnou kolonii k administraci. Různé hnutí za nezávislost, kulturní bariéry a ekonomické dopady Velké hospodářské krize této situaci nepomohly a správa funguje velmi neefektivně. „Ethical Policies“, zavedené v roce 1918, se snažily situaci zlepšit zavedením etických pracovních předpisů a poskytnutím demokratického zastoupení menšinám, avšak velká krize je nechala převážně bez uplatnění." # todo: NEW TRANSLATION
- INS_dutch_east_indies_tt: "Mění §Y$INS_dutch_east_indies$§! takto:" # todo: NEW TRANSLATION
- INS_volksraad_tt: "Mění §Y$INS_dutch_east_indies$§! takto:" # todo: NEW TRANSLATION
- INS_royal_netherlands_east_indies_army_desc: "Koninklijk Nederlands Indisch Leger (KNIL) je dlouhodobá armáda Východních Indií, fungující nezávisle na Nizozemsku. KNIL se skládá jak z evropských, tak indonéských vojáků, avšak kulturní a jazykové bariéry mezi mnoha kulturami souostroví a Nizozemskem činí nábor obtížným a pomalým procesem." # todo: NEW TRANSLATION
- idea_INS_netherlands_most_precious_jewel: "Nejcennější klenot Nizozemska" # todo: NEW TRANSLATION
- idea_INS_netherlands_most_precious_jewel_desc: "Nizozemské Východní Indie byly kolonií Nizozemska přibližně 350 let a správa kolonie je těsně propojena s nizozemskou vládou. Východní Indie jsou často nazývány „klenotem v nizozemské koruně“ a Nizozemsko nejeví žádnou touhu povolit svůj stisk nad tímto cenným klenotem." # todo: NEW TRANSLATION
- INS_netherlands_most_precious_jewel_tt: "£GFX_trigger_no Lze zvýšit autonomii na status 'Svobodné'" # todo: NEW TRANSLATION
- idea_INS_restoring_order: "Obnovení pořádku" # todo: NEW TRANSLATION
- INS_happy_state: "Dobře rozvinutý stát" # todo: NEW TRANSLATION
- INS_construction_boom: "Stavební boom" # todo: NEW TRANSLATION
- INS_plane_making: "Financování leteckého průmyslu" # todo: NEW TRANSLATION
- INS_tin_infrastructure_state: "Modernizovaná infrastruktura cínu" # todo: NEW TRANSLATION
- INS_feint_uprising_state: "Falešné povstání" # todo: NEW TRANSLATION
- HOL_flag_will_fly: "Vlajka bude opět vlát" # todo: NEW TRANSLATION
- INS_bangka_bauxite_export: "Vývoz bauxitu z Bangky" # todo: NEW TRANSLATION
- INS_bangka_bauxite_export_desc: "Ostrovy Bangka a Belitung mají velké zásoby bauxitu, který je primární surovinou pro výrobu hliníku. I když bychom mohli investovat do výroby hliníku sami, obrovské množství vyráběného bauxitu dělá jeho prodej v surovém stavu po velkém objemu životaschopnou strategií." # todo: NEW TRANSLATION
- INS_bangka_bauxite_export_tt: "Mění §Y$INS_bangka_bauxite_export$§! takto:" # todo: NEW TRANSLATION
- INS_bangka_bauxite_export_warning_tt: "§RBude odstraněno, pokud nebudeme ovládat Bangka-Belitung.§!" # todo: NEW TRANSLATION
- INS_bangka_bauxite_export_flag_removed_tt: "§Y$INS_bauxite_export$§!: bylo dokončeno po dobu §Y365§! dní nebo déle. Aktuální počet dní je: [?INS_bangka_bauxite_export_flag:days|Y0]" # todo: NEW TRANSLATION
- INS_royal_netherlands_east_indies_army: "Královská armáda Nizozemské východní Indie" # todo: NEW TRANSLATION
- HOL_east_indies_investments_mod: "Investice do Východních Indií" # todo: NEW TRANSLATION
- HOL_east_indies_investments_mod_tt: "Mění §Y$HOL_east_indies_investments_mod$§! takto:" # todo: NEW TRANSLATION
- INS_peoples_security_army: "Armáda lidové bezpečnosti" # todo: NEW TRANSLATION
- HOL_internationally_controversial_aggression: "Kontroverzní agrese" # todo: NEW TRANSLATION
- HOL_internationally_controversial_aggression_2: "Kontroverzní agrese" # todo: NEW TRANSLATION
- INS_dutch_investment_rate_10: "§YNizozemsko§! bude mít o §G10%§! větší šanci zvolit zaměření ze společného stromu" # todo: NEW TRANSLATION
- INS_dutch_investment_rate_20: "§YNizozemsko§! bude mít o §G20%§! větší šanci zvolit zaměření ze společného stromu" # todo: NEW TRANSLATION
- INS_dutch_investment_rate_30: "§YNizozemsko§! bude mít o §G30%§! větší šanci zvolit zaměření ze společného stromu" # todo: NEW TRANSLATION
- INS_dutch_investment_rate_40: "§YNizozemsko§! bude mít o §G40%§! větší šanci zvolit zaměření ze společného stromu" # todo: NEW TRANSLATION
- INS_dutch_investment_rate_50: "§YNizozemsko§! bude mít o §G50%§! větší šanci zvolit zaměření ze společného stromu" # todo: NEW TRANSLATION
- INS_dutch_investment_rate_60: "§YNizozemsko§! bude mít o §G60%§! větší šanci zvolit zaměření ze společného stromu" # todo: NEW TRANSLATION
- INS_dutch_investment_rate_70: "§YNizozemsko§! bude mít o §G70%§! větší šanci zvolit zaměření ze společného stromu" # todo: NEW TRANSLATION
- INS_dutch_investment_rate_80: "§YNizozemsko§! bude mít o §G80%§! větší šanci zvolit zaměření ze společného stromu" # todo: NEW TRANSLATION
- INS_dutch_investment_rate_90: "§YNizozemsko§! bude mít o §G90%§! větší šanci zvolit zaměření ze společného stromu" # todo: NEW TRANSLATION
- INS_dutch_investment_rate_100: "§YNizozemsko§! bude mít o §G100%§! větší šanci zvolit zaměření ze společného stromu" # todo: NEW TRANSLATION
- INS_dutch_investment_rate_05: "§YNizozemsko§! bude mít o §G5%§! větší šanci zvolit zaměření ze společného stromu" # todo: NEW TRANSLATION
- INS_investing_in_tin_idea: "Investice do výroby cínu" # todo: NEW TRANSLATION
- INS_modifier_positive_trade_relations: "Pozitivní obchodní vztahy" # todo: NEW TRANSLATION
- INS_royal_dutch_shell_name_normal: "Royal Dutch Shell" # todo: NEW TRANSLATION
- INS_royal_dutch_shell_name_nationalized: "Permina" # todo: NEW TRANSLATION
- idea_INS_royal_dutch_shell_concern: "[INS_royal_dutch_shell_name]" # todo: NEW TRANSLATION
- INS_de_javasche_bank_name_normal: "De Javasche Bank" # todo: NEW TRANSLATION
- INS_de_javasche_bank_name_nationalized: "Bank Indonesia" # todo: NEW TRANSLATION
- idea_INS_bank_of_java_concern: "[INS_de_javasche_bank_name]" # todo: NEW TRANSLATION
- INS_ptt_name_normal: "PTT" # todo: NEW TRANSLATION
- INS_ptt_name_nationalized: "Telkom Indonesia" # todo: NEW TRANSLATION
- idea_INS_telkom_indonesia_concern: "[INS_ptt_name]" # todo: NEW TRANSLATION
- INS_staatsporswegen_name_normal: "Staatsporswegen SS" # todo: NEW TRANSLATION
- INS_staatsporswegen_name_nationalized: "DKARI" # todo: NEW TRANSLATION
- idea_INS_staatspoorwegen_ss_concern: "[INS_staatsporswegen_name]" # todo: NEW TRANSLATION
- INS_state_revolution_hq: "Revoluční štáb" # todo: NEW TRANSLATION
- INS_planning_revolution_hq: "Zatím nezřizuje Revoluční štáb" # todo: NEW TRANSLATION
- INS_state_militia_sabotage_1: "Lehká infiltrace milice" # todo: NEW TRANSLATION
- INS_state_militia_sabotage_2: "Silná infiltrace milice" # todo: NEW TRANSLATION
- INS_state_militia_sabotage_3: "Sabotáž milicí" # todo: NEW TRANSLATION
- INS_state_militia_activity_1: "Milice zasahují v regionu" # todo: NEW TRANSLATION
- INS_state_militia_activity_2: "Milice soupeří o kontrolu" # todo: NEW TRANSLATION
- INS_state_militia_activity_3: "Milice dominují regionu" # todo: NEW TRANSLATION
- INS_state_militia_port_control_1: "Aktivita milicí v přístavech" # todo: NEW TRANSLATION
- INS_state_militia_port_control_2: "Milice obsazují přístavy" # todo: NEW TRANSLATION
- INS_oil_baron_state: "Dohody s ropnými barony" # todo: NEW TRANSLATION
- HOL_indonesian_cheap_labor: "Levná indonéská pracovní síla" # todo: NEW TRANSLATION
- HOL_cheap_sugar: "Levné dovozy cukru" # todo: NEW TRANSLATION
- HOL_cheap_lumber: "Levné dovozy dřeva" # todo: NEW TRANSLATION
- INS_industrialized_colony: "Industrializovaná kolonie" # todo: NEW TRANSLATION
- INS_industrialized_colony_tt: "Mění §Y$INS_industrialized_colony$§! takto:" # todo: NEW TRANSLATION
- INS_local_resistance_state: "Místní odboj" # todo: NEW TRANSLATION
- idea_INS_defend_java_til_death: "Obrana Jávy" # todo: NEW TRANSLATION
- INS_evacuate_state: "Rozkaz evakuace" # todo: NEW TRANSLATION
- INS_stronghold_java_state: "Opevněná Batávie" # todo: NEW TRANSLATION
- idea_INS_nefis: "NEFIS" # todo: NEW TRANSLATION
- idea_INS_nefis_no_lar: "NEFIS" # todo: NEW TRANSLATION
- idea_INS_japanese_symphasizers: "Japonští sympatizanti" # todo: NEW TRANSLATION
- idea_INS_tax_reduction: "Snížené pozemkové daně" # todo: NEW TRANSLATION
- HOL_agricultural_taxes: "Zemědělské daně" # todo: NEW TRANSLATION
- INS_establishing_naval_doctrine: "Zavádění naší námořní doktríny" # todo: NEW TRANSLATION
- INS_no_compromise_idea: "Indonesia Raya" # todo: NEW TRANSLATION
- idea_HOL_comite_rijksenheeid: "Comité Rijkseenheid" # todo: NEW TRANSLATION
- INS_agrarian_funding_state: "Agrární financování" # todo: NEW TRANSLATION
- INS_JAP_repaying_industrialists: "Splacení obchodních půjček" # todo: NEW TRANSLATION
- INS_republican_government_modifier: "Republika Indonésie" # todo: NEW TRANSLATION
- INS_republican_government_modifier_tt: "Mění §Y$INS_republican_government_modifier$§! takto:" # todo: NEW TRANSLATION
- INS_guided_economy_modifier: "Řízená ekonomika" # todo: NEW TRANSLATION
- INS_guided_economy_modifier_tt: "Mění §Y$INS_guided_economy_modifier$§! takto:" # todo: NEW TRANSLATION
- idea_INS_standard_oil_california_borrowed_concern: "Standard Oil California" # todo: NEW TRANSLATION
- idea_INS_western_trade: "Západní ekonomická orientace" # todo: NEW TRANSLATION
- INS_guided_democracy_idea: "Militarismus" # todo: NEW TRANSLATION
- INS_military_above_all_idea: "Vše pro válečné úsilí" # todo: NEW TRANSLATION
- INS_economic_transition_idea: "Ekonomická transformace" # todo: NEW TRANSLATION
- INS_economic_stability_idea: "Ekonomická stabilita" # todo: NEW TRANSLATION
- INS_economic_transition_tt: "Za §Y240§! dní:\n   Přidá '§Y$INS_economic_stability_idea$§!', který uděluje\n" # todo: NEW TRANSLATION
- INS_knil_tt: "Mění §Y$INS_royal_netherlands_east_indies_army$§! takto:" # todo: NEW TRANSLATION
- INS_psa_tt: "Mění §Y$INS_peoples_security_army$§! takto:" # todo: NEW TRANSLATION
- INS_emergency_dockyard_construction_idea: "Nouzová výstavba loděnic" # todo: NEW TRANSLATION
- INS_economic_transition_idea_tt: "Po odstranění bude nahrazeno §Y$INS_economic_stability_idea$§!" # todo: NEW TRANSLATION
- idea_INS_prioritizing_dutch_profits: "Upřednostňování nizozemských zisků" # todo: NEW TRANSLATION
- idea_HOL_prioritizing_dutch_profits: "Zisková kolonie" # todo: NEW TRANSLATION
- idea_INS_policy_shift: "Reorganizace vlády" # todo: NEW TRANSLATION
- INS_bank_of_java_unlock: "Dokončil §Y$INS_fate_of_de_javasche_bank$§! a udělil De Javasche Bank výhradní práva" # todo: NEW TRANSLATION
- INS_anti_colonialist_sentiment_idea: "Protikoloniální nálady" # todo: NEW TRANSLATION
- INS_anti_colonialist_sentiment_idea_desc: "Indonéští revolucionáři jsou v naší zemi aktivní a šíří propagandu mezi obyvatelstvem, což vede k rostoucím protikoloniálním náladám." # todo: NEW TRANSLATION
- INS_revolutionaries_working_with_indonesians_idea: "Revolucionáři spolupracující s Indonésany" # todo: NEW TRANSLATION
- INS_revolutionaries_working_with_indonesians_idea_desc: "[ROOT.GetAdjective] komunisté byli přistiženi při komunikaci s indonéskými vůdci a jsou podezřelí, že plánují ozbrojenou revoluci." # todo: NEW TRANSLATION
- idea_SIA_civilian_full_support: "Civilní křídlo: §GPlná podpora§!" # todo: NEW TRANSLATION
- idea_SIA_civilian_full_support_desc: "Civilní křídlo pevně stojí za vládou. Administrátoři a technokraté poskytují své odborné znalosti a urychlují rozvoj." # todo: NEW TRANSLATION
- idea_SIA_civilian_slight_support: "Civilní křídlo: Mírná podpora" # todo: NEW TRANSLATION
- idea_SIA_civilian_slight_support_desc: "Civilní křídlo obecně podporuje směřování vlády. Jejich spolupráce přináší skromné, ale hmatatelné výhody." # todo: NEW TRANSLATION
- idea_SIA_civilian_neutral: "Civilní křídlo: Neutrální" # todo: NEW TRANSLATION
- idea_SIA_civilian_neutral_desc: "Civilní křídlo ani nepomáhá, ani nebrání vládě. Správa funguje, ale bez hnací síly skutečné politické shody." # todo: NEW TRANSLATION
- idea_SIA_civilian_opposition: "Civilní křídlo: V opozici" # todo: NEW TRANSLATION
- idea_SIA_civilian_opposition_desc: "Civilní křídlo se obrátilo proti vládě. Úředníci zdržují procesy a rozpočty jsou špatně alokovány, což brzdí chod státu." # todo: NEW TRANSLATION
- idea_SIA_civilian_rebellious: "Civilní křídlo: §RVzbouřené§!" # todo: NEW TRANSLATION
- idea_SIA_civilian_rebellious_desc: "Civilní křídlo je v otevřeném vzdoru. Nestabilita se šíří a hrozba politického prasknutí roste každým dnem." # todo: NEW TRANSLATION
- idea_SIA_military_full_support: "Vojenské křídlo: §GPlná podpora§!" # todo: NEW TRANSLATION
- idea_SIA_military_full_support_desc: "Vojenské křídlo pevně stojí za vládou. Důstojníci podporují nábory a výrobu zbraní, směrují zdroje armády k národním cílům." # todo: NEW TRANSLATION
- idea_SIA_military_slight_support: "Vojenské křídlo: Mírná podpora" # todo: NEW TRANSLATION
- idea_SIA_military_slight_support_desc: "Vojenské křídlo je většinou spolupracující. Jejich podpora přináší mírné zlepšení v náboru a výrobě, i když bez plného závazku." # todo: NEW TRANSLATION
- idea_SIA_military_neutral: "Vojenské křídlo: Neutrální" # todo: NEW TRANSLATION
- idea_SIA_military_neutral_desc: "Vojenské křídlo nezaujalo žádné stanovisko. Armáda plní své povinnosti bez nadšení či odporu, čeká, jak se situace vyvine." # todo: NEW TRANSLATION
- idea_SIA_military_opposition: "Vojenské křídlo: V opozici" # todo: NEW TRANSLATION
- idea_SIA_military_opposition_desc: "Vojenské křídlo pracuje proti vládě. Důstojníci podkopávají výrobní snahy a nadšení pro vládní cíle z řad vojska mizí." # todo: NEW TRANSLATION
- idea_SIA_military_rebellious: "Vojenské křídlo: §RVzbouřené§!" # todo: NEW TRANSLATION
- idea_SIA_military_rebellious_desc: "Vojenské křídlo je na pokraji otevřeného vzdoru. Sabotáže branné povinnosti, úpadek výroby zbraní a hrozba puče se blíží." # todo: NEW TRANSLATION
- idea_SIA_defenders_of_constitutional_liberty: "Obránci ústavní svobody" # todo: NEW TRANSLATION
- idea_SIA_civil_service_heroism_1: "Hrdinství státní správy" # todo: NEW TRANSLATION
- idea_SIA_civil_service_heroism_1_desc: "Státní správa povstala a její oddanost a odborné schopnosti tiše zrychlily tempo výzkumu a rozvoje státu." # todo: NEW TRANSLATION
- idea_SIA_civil_service_heroism_2: "$idea_civil_service_heroism_1$" # todo: NEW TRANSLATION
- idea_SIA_civil_service_heroism_2_desc: "$idea_SIA_civil_service_heroism_1_desc$" # todo: NEW TRANSLATION
- idea_SIA_redirected_military_funds: "Přesměrované vojenské prostředky" # todo: NEW TRANSLATION
- idea_SIA_thai_irredentism: "Thajský irredentismus" # todo: NEW TRANSLATION
- idea_SIA_sold_privy_purse_lands: "Prodej pozemků královské pokladny" # todo: NEW TRANSLATION
- idea_SIA_sold_privy_purse_lands_desc: "Prodej pozemků královského domácího majetku přinesl kapitál do státu, ulevil ekonomickému tlaku a uvolnil zdroje pro výstavbu." # todo: NEW TRANSLATION
- idea_SIA_war_fervor: "Válečný zápal" # todo: NEW TRANSLATION
- idea_SIA_bloodlusted_irredentism: "Krvelačný irredentismus" # todo: NEW TRANSLATION
- idea_SIA_bloodlusted_irredentism_desc: "Teritoriální ambice se proměnily v něco zuřivějšího. Armáda bojuje s vírou těch, kteří si myslí, že si nárokují to, co jim podle nich právem náleží." # todo: NEW TRANSLATION
- idea_SIA_the_royal_police_counterweight: "Loajalita královské policie" # todo: NEW TRANSLATION
- idea_SIA_civilian_technocrats_in_institutions: "Civilní technokraté" # todo: NEW TRANSLATION
- idea_SIA_civilian_technocrats_in_institutions_desc: "Civilní odborníci umístění v klíčových státních institucích zlepšili jak těžbu zdrojů, tak efektivitu politických jmenování." # todo: NEW TRANSLATION
- idea_SIA_yuvachon: "Yuvachon" # todo: NEW TRANSLATION
- idea_SIA_yuvachon_desc: "Hnutí Yuvachon cvičí mládež v národní vojenské disciplíně, buduje zásobu vycviřeného personálu a rozdmýchává nacionalistické cítění." # todo: NEW TRANSLATION
- idea_SIA_yuvachon_2: "$idea_SIA_yuvachon$" # todo: NEW TRANSLATION
- idea_SIA_yuvachon_2_desc: "$idea_SIA_yuvachon_desc$" # todo: NEW TRANSLATION
- idea_SIA_rebuilding_the_war_torn_economy: "Obnova po válečné ekonomice" # todo: NEW TRANSLATION
- idea_SIA_specialist_marine_forces: "Specializované námořní jednotky" # todo: NEW TRANSLATION
- idea_SIA_specialist_marine_forces_desc: "Byla vycvičena a vybavena skupina oddaných amfibních specialistů pro pobřežní útočné operace." # todo: NEW TRANSLATION
- idea_SIA_rehabilitated_military: "Rehabilitovaná armáda" # todo: NEW TRANSLATION
- idea_SIA_desperate_gambit: "Zoufalý tah" # todo: NEW TRANSLATION
- idea_SIA_desperate_gambit_desc: "Možná existuje cesta ven z té díry, do které ses dostal, vylez!" # todo: NEW TRANSLATION
- idea_SIA_purged_senior_military: "Pročištěné vrchní velení" # todo: NEW TRANSLATION
- idea_SIA_purged_senior_military_desc: "Vyšší důstojníci považovaní za hrozbu pro vládu byli odstraněni z funkcí. Ztráta zkušených velitelů zanechala otisk na soudržnosti armády a jejím profesionálním rozvoji." # todo: NEW TRANSLATION
- idea_SIA_cemented_control: "Zpevněná kontrola" # todo: NEW TRANSLATION
- idea_SIA_cemented_control_desc: "Vláda upevnila svůj vliv nad institucemi státu. Politická opozice byla odsunuta a mechanismy moci nyní spolehlivě pracují ve prospěch vlády." # todo: NEW TRANSLATION
- idea_SIA_cemented_control_2: "Upevněná kontrola" # todo: NEW TRANSLATION
- idea_SIA_cemented_control_2_desc: "$idea_SIA_cemented_control_desc$" # todo: NEW TRANSLATION
- idea_SIA_cemented_control_3: "Thajský zákon o povinnostech za války" # todo: NEW TRANSLATION
- idea_SIA_cemented_control_3_desc: "Je povinností každého Thajce, že v případě války, která ohrožuje suverenitu koruny a její lid, musí každý poctivý Thajec odolávat okupaci jakkoliv, ať už zbraněmi nebo jinak." # todo: NEW TRANSLATION
- idea_SIA_suspend_ordinary_legal_procedures: "Pozastavené běžné právní postupy" # todo: NEW TRANSLATION
- idea_SIA_thai_cultural_mandates: "Thajské kulturní mandáty" # todo: NEW TRANSLATION
- idea_SIA_military_humiliation: "Vojenské ponížení" # todo: NEW TRANSLATION
- idea_SIA_death_defiant: "Odmítání smrti" # todo: NEW TRANSLATION
- idea_SIA_death_defiant_desc: "Už jsme mrtví. Přijďte si pro své, pokud dokážete." # todo: NEW TRANSLATION
- idea_SIA_songsuradet_ascendant_0: "Songsuradet na vzestupu" # todo: NEW TRANSLATION
- idea_SIA_songsuradet_ascendant_0_desc: "Po úspěšném odolání hněvu vlády si Phraya Songsuradet upevnil svou základnu a vyšel z toho silnější. Nyní je to, co lidé nazývají nedotknutelným, příliš prominentní a zakořeněný, aby ho bylo možné odstranit.\nPravděpodobně bude zasahovat do vládních politik a zpomalovat rozhodování, aby si zajistil, že nebude opět cílem čistky." # todo: NEW TRANSLATION
- idea_SIA_songsuradet_ascendant_1: "$idea_SIA_songsuradet_ascendant_0$" # todo: NEW TRANSLATION
- idea_SIA_songsuradet_ascendant_1_desc: "$idea_SIA_songsuradet_ascendant_0_desc$" # todo: NEW TRANSLATION
- idea_SIA_rebuilding_after_civil_war: "Obnova po občanské válce" # todo: NEW TRANSLATION
- idea_SIA_rebuilding_after_civil_war_desc: "" # todo: NEW TRANSLATION
- idea_SIA_anti_burmese_sentiment: "Proti-burmanské nálady" # todo: NEW TRANSLATION
- idea_SIA_sued_king_prajadhipok: "Žaloba na krále Prajadhipoka" # todo: NEW TRANSLATION
- idea_SIA_pan_thaiism: "Pan-thajismus" # todo: NEW TRANSLATION
- idea_SIA_pan_thaiism_desc: "Ideologie pan-thajismu tvrdí, že všichni lidé thajského původu by měli být sjednoceni pod jedním státem. Pohání národ směrem k expanzi a udržuje morálku prostřednictvím ofenzivních akcí." # todo: NEW TRANSLATION
- idea_SIA_pan_thaiism_2: "$idea_SIA_pan_thaiism$" # todo: NEW TRANSLATION
- idea_SIA_pan_thaiism_2_desc: "$idea_SIA_pan_thaiism_desc$" # todo: NEW TRANSLATION
- idea_SIA_unity_propaganda: "Propaganda jednoty" # todo: NEW TRANSLATION
- idea_SIA_royal_palace_bureau_directive_no_1523: "Pokyn úřadu Královského paláce č.1523" # todo: NEW TRANSLATION
- idea_SIA_foreign_diplomatic_relationships: "Zahraniční diplomatické vztahy" # todo: NEW TRANSLATION
- modify_idea_SIA_foreign_diplomatic_relationships: "Mění §Y$idea_SIA_foreign_diplomatic_relationships$§! takto:" # todo: NEW TRANSLATION
- idea_SIA_bank_of_siam: "Banka Siamu" # todo: NEW TRANSLATION
- idea_SIA_bank_of_siam_desc: "Banka Siamu slouží jako finanční páteř státu, řídí kapitálové investice a měnovou politiku na podporu průmyslové expanze." # todo: NEW TRANSLATION
- idea_SIA_bank_of_siam_2: "$idea_SIA_bank_of_siam$" # todo: NEW TRANSLATION
- idea_SIA_bank_of_siam_2_desc: "$idea_SIA_bank_of_siam_desc$" # todo: NEW TRANSLATION
- idea_SIA_boon_rawd_brewery: "Pivovar Boon Rawd" # todo: NEW TRANSLATION
- idea_SIA_boon_rawd_brewery_desc: "Pivovar Boon Rawd vyrostl v symbol domácího podnikání; jeho komerční úspěch generuje dobré jméno a politický kapitál pro ty, kteří ho podporují." # todo: NEW TRANSLATION
- idea_SIA_siam_cement_group: "[ROOT.GetName] Cementová skupina" # todo: NEW TRANSLATION
- idea_SIA_thai_rice_company: "Thajská rýžová společnost" # todo: NEW TRANSLATION
- idea_SIA_agricultural_tax_reduction: "Snížení zemědělských daní" # todo: NEW TRANSLATION
- idea_SIA_agrarian_economical_policy: "Agrární ekonomická politika" # todo: NEW TRANSLATION
- idea_SIA_contingency_funds: "Nouzové fondy" # todo: NEW TRANSLATION
- idea_SIA_agrarian_economical_policy_modify: "Mění §Y$idea_SIA_agrarian_economical_policy$§! takto:" # todo: NEW TRANSLATION
- idea_SIA_farmers_moving_to_bangkok_good: "Rolníci se stěhují do Bangkoku" # todo: NEW TRANSLATION
- idea_SIA_farmers_moving_to_bangkok_bad: "$idea_SIA_farmers_moving_to_bangkok_good$" # todo: NEW TRANSLATION
- idea_SIA_irrigation: "Zavlažování" # todo: NEW TRANSLATION
- idea_SIA_debt_repayment: "Splacení dluhu" # todo: NEW TRANSLATION
- idea_SIA_debt_repayment_desc: "Náklady na program deficitu jsou znatelné. Příjmy jsou odváděny věřitelům a tempo výstavby, které dříve umožňovaly půjčky, již nelze udržet." # todo: NEW TRANSLATION
- idea_SIA_an_unceasy_alliance: "Křehké spojenectví" # todo: NEW TRANSLATION
- idea_SIA_an_unceasy_alliance_desc: "Aliance drží, ale napětí začíná být patrné. Pochybnosti ve vládě tiše táhnou národ směrem k neutrálnějšímu kurzu." # todo: NEW TRANSLATION
- idea_SIA_rural_support: "Podpora venkova" # todo: NEW TRANSLATION
- idea_SIA_the_sacred_hierarchy: "Posvátná hierarchie" # todo: NEW TRANSLATION
- idea_SIA_order_discipline_and_unity: "Pořádek, disciplína a jednota" # todo: NEW TRANSLATION
- idea_SIA_constitutional_virtue: "Ústavní ctnost" # todo: NEW TRANSLATION
- idea_SIA_an_absolute_monarchy: "Absolutní monarchie" # todo: NEW TRANSLATION
- idea_SIA_an_absolute_monarchy_desc: "Veškerá politická autorita spočívá v koruně. Královo slovo je zákon, nesouhlas je potlačován a plný váhový význam královského prestiže je vržen za národní mobilizaci. Trůn požaduje loajalitu a armáda je jeho nástrojem." # todo: NEW TRANSLATION
- idea_SIA_a_constituional_monarchy: "Konstituční monarchie" # todo: NEW TRANSLATION
- idea_SIA_a_constituional_monarchy_desc: "Ústavní rámec definuje meze královské moci a zaručuje práva lidu. S korunou jako sjednocujícím symbolem spíše než absolutní autoritou roste národ stabilnější, otevřenější novým myšlenkám a více sladěný s demokratickým světem." # todo: NEW TRANSLATION
- idea_SIA_restoring_order: "Obnovení pořádku" # todo: NEW TRANSLATION
- idea_SIA_military_expansion_costs: "Náklady na vojenskou expanzi" # todo: NEW TRANSLATION
- idea_SIA_a_modern_economy: "Moderní ekonomika" # todo: NEW TRANSLATION
- idea_SIA_death_to_communists: "Smrt komunistům" # todo: NEW TRANSLATION
- idea_SIA_death_to_communists_desc: "Antikomunistický zápal proudí skrz řady, dává našim silám výhodu proti komunistickým armádám Číny." # todo: NEW TRANSLATION
- idea_SIA_death_to_nationalists: "Smrt nacionalistům" # todo: NEW TRANSLATION
- idea_SIA_death_to_nationalists_desc: "Antinacionalistické nálady procházejí řadami, dávají našim silám výhodu proti nacionalistickým armádám Číny." # todo: NEW TRANSLATION
- idea_SIA_breaking_the_burmese_line: "Prolomení barmské linie" # todo: NEW TRANSLATION
- idea_SIA_the_yellow_dossier: "Žlutý spis" # todo: NEW TRANSLATION
- idea_SIA_the_yellow_dossier_desc: "Tajná zpráva o stavu domácího průmyslu vynutila řešení zakořeněných neefektivit. Požadované reformy nesou ovoce v našich továrnách, ač narušení, která přinášejí, nejsou bez nákladů." # todo: NEW TRANSLATION
- idea_SIA_the_yellow_dossier_2: "$idea_SIA_the_yellow_dossier$" # todo: NEW TRANSLATION
- idea_SIA_the_yellow_dossier_2_desc: "$idea_SIA_the_yellow_dossier_desc$" # todo: NEW TRANSLATION
- idea_SIA_pacific_war_preparations: "Přípravy na pacifickou válku" # todo: NEW TRANSLATION
- idea_SIA_a_race_against_time: "Závod s časem" # todo: NEW TRANSLATION
- idea_SIA_overheated_economy: "Přehřátá ekonomika" # todo: NEW TRANSLATION
- idea_SIA_overheated_economy_desc: "Ekonomika byla tlačena za své přirozené meze. Spotřebitelská poptávka předběhla kapacitu a stavební boom se zastavil, zatímco se věci ochlazují." # todo: NEW TRANSLATION
- idea_SIA_ending_military_grift: "Ukončení vojenského rozkrádání" # todo: NEW TRANSLATION
- idea_SIA_the_military_oversight_bureau: "$SIA_military_oversight_bureau$" # todo: NEW TRANSLATION
- idea_SIA_the_military_oversight_bureau_desc: "Úřad vojenského dohledu stanovuje vyšší standardy pro nové velitele a urychluje rozvoj odbornosti v důstojnickém sboru." # todo: NEW TRANSLATION
- idea_SIA_public_credit_debt: "Veřejný dluh" # todo: NEW TRANSLATION
- idea_SIA_public_credit_debt_desc: "Úvěrové závazky státu jsou trvalým odlivem ekonomiky, spotřebovávají zdroje, které by jinak proudily do výroby a civilního zboží." # todo: NEW TRANSLATION
- idea_SIA_public_credit_debt_2: "$idea_SIA_public_credit_debt$ Splacení" # todo: NEW TRANSLATION
- idea_SIA_public_credit_debt_2_desc: "$idea_SIA_public_credit_debt_desc$" # todo: NEW TRANSLATION
- idea_SIA_revision_of_unequal_treaties: "Revize nerovných smluv" # todo: NEW TRANSLATION
- idea_SIA_purged_military: "Pročištěná armáda" # todo: NEW TRANSLATION
- idea_SIA_purged_military_desc: "Odstranění důstojníků považovaných za politicky nespolehlivé zanechalo armádu bez zkušeného velení, čímž se narušila organizace a rozvoj zbývajících jednotek." # todo: NEW TRANSLATION
- SIA_khana_ratsadon_inlay_title: "Khana Ratsadon" # todo: NEW TRANSLATION
- SIA_civilian_wing_label: "Civilní křídlo" # todo: NEW TRANSLATION
- SIA_military_wing_label: "Vojenské křídlo" # todo: NEW TRANSLATION
- SIA_wing_state_full_support: "§GPlná podpora§!" # todo: NEW TRANSLATION
- SIA_wing_state_slight_support: "§GMírná podpora§!" # todo: NEW TRANSLATION
- SIA_wing_state_neutral: "§YNeutrální§!" # todo: NEW TRANSLATION
- SIA_wing_state_opposition: "§RV opozici§!" # todo: NEW TRANSLATION
- SIA_wing_state_rebellious: "§RVzbouřené§!" # todo: NEW TRANSLATION
- SIA_civilian_wing_history_tt: "Civilní frakci Khana Ratsadon vedou pokrokoví administrátoři a technokraté, mezi nimi především §YPridi Phanomyong§!. Po studiích práva ve Francii se Pridi vrátil s ambicemi na pozemkovou reformu, státní hospodářské plánování a ústavní demokracii, která by skutečně posílila obyčejné lidi.\n\nCivilní křídlo je obecně §Gpro-vývojové§!, preferuje investice do vzdělání, infrastruktury a průmyslu. Je skeptické vůči vysokým vojenským výdajům a obává se jakéhokoli posunu k silnému vůdcovství. Jejich podpora se nejlépe získává politikami, které modernizují stát a chrání ústavní vládu." # todo: NEW TRANSLATION
- SIA_military_wing_history_tt: "Vojenskou frakci Khana Ratsadon ovládají důstojníci armády, kteří se považují za pravé strážce revoluce. Jejich nejambicióznější postavou je §YPlaek Phibunsongkhram§!, plukovník, jehož obdiv k nacionalistickým hnutím Evropy každým rokem roste.\n\nVojenské křídlo je §Gpro-zbrojení§! a přitahováno k silnému, centralizovanému státu. Podezírají Pridiho ekonomické myšlenky jako nebezpečně radikální a mají malou trpělivost s civilním zasahováním do obranných záležitostí. Jejich loajalitu nejlépe zajišťují vojenské investice a politiky, které projekují národní sílu." # todo: NEW TRANSLATION
- AST_electrical_engineer_hidden_idea: "$AST_florence_v._mckenzie$" # todo: NEW TRANSLATION
- AST_electrical_engineer_electronics_modifier_tt: "$electronics$ Rychlost výzkumu: §G+15%§!" # todo: NEW TRANSLATION
- AST_great_depression_taog_spirit_fake: "$AST_great_depression_taog_spirit$" # todo: NEW TRANSLATION
- AST_citizen_army_spirit_fake: "$AST_citizen_army_spirit$" # todo: NEW TRANSLATION
- AST_war_is_coming_spirit_fake: "$AST_war_is_coming_spirit$" # todo: NEW TRANSLATION
- AST_unratified_westminster_act_idea: "Neradifikovaný Westminsterův akt" # todo: NEW TRANSLATION
- AST_unratified_westminster_act_idea_desc: "Statute of Westminster byl přijat v roce 1931, což umožnilo samosprávným dominím [ENG.GetNameDef] zvýšit jejich suverenitu. Pokud bychom ho ratifikovali, většina pravomocí britského parlamentu legislativně pro [AST.GetName] by byla odebrána." # todo: NEW TRANSLATION
- AST_australian_war_cabinet_idea: "Australský válečný kabinet" # todo: NEW TRANSLATION
- AST_australian_war_cabinet_idea_tt: "\nJakmile budeme ve válce, §Y$AST_australian_war_cabinet_idea$§! bude upraveno takto:\n §Y2§! mimo-mapový §Y$arms_factory$§!" # todo: NEW TRANSLATION
- AST_australian_war_cabinet_war_idea: "Australský válečný kabinet" # todo: NEW TRANSLATION
- AST_australian_war_cabinet_war_idea_tt: "§Y2§! mimo-mapový §Y$arms_factory$§!" # todo: NEW TRANSLATION
- AST_singapore_strategy_idea: "Obranné stavby v Singapuru" # todo: NEW TRANSLATION
- AST_singapore_strategy_idea_desc: "Na žádost Austrálie učiníme krok k vylepšení obranných struktur v Singapuru. Singapore Strategy je základním prvkem pacifické obranné politiky.\n\n§W§YPo odstranění§! (§YSingapore§!):\n Přidá §G2§! §YLetecká základna§!.\n Přidá §G2§! §YNámořní základna§!.\n Přidá §G1§! §YPobřežní pevnost§!.§!\n" # todo: NEW TRANSLATION
- AST_all_dressed_up_idea: "V plné výstroji" # todo: NEW TRANSLATION
- AST_all_dressed_up_idea_tt: "§Y2§! mimo-mapový §Y$arms_factory$§!" # todo: NEW TRANSLATION
- AST_no_foreign_battlefields_idea_1: "Žádná cizí bojiště" # todo: NEW TRANSLATION
- AST_voluntary_foreign_service_idea: "Dobrovolná zahraniční služba" # todo: NEW TRANSLATION
- AST_liberty_loans_idea: "Liberty půjčky" # todo: NEW TRANSLATION
- AST_faction_training_initiative_idea_1: "Iniciativa výcviku" # todo: NEW TRANSLATION
- AST_faction_training_initiative_idea_1_desc: "Společná výcviková iniciativa Tichomořského odporu je kooperativní program mezi jeho členy, zajišťující, že všichni spojenečtí vojáci projdou stejně přísným výcvikem.\n\nS více než §Y4§! členy frakce bude §YIniciativa výcviku§! §Gupgradována§!." # todo: NEW TRANSLATION
- AST_faction_training_initiative_idea_2: "Iniciativa výcviku" # todo: NEW TRANSLATION
- AST_faction_training_initiative_idea_2_desc: "Společná výcviková iniciativa Tichomořského odporu je kooperativní program mezi jeho členy, zajišťující, že všichni spojenečtí vojáci projdou stejně přísným výcvikem." # todo: NEW TRANSLATION
- AST_temp_political_power_factor_cost: "Úrok z bankovní půjčky" # todo: NEW TRANSLATION
- AST_war_carriers_idea: "$AST_war_carriers$" # todo: NEW TRANSLATION
- AST_war_carriers_tech_tt: "§Y$logistics_company$§!:\n $MODIFIER_SUPPLY_CONSUMPTION_FACTOR$: §G-15%§!" # todo: NEW TRANSLATION
- AST_wool_agreement_idea: "Dohoda o vlně" # todo: NEW TRANSLATION
- AST_australian_comforts_fund_idea: "Australský fond útěchy" # todo: NEW TRANSLATION
- AST_australian_comforts_fund_idea_desc: "$AST_australian_comforts_fund_desc$" # todo: NEW TRANSLATION
- AST_british_military_construction_aid_idea: "Britská pomoc při vojenské výstavbě" # todo: NEW TRANSLATION
- AST_british_military_construction_aid_idea_tt: "§Y2§! mimo-mapový §Y$industrial_complex$§!" # todo: NEW TRANSLATION
- AST_country_party_influence_uap: "Vliv Country Party" # todo: NEW TRANSLATION
- AST_country_party_influence_alp: "Vliv Country Party" # todo: NEW TRANSLATION
- AST_country_party_influence_uap_tt: "Denní nárůst hlasů §YU.A.P§!: §Y+0.02%§!" # todo: NEW TRANSLATION
- AST_country_party_influence_alp_tt: "Denní nárůst hlasů §YA.L.P§!: §Y+0.02%§!" # todo: NEW TRANSLATION
- AST_anti_fascist_measures: "Antifašistická opatření" # todo: NEW TRANSLATION
- AST_anti_fascist_measures_desc: "Fašismus ještě nezakořenil v Austrálii a demokratické síly chtějí, aby to tak zůstalo. Commonwealth Investigation Branch bude sledovat a zadržovat podezřelé prvky, aby žádné fašistické skupiny nezískaly vliv." # todo: NEW TRANSLATION
- ABDA_corps_expeditionnaire_spirit: "Corps Expéditionnaire" # todo: NEW TRANSLATION
- ABDA_corps_expeditionnaire_spirit_desc: "Francouzské síly nasazené v tichomořském divadle byly otuženy koloniální službou a jsou zvyklé operovat daleko od domova v obtížných podmínkách. Jejich zkušenost s bojem v jihovýchodní Asii jim dává zvláštní povědomí o japonské taktice a terénu, což je činí houževnatou silou, když proti nim nepřítel tlačí." # todo: NEW TRANSLATION
- ABDA_maintain_strategic_flexibility_spirit: "Strategická flexibilita" # todo: NEW TRANSLATION
- ABDA_maintain_strategic_flexibility_spirit_desc: "Americká průmyslová výroba je směrována do tichomořského divadla, s urychlenou produkcí loděnic tak, aby udržela flotilu schopnou projekce síly přes celý oceán. Tím, že se odmítá nadměrné závazky na kteroukoli frontu, USA zajišťují, že jejich námořní síla může být použita kdekoliv, kde to situace vyžaduje." # todo: NEW TRANSLATION
- AST_toe_the_line_spirit: "Držet se pravidel" # todo: NEW TRANSLATION
- AST_toe_the_line_spirit_desc: "Stát vyzval k obětem a populace odpověděla. Příděly, delší pracovní doba a přesměrování civilní výroby k národnímu úsilí uvolnily zdroje, které vláda neměla jinak k dispozici. Je to střídmé uspořádání a není univerzálně populární." # todo: NEW TRANSLATION
- AST_defying_american_interference_idea: "$AST_defying_american_interference$" # todo: NEW TRANSLATION
- AST_investigation_branch: "Vyšetřovací odbor" # todo: NEW TRANSLATION
- AST_TAOG_central_bureau: "Ústřední úřad" # todo: NEW TRANSLATION
- AST_invasion_planning: "Plánování invaze" # todo: NEW TRANSLATION
- AST_invasion_planning_desc: "§YPo odstranění§!:\nPřidá §YWar Plan Japan§!.\n" # todo: NEW TRANSLATION
- AST_war_plan_japan: "Válečný plán Japonsko" # todo: NEW TRANSLATION
- AST_australian_culture_investments_idea: "Investice do australské kultury" # todo: NEW TRANSLATION
- AST_australian_culture_investments_idea_desc: "§W§YPo odstranění§!:\nPřidá §YPocit sounáležitosti§!, který uděluje\nStabilita: §G+10.00%§!\nPodpora války: §G+10.00%§!.§!\n" # todo: NEW TRANSLATION
- AST_a_sense_of_place: "Pocit sounáležitosti" # todo: NEW TRANSLATION
- AST_a_sense_of_place_desc: "Národní identita je vazba, která drží lidi pohromadě. Za prosperující kultury se Australané sjednotili, odhodláni odolat těm, kdo by mohli ohrozit jejich hranice." # todo: NEW TRANSLATION
- AST_a_sense_of_place_upgraded: "Pocit sounáležitosti" # todo: NEW TRANSLATION
- AST_a_sense_of_place_upgraded_desc: "Národní identita, která kdysi tiše kvetla, dostala ostřejší rys. Už to není jen hrdost na zemi a způsob života — je to přesvědčení, že to, co Austrálie vybudovala, stojí za to bránit, a že muži a ženy pod Jižním křížem jsou připraveni to udělat." # todo: NEW TRANSLATION
- AST_the_promise_of_nauru: "Slib Nauru" # todo: NEW TRANSLATION
- AST_the_promise_of_nauru_tt: "Účinky po dokončení dohody §Y[AST.GetName]§!:\n§YNauru§! se stává vlastněným a kontrolovaným §Y[GER.GetName]§!\n(§Y[GER.GetFlag][GER.GetName]§!) Zaručuje §Y[AST.GetName]§!\n§Y[AST.GetName]§! se stává svobodným" # todo: NEW TRANSLATION
- AST_poor_population_growth: "Slabý populační růst" # todo: NEW TRANSLATION
- AST_poor_population_growth_desc: "Když zasáhla Velká hospodářská krize v roce 1929, australští porodní sazby prudce poklesly. Ve spojení s poklesem imigrace se populační růst od té doby těžko vracel k normálu." # todo: NEW TRANSLATION
- AST_british_intel_sharing: "Sdílení britských zpravodajských informací" # todo: NEW TRANSLATION
- AST_the_pacific_garrison_1: "Pacifická posádka" # todo: NEW TRANSLATION
- AST_the_pacific_garrison_2: "Pacifická posádka" # todo: NEW TRANSLATION
- AST_the_pacific_garrison_eng: "Pacifická posádka" # todo: NEW TRANSLATION
- AST_broken_hill_proprietary_company_ic_tt: "Efekty z §Y$AST_broken_hill_proprietary_company_ic$ Industrial Concern§! jsou zlepšeny" # todo: NEW TRANSLATION
- AST_whyalla_steelworks_ic_tt: "Efekty z §Y$AST_whyalla_steelworks_ic$ Industrial Concern§! jsou zlepšeny" # todo: NEW TRANSLATION
- AST_bradford_cotton_mills_ic_tt: "Efekty z §Y$AST_bradford_cotton_mills_ic$ Industrial Concern§! jsou zlepšeny" # todo: NEW TRANSLATION
- AST_nationalizing_spirit: "Probíhá nacionalizace" # todo: NEW TRANSLATION
- AST_communist_ideals: "Komunistické ideály" # todo: NEW TRANSLATION
- AST_war_is_coming_spirit: "Válka se blíží" # todo: NEW TRANSLATION
- AST_war_is_coming_spirit_tt: "Mění §Y$AST_war_is_coming_spirit$§! takto:" # todo: NEW TRANSLATION
- AST_british_war_cabinet_spirit: "Britský válečný kabinet" # todo: NEW TRANSLATION
- AST_british_war_cabinet_spirit_tt: "Mění §Y$AST_british_war_cabinet_spirit$§! takto:" # todo: NEW TRANSLATION
- AST_no_foreign_battlefields_spirit: "$AST_no_foreign_battlefields_idea_1$" # todo: NEW TRANSLATION
- AST_no_foreign_battlefields_spirit_tt: "Mění §Y$AST_no_foreign_battlefields_idea_1$§! takto:" # todo: NEW TRANSLATION
- AST_pacific_fleet_hub_spirit: "Centrum tichomořské flotily" # todo: NEW TRANSLATION
- AST_pacific_fleet_hub_spirit_tt: "Mění §Y$AST_pacific_fleet_hub_spirit$§! takto:" # todo: NEW TRANSLATION
- AST_war_angst_spirit: "Obavy z války" # todo: NEW TRANSLATION
- AST_war_angst_spirit_tt: "Mění §Y$AST_war_angst_spirit$§! takto:" # todo: NEW TRANSLATION
- AST_strength_in_numbers_spirit: "Síla v počtu" # todo: NEW TRANSLATION
- AST_strength_in_numbers_spirit_tt: "Mění §Y$AST_strength_in_numbers_spirit$§! takto:" # todo: NEW TRANSLATION
- AST_eminent_successors_spirit: "Vynikající nástupci" # todo: NEW TRANSLATION
- AST_eminent_successors_spirit_desc: "Jmenováním několika vynikajících nástupců můžeme stabilizovat vládu a obnovit důvěru veřejnosti i ministrů." # todo: NEW TRANSLATION
- AST_australia_first_spirit: "Austrálie na prvním místě" # todo: NEW TRANSLATION
- AST_australia_first_spirit_tt: "Mění §Y$AST_australia_first_spirit$§! takto:" # todo: NEW TRANSLATION
- AST_imperial_pressure_spirit: "Imperiální tlak" # todo: NEW TRANSLATION
- AST_imperial_pressure_spirit_desc: "V důsledku nedávných událostí již nelze popřít, že se australská politika posouvá směrem nevhodným pro zemi pod britskou korunou. [ENG.GetNameDefCap] se pokusí nasměrovat náš národ zpět na předurčenou cestu, ale nemusí zůstat trpělivá dlouho.\n\n§WBude odstraněn, jakmile §Y[AST.GetName]§! nebude subjekt [ENG.GetNameDef]§!" # todo: NEW TRANSLATION
- AST_imperial_pressure_spirit_tt: "Mění §Y$AST_imperial_pressure_spirit$§! takto:" # todo: NEW TRANSLATION
- AST_imperial_pressure_spirit_remove_tt: "Odstraňte §Y$AST_imperial_pressure_spirit$§!" # todo: NEW TRANSLATION
- AST_great_depression_taog_spirit: "Velká hospodářská krize" # todo: NEW TRANSLATION
- AST_referendum_aviation_idea: "Schválená letecká reforma" # todo: NEW TRANSLATION
- AST_referendum_marketing_idea: "Schválená marketingová reforma" # todo: NEW TRANSLATION
- AST_great_depression_taog_spirit_tt: "Mění §Y$AST_great_depression_taog_spirit$§! takto:" # todo: NEW TRANSLATION
- AST_forging_australias_future_spirit: "Formování budoucnosti Austrálie" # todo: NEW TRANSLATION
- AST_forging_australias_future_spirit_tt: "Mění §Y$AST_forging_australias_future_spirit$§! takto:" # todo: NEW TRANSLATION
- AST_phosphate_commission: "Komise pro fosfáty" # todo: NEW TRANSLATION
- AST_australian_military_forces_spirit: "Australské ozbrojené síly" # todo: NEW TRANSLATION
- AST_australian_military_forces_spirit_tt: "Mění §Y$AST_australian_military_forces_spirit$§! takto:" # todo: NEW TRANSLATION
- AST_citizen_army_spirit: "Občanská armáda" # todo: NEW TRANSLATION
- AST_citizen_army_spirit_tt: "Mění §Y$AST_citizen_army_spirit$§! takto:" # todo: NEW TRANSLATION
- AST_royal_australian_air_force_spirit: "Královské australské letectvo" # todo: NEW TRANSLATION
- AST_royal_australian_air_force_spirit_tt: "Mění §Y$AST_royal_australian_air_force_spirit$§! takto:" # todo: NEW TRANSLATION
- AST_royal_australian_navy_spirit: "Královské australské námořnictvo" # todo: NEW TRANSLATION
- AST_royal_australian_navy_spirit_tt: "Mění §Y$AST_royal_australian_navy_spirit$§! takto:" # todo: NEW TRANSLATION
- AST_strike_ongoing: "Stávka probíhá!" # todo: NEW TRANSLATION
- AST_make_common_cause_idea: "Spojit síly" # todo: NEW TRANSLATION
- AST_offshore_advancements_spirit: "Pokroky v zámořských oblastech" # todo: NEW TRANSLATION
- AST_standing_with_canberra_state_modifier: "Podpora Canberry" # todo: NEW TRANSLATION
- AST_IRE_out_of_the_den_idea: "Ven z doupěte" # todo: NEW TRANSLATION
- AST_ireland_anti_british_pact_offer_accept_later_tt: "Pokud [AST.GetName] dodrží svou část dohody, připojíme se k jejich frakci a zapojíme se do jejich války proti Británii, jakmile oni vyhlásí válku." # todo: NEW TRANSLATION
- AST_IRE_stationed_troops_idea: "Stacionované jednotky" # todo: NEW TRANSLATION
- AST_IRE_stationed_troops_idea_desc: "Počet našich stacionovaných jednotek je aktuálně [?AST_IRE_stationed_troops_count_var|Y0]." # todo: NEW TRANSLATION
- AST_scrap_iron_flotilla_taog_idea: "Flotila z šrotu železa" # todo: NEW TRANSLATION
- AST_cruising_for_a_bruising_idea: "Hledání potyčky" # todo: NEW TRANSLATION
- AST_strike_from_down_under_idea: "Úder z Austrálie" # todo: NEW TRANSLATION
- AST_cabinet_trust_state_1_idea: "Velmi nízká důvěra kabinetu" # todo: NEW TRANSLATION
- AST_cabinet_trust_state_1_tt: "§YVelmi nízká důvěra kabinetu§!\nZisk politické síly: §R-20%§!\nStabilita: §R-30.00%§!\nPodpora války: §R-15.00%§!" # todo: NEW TRANSLATION
- AST_cabinet_trust_state_2_idea: "Nízká důvěra kabinetu" # todo: NEW TRANSLATION
- AST_cabinet_trust_state_2_tt: "§YNízká důvěra kabinetu§!\nZisk politické síly: §R-17%§!\nStabilita: §R-25.00%§!\nPodpora války: §R-12.00%§!" # todo: NEW TRANSLATION
- AST_cabinet_trust_state_3_idea: "Střední důvěra kabinetu" # todo: NEW TRANSLATION
- AST_cabinet_trust_state_3_tt: "§YStřední důvěra kabinetu§!\nZisk politické síly: §R-15%§!\nStabilita: §R-20.00%§!\nPodpora války: §R-10.00%§!" # todo: NEW TRANSLATION
- AST_cabinet_trust_state_4_idea: "Vysoká důvěra kabinetu" # todo: NEW TRANSLATION
- AST_cabinet_trust_state_4_tt: "§YVysoká důvěra kabinetu§!\nZisk politické síly: §R-12%§!\nStabilita: §R-15.00%§!\nPodpora války: §R-7.00%§!" # todo: NEW TRANSLATION
- AST_cabinet_trust_state_5_idea: "Velmi vysoká důvěra kabinetu" # todo: NEW TRANSLATION
- AST_cabinet_trust_state_5_tt: "§YVelmi vysoká důvěra kabinetu§!\nZisk politické síly: §R-10%§!\nStabilita: §R-10.00%§!\nPodpora války: §R-5.00%§!" # todo: NEW TRANSLATION
- AST_cabinet_trust_effects_1: "[GET_AST_CABINET_TRUST_EFFECTS_1]" # todo: NEW TRANSLATION
- AST_cabinet_trust_effects_2: "[GET_AST_CABINET_TRUST_EFFECTS_2]" # todo: NEW TRANSLATION
- AST_cabinet_trust_effects_3: "[GET_AST_CABINET_TRUST_EFFECTS_3]" # todo: NEW TRANSLATION
- AST_cabinet_trust_effects_4: "[GET_AST_CABINET_TRUST_EFFECTS_4]" # todo: NEW TRANSLATION
- AST_cabinet_trust_effects_5: "[GET_AST_CABINET_TRUST_EFFECTS_5]" # todo: NEW TRANSLATION
- NZL_railways_board: "Správní rada státních drah" # todo: NEW TRANSLATION
- NZL_railways_board_desc: "Správní rada státních drah byla vytvořena v roce 1931 jako restrukturalizace železničního úřadu ve snaze oddělit rozhodování od vládních oddělení. Nicméně od jejího zřízení není patrné výrazné zlepšení železniční sítě. Roste tlak, aby vláda radu zrušila a převzala přímou kontrolu." # todo: NEW TRANSLATION
- NZL_great_depression: "Velká hospodářská krize" # todo: NEW TRANSLATION
- NZL_great_depression_desc: "Kolaps globální ekonomiky v roce 1929 tvrdě zasáhl převážně zemědělskou ekonomiku Nového Zélandu. S klesající poptávkou po novozélandských produktech mnoho lidí přišlo o práci, což snížilo kupní sílu spotřebitelů a následně způsobilo kolaps dalších odvětví. Roky úsporných opatření zanechaly národ toužící po změně směru." # todo: NEW TRANSLATION
- NZL_commonwealth_loyalty: "Věrnost Britskému společenství" # todo: NEW TRANSLATION
- NZL_commonwealth_loyalty_desc: "Nový Zéland zůstává oddaným členem Britského společenství a zachovává krále jako legitimního head of state. Ekonomika Nového Zélandu je rovněž silně integrována do širšího impériového ekonomického systému." # todo: NEW TRANSLATION
- NZL_national_coal_board_idea: "Národní uhelná rada" # todo: NEW TRANSLATION
- NZL_ministry_of_public_works_dynamic_modifier: "Ministerstvo veřejných prací" # todo: NEW TRANSLATION
- modify_NZL_ministry_of_public_works_dynamic_modifier_tt: "Mění §Y$NZL_ministry_of_public_works_dynamic_modifier$§! takto:" # todo: NEW TRANSLATION
- ABDA_supreme_command: "Vrchní velení ABDACOMu" # todo: NEW TRANSLATION
- ABDA_supreme_command_desc: "Spojené americké, britské, nizozemské a australské velení (ABDACOM) ustanovilo jednotnou námořní doktrínu napříč všemi členskými námořnictvy. Jak se aliance prohlubuje, sdílené zpravodajství, koordinace hlídkových úkolů a vzájemná logistická podpora postupně zvyšují bojovou účinnost každé flotily, která nese prapor ABDACOMu." # todo: NEW TRANSLATION
- modify_ABDA_supreme_command_tt: "Mění §Y$ABDA_supreme_command$§! takto:" # todo: NEW TRANSLATION
+ idea_INS_volksraad: "Volksraad"
+ idea_INS_volksraad_desc: "Volksraad je rada zřízená Nizozemskem v roce 1918 jako součást systému „etické politiky“, jejímž cílem bylo vytvořit systém polodemokracie, v němž by mohly být zastoupeny různé etnické menšiny a kultury napříč souostrovím. Ačkoli je teoreticky demokratické povahy, generální guvernér a nizozemská koruna mají bezpodmínečné právo veta."
+ INS_volksraad_custom_tt: "Umožňuje najmout §Yporadce Volksraadu§!\nUmožňuje používat §Yrozhodnutí Volksraadu§!"
+ INS_great_depression: "Velká hospodářská krize"
+ INS_great_depression_desc: "Ačkoli přímý dopad velké hospodářské krize na Indie je malý, následná protekcionistická politika, kterou země po celém světě zavedly, měla ničivý dopad na hospodářství Indií, jež je závislé na nepřetržitém vývozu surovin, jako je kaučuk a ropa."
+ INS_great_depression_tt: "Upraví §Y$INS_great_depression$§! o:"
+ INS_dutch_east_indies: "Špatně řízená správa"
+ INS_dutch_east_indies_desc: "Východní Indie je rozsáhlé souostroví obsahující stovky odlišných kultur a jazyků, což z ní činí notoricky obtížně spravovatelnou kolonii. Různá hnutí za nezávislost, kulturní bariéry a hospodářské dopady velké hospodářské krize této situaci nepomohly a správa funguje velmi neefektivně. „Etická politika“, zavedená v roce 1918, se pokusila situaci zlepšit nařízením etických pracovních předpisů a poskytnutím demokratického zastoupení menšinovým skupinám, velká hospodářská krize však způsobila, že zůstala z větší části nevymáhána."
+ INS_dutch_east_indies_tt: "Upraví §Y$INS_dutch_east_indies$§! o:"
+ INS_volksraad_tt: "Upraví §Y$INS_dutch_east_indies$§! o:"
+ INS_royal_netherlands_east_indies_army_desc: "Koninklijk Nederlands Indisch Leger (KNIL) je dlouhodobě existující armáda Východní Indie, působící nezávisle na Nizozemsku. KNIL tvoří evropští i indonéští vojáci, avšak kulturní a jazykové bariéry mezi mnoha kulturami souostroví a Nizozemskem činí nábor obtížným a pomalým procesem."
+ idea_INS_netherlands_most_precious_jewel: "Nejcennější klenot Nizozemska"
+ idea_INS_netherlands_most_precious_jewel_desc: "Nizozemská východní Indie je kolonií Nizozemska už zhruba 350 let a správa kolonie je těsně propojena s nizozemskou vládou. Východní Indie bývá často označována za „klenot v nizozemské koruně“ a Nizozemsko neprojevilo žádnou touhu uvolnit sevření svého drahocenného klenotu."
+ INS_netherlands_most_precious_jewel_tt: "£GFX_trigger_no Může zvýšit autonomii na Svobodný"
+ idea_INS_restoring_order: "Obnova pořádku"
+ INS_happy_state: "Dobře rozvinutý stát"
+ INS_construction_boom: "Stavební boom"
+ INS_plane_making: "Financování leteckého průmyslu"
+ INS_tin_infrastructure_state: "Modernizovaná cínová infrastruktura"
+ INS_feint_uprising_state: "Klamné povstání"
+ HOL_flag_will_fly: "Vlajka znovu zavlaje"
+ INS_bangka_bauxite_export: "Vývoz bauxitu z Bangky"
+ INS_bangka_bauxite_export_desc: "Ostrovy Bangka a Belitung ukrývají značnou část světového bauxitu, který je hlavní surovinou pro výrobu hliníku. Ačkoli bychom mohli sami investovat do výroby hliníku, samotné množství produkovaného bauxitu činí prodej suroviny ve velkém životaschopnou strategií."
+ INS_bangka_bauxite_export_tt: "Upraví §Y$INS_bangka_bauxite_export$§! o:"
+ INS_bangka_bauxite_export_warning_tt: "§RBude odstraněno, pokud nebudeme ovládat Bangka-Belitung.§!"
+ INS_bangka_bauxite_export_flag_removed_tt: "§Y$INS_bauxite_export$§!: Bylo dokončeno před §Y365§! dny nebo déle. Aktuální počet dní: [?INS_bangka_bauxite_export_flag:days|Y0]"
+ INS_royal_netherlands_east_indies_army: "Královská nizozemská východoindická armáda"
+ HOL_east_indies_investments_mod: "Investice ve Východní Indii"
+ HOL_east_indies_investments_mod_tt: "Upraví §Y$HOL_east_indies_investments_mod$§! o:"
+ INS_peoples_security_army: "Lidová bezpečnostní armáda"
+ HOL_internationally_controversial_aggression: "Kontroverzní agrese"
+ HOL_internationally_controversial_aggression_2: "Kontroverzní agrese"
+ INS_dutch_investment_rate_10: "§YNizozemsko§! bude mít o §G10 %§! vyšší pravděpodobnost, že přijme zaměření ze společného stromu"
+ INS_dutch_investment_rate_20: "§YNizozemsko§! bude mít o §G20 %§! vyšší pravděpodobnost, že přijme zaměření ze společného stromu"
+ INS_dutch_investment_rate_30: "§YNizozemsko§! bude mít o §G30 %§! vyšší pravděpodobnost, že přijme zaměření ze společného stromu"
+ INS_dutch_investment_rate_40: "§YNizozemsko§! bude mít o §G40 %§! vyšší pravděpodobnost, že přijme zaměření ze společného stromu"
+ INS_dutch_investment_rate_50: "§YNizozemsko§! bude mít o §G50 %§! vyšší pravděpodobnost, že přijme zaměření ze společného stromu"
+ INS_dutch_investment_rate_60: "§YNizozemsko§! bude mít o §G60 %§! vyšší pravděpodobnost, že přijme zaměření ze společného stromu"
+ INS_dutch_investment_rate_70: "§YNizozemsko§! bude mít o §G70 %§! vyšší pravděpodobnost, že přijme zaměření ze společného stromu"
+ INS_dutch_investment_rate_80: "§YNizozemsko§! bude mít o §G80 %§! vyšší pravděpodobnost, že přijme zaměření ze společného stromu"
+ INS_dutch_investment_rate_90: "§YNizozemsko§! bude mít o §G90 %§! vyšší pravděpodobnost, že přijme zaměření ze společného stromu"
+ INS_dutch_investment_rate_100: "§YNizozemsko§! bude mít o §G100 %§! vyšší pravděpodobnost, že přijme zaměření ze společného stromu"
+ INS_dutch_investment_rate_05: "§YNizozemsko§! bude mít o §G5 %§! vyšší pravděpodobnost, že přijme zaměření ze společného stromu"
+ INS_investing_in_tin_idea: "Investice do těžby cínu"
+ INS_modifier_positive_trade_relations: "Pozitivní obchodní vztahy"
+ INS_royal_dutch_shell_name_normal: "Royal Dutch Shell"
+ INS_royal_dutch_shell_name_nationalized: "Permina"
+ idea_INS_royal_dutch_shell_concern: "[INS_royal_dutch_shell_name]"
+ INS_de_javasche_bank_name_normal: "De Javasche Bank"
+ INS_de_javasche_bank_name_nationalized: "Bank Indonesia"
+ idea_INS_bank_of_java_concern: "[INS_de_javasche_bank_name]"
+ INS_ptt_name_normal: "PTT"
+ INS_ptt_name_nationalized: "Telkom Indonesia"
+ idea_INS_telkom_indonesia_concern: "[INS_ptt_name]"
+ INS_staatsporswegen_name_normal: "Staatsporswegen SS"
+ INS_staatsporswegen_name_nationalized: "DKARI"
+ idea_INS_staatspoorwegen_ss_concern: "[INS_staatsporswegen_name]"
+ INS_state_revolution_hq: "Revoluční velitelství"
+ INS_planning_revolution_hq: "Již nezřizuje revoluční velitelství"
+ INS_state_militia_sabotage_1: "Lehká infiltrace milic"
+ INS_state_militia_sabotage_2: "Silná infiltrace milic"
+ INS_state_militia_sabotage_3: "Sabotáž milic"
+ INS_state_militia_activity_1: "Milice zasahují do regionu"
+ INS_state_militia_activity_2: "Milice soupeří o kontrolu"
+ INS_state_militia_activity_3: "Milice ovládají region"
+ INS_state_militia_port_control_1: "Aktivita milic v přístavech"
+ INS_state_militia_port_control_2: "Milice obsazují přístavy"
+ INS_oil_baron_state: "Dohody s ropnými barony"
+ HOL_indonesian_cheap_labor: "Levná indonéská pracovní síla"
+ HOL_cheap_sugar: "Levný dovoz cukru"
+ HOL_cheap_lumber: "Levný dovoz dřeva"
+ INS_industrialized_colony: "Industrializovaná kolonie"
+ INS_industrialized_colony_tt: "Upraví §Y$INS_industrialized_colony$§! o:"
+ INS_local_resistance_state: "Místní odboj"
+ idea_INS_defend_java_til_death: "Opevnění Jávy"
+ INS_evacuate_state: "Evakuační rozkaz"
+ INS_stronghold_java_state: "Opevnění Batávie"
+ idea_INS_nefis: "NEFIS"
+ idea_INS_nefis_no_lar: "NEFIS"
+ idea_INS_japanese_symphasizers: "Japonští sympatizanti"
+ idea_INS_tax_reduction: "Snížené pozemkové daně"
+ HOL_agricultural_taxes: "Zemědělské daně"
+ INS_establishing_naval_doctrine: "Zavádění naší námořní doktríny"
+ INS_no_compromise_idea: "Indonesia Raya"
+ idea_HOL_comite_rijksenheeid: "Comité Rijkseenheid"
+ INS_agrarian_funding_state: "Financování zemědělství"
+ INS_JAP_repaying_industrialists: "Splácení obchodních půjček"
+ INS_republican_government_modifier: "Indonéská republika"
+ INS_republican_government_modifier_tt: "Upraví §Y$INS_republican_government_modifier$§! o:"
+ INS_guided_economy_modifier: "Řízené hospodářství"
+ INS_guided_economy_modifier_tt: "Upraví §Y$INS_guided_economy_modifier$§! o:"
+ idea_INS_standard_oil_california_borrowed_concern: "Standard Oil California"
+ idea_INS_western_trade: "Západní hospodářská orientace"
+ INS_guided_democracy_idea: "Militarismus"
+ INS_military_above_all_idea: "Vše pro válečné úsilí"
+ INS_economic_transition_idea: "Hospodářská transformace"
+ INS_economic_stability_idea: "Hospodářská stabilita"
+ INS_economic_transition_tt: "Za §Y240 §!dní:\n   Přidá „§Y$INS_economic_stability_idea$§!“, které poskytuje\n"
+ INS_knil_tt: "Upraví §Y$INS_royal_netherlands_east_indies_army$§! o:"
+ INS_psa_tt: "Upraví §Y$INS_peoples_security_army$§! o:"
+ INS_emergency_dockyard_construction_idea: "Nouzová výstavba loděnic"
+ INS_economic_transition_idea_tt: "Po odstranění bude nahrazeno §Y$INS_economic_stability_idea$§!"
+ idea_INS_prioritizing_dutch_profits: "Upřednostňování nizozemských zisků"
+ idea_HOL_prioritizing_dutch_profits: "Výnosná kolonie"
+ idea_INS_policy_shift: "Reorganizace vlády"
+ INS_bank_of_java_unlock: "Dokončil §Y$INS_fate_of_de_javasche_bank$§! a udělil De Javasche Bank výhradní práva"
+ INS_anti_colonialist_sentiment_idea: "Protikoloniální nálady"
+ INS_anti_colonialist_sentiment_idea_desc: "Indonéští revolucionáři působí v našem národě a šíří mezi veřejností propagandu, což vede k rostoucím protikoloniálním náladám."
+ INS_revolutionaries_working_with_indonesians_idea: "Revolucionáři spolupracují s Indonésany"
+ INS_revolutionaries_working_with_indonesians_idea_desc: "[ROOT.GetAdjectiveCap] komunisté byli přistiženi při komunikaci s indonéskými vůdci a jsou podezřelí z příprav ozbrojené revoluce."
+ idea_SIA_civilian_full_support: "Civilní křídlo: §Gplná podpora§!"
+ idea_SIA_civilian_full_support_desc: "Civilní křídlo pevně stojí za vládou. Správci a technokraté poskytují své odborné znalosti a pohánějí rozvoj kupředu."
+ idea_SIA_civilian_slight_support: "Civilní křídlo: mírná podpora"
+ idea_SIA_civilian_slight_support_desc: "Civilní křídlo obecně podporuje směřování vlády. Jejich spolupráce přináší skromné, ale hmatatelné výhody."
+ idea_SIA_civilian_neutral: "Civilní křídlo: neutrální"
+ idea_SIA_civilian_neutral_desc: "Civilní křídlo vládě nepomáhá ani jí nepřekáží. Správa funguje, ale bez hybné síly skutečného politického souladu."
+ idea_SIA_civilian_opposition: "Civilní křídlo: v opozici"
+ idea_SIA_civilian_opposition_desc: "Civilní křídlo se obrátilo proti vládě. Úředníci pracují liknavě a rozpočty jsou špatně rozdělovány, což brzdí státní aparát."
+ idea_SIA_civilian_rebellious: "Civilní křídlo: §Rvzpurné§!"
+ idea_SIA_civilian_rebellious_desc: "Civilní křídlo je v otevřeném vzdoru. Nestabilita se šíří a hrozba politického rozkolu roste každým dnem."
+ idea_SIA_military_full_support: "Vojenské křídlo: §Gplná podpora§!"
+ idea_SIA_military_full_support_desc: "Vojenské křídlo pevně stojí za vládou. Důstojníci podporují náborové kampaně i výrobu zbraní a směřují zdroje armády k národním cílům."
+ idea_SIA_military_slight_support: "Vojenské křídlo: mírná podpora"
+ idea_SIA_military_slight_support_desc: "Vojenské křídlo je obecně ochotné spolupracovat. Jeho podpora přináší skromná zlepšení v náboru a výrobě, i když bez plného nasazení."
+ idea_SIA_military_neutral: "Vojenské křídlo: neutrální"
+ idea_SIA_military_neutral_desc: "Vojenské křídlo nezaujalo žádné stanovisko. Armáda plní své povinnosti bez nadšení i odporu a vyčkává, jak se situace vyvine."
+ idea_SIA_military_opposition: "Vojenské křídlo: v opozici"
+ idea_SIA_military_opposition_desc: "Vojenské křídlo pracuje proti vládě. Důstojníci podkopávají výrobní úsilí a nadšení pro vládní věc se z řad vojska vytrácí."
+ idea_SIA_military_rebellious: "Vojenské křídlo: §Rvzpurné§!"
+ idea_SIA_military_rebellious_desc: "Vojenské křídlo je na pokraji otevřeného vzdoru. Odvody jsou sabotovány, výroba zbraní trpí a nad zemí se vznáší přízrak puče."
+ idea_SIA_defenders_of_constitutional_liberty: "Obránci ústavní svobody"
+ idea_SIA_civil_service_heroism_1: "Hrdinství státní služby"
+ idea_SIA_civil_service_heroism_1_desc: "Státní služba se postavila výzvě čelem a její oddanost i odbornost tiše urychlují tempo výzkumu a rozvoje státu."
+ idea_SIA_civil_service_heroism_2: "$idea_civil_service_heroism_1$"
+ idea_SIA_civil_service_heroism_2_desc: "$idea_SIA_civil_service_heroism_1_desc$"
+ idea_SIA_redirected_military_funds: "Přesměrované vojenské prostředky"
+ idea_SIA_thai_irredentism: "Thajský iredentismus"
+ idea_SIA_sold_privy_purse_lands: "Prodané pozemky královské pokladny"
+ idea_SIA_sold_privy_purse_lands_desc: "Prodej pozemkových držav královské domácnosti vnesl do státu kapitál, zmírnil hospodářský tlak a uvolnil zdroje pro výstavbu."
+ idea_SIA_war_fervor: "Válečné nadšení"
+ idea_SIA_bloodlusted_irredentism: "Krvelačný iredentismus"
+ idea_SIA_bloodlusted_irredentism_desc: "Územní ambice se proměnily v cosi mnohem zuřivějšího. Armáda bojuje s přesvědčením těch, kdo věří, že znovu získávají to, co jim právem náleží."
+ idea_SIA_the_royal_police_counterweight: "Loajalita královské policie"
+ idea_SIA_civilian_technocrats_in_institutions: "Civilní technokraté"
+ idea_SIA_civilian_technocrats_in_institutions_desc: "Civilní odborníci dosazení do klíčových státních institucí zlepšili těžbu zdrojů i efektivitu politických jmenování."
+ idea_SIA_yuvachon: "Yuvachon"
+ idea_SIA_yuvachon_desc: "Hnutí Yuvachon cvičí mládež národa ve vojenské disciplíně, buduje zásobu vycvičeného personálu a rozdmýchává nacionalistické nálady."
+ idea_SIA_yuvachon_2: "$idea_SIA_yuvachon$"
+ idea_SIA_yuvachon_2_desc: "$idea_SIA_yuvachon_desc$"
+ idea_SIA_rebuilding_the_war_torn_economy: "Obnova válkou zničeného hospodářství"
+ idea_SIA_specialist_marine_forces: "Specializované námořní pěchotní síly"
+ idea_SIA_specialist_marine_forces_desc: "Kádr oddaných obojživelných specialistů byl vycvičen a vybaven pro pobřežní útočné operace."
+ idea_SIA_rehabilitated_military: "Rehabilitovaná armáda"
+ idea_SIA_desperate_gambit: "Zoufalý tah"
+ idea_SIA_desperate_gambit_desc: "Možná z té díry, v níž ses ocitl, existuje cesta ven. Šplhej!"
+ idea_SIA_purged_senior_military: "Vyčištěné vyšší velení"
+ idea_SIA_purged_senior_military_desc: "Vyšší důstojníci považovaní za hrozbu pro vládu byli odstraněni ze svých funkcí. Ztráta zkušených velitelů zanechala stopu na soudržnosti a profesionálním rozvoji armády."
+ idea_SIA_cemented_control: "Upevněná kontrola"
+ idea_SIA_cemented_control_desc: "Vláda upevnila své sevření státních institucí. Politická opozice byla odsunuta stranou a soukolí moci se nyní spolehlivě otáčí ve prospěch vlády."
+ idea_SIA_cemented_control_2: "Zakořeněná kontrola"
+ idea_SIA_cemented_control_2_desc: "$idea_SIA_cemented_control_desc$"
+ idea_SIA_cemented_control_3: "Zákon o thajské povinnosti za války"
+ idea_SIA_cemented_control_3_desc: "Je povinností každého Thajce, aby v případě války ohrožující svrchovanost koruny a jejího lidu každý počestný Thajec vzdoroval okupaci všemi možnými prostředky, ať už zbraní, nebo jinak."
+ idea_SIA_suspend_ordinary_legal_procedures: "Pozastavené běžné právní postupy"
+ idea_SIA_thai_cultural_mandates: "Thajské kulturní mandáty"
+ idea_SIA_military_humiliation: "Vojenské ponížení"
+ idea_SIA_death_defiant: "Vzdor smrti"
+ idea_SIA_death_defiant_desc: "Už jsme mrtví. Přijďte si vzít, co vám patří, pokud to dokážete."
+ idea_SIA_songsuradet_ascendant_0: "Songsuradet na vzestupu"
+ idea_SIA_songsuradet_ascendant_0_desc: "Phraya Songsuradet úspěšně přečkal hněv vlády, upevnil svou základnu a vyšel z toho silnější. Nyní je tím, komu by lidé říkali nedotknutelný - příliš známý a příliš zakořeněný na to, aby se ho bylo možné zbavit.\nS největší pravděpodobností bude zasahovat do vládní politiky a zpomalovat rozhodování, aby zajistil, že se znovu nestane terčem čistky."
+ idea_SIA_songsuradet_ascendant_1: "$idea_SIA_songsuradet_ascendant_0$"
+ idea_SIA_songsuradet_ascendant_1_desc: "$idea_SIA_songsuradet_ascendant_0_desc$"
+ idea_SIA_rebuilding_after_civil_war: "Obnova po občanské válce"
+ idea_SIA_rebuilding_after_civil_war_desc: ""
+ idea_SIA_anti_burmese_sentiment: "Protibarmské nálady"
+ idea_SIA_sued_king_prajadhipok: "Zažalovaný král Prajadhipok"
+ idea_SIA_pan_thaiism: "Panthajismus"
+ idea_SIA_pan_thaiism_desc: "Ideologie panthajismu tvrdí, že všechny národy thajského původu by měly být sjednoceny v jednom státě. Pohání národ k expanzi a udržuje morálku útočnými akcemi."
+ idea_SIA_pan_thaiism_2: "$idea_SIA_pan_thaiism$"
+ idea_SIA_pan_thaiism_2_desc: "$idea_SIA_pan_thaiism_desc$"
+ idea_SIA_unity_propaganda: "Propaganda jednoty"
+ idea_SIA_royal_palace_bureau_directive_no_1523: "Směrnice Úřadu královského paláce č. 1523"
+ idea_SIA_foreign_diplomatic_relationships: "Zahraniční diplomatické vztahy"
+ modify_idea_SIA_foreign_diplomatic_relationships: "Upraví §Y$idea_SIA_foreign_diplomatic_relationships$§! o:"
+ idea_SIA_bank_of_siam: "Bank of Siam"
+ idea_SIA_bank_of_siam_desc: "Bank of Siam slouží jako finanční páteř státu, řídí kapitálové investice a spravuje měnovou politiku na podporu průmyslové expanze."
+ idea_SIA_bank_of_siam_2: "$idea_SIA_bank_of_siam$"
+ idea_SIA_bank_of_siam_2_desc: "$idea_SIA_bank_of_siam_desc$"
+ idea_SIA_boon_rawd_brewery: "Boon Rawd Brewery"
+ idea_SIA_boon_rawd_brewery_desc: "Boon Rawd Brewery se rozrostl v symbol domácího podnikání a jeho obchodní úspěch vytváří dobrou vůli i politický kapitál pro ty, kdo jej podporují."
+ idea_SIA_siam_cement_group: "[ROOT.GetName] Cement Group"
+ idea_SIA_thai_rice_company: "Thai Rice Company"
+ idea_SIA_agricultural_tax_reduction: "Snížení zemědělských daní"
+ idea_SIA_agrarian_economical_policy: "Agrární hospodářská politika"
+ idea_SIA_contingency_funds: "Nouzové fondy"
+ idea_SIA_agrarian_economical_policy_modify: "Upraví §Y$idea_SIA_agrarian_economical_policy$§! o:"
+ idea_SIA_farmers_moving_to_bangkok_good: "Rolníci se stěhují do Bangkoku"
+ idea_SIA_farmers_moving_to_bangkok_bad: "$idea_SIA_farmers_moving_to_bangkok_good$"
+ idea_SIA_irrigation: "Zavlažování"
+ idea_SIA_debt_repayment: "Splácení dluhu"
+ idea_SIA_debt_repayment_desc: "Náklady programu deficitních výdajů se začínají projevovat. Příjmy jsou odváděny věřitelům a tempo výstavby, které půjčky kdysi umožnily, již nelze udržet."
+ idea_SIA_an_unceasy_alliance: "Neklidné spojenectví"
+ idea_SIA_an_unceasy_alliance_desc: "Spojenectví drží, ale začíná se projevovat napětí. Pochybnosti uvnitř vlády tiše táhnou národ k neutrálnějšímu kurzu."
+ idea_SIA_rural_support: "Podpora venkova"
+ idea_SIA_the_sacred_hierarchy: "Posvátná hierarchie"
+ idea_SIA_order_discipline_and_unity: "Řád, disciplína a jednota"
+ idea_SIA_constitutional_virtue: "Ústavní ctnost"
+ idea_SIA_an_absolute_monarchy: "Absolutní monarchie"
+ idea_SIA_an_absolute_monarchy_desc: "Veškerá politická autorita spočívá v koruně. Královo slovo je zákon, nesouhlas je potlačován a plná váha královské prestiže je vržena za národní mobilizaci. Trůn velí loajalitě a armáda je jeho nástrojem."
+ idea_SIA_a_constituional_monarchy: "Konstituční monarchie"
+ idea_SIA_a_constituional_monarchy_desc: "Ústavní rámec vymezuje hranice královské moci a zakotvuje práva lidu. S korunou jako sjednocujícím symbolem, nikoli absolutní autoritou, se národ stává stabilnějším, otevřenějším novým myšlenkám a sladěnějším s demokratickým světem."
+ idea_SIA_restoring_order: "Obnova pořádku"
+ idea_SIA_military_expansion_costs: "Náklady na vojenskou expanzi"
+ idea_SIA_a_modern_economy: "Moderní hospodářství"
+ idea_SIA_death_to_communists: "Smrt komunistům"
+ idea_SIA_death_to_communists_desc: "Protikomunistické nadšení prostupuje řadami a dává našim silám výhodu proti komunistickým armádám Číny."
+ idea_SIA_death_to_nationalists: "Smrt nacionalistům"
+ idea_SIA_death_to_nationalists_desc: "Protinacionalistické nálady prostupují řadami a dávají našim silám výhodu proti nacionalistickým armádám Číny."
+ idea_SIA_breaking_the_burmese_line: "Prolomení barmské linie"
+ idea_SIA_the_yellow_dossier: "Žlutý spis"
+ idea_SIA_the_yellow_dossier_desc: "Tajná zpráva o stavu domácího průmyslu nás donutila vypořádat se s hluboce zakořeněnou neefektivitou. Reformy, které požaduje, přinášejí v našich továrnách ovoce, i když narušení, která s sebou nesou, nejsou bez následků."
+ idea_SIA_the_yellow_dossier_2: "$idea_SIA_the_yellow_dossier$"
+ idea_SIA_the_yellow_dossier_2_desc: "$idea_SIA_the_yellow_dossier_desc$"
+ idea_SIA_pacific_war_preparations: "Přípravy na válku v Pacifiku"
+ idea_SIA_a_race_against_time: "Závod s časem"
+ idea_SIA_overheated_economy: "Přehřáté hospodářství"
+ idea_SIA_overheated_economy_desc: "Hospodářství bylo vyhnáno za své přirozené meze. Spotřebitelská poptávka překonala kapacity a stavební boom se zastavil, zatímco situace chladne."
+ idea_SIA_ending_military_grift: "Ukončení vojenské korupce"
+ idea_SIA_the_military_oversight_bureau: "$SIA_military_oversight_bureau$"
+ idea_SIA_the_military_oversight_bureau_desc: "Úřad vojenského dohledu stanovuje vyšší standardy pro nové velitele a urychluje rozvoj odbornosti napříč důstojnickým sborem."
+ idea_SIA_public_credit_debt: "Dluh z veřejného úvěru"
+ idea_SIA_public_credit_debt_desc: "Úvěrové závazky státu jsou neustálou zátěží pro hospodářství a spotřebovávají zdroje, které by jinak proudily do výroby a spotřebního zboží."
+ idea_SIA_public_credit_debt_2: "Splácení $idea_SIA_public_credit_debt$"
+ idea_SIA_public_credit_debt_2_desc: "$idea_SIA_public_credit_debt_desc$"
+ idea_SIA_revision_of_unequal_treaties: "Revize nerovných smluv"
+ idea_SIA_purged_military: "Vyčištěná armáda"
+ idea_SIA_purged_military_desc: "Odstranění důstojníků považovaných za politicky nespolehlivé připravilo armádu o zkušené vedení, což brzdí organizaci i rozvoj zbývajících jednotek."
+ SIA_khana_ratsadon_inlay_title: "Khana Ratsadon"
+ SIA_civilian_wing_label: "Civilní křídlo"
+ SIA_military_wing_label: "Vojenské křídlo"
+ SIA_wing_state_full_support: "§GPlná podpora§!"
+ SIA_wing_state_slight_support: "§GMírná podpora§!"
+ SIA_wing_state_neutral: "§YNeutrální§!"
+ SIA_wing_state_opposition: "§RV opozici§!"
+ SIA_wing_state_rebellious: "§RVzpurné§!"
+ SIA_civilian_wing_history_tt: "Civilní frakci Khana Ratsadon vedou progresivní správci a technokraté, především §YPridi Banomyong§!. Pridi studoval právo ve Francii a vrátil se s ambicemi provést pozemkovou reformu, státní hospodářské plánování a ústavní demokracii, která by skutečně posílila obyčejné lidi.\n\nCivilní křídlo je obecně §Gpro rozvoj§!, upřednostňuje investice do vzdělání, infrastruktury a průmyslu. Ke značným vojenským výdajům je skeptické a obává se jakéhokoli sklouzávání k vládě silné ruky. Jeho podporu lze nejsnáze získat politikami, které modernizují stát a chrání ústavní vládu."
+ SIA_military_wing_history_tt: "Vojenské frakci Khana Ratsadon dominují armádní důstojníci, kteří se považují za skutečné strážce revoluce. Její nejambicióznější postavou je §YPlaek Phibunsongkhram§!, plukovník, jehož obdiv k nacionalistickým hnutím Evropy s každým rokem roste.\n\nVojenské křídlo je §Gpro přezbrojení§! a tíhne k silnému centralizovanému státu. K Pridiho hospodářským myšlenkám, které považuje za nebezpečně radikální, chová podezření a má jen málo trpělivosti s civilním zasahováním do obranných záležitostí. Jeho loajalitu lze nejsnáze zajistit vojenskými investicemi a politikami, které promítají sílu národa."
+ AST_electrical_engineer_hidden_idea: "$AST_florence_v._mckenzie$"
+ AST_electrical_engineer_electronics_modifier_tt: "Rychlost výzkumu $electronics$: §G+15 %§!"
+ AST_great_depression_taog_spirit_fake: "$AST_great_depression_taog_spirit$"
+ AST_citizen_army_spirit_fake: "$AST_citizen_army_spirit$"
+ AST_war_is_coming_spirit_fake: "$AST_war_is_coming_spirit$"
+ AST_unratified_westminster_act_idea: "Neratifikovaný Westminsterský statut"
+ AST_unratified_westminster_act_idea_desc: "Westminsterský statut byl přijat v roce 1931 a umožnil samosprávným dominiím [ENG.GetNameDef] zvýšit svou svrchovanost. Kdybychom jej ratifikovali, většina pravomocí britského parlamentu vydávat zákony pro [AST.GetName] by byla odstraněna. "
+ AST_australian_war_cabinet_idea: "Australský válečný kabinet"
+ AST_australian_war_cabinet_idea_tt: "\nJakmile budeme ve válce, §Y$AST_australian_war_cabinet_idea$§! bude upraven o:\n §Y2§! mimo-mapové §Y$arms_factory$§!"
+ AST_australian_war_cabinet_war_idea: "Australský válečný kabinet"
+ AST_australian_war_cabinet_war_idea_tt: "§Y2§! mimo-mapové §Y$arms_factory$§!"
+ AST_singapore_strategy_idea: "Výstavba obrany Singapuru"
+ AST_singapore_strategy_idea_desc: "Na žádost Austrálie vyvineme úsilí ke zlepšení obranných staveb v Singapuru. Singapurská strategie je koneckonců klíčovou součástí pacifické obranné politiky.\n\n§W§YPři odstranění§! (§YSingapur§!):\n Přidá §G2§! §Yletecké základny§!.\n Přidá §G2§! §Ynámořní základny§!.\n Přidá §G1§! §Ypobřežní pevnost§!.§!\n"
+ AST_all_dressed_up_idea: "Všichni vystrojení"
+ AST_all_dressed_up_idea_tt: "§Y2§! mimo-mapové §Y$arms_factory$§!"
+ AST_no_foreign_battlefields_idea_1: "Žádná cizí bojiště"
+ AST_voluntary_foreign_service_idea: "Dobrovolná zahraniční služba"
+ AST_liberty_loans_idea: "Půjčky svobody"
+ AST_faction_training_initiative_idea_1: "Výcviková iniciativa"
+ AST_faction_training_initiative_idea_1_desc: "Společná výcviková iniciativa Pacifického odboje je kooperativní program jeho členů, který zajišťuje, že všichni spojenečtí vojáci projdou stejně náročným vojenským výcvikem.\n\nS více než §Y4§! členy frakce bude §Yvýcviková iniciativa§! §Gvylepšena§!."
+ AST_faction_training_initiative_idea_2: "Výcviková iniciativa"
+ AST_faction_training_initiative_idea_2_desc: "Společná výcviková iniciativa Pacifického odboje je kooperativní program jeho členů, který zajišťuje, že všichni spojenečtí vojáci projdou stejně náročným vojenským výcvikem."
+ AST_temp_political_power_factor_cost: "Úrok z bankovní půjčky"
+ AST_war_carriers_idea: "$AST_war_carriers$"
+ AST_war_carriers_tech_tt: "§Y$logistics_company$§!:\n $MODIFIER_SUPPLY_CONSUMPTION_FACTOR$: §G-15 %§!"
+ AST_wool_agreement_idea: "Dohoda o vlně"
+ AST_australian_comforts_fund_idea: "Australský fond pro pohodlí vojáků"
+ AST_australian_comforts_fund_idea_desc: "$AST_australian_comforts_fund_desc$"
+ AST_british_military_construction_aid_idea: "Britská pomoc s vojenskou výstavbou"
+ AST_british_military_construction_aid_idea_tt: "§Y2§! mimo-mapové §Y$industrial_complex$§!"
+ AST_country_party_influence_uap: "Vliv Country Party"
+ AST_country_party_influence_alp: "Vliv Country Party"
+ AST_country_party_influence_uap_tt: "Denní nárůst hlasů pro §YU.A.P§!: §Y+0.02 %§!"
+ AST_country_party_influence_alp_tt: "Denní nárůst hlasů pro §YA.L.P§!: §Y+0.02 %§!"
+ AST_anti_fascist_measures: "Antifašistická opatření"
+ AST_anti_fascist_measures_desc: "Fašismus ještě do Austrálie nezaryl své drápy a demokratické síly chtějí, aby to tak zůstalo. Commonwealth Investigation Branch bude sledovat a zadržovat všechny podezřelé živly, aby zabránila jakýmkoli fašistickým skupinám získat vliv."
+ ABDA_corps_expeditionnaire_spirit: "Corps Expéditionnaire"
+ ABDA_corps_expeditionnaire_spirit_desc: "Francouzské síly nasazené na pacifickém válčišti byly zoceleny koloniální službou a zvyklé působit daleko od domova v obtížných podmínkách. Jejich zkušenosti z bojů v jihovýchodní Asii jim dávají zvláštní povědomí o japonské taktice a terénu, díky čemuž jsou odolnou silou, když nepřítel tlačí vpřed."
+ ABDA_maintain_strategic_flexibility_spirit: "Strategická flexibilita"
+ ABDA_maintain_strategic_flexibility_spirit_desc: "Americká průmyslová produkce je směrována na pacifické válčiště a výroba loděnic je urychlována, aby udržela flotilu schopnou promítat sílu napříč celou šíří oceánu. Odmítáním přílišného vázání na jedinou frontu Spojené státy zajišťují, že jejich námořní síla může být nasazena všude tam, kde si to situace vyžádá."
+ AST_toe_the_line_spirit: "Držet se linie"
+ AST_toe_the_line_spirit_desc: "Stát vyzval k obětem a obyvatelstvo odpovědělo. Přídělový systém, delší pracovní doba a přesměrování civilní výroby k národnímu úsilí uvolnily zdroje, které by vláda jinak neměla jak získat. Jde o přísné uspořádání, a ne všeobecně oblíbené."
+ AST_defying_american_interference_idea: "$AST_defying_american_interference$"
+ AST_investigation_branch: "Vyšetřovací odbor"
+ AST_TAOG_central_bureau: "Ústřední úřad"
+ AST_invasion_planning: "Plánování invaze"
+ AST_invasion_planning_desc: "§YPři odstranění§!:\nPřidá §Yválečný plán Japonsko§!.\n"
+ AST_war_plan_japan: "Válečný plán Japonsko"
+ AST_australian_culture_investments_idea: "Investice do australské kultury"
+ AST_australian_culture_investments_idea_desc: "§W§YPři odstranění§!:\nPřidá §YPocit domova§!, který poskytuje\nStabilita: §G+10.00 %§!\nVálečná podpora: §G+10.00 %§!.§!\n"
+ AST_a_sense_of_place: "Pocit domova"
+ AST_a_sense_of_place_desc: "Národní identita je pouto, které drží lid pohromadě. Pod prosperující kulturou se Australané sjednotili, odhodlaní vzdorovat komukoli, kdo by mohl ohrozit jejich hranice."
+ AST_a_sense_of_place_upgraded: "Pocit domova"
+ AST_a_sense_of_place_upgraded_desc: "Národní identita, která kdysi tiše vzkvétala, získala tvrdší hranu. Už nejde jen o hrdost na zemi a způsob života — je to přesvědčení, že za to, co Austrálie vybudovala, stojí bojovat, a že muži a ženy žijící pod Jižním křížem jsou připraveni tak učinit."
+ AST_the_promise_of_nauru: "Příslib Nauru"
+ AST_the_promise_of_nauru_tt: "Účinky poté, co §Y[AST.GetName]§! dokončí dohodu:\n§YNauru§! se stane vlastněným a ovládaným územím §Y[GER.GetName]§!\n(§Y[GER.GetFlag][GER.GetName]§!) zaručí nezávislost §Y[AST.GetName]§!\n§Y[AST.GetName]§! se stane svobodnou"
+ AST_poor_population_growth: "Slabý populační růst"
+ AST_poor_population_growth_desc: "Když v roce 1929 udeřila velká hospodářská krize, australská porodnost prudce klesla. Spolu s úbytkem imigrace se populační růst od té doby jen obtížně zotavuje."
+ AST_british_intel_sharing: "Britské sdílení zpravodajských informací"
+ AST_the_pacific_garrison_1: "Pacifická posádka"
+ AST_the_pacific_garrison_2: "Pacifická posádka"
+ AST_the_pacific_garrison_eng: "Pacifická posádka"
+ AST_broken_hill_proprietary_company_ic_tt: "Účinky průmyslového koncernu §Y$AST_broken_hill_proprietary_company_ic$§! jsou vylepšeny"
+ AST_whyalla_steelworks_ic_tt: "Účinky průmyslového koncernu §Y$AST_whyalla_steelworks_ic$§! jsou vylepšeny"
+ AST_bradford_cotton_mills_ic_tt: "Účinky průmyslového koncernu §Y$AST_bradford_cotton_mills_ic$§! jsou vylepšeny"
+ AST_nationalizing_spirit: "Probíhající znárodnění"
+ AST_communist_ideals: "Komunistické ideály"
+ AST_war_is_coming_spirit: "Válka se blíží"
+ AST_war_is_coming_spirit_tt: "Upraví §Y$AST_war_is_coming_spirit$§! o:"
+ AST_british_war_cabinet_spirit: "Britský válečný kabinet"
+ AST_british_war_cabinet_spirit_tt: "Upraví §Y$AST_british_war_cabinet_spirit$§! o:"
+ AST_no_foreign_battlefields_spirit: "$AST_no_foreign_battlefields_idea_1$"
+ AST_no_foreign_battlefields_spirit_tt: "Upraví §Y$AST_no_foreign_battlefields_idea_1$§! o:"
+ AST_pacific_fleet_hub_spirit: "Uzel pacifické flotily"
+ AST_pacific_fleet_hub_spirit_tt: "Upraví §Y$AST_pacific_fleet_hub_spirit$§! o:"
+ AST_war_angst_spirit: "Válečná úzkost"
+ AST_war_angst_spirit_tt: "Upraví §Y$AST_war_angst_spirit$§! o:"
+ AST_strength_in_numbers_spirit: "Síla v počtech"
+ AST_strength_in_numbers_spirit_tt: "Upraví §Y$AST_strength_in_numbers_spirit$§! o:"
+ AST_eminent_successors_spirit: "Významní nástupci"
+ AST_eminent_successors_spirit_desc: "Jmenováním několika významných nástupců můžeme stabilizovat vládu a obnovit důvěru veřejnosti i našich ministrů."
+ AST_australia_first_spirit: "Austrálie především"
+ AST_australia_first_spirit_tt: "Upraví §Y$AST_australia_first_spirit$§! o:"
+ AST_imperial_pressure_spirit: "Imperiální nátlak"
+ AST_imperial_pressure_spirit_desc: "Kvůli nedávným událostem již nelze popírat, že se australská politika posouvá směrem nevhodným pro národ pod záštitou Britského Commonwealthu. [ENG.GetNameDefCap] se pokusí navést náš národ zpět na předurčenou cestu, ale nemusí zůstat trpělivý dlouho.\n\n§WBude odstraněno, jakmile §Y[AST.GetName]§! nebude subjektem §Y[ENG.GetNameDef]§!§!"
+ AST_imperial_pressure_spirit_tt: "Upraví §Y$AST_imperial_pressure_spirit$§! o:"
+ AST_imperial_pressure_spirit_remove_tt: "Odstraní §Y$AST_imperial_pressure_spirit$§!"
+ AST_great_depression_taog_spirit: "Velká hospodářská krize"
+ AST_referendum_aviation_idea: "Schválená letecká reforma"
+ AST_referendum_marketing_idea: "Schválená marketingová reforma"
+ AST_great_depression_taog_spirit_tt: "Upraví §Y$AST_great_depression_taog_spirit$§! o:"
+ AST_forging_australias_future_spirit: "Kování budoucnosti Austrálie"
+ AST_forging_australias_future_spirit_tt: "Upraví §Y$AST_forging_australias_future_spirit$§! o:"
+ AST_phosphate_commission: "Fosfátová komise"
+ AST_australian_military_forces_spirit: "Australské vojenské síly"
+ AST_australian_military_forces_spirit_tt: "Upraví §Y$AST_australian_military_forces_spirit$§! o:"
+ AST_citizen_army_spirit: "Občanská armáda"
+ AST_citizen_army_spirit_tt: "Upraví §Y$AST_citizen_army_spirit$§! o:"
+ AST_royal_australian_air_force_spirit: "Královské australské letectvo"
+ AST_royal_australian_air_force_spirit_tt: "Upraví §Y$AST_royal_australian_air_force_spirit$§! o:"
+ AST_royal_australian_navy_spirit: "Královské australské námořnictvo"
+ AST_royal_australian_navy_spirit_tt: "Upraví §Y$AST_royal_australian_navy_spirit$§! o:"
+ AST_strike_ongoing: "Probíhá stávka!"
+ AST_make_common_cause_idea: "Najít společnou věc"
+ AST_offshore_advancements_spirit: "Zámořský pokrok"
+ AST_standing_with_canberra_state_modifier: "Na straně Canberry"
+ AST_IRE_out_of_the_den_idea: "Ven z doupěte"
+ AST_ireland_anti_british_pact_offer_accept_later_tt: "Pokud [AST.GetName] dodrží svou část dohody, připojíme se k jejich frakci a zúčastníme se jejich války proti Británii, jakmile vyhlásí válku."
+ AST_IRE_stationed_troops_idea: "Umístěné jednotky"
+ AST_IRE_stationed_troops_idea_desc: "Náš aktuální počet umístěných jednotek je [?AST_IRE_stationed_troops_count_var|Y0]."
+ AST_scrap_iron_flotilla_taog_idea: "Flotila starého železa"
+ AST_cruising_for_a_bruising_idea: "Plavba za výpraskem"
+ AST_strike_from_down_under_idea: "Úder od protinožců"
+ AST_cabinet_trust_state_1_idea: "Velmi nízká důvěra kabinetu"
+ AST_cabinet_trust_state_1_tt: "§YVelmi nízká důvěra kabinetu§!\nZisk politické síly: §R-20 %§!\nStabilita: §R-30.00 %§!\nVálečná podpora: §R-15.00 %§!"
+ AST_cabinet_trust_state_2_idea: "Nízká důvěra kabinetu"
+ AST_cabinet_trust_state_2_tt: "§YNízká důvěra kabinetu§!\nZisk politické síly: §R-17 %§!\nStabilita: §R-25.00 %§!\nVálečná podpora: §R-12.00 %§!"
+ AST_cabinet_trust_state_3_idea: "Střední důvěra kabinetu"
+ AST_cabinet_trust_state_3_tt: "§YStřední důvěra kabinetu§!\nZisk politické síly: §R-15 %§!\nStabilita: §R-20.00 %§!\nVálečná podpora: §R-10.00 %§!"
+ AST_cabinet_trust_state_4_idea: "Vysoká důvěra kabinetu"
+ AST_cabinet_trust_state_4_tt: "§YVysoká důvěra kabinetu§!\nZisk politické síly: §R-12 %§!\nStabilita: §R-15.00 %§!\nVálečná podpora: §R-7.00 %§!"
+ AST_cabinet_trust_state_5_idea: "Velmi vysoká důvěra kabinetu"
+ AST_cabinet_trust_state_5_tt: "§YVelmi vysoká důvěra kabinetu§!\nZisk politické síly: §R-10 %§!\nStabilita: §R-10.00 %§!\nVálečná podpora: §R-5.00 %§!"
+ AST_cabinet_trust_effects_1: "[GET_AST_CABINET_TRUST_EFFECTS_1]"
+ AST_cabinet_trust_effects_2: "[GET_AST_CABINET_TRUST_EFFECTS_2]"
+ AST_cabinet_trust_effects_3: "[GET_AST_CABINET_TRUST_EFFECTS_3]"
+ AST_cabinet_trust_effects_4: "[GET_AST_CABINET_TRUST_EFFECTS_4]"
+ AST_cabinet_trust_effects_5: "[GET_AST_CABINET_TRUST_EFFECTS_5]"
+ NZL_railways_board: "Vládní železniční rada"
+ NZL_railways_board_desc: "Vládní železniční rada byla vytvořena v roce 1931 jako restrukturalizace železničního oddělení ve snaze oddělit rozhodování od vládních úřadů. Od jejího zřízení však není na železniční síti patrné téměř žádné zlepšení. Roste tlak na vládu, aby radu zrušila a převzala zpět přímou kontrolu."
+ NZL_great_depression: "Velká hospodářská krize"
+ NZL_great_depression_desc: "Kolaps světového hospodářství v roce 1929 zasáhl převážně zemědělské hospodářství Nového Zélandu velmi tvrdě. Jelikož země nakupovaly z Nového Zélandu méně produkce, mnoho lidí se ocitlo bez práce, což snížilo kupní sílu spotřebitelů a následně způsobilo kolaps dalších odvětví. Roky úsporných opatření zanechaly národ toužící po změně směru. "
+ NZL_commonwealth_loyalty: "Loajalita k Britskému Commonwealthu"
+ NZL_commonwealth_loyalty_desc: "Nový Zéland zůstává oddaným členem Britského Commonwealthu a uznává krále jako právoplatnou hlavu státu. Hospodářství Nového Zélandu je také silně integrováno do širšího imperiálního hospodářského systému."
+ NZL_national_coal_board_idea: "Národní uhelná rada"
+ NZL_ministry_of_public_works_dynamic_modifier: "Ministerstvo veřejných prací"
+ modify_NZL_ministry_of_public_works_dynamic_modifier_tt: "Upraví §Y$NZL_ministry_of_public_works_dynamic_modifier$§! o:"
+ ABDA_supreme_command: "Vrchní velení ABDACOM"
+ ABDA_supreme_command_desc: "Americko-britsko-nizozemsko-australské velení zavedlo jednotnou námořní doktrínu ve všech členských námořnictvech. S prohlubováním aliance sdílené zpravodajské informace, koordinované hlídkové úkoly a vzájemná logistická podpora postupně zlepšují bojovou efektivitu každé flotily, která pluje pod praporem ABDACOM."
+ modify_ABDA_supreme_command_tt: "Upraví §Y$ABDA_supreme_command$§! o:"

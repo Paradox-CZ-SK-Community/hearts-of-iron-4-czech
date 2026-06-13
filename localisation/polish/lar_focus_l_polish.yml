@@ -1019,6 +1019,14 @@
  POR_luso_tropicalism_desc: "Musíme uznat multikulturní povahu Portugalska od 15. století a zdůraznit národní jednotu - zapojit naše africké kolonie do území a udělit místnímu obyvatelstvu občanství. Odpůrci se najdou, ale musíme udělat to, co je správné pro lidi žijící na našich územích."
  POR_limited_self_rule: "Omezená samospráva"
  POR_limited_self_rule_desc: "Zvýšením autonomie našich afrických kolonií a umožněním vytvořit vlastní vládu se můžeme soustředit na naléhavější záležitosti. Tato dekolonizace nás může přiblížit demokraciím po celém světě."
+ POR_restart_investment_into_timor: "Obnovit investice do Timoru"
+ POR_restart_investment_into_timor_desc: "Timor byl během Velké hospodářské krize vnímán jako ekonomická zátěž, a od počátku krize se mu proto od nás dostávalo jen malé podpory a správy. Vzhledem k tomu, že v regionu investuje japonská rozvojová společnost  Nan'jó Kóhacu, možná nastal čas obnovit i naše vlastní investice."
+ POR_revert_the_local_autonomy_policies: "Zvrátit politiku místní autonomie"
+ POR_revert_the_local_autonomy_policies_desc: "Po povstání v Manufahi roku 1911 se naše koloniální politika vrátila k využívání domorodých vládců jako figur, přičemž opustila předchozí pokusy o hlubší integraci regionu. Možná bychom to měli zvrátit a přijmout multikulturalismus našeho státu."
+ POR_invest_in_sandalwood_and_coffee_production: "Investovat do produkce santálového dřeva a kávy"
+ POR_invest_in_sandalwood_and_coffee_production_desc: "Naše hlavní plantážní společnost v Timoru, SAPT, může z dalších vládních investic výrazně těžit. Pokud ji nyní podpoříme, její produkty nám mohou v blízké budoucnosti přinést značné výnosy."
+ POR_haven_of_neutrality_macau: "Macao, útočiště neutrality"
+ POR_haven_of_neutrality_macau_desc: "Díky našemu současnému neutrálnímu postoji a konfliktu, který právě zuří napříč Asií, se Macao v těchto bouřlivých časech stalo majákem naděje a stability. Měli bychom investovat do rozvoje této provincie."
  POR_infrastructure_in_angola: "Infrastruktura v Angole"
  POR_infrastructure_in_angola_desc: "Angola skrývá mnoho neprozkoumaného bohatství. Musíme rozvíjet infrastrukturu v regionu, abychom mohli její zdroje v budoucnu využít."
  POR_develop_north_angola: "Rozvíjet severní Angolu"
@@ -1284,11 +1292,3 @@
  FRA_carry_the_revolution_west_tt: "Udělí §YSvrhnout vládu§! jako válečný cíl proti §YŠpanělsku§! nebo jakýmkoli přeživším nekomunistickým frakcím španělské občanské války."
  nationalist_victory: "Nacionalistické Španělsko vyhrálo španělskou občanskou válku"
  republican_victory: "Republikánské Španělsko vyhrálo španělskou občanskou válku"
- POR_restart_investment_into_timor: "Obnovit investice do Timoru" # todo: NEW TRANSLATION
- POR_restart_investment_into_timor_desc: "Timor byl během Velké hospodářské krize považován za ekonomickou zátěž, a od počátku krize tak od nás dostával jen málo podpory či řízení. S japonskou společností Nan'yō Kōhatsu, která v regionu investuje, je možná čas obnovit i naše vlastní investice tam." # todo: NEW TRANSLATION
- POR_revert_the_local_autonomy_policies: "Zrušit politiku místní autonomie" # todo: NEW TRANSLATION
- POR_revert_the_local_autonomy_policies_desc: "Po povstání v Manufahi v roce 1911 se naše koloniální politika vrátila k používání domorodých vládců jako loutkových představitelů, čímž byly opuštěny předchozí pokusy o hlubší integraci regionu. Možná bychom to měli zvrátit a přijmout multikulturnost našeho státu." # todo: NEW TRANSLATION
- POR_invest_in_sandalwood_and_coffee_production: "Investovat do produkce santalového dřeva a kávy" # todo: NEW TRANSLATION
- POR_invest_in_sandalwood_and_coffee_production_desc: "Naše hlavní plantážní společnost na Timoru, SAPT, může z dodatečných státních investic výrazně profitovat. Pokud je nyní podpoříme, jejich produkty nám mohou v blízké budoucnosti přinést značné výnosy." # todo: NEW TRANSLATION
- POR_haven_of_neutrality_macau: "Macau, útočiště neutrality" # todo: NEW TRANSLATION
- POR_haven_of_neutrality_macau_desc: "S naším současným neutrálním postojem a konfliktem, který zuří po celé Asii, se Macau stalo majákem naděje a stability v těchto bouřlivých časech. Měli bychom investovat do rozšíření této provincie." # todo: NEW TRANSLATION

@@ -11,6 +11,7 @@
  MEN_stretched_administration_idea_3: "Kalganská politická rada"
  MEN_disorganized_army_idea: "Dezorganizovaná armáda"
  MEN_disorganized_army_idea_4: "Národní armáda Mengjiangu"
+ MON_income_from_hulunbuir_idea: "Příjem z [761.GetName]"
  JAP_imperial_influence_dm: "Císařský vliv"
  JAP_imperial_influence_dm_desc: "[GetImperialInfluenceRulerTitle] musí čelit různím frakcím v zemi, které soupeří o moc a vliv, tradicí sahající až k oligarchům a vojenským klikám založeným během éry Meidži a Taišó."
  JAP_imperial_influence_communist_dm: "Národní vliv"
@@ -948,4 +949,3 @@
  underdog_mentality_navy_spirit_desc: "Když to napoprvé nevyjde, torpédovat znovu."
  cult_of_heroism_army_spirit: "Kult hrdinství"
  cult_of_heroism_army_spirit_desc: "Od historie po současnost si vojáci i civilisté připomínají oběti svých druhů."
- MON_income_from_hulunbuir_idea: "Příjem z [761.GetName]"
