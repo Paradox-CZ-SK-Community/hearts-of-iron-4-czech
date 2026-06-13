@@ -112,10 +112,10 @@
  PLAN_EXECUTE_BLITZ_DESC: "§YBleskové§! bojové plány"
  PLAN_EXECUTE_MODE: "Režim provádění bojového plánu"
  CHANGE_TEMPLATE_UNIT: "Změnit šablonu divize"
- CLICK_TO_CHANGE_DIVISION: "§GKlikněte§! pro změnu šablony divize" # todo: NEW TRANSLATION
- HQ_LIST_ITEM_CLICK_TO_DEPLOY: "§GKlikněte§! pro nasazení s touto šablonou velení armády" # todo: NEW TRANSLATION
- HQ_LIST_ITEM_RIGHT_CLICK_TO_DESIGN: "§GKlikněte pravým tlačítkem§! pro otevření návrháře velení armády" # todo: NEW TRANSLATION
- HQ_LIST_ITEM_INSUFFICIENT_CP: "§RNedostatečná velitelská síla§! (£command_power $COST|H0$ vyžadováno)" # todo: NEW TRANSLATION
+ CLICK_TO_CHANGE_DIVISION: "§GKliknutím§! změníte šablonu divize"
+ HQ_LIST_ITEM_CLICK_TO_DEPLOY: "§GKliknutím§! nasadíte s touto šablonou Armádního velitelství"
+ HQ_LIST_ITEM_RIGHT_CLICK_TO_DESIGN: "§GPravým kliknutím§! otevřete návrhář Armádního velitelství"
+ HQ_LIST_ITEM_INSUFFICIENT_CP: "§RNedostatek velitelské síly§! (potřeba £command_power $COST|H0$)"
  ARMY_HQ_TEMPLATES: "Šablony Arm. velitelství"
  ARMY_HQ_TEMPLATES_TOGGLE_TOOLTIP: "§GKlikněte§! pro přepnutí seznamu §YŠablon Armádního velitelství§!, kde můžete prohlížet a spravovat šablony Armádních velitelství."
  ARMY_HQ_DESIGNER: "Návrhář Arm. velitelství"
@@ -289,12 +289,12 @@
  SERVICE_MANPOWER_HEADER: "Obslužný personál"
  anti_tank: "Protitanková podpůrní rota"
  anti_tank_desc: ""
- anti_tank_battery: "Protitanková baterie" # todo: NEW TRANSLATION
- anti_tank_battery_desc: "" # todo: NEW TRANSLATION
- anti_air: "Protiletadlová podpůrní rota"
+ anti_tank_battery: "Protitanková baterie"
+ anti_tank_battery_desc: ""
+ anti_air: "Podpůrná PVO"
  anti_air_desc: ""
- anti_air_battery: "Protiletadlová baterie" # todo: NEW TRANSLATION
- anti_air_battery_desc: "" # todo: NEW TRANSLATION
+ anti_air_battery: "Baterie PVO"
+ anti_air_battery_desc: ""
  artillery: "Dělostřelectvo"
  artillery_desc: ""
  rocket_artillery: "Podpůrné raketové dělostřelectvo"
@@ -321,14 +321,14 @@
  super_heavy_tank_destroyer_brigade_desc: "Supertěžký tankový podvozek s ještě větším kanónem ve stacionárním upevnění namísto věže."
  modern_tank_destroyer_brigade: "Moderní stíhač tanků"
  modern_tank_destroyer_brigade_desc: "Moderní tankový podvozek osazený mnohem silnějším kanónem namísto otočné věže."
- light_tank_destroyer_support: "Lehká podpora stíhačů tanků" # todo: NEW TRANSLATION
- medium_tank_destroyer_support: "Střední podpora stíhačů tanků" # todo: NEW TRANSLATION
- heavy_tank_destroyer_support: "Těžká podpora stíhačů tanků" # todo: NEW TRANSLATION
- modern_tank_destroyer_support: "Moderní podpora stíhačů tanků" # todo: NEW TRANSLATION
- light_sp_anti_air_support: "Lehká samohybná PVO podpora" # todo: NEW TRANSLATION
- medium_sp_anti_air_support: "Střední samohybná PVO podpora" # todo: NEW TRANSLATION
- heavy_sp_anti_air_support: "Těžká samohybná PVO podpora" # todo: NEW TRANSLATION
- modern_sp_anti_air_support: "Moderní samohybná PVO podpora" # todo: NEW TRANSLATION
+ light_tank_destroyer_support: "Podpora lehkých stíhačů tanků"
+ medium_tank_destroyer_support: "Podpora středních stíhačů tanků"
+ heavy_tank_destroyer_support: "Podpora těžkých stíhačů tanků"
+ modern_tank_destroyer_support: "Podpora moderních stíhačů tanků"
+ light_sp_anti_air_support: "Podpora lehké SH PVO"
+ medium_sp_anti_air_support: "Podpora střední SH PVO"
+ heavy_sp_anti_air_support: "Podpora těžké SH PVO"
+ modern_sp_anti_air_support: "Podpora moderní SH PVO"
  light_sp_anti_air_brigade: "Lehká samohybná PVO"
  medium_sp_anti_air_brigade: "Střední samohybná PVO"
  heavy_sp_anti_air_brigade: "Těžká samohybná PVO"
@@ -395,40 +395,40 @@
  field_hospital_desc: "Poskytuje nouzovou lékařskou pomoc zraněným vojákům v terénu."
  logistics_company: "Logistická rota"
  logistics_company_desc: "Zajišťuje plánování, požadavky a distribuci zásob pro potřeby divize."
- hq_support_company: "Štábní četa" # todo: NEW TRANSLATION
- hq_support_company_desc: "Specializovaná štábní četa, která administruje a pomáhá s aktivitami jednotky." # todo: NEW TRANSLATION
- hq_engineer: "Ženijní štáb" # todo: NEW TRANSLATION
- hq_engineer_desc: "Zabývá se otázkami opevnění a opatřeními pro mobilitu a omezení mobility." # todo: NEW TRANSLATION
- hq_recon: "Průzkumný štáb" # todo: NEW TRANSLATION
- hq_recon_desc: "Sbírá a analyzuje průzkumná data získaná z terénu." # todo: NEW TRANSLATION
- hq_military_police: "Štáb vojenské policie" # todo: NEW TRANSLATION
- hq_military_police_desc: "Udržuje místní pořádek a řídí přesuny divizí v oblasti operací armády." # todo: NEW TRANSLATION
- hq_maintenance: "Štáb plánování údržby" # todo: NEW TRANSLATION
- hq_maintenance_desc: "Plánuje a podporuje úsilí o údržbu a opravy na úrovni armády." # todo: NEW TRANSLATION
- hq_field_hospital: "Štáb skupiny nemocnic" # todo: NEW TRANSLATION
- hq_field_hospital_desc: "Zodpovídá za zdravotní správu a zajišťuje efektivní evakuaci a ošetření raněných v oblasti armády." # todo: NEW TRANSLATION
- hq_logistics: "Štáb logistiky a zásobování" # todo: NEW TRANSLATION
- hq_logistics_desc: "Určuje priority a přiděluje distribuci zásob a paliva v rámci armády." # todo: NEW TRANSLATION
- hq_signal: "Štáb spojení a zpravodajství" # todo: NEW TRANSLATION
- hq_signal_desc: "Koordinuje komunikační úsilí v rámci armády a zároveň sbírá a sleduje získané zpravodajské informace." # todo: NEW TRANSLATION
- hq_infantry: "Pěší zabezpečení velení" # todo: NEW TRANSLATION
- hq_infantry_desc: "Menší pěší prapor určený k ochraně velení." # todo: NEW TRANSLATION
- hq_motorized: "Motorové zabezpečení velení" # todo: NEW TRANSLATION
- hq_motorized_desc: "Pěchota v motorových vozidlech, umožňující rychlejší přesun velení." # todo: NEW TRANSLATION
- hq_paratrooper: "Výsadkové zabezpečení velení" # todo: NEW TRANSLATION
- hq_paratrooper_desc: "Umožňuje velení přímo se zapojit do vzdušně-výsadkové invaze a zároveň poskytuje dodatečnou ochranu." # todo: NEW TRANSLATION
- hq_light_armor: "Lehké obrněné zabezpečení velení" # todo: NEW TRANSLATION
- hq_light_armor_desc: "Obrněné prapory umožňují jednotce velení rychlejší pohyb a lepší přežití v boji, pokud to okolnosti vyžadují." # todo: NEW TRANSLATION
- hq_medium_armor: "Střední obrněné zabezpečení velení" # todo: NEW TRANSLATION
- hq_medium_armor_desc: "Obrněné prapory umožňují jednotce velení rychlejší pohyb a lepší přežití v boji, pokud to okolnosti vyžadují." # todo: NEW TRANSLATION
- hq_heavy_armor: "Těžké obrněné zabezpečení velení" # todo: NEW TRANSLATION
- hq_heavy_armor_desc: "Obrněné prapory umožňují jednotce velení rychlejší pohyb a lepší přežití v boji, pokud to okolnosti vyžadují." # todo: NEW TRANSLATION
- hq_naval_liaison: "Námořní spojka" # todo: NEW TRANSLATION
- hq_naval_liaison_desc: "Zajišťuje spolupráci armády a námořnictva během amfibických vylodění." # todo: NEW TRANSLATION
- hq_air_liaison: "Frontový letecký kontrolor" # todo: NEW TRANSLATION
- hq_air_liaison_desc: "Skupiny pro řízení vzdušně-pozemních operací a další jednotky pověřené zajištěním úzké spolupráce mezi letectvem a pozemními jednotkami, které podporují." # todo: NEW TRANSLATION
- hq_specops: "Koordinace speciálních operací" # todo: NEW TRANSLATION
- hq_specops_desc: "Štábní oddělení pro plánování a koordinaci operací speciálních sil." # todo: NEW TRANSLATION
+ hq_support_company: "Štáb velitelství"
+ hq_support_company_desc: "Vyhrazená štábní rota velitelství, která spravuje a podporuje činnost jednotky."
+ hq_engineer: "Ženijní štáb"
+ hq_engineer_desc: "Zabývá se otázkami opevnění a opatřeními pro pohyblivost a protipohyblivost."
+ hq_recon: "Průzkumný štáb"
+ hq_recon_desc: "Shromažďuje a analyzuje průzkumná data získaná z pole."
+ hq_military_police: "Štáb vojenské policie"
+ hq_military_police_desc: "Udržuje místní pořádek a řídí přesuny divizí v operační oblasti armády."
+ hq_maintenance: "Štáb plánování údržby"
+ hq_maintenance_desc: "Plánuje a podporuje údržbu a opravy na úrovni armády."
+ hq_field_hospital: "Štáb zdravotnické skupiny"
+ hq_field_hospital_desc: "Odpovídá za zdravotnickou správu a zajišťuje efektivní evakuaci a ošetření raněných v prostoru armády."
+ hq_logistics: "Štáb logistiky a služeb"
+ hq_logistics_desc: "Určuje priority a přiděluje distribuci zásob a paliva v rámci armády."
+ hq_signal: "Spojovací a zpravodajský štáb"
+ hq_signal_desc: "Koordinuje spojení v rámci armády a zároveň shromažďuje a sleduje získané zpravodajské informace."
+ hq_infantry: "Pěší zabezpečení velitelství"
+ hq_infantry_desc: "Menší pěší prapor vyhrazený k zabezpečení velitelství."
+ hq_motorized: "Motorizované zabezpečení velitelství"
+ hq_motorized_desc: "Pěchota v motorizovaných vozidlech, která umožňuje rychlejší přesun velitelství."
+ hq_paratrooper: "Výsadkové zabezpečení velitelství"
+ hq_paratrooper_desc: "Umožňuje velitelství přímo se zapojit do vzdušné invaze a zároveň poskytuje dodatečné zabezpečení."
+ hq_light_armor: "Lehké obrněné zabezpečení velitelství"
+ hq_light_armor_desc: "Obrněné prapory umožňují jednotce velitelství rychlejší pohyb v poli a delší přežití v boji, pokud si to okolnosti vyžádají."
+ hq_medium_armor: "Střední obrněné zabezpečení velitelství"
+ hq_medium_armor_desc: "Obrněné prapory umožňují jednotce velitelství rychlejší pohyb v poli a delší přežití v boji, pokud si to okolnosti vyžádají."
+ hq_heavy_armor: "Těžké obrněné zabezpečení velitelství"
+ hq_heavy_armor_desc: "Obrněné prapory umožňují jednotce velitelství rychlejší pohyb v poli a delší přežití v boji, pokud si to okolnosti vyžádají."
+ hq_naval_liaison: "Námořní styčný štáb"
+ hq_naval_liaison_desc: "Zajišťuje společnou spolupráci armády a námořnictva během obojživelných vyloďovacích operací."
+ hq_air_liaison: "Předsunutý letecký návodčí"
+ hq_air_liaison_desc: "Letecko-pozemní naváděcí skupiny a další jednotky pověřené zajištěním úzké spolupráce mezi letectvem a pozemními jednotkami, které podporuje."
+ hq_specops: "Koordinace speciálních operací"
+ hq_specops_desc: "Štábní oddělení pro plánování a koordinaci operací speciálních sil."
  military_police: "Vojenská policie"
  military_police_desc: "Udržuje pořádek a potlačuje odboj v okupovaných územích."
  signal_company: "Spojovací rota"
@@ -445,14 +445,14 @@
  amphibious_medium_armor_desc: "Prapor středních tanků schopných obojživelných operací."
  amphibious_heavy_armor: "Těžký obojživelný tankový prapor"
  amphibious_heavy_armor_desc: "Prapor těžkých tanků schopných obojživelných operací."
- fire_support: "Četa těžkých zbraní" # todo: NEW TRANSLATION
- fire_support_desc: "Těžké kulomety, lehké minomety a další těžké zbraně, které mohou podporovat pěchotní operace." # todo: NEW TRANSLATION
- mot_fire_support: "Motorová četa těžkých zbraní" # todo: NEW TRANSLATION
- mot_fire_support_desc: "Motorování čety těžkých zbraní, umožňující větší mobilitu a využití průlomů." # todo: NEW TRANSLATION
- field_guns: "Pěchotní děla" # todo: NEW TRANSLATION
- field_guns_desc: "Přenosné minomety a lehčí dělostřelecké kusy, které poskytují nepřímou palebnou podporu pěchotě." # todo: NEW TRANSLATION
- rocket_battery: "Pluková raketová baterie" # todo: NEW TRANSLATION
- rocket_battery_desc: "Raketové dělostřelectvo pro podporu na plukové úrovni." # todo: NEW TRANSLATION
+ fire_support: "Rota těžkých zbraní"
+ fire_support_desc: "Těžké kulomety, lehké minomety a další těžké zbraně, které mohou podporovat pěší operace."
+ mot_fire_support: "Motorizovaná rota těžkých zbraní"
+ mot_fire_support_desc: "Motorizace roty těžkých zbraní, která umožňuje větší pohyblivost a využití průlomu."
+ field_guns: "Pěchotní děla"
+ field_guns_desc: "Přepravitelné minomety a lehčí dělostřelecké zbraně poskytující pěchotě nepřímou palebnou podporu."
+ rocket_battery: "Plukovní raketová baterie"
+ rocket_battery_desc: "Raketové dělostřelectvo pro podporu na plukovní úrovni."
  UNIT_LEADER_TRAITS: "Podrobnosti"
  UNIT_LEADER_PROMOTE: "Povýšit"
  UNIT_LEADER_PROMOTE_WITH_COST: "Povýšit £command_power $CP|2R$"
@@ -469,7 +469,7 @@
  PLAN_PREPARATION_FACTOR: "Bonus k útoku za přípravu plánu: $VALUE|0+%$"
  PLAN_PREPARATION_CHANGE: "Příprava se každý den zvýší o $VALUE|1Y%$."
  PLAN_PREPARATION_DECREASE: "Příprava klesá o $VALUE|1R%$ každý den."
- PLAN_PREPARATION_HQ_DESC: "§RDivize musí být v armádě s nasazeným velením armády, aby zvýšila přípravu plánu.§!" # todo: NEW TRANSLATION
+ PLAN_PREPARATION_HQ_DESC: "§RDivize musí být v armádě s nasazeným Armádním velitelstvím, aby mohla zrychlit svou přípravu plánu.§!"
  PLAN_PREPARATION_DESC: "Jednotky na výchozí pozici plánu začnou získávat bonus za přípravu. Jakmile začnou bojovat podle plánu nebo se odtáhnou, tento bonus začne klesat."
  SELECT_HALF_DIVISIONS: "§TVyberte polovinu současných divizí§!"
  HOLD_DIVISIONS: "§TZastavit divize.§!"
@@ -521,8 +521,8 @@
  category_all_infantry: "Všechny pěchoty a mot/mech"
  category_front_line: "Všechny frontové prapory"
  category_support_battalions: "Podpůrné roty"
- category_divisional_support_battalions: "Divizní podpůrné čety" # todo: NEW TRANSLATION
- category_regimental_support_battalions: "Plukové podpůrné čety" # todo: NEW TRANSLATION
+ category_divisional_support_battalions: "Divizní podpůrné roty"
+ category_regimental_support_battalions: "Plukovní podpůrné roty"
  category_all_armor: "Tanky a varianty obrněných vozidel"
  category_tanks: "Tanky"
  category_army: "Armáda"
@@ -585,8 +585,8 @@
  CAN_NOT_PARADROP_BATALION: "$AMOUNT|H$ praporů typu $BATALION|H$ nelze shodit padákem."
  CAN_PARADROP_TEMPLATE: "Divize používající tuto šablonu §Rlze§! shodit padákem."
  CAN_NOT_PARADROP_TEMPLATE: "Divize používající tuto šablonu §Rnelze§! shodit padákem."
- ALLOW_AS_HQ_TEMPLATE: "Tato šablona §GMŮŽE§! být použita jako šablona velení armády." # todo: NEW TRANSLATION
- NOT_ALLOW_AS_HQ_TEMPLATE: "Tato šablona §RNEMŮŽE§! být použita jako šablona velení armády." # todo: NEW TRANSLATION
+ ALLOW_AS_HQ_TEMPLATE: "Tuto šablonu §GLZE§! použít jako šablonu Armádního velitelství."
+ NOT_ALLOW_AS_HQ_TEMPLATE: "Tuto šablonu §RNELZE§! použít jako šablonu Armádního velitelství."
  BATALION_CAN_BE_PARCHUTED: "Tento prapor §Glze§! shodit padákem."
  BATALION_CAN_NOT_BE_PARCHUTED: "Tento prapor §Rnelze§! shodit padákem."
  NAV_AIR_SUPERIORITY: "Naše vzdušná nadvláda zvyšuje vliv našeho počtu lodí o: $VALUE|%G=$"
@@ -643,7 +643,7 @@
  CLICK_TO_SHOW_ARMIES: "Klikněte na §HZobrazit§! armády patřící této skupině.\n"
  TOGGLE_ARMY_GROUP_VIEW_ARMIES_DIVISIONS: "Přepnout mezi zobrazením armád nebo divizí v této armádní skupině."
  DIVISION_VIEW_SELECT_ARMY: "§GKlikněte§! pro výběr armády z této divize."
- CAPTAIN_VIEW_SELECT_TASK_FORCE: "§GKlikněte§! pro výběr úderné skupiny této lodi" # todo: NEW TRANSLATION
+ CAPTAIN_VIEW_SELECT_TASK_FORCE: "GKlikněte§! pro výběr úderné skupiny této lodi"
  NEW_FLEET_NAME: "Nová flotila"
  CREATE_FLEET_FROM_SELECTED_TASK_FORCES: "§GKlikněte§! pro vytvoření nové flotily ze vybraných úderných skupin."
  CANNOT_CREATE_FLEET_FROM_SELECTED_TASK_FORCES: "§RNelze vytvořit flotilu z aktuálního výběru§!"
@@ -658,18 +658,18 @@
  rudder_jammed: "Zaseknuté kormidlo"
  ballast_tanks_inoperable: "Nefunkční balastní nádrže"
  damaged_secondaries: "Vedlejší děla vyřazena"
- leaking_pressure_hull: "Protékající tlakový trup" # todo: NEW TRANSLATION
- battery_leak: "Protékající baterie" # todo: NEW TRANSLATION
- jammed_torpedo: "Zasekaná torpédová tuba" # todo: NEW TRANSLATION
- broken_diesel: "Poškozené dieselové motory" # todo: NEW TRANSLATION
- broken_bilge_pump: "Poškozené čerpadlo k odčerpávání vody" # todo: NEW TRANSLATION
- shortcircuited_radar_1: "Zkrat v radaru" # todo: NEW TRANSLATION
- shortcircuited_radar_2: "$shortcircuited_radar_1$" # todo: NEW TRANSLATION
- shortcircuited_radar_3: "$shortcircuited_radar_1$" # todo: NEW TRANSLATION
- shortcircuited_radar_4: "$shortcircuited_radar_1$" # todo: NEW TRANSLATION
- leaking_fuel_tanks: "Protékající palivové nádrže" # todo: NEW TRANSLATION
- coolant_loss: "Únik chladicí kapaliny reaktoru" # todo: NEW TRANSLATION
- fire_direction_breakdown: "Porucha řízení palby" # todo: NEW TRANSLATION
+ leaking_pressure_hull: "Netěsný tlakový trup"
+ battery_leak: "Netěsná baterie"
+ jammed_torpedo: "Zaseknutý torpédomet"
+ broken_diesel: "Poškozené dieselové motory"
+ broken_bilge_pump: "Poškozené drenážní čerpadlo"
+ shortcircuited_radar_1: "Zkratovaný radar"
+ shortcircuited_radar_2: "$shortcircuited_radar_1$"
+ shortcircuited_radar_3: "$shortcircuited_radar_1$"
+ shortcircuited_radar_4: "$shortcircuited_radar_1$"
+ leaking_fuel_tanks: "Netěsné palivové nádrže"
+ coolant_loss: "Únik chladiva z reaktoru"
+ fire_direction_breakdown: "Porucha řízení palby"
  CONFIRM_DISBAND_FLEET_TITLE: "Rozpustit flotilu"
  CONFIRM_DISBAND_FLEET_DESC: "Jste si jisti, že chcete §YROZPUSTIT§! flotilu $NAME|H$?\n\nVšechny úderné skupiny budou převedeny do rezervy."
  division_list_army_column_button_tooltip: "§GKlikněte§! pro seřazení divizí podle §Harmád§!.\n§GShift + Klikněte§! pro seřazení v opačném pořadí."
@@ -706,7 +706,7 @@
  category_paratroopers: "Všichni výsadkáři"
  category_marines: "Všechna námořní pěchota"
  category_rangers: "Všichni Hraničáři"
- category_marines_and_amphibious: "Všechny jednotky námořní pěchoty a amfibické jednotky" # todo: NEW TRANSLATION
+ category_marines_and_amphibious: "Všichni mariňáci a obojživelné jednotky"
  rangers_support: "Průzkumní hraničáři"
  rangers_support_desc: "Průzkumní hraničáři jsou elitní lehké jednotky, specializované na infiltraci, průzkum a boj zblízka."
  ranger_battalion: "Hraničáři"
@@ -738,8 +738,8 @@
  SF_marine_demoliton_effect_TT: "Výsadkové komando způsobí §H1§! úroveň poškození všem strategickým státním budovám po každé úspěšné námořní invazi."
  marines_commandoes_mechanised_non_mtg: "Specializovaný výcvik"
  marines_commandoes_mechanised_non_mtg_desc: "Posilme naše elitní jednotky speciálních sil, i když to omezí jejich univerzální využití."
- northern_territory_recon_support: "Průzkumná jednotka Severního teritoria" # todo: NEW TRANSLATION
- northern_territory_recon_support_desc: "Díky místní znalosti a dovednostem přežití v buši dohlíží průzkumná jednotka Severního teritoria i na nejodlehlejší a nejnehostinnější oblasti." # todo: NEW TRANSLATION
+ northern_territory_recon_support: "Průzkumná jednotka Severního teritoria"
+ northern_territory_recon_support_desc: "Díky místní znalosti a zálesáckým dovednostem sleduje Průzkumná jednotka Severního teritoria i ta nejodlehlejší a nejnehostinnější území."
  winter_logistics_support: "Zimní logistická rota"
  winter_logistics_support_desc: "Zajištění odpovídající výstroje pro pěchotu k boji v zimních podmínkách."
  long_range_patrol_support: "Dálkově průzkumná rota"
@@ -754,9 +754,9 @@
  category_self_propelled_artillery: "Samohybné dělostřelectvo"
  category_self_propelled_anti_air: "Samohybná protiletadlová děla"
  category_helicopter_support_companies: "Podpůrné roty s vrtulníky"
- category_tank_destroyer_regimental_support: "Pluková podpora stíhačů tanků" # todo: NEW TRANSLATION
- category_self_propelled_anti_air_regimental_support: "Pluková podpora samohybných protiletadlových jednotek" # todo: NEW TRANSLATION
- category_regimental_support_artillery: "Pěchotní děla a raketová baterie" # todo: NEW TRANSLATION
+ category_tank_destroyer_regimental_support: "Plukovní podpora stíhačů tanků"
+ category_self_propelled_anti_air_regimental_support: "Plukovní podpora samohybné PVO"
+ category_regimental_support_artillery: "Pěchotní děla a raketová baterie"
  jungle_pioneers_support: "Džunglová ženijní rota"
  sturmtruppe_battalion: "Prapor Sturmtruppen"
  sturmtruppe_battalion_desc: "Elitní pěší jednotky vycvičené a vyzbrojené pro činnost útočných praporů nasazovaných v rámci běžných divizí."

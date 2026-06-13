@@ -123,38 +123,38 @@
  the_coast_is_clear_tt: "Jako [CHI.GetNonIdeologyName] nikdy neztrať počáteční pobřežní stát před 2. zářím 1945"
  paradisus_paradoxum_tt: "Jako [JAP.GetNonIdeologyName] vyhlas vytvoření Čisté buddhistické země"
  an_equivalent_exchange_tt: "Jako demokratické [JAP.GetNonIdeologyName] dokonči zaměření $JAP_democratic_foreign_exchange_allocation_policy$ a kapituluj fašistické [GER.GetNonIdeologyName]"
- the_juannines_tt: "Jako [PHI.GetNonIdeologyName], ovládej a měj domovské nároky ve všech [SPR.GetAdjective] domovských státech v Evropě" # todo: NEW TRANSLATION
+ the_juannines_tt: "Jako [PHI.GetNonIdeologyName] ovládejte všechny [SPR.GetAdjective] domovské státy v Evropě a udělejte z nich své domovské území"
  declare_military_emergency_tt: "Jako [PHI.GetNonIdeologyName] měj $PHI_military_emergency_flag$"
- cobalt_sea_tt: "Jako [PHI.GetNonIdeologyName] proveď úspěšný jaderný nebo termonukleární nájezd z ponorky"
+ cobalt_sea_tt: "Jako [PHI.GetNonIdeologyName] proveď úspěšný jaderný nebo termonukleární úder z ponorky"
  the_neverending_story_tt: "Jako Militarista kontroluj všechna počáteční domovská území Číny a obnov Čínskou říši"
  doctrine_of_choice_tt: "Dokončil tři dílčí doktríny ve stejné větvi"
  achievement_bought_cze_weapons: "Zakoupil československé zbraně pomocí rozhodnutí $CZE_skoda_focus_category$"
  CZE_capitulated_germany: "Německo kapitulovalo"
- i_didnt_hear_no_bell_tt: "Stal se $CZE_second_republic_democratic$"
- walzing_matilda_tt: "Jako [AST.GetNonIdeologyName], měj 25 nasazených těžkých tankových praporů" # todo: NEW TRANSLATION
- hunt_for_the_desert_fox_tt: "Zajmi $GER_erwin_rommel$" # todo: NEW TRANSLATION
- right_side_up_tt: "Jako [AST.GetNonIdeologyName], získej a ovládej [914.GetName]" # todo: NEW TRANSLATION
- maphilindia_tt: "Jako [PHI.GetNonIdeologyName] nebo [INS.GetNonIdeologyName], založ Maphilindo a získej všechna počáteční území [RAJ.GetNonIdeologyName]" # todo: NEW TRANSLATION
- old_zealand_tt: "Jako [NZL.GetNonIdeologyName], získej a ovládej [35.GetName] a [37.GetName]" # todo: NEW TRANSLATION
- thaitanic_tt: "Potop loď třídy Pride of the Fleet patřící [SIA.GetNonIdeologyName]" # todo: NEW TRANSLATION
- thaifighters_tt: "Jako [SIA.GetNonIdeologyName], získej 10 es" # todo: NEW TRANSLATION
- hail_to_the_king_tt: "Jako [SIA.GetNonIdeologyName], dokonči zaměření Greater Thai Empire, zatímco $SIA_ananda_mahidol$ je mladší než 15 let" # todo: NEW TRANSLATION
- java_script_tt: "Jako [INS.GetNonIdeologyName], prozkoumej pokročilý výpočetní stroj, když máš hlavní město na Jávě" # todo: NEW TRANSLATION
- a_succulent_chinese_meal_tt: "Jako [AST.GetNonIdeologyName], získej a ovládej libovolný [CHI.GetNonIdeologyName] domovský stát" # todo: NEW TRANSLATION
- the_7th_state_tt: "Jako [AST.GetNonIdeologyName], získej a ovládej celé území [NZL.GetNonIdeologyName]" # todo: NEW TRANSLATION
- et_tu_paulus_tt: "Zajmi nepřátelského polního maršála" # todo: NEW TRANSLATION
- from_rags_to_admiral_stripes_tt: "Povýš kapitána lodi na admirála" # todo: NEW TRANSLATION
- the_man_of_medan_tt: "Jako [INS.GetNonIdeologyName], znič §Y100§! konvojů" # todo: NEW TRANSLATION
- no_one_will_notice_the_difference_tt: "Jako [INS.GetNonIdeologyName], měj $INS_gustav_adolf_ilgen$ nasazeného v [141.GetName]" # todo: NEW TRANSLATION
- anzac_tt: "Jako [AST.GetNonIdeologyName] nebo [NZL.GetNonIdeologyName], měj generála nasazeného v [GRE.GetNonIdeologyName] domovském státě k 1. lednu 1945 a zajisti, aby [GRE.GetNonIdeologyName] nekapitulovala." # todo: NEW TRANSLATION
- a_bridge_too_far_tt: "Jako [ENG.GetNonIdeologyName], získej [VICTORY_POINTS_9498] zatímco je tam nasazen $ENG_bernard_montgomery$" # todo: NEW TRANSLATION
- saving_private_bryansk_tt: "Zajmi nepřátelského generála v [224.GetName]" # todo: NEW TRANSLATION
- achievement_captured_a_field_marshal: "Zajali jste nepřátelského polního maršála" # todo: NEW TRANSLATION
- achievement_captured_rommel: "Zajali jste $GER_erwin_rommel$" # todo: NEW TRANSLATION
- achievement_thaitanic: "Potopili jste loď třídy Pride of the Fleet patřící [SIA.GetNonIdeologyName]" # todo: NEW TRANSLATION
- achievement_navy_promoted_from_ranks: "Povýšili jste kapitána lodi na admirála" # todo: NEW TRANSLATION
- achievement_anzac_failed: "[GRE.GetNonIdeologyName] kapitulovala před 1. lednem 1945" # todo: NEW TRANSLATION
- achievement_a_bridge_too_far: "Získali jste [VICTORY_POINTS_9498] zatímco tam byl nasazen $ENG_bernard_montgomery$" # todo: NEW TRANSLATION
- achievement_captured_general_in_bryansk: "Zajali jste nepřátelského generála v [224.GetName]" # todo: NEW TRANSLATION
- grand_siam_tt: "Jako [SIA.GetNonIdeologyName], kapitulujte §Y4§! národů během jednoho roku" # todo: NEW TRANSLATION
- achievement_grand_siam: "Donutili jste §Y4§! národů kapitulovat během jednoho roku jako [SIA.GetNonIdeologyName]" # todo: NEW TRANSLATION
+ i_didnt_hear_no_bell_tt: "Je znám jako $CZE_second_republic_democratic$"
+ walzing_matilda_tt: "Jako [AST.GetNonIdeologyName] mějte nasazeno 25 praporů těžkých tanků"
+ hunt_for_the_desert_fox_tt: "Zajměte $GER_erwin_rommel$a"
+ right_side_up_tt: "Jako [AST.GetNonIdeologyName] vlastněte a ovládejte [914.GetName]"
+ maphilindia_tt: "Jako [PHI.GetNonIdeologyName] nebo [INS.GetNonIdeologyName] vytvořte Maphilindo a vlastněte všechny počáteční státy [RAJ.GetNonIdeologyName]"
+ old_zealand_tt: "Jako [NZL.GetNonIdeologyName] vlastněte a ovládejte [35.GetName] a [37.GetName]"
+ thaitanic_tt: "Potopte chloubu flotily, kterou má [SIA.GetNonIdeologyName]"
+ thaifighters_tt: "Jako [SIA.GetNonIdeologyName] vyprodukujte 10 es"
+ hail_to_the_king_tt: "Jako [SIA.GetNonIdeologyName] dokončete zaměření $SIA_the_greater_thai_empire$, zatímco má $SIA_ananda_mahidol$ méně než 15 let"
+ java_script_tt: "Jako [INS.GetNonIdeologyName] vyzkoumejte pokročilý výpočetní stroj s hlavním městem na Jávě"
+ a_succulent_chinese_meal_tt: "Jako [AST.GetNonIdeologyName] vlastněte a ovládejte libovolný [CHI.GetAdjective] domovský stát"
+ the_7th_state_tt: "Jako [AST.GetNonIdeologyName] vlastněte a ovládejte celý [NZL.GetNonIdeologyName]"
+ et_tu_paulus_tt: "Zajměte nepřátelského polního maršála"
+ from_rags_to_admiral_stripes_tt: "Povyšte lodního kapitána na admirála"
+ the_man_of_medan_tt: "Jako [INS.GetNonIdeologyName] zničte §Y100§! konvojů"
+ no_one_will_notice_the_difference_tt: "Jako [INS.GetNonIdeologyName] mějte $INS_gustav_adolf_ilgen$ nasazeného v [141.GetName]"
+ anzac_tt: "Jako [AST.GetNonIdeologyName] nebo [NZL.GetNonIdeologyName] mějte 1. ledna 1945 generála nasazeného v [GRE.GetAdjective] domovském státě a zajistěte, aby [GRE.GetNonIdeologyName] nekapitulovalo."
+ a_bridge_too_far_tt: "Jako [ENG.GetNonIdeologyName] dobyjte [VICTORY_POINTS_9498], zatímco je tam nasazen $ENG_bernard_montgomery$"
+ saving_private_bryansk_tt: "Zajměte nepřátelského generála v [224.GetName]"
+ achievement_captured_a_field_marshal: "Zajat nepřátelský polní maršál"
+ achievement_captured_rommel: "Zajat $GER_erwin_rommel$"
+ achievement_thaitanic: "Potopena chlouba flotily, kterou vlastní [SIA.GetNonIdeologyName]"
+ achievement_navy_promoted_from_ranks: "Lodní kapitán povýšen na admirála"
+ achievement_anzac_failed: "[GRE.GetNonIdeologyName] kapitulovalo před 1. lednem 1945"
+ achievement_a_bridge_too_far: "[VICTORY_POINTS_9498] dobyt, zatímco tam byl nasazen $ENG_bernard_montgomery$"
+ achievement_captured_general_in_bryansk: "Zajat nepřátelský generál v [224.GetName]"
+ grand_siam_tt: "Jako [SIA.GetNonIdeologyName] donuťte §Y4§! národy do jednoho roku kapitulovat"
+ achievement_grand_siam: "§Y4§! národy donuceny do jednoho roku kapitulovat jako [SIA.GetNonIdeologyName]"

@@ -10,16 +10,16 @@
  INS_HOL_FLAG_DEF: "$INS_HOL_DEF$"
  INS_HOL_FLAG_autonomy_dominion: "$INS_HOL_autonomy_dominion$"
  INS_HOL_FLAG_autonomy_dominion_DEF: "$INS_HOL_autonomy_dominion_DEF$"
- INS_aslia: "Aslia" # todo: NEW TRANSLATION
- INS_aslia_DEF: "Federace Aslie" # todo: NEW TRANSLATION
- INS_aslia_ADJ: "aslij." # todo: NEW TRANSLATION
- INS_aslia_communism: "Aslia" # todo: NEW TRANSLATION
- INS_aslia_communism_DEF: "Federace Aslie" # todo: NEW TRANSLATION
- INS_aslia_communism_ADJ: "aslij." # todo: NEW TRANSLATION
- INS_UNION: "Svaz Nizozemska a Indonésie" # todo: NEW TRANSLATION
- INS_UNION_DEF: "Svaz Nizozemska a Indonésie" # todo: NEW TRANSLATION
- INS_REP_UNION: "Spojené státy Indonésie" # todo: NEW TRANSLATION
- INS_REP_UNION_DEF: "Spojené státy Indonésie" # todo: NEW TRANSLATION
+ INS_aslia: "Aslie"
+ INS_aslia_DEF: "Federace Aslie"
+ INS_aslia_ADJ: "aslij."
+ INS_aslia_communism: "Aslie"
+ INS_aslia_communism_DEF: "Federace Aslie"
+ INS_aslia_communism_ADJ: "aslij."
+ INS_UNION: "Nizozemsko-indonéská unie"
+ INS_UNION_DEF: "Nizozemsko-indonéská unie"
+ INS_REP_UNION: "Spojené státy indonéské"
+ INS_REP_UNION_DEF: "Spojené státy indonéské"
  INS_subject: "$OVERLORDADJ$ Východní Indie"
  INS_subject_DEF: "$OVERLORDADJ$ Východní Indie"
  COG_subject: "$OVERLORDADJ$ Kongo"
@@ -2337,17 +2337,18 @@
  AFG_second_empire_fascism: "Druhá afghánská říše"
  AFG_second_empire_fascism_ADJ: "afghán."
  AFG_second_empire_fascism_DEF: "Druhá afghánská říše"
- HND_UNIFIED_neutrality: "Hindustán" # todo: NEW TRANSLATION
- HND_UNIFIED_neutrality_DEF: "Hindustán" # todo: NEW TRANSLATION
- HND_UNIFIED_fascism: "Hindustánské císařství" # todo: NEW TRANSLATION
- HND_UNIFIED_fascism_DEF: "Hindustánské císařství" # todo: NEW TRANSLATION
- HND_UNIFIED_democratic: "Hindustánská federace" # todo: NEW TRANSLATION
- HND_UNIFIED_democratic_DEF: "Hindustánská federace" # todo: NEW TRANSLATION
- HND_UNIFIED_communism: "Hindustánská unie" # todo: NEW TRANSLATION
- HND_UNIFIED_communism_DEF: "Hindustánská unie" # todo: NEW TRANSLATION
+ HND_UNIFIED_neutrality: "Hindustán"
+ HND_UNIFIED_neutrality_DEF: "Hindustán"
+ HND_UNIFIED_fascism: "Hindustánská říše"
+ HND_UNIFIED_fascism_DEF: "Hindustánská říše"
+ HND_UNIFIED_democratic: "Hindustánská federace"
+ HND_UNIFIED_democratic_DEF: "Hindustánská federace"
+ HND_UNIFIED_communism: "Hindustánská unie"
+ HND_UNIFIED_communism_DEF: "Hindustánská unie"
  HND_UNIFIED_communism_ADJ: "hindustán."
- HND_UNIFIED_democratic_ADJ: "Hindustánský" # todo: NEW TRANSLATION
- HND_UNIFIED_neutrality_ADJ: "Hindustánský" # todo: NEW TRANSLATION
+ HND_UNIFIED_democratic_ADJ: "hindustán."
+ HND_UNIFIED_neutrality_ADJ: "hindustán."
+ HND_UNIFIED_fascism_ADJ: "hindustán."
  HND_UNIFIED_fascism_ADJ: "hindustán."
  BEL_greater_netherlands: "Dietsland"
  BEL_greater_netherlands_DEF: "Dietsland"
@@ -3056,18 +3057,18 @@
  PHI_maphilindo_tag_fascism: "Malajská říše"
  PHI_maphilindo_tag_fascism_DEF: "Malajská říše"
  PHI_maphilindo_tag_fascism_ADJ: "malaj."
- INS_maphilindo_democratic: "Federace Malajských národů" # todo: NEW TRANSLATION
- INS_maphilindo_democratic_DEF: "Federace Malajských národů" # todo: NEW TRANSLATION
- INS_maphilindo_democratic_ADJ: "malaj." # todo: NEW TRANSLATION
- INS_maphilindo_communism: "Unie Malajských národů" # todo: NEW TRANSLATION
- INS_maphilindo_communism_DEF: "Unie Malajských národů" # todo: NEW TRANSLATION
- INS_maphilindo_communism_ADJ: "malaj." # todo: NEW TRANSLATION
- INS_maphilindo_neutrality: "Federace Malajských národů" # todo: NEW TRANSLATION
- INS_maphilindo_neutrality_DEF: "Federace Malajských národů" # todo: NEW TRANSLATION
- INS_maphilindo_neutrality_ADJ: "malaj." # todo: NEW TRANSLATION
- INS_maphilindo_fascism: "Malajská říše" # todo: NEW TRANSLATION
- INS_maphilindo_fascism_DEF: "Malajská říše" # todo: NEW TRANSLATION
- INS_maphilindo_fascism_ADJ: "malaj." # todo: NEW TRANSLATION
+ INS_maphilindo_democratic: "Federace malajských národů"
+ INS_maphilindo_democratic_DEF: "Federace malajských národů"
+ INS_maphilindo_democratic_ADJ: "malaj."
+ INS_maphilindo_communism: "Svaz malajských národů"
+ INS_maphilindo_communism_DEF: "Svaz malajských národů"
+ INS_maphilindo_communism_ADJ: "malaj."
+ INS_maphilindo_neutrality: "Federace malajských národů"
+ INS_maphilindo_neutrality_DEF: "Federace malajských národů"
+ INS_maphilindo_neutrality_ADJ: "malaj."
+ INS_maphilindo_fascism: "Malajská říše"
+ INS_maphilindo_fascism_DEF: "Malajská říše"
+ INS_maphilindo_fascism_ADJ: "malaj."
  PHI_asean_tag: "Sdružení národů jihovýchodní Asie"
  PHI_asean_tag_DEF: "Sdružení národů jihovýchodní Asie"
  PHI_asean_tag_ADJ: "jihovýchod. asij."

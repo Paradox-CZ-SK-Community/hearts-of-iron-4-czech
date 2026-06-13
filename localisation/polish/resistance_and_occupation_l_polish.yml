@@ -180,6 +180,6 @@
  non_core_controller: "Okupant"
  non_core_controller_desc: "Stát, který je kontrolován cizí zemí"
  independent_rule: "Nezávislá vláda"
- princely_subjugation: "Princovské podmanění"
- INS_direct_rule_occupation_law: "Přímá správa" # todo: NEW TRANSLATION
- INS_local_autonomy_occupation_law: "Místní autonomie" # todo: NEW TRANSLATION
+ princely_subjugation: "Knížecí podrobení"
+ INS_direct_rule_occupation_law: "Přímá vláda"
+ INS_local_autonomy_occupation_law: "Místní autonomie"

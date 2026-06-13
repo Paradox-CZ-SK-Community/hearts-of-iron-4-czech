@@ -21,7 +21,7 @@
  tooltip_launch_all_button_second: "$NUM|H$ útoky jsou připraveny k zahájení"
  tooltip_launch_button_enabled: "§GKlikněte§! pro spuštění úderu"
  tooltip_launch_button_disabled: "§RÚder není připraven ke spuštění§!"
- tooltip_launch_button_right_click: "§GKlikněte pravým tlačítkem§! pro nalezení §Y$NAME$§!" # todo: NEW TRANSLATION
+ tooltip_launch_button_right_click: "§GKlikněte pravým tlačítkem§! pro nalezení §Y$NAME$§!"
  tooltip_for_expand_button: "§GKlikněte§! pro rozbalení"
  tooltip_for_collapse_button: "§GKlikněte§! pro sbalení"
  tooltip_for_no_items: "§RŽádné položky§!"
@@ -63,9 +63,9 @@
  raid_type_commando_facility_raid_desc: "Skupina mariňáků byla vyslána k narušení experimentálního zařízení v přímořské provincii."
  raid_type_airfield_raid: "Nálet na letiště"
  raid_type_supply_hub_raid: "Útok na distribuční uzel"
- raid_type_rescue_captured_general: "Zachránit zajatého velitele" # todo: NEW TRANSLATION
- raid_type_rescue_captured_general_desc: "Tým vojáků pronikne za nepřátelské linie, aby nalezl a zachránil velitele drženého nepřítelem." # todo: NEW TRANSLATION
- raid_type_rescue_captured_general_captive_line: "§Y$NAME$§! je zde držen v zajetí." # todo: NEW TRANSLATION
+ raid_type_rescue_captured_general: "Zachránit zajatého velitele"
+ raid_type_rescue_captured_general_desc: "Tým vojáků pronikne za nepřátelské linie, aby našel a zachránil velitele drženého nepřítelem v zajetí."
+ raid_type_rescue_captured_general_captive_line: "§Y$NAME$§! je zde držen v zajetí."
  raid_type_demo_dam_raid: "Ukázkový nálet na přehradu"
  raid_type_AUS_reichstag_bombing: "Nálet na Reichstag"
  raid_type_AUS_reichstag_bombing_desc: "Vysláním skupiny bombardérů k útoku na hlavní velitelství nepřítele - symbolické centrum německé moci - můžeme pozvednout morálku našeho lidu a zároveň zasadit nepříteli tvrdou ránu."
@@ -96,8 +96,8 @@
  raid_type_CHI_great_wall_raid_land_desc: "Zeď již nemá takový obranný význam jako dříve, ale stále může poskytnout dobře zakopanému nepříteli výhodu. Pokud pošleme malou skupinu vojáků, pronikneme do nepřátelských linií a odpálíme dobře umístěné nálože, můžeme jejich výhodu zneutralizovat."
  raid_type_JAP_pearl_harbor_strike: "Úder na Pearl Harbor"
  raid_type_JAP_pearl_harbor_strike_desc: "Vysláním skupiny bombardérů k útoku na hlavní námořní velitelství a flotilu nepřítele v Tichém oceánu povzbudíme morálku našeho lidu a zároveň zasadíme těžkou ránu morálce i námořním schopnostem protivníka. Díky tomu se budou naše námořní síly pohybovat volně po dobu šesti měsíců!"
- success_modifier_completed_kido_butai_focus: "dokončil zaměření §Y$JAP_form_the_kido_butai$§!" # todo: NEW TRANSLATION
- success_modifier_completed_kido_butai_focus_improvement: "- Dokončit zaměření §Y$JAP_form_the_kido_butai$§!" # todo: NEW TRANSLATION
+ success_modifier_completed_kido_butai_focus: "dokončil zaměření §Y$JAP_form_the_kido_butai$§!"
+ success_modifier_completed_kido_butai_focus_improvement: "- Dokončete zaměření §Y$JAP_form_the_kido_butai$§!"
  raid_type_CZE_sokolov_raid_pfot: "Útok na Falknov"
  raid_type_CZE_sokolov_raid_pfot_desc: "$raid_type_GER_eben_emael_raid_desc$"
  RAID_TARGET_NAME: "$WHAT|H$ v $LOCATION|H$"
@@ -271,7 +271,7 @@
  tooltip_raid_warning_counterplay_header: "§GPro zvýšení šance na úspěšnou obranu:§!"
  tooltip_raid_success_chance_improvement_header: "§GPro zvýšení šance na úspěšný nájezd:§!"
  tooltip_raid_modifier_effect_improvement: "  §g(aktuální efekt: §!$VALUE$/$MAX$§g z§! $SOURCE$§g)§!"
- tooltip_raid_modifier_effect_improvement_no_source: "  §g(aktuální efekt: §!$VALUE$/$MAX$§g)§!" # todo: NEW TRANSLATION
+ tooltip_raid_modifier_effect_improvement_no_source: "  §g(aktuální efekt: §!$VALUE$/$MAX$§g)§!"
  tooltip_raid_warning_success_chance_header: "Šance na odražení úderu: $VALUE|H%1$"
  success_modifier_prep_time: "§Hpřípravy§!"
  success_modifier_prep_time_negative: "nedostatku §Hpřípravy§!"
@@ -426,10 +426,10 @@
  raid_type_SOV_transport_volunteers_to_CZE: "Letecký most pro sovětské dobrovolníky"
  raid_type_SOV_transport_volunteers_to_CZE_desc: "Československo požádalo o vojenskou pomoc, avšak absence společných hranic komplikuje logistiku. Místo toho můžeme sestavit sbor dobrovolníků, který bude letecky přepraven, aby bojoval jako součást československé armády."
  raid_target_name_CZE_volunteer_transport: "Letiště Mukačevo"
- raid_type_INS_militia_increase_activity_raid: "Pokus o partyzánskou infiltraci" # todo: NEW TRANSLATION
- raid_type_INS_militia_increase_activity_raid_desc: "Pošleme milice do státu, kde navážou kontakt s místními revolucionáři a vytvoří partyzánské buňky. Pokud operace proběhne hladce, pokusíme se proniknout do regionu a převzít kontrolu od Nizozemců.\n\n§WCílový stát musí být v dosahu republikánského §YBunkru§!, §YŽeleznice§! nebo §YNámořní základny§!. Tyto budovy mohou být použity jako výchozí body.§!\n\n§YÚčinky:§!\n§RPřiřazená divize je spotřebována§!\n§YÚspěch:§!\n       §WStane se vlastníkem a správcem státu\n       Zvýší eskalaci o §R1§!§!.\n§YČástečný úspěch:§!\n       §WPřidá §Yjednu úroveň§! aktivity milic, čímž zvýší šanci na úspěch při budoucích pokusech.§!\n§YNeúspěch:§!\n       §WŽádné efekty§!." # todo: NEW TRANSLATION
- raid_type_INS_militia_port_raid: "Obsadit námořní základnu" # todo: NEW TRANSLATION
- raid_type_INS_militia_port_raid_desc: "Pošleme milice převlečené za rybáře na malých člunech, které doufejme nebudou odhaleny. Po vylodění se pokusí vytvořit partyzánské buňky a budou spolupracovat s místními partyzány, aby v případě příležitosti obsadili námořní základnu. Jedná se o velmi riskantní podnik; pokud budou milice spatřeny, operace jistě selže.\n\n§YÚčinky:§!\n§RPřiřazená divize je spotřebována§!\n§YÚspěch:§!\n       §WStane se vlastníkem a správcem státu\n       Zvýší eskalaci o §R1§!§!.\n§YČástečný úspěch:§!\n       §WPřidá §Yjednu úroveň§! aktivity milic, čímž zvýší šanci na úspěch při budoucích pokusech.§!\n§YNeúspěch:§!\n       §WŽádné efekty§!." # todo: NEW TRANSLATION
- SIA_pacific_island_raid: "Útok na tichomořský ostrov" # todo: NEW TRANSLATION
- SIA_pacific_island_raid_desc: "Zaútočíme na tichomořský ostrov a pokusíme se vážně poškodit jejich námořní stavby, lodě a armády na něm." # todo: NEW TRANSLATION
+ raid_type_INS_militia_increase_activity_raid: "Pokus o partyzánskou infiltraci"
+ raid_type_INS_militia_increase_activity_raid_desc: "Do státu vyšleme milice, které navážou kontakt s místními revolucionáři a založí partyzánské buňky. Pokud operace proběhne hladce, pokusíme se proniknout do regionu a převzít nad ním kontrolu od Nizozemců.\n\n§WCílový stát musí být v dosahu republikánem vlastněného §Ybunkru§!, §Yželeznice§! nebo §Ynámořní základny§!. Tyto budovy lze použít jako výchozí body.§!\n\n§YÚčinky:§!\n§RPřidělená divize je spotřebována§!\n§YÚspěch:§!\n       §WZíská vlastnictví a kontrolu nad státem\n       Zvýší eskalaci o §R1§!§!.\n§YČástečný úspěch:§!\n       §WPřidá §Yjednu úroveň§! aktivity milicí, čímž zvýší šanci na úspěch budoucích pokusů.§!\n§YNeúspěch:§!\n       §WŽádné účinky§!."
+ raid_type_INS_militia_port_raid: "Obsadit námořní základnu"
+ raid_type_INS_militia_port_raid_desc: "Vyšleme milice převlečené za rybáře na malých člunech, které snad nebudou odhaleny. Po vylodění se pokusí založit partyzánské buňky a ve spolupráci s místními partyzány obsadit námořní základnu, pokud se naskytne příležitost. Jde o velmi riskantní podnik. Pokud budou milice spatřeny, operace jistě selže.\n\n§YÚčinky:§!\n§RPřidělená divize je spotřebována§!\n§YÚspěch:§!\n       §WZíská vlastnictví a kontrolu nad státem\n       Zvýší eskalaci o §R1§!§!.\n§YČástečný úspěch:§!\n       §WPřidá §Yjednu úroveň§! aktivity milicí, čímž zvýší šanci na úspěch budoucích pokusů.§!\n§YNeúspěch:§!\n       §WŽádné účinky§!."
+ SIA_pacific_island_raid: "Přepadnout pacifický ostrov"
+ SIA_pacific_island_raid_desc: "Přepadneme pacifický ostrov a pokusíme se vážně poškodit tamní námořní budovy, lodě i armády."
  raid_tooltip_trigger_title: "$TITLE|H$:"

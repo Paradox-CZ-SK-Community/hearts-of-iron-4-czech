@@ -1,31 +1,29 @@
 ﻿l_polish:
- DESIGNER_LOCKED: "§RUzamčeno§!"
- DESIGNER_ADD: "§GKlikněte§! pro přidání"
- DESIGNER_ADD_COPY_ABOVE: "§GShift + Kliknutí§! pro přidání kopie slotu nad tímto" # todo: NEW TRANSLATION
- DESIGNER_ADD_FILL_REGIMENT: "§GCtrl + Kliknutí§! pro vyplnění zbytku pluku kopiemi slotu nad tímto" # todo: NEW TRANSLATION
- DESIGNER_ADD_FILL_REGIMENT_FROM_PICK: "§GCtrl + Kliknutí§! pro vyplnění celého pluku vybraným batalionem" # todo: NEW TRANSLATION
- DESIGNER_ADD_COPY_LEFT_REGIMENT: "§GShift + Kliknutí§! pro přidání kopie prvního batalionu z pluku vlevo" # todo: NEW TRANSLATION
- DESIGNER_ADD_FILL_REGIMENT_FROM_LEFT: "§GCtrl + Shift + Kliknutí§! pro vyplnění pluku kopiemi prvního batalionu z pluku vlevo" # todo: NEW TRANSLATION
- DESIGNER_CHANGE: "§GKlikněte§! pro změnu"
- DESIGNER_CHANGE_REMOVE: "§GShift + Klikněte§! pro odstranění"
- DESIGNER_REMOVE_REGIMENT: "§GCtrl + Kliknutí§! pro odstranění všech batalionů v tomto pluku" # todo: NEW TRANSLATION
- DESIGNER_HQ_ADD_COPY_ABOVE: "§GKliknutí§! pro přidání dalšího §H$UNIT$§! batalionu" # todo: NEW TRANSLATION
- DESIGNER_HQ_REMOVE: "§GKliknutí§! pro odstranění" # todo: NEW TRANSLATION
- DESIGNER_HQ_TITLE: "Návrhář velitelství armády" # todo: NEW TRANSLATION
- DESIGNER_HQ_COMPOSITION: "Složení velitelství armády" # todo: NEW TRANSLATION
- DESIGNER_HQ_COMPOSITION_DESC: "Složení batalionů a podpůrných čet, které tvoří tento vzor velitelství armády." # todo: NEW TRANSLATION
- DESIGNER_HQ_SUPPORT_HEADER: "Podpora štábu" # todo: NEW TRANSLATION
- DESIGNER_HQ_MODIFIERS_HEADER: "Bonusy velitele" # todo: NEW TRANSLATION
- DESIGNER_HQ_MODIFIERS_HEADER_DESC: "Bonusy udělené veliteli nasazenému s tímto velitelstvím armády." # todo: NEW TRANSLATION
- DESIGNER_HQ_BATTALIONS_HEADER: "Bataliony" # todo: NEW TRANSLATION
- DESIGNER_DUPLICATE_TO_MODIFY: "§RDuplikovat šablonu pro úpravu§!"
- DESIGNER_BLOCKED: "Tento slot praporu je §Ruzamčen§!"
- DESIGNER_BLOCKED_REGIMENTAL_SUPPORT: "Tento slot regimentální podpory je §Ruzamčen§!" # todo: NEW TRANSLATION
- DESIGNER_BLOCKED_BY_TECH: "Odemknuto jednou z následujících doktrín: $TECH$"
- DESIGNER_BLOCKED_BY_REGIMENT_BATTALIONS: "§R- Vyžaduje alespoň §!§H$NUM_BATTALIONS|H$ řadových batalionů§!§R v pluku.§!" # todo: NEW TRANSLATION
+ DESIGNER_ADD_COPY_ABOVE: "§GShift + kliknutím§! přidáte kopii slotu výše"
+ DESIGNER_ADD_FILL_REGIMENT: "§GCtrl + kliknutím§! vyplníte zbytek pluku kopiemi slotu výše"
+ DESIGNER_ADD_FILL_REGIMENT_FROM_PICK: "§GCtrl + kliknutím§! vyplníte celý pluk vybraným praporem"
+ DESIGNER_ADD_COPY_LEFT_REGIMENT: "§GShift + kliknutím§! přidáte kopii prvního praporu z pluku nalevo"
+ DESIGNER_ADD_FILL_REGIMENT_FROM_LEFT: "§GCtrl + Shift + kliknutím§! vyplníte pluk kopiemi prvního praporu z pluku nalevo"
+ DESIGNER_CHANGE: "§GKliknutím§! změníte"
+ DESIGNER_CHANGE_REMOVE: "§GShift + kliknutím§! odstraníte"
+ DESIGNER_REMOVE_REGIMENT: "§GCtrl + kliknutím§! odstraníte každý prapor v tomto pluku"
+ DESIGNER_HQ_ADD_COPY_ABOVE: "§GKliknutím§! přidáte další prapor §H$UNIT$§!"
+ DESIGNER_HQ_REMOVE: "§GKliknutím§! odstraníte"
+ DESIGNER_HQ_TITLE: "Návrhář Armádního velitelství"
+ DESIGNER_HQ_COMPOSITION: "Složení Armádního velitelství"
+ DESIGNER_HQ_COMPOSITION_DESC: "Složení praporů a podpůrných rot, které tvoří tuto šablonu Armádního velitelství."
+ DESIGNER_HQ_SUPPORT_HEADER: "Podpora velitelství"
+ DESIGNER_HQ_MODIFIERS_HEADER: "Bonusy velitele"
+ DESIGNER_HQ_MODIFIERS_HEADER_DESC: "Bonusy udělené veliteli nasazenému s tímto Armádním velitelstvím."
+ DESIGNER_HQ_BATTALIONS_HEADER: "Prapory"
+ DESIGNER_DUPLICATE_TO_MODIFY: "§RPro úpravy duplikujte šablonu§!"
+ DESIGNER_BLOCKED: "Tento slot liniového praporu je §Ruzamčen§!"
+ DESIGNER_BLOCKED_REGIMENTAL_SUPPORT: "Tento slot plukovní podpory je §Ruzamčen§!"
+ DESIGNER_BLOCKED_BY_TECH: "Odemkne se jednou z následujících doktrín:$TECH$"
+ DESIGNER_BLOCKED_BY_REGIMENT_BATTALIONS: "§R- Vyžaduje alespoň §!§H$NUM_BATTALIONS|H$ liniových praporů§!§R v pluku.§!"
  DESIGNER_BLOCKED_TECH_DESC: "\n £trigger_no §H$NAME$ ($CATEGORY$)§!"
- DESIGNER_BLOCKED_BY_NOT_HANDLED: "§HChcete-li ho odemknout, musíte splnit specifické podmínky.§!"
- DESIGNER_REGIMENT_SUPPORT_STATS_SCALED: "Statistiky, vybavení a personál jsou škálovány na $FACTOR|H%0$ protože pluk má $BATTALIONS|H$/$MAX_BATTALIONS|H$ batalionů." # todo: NEW TRANSLATION
+ DESIGNER_BLOCKED_BY_NOT_HANDLED: "§HPro odemčení musí hráč splnit konkrétní podmínky.§!"
+ DESIGNER_REGIMENT_SUPPORT_STATS_SCALED: "Statistiky, vybavení a personál jsou škálovány na $FACTOR|H%0$, protože pluk má $BATTALIONS|H$/$MAX_BATTALIONS|H$ praporů."
  DESIGNER_UNLOCK: "$VALUE|H0$ £army_experience "
  DESIGNER_REPLACE_DESC: "Cena výměny: $VALUE|H0$ £army_experience "
  DESIGNER_ADD_DESC: "Cena přidání: $VALUE|H0$ £army_experience "
@@ -38,20 +36,20 @@
  DESIGNER_COMBAT_STATS_LABEL: "Bojové statistiky"
  DESIGNER_EQUIPMENT_STATS_LABEL: "Cena vybavení"
  DESIGNER_COMBATWIDTH: "Bojová šířka:"
- DESIGNER_COMBATWIDTH_TOOLTIP: "Šířka boje: §Y$VALUE|0$§!\n\nŠířka boje udává, kolik místa tato divize zabere v boji. Například pokud má boj celkovou šířku §Y80§! můžete vměstnat §Y4§! divize o šířce §Y20§!" # todo: NEW TRANSLATION
- DESIGNER_COMBATWIDTH_DESC: "Bojová šířka vám říká, kolik prostoru tato divize zabere v boji. Například, pokud má boj celkovou šířku §Y80§!, můžete umístit §Y4§! divize se šířkou §Y20§!"
- DESIGNER_DIVISIONAL_COMPOSITION: "Složení divize" # todo: NEW TRANSLATION
+ DESIGNER_COMBATWIDTH_TOOLTIP: "Šířka bojiště: §Y$VALUE|0$§!\n\nŠířka bojiště udává, kolik prostoru tato divize zabere v boji. Například pokud má boj celkovou šířku bojiště §Y80§!, vejdou se do něj §Y4§! divize se šířkou bojiště §Y20§!"
+ DESIGNER_COMBATWIDTH_DESC: "Šířka bojiště udává, kolik prostoru tato divize zabere v boji. Například pokud má boj celkovou šířku bojiště §Y80§!, vejdou se do něj §Y4§! divize se šířkou bojiště §Y20§!"
+ DESIGNER_DIVISIONAL_COMPOSITION: "Složení divize"
  DESIGNER_MANPOWER: "Personál:"
  DESIGNER_MANPOWER_DESC: "Kolik personálu je potřebných k zaplnění této divize."
  DESIGNER_TRAINING_TIME: "Čas výcviku:"
  DESIGNER_TRAINING_TIME_DESC: "Jak dlouho trvá výcvik divize."
- DESIGNER_DEPLOYED_LEADER_MODIFIERS: "§HBonusy velitele:§!" # todo: NEW TRANSLATION
- TECHNOLOGY_DEPLOYED_GENERAL_MODIFIERS_HEADER: "Modifikátory nasazených velitelů" # todo: NEW TRANSLATION
- TECHNOLOGY_BATTALION_MODIFIERS_HEADER: "Modifikátory batalionu:" # todo: NEW TRANSLATION
+ DESIGNER_DEPLOYED_LEADER_MODIFIERS: "§HBonusy velitele:§!"
+ TECHNOLOGY_DEPLOYED_GENERAL_MODIFIERS_HEADER: "Modifikátory nasazených velitelů"
+ TECHNOLOGY_BATTALION_MODIFIERS_HEADER: "Modifikátory praporů:"
  DESIGNER_NO_STAT: "--"
  DESIGNER_CREATE_NEW_DIVISION: "Vytvořit prázdnou šablonu"
  DESIGNER_NEW_DIVISION: "Nová divize"
- DESIGNER_NEW_ARMY_HQ: "Nové velitelství armády" # todo: NEW TRANSLATION
+ DESIGNER_NEW_ARMY_HQ: "Nové Armádní velitelství"
  DESIGNER_DEFAULT_DIVISION: "$DOMINANT_UNIT$ $YEAR$ $NUMBER$"
  DESIGNER_DUPLICATE: "Duplikovat"
  DESIGNER_DUPLICATE_DESC: "Duplikovat §Gzdarma§! pro vytvoření nové šablony, zatímco tahle bude uložena. Původní šablona zůstane nezměněna a můžete ji nadále používat i po nasazení nové šablony."
@@ -62,11 +60,11 @@
  DESIGNER_NOT_ENOUGH_DIVISION_CAP: "Změna návrhu by nás překročila limit divizí"
  DESIGNER_NO_CHANGES: "§TŽádné změny k uložení§!"
  DESIGNER_ARMY_SAVE: "Uložit £army_experience $VALUE|Y0$"
- DESIGNER_ARMY_SAVE_HQ: "Uložit £army_experience $XP|Y0$ £command_power $CP|Y0$" # todo: NEW TRANSLATION
- DESIGNER_ARMY_SAVE_HQ_REFUND: "Uložit £army_experience $XP|Y0$ £command_power §G+$CP|0$§!" # todo: NEW TRANSLATION
- DESIGNER_HQ_CP_COST_CHANGE: "§YCena nasazení velitelství se změní z £command_power $OLD|0H$ na £command_power $NEW|0H$§!" # todo: NEW TRANSLATION
- DESIGNER_SUBUNIT_DEPLOYMENT_COST: "£command_power Náklady na nasazení velitelství: $COST|H1$" # todo: NEW TRANSLATION
- DESIGNER_HQ_CP_INSUFFICIENT: "§RNedostatek £command_power velitelské síly k aktualizaci nasazených divizí velitelství.§!" # todo: NEW TRANSLATION
+ DESIGNER_ARMY_SAVE_HQ: "Uložit £army_experience $XP|Y0$ £command_power $CP|Y0$"
+ DESIGNER_ARMY_SAVE_HQ_REFUND: "Uložit £army_experience $XP|Y0$ £command_power §G+$CP|0$§!"
+ DESIGNER_HQ_CP_COST_CHANGE: "§YCena nasazení velitelství se změní z £command_power $OLD|0H$ na £command_power $NEW|0H$§!"
+ DESIGNER_SUBUNIT_DEPLOYMENT_COST: "£command_power cena nasazení velitelství: $COST|H1$"
+ DESIGNER_HQ_CP_INSUFFICIENT: "§RNemáte dostatek £command_power velitelské síly k aktualizaci nasazených divizí velitelství.§!"
  DESIGNER_NAVY_SAVE: "Uložit £navy_experience $VALUE|Y0$"
  DESIGNER_AIR_SAVE: "Uložit £air_experience $VALUE|Y0$"
  DESIGNER_INFANTRY_LABEL: "Pěchota"
@@ -86,7 +84,7 @@
  DESIGNER_OPTION_CHANGE_EFFECTS: "Výběr této možnosti ovlivní:"
  COMBAT_HEADER: "Boj"
  SUPPORT_HEADER: "Podpora"
- REGIMENTAL_SUPPORT_HEADER: "Regimentální podpora" # todo: NEW TRANSLATION
+ REGIMENTAL_SUPPORT_HEADER: "Plukovní podpora"
  EQUIPMENT_CATEGORIES_RESET: "Obnovit na automat. kategorii vybavení"
  EQUIPMENT_CATEGORIES_AUTO: "Automaticky §g($EQUIPMENT_CATEGORY$)§!"
  EQUIPMENT_CATEGORIES_DESC: "Vyberte kategorii vybavení pro filtrování"
@@ -94,10 +92,10 @@
  FOREIGN_EQUIPMENT_NOW_ALLOWED: "Použití zahraničního vybavení je nyní povoleno\n"
  NEW_EQUIPMENT_NOW_FORBIDDEN: "Použití nového vybavení je nyní zakázáno\n"
  NEW_EQUIPMENT_NOW_ALLOWED: "Použití nového vybavení je nyní povoleno\n"
- DESIGNER_HARDNESS_STAT_SUMMARY: "HA $VALUE$" # todo: NEW TRANSLATION
- DESIGNER_HP_STAT_SUMMARY: "HP $VALUE$" # todo: NEW TRANSLATION
- DESIGNER_ATTACK_STAT_SUMMARY: "AT $VALUE$" # todo: NEW TRANSLATION
- DESIGNER_SPEED_STAT_SUMMARY: "SP $VALUE$" # todo: NEW TRANSLATION
+ DESIGNER_HARDNESS_STAT_SUMMARY: "Tvrdost $VALUE$"
+ DESIGNER_HP_STAT_SUMMARY: "HP $VALUE$"
+ DESIGNER_ATTACK_STAT_SUMMARY: "Útok $VALUE$"
+ DESIGNER_SPEED_STAT_SUMMARY: "Rychlost $VALUE$"
  ARMOR_DIRECTORY: "Modul tanku"
  PLANE_DIRECTORY: "Modul letadel"
  NAVAL_DIRECTORY: "Modul lodi"
@@ -141,14 +139,14 @@
  DESIGNER_EMPTY_REGIMENT: "§RVytvoření nové šablony divize vyžaduje přidání bojového praporu§!"
  DESIGNER_EMPTY_NAME: "§RŠablona divize by neměla mít prázdný název§!"
  DESIGNER_TEMPLATE_NAME_EXISTS: "§RJiná šablona divize se stejným názvem již existuje§!"
- DESIGNER_LAST_HQ_TEMPLATE: "§RVaše poslední šablona velitelství armády musí zůstat platnou šablonou velitelství armády§!" # todo: NEW TRANSLATION
- DESIGNER_LAST_REGULAR_TEMPLATE: "§RNemůžete převést svou poslední ne-HQ šablonu na šablonu velitelství armády§!" # todo: NEW TRANSLATION
- DESIGNER_HQ_TEMPLATE_IN_USE: "§RTato šablona velitelství armády je momentálně používána nasazeným velitelstvím armády a musí zůstat platnou šablonou velitelství armády§!" # todo: NEW TRANSLATION
- DESIGNER_REGULAR_TEMPLATE_IN_USE: "§RTato šablona nemůže být převedena na šablonu velitelství armády, protože je momentálně používána nasazenými ne-HQ divizemi§!" # todo: NEW TRANSLATION
- DESIGNER_REGULAR_TEMPLATE_IN_GARRISON: "§RTato šablona nemůže být převedena na šablonu velitelství armády, protože je momentálně používána jako šablona posádky pro některá obsazená území§!" # todo: NEW TRANSLATION
- DESIGNER_SUPPORT_COLUMN_TITLE: "Podpůrné jednotky. Toto jsou podpůrné jednotky, které zůstávají za frontovými jednotkami a pomáhají. \n\nMůžete vybrat pouze jednu každého typu. Podpůrné jednotky neovlivňují §YMaximální rychlost§! divize (jinak než prostřednictvím bonusů z terénu), a nezvyšují její §YBojová šířka§!."
- DESIGNER_REGIMENTAL_SUPPORT_COLUMN_TITLE: "Regimentální podpůrné čety. Jedná se o podpůrné jednotky připojené k plukům.\n\nRegimentální podpůrné čety neovlivňují §YMaximální rychlost§! divize (kromě bonusů terénu) a nezvyšují její §Yšířku boje§!." # todo: NEW TRANSLATION
- DESIGNER_MAIN_COLUMN_TITLE: "Liniové prapory jsou vaše frontové jednotky.\n\nKaždý sloupec je pluk specifického základního typu, jako je §YTank§!, §YPěchota§! nebo §YMotorizované jednotky§!. Nejvyšší typ určuje, co můžete do toho pluku vložit. Čím více liniových praporů máte, tím větší je vaše §YBojová šířka§! a tím méně těchto divizí budete moci nasadit do stejného boje."
+ DESIGNER_LAST_HQ_TEMPLATE: "§RVaše poslední šablona Armádního velitelství musí zůstat platnou šablonou Armádního velitelství§!"
+ DESIGNER_LAST_REGULAR_TEMPLATE: "§RNemůžete převést svou poslední nevelitelskou šablonu na šablonu Armádního velitelství§!"
+ DESIGNER_HQ_TEMPLATE_IN_USE: "§RTato šablona Armádního velitelství je momentálně používána nasazeným Armádním velitelstvím a musí zůstat platnou šablonou Armádního velitelství§!"
+ DESIGNER_REGULAR_TEMPLATE_IN_USE: "§RTuto šablonu nelze převést na šablonu Armádního velitelství, protože ji momentálně používají nasazené nevelitelské divize§!"
+ DESIGNER_REGULAR_TEMPLATE_IN_GARRISON: "§RTuto šablonu nelze převést na šablonu Armádního velitelství, protože je momentálně používána jako posádková šablona pro některá okupovaná území§!"
+ DESIGNER_SUPPORT_COLUMN_TITLE: "Podpůrné roty. Jde o podpůrné jednotky, které se drží za frontovými jednotkami a pomáhají jim.\n\nZ každého typu můžete vybrat pouze jednu. Podpůrné roty neovlivňují §Ymaximální rychlost§! divize (kromě vlivu terénních bonusů) a nezvyšují její §Yšířku bojiště§!."
+ DESIGNER_REGIMENTAL_SUPPORT_COLUMN_TITLE: "Plukovní podpůrné roty. Jde o podpůrné jednotky připojené k plukům.\n\nPlukovní podpůrné roty neovlivňují §Ymaximální rychlost§! divize (kromě vlivu terénních bonusů) a nezvyšují její §Yšířku bojiště§!."
+ DESIGNER_MAIN_COLUMN_TITLE: "Liniové prapory jsou vaše frontové jednotky.\n\nKaždý sloupec představuje pluk konkrétního základního typu, například §Yobrněné jednotky§!, §Ypěchotu§! nebo §Ymotorizované jednotky§!. Nejvyšší typ určuje, co dalšího můžete do daného sloupce pluku vložit. Čím více liniových praporů máte, tím větší bude vaše §Yšířka bojiště§! a tím méně těchto divizí se vejde do stejné bitvy."
  REINFORCE_WITH_RESEARCHED_EQUIPMENT: "Deaktivovat automatické zakázání veškerého nového vybavení, když je prozkoumáno."
  REINFORCE_WITH_RESEARCHED_EQUIPMENT_FORBIDDEN: "Nové vybavení je v současné době zakázáno."
  REINFORCE_WITH_EQUIPMENT: "Aktivujte, abyste posílili s tímto vybavením. \n§GShift-klik§! pro zakázání veškerého vybavení tohoto typu.\n"

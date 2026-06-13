@@ -1111,11 +1111,11 @@
  AFG_invite_the_mughal_prince_desc: "Po zajištění území musí povstat nový vládce, který převezme Tímúrovo dědictví. Ať už krví, zásluhami či silou vůle, naše volba určí budoucnost říše. Měli bychom proto pozvat mughalského prince, který v současnosti pobývá v Indii, aby usedl na náš trůn."
  AFG_unify_the_islamic_world: "Sjednotit islámský svět"
  AFG_unify_the_islamic_world_desc: "Muslimské státy se už příliš dlouho hádají o nepodstatné věci a zanedbávají svou povinnost spolupracovat. Nastal čas je vyzvat, aby se sjednotily v jedné velké alianci."
- AFG_unify_the_islamic_world_tt: "Obdrží událost: §Y[ROOT.GetNameDefCap] nás zve do své frakce§!" # todo: NEW TRANSLATION
+ AFG_unify_the_islamic_world_tt: "Obdrží událost: §Y[ROOT.GetNameDefCap] nás zve do své frakce§!"
  AFG_united_islamic_world_faction: "Ittehad-e Islami"
  AFG_extend_a_hand_to_tokyo: "Podat ruku Tokiu"
  AFG_extend_a_hand_to_tokyo_desc: "Díky pomoci [JAP.GetAdjective] sil se nám podařilo zvítězit v boji o Afghánistán. Nyní, když se [JAP.GetNameDef] snaží sjednotit a osvobodit Asii, by bylo rozumné se na ně znovu obrátit."
- AFG_extend_a_hand_to_tokyo_tt: "Budeme se snažit připojit k frakci §Y[JAP.GetNameDef]§!" # todo: NEW TRANSLATION
+ AFG_extend_a_hand_to_tokyo_tt: "Budeme se snažit připojit k frakci, kterou vede §Y[JAP.GetNameDef]§!"
  AFG_expand_the_madrasas: "Rozšířit medresy"
  AFG_expand_the_madrasas_desc: "Abychom lépe kontrolovali obyvatelstvo a učili jej způsobům, jakými má žít, měli bychom navýšit financování muslimských vzdělávacích institucí v naší zemi."
  AFG_promote_muslim_work_ethic: "Podporovat muslimskou pracovní etiku"
@@ -1976,7 +1976,7 @@
  PER_embrace_national_front_desc: "Politická moc již nemůže zůstat v rukou nevoleného šáha. Musíme zrušit celou instituci a směřovat k vytvoření [ROOT.GetAdjective] republiky."
  PER_force_abdication: "Vynutit abdikaci"
  PER_force_abdication_desc: "Šáh a jeho přisluhovači jsou otřeseni masovým odporem lidu. Nyní je ten pravý okamžik využít naší výhody a donutit ho k abdikaci, abychom jednou provždy ukončili tento feudální nesmysl."
- PER_force_abdication_tt: "\n§RPokud má nezařazená strana více než 50% podpory, Šáh rozpoutá proti nám občanskou válku!§!" # todo: NEW TRANSLATION
+ PER_force_abdication_tt: "\n§RPokud má nezařazená strana více než 50% podpory, Šáh rozpoutá proti nám občanskou válku!§!"
  PER_nationalize_oil_fields: "Znárodnit ropná pole"
  PER_nationalize_oil_fields_desc: "Po dlouhá léta jsme prodávali naši ropu v nespravedlivých dohodách chamtivým státům. Nastal čas, aby [PER.GetNameDef] znárodnil svou ropnou produkci a převzal plnou kontrolu nad vlastními přírodními zdroji."
  PER_free_elections: "Svobodné volby"
@@ -2124,7 +2124,7 @@
  PER_form_arya_party_desc: "Hasan Arfa byl loajálním vojenským důstojníkem a oddaným obráncem šáha jako odrazu samotného Boha. Nyní však může využít rostoucích nacionalistických nálad k radikální reformě země, která překoná i nejodvážnější představy samotného šáha."
  PER_iranian_socialist_revolution: "Íránská socialistická revoluce"
  PER_iranian_socialist_revolution_desc: "Nastal okamžik, aby dělnická třída Íránu povstala a rozdrtila slabý šáhistický režim i jeho buržoazní vykonavatele. Na jeho místě vznikne nový stát dělníků a rolníků řízený samotným lidem."
- PER_iranian_socialist_revolution_tt: "\n§RPokud má komunistická strana méně než 50% podpory, Šáh rozpoutá proti nám občanskou válku!§!" # todo: NEW TRANSLATION
+ PER_iranian_socialist_revolution_tt: "\n§RPokud má komunistická strana méně než 50% podpory, Šáh rozpoutá proti nám občanskou válku!§!"
  PER_islamic_restoration: "Odpor proti gharbzadegí"
  PER_islamic_restoration_desc: "Nedávné nadšení pro westernizaci narušuje samotné základy naší islámské kultury i íránské společnosti jako celku. Vláda proto musí více omezit přístup k západním neřestem a jejich bezvěreckým ideologiím."
  PER_ally_bazaari: "Spojenectví s bazáristy"

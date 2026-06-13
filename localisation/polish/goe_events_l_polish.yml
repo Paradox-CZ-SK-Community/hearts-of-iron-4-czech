@@ -814,10 +814,10 @@
  GOE_RAJ_news.3.a: "Slibné."
  currentStateResistance: "  Aktuálně §R[?var:THIS.resistance]%§! odboje."
  currentStateCompliance: "  Aktuálně §Y[?var:THIS.compliance]%§! poslušnosti."
- GOE_RAJ_news.4.t: "Sjednocený Hindustán" # todo: NEW TRANSLATION
- GOE_RAJ_news.4.desc: "Bylo hlášeno, že [FROM.GetLeader] z [FROM.GetNameDef] vyhlásil sjednocení pro všechny národy na indickém subkontinentu, čímž začíná nová kapitola v dějinách Asie i celého světa. Mnoho analytiků již uvedlo, že sjednocení Hindustanu může mít zásadní dopad na světovou politiku a znamenat vzestup nové supervelmoci." # todo: NEW TRANSLATION
- GOE_RAJ_news.4.a: "Skutečně nová supervelmoc" # todo: NEW TRANSLATION
- GOE_RAJ_news.4.b: "Děsivé" # todo: NEW TRANSLATION
+ GOE_RAJ_news.4.t: "Hindustán sjednocen"
+ GOE_RAJ_news.4.desc: "[FROM.GetNameDef] dává na známost, že [FROM.GetLeader] vyhlásil sjednocení všech národů indického subkontinentu, čímž se otevírá nová kapitola v dějinách Asie i celého světa. Mnozí analytici již uvedli, že sjednocení Hindustánu může mít drastický dopad na světovou politiku a znamenat vzestup nové supervelmoci."
+ GOE_RAJ_news.4.a: "Vskutku nová supervelmoc"
+ GOE_RAJ_news.4.b: "Děsivé"
  PER_fawzia_married: "Fawzia Fúad se vdala"
  PER_teymourtash_married: "Tejmúrtáš se vdala"
  PER_irandokht_married: "Irandokht se vdala"
@@ -1250,8 +1250,8 @@
  IRQ_political_events.43.t: "[FROM.GetNameDefCap] souhlasí s žádostí"
  IRQ_political_events.43.desc: "[FROM.GetNameDef] souhlasí s naším návrhem převést Sýrii pod naši správu, což představuje významný krok k sjednocení arabského světa. Tato historická dohoda posiluje naši pozici regionálního lídra a přibližuje nás k naplnění vize sjednoceného a prosperujícího arabského národa."
  IRQ_political_events.43.a: "Výborně!"
- IRQ_political_events.44.t: "[FROM.GetNameDefCap] požaduje naši anexi" # todo: NEW TRANSLATION
- IRQ_political_events.44.desc: "Vláda [FROM.GetNameDef] nás požádala, abychom se k nim připojili. Nastal čas rozhodnout, zda jejich žádost přijmeme, nebo odoláme vynucování cizí nadvlády." # todo: NEW TRANSLATION
+ IRQ_political_events.44.t: "[FROM.GetNameDefCap] požaduje naši anexi"
+ IRQ_political_events.44.desc: "[FROM.GetAdjectiveCap] vláda požádala, abychom se k ní připojili. Nastal čas rozhodnout, zda to přijmeme, nebo se vzepřeme vnucení cizí nadvlády."
  IRQ_political_events.44.a: "$IRQ_political_events.40.a$"
  IRQ_political_events.44.b: "$IRQ_political_events.40.b$"
  IRQ_political_events.50.t: "[FROM.GetNameDefCap] žádá o Kuvajt"

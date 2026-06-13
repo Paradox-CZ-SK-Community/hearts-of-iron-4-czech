@@ -313,7 +313,7 @@
  bearer_of_artillery: "Nositel dělostřelectva"
  bearer_of_artillery_desc: "§LNikdy neupusťte bednu!§!"
  dictator: "Diktátor"
- dictator2: "$dictator$" # todo: NEW TRANSLATION
+ dictator2: "$dictator$"
  CAS_manufacturer: "Konstruktér letecké podpory"
  light_aircraft_manufacturer: "Konstruktér lehkých letadel"
  light_aircraft_manufacturer_2: "Konstruktér letadel zaměřený na obratnost"
@@ -368,8 +368,8 @@
  devoted_trotskyist: "Oddaný trockista"
  inexperienced_imperialist: "Nezkušený imperialista"
  autocratic_imperialist: "Autokratický imperialista"
- cabinet_crisis: "Krizová vláda"
- cabinet_crisis_2: "Krize kabinetu" # todo: NEW TRANSLATION
+ cabinet_crisis: "Vládní krize"
+ cabinet_crisis_2: "Vládní krize"
  spirit_of_genghis: "Duch Činghischána"
  stalins_puppet: "Stalinova loutka"
  stalins_puppet_desc: "§LJak věrný, tak vlastenecký, nikdy nezradí Internacionálu, útrapy pracujícího, ani svou domovinu. V tomto pořadí.§!"
@@ -445,8 +445,8 @@
  nationalist_symbol: "Národnostní symbol"
  generallissimo: "Generalissimo"
  ENABLES_ABILITY: "Povoluje schopnost: $NAME|H$"
- ENABLED_ABILITY: "§G+$ABILITY_NAME$§!" # todo: NEW TRANSLATION
- DISABLED_ABILITY: "§R-$ABILITY_NAME$§!" # todo: NEW TRANSLATION
+ ENABLED_ABILITY: "§G+$ABILITY_NAME$§!"
+ DISABLED_ABILITY: "§R-$ABILITY_NAME$§!"
  ABILITY_DESC: "$NAME|H$: $DETAILS$"
  TRAIT_NOT_ASSIGNABLE: "Získané rysy lze odemknout pouze získáním zkušeností nebo událostmi.\n"
  TRAIT_ASSIGNABLE_TO_UNIT_MARSHALS: "Rysy polních maršálů lze přiřadit pouze polním maršálům.\n"
@@ -515,7 +515,7 @@
  trait_bonus_logistics: "Logistika: $VAL|+=0$"
  trait_bonus_maneuvering: "Manévrování: $VAL|+=0$"
  trait_bonus_coordination: "Koordinace: $VAL|+=0$"
- trait_bonus_leader_default_proximity_offset: "Počáteční vzdálenost od fronty: $NAME$" # todo: NEW TRANSLATION
+ trait_bonus_leader_default_proximity_offset: "Výchozí vzdálenost od frontové linie: $NAME$"
  sick: "Nemocný"
  sick_desc: "§LUpoután na lůžko kvůli těžké nemoci.§!"
  wounded: "Zraněný"
@@ -1484,11 +1484,11 @@
  BRA_coffee_king: "Kávový král"
  BRA_vengeful_industrialist: "Mstivý průmyslník"
  BRA_controversial_academic: "Kontroverzní akademik"
- BRA_head_of_house_orleans_braganza_trait: "Hlava rodu Orléans-Braganza" # todo: NEW TRANSLATION
- batllista_traditionalist: "Batllista Tradicionalista"
+ BRA_head_of_house_orleans_braganza_trait: "Hlava rodu Orléans-Braganza"
+ batllista_traditionalist: "Batllistický tradicionalista"
  the_german_connection: "Německá spojka"
  pan_americanist_caudillo: "Panamerický caudillo"
- pro_allied_politician: "Pro-spojenecký politik"
+ pro_allied_politician: "Prospojenecký politik"
  JUNO_the_lion_of_tarapaca: "León de Tarapacá"
  JUNO_el_jefe: "El Jefe"
  JUNO_el_jefe_advisor_trait: "El Jefe"
@@ -1990,7 +1990,7 @@
  YEM_supreme_imam_trait: "Kníže věřících"
  OMA_unifier_of_muscat_and_oman: "Sjednotitel Maskatu a Ománu"
  SAU_unifier_of_central_arabia: "Sjednotitel střední Arábie"
- LEB_great_statesman: "Velký státník" # todo: NEW TRANSLATION
+ LEB_great_statesman: "Velký státník"
  PER_diminished_authority: "Oslabená autorita"
  PER_iranian_revanchist: "Íránský revanšista"
  PER_fascist_dynasty: "Fašistická dynastie"
@@ -2028,7 +2028,7 @@
  RAJ_GOE_cultural_icon: "Kulturní ikona"
  RAJ_GOE_a_way_with_words: "Schopnost zacházet se slovy"
  RAJ_heir_of_the_empire: "Dědic impéria"
- RAJ_khudai_khidmatgar_leader: "Vůdce Khudai Khidmatgar" # todo: NEW TRANSLATION
+ RAJ_khudai_khidmatgar_leader: "Vůdce hnutí Khudai Khidmatgar"
  inspirational_bagpiper: "Inspirativní dudák"
  inspirational_bagpiper_desc: "Tento vojevůdce trvá na tom, že do boje se chodí s dudami, lukem a mečem. Skutečně inspirativní."
  loyalty_to_britain: "Věrnost Británii"
@@ -2075,7 +2075,7 @@
  the_last_viceroy: "Poslední místokrál"
  RAJ_timurs_succesor: "Tímúrov nástupce"
  islamic_scholar: "Islámský učenec"
- MAL_governor_of_the_straits_settlements_trait: "Guvernér Straits Settlements" # todo: NEW TRANSLATION
+ MAL_governor_of_the_straits_settlements_trait: "Guvernér Průlivových osad"
  king_father: "Král-otec"
  the_republican_rebel: "Vzpurný republikán"
  khmer_issarak_leader: "Vůdce Khmer Issarak"
@@ -2315,7 +2315,7 @@
  CHI_minister_of_education: "Technokratický ministr školství"
  CHI_chairman_of_the_republic_trait: "Předseda republiky"
  CHI_tsr_son_of_heaven: "Syn nebes"
- CHI_tsr_son_of_heaven_2: "$CHI_tsr_son_of_heaven$" # todo: NEW TRANSLATION
+ CHI_tsr_son_of_heaven_2: "$CHI_tsr_son_of_heaven$"
  CHI_tsr_the_celestial_emperor: "Nebeský císař"
  SIK_soviet_consul_general_trait: "Sovětský generální konzul"
  CHI_minister_of_transport_trait: "Ministr dopravy a spojů"
@@ -2381,198 +2381,198 @@
  SLO_head_of_the_radical_wing: "Vůdce radikálního křídla"
  SLO_nationalist_catholic_priest: "Nacionalistický katolický kněz"
  RUT_independence_minded_priest: "Kněz usilující o nezávislost"
- INS_loyalty_to_indonesia: "Loyalita k Indonésii" # todo: NEW TRANSLATION
- INS_loyalty_to_indonesia_desc: "Tento velitel přísahá věrnost Indonésii a v jakékoliv revoluci se postaví proti Nizozemcům." # todo: NEW TRANSLATION
- INS_loyalty_to_netherlands: "Loyalita k Nizozemsku" # todo: NEW TRANSLATION
- INS_loyalty_to_netherlands_desc: "Tento velitel přísahá věrnost Nizozemsku a v revoluci bude bojovat na straně Nizozemců." # todo: NEW TRANSLATION
- TAOG_foreign_affairs_minister: "Nizozemský ministr zahraničí" # todo: NEW TRANSLATION
- TAOG_minister_of_finance: "Ministr financí" # todo: NEW TRANSLATION
- TAOG_strict_loyalist: "Přísný loajalista" # todo: NEW TRANSLATION
- TAOG_dutch_representative: "Nizozemský zástupce" # todo: NEW TRANSLATION
- TAOG_independence_activist: "Aktivista za nezávislost" # todo: NEW TRANSLATION
- TAOG_representative_of_welfare: "Zástupce pro sociální záležitosti" # todo: NEW TRANSLATION
- TAOG_catholic_representative: "Zástupce pro katolické záležitosti" # todo: NEW TRANSLATION
- TAOG_collaborationist: "Kolaborant" # todo: NEW TRANSLATION
- TAOG_chinese_representative: "Zástupce pro čínské záležitosti" # todo: NEW TRANSLATION
- TAOG_republic_foreign_minister: "Ministr zahraničí republiky" # todo: NEW TRANSLATION
- TAOG_home_affairs: "Ministr vnitra" # todo: NEW TRANSLATION
- TAOG_minister_of_welfare: "Ministr sociální péče" # todo: NEW TRANSLATION
- TAOG_minister_of_justice: "Ministr spravedlnosti" # todo: NEW TRANSLATION
- TAOG_republic_minister_of_finance: "Ministr financí republiky" # todo: NEW TRANSLATION
- TAOG_minister_of_education: "Ministr školství" # todo: NEW TRANSLATION
- TAOG_minister_of_social_affairs: "Ministr sociálních věcí" # todo: NEW TRANSLATION
- TAOG_minister_of_health: "Ministr zdravotnictví" # todo: NEW TRANSLATION
- TAOG_president_of_bank: "Prezident De Javasche Bank" # todo: NEW TRANSLATION
- TAOG_engineer: "Inspektor inženýrů (génius)" # todo: NEW TRANSLATION
- TAOG_acting_minister_defense: "Ministr obrany (sámoprohlášený)" # todo: NEW TRANSLATION
- TAOG_indonesian_minister: "Indonéský ministr" # todo: NEW TRANSLATION
- TAOG_liberal_colonial_leader: "Mírný guvernér" # todo: NEW TRANSLATION
- TAOG_liberal_colonial_leader_2: "Mírný guvernér" # todo: NEW TRANSLATION
- SIA_scholarly_politician: "Vzdělaný politik" # todo: NEW TRANSLATION
- INS_nationalist_scholar: "Nacionalistický učenec" # todo: NEW TRANSLATION
- INS_trusted_leader: "Úspěšný reformátor" # todo: NEW TRANSLATION
- INS_inefficient_government: "Neefektivní vláda" # todo: NEW TRANSLATION
- INS_federal_parliament: "Soustředěná vláda" # todo: NEW TRANSLATION
- INS_staunch_imperialist: "$staunch_imperialist$" # todo: NEW TRANSLATION
- INS_staunch_imperialist_upgraded: "$staunch_imperialist$" # todo: NEW TRANSLATION
- INS_pki_chairman: "Předseda Komunistické strany" # todo: NEW TRANSLATION
- INS_transportation_minister: "Ministr dopravy" # todo: NEW TRANSLATION
- INS_revolutionary_strategist: "Revoluční stratég" # todo: NEW TRANSLATION
- INS_uncompromising_idealist: "Neústupný idealista" # todo: NEW TRANSLATION
- INS_returned_from_moscow: "Vrátil se z Moskvy" # todo: NEW TRANSLATION
- INS_comintern_agent: "Agent Kominterny" # todo: NEW TRANSLATION
- INS_leader_of_the_people: "Vůdce lidu" # todo: NEW TRANSLATION
- INS_leader_of_the_people_advisor: "$INS_leader_of_the_people$" # todo: NEW TRANSLATION
- INS_compromising_centrist: "Kompatibilní centrista" # todo: NEW TRANSLATION
- INS_the_proclamator: "Vyhlašovatel" # todo: NEW TRANSLATION
- INS_the_king_who_gave_his_crown: "Král, který odevzdal svou korunu" # todo: NEW TRANSLATION
- INS_the_sultan_schoolmaster_of_siak: "Sultán, učitel ze Siaku" # todo: NEW TRANSLATION
- INS_kolano_of_the_spice_sea: "Kolano Moře koření" # todo: NEW TRANSLATION
- INS_the_four_mountains_of_ternate: "Čtyři hory Ternate" # todo: NEW TRANSLATION
- INS_heir_to_the_rooster_of_the_east: "Nástupce Kohouta Východu" # todo: NEW TRANSLATION
- INS_sombaya_of_gowa: "Sombaya z Gowa" # todo: NEW TRANSLATION
- INS_sultan_of_the_kapuas_mouth: "Sultán ústí Kapuas" # todo: NEW TRANSLATION
- INS_the_merchant_sultan_of_pontianak: "Obchodní sultán z Pontianaku" # todo: NEW TRANSLATION
- INS_sultan_in_the_hills: "Sultán v kopcích" # todo: NEW TRANSLATION
- INS_the_veranda_of_mecca: "Veranda Mekky" # todo: NEW TRANSLATION
- INS_lord_of_the_nine_kingdoms: "Pán Devíti království" # todo: NEW TRANSLATION
- INS_paramount_of_bali: "Vrchní vládec Bali" # todo: NEW TRANSLATION
- INS_the_indonesian_general: "Indonéský generál" # todo: NEW TRANSLATION
- INS_longstanding_nationalist: "Dlouhodobý nacionalista" # todo: NEW TRANSLATION
- INS_the_steady_hand: "Stabilní ruka" # todo: NEW TRANSLATION
- SIA_minister_of_interior: "Ministr vnitra" # todo: NEW TRANSLATION
- SIA_leader_of_the_senior_officers: "Vůdce starších důstojníků" # todo: NEW TRANSLATION
- SIA_military_strongman: "Vojenský silák" # todo: NEW TRANSLATION
- SIA_embroiled_in_political_scandal: "Zapletený v politickém skandálu" # todo: NEW TRANSLATION
- SIA_prince_of_chai_nat: "Princ z Chai Natu" # todo: NEW TRANSLATION
- SIA_great_war_veteran: "Válečný veterán Velké války" # todo: NEW TRANSLATION
- SIA_fascist_agitator: "Fašistický agitátor" # todo: NEW TRANSLATION
- SIA_militaristic_politician: "Militaristický politik" # todo: NEW TRANSLATION
- SIA_police_general: "Policejní generál" # todo: NEW TRANSLATION
- SIA_artillery_enthusiast: "Nadšenec pro dělostřelectvo" # todo: NEW TRANSLATION
- SIA_great_war_expeditionary_veteran: "Veterán expediční služby Velké války" # todo: NEW TRANSLATION
- SIA_chairman_of_the_regency_council: "Předseda regentské rady" # todo: NEW TRANSLATION
- SIA_seri_thai_organizer: "Organizátor Seri Thai" # todo: NEW TRANSLATION
- infrastructure_group: "Skupina infrastruktury" # todo: NEW TRANSLATION
- brewery: "Pivovar" # todo: NEW TRANSLATION
- food_distributor: "Distributor potravin" # todo: NEW TRANSLATION
- SIA_ailing: "Nemocný" # todo: NEW TRANSLATION
- SIA_the_unproven: "Nevyzkoušený" # todo: NEW TRANSLATION
- SIA_the_ordered: "Uspořádaný" # todo: NEW TRANSLATION
- SIA_the_enlightened: "Osvícený" # todo: NEW TRANSLATION
- SIA_the_reforming: "Reformující" # todo: NEW TRANSLATION
- SIA_the_learned: "Učený" # todo: NEW TRANSLATION
- SIA_the_dutiful: "Poslušný" # todo: NEW TRANSLATION
- SIA_the_industrious: "Pracovitý" # todo: NEW TRANSLATION
- SIA_the_erudite: "Erudovaný" # todo: NEW TRANSLATION
- SIA_the_reflective: "Rozjímavý" # todo: NEW TRANSLATION
- SIA_the_pragmatic: "Pragmatický" # todo: NEW TRANSLATION
- SIA_the_builder: "Stavitel" # todo: NEW TRANSLATION
- SIA_the_stern: "Přísný" # todo: NEW TRANSLATION
- SIA_the_resolute: "Rozhodný" # todo: NEW TRANSLATION
- SIA_the_iron_willed: "Se železnou vůlí" # todo: NEW TRANSLATION
- SIA_the_unbending: "Nepoddajný" # todo: NEW TRANSLATION
- SIA_the_relentless: "Neúprosný" # todo: NEW TRANSLATION
- SIA_the_iron_handed: "Se železnou rukou" # todo: NEW TRANSLATION
- SIA_the_unbreakable: "Nepřemožitelný" # todo: NEW TRANSLATION
- SIA_the_absolutist_regent: "Absolutistický regent" # todo: NEW TRANSLATION
- SIA_the_soldier_regent: "Vojenský regent" # todo: NEW TRANSLATION
- SIA_queen_consort: "Regentka" # todo: NEW TRANSLATION
- SIA_the_constitutionalist_regent: "Konstitucionalistický regent" # todo: NEW TRANSLATION
- SIA_ananda_military_1: "Vojenský student" # todo: NEW TRANSLATION
- SIA_ananda_military_2: "Vojenský učenec" # todo: NEW TRANSLATION
- SIA_ananda_military_3: "Vojenský génius" # todo: NEW TRANSLATION
- SIA_ananda_industry_1: "Student průmyslu" # todo: NEW TRANSLATION
- SIA_ananda_industry_2: "Průmyslový plánovač" # todo: NEW TRANSLATION
- SIA_ananda_industry_3: "Průmyslový vizionář" # todo: NEW TRANSLATION
- SIA_ananda_scholar_1: "Učený princ" # todo: NEW TRANSLATION
- SIA_ananda_scholar_2: "Král učenec" # todo: NEW TRANSLATION
- SIA_ananda_administrator_1: "Schopný správce" # todo: NEW TRANSLATION
- SIA_ananda_administrator_2: "Nadaný správce" # todo: NEW TRANSLATION
- SIA_ananda_administrator_3: "Mistrovský správce" # todo: NEW TRANSLATION
- SIA_under_investigation: "Vyšetřován" # todo: NEW TRANSLATION
- SIA_under_investigation_desc: "Tento generál je vyšetřován Úřadem vojenského dohledu a nebude podnikat ničím drastickým, co by si vysloužilo jejich hněv." # todo: NEW TRANSLATION
- SIA_chairman_of_the_tobacco_bonopoly_bureau: "Předseda úřadu pro tabákový monopol" # todo: NEW TRANSLATION
- SIA_democratic_ambasaddor: "Demokratický velvyslanec" # todo: NEW TRANSLATION
- SIA_privy_council_president: "Předseda soukromé rady" # todo: NEW TRANSLATION
- SIA_head_of_the_fuel_oil_department: "Vedoucí oddělení palivového oleje" # todo: NEW TRANSLATION
- SIA_restored_politician: "Obnovený politik" # todo: NEW TRANSLATION
- SIA_restored_politician_desc: "Tento charakter byl vyhnán ze země, ale nyní mu bylo dovoleno se vrátit." # todo: NEW TRANSLATION
- SIA_royalist_reformer: "Prokrálovský reformátor" # todo: NEW TRANSLATION
- SIA_prince_of_nakhon_sawan: "Princ z Nakhon Sawan" # todo: NEW TRANSLATION
- SIA_renowned_ambassador: "$BRA_renowned_ambassador$" # todo: NEW TRANSLATION
- SIA_noble_courtier: "Urozený dvořan" # todo: NEW TRANSLATION
- SIA_chairman_of_the_tobacco_monopoly_bureau: "Předseda tabákového úřadu" # todo: NEW TRANSLATION
- SIA_chief_of_department_of_highways: "Vedoucí oddělení dálnic" # todo: NEW TRANSLATION
- SIA_ambassador_to_the_uk: "Velvyslanec ve Spojeném království" # todo: NEW TRANSLATION
- SIA_resistance_fighter: "Bojovník odporu" # todo: NEW TRANSLATION
- SIA_leader_of_the_1932_revolution: "Vůdce revoluce roku 1932" # todo: NEW TRANSLATION
- SIA_military_wing_leader: "Vůdce vojenského křídla" # todo: NEW TRANSLATION
- SIA_civilian_wing_leader: "Vůdce civilního křídla" # todo: NEW TRANSLATION
- AST_standard-bearer: "Praporečník" # todo: NEW TRANSLATION
- AST_unifying_figure: "Jednotící osobnost" # todo: NEW TRANSLATION
- AST_wartime_soothsayer: "Válečný věštec" # todo: NEW TRANSLATION
- AST_wartime_soothsayer_uap: "$AST_wartime_soothsayer$" # todo: NEW TRANSLATION
- AST_war_funder: "Financovatel války" # todo: NEW TRANSLATION
- AST_war_funder_alp: "$AST_war_funder$" # todo: NEW TRANSLATION
- AST_voice_of_workers: "Hlas dělníků" # todo: NEW TRANSLATION
- AST_dated_communist_leader: "Zastaralý komunistický vůdce" # todo: NEW TRANSLATION
- AST_a_sound_voice_trait: "Silný hlas" # todo: NEW TRANSLATION
- AST_reliable: "Spolehlivý" # todo: NEW TRANSLATION
- AST_motherland_advocate_leader: "Obhájce vlasti" # todo: NEW TRANSLATION
- AST_motherland_advocate_pa: "Obhájce vlasti" # todo: NEW TRANSLATION
- AST_the_matriarch_leader: "Matriarcha" # todo: NEW TRANSLATION
- AST_the_matriarch_pa: "$AST_the_matriarch_leader$" # todo: NEW TRANSLATION
- AST_governor_general: "Guvernér-general" # todo: NEW TRANSLATION
- AST_revolutionary_equalist: "Revoluční egalitář" # todo: NEW TRANSLATION
- AST_equitable_diplomat: "Spravedlivý diplomat" # todo: NEW TRANSLATION
- AST_supply_minister: "Ministr zásobování" # todo: NEW TRANSLATION
- AST_steelworks_businessman: "Obchodník ze železáren" # todo: NEW TRANSLATION
- AST_indomitable_scout: "Nepřemožitelný průzkumník" # todo: NEW TRANSLATION
- AST_military_expansionist: "Vojenský expansionista" # todo: NEW TRANSLATION
- AST_electrical_engineer: "Elektrický inženýr" # todo: NEW TRANSLATION
- AST_intelligence_director: "Ředitel zpravodajství" # todo: NEW TRANSLATION
- AST_industrial_populist: "Průmyslový populista" # todo: NEW TRANSLATION
- AST_academic_proponent: "Akademický zastánce" # todo: NEW TRANSLATION
- AST_political_stalwart: "Politická opora" # todo: NEW TRANSLATION
- AST_political_stalwart_uap: "$AST_political_stalwart$" # todo: NEW TRANSLATION
- AST_tax_reformer: "Daňový reformátor" # todo: NEW TRANSLATION
- AST_tax_reformer_alp: "$AST_tax_reformer$" # todo: NEW TRANSLATION
- AST_paranoid_patriot: "Paranoidní vlastenec" # todo: NEW TRANSLATION
- AST_orthodox_stalinist: "Ortodoxní stalinista" # todo: NEW TRANSLATION
- AST_irrepressible_freethinker: "Nepotlačitelný svobodomyslný" # todo: NEW TRANSLATION
- AST_irrepressible_freethinker_democratic: "$AST_irrepressible_freethinker$" # todo: NEW TRANSLATION
- AST_soldier_rights_promoter: "Propagátor práv vojáků" # todo: NEW TRANSLATION
- AST_cultural_visionary: "Kulturní vizionář" # todo: NEW TRANSLATION
- AST_vindicated_realist: "Osvědčený realist" # todo: NEW TRANSLATION
- AST_womens_services_director: "Ředitel ženských služeb" # todo: NEW TRANSLATION
- AST_advisor_uap_increase_modifier_tt: "Denní nárůst hlasů §YU.A.P§!: §Y+0.01%§!" # todo: NEW TRANSLATION
- AST_advisor_alp_increase_modifier_tt: "Denní nárůst hlasů §YA.L.P§!: §Y+0.01%§!" # todo: NEW TRANSLATION
- AST_advisor_decrease_modifier_tt: "Denní pokles hlasů vládnoucí strany: §Y-0.01%§!" # todo: NEW TRANSLATION
- expeditionary_leader_trait: "Vůdce expediční síly" # todo: NEW TRANSLATION
- expeditionary_leader_trait_desc: "§LSchopný efektivně vést malou sílu v zámoří.§!" # todo: NEW TRANSLATION
- AST_denim_factory: "Továrna na džíny" # todo: NEW TRANSLATION
- AST_denim_factory_upgraded: "$AST_denim_factory$" # todo: NEW TRANSLATION
- AST_the_big_australian: "Velký Australan" # todo: NEW TRANSLATION
- AST_steelworks_and_shipyard: "Železárny a loděnice" # todo: NEW TRANSLATION
- AST_the_big_australian_upgraded: "$AST_the_big_australian$" # todo: NEW TRANSLATION
- AST_steelworks_and_shipyard_upgraded: "$AST_steelworks_and_shipyard$" # todo: NEW TRANSLATION
- AST_mount_isa: "Mount Isa" # todo: NEW TRANSLATION
- AST_naval_engineer: "Námořní inženýr" # todo: NEW TRANSLATION
- NZL_minister_of_public_works: "Ministr veřejných prací" # todo: NEW TRANSLATION
- NZL_social_welfare_architect_trait: "Architekt sociální péče" # todo: NEW TRANSLATION
- NZL_pro_american_nationalist_trait: "Proamerický nacionalista" # todo: NEW TRANSLATION
- NZL_new_zealand_legionare_trait: "Novozélandský legionář" # todo: NEW TRANSLATION
- NZL_reserve_bank_governor: "Guvernér rezervní banky" # todo: NEW TRANSLATION
- NZL_hydro_electricity_professor: "Profesor hydroelektřiny" # todo: NEW TRANSLATION
- NZL_treasury_secretary: "Tajemník pokladny Nového Zélandu" # todo: NEW TRANSLATION
- submarine_officer: "Kapitán ponorky" # todo: NEW TRANSLATION
- submarine_officer_desc: "§LSloužil jako kapitán ponorky.§!" # todo: NEW TRANSLATION
- destroyer_officer: "Kapitán torpédoborce" # todo: NEW TRANSLATION
- destroyer_officer_desc: "§LSloužil jako kapitán torpédoborce.§!" # todo: NEW TRANSLATION
- cruiser_officer: "Kapitán křižníku" # todo: NEW TRANSLATION
- cruiser_officer_desc: "§LSloužil jako kapitán křižníku.§!" # todo: NEW TRANSLATION
- heavy_ship_officer: "Kapitán těžké lodi" # todo: NEW TRANSLATION
- heavy_ship_officer_desc: "§LSloužil jako kapitán těžké lodi.§!" # todo: NEW TRANSLATION
- carrier_officer: "Kapitán letadlové lodi" # todo: NEW TRANSLATION
- carrier_officer_desc: "§LSloužil jako kapitán letadlové lodi.§!" # todo: NEW TRANSLATION
+ INS_loyalty_to_indonesia: "Loajalita k Indonésii"
+ INS_loyalty_to_indonesia_desc: "Tento velitel přísahá loajalitu Indonésii a v jakékoli revoluci se postaví proti Nizozemcům"
+ INS_loyalty_to_netherlands: "Loajalita k Nizozemsku"
+ INS_loyalty_to_netherlands_desc: "Tento velitel přísahá loajalitu Nizozemsku a v revoluci bude bojovat na straně Nizozemců"
+ TAOG_foreign_affairs_minister: "Nizozemský ministr"
+ TAOG_minister_of_finance: "Ministr financí"
+ TAOG_strict_loyalist: "Přísný loajalista"
+ TAOG_dutch_representative: "Nizozemský zástupce"
+ TAOG_independence_activist: "Aktivista za nezávislost"
+ TAOG_representative_of_welfare: "Zástupce pro sociální péči"
+ TAOG_catholic_representative: "Zástupce pro katolické záležitosti"
+ TAOG_collaborationist: "Kolaborant"
+ TAOG_chinese_representative: "Zástupce pro čínské záležitosti"
+ TAOG_republic_foreign_minister: "Ministr zahraničních věcí"
+ TAOG_home_affairs: "Ministr vnitra"
+ TAOG_minister_of_welfare: "Ministr sociální péče"
+ TAOG_minister_of_justice: "Ministr spravedlnosti"
+ TAOG_republic_minister_of_finance: "Ministr financí"
+ TAOG_minister_of_education: "Ministr školství"
+ TAOG_minister_of_social_affairs: "Ministr sociálních věcí"
+ TAOG_minister_of_health: "Ministr zdravotnictví"
+ TAOG_president_of_bank: "Prezident De Javasche Bank"
+ TAOG_engineer: "Inspektor ženistů (Génius)"
+ TAOG_acting_minister_defense: "Ministr obrany (samozvaný)"
+ TAOG_indonesian_minister: "Indonéský ministr"
+ TAOG_liberal_colonial_leader: "Umírněný guvernér"
+ TAOG_liberal_colonial_leader_2: "Umírněný guvernér"
+ SIA_scholarly_politician: "Učený politik"
+ INS_nationalist_scholar: "Nacionalistický učenec"
+ INS_trusted_leader: "Úspěšný reformátor"
+ INS_inefficient_government: "Neefektivní vláda"
+ INS_federal_parliament: "Soustředěná vláda"
+ INS_staunch_imperialist: "$staunch_imperialist$"
+ INS_staunch_imperialist_upgraded: "$staunch_imperialist$"
+ INS_pki_chairman: "Předseda komunistické strany"
+ INS_transportation_minister: "Ministr dopravy"
+ INS_revolutionary_strategist: "Revoluční stratég"
+ INS_uncompromising_idealist: "Nekompromisní idealista"
+ INS_returned_from_moscow: "Navrátilec z Moskvy"
+ INS_comintern_agent: "Agent Kominterny"
+ INS_leader_of_the_people: "Vůdce lidu"
+ INS_leader_of_the_people_advisor: "$INS_leader_of_the_people$"
+ INS_compromising_centrist: "Kompromisní centrista"
+ INS_the_proclamator: "Proklamátor"
+ INS_the_king_who_gave_his_crown: "Král, který se vzdal své koruny"
+ INS_the_sultan_schoolmaster_of_siak: "Sultán-učitel ze Siaku"
+ INS_kolano_of_the_spice_sea: "Kolano Moře koření"
+ INS_the_four_mountains_of_ternate: "Čtyři hory Ternate"
+ INS_heir_to_the_rooster_of_the_east: "Dědic Kohouta východu"
+ INS_sombaya_of_gowa: "Sombaya z Gowy"
+ INS_sultan_of_the_kapuas_mouth: "Sultán ústí Kapuasu"
+ INS_the_merchant_sultan_of_pontianak: "Kupecký sultán z Pontianaku"
+ INS_sultan_in_the_hills: "Sultán v kopcích"
+ INS_the_veranda_of_mecca: "Veranda Mekky"
+ INS_lord_of_the_nine_kingdoms: "Pán devíti království"
+ INS_paramount_of_bali: "Nejvyšší vládce Bali"
+ INS_the_indonesian_general: "Indonéský generál"
+ INS_longstanding_nationalist: "Dlouholetý nacionalista"
+ INS_the_steady_hand: "Pevná ruka"
+ SIA_minister_of_interior: "Ministr vnitra"
+ SIA_leader_of_the_senior_officers: "Vůdce vyšších důstojníků"
+ SIA_military_strongman: "Vojenský silák"
+ SIA_embroiled_in_political_scandal: "Zapletený do politického skandálu"
+ SIA_prince_of_chai_nat: "Princ z Chai Natu"
+ SIA_great_war_veteran: "Expediční veterán Velké války"
+ SIA_fascist_agitator: "Fašistický agitátor"
+ SIA_militaristic_politician: "Militaristický politik"
+ SIA_police_general: "Policejní generál"
+ SIA_artillery_enthusiast: "Nadšenec do dělostřelectva"
+ SIA_great_war_expeditionary_veteran: "Expediční veterán Velké války"
+ SIA_chairman_of_the_regency_council: "Předseda regentské rady"
+ SIA_seri_thai_organizer: "Organizátor Seri Thai"
+ infrastructure_group: "Infrastrukturní skupina"
+ brewery: "Pivovar"
+ food_distributor: "Distributor potravin"
+ SIA_ailing: "Chorý"
+ SIA_the_unproven: "Neprověřený"
+ SIA_the_ordered: "Ukázněný"
+ SIA_the_enlightened: "Osvícený"
+ SIA_the_reforming: "Reformátor"
+ SIA_the_learned: "Učený"
+ SIA_the_dutiful: "Svědomitý"
+ SIA_the_industrious: "Pilný"
+ SIA_the_erudite: "Erudovaný"
+ SIA_the_reflective: "Hloubavý"
+ SIA_the_pragmatic: "Pragmatický"
+ SIA_the_builder: "Budovatel"
+ SIA_the_stern: "Přísný"
+ SIA_the_resolute: "Odhodlaný"
+ SIA_the_iron_willed: "Železná vůle"
+ SIA_the_unbending: "Neústupný"
+ SIA_the_relentless: "Neúprosný"
+ SIA_the_iron_handed: "Železná ruka"
+ SIA_the_unbreakable: "Nezlomný"
+ SIA_the_absolutist_regent: "Absolutistický regent"
+ SIA_the_soldier_regent: "Regent-voják"
+ SIA_queen_consort: "Královna regentka"
+ SIA_the_constitutionalist_regent: "Konstitucionalistický regent"
+ SIA_ananda_military_1: "Student vojenství"
+ SIA_ananda_military_2: "Vojenský učenec"
+ SIA_ananda_military_3: "Vojenský zázrak"
+ SIA_ananda_industry_1: "Student průmyslu"
+ SIA_ananda_industry_2: "Průmyslový plánovač"
+ SIA_ananda_industry_3: "Průmyslový vizionář"
+ SIA_ananda_scholar_1: "Učený princ"
+ SIA_ananda_scholar_2: "Král-učenec"
+ SIA_ananda_administrator_1: "Schopný správce"
+ SIA_ananda_administrator_2: "Nadaný správce"
+ SIA_ananda_administrator_3: "Mistr správy"
+ SIA_under_investigation: "Vyšetřovaný"
+ SIA_under_investigation_desc: "Tento generál je vyšetřován Úřadem vojenského dohledu a neudělá nic drastického, čím by vyvolal jeho hněv."
+ SIA_chairman_of_the_tobacco_bonopoly_bureau: "Předseda Úřadu tabákového monopolu"
+ SIA_democratic_ambasaddor: "Demokratický velvyslanec"
+ SIA_privy_council_president: "Předseda tajné rady"
+ SIA_head_of_the_fuel_oil_department: "Vedoucí odboru paliv a olejů"
+ SIA_restored_politician: "Navrácený politik"
+ SIA_restored_politician_desc: "Tato postava byla vypovězena ze země, ale nyní jí byl povolen návrat."
+ SIA_royalist_reformer: "Royalistický reformátor"
+ SIA_prince_of_nakhon_sawan: "Princ z Nakhon Sawanu"
+ SIA_renowned_ambassador: "$BRA_renowned_ambassador$"
+ SIA_noble_courtier: "Urozený dvořan"
+ SIA_chairman_of_the_tobacco_monopoly_bureau: "Předseda tabákového monopolu"
+ SIA_chief_of_department_of_highways: "Vedoucí silničního odboru"
+ SIA_ambassador_to_the_uk: "Velvyslanec ve Spojeném království"
+ SIA_resistance_fighter: "Bojovník odboje"
+ SIA_leader_of_the_1932_revolution: "Vůdce revoluce roku 1932"
+ SIA_military_wing_leader: "Vůdce vojenského křídla"
+ SIA_civilian_wing_leader: "Vůdce civilního křídla"
+ AST_standard-bearer: "Korouhevník"
+ AST_unifying_figure: "Sjednocující osobnost"
+ AST_wartime_soothsayer: "Válečný věštec"
+ AST_wartime_soothsayer_uap: "$AST_wartime_soothsayer$"
+ AST_war_funder: "Financovatel války"
+ AST_war_funder_alp: "$AST_war_funder$"
+ AST_voice_of_workers: "Hlas pracujících"
+ AST_dated_communist_leader: "Zastaralý komunistický vůdce"
+ AST_a_sound_voice_trait: "Rozumný hlas"
+ AST_reliable: "Spolehlivý"
+ AST_motherland_advocate_leader: "Obhájce mateřské země"
+ AST_motherland_advocate_pa: "Obhájce mateřské země"
+ AST_the_matriarch_leader: "Matriarcha"
+ AST_the_matriarch_pa: "$AST_the_matriarch_leader$"
+ AST_governor_general: "Generální guvernér"
+ AST_revolutionary_equalist: "Revoluční rovnostář"
+ AST_equitable_diplomat: "Spravedlivý diplomat"
+ AST_supply_minister: "Ministr zásobování"
+ AST_steelworks_businessman: "Podnikatel v ocelářství"
+ AST_indomitable_scout: "Nezdolný skaut"
+ AST_military_expansionist: "Vojenský expanzionista"
+ AST_electrical_engineer: "Elektroinženýr"
+ AST_intelligence_director: "Ředitel zpravodajské služby"
+ AST_industrial_populist: "Průmyslový populista"
+ AST_academic_proponent: "Akademický zastánce"
+ AST_political_stalwart: "Politická opora"
+ AST_political_stalwart_uap: "$AST_political_stalwart$"
+ AST_tax_reformer: "Daňový reformátor"
+ AST_tax_reformer_alp: "$AST_tax_reformer$"
+ AST_paranoid_patriot: "Paranoidní vlastenec"
+ AST_orthodox_stalinist: "Ortodoxní stalinista"
+ AST_irrepressible_freethinker: "Nezkrotný volnomyšlenkář"
+ AST_irrepressible_freethinker_democratic: "$AST_irrepressible_freethinker$"
+ AST_soldier_rights_promoter: "Prosazovatel práv vojáků"
+ AST_cultural_visionary: "Kulturní vizionář"
+ AST_vindicated_realist: "Ospravedlněný realista"
+ AST_womens_services_director: "Ředitelka ženských služeb"
+ AST_advisor_uap_increase_modifier_tt: "Denní nárůst hlasů §YU.A.P§!: §Y+0.01%§!"
+ AST_advisor_alp_increase_modifier_tt: "Denní nárůst hlasů §YA.L.P§!: §Y+0.01%§!"
+ AST_advisor_decrease_modifier_tt: "Denní pokles hlasů §Yvládnoucí strany§!: §Y-0.01%§!"
+ expeditionary_leader_trait: "Expediční velitel"
+ expeditionary_leader_trait_desc: "§LSchopný efektivně vést menší síly v zámoří.§!"
+ AST_denim_factory: "Továrna na denim"
+ AST_denim_factory_upgraded: "$AST_denim_factory$"
+ AST_the_big_australian: "Velký Australan"
+ AST_steelworks_and_shipyard: "Ocelárny a loděnice"
+ AST_the_big_australian_upgraded: "$AST_the_big_australian$"
+ AST_steelworks_and_shipyard_upgraded: "$AST_steelworks_and_shipyard$"
+ AST_mount_isa: "Mount Isa"
+ AST_naval_engineer: "Námořní inženýr"
+ NZL_minister_of_public_works: "Ministr veřejných prací"
+ NZL_social_welfare_architect_trait: "Architekt sociální péče"
+ NZL_pro_american_nationalist_trait: "Proamerický nacionalista"
+ NZL_new_zealand_legionare_trait: "Novozélandský legionář"
+ NZL_reserve_bank_governor: "Guvernér rezervní banky"
+ NZL_hydro_electricity_professor: "Profesor hydroelektřiny"
+ NZL_treasury_secretary: "Tajemník novozélandské státní pokladny"
+ submarine_officer: "Kapitán ponorky"
+ submarine_officer_desc: "§LSloužil jako kapitán ponorky.§!"
+ destroyer_officer: "Kapitán torpédoborce"
+ destroyer_officer_desc: "§LSloužil jako kapitán torpédoborce.§!"
+ cruiser_officer: "Kapitán křižníku"
+ cruiser_officer_desc: "§LSloužil jako kapitán křižníku.§!"
+ heavy_ship_officer: "Kapitán těžké lodi"
+ heavy_ship_officer_desc: "§LSloužil jako kapitán těžké lodi.§!"
+ carrier_officer: "Kapitán letadlové lodi"
+ carrier_officer_desc: "§LSloužil jako kapitán letadlové lodi.§!"

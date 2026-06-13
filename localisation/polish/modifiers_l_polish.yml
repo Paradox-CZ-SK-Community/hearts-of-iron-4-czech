@@ -548,8 +548,8 @@
  army_core_defence_factor_tt: " $MODIFIERS_ARMY_CORE_DEFENCE_FACTOR$: $RIGHT|+=%1$"
  MODIFIERS_ARMY_CLAIM_ATTACK_FACTOR: "Útok divizí na nárokovaném území"
  MODIFIERS_ARMY_CLAIM_DEFENCE_FACTOR: "Obrana divizí na nárokovaném území"
- MODIFIERS_ARMY_NON_CORE_ATTACK_FACTOR: "Útok divizí na nedomovské území" # todo: NEW TRANSLATION
- MODIFIERS_ARMY_NON_CORE_DEFENCE_FACTOR: "Obrana divizí na nedomovském území" # todo: NEW TRANSLATION
+ MODIFIERS_ARMY_NON_CORE_ATTACK_FACTOR: "Útok divize na nedomovském území"
+ MODIFIERS_ARMY_NON_CORE_DEFENCE_FACTOR: "Obrana divize na nedomovském území"
  army_non_core_attack_factor_tt: " $MODIFIERS_ARMY_NON_CORE_ATTACK_FACTOR$: $RIGHT|+=%1$"
  army_non_core_defence_factor_tt: " $MODIFIERS_ARMY_NON_CORE_DEFENCE_FACTOR$: $RIGHT|+=%1$"
  MODIFIERS_ARMY_INFANTRY_ATTACK_FACTOR: "Útok pěchoty"
@@ -1107,7 +1107,7 @@
  recon_factor_while_entrenched_tt: " $MODIFIER_RECON_FACTOR_WHILE_ENTRENCHED$ $RIGHT|+=%1$"
  MODIFIER_CANNOT_USE_ABILITIES: "Nelze používat bojové schopnosti"
  MODIFIER_UNIT_LEADER_SKILL_BONUS_FACTOR: "Bonusy k dovednostem velitele"
- MODIFIER_UNIT_LEADER_SKILL_BONUS_FACTOR_DESC: "Mění bonusy z dovedností velitelů udělované jednotkám pod jejich velením." # todo: NEW TRANSLATION
+ MODIFIER_UNIT_LEADER_SKILL_BONUS_FACTOR_DESC: "Upravuje bonusy ze schopností velitele udělené jednotkám pod jeho velením."
  MODIFIER_UNIT_LEADER_PROMOTE_COST_FACTOR: "Cena povýšení velitele"
  promote_cost_factor_tt: "$MODIFIER_UNIT_LEADER_PROMOTE_COST_FACTOR$: $RIGHT|-=%1$"
  MODIFIER_SICKNESS_CHANCE: "Šance na onemocnění"
@@ -1323,7 +1323,7 @@
  MODIFIER_ARMY_STRENGTH: "HP"
  MODIFIER_BREAKTHROUGH: "Průlom"
  breakthrough_factor_tt: " $MODIFIER_BREAKTHROUGH$: $RIGHT|+=%1$"
- MODIFIER_CASUALTY_TRICKLEBACK: "Postupné navrácení ztrát" # todo: NEW TRANSLATION
+ MODIFIER_CASUALTY_TRICKLEBACK: "Záchrana raněných"
  casualty_trickleback_tt: " $MODIFIER_CASUALTY_TRICKLEBACK$: $RIGHT|+=%1$"
  carrier_experience_bonus_max: "Ze zkušeností letadlové lodi"
  carrier_experience_malus_min: "Ze zkušeností letadlové lodi"
@@ -2563,17 +2563,18 @@
  MODIFIER_LOCAL_FACTORY_ENERGY_CONSUMPTION_PER_INFRASTRUCTURE: "Požadavky továren na energii za jednotku infrastruktury"
  MODIFIER_LOCAL_RESOURCE_GAIN_EFFICIENCY_PER_INFRASTRUCTURE: "Zisk surovin za jednotku infrastruktury"
  local_resource_gain_efficiency_per_infrastructure_tt: " $MODIFIER_LOCAL_RESOURCE_GAIN_EFFICIENCY_PER_INFRASTRUCTURE$: $RIGHT|+=%1$"
- MODIFIER_COMBAT_ENTRENCHMENT: "Bojový bonus z opevnění" # todo: NEW TRANSLATION
+ MODIFIER_COMBAT_ENTRENCHMENT: "Bojový bonus za zakopání"
  combat_entrenchment_tt: " $MODIFIER_COMBAT_ENTRENCHMENT$: $RIGHT|+=%1$"
- MODIFIER_ORG_DAMAGE_MULTIPLIER: "Poškození organizace" # todo: NEW TRANSLATION
+ MODIFIER_ORG_DAMAGE_MULTIPLIER: "Utrpěné poškození organizace"
  org_damage_multiplier_tt: " $MODIFIER_ORG_DAMAGE_MULTIPLIER$: $RIGHT|-=%1$"
- MODIFIER_STR_DAMAGE_MULTIPLIER: "Poškození síly" # todo: NEW TRANSLATION
+ MODIFIER_STR_DAMAGE_MULTIPLIER: "Utrpěné poškození síly"
  str_damage_multiplier_tt: " $MODIFIER_STR_DAMAGE_MULTIPLIER$: $RIGHT|-=%1$"
- MODIFIER_WAR_SUPPORT_REDUCTION_ON_DAMAGE: "Snížení podpory války v důsledku ztrát" # todo: NEW TRANSLATION
+ MODIFIER_WAR_SUPPORT_REDUCTION_ON_DAMAGE: "Ztráta válečné podpory ze ztrát"
  war_support_reduction_on_damage_tt: " $MODIFIER_WAR_SUPPORT_REDUCTION_ON_DAMAGE$: $RIGHT|-=%1$"
- MODIFIER_CANNOT_RETREAT_WHILE_DEFENDING: "Nelze ustoupit při obraně" # todo: NEW TRANSLATION
+ MODIFIER_CANNOT_RETREAT_WHILE_DEFENDING: "Nelze ustoupit při obraně"
  cannot_retreat_while_defending_tt: " $MODIFIER_CANNOT_RETREAT_WHILE_DEFENDING$: $RIGHT|+0$"
- MODIFIER_CANNOT_RETREAT_WHILE_ATTACKING: "Nelze ustoupit při útoku" # todo: NEW TRANSLATION
+ MODIFIER_CANNOT_RETREAT_WHILE_ATTACKING: "Nelze ustoupit při útoku"
  cannot_retreat_while_attacking_tt: " $MODIFIER_CANNOT_RETREAT_WHILE_ATTACKING$: $RIGHT|+0$"
- MODIFIER_AIR_CLOSE_AIR_SUPPORT_ORG_DAMAGE_FACTOR: "Faktor poškození organizace z blízké letecké podpory" # todo: NEW TRANSLATION
+ local_resource_gain_efficiency_per_infrastructure_tt: " $MODIFIER_LOCAL_RESOURCE_GAIN_EFFICIENCY_PER_INFRASTRUCTURE$: $RIGHT|+=%1$"
+ MODIFIER_AIR_CLOSE_AIR_SUPPORT_ORG_DAMAGE_FACTOR: "Faktor poškození organizace leteckou podporou"
  air_close_air_support_org_damage_factor_tt: " $MODIFIER_AIR_CLOSE_AIR_SUPPORT_ORG_DAMAGE_FACTOR$: $RIGHT|+=%1$"

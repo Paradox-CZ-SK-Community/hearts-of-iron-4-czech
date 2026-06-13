@@ -675,13 +675,13 @@
  ENG_desperate_defense_of_the_homeland: "Bezohledná obrana vlasti"
  ENG_home_guard_assistance_in_factories: "Asistence domácí gardy v továrnách"
  ENG_blitz_spirit_idea: "Blitz Spirit"
- ENG_evacuated_colonial_assets: "Evakuovaná koloniální aktiva" # todo: NEW TRANSLATION
- MAL_ketuanan_melayu: "Ketuanan Melayu" # todo: NEW TRANSLATION
- MAL_ketuanan_melayu_desc: "Přestože je naše společnost kulturně rozmanitá, dominují jí myšlenky segregace, podporované koloniálními úřady. To musí být omezeno, pokud má být dosaženo stability." # todo: NEW TRANSLATION
- MAL_colonial_administration_idea: "Koloniální vykořisťování" # todo: NEW TRANSLATION
+ ENG_evacuated_colonial_assets: "Evakuovaná koloniální aktiva"
+ MAL_ketuanan_melayu: "Ketuanan Melayu"
+ MAL_ketuanan_melayu_desc: "Přestože je naše společnost kulturně rozmanitá, ovládají ji myšlenky segregace podporované koloniálními úřady. Pokud má být dosaženo stability, musí být omezeny."
+ MAL_colonial_administration_idea: "Koloniální vykořisťování"
  nationalism: "Nacionalismus"
  nationalism_desc: "Srdce našeho lidu hoří národnou hrdostí a bude tvrdě bojovat, aby chránili naši domovinu"
- MAL_loosen_societal_restrictions_decision: "Zmírnit společenská omezení" # todo: NEW TRANSLATION
+ MAL_loosen_societal_restrictions_decision: "Zmírnit společenská omezení"
  british_fighter_discount: "Skupina pro výrobu letadel"
  british_arms_discount: "Birmingham Small Arms Company"
  british_convoy_discount: "Priorita konvojového systému"
@@ -1194,23 +1194,23 @@
  AST_john_lavarack: "John Lavarack"
  AST_jack_beasley: "Jack Beasley"
  AST_new_south_wales_rc_ic: "New South Wales Railway Company"
- AST_broken_hill_proprietary_company_ic: "Broken Hill Proprietary Company" # todo: NEW TRANSLATION
- AST_broken_hill_proprietary_company_improved_ic: "$AST_broken_hill_proprietary_company_ic$" # todo: NEW TRANSLATION
- AST_south_australian_railways_ic: "South Australian Railways" # todo: NEW TRANSLATION
- AST_general_electric_company_ic: "General Electric Company" # todo: NEW TRANSLATION
- AST_bradford_cotton_mills_ic: "Bradmill Denim Factory" # todo: NEW TRANSLATION
- AST_bradford_cotton_mills_improved_ic: "$AST_bradford_cotton_mills_ic$" # todo: NEW TRANSLATION
- AST_thiess_bros_ic: "Thiess Bros" # todo: NEW TRANSLATION
- AST_mount_isa_mines_ic: "Mount Isa Mines" # todo: NEW TRANSLATION
- AST_mount_isa_mines_improved_ic: "$AST_mount_isa_mines_ic$" # todo: NEW TRANSLATION
- AST_whyalla_steelworks_ic: "Whyalla Steelworks" # todo: NEW TRANSLATION
- AST_whyalla_steelworks_improved_ic: "$AST_whyalla_steelworks_ic$" # todo: NEW TRANSLATION
+ AST_broken_hill_proprietary_company_ic: "Broken Hill Proprietary Company"
+ AST_broken_hill_proprietary_company_improved_ic: "$AST_broken_hill_proprietary_company_ic$"
+ AST_south_australian_railways_ic: "Jih Australské železnice"
+ AST_general_electric_company_ic: "General Electric Company"
+ AST_bradford_cotton_mills_ic: "Džínová továrna Bradmill"
+ AST_bradford_cotton_mills_improved_ic: "$AST_bradford_cotton_mills_ic$"
+ AST_thiess_bros_ic: "Thiess Bros"
+ AST_mount_isa_mines_ic: "Mount Isa Mines"
+ AST_mount_isa_mines_improved_ic: "$AST_mount_isa_mines_ic$"
+ AST_whyalla_steelworks_ic: "Whyallské ocelárny"
+ AST_whyalla_steelworks_improved_ic: "$AST_whyalla_steelworks_ic$"
  AST_sydney_rowell: "Sydney Rowell"
  AST_vernon_sturdee: "Vernon Sturdee"
  AST_richard_williams: "Richard Williams"
  AST_charles_burnett: "Charles Burnett"
  AST_ragnar_colvin: "Ragnar Colvin"
- AST_john_crace: "John Crace" # todo: NEW TRANSLATION
+ AST_john_crace: "John Crace"
  AST_edmund_herring: "Edmund Herring"
  AST_john_collins: "John Collins"
  AST_clive_caldwell: "Clive Caldwell"
@@ -1218,7 +1218,7 @@
  AST_james_fairbairn: "James Fairbairn"
  AST_norman_makin: "Norman Makin"
  AST_alexander_hore_ruthven: "A. Hore-Ruthven"
- AST_robert_menzies: "Robert Menzies" # todo: NEW TRANSLATION
+ AST_robert_menzies: "Robert Menzies"
  AST_ben_chifley: "Ben Chifley"
  AST_herbert_v_evatt: "Herbert V. Evatt"
  AST_cederic_hicks: "Cedric Hicks"
@@ -1642,7 +1642,7 @@
  CRO_ivan_crnkovic: "Ivan Crnković"
  CRO_mihajlo_tomasic: "Mihajlo Tomašić"
  RAJ_subhas_chanda_bose: "Subháš Čandra Bós"
- RAJ_bose_is_hiding_tt: "$RAJ_subhas_chanda_bose$ se momentálně nikde neskrývá" # todo: NEW TRANSLATION
+ RAJ_bose_is_hiding_tt: "$RAJ_subhas_chanda_bose$ se momentálně nikde neskrývá"
  RAJ_bhimrao_ramji_ambedkar: "Bhimrao Ramdží Ambedkar"
  RAJ_karam_singh_mann: "Karam Singh Mann"
  RAJ_chakravarti_rajagopalachari: "Čakravarti Radžagopalačárí"
@@ -2501,8 +2501,8 @@
  mazagon_dock_limited: "Mazagon Dock Limited"
  NZL_nz_railways_ic: "Novozélandské železnice"
  NZL_wairarapa_ranches: "Ranče Wairarapa"
- NZL_reserve_bank_of_new_zealand: "Rezervní banka Nového Zélandu" # todo: NEW TRANSLATION
- NZL_national_film_unit: "Národní filmová jednotka" # todo: NEW TRANSLATION
+ NZL_reserve_bank_of_new_zealand: "Rezervní banka Nového Zélandu"
+ NZL_national_film_unit: "Národní filmová jednotka"
  NZL_st_mary_bay_ship: "Loděnice v zálivu Saint Mary"
  NZL_port_chalmers_shipbuilding: "Loděnice Port Chalmers"
  NZL_charlton_mw: "Charlton Motor Workshops"
@@ -2589,8 +2589,8 @@
  USA_privatization: "Privatizace státních společností"
  USA_gold_standard: "Na Zlatém standardu"
  CSA_spirit_of_rebellion: "Duch rebelie"
- CSA_renard: "Renard" # todo: NEW TRANSLATION
- CSA_avions_fairey: "Avions Fairey" # todo: NEW TRANSLATION
+ CSA_renard: "Renard"
+ CSA_avions_fairey: "Avions Fairey"
  harry_white: "Harry White"
  victor_perlo: "Victor Perlo"
  whittaker_chambers: "Whittaker Chambers"
@@ -2638,8 +2638,8 @@
  POR_british_influence_desc: "Britská vláda investuje do využívání zdrojů v naší zemi. Toto je cenná příležitost pro zvýšení našich pokroků ve výzkumu a vývoji."
  POR_hydroelectric_power: "Hydroelektrická energie"
  POR_hydroelectric_power_desc: "Díky investicím provedeným na severu a v středním Portugalsku jsme konečně vybudovali síť přehrad, které vyrábějí elektřinu a regulují tok řek."
- POR_timorese_coffe_and_sandalwood_exports_idea: "Timorské exporty kávy a santalového dřeva" # todo: NEW TRANSLATION
- POR_if_lose_timor_exports_die_tt: "§RBude odstraněno, pokud někdy ztratíme vlastnictví [721.GetName]§!" # todo: NEW TRANSLATION
+ POR_timorese_coffe_and_sandalwood_exports_idea: "Vývoz timorské kávy a santálového dřeva"
+ POR_if_lose_timor_exports_die_tt: "§RBude odstraněno, pokud [721.GetName] někdy nebude pod naši kontrolou§!"
  POR_colonial_assimilation_policy: "Politika kolonialní asimilace"
  POR_colonial_army: "Koloniální armáda"
  POR_national_syndicalism: "Národní syndikalismus"

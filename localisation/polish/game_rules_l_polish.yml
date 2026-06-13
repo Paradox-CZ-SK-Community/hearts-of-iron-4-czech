@@ -97,7 +97,7 @@
  RULE_GROUP_DIVISION_TEMPLATES: "Šablony divizí"
  RULE_ALLOW_PARATROOPERS: "Parašutistické výsadky"
  RULE_ALLOW_PARATROOPERS_ALLOWED_DESC: "Země mohou svobodně provádět parašutistické výsadky."
- RULE_ALLOW_PARATROOPERS_BLOCKED_DESC: "Země nesmí za žádných okolností provádět parašutistické výsadky. Parašutistické divize mohou být stále naverbovány, ale nebudou schopny provádět vzdušné útoky."
+ RULE_ALLOW_PARATROOPERS_BLOCKED_DESC: "Země nesmí za žádných okolností provádět parašutistické výsadky. Výsadkářské divize mohou být stále naverbovány, ale nebudou schopny provádět vzdušné útoky."
  RULE_ALLOW_PARATROOPERS_BLOCKED_TOOLTIP: "Herní pravidlo: §RZemě nesmí za žádných okolností provádět parašutistické výsadky.§!"
  RULE_GROUP_COVERT_ACTIONS: "Tajné akce"
  RULE_ALLOW_COUPS: "Převraty"
@@ -813,33 +813,33 @@
  RULE_OPTION_MACARTHUR_PHI_AI_DESC: "Po pádu filipínské vlády vystoupí vojenská osobnost a povede národ proti všem útočníkům."
  RULE_ALLOW_RELEASE_NATIONS_ALL_NATIONS_SUDETENLAND_TOOLTIP: "Tento národ nesmí být nikdy uvolněn."
  RULE_ALLOW_RELEASE_NATIONS_ALL_NATIONS_RUTHENIA_TOOLTIP: "Tento národ nesmí být nikdy uvolněn."
- RULE_OPTION_AST_AI_RANDOM_TAOG_HISTORICAL: "Historické" # todo: NEW TRANSLATION
- RULE_OPTION_AST_AI_RANDOM_TAOG_HISTORICAL_DESC: "Pevně zakotvená, byť nestabilní demokracie dává Austrálii základy, aby se mohla rozhlédnout po širém světě a připravit se na blížící se bouři." # todo: NEW TRANSLATION
- RULE_OPTION_AST_ADELA_FASCIST_TAOG_AI: "Fašistická Adela" # todo: NEW TRANSLATION
- RULE_OPTION_AST_ADELA_FASCIST_TAOG_AI_DESC: "Adela Pankhurst-Walsh vede Austrálii s počátečním cílem ještě více rozšířit Britské impérium, i když je otázkou, kdo přesně toto rozšířené impérium zdědí." # todo: NEW TRANSLATION
- RULE_OPTION_AST_PETER_FASCIST_TAOG_AI: "Fašistický Peter" # todo: NEW TRANSLATION
- RULE_OPTION_AST_PETER_FASCIST_TAOG_AI_DESC: "Hnutí 'Australia First' požaduje nezávislou Austrálii, která si bude moci utvářet vlastní budoucnost." # todo: NEW TRANSLATION
- RULE_OPTION_AST_RANDOM_DEMOCRATIC_TAOG_AI: "Náhodně sociálně-demokratické" # todo: NEW TRANSLATION
- RULE_OPTION_AST_RANDOM_DEMOCRATIC_TAOG_AI_DESC: "Hlas lidu má v demokratické Austrálii největší váhu; osud národa je podřízen vůli lidu." # todo: NEW TRANSLATION
- RULE_OPTION_AST_ANTI_COMMONWEALTH_COMMUNIST_TAOG_AI: "Komunista proti Commonwealthu" # todo: NEW TRANSLATION
- RULE_OPTION_AST_ANTI_COMMONWEALTH_COMMUNIST_TAOG_AI_DESC: "Vzdálený suzerén určoval osud Austrálie příliš dlouho. Nastal čas shodit impériální jho... a při tom osvobodit i další." # todo: NEW TRANSLATION
- RULE_OPTION_AST_COMINTERN_COMMUNIST_TAOG_AI: "Kominternský komunista" # todo: NEW TRANSLATION
- RULE_OPTION_AST_COMINTERN_COMMUNIST_TAOG_AI_DESC: "Jen v jednotě může být realizována komunistická utopie, neboť to je cesta světové dělnické revoluce." # todo: NEW TRANSLATION
- INS_ai_behavior: "@INS Dutch East Indies" # todo: NEW TRANSLATION
- RULE_OPTION_TRUE_HISTORICAL_INS_AI: "Historické" # todo: NEW TRANSLATION
- RULE_OPTION_TRUE_HISTORICAL_INS_AI_DESC: "AI zůstane loajální Nizozemsku, ale po japonské okupaci zahájí revoluci." # todo: NEW TRANSLATION
- RULE_OPTION_LOYALIST_INS_AI: "Loajalismus" # todo: NEW TRANSLATION
- RULE_OPTION_LOYALIST_INS_AI_DESC: "AI zůstane loajální Nizozemsku, buď bude usilovat o nezávislost poklidně prostřednictvím petice Soetardjo, nebo udrží koloniální pořádek." # todo: NEW TRANSLATION
- RULE_OPTION_REVOLUTION_DEMOCRATIC_INS_AI: "Sjahrirova revoluce (demokratická)" # todo: NEW TRANSLATION
- RULE_OPTION_REVOLUTION_DEMOCRATIC_INS_AI_DESC: "AI zahájí předčasnou revoluci. Sutan Sjahrir se chopí moci a založí demokratickou vládu." # todo: NEW TRANSLATION
- RULE_OPTION_REVOLUTION_UNALIGNED_INS_AI: "Sukarnoova revoluce (Nezařazené)" # todo: NEW TRANSLATION
- RULE_OPTION_REVOLUTION_UNALIGNED_INS_AI_DESC: "AI zahájí předčasnou revoluci. Sukarno si udrží moc a opoziční hnutí budou potlačena." # todo: NEW TRANSLATION
- RULE_OPTION_REVOLUTION_COMMUNIST_INS_AI: "Malakova revoluce (Komunistická)" # todo: NEW TRANSLATION
- RULE_OPTION_REVOLUTION_COMMUNIST_INS_AI_DESC: "AI zahájí předčasnou revoluci. Tan Malaka provede převrat a založí komunistickou vládu, než rozšíří revoluci po celém Tichomoří." # todo: NEW TRANSLATION
- SIA_ai_behavior: "@SIA Siam" # todo: NEW TRANSLATION
- RULE_OPTION_HISTORICAL_SIA_AI: "Historické" # todo: NEW TRANSLATION
- RULE_OPTION_HISTORICAL_SIA_AI_DESC: "AI se bude řídit historickým vývojem. AI zvolí fašistickou větev, zaútočí na Indočínu a připojí se k japonské frakci." # todo: NEW TRANSLATION
- RULE_OPTION_MONARCHIST_SIA_AI: "Monarchistický" # todo: NEW TRANSLATION
- RULE_OPTION_MONARCHIST_SIA_AI_DESC: "AI zvolí monarchistickou cestu." # todo: NEW TRANSLATION
+ RULE_OPTION_AST_AI_RANDOM_TAOG_HISTORICAL: "Historické"
+ RULE_OPTION_AST_AI_RANDOM_TAOG_HISTORICAL_DESC: "Pevně zakořeněná, byť nestabilní demokracie dává Austrálii základ, z něhož může hledět do širšího světa a připravit se na nadcházející bouři."
+ RULE_OPTION_AST_ADELA_FASCIST_TAOG_AI: "Fašistická Adela"
+ RULE_OPTION_AST_ADELA_FASCIST_TAOG_AI_DESC: "Adela Pankhurst-Walshová vede Austrálii s počátečním cílem dále rozšiřovat Britské impérium, ačkoli otázka, kdo toto rozšířené impérium zdědí, zůstává otevřená."
+ RULE_OPTION_AST_PETER_FASCIST_TAOG_AI: "Fašistický Peter"
+ RULE_OPTION_AST_PETER_FASCIST_TAOG_AI_DESC: "Australia First požaduje nezávislou Austrálii, která bude svobodně utvářet svou vlastní budoucnost."
+ RULE_OPTION_AST_RANDOM_DEMOCRATIC_TAOG_AI: "Náhodná sociálnědemokratická"
+ RULE_OPTION_AST_RANDOM_DEMOCRATIC_TAOG_AI_DESC: "V demokratické Austrálii je nejdůležitější hlas lidu, jehož vůli je osud národa podřízen."
+ RULE_OPTION_AST_ANTI_COMMONWEALTH_COMMUNIST_TAOG_AI: "Komunismus proti Commonwealthu"
+ RULE_OPTION_AST_ANTI_COMMONWEALTH_COMMUNIST_TAOG_AI_DESC: "Vzdálený suzerén určoval osud Austrálie příliš dlouho. Nyní nastal čas svrhnout imperiální jho... a cestou osvobodit i další."
+ RULE_OPTION_AST_COMINTERN_COMMUNIST_TAOG_AI: "Komunistická Kominterna"
+ RULE_OPTION_AST_COMINTERN_COMMUNIST_TAOG_AI_DESC: "Komunistická utopie může být uskutečněna pouze v jednotě, neboť právě to je cesta celosvětové dělnické revoluce"
+ INS_ai_behavior: "@INS Nizozemská východní Indie"
+ RULE_OPTION_TRUE_HISTORICAL_INS_AI: "Historické"
+ RULE_OPTION_TRUE_HISTORICAL_INS_AI_DESC: "AI zůstane loajální Nizozemsku, ale po japonské okupaci zahájí revoluci."
+ RULE_OPTION_LOYALIST_INS_AI: "Loajalismus"
+ RULE_OPTION_LOYALIST_INS_AI_DESC: "AI zůstane loajální Nizozemsku a bude buď usilovat o pokojnou nezávislost prostřednictvím Soetardjovy petice, nebo udržovat koloniální řád."
+ RULE_OPTION_REVOLUTION_DEMOCRATIC_INS_AI: "Sjahrirova revoluce (demokratická)"
+ RULE_OPTION_REVOLUTION_DEMOCRATIC_INS_AI_DESC: "AI zahájí brzkou revoluci. Sutan Sjahrir převezme moc a ustaví demokratickou vládu."
+ RULE_OPTION_REVOLUTION_UNALIGNED_INS_AI: "Sukarnova revoluce (nezařazená)"
+ RULE_OPTION_REVOLUTION_UNALIGNED_INS_AI_DESC: "AI zahájí brzkou revoluci. Sukarno si udrží moc a opoziční hnutí budou zastavena."
+ RULE_OPTION_REVOLUTION_COMMUNIST_INS_AI: "Malakova revoluce (komunistická)"
+ RULE_OPTION_REVOLUTION_COMMUNIST_INS_AI_DESC: "AI zahájí brzkou revoluci. Tan Malaka provede puč, aby ustavil komunistickou vládu, a poté rozšíří revoluci po celém Pacifiku."
+ SIA_ai_behavior: "@SIA Siam"
+ RULE_OPTION_HISTORICAL_SIA_AI: "Historické"
+ RULE_OPTION_HISTORICAL_SIA_AI_DESC: "AI bude následovat historický výsledek. AI se vydá fašistickou větví, zaútočí na Indočínu a připojí se k japonské frakci."
+ RULE_OPTION_MONARCHIST_SIA_AI: "Monarchistická"
+ RULE_OPTION_MONARCHIST_SIA_AI_DESC: "AI se vydá monarchistickou cestou."
  RULE_OPTION_DEMOCRATIC_SIA_AI: "$RULE_OPTION_DEMOCRATIC$"
  RULE_OPTION_DEMOCRATIC_SIA_AI_DESC: "$RULE_DEMOCRATIC_ALTERNATE_NZL_AI_DESC$"

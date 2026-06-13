@@ -916,21 +916,21 @@
  mtg_britain.108.t: "[From.GetName] porušuje smlouvu"
  mtg_britain.108.d: "[From.GetName] mlčí jako hrob, pokud jde o jejich smluvní závazky. Neexistují žádné náznaky, že by se chystali snížit počet svých hlavních lodí."
  mtg_britain.108.a: "Už si na nás znovu netroufnou."
- mtg_britain.200.t: "[FROM.GetNameDefCap] se pokouší prosadit režim [FROM.GetRulingIdeology]" # todo: NEW TRANSLATION
- mtg_britain.200.d: "V překvapivém zvratu událostí se vláda [FROM.GetLeader] pokusila získat podporu v [ROOT.GetName], aby změnila naši vládnoucí stranu na [FROM.GetRulingIdeology]." # todo: NEW TRANSLATION
- mtg_britain.200.a: "Je bezpečnější souhlasit." # todo: NEW TRANSLATION
- mtg_britain.200.b: "Přes naše mrtvoly!" # todo: NEW TRANSLATION
- mtg_britain.200.tt: "§RToto může mít vážné následky§!" # todo: NEW TRANSLATION
- mtg_britain.201.t: "[FROM.GetNameDefCap] odmítá změnu režimu" # todo: NEW TRANSLATION
- mtg_britain.201.d: "V ohromujícím projevu neloajality [FROM.GetLeader] oznámil své odmítnutí podřídit se vůli [ROOT.GetLeader] v otázce role [ROOT.GetRulingIdeology] ve své vládě. Naším jediným způsobem, jak nyní dosáhnout změny režimu, je ozbrojený konflikt s [FROM.GetNameDef]." # todo: NEW TRANSLATION
- mtg_britain.201.a: "Nechme to být, jednota je důležitější." # todo: NEW TRANSLATION
- mtg_britain.201.b: "Je válka." # todo: NEW TRANSLATION
- mtg_britain.202.t: "[FROM.GetNameDefCap] vyhlašuje válku" # todo: NEW TRANSLATION
- mtg_britain.202.d: "Zdá se, že [FROM.GetLeader] naši odmítnutí nepřijal dobře a šel tak daleko, že oznámil oficiální vyhlášení války!" # todo: NEW TRANSLATION
- mtg_britain.202.a: "Některé věci stojí za to bojovat." # todo: NEW TRANSLATION
- mtg_britain.203.t: "[FROM.GetNameDefCap] upouští od tématu změny režimu" # todo: NEW TRANSLATION
- mtg_britain.203.d: "V poznámce od [FROM.GetLeader] oznámili, že přijímají naše odmítnutí a uvedli, že je třeba zachovat jednotu Commonwealthu." # todo: NEW TRANSLATION
- mtg_britain.203.a: "Žádná válka s mateřskou zemí." # todo: NEW TRANSLATION
+ mtg_britain.200.t: "[FROM.GetNameDefCap] se pokouší nastolit [FROM.GetRulingIdeology] režim"
+ mtg_britain.200.d: "V překvapivém zvratu událostí začal [FROM.GetLeader] dělat kroky, ať má i [ROOT.GetName] [FROM.GetRulingIdeology] režim."
+ mtg_britain.200.a: "Bude bezpečnější souhlasit."
+ mtg_britain.200.b: "Jen přes naše mrtvoly!"
+ mtg_britain.200.tt: "§RTo může mít vážné následky§!"
+ mtg_britain.201.t: "[FROM.GetNameDefCap] odmítá změnu režimu"
+ mtg_britain.201.d: "V překvapivém projevu neloajality [FROM.GetLeader] oznámil, že mu [ROOT.GetLeader] nebude diktovat, jakou ideologii má mít [FROM.GetNameDef]. Naší jedinou možností, jak nyní dosáhnout změny režimu, je ozbrojený konflikt."
+ mtg_britain.201.a: "Nechme to být, jednota je důležitější."
+ mtg_britain.201.b: "Bude válka."
+ mtg_britain.202.t: "[FROM.GetNameDefCap] vyhlašuje válku"
+ mtg_britain.202.d: "Zdá se, že [FROM.GetLeader] naše odmítnutí nepřijal dobře, a zašel dokonce tak daleko, že oficiálně vyhlásil válku!"
+ mtg_britain.202.a: "Za některé věci stojí bojovat."
+ mtg_britain.203.t: "[FROM.GetNameDefCap] opouští téma změny režimu"
+ mtg_britain.203.d: "[FROM.GetLeader] zaslal zprávu, ve které oznamuje, že akceptují naše odmítnutí, s odvoláním na nutnost zachovat jednotu Commonwealthu."
+ mtg_britain.203.a: "Dnes žádná válka s mateřskou zemí nebude."
  panay_inc_opinion_modifier: "Incident USS Panay"
  panay_inc2_opinion_modifier: "Útok na HMS Ladybird"
  panay_incident.2.t: "V Číně byla potopena USS Panay!"

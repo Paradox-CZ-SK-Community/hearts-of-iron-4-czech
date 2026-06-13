@@ -100,11 +100,11 @@
  CONFIRMDELETETITLE: "Smazat soubor"
  CONFIRMDELETETEXT: "Jste si jisti, že chcete §RROZPUSTIT§! $NAME$?"
  CONFIRMDELETETEXT_NAVY: "Opravdu chcete §RODSTRANIT§! $NAME$?"
- CONFIRMDELETETEXT_HQ_WITHDRAW_LINE: "§YArmádní velitelství §Y$NAME$§! bude §RSTAŽENO§!." # todo: NEW TRANSLATION
- CONFIRMUNASSIGN_HQ_WITHDRAW_LINE: "§YArmádní velitelství §Y$NAME$§! bude také §RSTAŽENO§!." # todo: NEW TRANSLATION
- CONFIRMDELETETEXT_RETURNDESC: "Použité vybavení bude vráceno do skladových zásob a §Yjednotky§! se vrátí do §Ypersonálních rezerv§!."
- CONFIRMDELETETEXT_EXPEDITIONARY_SINGLE: "§Y1§! divize §Yexpedičních sil§! bude poslána domů." # todo: NEW TRANSLATION
- CONFIRMDELETETEXT_EXPEDITIONARY_MULTI: "§Y$NUM$§! divizí §Yexpedičních sil§! bude posláno domů." # todo: NEW TRANSLATION
+ CONFIRMDELETETEXT_HQ_WITHDRAW_LINE: "§YArmádní velitelství§! §Y$NAME$§! bude §RSTAŽENO§!."
+ CONFIRMUNASSIGN_HQ_WITHDRAW_LINE: "§YArmádní velitelství§! §Y$NAME$§! bude také §RSTAŽENO§!."
+ CONFIRMDELETETEXT_RETURNDESC: "§YVybavení§! bude vráceno do §Yskladu§! a §Ypersonál§! se vrátí zpět do §Yzásoby personálu§!."
+ CONFIRMDELETETEXT_EXPEDITIONARY_SINGLE: "§Y1§! divize §Yexpedičních sil§! bude poslána domů."
+ CONFIRMDELETETEXT_EXPEDITIONARY_MULTI: "§Y$NUM$§! divizí §Yexpedičních sil§! bude posláno domů."
  CONFIRMDELETETEXT_NAVYDESC: "Lodě budou §RZNIČENY§! a §Yjednotky§! se vrátí zpět do §Ypersonálních rezerv§!."
  CONFIRMDELETEUNIT: "Rozpustit divizi"
  CONFIRMDELETEUNITS: "Rozpustit divize"
@@ -117,10 +117,10 @@
  CONFIRM_DELETE_ORDER: "Odstranit rozkaz"
  CONFIRM_DELETE_ORDER_TEXT: "Jste si jisti, že chcete §RODSTRANIT§! pořadí $ORDER$?"
  CONFIRM_DELETE_ORDER_INVASION: "aktuálně namalovaná §Yinvaze§!"
- CONFIRM_DELETE_ORDER_PARADROP: "aktuálně namalovaná §Yvýsadek parašutistů§!"
+ CONFIRM_DELETE_ORDER_PARADROP: "aktuálně namalován §Yvýsadek výsadkářů§!"
  CONFIRM_DELETE_ORDER_AREA_DEFENSE: "momentálně namalovaný §Yobranný rozkaz oblasti§!"
  CONFIRM_DIALOG_MULTI_UNITS: "$NUM|Y$ divizí"
- CONFIRM_DIALOG_SINGLE_DIVISION: "$NUM|Y$ divize" # todo: NEW TRANSLATION
+ CONFIRM_DIALOG_SINGLE_DIVISION: "$NUM|Y$ divize"
  CONFIRM_DIALOG_MULTI_TASK_FORCES: "$NUM|Y$ úderných skupin"
  CONFIRMDELETE_RAILWAY_GUN: "Odstranit železniční dělo"
  CONFIRMDELETE_RAILWAY_GUNS: "Odstranit železniční delá"
@@ -143,7 +143,7 @@
  CHANGE_TEMPLATE_DISABLED_FAKE_UNITS: "§RNěkteré jednotky jsou pouze zpravodajské návnady a nelze změnit jejich šablonu§!"
  CHANGE_TEMPLATE_DISABLED_ENCIRCLED: "§RNěkteré jednotky jsou obklíčeny a odříznuty od zásob a proto nemohou změnit svoji šablonu§!"
  SPECIAL_UNIT_CANNOT_BE_DISBANDED: "§RJednotky nelze rozpustit§!"
- DISBAND_BUTTON_HQ_WITHDRAW_NOTE: "§RStáhne§! všechna vybraná Armádní velitelství" # todo: NEW TRANSLATION
+ DISBAND_BUTTON_HQ_WITHDRAW_NOTE: "§RStáhne§! všechna vybraná Armádní velitelství"
  CONFIRMUNASSIGNUNIT: "Odebrat divizi z této armády"
  CONFIRMUNASSIGNUNITS: "Odebrat divize z této armády"
  CONFIRMASSIGNUNITS: "Převelit jednotky"
@@ -174,8 +174,8 @@
  CONFIRMDELETE_ARMY_GROUP_TEXT: "Všechny jednotky patřící k podřízeným armádám budou odvolány a všechny označené rozkazy budou odstraněny.\nJste si jisti, že chcete §Rodstranit§! §Rarmádní skupinu§!?"
  CONFIRMCHANGE_GROUP_LEADER: "Převelit velitele"
  CONFIRMCHANGE_GROUP_LEADER_TEXT: "§Y$NAME$§! je již přiřazen k §Y$CURRENT$§! a bude přeřazen k §Y$TARGET$§!.\n\nOpravdu chcete §RPŘEVELIT§! §Gvelitele§!?\n\n"
- CONFIRMCHANGE_GROUP_LEADER_REASSIGN_DAYS_FRAGMENT_SINGULAR: "Přesun potrvá §Y$DAYS|0$§! den." # todo: NEW TRANSLATION
- CONFIRMCHANGE_GROUP_LEADER_REASSIGN_DAYS_FRAGMENT_PLURAL: "Přesun potrvá §Y$DAYS|0$§! dní." # todo: NEW TRANSLATION
+ CONFIRMCHANGE_GROUP_LEADER_REASSIGN_DAYS_FRAGMENT_SINGULAR: "Přesun potrvá §Y$DAYS|0$§! den."
+ CONFIRMCHANGE_GROUP_LEADER_REASSIGN_DAYS_FRAGMENT_PLURAL: "Přesun potrvá §Y$DAYS|0$§! dní."
  CONFIRMCHANGE_GROUP_LEADER_TEXT_SUPREME_COMMANDER: "$NAME|H$ je již přiřazen jako §GVrchní velitel§! vaší frakce a bude znovu přiřazen.\nOpravdu chcete §Rpřeřadit§! §Gvelitele§!?"
  CONFIRMCHANGE_SC_TEXT: "$NAME|H$ je již přiřazen k jiné §Garmádě§! a bude znovu přiřazen.\nOpravdu chcete §Rpřeřadit§! §Gvelitele§!?"
  CONFIRMCHANGE_SC_TEXT_SUPREME_COMMANDER: "$NAME|H$ je již přiřazen k jinému §GVálčišti§! a bude znovu přiřazen.\nOpravdu chcete §Rpřeřadit§! §Gvelitele§!?"
@@ -390,7 +390,7 @@
  MAIN_MENU: "Hlavní menu"
  MAIN_MENU_BACK: "Zpět do menu"
  HELP_MENU: "Nápověda"
- ACHIEVEMENTS: "Úspěchy" # todo: NEW TRANSLATION
+ ACHIEVEMENTS: "Úspěchy"
  ACHIEVEMENTS_VIEW: "Zobrazit úspěchy"
  ACHIEVEMENTS_VIEW_LOCKED: "§RÚspěchy nejsou k dispozici§!"
  ACHIEVEMENT_UNLOCKED_WHEN: "Bude získán, když:"
@@ -400,7 +400,7 @@
  DISMISSED_ALERTS_MENU: "§HZrušené upozornění§!"
  DISMISSED_ALERTS_NONE: "Žádné zrušené aktivní upozornění"
  DISMISSED_ALERTS_DESC_HEADER: "Tyto upozornění budou přidána:"
- NOT_PLAYED: "Nehráno ($VAL|H$)" # todo: NEW TRANSLATION
+ NOT_PLAYED: "Nehráno ($VAL|H$)"
  ENDGAME_CONTINUE: "Pokračovat ve hře, od tohoto momentu nebude dále zaznamenáváno žádné skóre"
  ENDGAME_SORT_NAME: "Třídit podle jména"
  ENDGAME_SORT_FACTION: "Třídit podle frakce"
@@ -808,7 +808,7 @@
  UNIT_VIEW_DIVISIONS_COUNT_NO_LIMIT: "$DIV$"
  UNIT_TOOLTIP_BATTALIONS: "§GPrapory§!"
  UNIT_TOOLTIP_SUPPORT: "§GPodpora§!"
- UNIT_TOOLTIP_REGIMENTAL_SUPPORT: "§GRegimentální podpora§!" # todo: NEW TRANSLATION
+ UNIT_TOOLTIP_REGIMENTAL_SUPPORT: "§GPlukovní podpora§!"
  MAP_ARROWS_LOCALIZATION: "$ORDERNAME$$DIVISIONS$ - $GROUP$"
  MAP_ARROWS_LOCALIZATION_EMPTY: "Žádné divize"
  MAP_ARROWS_DIVISIONS_COUNT: "$DIV$ divizí"
@@ -855,10 +855,10 @@
  UNITS_VIEW_BTN_RESHAPE_NOTHING: "§RNení co upravit.§!"
  UNITS_VIEW_BTN_UNASSIGN_NO_ORDERS: "§RNení co odebrat.§!"
  UNITS_VIEW_BTN_UNASSIGN_DEFENCE_ORDER: "§RNemohu odebrat jednotky z §YObraného rozkazu§!."
- UNITS_VIEW_BTN_UNASSIGN_HQ_ONLY: "§RNelze odvolat §Ydivize vedené Armádním velitelstvím§!. Místo toho stáhněte §YArmádní velitelství§!.§!" # todo: NEW TRANSLATION
- UNITS_VIEW_BTN_UNASSIGN_MIXED_HQ_NOTE: "§YDivize řízené Armádním velitelstvím§! ve výběru budou ignorovány." # todo: NEW TRANSLATION
+ UNITS_VIEW_BTN_UNASSIGN_HQ_ONLY: "§RDivize §YArmádního velitelství§! nelze vyřadit z jejich armády. Místo toho stáhněte §YArmádní velitelství§!.§!"
+ UNITS_VIEW_BTN_UNASSIGN_MIXED_HQ_NOTE: "Divize §YArmádního velitelství§! ve výběru budou ignorovány."
  UNITS_VIEW_BTN_DELTE_NOTHING: "§RNení zde nic k vymazání.§!"
- UNITS_VIEW_BTN_DRAW_PARADROP_NO_PARATROOPERS: "§RV rozkazu nejsou zahrnuti žádní parašutisté.§!"
+ UNITS_VIEW_BTN_DRAW_PARADROP_NO_PARATROOPERS: "§RV rozkazu nejsou zahrnuti žádní Výsadkáři.§!"
  UNITS_VIEW_BTN_IN_RESHAPE_MODE: "§RMomentálně upravujete rozkazy.§!"
  UNITS_VIEW_BTN_DRAW_NAVAL_INV_WITH_PLAN_CAP_REACHED: "§RDosažen limit plánů námořní invaze ($CAP|Y$).§!"
  UNITS_VIEW_BTN_DRAW_NAVAL_INV_WITH_HARBOR: "§HRozkaz k námorní invazi (S podporou plovoucího přístavu)§!\nKrok 1) §GKlikněte§! na jednu z označených provincií pro nastavení zdroje invaze.\nKrok 2) §GPravým kliknutím§! na požadovanou pobřežní provincii pro invazi.\nJakmile bude plán aktivován, invaze se začne připravovat a rezervovat konvoje z vašich zásob."
@@ -903,7 +903,7 @@
  LEADER_FUNCTION_DESC: "Mít velitele přiděleného k armádě zlepšuje armádu v různých oblastech v závislosti na dovednostech velitele."
  LEADER_FUNCTION_NAVY_DESC: "Admirál přidělený k flotile posiluje úderné skupiny v různých oblastech v závislosti na admirálových schopnostech."
  LEADER_CAPACITY_DESC: "$NAME$ momentálně velí $CURRENT|Y$ divizím a je schopný efektivně vést $MAX|Y$ divizí."
- LEADER_HQ_NOT_COUNTED_DESC: "Nasazený Armádní velitelství se nepočítá do limitu velení." # todo: NEW TRANSLATION
+ LEADER_HQ_NOT_COUNTED_DESC: "Nasazené Armádní velitelství se nepočítá do limitu velení."
  LEADER_ARMY_GROUP_CAPACITY_DESC: "$NAME$ v současnosti vede $CURRENT|Y$ armád a je schopen efektivně vést $MAX|Y$ armád."
  LEADER_ENDLESS_CAPACITY_DESC: "$NAME$ je polní maršál a nemá žádný limit pro velení armád."
  LEADER_PROMOTE: "§GPovýšit na§! $RANK|Y$"
@@ -996,76 +996,76 @@
  ARMY_UNIT_SUPPLY_DESC_BAD: "§TStav zásob:§! $VALUE|%0R$ (Uloženo: $BUFFER_VALUE|Y%0$)"
  RAILWAY_GUN_SUPPLY_DESC_OK: "§TStav zásob:§! $VALUE|%0Y$"
  RAILWAY_GUN_SUPPLY_DESC_BAD: "§TStav zásob:§! $VALUE|%0R$"
- ARMY_LIST_CLICK_SELECT_DIVISION: "§GKlikněte§! pro výběr divize" # todo: NEW TRANSLATION
- ARMY_LIST_SHIFT_CLICK_ADD: "§GShift+Klik§! pro přidání divize do výběru" # todo: NEW TRANSLATION
- ARMY_LIST_SHIFT_CLICK_RANGE: "§GShift+Klik§! pro výběr této divize a všech mezi nimi" # todo: NEW TRANSLATION
- ARMY_LIST_CTRL_CLICK_TOGGLE: "§GCtrl+Klik§! pro přepnutí výběru" # todo: NEW TRANSLATION
- ARMY_LIST_DOUBLE_CLICK_TEMPLATE: "§GDvojklik§! pro výběr všech divizí se stejným vzorem" # todo: NEW TRANSLATION
- ARMY_LIST_RIGHT_CLICK_PAN: "§GPravý klik§! pro přesun kamery na divizi" # todo: NEW TRANSLATION
- DEPLOY_HQ_BUTTON_LABEL: "Nasadit:" # todo: NEW TRANSLATION
- DEPLOY_HQ_BUTTON_COST: "£command_power $COST$" # todo: NEW TRANSLATION
- DEPLOY_BUTTON_CLICK_TO_PICK: "§GKlikněte§! pro zobrazení šablon Armádního velitelství" # todo: NEW TRANSLATION
- DEPLOY_BUTTON_RIGHT_CLICK: "§GPravý klik§! pro otevření návrháře Armádního velitelství" # todo: NEW TRANSLATION
- DEPLOY_BUTTON_SHIFT_CLICK: "§GShift+Klik§! pro okamžité nasazení §Y$NAME$§!" # todo: NEW TRANSLATION
- DEPLOY_BUTTON_CTRL_CLICK: "§GCtrl+Klik§! pro zobrazení $ARMY_HQ_TEMPLATES$ v $OFFICER_CORPS_LABEL$" # todo: NEW TRANSLATION
- DEPLOY_DROPDOWN_CREATE_HQ_TEMPLATE_TOOLTIP: "§GKlikněte§! pro návrh nové šablony Armádního velitelství" # todo: NEW TRANSLATION
- DESIGNER_CREATE_NEW_DIVISION_TOOLTIP: "§GKlikněte§! pro návrh nové šablony divize" # todo: NEW TRANSLATION
- DESIGNER_HQ_SAVE_AND_DEPLOY: "Uložit & Nasadit £army_experience $XP|Y0$ £command_power $COST$" # todo: NEW TRANSLATION
- DESIGNER_HQ_SAVE_AND_DEPLOY_TOOLTIP: "§Kliknutím na toto tlačítko se šablona uloží a Armádní velitelství bude nasazen.§!" # todo: NEW TRANSLATION
- DEPLOYING_HQ_LABEL: "Nasazování:" # todo: NEW TRANSLATION
- DEPLOYING_HQ_PROGRESS_DAYS: "£clock_texticon §Y$VALUE$§!" # todo: NEW TRANSLATION
- DEPLOYING_HQ_PROGRESS_MANPOWER: "£manpower_texticon $VALUE$" # todo: NEW TRANSLATION
- DEPLOYING_HQ_PROGRESS_EQUIPMENT: "£unit_category_all_infantry_icon_small $VALUE$" # todo: NEW TRANSLATION
- LEADER_DEPLOYED_HEADER: "$NAME|H$ je nasazen s touto divizí." # todo: NEW TRANSLATION
- LEADER_COMING_HEADER: "§YArmádní velitelství §Y$NAME$§! dokončí nasazení za §Y$DAYS$§! dní." # todo: NEW TRANSLATION
- LEADER_COMING_HEADER_SINGULAR: "§YArmádní velitelství §Y$NAME$§! dokončí nasazení za §Y$DAYS$§! den." # todo: NEW TRANSLATION
- LEADER_REMOVE_PROMPT: "§GKlikněte§! pro §RSTÁHNUTÍ§! Armádního velitelství §Y$NAME$§!" # todo: NEW TRANSLATION
- LEADER_CANNOT_REMOVE_HEADER: "§RNelze§! odstranit $NAME|H$:" # todo: NEW TRANSLATION
- LEADER_DEPLOY_PROMPT: "§GKlikněte§! pro nasazení Armádního velitelství §Y$NAME$§!" # todo: NEW TRANSLATION
- LEADER_CANNOT_DEPLOY_HEADER: "§RNelze§! nasadit §Y$NAME$§! s šablonou §Y$TEMPLATE_NAME$§!" # todo: NEW TRANSLATION
- LEADER_DEPLOY_INSUFFICIENT_COMMAND_POWER: "§R- Nedostatek politické síly velení§! (£command_power $COST|H0$ potřeba)" # todo: NEW TRANSLATION
- LEADER_DEPLOY_HALTED: "§HNasmázení bylo zastaveno§!" # todo: NEW TRANSLATION
- LEADER_DEPLOY_NEED_EQUIPMENT: "§RNení dost vybavení pro nasazení§!" # todo: NEW TRANSLATION
- LEADER_DEPLOY_NEED_MANPOWER: "§RNení dost personálu pro nasazení§!" # todo: NEW TRANSLATION
- LEADER_DEPLOY_MANPOWER_PROGRESS: "Personál: £manpower_texticon $PERCENT$ ($VALUE$)" # todo: NEW TRANSLATION
- LEADER_DEPLOY_EQUIPMENT_PROGRESS: "Vybavení: £unit_category_all_infantry_icon_small $VALUE$" # todo: NEW TRANSLATION
- LEADER_DEPLOY_EQUIPMENT_ENTRY: " - $NAME$: $VALUE$" # todo: NEW TRANSLATION
- LEADER_DEPLOY_PREVIEW_INFO: "Armádní velitelství může začít nasazování, ale nebude dokončen, dokud neshromáždí požadované množství vybavení a personálu." # todo: NEW TRANSLATION
- LEADER_DEPLOY_REQUISITION_INFO: "Jakmile bude Armádní velitelství připraven přijet, zabaví zbývající vybavení a personál z jiných divizí armády, přičemž v každé divizi zůstane alespoň $PERCENT|0H$§H%§! z maximálního množství vybavení a personálu." # todo: NEW TRANSLATION
- LEADER_DEPLOY_IN_COOLDOWN: "§R- Příkaz byl změněn příliš nedávno§! ($DAYS|H1$ dní zbývá)" # todo: NEW TRANSLATION
- LEADER_DEPLOY_IN_COOLDOWN_SINGULAR: "§R- Příkaz byl změněn příliš nedávno§! ($DAYS|H1$ den zbývá)" # todo: NEW TRANSLATION
- LEADER_WITHDRAW_IN_COOLDOWN: "§R- Právě se stahuje§! ($DAYS|H1$ dní zbývá)" # todo: NEW TRANSLATION
- LEADER_WITHDRAW_IN_COOLDOWN_SINGULAR: "§R- Právě se stahuje§! ($DAYS|H1$ den zbývá)" # todo: NEW TRANSLATION
- LEADER_WITHDRAWING_HEADER: "§YArmádní velitelství §Y$NAME$§! dokončí stažení za §Y$DAYS$§! dní." # todo: NEW TRANSLATION
- LEADER_WITHDRAWING_HEADER_SINGULAR: "§YArmádní velitelství §Y$NAME$§! dokončí stažení za §Y$DAYS$§! den." # todo: NEW TRANSLATION
- HQ_WITHDRAWAL_BLOCKED_ENCIRCLED: "Dokončení stažení Armádního velitelství je £red_cross_texticon §RBLOKOVÁNO§!\n§R- přerušená cesta do bezpečí!§!" # todo: NEW TRANSLATION
- HQ_DEPLOYMENT_BLOCKED_ENCIRCLED: "Dokončení nasazení Armádního velitelství je £red_cross_texticon §RBLOKOVÁNO§!\n§R- všechny divize jsou odříznuty!§!" # todo: NEW TRANSLATION
- LEADER_DEPLOY_HQ_XP_INFO: "Divize Armádního velitelství bude nasazena na úrovni zkušeností $VISUAL_LEVEL$ - $LEVEL_NAME|H$ kvůli dovednosti $NAME|H$ na hodnosti $RANK|H$." # todo: NEW TRANSLATION
- LEADER_DEPLOY_NO_LEADER: "§RŽádný velitel není přiřazen k této armádě§!" # todo: NEW TRANSLATION
- LEADER_DEPLOYMENT_COMMAND_POWER_ALLOCATOR: "Nasazení $NAME|H$" # todo: NEW TRANSLATION
- LEADER_DEPLOYMENT_INFO: "§HNasazení§! velitele s Armádním velitelstvím umožní tomuto veliteli používat Schopnosti velitele. Schopnosti velitele ovlivňují jednotky přiřazené ke stejnému rozkazu na frontové linii jako Armádní velitelství, v závislosti na vzdálenosti Armádního velitelství od fronty." # todo: NEW TRANSLATION
- LEADER_DEPLOYMENT_TIMING_INFO: "Doba nasazení nebo stažení je založena na £manpower_texticon personálu divize Armádního velitelství. Větší divize vyžadují výrazně více času." # todo: NEW TRANSLATION
- HQ_DEPLOY_AND_WITHDRAW_DAYS: "Nasazení a stažení potrvá §Y$DAYS$§! dní." # todo: NEW TRANSLATION
- HQ_DEPLOY_AND_WITHDRAW_DAYS_SINGULAR: "Nasazení a stažení potrvá §Y$DAYS$§! den." # todo: NEW TRANSLATION
- HQ_DEPLOY_DAYS: "Nasazení potrvá §Y$DAYS$§! dní." # todo: NEW TRANSLATION
- HQ_DEPLOY_DAYS_SINGULAR: "Nasazení potrvá §Y$DAYS$§! den." # todo: NEW TRANSLATION
- HQ_WITHDRAW_DAYS: "Stažení potrvá §Y$DAYS$§! dní." # todo: NEW TRANSLATION
- HQ_WITHDRAW_DAYS_SINGULAR: "Stažení potrvá §Y$DAYS$§! den." # todo: NEW TRANSLATION
- HQ_DEPLOY_CP_COST: "Nasazení si vyhradí £command_power $COST|H0$." # todo: NEW TRANSLATION
- HQ_TEMPLATE_DEPLOY_DAYS_SHORT: "§Y$DAYS$§! dní" # todo: NEW TRANSLATION
- HQ_WITHDRAW_REFUND_SUMMARY: "Stažení uvolní £command_power §Y$COST|0$§!." # todo: NEW TRANSLATION
- HQ_WITHDRAW_REFUND_HEADER: "Stažení vrátí:" # todo: NEW TRANSLATION
- HQ_WITHDRAW_REFUND_MANPOWER_LINE: "Personál: £manpower_texticon §Y$AMOUNT|0$§!" # todo: NEW TRANSLATION
- HQ_WITHDRAW_REFUND_EQUIPMENT_HEADER: "Vybavení: £unit_category_all_infantry_icon_small" # todo: NEW TRANSLATION
- HQ_WITHDRAW_REFUND_EQUIPMENT_LINE: " - $EQUIPMENT$: §Y$AMOUNT|0$§!" # todo: NEW TRANSLATION
- LEADER_PORTRAIT_DEPLOYMENT_INFO: "$NAME|H$ je nasazen s $DIVISION|Y$.\n\n§GKlikněte§! pro výběr divize.\n§GPravý klik§! pro přesun kamery na divizi." # todo: NEW TRANSLATION
+ ARMY_LIST_CLICK_SELECT_DIVISION: "§GKliknutím§! vyberete divizi"
+ ARMY_LIST_SHIFT_CLICK_ADD: "§GShift+kliknutím§! vyberete divizi"
+ ARMY_LIST_SHIFT_CLICK_RANGE: "§GShift+kliknutím§! vyberete tuto divizi a všechny mezi nimi"
+ ARMY_LIST_CTRL_CLICK_TOGGLE: "§GCtrl+kliknutím§! přepnete výběr"
+ ARMY_LIST_DOUBLE_CLICK_TEMPLATE: "§GDvojklikem§! vyberete všechny divize se stejnou šablonou"
+ ARMY_LIST_RIGHT_CLICK_PAN: "§GPravým kliknutím§! přesunete kameru na divizi"
+ DEPLOY_HQ_BUTTON_LABEL: "Nasadit:"
+ DEPLOY_HQ_BUTTON_COST: "£command_power $COST$"
+ DEPLOY_BUTTON_CLICK_TO_PICK: "§GKliknutím§! zobrazíte šablony Armádního velitelství"
+ DEPLOY_BUTTON_RIGHT_CLICK: "§GPravým kliknutím§! otevřete návrhář Armádního velitelství"
+ DEPLOY_BUTTON_SHIFT_CLICK: "§GShift+kliknutím§! okamžitě nasadíte §Y$NAME$§!"
+ DEPLOY_BUTTON_CTRL_CLICK: "§GCtrl+kliknutím§! zobrazíte $ARMY_HQ_TEMPLATES$ v $OFFICER_CORPS_LABEL$"
+ DEPLOY_DROPDOWN_CREATE_HQ_TEMPLATE_TOOLTIP: "§GKliknutím§! navrhnete novou šablonu Armádního velitelství"
+ DESIGNER_CREATE_NEW_DIVISION_TOOLTIP: "§GKliknutím§! navrhnete novou šablonu divize"
+ DESIGNER_HQ_SAVE_AND_DEPLOY: "Uložit a nasadit £army_experience $XP|Y0$ £command_power $COST$"
+ DESIGNER_HQ_SAVE_AND_DEPLOY_TOOLTIP: "§GKliknutím na toto tlačítko nasadíte Armádní velitelství po uložení šablony.§!"
+ DEPLOYING_HQ_LABEL: "Nasazuje se:"
+ DEPLOYING_HQ_PROGRESS_DAYS: "£clock_texticon §Y$VALUE$§!"
+ DEPLOYING_HQ_PROGRESS_MANPOWER: "£manpower_texticon $VALUE$"
+ DEPLOYING_HQ_PROGRESS_EQUIPMENT: "£unit_category_all_infantry_icon_small $VALUE$"
+ LEADER_DEPLOYED_HEADER: "$NAME|H$ je nasazen s touto divizí."
+ LEADER_COMING_HEADER: "§YArmádní velitelství§! §Y$NAME$§! dokončí nasazení za §Y$DAYS$§! dnů."
+ LEADER_COMING_HEADER_SINGULAR: "§YArmádní velitelství§! §Y$NAME$§! dokončí nasazení za §Y$DAYS$§! den."
+ LEADER_REMOVE_PROMPT: "§GKliknutím§! §RSTÁHNETE§! §YArmádní velitelství§! §Y$NAME$§!"
+ LEADER_CANNOT_REMOVE_HEADER: "§RNelze§! odebrat $NAME|H$:"
+ LEADER_DEPLOY_PROMPT: "§GKliknutím§! nasadíte §YArmádní velitelství§! §Y$NAME$§!"
+ LEADER_CANNOT_DEPLOY_HEADER: "§RNelze§! nasadit §Y$NAME$§! se šablonou §Y$TEMPLATE_NAME$§!"
+ LEADER_DEPLOY_INSUFFICIENT_COMMAND_POWER: "§R- Nedostatek velitelské síly§! (potřeba £command_power $COST|H0$)"
+ LEADER_DEPLOY_HALTED: "§HNasazení bylo zastaveno§!"
+ LEADER_DEPLOY_NEED_EQUIPMENT: "§RNedostatek vybavení k nasazení§!"
+ LEADER_DEPLOY_NEED_MANPOWER: "§RNedostatek personálu k nasazení§!"
+ LEADER_DEPLOY_MANPOWER_PROGRESS: "Personál: £manpower_texticon $PERCENT$ ($VALUE$)"
+ LEADER_DEPLOY_EQUIPMENT_PROGRESS: "Vybavení: £unit_category_all_infantry_icon_small $VALUE$"
+ LEADER_DEPLOY_EQUIPMENT_ENTRY: " - $NAME$: $VALUE$"
+ LEADER_DEPLOY_PREVIEW_INFO: "Armádní velitelství může zahájit nasazení, ale nedokončí ho, dokud neshromáždí požadované množství vybavení a personálu."
+ LEADER_DEPLOY_REQUISITION_INFO: "Jakmile bude Armádní velitelství připraveno k příchodu, zabaví zbývající vybavení a personál ostatním divizím v armádě, přičemž v každé divizi ponechá alespoň $PERCENT|0H$§H%§! maximálního množství vybavení a personálu."
+ LEADER_DEPLOY_IN_COOLDOWN: "§R- Velení bylo změněno příliš nedávno§! (zbývá $DAYS|H1$ dnů)"
+ LEADER_DEPLOY_IN_COOLDOWN_SINGULAR: "§R- Velení bylo změněno příliš nedávno§! (zbývá $DAYS|H1$ den)"
+ LEADER_WITHDRAW_IN_COOLDOWN: "§R- Právě probíhá stažení§! (zbývá $DAYS|H1$ dnů)"
+ LEADER_WITHDRAW_IN_COOLDOWN_SINGULAR: "§R- Právě probíhá stažení§! (zbývá $DAYS|H1$ den)"
+ LEADER_WITHDRAWING_HEADER: "§YArmádní velitelství§! §Y$NAME$§! dokončí stažení za §Y$DAYS$§! dnů."
+ LEADER_WITHDRAWING_HEADER_SINGULAR: "§YArmádní velitelství§! §Y$NAME$§! dokončí stažení za §Y$DAYS$§! den."
+ HQ_WITHDRAWAL_BLOCKED_ENCIRCLED: "Dokončení stažení Armádního velitelství je £red_cross_texticon §RBLOKOVÁNO§!\n§R- přerušená cesta do bezpečí!§!"
+ HQ_DEPLOYMENT_BLOCKED_ENCIRCLED: "Dokončení nasazení Armádního velitelství je £red_cross_texticon §RBLOKOVÁNO§!\n§R- všechny divize jsou odříznuty!§!"
+ LEADER_DEPLOY_HQ_XP_INFO: "Divize Armádního velitelství bude nasazena na úrovni zkušeností $VISUAL_LEVEL$ - $LEVEL_NAME|H$ díky dovednosti $NAME|H$ na úrovni $RANK|H$."
+ LEADER_DEPLOY_NO_LEADER: "§RK této armádě není přiřazen žádný velitel§!"
+ LEADER_DEPLOYMENT_COMMAND_POWER_ALLOCATOR: "Nasazení $NAME|H$"
+ LEADER_DEPLOYMENT_INFO: "§HNasazení§! velitele s Armádním velitelstvím umožní tomuto veliteli používat velitelské schopnosti. Velitelské schopnosti ovlivňují jednotky přiřazené ke stejnému frontovému rozkazu jako Armádní velitelství, a to podle vzdálenosti tohoto Armádního velitelství od frontové linie."
+ LEADER_DEPLOYMENT_TIMING_INFO: "Doba nasazení nebo stažení se odvíjí od £manpower_texticon personálu divize Armádního velitelství. Větší divize vyžadují výrazně více času."
+ HQ_DEPLOY_AND_WITHDRAW_DAYS: "Nasazení a stažení potrvá §Y$DAYS$§! dnů."
+ HQ_DEPLOY_AND_WITHDRAW_DAYS_SINGULAR: "Nasazení a stažení potrvá §Y$DAYS$§! den."
+ HQ_DEPLOY_DAYS: "Nasazení potrvá §Y$DAYS$§! dnů."
+ HQ_DEPLOY_DAYS_SINGULAR: "Nasazení potrvá §Y$DAYS$§! den."
+ HQ_WITHDRAW_DAYS: "Stažení potrvá §Y$DAYS$§! dnů."
+ HQ_WITHDRAW_DAYS_SINGULAR: "Stažení potrvá §Y$DAYS$§! den."
+ HQ_DEPLOY_CP_COST: "Nasazení rezervuje £command_power $COST|H0$."
+ HQ_TEMPLATE_DEPLOY_DAYS_SHORT: "§Y$DAYS$§! dnů"
+ HQ_WITHDRAW_REFUND_SUMMARY: "Stažení uvolní £command_power §Y$COST|0$§!."
+ HQ_WITHDRAW_REFUND_HEADER: "Stažení vrátí:"
+ HQ_WITHDRAW_REFUND_MANPOWER_LINE: "Personál: £manpower_texticon §Y$AMOUNT|0$§!"
+ HQ_WITHDRAW_REFUND_EQUIPMENT_HEADER: "Vybavení: £unit_category_all_infantry_icon_small"
+ HQ_WITHDRAW_REFUND_EQUIPMENT_LINE: " - $EQUIPMENT$: §Y$AMOUNT|0$§!"
+ LEADER_PORTRAIT_DEPLOYMENT_INFO: "$NAME|H$ je nasazen s divizí $DIVISION|Y$.\n\n§GKliknutím§! vyberete divizi.\n§GPravým kliknutím§! přesunete kameru na divizi."
  SHIP_CLICK_HEADER: "§GPravé kliknutí§! pro posun na flotilu (nebo přístav)"
  FLEET_CLICK_HEADER: "§GKlikněte§! pro výběr této flotily\n"
  RAILWAY_GUN_CLICK_HEADER: "§GKlikněte§! pro výběr železničního děla.\n§GShift+klik§! pro přepnutí výběru.\n§GPravý klik§! pro pohled na železniční dělo"
  UNIT_BUTTON_DESC: "Šablona: §Y$TYPE$§!"
  UNIT_BUTTON_FAKE_ARMY_DESC: "Šablony pro falešné armády: §Y$TYPE$§!"
  UNIT_BUTTON_ACTION: "§GKlikněte§! pro zobrazení podrobností"
- UNIT_BUTTON_EDIT_ACTION: "§GShift + Klik§! pro otevření v Návrháři divizí" # todo: NEW TRANSLATION
+ UNIT_BUTTON_EDIT_ACTION: "§GShift + kliknutím§! otevřete v Návrháři divizí"
  UNIT_DESTINATION: "Cíl: $STATE|Y$"
  NUCLEAR_BOMB: "Jaderné bomby"
  NUCLEAR_PRODUCTION_ETA: "Další $NUKE_TYPE|H$ je hotová z $PROGRESS|1G%$ a bude připravena přibližně za $DAYS|G$ dnů. Ve skladech: $NUM_COMPLETED|H$"
@@ -1196,11 +1196,11 @@
  EXP_TRAINING_BONUS: "Zkušenostní bonus za výcvik: $EFFECT|+=%0$"
  CANNOT_EXECUTE_ORDERS_WHILE_TRAINING: "Tato armáda momentálně provádí §Ycvičení§! a nemůže vykonávat žádné rozkazy. Zastavte cvičení, pokud chcete, aby byli schopni vykonávat jejich rozkazy."
  UNIT_COUNTER_TOOLTIP: "$DIVISION|H$"
- UNIT_LEADER_TOOLTIP: "- $NAME|H$ je zde nasazen." # todo: NEW TRANSLATION
- UNIT_LEADER_FRONT_DISTANCE_TOOLTIP: "- $NAME|H$ je zde nasazen, $DISTANCE|H$ provincií od frontové linie." # todo: NEW TRANSLATION
- UNIT_LEADER_FRONT_MAX_DISTANCE_TOOLTIP: "- $NAME|H$ je zde nasazen, $DISTANCE|H$ provincií nebo více od frontové linie." # todo: NEW TRANSLATION
- UNIT_LEADER_WITHDRAWING_SUFFIX: " (stáhne se za $DAYS|H1$ dní)" # todo: NEW TRANSLATION
- UNIT_LEADER_WITHDRAWING_SUFFIX_SINGULAR: " (stáhne se za $DAYS|H1$ den)" # todo: NEW TRANSLATION
+ UNIT_LEADER_TOOLTIP: "- $NAME|H$ je nasazen zde."
+ UNIT_LEADER_FRONT_DISTANCE_TOOLTIP: "- $NAME|H$ je nasazen zde, $DISTANCE|H$ provincií od frontové linie."
+ UNIT_LEADER_FRONT_MAX_DISTANCE_TOOLTIP: "- $NAME|H$ je nasazen zde, $DISTANCE|H$ provincií nebo více od frontové linie."
+ UNIT_LEADER_WITHDRAWING_SUFFIX: " (stažení za $DAYS|H1$ dnů)"
+ UNIT_LEADER_WITHDRAWING_SUFFIX_SINGULAR: " (stažení za $DAYS|H1$ den)"
  FOCUS_TREE_VIEW_HEADER: "Strom zaměření pro $COUNTRY$"
  CONTINUOUS_FOCUS_TREE_HEADER: "Trvalá zaměření"
  CONTINUOUS_FOCUS_TREE_DESC: "Zůstává aktivní, dokud znovu nezměníte zaměření"
@@ -1726,27 +1726,27 @@
  INFASTRUCTURE_DAMAGE: "Poškození infrastruktury: $VALUE|%+0$"
  UNCOLORED_FRACTION: "$NUM$/$DEN$"
  ARMY_FIGHTING_IN_BORDER_WAR: "§R Tato armáda bojuje v pohraničným konfliktu.\n\nNemůžete dávat přímé rozkazy jednotkám, odstraňovat divize z armády nebo měnit vedení.§!\n\n"
- HQ_BRINK_OF_DEATH: "§RArmádní velitelství je pod $THRESHOLD|H%0$ bojeschopností. Pokud bude zničen, velitel armády může být zajat.§!" # todo: NEW TRANSLATION
+ HQ_BRINK_OF_DEATH: "§RArmádní velitelství má méně než $THRESHOLD|H%0$ bojové síly. Pokud bude zničeno, velitel armády může být zajat.§!"
  SOME_UNITS_IN_BORDER_WAR: "Divize v pohraničním konfliktu: $NUM|H$"
  SOME_UNITS_IN_BORDER_WAR_DESC: "§RTyto divize nelze ovládat.§!"
  UNITLEADER_IS_EN_ROUTE: "$NAME|H$ je momentálně §Rna cestě§! z předchozího pridělení. Nebude moci být nasazen, používat schopnosti ani poskytovat pozitivní bonusy po dalších $DAYS|H$ dní."
- UNITLEADER_IS_EN_ROUTE_SINGULAR: "$NAME|H$ je právě §RCestou§! z předchozího příkazu. Nebude moct být nasazen, používat schopnosti ani poskytovat pozitivní buffy po další $DAYS|H$ den." # todo: NEW TRANSLATION
- CANNOT_CHANGE_LEADER_HEADER: "§RNelze změnit velitele:§!" # todo: NEW TRANSLATION
- CANNOT_CHANGE_LEADER_WAR: "§R- Armáda je ve Pohraničním konfliktu§!" # todo: NEW TRANSLATION
- CANNOT_CHANGE_LEADER_DEPLOYED: "§R- $NAME|H$ je právě nasazen nebo se nasazuje§!" # todo: NEW TRANSLATION
- LEADER_CANNOT_REASSIGN_DEPLOYED: "$NAME|H$ je právě nasazen s Armádním velitelstvím a §Rnelze§! ho přiřadit do nové armády." # todo: NEW TRANSLATION
- LEADER_CLICK_TO_REASSIGN_HEADER: "§GKlikněte§! pro zahájení přesunu §Y$NAME$§! z §Y$CURRENT$§! do §Y$TARGET$§!.\n§GShift+Klik§! pro zahájení bez potvrzení.\n" # todo: NEW TRANSLATION
- LEADER_CLICK_TO_WITHDRAW_HEADER: "§GKlikněte§! pro zahájení stažení a přesunu §Y$NAME$§! z §Y$CURRENT$§! do §Y$TARGET$§!.\n§GShift+Klik§! pro zahájení bez potvrzení.\n" # todo: NEW TRANSLATION
- LEADER_WITHDRAW_DAYS_FRAGMENT_SINGULAR: "Stažení potrvá §Y$DAYS$§! den." # todo: NEW TRANSLATION
- LEADER_WITHDRAW_DAYS_FRAGMENT_PLURAL: "Stažení potrvá §Y$DAYS$§! dní." # todo: NEW TRANSLATION
- LEADER_REASSIGN_DAYS_FRAGMENT_SINGULAR: "Přiřazení potrvá §Y$DAYS$§! den." # todo: NEW TRANSLATION
- LEADER_REASSIGN_DAYS_FRAGMENT_PLURAL: "Přiřazení potrvá §Y$DAYS$§! dní." # todo: NEW TRANSLATION
- LEADER_WITHDRAW_CONFIRM_TITLE: "Stažení a přeřazení velitele" # todo: NEW TRANSLATION
- LEADER_WITHDRAW_CONFIRM_DESC_HEADER: "§Y$NAME$§! je v současnosti nasazen v §YArmádním velitelství§! §Y$CURRENT$§! a bude stažen a poté přiřazen do §Y$TARGET$§!.\n\nOpravdu chcete §RStáhnout a přeřadit§! tohoto §Gvelitele§!?\n\n" # todo: NEW TRANSLATION
- LEADER_WITHDRAW_CONFIRM_WITHDRAW_DAYS_FRAGMENT_SINGULAR: "Stažení potrvá §Y$DAYS$§! den." # todo: NEW TRANSLATION
- LEADER_WITHDRAW_CONFIRM_WITHDRAW_DAYS_FRAGMENT_PLURAL: "Stažení potrvá §Y$DAYS$§! dní." # todo: NEW TRANSLATION
- LEADER_WITHDRAW_CONFIRM_REASSIGN_DAYS_FRAGMENT_SINGULAR: "Přiřazení potrvá §Y$DAYS$§! den." # todo: NEW TRANSLATION
- LEADER_WITHDRAW_CONFIRM_REASSIGN_DAYS_FRAGMENT_PLURAL: "Přiřazení potrvá §Y$DAYS$§! dní." # todo: NEW TRANSLATION
+ UNITLEADER_IS_EN_ROUTE_SINGULAR: "$NAME|H$ je právě §Rna cestě§! z předchozího pridělení. Ještě $DAYS|H$ den nebude moci být nasazen, používat schopnosti ani poskytovat pozitivní bonusy."
+ CANNOT_CHANGE_LEADER_HEADER: "§RNelze změnit velitele:§!"
+ CANNOT_CHANGE_LEADER_WAR: "§R- Armáda je v pohraničním konfliktu§!"
+ CANNOT_CHANGE_LEADER_DEPLOYED: "§R- $NAME|H$ je právě nasazen nebo se nasazuje§!"
+ LEADER_CANNOT_REASSIGN_DEPLOYED: "$NAME|H$ je právě nasazen s Armádním velitelstvím a §Rnelze jej převelit§! k nové armádě."
+ LEADER_CLICK_TO_REASSIGN_HEADER: "§GKliknutím§! zahájíte převelení §Y$NAME$§! z §Y$CURRENT$§! k §Y$TARGET$§!.\n§GShift+kliknutím§! zahájíte bez potvrzení.\n"
+ LEADER_CLICK_TO_WITHDRAW_HEADER: "§GKliknutím§! zahájíte stažení a převelení §Y$NAME$§! z §Y$CURRENT$§! k §Y$TARGET$§!.\n§GShift+kliknutím§! zahájíte bez potvrzení.\n"
+ LEADER_WITHDRAW_DAYS_FRAGMENT_SINGULAR: "Stažení potrvá §Y$DAYS$§! den."
+ LEADER_WITHDRAW_DAYS_FRAGMENT_PLURAL: "Stažení potrvá §Y$DAYS$§! dnů."
+ LEADER_REASSIGN_DAYS_FRAGMENT_SINGULAR: "Převelení potrvá §Y$DAYS$§! den."
+ LEADER_REASSIGN_DAYS_FRAGMENT_PLURAL: "Převelení potrvá §Y$DAYS$§! dnů."
+ LEADER_WITHDRAW_CONFIRM_TITLE: "Stáhnout a převelit velitele"
+ LEADER_WITHDRAW_CONFIRM_DESC_HEADER: "§Y$NAME$§! je právě nasazen k §YArmádnímu velitelství§! armády §Y$CURRENT$§! a bude stažen a poté převelen k §Y$TARGET$§!.\n\nOpravdu chcete §Rstáhnout a převelit§! tohoto §Gvelitele§!?\n\n"
+ LEADER_WITHDRAW_CONFIRM_WITHDRAW_DAYS_FRAGMENT_SINGULAR: "Stažení potrvá §Y$DAYS$§! den."
+ LEADER_WITHDRAW_CONFIRM_WITHDRAW_DAYS_FRAGMENT_PLURAL: "Stažení potrvá §Y$DAYS$§! dnů."
+ LEADER_WITHDRAW_CONFIRM_REASSIGN_DAYS_FRAGMENT_SINGULAR: "Převelení potrvá §Y$DAYS$§! den."
+ LEADER_WITHDRAW_CONFIRM_REASSIGN_DAYS_FRAGMENT_PLURAL: "Převelení potrvá §Y$DAYS$§! dnů."
  TRIGGER_CAPITAL: "Stát s hlavním městem"
  PROV_TOOLTIP_LOCATION_HEADER: "£location_pointer"
  PROV_TOOLTIP_LOCATION_STATE: " $TERRAIN|H$ v provincii $NAME|Y$"
@@ -2112,9 +2112,9 @@
  DIVISION_COMMANDER_CLICK_TO_GOTO: "§GPravý klik§! pro plynulý přechod na tuhle divizi."
  ARMY_BUTTON_DIV_COMMAND_TOOLTIP_LEADER: "$ARMY_NAME|H$\n$LEADER$"
  ARMY_BUTTON_DIV_COMMAND_TOOLTIP_NO_LEADER: "$ARMY_NAME|H$\nBez velitele"
- SHIP_CAPTAIN_CLICK_TO_GOTO: "§G Pravý klik§! pro přesun kamery na tuto loď." # todo: NEW TRANSLATION
- TASK_FORCE_BUTTON_CAPTAIN_TOOLTIP_LEADER: "$ARMY_NAME|H$\n$LEADER$" # todo: NEW TRANSLATION
- TASK_FORCE_BUTTON_CAPTAIN_TOOLTIP_NO_LEADER: "$ARMY_NAME|H$\nŽádný velitel" # todo: NEW TRANSLATION
+ SHIP_CAPTAIN_CLICK_TO_GOTO: "§GPravým kliknutím§! přesunete kameru na tuto loď."
+ TASK_FORCE_BUTTON_CAPTAIN_TOOLTIP_LEADER: "$ARMY_NAME|H$\n$LEADER$"
+ TASK_FORCE_BUTTON_CAPTAIN_TOOLTIP_NO_LEADER: "$ARMY_NAME|H$\nŽádný velitel"
  COHESION: "Soudržnost"
  PLAN_COHESION_LOOSE_TITLE: "§HFlexibilní soudržnost§!"
  PLAN_COHESION_LOOSE_DESC: "Divize se přesunou z dlouhých vzdáleností, aby si udržely bojovou linii."
@@ -2123,44 +2123,44 @@
  PLAN_COHESION_STRICT_TITLE: "§HStriktní soudržnost§!"
  PLAN_COHESION_STRICT_DESC: "Divize se budou přesouvat pouze na velmi krátké vzdálenosti, aby udržely bojovou linii.\n\n§RToto nastavení není vhodné pro řídké nebo rychle se měnící fronty - vyžaduje se pečlivá pozornost.§!"
  PLAN_COHESION_MODE: "Nastavit režim soudržnosti"
- LEADER_PROXIMITY: "Vzdálenost Armádního velitelství" # todo: NEW TRANSLATION
- LEADER_PROXIMITY_TITLE: "Vzdálenost Armádního velitelství: $TYPE|H$" # todo: NEW TRANSLATION
- LEADER_PROXIMITY_FRONTLINE_TITLE: "§HNad frontou§!" # todo: NEW TRANSLATION
- LEADER_PROXIMITY_FRONTLINE_DESC: "Armádní velitelství bude na přiřazené frontové linii spolu se zbytkem armády." # todo: NEW TRANSLATION
- LEADER_PROXIMITY_CLOSE_TITLE: "§HBlízko§!" # todo: NEW TRANSLATION
- LEADER_PROXIMITY_CLOSE_DESC: "Armádní velitelství zůstane §H1 provincii§! od přiřazené frontové linie." # todo: NEW TRANSLATION
- LEADER_PROXIMITY_MEDIUM_TITLE: "§HStředně§!" # todo: NEW TRANSLATION
- LEADER_PROXIMITY_MEDIUM_DESC: "Armádní velitelství zůstane §H2 provinciích§! od přiřazené frontové linie." # todo: NEW TRANSLATION
- LEADER_PROXIMITY_FAR_TITLE: "§HDaleko§!" # todo: NEW TRANSLATION
- LEADER_PROXIMITY_FAR_DESC: "Armádní velitelství zůstane §H3 provinciích§! od přiřazené frontové linie." # todo: NEW TRANSLATION
- LEADER_PROXIMITY_FREE_CONTROL_TITLE: "§HVolné řízení§!" # todo: NEW TRANSLATION
- LEADER_PROXIMITY_FREE_CONTROL_DESC: "Armádní velitelství se §Rnebude§! pohybovat automaticky. Máte plnou manuální kontrolu." # todo: NEW TRANSLATION
- LEADER_PROXIMITY_TITLE_GROUP: "Vzdálenost skupiny armád: $TYPE|H$" # todo: NEW TRANSLATION
- LEADER_PROXIMITY_MIXED_TITLE: "Vzdálenost skupiny armád: §YSmíšená§!" # todo: NEW TRANSLATION
- LEADER_PROXIMITY_MIXED_DESC: "Armádní velitelství v této skupině armád mají aktuálně §Yrůzná§! nastavení vzdálenosti. Vyberte typ vzdálenosti pro použití na §Všechny§! Armádní velitelství ve skupině." # todo: NEW TRANSLATION
- LEADER_PROXIMITY_FRONTLINE_DESC_GROUP: "§HVšechny Armádní velitelství§! v této skupině armád budou na frontové linii spolu se zbytkem armád." # todo: NEW TRANSLATION
- LEADER_PROXIMITY_CLOSE_DESC_GROUP: "§HVšechny Armádní velitelství§! v této skupině armád zůstanou §H1 provincii§! od frontové linie." # todo: NEW TRANSLATION
- LEADER_PROXIMITY_MEDIUM_DESC_GROUP: "§HVšechny Armádní velitelství§! v této skupině armád zůstanou §H2 provinciích§! od frontové linie." # todo: NEW TRANSLATION
- LEADER_PROXIMITY_FAR_DESC_GROUP: "§HVšechny Armádní velitelství§! v této skupině armád zůstanou §H3 provinciích§! od frontové linie." # todo: NEW TRANSLATION
- LEADER_PROXIMITY_FREE_CONTROL_DESC_GROUP: "§HVšechny Armádní velitelství§! v této skupině armád se §Rnebudou§! pohybovat automaticky. Máte plnou manuální kontrolu." # todo: NEW TRANSLATION
- LEADER_PROXIMITY_NO_HQ: "§RPřiřaďte velitele, abyste mohli upravit vzdálenost §YArmádního velitelství§! od frontové linie.§!" # todo: NEW TRANSLATION
- LEADER_PROXIMITY_NO_HQ_GROUP: "§RPřiřaďte alespoň jednoho podřízeného armádního velitele ve skupině armád, abyste mohli upravit vzdálenosti §YArmádních velitelství§! od frontové linie.§!" # todo: NEW TRANSLATION
- LEADER_PROXIMITY_MODIFIERS_HEADER: "§HArmádní velitelství blízko své přiřazené frontové linie zlepšují bojové schopnosti jednotek na stejném rozkazu.\n\nPři této vzdálenosti:§!" # todo: NEW TRANSLATION
- LEADER_PROXIMITY_MODIFIER_PCT: "$VAL|%0=+$" # todo: NEW TRANSLATION
- LEADER_PROXIMITY_MODIFIER_PLANNING_CAP: "Maximální plánování: $VAL$" # todo: NEW TRANSLATION
- LEADER_PROXIMITY_MODIFIER_PLANNING_SPEED: "Rychlost plánování: $VAL$" # todo: NEW TRANSLATION
- LEADER_PROXIMITY_MODIFIER_LEADER_MOD: "Účinnost bonusu velitele: $VAL$" # todo: NEW TRANSLATION
- LEADER_PROXIMITY_MODIFIER_ABILITY: "Efektivita schopnosti: $VAL$" # todo: NEW TRANSLATION
- LEADER_PROXIMITY_FREE_CONTROL_MODIFIERS_NOTE: "§HVzdálenost Armádního velitelství od přiřazené frontové linie v daném okamžiku ovlivní bojové schopnosti jednotek na stejném rozkazu.§!" # todo: NEW TRANSLATION
+ LEADER_PROXIMITY: "Vzdálenost Armádního velitelství"
+ LEADER_PROXIMITY_TITLE: "Vzdálenost Armádního velitelství: $TYPE|H$"
+ LEADER_PROXIMITY_FRONTLINE_TITLE: "§HNa frontové linii§!"
+ LEADER_PROXIMITY_FRONTLINE_DESC: "Armádní velitelství bude na přiřazené frontové linii spolu se zbytkem armády."
+ LEADER_PROXIMITY_CLOSE_TITLE: "§HBlízko§!"
+ LEADER_PROXIMITY_CLOSE_DESC: "Armádní velitelství zůstane §H1 provincii§! od přiřazené frontové linie."
+ LEADER_PROXIMITY_MEDIUM_TITLE: "§HStředně daleko§!"
+ LEADER_PROXIMITY_MEDIUM_DESC: "Armádní velitelství zůstane §H2 provincie§! od přiřazené frontové linie."
+ LEADER_PROXIMITY_FAR_TITLE: "§HDaleko§!"
+ LEADER_PROXIMITY_FAR_DESC: "Armádní velitelství zůstane §H3 provincie§! od přiřazené frontové linie."
+ LEADER_PROXIMITY_FREE_CONTROL_TITLE: "§HVolné ovládání§!"
+ LEADER_PROXIMITY_FREE_CONTROL_DESC: "Armádní velitelství se §Rnebude§! pohybovat automaticky. Máte plné ruční ovládání."
+ LEADER_PROXIMITY_TITLE_GROUP: "Vzdálenost armádní skupiny: $TYPE|H$"
+ LEADER_PROXIMITY_MIXED_TITLE: "Vzdálenost armádní skupiny: §YRůzná§!"
+ LEADER_PROXIMITY_MIXED_DESC: "Armádní velitelství v této armádní skupině mají momentálně §Yrůzná§! nastavení vzdálenosti. Vyberte typ vzdálenosti a použijte jej na §Hvšechna§! Armádní velitelství ve skupině."
+ LEADER_PROXIMITY_FRONTLINE_DESC_GROUP: "§HVšechna Armádní velitelství§! v této armádní skupině budou na frontové linii spolu se zbytkem armád."
+ LEADER_PROXIMITY_CLOSE_DESC_GROUP: "§HVšechna Armádní velitelství§! v této armádní skupině zůstanou §H1 provincii§! od frontové linie."
+ LEADER_PROXIMITY_MEDIUM_DESC_GROUP: "§HVšechna Armádní velitelství§! v této armádní skupině zůstanou §H2 provincie§! od frontové linie."
+ LEADER_PROXIMITY_FAR_DESC_GROUP: "§HVšechna Armádní velitelství§! v této armádní skupině zůstanou §H3 provincie§! od frontové linie."
+ LEADER_PROXIMITY_FREE_CONTROL_DESC_GROUP: "§HVšechna Armádní velitelství§! v této armádní skupině se §Rnebudou§! pohybovat automaticky. Máte plné ruční ovládání."
+ LEADER_PROXIMITY_NO_HQ: "§RPřiřaďte velitele, abyste mohli upravit vzdálenost §YArmádního velitelství§! od frontové linie.§!"
+ LEADER_PROXIMITY_NO_HQ_GROUP: "§RPřiřaďte alespoň jednoho podřízeného armádního velitele v armádní skupině, abyste mohli upravit vzdálenost §YArmádních velitelství§! od frontové linie.§!"
+ LEADER_PROXIMITY_MODIFIERS_HEADER: "§HArmádní velitelství blízko své přiřazené frontové linie zlepšují bojové schopnosti jednotek se stejným rozkazem.\n\nV této vzdálenosti:§!"
+ LEADER_PROXIMITY_MODIFIER_PCT: "$VAL|%0=+$"
+ LEADER_PROXIMITY_MODIFIER_PLANNING_CAP: "Max. plánování: $VAL$"
+ LEADER_PROXIMITY_MODIFIER_PLANNING_SPEED: "Rychlost plánování: $VAL$"
+ LEADER_PROXIMITY_MODIFIER_LEADER_MOD: "Účinnost bonusu velitele: $VAL$"
+ LEADER_PROXIMITY_MODIFIER_ABILITY: "Účinnost schopnosti: $VAL$"
+ LEADER_PROXIMITY_FREE_CONTROL_MODIFIERS_NOTE: "§HVzdálenost Armádního velitelství od jeho přiřazené frontové linie v daném okamžiku ovlivní bojové schopnosti jednotek se stejným rozkazem.§!"
  UNIT_LEADER_NEW_LEADER_DIVC: "Zobrazit polní důstojníky"
- UNIT_LEADER_NEW_LEADER_CAPTAIN: "Zobrazit kapitány lodí" # todo: NEW TRANSLATION
+ UNIT_LEADER_NEW_LEADER_CAPTAIN: "Zobrazit lodní kapitány"
  PLANE_COUNTS_IN_REGION: "$COUNTS$"
  PLANE_COUNTS_PASSING_THROUGH_REGION: " ($COUNTS$)"
  PLANES_IN_REGION_SUBTITLE: "§HLetadla v regionu§!\n"
  PLANES_PASSING_THROUGH_REGION: "\n§HLetadla prolétající regionem§!\n"
  OPEN_COUNTRY_LOGISTICS: "Otevřít logistiku"
  DIVISION_COMMANDER_DESCRIPTION_TEXT: "§HPolní důstojníci§! jsou důstojníci, kteří mají na starosti vaše divize. Jejich divize mohou provádět různé bojové akce, za které jim mohou být udělena vyznamenání poskytující výhody. Kromě toho může důstojník během velení své divizi získávat uložené zkušenosti a osobnostní vlastnosti, které se uplatní, pokud bude povýšen na armádního generála."
- SHIP_CAPTAIN_DESCRIPTION_TEXT: "§HKapitáni lodí§! jsou důstojníci zodpovědní za jednotlivé lodě. Když v námořním boji vyniknou, mohou být oceněni poctami s výhodami. Navíc si důstojník během velení lodi vydělá uložené zkušenosti a osobnostní rysy, které se uplatní, pokud bude povýšen na admirála." # todo: NEW TRANSLATION
+ SHIP_CAPTAIN_DESCRIPTION_TEXT: "§HLodní kapitáni§! jsou důstojníci velící jednotlivým lodím. Když vyniknou v námořním boji, mohou jim být udělena vyznamenání poskytující výhody. Kromě toho může důstojník při velení své lodi získávat uložené zkušenosti a osobnostní vlastnosti, které se uplatní, pokud bude povýšen na admirála."
  BASE_CONTRIBUTION: "\nZákladní hodnota: $VALUE|H%$\n"
  LOGISTICS_ONLY_FOR_ALLIES: "Nabídku logistiky můžeme zobrazit pouze pro členy frakce nebo subjekty."
  TRAINING_ACCIDENT: "nehoda při výcviku"
@@ -2176,7 +2176,7 @@
  CLEAR_ALL: "Vymazat vše"
  REMOVE: "Odstranit"
  TECH_DISALLOWED_BECAUSE: "§RTato větev vyžaduje:§!"
- SUBUNIT_PER_BATTALION_MODIFIER_TITLE: "§HModifikátory praporů:§!" # todo: NEW TRANSLATION
+ SUBUNIT_PER_BATTALION_MODIFIER_TITLE: "§HPraporové modifikátory:§!"
  SUBUNIT_PER_BATTALION_MODIFIER_DESC: "\n§LPraporové modifikátory přidávají jejich uvedené statistiky vynásobené počtem cílových praporů v divizi.§!"
  DIVISION_VIEW_HAS_MEDALS: "Tato divize může být vyznamenána §Hmedailí§!.\n§GKlikněte pro otevření náhledu na medaile.§!"
  REPAIR_ASSIGNMENT_INFO_FACTORIES: "Tohle je počet §Htováren§!, které budou upřednostňovat opravy před stavbou."
@@ -2252,10 +2252,10 @@
  PLAN_COHESION_IMMOBILE_TITLE: "§HNepohyblivé§!"
  PLAN_COHESION_IMMOBILE_DESC: "Divize se §Rnikdy§! nepřemístí!"
  PLANNING_SPEED_COHESION_IMMOBILE_FACTOR: "$PLAN_COHESION_IMMOBILE_TITLE$ Soudržnost: x$FACTOR|R$"
- COMMS_MULT_TEXT: "$MULT|%0=+$" # todo: NEW TRANSLATION
- COMMS_MULT: "Vzdálenost Armádního velitelství: $MULT_TEXT$" # todo: NEW TRANSLATION
- COMMS_MULT_NO_HQ: "Armádní velitelství není nasazen: $MULT_TEXT$" # todo: NEW TRANSLATION
- COMMS_MULT_NOT_ON_ORDER: "Armádní velitelství není na rozkazu: $MULT_TEXT$" # todo: NEW TRANSLATION
+ COMMS_MULT_TEXT: "$MULT|%0=+$"
+ COMMS_MULT: "Vzdálenost Armádního velitelství: $MULT_TEXT$"
+ COMMS_MULT_NO_HQ: "Armádní velitelství není nasazeno: $MULT_TEXT$"
+ COMMS_MULT_NOT_ON_ORDER: "Armádní velitelství není přiřazeno k rozkazu: $MULT_TEXT$"
  ARMY_CLICK_HEADER: "§GKlikněte§! pro výběr divize.\n§GShift+Klik§! pro přepínání výběru.\n§GDvouklik§! pro vybrání všech divizí se stejnou šablonou\n§GPravý klik§! pro posun k divizi"
  BAD_TEMPORARY_BUFF_NEGATIVE: "$BUFF_REASON$: §R$VALUE|%-1$§! (§H$NUM_DAYS|0$§! dní)\n"
  BAD_TEMPORARY_BUFF: "$BUFF_REASON$: §R+$VALUE|%-1$§! (§H$NUM_DAYS|0$§! dní)\n"

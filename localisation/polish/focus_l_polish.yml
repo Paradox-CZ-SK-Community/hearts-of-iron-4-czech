@@ -1825,8 +1825,8 @@
  NZL_form_the_rnzn_desc: "Naše kdysi malé pobřežní hlídky se nyní rozrostly na lodě, které mohou operovat nezávisle na dohledu královského námořnictva. Nový Zéland bude mít vlastní námořnictvo."
  NZL_expand_devonport_naval_base: "Rozšířit námořní základnu Devonport"
  NZL_expand_devonport_naval_base_desc: "Námořní základna Devonport bude velitelstvím našeho námořnictva, ale musí být rozšířena, aby splňovala nové požadavky totální války."
- NZL_purchase_old_ships: "$SMB_purchase_destroyers_and_subs$" # todo: NEW TRANSLATION
- NZL_purchase_old_ships_desc: "$SMB_purchase_destroyers_and_subs_desc$" # todo: NEW TRANSLATION
+ NZL_purchase_old_ships: "$SMB_purchase_destroyers_and_subs$"
+ NZL_purchase_old_ships_desc: "$SMB_purchase_destroyers_and_subs_desc$"
  NZL_coastal_defense: "Pobřežní obrana"
  NZL_coastal_defense_desc: "Nový Zéland je ostrovní stát, daleko od nepřátel, takže musíme být připraveni na obojživelný útok podél našeho pobřeží."
  NZL_destroyer_effort: "Zaměření na torpédoborce"
@@ -1851,8 +1851,8 @@
  NZL_modern_fighters_desc: "Je čas modernizovat naše stíhačky na rychlejší stroje s delším doletem. Naši spojenci ukázali cestu s jedněmi z nejpokročilejších letadel, které kdy svět viděl."
  NZL_heavy_bombers: "Těžké bombardéry"
  NZL_heavy_bombers_desc: "Válku lze vyhrát pouze úderem na srdce nepřátelské domoviny. Těžké bombardéry jsou nezbytné k zasazení ničivého úderu nepřátelským továrnám a městům."
- NZL_the_plan: "Plán výcviku pilotů Britského společenství" # todo: NEW TRANSLATION
- NZL_the_plan_desc: "Spojili jsme se s našimi spojenci, abychom sdíleli zkušenosti a poznatky ve výcviku pilotů. Válka by mohla být vyhrána ze vzduchu, takže Plán výcviku pilotů Britského společenství by mohl být klíčem k vítězství." # todo: NEW TRANSLATION
+ NZL_the_plan: "Letecký výcvikový plán Britského Commonwealthu"
+ NZL_the_plan_desc: "Připojili jsme se ke svým spojencům, abychom sdíleli zkušenosti a poznatky při výcviku pilotů. Válka může být vyhrána ze vzduchu, a tak by letecký výcvikový plán Commonwealthu mohl být klíčem k vítězství."
  NZL_national_roads_board: "Národní silniční úřad"
  NZL_national_roads_board_desc: "Drsný terén Nového Zélandu brání vytvoření uceleného systému výstavby silnic, ale musíme zlepšit to, co máme. Je třeba prozkoumat systém dálnic, zpevnit silnice a proklestit hory novými cestami."
  NZL_new_zealand_steel: "Novozélandská ocel"
@@ -2008,7 +2008,7 @@
  RAJ_orde_wingate_tt: "Objeví se §Y4 Dovednost Generál§! §YOrde Wingate§!.\n"
  RAJ_chindits_desc: "Indie potřebuje divizi speciálních sil, a tak jsme zformovali Čindity, kteří operují za nepřátelskými liniemi v asijské džungli. Jedná se o riskantní operaci, při níž bude docházet k vysokým ztrátám na životech, ale může být velmi užitečná pro válečné úsilí."
  RAJ_jungle_training: "Výcvik v džungli"
- RAJ_jungle_training_effect: "Umožňuje §HVýcvik v džungli§!\n§HMariňáci\n    Džungle§!\n      Útok: §G+5%§!\n      Pohyb: §G+10%§!\n§HHorolezci\n    Džungle§!\n      Útok: §G+5%§!\n      Pohyb: §G+10%§!\n§HParašutisté\n    Džungle§!\n      Útok: §G+5%§!\n      Pohyb: §G+10%§!\n"
+ RAJ_jungle_training_effect: "Umožňuje §HVýcvik v džungli§!\n§HMariňáci\n    Džungle§!\n      Útok: §G+5%§!\n      Pohyb: §G+10%§!\n§HHorolezci\n    Džungle§!\n      Útok: §G+5%§!\n      Pohyb: §G+10%§!\n§HVýsadkáři\n    Džungle§!\n      Útok: §G+5%§!\n      Pohyb: §G+10%§!\n"
  RAJ_jungle_training_desc: "Indie, Barma a Indočína jsou pokryty džunglí a doporučuje se speciální výcvik, aby naši vojáci byli v tomto nebezpečném terénu efektivní."
  RAJ_lessons_of_the_great_war: "Poučení z Velké války"
  RAJ_lessons_of_the_great_war_desc: "Indičtí koloniální vojáci se účastnili poslední světové války a poučení z tohoto konfliktu by se mělo promítnout do výcviku a organizace armády."

@@ -24,9 +24,9 @@
  SEA_japan_foreign_policy.4.t: "[FROM.GetNameDefCap] požaduje, abychom vstoupili do jejich frakce"
  SEA_japan_foreign_policy.4.desc: "[FROM.GetAdjectiveCap] delegace nás oslovila s žádostí o spolupráci na jejich snaze ovládnout asijský kontinent, požadujíc, abychom se k nim připojili v jejich současných i budoucích válkách. Nezdá se, že by přijali jako odpověď ne, ale jistě to pro nás není výhodné?"
  SEA_japan_foreign_policy.4.a: "Společně budeme silnější"
- SEA_japan_foreign_policy.4.b: "To by bylo proti našim zásadám neutrality!"
- SEA_japan_foreign_policy.4.c: "Jsme uprostřed války! Požádejte je, aby počkali." # todo: NEW TRANSLATION
- SEA_japan_foreign_policy.4.c_tt: "Budeme požádáni, abychom reagovali, jakmile omezená válka skončí." # todo: NEW TRANSLATION
+ SEA_japan_foreign_policy.4.b: "To by odporovalo našim zásadám neutrality!"
+ SEA_japan_foreign_policy.4.c: "Jsme uprostřed války! Požádejte je, ať počkají."
+ SEA_japan_foreign_policy.4.c_tt: "Budeme požádáni o odpověď, jakmile omezená válka skončí"
  SEA_japan_foreign_policy.5.t: "[FROM.GetNameDefCap] přijímá naši nabídku"
  SEA_japan_foreign_policy.5.desc: "[FROM.GetLeader] se zachoval rozumně a rozhodl, že [FROM.GetNameDef] oficiálně podepíše potřebné dokumenty ke vstupu do naší frakce. Dnešek je den hodný oslav!"
  SEA_japan_foreign_policy.5.a: "Jak se patří"

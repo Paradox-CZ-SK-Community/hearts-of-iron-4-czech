@@ -618,9 +618,9 @@
  JUNO_brazil_news.6.t: "[ROOT.GetNonIdeologyName] zažívá komunistický převrat"
  JUNO_brazil_news.6.d: "[BRA.GetAdjectiveCap] nepokoje se v posledních dnech zcela vymkly kontrole a vyústily v komunistický převrat. Vláda sice v roce 1935 zmařila pokus komunistického hnutí o svržení režimu, avšak nedokázala zastavit rostoucí rudou vlnu. Zatímco většina armády zůstala loajální centrální vládě, mnozí nižší důstojníci se přidali ke komunistům. Mnozí v regionu se obávají, že komunistická [BRA.GetNonIdeologyName] spustí dominový efekt po celém jihoamerickém kontinentu."
  JUNO_brazil_news.6.a: "Ale jak dlouho vydrží nová vláda?"
- JUNO_brazil_news.7.t: "Smrt Pedra de Alcântara" # todo: NEW TRANSLATION
- JUNO_brazil_news.7.desc: "Náš starý císař, Dom Pedro de Alcântara z Orléans-Braganza, princ z Grão Pará a císař Brazílie, zemřel. Během svého krátkého panování sloužil jako symbol míru a stability pro náš lid a stal se bodem sjednocení pro [FROM.GetAdjective]s během těchto bouřlivých časů. Smutní lidé vyšly do ulic, aby prokázali svou úctu a podporu zemřelému císaři. \n\n Národ doufá, že dědic a nástupce starého císaře, princ Pedro Gastão, bude pro [FROM.GetAdjective] lid podobně pevnou oporou. Princ bude brzy korunován císařem Dom Pedrem IV. - ať dlouho vládne!" # todo: NEW TRANSLATION
- JUNO_brazil_news.7.a: "Ať žije Pedro Gastão z Orléans-Braganza!" # todo: NEW TRANSLATION
+ JUNO_brazil_news.7.t: "Smrt Pedra de Alcântary"
+ JUNO_brazil_news.7.desc: "Náš starý císař, Dom Pedro de Alcântara Orléans-Braganza, princ z Grão-Pará a císař Brazílie, zemřel. Během své krátké vlády sloužil jako symbol míru a stability pro náš lid a v těchto bouřlivých časech byl sjednocujícím bodem pro [FROM.GetAdjective] obyvatelstvo. Truchlící lidé vyšli do ulic, aby vyjádřili svou vděčnost a podporu zesnulému císaři. \n\n Národ doufá, že dědic a nástupce starého císaře, princ Pedro Gastão, bude pro [FROM.GetAdjective] lid podobně pevnou oporou. Princ bude brzy korunován jako císař Dom Pedro IV. - ať je jeho vláda dlouhá!"
+ JUNO_brazil_news.7.a: "Ať žije Pedro Gastão Orléans-Braganza!"
  JUNO_brazil_events.30.t: "[FROM.GetNameDefCap] navrhuje spolupráci"
  JUNO_brazil_events.30.desc: "[FROM.GetAdjectiveCap] diplomaté nás oslovili s nabídkou vojenské a hospodářské spolupráce. Uvádějí, že jsou hluboce znepokojeni stavem světových záležitostí a věří, že jediná cesta k trvalému míru vede přes sblížení s námi a ukončení boje proti našim společným geopolitickým nepřátelům."
  JUNO_brazil_events.30.a: "Přijímáme tento návrh."

@@ -424,7 +424,7 @@
  STATE_284: "Wellington"
  STATE_285: "Nový Jižní Wales"
  STATE_286: "Jižní Annam"
- VIN_STATE_286: "Nam Trung Bo" # todo: NEW TRANSLATION
+ VIN_STATE_286: "Nam Trung Bo"
  STATE_287: "Taklamakan"
  STATE_288: "Magwe"
  STATE_289: "Západní Siam"
@@ -438,7 +438,7 @@
  STATE_297: "Rovníková Guinea"
  STATE_298: "Libérie"
  STATE_299: "Falklandy"
- ARG_STATE_299: "Islas Malvinas" # todo: NEW TRANSLATION
+ ARG_STATE_299: "Islas Malvinas"
  STATE_300: "Montevideo"
  STATE_301: "Paraguay"
  STATE_302: "La Paz"
@@ -820,7 +820,7 @@
  STATE_667: "Západní Nusa Tenggara"
  STATE_668: "Moluky"
  STATE_669: "Holandská Nová Guinea"
- STATE_669_indonesian: "Severní Papua" # todo: NEW TRANSLATION
+ STATE_669_indonesian: "Severní Papua"
  STATE_670: "Laos"
  STATE_671: "Tonkin"
  STATE_672: "Jižní Sumatra"
@@ -1231,7 +1231,7 @@
  STATE_1015: "Omán"
  STATE_1016: "Dafár"
  STATE_1017: "Da Nang"
- FRA_STATE_1017: "Severní Annam" # todo: NEW TRANSLATION
+ FRA_STATE_1017: "Severní Annam"
  STATE_1018: "Minami Kjúšú"
  STATE_1019: "Minami Tóhoku"
  STATE_1020: "San'in"
@@ -1265,47 +1265,47 @@
  STATE_1044: "Wu-wej"
  STATE_1045: "Kuej-jüan"
  STATE_1046: "Jü-lin"
- STATE_1047: "Bangka-Belitung" # todo: NEW TRANSLATION
- STATE_1048: "Padang" # todo: NEW TRANSLATION
- STATE_1049: "Medan a Riouw" # todo: NEW TRANSLATION
- STATE_1050: "Atjeh" # todo: NEW TRANSLATION
- STATE_1051: "Východní Jáva" # todo: NEW TRANSLATION
- STATE_1052: "Bali" # todo: NEW TRANSLATION
- STATE_1053: "Východní Nusa Tenggara" # todo: NEW TRANSLATION
- STATE_1054: "Nizozemský Timor" # todo: NEW TRANSLATION
- STATE_1054_indonesian: "Západní Timor" # todo: NEW TRANSLATION
- STATE_1055: "Východní Kalimantan" # todo: NEW TRANSLATION
- STATE_1056: "Manado" # todo: NEW TRANSLATION
- STATE_1057: "Nizozemská Papua" # todo: NEW TRANSLATION
- STATE_1057_indonesian: "Jižní Papua" # todo: NEW TRANSLATION
- STATE_1058: "Batávie" # todo: NEW TRANSLATION
- STATE_1058_indonesian: "Jakarta" # todo: NEW TRANSLATION
- STATE_1059: "Limbang" # todo: NEW TRANSLATION
- STATE_1060: "Johor" # todo: NEW TRANSLATION
- STATE_1061: "Perlis-Kedah" # todo: NEW TRANSLATION
- STATE_1062: "Kelantan-Terengganu" # todo: NEW TRANSLATION
- STATE_1063: "Pahang" # todo: NEW TRANSLATION
- STATE_1064: "Perak" # todo: NEW TRANSLATION
- STATE_1065: "Penang" # todo: NEW TRANSLATION
- STATE_1066: "Cochinchina" # todo: NEW TRANSLATION
- FRA_STATE_1066: "Cochinchine" # todo: NEW TRANSLATION
- STATE_1067: "Battambang" # todo: NEW TRANSLATION
- SIA_STATE_1067: "Phibunsongkhram" # todo: NEW TRANSLATION
- SIA_STATE_1067_ALT: "Vnitřní Kambodža" # todo: NEW TRANSLATION
- STATE_1068: "Bassac" # todo: NEW TRANSLATION
- SIA_STATE_1068: "Champasak" # todo: NEW TRANSLATION
- STATE_1069: "Lan Chang" # todo: NEW TRANSLATION
- STATE_1070: "Bougainville" # todo: NEW TRANSLATION
- STATE_1071: "Vanuatu" # todo: NEW TRANSLATION
- FRA_STATE_1071: "Nové Hebridy" # todo: NEW TRANSLATION
- ENG_STATE_1071: "Nové Hebridy" # todo: NEW TRANSLATION
- STATE_1072: "Americká Samoa" # todo: NEW TRANSLATION
- STATE_1073: "Vnitřní Papua" # todo: NEW TRANSLATION
- STATE_1074: "Centrální západní Austrálie" # todo: NEW TRANSLATION
- STATE_1075: "Západní Queensland" # todo: NEW TRANSLATION
- STATE_1076: "Bangkokský stát" # todo: NEW TRANSLATION
- STATE_1077: "Centrální Siam" # todo: NEW TRANSLATION
- STATE_1078: "Východní Siam" # todo: NEW TRANSLATION
- STATE_1079: "Auckland" # todo: NEW TRANSLATION
- STATE_1080: "Marlborough" # todo: NEW TRANSLATION
- STATE_1081: "Otago" # todo: NEW TRANSLATION
+ STATE_1047: "Bangka-Belitung"
+ STATE_1048: "Padang"
+ STATE_1049: "Medan a Riau"
+ STATE_1050: "Ačeh"
+ STATE_1051: "Východní Jáva"
+ STATE_1052: "Bali"
+ STATE_1053: "Východní Nusa Tenggara"
+ STATE_1054: "Nizozemský Timor"
+ STATE_1054_indonesian: "Západní Timor"
+ STATE_1055: "Východní Kalimantan"
+ STATE_1056: "Manado"
+ STATE_1057: "Nizozemská Papua"
+ STATE_1057_indonesian: "Jižní Papua"
+ STATE_1058: "Batávie"
+ STATE_1058_indonesian: "Jakarta"
+ STATE_1059: "Limbang"
+ STATE_1060: "Johor"
+ STATE_1061: "Perlis-Kedah"
+ STATE_1062: "Kelantan-Terengganu"
+ STATE_1063: "Pahang"
+ STATE_1064: "Perak"
+ STATE_1065: "Penang"
+ STATE_1066: "Kočinčína"
+ FRA_STATE_1066: "Cochinchine"
+ STATE_1067: "Battambang"
+ SIA_STATE_1067: "Phibunsongkhram"
+ SIA_STATE_1067_ALT: "Vnitřní Kambodža"
+ STATE_1068: "Bassac"
+ SIA_STATE_1068: "Champasak"
+ STATE_1069: "Lan Chang"
+ STATE_1070: "Bougainville"
+ STATE_1071: "Vanuatu"
+ FRA_STATE_1071: "Nové Hebridy"
+ ENG_STATE_1071: "Nové Hebridy"
+ STATE_1072: "Americká Samoa"
+ STATE_1073: "Vnitrozemská Papua"
+ STATE_1074: "Středozápadní Austrálie"
+ STATE_1075: "Západní Queensland"
+ STATE_1076: "Bangkok"
+ STATE_1077: "Střední Siam"
+ STATE_1078: "Východní Siam"
+ STATE_1079: "Auckland"
+ STATE_1080: "Marlborough"
+ STATE_1081: "Otago"

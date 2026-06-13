@@ -14,9 +14,9 @@
  dam_mountain: "$dam$"
  dam_mountain_plural: "$dam_plural$"
  dam_mountain_desc: "$dam_desc$"
- cataract_dam_mountain: "Přehrada Cataract" # todo: NEW TRANSLATION
- cataract_dam_mountain_plural: "Přehrady Cataract" # todo: NEW TRANSLATION
- cataract_dam_mountain_desc: "Dokončena v roce 1907, přehrada Cataract patří k významným raným inženýrským počinům koloniální Austrálie. Postavěná na řece Cataract v oblasti Southern Highlands v Novém Jižním Walesu zůstává jednou ze čtyř hlavních nádrží zásobujících město Sydney sladkou vodou." # todo: NEW TRANSLATION
+ cataract_dam_mountain: "Přehrada Cataract"
+ cataract_dam_mountain_plural: "Přehrada Cataract"
+ cataract_dam_mountain_desc: "Přehrada Cataract, dokončená v roce 1907, patří k velkým raným technickým úspěchům koloniální Austrálie. Byla postavena na řece Cataract v Jižní vysočině Nového Jižního Walesu a dodnes zůstává jednou ze čtyř hlavních nádrží zásobujících město Sydney sladkou vodou."
  canal_kiel: "Kielský kanál"
  canal_kiel_plural: "$canal_kiel$"
  canal_kiel_desc: "Plavební komory Kielského kanálu jsou potřebné k tomu, aby kanál fungoval na plnou kapacitu, a jejich zničení by dlouho bránilo přepravě a pohybu."

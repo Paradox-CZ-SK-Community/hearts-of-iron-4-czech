@@ -222,7 +222,7 @@
  fake_intel_plant_evidence_outcome: "Nájezd byl naprostým úspěchem a druhá strana získala spoustu důkazů o naší operaci. První zprávy naznačují, že už v reakci na to došlo k pohybům jednotek."
  fake_intel_release_pow_outcome: "Důstojník byl svezen kolem několika vojenských táborů a mohl si všimnout různých označení divizí, které ve skutečnosti neexistují."
  targeted_sabotage_plant_explosives_outcome: "Tým úspěšně odpálil nálože a budovu zničil. Přestože výrobní stroje utrpěly jen lehčí škody, obnova bude trvat dlouho."
- targeted_sabotage_organize_more_meetings_outcome: "Náš operativec úspěšně pronikl do středního managementu cílové společnosti a agresivně „restrukturalizoval“ procesy. Produktivita výrazně klesla." # todo: NEW TRANSLATION
+ targeted_sabotage_organize_more_meetings_outcome: "Náš operativec úspěšně pronikl do středního managementu cílové společnosti a agresivně restrukturalizoval procesy s cílem nalézt větší synergie posílením zapojení klíčových zainteresovaných stran. Produktivita výrazně poklesla."
  targeted_sabotage_destroy_bridge_outcome: "Tým umístil výbušniny a nastavil roznětku tak, aby explodovala při průjezdu vlaku. Výbuch spolu s havárií vlaku zničil celý mostní úsek."
  targeted_sabotage_collapse_tunnel_outcome: "Po určení slabých míst tým nastražil výbušniny a stáhl se. Ačkoliv je možné tunel opravit, potrvá to nějaký čas."
  targeted_sabotage_remove_roadsigns_outcome: "Tým odstranil značky na několika důležitých křižovatkách a jiné zaměnil, což vyvolalo velký chaos mezi řidiči neznalými oblasti."

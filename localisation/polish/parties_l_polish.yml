@@ -338,18 +338,18 @@
  CAN_neutrality_party_long: "Kooperativní společenství"
  AST_neutrality_party: "AVS"
  AST_neutrality_party_long: "Australská venkovská strana"
- AST_colonial_administration: "CA" # todo: NEW TRANSLATION
- AST_colonial_administration_long: "Koloniální správa" # todo: NEW TRANSLATION
- AST_democratic_party: "UAP" # todo: NEW TRANSLATION
- AST_democratic_party_long: "Spojená Australská Strana" # todo: NEW TRANSLATION
- AST_labor_party: "Labor" # todo: NEW TRANSLATION
- AST_labor_party_long: "Australská strana práce" # todo: NEW TRANSLATION
- AST_fascism_party: "Střed"
- AST_fascism_party_long: "Středová strana"
- AST_australia_first_movement: "Australia First" # todo: NEW TRANSLATION
- AST_australia_first_movement_long: "Hnutí Australia First" # todo: NEW TRANSLATION
- AST_australia_first_party: "Australia First" # todo: NEW TRANSLATION
- AST_australia_first_party_long: "Strana Australia First" # todo: NEW TRANSLATION
+ AST_colonial_administration: "KS"
+ AST_colonial_administration_long: "Koloniální správa"
+ AST_democratic_party: "UAP"
+ AST_democratic_party_long: "Sjednocená australská strana"
+ AST_labor_party: "ALP"
+ AST_labor_party_long: "Australská strana práce"
+ AST_fascism_party: "Strana středu"
+ AST_fascism_party_long: "Strana středu"
+ AST_australia_first_movement: "Australia First"
+ AST_australia_first_movement_long: "Hnutí Australia First"
+ AST_australia_first_party: "Australia First"
+ AST_australia_first_party_long: "Strana Australia First"
  AST_communism_party: "CPA"
  AST_communism_party_long: "Komunistická strana Austrálie"
  MEX_democratic_party: "PLC"
@@ -668,14 +668,14 @@
  ELS_fascism_party_long: "Partido Nacional „Pro-Patria“"
  GUA_democratic_party: "PLP"
  GUA_democratic_party_long: "Progresivní liberální strana"
- SIA_democratic_party: "Khana Ratsadon - civilní" # todo: NEW TRANSLATION
- SIA_democratic_party_long: "Khana Ratsadon - civilní křídlo" # todo: NEW TRANSLATION
- SIA_neutrality_party: "Khana Ratsadon - Vojenské" # todo: NEW TRANSLATION
- SIA_neutrality_party_long: "Khana Ratsadon - Vojenské křídlo" # todo: NEW TRANSLATION
- SIA_neutrality_party_royalist: "Royalisté" # todo: NEW TRANSLATION
- SIA_neutrality_party_royalist_long: "Royalisté" # todo: NEW TRANSLATION
- SIA_communism_party: "CPT" # todo: NEW TRANSLATION
- SIA_communism_party_long: "Komunistická strana Thajska" # todo: NEW TRANSLATION
+ SIA_democratic_party: "Khana Ratsadon - civilisté"
+ SIA_democratic_party_long: "Khana Ratsadon - civilní křídlo"
+ SIA_neutrality_party: "Khana Ratsadon - armáda"
+ SIA_neutrality_party_long: "Khana Ratsadon - vojenské křídlo"
+ SIA_neutrality_party_royalist: "Roajalisté"
+ SIA_neutrality_party_royalist_long: "Roajalisté"
+ SIA_communism_party: "CPT"
+ SIA_communism_party_long: "Komunistická strana Thajska"
  URG_democratic_party: "Colorado"
  URG_democratic_party_long: "Partido Colorado"
  URG_communism_party: "PCU"
@@ -903,47 +903,47 @@
  ISR_democratic_party: "Mapai"
  ISR_fascism_party: "Helpam"
  ISR_neutrality_party: "Ústřední rada"
- VIN_fascism_party: "Dai-Viet Quoc-Gia Xa-Hoi Dang" # todo: NEW TRANSLATION
+ VIN_fascism_party: "Dai-Viet Quoc-Gia Xa-Hoi Dang"
  VIN_democratic_party: "Strana Can Lao"
  VIN_communism_party: "Komunistická strana Vietnamu"
  VIN_neutrality_party: "Dynastie Nguyen"
  CAM_fascism_party: "Khmeritská strana"
  CAM_democratic_party: "Demokratická strana"
  CAM_communism_party: "Khmer Issarak"
- CAM_neutrality_party: "Sangkum Reastr Nijum"
- CPS_neutrality_party: "Na Champassak" # todo: NEW TRANSLATION
- INS_fascism_party: "NSB" # todo: NEW TRANSLATION
- INS_fascism_party_long: "Nationaal-Socialistische Beweging in Nederlands-Indië" # todo: NEW TRANSLATION
- INS_democratic_party: "Volksraad" # todo: NEW TRANSLATION
+ CAM_neutrality_party: "Sangkum Reastr Niyum"
+ CPS_neutrality_party: "Na Champassak"
+ INS_fascism_party: "NSB"
+ INS_fascism_party_long: "Nationaal-Socialistische Beweging in Nederlands-Indië"
+ INS_democratic_party: "Volksraad"
  INS_communism_party: "PKI"
- INS_communism_party_long: "Partai Komunis Indonesia" # todo: NEW TRANSLATION
- INS_neutrality_party: "Gouverneur-generaal" # todo: NEW TRANSLATION
- INS_neutrality_party_long: "Nizozemská koloniální nadvláda" # todo: NEW TRANSLATION
- INS_republic_knip_party: "KNIP" # todo: NEW TRANSLATION
- INS_republic_knip_party_long: "Ústřední indonéský národní výbor" # todo: NEW TRANSLATION
- INS_republic_national_party: "PNI" # todo: NEW TRANSLATION
- INS_republic_national_party_long: "Indonéská nacionalistická strana" # todo: NEW TRANSLATION
- INS_republic_socialist_party: "PSI" # todo: NEW TRANSLATION
- INS_republic_socialist_party_long: "Indonéská socialistická strana" # todo: NEW TRANSLATION
- INS_republic_masyumi_party: "Masyumi" # todo: NEW TRANSLATION
- INS_republic_masyumi_party_long: "Masyumi" # todo: NEW TRANSLATION
- INS_peta_party: "PETA" # todo: NEW TRANSLATION
- INS_peta_party_long: "Obránci vlasti" # todo: NEW TRANSLATION
- MAL_fascism_party: "HAMIM" # todo: NEW TRANSLATION
- MAL_fascism_party_long: "Parti Orang Muslimin Malaya" # todo: NEW TRANSLATION
- MAL_democratic_party: "UMNO" # todo: NEW TRANSLATION
- MAL_democratic_party_long: "Sjednocená malajská národní organizace" # todo: NEW TRANSLATION
- MAL_communism_party: "MCP" # todo: NEW TRANSLATION
- MAL_communism_party_long: "Malajská komunistická strana" # todo: NEW TRANSLATION
- MAL_neutrality_party: "KMM" # todo: NEW TRANSLATION
- MAL_neutrality_party_long: "Kesatuan Melayu Muda" # todo: NEW TRANSLATION
- SNG_fascism_party: "Kerajaan Singapura" # todo: NEW TRANSLATION
- SNG_democratic_party: "LF" # todo: NEW TRANSLATION
- SNG_democratic_party_long: "Pracovní fronta" # todo: NEW TRANSLATION
- SNG_communism_party: "BS" # todo: NEW TRANSLATION
- SNG_communism_party_long: "Barisan Sosialis" # todo: NEW TRANSLATION
- SNG_neutrality_party: "PAP" # todo: NEW TRANSLATION
- SNG_neutrality_party_long: "Lidová akční strana" # todo: NEW TRANSLATION
+ INS_communism_party_long: "Partai Komunis Indonesia"
+ INS_neutrality_party: "Generální guvernér"
+ INS_neutrality_party_long: "Nizozemská imperiální vláda"
+ INS_republic_knip_party: "KNIP"
+ INS_republic_knip_party_long: "Ústřední indonéský národní výbor"
+ INS_republic_national_party: "PNI"
+ INS_republic_national_party_long: "Partai Nationalis Indonesia"
+ INS_republic_socialist_party: "PSI"
+ INS_republic_socialist_party_long: "Partai Socialis Indonesia"
+ INS_republic_masyumi_party: "Masyumi"
+ INS_republic_masyumi_party_long: "Masyumi"
+ INS_peta_party: "PETA"
+ INS_peta_party_long: "Obránci vlasti"
+ MAL_fascism_party: "HAMIM"
+ MAL_fascism_party_long: "Parti Orang Muslimin Malaya"
+ MAL_democratic_party: "UMNO"
+ MAL_democratic_party_long: "Sjednocená malajská národní organizace"
+ MAL_communism_party: "MCP"
+ MAL_communism_party_long: "Malajská komunistická strana"
+ MAL_neutrality_party: "KMM"
+ MAL_neutrality_party_long: "Kesatuan Melayu Muda"
+ SNG_fascism_party: "Kerajaan Singapura"
+ SNG_democratic_party: "LF"
+ SNG_democratic_party_long: "Labour Front"
+ SNG_communism_party: "BS"
+ SNG_communism_party_long: "Barisan Sosialis"
+ SNG_neutrality_party: "PAP"
+ SNG_neutrality_party_long: "Strana lidové akce"
  LAO_fascism_party: "Strana centralizace kmenů"
  LAO_democratic_party: "Demokratická strana"
  LAO_communism_party: "Pathet Lao"
@@ -1044,7 +1044,7 @@
  GUM_democratic_party: "MRP"
  GUM_democratic_party_long: "Marijanská republikánská strana"
  GUM_communism_party: "MLP"
- GUM_communism_party_long: "Mariánská leninistická strana" # todo: NEW TRANSLATION
+ GUM_communism_party_long: "Mariánská leninistická strana"
  SOL_fascism_party: "SCP"
  SOL_fascism_party_long: "Křesťanská strana Šalomounových ostrovů"
  SOL_neutrality_party: "SNP"

@@ -410,7 +410,7 @@
  CHANGE_DIV_TEMPLATE_EFFECT: "$DIV$ přechází na šablonu $TEMPLATE|H$"
  EFFECT_PROMOTE_OFFICER_TO_GENERAL: "Povýšit $NAME|H$ na generála"
  EFFECT_CAPTURE_GENERAL: "$COUNTRY_NAME_DEF|H$ jej drží v zajetí"
- EFFECT_RELEASE_GENERALS: "Propustí všechny zajaté generály z $COUNTRY_NAME_DEF|H$" # todo: NEW TRANSLATION
+ EFFECT_RELEASE_GENERALS: "Propustí všechny zajaté generály, které drží $COUNTRY_NAME_DEF|H$"
  EFFECT_RELEASE_FROM_CAPTIVITY: "Je propuštěn ze zajetí"
  EFFECT_SEND_EMBARGO: "Uvalit embargo na $COUNTRY|H$"
  EFFECT_BREAK_EMBARGO: "Zrušit embargo vůči $COUNTRY|H$"

@@ -101,19 +101,19 @@
  CREATE_GROUP_WITH_UNITS_SELECTED_TOOLTIP: "§GKlikněte pro vytvoření nové armády a přiřazení vybraných divizí§!"
  CREATE_ARMY_GROUP_WITH_UNITS_SELECTED_TOOLTIP: "§GKlikněte pro vytvoření nové skupiny armád a přiřazení vybraných armád§!"
  SELECT_GROUP_TOOLTIP: "§GKlikněte§! pro výběr"
- SELECT_GROUP_TOOLTIP_WITH_HQ: "§GKlik§! pro výběr všech divizí\n§GCtrl+Klik§! pro výběr všech divizí kromě velitelství" # todo: NEW TRANSLATION
+ SELECT_GROUP_TOOLTIP_WITH_HQ: "§GKliknutím§! vyberete všechny divize\n§GCtrl+kliknutím§! vyberete všechny divize mimo velitelství"
  ATTACH_AIRWING_TO_GROUP_TOOLTIP: "§GPravým tlačítkem§! přiřadíte letky k armádě"
  WING_CAN_NOT_ATTACH_ALREADY: "§RVšechny letky jsou již přiřazeny k armádě!§!"
  WING_CAN_NOT_ATTACH_ARMY_GROUP: "§RLetky lze přiřadit pouze k armádám§!"
  WING_CAN_NOT_ATTACH_WRONG_TYPE: "§RNámořní bombardéry a strategické bombardéry nelze přiřadit k armádám§!"
  WING_CAN_NOT_ATTACH_TRAINING: "§RNelze přiřadit během §Hleteckých cvičení§!§!"
  SELECT_GROUP_WITH_UNITS_SELECTED_TOOLTIP: "§GPravým tlačítkem§! přiřadíte vybrané §Ydivize§!"
- SELECT_GROUP_HQ_REASSIGN_BLOCKED_TOOLTIP: "§YArmádní velitelství§! §Rnelze§! přiřadit k jiné armádě" # todo: NEW TRANSLATION
+ SELECT_GROUP_HQ_REASSIGN_BLOCKED_TOOLTIP: "§YArmádní velitelství§! §Rnelze§! přeřadit do nové armády"
  SELECT_GROUP_WITH_RAILWAY_GUNS_SELECTED_TOOLTIP: "§GPravým tlačítkem§! přiřadíte vybraná §Yželezniční děla§!"
  SELECT_ARMY_GROUP_WITH_UNITS_SELECTED_TOOLTIP: "§GPravým tlačítkem§! přiřadíte vybrané §Yarmády§!"
  SELECT_GROUP_WITH_RWGS_SELECTED_TOOLTIP: "§GPravým tlačítkem§! přiřadíte vybraná §Yželezniční děla§!"
  COMMAND_GROUP_DESC: "Armáda je nutná pro vytváření bojových plánů, což umožňuje organizovat pohyb velkého množství jednotek v několika krocích."
- COMMAND_GROUP_CANT_REASSIGN: "§RŽádnou z vybraných divizí není možné přeřadit z jejich současných armád§!" # todo: NEW TRANSLATION
+ COMMAND_GROUP_CANT_REASSIGN: "§RŽádnou z vybraných divizí nelze přeřadit z jejich současných armád§!"
  COMMAND_GROUP_NO_ORDER_DESC: "\n£GFX_no_order_texticon §RArmáda nemá žádný rozkaz.§!"
  COMMAND_GROUP_UNASSIGNED_DIVISIONS: "\n£GFX_no_order_texticon §RDivize nepřiřazené k rozkazu: §!$UNASSIGNED|Y$"
  COMMAND_ARMY_GROUP_DESC: "Skupina armád organizuje armády pomocí strategických rozkazů a plánů."
@@ -266,7 +266,7 @@
  PHASE_DISPLAY: "$NAME$"
  PHASE_START: "Začíná: $NAME$"
  LEADER_HAS_INITIATIVE: "§HIniciativa!§!\nTato strana má aktuálně iniciativu díky vyšší hodnotě průzkumu mezi svými divizemi nebo díky vyšší úrovni dovednosti velitele.\nTo znamená, že má dodatečnou šanci vybrat protitaktiku vůči druhé straně."
- ARMY_HQ_BADGE_TOOLTIP: "§YArmádní velitelství§! §Y$NAME$§! je v boji." # todo: NEW TRANSLATION
+ ARMY_HQ_BADGE_TOOLTIP: "§YArmádní velitelství§! §Y$NAME$§! je v boji."
  TACTIC_LIST_VALUE_GOOD: "$VAL|+=0%$"
  TACTIC_LIST_VALUE_BAD: "$VAL|-=0%$"
  TACTIC_LIST_VALUE_NEUTRAL: "$VAL|=Y0%$"

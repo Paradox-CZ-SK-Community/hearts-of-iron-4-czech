@@ -291,18 +291,18 @@
  ENG_decolonization: "Dekolonizace"
  ENG_decolonization_desc: "Je to konec jedné éry, ale konec, který jsme si sami zvolili. Raději než snášet ponížení marného boje proti nezastavitelnému vzestupu hnutí za nezávislost, jsme drželi hlavu vztyčenou a s hrdostí jsme vedli ty, kteří byli pod naší ochranou, tak daleko, jak jsme mohli. Nyní nám zbývá jen přerušit zbývající vazby a přivítat naše někdejší subjekty na světové scéně jako rovnocenné partnery."
  ENG_decolonized: "Británie se dekolonizovala"
- ENG_the_winds_of_change: "Vítr změn" # todo: NEW TRANSLATION
- ENG_the_winds_of_change_desc: "S dekolonizací, která se blíží vrcholu, vanou větry změny po celém světě stále silněji. Pokud chceme zajistit budoucnost našich ostrovů, musíme se pokusit evakuovat a dopravit zpět naše bývalé koloniální majetky." # todo: NEW TRANSLATION
- ENG_royal_malay_regiment_focus: "Rozšířit Royal Malay Regiment" # todo: NEW TRANSLATION
- ENG_royal_malay_regiment_focus_desc: "V roce 1920 místní vládcové v našich malajských državách naléhali na náš koloniální úřad, aby z kolonizovaného obyvatelstva zřídil pěší pluk. I když bylo toto schváleno a vznikla první rota, je to stále příliš málo na to, aby to bylo považováno za bojeschopnou jednotku. Musíme pluk rozšířit a zajistit, že dokážeme adekvátně chránit Singapur a Malajsko v době války." # todo: NEW TRANSLATION
- ENG_territorial_army_of_malaysia_focus: "Sjednotit Teritoriální armádu Malajsie" # todo: NEW TRANSLATION
- ENG_territorial_army_of_malaysia_focus_desc: "Síly našich malajských protektorátů jsou silně decentralizované a neefektivní. To musíme napravit sjednocením různých dobrovolnických puškařských sborů, místních vojenských formací a federálního pluku do jedné jednotné armádní struktury." # todo: NEW TRANSLATION
- ENG_south_east_asia_air_command_focus: "Zřídit Letecké velení jihovýchodní Asie" # todo: NEW TRANSLATION
- ENG_south_east_asia_air_command_focus_desc: "RAF Singapore nemá dostatečné vybavení k ochraně vzdušného prostoru nad našimi rozsáhlými dalekovýchodními koloniemi. Group Captain Henry Cave-Browne-Cave požádal, abychom rozšířili zařízení v regionu a zřídili novou leteckou odnož se sídlem v RAF Changi v Singapuru." # todo: NEW TRANSLATION
- ENG_sarawakrangers_focus: "Posílit Sarawak Rangers" # todo: NEW TRANSLATION
- ENG_sarawakrangers_focus_desc: "Sarawak Rangers, kteří mají na starosti ochranu státu Sarawak vedeného Charlesem Vynerem Brookem, jsou zruční v boji v těžkém džunglovém terénu. Měli bychom využít jejich znalostí a posílit jejich síly, abychom udrželi naši kontrolu nad Severním Borneem." # todo: NEW TRANSLATION
- ENG_east_indies_fleet_focus: "Zřídit Východoindickou flotilu" # todo: NEW TRANSLATION
- ENG_east_indies_fleet_focus_desc: "V roce 1904 První námořní pán, admirál Sir John Fisher, nařídil, aby tři hlavní velení na Dálném východě — Východoindická eskadra, Čínská stanice a Australská eskadra — v případě války spadala pod jedno velení zvané Východní flotila se základnou v Singapuru. S rostoucím napětím v regionu se jeví rozumné začít s přípravami, aby k tomu došlo." # todo: NEW TRANSLATION
+ ENG_the_winds_of_change: "Vítr změny"
+ ENG_the_winds_of_change_desc: "Nyní, když se dekolonizace blíží svému vrcholu, vane po celém světě vítr změny stále silněji. Chceme-li zajistit budoucnost našich ostrovů, musíme se pokusit evakuovat a vyvést naše bývalá koloniální aktiva a přivést je zpět domů."
+ ENG_royal_malay_regiment_focus: "Rozšířit Královský malajský pluk"
+ ENG_royal_malay_regiment_focus_desc: "V roce 1920 naléhali místní vládci napříč našimi malajskými državami na náš koloniální úřad, aby z koloniálního obyvatelstva vytvořil pěší pluk. Ačkoli to již bylo schváleno a první rota byla zřízena, stále je příliš malý na to, aby mohl být považován za bojeschopnou sílu. Musíme pluk rozšířit a zajistit, abychom v době války dokázali náležitě chránit Singapur a Malajsko."
+ ENG_territorial_army_of_malaysia_focus: "Sjednotit teritoriální armádu Malajsie"
+ ENG_territorial_army_of_malaysia_focus_desc: "Síly našich malajských protektorátů jsou značně decentralizované a neefektivní. Musíme to napravit sjednocením různých dobrovolnických střeleckých sborů, místních vojenských sil a federačního pluku do jedné jednotné armádní struktury."
+ ENG_south_east_asia_air_command_focus: "Zřídit Letecké velitelství pro jihovýchodní Asii"
+ ENG_south_east_asia_air_command_focus_desc: "RAF Singapur není dostatečně vybavena k ochraně nebe nad našimi rozsáhlými dálněvýchodními koloniemi. Kapitán letectva Henry Cave-Browne-Cave požádal, abychom rozšířili zařízení v regionu a zřídili novou leteckou složku s velitelstvím na základně RAF Changi v Singapuru."
+ ENG_sarawakrangers_focus: "Posílit sarawacké hraničáře"
+ ENG_sarawakrangers_focus_desc: "Sarawačtí hraničáři, kteří mají na starosti ochranu sarawackého rádžství vedeného Charlesem Vynerem Brookem, jsou zdatní v boji v náročném džunglovém terénu. Měli bychom využít jejich znalostí a zároveň posílit jejich síly, abychom si udrželi kontrolu nad Severním Borneem."
+ ENG_east_indies_fleet_focus: "Zřídit Východoindickou flotilu"
+ ENG_east_indies_fleet_focus_desc: "V roce 1904 nařídil první námořní lord, admirál sir John Fisher, aby se tři hlavní velitelství na Dálném východě - Východoindická eskadra, Čínská stanice a Australská eskadra - v případě války sloučila pod jedno velení nazvané Východní flotila se základnou v Singapuru. Vzhledem k rostoucímu napětí v regionu se zdá rozumné začít s přípravami, aby se tak mohlo stát."
  ENG_steady_as_she_goes: "Držet se kurzu"
  ENG_steady_as_she_goes_desc: "Narůstající krize je právě důvodem, proč musíme zůstat věrní svým kořenům. Budeme pokračovat v kurzu, kterým jsme pluli v posledních letech, místo abychom prováděli radikální politické změny, jež by mohly vyvolat vnitřní nestabilitu v době, kdy si ji můžeme dovolit nejméně."
  ENG_global_defense: "Globální obrana"

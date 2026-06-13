@@ -1099,8 +1099,8 @@
  BRA_united_kingdom_of_brazil_and_portugal: "Spojená království Brazílie a Portugalska"
  BRA_united_kingdom_of_brazil_and_portugal_desc: "Obnova brazilského císařského rodu znovu probudila monarchistické nálady i v Portugalsku. Možná bychom této příležitosti mohli využít ke znovusjednocení našich zemí pod jedním panovníkem."
  BRA_united_kingdom_of_brazil_and_portugal_tt: "Požádá, aby se §Y[POR.GetFlag][POR.GetNonIdeologyName]§! a §Y[BRA.GetFlag][BRA.GetNonIdeologyName]§! sjednotili. Pokud §Y[POR.GetFlag][POR.GetNonIdeologyName]§! souhlasí, stanou se subjektem Brazílie. Mohou však nabídnout alternativu nebo návrh odmítnout."
- BRA_claim_the_french_throne: "Uplatnit nárok na francouzský trůn" # todo: NEW TRANSLATION
- BRA_claim_the_french_throne_desc: "Díky rodu Orléans-Braganza má naše dynastie nárok na francouzský trůn, který dosud nebyl uplatněn. Pedro Gastão z Orléans-Braganza si přeje tento nárok využít k rozšíření našeho území. To je situace, kterou prostě musíme využít!" # todo: NEW TRANSLATION
+ BRA_claim_the_french_throne: "Nárokovat francouzský trůn"
+ BRA_claim_the_french_throne_desc: "Prostřednictvím rodu Orléans-Braganza má naše dynastie dosud nenaplněný nárok na francouzský trůn. Pedro Gastão Orléans-Braganza si jej přeje využít k rozšíření naší říše. Takový stav věcí prostě musíme využít!"
  BRA_undermine_democracy: "Podkopat Národní kongres"
  BRA_undermine_democracy_desc: "Naši nejvlivnější podporovatelé nejsou spokojeni s kompromisem v podobě konstituční monarchie. Jsou stále netrpělivější a chtějí, aby panovník využil svého nově nabytého vlivu k obejití Národního kongresu jmenováním nové Rady ministrů."
  BRA_use_the_national_security_law: "Využít zákon o národní bezpečnosti"

@@ -1,33 +1,33 @@
 ﻿l_polish:
- INS_naval_steal_crit_tt: "§Y20%§! [THIS.GetAdjective] námořnictvo bylo zajato." # todo: NEW TRANSLATION
- INS_naval_steal_success_tt: "§Y35%§! [THIS.GetAdjective] námořnictvo bylo zajato." # todo: NEW TRANSLATION
- INS_naval_steal_limited_success_tt: "§Y50%§! [THIS.GetAdjective] námořnictvo bylo zajato." # todo: NEW TRANSLATION
- INS_unlock_naval_steal_raid_tt: "Odemkne §YZajmout koloniální lodě§! v [1058.GetName], abychom zajali lodě Nizozemského námořnictva pro naši věc." # todo: NEW TRANSLATION
- INS_activate_naval_raid_tt: "Odemkne §YObsadit námořní základnu§! nájezd na námořní základny ve státech kontrolovaných Nizozemskem." # todo: NEW TRANSLATION
- INS_militia_knil_supply_raid_unlock_tt: "Odemkne §YÚtok na sklady zbraní§! nájezd na zásobovací uzly ve státech kontrolovaných Nizozemskem." # todo: NEW TRANSLATION
- INS_mobilize_the_pemuda_trigger_tt: "Dokončil alespoň §Y3§! pozemní nájezdů Pemuda" # todo: NEW TRANSLATION
- INS_weapons_caches_unlock_tt: "Odemkne §YÚtok na skrýše zbraní§! nájezd ve státech kontrolovaných Nizozemskem na Jávě. Lze použít pouze jednou." # todo: NEW TRANSLATION
- INS_militia_increase_activity_raid_unlock_tt: "Odemkne §YÚtok na základny KNIL§! nájezd ve sousedících státech pod kontrolou Nizozemska, při úspěchu udělující státu bojové modifikátory." # todo: NEW TRANSLATION
- SIA_activate_naval_raid_tt: "Odemkne §YÚtok na tichomořské ostrovy§! nájezd na tichomořské ostrovy." # todo: NEW TRANSLATION
- AST_malaya_foothold_raid_unlock_tt: "Odemkne §YZajistit komunistický opěrný bod v Malajsku§! nájezd proti státům kontrolovaným malajskou vládou." # todo: NEW TRANSLATION
- raid_type_AST_malaya_communist_foothold_raid: "Zajistit komunistický opěrný bod v Malajsku" # todo: NEW TRANSLATION
- AST_malaya_communist_foothold_raid: "Zajistit komunistický opěrný bod v Malajsku" # todo: NEW TRANSLATION
- AST_malaya_communist_foothold_raid_desc: "Komunistické síly v Malajsku jsou odříznuty od poloostrova. Tajná vylodění může obsadit stát na pevnině a rozmístit tam ozbrojené milice, čímž revoluci poskytne prostor nezbytný k přežití." # todo: NEW TRANSLATION
- success_modifier_INS_has_influence_mod: "§HAktivita milicí§!" # todo: NEW TRANSLATION
- success_modifier_INS_has_influence_mod_improvement: "- Zvýšit §YAktivitu milicí§! ve státě" # todo: NEW TRANSLATION
- success_modifier_INS_has_influence_mod_counterplay: "- Snížit §YAktivitu milicí§! ve státě" # todo: NEW TRANSLATION
- success_modifier_INS_infrastructure_modifier_militia: "§HInfrastruktura§!" # todo: NEW TRANSLATION
- success_modifier_INS_infrastructure_modifier_militia_counterplay: "§HZvýšit infrastrukturu ve státě§!" # todo: NEW TRANSLATION
- success_modifier_INS_militia_leader_modifier: "§HVelitel milice§!" # todo: NEW TRANSLATION
- success_modifier_INS_militia_leader_modifier_improvement: "- Přiřaďte velitele s vlastností §YVelitel milice§!" # todo: NEW TRANSLATION
- success_modifier_INS_militia_leader_level_modifier: "§HÚroveň generála§!" # todo: NEW TRANSLATION
- success_modifier_INS_militia_leader_level_modifier_improvement: "- Přiřaďte velitele s vyšší §Yúrovní§!" # todo: NEW TRANSLATION
- success_modifier_INS_is_batavia_mod: "§H§YNepřátelské hlavní město§!§!" # todo: NEW TRANSLATION
- success_modifier_INS_defense_modifier: "§H§YNepřátelské divize§!§!" # todo: NEW TRANSLATION
- success_modifier_INS_defense_modifier_counterplay: "- Zvýšit počet §Ydivizí§! ve státě" # todo: NEW TRANSLATION
- success_modifier_INS_defense_modifier_improvement: "- Snížit počet §Ydivizí§! nepřítele" # todo: NEW TRANSLATION
- success_modifier_INS_marine_modifier: "§H§YPoužití námořní pěchoty§!§!" # todo: NEW TRANSLATION
- success_modifier_INS_marine_modifier_improvement: "- Použijte §Yprapory námořní pěchoty§!" # todo: NEW TRANSLATION
- success_modifier_INS_naval_dominance_modifier: "§H§YNámořní převaha§!§!" # todo: NEW TRANSLATION
- success_modifier_INS_naval_dominance_modifier_counterplay: "- Zvýšit §YNámořní převahu§!" # todo: NEW TRANSLATION
- success_modifier_INS_naval_dominance_modifier_improvement: "- Zvýšit §YNámořní převahu§!" # todo: NEW TRANSLATION
+ INS_naval_steal_crit_tt: "Bylo zajato §Y20 %§! [THIS.GetAdjective] námořnictva."
+ INS_naval_steal_success_tt: "Bylo zajato §Y35 %§! [THIS.GetAdjective] námořnictva."
+ INS_naval_steal_limited_success_tt: "Bylo zajato §Y50 %§! [THIS.GetAdjective] námořnictva."
+ INS_unlock_naval_steal_raid_tt: "Odemkne §Yzajmutí koloniálních lodí§! v [1058.GetName], aby bylo možné zajmout lodě nizozemského námořnictva pro naši věc."
+ INS_activate_naval_raid_tt: "Odemkne nájezd §YObsadit námořní základnu§! na námořní základny ve státech ovládaných Nizozemci."
+ INS_militia_knil_supply_raid_unlock_tt: "Odemkne nájezd §Y$PRC_raid_weapon_depots$§! na zásobovací uzly ve státech ovládaných Nizozemci."
+ INS_mobilize_the_pemuda_trigger_tt: "Dokončil alespoň §Y3§! pozemní nájezdy Pemudy"
+ INS_weapons_caches_unlock_tt: "Odemkne nájezd §YPřepadnout skrýše zbraní§! ve státech na Jávě ovládaných Nizozemci. Lze použít pouze jednou."
+ INS_militia_increase_activity_raid_unlock_tt: "Odemkne nájezd §YPřepadnout základny KNIL§! v sousedních státech ovládaných Nizozemci, který po úspěchu poskytne státu bojové modifikátory."
+ SIA_activate_naval_raid_tt: "Odemkne nájezd §Y$SIA_pacific_island_raid$§! na pacifické ostrovy."
+ AST_malaya_foothold_raid_unlock_tt: "Odemkne nájezd §Y$raid_type_AST_malaya_communist_foothold_raid$§! proti státům ovládaným malajskou vládou."
+ raid_type_AST_malaya_communist_foothold_raid: "Zajistit komunistický opěrný bod v Malajsku"
+ AST_malaya_communist_foothold_raid: "Zajistit komunistický opěrný bod v Malajsku"
+ AST_malaya_communist_foothold_raid_desc: "Malajské komunistické síly jsou odříznuty od poloostrova. Tajná vyloďovací operace může obsadit pevninský stát a rozmístit v něm ozbrojené milice, čímž revoluci poskytne půdu, kterou potřebuje k přežití."
+ success_modifier_INS_has_influence_mod: "§HAktivita milic§!"
+ success_modifier_INS_has_influence_mod_improvement: "- Zvýšit §Yaktivitu milic§! ve státě"
+ success_modifier_INS_has_influence_mod_counterplay: "- Snížit §Yaktivitu milic§! ve státě"
+ success_modifier_INS_infrastructure_modifier_militia: "§HInfrastruktura§!"
+ success_modifier_INS_infrastructure_modifier_militia_counterplay: "§HZvýšit infrastrukturu ve státě§!"
+ success_modifier_INS_militia_leader_modifier: "§HVelitel milicí§!"
+ success_modifier_INS_militia_leader_modifier_improvement: "- Přiřadit velitele s rysem §YVelitel milicí§!"
+ success_modifier_INS_militia_leader_level_modifier: "§HÚroveň generála§!"
+ success_modifier_INS_militia_leader_level_modifier_improvement: "- Přiřadit velitele s vyšší §Yúrovní§!"
+ success_modifier_INS_is_batavia_mod: "§H§YNepřátelské hlavní město§!§!"
+ success_modifier_INS_defense_modifier: "§H§YNepřátelské divize§!§!"
+ success_modifier_INS_defense_modifier_counterplay: "- Zvýšit počet §Ydivizí§! ve státě"
+ success_modifier_INS_defense_modifier_improvement: "- Snížit počet nepřátelských §Ydivizí§!"
+ success_modifier_INS_marine_modifier: "§H§YPoužívají se mariňáci§!§!"
+ success_modifier_INS_marine_modifier_improvement: "- Použít §Yprapory mariňáků§!"
+ success_modifier_INS_naval_dominance_modifier: "§H§YNámořní převaha§!§!"
+ success_modifier_INS_naval_dominance_modifier_counterplay: "- Zvýšit §YNámořní převahu§!"
+ success_modifier_INS_naval_dominance_modifier_improvement: "- Zvýšit §YNámořní převahu§!"
