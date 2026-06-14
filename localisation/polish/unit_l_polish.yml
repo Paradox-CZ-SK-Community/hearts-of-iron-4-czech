@@ -118,7 +118,7 @@
  HQ_LIST_ITEM_INSUFFICIENT_CP: "§RNedostatek velitelské síly§! (potřeba £command_power $COST|H0$)"
  ARMY_HQ_TEMPLATES: "Šablony Arm. velitelství"
  ARMY_HQ_TEMPLATES_TOGGLE_TOOLTIP: "§GKlikněte§! pro přepnutí seznamu §YŠablon Armádního velitelství§!, kde můžete prohlížet a spravovat šablony Armádních velitelství."
- ARMY_HQ_DESIGNER: "Návrhář Arm. velitelství"
+ ARMY_HQ_DESIGNER: "Návrhář A. velitelství"
  ARMY_HQ_DEPLOYED_DETAILS: "$DEPLOYED$/$ARMIES$"
  ARMY_HQ_DEPLOYED_DETAILS_TOOLTIP: "Nasazená §YArmádní velitelství§!: §Y$DEPLOYED$§!\nCelkem armád: §Y$ARMIES$§!"
  SELECT_UNIT: "Vybrat"
