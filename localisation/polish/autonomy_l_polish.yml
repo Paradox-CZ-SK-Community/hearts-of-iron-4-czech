@@ -33,7 +33,7 @@
  CONTINUOUS_AUTONOMY_EFFECT: "$REASON$: £autonomy_texticon $VAL|+=2$"
  EVENT_AUTONOMY_EFFECT: "$REASON$: £autonomy_texticon $VAL|+=2$"
  LL_TO_OVERLORD_FREEDOM_EFFECT: "Subjekt zasílá leand-lease suzerénovi"
- SUBJECT_OF_NAME: "Subjekt:\n$VALUE|H$"
+ SUBJECT_OF_NAME: "Subjektem pro:\n$VALUE|H$"
  LL_TO_PUPPET_FREEDOM_EFFECT: "Suzerén zasílá leand-lease subjektu"
  MONTHLY_LL_FREEDOM_TO_PUPPET: "$FLAG$ $VALUE|-2$"
  MONTHLY_LL_FREEDOM_TO_MASTER: "$VALUE|+2$"
