@@ -1658,6 +1658,7 @@
  SEA_PHI_political_events.64.t: "$PHI_manuel_luis_quezon$ umírá"
  SEA_PHI_political_events.64.desc_quezon: "Po rozvoji tuberkulózy se jeho zdravotní stav postupně zhoršoval a nyní bohužel $PHI_manuel_luis_quezon$ zemřel. Viceprezident dočasně převzal jeho povinnosti, ale brzy bude třeba určit nástupce."
  SEA_PHI_political_events.64.desc_generic: "Funkční období [ROOT.GetLeader]a skončilo a nové prezidentské volby rozhodnou o jeho nástupci. Kvůli zhoršujícímu se zdraví se $PHI_manuel_luis_quezon$ voleb nezúčastní."
+ SEA_PHI_political_events.64.osmena: "$PHI_sergio_osmena$ udrží loď stabilní" # todo: NEW TRANSLATION
  SEA_PHI_political_events.65.t: "Dwight D. Eisenhower zůstává v [USA.GetName]"
  SEA_PHI_political_events.65.desc: "Bohužel naše žádost o posílení [USA.GetAdjective] vojenské mise a jeho přidělení na [ROOT.GetNonIdeologyName] byla zamítnuta. Zdá se, že jeho schopnosti jsou zapotřebí jinde."
  SEA_PHI_political_events.65.a: "Škoda"
