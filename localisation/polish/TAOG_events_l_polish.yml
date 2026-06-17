@@ -293,9 +293,9 @@
  INS_revolution_events.42.t: "Poslední vrh kostkou"
  INS_revolution_events.42.desc: "Zprávy našich zpravodajských služeb v Batávii popisují nepřátelskou přípravu, jakou jsme u republikánů ještě nikdy neviděli. Zdá se, že připravují destabilizační operaci k útoku na Jávu a zničení veškeré naší komunikační infrastruktury, což by jim fakticky zaručilo vítězství. Operace je však mimořádně riskantní a vyžaduje, aby na ni přesunuli téměř všechny své zdroje. Naši generálové odhadují, že tuto pozici dokážou udržet jen přibližně dva roky a nemohou z ní snadno vycouvat. Pokud je zadržíme dostatečně dlouho, budeme moci rozdrtit jejich vládu a revoluci jako přezrálé rajče."
  INS_revolution_events.42.a: "Tak začíná poslední bitva."
- INS_revolution_events.43.t: "Byla zřízena základna milice v [FROM.GetName]" # todo: NEW TRANSLATION
- INS_revolution_events.43.desc: "Naše úsilí v [FROM.GetName] bylo úspěšné a místní velitelé milice potvrdili, že jsou připraveni jednat, až nastane čas." # todo: NEW TRANSLATION
- INS_revolution_events.43.a: "Musíme pokračovat v našem úsilí." # todo: NEW TRANSLATION
+ INS_revolution_events.43.t: "Byla zřízena základna milice v [FROM.GetName]"
+ INS_revolution_events.43.desc: "Naše úsilí v [FROM.GetName] bylo úspěšné a místní velitelé milice potvrdili, že jsou připraveni jednat, až nastane čas."
+ INS_revolution_events.43.a: "Musíme pokračovat v našem úsilí."
  INS_chaos_events.1.t: "Bitva v Surabaji"
  INS_chaos_events.1.desc: "Po vyhlášení nezávislosti se moc v Surabaji stala nestabilní. Dnes skupina nizozemských loajalistů vztyčila starou koloniální vlajku na bývalém hotelu Yamato. Místní mládež z Pemudy budovu vzala útokem, vlajky odstranila a místo nich vztyčila červeno-bílou indonéskou vlajku. Incident přerostl v násilný, neorganizovaný boj."
  INS_chaos_events.1.a: "Jak se sluší!"
@@ -531,21 +531,21 @@
  siam.21.t: "[FROM.GetName] odmítá předat území"
  siam.21.desc: "[FROM.GetName] naši žádost odmítl. Tito imperialisté se drží minulého století zuby nehty, neschopní přiznat si, že písek v hodinách těchto takzvaných „velkých národů“ již dosypal."
  siam.21.a: "Přimějeme je, aby si to uvědomili."
- SIA_sent_bureaucrats_to_us: "Školení státních úředníků u nás" # todo: NEW TRANSLATION
- SIA_tied_their_currency_to_ours: "Navázali svou měnu na naši" # todo: NEW TRANSLATION
- SIA_sent_started_cooperative_with_us: "Založili s námi rozvojové družstvo" # todo: NEW TRANSLATION
+ SIA_sent_bureaucrats_to_us: "Školí u nás státní úředníky"
+ SIA_tied_their_currency_to_ours: "Navázali svou měnu na naši"
+ SIA_sent_started_cooperative_with_us: "Zahájili s námi rozvojové družstvo"
  siam.22.t: "Poslat [SIA.GetName] úředníky do zahraničí"
  siam.22.desc: "Naši úředníci nejsou vhodně připraveni pro moderní ekonomiku a postrádají nezbytný výcvik potřebný k podpoře růstu. Naštěstí existuje mnoho zemí s moderní a zavedenou byrokracií, kam je můžeme poslat, aby získali zkušenosti, aniž bychom zároveň importovali jejich vládu."
- siam.22.a: "Pošlete je do [ENG.GetName]"
- siam.22.b: "Pošlete je do [JAP.GetName]"
+ siam.22.a: "Jejich cílem bude [ENG.GetName]"
+ siam.22.b: "Jejich cílem bude [JAP.GetName]"
  siam.23.t: "Zákon o stabilizaci bahtu"
  siam.23.desc: "Baht nemůže zůstat bez pevného ukotvení, zatímco [ROOT.GetName] usiluje o pořádek v obchodu a financích. Naši úředníci nyní tvrdí, že měnová stabilita vyžaduje pevnou vnější kotvu, navázanou na měnu s dostatečnou vahou, aby uklidnila obchodníky, věřitele i zahraniční partnery. Volba před námi není pouze technická. Utváří směr našeho obchodu, charakter našeho rozvoje i zahraniční vliv, který spočine na [SIA.GetAdjective] ekonomice."
  siam.23.a: "Navázat jej na libru šterlinků"
  siam.23.b: "Navázat jej na jen"
  siam.24.t: "[SIA.GetAdjectiveCap] rozvojové družstvo"
  siam.24.desc: "[SIA.GetAdjectiveCap] rozvojové družstvo dalo státu nový nástroj národního zlepšování, ale naše ambice stále přesahují domácí kapitál. Železnice, dílny a elektrické provozy vyžadují vnější financování, mají-li vyrůst dostatečně rychle. Nyní před námi stojí dvě cesty. [ENG.GetAdjectiveCap] investice nabízejí přístup k zavedeným trhům, zkušeným firmám a finanční prestiži Londýna. [JAP.GetAdjectiveCap] investice slibují užší průmyslové partnerství s rostoucí asijskou mocností dychtivou rozšířit svůj vliv. Obě možnosti mohou urychlit rozvoj, avšak ani jedna nepřijde bez závazků."
- siam.24.a: "Usilovat o investice od [ENG.GetName]"
- siam.24.b: "Usilovat o investice od [JAP.GetName]"
+ siam.24.a: "Usilovat, ať u nás investuje [ENG.GetName]"
+ siam.24.b: "Usilovat, ať u nás investuje [JAP.GetName]"
  siam.25.t: "Smrt Pradžádhipoka"
  siam.25.desc: "Král Pradžádhipok je mrtev. Bývalý král, jehož jméno neslo vzpomínku na starý řád během let exilu a otřesů, nyní odchází z lidských záležitostí do dějin. Pro některé jeho smrt uzavírá poslední kapitolu zápasu, který začal koncem absolutní vlády. Věc, kterou začal ztělesňovat, však nezaniká spolu s ním. Trůn přetrvává, dynastie zůstává a práce na obnově důstojnosti a stability v [ROOT.GetName] musí nyní pokračovat ve jménu mladého krále Anandy."
  siam.25.a: "Nechť Jeho Veličenstvo vystoupí na nebesa."

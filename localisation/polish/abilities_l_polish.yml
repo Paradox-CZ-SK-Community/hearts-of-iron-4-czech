@@ -35,7 +35,7 @@
  ABILITY_TOOLTIP_FIELD_MARSHAL_BULK_LEADER_UNAVAIL: " - §Y$LEADER$§! §Rnení dostupný§!"
  ABILITY_TOOLTIP_GRANTED_BY_FIELD_MARSHAL: "Tuto schopnost uděluje polní maršál §Y$NAME$§!."
  ABILITY_TOOLTIP_LATE_JOINER_WARNING: "Síla této schopnosti bude snížena, pokud budou do armády během jejího trvání přidány další divize."
- ASSIGN_TARGET_LATE_JOINER_WARNING: "Přidáním vybraných §Y$COUNT$§! praporů do této armády se na sílu právě aktivních schopností aplikuje dodatečný ($MODIFIER|+%0$) modifikátor: $NAMES$" # todo: CHANGED
+ ASSIGN_TARGET_LATE_JOINER_WARNING: "Přidání vybraných §Y$COUNT$§! praporů k této armádě uplatní dodatečný modifikátor ($MODIFIER|+%0$) na sílu aktuálně aktivních schopností: $NAMES$"
  ASSIGN_TARGET_LATE_JOINER_NAME: "§Y$NAME$§!"
  ABILITY_TOOLTIP_HEADER_SUMMARY: "£command_power §Y$COST|H2$§!  £clock_texticon §Y$DURATION$§!"
  ABILITY_TOOLTIP_HEADER_COST_ONLY: "£command_power §Y$COST|H2$§!"

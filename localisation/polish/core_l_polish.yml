@@ -1002,13 +1002,13 @@
  ARMY_LIST_CTRL_CLICK_TOGGLE: "§GCtrl+kliknutím§! přepnete výběr"
  ARMY_LIST_DOUBLE_CLICK_TEMPLATE: "§GDvojklikem§! vyberete všechny divize se stejnou šablonou"
  ARMY_LIST_RIGHT_CLICK_PAN: "§GPravým kliknutím§! přesunete kameru na divizi"
- DEPLOY_HQ_BUTTON_NO_COMMANDER: "§RŽádný velitel přiřazen§!" # todo: NEW TRANSLATION
+ DEPLOY_HQ_BUTTON_NO_COMMANDER: "§RNepřiřazen žádný velitel§!"
  DEPLOY_HQ_BUTTON_LABEL: "Nasadit:"
  DEPLOY_HQ_BUTTON_COST: "£command_power $COST$"
  DEPLOY_BUTTON_CLICK_TO_PICK: "§GKliknutím§! zobrazíte šablony Armádního velitelství"
  DEPLOY_BUTTON_RIGHT_CLICK: "§GPravým kliknutím§! otevřete návrhář Armádního velitelství"
  DEPLOY_BUTTON_SHIFT_CLICK: "§GShift+kliknutím§! okamžitě nasadíte §Y$NAME$§!"
- DEPLOY_BUTTON_CTRL_CLICK: "§GCtrl+Click§! zobrazí $ARMY_HQ_TEMPLATES$ v $OFFICER_CORPS_LABEL$" # todo: CHANGED
+ DEPLOY_BUTTON_CTRL_CLICK: "§GCtrl+kliknutím§! zobrazíte $ARMY_HQ_TEMPLATES$ v $OFFICER_CORPS_LABEL$"
  DEPLOY_DROPDOWN_CREATE_HQ_TEMPLATE_TOOLTIP: "§GKliknutím§! navrhnete novou šablonu Armádního velitelství"
  DESIGNER_CREATE_NEW_DIVISION_TOOLTIP: "§GKliknutím§! navrhnete novou šablonu divize"
  DESIGNER_HQ_SAVE_AND_DEPLOY: "Uložit a nasadit £army_experience $XP|Y0$ £command_power $COST$"
@@ -1734,18 +1734,18 @@
  UNITLEADER_IS_EN_ROUTE_SINGULAR: "$NAME|H$ je právě §Rna cestě§! z předchozího pridělení. Ještě $DAYS|H$ den nebude moci být nasazen, používat schopnosti ani poskytovat pozitivní bonusy."
  CANNOT_CHANGE_LEADER_HEADER: "§RNelze změnit velitele:§!"
  CANNOT_CHANGE_LEADER_WAR: "§R- Armáda je v pohraničním konfliktu§!"
- CANNOT_CHANGE_LEADER_DEPLOYING: "§R- $NAME|H$ je právě nasazován§!" # todo: NEW TRANSLATION
- CANNOT_CHANGE_LEADER_WITHDRAWING: "§R- $NAME|H$ je právě stahován§!" # todo: NEW TRANSLATION
+ CANNOT_CHANGE_LEADER_DEPLOYING: "§R- $NAME|H$ je právě nasazován§!"
+ CANNOT_CHANGE_LEADER_WITHDRAWING: "§R- $NAME|H$ je právě stahován§!"
  LEADER_CANNOT_REASSIGN_DEPLOYED: "$NAME|H$ je právě nasazen s Armádním velitelstvím a §Rnelze jej převelit§! k nové armádě."
- LEADER_CLICK_TO_ASSIGN_HEADER: "§GKliknutím§! přiřadíte §Y$NAME$§! k §Y$TARGET$§!.\n§GShift+Kliknutím§! přiřadíte a nasadíte §Y$TEMPLATE$§!.\n" # todo: NEW TRANSLATION
- LEADER_CLICK_TO_REASSIGN_HEADER: "§GKlikněte§! pro zahájení přeřazení §Y$NAME$§! z §Y$CURRENT$§! do §Y$TARGET$§!.\n§GCtrl+Click§! zahájí bez potvrzení.\n§GShift+Click§! zahájí bez potvrzení a zařadí nasazení §Y$TEMPLATE$§! do fronty.\n" # todo: CHANGED
- LEADER_CLICK_TO_WITHDRAW_HEADER: "§GKlikněte§! pro zahájení stažení a přeřazení §Y$NAME$§! z §Y$CURRENT$§! do §Y$TARGET$§!.\n§GCtrl+Click§! zahájí bez potvrzení.\n§GShift+Click§! zahájí bez potvrzení a zařadí nasazení §Y$TEMPLATE$§! do fronty.\n" # todo: CHANGED
+ LEADER_CLICK_TO_ASSIGN_HEADER: "§GKliknutím§! přiřadíte §Y$NAME$§! k §Y$TARGET$§!.\n§GShift+kliknutím§! přiřadíte a nasadíte §Y$TEMPLATE$§!.\n"
+ LEADER_CLICK_TO_REASSIGN_HEADER: "§GKliknutím§! zahájíte převelení §Y$NAME$§! z §Y$CURRENT$§! k §Y$TARGET$§!.\n§GCtrl+kliknutím§! zahájíte bez potvrzení.\n§GShift+kliknutím§! zahájíte bez potvrzení a zařadíte nasazení §Y$TEMPLATE$§! do fronty.\n"
+ LEADER_CLICK_TO_WITHDRAW_HEADER: "§GKliknutím§! zahájíte stažení a převelení §Y$NAME$§! z §Y$CURRENT$§! k §Y$TARGET$§!.\n§GCtrl+kliknutím§! zahájíte bez potvrzení.\n§GShift+kliknutím§! zahájíte bez potvrzení a zařadíte nasazení §Y$TEMPLATE$§! do fronty.\n"
  LEADER_WITHDRAW_DAYS_FRAGMENT_SINGULAR: "Stažení potrvá §Y$DAYS$§! den."
  LEADER_WITHDRAW_DAYS_FRAGMENT_PLURAL: "Stažení potrvá §Y$DAYS$§! dnů."
  LEADER_REASSIGN_DAYS_FRAGMENT_SINGULAR: "Převelení potrvá §Y$DAYS$§! den."
  LEADER_REASSIGN_DAYS_FRAGMENT_PLURAL: "Převelení potrvá §Y$DAYS$§! dnů."
- LEADER_DEPLOY_DAYS_FRAGMENT_SINGULAR: "Nasazení potrvá §Y$DAYS$§! den." # todo: NEW TRANSLATION
- LEADER_DEPLOY_DAYS_FRAGMENT_PLURAL: "Nasazení potrvá §Y$DAYS$§! dní." # todo: NEW TRANSLATION
+ LEADER_DEPLOY_DAYS_FRAGMENT_SINGULAR: "Nasazení potrvá §Y$DAYS$§! den."
+ LEADER_DEPLOY_DAYS_FRAGMENT_PLURAL: "Nasazení potrvá §Y$DAYS$§! dní."
  LEADER_WITHDRAW_CONFIRM_TITLE: "Stáhnout a převelit velitele"
  LEADER_WITHDRAW_CONFIRM_DESC_HEADER: "§Y$NAME$§! je právě nasazen k §YArmádnímu velitelství§! armády §Y$CURRENT$§! a bude stažen a poté převelen k §Y$TARGET$§!.\n\nOpravdu chcete §Rstáhnout a převelit§! tohoto §Gvelitele§!?\n\n"
  LEADER_WITHDRAW_CONFIRM_WITHDRAW_DAYS_FRAGMENT_SINGULAR: "Stažení potrvá §Y$DAYS$§! den."

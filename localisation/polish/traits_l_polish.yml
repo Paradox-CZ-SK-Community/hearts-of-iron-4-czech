@@ -717,7 +717,7 @@
  SPOTTER_TRIGGER_TT: "Odhalení nepřítele"
  FLY_SWATTER_TRIGGER_TT: "Boj proti nepřátelským vzdušným jednotkám"
  IRONSIDE_TRIGGER_TT: "Velení nebo boj s hlavními loděmi"
- BLOCKADE_RUNNER_TRIGGER_TT: "Máte operační skupinu v boji, kde každá loď má rychlost vyšší než 37 uzlů." # todo: CHANGED NUMBER
+ BLOCKADE_RUNNER_TRIGGER_TT: "Mějte v boji údernou skupinu, v níž má každá loď rychlost přes 32 uzlů"
  leider: "Leider"
  comintern_workhorse: "Tažný kůň Kominterny"
  veteran_communist: "Komunistický veterán"
@@ -2275,7 +2275,7 @@
  PHI_resistance_connections: "Napojení na odboj"
  PHI_san_miguel_trait: "Vaše svět lepší"
  PHI_marsman_and_company_trait: "Konglomerát na těžbu zlata"
- steady_statesman: "Stálý státník" # todo: NEW TRANSLATION
+ steady_statesman: "Rozvážný státník"
  CHI_generallissimo_sea: "Generalissimus"
  CHI_all_china_generalisimo: "Generalissimus celé Číny"
  CHI_winner_of_resistance: "Vítěz Války odporu"

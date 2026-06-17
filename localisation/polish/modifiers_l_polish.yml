@@ -1238,8 +1238,8 @@
  MODIFIER_NAVAL_VISIBILITY_FACTOR: "Viditelnost"
  MODIFIER_NAVAL_CASUALTY_ON_HIT_FACTOR: "Modifikátor ztrát při zásahu"
  MODIFIER_NAVAL_CASUALTY_ON_SINK_FACTOR: "Ztráty při potopení"
- navy_casualty_on_hit_tt: " $MODIFIER_NAVAL_CASUALTY_ON_HIT_FACTOR$: $RIGHT|-=%1$" # todo: NEW TRANSLATION
- navy_casualty_on_sink_tt: " $MODIFIER_NAVAL_CASUALTY_ON_SINK_FACTOR$: $RIGHT|-=%1$" # todo: NEW TRANSLATION
+ navy_casualty_on_hit_tt: " $MODIFIER_NAVAL_CASUALTY_ON_HIT_FACTOR$: $RIGHT|-=%1$"
+ navy_casualty_on_sink_tt: " $MODIFIER_NAVAL_CASUALTY_ON_SINK_FACTOR$: $RIGHT|-=%1$"
  MODIFIER_NAVAL_ATTRITION_FACTOR: "Opotřebení"
  MODIFIER_EXILED_DIVISIONS_ATTACK_FACTOR: "Útok exilových divizí"
  MODIFIER_OWN_EXILED_DIVISIONS_ATTACK_FACTOR: "Útok vlastních exilových divizí"
