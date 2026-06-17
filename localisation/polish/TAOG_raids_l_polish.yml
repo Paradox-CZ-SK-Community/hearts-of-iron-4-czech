@@ -31,3 +31,5 @@
  success_modifier_INS_naval_dominance_modifier: "§H§YNámořní převaha§!§!"
  success_modifier_INS_naval_dominance_modifier_counterplay: "- Zvýšit §YNámořní převahu§!"
  success_modifier_INS_naval_dominance_modifier_improvement: "- Zvýšit §YNámořní převahu§!"
+ success_modifier_INS_militia_unit_level_modifier: "§H§YPrapory jednotky§!§!"
+ success_modifier_INS_militia_unit_level_modifier_improvement: "- Zvýšit počet §Ypraporů jednotky§!"
