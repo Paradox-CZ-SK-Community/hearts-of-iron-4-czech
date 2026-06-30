@@ -1495,7 +1495,7 @@
  AST_defying_american_interference_desc: "[USA.GetAdjeciveCap] stín se nad námi tyčí a hrozí, že zasáhne pokaždé, když naše kroky nebudou v souladu s jeho zájmy. Dokud jsou [PHI.GetNameDef] sevřeny takto mocnou globální železnou pěstí, nebudou východoasijské národy nikdy skutečně patřit východní Asii. [AST.GetName] se nepodřídí žádné autoritě cizích vetřelců — Filipíny budou naše."
  AST_the_pacific_garrison: "Pacifická posádka"
  AST_the_pacific_garrison_desc: "Ačkoli ochrana jihovýchodní Asie a Pacifiku leží v britském zájmu, tento region je od Britských ostrovů daleko. Výměnou za jejich podporu v zásobování nabídneme, že převezmeme velení nad obranou území, což umožní, ať může [ENG.GetNameDef] obrátit pozornost jinam."
- AST_vichy_out_of_africa: "Vichisty ven z Afriky"
+ AST_vichy_out_of_africa: "Vichy pryč z Afriky"
  AST_vichy_out_of_africa_desc: "Pád či spolupráce vichistické Francie patří mezi hlavní cíle, které prosazuje [ENG.GetNameDef]. Jako gesto dobré vůle se [AST.GetName] připojí a bude postupovat proti francouzským africkým koloniím, dokud nebudou podrobeny."
  AST_vichy_out_of_africa_tt1: "Přidá nároky na území §YVichistické Francie§! v §YAfrice§! skrze zaměření §Y$AST_vichy_out_of_africa$§!.\n"
  AST_vichy_out_of_africa_tt2: "Přidá nároky na území §YVichistické Francie§! v §YAfrice§! skrze rozhodnutí §Y$AST_vichy_out_of_africa$§!.\n"
