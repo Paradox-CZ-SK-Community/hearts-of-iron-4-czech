@@ -158,4 +158,4 @@
  achievement_a_bridge_too_far: "[VICTORY_POINTS_9498] dobyt, zatímco tam byl nasazen $ENG_bernard_montgomery$"
  achievement_captured_general_in_bryansk: "Zajat nepřátelský generál v [224.GetName]"
  grand_siam_tt: "Jako [SIA.GetNonIdeologyName] donuťte §Y4§! národy do jednoho roku kapitulovat"
- achievement_grand_siam: "§Y4§! národy donuceny do jednoho roku kapitulovat jako [SIA.GetNonIdeologyName]"
+ achievement_grand_siam: "§Y4§! národy donuceny do jednoho roku kapitulovat, pokud hráte jako [SIA.GetNonIdeologyName]"
