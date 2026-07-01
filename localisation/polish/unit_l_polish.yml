@@ -352,7 +352,7 @@
  heavy_armor: "Těžký tank"
  heavy_armor_desc: "Nejsilnější tanky s mocným pancéřovaním a zbraněmi, ale pomalé a takticky neflexibilní."
  super_heavy_armor: "Supertěžký tank"
- super_heavy_armor_desc: "Supertěžké tanky vyměňují mobilitu a rychlost za palebnou sílu a pancíř, které překonávají standardní těžké tanky." # todo: NEW TRANSLATION
+ super_heavy_armor_desc: "Supertěžké tanky obětují pohyblivost a rychlost ve prospěch palebné síly a pancéřování, které přesahují úroveň standardních těžkých tanků."
  motorized: "Motorizovaná pěchota"
  motorized_desc: "Motorizovaný přesun pěchoty pomocí vozidel, jako jsou nákladní automobily a motocykly."
  mechanized: "Mechanizovaná pěchota"

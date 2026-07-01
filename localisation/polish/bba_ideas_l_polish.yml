@@ -347,7 +347,7 @@
  SWI_buero_ha_idea: "Buero Ha"
  SWI_expanded_spy_network_idea: "Rozšířená špionážní síť"
  SWI_spirit_of_saint_bernard_idea: "Duch svatého Bernarda"
- SWI_spirit_of_saint_bernard_idea_tooltip: "Polní nemocnice - zachránění vojáci: §G+20 %§!\nFaktor ztráty zkušeností: §G-30 %§!" # todo: CHANGED NUMBER
+ SWI_spirit_of_saint_bernard_idea_tooltip: "Polní nemocnice - zachránění vojáci: §G+10 %§!\nFaktor ztráty zkušeností: §G-30 %§!"
  SWI_mountaineer_paratroopers_idea: "$SWI_mountaneer_paratroopers$"
  SWI_mountaineer_paratroopers_idea_desc: "Přístup k některým z nejstrmějších vrcholů a staletí alpské kultury dávají švýcarským výsadkářům náskok před ostatními výsadkovými pěšáky. Mohou seskočit z transportních letounů a ovládnout horské štíty, jako by stáli na Monte Rose či Matterhornu."
  SWI_mountaineer_paratroopers_idea_TT: "§YHory§!:\n Útok: §G+35 %§!\n Obrana: §G+10 %§!\n Pohyb: §G+20 %§!\n§YKopce§!:\n Útok: §G+20 %§!\n Obrana: §G+5 %§!\n Pohyb: §G+10 %§!"

@@ -814,7 +814,7 @@
  RULE_ALLOW_RELEASE_NATIONS_ALL_NATIONS_RUTHENIA_TOOLTIP: "Tento národ nesmí být nikdy uvolněn."
  RULE_OPTION_AST_AI_RANDOM_TAOG_HISTORICAL: "Historické"
  RULE_OPTION_AST_AI_RANDOM_TAOG_HISTORICAL_DESC: "Pevně zakořeněná, byť nestabilní demokracie dává Austrálii základ, z něhož může hledět do širšího světa a připravit se na nadcházející bouři."
- RULE_OPTION_AST_ADELA_FASCIST_TAOG_AI: "Fašistický Pankhurst-Walsh" # todo: CHANGED
+ RULE_OPTION_AST_ADELA_FASCIST_TAOG_AI: "Fašistická Pankhurst-Walshová"
  RULE_OPTION_AST_ADELA_FASCIST_TAOG_AI_DESC: "Adela Pankhurst-Walshová vede Austrálii s počátečním cílem dále rozšiřovat Britské impérium, ačkoli otázka, kdo toto rozšířené impérium zdědí, zůstává otevřená."
  RULE_OPTION_AST_PETER_FASCIST_TAOG_AI: "Fašistický Stephensen"
  RULE_OPTION_AST_PETER_FASCIST_TAOG_AI_DESC: "Australia First požaduje nezávislou Austrálii, která bude svobodně utvářet svou vlastní budoucnost."

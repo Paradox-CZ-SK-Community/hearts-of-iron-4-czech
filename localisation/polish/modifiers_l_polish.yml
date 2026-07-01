@@ -33,7 +33,7 @@
  MODIFIER_POLITICAL_POWER_FACTOR: "Nárůst politické síly"
  political_power_factor_tt: " $MODIFIER_POLITICAL_POWER_FACTOR$: $RIGHT|+=%1$"
  political_power_gain_tt: " $MODIFIER_POLITICAL_POWER_GAIN$: $RIGHT|+=2$"
- political_power_cost_tt: " $MODIFIER_POLITICAL_POWER_COST$: $RIGHT|-=2$" # todo: CHANGED
+ political_power_cost_tt: " $MODIFIER_POLITICAL_POWER_COST$: $RIGHT|-=2$"
  MODIFIER_NAVAL_HIT_CHANCE: "Šance na zásah"
  naval_hit_chance_tt: " $MODIFIER_NAVAL_HIT_CHANCE$: $RIGHT|+=%1$"
  MODIFIER_NAVAL_SPEED: "Námořní rychlost"

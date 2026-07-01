@@ -2618,7 +2618,7 @@
  SIK_rejoin_the_central_government: "Znovu se připojit k centrální vládě"
  SIK_rejoin_the_central_government_desc: "Sověti nejsou tak spolehliví, jak jsme si mysleli. Zdá se, že nejlepší je vsadit na vítěznou stranu a urychleně se znovu připojit ke KMT a začít integraci s centrální vládou."
  SIK_reestablish_the_guominjun: "Obnovit Kuomin-ťün"
- SIK_reestablish_the_guominjun_desc: "Guominjun byla vojenská frakce založená Feng Yuxiangem v 20. letech. Díky svému příklonu k nacionalismu, antiimperialismu a křesťanskému socialismu se jeví jako ideální organizace k obnovení, pokud chceme stát se třetí silou v občanské válce. Nemluvě o tom, že to nakonec byla právě GMJ, ke které se Sheng Shicai tehdy přidal, a jeho loajalita nikdy neležela u KMT." # todo: CHANGED
+ SIK_reestablish_the_guominjun_desc: "Kuomin-ťün byla vojenská frakce založená Feng Jü-siangem ve 20. letech 20. století. Jelikož se hlásila k nacionalismu, antiimperialismu a křesťanskému socialismu, zdá se jako ideální organizace k obnovení, pokud se chceme stát třetí stranou v občanské válce. Nemluvě o tom, že právě ke KMŤ se Šeng Š'-cchaj kdysi přidal a jeho loajalita nikdy nepatřila KMT."
  SIK_reaffirm_soviet_connections: "Potvrdit sovětské vazby"
  SIK_reaffirm_soviet_connections_desc: "Centrální vláda selhala. Je stále zřejmější, že jediná cesta vede skrze úplné zpřetrhání vazeb s nimi a postavit se za [SOV.GetNameDef] v jejich tažení proti feudalismu."
  SIK_utilize_asperovs_contacts: "Využít Apresovovy kontakty"

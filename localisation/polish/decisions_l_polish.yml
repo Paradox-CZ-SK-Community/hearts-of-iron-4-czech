@@ -156,9 +156,9 @@
  decision_cost_PP_50_MP_2500_ie_2500: "£infantry_equipment_text_icon  §Y2500§!\n£pol_power  §Y50§!£manpower_texticon  §Y2500§!"
  decision_cost_PP_50_MP_2500_ie_2500_blocked: "£infantry_equipment_text_icon  §Y2500§!\n£pol_power  §Y50§!£manpower_texticon  §Y2500§!"
  decision_cost_PP_50_MP_2500_ie_2500_tooltip: "Toto rozhodnutí stojí £infantry_equipment_text_icon  §Y2500§!, £pol_power  §Y50§! a £manpower_texticon  §Y2500§!"
- decision_cost_PP_50_MP_5000_ie_1500: "£infantry_equipment_text_icon  §Y1500§!\n£pol_power  §Y50§!£manpower_texticon  §Y5000§!" # todo: NEW TRANSLATION
- decision_cost_PP_50_MP_5000_ie_1500_blocked: "£infantry_equipment_text_icon  §Y1500§!\n£pol_power  §Y50§!£manpower_texticon  §Y5000§!" # todo: NEW TRANSLATION
- decision_cost_PP_50_MP_5000_ie_1500_tooltip: "K přijetí rozhodnutí stojí £infantry_equipment_text_icon  §Y1500§!, £pol_power  §Y50§! a £manpower_texticon  §Y5000§!" # todo: NEW TRANSLATION
+ decision_cost_PP_50_MP_5000_ie_1500: "£infantry_equipment_text_icon  §Y1500§!\n£pol_power  §Y50§!£manpower_texticon  §Y5000§!"
+ decision_cost_PP_50_MP_5000_ie_1500_blocked: "£infantry_equipment_text_icon  §Y1500§!\n£pol_power  §Y50§!£manpower_texticon  §Y5000§!"
+ decision_cost_PP_50_MP_5000_ie_1500_tooltip: "Toto rozhodnutí stojí £infantry_equipment_text_icon  §Y1500§!, £pol_power  §Y50§! a £manpower_texticon  §Y5000§!"
  RAJ_population_decisions: "Venkovská industrializace"
  RAJ_industrialize_state: "Industrializovat [FROM.GetName]"
  RAJ_industrialize_state_desc: "Naše země znovu povstává. I když nás čeká obtížný úkol, zavedení moderního průmyslu do venkovských oblastí se v budoucnu jistě vyplatí."

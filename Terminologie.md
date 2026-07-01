@@ -37,6 +37,8 @@ Operative / Agent / Spy → operativec
 Manpower → personál  
 Ranger → hraničář
 In field → nasazený *(ve smyslu Division in Field → nasazené divize, ale General in Field → Generál v poli)*
+Army HQ → armádní velitelství
+HQ template → šablona velitelství
 ---
 ## Námořnictvo
 Task Force → úderná skupina  
