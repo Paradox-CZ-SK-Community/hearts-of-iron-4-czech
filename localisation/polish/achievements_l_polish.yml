@@ -135,6 +135,7 @@
  hunt_for_the_desert_fox_tt: "Zajměte $GER_erwin_rommel$a"
  right_side_up_tt: "Jako [AST.GetNonIdeologyName] vlastněte a ovládejte [914.GetName]"
  maphilindia_tt: "Jako [PHI.GetNonIdeologyName] nebo [INS.GetNonIdeologyName] vytvořte Maphilindo a vlastněte všechny počáteční státy [RAJ.GetNonIdeologyName]"
+ maphilindia_formed_tt: "Bylo založeno Maphilindo"
  old_zealand_tt: "Jako [NZL.GetNonIdeologyName] vlastněte a ovládejte [35.GetName] a [37.GetName]"
  thaitanic_tt: "Potopte chloubu flotily, kterou má [SIA.GetNonIdeologyName]"
  thaifighters_tt: "Jako [SIA.GetNonIdeologyName] vyprodukujte 10 es"
@@ -157,4 +158,4 @@
  achievement_a_bridge_too_far: "[VICTORY_POINTS_9498] dobyt, zatímco tam byl nasazen $ENG_bernard_montgomery$"
  achievement_captured_general_in_bryansk: "Zajat nepřátelský generál v [224.GetName]"
  grand_siam_tt: "Jako [SIA.GetNonIdeologyName] donuťte §Y4§! národy do jednoho roku kapitulovat"
- achievement_grand_siam: "§Y4§! národy donuceny do jednoho roku kapitulovat jako [SIA.GetNonIdeologyName]"
+ achievement_grand_siam: "§Y4§! národy donuceny do jednoho roku kapitulovat, pokud hráte jako [SIA.GetNonIdeologyName]"

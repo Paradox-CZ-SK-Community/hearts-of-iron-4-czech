@@ -86,6 +86,8 @@
  SM_MULTISAMPLE: "Úroveň vyhlazování (Multisample)"
  SM_AMBIENT_OBJECTS: "Hlasitost okolních objektů"
  SM_VOICE_VOLUME: "Hlasitost hlasů"
+ SM_EVENT_SOUNDS: "Zvuky událostí"
+ SM_EVENT_SOUNDS_DESC: "Povolit zvuky a hudbu spouštěné skriptem. Doporučuje se mít tuto možnost zapnutou při hraní s mody."
  SM_VSYNC: "VSync"
  SM_WEATHER: "Počasí"
  SM_WATER_REFL: "Odrazy vody"

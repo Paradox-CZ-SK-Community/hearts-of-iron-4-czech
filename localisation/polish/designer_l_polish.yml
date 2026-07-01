@@ -60,6 +60,7 @@
  DESIGNER_EXPENSIVE: "Návrh je příliš nákladný"
  DESIGNER_NOT_ENOUGH_SPECIAL_FORCES: "Změna návrhu by nás překročila limit speciálních sil"
  DESIGNER_NOT_ENOUGH_DIVISION_CAP: "Změna návrhu by nás překročila limit divizí"
+ DESIGNER_GARRISON_ZERO_SUPPRESSION: "§RNelze uložit změny této šablony, protože se momentálně používá pro posádky a změny by způsobily, že by její hodnota potlačení byla §Y0§!.§!"
  DESIGNER_NO_CHANGES: "§TŽádné změny k uložení§!"
  DESIGNER_ARMY_SAVE: "Uložit £army_experience $VALUE|Y0$"
  DESIGNER_ARMY_SAVE_HQ: "Uložit £army_experience $XP|Y0$ £command_power $CP|Y0$"
