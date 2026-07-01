@@ -18,6 +18,8 @@
  INS_construction_boom: "Stavební rozmach"
  INS_plane_making: "Financování leteckého průmyslu"
  INS_tin_infrastructure_state: "Modernizovaná cínová infrastruktura"
+ INS_outsourced_navy_idea: "Externí námořní výroba" # todo: NEW TRANSLATION
+ INS_diverted_navy_funds_idea: "Priorita námořnictva" # todo: NEW TRANSLATION
  INS_feint_uprising_state: "Klamné povstání"
  HOL_flag_will_fly: "Vlajka znovu zavlaje"
  INS_bangka_bauxite_export: "Vývoz bauxitu z Bangky"
@@ -136,6 +138,10 @@
  idea_SIA_civil_service_heroism_2_desc: "$idea_SIA_civil_service_heroism_1_desc$"
  idea_SIA_redirected_military_funds: "Přesměrované vojenské prostředky"
  idea_SIA_thai_irredentism: "Thajský iredentismus"
+ idea_SIA_oss_special_forces_training: "Výcvik speciálních sil OSS" # todo: NEW TRANSLATION
+ idea_SIA_seized_japanese_funds: "Zabavené japonské prostředky" # todo: NEW TRANSLATION
+ idea_SIA_seized_japanese_funds_desc: "Po zrušení japonské dohody jsou prostředky a zásoby, které po sobě zanechali, k dispozici nám. Umožňují nárůst výstavby a průmyslové výroby." # todo: NEW TRANSLATION
+ idea_SIA_oss_special_forces_training_desc: "Naši agenti se školili po boku OSS v sabotáži, infiltraci a vzdušných operacích. Nabyté zkušenosti proměnily naše speciální jednotky v mocný nástroj." # todo: NEW TRANSLATION
  idea_SIA_sold_privy_purse_lands: "Prodané pozemky královské pokladny"
  idea_SIA_sold_privy_purse_lands_desc: "Prodej pozemkových držav královské domácnosti vnesl do státu kapitál, zmírnil hospodářský tlak a uvolnil zdroje pro výstavbu."
  idea_SIA_war_fervor: "Válečné nadšení"
@@ -246,6 +252,16 @@
  SIA_wing_state_rebellious: "§RVzpurné§!"
  SIA_civilian_wing_history_tt: "Civilní frakci Khana Ratsadon vedou progresivní správci a technokraté, především §YPridi Banomyong§!. Pridi studoval právo ve Francii a vrátil se s ambicemi provést pozemkovou reformu, státní hospodářské plánování a ústavní demokracii, která by skutečně posílila obyčejné lidi.\n\nCivilní křídlo je obecně §Gpro rozvoj§!, upřednostňuje investice do vzdělání, infrastruktury a průmyslu. Ke značným vojenským výdajům je skeptické a obává se jakéhokoli sklouzávání k vládě silné ruky. Jeho podporu lze nejsnáze získat politikami, které modernizují stát a chrání ústavní vládu."
  SIA_military_wing_history_tt: "Vojenské frakci Khana Ratsadon dominují armádní důstojníci, kteří se považují za skutečné strážce revoluce. Její nejambicióznější postavou je §YPlaek Phibunsongkhram§!, plukovník, jehož obdiv k nacionalistickým hnutím Evropy s každým rokem roste.\n\nVojenské křídlo je §Gpro přezbrojení§! a tíhne k silnému centralizovanému státu. K Pridiho hospodářským myšlenkám, které považuje za nebezpečně radikální, chová podezření a má jen málo trpělivosti s civilním zasahováním do obranných záležitostí. Jeho loajalitu lze nejsnáze zajistit vojenskými investicemi a politikami, které promítají sílu národa."
+ idea_SIA_wing_promotion_disruption: "Frakční přeskupení" # todo: NEW TRANSLATION
+ idea_SIA_wing_promotion_disruption_desc: "Otevřené upřednostnění jedné větve Khana Ratsadon vyvedlo vládu z rovnováhy. Pošlapaná frakce se zdržuje, armádní rutina je narušena a běžná správa trpí, dokud se nové uspořádání neujme." # todo: NEW TRANSLATION
+ idea_SIA_military_wing_unrest: "Vojenské křídlo v povstání" # todo: NEW TRANSLATION
+ idea_SIA_military_wing_unrest_desc: "Trpělivost důstojníků opět vypršela. Poté, co se jim nepodařilo uchvátit moc přímo, vojenské křídlo nyní ventiluje svůj hněv sabotáží, dezercemi a otevřeným odmítáním spolupráce. Bojová síla armády se rozpadá, dokud nejsou nespokojenci přivedeni k poslušnosti." # todo: NEW TRANSLATION
+ idea_SIA_civilian_wing_unrest: "Civilní křídlo v povstání" # todo: NEW TRANSLATION
+ idea_SIA_civilian_wing_unrest_desc: "Pridiho frakce znovu ztratila důvěru ve vládu. Odepřeni druhé šance na moc, civilní křídlo se uchyluje ke stávkám, byrokratickým překážkám a agitaci ve městech. Ekonomika se zastavuje a země se stává neovladatelnou, dokud se emoce neuklidní." # todo: NEW TRANSLATION
+ idea_SIA_unwavering_civilian_support: "Neochvějná podpora civilistů" # todo: NEW TRANSLATION
+ idea_SIA_unwavering_civilian_support_desc: "S rozpuštěným vojenským křídlem a vyřešenou otázkou legitimity civilní správa není zpochybňována. Osvobozeni od vměšování armády se Pridiho technokraté vrhají do řízení s horlivostí, jakou stará koalice nikdy nedokázala projevit." # todo: NEW TRANSLATION
+ idea_SIA_unified_khana_ratsadon: "Sjednocená lidová strana" # todo: NEW TRANSLATION
+ idea_SIA_unified_khana_ratsadon_desc: "Starý spor mezi vojáky a civilisty skončil. S oběma křídly Khana Ratsadon táhnoucími konečně jedním směrem může vláda jednat s jednotou účelu, jakou dosud nepoznala. Vojáci, úředníci a průmyslníci nyní pracují jako jedno." # todo: NEW TRANSLATION
  AST_electrical_engineer_hidden_idea: "$AST_florence_v._mckenzie$"
  AST_electrical_engineer_electronics_modifier_tt: "Rychlost výzkumu $electronics$: §G+15 %§!"
  AST_great_depression_taog_spirit_fake: "$AST_great_depression_taog_spirit$"
@@ -265,13 +281,16 @@
  AST_voluntary_foreign_service_idea: "Dobrovolná zahraniční služba"
  AST_liberty_loans_idea: "Půjčky svobody"
  AST_faction_training_initiative_idea_1: "Výcviková iniciativa"
- AST_faction_training_initiative_idea_1_desc: "Společná výcviková iniciativa Pacifického odboje je kooperativní program jeho členů, který zajišťuje, že všichni spojenečtí vojáci projdou stejně náročným vojenským výcvikem.\n\nS více než §Y4§! členy frakce bude §Yvýcviková iniciativa§! §Gvylepšena§!."
+ AST_faction_training_initiative_idea_1_desc: "Iniciativa společného výcviku Pacifického odboje je kooperativní program mezi jeho členy, který zajišťuje, že všichni spojenečtí vojáci podstoupí stejně přísný vojenský výcvik." # todo: CHANGED
+ AST_faction_training_initiative_idea_1_tt: "\nÚčinky duchů se zdvojnásobí, pokud má §Y[AST.GetFactionName]§! více než §Y4§! členy" # todo: NEW TRANSLATION
  AST_faction_training_initiative_idea_2: "Výcviková iniciativa"
  AST_faction_training_initiative_idea_2_desc: "Společná výcviková iniciativa Pacifického odboje je kooperativní program jeho členů, který zajišťuje, že všichni spojenečtí vojáci projdou stejně náročným vojenským výcvikem."
+ AST_faction_training_initiative_idea_2_tt: "\nÚčinky duchů budou poloviční, pokud má §Y[AST.GetFactionName]§! méně než §Y5§! členů" # todo: NEW TRANSLATION
  AST_temp_political_power_factor_cost: "Úrok z bankovní půjčky"
  AST_war_carriers_idea: "$AST_war_carriers$"
  AST_war_carriers_tech_tt: "§Y$logistics_company$§!:\n $MODIFIER_SUPPLY_CONSUMPTION_FACTOR$: §G-15 %§!"
  AST_wool_agreement_idea: "Dohoda o vlně"
+ AST_wool_agreement_idea_desc: "[ENG.GetNameDefCap] získal práva na celoroční produkci vlny [AST.GetName], čímž zajistil, že naši vojáci budou oděni a vybaveni po celou dobu nasazení." # todo: NEW TRANSLATION
  AST_australian_comforts_fund_idea: "Australský fond pro pohodlí vojáků"
  AST_australian_comforts_fund_idea_desc: "$AST_australian_comforts_fund_desc$"
  AST_british_military_construction_aid_idea: "Britská pomoc s vojenskou výstavbou"
@@ -301,7 +320,9 @@
  AST_a_sense_of_place_upgraded: "Pocit domova"
  AST_a_sense_of_place_upgraded_desc: "Národní identita, která kdysi tiše vzkvétala, získala tvrdší hranu. Už nejde jen o hrdost na zemi a způsob života — je to přesvědčení, že za to, co Austrálie vybudovala, stojí bojovat, a že muži a ženy žijící pod Jižním křížem jsou připraveni tak učinit."
  AST_the_promise_of_nauru: "Příslib Nauru"
- AST_the_promise_of_nauru_tt: "Účinky poté, co §Y[AST.GetName]§! dokončí dohodu:\n§YNauru§! získá do svých rukou §Y[GER.GetName]§!\n(§Y[GER.GetFlag][GER.GetName]§!) zaručí nezávislost §Y[AST.GetName]§!\n§Y[AST.GetName]§! získá svobodu"
+ AST_the_promise_of_nauru_tt: "Účinky poté, co §Y[AST.GetName]§! dokončí dohodu:\n§YNauru§! bude vlastněno a ovládáno §Y[GER.GetName]§!\n§Y[AST.GetName]§! bude nezávislé\n[GET_AST_NAURU_PACT_FACTION_EFFECT]" # todo: CHANGED
+ AST_nauru_pact_guarantee_tt: "Zaručit §Y[AST.GetName]§!" # todo: NEW TRANSLATION
+ AST_nauru_pact_faction_tt: "§Y[AST.GetName]§! se přidá k §Y[GER.GetFactionName]§!" # todo: NEW TRANSLATION
  AST_poor_population_growth: "Slabý populační růst"
  AST_poor_population_growth_desc: "Když v roce 1929 udeřila velká hospodářská krize, australská porodnost prudce klesla. Spolu s úbytkem imigrace se populační růst od té doby jen obtížně zotavuje."
  AST_british_intel_sharing: "Britské sdílení zpravodajských informací"

@@ -49,7 +49,7 @@
  MANPOWER_RAILWAY_GUN_DESC: "§TTohlo §Hželezniční dělo§! požaduje $AMOUNT|G$ personálu ve službě.§!"
  MANPOWER_AIRWING: "Služební personál vzdušných křídel"
  MANPOWER_AIRWING_DESC: "§TTato §Hletka§! požaduje $AMOUNT|G$ personálu ve službě.§!"
- CONSCRIPTION_TOTAL_FACTOR_EXTRA_DESC: "\nEfektivní celkový personál upravený na $VAL|+%0$ kvůli\n"
+ CONSCRIPTION_TOTAL_FACTOR_EXTRA_DESC: "\nEfektivní celkový personál upraven na $VAL$ kvůli\n" # todo: CHANGED
  EQUIPMENT_DIVISION: "Dodávka vybavení"
  EQUIPMENT_DIVISION_DESC: "Používané vybavení jako procento celkové potřeby divize."
  DIVISION_IN_TEMPLATE_TRANSFER: "Divize se aktuálně reorganizuje z $OLD|H$ do $NEW|H$ šablony. Reorganizace bude dokončena, když účinné vybavení bude dodáno a staré vybavení bude pak vráceno do skladu."

@@ -770,9 +770,10 @@
  mtg_britain.65.d: "[From.GetNameDefCap] s podporou našeho lidu zcela rozpustili naši vládu a vyhlásili nové volby. Ty byly čirou fraškou - loajalistická vláda dosáhla drtivého vítězství."
  mtg_britain.65.a: "Jak se opov- tedy, Rule Britannia!"
  mtg_britain.66.t: "Loajalita vůči Británii"
- mtg_britain.66.d: "[From.GetAdjectiveCap] vláda prošla obrovskými politickými změnami. Musíme se rozhodnout, zda zůstaneme loajální, když se naše ideologické postoje tolik liší."
+ mtg_britain.66.d: "Vláda [ENG.GetAdjective] prošla obrovskými politickými změnami. Musíme se rozhodnout, zda zůstat loajální nyní, když se naše ideologické názory tak výrazně liší." # todo: CHANGED
  mtg_britain.66.a: "Na tomto stavu nevidíme nic špatného."
  mtg_britain.66.b: "To je nepřijatelné! Vyhlásíme nezávislost!"
+ mtg_britain.66.c: "Naše vláda možná ještě nesdílí [ENG.GetAdjective] přesvědčení, ale vítr se obrací." # todo: NEW TRANSLATION
  mtg_britain.67.t: "[From.GetName] vyhlašuje nezávislost"
  mtg_britain.67.d: "[From.GetNameDefCap] nás informuje, že se nemohou ztotožnit s ideologickou cestou, kterou jsme si zvolili, a proto nevidí jiné východisko než se od impéria odtrhnout."
  mtg_britain.67.a: "Uvidíme, jak dlouho jim to vydrží."

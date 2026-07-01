@@ -1,6 +1,8 @@
 ﻿l_polish:
  INS_nationalize_companies_tt: "Všechny vojenské průmyslové organizace a průmyslové koncerny budou znárodněny a dostanou nový název."
  available_focus_tt: "§GDostupná§! zaměření:\n"
+ INS_is_union_tt: "Byla vytvořena Nizozemsko‑Indonéská unie" # todo: NEW TRANSLATION
+ INS_is_union_tt_NOT: "Nebyla vytvořena Nizozemsko‑Indonéská unie" # todo: NEW TRANSLATION
  INS_denounce_soetardjo: "Odsoudit Soetardja"
  INS_denounce_soetardjo_tt: "Začneme plánovat podzemní revoluci, infiltrovat vládu a zakládat partyzánské buňky po celém souostroví. Jakmile budeme dostatečně připraveni, zahájíme partyzánskou válku za nezávislost proti Nizozemcům."
  INS_soetardjo_petition_debate_done_tt: "Debata Volksraadu o Soetardjově petici za autonomii skončila"
@@ -80,6 +82,22 @@
  INSHOL_emergency_powers_gov_general_desc: "Probíhající válka vyžaduje tvrdá rozhodnutí bez odkladu, což není možné, pokud musí všechna rozhodnutí v Indiích nejprve projít Nizozemskem. Měli bychom [INS.GetLeader] udělit nouzové pravomoci, aby mohl jednat bez prodlení."
  INSHOL_emergency_naval_purchases: "Nouzové nákupy lodí"
  INSHOL_emergency_naval_purchases_desc: "Naše pobřeží je nebezpečné a nedostatečně bráněné. Čas je rozhodující, musíme získat silnější námořnictvo, jinak jistě zahyneme. Nakoupíme lodě od soukromých společností na dluh a přezbrojíme je na námořní torpédoborce."
+ INSHOL_east_indies_navy: "Námořnictvo Východních Indii" # todo: NEW TRANSLATION
+ INSHOL_east_indies_navy_desc: "[INS.GetNameDefCap] postrádá oficiální námořnictvo, takže obrany kolonie se ujímají Nizozemsko. Se stoupajícím napětím v Evropě a Asii to takto dál fungovat nebude. Musíme učinit první krok k založení samostatného [INS.GetAdjective] námořnictva." # todo: NEW TRANSLATION
+ INSHOL_marines: "Námořní pěchota" # todo: NEW TRANSLATION
+ INSHOL_marines_desc: "Měli bychom zřídit samostatný sbor námořní pěchoty Východních Indií pod novým námořnictvem a poslat výsadkáře na výcvik, aby se učili na nizozemských lodích." # todo: NEW TRANSLATION
+ INSHOL_domestic_ship_production: "Domácí výroba lodí" # todo: NEW TRANSLATION
+ INSHOL_domestic_ship_production_desc: "Chceme-li, aby naše námořnictvo obstálo proti sousedům, musíme začít zvyšovat domácí výrobu lodí." # todo: NEW TRANSLATION
+ INSHOL_destroyers: "Torpédoborce" # todo: NEW TRANSLATION
+ INSHOL_destroyers_desc: "Naše těžší válečné lodě nemohou na úzkých mořích souostroví operovat bez doprovodu, který by je kryl. Stavbou moderních torpédoborců může [ROOT.GetAdjective] námořnictvo střežit své plavební trasy a odrazit torpédové čluny v průlivech." # todo: NEW TRANSLATION
+ INSHOL_cruisers: "Křižníky" # todo: NEW TRANSLATION
+ INSHOL_cruisers_desc: "Flotila bez bitevních lodí musí spoléhat na své křižníky. Vybudování silné skupiny křižníků poskytne [ROOT.GetAdjective] námořnictvu pevné jádro schopné hlídkovat na dlouhých trasách mezi ostrovy a čelit jakémukoli nájezdníkovi, který vstoupí do našich vod." # todo: NEW TRANSLATION
+ INSHOL_submarines: "Ponorky" # todo: NEW TRANSLATION
+ INSHOL_submarines_desc: "Průlivy Východních Indii jsou stvořeny pro přepady a ponorka stojí mnohem méně než válečná loď, kterou pošle ke dnu. Silné ponorkové síly umožní [ROOT.GetAdjective] námořnictvu ovládat mořské trasy a útočit na nepřátelské lodě, aniž by se kdy ukázalo." # todo: NEW TRANSLATION
+ INSHOL_outsourced_navy: "Zadání výroby korporacím" # todo: NEW TRANSLATION
+ INSHOL_outsourced_navy_desc: "Máme už dost výdajů; nemůžeme nadále přesměrovávat stále více koloniálního rozpočtu na námořnictvo. Můžeme zaplatit korporacím, aby za nás výrobu zajistily." # todo: NEW TRANSLATION
+ INSHOL_divert_civilian_to_navy: "Přesměrovat civilní a armádní výdaje na námořnictvo" # todo: NEW TRANSLATION
+ INSHOL_divert_civilian_to_navy_desc: "S ohledem na současný stav světa je riziko námořní invaze vyšší než kdy dřív. Nemůžeme být skromní; musíme přesměrovat financování ze všech sektorů vlády směrem k námořnictvu." # todo: NEW TRANSLATION
  INS_netherlands_can_remove_autonomy_tt_50: "\nPokud [HOL.GetFlag]§Y[HOL.GetNameDefCap]§! dokončí toto zaměření jako první:\n    ([INS.GetFlag]§Y[INS.GetName]§!): Přidá §Y£autonomy_texticon -50.00§!"
  INS_netherlands_can_remove_autonomy_tt_75: "\nPokud [HOL.GetFlag]§Y[HOL.GetNameDefCap]§! dokončí toto zaměření jako první:\n    ([INS.GetFlag]§Y[INS.GetName]§!): Přidá §Y£autonomy_texticon -75.00§!"
  INS_netherlands_can_remove_autonomy_tt_100: "\nPokud [HOL.GetFlag]§Y[HOL.GetNameDefCap]§! dokončí toto zaměření jako první:\n    ([INS.GetFlag]§Y[INS.GetName]§!): Přidá §Y£autonomy_texticon -100.00§!"
@@ -141,7 +159,7 @@
  INSHOL_transfer_of_conrad_helfrich: "Přesunout Conrada Helfricha do Indií"
  INSHOL_transfer_of_conrad_helfrich_desc: "Přímý přesun admirála Conrada Helfricha do Indií zásadně zlepší námořní úsilí v Indiích."
  INSHOL_naval_program: "Nizozemsko-indonéský námořní program"
- INSHOL_naval_program_desc: "[INS.GetNameDefCap] postrádá oficiální námořnictvo, takže obrana zůstává na nás. S rostoucím napětím v Evropě a Asii to takto nemůže pokračovat. Musíme učinit první krok k založení samostatného [INS.GetAdjective] námořnictva, i když to přijde draho."
+ INSHOL_naval_program_desc: "Námořnictvo Východních Indií je zaostalé za ostatními námořnictvy, i za koloniálními. V nejlepším zájmu všech stran je, abychom pomohli s vývojem tohoto nového námořnictva, aby byl zajištěn rychlý pokrok." # todo: CHANGED
  INSHOL_naval_program_transfer_25_tt: "Převést §Y25 %§! našich námořních sil na [INS.GetNameDef]."
  INSHOL_naval_program_transfer_25_2_tt: "§Y[HOL.GetFlag] [HOL.GetNameDefCap]§! převede §Y25 %§! svých námořních sil na §Y[INS.GetNameDefCap]§!."
  INSHOL_naval_program_transfer_100_tt: "Převést §Rcelé naše námořnictvo§! na [INS.GetNameDef]."
@@ -167,6 +185,7 @@
  INS_infiltrate_the_army_desc: "Mnozí naši členové slouží v KNIL, od nízkých hodností až po majory. Měli bychom shromáždit co nejvíce tajemství a zároveň povyšovat naše lidi do vysokých pozic. Jakmile stiskneme spoušť, můžeme v KNIL rozpoutat chaos."
  INS_privately_owned_military_industry: "Soukromě vlastněný vojenský průmysl"
  INS_privately_owned_military_industry_desc: "Založíme několik stínových společností ve vojensko-průmyslovém sektoru, čímž zajistíme, že si po zahájení revoluce udržíme kontrolu nad vojenským průmyslem."
+ INS_privately_owned_military_industry_tt: "Přidat §G2§! §Yvojenskou továrnu§! do vašeho velitelství" # todo: NEW TRANSLATION
  INS_instigate_chaos_sulawesi: "Podnítit chaos na Sulawesi"
  INS_instigate_chaos_sulawesi_desc: "Budeme spolupracovat s místními nacionalisty na Sulawesi, organizovat stávky a nepokoje a radikalizovat obyvatelstvo."
  INS_instigate_chaos_sulawesi_tt: "Jakmile vyhlásíme nezávislost, získáme §Gdomovské území§! na §Y[673.GetName]§! a §Y[1056.GetName]§!. Nizozemská východní Indie je bude nadále postrádat jako domovská území."
@@ -282,11 +301,11 @@
  INS_womens_sufferage: "Volební právo žen"
  INS_womens_sufferage_desc: "Rozšíření volebního práva na ženy povede ke krátkodobé nestabilitě, ale je nezbytné pro dlouhodobou stabilitu a demokracii."
  INS_women_in_military: "Ženy v armádě"
- INS_women_in_military_desc: "Povolit ženám službu v armádě je nezbytné k zajištění toho, aby naše ozbrojené síly byly co nejsilnější."
+ INS_women_in_military_desc: "Umožnit ženám sloužit v armádě je nezbytné k tomu, aby naše ozbrojené síly byly co nejsilnější." # todo: CHANGED
  INS_fair_election: "Spravedlivé volby"
  INS_fair_election_desc: "S prezidentem sesazeným a revolucí za námi můžeme konečně uspořádat první skutečně spravedlivé volby bez autoritářského vlivu."
  INS_continue_hybrid_politics: "Pokračovat v hybridní politice"
- INS_continue_hybrid_politics_desc: "Hybridní politika je nezbytné zlo. Ačkoli konečným cílem je skutečná demokracie, Indonésie je příliš mladá a nestabilní na to, aby byla veškerá moc předána lidu. Prezident a parlament se budou nadále vzájemně usměrňovat a zajistí, že žádný z orgánů nebude příliš mocný."
+ INS_continue_hybrid_politics_desc: "Hybridní politika je nutné zlo. Zatímco konečným cílem je skutečná demokracie, Indonésie je příliš mladá a nestabilní na to, aby veškerá moc byla svěřena lidu. Prezident a Parlament budou nadále vzájemně tlumit své pravomoci, aby žádný z orgánů nezískal příliš velkou moc." # todo: CHANGED
  INS_guided_economy: "Řízené hospodářství"
  INS_guided_economy_desc: "Budeme na indonéské hospodářství přímo dohlížet, abychom si udrželi kontrolu. Znárodníme všechny banky i ropný a zemědělský sektor."
  INS_reform_education_system: "Povinné ideologické vzdělávání"
@@ -309,8 +328,12 @@
  INS_sjahrirs_continued_tenure_desc: "Premiér Sjahrir se osvědčil jako skvělý vůdce, provedl nás revolucí, zlepšil naši ekonomiku a nastolil demokracii. Měli bychom jej znovu zvolit premiérem."
  INS_unity_in_diversity: "Jednota v rozmanitosti"
  INS_unity_in_diversity_desc: "Po staletí slova Jednota v rozmanitosti vystihovala ducha našeho souostroví. Během revoluce se tato myšlenka stala bojovým heslem, připomínajícím Indonésanům, že ačkoli mluvíme mnoha jazyky a dodržujeme mnoho různých tradic, stojíme společně jako jeden lid. Měli bychom tuto frázi zakotvit v naší ústavě, aby naše jednota přetrvala pro budoucí generace."
- INS_the_timor_issue: "Timorská otázka"
- INS_the_timor_issue_desc: "Východní Timor je zjevně právoplatným indonéským územím, a ačkoli revoluce skončila, stále je pod koloniální vládou. [721.OWNER.GetName] obdrží naše ultimátum, ve kterém budeme požadovat okamžité předání Východního Timoru."
+ INS_the_timor_issue: "[INS_timor_issue_scripted_name]" # todo: CHANGED
+ INS_timor_issue_scripted_name_issue: "Otázka Timoru" # todo: NEW TRANSLATION
+ INS_timor_issue_scripted_name_attack: "Útok na Východní Timor" # todo: NEW TRANSLATION
+ INS_the_timor_issue_desc: "[INS_timor_issue_scripted_desc]" # todo: CHANGED
+ INS_timor_issue_scripted_desc_issue: "Východní Timor je zjevně právoplatným územím Indonésie, a i když revoluce skončila, stále je pod koloniální nadvládou. Pošleme ultimátum [721.OWNER.GetName] požadující okamžité předání Východního Timoru." # todo: NEW TRANSLATION
+ INS_timor_issue_scripted_desc_attack: "Východní Timor je zjevně právoplatné indonéské území. Povstalci na ostrově mohou tvrdit, že chtějí nezávislost, ale zjevně nemluví za celé obyvatelstvo. Pozůstatky portugalského kolonialismu musí být integrovány do Republiky." # todo: NEW TRANSLATION
  INS_pledge_to_allies: "Zavázat se Spojencům"
  INS_pledge_to_allies_desc: "Hrozí nám invaze v rámci rostoucího světového konfliktu. Ačkoli naše vztahy se Spojenci byly nejisté, etablovali jsme se jako demokratická mocnost v Pacifiku a měli bychom se sladit s velkými demokratickými mocnostmi."
  INS_mixed_economy_system: "Systém smíšeného hospodářství"
@@ -661,6 +684,7 @@
  INSHOL_import_lumber: "Dovážet dřevo"
  INSHOL_import_lumber_desc: "Nařídíme cenové kontroly v rostoucím zemědělském sektoru v Indiích, abychom dováželi veškeré dřevo národa z plantáží v Indiích za ceny, jimž žádná jiná vláda nedokáže konkurovat, a zavedeme vládní monopol na dřevo."
  INSHOL_industrialized_colony: "Industrializovaná kolonie"
+ INS_no_peta_tt: "Indonésie nebude schopna spolupracovat s cizími vetřelci." # todo: NEW TRANSLATION
  INSHOL_industrialized_colony_desc: "Východní Indie, kdysi skromná kolonie, se stala jedním z nejindustrializovanějších a nejbohatších regionů celé Asie. Jde o monumentální okamžik v dějinách Nizozemska i lidstva. Naše úsilí se vyplatilo a budeme nadále investovat do rozvoje své kolonie a znovu obnovíme Nizozemsko jako globální mocnost."
  INSHOL_economic_integration: "Hospodářská integrace"
  INSHOL_economic_integration_desc: "Nizozemská východní Indie je zářícím klenotem našeho Impéria, její prosperita je zajištěna pevným vedením královny, premiéra a generálního guvernéra. Tato stabilita nesmí být ohrožena lehkomyslnými výzvami k nezávislosti, které by přinesly jen nepořádek a úpadek. Ještě těsněji svážeme hospodářství Nizozemska a Indií, čímž zajistíme trvalou stabilitu a velikost."
@@ -767,6 +791,7 @@
  SIA_military_academies_indoctrination_desc: "Naše vojenské akademie jsou ideálním cílem ideologického výcviku. Jsou dobře vyzbrojené a mladí kadeti jsou snadno ovlivnitelní svými instruktory. Získejte instruktory a získáte vojenskou mládež. Silná armáda loajální vládnoucí třídě je základem každého mocného státu - a mocní budeme."
  SIA_the_king_of_the_white_elephant: "Král bílého slona"
  SIA_the_king_of_the_white_elephant_desc: "Hysterie kolem znovuzískání ztracených území hrozí smést národ a svět se dívá. Abychom tento zápal zmírnili, vyrobíme protiválečný film, první thajský film natočený v angličtině, abychom světu ukázali, jakou má pravou tvář [SIA.GetName]."
+ SIA_the_king_of_the_white_elephant_tt: "Odemkne propagační kampaň §Y$SIA_the_king_of_the_white_elephant$§! po dokončení zaměření §Y$SIA_sala_chaloem_thai_movie_theater$§!, které dává:\nTýdenní stabilita: §G+0.45%§! po dobu 180 dnů" # todo: NEW TRANSLATION
  SIA_drum_up_irredentism: "Rozdmýchat iredentismus"
  SIA_drum_up_irredentism_desc: "Nestačí zajistit podporu armády pro budoucí válku, musíme získat i podporu širšího obyvatelstva. Prostřednictvím básní, filmů a projevů připravíme [SIA.GetName] na zúčtování s imperialistickými mocnostmi, které ukradly naše historické země."
  SIA_sell_privy_purse_lands: "Prodat pozemky královské pokladny"
@@ -847,7 +872,7 @@
  SIA_the_yellow_dossier_desc: "Zfalšovaný radikální návrh splnil svou práci. Nyní lze zavést skutečný Žlutý spis: rozvážné reformy, hospodářskou modernizaci a politické pojistky navržené k prolomení vojenské dominance, aniž by byl národ vydán chaosu."
  SIA_achieve_domestic_legitimacy: "Dosáhnout domácí legitimity"
  SIA_achieve_domestic_legitimacy_desc: "Vláda přežila silou zbraní, ale nyní musí zvítězit zákonem, chlebem a pořádkem. Veřejná důvěra musí být obnovena, nouzová opatření ospravedlněna a lid musí vidět, že civilní vláda nabízí víc než pouhé přežití."
- SIA_achieve_domestic_legitimacy_tt: "§YSystém Khana Ratsadon§! bude deaktivován.\n§YArmáda§! bude trvale zneškodněna a všichni aktivní negativní duchové budou trvale odstraněni, zatímco pozitivní budou zachováni.\n\nKaždý duch civilního křídla se trvale změní na $idea_SIA_civilian_full_support$."
+ SIA_achieve_domestic_legitimacy_tt: "§YKhana Ratsadon System§! bude deaktivován.\n§YVojenské křídlo§! bude trvale rozpuštěno, čímž bude jeho duch zcela odstraněn.\n\n§YCivilní křídlo§! bude trvale reorganizováno na §Y$idea_SIA_unwavering_civilian_support$§!." # todo: CHANGED
  SIA_allies_integration: "Integrace se Spojenci"
  SIA_allies_integration_desc: "Naše síly se musí naučit bojovat po boku Spojenců. Velitelské struktury, komunikace, zásobovací postupy a standardy vybavení musí být sladěny, než se Siam může stát víc než symbolickým partnerem."
  SIA_prepare_for_a_pacific_war: "Připravit se na válku v Pacifiku"
@@ -863,6 +888,7 @@
  SIA_a_more_moderate_option_desc: "Reforma musí přetrvat, ne vyhořet v bouři odporu. Udržením Žlutého spisu v umírněných mezích můžeme izolovat extremisty, uklidnit střední vrstvy a vybudovat civilní řád, který přežije své první vítězství."
  SIA_asian_democratic_compact_desc: "Asie se nemůže navždy spoléhat na vzdálená impéria nebo sliby velmocí. Demokratické národy regionu musí stát při sobě, bránit jeden druhého a dokázat, že nezávislost a svoboda mohou v Asii přežít."
  SIA_asian_democratic_compact_tt: "Odemkne možnost požadovat nezávislost pro asijské subjekty a umožní nám je pozvat do naší frakce."
+ SIA_asian_democratic_compact_modify: "Upravuje §Y$SIA_asian_democratic_compact$§! takto:" # todo: NEW TRANSLATION
  SIA_southeast_asia_joint_command: "Společné velení jihovýchodní Asie"
  SIA_southeast_asia_joint_command_desc: "Náš pakt se musí stát víc než diplomatickým slibem. Společné velení bude koordinovat strategii, zásobování, zpravodajství a obranné plánování napříč jihovýchodní Asií a promění oddělené armády ve společný štít."
  SIA_pan_asian_weapon_standardization: "Panasijská standardizace zbraní"
@@ -942,12 +968,18 @@
  SIA_demand_the_return_of_lost_territory_desc: "[FRA.GetNameDefCap] ukazuje svou slabost, je jen papírovým tygrem lpícím na jakémkoli blednoucím vlivu, který jí ještě zbývá. S kolapsem jejích ozbrojených sil už nedokáže promítat sílu, kterou kdysi měla, a není v pozici, aby odporovala našim požadavkům."
  SIA_demand_the_return_of_lost_territory_tt: "Požádáme vlastníky §YIndočína§! a částí §Y[MAL.GetName]§!, aby nám vrátili §Y[1069.Getname]§!, §Y[1067.Getname]§!, §Y[741.Getname]§!, §Y[1068.Getname]§!, §Y[1061.Getname]§!, §Y[1064.Getname]§!, §Y[1065.Getname]§! a §Y[670.Getname]§!.\n\nOvlivňující faktory:\n-Bojová síla alespoň 30 % ve srovnání s vlastníkem\n-Vlastník je ve válce s velmocí\n-Vlastník není ve frakci\n-Vlastník je §YVichistická Francie§!\n-Jsme ve frakci\n-Vlastník nás nemá rád"
  SIA_the_greater_thai_empire: "Velká thajská říše"
- SIA_the_greater_thai_empire_available_trigger: "§Y[ROOT.GetName]§! ovládá každý indočínský stát\nPoslušnost všech indočínských států je vyšší než: §Y[?var:SIA_greater_thai_empire_compliance_requirement]%§!"
+ SIA_the_greater_thai_empire_available_trigger: "§Y[ROOT.GetName]§! ovládá všechny indočínské státy\nPoslušnost každého indočínského státu je vyšší než: §Y[?var:SIA_greater_thai_empire_compliance_requirement]%§!\n\nDále vyžaduje: " # todo: CHANGED
  SIA_the_greater_thai_empire_desc: "Hodina našeho vzestupu je na dosah. Co bylo kdysi vzato, bylo obnoveno, a s lidem uznávajícím nás jako faktickou autoritu jsme pevně ustavili svou legitimitu jako právoplatní vůdci obnovené Velké thajské říše."
  SIA_crack_down_of_foreign_merchants: "Potlačit zahraniční obchodníky"
  SIA_crack_down_of_foreign_merchants_desc: "Obchod byl dlouho formován vnějšími zájmy, což vytvářelo zranitelnosti, které mohou ovlivnit naši národní odolnost. Abychom ochránili svou hospodářskou bezpečnost, musíme být schopni ovládat vlastní obchod a zajistit, že prosperita a stabilita budou vybudovány na základech, které sami kontrolujeme."
  SIA_royal_palace_bureau_directive_no_1523: "Směrnice Úřadu král. paláce č. 1523"
  SIA_royal_palace_bureau_directive_no_1523_desc: "S přívalem nacionalismu v zemi se i koruna postavila na podporu vlády a žádá každého člena královského paláce, aby věnoval 10 % svého příjmu na nákup modernizovaných zbraní."
+ SIA_end_factionalism: "Ukončit frakcionářství" # todo: NEW TRANSLATION
+ SIA_end_factionalism_desc: "Rozkol mezi vojenským a civilním křídlem Khana Ratsadon stínil každé rozhodnutí od revoluce. Pokud dokážeme udržet obě frakce pevně za vládou dostatečně dlouho, můžeme je konečně sloučit do jediné, sjednocené Lidové strany a navždy urovnat hrozbu převratu." # todo: NEW TRANSLATION
+ SIA_end_factionalism_available_tt: "Obě §Ycivilní křídlo§! i §Yvojenské křídlo§! mají §Gplnou podporu§! po §Y270§! po sobě jdoucích dnů." # todo: NEW TRANSLATION
+ SIA_end_factionalism_tt: "Frakční soupeření v rámci Khana Ratsadon je urovnáno:\n   §YCivilní§! a §Yvojenské§! křídlo jsou rozpuštěny a vytvoří §Gsjednocenou Lidovou stranu§!\n   Získáte duchovní efekt §Y$idea_SIA_unified_khana_ratsadon$§!" # todo: NEW TRANSLATION
+ SIA_turn_off_the_khana_ratsadon: "Khana Ratsadon deaktivována" # todo: NEW TRANSLATION
+ SIA_factionalism_overcome: "Frakcionářství překonáno" # todo: NEW TRANSLATION
  SIA_new_territories_administration: "Správa nových území"
  SIA_new_territories_administration_tt: "Odemkne rozhodnutí ke správě §Yindočínských§! území, poskytující zvýšenou poslušnost, průmysl a opevnění."
  SIA_new_territories_administration_desc: "Znovuzískání našich ztracených území je teprve začátek. Musíme těm, kdo tam žijí, ukázat, že jsme lepší volbou. Bude proveden komplexní program ke zvýšení životní úrovně pro všechny, ať je [ROOT.GetName] pro každého občana rovnocenné."
@@ -1019,7 +1051,7 @@
  SIA_a_modern_economy: "Moderní ekonomika"
  SIA_a_modern_economy_desc: "Starý agrární řád nezmizí za jediný den, ale už nemůže určovat [ROOT.GetAdjecive] budoucnost. S bankami, školami, továrnami a infrastrukturou, které se nyní formují, začínáme budovat ekonomiku hodnou nezávislého moderního národa."
  SIA_reduction_of_agricultural_yield_taxes: "Snížení daní ze zemědělského výnosu"
- SIA_reduction_of_agricultural_yield_taxes_tt: "Každý měsíc sníží §Yspotřební zboží§! z $idea_SIA_agricultural_tax_reduction$ o §Y[?var:SIA_agricultural_tax_reduction_cg_decrease_rate|%]§! a každý měsíc zvýší §Ystabilitu§! o §Y[?var:SIA_agricultural_tax_reduction_stability_gain|%]§!, dokud postih §Yspotřebního zboží§! nedosáhne §Y0 %§!"
+ SIA_reduction_of_agricultural_yield_taxes_tt: "Snižuje §YSpotřební zboží§! z $idea_SIA_agricultural_tax_reduction$ o §Y[?var:SIA_agricultural_tax_reduction_cg_decrease_rate|%]§! každý měsíc, a zvyšuje §YStabilitu§! o §Y[?var:SIA_agricultural_tax_reduction_stability_gain|%]§! každý měsíc, dokud malus na §YSpotřební zboží§! nedosáhne §Y0%§!\n\nKdyž bude duch odstraněn, získejte:\n" # todo: CHANGED
  SIA_reduction_of_agricultural_yield_taxes_desc: "Od rolnictva nelze žádat, aby živilo království, financovalo stát a snášelo každou strázeň bez úlevy. Snížením daní ze zemědělského výnosu ponecháme na venkově více přebytku, posílíme loajalitu pěstitelů a podpoříme větší produkci z půdy."
  SIA_fuel_oil_act: "Zákon o topném oleji"
  SIA_fuel_oil_act_desc: "Moderní doprava, průmysl i obrana závisí na palivu, avšak přístup k němu může být ve válce uškrcen. Zákon o topném oleji dá spotřebu, skladování a nouzové přidělování pod pevnější státní dohled, aby vzácné zásoby nebyly plýtvány."
@@ -1118,7 +1150,8 @@
  SIA_prepare_to_drop_desc: "Až přijde hodina osvobození, Spojenci se mohou pokusit sestoupit na naši vlast z nebe. Musíme proto určit přistávací plochy, připravit kontakty a zorganizovat podpůrné sítě, aby výsadkové síly mohly být přijaty a nasměrovány tam, kde jich bude nejvíce třeba."
  SIA_unseat_the_government: "Sesadit vládu"
  SIA_unseat_the_government_desc: "Režimu, který svázal [ROOT.GetNameDef] s cizí nadvládou, nesmí být dovoleno trvat věčně. Prostřednictvím odporu, intrik a včasné akce můžeme odstranit ty, kdo kompromitovali národ, a obnovit vládu hodnější Siamu."
- SIA_unseat_the_government_tt: "[ROOT.GetName] opustí svou současnou frakci a změní stranu ve válce, připojí se ke §YSpojencům§!.\nLoajalisté povstanou proti změně, čímž rozpoutají občanskou válku."
+ SIA_unseat_the_government_tt: "[ROOT.GetName] opustí svou současnou frakci a přehodí se na druhou stranu ve válce, připojiv se k §YSpojencům§!.\n\nLojalisté povstanou proti změně, což vyvolá občanskou válku.\n\nPokud je naše kombinovaná podpora §Yvětší než 80%§!, sesadíme vládu a vyhneme se občanské válce. Naše celková podpora je §Y5%§! za každého přesvědčeného generála, kromě naší demokratické podpory.\n\nNaše podpora od přesvědčených generálů je §Y[?var:SIA_seri_thai_cw_scale|%]§! a naše demokratická podpora je §Y[?var:party_popularity@democratic|%]§!" # todo: CHANGED
+ SIA_choose_new_leader_tt: "S rozbitím starého režimu musí vítězové zvolit, kdo povede novou vládu." # todo: NEW TRANSLATION
  SIA_the_phayap_army: "Armáda Phayap"
  SIA_the_phayap_army_desc: "Pokud spojíme svůj osud s útočníkem, pak naše armády musí dostat místo v novém válečném řádu. Vyhrazené polní velení pro operace na západě a severu umožní, ať [ROOT.GetName] postupuje po boku silného partnera a usilovat o vlastní zisky."
  SIA_securing_the_rubber_islands: "Zajištění kaučukových ostrovů"
@@ -1225,7 +1258,7 @@
  SIA_buy_submarines_tt: "Získá §Y4§! $TARGET$ §Yrané ponorky§!."
  SIA_buy_thonburi_class_tt: "Získá §Y2§! $TARGET$ §Ypobřežní obranné lodě§! a §Ytorpédoborec§!"
  SIA_printing_money_monthly_increase_halve: "Měsíční nárůst $MODIFIER_CONSUMER_GOODS_FACTOR$ bude snížen na polovinu."
- SIA_printing_money_monthly_increase_set: "Tento $MODIFIER_CONSUMER_GOODS_FACTOR$ se každý měsíc zvýší o $VALUE|Y=%1$"
+ SIA_printing_money_monthly_increase_set: "Tento $MODIFIER_CONSUMER_GOODS_FACTOR$ se bude každý měsíc zvyšovat o §Y[?idea_SIA_printing_money_monthly_change|%]§!" # todo: CHANGED
  SIA_printing_money_monthly_increase_increase: "Měsíční nárůst $MODIFIER_CONSUMER_GOODS_FACTOR$ se zvýší o $VALUE|Y=%1$"
  idea_SIA_weather_broadcasts: "Meteorologické vysílání"
  idea_SIA_weather_broadcasts_desc: "Pravidelné meteorologické vysílání dává našim leteckým a námořním silám jasnější obraz podmínek, čímž zlepšuje jejich efektivitu a snižuje rizika operací za špatného počasí."
@@ -1371,6 +1404,7 @@
  AST_no_foreign_battlefields: "Žádná cizí bojiště"
  AST_no_foreign_battlefields_desc: "Trvalo to dlouho, ale vláda konečně prohlásí, že žádný občan nebude nucen ke službě na cizích bojištích."
  AST_no_foreign_battlefields_modifier: "Žádná cizí bojiště"
+ AST_platypus_modifier: "Nadaný ptakořitník" # todo: NEW TRANSLATION
  AST_aerial_defense: "Letecká obrana"
  AST_aerial_defense_desc: "Nemůžeme-li si dovolit — a to nemůžeme — plovoucí námořnictvo rovné námořnictvu světové mocnosti, je přesto v našich silách udržovat leteckou flotilu rovnocennou jakékoli, která může být proti nám nasazena."
  AST_ratify_westminster_adoption_act: "Ratifikovat zákon o přijetí Westminsteru"
@@ -1413,6 +1447,7 @@
  AST_demand_resources_tt: "Odemkne rozhodnutí §Y$AST_resource_acquisition_cat$§! k vyžádání podílu na zdrojích národů jihovýchodní Asie."
  AST_reclaim_the_lost_territory: "Získat zpět ztracené území"
  AST_reclaim_the_lost_territory_desc: "Během procesu, který sjednotil australské kolonie do federace, se Nový Zéland nakonec rozhodl nezúčastnit. Od té doby však ústava nadále definuje Nový Zéland jako jeden z potenciálních států Australského společenství a umožňuje jeho přijetí. Připomeneme to našim východním sousedům a budeme tvrdit, že současná světová situace vyžaduje jednotu."
+ AST_reclaim_the_lost_territory_tt: "([NZL.GetFlag]§Y[NZL.GetName]§!) převede všechny pozemní, námořní a letecké síly na §Y[AST.GetNameDef]§!" # todo: NEW TRANSLATION
  AST_australia_first: "Austrálie na prvním místě"
  AST_australia_first_desc: "Krajně pravicové nadšení Strany středu mělo krátké trvání a skončilo jejím rozpuštěním v roce 1935. Začíná však vřít něco nového, vycházejícího z myšlenek podnikatele a politického aktivisty Williama Johna Milese. Pokud však nebudou podniknuty žádné kroky k mobilizaci těchto nálad, mohou vyprchat stejně rychle, jako se objevily. A proto budou kroky podniknuty."
  AST_pankhurst_walsh: "Adela Pankhurst Walsh"
@@ -1583,6 +1618,7 @@
  AST_union_control_local: "Odemkne rozhodnutí §Y$AST_union_control_2_cat$§!. \nUmožní komunistickou infiltraci Indonésie a Filipín."
  AST_comintern: "Vstoupit do Kominterny"
  AST_comintern_desc: "Ačkoli se Sovětský svaz občas odchýlil od pravých marxistických zásad, zůstává praporečníkem dělnické internacionály. Vstupem do Kominterny můžeme sjednotit naše úsilí a nést pochodeň socialismu po celém světě."
+ AST_comintern_tt: "Pokud §Y[AST.GetName]§! vede frakci, sloučí se do Kominterny. Jinak se §Y[AST.GetName]§! do Kominterny připojí samostatně." # todo: NEW TRANSLATION
  AST_for_greater_good: "Pro vyšší dobro"
  AST_for_greater_good_desc: "Naše vize světové revoluce vyžaduje krev a oběti. Na příliš mnoha místech pochodeň socialismu skomírá; musíme odpovědět na výzvu a vyslat podporu, abychom zajistili, že nevyhasne. Koneckonců je to pro vyšší dobro."
  AST_make_common_cause: "Spojit síly"
@@ -1605,8 +1641,10 @@
  AST_end_the_kingdom_desc: "Nadešel čas. Kořen imperialistického kapitalismu bude bodnut do svého prohnilého srdce. Osvobození dělníků v celém Britském impériu je na dosah. Ukončete monarchii. Ukončete království. Ukončete útlak. Dělníci Commonwealthu, spojte se!"
  AST_red_solidarity: "Rudá solidarita"
  AST_red_solidarity_desc: "Boj v Číně zuří dál, zatímco miliony trpí a umírají. Jejich boj je naším bojem a nemůžeme nečinně přihlížet. Můžeme zasáhnout, sdílet jejich břemeno a zajistit, aby plamen revoluce nezakolísal."
+ AST_red_solidarity_tt: "§Y[AST.GetName]§! se připojuje k válce §Y[PRC.GetNameDef]§! proti §Y[CHI.GetNameDef]§!. Menší frakce vstřebá tu druhou, nebo se §Y[AST.GetName]§! připojí k válce přímo, pokud jsou obě již spojeny." # todo: NEW TRANSLATION
  AST_free_the_colonies: "Osvobodit kolonie"
  AST_free_the_colonies_desc: "Ohně revoluce hoří napříč hroutícím se Britským impériem. Kolonie už nebudou koloniemi, ale svobodnými národy. Povstaňte, soudruzi! Svrhněte své okovy a připojte se k revoluci!"
+ AST_free_the_colonies_tt: "§Y[AST.GetName]§! sníží stav všech bývalých britských kolonií pod svou kontrolou na integrované loutky." # todo: NEW TRANSLATION
  AST_battle_of_the_ocean: "Bitva o oceán"
  AST_battle_of_the_ocean_desc: "Oceány dlouho sloužily jako tepny světového obchodu. Nyní nastal čas přenést boj do Pacifiku a přetnout systém, který živí. Vody zrudnou krví zkažených kapitalistů i hrdinů revoluce."
  AST_borderless_solidarity: "Solidarita bez hranic"
@@ -1697,10 +1735,10 @@
  AST_alp_won_election_tt: "§YA.L.P§! vyhrála volby"
  AST_uap_less_than_3_wins_tt: "§YU.A.P§! má méně než §Y3§! volební vítězství."
  AST_alp_less_than_3_wins_tt: "§YA.L.P§! má méně než §Y3§! volební vítězství."
- AST_uap_election_win: "§YU.A.P§! získá §Y1§! volební vítězství.[GET_AST_UAP_CLUSTER_UNLOCK][GET_AST_15_NATUNITY]"
- AST_alp_election_win: "§YA.L.P§! získá §Y1§! volební vítězství.[GET_AST_ALP_CLUSTER_UNLOCK][GET_AST_15_NATUNITY]"
- AST_uap_cluster_unlock: "\n\nDalší skupina zaměření §YU.A.P§! se §Godemkne§!."
- AST_alp_cluster_unlock: "\n\nDalší skupina zaměření §YA.L.P§! se §Godemkne§!."
+ AST_uap_election_win: "§YU.A.P§! získává §Y1§! volební vítězství.\n\n[GET_AST_UAP_CLUSTER_UNLOCK][GET_AST_15_NATUNITY]" # todo: CHANGED
+ AST_alp_election_win: "§YA.L.P§! získává §Y1§! volební vítězství.\n\n[GET_AST_ALP_CLUSTER_UNLOCK][GET_AST_15_NATUNITY]" # todo: CHANGED
+ AST_uap_cluster_unlock: "Následující §YU.A.P§! sada §YZaměření§! §Godemkne§!." # todo: CHANGED
+ AST_alp_cluster_unlock: "Následující §YA.L.P§! sada §YZaměření§! §Godemkne§!." # todo: CHANGED
  AST_15_natunity: "\n\n$AST_ruling_party$ má §Y15§! dnů na sestavení §Yvlády národní jednoty§!."
  AST_uap_candidate_text: "§YStrana sjednocené Austrálie§!\n[AST_GET_UAP_LEADER_TEXT]\n\n§LStabilita doma, síla napříč Impériem§!\n\n[GET_AST_UAP_RULING]"
  AST_alp_candidate_text: "§YAustralská labouristická strana§!\n[AST_GET_ALP_LEADER_TEXT]\n\n§LDomácí potřeby před zahraničními zájmy§!\n\n[GET_AST_ALP_RULING]"
@@ -1709,12 +1747,12 @@
  AST_alp: "§YA.L.P§!"
  AST_uap_votes_count: "§YU.A.P§! má [?AST_uap_votes_var|2Y]§Y%§! demokratických hlasů.\n\nDenní změna: [?AST_uap_votes_change_var|2Y]§Y%§![GET_AST_UAP_PARTY_CAMPAIGN][GET_AST_COUNTRY_PARTY_SUPPORT_UAP][GET_AST_BILLY_HUGHES_VOTES][GET_AST_ARTHUR_FADDEN_VOTES][GET_AST_MAURICE_BLACKBURN_UAP_VOTES][GET_ALP_VOTES_DAILY_IMPACT][GET_AST_UAP_DISCOUNT]"
  AST_alp_votes_count: "§YA.L.P§! má [?AST_alp_votes_var|2Y]§Y%§! demokratických hlasů.\n\nDenní změna: [?AST_alp_votes_change_var|2Y]§Y%§![GET_AST_ALP_PARTY_CAMPAIGN][GET_LABOR_CAMPAIGN_TOUR][GET_AST_COUNTRY_PARTY_SUPPORT_ALP][GET_AST_JAMES_SCULLIN_VOTES][GET_AST_BEN_CHIFLEY_VOTES][GET_AST_MAURICE_BLACKBURN_ALP_VOTES][GET_UAP_VOTES_DAILY_IMPACT][GET_AST_ALP_DISCOUNT]"
- AST_uap_discount: "\n\nZvyšte hlasy na §Y50 %§!, abyste získali snížení doby dokončení o §Y5§! dnů u skupin zaměření §YU.A.P§!."
- AST_alp_discount: "\n\nZvyšte hlasy na §Y50 %§!, abyste získali snížení doby dokončení o §Y5§! dnů u skupin zaměření §YA.L.P§!."
- AST_uap_50_discount: "\n\n§YÚčinek držení 50 % demokratických hlasů§!:\n(skupiny zaměření §YU.A.P§!):\nsnížení doby dokončení o §Y5§! dnů.\n\nZvyšte hlasy na §Y70 %§!, abyste získali snížení doby dokončení o §Y10§! dnů u skupin zaměření §YU.A.P§!."
- AST_alp_50_discount: "\n\n§YÚčinek držení 50 % demokratických hlasů§!:\n(skupiny zaměření §YA.L.P§!):\nsnížení doby dokončení o §Y5§! dnů.\n\nZvyšte hlasy na §Y70 %§!, abyste získali snížení doby dokončení o §Y10§! dnů u skupin zaměření §YA.L.P§!."
- AST_uap_70_discount: "\n\n§YÚčinek držení 70 % demokratických hlasů§!:\n(skupiny zaměření §YU.A.P§!):\nsnížení doby dokončení o §Y10§! dnů."
- AST_alp_70_discount: "\n\n§YÚčinek držení 70 % demokratických hlasů§!:\n(skupiny zaměření §YA.L.P§!):\nsnížení doby dokončení o §Y10§! dnů."
+ AST_uap_discount: "\n\nZvyšte hlasy nad §Y50%§!, abyste získali snížení doby dokončení o §Y5§! dní u §YU.A.P§! sad zaměření." # todo: CHANGED
+ AST_alp_discount: "\n\nZvyšte hlasy nad §Y50%§!, abyste získali snížení doby dokončení o §Y5§! dní u §YA.L.P§! sad zaměření." # todo: CHANGED
+ AST_uap_50_discount: "\n\n§YEfekt při >50% demokratických hlasů§!:\n(§YU.A.P§! sady zaměření):\n§Y5§! dní snížení doby dokončení.\n\nZvyšte hlasy nad §Y70%§!, abyste získali §Y10§! dní snížení doby dokončení u §YU.A.P§! sad zaměření." # todo: CHANGED
+ AST_alp_50_discount: "\n\n§YEfekt při >50% demokratických hlasů§!:\n(§YA.L.P§! sady zaměření):\n§Y5§! dní snížení doby dokončení.\n\nZvyšte hlasy nad §Y70%§!, abyste získali §Y10§! dní snížení doby dokončení u §YA.L.P§! sad zaměření." # todo: CHANGED
+ AST_uap_70_discount: "\n\n§YEfekt při >70% demokratických hlasů§!:\n(§YU.A.P§! sady zaměření):\n§Y10§! dní snížení doby dokončení." # todo: CHANGED
+ AST_alp_70_discount: "\n\n§YEfekt při >70% demokratických hlasů§!:\n(§YA.L.P§! sady zaměření):\n§Y10§! dní snížení doby dokončení." # todo: CHANGED
  AST_party_campaign: "\n $AST_party_campaign_text$: §G+0.05%§!"
  AST_labor_campaign_tour_votes: "\n $AST_labor_campaign_tour_mission$: §G+0.05%§!"
  AST_country_party_support_uap: "\n $AST_country_party_influence_uap$: §G+0.02%§!"
@@ -1819,6 +1857,7 @@
  AST_improved_ground_crews_desc: "Na každého pilota připadá celý tým pozemního personálu potřebný k zajištění řádné údržby letadel, koordinace letů a provozu základen. Nemluvě o navigátorech, střelcích a bombometčících, kteří je doprovázejí ve vzduchu. Musíme zřídit řádná výcviková zařízení, aby naše letectvo fungovalo s maximální účinností."
  AST_advanced_pilot_training: "Pokročilý výcvik pilotů"
  AST_advanced_pilot_training_desc: "Jak se letadla stávají složitějšími, rychlejšími a pokročilejšími, musí se odpovídajícím způsobem zlepšovat i schopnosti našich pilotů, aby dokázali tyto technologie plně využít."
+ AST_advanced_pilot_training_tt: "§G+10%§! rychlost získávání mistrovství pro §Yletecké doktríny§!." # todo: NEW TRANSLATION
  AST_commonwealth_aircraft_corporation_taog: "Commonwealth Aircraft Corporation"
  AST_commonwealth_aircraft_corporation_taog_desc: "S rostoucím zájmem o válku na nebi musíme zajistit, že nezůstaneme pozadu. Civilní nadšenci a inovátoři již začali chápat potenciál leteckého průmyslu; poskytnutím počátečního financování můžeme toto vznikající odvětví podpořit a rozšířit."
  AST_reestablish_central_flying_school: "Obnovit Ústřední leteckou školu"
@@ -1929,8 +1968,8 @@
  ABDA_abdacom_desc: "Jak nepřátelské mocnosti rychle postupují napříč jihovýchodní Asií a Pacifikem, spojenecké síly v regionu musí jednat jednotně, aby je zadržely. Zřízením společného vrchního velení můžeme sdružit své zdroje, koordinovat námořní prostředky a vytvořit jednotnou frontu proti nepříteli."
  ABDA_fortress_singapore: "Pevnost Singapur"
  ABDA_fortress_singapore_desc: "Singapur je klíčovým bodem naší obranné strategie v regionu. Posílení jeho opevnění a silné posádky získá zásadní čas pro širší úsilí ABDACOM a upře nepříteli rychlé strategické vítězství."
- ABDA_corps_expeditionnaire: "Expéditionnaire Français en Extrême-Orient"
- ABDA_corps_expeditionnaire_desc: "Francouzská Indočína leží na severním křídle obranného perimetru ABDACOM. Nasazením Corps Expéditionnaire do aktivních operací přinese [FRA.GetAdjecive] společnému velení životně důležitý personál a zkušenosti svých koloniálních sil."
+ ABDA_corps_expeditionnaire: "CEFEO" # todo: CHANGED
+ ABDA_corps_expeditionnaire_desc: "Francouzská Indočína leží na severním křídle obranného obvodu ABDACOM. Nasazením Corps Expéditionnaire Français en Extrême-Orient do aktivních operací [FRA.GetNameDef] přinese zásadní personál a zkušenosti ze svých koloniálních sil do společného velení." # todo: CHANGED
  ABDA_maintain_strategic_flexibility: "Udržet strategickou flexibilitu"
  ABDA_maintain_strategic_flexibility_desc: "Spojené státy nesmí příliš vázat své síly na jediné válčiště. Pečlivým řízením strategické zálohy zajistíme, že americká průmyslová a vojenská moc bude moci být nasazena tam, kde je v Pacifiku nejvíce potřeba."
  ABDA_the_malay_barrier: "Malajská bariéra"
@@ -1957,7 +1996,7 @@
  ABDA_develop_naval_infrastructure_ast_tt: "[AST.GetName] obdrží §Y2 loděnice§! na domovském území."
  ABDA_develop_naval_infrastructure_ins_tt: "[INS.GetName] obdrží §Y2 loděnice§! na domovském území."
  ABDA_develop_naval_infrastructure_generic_tt: "V závislosti na členství v §YABDACOM§! mohou [AST.GetName] a [INS.GetName] každý obdržet 2 loděnice na svých domovských územích."
- ABDA_expand_the_command_tt: "Rozšíří členství v ABDACOM na [SIA.GetName], [NZL.GetName] a [MAL.GetName], pokud jsou v naší frakci, a udělí jim plný modifikátor §Y$ABDA_supreme_command$§! v jeho současné síle"
+ ABDA_expand_the_command_tt: "Rozšiřuje členství v ABDACOM na [SIA.GetName], [NZL.GetName] a [MAL.GetName], pokud jsou v naší frakci, a uděluje jim plný §Y$ABDA_supreme_command$§! modifikátor v jeho současné síle." # todo: CHANGED
  ABDA_naval_procurement_ins_ships_tt: "[INS.GetName] obdrží §Y6 převedených torpédoborců třídy Clemson§! z [USA.GetAdjective] zakonzervovaných flotil."
  ABDA_naval_procurement_hol_ships_tt: "[HOL.GetName] obdrží §Y6 převedených torpédoborců třídy Clemson§! z [USA.GetAdjective] zakonzervovaných flotil."
  ABDA_naval_procurement_ast_ships_tt: "[AST.GetName] obdrží §Y6 převedených torpédoborců třídy Clemson§! z [USA.GetAdjective] zakonzervovaných flotil."

@@ -246,7 +246,7 @@
  order_of_kutuzov: "Řád Kutuzova"
  order_of_the_red_banner: "Řád rudého praporu"
  hero_of_the_soviet_union: "Hrdina Sovětského svazu"
- dispatches_oak_leaves: "Dubové listy (za zmínku ve zprávách)"
+ dispatches_oak_leaves: "Zmíněn v rozkaze" # todo: CHANGED
  order_british_empire: "Řád britského impéria"
  distinguished_service_order: "Řád za záslužnou službu"
  victoria_cross: "Viktoriin kříž"

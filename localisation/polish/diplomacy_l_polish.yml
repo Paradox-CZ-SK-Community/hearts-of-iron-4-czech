@@ -148,8 +148,10 @@
  DIPLOMACY_GIVESTATECONTROL_REQUEST_DESC: "$COUNTRY|UY$ chce, abyste převzali kontrolu nad oblastmi $STATES$"
  DIPLOMACY_GIVESTATECONTROL_NOT_SAME_FACTION: "Nelze předat kontrolu státu někomu mimo naši frakci"
  DIPLOMACY_GIVESTATECONTROL_NOT_SAME_WAR: "Nelze předat kontrolu státu někomu, s kým nejsme ve válce"
+ DIPLOMACY_GIVESTATECONTROL_NOT_AT_WAR_WITH_OWNER: "£trigger_no£ §RNelze předat kontrolu nad státem někomu, kdo není ve válce s vlastníkem státu§!" # todo: NEW TRANSLATION
  DIPLOMACY_ASKSTATECONTROL_NOT_SAME_FACTION: "Nelze žádat o kontrolu státu od někoho mimo naši frakci"
  DIPLOMACY_ASKSTATECONTROL_NOT_SAME_WAR: "Nelze žádat o kontrolu státu od někoho, s kým nejsme ve válce"
+ DIPLOMACY_ASKSTATECONTROL_NOT_AT_WAR_WITH_OWNER: "£trigger_no£ §RNelze požádat o kontrolu nad státem, pokud nejste ve válce s vlastníkem státu§!" # todo: NEW TRANSLATION
  DIPLOMACY_REVOKE_MILACC_TITLE: "Zrušit náš vojenský přístup"
  DIPLOMACY_REVOKE_MILACC_DESC: "Tak kdy zaútočíme na $COUNTRY|Y$?"
  DIPLOMACY_REVOKE_MILACC_ACTION_DESC: "Zrušit náš vojenský přístup"

@@ -91,6 +91,7 @@
  SERVER_HOTJOIN: "server kvůli hotjoinu."
  WAITING_FOR_HOTJOINING_PLAYER: "Čekání na hráče, který se připojuje..."
  PLAYER_ENTERING_GAME: "Hráč se připojuje do hry."
+ HOTJOIN_PENDING_REQUEST_BLOCK: "Nelze pokračovat, když je čekající žádost o hotjoin. Nejprve ji přijměte nebo odmítněte." # todo: NEW TRANSLATION
  COOP_NOT_ALLOWED: "§RKooperace není povolena.§!"
  LAG_BEHIND_HEADER: "$NAME$ zaostává!"
  LAG_BEHIND_TEXT: "Rychlost hry byla snížena, aby ji hráč mohl dohnat."
@@ -188,6 +189,11 @@
  CONFIRMCHANGE_UNIT_TEMPLATE: "Změnit šablonu divize"
  CONFIRMCHANGE_UNIT_TEMPLATE_SINGLE: "Opravdu chcete §YZMĚNIT§! §Yšablonu divize§! na $TEMPLATE|H$ pro tuhle §Yjednotku§!? Může chvíli trvat, než jim dorazí nové vybavení."
  CONFIRMCHANGE_UNIT_TEMPLATE_MULTI: "Opravdu chcete §YZMĚNIT§! §Yšablonu divize§! na $TEMPLATE|H$ pro tyhle $COUNT|Y$ §Yjednotek§!? Může chvíli trvat, než jim dorazí nové vybavení."
+ CONFIRMCHANGE_HQ_TEMPLATE: "Změnit šablonu velitelství" # todo: NEW TRANSLATION
+ CONFIRMCHANGE_HQ_TEMPLATE_SINGLE: "Opravdu chcete §YZMĚNIT§! §Yšablonu velitelství§! na $TEMPLATE|H$ pro tuto §Yjednotku§!? Může chvíli trvat, než dorazí nové vybavení." # todo: NEW TRANSLATION
+ CONFIRMCHANGE_HQ_TEMPLATE_CP_CHANGE: "£command_power Rezervovaná velitelská síla: $DIFF|=-0$" # todo: NEW TRANSLATION
+ CONFIRMCHANGE_HQ_TEMPLATE_DEPLOY_CHANGE: "Doba nasazení: $DIFF|=-$ dní" # todo: NEW TRANSLATION
+ CONFIRMCHANGE_HQ_TEMPLATE_WITHDRAW_CHANGE: "Doba stažení: $DIFF|=-$ dní" # todo: NEW TRANSLATION
  CONFIRMCHANGE_UNIT_TEMPLATE_EQUIPMENT_NEEDED_ENOUGHT: "$AMOUNT|0H$ $EQUIPMENT$ (§G$STOCK|0*$ k dispozici§!)"
  CONFIRMCHANGE_UNIT_TEMPLATE_EQUIPMENT_NEEDED_NOT_ENOUGHT: "$AMOUNT|0H$ $EQUIPMENT$ (§R$STOCK|*0$ k dispozici§!)"
  CONFIRMCHANGE_UNIT_TEMPLATE_GAIN: "$AMOUNT|0H$ $EQUIPMENT$"
@@ -1009,6 +1015,8 @@
  DEPLOY_BUTTON_RIGHT_CLICK: "§GPravým kliknutím§! otevřete návrhář Armádního velitelství"
  DEPLOY_BUTTON_SHIFT_CLICK: "§GShift+kliknutím§! okamžitě nasadíte §Y$NAME$§!"
  DEPLOY_BUTTON_CTRL_CLICK: "§GCtrl+kliknutím§! zobrazíte $ARMY_HQ_TEMPLATES$ v $OFFICER_CORPS_LABEL$"
+ DEPLOY_BUTTON_ALL_LOCKED_OR_OBSOLETE: "§RNelze nasadit armádní velitelství, protože všechny šablony velitelství jsou uzamčené nebo zastaralé.§!" # todo: NEW TRANSLATION
+ DEPLOY_BUTTON_NO_TEMPLATE: "§RNelze nasadit armádní velitelství, protože nemáte žádnou šablonu velitelství.§!" # todo: NEW TRANSLATION
  DEPLOY_DROPDOWN_CREATE_HQ_TEMPLATE_TOOLTIP: "§GKliknutím§! navrhnete novou šablonu Armádního velitelství"
  DESIGNER_CREATE_NEW_DIVISION_TOOLTIP: "§GKliknutím§! navrhnete novou šablonu divize"
  DESIGNER_HQ_SAVE_AND_DEPLOY: "Uložit a nasadit £army_experience $XP|Y0$ £command_power $COST$"
@@ -1066,7 +1074,8 @@
  UNIT_BUTTON_DESC: "Šablona: §Y$TYPE$§!"
  UNIT_BUTTON_FAKE_ARMY_DESC: "Šablony pro falešné armády: §Y$TYPE$§!"
  UNIT_BUTTON_ACTION: "§GKlikněte§! pro zobrazení podrobností"
- UNIT_BUTTON_EDIT_ACTION: "§GShift + kliknutím§! otevřete v Návrháři divizí"
+ UNIT_BUTTON_RIGHT_CLICK_EDIT_ACTION: "§GKlikněte pravým tlačítkem§! pro otevření v návrháři divizí" # todo: NEW TRANSLATION
+ UNIT_BUTTON_OPEN_RECRUITMENT_ACTION: "§GStiskněte Ctrl a klikněte§! pro otevření Náboru a nasazení" # todo: NEW TRANSLATION
  UNIT_DESTINATION: "Cíl: $STATE|Y$"
  NUCLEAR_BOMB: "Jaderné bomby"
  NUCLEAR_PRODUCTION_ETA: "Další $NUKE_TYPE|H$ je hotová z $PROGRESS|1G%$ a bude připravena přibližně za $DAYS|G$ dnů. Ve skladech: $NUM_COMPLETED|H$"
@@ -1736,10 +1745,12 @@
  CANNOT_CHANGE_LEADER_WAR: "§R- Armáda je v pohraničním konfliktu§!"
  CANNOT_CHANGE_LEADER_DEPLOYING: "§R- $NAME|H$ je právě nasazován§!"
  CANNOT_CHANGE_LEADER_WITHDRAWING: "§R- $NAME|H$ je právě stahován§!"
- LEADER_CANNOT_REASSIGN_DEPLOYED: "$NAME|H$ je právě nasazen s Armádním velitelstvím a §Rnelze jej převelit§! k nové armádě."
- LEADER_CLICK_TO_ASSIGN_HEADER: "§GKliknutím§! přiřadíte §Y$NAME$§! k §Y$TARGET$§!.\n§GShift+kliknutím§! přiřadíte a nasadíte §Y$TEMPLATE$§!.\n"
- LEADER_CLICK_TO_REASSIGN_HEADER: "§GKliknutím§! zahájíte převelení §Y$NAME$§! z §Y$CURRENT$§! k §Y$TARGET$§!.\n§GCtrl+kliknutím§! zahájíte bez potvrzení.\n§GShift+kliknutím§! zahájíte bez potvrzení a zařadíte nasazení §Y$TEMPLATE$§! do fronty.\n"
- LEADER_CLICK_TO_WITHDRAW_HEADER: "§GKliknutím§! zahájíte stažení a převelení §Y$NAME$§! z §Y$CURRENT$§! k §Y$TARGET$§!.\n§GCtrl+kliknutím§! zahájíte bez potvrzení.\n§GShift+kliknutím§! zahájíte bez potvrzení a zařadíte nasazení §Y$TEMPLATE$§! do fronty.\n"
+ LEADER_CLICK_TO_ASSIGN_HEADER: "§GKlikněte§! pro přiřazení §Y$NAME$§! k §Y$TARGET$§!.\n" # todo: CHANGED
+ LEADER_CLICK_TO_ASSIGN_HEADER_WITH_SHIFT: "§GKlikněte§! pro přiřazení §Y$NAME$§! k §Y$TARGET$§!.\n§GShift+Klikněte§! pro přiřazení a nasazení §Y$TEMPLATE$§!.\n" # todo: NEW TRANSLATION
+ LEADER_CLICK_TO_REASSIGN_HEADER: "§GKlikněte§! pro zahájení přeřazení §Y$NAME$§! ze §Y$CURRENT$§! na §Y$TARGET$§!.\n§GCtrl+Klik§! pro zahájení bez potvrzení.\n" # todo: CHANGED
+ LEADER_CLICK_TO_REASSIGN_HEADER_WITH_SHIFT: "§GKlikněte§! pro zahájení přeřazování §Y$NAME$§! z §Y$CURRENT$§! na §Y$TARGET$§!.\n§GCtrl+Klikněte§! pro zahájení bez potvrzení.\n§GShift+Klikněte§! pro zahájení bez potvrzení a zařazení nasazení §Y$TEMPLATE$§! do fronty.\n" # todo: NEW TRANSLATION
+ LEADER_CLICK_TO_WITHDRAW_HEADER: "§GKlikněte§! pro zahájení stažení a přeřazení §Y$NAME$§! ze §Y$CURRENT$§! na §Y$TARGET$§!.\n§GCtrl+Klik§! pro zahájení bez potvrzení.\n" # todo: CHANGED
+ LEADER_CLICK_TO_WITHDRAW_HEADER_WITH_SHIFT: "§GKlikněte§! pro zahájení stažení a přeřazení §Y$NAME$§! z §Y$CURRENT$§! na §Y$TARGET$§!.\n§GCtrl+Klikněte§! pro zahájení bez potvrzení.\n§GShift+Klikněte§! pro zahájení bez potvrzení a zařazení nasazení §Y$TEMPLATE$§! do fronty.\n" # todo: NEW TRANSLATION
  LEADER_WITHDRAW_DAYS_FRAGMENT_SINGULAR: "Stažení potrvá §Y$DAYS$§! den."
  LEADER_WITHDRAW_DAYS_FRAGMENT_PLURAL: "Stažení potrvá §Y$DAYS$§! dnů."
  LEADER_REASSIGN_DAYS_FRAGMENT_SINGULAR: "Převelení potrvá §Y$DAYS$§! den."
@@ -2259,6 +2270,8 @@
  COMMS_MULT: "Vzdálenost Armádního velitelství: $MULT_TEXT$"
  COMMS_MULT_NO_HQ: "Armádní velitelství není nasazeno: $MULT_TEXT$"
  COMMS_MULT_NOT_ON_ORDER: "Armádní velitelství není přiřazeno k rozkazu: $MULT_TEXT$"
+ UNIT_BUTTON_EDIT_ACTION: "§GShift + kliknutím§! otevřete v Návrháři divizí"
+ LEADER_CANNOT_REASSIGN_DEPLOYED: "$NAME|H$ je právě nasazen s Armádním velitelstvím a §Rnelze jej převelit§! k nové armádě."
  CANNOT_CHANGE_LEADER_DEPLOYED: "§R- $NAME|H$ je právě nasazen nebo se nasazuje§!"
  LEADER_WITHDRAW_CONFIRM_REASSIGN_DAYS_FRAGMENT_SINGULAR: "Převelení potrvá §Y$DAYS$§! den."
  LEADER_WITHDRAW_CONFIRM_REASSIGN_DAYS_FRAGMENT_PLURAL: "Převelení potrvá §Y$DAYS$§! dnů."

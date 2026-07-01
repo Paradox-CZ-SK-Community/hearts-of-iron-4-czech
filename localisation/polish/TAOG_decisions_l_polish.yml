@@ -33,6 +33,8 @@
  INS_autonomy_education_subsidies: "Vzdělávací dotace dostupné pro Indonésany"
  INS_autonomy_national_language: "Indonéština uznána"
  INS_autonomy_official_flag: "Indonéská vlajka v používání"
+ INS_move_capital_to_amsterdam: "Přesunout hlavní město do Amsterdamu" # todo: NEW TRANSLATION
+ INS_move_capital_to_batavia: "Přesunout hlavní město do Batavie" # todo: NEW TRANSLATION
  INS_sukarno_is_dead: "Sukarno je mrtvý"
  INS_atjeh_management: "Policejní akce v Atjehu"
  INS_atjeh_management_2: "Integrovat Atjeh"
@@ -76,6 +78,7 @@
  INS_revolution_point_spend_tt: "Ve státě [FROM.GetName] je zřízena základna milicí"
  INS_revolution_points_in_state_tt: "[FROM.GetName] již nemá základnu milicí"
  war_escalation_1_or_more_tt: "Eskalace je alespoň §Y1§!"
+ war_escalation_2_or_more_tt: "Eskalace je alespoň §Y2§!" # todo: NEW TRANSLATION
  war_escalation_3_or_more_tt: "Eskalace je alespoň §Y3§!"
  war_escalation_4_or_more_tt: "Eskalace je alespoň §Y4§!"
  war_escalation_5_or_more_tt: "Eskalace je alespoň §Y5§!"
@@ -147,7 +150,7 @@
  INS_war_escalation_text: "£generic_war_escalation_text_icon Úroveň eskalace: §Y[?INS.INS_war_escalation_level]§!"
  INS_war_escalation_level_tt: "§YAktuální eskalace§!\n\nÚroveň eskalace se časem zvyšuje a roste také tím, že milice §Yobsazují nové státy§!, a tím, že [HOL.GetNameDef] podniká kroky proti aktivitě milicí. Pokud se situace dostatečně vyhrotí, může přerůst v §Rtotální válku§!."
  INS_war_escalation_1_tt: "§Y[INS.GetName]§!: Odemkne pozemní nájezdy"
- INS_war_escalation_2_tt: "Žádné účinky"
+ INS_war_escalation_2_tt: "§Y[INS.GetName]§!: Odemkne rozhodnutí nařídit příměří" # todo: CHANGED
  INS_war_escalation_3_tt: "§Y[HOL.GetName]§!: Odemkne zaměření na žádost o britské nebo francouzské zapojení"
  INS_war_escalation_4_tt: "§Y[HOL.GetName]§!: Odemkne rozhodnutí vyhlásit válku s těžkými postihy kvůli mezinárodnímu odporu\n§Y[INS.GetName]§!: Odemkne rozhodnutí požádat o mezinárodní zprostředkování za účelem deeskalace"
  INS_war_escalation_5_tt: "§Y[INS.GetName]§!: Bitva o Surabaju"
@@ -374,7 +377,7 @@
  SIA_poster_left_days_remaining_text: "Zbývá §Y[?SIA_propaganda_left_days_remaining_flag:days_left|Y0]§! dní"
  SIA_poster_center_days_remaining_text: "Zbývá §Y[?SIA_propaganda_center_days_remaining_flag:days_left|Y0]§! dní"
  SIA_poster_right_days_remaining_text: "Zbývá §Y[?SIA_propaganda_right_days_remaining_flag:days_left|Y0]§! dní"
- SIA_propaganda_campaign_cooldown_tt: "Tato kampaň bude znovu dostupná §Y[?constant:propaganda.SIA.default_propaganda_campaign_cooldown] dní§! po svém odstranění. Náklady budou vynásobeny hodnotou §R[?constant:propaganda.SIA.propaganda_empty_slot_index]§!."
+ SIA_propaganda_campaign_cooldown_tt: "Tato kampaň bude opět dostupná §Y[?constant:propaganda.SIA.default_propaganda_campaign_cooldown] dní§! po jejím odstranění." # todo: CHANGED
  SIA_public_credit_repayment: "Splacení veřejného úvěru"
  SIA_public_credit_repayment_tt: "Splatíme celý náš dluh z veřejného úvěru najednou, čímž odstraníme veškerý dluh za cenu velkého dočasného postihu k §Yspotřebnímu zboží§!."
  idea_SIA_deficit_spending: "Deficitní výdaje"
@@ -421,8 +424,26 @@
  SIA_divert_army_funds_to_navy_toggle_undo_tt: "Již nebudeme přesměrovávat část našich armádních prostředků k námořnictvu."
  SIA_standing_our_ground_mission: "Držíme své pozice"
  SIA_standing_our_ground_mission_tt: "Musíme bojovat za svou svobodu."
- SIA_sway_generals_to_seri_thai: "Přiklonit generály k Seri Thai"
- SIA_sway_generals_to_seri_thai_tt: "K našemu povstání se připojí více členů generálního štábu."
+ SIA_sway_generals_to_seri_thai_tt: "Generálové, které jsme přetáhli na stranu Seri Thai, se k nám připojí, když začne občanská válka, místo aby se přidali k loajalistickému povstání." # todo: CHANGED
+ SIA_sway_general_cw_scale_tt: "Zvyšuje naši podporu v občanské válce o §Y5%§!\nPokud podpora přesáhne §Y80%§!, občanská válka je odvrácena a uchopíme moc bez odporu" # todo: NEW TRANSLATION
+ SIA_sway_luang_chawengsaksongkhram_to_seri_thai: "Přesvědčit Luang Chawengsaksongkhram" # todo: NEW TRANSLATION
+ SIA_sway_luang_chawengsaksongkhram_to_seri_thai_desc: "Získat Luang Chawengsaksongkhram pro hnutí Seri Thai. Pokud bude přesvědčen, přidá se k nám, když vypukne občanská válka." # todo: NEW TRANSLATION
+ SIA_sway_aditya_dibabha_to_seri_thai: "Přesvědčit Aditya Dibabha" # todo: NEW TRANSLATION
+ SIA_sway_aditya_dibabha_to_seri_thai_desc: "Získat Aditya Dibabha pro hnutí Seri Thai. Pokud bude přesvědčen, přidá se k nám, když vypukne občanská válka." # todo: NEW TRANSLATION
+ SIA_sway_mangkorn_phromyothi_to_seri_thai: "Přesvědčit Mangkorn Phromyothi" # todo: NEW TRANSLATION
+ SIA_sway_mangkorn_phromyothi_to_seri_thai_desc: "Získat Mangkorn Phromyothi pro hnutí Seri Thai. Pokud bude přesvědčen, přidá se k nám, když vypukne občanská válka." # todo: NEW TRANSLATION
+ SIA_sway_luang_haansongkhram_to_seri_thai: "Přesvědčit Luang Haansongkhram" # todo: NEW TRANSLATION
+ SIA_sway_luang_haansongkhram_to_seri_thai_desc: "Získat Luang Haansongkhram pro hnutí Seri Thai. Pokud bude přesvědčen, přidá se k nám, když vypukne občanská válka." # todo: NEW TRANSLATION
+ SIA_sway_charun_rattanakun_seriroengrit_to_seri_thai: "Přesvědčit Charun Rattanakun Seriroengrit" # todo: NEW TRANSLATION
+ SIA_sway_charun_rattanakun_seriroengrit_to_seri_thai_desc: "Získat Charun Rattanakun Seriroengrit pro hnutí Seri Thai. Pokud bude přesvědčen, přidá se k nám, když vypukne občanská válka." # todo: NEW TRANSLATION
+ SIA_sway_phichit_kriangsakphichit_to_seri_thai: "Přesvědčit Phichit Kriangsakphichit" # todo: NEW TRANSLATION
+ SIA_sway_phichit_kriangsakphichit_to_seri_thai_desc: "Získat Phichit Kriangsakphichit pro hnutí Seri Thai. Pokud bude přesvědčen, přidá se k nám, když vypukne občanská válka." # todo: NEW TRANSLATION
+ SIA_sway_jira_wichitsongkhram_to_seri_thai: "Přesvědčit Jira Wichitsongkhram" # todo: NEW TRANSLATION
+ SIA_sway_jira_wichitsongkhram_to_seri_thai_desc: "Získat Jira Wichitsongkhram pro hnutí Seri Thai. Pokud bude přesvědčen, přidá se k nám, když vypukne občanská válka." # todo: NEW TRANSLATION
+ SIA_sway_phin_choonhavan_to_seri_thai: "Přesvědčit Phin Choonhavan" # todo: NEW TRANSLATION
+ SIA_sway_phin_choonhavan_to_seri_thai_desc: "Získat Phin Choonhavan pro hnutí Seri Thai. Pokud bude přesvědčen, přidá se k nám, když vypukne občanská válka." # todo: NEW TRANSLATION
+ SIA_sway_tiang_sirikhan_to_seri_thai: "Přesvědčit Tiang Sirikhan" # todo: NEW TRANSLATION
+ SIA_sway_tiang_sirikhan_to_seri_thai_desc: "Získat Tiang Sirikhan pro hnutí Seri Thai. Pokud bude přesvědčen, přidá se k nám, když vypukne občanská válka." # todo: NEW TRANSLATION
  SIA_khana_ratsadon_dummy_military: "Riziko vojenského puče"
  SIA_khana_ratsadon_dummy_military_tt: "Armáda zahájí puč, pokud si ji příliš znepřátelíme. Abychom se vyhnuli občanské válce, neměli bychom mít příliš dlouho §Y$idea_SIA_military_rebellious$§!."
  SIA_khana_ratsadon_dummy_military_desc: "Armáda je mocnou klikou strany Khana Ratsadon. Nebude schvalovat politiku, kterou považuje za odporující svým zájmům, ale schvaluje kroky, které vnímá jako podporující militarizaci země."
@@ -433,12 +454,21 @@
  SIA_khana_ratsadon_dummy_civilian_desc: "Civilní křídlo je mocnou klikou strany Khana Ratsadon. Nebude schvalovat politiku, kterou považuje za odporující svým zájmům, ale schvaluje kroky, které vnímá jako prodemokratické a procivilní."
  SIA_khana_ratsadon_civilian_coup_mission: "Civilní křídlo plánuje svržení vlády!"
  SIA_khana_ratsadon_civilian_coup_mission_desc: "Civilní křídlo považuje současnou vládní politiku za hrozbu pro své zájmy. Aktivně plánuje sesadit vládu, pokud se jeho postavení nezlepší."
+ SIA_promote_civilian_wing: "Získat přízeň civilního křídla" # todo: NEW TRANSLATION
+ SIA_promote_civilian_wing_desc: "Posílením vlivu vlády za programem civilního křídla týkajícím se půdní reformy, soudů a ústavy si můžeme získat vděčnost Pridiho frakce. Takové upřednostňování však nezůstane bez povšimnutí: důstojnický sbor zahořkne a narušení běžné správy nás bude během uklidňování situace draho stát." # todo: NEW TRANSLATION
+ SIA_promote_military_wing: "Získat přízeň vojenského křídla" # todo: NEW TRANSLATION
+ SIA_promote_military_wing_desc: "Uspokojením požadavků důstojníků a předváděním síly ozbrojených sil si můžeme získat přízeň Phibunovy frakce. Takové upřednostňování však nezůstane bez povšimnutí: přerozdělení sil rozházelo rutinu armády a narušení běžné správy nás bude během uklidňování situace draho stát. Hrubý nástroj, vhodný jen k tomu, aby křídlo stáhl zpět z pokraji vzpoury." # todo: NEW TRANSLATION
+ SIA_cultivate_civilian_wing: "Budovat vztahy s civilním křídlem" # todo: NEW TRANSLATION
+ SIA_cultivate_civilian_wing_desc: "Respekt, který jsme získali směrnicí Královského palácového úřadu vůči establishmentu, otevírá dveře k trpělivému, postupnému olizování civilního křídla. Nejedná se o náhlé upřednostňování, které by vyvolalo odpor, ale o pomalou, vytrvalou práci na získávání Pridiho frakce, jeden ústupek za druhým. Je to dlouhá cesta, kterou lze kráčet tak daleko, jak si přejeme." # todo: NEW TRANSLATION
+ SIA_cultivate_military_wing: "Budovat vztahy s vojenským křídlem" # todo: NEW TRANSLATION
+ SIA_cultivate_military_wing_desc: "Respekt, který jsme získali směrnicí Královského palácového úřadu vůči establishmentu, otevírá dveře k trpělivému, postupnému budování vztahů s vojenským křídlem. Nejedná se o náhlé upřednostňování, které by vyvolalo odpor, ale o pomalou, vytrvalou práci na získávání důstojnického sboru, jeden ústupek za druhým. Je to dlouhá cesta, kterou lze kráčet tak daleko, jak si přejeme." # todo: NEW TRANSLATION
+ SIA_end_factionalism_mission: "Udržet koalici pohromadě" # todo: NEW TRANSLATION
+ SIA_end_factionalism_mission_desc: "Obě křídla Khana Ratsadon plně podporují vládu. Pokud je dokážeme oba udržet na §GPlná podpora§! po §Y270§! dnů, rivalita mezi nimi může být natrvalo urovnána. Pokud nadšení kterékoli strany povadne, je třeba začít znovu." # todo: NEW TRANSLATION
  NZL_mangahao_power_scheme: "Energetický projekt Mangahao"
  NZL_waitaki_power_station: "Elektrárna Waitaki"
  AST_communism_support_text: "[?party_popularity_100@communism|Y]% podpora komunismu"
  AST_union_control_1_cat: "Kontrola odborů"
  AST_union_control_1_cat_desc: "Naši členové odborů začali mobilizovat podporu mezi širokým obyvatelstvem napříč Austrálií. Můžeme proniknout do zákonodárných sborů v jednotlivých státech a zevnitř budovat podporu pro vládu vedenou komunisty. Bude to stát značné množství politické síly a hrozí destabilizací národa. \n\nVeteráni Nové gardy naše kroky bedlivě sledují, a pokud vláda včas nezasáhne nebo se národ stane příliš nestabilním, tento konflikt by mohl zemi zcela roztrhat.\n\nPodpora komunismu: [?party_popularity_100@communism|Y]§Y%§!\n\n§RObčanská válka vypukne, pokud stabilita klesne pod 40 %, nebo pokud vyprší čas na vzpouru veteránů.§!"
- AST_veterans_revolt_stability_tt: "Stabilita je vyšší než §Y40 %§! (pokles pod tuto hodnotu způsobí občanskou válku!)"
  AST_union_control_1_cat_name: "Vyberte, kde podnítit odbory k naší podpoře"
  AST_union_control_1_map_area_name: "Státy, které lze ještě ovlivnit"
  AST_nationalizing_cat: "Znárodnění"
@@ -510,7 +540,7 @@
  AST_election_approaching_cat: "Blížící se volby"
  AST_election_approaching_cat_desc: "Sotva se jedna vláda usadila, už se začínají blížit další volby. Demokratické strany se předhánějí ve všem, co by mohlo zvýšit jejich podporu, v naději, že to bude stačit k zajištění vítězství, až se otevřou volební místnosti a urny se začnou plnit hlasy."
  AST_final_reforms_mission: "Závěrečné reformy"
- AST_final_reforms_mission_desc: "Díky stabilnímu vedení, konzervativním sklonům a loajalitě k Británii UAP posílila svou podporu a další funkční období je stále pravděpodobnější. Aby si její vůdci udrželi veřejnou podporu, musí reformy urychlit.\n\n§YÚčinky během aktivity:§!\n§W(§Ydemokratická§! zaměření):\nSnížení doby dokončení o §Y5§! dní§!"
+ AST_final_reforms_mission_desc: "Díky stabilnímu vedení, konzervativním sklonům a loajalitě k Británii UAP posílila svou podporu a další funkční období je stále pravděpodobnější. Aby si její vůdci udrželi veřejnou podporu, musí reformy urychlit.\n\n§YÚčinky během aktivity:§!\n§W(§Ydemokratická§! zaměření):\nSnížení doby dokončení o §Y5§! dní§!" # todo: CHANGED NUMBER
  AST_final_reforms_effect_tt: "\nÚčinky po dobu aktivity §Y$AST_final_reforms_mission$§! (§Y180§! dní):"
  AST_labor_campaign_tour_mission: "Předvolební turné Labor"
  AST_labor_campaign_tour_mission_desc: "Ve své snaze zastupovat každého občana přijala ALP odlišný pohled na imperialismus a australskou loajalitu k Impériu. Domácí potřeby mají přijít na první místo a zahraniční zájmy už nemají mít přednost.\n\nAby ALP rozšířila své poselství mezi současnou vládnoucí stranu i voliče, vydá se na celostátní předvolební turné.\n\n§YÚčinky během aktivity:§!\n§WDenní nárůst hlasů pro §YA.L.P§!: §G+0.05§!§!"
@@ -527,6 +557,7 @@
  AST_seize_civilian_industry_desc: "Ačkoli spotřební zboží je nezbytné jak pro naše občany, tak pro hospodářství, nelze obejít skutečnost, že válečná doba přináší naléhavější potřeby. Válka se blíží; až přijde, budeme připraveni."
  AST_scorch_the_north: "Spálit sever"
  AST_scorch_the_north_desc: "Pokud máme podezření na invazi ze severu, existují způsoby, jak takový postup zmařit, i když mají svou cenu. Ačkoli rozvoj našich severních států politika spálené země zbrzdí, může to být právě to, co bude potřeba k zadržení agresorů."
+ AST_scorch_the_north_tt: "§YDůsledky při námořním vylodění v severním státě:§!" # todo: NEW TRANSLATION
  AST_the_brisbane_line: "Brisbaneská linie"
  AST_the_brisbane_line_desc: "Australské obranné schopnosti možná nejsou dost silné na to, aby zcela odrazily zahraniční agresi. Přijetím politiky, která upřednostňuje silnou obranu životně důležitých území před slabou obranou všech, můžeme zajistit, že nejrozvinutější a nejobydlenější části [AST.GetNonIdeologyName] zůstanou pod naší kontrolou.\n\nAčkoli se proti takové politice nepochybně postaví ti, kdo odmítají jakoukoli míru ústupu, vláda má povinnost vést [AST.GetName] rozumným směrem."
  AST_summon_the_cabinet_mission: "Svolat kabinet"
@@ -592,6 +623,7 @@
  AST_a_convenient_disaster: "Příhodná katastrofa"
  AST_a_convenient_disaster_desc: "Ať už se Australia First stane jakkoli populární, konzervativci budou ideologii této skupiny vždy odporovat. Má-li Australia First úspěšně získat moc, může být zapotřebí něco dramatičtějšího než běžné volby; něco, co uvrhne vládu do chaosu.\n\nNaše hnutí nemá kapacitu takovou událost vyvolat samo, ale náš zahraniční fašistický podporovatel ano. Pomocí našemu vzestupu k moci najdou zahraniční fašisté v [AST.GetName] přítele."
  AST_a_convenient_disaster_tt: "\nTato událost naruší úřadující vládu a nakonec umožní, aby se §Y[AST.GetFascistParty]§! stala vládnoucí stranou."
+ AST_a_convenient_disaster_flag: "§YLetecká katastrofa v Canbeře§! byla vyvolána prostřednictvím rozhodnutí §YVýhodná katastrofa§!." # todo: NEW TRANSLATION
  AST_insufficient_funds_mission: "$AST_insufficient_funds$"
  AST_sufficient_funds_tt: "Dostatečné prostředky (dosaženo za §Y[?AST_insufficient_funds:days_left]§! dní)"
  AST_sufficient_funds_tt_2: "§GZíská§! dostatečné prostředky"
@@ -609,6 +641,7 @@
  AST_big_business_pact_cat: "Pakt s velkým byznysem"
  AST_big_business_request_ongoing_flag: "Žádost velkého byznysu §Yprobíhá§!"
  AST_naval_expansion: "$NOR_alt_dem_naval_expansion$"
+ AST_naval_expansion_desc: "Výměnou za to, že [ROOT.GetFascistParty] prosazuje politiky, které jim vyhovují, přední podnikatelské kruhy souhlasily s investicemi do průmyslových reforem, jež jsou v souladu s cíli strany.\n\nFlotilu je nutné rozšířit, pokud má mít [AST.GetName] šanci proti nepřátelům s převahou námořní síly. Po omezenou dobu budou v loděnicích všechny ruce na palubě, což zajistí zvýšení výroby lodí." # todo: NEW TRANSLATION
  AST_factory_conversions: "Přestavby továren"
  AST_factory_conversions_desc: "Výměnou za to, že [ROOT.GetFascistParty] bude prosazovat politiku, která jim prospívá, se přední podnikatelé dohodli na investicích do průmyslových reforem odpovídajících cílům strany.\n\nObranný průmysl musí mít prioritu, a australské továrny proto musí být přeměněny tak, aby jej podporovaly."
  AST_land_development: "Rozvoj půdy"
@@ -633,6 +666,7 @@
  AST_expand_iron_mining_tt: "Díky §Y$AST_exports_for_economic_recovery$§! i §Y$AST_within_reach$§! bude možné využívat region Pilbara ve státě §Y$STATE_870$§!, čímž se uvolní téměř nevyčerpatelný zdroj §Yoceli§!. Můžeme jej využít k pohonu našeho hospodářství."
  AST_develop_port_kemla_steel_tt: "To nám umožní přijmout rozhodnutí §Y$AST_develop_port_kemla_steel_medium_decision$§!, které výrazně zvýší naši produkci §Yoceli§!."
  AST_develop_middleback_tt: "Odemkne tři rozhodnutí k rozvoji naší produkce §Yoceli§! ve státě §Y$STATE_519$§!"
+ AST_expand_planned_extraction_pilbara_tt: "§Y$AST_planned_extraction$§! umožní využití oblasti Pilbara ve státě §Y$STATE_870$§!, uvolní téměř nevyčerpatelný zdroj §YOcel§!. Můžeme to využít k podpoře naší ekonomiky." # todo: NEW TRANSLATION
  AST_ireland_weapon_smuggling_cat: "Vyzbrojování Irů"
  AST_smuggle_arms_to_ireland: "Pašovat zbraně do Irska"
  AST_smuggle_arms_to_ireland_desc: "Musíme Irům dodat zbraně potřebné k boji proti Britům."
@@ -646,3 +680,16 @@
  AST_special_forces_cat: "Výcvik speciálních sil"
  AST_you_can_switch_sf: "Budete moci přepínat mezi specializacemi."
  AST_training_camps_specialization: "Naše výcvikové tábory jsou připraveny nabídnout našim jednotkám specializovaný výcvik, díky němuž budou účinnější na různých válčištích."
+ AST_australasia_flag: "§YAustralasie§! vznikla" # todo: NEW TRANSLATION
+ AST_australia_formables_category: "Australasie" # todo: NEW TRANSLATION
+ AST_australia_formables_category_desc: "Ačkoli nás kořeny [AST.GetName] vždy budou vázat k dalekému jihu, naše paže se prodloužily daleko a už není možné, aby ostatní přehlédli náš pohled na světové záležitosti. Rozrostli jsme se a můžeme se rozrůst ještě dál, a nové jméno pro náš národ to jasně vyjádří. Z kukly [AST.GetName] vycházíme, rozprostíráme svá křídla, aby je svět obdivoval a uznal, a pojmenujeme barvy a vzory nového národa na jihu — Australasie." # todo: NEW TRANSLATION
+ AST_form_australasia: "Vytvořit Australasii" # todo: NEW TRANSLATION
+ AST_form_australasia_malenesia_required_states_tt: "Ovládá všechny státy §YMalenesia§!." # todo: NEW TRANSLATION
+ AST_form_australasia_new_zealand_required_states_tt: "Ovládá všechny státy §Y[NZL.GetNonIdeologyName]§!." # todo: NEW TRANSLATION
+ AST_form_australasia_malenesia_core_states_tt: "Získat domovská území ve všech státech §YMalenesia§!." # todo: NEW TRANSLATION
+ AST_form_australasia_new_zealand_core_states_tt: "Získat domovská území ve všech státech §Y[NZL.GetNonIdeologyName]§!." # todo: NEW TRANSLATION
+ AST_integrate_indonesia: "Integrovat [INS.GetNonIdeologyName]" # todo: NEW TRANSLATION
+ AST_integrate_indonesia_indonesia_required_states_tt: "Ovládá všechny státy §Y[INS.GetNonIdeologyName]§!." # todo: NEW TRANSLATION
+ AST_integrate_indonesia_indonesia_core_states_tt: "Získat domovská území ve všech státech §Y[INS.GetNonIdeologyName]§!." # todo: NEW TRANSLATION
+ SIA_sway_generals_to_seri_thai: "Přiklonit generály k Seri Thai"
+ AST_veterans_revolt_stability_tt: "Stabilita je vyšší než §Y40 %§! (pokles pod tuto hodnotu způsobí občanskou válku!)"

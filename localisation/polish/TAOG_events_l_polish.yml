@@ -659,6 +659,11 @@
  siam_dem.4.t: "Phibun odsuzuje spis"
  siam_dem.4.desc: "Phibun vstoupil do sporu otevřeně a s nezaměnitelnou razancí. V projevu před stoupenci a důstojníky odsuzuje Žlutý spis jako svou podstatou komunistický, ať už jeho obhájci dávají přednost jakémukoli jazyku. Prohlašuje, že každý program, který povyšuje stát nad majetek, slibuje rozsáhlou společenskou proměnu a rozdmýchává neklid mezi nižšími třídami, vnáší pod jiným jménem do země rudý jed."
  siam_dem.4.a: "Nenechává nikoho na pochybách"
+ siam_dem.5.t: "Musí být sestavena vláda" # todo: NEW TRANSLATION
+ siam_dem.5.desc: "Starý režim je zlomen a Seri Thai stojí vítězně. Ale vítězství není vláda a koalice, která se spojila proti Phibunovi, se zdaleka neshoduje na tom, co by mělo následovat. Ve chodbách moci se skloňují tři jména: Pridi Banomyong, svědomí odboje; Khuang Aphaiwong, člověk natolik mírný, že nikoho neurazí; a generál Phin Choonhavan, jehož důstojníci očekávají, že dostanou, co jim náleží. Ten, koho nyní povýšíme, utváří mír, který přijde." # todo: NEW TRANSLATION
+ siam_dem.5.a: "Pridi Banomyong povede. Odboj si to zasloužil." # todo: NEW TRANSLATION
+ siam_dem.5.b: "Khuang Aphaiwong — tvář, kterou mohou přijmout všechny frakce." # todo: NEW TRANSLATION
+ siam_dem.5.c: "Generál Phin Choonhavan. Armáda bude mít své místo." # todo: NEW TRANSLATION
  AST_election_events.1.t.a: "U.A.P zvítězila!"
  AST_election_events.1.t.b: "Laboristé zvítězili!"
  AST_election_events.1.desc.a: "Hlasy jsou sečteny; volby vyhrála Sjednocená australská strana.\n\nU.A.P projde krátkým obdobím formování vlády, než stráví následující tři roky dokazováním, že důvěra občanů byla právem vložena na bedra jejích zástupců."
@@ -740,9 +745,13 @@
  AST_diplomatic_events.19.desc: "[INS.GetName] odmítá naši žádost; naše země se budou muset o svou obranu postarat samy."
  AST_diplomatic_events.19.a: "[AST.GetNameDefCap] přečká konflikty i bez nich."
  AST_diplomatic_events.20.t: "Předvolání do britského válečného kabinetu"
- AST_diplomatic_events.20.desc: "[ENG.GetNameDefCap] předvolává australského premiéra do britského válečného kabinetu. Světová situace je vážná, což Británii vede k hledání společných strategií a vojenské spolupráce se svými spojenci.\n\nAustrálie má však své vlastní starosti. Můžeme postrádat část premiérova času, abychom vyhověli Britům?"
+ AST_diplomatic_events.20.desc: "[GET_AST_BWC_COUNT][ENG.GetNameDefCap] svolává australského premiéra před Britskou válečnou radu. Světová situace je vážná, a Británie proto usiluje o společné strategie a vojenskou spolupráci se svými spojenci.\n\nAustrálie má však vlastní starosti. Můžeme obětovat trochu času premiéra, abychom uspokojili Brity?" # todo: CHANGED
  AST_diplomatic_events.20.a: "[AST.GetLeader] odjede do Británie."
  AST_diplomatic_events.20.b: "Je potřeba zde."
+ AST_bwc_count_2: "For the second time, [ENG.GetLeader] requests [AST.GetLeader]'s attendance, claiming that our close cooperation is what will determine the outcome of our common struggle.\n\n" # todo: NEW TRANSLATION
+ AST_bwc_count_3: "Yet again, [AST.GetLeader] is asked to cross the seas to maintain Commonwealth cooperation. Many more such requests are not expected, however, so long as we make clear whether our interests also lie with the common effort or in tending to our own affairs.\n\n" # todo: NEW TRANSLATION
+ AST_bwc_accept_effect_tt: "§YÚčinky přijetí předvolání 3×:§!" # todo: NEW TRANSLATION
+ AST_bwc_accept_tt: "Přijmout předvolání §Y[?var:AST_bwc_accept]§!/§Y3§! krát" # todo: NEW TRANSLATION
  AST_diplomatic_events.22.t: "Úspěšné příspěvky britskému válečnému kabinetu"
  AST_diplomatic_events.22.desc: "Během uplynulého roku se australský premiér pravidelně účastnil britského válečného kabinetu. Přestože za to [AST.GetNameDef] občas musí zaplatit cenu, náš národ nyní díky britské vojenské spolupráci zesílil."
  AST_diplomatic_events.22.a: "Nakonec ta cena stála za to."
@@ -815,7 +824,7 @@
  AST_diplomatic_events.43.a: "Když je naše pozornost jinde, bude to nejlepší."
  AST_diplomatic_events.43.b: "Odmítnutí je přesně to, co dostanou."
  AST_diplomatic_events.44.t: "Převod jihovýchodní Asie"
- AST_diplomatic_events.44.desc: "[ENG.GetNameDefCap] moudře souhlasí s převedením svých jihovýchodoasijských území na nás. Jak se australské hranice rozšiřují, náš vliv je následuje a je jen otázkou času, než nám svět bude ležet u nohou."
+ AST_diplomatic_events.44.desc: "[ENG.GetNameDefCap] rozumně souhlasil s předáním svých jihovýchodně asijských území nám. Jak se australské hranice rozšiřují, roste i náš vliv, a je jen otázkou času, než se svět stane naší ústřicí." # todo: CHANGED
  AST_diplomatic_events.44.a: "Budoucnost vypadá jasně."
  AST_diplomatic_events.45.t: "Jihovýchodní Asie zůstává beze změny"
  AST_diplomatic_events.45.desc: "[ENG.GetNameDefCap] odmítá převést svá jihovýchodoasijská území na nás. Přesto je pro nás přitažlivost ovládnutí regionu zjevná, a i když nám nebude patřit na žádost, může se jím ještě stát."
@@ -905,6 +914,23 @@
  AST_diplomatic_events.76.t: "[USA.GetNameDefCap] odmítá"
  AST_diplomatic_events.76.desc: "[USA.GetNameDefCap] nám odmítají vydat [PHI.GetNonIdeologyName]. Navzdory našim požadavkům a rostoucímu vlivu v Tichomoří Washington nadále odmítá vzdát se své držby tohoto území."
  AST_diplomatic_events.76.a: "To znamená válku."
+ AST_diplomatic_events.78.t: "[AST.GetName] žádá záruku proti obrovi" # todo: NEW TRANSLATION
+ AST_diplomatic_events.78.desc: "[AST.GetNameDefCap] sdílí s námi své odvážné cíle:\n\n'Stín [USA.GetNameDefCap] se nad námi vznáší a hrozí zasahovat, kdykoli naše činy nejsou v souladu s jeho zájmy. S globální mocí takových rozměrů vměšující se do australských a japonských záležitostí nebude Východní Asie nikdy skutečně naše. A tak se [AST.GetName] chystá do války.'\n\nPremiér [AST.GetLeader] dává své úmysly jasně najevo: [AST.GetName] hodlá se postavit [USA.GetNameDef] a žádá naši pomoc, pokud se Američané ukážou být příliš mocní, abychom je porazili sami." # todo: NEW TRANSLATION
+ AST_diplomatic_events.78.a: "Dáme jim záruku." # todo: NEW TRANSLATION
+ AST_diplomatic_events.78.b: "[JAP.GetNameDefCap] má své vlastní záležitosti, o něž se musí postarat." # todo: NEW TRANSLATION
+ AST_diplomatic_events.79.t: "[JAP.GetNameDefCap] garantuje [AST.GetName]" # todo: NEW TRANSLATION
+ AST_diplomatic_events.79.desc: "Není to jen pro nás jasné, že zasahování [USA.GetNameDef] do asijské a oceánské diplomacie je nežádoucí a nepřijatelné. [JAP.GetNameDefCap] souhlasilo s garancí naší země, čímž nám umožní hrdě nést naši vlajku proti nepřátelům, protože víme, že spojenec přiskočí na pomoc, pokud se Američané ukážou být příliš mocní, abychom je porazili sami." # todo: NEW TRANSLATION
+ AST_diplomatic_events.79.a: "Vyrážíme do války." # todo: NEW TRANSLATION
+ AST_diplomatic_events.80.t: "[JAP.GetNameDefCap] odmítá poskytnout záruku" # todo: NEW TRANSLATION
+ AST_diplomatic_events.80.desc: "Zasahování [USA.GetNameDefCap] do asijské a oceánské diplomacie je nežádoucí a nepřijatelné, ale zdá se, že to vidíme jen my. [JAP.GetNameDefCap] nám odmítá poskytnout záruku, což nás nutí postavit se nepřátelům bez jejich pomoci." # todo: NEW TRANSLATION
+ AST_diplomatic_events.80.a: "A tak učiníme." # todo: NEW TRANSLATION
+ AST_diplomatic_events.81.t: "Okouzlující symbol jednoty" # todo: NEW TRANSLATION
+ AST_diplomatic_events.81.desc: "Zájem britského premiéra o zvířata neunikl pozornosti nikoho; jeho sbírka je pozoruhodná. Jakýkoli přírůstek do jeho rozmanité zvířeny bude jistě oceněn, obzvláště když půjde o exotický exemplář.\n\nSám [ENG.GetLeader] projevil zájem o australského ptakopyska, a ač je jeho vývoz v současnosti zakázán kvůli rizikům pro zdraví při přepravě tohoto drobného tvora, možná by stálo za to udělat výjimku.\n\nMáme splnit přání premiéra jako symbol jednoty?" # todo: NEW TRANSLATION
+ AST_diplomatic_events.81.a: "[ENG.GetLeader] dostane svého ptakopyska." # todo: NEW TRANSLATION
+ AST_diplomatic_events.81.b: "Zákaz vývozu nebude zrušen, ani pro premiéra." # todo: NEW TRANSLATION
+ AST_diplomatic_events.82.t: "Tragická zpráva od [ENG.GetLeader]" # todo: NEW TRANSLATION
+ AST_diplomatic_events.82.desc: "Přepravní loď, která vyplula z přístavu v Melbourne před šesti týdny s kompletní přepravkou pro ptakopyska na palubě, dorazila do [ENG.GetNameDef]. Příjezd lodi však nebyl radostný, protože zvíře bylo nalezeno mrtvé. [ENG.GetLeader] oplakává svého ztraceného mazlíčka, kterému dokonce dal své jméno během očekávání jeho příjezdu, ale tvrdí, že za jeho smrt mohou nepřátelé. Prý výbuchy při útoku ponorky ptakopyska vyděsily k smrti.\n\nNicméně deník ošetřovatele ptakopyska ukazuje na jinou pravděpodobnou příčinu smrti: teploty vody a vzduchu v přepravce byly daleko nad přípustnými mezemi.\n\nTak či onak, ptakopysk, kterého [ENG.GetLeader] pojmenoval po sobě, je mrtvý a britský premiér zůstane bez ptakopyska." # todo: NEW TRANSLATION
+ AST_diplomatic_events.82.a: "To je opravdu smutná zpráva." # todo: NEW TRANSLATION
  AST_political_events.1.t: "Výzva k referendu"
  AST_political_events.1.desc: "Jsou dvě oblasti, v nichž se my jako vláda snažíme posílit federální kontrolu: letectví a marketing.\n\nPokud jde o letectví, cílem je změnit ústavu tak, aby parlament Commonwealthu získal pravomoc přijímat zákony týkající se letecké navigace a letadel.\n\nDodatek o marketingu má umožnit spolupráci mezi Commonwealthem a státy v oblasti marketingu, která je v současnosti ústavně nemožná.\n\nKe kterému z nich máme vyhlásit referendum?"
  AST_political_events.1.a: "K letectví, aby bylo možné regulovat celou [AST.GetAdjective] leteckou navigaci."
@@ -916,7 +942,7 @@
  AST_political_events.2.desc.b: "Veřejnost souhlasila s přijetím naší marketingové reformy. Díky pravomoci regulovat zemědělské produkty a jejich odbyt bude nyní vláda schopna stabilizovat trhy a zlepšit spolupráci mezi státy. Příjmy farmářů budou stabilnější - a stejně tak i národní ekonomika."
  AST_political_events.2.a: "Federální kontrola se rozšíří!"
  AST_political_events.4.t: "Premiér podlehl"
- AST_political_events.4.desc: "Premiér už dlouho strádal pod tlakem válečných příprav a nakonec jeho srdce už nedokázalo vydržet; [AST.GetLeader] zemřel na infarkt.\n\nVzhledem k současnému stavu světa bude jeho vedení bolestně chybět. Přesto musí Austrálie pokračovat bez něj."
+ AST_political_events.4.desc: "Vůdci [AST.GetName] dlouho tvrdě pracovali pod tlakem válečných příprav a nakonec tento tlak si vyžádal svou nejvyšší oběť; premiér zemřel na infarkt.\n\nVzhledem k současnému stavu světa bude jeho vedení velmi postrádáno. Austrálie však musí pokračovat s novým vůdcem v čele: [AST.GetLeader]." # todo: CHANGED
  AST_political_events.4.a: "Národní tragédie."
  AST_political_events.5.t: "Australská vláda přitvrzuje"
  AST_political_events.5.desc: "Vznikla skupina vzdorovitých a kontroverzních hlasů: hnutí Australia First. Vláda se obává, že jeho úmysly nemusí být zcela demokratické, a rozhodla se sledovat jak skupinu, tak její členy. Zásahy demokratů omezí naši schopnost organizace a zbrzdí nábor nových členů."
@@ -934,7 +960,7 @@
  AST_political_events.9.desc: "To, co začalo jako spor o nakládku surového železa, zažehlo něco mnohem většího. Dělníci po celé Austrálii odcházejí z práce na znamení solidarity a vzdorují vládě i průmyslu. Jak se stávky šíří a napětí roste, krize se vymyká kontrole a požaduje rezignaci těch, kdo jsou u moci. A tak vláda, která situaci naprosto nezvládla, přesně to udělá a ponechá pozici vládnoucí strany volnou pro [AST.GetCommunistParty]."
  AST_political_events.9.a: "A my si ji vezmeme."
  AST_canberra_air_disaster_events.1.t: "Canberrská letecká katastrofa"
- AST_canberra_air_disaster_events.1.desc: "Dříve dnes se přímo u Canberry zřítil letoun Lockheed Hudson. Mezi deseti lidmi na palubě, kteří všichni tragicky zahynuli, byli i tři vládní úředníci předvolaní na zasedání kabinetu.\n\nCo havárii způsobilo, je záhadou; počasí nabízelo ideální letové podmínky a let pilotoval zkušený důstojník RAAF, Flight Lieutenant Robert Hitchcock.\n\nBez ohledu na příčinu je to pochmurný den pro celý národ - v neposlední řadě pro rodiny a přátele obětí - a Austrálie nyní hledí ke svým vůdcům. Jak odpoví?"
+ AST_canberra_air_disaster_events.1.desc: "Dnes dopoledne havarovalo nedaleko Canberry letadlo Lockheed Hudson. Mezi deseti lidmi na palubě byli náčelník armády a jeho štáb, kteří se dostavovali na svolané zasedání kabinetu. Oni i posádka letadla všichni tragicky zahynuli.\n\nCo havárii způsobilo, je záhadou; počasí bylo pro let ideální a let vedl zkušený důstojník RAAF poručík Robert Hitchcock.\n\nBez ohledu na příčinu je to temný den pro celý národ — a zvláště pro rodiny a přátele obětí — a Austrálie nyní hledí ke svým vůdcům. Jak zareagují?" # todo: CHANGED
  AST_canberra_air_disaster_events.1.a: "Strašlivě tragická událost."
  AST_canberra_air_disaster_events.1.a.tt: "Odemkne rozhodnutí §Y$AST_cabinet_trust_cat$§! a §Ymisi§! k záchraně nebo odstranění úřadující vlády."
  AST_canberra_air_disaster_events.2.t: "[AST.GetRulingParty] obstála"
@@ -1021,6 +1047,7 @@
  ABDA_events.4.b: "Opevněte pozemní perimetr. Skutečná hrozba přijde po souši."
  ABDA_events.4.c: "Vyvážený přístup. Žádná cesta útoku nesmí zůstat nebráněná."
  ABDA_fortress_singapore_choice_tt: "Dokončení tohoto zaměření nabídne volbu, jak opevnit Singapur."
+ ABDA_faction_membership_requirement_tt: "Způsobilí členové frakce obdrží pozvánky k připojení." # todo: NEW TRANSLATION
  AST_diplomatic_events.46.t: "Převod suzerenity"
  AST_diplomatic_events.46.desc: "Ve snaze zvýšit společný vliv na diplomacii a konflikty v jihovýchodní Asii se [ENG.GetNameDefCap] převádí kontrolu nad našimi zeměmi do rukou [AST.GetNameDef]. Protože [AST.GetName] leží v tomto regionu, očekává se, že jejich suzerenita bude účinnější než britská."
  AST_diplomatic_events.46.a: "Zjevně do toho nemáme co mluvit."

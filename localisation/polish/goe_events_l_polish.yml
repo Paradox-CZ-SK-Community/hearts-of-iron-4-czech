@@ -812,8 +812,8 @@
  GOE_RAJ_news.3.t: "Umíráček Rádže"
  GOE_RAJ_news.3.desc: "Rozhodnutí obnovit Východoindickou společnost v Indii přijalo [?event_target:EIC_FORMER.GetNameDef] před několika lety s cílem stabilizovat upadající [RAJ.GetAdjective] hospodářství. Jelikož byl tento krok obecně považován za úspěšný i podle [?event_target:EIC_FORMER.GetAdjective] ekonomů, [?event_target:EIC_FORMER.GetAdjective] vláda oznámila, že s okamžitou platností bude zbývající území pod správou Rádže spravovat [RAJ.GetNameDefCap]. Správa Rádže bude zrušena, což umožní, aby [RAJ.GetNameDefCap] mohla spravovat celý subkontinent."
  GOE_RAJ_news.3.a: "Slibné."
- currentStateResistance: "  Aktuálně §R[?var:THIS.resistance]%§! odboje."
- currentStateCompliance: "  Aktuálně §Y[?var:THIS.compliance]%§! poslušnosti."
+ currentStateResistance: "  Aktuálně §R[?var:THIS.resistance|1]%§! odboj." # todo: CHANGED
+ currentStateCompliance: "  Aktuálně §Y[?var:THIS.compliance|1]%§! poslušnost." # todo: CHANGED
  GOE_RAJ_news.4.t: "Hindustán sjednocen"
  GOE_RAJ_news.4.desc: "[FROM.GetNameDef] dává na známost, že [FROM.GetLeader] vyhlásil sjednocení všech národů indického subkontinentu, čímž se otevírá nová kapitola v dějinách Asie i celého světa. Mnozí analytici již uvedli, že sjednocení Hindustánu může mít drastický dopad na světovou politiku a znamenat vzestup nové supervelmoci."
  GOE_RAJ_news.4.a: "Vskutku nová supervelmoc"

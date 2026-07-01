@@ -1,7 +1,6 @@
 ﻿l_polish:
  ABILITY_TOOLTIP_NAME: "$NAME|H$"
  ABILITY_TOOLTIP_NAME_CANCEL: "§RZrušit: $NAME|H$§!"
- ABILITY_TOOLTIP_OUT_OF_RANGE: "§RTato divize je mimo dosah schopnosti§!"
  ABILITY_TOOLTIP_DETAILED_COST: "    - Základní cena: $VALUE|H2$ (pro $UNITS|H0$ praporů)"
  ABILITY_TOOLTIP_DETAILED_COST_FACTOR: "    - Cena schopností: $FACTOR|+%$"
  ABILITY_TOOLTIP_DAILY_COST: "Denně: £command_power $VALUE|H2$"
@@ -35,6 +34,7 @@
  ABILITY_TOOLTIP_FIELD_MARSHAL_BULK_LEADER_UNAVAIL: " - §Y$LEADER$§! §Rnení dostupný§!"
  ABILITY_TOOLTIP_GRANTED_BY_FIELD_MARSHAL: "Tuto schopnost uděluje polní maršál §Y$NAME$§!."
  ABILITY_TOOLTIP_LATE_JOINER_WARNING: "Síla této schopnosti bude snížena, pokud budou do armády během jejího trvání přidány další divize."
+ ABILITY_TOOLTIP_LATE_JOINER_MULT: "Síla této schopnosti je snížena o $MULT|0-%$, protože během aktivace této schopnosti byly do armády přidány další prapory." # todo: NEW TRANSLATION
  ASSIGN_TARGET_LATE_JOINER_WARNING: "Přidání vybraných §Y$COUNT$§! praporů k této armádě uplatní dodatečný modifikátor ($MODIFIER|+%0$) na sílu aktuálně aktivních schopností: $NAMES$"
  ASSIGN_TARGET_LATE_JOINER_NAME: "§Y$NAME$§!"
  ABILITY_TOOLTIP_HEADER_SUMMARY: "£command_power §Y$COST|H2$§!  £clock_texticon §Y$DURATION$§!"
@@ -84,6 +84,7 @@
  ABILITY_FRONT_OVERRUN_DESC: "Vaše armáda bude při útočných manévrech ztrácet méně plánování a organizace, ale utrpí větší poškození"
  ABILITY_ROTATING_RESERVES: "Rotace záloh"
  ABILITY_ROTATING_RESERVES_DESC: "Záložní jednotky v boji budou častěji posilovat frontu"
+ ABILITY_TOOLTIP_OUT_OF_RANGE: "§RTato divize je mimo dosah schopnosti§!"
  ABILITY_FORCE_ATTACK_TOOLTIP: "Vynucený útok ($LEADER$)"
  ABILITY_LAST_STAND_TOOLTIP: "Poslední vzdor ($LEADER$)"
  ABILITY_TOOLTIP_COST: "Cena velitelské síly: $VALUE|H$"

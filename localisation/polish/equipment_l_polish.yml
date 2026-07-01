@@ -4202,8 +4202,8 @@
  INS_armored_car_equipment_0_short: "WF obrněný vůz"
  INS_mechanized_equipment_1: "Overalwagen"
  INS_mechanized_equipment_1_short: "Overalwagen"
- INS_mechanized_equipment_2: "Overalwagen II"
- INS_mechanized_equipment_2_short: "Overalwagen II"
+ INS_mechanized_equipment_2: "Útočný vůz II" # todo: CHANGED
+ INS_mechanized_equipment_2_short: "Útočný vůz II" # todo: CHANGED
  INS_mechanized_equipment_3: "Overalwagen Braat"
  INS_mechanized_equipment_3_short: "Overalwagen Braat"
  INS_infantry_equipment_0: "Mannlicher M95"

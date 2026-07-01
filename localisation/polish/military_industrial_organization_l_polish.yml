@@ -257,6 +257,7 @@
  mio_cat_eq_only_strategic_bomber: "Strategický bombardér"
  mio_cat_eq_all_cv_aircraft: "Všechna letadlová letadla"
  mio_cat_eq_all_artillery: "Veškeré dělostřelecké vybavení"
+ mio_cat_eq_only_artillery: "$artillery_equipment$" # todo: NEW TRANSLATION
  mio_cat_eq_all_infantry_and_support_equipment: "Veškeré pěchotní a podpůrné vybavení"
  mio_header_light_tank_department: "Oddělení lehkých tanků"
  mio_header_medium_tank_department: "Oddělení středních tanků"
