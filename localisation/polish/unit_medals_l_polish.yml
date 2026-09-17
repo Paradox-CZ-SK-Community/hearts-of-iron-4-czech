@@ -143,11 +143,11 @@
  COMMANDER_ROSTER_DIVISION_BUTTON: "Důstojníci"
  COMMANDER_ROSTER_DIVISION_TOOLTIP: "§HDůstojníci§!"
  COMMANDER_ROSTER_DIVISION_TOOLTIP_DELAYED: "Důstojníci jsou ti, kteří mají na starosti jednotky pod vaším velením. Mohou být povýšeni na generály."
- COMMANDER_ROSTER_DIVISION_TOOLTIP_HAS_CITATIONS: "$COUNT|H$ divizí získalo vyznamenání." # todo: NEW TRANSLATION
+ COMMANDER_ROSTER_DIVISION_TOOLTIP_HAS_CITATIONS: "$COUNT|H$ divizí získalo vyznamenání."
  COMMANDER_ROSTER_SHIP_BUTTON: "Kapitáni"
  COMMANDER_ROSTER_SHIP_TOOLTIP: "§HKapitáni§!"
  COMMANDER_ROSTER_SHIP_TOOLTIP_DELAYED: "Kapitáni velí lodím pod vaším velením. Mohou být povýšeni na admirály."
- COMMANDER_ROSTER_SHIP_TOOLTIP_HAS_CITATIONS: "$COUNT|H$ lodí získalo vyznamenání." # todo: NEW TRANSLATION
+ COMMANDER_ROSTER_SHIP_TOOLTIP_HAS_CITATIONS: "$COUNT|H$ lodí získalo vyznamenání."
  DIVISION_COMMANDER_EXPERIENCE_SORT: "Zk."
  PROMOTED_FROM_TOOLTIP_DESC: "$NAME$ byl povýšen do hodnosti generála po úspěšné polní kariéře ve velení $DATA$."
  PROMOTED_FROM_SHIP_TOOLTIP_DESC: "$NAME$ byl povýšen do hodnosti admirála po úspěšné kariéře ve velení posádce lodi $DATA$."

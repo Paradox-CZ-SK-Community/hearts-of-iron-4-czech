@@ -18,9 +18,9 @@
  INS_construction_boom: "Stavební rozmach"
  INS_plane_making: "Financování leteckého průmyslu"
  INS_tin_infrastructure_state: "Modernizovaná cínová infrastruktura"
- INS_economic_boom_idea: "Stavební boom po znárodnění" # todo: NEW TRANSLATION
- INS_national_committee_spirit: "Národní výbor" # todo: NEW TRANSLATION
- INS_national_committee_spirit_tt: "Upravuje §Y$INS_national_committee_spirit$§! o:" # todo: NEW TRANSLATION
+ INS_economic_boom_idea: "Stavební rozmach po znárodnění"
+ INS_national_committee_spirit: "Národní výbor"
+ INS_national_committee_spirit_tt: "Upraví §Y$INS_national_committee_spirit$§! o:"
  INS_outsourced_navy_idea: "Externí námořní výroba"
  INS_diverted_navy_funds_idea: "Upřednostnění námořnictva"
  INS_feint_uprising_state: "Klamné povstání"
@@ -81,7 +81,7 @@
  idea_INS_defend_java_til_death: "Opevnění Jávy"
  INS_evacuate_state: "Evakuační rozkaz"
  INS_stronghold_java_state: "Pevnost Batávie"
- INS_diverted_funding: "Přesměrované financování" # todo: NEW TRANSLATION
+ INS_diverted_funding: "Přesměrované prostředky"
  idea_INS_nefis: "NEFIS"
  idea_INS_nefis_no_lar: "NEFIS"
  idea_INS_japanese_symphasizers: "Japonští sympatizanti"
@@ -115,16 +115,16 @@
  INS_anti_colonialist_sentiment_idea_desc: "Indonéští revolucionáři působí v našem národě a šíří mezi veřejností propagandu, což vede k rostoucím protikoloniálním náladám."
  INS_revolutionaries_working_with_indonesians_idea: "Revolucionáři spolupracují s Indonésany"
  INS_revolutionaries_working_with_indonesians_idea_desc: "[ROOT.GetAdjectiveCap] komunisté byli přistiženi při komunikaci s indonéskými vůdci a jsou podezřelí z příprav ozbrojené revoluce."
- INS_the_minimum_program_idea: "Minimální program" # todo: NEW TRANSLATION
- INS_diverted_education_funding_idea: "Přesměrované financování školství" # todo: NEW TRANSLATION
- INS_pan_asian_economic_area_subject: "Panasijský hospodářský prostor" # todo: NEW TRANSLATION
- INS_pan_asian_economic_area_overlord: "$INS_pan_asian_economic_area_subject$" # todo: NEW TRANSLATION
- INS_revolutionary_economic_cooperation_modifier: "Revoluční hospodářská spolupráce" # todo: NEW TRANSLATION
- INS_the_three_year_plan_modifier: "Tříletý plán" # todo: NEW TRANSLATION
- INS_strenghtened_ins_jap_trade: "Posílený obchod mezi [INS.GetAdjective] a [JAP.GetAdjective]" # todo: NEW TRANSLATION
- INS_pancasila_achieved_idea: "$INS_pancasila_achieved$" # todo: NEW TRANSLATION
- INS_all_toward_the_war_effort_idea: "$INS_all_toward_the_war_effort$" # todo: NEW TRANSLATION
- INS_inter_province_trade_idea: "$INS_indonesian_inter_province_trade_agreement$" # todo: NEW TRANSLATION
+ INS_the_minimum_program_idea: "Minimální program"
+ INS_diverted_education_funding_idea: "Přesměrované prostředky na vzdělávání"
+ INS_pan_asian_economic_area_subject: "Panasijský hospodářský prostor"
+ INS_pan_asian_economic_area_overlord: "$INS_pan_asian_economic_area_subject$"
+ INS_revolutionary_economic_cooperation_modifier: "Revoluční hospodářská spolupráce"
+ INS_the_three_year_plan_modifier: "Tříletý plán"
+ INS_strenghtened_ins_jap_trade: "Posílený [INS.GetAdjective] a [JAP.GetAdjective] obchod"
+ INS_pancasila_achieved_idea: "$INS_pancasila_achieved$"
+ INS_all_toward_the_war_effort_idea: "$INS_all_toward_the_war_effort$"
+ INS_inter_province_trade_idea: "$INS_indonesian_inter_province_trade_agreement$"
  idea_SIA_civilian_full_support: "Civilní křídlo: §Gplná podpora§!"
  idea_SIA_civilian_full_support_desc: "Civilní křídlo pevně stojí za vládou. Správci a technokraté poskytují své odborné znalosti a pohánějí rozvoj kupředu."
  idea_SIA_civilian_slight_support: "Civilní křídlo: mírná podpora"
@@ -231,8 +231,8 @@
  idea_SIA_a_constituional_monarchy: "Konstituční monarchie"
  idea_SIA_a_constituional_monarchy_desc: "Ústavní rámec vymezuje hranice královské moci a zakotvuje práva lidu. S korunou jako sjednocujícím symbolem, nikoli absolutní autoritou, se národ stává stabilnějším, otevřenějším novým myšlenkám a sladěnějším s demokratickým světem."
  idea_SIA_restoring_order: "Obnova pořádku"
- idea_SIA_japanese_fighter_instruction: "Výcvik stíhačů Japonci" # todo: NEW TRANSLATION
- idea_SIA_japanese_fighter_instruction_desc: "Instruktoři z letecké služby Císařské japonské armády cvičí naše piloty a seznamují naše inženýry s konstrukcí vlastních stíhacích letounů. To, co po sobě zanechají v našich zápisnících, přežije jejich pobyt." # todo: NEW TRANSLATION
+ idea_SIA_japanese_fighter_instruction: "Japonský stíhací výcvik"
+ idea_SIA_japanese_fighter_instruction_desc: "Instruktoři letecké služby japonské císařské armády cvičí naše piloty a seznamují naše inženýry s vlastními konstrukcemi stíhacích letounů. Poznatky, které po sobě zanechají v našich zápisnících, přetrvají mnohem déle než jejich pobyt."
  idea_SIA_military_expansion_costs: "Náklady na vojenskou expanzi"
  idea_SIA_a_modern_economy: "Moderní hospodářství"
  idea_SIA_death_to_communists: "Smrt komunistům"
@@ -324,27 +324,27 @@
  AST_toe_the_line_spirit: "Držet se linie"
  AST_toe_the_line_spirit_desc: "Stát vyzval k obětem a obyvatelstvo odpovědělo. Přídělový systém, delší pracovní doba a přesměrování civilní výroby k národnímu úsilí uvolnily zdroje, které by vláda jinak neměla jak získat. Jde o přísné uspořádání, a ne všeobecně oblíbené."
  AST_defying_american_interference_idea: "$AST_defying_american_interference$"
- AST_new_guard_spirit: "Nová garda" # todo: NEW TRANSLATION
- AST_new_guard_spirit_desc: "Po několika letech nečinnosti byla prominentní polovojenská organizace Nová garda nucena znovu zasáhnout do dění, aby čelila znovu sílícím nepřátelům.\n\nAčkoli některé odštěpenecké skupiny mohou prosazovat extremistické cíle, organizace se znovu ujímá úkolu udržovat veřejný pořádek potlačováním komunismu a hájením britských monarchistických ideálů." # todo: NEW TRANSLATION
- AST_new_guard_spirit_tt: "Členové Nové gardy: §Y[?AST_ng_members_var|0]§!\nDenní přírůstek členů: §Y[?AST_ng_daily_var|0]§!\n\nHnutí má maximální kapacitu §Y50 000§! členů" # todo: NEW TRANSLATION
- AST_add_ng_fascist_tt: "Odhalí zaměření:\n§Y$AST_campbells_men$\n$AST_the_commander_returns$§!" # todo: NEW TRANSLATION
- AST_new_guard_spirit_modify: "Upravuje §Y$AST_new_guard_spirit$§! o:\n Členové Nové gardy: §Y2500§!\n Denní přírůstek členů: §Y10§!" # todo: NEW TRANSLATION
- AST_fascist_legion_spirit: "Fašistická legie" # todo: NEW TRANSLATION
- AST_fascist_legion_spirit_desc: "Odštěpenecká skupina Nové gardy prokázala, že sdílí více vládních názorů než samotná Nová garda. Fašistická legie, jíž Campbell svěřil státní zdroje, se nyní ujímá důležitého úkolu chránit jednotu civilního obyvatelstva odhalováním politického nesouhlasu." # todo: NEW TRANSLATION
- AST_monarchist_intervention_spirit: "[GET_AST_MONARCHIST_INTERVENTION_SPIRIT]" # todo: NEW TRANSLATION
- AST_monarchist_intervention_spirit_desc: "[GET_AST_MONARCHIST_INTERVENTION_SPIRIT_DESC]" # todo: NEW TRANSLATION
- AST_the_crown_intervenes_spirit: "Koruna zasahuje" # todo: NEW TRANSLATION
- AST_the_crown_intervenes_spirit_desc: "$AST_the_crown_intervenes_desc$" # todo: NEW TRANSLATION
- AST_a_monarchist_appeal_spirit: "Monarchistická výzva" # todo: NEW TRANSLATION
- AST_a_monarchist_appeal_spirit_desc: "$AST_a_monarchist_appeal_desc$" # todo: NEW TRANSLATION
+ AST_new_guard_spirit: "Nová garda"
+ AST_new_guard_spirit_desc: "Po několika letech nečinnosti byla významná polovojenská organizace Nová garda donucena znovu vstoupit do boje proti znovu sílícím nepřátelům.\n\nAčkoli některé odštěpenecké skupiny mohou prosazovat extremistické cíle, organizace se opět ujímá úkolu udržovat veřejný pořádek potlačováním komunismu a obhajobou britských monarchistických ideálů."
+ AST_new_guard_spirit_tt: "Členové Nové gardy: §Y[?AST_ng_members_var|0]§!\nDenní přírůstek členů: §Y[?AST_ng_daily_var|0]§!\n\nHnutí může mít maximálně §Y50 000§! členů"
+ AST_add_ng_fascist_tt: "Odhalí Zaměření:\n§Y$AST_campbells_men$\n$AST_the_commander_returns$§!"
+ AST_new_guard_spirit_modify: "Upraví §Y$AST_new_guard_spirit$§! o:\n Členové Nové gardy: §Y2500§!\n Denní přírůstek členů: §Y10§!"
+ AST_fascist_legion_spirit: "Fašistická legie"
+ AST_fascist_legion_spirit_desc: "Jedna odštěpenecká skupina Nové gardy prokázala, že sdílí názory vlády více než samotná Nová garda. Fašistická legie, které Campbell svěřil státní prostředky, se nyní ujímá důležitého úkolu chránit jednotu obyvatelstva potíráním politického odporu."
+ AST_monarchist_intervention_spirit: "[GET_AST_MONARCHIST_INTERVENTION_SPIRIT]"
+ AST_monarchist_intervention_spirit_desc: "[GET_AST_MONARCHIST_INTERVENTION_SPIRIT_DESC]"
+ AST_the_crown_intervenes_spirit: "Koruna zasahuje"
+ AST_the_crown_intervenes_spirit_desc: "$AST_the_crown_intervenes_desc$"
+ AST_a_monarchist_appeal_spirit: "Monarchistická výzva"
+ AST_a_monarchist_appeal_spirit_desc: "$AST_a_monarchist_appeal_desc$"
  AST_investigation_branch: "Vyšetřovací odbor"
  AST_TAOG_central_bureau: "Ústřední úřad"
  AST_invasion_planning: "Plánování invaze"
  AST_invasion_planning_desc: "§YPři odstranění§!:\nPřidá §Y$AST_war_plan_japan$§!.\n"
  AST_war_plan_japan: "Válečný plán Japonsko"
- AST_war_strategy: "Válečná strategie" # todo: NEW TRANSLATION
- AST_australias_glorious_fleet: "Slavné australské loďstvo" # todo: NEW TRANSLATION
- AST_australias_glorious_fleet_desc: "Australské námořnictvo se dlouho připravovalo na chvíli, kdy bude čelit jiné námořní mocnosti, a zdá se, že touto mocností jsme my." # todo: NEW TRANSLATION
+ AST_war_strategy: "Válečná strategie"
+ AST_australias_glorious_fleet: "Slavná australská flotila"
+ AST_australias_glorious_fleet_desc: "Australské námořnictvo se dlouho připravovalo na okamžik, kdy se střetne s jinou námořní mocností, a jak se zdá, tou mocností jsme my."
  AST_australian_culture_investments_idea: "Investice do australské kultury"
  AST_australian_culture_investments_idea_desc: "§W§YPři odstranění§!:\nPřidá §Y$AST_a_sense_of_place$§!, který poskytuje\nStabilita: §G+10.00 %§!\nVálečná podpora: §G+10.00 %§!.§!\n"
  AST_a_sense_of_place: "Pocit domova"
@@ -382,10 +382,10 @@
  AST_eminent_successors_spirit_desc: "Jmenováním několika významných nástupců můžeme stabilizovat vládu a obnovit důvěru veřejnosti i našich ministrů."
  AST_australia_first_spirit: "Austrálie především"
  AST_australia_first_spirit_tt: "Upraví §Y$AST_australia_first_spirit$§! o:"
- AST_for_crown_and_country_spirit: "Za korunu a zemi" # todo: NEW TRANSLATION
- AST_for_crown_and_country_spirit_tt: "Upravuje §Y$AST_for_crown_and_country_spirit$§! o:" # todo: NEW TRANSLATION
- AST_australia_first_rename_tt: "Přejmenuje §Y$AST_australia_first_spirit$§! na §Y$AST_for_crown_and_country_spirit$§!" # todo: NEW TRANSLATION
- AST_crowns_council_spirit: "Korunní rada" # todo: NEW TRANSLATION
+ AST_for_crown_and_country_spirit: "Za korunu a vlast"
+ AST_for_crown_and_country_spirit_tt: "Upraví §Y$AST_for_crown_and_country_spirit$§! o:"
+ AST_australia_first_rename_tt: "Přejmenuje §Y$AST_australia_first_spirit$§! na §Y$AST_for_crown_and_country_spirit$§!"
+ AST_crowns_council_spirit: "Korunní rada"
  AST_imperial_pressure_spirit: "Imperiální nátlak"
  AST_imperial_pressure_spirit_desc: "Kvůli nedávným událostem již nelze popírat, že se australská politika posouvá směrem nevhodným pro národ pod záštitou Britského společenství. [ENG.GetNameDefCap] se pokusí navést náš národ zpět na předurčenou cestu, ale jejich trpělivost nemusí být věčná.\n\n§WBude odstraněno, jakmile §Y[AST.GetName]§! nebude §Y[ENG.GetAdjecive]§! subjektem§!"
  AST_imperial_pressure_spirit_tt: "Upraví §Y$AST_imperial_pressure_spirit$§! o:"

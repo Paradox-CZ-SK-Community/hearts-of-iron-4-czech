@@ -13,7 +13,7 @@
  ABILITY_TOOLTIP_HEADER_COST_ONLY_UNAFFORDABLE: "£command_power §R$COST|H2$§!"
  ABILITY_TOOLTIP_IS_ALREADY_ACTIVE: "§RSchopnost je již aktivní.§!"
  ABILITY_TOOLTIP_IS_IN_COOLDOWN: "§RSchopnost se obnovuje.§!"
- ABILITY_LEADER_CANNOT_USE_ABILITIES: "$LEADER|Y$ §Rje nemocný nebo zraněný§!" # todo: CHANGED
+ ABILITY_LEADER_CANNOT_USE_ABILITIES: "$LEADER|Y$ §Rje nemocný nebo zraněný§!"
  ABILITY_TOOLTIP_COOLDOWN: "Obnovení: £clock_texticon $VALUE|H$"
  ABILITY_DURATION_INFINITE: "£infinity_icon!"
  ABILITY_TOOLTIP_ALREADY_ACTIVE_GROUP: "§RTato schopnost je již aktivní na úrovni skupiny armád.§!"
@@ -32,8 +32,8 @@
  ABILITY_TOOLTIP_FIELD_MARSHAL_BULK_COOLDOWN_NO_DUR: " - Prodleva pro §Y$LEADER$§!"
  ABILITY_TOOLTIP_FIELD_MARSHAL_BULK_CANNOT_USE: " - §Y$LEADER$§! §Rnemá nasazené Armádní velitelství§!"
  ABILITY_TOOLTIP_FIELD_MARSHAL_BULK_LEADER_UNAVAIL: " - §Y$LEADER$§! §Rnení dostupný§!"
- ABILITY_TOOLTIP_FIELD_MARSHAL_BULK_UNAVAILABLE: " - §RTato schopnost není dostupná pro§! $LEADER|Y$" # todo: NEW TRANSLATION
- ABILITY_TOOLTIP_FIELD_MARSHAL_BULK_WOUNDED: " - $LEADER|Y$ §Rje nemocný nebo zraněný§!" # todo: NEW TRANSLATION
+ ABILITY_TOOLTIP_FIELD_MARSHAL_BULK_UNAVAILABLE: " - §RTato schopnost není dostupná pro§! $LEADER|Y$"
+ ABILITY_TOOLTIP_FIELD_MARSHAL_BULK_WOUNDED: " - $LEADER|Y$ §Rje nemocný nebo zraněný§!"
  ABILITY_TOOLTIP_GRANTED_BY_FIELD_MARSHAL: "Tuto schopnost uděluje polní maršál §Y$NAME$§!."
  ABILITY_TOOLTIP_LATE_JOINER_WARNING: "Síla této schopnosti bude snížena, pokud budou do armády během jejího trvání přidány další divize."
  ABILITY_TOOLTIP_LATE_JOINER_MULT: "Síla této schopnosti je snížena o $MULT|0-%$, protože během trvání této schopnosti byly do armády přidány další divize."

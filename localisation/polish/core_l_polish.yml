@@ -101,10 +101,10 @@
  CONFIRMDELETETITLE: "Smazat soubor"
  CONFIRMDELETETEXT: "Jste si jisti, že chcete §RROZPUSTIT§! $NAME$?"
  CONFIRMDELETETEXT_NAVY: "Opravdu chcete §RODSTRANIT§! $NAME$?"
- CONFIRMDELETETEXT_HQ_WITHDRAW_LINE: "§YVelitelství armády§! země $NAME|Y$ bude §RSTAŽENO§!." # todo: CHANGED
- CONFIRMDELETETEXT_HQ_WITHDRAW_STUCK_LINE: "§YVelitelství armády§! země $NAME|Y$ se začne stahovat, ale nebude moci stažení dokončit, protože §Rnemá ústupovou cestu do bezpečí§!." # todo: NEW TRANSLATION
- CONFIRMUNASSIGN_HQ_WITHDRAW_LINE: "§YVelitelství armády§! země $NAME|Y$ bude také §RSTAŽENO§!." # todo: CHANGED
- CONFIRMUNASSIGN_HQ_WITHDRAW_STUCK_LINE: "§YVelitelství armády§! země $NAME|Y$ se také začne stahovat, ale nebude moci stažení dokončit, protože §Rnemá ústupovou cestu do bezpečí§!." # todo: NEW TRANSLATION
+ CONFIRMDELETETEXT_HQ_WITHDRAW_LINE: "§YArmádní velitelství§! $NAME|Y$ bude §RSTAŽENO§!."
+ CONFIRMDELETETEXT_HQ_WITHDRAW_STUCK_LINE: "§YArmádní velitelství§! $NAME|Y$ se začne stahovat, ale nebude moci ústup dokončit, protože §Rnemá bezpečnou ústupovou trasu§!."
+ CONFIRMUNASSIGN_HQ_WITHDRAW_LINE: "§YArmádní velitelství§! $NAME|Y$ bude rovněž §RSTAŽENO§!."
+ CONFIRMUNASSIGN_HQ_WITHDRAW_STUCK_LINE: "§YArmádní velitelství§! $NAME|Y$ se rovněž začne stahovat, ale nebude moci ústup dokončit, protože §Rnemá bezpečnou ústupovou trasu§!."
  CONFIRMDELETETEXT_RETURNDESC: "§YVybavení§! bude vráceno do §Yskladu§! a §Ypersonál§! se vrátí zpět do §Yzásoby personálu§!."
  CONFIRMDELETETEXT_EXPEDITIONARY_SINGLE: "§Y1§! divize §Yexpedičních sil§! bude poslána domů."
  CONFIRMDELETETEXT_EXPEDITIONARY_MULTI: "§Y$NUM$§! divizí §Yexpedičních sil§! bude posláno domů."
@@ -1594,7 +1594,7 @@
  DLC_IS_ENABLED: "$DLC|Y$ je povolené."
  DLC_IS_NOT_ENABLED: "$DLC|Y$ není aktivováno."
  DLC_MISSING: "Tato hra nemůže být spuštěna, dokud nebudou chybějící DLC znovu aktivovány:\n"
- DLC_TO_DISABLE: "Tuto hru nelze spustit, dokud nebudou tyto balíčky DLC znovu deaktivovány:\n" # todo: NEW TRANSLATION
+ DLC_TO_DISABLE: "Tuto hru nelze spustit, dokud nebudou následující DLC znovu deaktivována:\n"
  SAVED_GAME_RULES_DLC_MISSING: "Chybějící DLC:\n"
  DLC_MISSING_ITEM: "$NAME|R$"
  MODS_MISSING: "Chybějící mody:\n"

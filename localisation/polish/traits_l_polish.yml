@@ -2423,8 +2423,8 @@
  INS_returned_from_moscow: "Navrátilec z Moskvy"
  INS_comintern_agent: "Agent Kominterny"
  INS_leader_of_the_people: "Vůdce lidu"
- INS_leader_of_the_people_2: "$INS_leader_of_the_people$" # todo: NEW TRANSLATION
- INS_leader_of_the_people_fascist: "$INS_leader_of_the_people$" # todo: NEW TRANSLATION
+ INS_leader_of_the_people_2: "$INS_leader_of_the_people$"
+ INS_leader_of_the_people_fascist: "$INS_leader_of_the_people$"
  INS_leader_of_the_people_advisor: "$INS_leader_of_the_people$"
  INS_compromising_centrist: "Kompromisní centrista"
  INS_the_proclamator: "Proklamátor"
@@ -2524,8 +2524,8 @@
  AST_dated_communist_leader: "Zastaralý komunistický vůdce"
  AST_a_sound_voice_trait: "Rozumný hlas"
  AST_reliable: "Spolehlivý"
- AST_the_commander: "Velitel" # todo: NEW TRANSLATION
- AST_king_of_australia: "Král Austrálie" # todo: NEW TRANSLATION
+ AST_the_commander: "Velitel"
+ AST_king_of_australia: "Král Austrálie"
  AST_motherland_advocate_leader: "Obhájce mateřské země"
  AST_motherland_advocate_pa: "Obhájce mateřské země"
  AST_the_matriarch_leader: "Matriarcha"

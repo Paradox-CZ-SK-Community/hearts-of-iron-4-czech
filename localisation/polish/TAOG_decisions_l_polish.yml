@@ -1,11 +1,11 @@
 ﻿l_polish:
- SIA_free_thai_air_network_cat: "Síť svobodného Thajska" # todo: NEW TRANSLATION
- SIA_recover_downed_airmen: "Zachránit sestřelené letce" # todo: NEW TRANSLATION
- SIA_recover_downed_airmen_desc: "Naše podzemní síť ukryje a odvede spojenecké letce sestřelené nad thajským územím." # todo: NEW TRANSLATION
- SIA_establish_mountain_weather_posts: "Zřídit horské meteorologické stanice" # todo: NEW TRANSLATION
- SIA_establish_mountain_weather_posts_desc: "Skryté stanice na vysočině budou vysílat meteorologické zprávy, které spojenecké letectvo zoufale potřebuje." # todo: NEW TRANSLATION
- SIA_smuggle_radio_sets: "Propašovat vysílačky do vnitrozemí" # todo: NEW TRANSLATION
- SIA_smuggle_radio_sets_desc: "Nenápadná síť vysílaček udrží odboj a jeho zahraniční přátele v kontaktu." # todo: NEW TRANSLATION
+ SIA_free_thai_air_network_cat: "Letecká síť Svobodného Thajska"
+ SIA_recover_downed_airmen: "Zachránit sestřelené letce"
+ SIA_recover_downed_airmen_desc: "Naše podzemní hnutí poskytne úkryt spojeneckým letcům sestřeleným nad thajským územím a tajně je dopraví do bezpečí."
+ SIA_establish_mountain_weather_posts: "Zřídit horské meteorologické stanice"
+ SIA_establish_mountain_weather_posts_desc: "Skryté stanice v horách budou rádiem vysílat zprávy o počasí, které spojenecké letectvo tolik potřebuje."
+ SIA_smuggle_radio_sets: "Propašovat radiostanice do vnitrozemí"
+ SIA_smuggle_radio_sets_desc: "Nenápadná síť radiostanic zajistí spojení mezi odbojem a jeho zahraničními přáteli."
  HOL_recall_conrad_helfrich: "Povolat Conrada Helfricha z Indií"
  HOL_recall_conrad_helfrich_desc: "V těchto naléhavých časech musíme upřednostnit vlast nade vše ostatní. Conrad Helfrich se jako nejlepší admirál Královského nizozemského námořnictva musí vrátit do Nizozemska."
  INS_is_taking_volksraad: "Právě schvaluje zákon ve Volksraadu"
@@ -31,9 +31,9 @@
  indonesia_volksraad_official_flag_effect_tt: "Naše vlajka bude změněna na červeno-bílou vlajku."
  INS_volksraad_official_flag_desc: "Návrhy ve Volksraadu prosazující autonomii nakonec uspěly a to, čemu se ještě před několika lety říkalo Nizozemská východní Indie, je nyní Indonéské dominium. Naše vlajka by měla být upravena tak, aby tyto změny odrážela."
  indonesia_volksraad_passed_6: "Přijal antidiskriminační zákony v armádě"
- recognize_maphilindo: "$form_maphilindo$" # todo: NEW TRANSLATION
- form_majapahit_empire_flag: "Vytvořila Nusantaru" # todo: NEW TRANSLATION
- phillipines_integrated: "Integrovala Filipíny" # todo: NEW TRANSLATION
+ recognize_maphilindo: "$form_maphilindo$"
+ form_majapahit_empire_flag: "Vytvořena Nusantara"
+ phillipines_integrated: "Filipíny integrovány"
  INS_autonomy_indonesian_in_schools: "Indonéština povolena ve školách"
  INS_autonomy_indonesian_in_govenment: "Indonéština povolena ve vládě"
  INS_autonomy_no_education_quotas: "Vzdělávací kvóty zrušeny"
@@ -153,7 +153,7 @@
  INS_abandon_mission: "Opustit misi"
  INS_abandon_mission_desc: "Naše zdroje nejsou neomezené a pro [FROM.GetNameDef] je toho zapotřebí víc, než si momentálně můžeme dovolit poskytnout. Stáhneme své agenty a přesměrujeme své úsilí tam, kde je ho nejvíce zapotřebí."
  INS_aslia_cat: "Sjednocení Pacifiku"
- INS_maphilindo_speech_ingration: "Anexovat subjekt" # todo: NEW TRANSLATION
+ INS_maphilindo_speech_ingration: "Anektovat subjekt"
  INS_integrate_subject: "Integrovat [FROM.GetName]"
  INS_integrate_subject_in_progress: "Již integruje subjekt"
  INS_can_raid_here_HOL: "Stát dostupný pro nájezd"
@@ -173,15 +173,15 @@
  INS_limited_wars_cat: "Omezené války"
  INS_start_limited_war_malaya: "Zahájit omezenou válku v Malajsii"
  INS_limited_war_malaya: "Konfrontasi!"
- INS_start_limited_war_borneo: "Zahájit omezenou válku na Severním Borneu" # todo: NEW TRANSLATION
- INS_limited_war_borneo: "Ganyang Borneo!" # todo: NEW TRANSLATION
- INS_borneo_puppet_cat: "Federace Severního Bornea" # todo: NEW TRANSLATION
- INS_release_puppet_sarawak: "Vyhlásit Sarawacké rádžasthví" # todo: NEW TRANSLATION
- INS_release_puppet_sarawak_desc: "Uvolnit §YSarawak§! jako integrovaného člena Indonéské unie." # todo: NEW TRANSLATION
- INS_release_puppet_brunei: "Obnovit sultanát Brunej" # todo: NEW TRANSLATION
- INS_release_puppet_brunei_desc: "Uvolnit §YBrunej§! jako integrovaného člena Indonéské unie." # todo: NEW TRANSLATION
- INS_release_puppet_sabah: "Vyhlásit republiku Sabah" # todo: NEW TRANSLATION
- INS_release_puppet_sabah_desc: "Uvolnit §YSabah§! jako integrovaného člena Indonéské unie." # todo: NEW TRANSLATION
+ INS_start_limited_war_borneo: "Zahájit omezenou válku v Severním Borneu"
+ INS_limited_war_borneo: "Ganyang Borneo!"
+ INS_borneo_puppet_cat: "Federace Severního Bornea"
+ INS_release_puppet_sarawak: "Vyhlásit Sarawacký rádž"
+ INS_release_puppet_sarawak_desc: "Uvolní §YSarawak§! jako plně integrovaného člena Indonéského svazu."
+ INS_release_puppet_brunei: "Obnovit Brunejský sultanát"
+ INS_release_puppet_brunei_desc: "Uvolní §YBrunej§! jako plně integrovaného člena Indonéského svazu."
+ INS_release_puppet_sabah: "Vyhlásit Republiku Sabah"
+ INS_release_puppet_sabah_desc: "Uvolní §YSabah§! jako plně integrovaného člena Indonéského svazu."
  INS_revolution_penalty_reduce_tt: "§YPokud bude toto rozhodnutí přijato při eskalaci 7, neobdržíme postihy§!."
  INS_revolution_penalty_reduce_tt_2: "§RPostihy budou odstraněny, pokud počkáme do eskalace §Y8§!§!."
  INS_increase_escalation_1_tt: "Zvýší §Yúroveň eskalace§! o §R1§!"
@@ -314,10 +314,10 @@
  INS_set_leader_to_INS_syarif_kasim: "Zvolit $INS_syarif_kasim$"
  INS_will_keep_characters_tt: "V případě nezávislosti si ponecháme §Yvšechny§! nizozemské postavy."
  INS_will_not_keep_characters_tt: "V případě nezávislosti si ponecháme §Yněkteré§! nizozemské postavy."
- INS_the_co_prosperity_sphere_cat: "$INS_the_co_prosperity_sphere$" # todo: NEW TRANSLATION
- INS_assume_complete_power: "Převzít úplnou moc" # todo: NEW TRANSLATION
- INS_request_membership: "Požádat o členství" # todo: NEW TRANSLATION
- INS_request_membership_tt: "Je pravděpodobnější, že přijmou, pokud sdílíme §Yideologii§!" # todo: NEW TRANSLATION
+ INS_the_co_prosperity_sphere_cat: "$INS_the_co_prosperity_sphere$"
+ INS_assume_complete_power: "Převzít plnou moc"
+ INS_request_membership: "Požádat o členství"
+ INS_request_membership_tt: "Je pravděpodobnější, že přijmou, pokud sdílíme §Yideologii§!"
  SIA_war_fervor_cat: "Válečné nadšení"
  SIA_war_fervor_cat_desc: "Touha lidu po konfliktu musí být pečlivě řízena. Pokud zůstane bez kontroly, válečné nadšení se obrátí dovnitř - vláda, která rozněcuje bojového ducha, aniž by mu dala směr, riskuje, že se sama stane jeho dalším cílem."
  SIA_war_fervor_coup_dummy: "Válečné nadšení překypuje"
@@ -609,23 +609,23 @@
  AST_make_a_common_enemy_tt: "§RMožné účinky události:§!"
  AST_ensure_cabinet_loyalty: "Zajistit loajalitu kabinetu"
  AST_ensure_cabinet_loyalty_desc: "Hrozba vyslovení nedůvěry nepředstavuje žádné nebezpečí, pokud většina kabinetu hlasuje ve prospěch úřadující vlády. Zajistíme loajalitu kabinetu."
- AST_monarchist_intervention: "[GET_AST_MONARCHIST_INTERVENTION]" # todo: NEW TRANSLATION
- AST_monarchist_intervention_desc: "[GET_AST_MONARCHIST_INTERVENTION_DESC]" # todo: NEW TRANSLATION
- AST_the_crown_intervenes: "Koruna zasahuje" # todo: NEW TRANSLATION
- AST_the_crown_intervenes_desc: "Nová garda, ochránci země a pořádku, je zděšena současným chaosem. Její přední představitelé, vedeni svým britským dědictvím a monarchistickými ideály, navázali kontakt s britskými představiteli a požádali je o pomoc.\n\nNyní se Nová garda obrací na [AST.GetAdjective] vládu: přivítejte britský zásah." # todo: NEW TRANSLATION
- AST_a_monarchist_appeal: "Monarchistická výzva" # todo: NEW TRANSLATION
- AST_a_monarchist_appeal_desc: "Nová garda, ochránci země a pořádku, je zděšena současným chaosem. Její přední představitelé, vedeni svým britským dědictvím a monarchistickými ideály, se obávají, že Austrálie se vydá stejnou cestou jako [ENG.GetNameDef], kde národní a politický chaos vedly ke konci Britského společenství, jak jej známe, i jeho monarchie.\n\nNyní se Nová garda obrací na generálního guvernéra, aby provedl zemi touto možnou ústavní krizí, aniž by spěchal s vytvořením nové vlády nebo zatím dovolil staré znovu převzít kontrolu. Možná nastal čas, aby [AST.GetName] uctila tradice, které [ENG.GetNameDef] zanechala, a aby našemu národu vládla ve slávě a jednotě." # todo: NEW TRANSLATION
- AST_the_crown_intervenes_trigger_tt: "Více než §Y15 000§! členů Nové gardy" # todo: NEW TRANSLATION
- AST_add_the_crown_intervenes_tt: "Odhalit zaměření:\nVětev §Y$AST_for_crown_and_empire$§!\n§Y$AST_the_kings_men$§!" # todo: NEW TRANSLATION
- AST_remove_the_crown_intervenes_tt: "Odstranit zaměření:\nVětev §Y$AST_for_crown_and_empire$§!\n§Y$AST_the_kings_men$§!" # todo: NEW TRANSLATION
+ AST_monarchist_intervention: "[GET_AST_MONARCHIST_INTERVENTION]"
+ AST_monarchist_intervention_desc: "[GET_AST_MONARCHIST_INTERVENTION_DESC]"
+ AST_the_crown_intervenes: "Koruna zasahuje"
+ AST_the_crown_intervenes_desc: "Nová garda, ochránci země a pořádku, je znepokojena současným chaosem. Její přední členové, vedeni svým britským dědictvím a monarchistickými ideály, navázali kontakt s britskými představiteli a požádali je o pomoc.\n\nNyní Nová garda vyzývá [AST.GetAdjective] vládu, až přijmě britský zásah."
+ AST_a_monarchist_appeal: "Monarchistická výzva"
+ AST_a_monarchist_appeal_desc: "Nová garda, ochránci země a pořádku, je znepokojena současným chaosem. Její přední členové, vedeni svým britským dědictvím a monarchistickými ideály, se obávají, že Austrálie může vykročit stejnou cestou jako [ENG.GetNameDef], kde národní a politický rozvrat vedl ke konci Britského společenství, jak jsme jej znali, a spolu s ním i monarchie.\n\nNyní Nová garda vyzývá generálního guvernéra, aby zemi provedl touto možnou ústavní krizí, aniž by uspěchal vytvoření nové vlády či prozatím dovolil té staré znovu převzít moc. Možná nastal čas, ať [AST.GetName] ctí tradice, které po sobě [ENG.GetNameDef] zanechává, a aby náš národ žil pod vládou slávy a jednoty."
+ AST_the_crown_intervenes_trigger_tt: "Více než §Y15 000§! členů Nové gardy"
+ AST_add_the_crown_intervenes_tt: "Odhalí Zaměření:\nVětev §Y$AST_for_crown_and_empire$§!\n§Y$AST_the_kings_men$§!"
+ AST_remove_the_crown_intervenes_tt: "Odstraní Zaměření:\nVětev §Y$AST_for_crown_and_empire$§!\n§Y$AST_the_kings_men$§!"
  AST_castle_crumbling_mission: "Hroutící se hrad"
  AST_castle_crumbling_mission_desc: "Austrálie se po tragické letecké katastrofě v Canbeře obrací ke svým vůdcům. Zůstane úřadující vláda hodna důvěry veřejnosti i po ztrátě členů kabinetu, nebo by změna vedení jednoduše byla nejlepší?"
  AST_castle_crumbling_mission_event_tt: "§YÚčinky události:§!"
  AST_castle_crumbling_mission_complete_tt: "Dokončit misi §YHroutící se hrad§!"
- AST_castle_crumbling_reactivate_tt: "§LGenerální guvernér právě vyjednává§! (zaměření §YFor Crown and Empire§!)§L; konečné rozhodnutí ohledně vlády bude odloženo.§!\n\n" # todo: NEW TRANSLATION
+ AST_castle_crumbling_reactivate_tt: "§LGenerální guvernér právě vede jednání§! (Zaměření §Y$AST_for_crown_and_empire$§!)§L; konečné rozhodnutí ohledně vlády bude odloženo.§!\n\n"
  AST_cabinet_trust_complete_1_flag: "Přijal rozhodnutí: §YVytvořit společného nepřítele§!"
  AST_cabinet_trust_complete_2_flag: "Přijal rozhodnutí: §YZajistit loajalitu kabinetu§!"
- AST_cabinet_trust_complete_crown_flag: "Přijala rozhodnutí: §Y$AST_monarchist_intervention$§!" # todo: NEW TRANSLATION
+ AST_cabinet_trust_complete_crown_flag: "Přijato rozhodnutí: §Y$AST_monarchist_intervention$§!"
  AST_cabinet_trust_complete_not_tt: "Nepřijal zaměření §YAustrálie především§!"
  AST_canberra_air_disaster_flag: "$AST_canberra_air_disaster_events.1.t$"
  AST_war_angst_cat: "Válečná úzkost"
@@ -659,10 +659,10 @@
  AST_a_convenient_disaster_desc: "Ať už se Australia First stane jakkoli populární, konzervativci budou ideologii této skupiny vždy odporovat. Má-li Australia First úspěšně získat moc, může být zapotřebí něco dramatičtějšího než běžné volby; něco, co uvrhne vládu do chaosu.\n\nNaše hnutí nemá kapacitu takovou událost vyvolat samo, ale náš zahraniční fašistický podporovatel ano. Pomocí našemu vzestupu k moci najdou zahraniční fašisté v [AST.GetName] přítele."
  AST_a_convenient_disaster_tt: "\nTato událost naruší úřadující vládu a nakonec umožní, aby se §Y[AST.GetFascistParty]§! stala vládnoucí stranou."
  AST_a_convenient_disaster_flag: "§Y$AST_canberra_air_disaster_events.1.t$§! byla spuštěna rozhodnutím §Y$AST_a_convenient_disaster$§!."
- AST_insufficient_funds_mission: "Shromažďování dostatečných finančních prostředků" # todo: CHANGED
- AST_insufficient_funds_mission_tt: "Povolit rozhodnutí: §Y$AST_summons_to_australian_hall$§!, §Y$AST_print_the_publicist$§!.\n" # todo: NEW TRANSLATION
- AST_for_100_days: "Aktivuje misi: §Y$AST_insufficient_funds_mission$§! na §Y100§! dní\n" # todo: NEW TRANSLATION
- AST_for_50_days: "Aktivuje misi: §Y$AST_insufficient_funds_mission$§! na §Y50§! dní\n" # todo: NEW TRANSLATION
+ AST_insufficient_funds_mission: "Shromažďování dostatečných prostředků"
+ AST_insufficient_funds_mission_tt: "Zpřístupní rozhodnutí: §Y$AST_summons_to_australian_hall$§!, §Y$AST_print_the_publicist$§!.\n"
+ AST_for_100_days: "Aktivuje misi: §Y$AST_insufficient_funds_mission$§! na §Y100§! dní\n"
+ AST_for_50_days: "Aktivuje misi: §Y$AST_insufficient_funds_mission$§! na §Y50§! dní\n"
  AST_insufficient_funds: "Nedostatečné prostředky"
  AST_afm_decisions_fascism_upgrade_tt: "\nVylepší denní zisk podpory fašismu z rozhodnutí §Y$AST_australia_first_movement_cat$§!.\n\n"
  AST_afm_decisions_autonomy_upgrade_tt: "\nVylepší zisk autonomie z rozhodnutí §Y$AST_australia_first_movement_cat$§!.\n\n"
@@ -672,25 +672,25 @@
  AST_demand_southwestern_territories: "Požadovat jihozápadní území"
  AST_vichy_req_ongoing_flag: "Žádost o území §Yprobíhá§!"
  AST_remove_vichy_out_of_africa_decisions: "\nOdstraní rozhodnutí §Y$AST_vichy_out_of_africa_cat$§!.\n"
- AST_naval_efforts_cat: "Námořní úsilí" # todo: NEW TRANSLATION
- AST_naval_efforts_cat_desc: "$AST_royal_prestige_desc$" # todo: NEW TRANSLATION
- AST_refit_a_retired_british_carrier: "Modernizovat vyřazenou britskou letadlovou loď" # todo: NEW TRANSLATION
- AST_dockyard_construction: "Výstavba loděnic" # todo: NEW TRANSLATION
- AST_man_the_docks_first: "Nejprve obsadit loděnice" # todo: NEW TRANSLATION
- improved_ship_hull_carrier: "Vylepšená letadlová loď" # todo: NEW TRANSLATION
- AST_harland_wolff_mio_trigger: "Dokončilo rozhodnutí §Y$AST_refit_a_retired_british_carrier$§!, odemčené zaměřením §Y$AST_royal_prestige$§!" # todo: NEW TRANSLATION
- AST_kingdom_expansions_cat: "Rozšiřování království" # todo: NEW TRANSLATION
- AST_new_zealand_and_clause_6: "Nový Zéland a článek 6" # todo: NEW TRANSLATION
- AST_new_zealand_and_clause_6_desc: "Během procesu, který sjednotil australské kolonie do federace, se Nový Zéland nakonec rozhodl nepřipojit. Ústava však od té doby Nový Zéland stále definuje jako jeden z potenciálních států Austrálie a umožňuje jeho přijetí.\n\nNyní, když je jejich národní bezpečnost vážně ohrožena, by mohl být Nový Zéland poprvé od přijetí článku 6 přesvědčen, aby se připojil k našemu království." # todo: NEW TRANSLATION
- AST_new_zealand_and_clause_6_tt: "(§Y[NZL.GetNameWithFlag]§!) se připojí k §Y[AST.GetNameDef]§! a přivede s sebou veškeré své území i pozemní, námořní a vzdušné síly" # todo: NEW TRANSLATION
- AST_protector_of_the_indies: "Ochránce Indie" # todo: NEW TRANSLATION
- AST_protector_of_the_indies_desc: "Od vypuknutí konfliktu v Evropě se [HOL.GetNameDef] příliš zabývá obranou vlastního území, než aby se staralo o obranu své indonéské kolonie. Případný pád [INS.GetNameDef] by mohl rozhodnout o osudu všech ostatních národů jihovýchodní Asie a nelze jej ponechat v rukou samotné kolonie.\n\n[HOL.GetNameDefCap] také vzhledem k závažnosti situace chápe, že kolonii by lépe bránil [AST.GetNameDef]." # todo: NEW TRANSLATION
- AST_protector_of_the_indies_tt: "(§Y[INS.GetNameWithFlag]§!) se připojí k §Y[AST.GetNameDef]§! a přivede s sebou veškeré své území i pozemní, námořní a vzdušné síly" # todo: NEW TRANSLATION
- AST_the_solomon_islands_protectorate: "Protektorát Šalamounových ostrovů" # todo: NEW TRANSLATION
- AST_the_solomon_islands_protectorate_desc: "Od roku 1893 jsou Šalamounovy ostrovy protektorátem. Nyní, když jejich ochránce pohltila válka, je však sporné, jakou ochranu mohou ostrovy skutečně očekávat.\n\n[AST.GetNameDefCap] se pokusí ostrovy ochránit sama a jistě musí být zřejmé, že sousední národ velikosti Austrálie je k takovému úkolu mnohem způsobilejší." # todo: NEW TRANSLATION
- AST_new_hebrides_and_caledonia_under_our_wing: "Nové Hebridy a Nová Kaledonie pod naším křídlem" # todo: NEW TRANSLATION
- AST_new_hebrides_and_caledonia_under_our_wing_desc: "Souostroví Nových Hebrid a Nové Kaledonie mají stejně jako Austrálie dlouhou historii evropské okupace. Nyní, když se [AST.GetNameDef] konečně vymanila z područí svých osadníků, je naší královskou povinností pečovat o své okolí, zejména o území patřící národům s podobným původem.\n\nNapětí ve světě zatěžuje jejich okupanta, a je proto konečně možné mu vysvětlit, že Nové Hebridy a Nová Kaledonie by byly bezpečnější v rámci Austrálie." # todo: NEW TRANSLATION
- AST_rejects_request: "[FROM.GetNameWithFlag] odmítá následující žádost:" # todo: NEW TRANSLATION
+ AST_naval_efforts_cat: "Námořní úsilí"
+ AST_naval_efforts_cat_desc: "$AST_royal_prestige_desc$"
+ AST_refit_a_retired_british_carrier: "Přezbrojit vyřazenou britskou letadlovou loď"
+ AST_dockyard_construction: "Výstavba loděnic"
+ AST_man_the_docks_first: "Nejprve obsadit doky personálem"
+ improved_ship_hull_carrier: "Vylepšená letadlová loď"
+ AST_harland_wolff_mio_trigger: "Dokončeno rozhodnutí §Y$AST_refit_a_retired_british_carrier$§!, zpřístupněné Zaměřením §Y$AST_royal_prestige$§!"
+ AST_kingdom_expansions_cat: "Rozšiřování království"
+ AST_new_zealand_and_clause_6: "Nový Zéland a článek 6"
+ AST_new_zealand_and_clause_6_desc: "Během procesu, který sjednotil australské kolonie do federace, se Nový Zéland nakonec rozhodl nepřipojit. Ústava však od té doby nadále definuje Nový Zéland jako jeden z potenciálních států Austrálie a umožňuje jeho přijetí.\n\nNyní, když je jeho národní bezpečnost vážně ohrožena, by se Nový Zéland mohl poprvé od přijetí článku 6 nechat přesvědčit ke vstupu do našeho království."
+ AST_new_zealand_and_clause_6_tt: "(§Y[NZL.GetNameWithFlag]§!) se připojí na stranu §Y[AST.GetNameDef]§! a přinese s sebou veškeré své území i pozemní, námořní a letecké síly"
+ AST_protector_of_the_indies: "Ochránce Východní Indie"
+ AST_protector_of_the_indies_desc: "Od chvíle, kdy v Evropě vypukl konflikt, je [HOL.GetNameDef] příliš zaměstnáno obranou vlastního území, než aby se mohlo starat o obranu své indonéské kolonie. Pokud padne [INS.GetNameDef], může to velmi snadno rozhodnout o osudu všech ostatních zemí jihovýchodní Asie, a proto její obranu nelze ponechat pouze v rukou samotné kolonie.\n\nVzhledem k závažnosti situace i [HOL.GetNameDefCap] chápe, že kolonii lépe ochrání [AST.GetNameDef]."
+ AST_protector_of_the_indies_tt: "(§Y[INS.GetNameWithFlag]§!) se připojí na stranu §Y[AST.GetNameDef]§! a přinese s sebou veškeré své území i pozemní, námořní a letecké síly"
+ AST_the_solomon_islands_protectorate: "Protektorát Šalomounových ostrovů"
+ AST_the_solomon_islands_protectorate_desc: "Šalomounovy ostrovy jsou protektorátem již od roku 1893. Když však jejich ochránce pohlcuje válka, je otázkou, jakou ochranu od něj mohou ostrovy skutečně očekávat.\n\n[AST.GetNameDefCap] se proto pokusí převzít ochranu ostrovů samo. Je přece zřejmé, že sousední země významu Austrálie je pro takový úkol mnohem vhodnější."
+ AST_new_hebrides_and_caledonia_under_our_wing: "Nové Hebridy a Nová Kaledonie pod našimi křídly"
+ AST_new_hebrides_and_caledonia_under_our_wing_desc: "Souostroví Nových Hebrid a Nová Kaledonie mají stejně jako Austrálie dlouhou historii evropské nadvlády. Nyní, když má [AST.GetNameDef] svobodu od svých osadníků, je naší královskou povinností pečovat o své okolí, zejména o území náležející zemím s podobnou minulostí, jakou máme my.\n\nV době, kdy světové napětí zatěžuje jejich současné držitele, je konečně možné přesvědčit je, že Nové Hebridy a Nová Kaledonie budou ve svazku Austrálie ve větším bezpečí."
+ AST_rejects_request: "[FROM.GetNameWithFlag] odmítá následující požadavek:"
  AST_big_business_pact_cat: "Pakt s velkým byznysem"
  AST_big_business_request_ongoing_flag: "Žádost velkého byznysu §Yprobíhá§!"
  AST_naval_expansion: "$NOR_alt_dem_naval_expansion$"
@@ -717,7 +717,7 @@
  AST_scale_up_middleback_mines_steel_decision_3: "Otevřít důl Iron Prince"
  AST_scale_up_middleback_mines_steel_decision_3_desc: "Válečná poptávka po kovech je na historickém maximu, ale Middleback Mountains nadále poskytují."
  AST_expand_iron_mining_tt: "Díky §Y$AST_exports_for_economic_recovery$§! i §Y$AST_within_reach$§! bude možné využívat region Pilbara ve státě §Y$STATE_870$§!, čímž se uvolní téměř nevyčerpatelný zdroj §Yoceli§!. Můžeme jej využít k pohonu našeho hospodářství."
- AST_develop_port_kemla_steel_tt: "To nám umožní přijmout rozhodnutí §YPostavit druhou vysokou pec v Port Kembla§!, které výrazně zvýší naši produkci §Yoceli§!." # todo: CHANGED
+ AST_develop_port_kemla_steel_tt: "To nám umožní přijmout rozhodnutí §YVybudovat druhou vysokou pec v Port Kembla§!, které výrazně zvýší naši produkci §Yoceli§!."
  AST_develop_middleback_tt: "Odemkne tři rozhodnutí k rozvoji naší produkce §Yoceli§! ve státě §Y$STATE_519$§!"
  AST_expand_planned_extraction_pilbara_tt: "§Y$AST_planned_extraction$§! umožní těžební využití oblasti Pilbara ve státě §Y$STATE_870$§!, čímž zpřístupní téměř nevyčerpatelný zdroj §Yoceli§!. To můžeme využít k posílení naší ekonomiky."
  AST_ireland_weapon_smuggling_cat: "Vyzbrojování Irů"
@@ -735,13 +735,13 @@
  AST_training_camps_specialization: "Naše výcvikové tábory jsou připraveny nabídnout našim jednotkám specializovaný výcvik, díky němuž budou účinnější na různých válčištích."
  AST_australasia_flag: "§YAustralasie§! byla vytvořena"
  AST_australia_formables_category: "Australasie"
- AST_australia_formables_category_desc: "Ačkoli nás naše kořeny vždy budou poutat k dalekému jihu, naše paže se rozrostly do délky i dosahu a ostatním již nedovolí zametat naše názory na světové dění pod koberec. Rozšířili jsme se a můžeme se rozšířit ještě dále, přičemž nové jméno našeho národa to jasně vyjádří. Vynořujeme se z kukly, rozprostíráme křídla, aby je obdivoval a uznal celý svět, a pojmenováváme naše barvy a vzor novým národem na jihu — Austrasií." # todo: CHANGED
+ AST_australia_formables_category_desc: "Ačkoli nás naše kořeny navždy poutají k dalekému jihu, naše paže se natáhly do dálky a dnes už není možné naše postoje ke světovým záležitostem jednoduše zamést pod koberec. Rozšířili jsme své hranice a můžeme je rozšířit ještě dál. Nový název naší země dá tuto skutečnost jasně najevo. Vynořujeme se z kukly a rozpínáme křídla, aby je celý svět mohl obdivovat a uznat. Naše barvy a vzory ponesou jméno nového národa na jihu — Australasie."
  AST_form_australasia: "Vytvořit Australasii"
- AST_form_australasia_australia_required_states_tt: "Ovládá všechny státy §Y[AST.GetNonIdeologyName]§!." # todo: NEW TRANSLATION
- AST_form_australasia_melanesia_required_states_tt: "Ovládá všechny státy §YMelanésie§!." # todo: NEW TRANSLATION
+ AST_form_australasia_australia_required_states_tt: "Ovládá všechny státy §Y[AST.GetNonIdeologyName]§!."
+ AST_form_australasia_melanesia_required_states_tt: "Ovládá všechny státy §YMelanésie§!."
  AST_form_australasia_new_zealand_required_states_tt: "Ovládá všechny státy - §Y[NZL.GetNonIdeologyName]§!."
- AST_form_australasia_melanesia_core_states_tt: "Získá domovské území ve všech státech §YMelanésie§!." # todo: NEW TRANSLATION
- AST_form_australasia_australia_core_states_tt: "Získá domovské území ve všech státech §Y[AST.GetNonIdeologyName]§!." # todo: NEW TRANSLATION
+ AST_form_australasia_melanesia_core_states_tt: "Získá domovské území ve všech státech §YMelanésie§!."
+ AST_form_australasia_australia_core_states_tt: "Získá domovské území ve všech státech §Y[AST.GetNonIdeologyName]§!."
  AST_form_australasia_new_zealand_core_states_tt: "Získá domovská území ve všech státech §Y[NZL.GetNonIdeologyName]§!."
  AST_integrate_indonesia: "Integrovat [INS.GetNonIdeologyName]"
  AST_integrate_indonesia_indonesia_required_states_tt: "Ovládá všechny státy - §Y[INS.GetNonIdeologyName]§!."

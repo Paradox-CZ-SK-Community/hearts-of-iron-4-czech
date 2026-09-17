@@ -1008,9 +1008,9 @@
  SIA_great_thai_empire: "Velká thajská říše"
  SIA_great_thai_empire_DEF: "Velká thajská říše"
  SIA_great_thai_empire_ADJ: "thaj."
- SIA_pan_tai_empire: "Pantaijská říše" # todo: NEW TRANSLATION
- SIA_pan_tai_empire_DEF: "Pantaijská říše" # todo: NEW TRANSLATION
- SIA_pan_tai_empire_ADJ: "Tajský" # todo: NEW TRANSLATION
+ SIA_pan_tai_empire: "Pan-thajská říše"
+ SIA_pan_tai_empire_DEF: "Pan-thajská říše"
+ SIA_pan_tai_empire_ADJ: "panthaj."
  SIA_fascism: "Siamská říše"
  SIA_fascism_DEF: "Siamská říše"
  SIA_democratic: "Thajská republika"

@@ -145,8 +145,8 @@
  integrate_papua: "Integrovat Papuu"
  integrate_the_northern_malays: "Integrovat severní Malajsii"
  integrate_the_philippines: "Integrovat Filipíny"
- integrate_singapore: "Integrovat Singapur" # todo: NEW TRANSLATION
- integrate_penang: "Integrovat Penang" # todo: NEW TRANSLATION
+ integrate_singapore: "Integrovat Singapur"
+ integrate_penang: "Integrovat Penang"
  form_rattanakosin_kingdom: "Posílit rattanakósinské dědictví"
  form_hre: "Obnovit Svatou říši římskou"
  form_scandinavia_category: "Obnovit Kalmarskou unii"
@@ -183,9 +183,9 @@
  form_majapahit_empire_category_desc: "Před mnoha stoletími se přes indonéské souostroví rozkládala velká říše, která ovládala obchod. Podařilo se nám rozšířit hranice tak, aby zahrnovaly rozsah této říše, a využít je jako základ nového národního státu může sloužit jako symbol jednoty regionu."
  form_rattanakosin_kingdom_category: "Posílit rattanakósinské dědictví"
  form_rattanakosin_kingdom_category_desc: "V posledních letech jsme se odklonili od tradičních hodnot, na nichž byla naše země založena. Nyní, když jsme dosáhli územního rozsahu z dob naší slávy, je možná čas naši historii pevněji obejmout."
- form_pan_tai_empire: "Vytvořit Pajtchajskou říši" # todo: NEW TRANSLATION
- form_pan_tai_empire_category: "Vytvořit Pajtchajskou říši" # todo: NEW TRANSLATION
- form_pan_tai_empire_category_desc: "Velká thajská říše obnovila náš národ až k hranicím jeho nejslavnějších dob, avšak národy Tai se rozkládají daleko za nimi. Od šanských kopců přes Dai z Jün-nanu a Čuangy z Kuang-si až po vzdálené Ahomy z Ásámu zůstávají naši příbuzní rozděleni. Nyní, když tyto pradávné domoviny nesou naši vlajku, vyhlašme jedinou říši pro všechny národy Tai." # todo: NEW TRANSLATION
+ form_pan_tai_empire: "Vytvořit Pan-thajskou říši"
+ form_pan_tai_empire_category: "Vytvořit Pan-thajskou říši"
+ form_pan_tai_empire_category_desc: "Velká thajská říše obnovila hranice naší země z dob její největší slávy, avšak thajské národy žijí daleko za nimi. Od šanských hor přes Daje v Jün-nanu a Čuangy v Kuang-si až po vzdálené Ahomy v Ásámu zůstávají naši příbuzní rozděleni. Nyní, když nad těmito zeměmi našich předků vlaje náš prapor, vyhlasme jedinou říši pro všechny thaje."
  form_hre_category: "Obnovit Svatou říši římskou"
  form_hre_category_desc: "[GetWhoIsFormingHre]"
  GER_is_forming_hre: "Okázalost naší císařovny nezná mezí, stejně jako hranice našeho státu. Ty se nyní rozšířily tak, že zahrnují území staré Svaté říše římské, a státy, které nám stojí v cestě, už nemohou odporovat naší politice. Císařovna nařídila využít této příležitosti a přijmout roli duchovního nástupce Svaté říše římské. Aquila Elegit Iovis Omnia Vincit!"
