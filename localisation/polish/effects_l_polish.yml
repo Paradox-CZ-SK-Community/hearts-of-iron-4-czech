@@ -486,4 +486,3 @@
  is_literally_china_tt_NOT: "NENÍ: $is_literally_china_tt$"
  is_chinese_warlord_tt: "Původní země je §Yčínský militarista§!"
  is_chinese_warlord_tt_NOT: "NENÍ: $is_chinese_warlord_tt$"
- EFFECT_ADD_TEMPORARY_BUFF: "Přidává následující efekty armádám na $NUM|H$ dní"

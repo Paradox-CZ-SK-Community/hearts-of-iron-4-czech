@@ -432,4 +432,8 @@
  raid_type_INS_militia_port_raid_desc: "Vyšleme milice převlečené za rybáře na malých člunech, které snad nebudou odhaleny. Po vylodění se pokusí založit partyzánské buňky a ve spolupráci s místními partyzány obsadit námořní základnu, pokud se naskytne příležitost. Jde o velmi riskantní podnik. Pokud budou milice spatřeny, operace jistě selže.\n\n§YÚčinky:§!\n§RPřidělená divize je spotřebována§!\n§YÚspěch:§!\n       §WZíská vlastnictví a kontrolu nad státem\n       Zvýší eskalaci o §R1§!§!.\n§YČástečný úspěch:§!\n       §WPřidá §Yjednu úroveň§! aktivity milicí, čímž zvýší šanci na úspěch budoucích pokusů.§!\n§YNeúspěch:§!\n       §WŽádné účinky§!."
  SIA_pacific_island_raid: "Přepadnout pacifický ostrov"
  SIA_pacific_island_raid_desc: "Přepadneme pacifický ostrov a pokusíme se vážně poškodit tamní námořní budovy, lodě i armády."
+ raid_type_SIA_pacific_island_raid: "$SIA_pacific_island_raid$"
+ raid_type_SIA_pacific_island_raid_desc: "$SIA_pacific_island_raid_desc$\n\n§YÚčinky:§!\n§YKritický úspěch / Úspěch / Omezený úspěch:§!\n       §WPoškodí §Ynámořní základnu§! a §Ynámořní zařízení§! o §Y3§!/§Y2§!/§Y1§! úrovně\n       Poškodí nepřátelské §Yarmády a lodě§! ve státě o §Y75 %§!/§Y50 %§!/§Y25 %§!§!\n§YNeúspěch:§!\n       §RPřiřazená divize bude zničena§!"
+ raid_type_SIA_indochina_port_raid: "Přepad indočínského přístavu"
+ raid_type_SIA_indochina_port_raid_desc: "Naše bombardéry zaútočí na nepřátelskou námořní základnu v Indočíně, rozbombardují její přístavní zařízení a potopí všechny dělové čluny kotvící v přístavu. Každý vyřazený přístav znamená o jednu základnu méně, kterou může nepřátelská flotila v zálivu využít."
  raid_tooltip_trigger_title: "$TITLE|H$:"

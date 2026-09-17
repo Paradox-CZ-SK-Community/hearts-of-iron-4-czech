@@ -416,6 +416,8 @@
  hq_infantry_desc: "Menší pěší prapor vyhrazený k zabezpečení velitelství."
  hq_motorized: "Motorizované zabezpečení velitelství"
  hq_motorized_desc: "Pěchota v motorizovaných vozidlech, která umožňuje rychlejší přesun velitelství."
+ hq_armored_car: "Ochrana Armádního velitelství obrněnými automobily"
+ hq_armored_car_desc: "Obrněné automobily doprovázejí Armádní velitelství a kombinují pohyblivost s ochranou a vynikajícím průzkumem."
  hq_paratrooper: "Výsadkové zabezpečení velitelství"
  hq_paratrooper_desc: "Umožňuje velitelství přímo se zapojit do vzdušné invaze a zároveň poskytuje dodatečné zabezpečení."
  hq_light_armor: "Lehké obrněné zabezpečení velitelství"
