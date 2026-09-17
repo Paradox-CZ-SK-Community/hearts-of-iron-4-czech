@@ -643,6 +643,15 @@
  siam_adc.3.t: "[?var:SIA_tag_that_was_released_due_to_sia_pressure.GetName] přijímá nezávislost"
  siam_adc.3.desc: "[?var:SIA_tag_that_was_released_due_to_sia_pressure.GetAdjectiveCap] vláda si zvolila nezávislost. Zatímco se okupační správa připravuje na rozpuštění, [var:SIA_tag_that_was_released_due_to_sia_pressure.GetNameDef] se chystá znovu zaujmout své místo mezi svrchovanými národy světa."
  siam_adc.3.a: "Jaká bude jejich budoucnost?"
+ siam_air.1.t: "Tokio vysílá instruktory" # todo: NEW TRANSLATION
+ siam_air.1.desc: "Dorazila japonská technická mise s instruktory, příručkami a nabídkou letadel. Naši letci se musí rozhodnout, kde bude jejich pomoc nejprospěšnější." # todo: NEW TRANSLATION
+ siam_air.1.a: "Výcvik stíhačů" # todo: NEW TRANSLATION
+ siam_air.1.b: "Výcvik útočných letounů" # todo: NEW TRANSLATION
+ siam_air.1.c: "Obezřetný, neutrální balíček" # todo: NEW TRANSLATION
+ siam_air.2.t: "Jak moc tlačit na letce" # todo: NEW TRANSLATION
+ siam_air.2.desc: "Létání v džungli je neúprosné a nezkušení piloti za něj platí zničenými letadly. Máme pokračovat a nechat přeživší zocelit ve veterány, nebo uzemnit nezkušené, dokud se podmínky nezlepší?" # todo: NEW TRANSLATION
+ siam_air.2.a: "Přijmout ztráty" # todo: NEW TRANSLATION
+ siam_air.2.b: "Uzemnit nezkušené piloty" # todo: NEW TRANSLATION
  siam_adc.4.t: "[FROM.GetNameDefCap] odmítá nezávislost"
  siam_adc.4.desc: "Navzdory příležitosti získat svobodu [FROM.GetNameDef] odmítá okamžitou nezávislost. Jejich ministři tvrdí, že stát ještě není připraven nést břemena plné svrchovanosti a prozatím dává přednost zachování současného stavu."
  siam_adc.4.a: "Pak uspořádání pokračuje."
@@ -723,13 +732,13 @@
  AST_diplomatic_events.13.a.tt: "Bude uspořádáno referendum, díky kterému může být §Y[NZL.GetName]§! §Ranektován§!"
  AST_diplomatic_events.13.b: "Rozhodně ne!"
  AST_diplomatic_events.14.t: "[NZL.GetNameDefCap] se stává australským státem"
- AST_diplomatic_events.14.desc: "Po nedávno konaném referendu se  rozhodl uplatnit klauzuli 6 australské ústavy. Novozélanďané souhlasili, že jejich země budou pod australskou správou bezpečnější, a proto souhlasili, že se [NZL.GetName] a [AST.GetNameDef] sjednotí."
+ AST_diplomatic_events.14.desc: "Po nedávno konaném referendu se [NZL.GetNameDef] rozhodl uplatnit doložku 6 australské ústavy. Novozélanďané se shodli, že jejich země bude pod australskou správou bezpečnější, a proto souhlasili s připojením k [AST.GetNameDef]." # todo: CHANGED
  AST_diplomatic_events.14.a: "Austrálie se rozšiřuje."
  AST_diplomatic_events.15.t: "Novozélandská veřejnost vzdoruje"
- AST_diplomatic_events.15.desc: "Po nedávno konaném referendu se [NZL.GetName] rozhodl neuplatnit klauzuli 6 australské ústavy. [NZL.GetNameDefCap] zůstane nezávislým národem."
+ AST_diplomatic_events.15.desc: "Po nedávno konaném referendu se [NZL.GetNameDef] rozhodl doložku 6 australské ústavy neuplatnit. [NZL.GetNameDefCap] zůstane samostatným národem." # todo: CHANGED
  AST_diplomatic_events.15.a: "Austrálie zůstane taková, jaká je."
  AST_diplomatic_events.16.t: "[NZL.GetAdjectiveCap] úředníci vzdorují"
- AST_diplomatic_events.16.desc: "Navzdory australskému nátlaku se [NZL.GetName] rozhodl neuspořádat referendum o uplatnění klauzule 6 australské ústavy. [NZL.GetNameDefCap] zůstane nezávislým národem."
+ AST_diplomatic_events.16.desc: "Navzdory australskému nátlaku se [NZL.GetNameDef] rozhodl neuspořádat referendum o uplatnění doložky 6 australské ústavy. [NZL.GetNameDefCap] zůstane samostatným národem." # todo: CHANGED
  AST_diplomatic_events.16.a: "Austrálie zůstává taková, jaká je."
  AST_diplomatic_events.17.t: "Australské partnerství"
  AST_diplomatic_events.17.desc: "Nepřítel přichází ze severu a je jen otázkou času, než dorazí až k našemu prahu - alespoň to tvrdí australští úředníci. [AST.GetNameDefCap] navrhuje, abychom se spojili a vytvořili jedinou hráz, nejlépe převedením [INS.GetName] pod australskou správu, ale přinejmenším udělením vojenského přístupu."
@@ -931,6 +940,19 @@
  AST_diplomatic_events.82.t: "[ENG.GetLeader] oznamuje smutnou zprávu"
  AST_diplomatic_events.82.desc: "Transport s ptakopyskem, který před šesti týdny vyplul z melbournského přístavu a na jehož palubě bylo kompletní ptakopyskárium, dorazil do cíle. Příjezd lodi však nebyl radostný, neboť vyšlo najevo, že zvíře uhynulo. [ENG.GetLeader] truchlí nad ztrátou svého mazlíčka, kterého dokonce pojmenoval po sobě, zatímco čekal na jeho příjezd, ale tvrdí, že za jeho smrt mohou nepřátelé. Výbuchy při ponorkovém útoku prý ptakopyska vyděsily k smrti.\n\nDeník ošetřovatele ptakopyska však ukazuje na jinou pravděpodobnou příčinu smrti: teplota vody i vzduchu v ptakopyskáriu byla výrazně mimo přijatelné rozmezí.\n\nAť už tomu bylo jakkoli, ptakopysk, kterého si vyžádal [ENG.GetLeader], je mrtev a britský premiér zůstane bez ptakopyska."
  AST_diplomatic_events.82.a: "Vskutku smutné zprávy."
+ AST_diplomatic_events.83.t: "Nový Zéland se slučuje s [AST.GetNameDef]" # todo: NEW TRANSLATION
+ AST_diplomatic_events.83.desc: "Po nedávno konaném referendu se [NZL.GetNameDef] rozhodl uplatnit článek 6 australské ústavy.\n\nBěhem procesu, který v roce 1901 sjednotil australské kolonie ve federaci, se Nový Zéland nakonec rozhodl nezúčastnit. Australská ústava však od té doby stále definuje Nový Zéland jako jeden z potenciálních států a umožňuje přijetí tohoto území.\n\nNovozélanďané nyní dospěli k názoru, že jejich země bude pod australskou správou bezpečnější, a proto souhlasili s připojením k [AST.GetNameDef]." # todo: NEW TRANSLATION
+ AST_diplomatic_events.83.a: "Nemůžeme s tím mnoho dělat." # todo: NEW TRANSLATION
+ AST_diplomatic_events.84.t: "[AST.GetNameDefCap] žádá o území" # todo: NEW TRANSLATION
+ AST_diplomatic_events.84.desc: "Rostoucí napětí v Tichomoří je znepokojivé, zatímco naše schopnost bránit ohrožená území se zdá být omezená; alespoň to tvrdí [AST.GetNameDef].\n\nUsilují o rozšíření své říše, aby mohli bránit celou jihovýchodní Asii, a proto žádají o převedení určitých území. Souhlasíme?" # todo: NEW TRANSLATION
+ AST_diplomatic_events.84.a: "Území budou převedena do australských rukou." # todo: NEW TRANSLATION
+ AST_diplomatic_events.84.b: "S něčím takovým nesouhlasíme." # todo: NEW TRANSLATION
+ AST_diplomatic_events.85.t: "[FROM.GetNameDefCap] souhlasí s naší žádostí" # todo: NEW TRANSLATION
+ AST_diplomatic_events.85.desc: "Rostoucí napětí v Tichomoří je znepokojivé, zejména když se zdá, že schopnost některých zemí bránit vlastní území je omezená; [FROM.GetNameDef] s tím souhlasí. Okamžitě převedou území, o která jsme požádali." # todo: NEW TRANSLATION
+ AST_diplomatic_events.85.a: "Rozhodli se moudře!" # todo: NEW TRANSLATION
+ AST_diplomatic_events.86.t: "[FROM.GetNameDefCap] odmítá naši žádost" # todo: NEW TRANSLATION
+ AST_diplomatic_events.86.desc: "Rostoucí napětí v Tichomoří je znepokojivé, zejména když se zdá, že schopnost některých zemí bránit vlastní území je omezená. Přesto [FROM.GetNameDef] odmítl převést území, o která jsme požádali." # todo: NEW TRANSLATION
+ AST_diplomatic_events.86.a: "Nemůžeme s tím mnoho dělat." # todo: NEW TRANSLATION
  AST_political_events.1.t: "Výzva k referendu"
  AST_political_events.1.desc: "Jsou dvě oblasti, v nichž se my jako vláda snažíme posílit federální kontrolu: letectví a marketing.\n\nPokud jde o letectví, cílem je změnit ústavu tak, aby parlament Commonwealthu získal pravomoc přijímat zákony týkající se letecké navigace a letadel.\n\nDodatek o marketingu má umožnit spolupráci mezi Commonwealthem a státy v oblasti marketingu, která je v současnosti ústavně nemožná.\n\nKe kterému z nich máme vyhlásit referendum?"
  AST_political_events.1.a: "K letectví, aby bylo možné regulovat celou [AST.GetAdjective] leteckou navigaci."
@@ -959,6 +981,21 @@
  AST_political_events.9.t: "Spor o Dalfram"
  AST_political_events.9.desc: "To, co začalo jako spor o nakládku surového železa, zažehlo něco mnohem většího. Dělníci po celé Austrálii odcházejí z práce na znamení solidarity a vzdorují vládě i průmyslu. Jak se stávky šíří a napětí roste, krize se vymyká kontrole a požaduje rezignaci těch, kdo jsou u moci. A tak vláda, která situaci naprosto nezvládla, přesně to udělá a ponechá pozici vládnoucí strany volnou pro [AST.GetCommunistParty]."
  AST_political_events.9.a: "A my si ji vezmeme."
+ AST_political_events.10.t: "Bitva o Brisbane" # todo: NEW TRANSLATION
+ AST_political_events.10.desc: "Včera v noci byly do ulic povolány jednotky v ocelových přilbách, aby potlačily pouliční nepokoje v Brisbane. Jeden voják byl smrtelně postřelen a šest dalších bylo během tříhodinového řádění zraněno.\n\nPřed kantýnou na rohu ulic Creek a Adelaide se shromáždil dav téměř 1 000 lidí, včetně velkého počtu vojáků a námořníků, aby se rvačky, která vypukla, buď zúčastnil, nebo ji sledoval. Hasičské vozy dorazily s kvílejícími sirénami, aby dav rozehnaly, ale jakmile odjely, rvačka znovu propukla. Rozvášněný dav vtrhl ke vchodu do kantýny a rozbil okna budovy. Vojenská policie musela znovu mávat obušky, aby dav rozehnala.\n\nPo hodině nepokojů se začalo střílet, což mělo za následek několik zraněných a jedno úmrtí. Posily vojenské policie dorazily, aby nepokoje jednou provždy ukončily, podporované všemi dostupnými zálohami civilní policie a jednotkami v ocelových přilbách." # todo: NEW TRANSLATION
+ AST_political_events.10.a: "Nepřijatelné chování!" # todo: NEW TRANSLATION
+ AST_political_events.11.t: "Obracíme list" # todo: NEW TRANSLATION
+ AST_political_events.11.desc: "Po dvou stoletích britského suzerenství je [AST.GetName] svobodný. Mnozí rozhodující činitelé, neomezení v otázkách politiky a reforem, dychtivě předkládají své návrhy; jeden z nich vyvolal veřejnou kontroverzi.\n\nNávrh se týká vlajky [AST.GetAdjective]: měla by být nahrazena, aby symbolizovala naše nedávné rozdělení?" # todo: NEW TRANSLATION
+ AST_political_events.11.a: "Vztyčíme novou vlajku." # todo: NEW TRANSLATION
+ AST_political_events.11.b: "Historie [AST.GetName] nesmí být vymazána; naše vlajka zůstane." # todo: NEW TRANSLATION
+ AST_political_events.13.t: "Nová garda znovu povstává" # todo: NEW TRANSLATION
+ AST_political_events.13.desc: "$AST_new_guard_spirit_desc$" # todo: NEW TRANSLATION
+ AST_political_events.13.a: "Jen čas ukáže, jak úspěšní tentokrát budou." # todo: NEW TRANSLATION
+ AST_political_events.14.t: "Jmenování předsedy Královské rady" # todo: NEW TRANSLATION
+ AST_political_events.14.desc: "Nově ustavená Královská rada má státu pomáhat přezkoumáváním zákonů a poskytováním rad v otázkách politiky, krizí a ústavních záležitostí. Všichni státníci jmenovaní do komory budou radit hlavě státu a vládě, ale všem bude předsedat prezident. Vliv, který bude prezident uplatňovat na záležitosti Rady, nelze podceňovat, a proto musí být jmenování provedeno s velkou pečlivostí.\n\nKdo bude jmenován předsedou Královské rady?" # todo: NEW TRANSLATION
+ AST_political_events.14.a: "Britský loajalista a průmyslový prostředník, Adela Pankhurst Walshová" # todo: NEW TRANSLATION
+ AST_political_events.14.b: "Bývalý premiér a zapálený vlastenec, Billy Hughes." # todo: NEW TRANSLATION
+ AST_political_events.14.c: "Samotná hlava státu, Alexander Hore-Ruthven." # todo: NEW TRANSLATION
  AST_canberra_air_disaster_events.1.t: "Canberrská letecká katastrofa"
  AST_canberra_air_disaster_events.1.desc: "Dnes dopoledne havaroval letoun Lockheed Hudson nedaleko Canberry. Mezi deseti lidmi na palubě byl i náčelník armády se svým štábem, kteří mířili na předvolání k zasedání kabinetu. Všichni spolu s letovou posádkou tragicky zahynuli.\n\nPříčina havárie zůstává záhadou - počasí nabízelo ideální letové podmínky a stroj pilotoval zkušený důstojník RAAF, kapitán letectva Robert Hitchcock.\n\nAť už byla příčina jakákoli, pro celý národ je to pochmurný den - a zvláště pro rodiny a přátele obětí - a Austrálie nyní upírá zrak na své vůdce. Jak zareagují?"
  AST_canberra_air_disaster_events.1.a: "Strašlivě tragická událost."
@@ -980,6 +1017,10 @@
  AST_canberra_air_disaster_events.6.desc: "[JAP.GetNameDefCap] naše obvinění nebere na lehkou váhu a označuje je za první akt agrese. [JAP.GetLeader] konflikt dále vyhrotil prohlášením, že jeho národ má nyní plné právo napadnout naši zemi."
  AST_canberra_air_disaster_events.6.a: "Už nebudeme dále přikládat pod kotel."
  AST_canberra_air_disaster_events.6.b: "To nemůže zůstat bez odpovědi."
+ AST_canberra_air_disaster_events.7.t: "Hore-Ruthven zůstává u moci" # todo: NEW TRANSLATION
+ AST_canberra_air_disaster_events.7.desc.a: "Zásah [ENG.GetNameDefCap], jeho pevné vedení a rozhodné pokyny přesvědčily generálního guvernéra [AST.GetAdjective], Alexandra Hore-Ruthvena, že [AST.GetName] stále nelze svěřit do rukou žádného demokratického vůdce.\n\nDemokratické strany prokázaly neschopnost provést [AST.GetName] národní krizí a tuto neschopnost nelze tolerovat, zvláště vzhledem k nestabilnímu stavu [AST.GetName] i celého světa; [ENG.GetNameDef] se obává, že pokud Hore-Ruthvenova kontrola skončí, nedávno probuzené fašistické nálady v naší zemi by mohly zcela sevřít hrdlo [AST.GetName].\n\n[AST.GetName] potřebuje rozhodné vedení a jednotu, které Hore-Ruthven poskytne až do odvolání." # todo: NEW TRANSLATION
+ AST_canberra_air_disaster_events.7.desc.b: "Nová garda a monarchističtí sympatizanti přesvědčili generálního guvernéra [AST.GetAdjective], Alexandra Hore-Ruthvena, že [AST.GetName] stále nelze svěřit do rukou žádného demokratického vůdce.\n\nDemokratické strany prokázaly neschopnost provést [AST.GetName] národní krizí a tuto neschopnost nelze tolerovat, zvláště vzhledem k nestabilnímu stavu světa. [AST.GetName] potřebuje rozhodné vedení a jednotu, které Hore-Ruthven poskytne až do odvolání." # todo: NEW TRANSLATION
+ AST_canberra_air_disaster_events.7.a: "Změna kurzu." # todo: NEW TRANSLATION
  INS_limited_war_events.1.t: "Rozdrťte Malajsko!"
  INS_limited_war_events.1.desc: "Nepřátelské linie se prolomily a naši muži postupují vpřed bez odporu. Za průlivem se britský klientský stát hroutí pod tíhou lidového hněvu. Loutky Londýna si myslely, že je jejich bodáky ochrání před dějinami. Mýlily se."
  INS_limited_war_events.1.a: "Merdeka!"
@@ -1011,6 +1052,63 @@
  INS_limited_war_events.9.t: "[FROM.GetName] chce zlomit republiku!"
  INS_limited_war_events.9.desc: "Zachycené vysílání nepřátelského velení potvrdilo to nejhorší. Nebude žádné urovnání, žádný uměřený mír, žádný návrat k liniím, které jsme drželi dříve. Loutky a jejich londýnští páni požadují úplnou kapitulaci republiky, aby Indonésie byla zlomena na kole a její ostrovy vráceny pod imperialistickou botu, zpod níž jsme je vyrvali. Na to existuje jediná odpověď."
  INS_limited_war_events.9.a: "Indonésie vytrvá!"
+ INS_martial_law_events.1.t: "[INS.GetNameDefCap] chce posílit obchodní vztahy s námi" # todo: NEW TRANSLATION
+ INS_martial_law_events.1.desc: "Prezident [INS.GetName] se na nás obrátil s přáním posílit obchodní vztahy mezi námi a zajistit, aby [INS.GetName] hrála větší roli ve sféře společné prosperity. Prezident [INS.GetName], [INS.GetLeader], nám nabídl lákavou dohodu, v jejímž rámci nám bude kaučuk a další suroviny prodáván bez jakýchkoli poplatků či daní, přičemž tržní regulace zajistí nízké ceny." # todo: NEW TRANSLATION
+ INS_martial_law_events.1.a: "Samozřejmě!" # todo: NEW TRANSLATION
+ INS_martial_law_events.1.b: "Nemáme zájem." # todo: NEW TRANSLATION
+ INS_martial_law_events.2.t: "[FROM.GetName] souhlasí s obchodní dohodou" # todo: NEW TRANSLATION
+ INS_martial_law_events.2.desc: "[ROOT.GetLeader] se dnes vrátil ze schůzky s [JAP.GetAdjective] vládou v [JAP.GetCapitalVictoryPointName] s dobrými zprávami; obchodní dohoda navržená v [JAP.GetCapitalVictoryPointName] byla všemi stranami schválena a brzy vstoupí v platnost." # todo: NEW TRANSLATION
+ INS_martial_law_events.2.a: "To výrazně prospěje oběma našim ekonomikám!" # todo: NEW TRANSLATION
+ INS_martial_law_events.3.t: "[FROM.GetName] odmítá obchodní dohodu" # todo: NEW TRANSLATION
+ INS_martial_law_events.3.desc: "[ROOT.GetLeader] se dnes vrátil ze schůzky s [JAP.GetAdjective] vládou v [JAP.GetCapitalVictoryPointName] se špatnými zprávami: jednání uvázla na mrtvém bodě poté, co obě strany odmítly ustoupit v některých otázkách, takže nebyla uzavřena žádná obchodní dohoda." # todo: NEW TRANSLATION
+ INS_martial_law_events.3.a: "Škoda." # todo: NEW TRANSLATION
+ INS_martial_law_events.4.t: "[FROM.GetName] žádá o uznání svých malajských nároků" # todo: NEW TRANSLATION
+ INS_martial_law_events.4.desc: "Vyslanec z [FROM.GetNameDef] předložil naší vládě formální žádost. Prezident [FROM.GetLeader], který prohlásil sjednocení malajského světa za hlavní cíl své vlády, žádá, abychom uznali [INS.GetAdjective] nárok na všechny etnicky malajské země od Srí Lanky až po Filipíny." # todo: NEW TRANSLATION
+ INS_martial_law_events.4.a: "Uznáme jejich právo na jejich historická území." # todo: NEW TRANSLATION
+ INS_martial_law_events.4.b: "To není naše starost." # todo: NEW TRANSLATION
+ INS_martial_law_events.5.t: "[FROM.GetName] uznává naše nároky" # todo: NEW TRANSLATION
+ INS_martial_law_events.5.desc: "Vláda [FROM.GetName] formálně uznala náš nárok na malajská území. S požehnáním našeho nejmocnějšího spojence se sjednocení malajského světa zdá být mnohem uskutečnitelnější." # todo: NEW TRANSLATION
+ INS_martial_law_events.5.a: "Jednota!" # todo: NEW TRANSLATION
+ INS_martial_law_events.6.t: "[FROM.GetName] odmítá uznat naše nároky" # todo: NEW TRANSLATION
+ INS_martial_law_events.6.desc: "Vláda [FROM.GetName] odmítla uznat náš nárok na malajský svět. Zdá se, že naši takzvaní spojenci by raději udržovali malajské národy rozdělené, než aby nás viděli zesílit. Až přijde čas, na tuto urážku nezapomeneme." # todo: NEW TRANSLATION
+ INS_martial_law_events.6.a: "Je to jen překážka, vytrváme a zvítězíme!" # todo: NEW TRANSLATION
+ INS_martial_law_events.7.t: "[FROM.GetName] požaduje kontrolu nad Severní Malajsií" # todo: NEW TRANSLATION
+ INS_martial_law_events.7.desc: "[FROM.GetName] zaslal formální žádost, abychom dostáli uznání jejich malajských nároků a zorganizovali převedení Severní Malajsie na [FROM.GetName], které je v současnosti pod kontrolou [SIA.GetName]. Tento krok může rozzlobit [SIA.GetAdjective] vedení, značně by však posílil naše vztahy s [INS.GetName]." # todo: NEW TRANSLATION
+ INS_martial_law_events.7.a: "Musíme dohodu dodržet." # todo: NEW TRANSLATION
+ INS_martial_law_events.7.b: "Nestojí to za vytvoření konfliktu uvnitř frakce." # todo: NEW TRANSLATION
+ INS_martial_law_events.8.t: "[FROM.GetName] odmítá naši žádost" # todo: NEW TRANSLATION
+ INS_martial_law_events.8.desc: "Navzdory oficiálnímu uznání našich nároků odmítla [JAP.GetAdjective] vláda zprostředkovat převod Severní Malajsie, přičemž [JAP.GetLeader] trvá na tom, že nemohou riskovat konflikt uvnitř frakce. Je zřejmé, že jejich sliby jsou prázdné a jejich slova tváří v tvář naléhavosti mnoho neznamenají." # todo: NEW TRANSLATION
+ INS_martial_law_events.8.a: "Prokázali, že své sliby nedokážou naplnit." # todo: NEW TRANSLATION
+ INS_martial_law_events.9.t: "[FROM.GetName] žádá, abychom převedli Severní Malajsii na [INS.GetNameDef]" # todo: NEW TRANSLATION
+ INS_martial_law_events.9.desc: "[FROM.GetName] nás informoval, že [INS.GetName] požaduje převedení Severní Malajsie na [INS.GetName] jako součást svého nároku na veškeré etnicky malajské území. [JAP.GetAdjective] vláda oficiálně podporuje [INS.GetAdjective] nároky a [JAP.GetAdjective] poradci varují, že v případě odmítnutí riskujeme ozbrojený konflikt." # todo: NEW TRANSLATION
+ INS_martial_law_events.9.a: "Není to, jako bychom měli na výběr." # todo: NEW TRANSLATION
+ INS_martial_law_events.9.b: "Imperialismu nepodlehneme!" # todo: NEW TRANSLATION
+ INS_martial_law_events.9.a.tt: "§W§RRiskujeme, že budeme považováni za slabé, což může vést k požadavkům na další ústupky.§!§!" # todo: NEW TRANSLATION
+ INS_martial_law_events.10.t: "[JAP.GetName] a [FROM.GetName] souhlasí s převodem" # todo: NEW TRANSLATION
+ INS_martial_law_events.10.desc: "[JAP.GetName] souhlasilo se zprostředkováním převodu Severní Malajsie a vyslalo do [SIA.GetCapitalVictoryPointName] své vyslance k jednání spolu s vyslanci [INS.GetAdjective]. Všechny tři strany dospěly k dohodě, podle níž je Severní Malajsie s okamžitou platností [INS.GetAdjective] územím." # todo: NEW TRANSLATION
+ INS_martial_law_events.10.a: "Výborně!" # todo: NEW TRANSLATION
+ INS_martial_law_events.11.t: "[FROM.GetName] odmítá převod" # todo: NEW TRANSLATION
+ INS_martial_law_events.11.desc: "[SIA.GetLeader] odmítl účast na schůzce a dal jasně najevo, že se nehodlá vzdát Severní Malajsie bez ohledu na následky. Když jsme mu vysvětlili závažnost tohoto rozhodnutí, [SIA.GetLeader] se nenechal přesvědčit a odmítl splnit jakékoli požadavky. Bohužel nám to ponechává jen málo možností, jak pokračovat." # todo: NEW TRANSLATION
+ INS_martial_law_events.11.a: "Pak bude válka." # todo: NEW TRANSLATION
+ INS_martial_law_events.12.t: "[FROM.GetName] nás informuje, že [SIA.GetName] odmítl vyhovět" # todo: NEW TRANSLATION
+ INS_martial_law_events.12.desc: "Vyslanci z [FROM.GetName] dorazili do [ROOT.GetCapitalVictoryPointName] se špatnou zprávou, že [SIA.GetAdjective] zcela odmítl vyhovět jakémukoli převodu či jednání a že [JAP.GetNameDef] formálně vyhodil [SIA.GetNameDef] z frakce." # todo: NEW TRANSLATION
+ INS_martial_law_events.12.a: "Pak bude válka." # todo: NEW TRANSLATION
+ INS_martial_law_events.13.t: "[FROM.GetName] žádá o suzerénství nad [SIA.GetName]" # todo: NEW TRANSLATION
+ INS_martial_law_events.13.desc: "[FROM.GetName] nás informoval o své touze získat suzerénství nad [SIA.GetName], neboť [FROM.GetLeader] věří, že [SIA.GetName] je slabá země neschopná hájit sama sebe, což se naplno projevilo jejím okamžitým podrobením se požadavku ohledně Severní Malajsie. Přínos [INS.GetName] pro frakci není zanedbatelný a zdá se, že pokud jejich žádosti nevyhovíme, riskujeme ztrátu spojence." # todo: NEW TRANSLATION
+ INS_martial_law_events.13.a: "Zasloužili si ho." # todo: NEW TRANSLATION
+ INS_martial_law_events.13.b: "V žádném případě." # todo: NEW TRANSLATION
+ INS_martial_law_events.14.t: "[FROM.GetName] souhlasí s převodem" # todo: NEW TRANSLATION
+ INS_martial_law_events.14.desc: "Vláda [FROM.GetName] souhlasila s tím, že [SIA.GetNameDef] s okamžitou platností podřídí naší autoritě." # todo: NEW TRANSLATION
+ INS_martial_law_events.14.a: "Výborně." # todo: NEW TRANSLATION
+ INS_martial_law_events.15.t: "[FROM.GetName] odmítá převod" # todo: NEW TRANSLATION
+ INS_martial_law_events.15.desc: "Vláda [FROM.GetName] odmítla převést suzerénství nad [SIA.GetName] na nás navzdory její prokázané neschopnosti bránit se." # todo: NEW TRANSLATION
+ INS_martial_law_events.15.a: "Škoda." # todo: NEW TRANSLATION
+ INS_martial_law_events.16.t: "Nové vedení pro [ROOT.GetName]" # todo: NEW TRANSLATION
+ INS_martial_law_events.16.desc: "S přestavbou naší vlády na Unii indonéských provincií bude dosavadní systém, v němž prezidentský orgán dohlížel na demokraticky zvolenou radu, nahrazen novým federálním prezidentským systémem. Musíme zvolit nového prezidenta." # todo: NEW TRANSLATION
+ INS_martial_law_events.16.a: "Jde jen o vnitřní reorganizaci, ponechme stejné vedení." # todo: NEW TRANSLATION
+ INS_martial_law_events.16.b: "Vedení převezme Hatta." # todo: NEW TRANSLATION
+ INS_martial_law_events.16.c: "Kartosoewirjo je oblíbenou volbou!" # todo: NEW TRANSLATION
+ INS_martial_law_events.16.d: "Prozatím je zapotřebí vojenská vláda." # todo: NEW TRANSLATION
  AST_union_control_events.1.t: "Zahraniční agenti v našich odborech"
  AST_union_control_events.1.desc: "Zpravodajské služby předložily vládě znepokojivou zprávu. Australští komunističtí operativci navazují kontakty s místními odborovými předáky, rozdávají radikální literaturu a povzbuzují dělníky k organizování v revolučním duchu. Hnutí je zatím malé, ale bezpečnostní činitelé varují, že přesně takové věci začínají. Je třeba rozhodnout, než zakoření."
  AST_union_control_events.1.a: "Držte je pod dohledem. Budeme sledovat a čekat."
@@ -1048,6 +1146,3 @@
  ABDA_events.4.c: "Vyvážený přístup. Žádná cesta útoku nesmí zůstat nebráněná."
  ABDA_fortress_singapore_choice_tt: "Dokončení tohoto zaměření nabídne volbu, jak opevnit Singapur."
  ABDA_faction_membership_requirement_tt: "Způsobilí členové frakce obdrží pozvánky ke vstupu."
- AST_diplomatic_events.46.t: "Převod suzerenity"
- AST_diplomatic_events.46.desc: "Ve snaze zvýšit společný vliv na diplomacii a konflikty v jihovýchodní Asii se [ENG.GetNameDefCap] převádí kontrolu nad našimi zeměmi do rukou [AST.GetNameDef]. Protože [AST.GetName] leží v tomto regionu, očekává se, že jejich suzerenita bude účinnější než britská."
- AST_diplomatic_events.46.a: "Zjevně do toho nemáme co mluvit."

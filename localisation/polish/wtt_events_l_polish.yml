@@ -1117,7 +1117,3 @@
  britain.27.t: "[ICE.GetNameDefCap] odmítá náš návrh"
  britain.27.desc: "[ICE.GetAdjectiveCap] vláda odmítla naše ultimátum k poslušnosti s tím, že věří v neutralitu a rozhodně odmítá být zatažena do války, se kterou nemají nic společného.\nTvrdí, že tímto příkazem je jejich nezávislost jak porušena, tak okatě pošlapána. Bohužel toto je moderní válka a v moderní válce nemůže existovat žádná neutrální strana; i když tohoto kroku litujeme, musíme udělat, co je nutné."
  britain.27.a: "Politováníhodný, ale nezbytný krok"
- generic.17.d: "Ve službě pro [From.From.GetNameDef] se zdá, že [From.GetRank] [From.GetName] měl na sebe příliš vysoké nároky. V důsledku špatného klimatu v jeho operační oblasti onemocněl a pravděpodobně bude potřebovat čas na zotavení. Dokud se neuzdraví, nebude podávat svůj obvyklý výkon."
- generic.17.t: "[From.GetName] onemocněl"
- generic.18.d: "Při úspěšné bitvě se zdá, že [From.GetRank] [From.GetName] příliš riskoval, když vedl své muže. Byl zraněn a bude pravděpodobně potřebovat čas, aby se plně uzdravil, během kterého nebude podávat svůj obvyklý výkon."
- generic.18.t: "[From.GetName] zraněn"

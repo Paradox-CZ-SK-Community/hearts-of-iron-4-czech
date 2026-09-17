@@ -623,6 +623,8 @@
  TRIGGER_IS_NOT_LEADING_ARMY: "Nevelí armádě"
  TRIGGER_IS_LEADING_ARMY_IN_PROVINCE: "Je velitelem armády v $NAME|H$"
  TRIGGER_IS_NOT_LEADING_ARMY_IN_PROVINCE: "Není velitelem armády v $NAME|H$"
+ TRIGGER_IS_DEPLOYED: "Je nasazen" # todo: NEW TRANSLATION
+ TRIGGER_IS_NOT_DEPLOYED: "Není nasazen" # todo: NEW TRANSLATION
  TRIGGER_IS_LEADING_ARMY_GROUP: "Velí armádní skupině"
  TRIGGER_IS_NOT_LEADING_ARMY_GROUP: "Nevelí armádní skupině"
  TRIGGER_CAN_BE_CAPTURED: "Může být zajat"
@@ -644,6 +646,8 @@
  TRIGGER_LESS_THAN_TEMPERATURE: "Teplota nižší než $NUM|H0$"
  TRIGGER_FIGHTING_ON_TERRAIN: "Bojuje na terénu: $TYPE|H$"
  TRIGGER_FIGHTING_NOT_ON_TERRAIN: " nebojuje na terénu: $TYPE|H$"
+ TRIGGER_FIGHTING_IN_STRATEGIC_REGION: "Bojuje ve strategickém regionu: $REGION|H$" # todo: NEW TRANSLATION
+ TRIGGER_NOT_FIGHTING_IN_STRATEGIC_REGION: "Neboj uje ve strategickém regionu: $REGION|H$" # todo: NEW TRANSLATION
  TRIGGER_IS_CAPITAL: "Je hlavní město"
  TRIGGER_IS_NOT_CAPITAL: "Není hlavní město"
  TRIGGER_MANPOWER_IN_DEPLOYMENT_QUEUE: "personál ve frontě"

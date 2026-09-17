@@ -340,6 +340,8 @@
  AST_neutrality_party_long: "Australská venkovská strana"
  AST_colonial_administration: "KS"
  AST_colonial_administration_long: "Koloniální správa"
+ AST_house_of_hore-ruthven: "Rod Hore-Ruthven" # todo: NEW TRANSLATION
+ AST_house_of_hore-ruthven_long: "Rod Hore-Ruthven" # todo: NEW TRANSLATION
  AST_democratic_party: "UAP"
  AST_democratic_party_long: "Sjednocená australská strana"
  AST_labor_party: "ALP"

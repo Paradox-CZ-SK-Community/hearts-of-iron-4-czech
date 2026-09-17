@@ -1,0 +1,6 @@
+﻿l_polish:
+ operation_SIA_sabotage_indochina_ports: "Sabotáž indočínských přístavů" # todo: NEW TRANSLATION
+ operation_SIA_sabotage_indochina_ports_desc: "Propašujte demoliční týmy do velkých přístavů Francouzské Indočíny a předem umístěte nálože na mola, jeřáby a sklady paliva. Zůstanou nečinné až do dne našeho pochodu, kdy přístavy jediným úderem vyletí do povětří, ještě než se k nim nepřátelské loďstvo stihne rozptýlit." # todo: NEW TRANSLATION
+ operation_SIA_sabotage_indochina_ports_potential_tt: "§YPokud uspěje:§! Umístí skryté nálože do indočínských přístavů (§YAnnam§!, §YTonk in§! a §YKambodža§!). Nálože vybuchnou ve chvíli, kdy zahájíme válku s jejich držitelem, a zcela zničí každou námořní základnu." # todo: NEW TRANSLATION
+ operation_SIA_sabotage_indochina_ports_failed_tt: "§ROperace selhala:§! našim týmům se nepodařilo umístit nálože." # todo: NEW TRANSLATION
+ SIA_plant_indochina_port_charges_tt: "Skryté demoliční nálože byly umístěny v §Yindočínských přístavech§!; vybuchnou, jakmile zahájíme válku s jejich držitelem." # todo: NEW TRANSLATION

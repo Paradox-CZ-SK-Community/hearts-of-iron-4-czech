@@ -399,5 +399,3 @@
  POSITIONING_CARRIER_RATIO_PENALTY: "Více nepřátelských palubních letadel: $NUM|+%$"
  COMBAT_LOG_FRIENDLY: "Spojenecké síly"
  COMBAT_LOG_ENEMY: "Nepřátelské síly"
- BM_TEMPORARY_UNIT_BONUS: "Bonus schopnosti velitele"
- BM_TEMPORARY_UNIT_BONUS_DESC: "Bojové statistiky jednotek mohou být dočasně zvýšeny různými bojovými schopnostmi."

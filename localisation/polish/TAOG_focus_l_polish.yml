@@ -282,8 +282,12 @@
  INS_increase_laskar_funding_desc: "Naše milice tvoří většinu našich sil. Musíme to uznat a odpovídajícím způsobem je financovat, i když se [INS.GetLeader] netěší jejich plné loajalitě."
  INS_develop_a_functioning_airforce: "Vybudovat řádné letectvo"
  INS_develop_a_functioning_airforce_desc: "Letectvo má na armádu velký dopad; měli bychom upřednostnit jeho vytvoření."
- INS_political_stabilization: "Obnovit pořádek"
- INS_political_stabilization_desc: "Náš národ je s každým dnem nestabilnější. Pokud brzy nezareagujeme, občanská válka bude téměř nevyhnutelná. Musíme zahájit jednání mezi Národním výborem, prezidentem a vůdci milicí, abychom našli řešení."
+ INS_political_stabilization: "Ústřední indonéský národní výbor" # todo: CHANGED
+ INS_political_stabilization_desc: "Abychom ukončili rozbroje mezi mnoha politickými frakcemi v Indonésii, musíme ostatním frakcím udělit ústupky a umožnit nám soustředit se na probíhající konflikt. Zřídíme polodemokratický výbor pod dohledem prezidenta, který bude sloužit jako parlamentní orgán Indonésie." # todo: CHANGED
+ INS_nationalize: "Znacionalizovat!" # todo: NEW TRANSLATION
+ INS_nationalize_desc: "Naše nově nezávislá republika je stále sužována pozůstatky nizozemské vlády. Vojenské průmyslové společnosti, ropné společnosti, zemědělské společnosti a mnohé další jsou všechny přímo či nepřímo napojeny na Nizozemsko. Aby byla naše republika skutečně nezávislá, musíme zřídit vlastní národní instituce, které převezmou indonéský majetek těchto korporací." # todo: NEW TRANSLATION
+ INS_restore_order: "Obnovit pořádek" # todo: NEW TRANSLATION
+ INS_restore_order_desc: "Náš národ je každým dnem nestabilnější. Pokud brzy nezareagujeme, občanské válce se téměř jistě nevyhneme. Musíme zahájit jednání mezi Národním výborem, prezidentem a vůdci milicí, abychom našli řešení." # todo: NEW TRANSLATION
  INS_vice_presidential_edict: "Podepsat viceprezidentský edikt X"
  INS_vice_presidential_edict_desc: "Národní výbor téměř jednomyslně požaduje skutečnou zákonodárnou moc. Prezidentovi byla předána petice navrhující hybridní systém, v němž se Národní výbor stane nezávislým parlamentem sdílejícím zákonodárné pravomoci s prezidentem. Nabídka je lákavá, ale hrozí, že prezidentská moc se stane zanedbatelnou."
  INS_local_cooperatives: "Zřídit místní družstva"
@@ -353,8 +357,43 @@
  INS_hatta_princely_advisors: "Integrovat knížecí státy"
  INS_hatta_princely_advisors_desc: "Ve sdílené rozmanitosti nacházíme jednotu. Na tomto principu jsme založili náš národ, ale konec revoluce tuto myšlenku zatížil kvůli nedostatku společného boje. Abychom předešli zášti a povstáním menšinových skupin, měli bychom zřídit dodatečnou radu, v níž budou mít místní vládci z knížecích států přímé slovo v národní politice."
  INS_prime_minister_tt: "První indonéské všeobecné volby se konaly"
- INS_guided_democracy: "Řízená demokracie"
- INS_guided_democracy_desc: "Demokracie může být ideálem, ale předat moc lidu právě teď povede jen k chaosu. Povýšíme Sukarna na doživotního prezidenta, který bude dohlížet na demokratický parlament a v případě potřeby zasáhne."
+ INS_guided_democracy: "Vyhlásit stanné právo" # todo: CHANGED
+ INS_guided_democracy_desc: "Nyní je zřejmé, že rozdělení moci vytvořením Národního výboru bylo chybou a vedlo pouze k nestabilitě. Nesmíme to nechat pokračovat, pokud nechceme další občanskou válku. Musíme vyhlásit stanné právo a dočasně převzít kontrolu nad výborem, dokud nebude obnoven pořádek." # todo: CHANGED
+ INS_centralization: "Centralizace" # todo: NEW TRANSLATION
+ INS_centralization_desc: "Moc bude soustředěna na Jávě, zatímco ostatní ostrovy získají omezenou autonomii. Všechna rozhodnutí musí procházet přes Jávu, aby byl zajištěn pořádek a stabilita. Prezident bude dohlížet na demokracii." # todo: NEW TRANSLATION
+ INS_abolish_national_committee: "Zrušit Národní výbor" # todo: NEW TRANSLATION
+ INS_abolish_national_committee_desc: "Národní výbor bude zrušen a nahrazen Pracovním výborem podřízeným prezidentství. Prezident bude vykonávat svůj úřad doživotně, aby byl zachován pořádek. Pracovnímu výboru bude postupně přidělováno více pravomocí, nikoli všechny najednou." # todo: NEW TRANSLATION
+ INS_abolish_national_committee_tt: "Podpora pro §Y[ROOT.GetNeutralParty]§! bude nastavena na §Y100 %§!." # todo: NEW TRANSLATION
+ INS_pancasila_achieved: "Dosažena Pancasila" # todo: NEW TRANSLATION
+ INS_pancasila_achieved_desc: "Když jsme tuto zemi založili, postavili jsme ji na pěti principech Pancasily: víře v jediného boha, spravedlivém a civilizovaném lidství, jednotě Indonésie, demokratickém životě vedeném moudrostí a sociální spravedlnosti pro všechny obyvatele Indonésie. Ačkoli se nám ne vždy dařilo podle těchto principů jednat, konečně jsme dosáhli jednoty, kterou původní principy předpokládaly, a můžeme oficiálně zahájit další fázi pokračující prosperity naší republiky." # todo: NEW TRANSLATION
+ INS_the_co_prosperity_sphere: "Sféra společné prosperity" # todo: NEW TRANSLATION
+ INS_the_co_prosperity_sphere_tt: "Odemkne rozhodnutí §Y$INS_request_membership$§! a §Y$INS_assume_complete_power$§!, které změní zemi na §Y$INS_sukarno$ fašistickou§!." # todo: NEW TRANSLATION
+ INS_the_co_prosperity_sphere_desc: "Ačkoli proti spolupráci s Japonci existuje značný odpor, v těchto nestabilních časech je v našem nejlepším zájmu spojit síly se silnější mocností a postavit se západním Spojencům." # todo: NEW TRANSLATION
+ INS_strengthen_ins_jap_trade: "Posílit obchod mezi [ROOT.GetAdjective] a [JAP.GetAdjective]" # todo: NEW TRANSLATION
+ INS_strengthen_ins_jap_trade_desc: "Měli bychom zlepšit obchodní vztahy mezi námi a naším novým spojencem. Pokud budeme prodávat naše přebytečné zdroje za výrazně nižší ceny, můžeme dokázat svou užitečnost a po válce získat větší vyjednávací sílu." # todo: NEW TRANSLATION
+ INS_seek_recognition_of_mal_claims: "Usilovat o uznání našich malajských nároků" # todo: NEW TRANSLATION
+ INS_seek_recognition_of_mal_claims_desc: "Malajsko a Severní Borneo jsou našeho původu, rozdělují je pouze tenké koloniální hranice. Měli bychom usilovat o to, aby [JAP.GetNameDef] uznalo naše právo na toto území a přislíbilo nám je, jakmile porazíme Británii." # todo: NEW TRANSLATION
+ INS_demand_northern_malay: "Požadovat Severní Malajsko" # todo: NEW TRANSLATION
+ INS_demand_northern_malay_desc: "Severní Malajsko dnes patří Siamu, přestože je etnicky malajské. Nebudeme tolerovat, aby takzvaný „spojenec“ okupoval naše území. Musíme požadovat zásah Japonska." # todo: NEW TRANSLATION
+ INS_siam_agreement: "Siamská dohoda" # todo: NEW TRANSLATION
+ INS_siam_agreement_desc: "Siam je slabý národ, který se nedokáže postavit sám za sebe. Japonsku jsme prokázali svou užitečnost a ono nadále podléhá nátlaku. Není pochyb o tom, že na tom budeme všichni lépe, pokud se Siam stane indonéským loutkovým státem." # todo: NEW TRANSLATION
+ INS_local_autonomy: "Místní autonomie" # todo: NEW TRANSLATION
+ INS_local_autonomy_industry_tt: "§Y1§! civilní továrna bude §Rodstraněna§! ze států §Y[1051.GetName]§!, §Y[335.GetName]§! a §Y[1058.GetName]§!.\n§Y1§! civilní továrna bude §Gpřidána§! do §Y4 náhodně vybraných vlastněných států§!." # todo: NEW TRANSLATION
+ INS_local_autonomy_desc: "Mnoho ostrovů tvořících Indonésii má odlišné kultury, jazyky a potřeby. Je nerozumné předpokládat, že je jedna vláda dokáže všechny úspěšně spravovat. Začneme reformovat Indonésii na federaci, v níž bude mít každá provincie značnou míru autonomie." # todo: NEW TRANSLATION
+ INS_union_of_ins_states: "Svaz [ROOT.GetAdjective] provincií" # todo: NEW TRANSLATION
+ INS_union_of_ins_states_desc: "Provinciím bychom měli poskytnout ještě větší autonomii a omezit úlohu federální vlády především na mezprovinční a vnější záležitosti. Zvolíme nového federálního prezidenta podle přání provincií. Místní vládci budou moci svobodně vytvořit vlastní struktury vedení podle svého uvážení." # todo: NEW TRANSLATION
+ INS_union_of_ins_states_tt: "\nUvolní §Y[ATJ.GetName]§!, §Y[BLI.Getname]§!, §Y[SSI.GetName]§!, §Y[TNE.GetName]§!, §Y[POK.GetName]§! a §Y[GOW.GetName]§! jako §Y$autonomy_taog_indonesian_union_state$s§!." # todo: NEW TRANSLATION
+ INS_indonesian_inter_province_trade_agreement: "[ROOT.GetAdjective] mezprovinční obchodní dohoda" # todo: NEW TRANSLATION
+ INS_indonesian_inter_province_trade_agreement_tt: "Všechny §Yindonéské§! země získají:" # todo: NEW TRANSLATION
+ INS_indonesian_inter_province_trade_agreement_desc: "Obchod mezi provinciemi musí být rychlý a levný. Zajistíme, aby bylo téměř vždy výhodnější nakupovat od jiné provincie a prodávat jí než obchodovat s jinou zemí, a to výrazným snížením obchodních daní a výstavbou nové mezprovinční infrastruktury." # todo: NEW TRANSLATION
+ INS_expanding_the_union: "Rozšířit svaz" # todo: NEW TRANSLATION
+ INS_expanding_the_union_desc: "Obyvatelé Severního Bornea žili pod tyranií příliš dlouho. Využijeme partyzánskou válku, abychom donutili Brity ustoupit a umožnili Bruneji, Sabahu a Sarawackému rádžovi stát se provinciemi Indonésie." # todo: NEW TRANSLATION
+ INS_expanding_the_union_tt: "Odemkne rozhodnutí k zahájení §Yomezené války§! o všechny státy na §YBorneu§!, které dosud nekontrolujeme." # todo: NEW TRANSLATION
+ INS_dismantle_indonesia: "Rozložit [ROOT.GetName]" # todo: NEW TRANSLATION
+ INS_dismantle_indonesia_tt: "§YRozloží federaci§! a umožní zvolit stát, z něhož budete vládnout. Zbývající provincie budou osvobozeny." # todo: NEW TRANSLATION
+ INS_dismantle_indonesia_desc: "Vyzkoušeli jsme mnoho forem vlády a všechny skončily nestabilitou. Revoluce skončila a nizozemští kolonizátoři byli poraženi; již nemusíme stát společně jako jednotná fronta. Federaci zcela rozložíme a místním sultánům ponecháme volnou ruku k založení vlastních nezávislých zemí." # todo: NEW TRANSLATION
+ INS_all_toward_the_war_effort: "Všechno pro válečné úsilí" # todo: NEW TRANSLATION
+ INS_all_toward_the_war_effort_desc: "Námi vedené malajské a [AST.GetAdjective] fronty na dlouhá léta určí výsledek malajské jednoty. Nemůžeme šetřit žádné zdroje, všechno musí být věnováno statečným vojákům bojujícím za malajskou svobodu." # todo: NEW TRANSLATION
  INS_enact_militarism: "Zavést militarismus"
  INS_enact_militarism_desc: "Měli bychom si vzít několik ponaučení, které může poskytnout [JAP.GetNameDefCap] a jeho militaristické politiky. Přijetí podobných principů prospěje naší nové vládě."
  INS_sukarnos_industrialization: "Posílit jávský průmysl"
@@ -376,14 +415,39 @@
  INS_purge_oppurtunists_tt: "Odemkne §Y$INS_launch_revolution$§! v zemích s §Y60 %§! nebo vyšší podporou komunismu. Země, v nichž podnítíme revoluce, se stanou našimi §Yloutkami§!."
  INS_purge_oppurtunists: "Odstranit oportunisty"
  INS_purge_oppurtunists_desc: "Musso strávil dvacet let v Moskvě učením se, jak poslouchat rozkazy. Vrátil se se sovětskými instrukcemi v kapse a plánem proměnit naši republiku v loutku Kominterny. Nesvrhli jsme Nizozemce proto, abychom poklekli před dalším cizím pánem. Oportunisté, kteří by naši revoluci prodali Moskvě, musí být vykořeněni a národy, které osvobodíme, budou vzhlížet k Jakartě, nikoli ke Kremlu."
+ INS_the_maphilindo_speech: "Maphilindský projev" # todo: NEW TRANSLATION
+ INS_the_maphilindo_speech_desc: "Pokud jsou Betawi a Banjar Indonésany navzdory kulturním rozdílům díky společnému boji proti tyranii, pak není důvod, proč by Malajec a Filipínec také neměli být Indonésany. Musíme tyto země sjednotit v jeden stát!" # todo: NEW TRANSLATION
+ INS_the_maphilindo_speech_tt: "Umožní připojování domovských území a anektování §Ymalajských§! subjektů" # todo: NEW TRANSLATION
+ INS_pan_asian_union: "Všeasijský svaz" # todo: NEW TRANSLATION
+ INS_pan_asian_union_desc: "Pacifická revoluce teprve začíná a stále nejsme v bezpečí. Musíme stát při sobě a spolupracovat, abychom se navzájem chránili před velmocemi světa. Společně jsme silní." # todo: NEW TRANSLATION
  INS_federation_of_aslia: "Federace Aslie"
+ INS_federation_of_aslia_trigger_tt: "Dokončeno rozhodnutí §Y$form_maphilindo$§!." # todo: NEW TRANSLATION
  INS_federation_of_aslia_desc: "Národy, které jsme osvobodili, nemusí stát osamoceně. Tan Malaka si vždy představoval něco většího než jednu republiku. Federaci od pevniny po Pacifik, sjednocenou proti každé koloniální mocnosti, která by se odvážila vrátit. Nabídneme jim plné členství v našem státě."
  INS_aslia_tt: "Umožňuje integrovat jako domovská území a anektovat §Ypacifické§! subjekty"
+ INS_pan_economic_area: "Všeasijský hospodářský prostor" # todo: NEW TRANSLATION
+ INS_pan_economic_area_desc: "Hospodářská spolupráce uvnitř svazu je zásadní pro naši společnou prosperitu. Musíme usnadnit bezcelní obchod mezi všemi členskými státy, abychom snížili naši závislost na vnějších zemích." # todo: NEW TRANSLATION
+ INS_pan_economic_area_tt: "Všichni členové frakce, kteří jsou subjektem země §Y[ROOT.GetNameDef]§!" # todo: NEW TRANSLATION
  INS_musso_ascends: "Musso se ujímá moci"
  INS_musso_ascends_tt: "Odemkne §Y$INS_launch_revolution$§! v zemích s §Y30 %§! nebo vyšší podporou komunismu. Země, v nichž podnítíme revoluce, zůstanou nezávislé."
  INS_musso_ascends_desc: "Tan Malaka je snílek. Musso přináší to, co snílci nedokážou: plnou podporu Sovětského svazu a solidaritu mezinárodního komunistického hnutí. Naše revoluce nemusí stát osamoceně."
+ INS_utilize_comintern_connections: "Využít kontakty Kominterny" # todo: NEW TRANSLATION
+ INS_utilize_comintern_connections_desc: "Mussoho kontakty s vysoce postavenými představiteli Kominterny usnadňují proces vstupu do Kominterny. Měli bychom ho bez prodlení vyslat do [SOV.GetNameDef], aby vyjednával." # todo: NEW TRANSLATION
+ INS_united_against_japan: "Spojeni proti [JAP.GetNameDef]" # todo: NEW TRANSLATION
+ INS_united_against_japan_desc: "Ačkoli nikdo netouží stát na straně Spojenců a jizva po Nizozemcích dosud nezmizela, musíme dočasně odložit své rozdíly a bojovat proti společnému nepříteli, jinak riskujeme, že [ROOT.GetName] ovládne další suzerén." # todo: NEW TRANSLATION
+ INS_revolutionary_economic_cooperation: "Revoluční hospodářská spolupráce" # todo: NEW TRANSLATION
+ INS_revolutionary_economic_cooperation_desc: "Zachránili jsme životy mnoha milionů lidí, kteří již nežijí pod tyranií. Nyní musíme společně budovat. Spoluprací a obchodem můžeme vytvořit silná hospodářství a armády, které nás po mnoho let ochrání před cizími mocnostmi." # todo: NEW TRANSLATION
+ INS_revolutionary_economic_cooperation_tt: "Získá §Y$INS_revolutionary_economic_cooperation_modifier$§!, který poskytuje:\n§Y4 %§! stability §Yza každou zemi§!, v níž jsme §Yzahájili revoluci§!\n§Y4 %§! rychlosti výstavby §Yza každou zemi§!, v níž jsme §Yzahájili revoluci§!\n§Y4 %§! zisku politické síly §Yza každou zemi§!, v níž jsme §Yzahájili revoluci§!\n§Y-4 %§! spotřebního zboží §Yza každou zemi§!, v níž jsme §Yzahájili revoluci§!\n\nV současnosti jsme zahájili revoluce v §Y[?INS_communist_revolts_succeeded]§! zemích." # todo: NEW TRANSLATION
  INS_soviet_economic_integration: "Sovětská hospodářská integrace"
  INS_soviet_economic_integration_desc: "Revoluce nám dala svobodu, ale svoboda sama továrny nepostaví ani masy nenakrmí. Sovětský svaz nabízí to, co žádná kapitalistická mocnost nenabídne: průmyslové know-how, rozvojové úvěry a obchod za podmínek bez koloniálních pout. Byli bychom hlupáci, kdybychom odmítli."
+ INS_the_three_year_plan: "Tříletý plán" # todo: NEW TRANSLATION
+ INS_the_three_year_plan_desc: "Vyhlásíme tříletý plán pro naše hospodářství, který nás bude dlouhodobě vést a zkrátí čas strávený byrokracií." # todo: NEW TRANSLATION
+ INS_the_three_year_plan_tt: "§YNárodní duch§! se bude každý měsíc zlepšovat o §G1 %§!, dokud nedosáhne plného potenciálu ve výši §Y26 %§!." # todo: NEW TRANSLATION
+ INS_realign_export_markets: "Přeorientovat vývozní trhy" # todo: NEW TRANSLATION
+ INS_realign_export_markets_desc: "Musíme posílit naše globální obchodní vztahy a snížit závislost na několika velmocích. Místo toho bychom měli uzavírat mnoho menších obchodů s menšími zeměmi a společnostmi." # todo: NEW TRANSLATION
+ INS_divert_javanese_education_funding_the_east: "Přesměrovat jávské prostředky na vzdělávání na východ" # todo: NEW TRANSLATION
+ INS_divert_javanese_education_funding_the_east_desc: "Není pochyb o tom, že bývalí koloniální vládci investovali pouze do rozvoje Jávy a na zdroje bohatých částí Sumatry, zatímco zbytek kolonie nechali chátrat. Tuto křivdu můžeme napravit odebráním části rozpočtu na vzdělávání na Jávě a jeho přesměrováním na výstavbu nových škol na východě." # todo: NEW TRANSLATION
+ INS_eastern_universities: "Východní univerzity" # todo: NEW TRANSLATION
+ INS_eastern_universities_desc: "Výstavbou nových univerzit na východě zpřístupníme vyšší vzdělání většímu počtu občanů a povzbudíme studenty, aby se za studiem vzdálených škol stěhovali z Jávy. Tím zmenšíme kulturní rozdíly mezi Jávou a zbytkem [ROOT.GetName]." # todo: NEW TRANSLATION
  INSHOL_revolution_ongoing_tt: "Probíhá indonéská revoluce"
  INSHOL_reasserting_control: "Znovu prosadit kontrolu nad Indiemi"
  INSHOL_reasserting_control_desc: "Nemůžeme nečinně přihlížet, jak se tito oportunisté pokoušejí zničit to, co jsme po staletí budovali, zatímco ničí naši infrastrukturu a radikalizují mládež. Musíme jednat!"
@@ -1102,6 +1166,9 @@
  SIA_the_army_of_siam_desc: "Stará struktura našich ozbrojených sil již neodpovídá požadavkům doby. Má-li [ROOT.GetName] bránit svou svrchovanost a prosazovat své zájmy v zahraničí, musíme vybudovat novou moderní armádu, vybavenou, vycvičenou a organizovanou pro války, které se nyní formují po celém světě."
  SIA_plan_for_a_short_war: "Plánovat krátkou válku"
  SIA_plan_for_a_short_war_desc: "Naše zdroje jsou omezené a nepřátel může být mnoho. [ROOT.GetNameDefCap] si nemůže dovolit dlouhý vyčerpávací zápas. Pokud válka přijde, musí být rychlá, rozhodná a dovedená k závěru dříve, než nepřítel shromáždí sílu."
+ SIA_plan_for_a_short_war_tt: "Při prvním útoku §Y[SIA.GetName]§! na jinou zemi získá " # todo: NEW TRANSLATION
+ SIA_plan_for_a_short_war_tt2: "na §Y90 dní§!.\n\nPo vypršení tohoto ducha získá: " # todo: NEW TRANSLATION
+ SIA_plan_for_a_short_war_tt3: "na §Y90 dní§!" # todo: NEW TRANSLATION
  SIA_intermediate_war_preparation: "Střednědobá válečná příprava"
  SIA_intermediate_war_preparation_desc: "Je nebezpečné připravovat se pouze na bleskové tažení, ale plýtváním by bylo organizovat se výhradně pro nekonečný zápas. Vyvážená doktrína umožní, ať [ROOT.GetName] udeří s vervou a zároveň si ponechat vytrvalost potřebnou k čelení houževnatějšímu nepříteli."
  SIA_prepare_for_a_long_war: "Připravit se na dlouhou válku"
@@ -1112,6 +1179,8 @@
  SIA_artillery_reigns_supreme_desc: "Moderní bitva se nevyhrává jen duchem. Dělo zůstává králem bojiště, láme opěrné body, tříští útoky a razí cestu pěchotě. Máme-li zvítězit, [ROOT.GetAdjective] palebná síla musí být hojná i přesná."
  SIA_yield_the_air_war: "Vzdát se vzdušné války"
  SIA_yield_the_air_war_desc: "Nemůžeme doufat, že vyzveme velmoci na nebi za rovných podmínek. Místo plýtvání vzácnými zdroji v zápase, který pravděpodobně nevyhrajeme, posílíme protileteckou obranu a upřeme nepřátelským letadlům svobodu útočit na naše muže a města bez následků."
+ SIA_camouflage: "Kamufláž" # todo: NEW TRANSLATION
+ SIA_camouflage_desc: "Pokud nemůžeme ovládnout oblohu, nedovolíme nepříteli, aby pod ní našel cokoli, co stojí za úder. Sítě, rozptýlení a disciplína nočního pohybu skryjí naše kolony před zraky nahoře a střelci, které s nimi cvičíme, učiní každý průlet nákladným." # todo: NEW TRANSLATION
  SIA_the_thunder_at_the_gates: "Bouře před branami"
  SIA_the_thunder_at_the_gates_desc: "Existují pevnosti, které obyčejná děla nezlomí, a útoky, které musí být oznámeny zdrcující silou. Těžké dělostřelectvo, obléhací děla a železniční baterie dají pro [ROOT.GetNameDef] sílu rozbít brány každého nepřítele, který si naši zdrženlivost splete se slabostí."
  SIA_night_time_training: "Noční výcvik"
@@ -1304,6 +1373,92 @@
  SIA_license_modern_airframes_desc: "[ROOT.GetNameDefCap] zatím nedokáže navrhnout každé letadlo, které potřebuje. Praktičtější cestou je licencovat zahraniční modely, studovat jejich konstrukci a přizpůsobit je našemu klimatu, letištím a zásobovacím podmínkám pod dohledem ředitelství."
  SIA_tropical_air_operations: "Tropické letecké operace"
  SIA_tropical_air_operations_desc: "Horko, vlhkost, monzunové deště a drsná předsunutá letiště kladou na letadla i posádky vlastní nároky. Přizpůsobením motorů, harmonogramů údržby a pilotní doktríny těmto podmínkám může ředitelství učinit naše letectvo spolehlivějším na obloze nad jihovýchodní Asií."
+ SIA_thai_french_liaison: "Thajsko-francouzské styky" # todo: NEW TRANSLATION
+ SIA_thai_french_liaison_no_indochina_tt: "Neokupujeme žádnou část Francouzské Indočíny (Laos, Kambodžu ani Vietnam)" # todo: NEW TRANSLATION
+ SIA_thai_french_liaison_desc: "Pouta vytvořená v době, kdy se naši první letci cvičili ve Francii, stále trvají. Dokud Paříž a Bangkok zůstávají v míru, stálé styky zajišťují přísun francouzských technických znalostí, příruček a dobré vůle našemu letectvu." # todo: NEW TRANSLATION
+ SIA_expand_don_mueang: "Rozšířit leteckou základnu Don Mueang" # todo: NEW TRANSLATION
+ SIA_expand_don_mueang_desc: "Don Mueang je bijícím srdcem našeho letectva. Nové ranveje, hangáry a sklady z něj učiní základnu hodnou moderního letectva a kovadlinu, na níž budou kovány naše letky." # todo: NEW TRANSLATION
+ SIA_hawk_iii_production_line: "Výrobní linka Hawk III" # todo: NEW TRANSLATION
+ SIA_hawk_iii_production_line_desc: "Hawk III je našim pilotům i dílnám již dobře znám. Standardizace na osvědčeném stíhacím letounu vyráběném v licenci nám poskytne čas, než se rozhodneme, co bude modernizace skutečně znamenat." # todo: NEW TRANSLATION
+ SIA_mixed_inventory_standardization: "Standardizace smíšené výzbroje" # todo: NEW TRANSLATION
+ SIA_mixed_inventory_standardization_desc: "Americké, japonské a starší francouzské postupy samy o sobě nevytvoří soudržné letectvo. Náhradní díly, označení, rádia a údržbářská disciplína musí být standardizovány, než přijde další válka." # todo: NEW TRANSLATION
+ SIA_womens_auxiliary_air_force: "Ženské pomocné letectvo" # todo: NEW TRANSLATION
+ SIA_womens_auxiliary_air_force_desc: "Každý mechanik, písařka a radistka uvolnění z pozemních posádek znamenají dalšího pilota ve vzduchu. Thajské ženy se již osvědčily v nemocnicích a úřadech; letiště Don Mueang nebudou výjimkou." # todo: NEW TRANSLATION
+ SIA_air_defense_of_the_kra: "Letecká obrana Kra" # todo: NEW TRANSLATION
+ SIA_air_defense_of_the_kra_desc: "Jižní Thajsko je spojnicí mezi Malajskem a Barmou. Každá mocnost postupující poloostrovem bude čelit thajským letištím, pozorovacím stanovištím a stíhačům. Budeme držet oblohu nad vlastní půdou, místo abychom sahali po obloze jiných." # todo: NEW TRANSLATION
+ SIA_the_interceptor_force: "Stíhací síly" # todo: NEW TRANSLATION
+ SIA_the_interceptor_force_desc: "Stálé hlídky a síť pozemních pozorovatelů promění naše stíhače ve skutečné stíhací síly. Radar a rychlé starty zachytí nájezdníky dříve, než dorazí k našim městům." # todo: NEW TRANSLATION
+ SIA_hardened_air_defenses: "Zodolněná letecká obrana" # todo: NEW TRANSLATION
+ SIA_hardened_air_defenses_desc: "Rozptýlené dráhy, kryty a husté protiletadlové baterie umožní našemu letectvu absorbovat úder a pokračovat v létání. To, co přežije první nálet, tu bude i pro druhý." # todo: NEW TRANSLATION
+ SIA_forward_strike_wings: "Předsunuté úderné letky" # todo: NEW TRANSLATION
+ SIA_forward_strike_wings_desc: "Místo čekání na útok vycvičíme letky, aby ovládly oblohu nad frontou a v okamžiku vypuknutí války přenesly boj k nepříteli." # todo: NEW TRANSLATION
+ SIA_increase_air_crews: "Rozšířit pozemní posádky" # todo: NEW TRANSLATION
+ SIA_increase_air_crews_desc: "Rozšíříme pozemní posádky, které pečují o naše letouny. Naplnění jejich řad stojí personál, ale dobře udržované a lépe chráněné stroje znovu vzlétnou tam, kde by zanedbaný stroj byl ztracen." # todo: NEW TRANSLATION
+ SIA_conserve_air_crews: "Omezit pozemní posádky" # todo: NEW TRANSLATION
+ SIA_conserve_air_crews_desc: "Každý mechanik na letišti je střelec, který není na frontě. Naše letectvo udržíme úsporné, uvolníme personál pro armádu a smíříme se s tím, že se naše letouny budou častěji porouchávat." # todo: NEW TRANSLATION
+ SIA_tropical_operations: "Operace v tropech" # todo: NEW TRANSLATION
+ SIA_tropical_operations_desc: "Horko, monzuny a džunglový porost trestají neopatrné letce více než nepřátelské zbraně. Naše letectvo přizpůsobíme klimatu vlastního regionu a navzdory počasí tvrdě udeříme na nepřítele na zemi." # todo: NEW TRANSLATION
+ SIA_veteran_jungle_aviators: "Zkušení džungloví letci" # todo: NEW TRANSLATION
+ SIA_veteran_jungle_aviators_desc: "Létání v tomto podnebí ničí nezkušené piloty i opotřebované motory. Lepší údržba a těžce nabyté zkušenosti promění přežití ve schopnost a schopnost v esa." # todo: NEW TRANSLATION
+ SIA_long_range_strike_wings: "Dálkové úderné letky" # todo: NEW TRANSLATION
+ SIA_long_range_strike_wings_desc: "Místo stavby letounů pro džungli před námi je postavíme pro vzdálenosti za ní. Flotila bombardérů s dlouhým doletem, pořízených a vyráběných bez obvyklého plýtvání, nám umožní udeřit daleko za vlastními hranicemi." # todo: NEW TRANSLATION
+ SIA_lightweight_airframes: "Lehké draky" # todo: NEW TRANSLATION
+ SIA_lightweight_airframes_desc: "Odstraňte přídavné nádrže a hmotnost určenou pro dlouhé vzdálenosti a zbytek bude zatáčet ostřeji, stoupat rychleji a nést na cíl větší údernou sílu. Naše letky nedoletí daleko, ale nic v jejich dosahu nebude v bezpečí." # todo: NEW TRANSLATION
+ SIA_tactical_bombing_school: "Škola taktického bombardování" # todo: NEW TRANSLATION
+ SIA_tactical_bombing_school_desc: "Specializovaná škola pro posádky bombardérů promění naše taktické bombardéry z tupého nástroje v přesný prostředek, který bude tvrději a přesněji zasahovat vše, co mu stojí v cestě." # todo: NEW TRANSLATION
+ SIA_reinforced_platings: "Zesílené pancéřování" # todo: NEW TRANSLATION
+ SIA_reinforced_platings_desc: "Pancéřování a přídavné palivové nádrže umožní našim doprovodným stíhačům utržit zásah a přesto doletět k cílům daleko od domova. Přidaná hmotnost cestou spotřebuje více paliva, ale dobře vycvičená doprovodná letka za to stojí." # todo: NEW TRANSLATION
+ SIA_destroy_the_indochinese_ports: "Zničit indočínské přístavy" # todo: NEW TRANSLATION
+ SIA_destroy_the_indochinese_ports_desc: "Přístavy Indočíny jsou opěrnými body, na nichž se bude otáčet každé nepřátelské tažení proti nám. Jejich zničení učiníme trvalým cílem letectva, ať už prostřednictvím náletu bombardérů při vypuknutí války, nebo náloží nenápadně umístěných dlouho před prvním výstřelem." # todo: NEW TRANSLATION
+ SIA_destroy_the_indochinese_ports_tt: "Odemkne zpravodajskou operaci §YSabotáž indočínských přístavů§!." # todo: NEW TRANSLATION
+ SIA_destroy_the_indochinese_ports_raid_tt: "Odemkne letecký nálet §YNálet na indočínský přístav§!." # todo: NEW TRANSLATION
+ SIA_destroy_the_indochinese_ports_planes_bba_tt: "Získá §Y30§! letounů §YB-17 Flying Fortress§! a §Y20§! letounů §YP-38 Lightning§! v národních zásobách." # todo: NEW TRANSLATION
+ SIA_destroy_the_indochinese_ports_planes_legacy_tt: "Získá §Y30§! letounů §Y$strat_bomber_equipment_1$§! a §Y20§! letounů §Y$heavy_fighter_equipment_1$§! v národních zásobách." # todo: NEW TRANSLATION
+ SIA_accept_a_japanese_technical_mission: "Přijmout japonskou technickou misi" # todo: NEW TRANSLATION
+ SIA_accept_a_japanese_technical_mission_desc: "Tokio nabízí instruktory, technické příručky a letouny, které můžeme rychle získat. Pokud nabídku přijmeme, získáme rychlost. Získáme také závislost." # todo: NEW TRANSLATION
+ SIA_fighter_type_12_conversion: "Výcvik typu 12" # todo: NEW TRANSLATION
+ SIA_fighter_type_12_conversion_desc: "Nakajima Ki-27, náš typ 12, je obratný stroj, který odměňuje agresivní přístup. Náročný výcvik na tomto typu zdokonalí naše piloty a vybrousí každé eso v seznamu, ačkoli takovou intenzitu nelze udržet navždy." # todo: NEW TRANSLATION
+ SIA_preserve_american_procurement_channels: "Zachovat americké zásobovací kanály" # todo: NEW TRANSLATION
+ SIA_preserve_american_procurement_channels_desc: "Thajské letectvo bylo vybudováno pečlivým nákupem od společností Curtiss a Vought. Zachování amerických kanálů udrží cestu k lepším letounům a menší závislosti na Japonsku." # todo: NEW TRANSLATION
+ SIA_free_thai_air_liaison: "Letecké styky Svobodného Thajska" # todo: NEW TRANSLATION
+ SIA_free_thai_air_liaison_desc: "Letecká síla nejsou jen letouny na obloze. Rádia, zprávy o počasí, skryté dráhy a zachránění letci mohou být důležitější než jedna další letka. Svobodné Thajsko vybuduje tuto tichou síť." # todo: NEW TRANSLATION
+ idea_SIA_kra_air_defense: "Letecká obrana Kra" # todo: NEW TRANSLATION
+ idea_SIA_kra_air_defense_desc: "Skrytá stanoviště podél horské páteře poloostrova vysílají informace o počasí a první spatření narušitele a naše letky létají s vědomím, co na ně čeká." # todo: NEW TRANSLATION
+ idea_SIA_fighter_type_12: "Výcvik typu 12" # todo: NEW TRANSLATION
+ idea_SIA_fighter_type_12_desc: "Intenzivní výcvik na obratném typu 12 umožňuje našim pilotům létat na vrcholu svých schopností, přičemž vedou esa. Toto tempo nelze udržovat donekonečna." # todo: NEW TRANSLATION
+ SIA_air_cooperation_japan: "Letecká spolupráce" # todo: NEW TRANSLATION
+ SIA_air_cooperation_usa: "Letecká spolupráce" # todo: NEW TRANSLATION
+ SIA_air_cooperation_france: "Letecká spolupráce" # todo: NEW TRANSLATION
+ SIA_free_thai_rescued_airmen: "Ukrytí sestřelení letci" # todo: NEW TRANSLATION
+ SIA_free_thai_air_network_unlock_tt: "Odemkne rozhodnutí §YLetecká síť Svobodného Thajska§!." # todo: NEW TRANSLATION
+ SIA_reverse_engineer_french_airplanes: "Zpětně analyzovat francouzské letouny" # todo: NEW TRANSLATION
+ SIA_reverse_engineer_french_airplanes_desc: "Letiště a dílny Indočíny padly do našich rukou s francouzskými stroji z velké části neporušenými. Naši inženýři je rozeberou až po poslední nýt a odhalí každé tajemství, které skrývají." # todo: NEW TRANSLATION
+ SIA_specialized_airframe_construction: "Specializovaná výroba draků" # todo: NEW TRANSLATION
+ SIA_specialized_airframe_construction_desc: "Místo honby za každým návrhem najednou naše továrny ovládnou jediný stíhací drak a budou jej vyrábět lépe než kdokoli v regionu." # todo: NEW TRANSLATION
+ SIA_license_equipment: "Licenční výroba vybavení" # todo: NEW TRANSLATION
+ SIA_license_equipment_desc: "Po zajištění Indočíny vyjednáváme z pozice síly. Cizí návrhy budeme vyrábět v našich závodech v licenci, levně a ve velkém." # todo: NEW TRANSLATION
+ SIA_controls_all_indochina_tt: "Ovládáme celou §YIndočínu§!" # todo: NEW TRANSLATION
+ SIA_hawk_iii_max_efficiency_tt: "Přidá výrobní linku s maximální dostupnou efektivitou" # todo: NEW TRANSLATION
+ idea_SIA_increase_air_crews: "Rozšířené pozemní posádky" # todo: NEW TRANSLATION
+ idea_SIA_increase_air_crews_desc: "Rozšířené pozemní posádky udržují naše letouny ve vzduchu. Vyšší požadavky na personál pozemních posádek letectva, ale větší spolehlivost a pancéřování letounů." # todo: NEW TRANSLATION
+ idea_SIA_conserve_air_crews: "Omezené pozemní posádky" # todo: NEW TRANSLATION
+ idea_SIA_conserve_air_crews_desc: "Úsporné letectvo uvolňuje personál pro frontu. Nižší požadavky na personál pozemních posádek letectva a více obyvatelstva podléhajícího odvodu na úkor spolehlivosti letounů." # todo: NEW TRANSLATION
+ idea_SIA_specialized_airframe_construction_conserve: "Specializovaný stíhací drak" # todo: NEW TRANSLATION
+ idea_SIA_specialized_airframe_construction_conserve_desc: "Naše továrny jsou zaměřeny na jediný stíhací drak a obsluhuje je úsporné pozemní zázemí. Letoun létá obratněji a dále a jeho výroba je levnější, ovšem za cenu spolehlivosti, zatímco mechanici, které jsme nenajali, slouží místo toho na frontě. Pozdější draky, na které nejsme připraveni, tím trpí." # todo: NEW TRANSLATION
+ idea_SIA_specialized_airframe_construction_increase: "Specializovaný stíhací drak" # todo: NEW TRANSLATION
+ idea_SIA_specialized_airframe_construction_increase_desc: "Naše továrny jsou zaměřeny na jediný stíhací drak a plné pozemní posádky jej udržují ve vzduchu. Letoun létá obratněji a dále a jeho výroba je levnější; lepší údržba vyvažuje křehkost konstrukce hnané až na hranici možností. Pozdější draky, na které nejsme připraveni, tím trpí." # todo: NEW TRANSLATION
+ idea_SIA_specialized_airframe_construction_legacy_conserve: "Specializovaný stíhací drak" # todo: NEW TRANSLATION
+ idea_SIA_specialized_airframe_construction_legacy_conserve_desc: "Naše továrny jsou zaměřeny na jediný stíhací drak a obsluhuje je úsporné pozemní zázemí. Letoun létá obratněji a dále a jeho výroba je levnější, ovšem za cenu spolehlivosti, zatímco mechanici, které jsme nenajali, slouží místo toho na frontě. Pozdější draky, na které nejsme připraveni, tím trpí." # todo: NEW TRANSLATION
+ idea_SIA_specialized_airframe_construction_legacy_increase: "Specializovaný stíhací drak" # todo: NEW TRANSLATION
+ idea_SIA_specialized_airframe_construction_legacy_increase_desc: "Naše továrny jsou zaměřeny na jediný stíhací drak a plné pozemní posádky jej udržují ve vzduchu. Letoun létá obratněji a dále a jeho výroba je levnější; lepší údržba vyvažuje křehkost konstrukce hnané až na hranici možností. Pozdější draky, na které nejsme připraveni, tím trpí." # todo: NEW TRANSLATION
+ idea_SIA_license_equipment_conserve: "Síť licenční výroby" # todo: NEW TRANSLATION
+ idea_SIA_license_equipment_conserve_desc: "Kontrola průmyslu Indočíny nám umožňuje vyrábět cizí návrhy v licenci mnohem levněji a rychleji, přičemž úsporné pozemní zázemí uvolňuje personál pro armádu." # todo: NEW TRANSLATION
+ idea_SIA_license_equipment_increase: "Síť licenční výroby" # todo: NEW TRANSLATION
+ idea_SIA_license_equipment_increase_desc: "Kontrola průmyslu Indočíny nám umožňuje vyrábět cizí návrhy v licenci mnohem levněji a rychleji a plné pozemní posádky udržují licenční stroje ve vzduchu." # todo: NEW TRANSLATION
+ idea_SIA_bomber_procurement_program: "Program nákupu bombardérů" # todo: NEW TRANSLATION
+ idea_SIA_bomber_procurement_program_desc: "Zjednodušené smlouvy a licenční výroba výrazně snížily cenu naší flotily taktických bombardérů, avšak výhodné podmínky potrvají jen po dobu platnosti současných smluv." # todo: NEW TRANSLATION
+ SIA_mio_trait_japanese_air_mission_unlock_tt: "Odemkne vlastnost §YJaponská technická mise§! pro §YŘeditelství leteckého inženýrství§!" # todo: NEW TRANSLATION
+ SIA_mio_trait_american_procurement_unlock_tt: "Odemkne vlastnost §YAmerické zásobovací kanály§! pro §YŘeditelství leteckého inženýrství§!" # todo: NEW TRANSLATION
  effects_of_event_tt: "\n§YÚčinky události§!:" # Austrálie
  AST_war_is_coming: "Válka se blíží"
  AST_war_is_coming_desc: "Během posledních tří desetiletí jsme čelili jedné výzvě za druhou, avšak zdá se, že před námi vyvstává poslední z nich, která jednou provždy prověří sílu australské demokracie. Bývalý premiér Billy Hughes má v této věci naprosto jasno a bylo by od nás nezodpovědné přehlížet jeho tvrzení, že — ať se nám to líbí, nebo ne — válka se blíží."
@@ -1455,6 +1610,7 @@
  AST_stephensen: "P.R. Stephensen"
  AST_stephensen_desc: "Při formálním založení hnutí Australia First jmenujeme jeho prezidentem P.R. Stephensena. Jako literární poradce Williama Johna Milese sdílí Stephensen izolacionistické a nacionalistické názory svého mentora. Ty budou tvořit dva základní principy ústavy našeho hnutí: nezávislost na Británii a sjednocení australské kultury."
  AST_stephensen_tt: "\nVolba prezidenta §Yhnutí Australia First§! určuje možné budoucí kroky."
+ AST_leave_eng_faction_tt: "Při zvýšení úrovně autonomie na §YSvobodný§! jako subjekt země §Y[ENG.GetNameDef]§! [AST.GetName] opustí §Y[ENG.GetFactionName]§!." # todo: NEW TRANSLATION
  AST_a_growing_womens_guild: "Rostoucí Ženský cech"
  AST_a_growing_womens_guild_desc: "Od svého založení v roce 1928 prosazoval Australský ženský cech impéria průmyslovou spolupráci v boji proti národním hospodářským problémům. Pro dobro národa mají občané své vládě pomáhat, nikoli pracovat proti ní. S Pankhurst Walsh jako prezidentkou Australia First můžeme toto poselství prostřednictvím jeho politického hnutí šířit dále."
  AST_realize_the_value_of_british_citizenship: "Uvědomit si hodnotu britského občanství"
@@ -1463,20 +1619,54 @@
  AST_the_bolsheviks_counterforce_desc: "Vyšetřovací oddělení po desetiletí provádělo vyšetřování činnosti podvratných skupin. Jeho práce na potlačování levicových hrozeb má vysokou hodnotu a neměla by být zanedbána jen proto, že se odpůrci Australia First zavázali klást odpor našemu růstu. Budeme usilovat o pozice v australském zpravodajském úřadu a zajistíme, aby skutečná hrozba pro národní bezpečnost měla přednost."
  AST_public_meetings_tt: "Odemkne rozhodnutí §Y$AST_australia_first_movement_cat$§! k mobilizaci členů a zvýšení podpory fašismu."
  AST_rile_up_veterans: "Podnítit veterány"
- AST_rile_up_veterans_desc: "Na počátku velké hospodářské krize se veteráni první světové války sjednotili v krajně pravicových polovojenských skupinách, aby čelili vzestupu komunismu. I když se tyto skupiny od té doby rozpustily, jejich bývalí členové nezmizeli; Australia First je pohltí a pochodeň antikomunismu bude předána dál."
+ AST_rile_up_veterans_desc: "Na počátku Velké hospodářské krize se veteráni první světové války sjednotili v pravicových polovojenských skupinách, aby čelili vzestupu komunismu. Přestože se tyto skupiny od té doby rozpadly, vzestup hnutí Australia First by mohl stačit k jejich obnovení a umožnit, aby pochodeň antikomunismu hořela jasněji než kdy dříve." # todo: CHANGED
  AST_eureka_stockade_monument_rally: "Sraz u památníku Eureka Stockade"
  AST_eureka_stockade_monument_rally_desc: "V roce 1854 v bitvě u Eureka Stockade australští zlatokopové zuřivě bojovali proti koloniálním silám kvůli nepřiměřené ceně těžebních licencí a zdanění zlatých dolů. Nespokojenost s britskou suzerenitou byla zjevná tehdy a je zjevná i nyní. Shromáždíme se u památníku bitvy a budeme volat po rozchodu s Británií."
  AST_australian_pivot_modifier: "Australský obrat"
  AST_well-being_of_the_community: "Blaho společenství"
  AST_well-being_of_the_community_desc: "Křesťanské ideály života a rodiny by měly být australským obyvatelstvem vysoce ceněny. Slabá porodnost posledních let však nepopiratelně ukazuje, že tyto ideály nebyly ctěny dostatečně. Pro blaho společenství zahájíme kampaň na podporu rodinného života."
- AST_covert_networks: "Tajné sítě"
- AST_covert_networks_desc: "S Australia First působící v rámci Vyšetřovacího oddělení budeme usilovat o přeshraniční spolupráci s podobně smýšlejícími [ENG.GetAdjecive] hnutími. Naše spojenectví s naším suzerénem nám může posloužit ještě jedním způsobem, neboť nám umožní tajně oslovit ideologicky spřízněné spojence a rozšířit naše zpravodajské kapacity."
+ AST_for_crown_and_empire: "Za korunu a říši" # todo: NEW TRANSLATION
+ AST_for_crown_and_empire_desc: "Jako bývalá kolonie Commonwealthu jsou zvyklosti země [ENG.GetNameDef] našimi vlastními. Ačkoli to znamenalo, že mnohé britské instituce získaly [AST.GetAdjective] protějšek, neplatí to pro všechny. Guvernéři-generalové země [AST.GetName], jakožto zástupci britského panovníka, přinesli na náš kontinent britskou jednotu, ale [AST.GetName] potřebuje vlastní vlastenecký symbol." # todo: NEW TRANSLATION
+ AST_for_crown_and_empire_trigger_tt: "Více než §Y25 000§! členů Nové gardy" # todo: NEW TRANSLATION
+ AST_royal_prestige: "Královská prestiž" # todo: NEW TRANSLATION
+ AST_royal_prestige_desc: "Silná národní identita se buduje na sdílených hodnotách a udržuje ctí a hrdostí. Aby se [AST.GetName] odlišila od Británie a ostatních zemí Commonwealthu, musí budovat svou národní vážnost a investovat do úsilí hodného respektu: do flotily dostatečně velké, aby se vyrovnala dokonce i britské." # todo: NEW TRANSLATION
+ AST_reform_the_state: "Reformovat stát" # todo: NEW TRANSLATION
+ AST_reform_the_state_desc: "Aby byla země [AST.GetName] chráněna před vládními krizemi a politikami, které náš národ spíše poškozují než posilují, musí [AST.GetAdjective] stát projít reorganizací. Senát se stane Radou koruny a kabinet Královským ministerstvem; oba budou odpovídat naší nové hlavě státu, jejíž pravomoc se rozšíří do všech koutů říše." # todo: NEW TRANSLATION
+ AST_reform_the_state_tt: "Volba prezidenta určí §Yúčinky§! následujícího zaměření §Y$AST_the_councils_advice$§!" # todo: NEW TRANSLATION
+ AST_council_president_tt: "Prezident: §Y[GET_AST_COUNCIL_PRESIDENT]§!" # todo: NEW TRANSLATION
+ AST_council_president_tbd_tt: "Dosud nebyl jmenován" # todo: NEW TRANSLATION
+ AST_glory_of_the_fleet: "Sláva flotily" # todo: NEW TRANSLATION
+ AST_glory_of_the_fleet_desc: "Díky neochvějnému odhodlání se flotila země [AST.GetName] rozrostla ještě více, než tomu bylo před Washingtonskou námořní smlouvou a rozebráním válečných lodí po první světové válce. Jsme znovu připraveni bojovat a vítězit na moři a dalšími investicemi konečně ovládneme oceány." # todo: NEW TRANSLATION
+ AST_glory_of_the_fleet_capital_trigger: "Nejméně §Y4§! hlavních lodí nebo letadlových lodí" # todo: NEW TRANSLATION
+ AST_glory_of_the_fleet_screen_trigger: "Nejméně §Y20§! doprovodných lodí" # todo: NEW TRANSLATION
+ AST_the_councils_advice: "Rada Rady" # todo: NEW TRANSLATION
+ AST_the_councils_advice_desc: "Rada koruny vedená svým prezidentem radí ohledně nové národní priority. [GET_AST_THE_COUNCILS_ADVISE_DESC]" # todo: NEW TRANSLATION
+ AST_the_councils_advice_pankhurst_walsh_desc: "Prezidentka Pankhurst Walshová, sama přistěhovalkyně z Británie, vždy cenila spolupráci v rámci Commonwealthu. Ačkoli se [AST.GetName] začala od Británie v mnoha ohledech odlišovat, Pankhurstová navrhuje pečovat o australsko-britské vztahy a podpořit jejich pomoc při našem rozdělení." # todo: NEW TRANSLATION
+ AST_the_councils_advice_hughes_desc: "Několik let před vypuknutím války Billy Hughes předvídal konflikt a od té doby prosazuje znovuvyzbrojení. Prezident však nepovažuje vojenské potřeby země [AST.GetName] za plně uspokojené, a Rada koruny proto doporučuje další investice." # todo: NEW TRANSLATION
+ AST_the_councils_advice_hore_ruthven_desc: "Ochrana říše musí být ceněna nade vše; pokud nemáme žádnou zemi, kterou bychom bránili, je vojenská síla bezcenná. Rada koruny se jednomyslně shoduje, že naše hranice musí být opevněny." # todo: NEW TRANSLATION
+ AST_president_pankhurst_walsh_flag: "§Y$AST_adela_walsh$§! je prezidentkou Rady koruny" # todo: NEW TRANSLATION
+ AST_president_pankhurst_walsh_effect_tt: "Pokud je $AST_adela_walsh$ prezidentkou Rady koruny:" # todo: NEW TRANSLATION
+ AST_president_hughes_effect_tt: "Pokud je $AST_billy_hughes$ prezidentem Rady koruny:" # todo: NEW TRANSLATION
+ AST_president_hore_ruthven_effect_tt: "Pokud je $AST_alexander_hore-ruthven$ prezidentem Rady koruny:" # todo: NEW TRANSLATION
+ AST_no_king_without_kingdom: "Žádný král bez království" # todo: NEW TRANSLATION
+ AST_no_king_without_kingdom_desc: "Pokud mají Australané někdy skutečně vlastenecky přilnout ke svému národu, musí se tento národ sjednotit pod jedinou svrchovaností. S rychle se rozšiřující flotilou a vládními institucemi, které nyní řádně slouží státu, již samota a nezávislost [AST.GetName] neděsí. Konečně se [AST.GetName] stane královstvím." # todo: NEW TRANSLATION
+ AST_heavy_is_the_head: "Tíha koruny" # todo: NEW TRANSLATION
+ AST_heavy_is_the_head_desc: "S mocí přichází odpovědnost a s rostoucí vojenskou silou země [AST.GetNameDef] se již nezdá rozumné, aby okolní území chránily národy, které k tomu zjevně nemají kapacitu. Zeptáme se našich spojenců, zda skutečně dokážou chránit svá území v jihovýchodní Asii, nebo zda by o ně nebylo lépe postaráno v rámci Australského království." # todo: NEW TRANSLATION
+ AST_enemy_of_the_realm: "Nepřítel říše" # todo: NEW TRANSLATION
+ AST_enemy_of_the_realm_desc: "Zdá se, že japonská expanze nezná hranic a všude, kam dosáhne, přehlíží svrchovanost a celistvost království. [AST.GetNameDefCap] to nebude tolerovat; pokud [JAP.GetNameDef] ohrozí australskou říši, Austrálie ohrozí jejich. Za korunu a vlast jde [AST.GetNameDef] do války." # todo: NEW TRANSLATION
+ AST_enemy_of_the_realm_at_peace_tt: "\nPokud nejsme ve válce s §Y[JAP.GetName]§!:" # todo: NEW TRANSLATION
+ AST_enemy_of_the_realm_at_war_tt: "Pokud již jsme ve válce s §Y[JAP.GetName]§!:" # todo: NEW TRANSLATION
+ AST_a_throne_upon_the_seas: "Trůn na moři" # todo: NEW TRANSLATION
+ AST_a_throne_upon_the_seas_desc: "Nastal čas, aby se království konečně prokázalo jako hodné na moři. Námořní velmoci nás již nemohou umlčet, když nás volají vlny a naše plachty se napínají. Konečně budou oceány naše." # todo: NEW TRANSLATION
+ AST_a_throne_upon_the_seas_tt: "Každá nepřátelská země s odhadovaným poměrem síly námořnictva nejméně §Y100 %§! ve srovnání s Austrálií:\n(§YŽádné země§!):" # todo: NEW TRANSLATION
  AST_refuse_british_wars: "Odmítnout britské války"
  AST_refuse_british_wars_desc: "Gallipolské tažení za Velké války ukázalo lehkovážnost, s jakou [ENG.GetNameDef] zachází s našimi expedičními silami, a představa dalšího zahraničního tažení v jeho jménu je tak zcela nemyslitelná. Australané požadují, aby pod britským velením už nikdy nebyla prolita krev, a nutí vládu jednat; Westminsterský statut bude ratifikován."
  AST_walls_like_uluru: "Zdi jako Uluru"
- AST_walls_like_uluru_desc: "Austrálie je kontinent sám pro sebe. Máme-li obstát bez štítu impéria, musíme si vybudovat vlastní. Pobřeží bude zpevněno, přístavy opevněny a přístupy učiněny zrádnými pro každého, kdo by si myslel, že tento národ je snadnou kořistí."
+ AST_walls_like_uluru_desc: "Austrálie je kontinentem sama pro sebe. Pokud nemáme zůstat bezmocní bez ochranného štítu impéria, musíme si vytvořit vlastní. Pobřeží bude opevněno, přístavy zajištěny a přístupy učiněny nebezpečnými pro každého, kdo by tento národ považoval za snadnou kořist." # todo: CHANGED
  AST_at_the_gates: "Před branami"
  AST_at_the_gates_desc: "Svět směřuje k válce a Austrálie nesmí být zastižena nepřipravená. Továrny a loděnice národa musí přeřadit na vyšší rychlost. Nejde o přípravu na konflikt někoho jiného, nýbrž o přípravu na naše vlastní přežití."
+ AST_at_the_gates_hidden: "$AST_at_the_gates$" # todo: NEW TRANSLATION
+ AST_at_the_gates_hidden_desc: "$AST_at_the_gates_desc$" # todo: NEW TRANSLATION
  AST_the_guild_for_the_war_effort: "Cech pro válečné úsilí"
  AST_the_guild_for_the_war_effort_desc: "Australský ženský cech impéria byl vybudován, aby sloužil koruně. Jeho účel je nyní zcela přesměrován. Rozsáhlá organizační síť, kterou vybudoval, nyní nasměruje svou energii do válečného průmyslu, nemocnic a zásobovacích řetězců soběstačné Austrálie."
  AST_for_the_southern_cross: "Za Jižní kříž"
@@ -1499,19 +1689,30 @@
  AST_australia_first_party_focus_desc: "Členové Australia First dosáhli takového počtu, že postup hnutí již nelze déle zadržovat. Nastal čas, aby australská veřejnost přivítala nově registrovaný, nejhlasitější nacionalistický hlas: Stranu Australia First."
  AST_australia_first_party_req_tt: "§YStrana Australia First§! byla založena."
  AST_in_from_the_cold: "Z chladu dovnitř"
- AST_in_from_the_cold_desc: "Australia First a její příznivci se již nemusí skrývat. Špatné zacházení, které náš národ snášel pod dlouhou řadou předchozích vlád, konečně vychází na světlo a nastal čas, aby zazněly nové hlasy."
+ AST_in_from_the_cold_desc: "Občané odmítající demokracii se již nemusí skrývat. Špatné zacházení, kterému náš národ čelil pod dlouhou řadou bývalých vlád, je konečně odhaleno a nastal čas, aby zazněly nové hlasy." # todo: CHANGED
  AST_absorb_the_uap: "Pohltit UAP"
- AST_absorb_the_uap_desc: "Ačkoli Strana sjednocené Austrálie vždy zůstávala liberální, zároveň je pravicově orientovaná. S novou politickou stranou u kormidla však členové UAP možná nebudou mít příliš na výběr a budou muset podpořit věc současné vlády. Oslovíme nejvýznamnější členy a získáme je pro Stranu Australia First."
+ AST_absorb_the_uap_desc: "Ačkoli United Australia Party vždy zůstávala liberální, přitahovala nejrůznější politické odpůrce. S novou politickou stranou u moci však členům UAP — ať už dobrovolně, či nikoli — možná nezbylo než podpořit namísto toho cíle současné vlády. Přijmeme její nejvýznamnější členy." # todo: CHANGED
  AST_big_business_pact: "Pakt s velkým byznysem"
- AST_big_business_pact_desc: "Jelikož Strana Australia First usiluje o ochranu domácího průmyslu, našla mnoho příznivců mezi předními podnikateli. Výměnou za prosazování politik, které zvýší jejich zisky, podpoří naše politické a vojenské cíle."
+ AST_big_business_pact_desc: "V našem úsilí o ochranu domácího průmyslu jsme nalezli mnoho podporovatelů mezi předními podnikateli. Budou podporovat naše politické a vojenské cíle výměnou za prosazování politik zvyšujících jejich zisky." # todo: CHANGED
  AST_big_business_pact_tt: "\nOdemkne rozhodnutí §Y$AST_big_business_pact_cat$§!, která ovlivní cíle průmyslu a výstavby."
  AST_autarky: "Soběstačnost"
  AST_autarky_desc: "Spoléhání se na zahraniční obchod je nejisté, zvláště v časech konfliktu; australský průmysl musí mít přednost, ne být vytlačován dovozem. Pouze omezením našich obchodních zákonů můžeme ochránit domácí ekonomiku a zajistit, že se Austrálie dokáže zásobovat sama."
  AST_energy_independence: "Energetická nezávislost"
  AST_energy_independence_desc: "Spoléhání se na zahraniční obchod je nejisté, zvláště v časech konfliktu; energetická nezávislost je nezbytná k zajištění toho, aby Austrálie dokázala fungovat i v těch nejhorších časech. Investicemi do rafinerií můžeme podpořit domácí výrobu energie. "
+ AST_the_kings_men: "Královi muži" # todo: NEW TRANSLATION
+ AST_the_kings_men_desc: "Navzdory pověsti Nové gardy jako fašistických appeaserů je skutečnost složitější. Ačkoli některé odštěpenecké skupiny i samotný zakladatel hnutí přijali fašistické ideály, naprostá většina jeho členů tak neučinila. Gardiáni, horlivě vlastenečtí a oddaní monarchii, budou ochotně bojovat za korunu." # todo: NEW TRANSLATION
+ AST_the_kings_men_tt: "Vytvoří §Y[GET_AST_NG_INF_UNITS] [AST.GetAdjective]§! pěších jednotek" # todo: NEW TRANSLATION
+ AST_ng_inf_units_tt: "Získá §Y1§! pěší jednotku za každých §Y10 000§! členů Nové gardy" # todo: NEW TRANSLATION
+ AST_campbells_men: "Campbellovi muži" # todo: NEW TRANSLATION
+ AST_campbells_men_desc: "Hnutí Austrálie na prvním místě svým úspěšným růstem probudilo další hnutí, které dlouho spalo. Nová garda se vrací do ulic, ale naštěstí jsou tentokrát její členové na straně vlády. Pohltíme je do naší strany a necháme je bojovat za Austrálii, jak to vždy dělali." # todo: NEW TRANSLATION
+ AST_campbells_men_tt: "Vytvoří §Y[GET_AST_NG_MIL_UNITS] [AST.GetAdjective]§! jednotek milice" # todo: NEW TRANSLATION
+ AST_ng_mil_units_tt: "Získá §Y1§! jednotku milice za každých §Y5 000§! členů Nové gardy" # todo: NEW TRANSLATION
+ AST_the_commander_returns: "Velitel se vrací" # todo: NEW TRANSLATION
+ AST_the_commander_returns_desc: "Známé větry rozvířily popel legendy, která stále žije a plazí se pod žhavými uhlíky. Otec Nové gardy se tvrdě naučil, že když ideologické rozdíly příliš narostou, ne všichni partneři jsou spojenci, a že civilní jednota je pro národní obranu stejně důležitá jako vojenská síla. Pokud mu svěříme otěže Austrálie na prvním místě, zasvětí své nejvěrnější gardisty kázni politických odpůrců." # todo: NEW TRANSLATION
+ AST_the_commander_returns_trigger_tt: "Více než §Y15 000§! členů Nové gardy" # todo: NEW TRANSLATION
  remove_2_offsite_dockyard: "Odebere §R2§! mimo-mapové §Ynámořní loděnice§!."
  AST_british_pact: "Britský pakt"
- AST_british_pact_desc: "Navzdory našemu nedávnému odtržení od Britského Commonwealthu je v zájmu [AST.GetNonIdeologyName] nadále spolupracovat se svou starou mateřskou zemí. Vzhledem k tomu, jak je [ENG.GetNameDef] napjatě rozkročeno po celém světě, by měla být naše ochota sdílet jeho břemena nabídkou vojenské spolupráce oceněna."
+ AST_british_pact_desc: "Navzdory nedávnému politickému posunu [AST.GetName] je stále v našem zájmu pokračovat ve spolupráci se starou vlastí. Vzhledem k tomu, že [ENG.GetNameDef] je napjatá až k prasknutí po celém světě, měla by být naše ochota sdílet její břemena nabídkou vojenské spolupráce oceněna." # todo: CHANGED
  AST_naurus_return_to_german_hands: "Návrat Nauru do německých rukou"
  AST_naurus_return_to_german_hands_desc: "Nyní, když Australia First plně drží otěže národa, nastal čas splnit slib týkající se Nauru a aby naši němečtí spojenci dodrželi svou část dohody. [AST.GetName] se konečně vymaní z řetězů Commonwealthu a Britové do toho nebudou mít co mluvit."
  AST_naurus_return_to_german_hands_tt: "„§Y$AST_nauru_pact$§!“ se stane aktivním."
@@ -1534,8 +1735,8 @@
  AST_vichy_out_of_africa_desc: "Pád či spolupráce vichistické Francie patří mezi hlavní cíle, které prosazuje [ENG.GetNameDef]. Jako gesto dobré vůle se [AST.GetName] připojí a bude postupovat proti francouzským africkým koloniím, dokud nebudou podrobeny."
  AST_vichy_out_of_africa_tt1: "Přidá nároky na území §YVichistické Francie§! v §YAfrice§! skrze zaměření §Y$AST_vichy_out_of_africa$§!.\n"
  AST_vichy_out_of_africa_tt2: "Přidá nároky na území §YVichistické Francie§! v §YAfrice§! skrze rozhodnutí §Y$AST_vichy_out_of_africa$§!.\n"
- AST_vichy_africa_claim_flag: "Nároky [AST.GetFlag]§Y[AST.GetName]§! na všechna území §YVichistické Francie§! v §YAfrice§! budou přidány k §Y$AST_done_meddling$§!."
- AST_vichy_claim_tt: "Nároky [AST.GetFlag]§Y[AST.GetName]§! budou přidány k §Y$AST_done_meddling$§!."
+ AST_vichy_africa_claim_flag: "Nároky [AST.GetFlag]§Y[AST.GetName]§! na všechna území §Yvichistické Francie§! v §YAfrice§! jsou přidány k §YNesporně našim§!." # todo: CHANGED
+ AST_vichy_claim_tt: "Nároky [AST.GetFlag]§Y[AST.GetName]§! jsou přidány k §YNesporně našim§!." # todo: CHANGED
  vichy_in_africa_trigger: "§YVichistická Francie§!: Jakýkoli ovládaný stát:\n    Nachází se v §YAfrice§!"
  vichy_wargoal: "Získá válečný cíl §Yanexe§! proti §YVichistické Francii§!."
  AST_britain_supplying_ships: "Británie dodává lodě"
@@ -1565,7 +1766,7 @@
  AST_world_peace: "Světový mír"
  AST_world_peace_desc: "Hnutí proti válce a fašismu usilovně pracovalo na vydávání časopisu nazvaného „Světový mír“, který odhaluje zlo fašistického hnutí v Německu, Itálii, zejména během španělské občanské války. Články v něm obsažené podnítily dobrovolníky, kteří se dychtivě hlásí do boje proti fašismu."
  AST_red_fred: "Rudý Fred"
- AST_red_fred_desc: "„Rudý“ Fred Paterson se poprvé prosadil v komunistickém hnutí jako kandidát na starostu Brisbane v roce 1934, kde utrpěl drtivou porážku. Jeho ambice však nepohasly a nyní kandiduje do městské rady v Townsville. S naší podporou by se mohl stát prvním komunistou zvoleným do veřejné funkce."
+ AST_red_fred_desc: "„Rudý“ Fred Paterson, který působil jako radní v Townsville, se prokázal jako oblíbený a schopný vůdce. Jelikož mnozí uvnitř strany nyní upřednostňují jeho vedení před vedením Jacka Milese, Paterson se ukázal jako přirozená volba, která povede Austrálii k socialistické budoucnosti." # todo: CHANGED
  AST_workers_defence_corps_sparks_anew: "Dělnický obranný sbor znovu vzplane"
  AST_workers_defence_corps_sparks_anew_desc: "Dělnický obranný sbor byl původně vytvořen k obraně stávkových hlídek a stávek. S rostoucí agresivitou skupin, jako je Nová garda, byl znovu zformován, aby opět působil jako štít pro ty, kdo protestují za lepší práva a příležitosti."
  AST_a_controversial_recruitment: "Kontroverzní nábor"
@@ -1616,9 +1817,11 @@
  AST_a_comrade_emancipated: "Osvobozený soudruh"
  AST_a_comrade_emancipated_desc: "Po celém světě zůstává mnoho národů stále spoutáno řetězy kapitalismu a jejich lidem je upírána skutečná svoboda. Jako svobodný socialistický stát máme povinnost pomoci s jejich osvobozením. Dělníci světa, spojte se, a společně tyto řetězy svrhneme."
  AST_union_control_local: "Odemkne rozhodnutí §Y$AST_union_control_2_cat$§!. \nUmožní komunistickou infiltraci Indonésie a Filipín."
- AST_comintern: "Vstoupit do Kominterny"
+ AST_comintern: "Dohoda Cominwealthu a Kominterny" # todo: CHANGED
  AST_comintern_desc: "Ačkoli se Sovětský svaz občas odchýlil od pravých marxistických zásad, zůstává praporečníkem dělnické internacionály. Vstupem do Kominterny můžeme sjednotit naše úsilí a nést pochodeň socialismu po celém světě."
  AST_comintern_tt: "Pokud §Y[AST.GetName]§! vede frakci, tato frakce se sloučí s Kominternou. Jinak se §Y[AST.GetName]§! připojí ke Kominterně samostatně."
+ AST_southern_academy_of_sciences: "Jižní akademie věd" # todo: NEW TRANSLATION
+ AST_southern_academy_of_sciences_desc: "Pochodeň pokroku plápolá ve větru, utápěna pochybnostmi malomyslných mužů. Měli bychom založit Jižní akademii věd a zažehnout maják osvícenství, který povede svět k naší socialistické utopii." # todo: NEW TRANSLATION
  AST_for_greater_good: "Pro vyšší dobro"
  AST_for_greater_good_desc: "Naše vize světové revoluce vyžaduje krev a oběti. Na příliš mnoha místech pochodeň socialismu skomírá; musíme odpovědět na výzvu a vyslat podporu, abychom zajistili, že nevyhasne. Koneckonců je to pro vyšší dobro."
  AST_make_common_cause: "Spojit síly"
@@ -1656,7 +1859,7 @@
  AST_public_works: "Veřejné práce"
  AST_public_works_desc: "Velká hospodářská krize zanechala australskou ekonomiku v zoufalé situaci. Zahájíme řadu programů veřejných prací, abychom lidem znovu dali práci a obnovili spotřebitelské výdaje."
  AST_lang_plan: "Langův plán"
- AST_lang_plan_desc: "Jack Lang se dostal do čela hospodářské politiky díky svému hlasitému odmítání splácet zahraniční dluhové závazky a místo toho přesměrovával tyto prostředky na veřejné iniciativy zaměřené na podporu domácího růstu. Koneckonců z kamene krev nevymáčkneš."
+ AST_lang_plan_desc: "Navzdory kontroverzím a hlasitým politickým odpůrcům se Jack Lang dostal do popředí hospodářské politiky. Odmítá plnit závazky vůči zahraničním věřitelům a místo toho tvrdí, že přesměrování těchto prostředků na veřejné iniciativy podpoří domácí růst. Koneckonců z kamene krev nedostanete." # todo: CHANGED
  AST_exports_for_economic_recovery: "Vývoz pro hospodářskou obnovu"
  AST_exports_for_economic_recovery_desc: "Odpůrci Langových myšlenek namísto toho navrhují využít zahraniční trhy a dluh k podpoře zámořských investic a prodeje a zavázat se k exportně orientované ekonomice, která podpoří domácí výrobu, zaměstnanost a nakonec i spotřebitelské výdaje."
  AST_the_phosphate_commision: "Fosfátová komise"
@@ -1740,6 +1943,7 @@
  AST_uap_cluster_unlock: "Odemkne se další §Yblok zaměření U.A.P§!."
  AST_alp_cluster_unlock: "Odemkne se další §Yblok zaměření A.L.P§!."
  AST_15_natunity: "\n\n$AST_ruling_party$ má §Y15§! dnů na sestavení §Yvlády národní jednoty§!."
+ AST_has_natunity_flag: "Vládne v rámci §Yn vlády národní jednoty§!." # todo: NEW TRANSLATION
  AST_uap_candidate_text: "§YStrana sjednocené Austrálie§!\n[AST_GET_UAP_LEADER_TEXT]\n\n§LStabilita doma, síla napříč Impériem§!\n\n[GET_AST_UAP_RULING]"
  AST_alp_candidate_text: "§YAustralská labouristická strana§!\n[AST_GET_ALP_LEADER_TEXT]\n\n§LDomácí potřeby před zahraničními zájmy§!\n\n[GET_AST_ALP_RULING]"
  AST_expected_election_winner_tt: "§YOčekávaný vítěz\n[GET_AST_EXPECTED_WINNER]§! má v současnosti většinu demokratických hlasů.\n\nOvlivněte hlasy pomocí zaměření, politických poradců nebo zahájením politické kampaně."
@@ -1787,6 +1991,7 @@
  effect_tt: "\n§YÚčinek§!:"
  AST_natunity_becomes_ruling_party: "\n[GET_AST_RULING_PARTY] pozve [GET_AST_NON_RULING_PARTY] ke vstupu do vlády národní jednoty.\n\n[GET_AST_NON_RULING_PARTY] získá §Y1§! volební vítězství\n\n"
  AST_natunity_effect_update_tt: "Seznam zaměření se aktualizuje podle aktuální §Ynevládnoucí strany§! a jejích již odemčených skupin zaměření."
+ AST_change_democratic_flag_tt: "§Y[AST.GetAdjective]§! vlajka bude nahrazena." # todo: NEW TRANSLATION
  AST_uap_popularity_increase_10: "Hlasů pro §Y$AST_ruling_party$§! (§Y$AST_uap$§!): §G+10.00%§!"
  AST_alp_popularity_increase_10: "Hlasů pro §Y$AST_ruling_party$§! (§Y$AST_alp$§!): §G+10.00%§!"
  AST_uap_popularity_decrease_10: "Hlasů pro §Y$AST_ruling_party$§! (§Y$AST_uap$§!): §R-10.00%§!"
@@ -2001,8 +2206,3 @@
  ABDA_naval_procurement_hol_ships_tt: "[HOL.GetName] obdrží §Y6 převedených torpédoborců třídy Clemson§! z [USA.GetAdjective] zakonzervovaných flotil."
  ABDA_naval_procurement_ast_ships_tt: "[AST.GetName] obdrží §Y6 převedených torpédoborců třídy Clemson§! z [USA.GetAdjective] zakonzervovaných flotil."
  ABDA_naval_procurement_generic_tt: "V závislosti na členství v §YABDACOM§! mohou [INS.GetNameDef], [HOL.GetNameDef] a [AST.GetNameDef] každý obdržet §Y6 torpédoborců třídy Clemson§! převedených z [USA.GetAdjective] zakonzervovaných flotil."
- idea_SIA_specialized_warfare: "Specializované válčení"
- idea_SIA_nighttime_training: "Noční výcvik"
- idea_SIA_nighttime_training_desc: "Jednotky rozsáhle cvičené v nočních operacích se ve tmě pohybují a bojují s vyšší efektivitou a lépe využívají omezené zásoby."
- idea_SIA_intermediate_war: "Plánování středně dlouhé války"
- idea_SIA_long_war: "Plánování dlouhé války"

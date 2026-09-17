@@ -3068,6 +3068,9 @@
  INS_maphilindo_fascism: "Malajská říše"
  INS_maphilindo_fascism_DEF: "Malajská říše"
  INS_maphilindo_fascism_ADJ: "malaj."
+ INS_union_of_provinces: "Svaz indonéských provincií" # todo: NEW TRANSLATION
+ INS_union_of_provinces_DEF: "Svaz indonéských provincií" # todo: NEW TRANSLATION
+ INS_union_of_provinces_ADJ: "indonéský" # todo: NEW TRANSLATION
  PHI_asean_tag: "Sdružení národů jihovýchodní Asie"
  PHI_asean_tag_DEF: "Sdružení národů jihovýchodní Asie"
  PHI_asean_tag_ADJ: "jihovýchod. asij."
@@ -3222,5 +3225,7 @@
  AST_percy_fascism: "$AST$"
  AST_percy_fascism_DEF: "$AST_DEF$"
  AST_percy_fascism_ADJ: "$AST_ADJ$"
- INS_HOL_democratic: "Nizozemská východní Indie"
- INS_HOL_democratic_DEF: "Nizozemská východní Indie"
+ AST_independent: "$AST$" # todo: NEW TRANSLATION
+ AST_independent_DEF: "$AST_DEF$" # todo: NEW TRANSLATION
+ AST_monarchy_neutrality: "Australské království" # todo: NEW TRANSLATION
+ AST_monarchy_neutrality_DEF: "Australské království" # todo: NEW TRANSLATION

@@ -1054,10 +1054,10 @@
  STATE_867: "Severní Manitoba"
  STATE_868: "Isán"
  STATE_869: "Lanna"
- STATE_870: "Severozápadní Austrálie"
- STATE_871: "Jižní Západní Austrálie"
+ STATE_870: "Pilbara-Kimberley" # todo: CHANGED
+ STATE_871: "Esperance-Zlatonosná oblast" # todo: CHANGED
  STATE_872: "Severní Queensland"
- STATE_873: "Jihovýchodní Queensland"
+ STATE_873: "Kanálová oblast" # todo: CHANGED
  STATE_874: "Magadan"
  STATE_875: "Čukotský poloostrov"
  STATE_876: "Udačnyj"
@@ -1302,7 +1302,7 @@
  ENG_STATE_1071: "Nové Hebridy"
  STATE_1072: "Americká Samoa"
  STATE_1073: "Vnitrozemská Papua"
- STATE_1074: "Středozápadní Austrálie"
+ STATE_1074: "Gibsonova poušť" # todo: CHANGED
  STATE_1075: "Západní Queensland"
  STATE_1076: "Bangkok"
  STATE_1077: "Střední Siam"

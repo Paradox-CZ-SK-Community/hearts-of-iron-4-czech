@@ -1234,6 +1234,8 @@
  SIA_army_ordnance_department_artillery_organzation: "Oddělení armádní výzbroje pro dělostřelectvo"
  SIA_thai_rung_organization: "Thai Rung"
  SIA_directorate_of_aeronautical_engineering: "Ředitelství leteckého inženýrství"
+ SIA_mio_trait_japanese_air_mission: "Japonská technická mise" # todo: NEW TRANSLATION
+ SIA_mio_trait_american_procurement: "Americké zásobovací kanály" # todo: NEW TRANSLATION
  SIA_chaiseri_organization: "Chaiseri"
  SIA_bangkok_dock_organization: "Loděnice Bangkok"
  CZE_zbrojovka_vsetin_organization: "Zbrojovka Vsetín"
