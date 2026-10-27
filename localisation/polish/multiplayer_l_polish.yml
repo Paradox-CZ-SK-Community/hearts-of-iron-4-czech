@@ -8,6 +8,8 @@
  SYSTEM_PLAYER_KICKED: "§G§Y$NAME$§! byl vyhozen ze hry.§!"
  SYSTEM_PLAYER_BANNED: "§G§Y$NAME$§! byl zablokován ve hře.§!"
  SYSTEM_PLAYER_ARRIVED: "§G§Y$NAME$§! se připojil ke hře.§!"
+ MODIFIED_CLIENT_DETECTED: "Zjištěn upravený herní klient: $NAME$"
+ MODIFIED_CLIENT_BADGE_TOOLTIP: "Hostitel zjistil, že herní klient tohoto hráče byl upraven."
  CONNECTED: "§GPřipojeno.§!"
  NAME_TAKEN: "Vaše jméno je již obsazeno. Prosím odejděte a zvolte si jiné."
  CONNECTING: "Připojuji se..."

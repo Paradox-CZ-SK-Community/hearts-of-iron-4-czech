@@ -469,6 +469,8 @@
  TUR_saadabad_pact_faction_tt: "Pozveme všechny signatáře §YSádábádského paktu§! do formální aliance."
  TUR_no_faction_members_tt: "Saadabadský pakt nemá žádné signatáře"
  TUR_no_faction_alliance_members_tt: "Signatáři §YSaadabadského paktu§! §Yneratifikovali Sádábádský konkordát§!"
+ TUR_third_expedition_to_aceh: "Třetí osmanská výprava do Acehu"
+ TUR_third_expedition_to_aceh_desc: "Naše říše se opět postavila na nohy a nastal čas obnovit vládu nad zámořskými protektoráty a državami, které kdysi spadaly pod naši moc. Abychom toho dosáhli, musíme zajistit, že naše námořnictvo bude na potřebné úrovni. Naším prvním cílem se stane obnovení protektorátu nad Acehem."
  TUR_the_damascus_diktat: "Damašský diktát"
  TUR_the_damascus_diktat_desc: "[677.Controller.GetNameDefCap] je slabý hráč. Stačí pohrozit válkou, pokud nám nevydá Sýrii, a padnou na kolena, budou žadonit o mír a prosit, ať si Sýrii vezmeme."
  TUR_supporting_the_east: "Podpora východu"

@@ -638,6 +638,8 @@
  occupied_countries.1.desc: "Po dlouhodobém a soustředěném úsilí o zlepšení spolupráce a poslušnosti mezi našimi okupačními silami a místní civilní správou jsme připraveni vrátit řízení [From.From.GetNameDef] do rukou místní vlády. Tento nový kabinet tvoří nám naklonění civilisté a je připraven úzce s námi koordinovat."
  occupied_countries.1.a: "Mají naše požehnání."
  occupied_countries.1.b: "Ještě nejsou připraveni."
+ occupied_countries.1.c: "Přestaňte mi předkládat tyto žádosti."
+ occupied_countries.1.c_tt: "Již nebudeme dostávat upozornění, když bude okupovaná země připravena na vytvoření §Ykolaborační vlády§!.\nTyto vlády bude stále možné kdykoli vytvořit prostřednictvím rozhodnutí v kategorii §YZahraniční vliv§!."
  lar_news.1.t_franco: "Vítězství nacionalistů ve španělské občanské válce"
  lar_news.1.t_falangist: "Vítězství falangistů ve španělské občanské válce"
  lar_news.1.t_carlists: "Vítězství Karlistů ve španělské občanské válce"

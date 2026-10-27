@@ -733,6 +733,8 @@
  sp_naval_modern_battleship_free_design: "Moderní bitevní loď"
  sp_naval_midget_submarine: "Miniponorka"
  sp_naval_midget_submarine_desc: "Existuje místo v našich námořních schopnostech pro lehkou, levnou a všestrannou ponorku, která může být použita od sabotáží v přístavech po přepadání konvojů."
+ JAP_sp_naval_midget_submarine_desc: "$sp_naval_midget_submarine_desc$[JAP_midget_submarine_pearl_harbor_key]"
+ JAP_sp_naval_midget_submarine_pearl_harbor_hint: "\n\nTyto miniponorky, přepravované našimi oceánskými ponorkami, by mohly proniknout do přístavu ještě před zahájením operace $raid_type_JAP_pearl_harbor_strike$, čímž by zvýšily šanci na §Gkritický úspěch§!."
  sp_naval_midget_submarine_free_design: "Miniponorka"
  JAP_sp_naval_midget_submarine: "Ponorka třídy Kó-hjóteki"
  sp_naval_nuclear_torpedo: "Jaderné torpédo"

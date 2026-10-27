@@ -395,6 +395,8 @@
  AIR_VIEW_AIR_SPEED_LOWER: "Naše průměrná §HRychlost§! je §Rnižší§! než jejich"
  AIR_VIEW_AIR_SPEED_EQUAL: "Naše průměrná §HRychlost§! je §Hstejná§! jako jejich"
  AIR_VIEW_FILTER_CLICK: "§GKlikněte§! pro přepnutí zobrazení této mise.\n§GShift+klik§! pro zobrazení pouze této mise."
+ AIR_VIEW_FILTER_VIEW_ALL: "§GCtrl+kliknutí§! zobrazí všechny mise"
+ AIR_VIEW_FILTER_VIEW_NONE: "§GCtrl+kliknutí§! skryje všechny mise"
  AIR_VIEW_DETECTION: "$VAL|%0$"
  SELECT_BOMBING_PRIORITIES: "§HVyberte priority strategického bombardování§!"
  AIR_VIEW_DETECTION_HEADER_OUR: "§HNaše vzdušná detekce§!"

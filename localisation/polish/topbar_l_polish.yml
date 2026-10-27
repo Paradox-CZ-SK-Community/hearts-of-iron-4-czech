@@ -14,6 +14,7 @@
  TOPBAR_TECHNOLOGY_PROTOTYPE_REWARD: "Máte $AMOUNT|Y$ dokončenou odměnu za iteraci prototypu ke přečtení"
  TOPBAR_TECHNOLOGY_LEFT_CLICK: "§GLevým kliknutím§! pro otevření na kartě výzkumných slotů"
  TOPBAR_TECHNOLOGY_RIGHT_CLICK: "§GPravé tlačítko myši§! pro otevření na kartě zařízení"
+ TOPBAR_TECHNOLOGY_ALT_CLICK: "§GAlt+kliknutím§! otevřeš okno výzkumu s vybraným volným výzkumným slotem, pokud je nějaký dostupný"
  TOPBAR_DIPLOMACY: "Diplomacie"
  TOPBAR_DIPLOMACY_DESC: "Provádějte jednání s jinými národy."
  TOPBAR_INTERNATIONAL_MARKET: "Mezinárodní trh"
@@ -83,3 +84,4 @@
  TOPBAR_COAL_CURRENTLY_USED: "Z §Y$COUNT$§! £energy_consumption_texticon uhlí aktuálně spotřebované"
  TOPBAR_MAXIMUM_ENERGY_GENERATED: "£energy_texticon Maximální vyrobená energie: $ENERGY_GENERATED|H1$"
  TOPBAR_TOTAL_COAL: "Z §Y$COUNT$§! £energy_consumption_texticon uhlí dostupné k použití"
+ TOPBAR_FLAG_DESC: "§GKliknutím§! přepneš zobrazení §Ypolitiky§!\n§GKliknutím pravým tlačítkem§! přepneš zobrazení vlastní §Ydiplomacie§!"

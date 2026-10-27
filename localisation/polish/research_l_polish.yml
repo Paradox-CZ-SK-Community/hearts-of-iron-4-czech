@@ -15,6 +15,8 @@
  RESEARCH_RESEARCH: "Výzkum"
  RESEARCH_TAB_SLOTS: "Výzkumné sloty"
  RESEARCH_TAB_FACILITIES: "Experimentální zařízení"
+ RESEARCH_FOLDER_TAB_CYCLE_TOOLTIP: "£GFX_tab : Přepnout na další záložku.\n£GFX_shift  + £GFX_tab : Přepnout na předchozí záložku."
+ RESEARCH_FOLDER_TAB_KEY_TOOLTIP: "£GFX_$KEY$ : Přejít na tuto záložku."
  RESEARCH_DONE: "Prozkoumáno"
  RESEARCH_TIME_TO_COMPLETE: "Čas výzkumu: $TIME|H$"
  RESEARCH_IDEA_BONUS_ENTRY: "$IDEA$: $FACTOR|G=0%$"
