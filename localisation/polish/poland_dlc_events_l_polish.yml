@@ -48,7 +48,7 @@
  poland.20.d: "Nie ma wolności bez Solidarności!"
  poland.20.e: "Vynikající!"
  poland.20.f: "K čertu!"
- poland.21.t: "[DNZ.GetNameDef] žádá [Ger.GetNameDefCap] o připojení"
+ poland.21.t: "[DNZ.GetNameDef] žádá [GER.GetNameDef] o připojení"
  poland.21.d: "Jak válka pustoší [DNZ.GetNameDef], [DNZ.GetLeader] stále odolává, ale je jasné, že jedno město nestačí odolat náporu všech sil, které na něho vyslal [POL.GetLeader]. Jako člen strany [Root.GetRulingParty] je [DNZ.GetLeader] odpovědný nám, a [DNZ.GetAdjective] porážka by byla nepřijatelná. [GER.GetNameDefCap] by mohlo vstoupit do války jako obránce a podpořit [DNZ.GetNameDef], což by představovalo jedinečnou příležitost obsadit město a přitom vypadat jako mírotvůrce..."
  poland.21.a: "Gdaňsk zůstane Danzig!"
  poland.21.b: "Neměli bychom se do toho plést."

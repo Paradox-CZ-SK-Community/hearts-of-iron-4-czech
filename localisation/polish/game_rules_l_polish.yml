@@ -225,7 +225,7 @@
  RULE_OPTION_INDEPENDENCE_COM: "Převrat Čao Šang-čchiho"
  RULE_OPTION_RANDOM: "Náhodný"
  RULE_OPTION_DEFAULT: "Výchozí"
- RULE_OPTION_DEFAULT_AI_DESC: "AI bude rozhodovat podle ostatních nastavení hry, jako je možnost vynutit historické zaměření a další herní scénáře. Toto je stejné chování jako ve verzi 1.5 a starších."
+ RULE_OPTION_DEFAULT_AI_DESC: "AI bude postupovat podle historických zaměření, pokud jsou zapnuta. Jinak si pomocí váženého náhodného výběru zvolí herní plán, který bude následovat."
  RULE_OPTION_RANDOM_AI_DESC: "AI náhodně zvolí herní plán na začátku hry a pokusí se jej realizovat."
  RULE_OPTION_FASCIST_GER_AI_DESC: "Německá AI zůstane fašistická a pokusí se ovládnout Evropu tím, že půjde relevantní větví národního stromu zaměření."
  RULE_FASCIST_JAP_AI_DESC: "Japonská AI bude následovat historickou cestu a pokusí se udeřit na jih proti západním spojencům tím, že půjde odpovídající větví národního stromu zaměření."

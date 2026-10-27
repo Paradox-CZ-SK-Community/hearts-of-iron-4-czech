@@ -73,6 +73,7 @@
  STAT_ARMY_CASUALTY_TRICKLEBACK_DESC: "Procento ztrát, které se nepočítají jako trvalé - vrací se do rezerv nebo nemocnic. Tyto ztráty nemají negativní dopad na válečnou podporu."
  STAT_ARMY_CASUALTY_TRICKLEBACK_VALUE: "$VALUE|H2%$"
  STAT_ARMY_CASUALTY_TRICKLEBACK_DIFF: " $VALUE|=+2%$"
+ CASUALTY_TRICKLEBACK_CAP_WARNING: "§RHodnota je omezena na§! $MAX|H2%$"
  STAT_ARMY_EXPERIENCE_LOSS_FACTOR: "Ztráta zkušeností: "
  STAT_ARMY_EXPERIENCE_LOSS_FACTOR_DESC: "Udává, kolik bojových zkušeností jednotka ztratí při utrpění ztrát a následném doplnění novými vojáky."
  STAT_ARMY_EXPERIENCE_LOSS_FACTOR_VALUE: "$VALUE|H2%$"

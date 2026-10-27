@@ -1089,6 +1089,7 @@
  japan_border_conflict.4.t: "Patová situace u jezera Chasan"
  japan_border_conflict.4.desc: "Boj mezi japonskými a [SOV.GetAdjective] silami kolem jezera Chasan utichl poté, co obě strany ustoupily ze sporného území, aby se přeskupily a doplnily zásoby. Uvědomujíce si marnost dalších ofenzív, japonská armáda požádala o příměří a vyjednávání o stanovení hranice."
  japan_border_conflict.4.a: "Získali jsme cenné zkušenosti."
+ japan_border_conflict.4.b: "Hranice zůstává tam, kde byla."
  japan_border_conflict.5.t: "Eskalace u jezera Chasan"
  japan_border_conflict.5.desc: "Boje mezi japonskými a [SOV.GetAdjective] silami kolem jezera Chasan pokračují. Ve snaze prolomit patovou situaci začaly japonské síly v jiných oblastech také útočit na [SOV.GetAdjective] jednotky v tomto sektoru. Zpravodajství naznačuje, že Japonci mohou brzy posílit útok čerstvými jednotkami přesunutými z jiných částí jejich impéria."
  japan_border_conflict.5.a: "Musíme udržet linii."

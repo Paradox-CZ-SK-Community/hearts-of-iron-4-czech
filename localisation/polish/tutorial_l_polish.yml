@@ -53,7 +53,7 @@
  TUT_MOVE_CAMERA: "Změněna poloha kamery na $STATE$"
  TUT_SELECTED_DIVS: "$NUMBERS$ divizí v $STATE$ je vybráno"
  TUT_COMMAND_GROUP: "Armáda existuje"
- TUT_FRONTLINE: "Mezi $STATE$ a Etiopií existuje frontová linie"
+ TUT_FRONTLINE: "Mezi $STATE$ a Etiopií existuje §Yfrontová linie§!"
  TUT_OFFENSIVE_ORDER: "Existuje Ofenzivní rozkaz na obsazení $ENEMY_CAPITAL$"
  TUT_AIRBASE: "Prohlížíte leteckou základnu v $STATE$"
  TUT_AIRWINGS_ASSIGNED: "$NUMBERS$ letek na letecké základně v $STATE$ je přiřazeno k $REGION$ vzdušnému regionu"

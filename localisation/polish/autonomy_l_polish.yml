@@ -55,7 +55,7 @@
  EVENT_AUTONOMY_EFFECTS: "§HEfekty na autonomii§!"
  ADD_AUTONOMY_SCORE_DESC: "Přidat £autonomy_texticon $VALUE|H2$"
  ADD_AUTONOMY_SCORE_DETAILED_DESC: "Přidat £autonomy_texticon $VALUE|H2$ k $COUNTRY|H$"
- COLONIAL_FORCES_GENERAL_DESCRIPTION: "§GKlikněte pro zobrazení šablon subjektů a exilových vlád§!\n\nDivize vytvořené s koloniálními šablonami mohou obsahovat více pracovní síly z kolonie, pokud je autonomie kolonie snížena."
+ COLONIAL_FORCES_GENERAL_DESCRIPTION: "§GKlikněte§! pro zobrazení šablon subjektů a exilových vlád\n\nDivize vytvořené s koloniálními šablonami mohou obsahovat více pracovní síly z kolonie, pokud je autonomie kolonie snížena."
  COLONIAL_FORCES_NO_SUBJECTS: "§RNemáme žádné subjekty ani exilové vlády, od kterých bychom mohli získávat šablony§!"
  FOREIGN_TEMPLATE_DESC: "Tohle je $COUNTRY_ADJ|H$ šablona, jelikož jsou naším subjektem.Tuto šablonu můžeme zkopírovat a vytvořit na jejím základě koloniální síly. Koloniální síly čerpají personál od subjektu v poměru určeném úrovní jejich autonomie."
  COLONIAL_TEMPLATE_DESC: "Toto je koloniální šablona pro $COUNTRY_DEF|H$. Koloniální síly čerpají personál od subjektu v poměru určeném úrovní jejich autonomie."

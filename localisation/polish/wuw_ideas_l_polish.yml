@@ -692,6 +692,7 @@
  COG_transports_et_ports: "Société Commerciale des Transports et des Ports"
  COG_force_publique: "Force Publique"
  COG_force_publique_desc: "Force Publique je četnická a vojenská síla Konga, založená v roce 1877 pod Kongským svobodným státem. Její důstojníci jsou výhradně Evropané, ať už Belgičané nebo žoldnéři, zatímco řadoví vojáci jsou z větší části rodilí Konžané. Tato síla je velmi účinná v boji, když na tom záleží, avšak nerovnost a špatné řízení jsou zdrojem velké nespokojenosti."
+ COG_force_publique_fake_idea_tt: "Změna maximální velitelské síly: §R-50§!\nKoeficient denního zisku velitelské síly: §R-50 %§!"
  COG_the_invisible_roof: "Neviditelný strop"
  COG_the_invisible_roof_desc: "Ačkoli to nestanovuje žádný zákon, většina institucí a firem v Kongu brání domorodým Konžanům postoupit nad určité posty a nepřipouští je k vyššímu vzdělání."
  COG_belgian_congo_colonial_dynamic_modifier: "Vzorová kolonie"

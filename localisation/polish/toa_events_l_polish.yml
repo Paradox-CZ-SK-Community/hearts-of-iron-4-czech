@@ -1206,7 +1206,7 @@
  TOA_ven_blockade.1.a: "[FROM.GetName] je pro nás přisilný protivník."
  TOA_ven_blockade.1.b: "Tohle je vyhlášení války!"
  TOA_ven_blockade.2.t: "$TOA_ven_blockade.1.t$"
- TOA_ven_blockade.2.desc: "[FROM.GetName] činí odvážný a pobuřující krok, po kterém je [VEN.GetName] pod blokádou. U Caracasu byly spatřeny válečné lodě a [VEN.GetAdjective] vláda byla údajně informována, že byla zavedena úplná blokáda s cílem zastavit obchod s ropou mezi našimi zeměmi."
+ TOA_ven_blockade.2.desc: "[FROM.GetName] činí odvážný a pobuřující krok, po kterém je [VEN.GetNameDef] pod blokádou. U Caracasu byly spatřeny válečné lodě a [VEN.GetAdjective] vláda byla údajně informována, že byla zavedena úplná blokáda s cílem zastavit obchod s ropou mezi našimi zeměmi."
  TOA_ven_blockade.2.a: "Jasné porušení neutrality!"
  paraguay.1.t: "Příležitost ke zvýšení výdajů na opevnění"
  paraguay.1.desc: "Obnova Humaitá nám poskytla příležitost zvýšit výdaje na obranu a přidat další opevnění v okolí, včetně menší pevnosti k lepší ochraně říčního vstupu do hlavního města."
