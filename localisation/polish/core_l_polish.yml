@@ -284,7 +284,7 @@
  SAVEITEM_FILESIZE: "Velikost souboru: $SIZE$"
  SAVEITEM_SIZE_VALUE: "$VALUE|1Y$ $POSTFIX|Y$"
  SAVEITEM_DELETE_FILE: "§GKlikněte pravým tlačítkem§! pro smazání"
- AUTOSAVE_TOCLOUD: "Automatické ukládání na cloud"
+ AUTOSAVE_TOCLOUD: "Auto-ukládání na cloud"
  LOADING_SAVEGAME: "Načítání uložené hry: $NAME$"
  LOADING_SAVEGAME_NO_NAME: "Načítání uložené hry"
  LOADING_DATABASES: "Načítání databází"

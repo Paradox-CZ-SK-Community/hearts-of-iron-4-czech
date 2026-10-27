@@ -234,7 +234,7 @@
  INTERNATIONAL_MARKET_CIV_AND_CONVOY_ALLOCATION_DELAYED_TOOLTIP: "Toto jsou přidělené §YCivilní továrny§! a §YKonvoje§!, které jsou momentálně používány u probíhajících kontraktů."
  INTERNATIONAL_MARKET_CIC_BANK: "$CIC_BANK_HEADER$: £civ_factory_output£ $VALUE|0Y$"
  INTERNATIONAL_MARKET_ADD_TO_STOCKPILE_BUTTON_TOOLTIP: "Přidejte vybavení ze svých §Yskladů§! na trh, aby je mohly země s §YPřístupem na trh§! od vás koupit za £civ_factory_output£ §YEkonomickou kapacitu§!"
- INTERNATIONAL_MARKET_OPTIONS: "Automaticky žádat o přístup"
+ INTERNATIONAL_MARKET_OPTIONS: "Automatizovat"
  INTERNATIONAL_MARKET_NO_TRADE_ROUTE_FOR_CONTRACT: "§RNemáte platné obchodní spojení§! s touto zemí, takže nemůžete zahájit kontrakt."
  INTERNATIONAL_MARKET_REQUEST_AUTOMATION_WINDOW_INFO: "§GVyberte§! automatizované možnosti, které chcete aktivovat."
  INTERNATIONAL_MARKET_REQUEST_AUTOMATION_AUTO_ACCEPT_MARKET_ACCESS_DESC: "Automaticky přijímat §YVyjednávání přístupu na trh§!"
