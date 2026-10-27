@@ -1500,7 +1500,7 @@
  ITA_european_democracies_tt: "§YEvropské země§! budou nakloněny více přijímat diplomatické žádosti Itálie."
  ITA_european_democracies_bonus_per_ally_tt: "\nZíská §G+2.00%§! stability a §G+25§! politické síly za každou nezávislou demokratickou zemi, s kterou [ROOT.GetName] sdílí frakci (max. §Y+10.00%§! stability a §Y+125§! politické síly).\n\n"
  ITA_peace_preservation_guarantees_tt: "Zaručí každou §Ydemokratickou§! evropskou zemi nezávislou nebo spojeneckou s §Y[ROOT.GetNameWithFlag]§!:"
- ITA_peace_preservation_ns_tt: "\nZíská národní ducha §Y$ITA_peace_keepers_of_europe$§!, který uděluje (Továrny na spotřební zboží: §Y-2.0%§! za každou zaručenou zemi (max §Y-10.0%§!), Válečná podpora: §G+1.00%§! za každou zaručenou zemi (max §Y+10.00%§!), Týdenní personál: §G+100§! za každou zaručenou zemi (max §Y+1000§!))."
+ ITA_peace_preservation_ns_tt: "\nZíská národní ducha §Y$ITA_peace_keepers_of_europe$§!, který uděluje (Továrny na spotřební zboží: §Y-2.0%§! za každou zaručenou zemi (max §Y-20.0%§!), Válečná podpora: §G+1.00%§! za každou zaručenou zemi (max §Y+10.00%§!), Týdenní personál: §G+100§! za každou zaručenou zemi (max §Y+1000§!))."
  ITA_scientific_cooperation_allies_ns_tt: "Přidá národního ducha §Y$ITA_scientific_cooperation$§! pro §Y[ROOT.GetNameDef]§! a §Yvšechny [ROOT.GetAdjective] spojence§!."
  ITA_secure_the_borders_forts_tt: "Přidá §Y2 $bunker$§! v každé provincii sousedící s potenciálně nepřátelskou zemí. \nAktuální efekty:"
  ITA_scientific_cooperation_research_sharing_group_tt: "Každá spojenecká země se připojí k §Y$ITA_program_for_scientific_cooperation_name$§!."

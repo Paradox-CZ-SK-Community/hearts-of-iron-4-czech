@@ -186,7 +186,7 @@
  CAN_CONSTRUCT_BUILDING_IN_STATE: "Lze postavit $BUILDING|Y$ ve státě $STATE|Y$"
  NOT_CAN_CONSTRUCT_BUILDING_IN_STATE: "Nelze postavit $BUILDING|Y$ ve státě $STATE|Y$"
  CONSTRUCT_BUILDING_IN_STATE: "Postavit $BUILDING|Y$ ve státě $STATE|Y$"
- DISMANTLE_FACILITY_DESC_TT: "§GKlikněte§! pro rozebrání zařízení.\n\nBude trvat $DAYS|Y$ dní"
+ DISMANTLE_FACILITY_DESC_TT: "§GKlikněte§! pro rozebrání zařízení\n\nBude trvat $DAYS|Y$ dní"
  ABORT_DISMANTLE_FACILITY_DESC_TT: "§GKlikněte§! pro zrušení rozebírání zařízení."
  ABORT_DISMANTLE_PROJECT_POPUP_DESC: "Zrušit rozebírání zařízení?"
  DISMANTLE_FACILITY_TT: "Rozebráno za $DAYS|Y$ dní"

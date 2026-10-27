@@ -36,7 +36,7 @@
  RESEARCH_YEAR_AHEAD_PENALTY_NO_VALUE: "§RTechnologie předběhla svou dobu o $YEARS|2$ roky. Čím více je napřed, tím větší je časová penalizace.§!"
  RESEARCH_YEAR_AHEAD_PENALTY: "§RTechnologie je $YEARS|2$ roky napřed (+$VALUE|%0$). Penalizace bude časem klesat.§!"
  RESEARCH_YEAR_AHEAD_PENALTY_RED: "§RTechnologie předběhla svou dobu o $YEARS|2$ roky (+$VALUE|%0$), ale penalizace za předčasnost byla snížena o $REDUCED_YEARS|.1$ rok (+$RED|%0$) díky národním zaměřením. Penalizace se bude časem snižovat.§!"
- RESEARCH_TECH_UNUSED: "§GKlikněte pro výzkum§!\nBěhem 30 dnů si můžete vybrat novou oblast výzkumu bez ztráty výzkumného času."
+ RESEARCH_TECH_UNUSED: "§GKlikněte§! pro výzkum\nBěhem 30 dnů si můžete vybrat novou oblast výzkumu bez ztráty výzkumného času."
  RESEARCH_NO_LONGER_AVAILABLE: "$RESEARCH|H$\n§RJiž není k dispozici - bude odstraněn následující den§!"
  RESEARCH_EQUIPMENT_HEADER: "Vybavení"
  RESEARCH_UPGRADES_HEADER: "Vylepšení"

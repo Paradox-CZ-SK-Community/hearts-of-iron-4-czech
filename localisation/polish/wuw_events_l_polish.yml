@@ -499,7 +499,7 @@
  AUS_political_events.113.t: "[FROM.GetNameDefCap] odmítá pakt o neútočení"
  AUS_political_events.113.desc: "Zdá se, že naše nabídka vůči [FROM.GetAdjective] vedení nebyla dostatečná. Buď prohlédli naše budoucí plány, nebo sami chystají zlovolné kroky proti nám. Musíme se na tuto eventualitu připravit a pokud budeme chtít v plánech pokračovat, mohou být zapotřebí nepřátelštější kroky."
  AUS_political_events.113.a: "To je nešťastné"
- AUS_political_events.114.t: "[FROM.GetNameDef] nabízí průmyslovou podporu"
+ AUS_political_events.114.t: "[FROM.GetNameDefCap] nabízí průmyslovou podporu"
  AUS_political_events.114.desc: "V návaznosti na naši nedávnou dohodu o míru mezi našimi zeměmi nám [FROM.GetNameDef] nabízí průmyslovou podporu. Ačkoli náš průmyslový sektor obvykle splňuje naše standardy, jejich pomoc je samozřejmě vítána. Ozvalo se však i několik varovných hlasů, které tvrdí, že [FROM.GetNameDefCap] to jistě dělá z nějakého důvodu."
  AUS_political_events.114.a: "Vyřiďte naše poděkování."
  AUS_political_events.115.t: "Navržené [ROOT.GetNonIdeologyName]-[FROM.GetAdjective] vojenské cvičení"

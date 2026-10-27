@@ -369,7 +369,7 @@
  AAT_Sweden.18.a: "Samozřejmě, [NOR.GetName] je právoplatným pánem Narviku"
  AAT_Sweden.18.b: "Narvik si nárokujeme jako odplatu za naše úsilí"
  AAT_Sweden.19.t: "[SWE.GetNameDefCap] vrací Narvik"
- AAT_Sweden.19.desc: "Je to jasný den, kdy je [Nor.GetName] konečně znovu sjednoceno. [SWE.GetName] velkoryse přijalo naši žádost o navrácení Narviku, oblasti, která byla během války chráněna [SWE.GetAdjective] vládou. Vyjádřili jsme naši nejhlubší vděčnost [SWE.GetAdjective] vládě - skutečně to ohlašuje hlubší spojení mezi našimi zeměmi, které přetrvá celé věky."
+ AAT_Sweden.19.desc: "Je to jasný den, kdy je [NOR.GetName] konečně znovu sjednoceno. [SWE.GetName] velkoryse přijalo naši žádost o navrácení Narviku, oblasti, která byla během války chráněna [SWE.GetAdjective] vládou. Vyjádřili jsme naši nejhlubší vděčnost [SWE.GetAdjective] vládě - skutečně to ohlašuje hlubší spojení mezi našimi zeměmi, které přetrvá celé věky."
  AAT_Sweden.19.a: "Norsko je opět sjednocené"
  AAT_Sweden.19_tt: "§Y[ROOT.GetNameDefCap]§! nyní bude moci udělit §Y$norwegian_defense_cross_of_honor$§! §Ypolním velitelům§!."
  AAT_Sweden.20.t: "[SWE.GetNameDefCap] odmítá vrátit Narvik"

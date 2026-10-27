@@ -465,7 +465,7 @@
  CHI_republican_interests_cat: "Republikánské zájmy"
  CHI_invite_demo_asian_nation_to_faction_decison: "Pozvat §Y[FROM.GetNameDef]§! do naší aliance"
  CHI_stir_democratic_sentiments_in_asia_decison: "Podnítit republikánské nálady v zemi §Y[FROM.GetNameDef]§!"
- CHI_oust_the_empires_decision: "Požadovat, aby [FROM.OWNER.GetNameDef] byl propuštěn ze závislosti na §Y[FROM.Capital.OWNER.GetNameDef]§!"
+ CHI_oust_the_empires_decision: "Požadovat, aby [FROM.GetNameDef] byl propuštěn ze závislosti na §Y[FROM.Capital.OWNER.GetNameDef]§!"
  PRC_unlock_left_side_bop_decisions_tt: "Odemkne rozhodnutí £BoP_left_texticon  §Y$PRC_communist_power_struggle$§!"
  PRC_unlock_right_side_bop_decisions_tt: "Odemkne rozhodnutí £BoP_right_texticon  §Y$PRC_communist_power_struggle$§!"
  PRC_unlock_both_sides_bop_decisions_tt: "Odemkne rozhodnutí £BoP_left_texticon £BoP_right_texticon  §Y$PRC_communist_power_struggle$§!"

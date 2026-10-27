@@ -265,7 +265,7 @@
  BEL_eu_investment_federalization_tt: "§GZvýší se pravděpodobnost§!, že přijmou §Yfederalizaci§!"
  BEL_propose_limited_federalization_descision: "Navrhnout federalizaci pro [FROM.GetNameDef]"
  BEL_currently_taking_eu_decision_flag: "Právě probíhá jiné rozhodnutí EU"
- more_likely_to_accept_federalization_tt: "- Mají vůči nám §Gvysoké§! sympatie\n- Sdílíme ideologii"
+ more_likely_to_accept_federalization_tt: "- Mají vůči nám §Gvysoký§! názor\n- Sdílíme ideologii\n- Zaručujeme jejich nezávislost\n- Jsou v naší skupině pro sdílení výzkumu\n- Unie již má federální členy\n- Jsou blízko kapitulaci\n- V posledním roce nás §Rneodmítli§!\n- Investovali jsme do jejich průmyslu"
  BEL_proclaim_the_european_federation: "Vyhlásit Evropskou federaci"
  BEL_federation_controls_all_highlighted_states_tt: "Federace přímo nebo prostřednictvím svých členů ovládá všechny §Yzvýrazněné§! státy"
  BEL_federation_annex_members_tt: "Všechny §Yčlenské státy§!, které ovládají zvýrazněná území, budou začleněny do federace"

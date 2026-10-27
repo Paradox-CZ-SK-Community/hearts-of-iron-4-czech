@@ -62,7 +62,7 @@
  MAPMODE_CONFIGURE: "Nastavte oblíbené mapové režimy"
  MAPMODE_ALL: "Otevřete okno se všemi možnými mapovými režimy."
  CONFIG_MAPMODE_DEFAULT: "Obnovit výchozí nastavení mapových režimů"
- MAPMODE_ALL_ENTRY_DETAILS: "§GKlikněte§! pro výběr.\n§GPravým kliknutím§! pro výběr a zavření."
+ MAPMODE_ALL_ENTRY_DETAILS: "§GKlikněte§! pro výběr\n§GPravým kliknutím§! pro výběr a zavření"
  MAPMODE_TOOLTIP_INFRASTRUCTURE: "£infrastructure_texticon  Infrastruktura $INF|Y$"
  MAPMODE_TOOLTIP_MANPOWER: "£population_texticon  Populace $MP|*Y$"
  MAPMODE_DEBUG_NAVAL_ACCESSIBILITY: "Držte §GAlt§! pro zobrazení přístupnosti ponorek\nDržte §GShift§! pro zobrazení přístupnosti hladinových plavidel"
