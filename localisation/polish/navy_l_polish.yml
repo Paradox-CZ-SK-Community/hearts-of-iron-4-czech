@@ -47,7 +47,7 @@
  SHIP_RECOVERY_CHANCE_FOR_NAVAL_DOMINANCE: "   Šance na zotavení lodí: $VAL|1%+=$"
  NAVAL_DOMINANCE_MINES_PLANTING_BONUS_DESC: "   Rychlost kladení min: $VALUE|1%+=$"
  NAVAL_DOMINANCE_MINES_SWEEPING_BONUS_DESC: "   Rychlost odminování: $VALUE|1%+=$"
- SUBJECT_NAVAL_BASES: "§HVazalové§!"
+ SUBJECT_NAVAL_BASES: "§HSubjekti§!"
  FACTION_NAVAL_BASES: "§HČlenové frakce§!"
  NAVAL_HEADQUARTER: "§YNámořní velitelství§!"
  NAVAL_HEADQIARTER_HEADER: "Námořní velitelství"

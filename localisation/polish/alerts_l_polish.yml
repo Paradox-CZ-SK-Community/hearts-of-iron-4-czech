@@ -99,7 +99,6 @@
  FACTION_MEMBER_NEAR_ASSUMING_LEADERSHIP: "   $COUNTRY|Y$ ($PROGRESS|0%Y$)"
  FACTION_MEMBER_ABLE_TO_ASSUME_LEADERSHIP: "   $COUNTRY|Y$ (§R100%§!)"
  DIPLOMACY_REQUEST_HEADER: "$NAME|Y$ posílá žádost pro $COUNTRY|Y$"
- DIPLOMACY_REQUEST_CLICKS: "§GKlikněte pro otevření\nShift+klik pro přijetí\nPravé tlačítko pro odmítnutí§!"
  DIPLOMACY_REQUEST_CLICK_OPEN: "§GKliknutím§! otevřeš"
  DIPLOMACY_REQUEST_SHIFT_ACCEPT: "§GShift+kliknutí§! přijme žádost"
  DIPLOMACY_REQUEST_SHIFT_ACCEPT_ALL: "§GShift+kliknutí§! přijme všechny žádosti"

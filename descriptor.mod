@@ -1,7 +1,7 @@
-version="134"
+version="135"
 tags={
 	"Translation"
 }
 name="Čeština komunity Paradox CZ/SK"
-supported_version="1.19.*"
+supported_version="1.20.*"
 remote_file_id="3438859947"

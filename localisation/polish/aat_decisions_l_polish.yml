@@ -136,7 +136,7 @@
  NOR_joint_training_exercise_desc: "Pokud chceme zvítězit, naše síly a [FROM.GetNameDef] musí dokonale spolupracovat. Toho lze dosáhnout jen výcvikem a úzkou vojenskou spoluprací."
  NOR_expand_industrial_capacity: "Investovat do průmyslové kapacity"
  NOR_expand_industrial_capacity_desc: "Jsme sice v exilu, ale nejsme bezmocní. Disponujeme jedním z největších obchodních loďstev světa a můžeme jej použít k získání průmyslové kapacity nutné pro budoucí boj o naši vlast."
- NOR_foment_resistance_in_state: "Podnítit odpor - [FROM.GetName]"
+ NOR_foment_resistance_in_state: "Podnítit odboj - [FROM.GetName]"
  NOR_foment_resistance_in_state_desc: "Obyvatelé [FROM.GetName] mají odbojného ducha a bojují proti našemu nepříteli. Potřebují jen malý impuls, aby jejich odpor byl rozhodující."
  NOR_support_rebellion: "Podpořit povstání - [FROM.GetName]"
  NOR_support_rebellion_desc: "Naše odbojové úsilí se pro [FROM.GetName] vyplatilo. Tamní lid je připraven postavit se svým utlačovatelům. Nechme je odstartovat boj - a jakmile tak učiní, budeme připraveni vrátit se domů a bojovat."

@@ -370,7 +370,7 @@
  INS_the_co_prosperity_sphere: "Sféra společné prosperity"
  INS_the_co_prosperity_sphere_tt: "Zpřístupní rozhodnutí §Y$INS_request_membership$§! a §Y$INS_assume_complete_power$§!, které umožní změnit směřování země a učinit §Y$INS_sukarno$§! fašistou."
  INS_the_co_prosperity_sphere_desc: "Přestože spolupráce s Japonci čelí značnému odporu, v této nestabilní době je v našem nejlepším zájmu spojit síly s mocnější zemí, abychom společně dokázali vzdorovat západním Spojencům."
- INS_strengthen_ins_jap_trade: "[ROOT.GetAdjective] a [JAP.GetAdjective] obchod"
+ INS_strengthen_ins_jap_trade: "[ROOT.GetAdjectiveCap] a [JAP.GetAdjective] obchod"
  INS_strengthen_ins_jap_trade_desc: "Měli bychom zlepšit obchodní vztahy s naším novým spojencem. Pokud budeme prodávat přebytečné suroviny za výrazně nižší ceny, můžeme prokázat svou užitečnost a po válce získat silnější vyjednávací pozici."
  INS_seek_recognition_of_mal_claims: "Usilovat o uznání našich malajských nároků"
  INS_seek_recognition_of_mal_claims_desc: "Malajsko a Severní Borneo mají stejný původ jako my a oddělují nás pouze umělé koloniální hranice. Měli bychom usilovat o to, ať [JAP.GetNameDef] uzná naše právo na tato území a přislíbilo nám je poté, co porazíme Británii."

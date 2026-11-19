@@ -149,7 +149,7 @@
  wtt_political_organisation.2.desc: "Zdroje v [state.GetName] hlásí, že [majority_country.GetNameDef] se zřejmě intenzivně snaží zvýšit podporu v celém regionu. Jasná většina populace je stále na jejich straně."
  wtt_political_organisation.2.a: "Boj pokračuje."
  wtt_political_organisation.3.t: "[state.GetName] nás podporuje"
- wtt_political_organisation.3.desc: "Přicházejí povzbuzující zprávy z [state.GetName], kde byla před časem založena \"[Root.GetLeader] Společnost studia myšlení\". Tato skupina nyní získává velkou podporu populace. Jakákoli zmínka o jejich předchozí podpoře [old_majority_country.GetLeader] zmizela."
+ wtt_political_organisation.3.desc: "Přicházejí povzbuzující zprávy z [state.GetName], kde byla před časem založena „[Root.GetLeader] Společnost studia myšlení“. Tato skupina nyní získává velkou podporu populace. Jakákoli zmínka o jejich předchozí podpoře [old_majority_country.GetLeader] zmizela."
  wtt_political_organisation.3.a: "Následují nadřazenou teorii."
  wtt_political_organisation.4.t: "[From.GetNameDefCap] získává většinu v [state.GetName]"
  wtt_political_organisation.4.desc_not_majority: "Naši agenti v [state.GetName] hlásí, že podpora [old_majority_country.GetNameDef] v oblasti výrazně poklesla. Nedávno velké demonstrace na podporu [majority_country.GetNameDef] prošly hlavními městy ve státě a velké portréty [majority_country.GetLeader] jsou vidět ve všech vesnicích."

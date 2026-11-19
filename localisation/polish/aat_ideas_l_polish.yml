@@ -181,7 +181,7 @@
  NOR_prep_his_dmod_2_desc: "#Tento stát je poměrně rozvinutý, ale k tomu, aby byl považován za průmyslovou velmoc, má stále daleko."
  NOR_prep_his_dmod_3: "Vysoce rozvinutý"
  NOR_prep_his_dmod_3_desc: "Tento stát je plně oddán budování civilního průmyslu v Norsku."
- NOR_prep_resistance_dmod: "Zasazený odpor"
+ NOR_prep_resistance_dmod: "Zasazený odboj"
  NOR_prep_resistance_dmod_desc: "Ať si naši vetřelci o nás myslí, co chtějí, [NOR.GetNonIdeologyName] se jen tak nevzdá. Nasadili jsme lidi, ukryli nástroje a rozptýlili zdroje, aby mohli lépe vzdorovat těmto hrozným okupantům."
  NOR_defend_state_dmod: "Obrana státu"
  NOR_defend_state_dmod_desc: "Budeme bránit to, co nám právem patří, vším, co máme. Vetřelci musí zemřít."

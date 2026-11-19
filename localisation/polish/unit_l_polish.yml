@@ -5,7 +5,7 @@
  amphibious: "Obojživelný"
  snow: "Sníh"
  CURRENT_STRENGTH: "Současná bojová síla: $PER|%0H$\n"
- CURRENT_MANPOWER: " - Aktuální síla: $VAL|*H1$ ($PER|%0H$)\n"
+ CURRENT_MANPOWER: " - Aktuální personál: $VAL|*H1$ ($PER|%0H$)\n"
  CURRENT_EQUIPMENT_RATIO: " - Aktuální poměr vybavení: $PER|%0H$\n"
  CURRENT_ORGANIZATION: "Organizace: $CUR|0Y$/$MAX|0Y$"
  CLICK_NAVY_SEE_DETAILS: "§GKlikněte§! pro zobrazení podrobností."

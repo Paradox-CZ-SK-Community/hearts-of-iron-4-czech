@@ -2007,7 +2007,7 @@
  SEA_warlords.57.t: "[FROM.GetLeader] odmítá naši žádost"
  SEA_warlords.57.desc: "Samolibý zrádce [FROM.GetLeader] odmítl naši žádost zřídit vysunuté stanoviště proti Japoncům, jelikož zjevně nemá nejlepší budoucnost Číny na paměti."
  SEA_warlords.57.a: "Jednou tohoto dne budou litovat..."
- SEA_warlords.58.t: "Tlak vlády na podřízení se [XIC.GetNameDef]"
+ SEA_warlords.58.t: "Nátlak vlády na podřízení se [XIC.GetNameDef]"
  SEA_warlords.58.desc: "[XIC.GetNameDef] a [FROM.GetNameDef] nám zasílají společný požadavek, abychom se podřídili jejich novému plánu na předání [608.GetName] a okolních území Mladému maršálovi, který je má využít jako novou předsunutou základnu pro operace proti Japoncům. Zdá se, že mají v úmyslu ukončit naši autonomii — tak či onak..."
  SEA_warlords.58.a: "Dobrá, náš úkol je splněn"
  SEA_warlords.58.b: "Budou muset [608.GetName] dobýt silou!"

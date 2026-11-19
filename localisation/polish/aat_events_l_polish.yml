@@ -1478,7 +1478,7 @@
  denmark_fascist_event.20.b: "Na to nyní nemáme čas."
  denmark_fascist_event.21.t: "[FROM.GetNameDefCap] přijímá náš návrh"
  denmark_fascist_event.21.desc: "Skvělé zprávy! [FROM.GetNameDefCap] souhlasí se vstupem do společného programu sdílení technologií. To znamená, že získáme přístup k jejich technologickým pokrokům, což nám výrazně pomůže při realizaci našich plánů do budoucna."
- denmark_fascist_event.21.a: "Naše armáda bude závistí celé Skandinávie!"
+ denmark_fascist_event.21.a: "Naše armáda bude chloubou celé Skandinávie!"
  denmark_fascist_event.22.t: "[FROM.GetNameDefCap] odmítá náš návrh"
  denmark_fascist_event.22.desc: "Navzdory našemu zdvořilému přístupu se [FROM.GetAdjective] vláda rozhodla ponechat si své technologie pro sebe. Je to škoda, protože společně bychom dokázali naše technologické schopnosti posunout mnohem dál, než dokážeme nyní."
  denmark_fascist_event.22.a: "Dobrá tedy, nechte si svá tajemství."

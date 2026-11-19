@@ -32,7 +32,7 @@
  PARTICIPANT: "$COUNTRY|H$"
  SURRENDER: "§T$COUNTRY|H$ je $SURRENDER|H0%$ od kapitulace.\nOvládá $CONTROL|0%H$ §Hbodů vítězství§! a kapituluje, když bude mít $VAL|0%H$ nebo méně§!"
  CAN_SURRENDER_FACTION_MEMBERS: "V současnosti bojují se svou frakcí a vzdají se teprve tehdy, až kapitulují všichni hlavní členové frakce v této válce.\nHlavní členové frakce, kteří musí kapitulovat:\n$MEMBER_LIST|Y$"
- CAN_SURRENDER_SUBJECT: "V současnosti bojují spolu se svým vládcem a vzdají se, až když tento vládce kapituluje.\nVládce: $OVERLORD|Y$"
+ CAN_SURRENDER_SUBJECT: "V současnosti bojují spolu se svým suzerénem a vzdají se, až když tento suzerén kapituluje.\nSuzerén: $OVERLORD|Y$"
  CAN_SURRENDER: "V současnosti bojují sami a vzdají se, jakmile kapitulují."
  SURRENDER_GIE_LEGITIMACY: "Jakmile se vzdají, stanou se §Hvládou v exilu§!. Jejich §Hlegitimita§! bude $LEGITIMACY|0Y$."
  CANNOT_SURRENDER_NOT_ENOUGH_DAYS: "Ve válce jsou pouze $DAYS|Y$ dní, před kapitulací musí být ve válce alespoň $MIN_DAYS|Y$ dní."
