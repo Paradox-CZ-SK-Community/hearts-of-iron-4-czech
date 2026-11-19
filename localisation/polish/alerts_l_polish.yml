@@ -99,7 +99,6 @@
  FACTION_MEMBER_NEAR_ASSUMING_LEADERSHIP: "   $COUNTRY|Y$ ($PROGRESS|0%Y$)"
  FACTION_MEMBER_ABLE_TO_ASSUME_LEADERSHIP: "   $COUNTRY|Y$ (§R100%§!)"
  DIPLOMACY_REQUEST_HEADER: "$NAME|Y$ posílá žádost pro $COUNTRY|Y$"
- DIPLOMACY_REQUEST_CLICKS: "§GKlikněte pro otevření\nShift+klik pro přijetí\nPravé tlačítko pro odmítnutí§!"
  DIPLOMACY_REQUEST_CLICK_OPEN: "§GKliknutím§! otevřeš"
  DIPLOMACY_REQUEST_SHIFT_ACCEPT: "§GShift+kliknutí§! přijme žádost"
  DIPLOMACY_REQUEST_SHIFT_ACCEPT_ALL: "§GShift+kliknutí§! přijme všechny žádosti"
@@ -150,7 +149,7 @@
  alert_resistance_instant: "§HOdboj vůči okupaci!§!"
  alert_resistance_delayed_high_resistance_list: "§HVysoká úroveň odboje v:§!"
  alert_resistance_delayed_countries: "§HZemě:§!"
- alert_resistance_delayed_states: "§HZemě:§!"
+ alert_resistance_delayed_states: "§HZemě:§!" # todo: TERMINOLOGY State -> stát
  alert_outdated_equipment_instant: "§HZastaralé vybavení ve výrobě§!"
  alert_outdated_equipment_delayed: "Vyrábíme následující zastaralé vybavení:\n$LIST|H$"
  ACTIVE_MODIFIER_ALERT_ENTRY_HEADER: "$NAME|H$ je aktivní na:"

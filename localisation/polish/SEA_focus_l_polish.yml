@@ -462,7 +462,7 @@
  JAP_danganressha: "Plán Danganreša"
  JAP_danganressha_desc: "Ministerstvo železnic schválilo plán takzvaného Danganreša, podle kterého mají být vedle běžné koleje položeny širokorozchodné tratě, na nichž budou moci vlaky jezdit rychlostí kulky. Průkopník železnic Jasudžiró Šima a jeho syn slíbili pomoc s vývojem tohoto projektu."
  JAP_ministry_of_colonial_affairs: "Ministerstvo koloniálních záležitostí"
- JAP_ministry_of_colonial_affairs_desc: "Původně založené jako Úřad pro kolonizaci Hokkaidó urazilo toto ministerstvo dlouhou cestu. Musíme rozšířit jeho povinnosti tak, aby mohlo řádně spravovat Nan“jó, Čósen, Karafuto, Kantó a Taiwan. Jednoho dne budou tato území všemi považována za japonská!"
+ JAP_ministry_of_colonial_affairs_desc: "Původně založené jako Úřad pro kolonizaci Hokkaidó urazilo toto ministerstvo dlouhou cestu. Musíme rozšířit jeho povinnosti tak, aby mohlo řádně spravovat Nan„jó, Čósen, Karafuto, Kantó a Taiwan. Jednoho dne budou tato území všemi považována za japonská!"
  JAP_manchuria_five_year_plan: "Industrializace Mandžuska"
  JAP_manchuria_five_year_plan_desc: "Zatímco naše ostrovy trpí nedostatkem využitelné půdy, naše pevninská držení nikoli. Co nemůžeme vybudovat doma, můžeme vybudovat tam. Zahájíme rozsáhlý program industrializace pro [MAN.GetNameDef]."
  JAP_establish_manchuria_airplane_manufacturing_company: "Založit Mandžuskou leteckou společnost"
@@ -488,7 +488,7 @@
  JAP_establish_the_japanese_korean_army: "Rozšířit japonskou armádu v Korei"
  JAP_establish_the_japanese_korean_army_desc: "Od roku 1904 slouží Čósen-gun jako posádková síla v Koreji, ale mimo invazi do Mandžuska v roce 1931 neviděla příliš bojů. Měli bychom zrušit traktáty omezující naši korejskou gubernii a tuto armádu rozšířit, aby mohla sloužit jako plnohodnotná bojová síla."
  JAP_increase_crop_yields: "Zvýšit zemědělskou produkci"
- JAP_increase_crop_yields_desc: "Ostrovy Jižních moří jsou bohaté na kokosové ořechy, což je velmi lukrativní plodina. Měli bychom podporovat monopoly propojující soukromou iniciativu se státním kapitálem. Pokud také pověříme Nan“jó Kóhacu pěstováním cukrové třtiny, banánů, ananasu, taro, manioku, kávy a dalších tropických plodin, mohou se tyto ostrovy vyrovnat Taiwanu."
+ JAP_increase_crop_yields_desc: "Ostrovy Jižních moří jsou bohaté na kokosové ořechy, což je velmi lukrativní plodina. Měli bychom podporovat monopoly propojující soukromou iniciativu se státním kapitálem. Pokud také pověříme Nan„jó Kóhacu pěstováním cukrové třtiny, banánů, ananasu, taro, manioku, kávy a dalších tropických plodin, mohou se tyto ostrovy vyrovnat Taiwanu."
  JAP_improve_agricultural_output: "Zlepšit zemědělskou produkci"
  JAP_improve_agricultural_output_desc: "Průmyslová výroba na Taiwanu má brzy překonat zemědělskou. Ačkoliv to prospívá našemu průmyslu, není to ideální, protože zemědělský export z Taiwanu je klíčový pro zásobování našeho lidu i armády. Musíme to okamžitě napravit!"
  JAP_upgrade_the_oriental_development_company: "Rozšířit Orientální rozvojovou společnost"
@@ -936,7 +936,7 @@
  JAP_create_greater_east_asian_treaty_organization: "Západopacifická smluvní organizace"
  JAP_create_greater_east_asian_treaty_organization_desc: "Naše vlastní aliance s ostatními asijskými státy nám umožní postavit se jakýmkoli hrozbám vůči našemu nově nalezenému způsobu života. Je čas přijmout náš úděl ochránců kontinentu a vést jej do budoucnosti."
  JAP_greater_east_asian_treaty_organization: "Velkoasijská smluvní organizace"
- JAP_create_greater_east_asian_treaty_organization_tt: "Odemkne rozhodnutí zvát §Yneutrální§! a §Ydemokratické§! §Yasijské§! a §Yoceánské§! státy do naší frakce"
+ JAP_create_greater_east_asian_treaty_organization_tt: "Odemkne rozhodnutí zvát §Yneutrální§! a §Ydemokratické§! §Yasijské§! a §Yoceánské§! státy do naší frakce" # todo: TERMINOLOGY Non-Aligned -> Nezařazené
  JAP_form_greater_east_asian_customs_union: "Vytvořit velkoasijskou celní unii"
  JAP_form_greater_east_asian_customs_union_desc: "Jak naši ekonomičtí teoretici již dlouho plánují, měli bychom usilovat o vytvoření pacifické celní unie a postupně sjednotit asijské ekonomiky v jednu mocnou sílu."
  JAP_form_greater_east_asian_currency_union: "Vytvořit velkoasijskou měnovou unii"
@@ -968,7 +968,7 @@
  JAP_pursue_international_trade_desc: "Ačkoli obchodujeme s cizími mocnostmi již od chvíle, kdy komodor Matthew Perry ukončil naši izolaci, nebylo to zdaleka dost. Měli bychom se soustředit na mezinárodní trhy a zajistit, že zdroje potřebné pro náš růst získáme diplomacií, nikoliv válkou."
  JAP_seek_foreign_investments: "Hledat zahraniční investice"
  JAP_seek_foreign_investments_desc: "Nyní, když jsme se ještě více otevřeli světu, bychom měli využít nové kontakty k přilákání zahraničního kapitálu a posílení našich vlastních průmyslů."
- JAP_seek_foreign_investments_tt: "Odemkne rozhodnutí §YPřitahovat zahraniční investice§!, které nám poskytnou §Ycivilní továrny§! výměnou za §Ypolitickou moc§!"
+ JAP_seek_foreign_investments_tt: "Odemkne rozhodnutí §YPřitahovat zahraniční investice§!, které nám poskytnou §Ycivilní továrny§! výměnou za §Ypolitickou moc§!" # todo: TERMINOLOGY Political Power -> politická síla
  JAP_invest_in_foreign_industries: "Investovat do zahraničních průmyslů"
  JAP_invest_in_foreign_industries_desc: "Měli bychom využít obrovský kapitál, který jsme získali, k investování do zahraničních zemí — nabídnout jim hospodářskou pomoc výměnou za část jejich přírodních zdrojů, čímž pomůžeme jiným asijským zemím a zároveň vyřešíme některé naše vlastní problémy."
  JAP_invest_in_foreign_industries_tt: "Odemkne §Yrozhodnutí§! investovat do průmyslů menších §Yasijských§! států výměnou za zdroje"
@@ -1070,7 +1070,7 @@
  PRC_establish_friendly_bases: "Zřídit základny za nepřátelskými liniemi"
  PRC_establish_friendly_bases_desc: "Velké množství civilistů na okupovaném území našim infiltrátorům nijak nebrání v tom, aby se nenápadně zapojili do sabotáže."
  PRC_establish_friendly_bases_1_tt: "Odemkne rozhodnutí: §YZahájit sabotáže§!"
- PRC_establish_friendly_bases_2_tt: "§ROkupované státy nepřítele§!, které mají §Y$PRC_guerilla_cells_active_2$§! nebo jsou §Ydomovskými územími§! subjektu s cizím vládcem, nyní mohou získat §Y$PRC_anti_japanese_base$§!"
+ PRC_establish_friendly_bases_2_tt: "§ROkupované státy nepřítele§!, které mají §Y$PRC_guerilla_cells_active_2$§! nebo jsou §Ydomovskými územími§! subjektu s cizím vládcem, nyní mohou získat §Y$PRC_anti_japanese_base$§!" # todo: TERMINOLOGY Overlord -> Suzerén
  PRC_secure_the_peoples_support: "Zajistit podporu lidu"
  PRC_secure_the_peoples_support_desc: "Přestože nekontrolujeme většinu Číny, musíme zajistit její loajalitu k naší věci, kdyby opět propukla občanská válka."
  PRC_secure_the_peoples_support_tt: "Odemkne všechny §Y3 úrovně§! rozhodnutí §Y$PRC_infiltration_sea_cat$§!."
@@ -1239,7 +1239,7 @@
  PRC_promote_womens_suffrage_desc: "„Ženy drží polovinu nebe.“ Skutečná rovnost je cílem Strany a musíme podniknout kroky k zajištění právní, politické, sociální a ekonomické participace žen po celé Číně."
  PRC_zhang_guotao_ascends: "$PRC_zhang_guotao$ na vzestupu"
  PRC_zhang_guotao_ascends_desc: "$PRC_zhang_guotao$ stojí osamocen jako pravý vůdce pro [ROOT.GetNameDef].\n\n$PRC_mao_zedong$ již nemůže stát na stejné úrovni jako předseda Kuo-tchao — vůdce může být jen jeden."
- PRC_consolidate_politcal_power: "Konsolidovat politickou moc"
+ PRC_consolidate_politcal_power: "Konsolidovat politickou moc" # todo: TERMINOLOGY Political Power -> politická síla
  PRC_consolidate_politcal_power_desc: "Jeden vůdce nyní stojí nade všemi a je nutné rozšířit tuto autoritu skrze všechny stranické struktury. Disidenti nesmí být tolerováni."
  PRC_consolidate_politcal_power_tt: "Posune §Y$PRC_communist_power_struggle$§! směrem k vedoucí frakci. Aktuální efekt:"
  PRC_secure_lend_lease_from_soviet: "Získat [SOV.GetAdjective] Lend-Lease"
@@ -1962,7 +1962,7 @@
  CHI_reorganise_the_train_desc: "Naše zásobovací struktura se nikdy nerozvinula do měřítka a složitosti, jakou potřebujeme. Důkladná reorganizace nám umožní poslat do boje více jednotek."
  CHI_rely_on_locals: "Spoléhat na místní"
  CHI_rely_on_locals_desc: "Vybudovat plnohodnotnou zásobovací organizaci je složité, zdlouhavé a drahé. Historie nám nabízí alternativu: proč dovážet to, co lze najít na místě? Spolehnutím se na farmáře a dělníky v našich zemích můžeme nahradit mezery v systému."
- CHI_focus_on_meritocratic_principles: "Prosazovat meritokracii"
+ CHI_focus_on_meritocratic_principles: "Prosazovat meritokracii" # todo: TERMINOLOGY Focus -> Zaměření
  CHI_focus_on_meritocratic_principles_desc: "Nepotismus, úplatky a korupce jsou zhoubou efektivní armády. Tyto nešvary jsou v našich silách příliš zakořeněné a musí skončit. Zavedení struktur podporujících nejzasloužilejší jedince na správná místa nám zajistí vítězství."
  CHI_focus_on_meritocratic_principles_tt: "Umožní ručně odstranit armádního ducha §Y$CHI_whampoa_military_academy_spirit$§!."
  CHI_protracted_warfare: "Opotřebovávácí válka"
@@ -2026,7 +2026,7 @@
  CHI_river_crossing_studies_desc: "Čína je zemí velkých řek a každá armáda zde musí umět přes ně bojovat. Máme výjimečnou možnost se z toho poučit a využít tyto znalosti k vytlačení vetřelců — a následném přesunu války do ciziny."
  CHI_armoured_car_tactics: "Taktika obrněných vozů"
  CHI_armoured_car_tactics_desc: "Většina armád směřuje k stále těžším obrněným jednotkám v závodě průmyslové síly. Ale sekera není efektivnější než nůž, pokud potřebujeme nůž."
- CHI_serve_the_country_with_utmost_loyalty: "Sloužit vlasti s nejvyšší věrností"
+ CHI_serve_the_country_with_utmost_loyalty: "Sloužit vlasti s nejvyšší věrností" # todo: TERMINOLOGY Country -> země
  CHI_serve_the_country_with_utmost_loyalty_desc: "Prokázali jsme svou sílu nepříteli a zastavili jej v postupu. Díky neochvějné oddanosti a službě národu nás nedokáže podrobit žádný vetřelec!"
  CHI_the_well_timed_swoop_of_a_falcon: "Dobře načasovaný útok sokola"
  CHI_the_well_timed_swoop_of_a_falcon_desc: "Ovládli jsme umění úderu a ničení nepřátel. Od vyhnání vetřelců až po útoky na jejich vlast platí staré vědění dodnes — a povede nás k vítězství!"
@@ -2054,7 +2054,7 @@
  CHI_controlling_our_skies_desc: "Dříve než budeme dominovat v cizině, musíme ovládnout nebe doma. Disciplínovaná protivzdušná obrana je páteří národní bezpečnosti."
  CHI_interception_detection: "Odhalování útočníků"
  CHI_interception_detection_desc: "Včasné zjištění nepřátelských letadel nám umožní udeřit první. Zlepšíme naše radarové i pozorovací sítě, abychom získali tento rozhodující náskok."
- CHI_focus_on_positional_advantage: "Důraz na poziční výhodu"
+ CHI_focus_on_positional_advantage: "Důraz na poziční výhodu" # todo: TERMINOLOGY Focus -> Zaměření
  CHI_focus_on_positional_advantage_desc: "Letecký boj není jen o rychlosti či počtech. Výhodu tvoří výška, úhel a přehled. Naučíme naše piloty využívat každého taktického přednostního bodu."
  CHI_effectivize_ground_crew_usage: "Zefektivnit práci pozemních čet"
  CHI_effectivize_ground_crew_usage_desc: "Efektivita na zemi je stejně důležitá jako výkon ve vzduchu. Zefektivněním úkolů a logistiky udržíme více letadel ve vzduchu."
@@ -2308,7 +2308,7 @@
  PHI_bell_trade_act_desc: "Známý také jako Filipínský obchodní zákon, upravuje obchod mezi [PHI.GetName] a [USA.GetName]. Zahrnuje investiční balíček, výhodné obchodní a celní dohody a také rozsáhlý přístup amerických korporací k filipínským zdrojům - což vzbuzuje určité obavy, ale ostatní přínosy byly vyhodnoceny jako stojící za riziko."
  PHI_pearl_of_the_orient_seas: "Perla orientálních moří"
  PHI_pearl_of_the_orient_seas_desc: "Tento romantizovaný výraz, kterým první španělští průzkumníci popsali právě objevené země, se přesto ujal a zůstává pravdivý. Navzdory všem zkouškám a tragédiím, které postihly naše ostrovy, zůstáváme místem veliké krásy srovnatelné jen s perlami, které zde sbíráme."
- PHI_united_states_army_forces_in_the_far_east: "Americké armádní síly na Dálném východě"
+ PHI_united_states_army_forces_in_the_far_east: "Americké armádní síly na Dálném východě" # todo: TERMINOLOGY State -> stát
  PHI_united_states_army_forces_in_the_far_east_desc: "Filipínské velení bylo dlouhou dobu americkou armádní strukturou na Filipínách. S rostoucím napětím je však načase rozšířit jej na větší formaci - armádní síly Spojených států na Dálném východě. To si vyžádá nové velitelské struktury a přesun značného amerického personálu."
  PHI_send_a_share_of_THIS_navy_to_ROOT_tt: "Pošle část námořnictva státu [THIS.GetAdjective] do [ROOT.GetNameDef]."
  PHI_military_requisitions: "Vojenské rekvizice"
@@ -2378,7 +2378,7 @@
  PHI_end_colonialism_desc: "Kolonialismus je mor, který hnije příliš dlouho. Všichni lidé mají právo žít ve svobodě a demokracii - a my to budeme muset prosadit silou."
  PHI_cobalt_supremacy: "Kobaltová nadvláda"
  PHI_cobalt_supremacy_desc: "Stal jsem se smrtí, ničitelem světů."
- PHI_subject_surrender: "Podřízený... kapitulace"
+ PHI_subject_surrender: "Podřízený... kapitulace" # todo: TERMINOLOGY Subject -> Subjekt
  PHI_subject_surrender_desc: "„Bylo zřejmé, že posádka těchto sil bude nakonec zničena leteckým a dělostřeleckým bombardováním a pěchotou podporovanou tanky, která nás přemohla.“ Takový byl poslední vysílaný vzkaz jedné z našich posledních bašt - a s ním je zřejmé, že jsme ztratili kontrolu nad [PHI.GetNameDef]."
  PHI_subject_surrender_tt: "§RZtráta kontroly nad celým státem [327.GetName] dokončí toto zaměření.§!"
  PHI_i_shall_return: "Vrátím se"
@@ -2572,8 +2572,8 @@
  PHI_cavite_naval_base_desc: "Loděnice v Cavite mají největší potenciál stát se hlubokomořským přístavem. Investice z nich mohou udělat hlavní strategické námořní centrum."
  PHI_pt_boat_development: "Vývoj člunů PT"
  PHI_pt_boat_development_desc: "Pro zemi tisíců ostrovů jsou malé, rychlé čluny vhodnější než velké lodě. Měli bychom získat doktríny pro torpédové čluny a vyvinout vlastní hlídkové čluny."
- PHI_pt_boat_development_tt: "§G+10%§! rychlost získávání dovedností §YObranných lodí§!."
- PHI_pt_boat_development_2_tt: "§G+20%§! rychlost získávání dovedností §YHlídkových člunů§!."
+ PHI_pt_boat_development_tt: "§G+10%§! rychlost získávání dovedností §YObranných lodí§!." # todo: TERMINOLOGY Mastery -> Mistrovství
+ PHI_pt_boat_development_2_tt: "§G+20%§! rychlost získávání dovedností §YHlídkových člunů§!." # todo: TERMINOLOGY Mastery -> Mistrovství
  PHI_mosquito_fleet: "Komáří flotila"
  PHI_mosquito_fleet_desc: "Jedno torpédo nebo jediný granát může zasáhnout a potopit jednu loď. Proto nesmíme mít jen jednu loď, ale celý roj. Můžou potopit jednu, deset, dokonce i stovku - ale nikdy ne všechny! A co hůř, nám stačí, aby jediný náš výstřel zasáhl cíl - a s takovým rojem se snad ani nedá minout."
  PHI_devil_boats: "Ďábelské čluny"
@@ -2985,7 +2985,7 @@
  XIC_reclaim_the_lost_birthright: "Znovuzískat ztracené dědictví"
  XIC_reclaim_the_lost_birthright_desc: "Konečně přišel čas vyhnat Mandžuy i Japonce z našeho domova a znovu získat Mandžusko pro sebe! Měli bychom okamžitě zahájit invazi na sever a obsadit oblast dříve, než jejich síly pochopí, co se děje."
  XIC_restore_the_homeland: "Obnovit vlast"
- XIC_restore_the_homeland_desc: "Se ziskem naší staré metropole Mukden konečně nastal čas, aby $CHI_zhang_xueliang$ náležitě převzal titul Vojevůdce Mandžuska a generalissima Vojenské vlády Číny a vrátil Fengtchianské klice moc, kterou kdysi měla. Ať žije Feng-tchian, ať žije mladý maršál!"
+ XIC_restore_the_homeland_desc: "Se ziskem naší staré metropole Mukden konečně nastal čas, aby $CHI_zhang_xueliang$ náležitě převzal titul Vojevůdce Mandžuska a generalissima Vojenské vlády Číny a vrátil Fengtchianské klice moc, kterou kdysi měla. Ať žije Feng-tchian, ať žije mladý maršál!" # todo: TERMINOLOGY Warlord -> Militarista
  XIC_restore_the_homeland_tt: "Získá §Ydomovské území§! na všechna území držená §YFeng-tchianskou klikou§! na vrcholu jejího rozsahu."
  XIC_revive_the_beiyang_government: "Obnovit vládu Pej-jangu"
  XIC_revive_the_beiyang_government_desc: "Jako legitimní dědic vlády Pej-jangu v exilu se můžeme konečně prohlásit legitimní Čínskou republikou. Co přinese budoucnost, je nejasné, ale nyní jsme přinesli demokracii celé Číně — a snad tomu tak zůstane dalších tisíc let."

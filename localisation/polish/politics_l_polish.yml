@@ -146,7 +146,7 @@
  WEEKLY_CHANGE: "Týdenní změna:\n"
  STABILITY_EFFECT_HEADER: "§HAktuálně ovlivněno:§!\n"
  WAR_SUPPORT_EFFECT_HEADER: "§HAktuálně ovlivněno:§!\n"
- RELEASE_NATION: "Osvobodit národ"
+ RELEASE_NATION: "Osvobodit národ" # todo: TERMINOLOGY Release Nation -> Uvolnit národ
  RETURN_TERRITORY: "Vrácení území"
  RELEASE_NATION_STATES: "§TOsvobodí $COUNTRY|H$ ve $LIST|H$§!"
  RELEASE_NATION_STATES_DESC: "§GPravým tlačítkem myši§! přejděte na první §Hdomovské území§!"

@@ -181,7 +181,7 @@
  NOR_prep_his_dmod_2_desc: "#Tento stát je poměrně rozvinutý, ale k tomu, aby byl považován za průmyslovou velmoc, má stále daleko."
  NOR_prep_his_dmod_3: "Vysoce rozvinutý"
  NOR_prep_his_dmod_3_desc: "Tento stát je plně oddán budování civilního průmyslu v Norsku."
- NOR_prep_resistance_dmod: "Zasazený odpor"
+ NOR_prep_resistance_dmod: "Zasazený odpor" # todo: TERMINOLOGY Resistance -> odboj
  NOR_prep_resistance_dmod_desc: "Ať si naši vetřelci o nás myslí, co chtějí, [NOR.GetNonIdeologyName] se jen tak nevzdá. Nasadili jsme lidi, ukryli nástroje a rozptýlili zdroje, aby mohli lépe vzdorovat těmto hrozným okupantům."
  NOR_defend_state_dmod: "Obrana státu"
  NOR_defend_state_dmod_desc: "Budeme bránit to, co nám právem patří, vším, co máme. Vetřelci musí zemřít."
@@ -251,8 +251,8 @@
  SWE_save_denmark: "Operace Zachranit Dánsko"
  SWE_paid_holidays_idea: "Státem placená dovolená"
  SWE_paid_holidays_idea_desc: "Po letech rostoucího napětí mezi zaměstnavateli a zaměstnanci zasáhl stát a zaručil pracovníkům minimální počet placených dnů dovolené ročně. Reforma je mezi zaměstnanci populární, ale zaměstnavatelé jsou znepokojeni sníženou produktivitou."
- SWE_minor_hungershield_strike: "Celostátní stávky"
- SWE_major_hungershield_strike: "Celostátní nepokoje"
+ SWE_minor_hungershield_strike: "Celostátní stávky" # todo: TERMINOLOGY Country -> země
+ SWE_major_hungershield_strike: "Celostátní nepokoje" # todo: TERMINOLOGY Country -> země
  SWE_rapid_mobilization_idea: "Rychlá mobilizace"
  SWE_security_service_funding: "Dodatečné financování bezpečnostních služeb"
  SWE_anti_sov_cold_war: "Proti[SOV.GetAdjective] válečné hry"

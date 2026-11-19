@@ -368,7 +368,7 @@
  o_dragoon: "Operace Dragoon"
  o_roundup: "Operace Roundup"
  o_sledgehammer: "Operace Kladivo"
- o_overlord: "Operace Overlord"
+ o_overlord: "Operace Overlord" # todo: TERMINOLOGY Overlord -> Suzerén
  o_blackstone: "Operace Blackstone"
  o_brushwood: "Operace Brushwood"
  o_goalpost: "Operace Goalpost"

@@ -311,8 +311,8 @@
  AST_australian_comforts_fund_idea_desc: "$AST_australian_comforts_fund_desc$"
  AST_british_military_construction_aid_idea: "Britská pomoc s vojenskou výstavbou"
  AST_british_military_construction_aid_idea_tt: "§Y2§! mimo-mapové §Y$industrial_complex$§!"
- AST_country_party_influence_uap: "Vliv Country Party"
- AST_country_party_influence_alp: "Vliv Country Party"
+ AST_country_party_influence_uap: "Vliv Country Party" # todo: TERMINOLOGY Country -> země
+ AST_country_party_influence_alp: "Vliv Country Party" # todo: TERMINOLOGY Country -> země
  AST_country_party_influence_uap_tt: "Denní nárůst hlasů pro §YU.A.P§!: §Y+0.02 %§!"
  AST_country_party_influence_alp_tt: "Denní nárůst hlasů pro §YA.L.P§!: §Y+0.02 %§!"
  AST_anti_fascist_measures: "Antifašistická opatření"
@@ -382,7 +382,7 @@
  AST_eminent_successors_spirit_desc: "Jmenováním několika významných nástupců můžeme stabilizovat vládu a obnovit důvěru veřejnosti i našich ministrů."
  AST_australia_first_spirit: "Austrálie především"
  AST_australia_first_spirit_tt: "Upraví §Y$AST_australia_first_spirit$§! o:"
- AST_for_crown_and_country_spirit: "Za korunu a vlast"
+ AST_for_crown_and_country_spirit: "Za korunu a vlast" # todo: TERMINOLOGY Country -> země
  AST_for_crown_and_country_spirit_tt: "Upraví §Y$AST_for_crown_and_country_spirit$§! o:"
  AST_australia_first_rename_tt: "Přejmenuje §Y$AST_australia_first_spirit$§! na §Y$AST_for_crown_and_country_spirit$§!"
  AST_crowns_council_spirit: "Korunní rada"

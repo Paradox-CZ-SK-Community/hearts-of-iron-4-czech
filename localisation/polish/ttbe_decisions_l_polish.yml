@@ -1,0 +1,230 @@
+﻿l_polish:
+ ROM_diplomacy_category: "Mezinárodní spolupráce" # todo: NEW TRANSLATION
+ ROM_diplomacy_category_desc: "" # todo: NEW TRANSLATION
+ ROM_recall_constantin_prezan: "Povolat $ROM_constantin_prezan$ zpět do aktivní služby" # todo: NEW TRANSLATION
+ form_dacia_category: "Znovu vytvořit Dácii" # todo: NEW TRANSLATION
+ form_dacia_category_desc: "Jako nejstarší proslulé kmeny obývající oblast mezi Dunajem a Dněstrem představují Dákové důležitý historický odkaz našeho národa. Většinu někdejšího území Dáků zdědila [ROM.GetNonIdeologyName], a proto musíme ukázat, že jsme majákem prosperity, s nímž by se ostatní nyní nezávislé národy v regionu rády znovu sjednotily." # todo: NEW TRANSLATION
+ form_dacia: "$form_dacia_category$" # todo: NEW TRANSLATION
+ has_formed_dacia_tt: "Vytvořila $ROM_DACIA$" # todo: NEW TRANSLATION
+ ROM_romania_formables_category: "Národy, které lze vytvořit" # todo: NEW TRANSLATION
+ ROM_form_unitary_balkan_state: "Vytvořit jednotný balkánský stát" # todo: NEW TRANSLATION
+ surgical_strike_tt: "Porazit 4 země a získat maximální bonus k poslušnosti/autonomii tím, že jim způsobíme ztráty nižší než 0,5 % jejich populace." # todo: NEW TRANSLATION
+ rome_mania_tt: "Jako Rumunsko vlastnit a ovládat Řím, Istanbul a Moskvu" # todo: NEW TRANSLATION
+ united_balkans_tt: "Jako Rumunsko plně vlastnit a ovládat Balkán" # todo: NEW TRANSLATION
+ united_balkans_rom_tt: "Všechna původní §Yrumunská domovská území§! jsou vlastněna a ovládána [ROOT.GetNameDef]" # todo: NEW TRANSLATION
+ united_balkans_yug_tt: "Všechna původní §Yjugoslávská domovská území§! jsou vlastněna a ovládána [ROOT.GetNameDef]" # todo: NEW TRANSLATION
+ united_balkans_bul_tt: "Všechna původní §Ybulharská domovská území§! jsou vlastněna a ovládána [ROOT.GetNameDef]" # todo: NEW TRANSLATION
+ united_balkans_hun_tt: "Všechna původní §Ymaďarská domovská území§! jsou vlastněna a ovládána [ROOT.GetNameDef]" # todo: NEW TRANSLATION
+ united_balkans_alb_tt: "Všechna původní §Yalbánská domovská území§! jsou vlastněna a ovládána [ROOT.GetNameDef]" # todo: NEW TRANSLATION
+ united_balkans_gre_tt: "Všechna původní §Yřecká domovská území§! jsou vlastněna a ovládána [ROOT.GetNameDef]" # todo: NEW TRANSLATION
+ united_balkans_tur_tt: "Všechna evropská §Yturecká domovská území§! jsou vlastněna a ovládána [ROOT.GetNameDef]" # todo: NEW TRANSLATION
+ ROM_recall_nicolae_titulescu: "Povolat Nicolae Titulesca z exilu" # todo: NEW TRANSLATION
+ ROM_recall_nicolae_titulescu_desc: "Uvolnění královské diktatury nám dává příležitost povolat zpět jednoho z nejskvělejších, byť kontroverzních diplomatů Evropy. Jeho návrat by světu ukázal, že jsme znovu odhodláni spolupracovat se Západem." # todo: NEW TRANSLATION
+ ROM_recall_barbu_stirbey: "Povolat Barbu Stirbeye z exilu" # todo: NEW TRANSLATION
+ ROM_recall_barbu_stirbey_desc: "Po odchodu krále Carola II. můžeme povolat Bílého prince zpět, aby nám nabídl svou radu." # todo: NEW TRANSLATION
+ ROM_recall_queen_helen: "Povolat královnu matku Helenu z exilu" # todo: NEW TRANSLATION
+ ROM_recall_queen_helen_desc: "Po odchodu krále Carola II. můžeme povolat matku krále Michala zpět, aby se ujala své role matky národa a vedla mladého krále." # todo: NEW TRANSLATION
+ ROM_elevate_antonescu_to_marshal: "Povýšit Antonesca na polního maršála" # todo: NEW TRANSLATION
+ ROM_elevate_antonescu_to_marshal_desc: "Po našem vstupu do Osy už není Ion Antonescu jako politik na svém místě. Musíme ho povýšit na nejvyšší vojenskou hodnost polního maršála a poslat na frontu, aby organizoval naše armády, čímž ho oficiálně stáhneme z politického dění v Bukurešti." # todo: NEW TRANSLATION
+ ROM_further_funding_for_the_academies: "Další financování akademií" # todo: NEW TRANSLATION
+ ROM_anti_extremist_crusade_cat: "Protiextrémistická křížová výprava" # todo: NEW TRANSLATION
+ ROM_anti_extremist_crusade_cat_desc: "Jako silný muž východní Evropy máme povinnost aktivně rozkládat extremistické režimy, které ohrožují rovnováhu sil. Nebudeme tolerovat žádné radikální rozvracení pořádku." # todo: NEW TRANSLATION
+ ROM_crush_radicalism_within_TAG: "Potlačit radikalismus v [FROM.GetNameDefCap]" # todo: NEW TRANSLATION
+ ROM_crush_radicalism_within_TAG_desc: "Politická situace v [FROM.GetName] se stala naprosto nepřijatelnou. Jejich oddanost radikálním totalitním ideologiím představuje přímou hrozbu stabilitě celého regionu. Musíme jim předložit poslední ultimátum: rozložte své extremistické instituce, nebo budeme nuceni překročit hranice a násilím dosadit poslušnou, umírněnou vládu." # todo: NEW TRANSLATION
+ ROM_crush_the_fascist_menace_ger: "Zasáhnout proti Německé říši" # todo: NEW TRANSLATION
+ ROM_crush_the_fascist_menace_ger_desc: "Nekontrolovaný německý militarismus a oddanost národnímu socialismu hrozí uvrhnout celý kontinent do plamenů. Musíme udeřit dřív, než bude Německo příliš mocné na to, abychom ho zastavili, svrhnout jeho režim a zneškodnit fašistickou hrozbu." # todo: NEW TRANSLATION
+ ROM_crush_the_communist_menace_sov: "Zasáhnout proti Sovětskému svazu" # todo: NEW TRANSLATION
+ ROM_crush_the_communist_menace_sov_desc: "Bolševický režim v Moskvě je pohromou pro východní Evropu a neustále se snaží šířit svou násilnou revoluci. Musíme se stát štítem civilizace a zahájit preventivní úder, který jednou provždy rozloží jejich komunistický aparát." # todo: NEW TRANSLATION
+ ROM_crush_the_fascist_menace_ita: "Zasáhnout proti fašistické Itálii" # todo: NEW TRANSLATION
+ ROM_crush_the_fascist_menace_ita_desc: "Mussoliniho imperiální ambice ve Středomoří a na Balkáně přímo ohrožují naše vlastní bezpečnostní zájmy. Musíme zorganizovat tažení, svrhnout Duceho a obnovit v Římě rozumnou, umírněnou vládu." # todo: NEW TRANSLATION
+ ROM_diplo_royal_state_visit: "Zorganizovat státní návštěvu krále" # todo: NEW TRANSLATION
+ ROM_diplo_royal_state_visit_desc: "Vyslání krále nebo vysoce postaveného člena královské rodiny na návštěvu hlavního města našeho spojence posílí pouta mezi našimi vládami a ukáže světu, že držíme při sobě." # todo: NEW TRANSLATION
+ ROM_diplo_joint_military_maneuvers: "Uspořádat společné vojenské manévry" # todo: NEW TRANSLATION
+ ROM_diplo_joint_military_maneuvers_desc: "Propojením našich generálních štábů a pořádáním rozsáhlých válečných her poblíž hranic získají naše ozbrojené síly i armády spojenců neocenitelné taktické zkušenosti." # todo: NEW TRANSLATION
+ ROM_diplo_economic_integration: "Prohloubit hospodářskou integraci" # todo: NEW TRANSLATION
+ ROM_diplo_economic_integration_desc: "Investicemi našeho civilního průmyslu do přeshraniční logistiky a společných vojenských továren trvale zvýšíme hospodářský výkon naší aliance." # todo: NEW TRANSLATION
+ ROM_action_in_progress_flag: "Právě prohlubuje hospodářskou integraci s jinou zemí." # todo: NEW TRANSLATION
+ ROM_invitation_to_the_pact: "Pozvání do paktu" # todo: NEW TRANSLATION
+ ROM_sell_current_harvest: "Navrhnout prodej sklizně" # todo: NEW TRANSLATION
+ ROM_sell_current_harvest_desc: "Každý rok vyvážíme do všech ostatních evropských zemí tuny obilovin a živočišných produktů. Můžeme se rozhodnout, že letos jednorázově vyvezeme část současné sklizně navíc do [FROM.GetName]." # todo: NEW TRANSLATION
+ ROM_bring_back_bicycle_infantry: "Vrátit cyklistickou pěchotu do služby" # todo: NEW TRANSLATION
+ ROM_demand_guarantees: "Požadovat záruky" # todo: NEW TRANSLATION
+ ROM_grant_tax_exemptions: "Udělit celní výjimky" # todo: NEW TRANSLATION
+ ROM_grant_tax_exemptions_desc: "Přísné vymáhání našich současných cel zatěžuje mezinárodní obchod. Udělením cílené daňové výjimky pro [FROM.GetNameDef] můžeme usnadnit těžbu surovin pro jejich průmysl a posílit naše vzájemné vztahy.\n\n§YVýjimka se vztahuje k našim současným daňovým reformám a automaticky pozbude platnosti, jakmile budou tato opatření zrušena nebo dokončena.§!" # todo: NEW TRANSLATION
+ ROM_diplo_visit_pzl_factory: "Navštívit letecké závody PZL" # todo: NEW TRANSLATION
+ ROM_diplo_visit_pzl_factory_desc: "Naše probíhající licenční výroba polských letadel se ukázala jako velmi přínosná. Financováním společné inženýrské delegace, která navštíví hlavní výrobní závody Państwowe Zakłady Lotnicze v Polsku, mohou naši letečtí odborníci získat neocenitelné praktické zkušenosti a technické poznatky, které urychlí náš vlastní letecký výzkum." # todo: NEW TRANSLATION
+ ROM_diplo_invite_french_military_mission: "Pozvat francouzskou vojenskou misi" # todo: NEW TRANSLATION
+ ROM_diplo_invite_french_military_mission_desc: "Francie zůstává přední pozemní mocností Evropy a její strategické doktríny se těší velkému uznání našeho generálního štábu." # todo: NEW TRANSLATION
+ ROM_diplo_french_capital_in_romanian_oil: "Francouzský kapitál v rumunské ropě" # todo: NEW TRANSLATION
+ ROM_diplo_french_capital_in_romanian_oil_desc: "Francouzští investoři měli historicky v rumunském ropném průmyslu významné podíly. Vyjednání nové sady výnosných koncesí s francouzskými konglomeráty by mohlo zajistit kapitál a těžké stroje potřebné k rychlému rozšíření těžby v údolí Prahova." # todo: NEW TRANSLATION
+ ROM_diplo_import_skoda_artillery: "Dovážet dělostřelectvo a munici Škoda" # todo: NEW TRANSLATION
+ ROM_diplo_import_skoda_artillery_desc: "Plzeňská Škodovka vyrábí jedny z nejlepších dělostřeleckých zbraní na světě. Můžeme rychle vybavit naše divize kvalitními československými těžkými zbraněmi a podpůrným vybavením, aniž bychom zatížili vlastní zbrojní průmysl." # todo: NEW TRANSLATION
+ ROM_diplo_contract_foreign_labor: "Najmout průmyslové dělníky z [FROM.GetAdjective]" # todo: NEW TRANSLATION
+ ROM_diplo_contract_foreign_labor_desc: "Rychlý rozvoj průmyslu hrozí překonat možnosti našeho domácího trhu práce. Uzavřením dvoustranných pracovních dohod s [FROM.GetNameDef] můžeme získat tisíce sezónních dělníků pro civilní sektor a uvolnit tak rumunské pracovní síly pro klíčové stavební projekty." # todo: NEW TRANSLATION
+ ROM_diplo_negotiate_industrial_exports: "Vyjednat vývoz těžkého průmyslového zboží" # todo: NEW TRANSLATION
+ ROM_diplo_joint_border_infrastructure: "Společný pohraniční projekt [FROM.GetAdjective]-[ROOT.GetAdjective]" # todo: NEW TRANSLATION
+ ROM_diplo_joint_border_infrastructure_desc: "Terén podél našich společných hranic s [FROM.GetNameDef] byl vždy obtížně průchodný. Spojením našich inženýrských kapacit a společným plánováním infrastrukturních koridorů můžeme v tomto regionu během příštího půlroku výrazně urychlit výstavbu železnic, zásobovacích uzlů a silnic." # todo: NEW TRANSLATION
+ ROM_diplo_invite_brno_engineers: "Najmout inženýry ze Zbrojovky Brno" # todo: NEW TRANSLATION
+ ROM_diplo_invite_brno_engineers_desc: "Ačkoli se náš domácí průmysl, například Cugir, rozrůstá, stále nám chybí technické znalosti potřebné k maximálnímu zvýšení produkce továren. Zaměstnání zkušených inženýrů a vedoucích výroby z renomovaných závodů Zbrojovky Brno zlepší efektivitu našich vojenských montážních linek." # todo: NEW TRANSLATION
+ ROM_diplo_seize_military: "Zabavit vojenský majetek země [FROM.GetAdjective]" # todo: NEW TRANSLATION
+ ROM_diplo_seize_civilian: "Zabavit civilní majetek země [FROM.GetAdjective]" # todo: NEW TRANSLATION
+ ROM_a_peoples_militia: "Lidová milice" # todo: NEW TRANSLATION
+ ROM_a_peoples_militia_desc: "Jednou z prvních myšlenek komunistické strany [ROOT.GetAdjective] bylo vytvořit skutečnou občanskou milici. Výcvikem a vyzbrojením našich občanů jim umožníme pomáhat při obraně země.\n\nV současnosti aktivní jednotky milice: [?ROM.militia_template_count]" # todo: NEW TRANSLATION
+ ROM_train_militia_units: "Vycvičit záložní sbor" # todo: NEW TRANSLATION
+ militia_template_count_tt: "Přidat záložní jednotky: $RIGHT|0$\n" # todo: NEW TRANSLATION
+ ROM_deploy_militia_tt: "Má vycvičené záložní jednotky." # todo: NEW TRANSLATION
+ ROM_deploy_militia: "Nasadit lidovou milici" # todo: NEW TRANSLATION
+ ROM_militia_deployed: "Nasadila lidovou milici" # todo: NEW TRANSLATION
+ ROM_remove_militia: "Demobilizovat lidovou milici" # todo: NEW TRANSLATION
+ ROM_balkan_communism: "Rozšířit vliv ve východní Evropě" # todo: NEW TRANSLATION
+ ROM_balkan_communism_desc: "Ačkoli se naše individuální průmyslová síla nemůže měřit s velmocemi, vzhledem k velikosti našich zemí jsou některé z nich obry v produkci surovin, jiné ve vývozu potravin a další se mohou pochlubit zbrojním průmyslem konkurenceschopným na světovém trhu." # todo: NEW TRANSLATION
+ ROM_send_faction_invite_to_targets: "Pozvat [FROM.GetName] do frakce [ROOT.GetFactionName]" # todo: NEW TRANSLATION
+ ROM_boost_communism_in_targets: "Podpořit komunistickou stranu země [FROM.GetAdjective]" # todo: NEW TRANSLATION
+ ROM_boost_communism_in_targets_tt: "Podpořit zahraniční komunistickou stranu" # todo: NEW TRANSLATION
+ ROM_boost_communism_in_targets_tt_2: "$unlocks_decision$§Y$ROM_boost_communism_in_targets_tt$§!" # todo: NEW TRANSLATION
+ ROM_boost_communism_in_targets_tt_3: "Naše ostatní rozhodnutí budou pravděpodobněji přijata, pokud bude mít cílová země vysokou podporu §Y$communism$§!." # todo: NEW TRANSLATION
+ ROM_propose_balkan_unification: "Navrhnout sjednocení s [FROM.GetName]" # todo: NEW TRANSLATION
+ ROM_propose_balkan_unification_tt: "Navrhnout sjednocení s balkánským spojencem" # todo: NEW TRANSLATION
+ ROM_propose_balkan_unification_tt_2: "$unlocks_decision$§Y$ROM_propose_balkan_unification_tt$§!" # todo: NEW TRANSLATION
+ ROM_conquer_targets: "Podnítit revoluci v zemi [FROM.GetName]" # todo: NEW TRANSLATION
+ ROM_conquer_targets_tt: "Podnítit revoluci v zemi" # todo: NEW TRANSLATION
+ ROM_conquer_targets_tt_2: "$unlocks_decision$§Y$ROM_conquer_targets_tt$§!" # todo: NEW TRANSLATION
+ ROM_integrate_balkan_state: "Integrovat zemi [FROM.GetName]" # todo: NEW TRANSLATION
+ ROM_integrate_balkan_state_tt: "Integrovat okupovaný balkánský stát" # todo: NEW TRANSLATION
+ ROM_integrate_balkan_state_tt_2: "$unlocks_decision$§Y$ROM_integrate_balkan_state_tt$§!" # todo: NEW TRANSLATION
+ ROM_joint_mediterranean_naval_exercise: "Společné námořní cvičení ve Středomoří" # todo: NEW TRANSLATION
+ ROM_joint_fortification_program: "Společný program opevňování" # todo: NEW TRANSLATION
+ ROM_fort_program_contributor_tt_1: "Po dokončení programu získáme opevnění zdarma." # todo: NEW TRANSLATION
+ ROM_fort_program_contributor_tt_2: "Pomůžeme s výstavbou pevností našich spojenců." # todo: NEW TRANSLATION
+ ROM_joint_fortification_program_tt: "Postavíme pevnosti v každém blízkém pohraničním státě členské země frakce, která s naší iniciativou souhlasila." # todo: NEW TRANSLATION
+ ROM_joint_army_exercise: "Společné vojenské cvičení" # todo: NEW TRANSLATION
+ expand_galati_steel_processing: "Rozšířit zpracování oceli v Galați" # todo: NEW TRANSLATION
+ ROM_numeral_v: "§GV§!" # todo: NEW TRANSLATION
+ ROM_numeral_iv: "§7IV§!" # todo: NEW TRANSLATION
+ ROM_numeral_iii: "§2III§!" # todo: NEW TRANSLATION
+ ROM_numeral_ii: "§8II§!" # todo: NEW TRANSLATION
+ ROM_numeral_i: "§tI§!" # todo: NEW TRANSLATION
+ ROM_manage_relations_dynamic: "[ROMGetRelationsManagingLoc]" # todo: NEW TRANSLATION
+ ROM_manage_relations_country: "Otevřít možnosti spolupráce se zemí [THIS.GetNameDef]" # todo: NEW TRANSLATION
+ ROM_manage_relations_country_unavailable: "Správa vztahů se zemí [THIS.GetNameDef] momentálně není dostupná.\n\nZměnit to může stát se jejich spojencem nebo dokončení určitých zaměření." # todo: NEW TRANSLATION
+ ROM_unlock_diplo_cat_decisions_tt: "Odemkne rozhodnutí v kategorii §Y$ROM_diplomacy_category$§!:" # todo: NEW TRANSLATION
+ ROM_unlock_new_diplo_cat_decisions_tt: "Odemkne nová diplomatická rozhodnutí v kategorii §Y$ROM_diplomacy_category$§!" # todo: NEW TRANSLATION
+ ROM_purchase_tanks_to_analyze: "Zakoupit tanky země [FROM.GetAdjective] pro testování" # todo: NEW TRANSLATION
+ ROM_set_up_production_of_FROM_tanks: "Vyrábět tanky země [FROM.GetAdjective]" # todo: NEW TRANSLATION
+ ROM_bought_our_tanks_flag: "Země [ROOT.GetNonIdeologyName] otestovala tanky země [FROM.GetAdjective]" # todo: NEW TRANSLATION
+ ROM_purchase_light_tanks_from_AXIS: "Zakoupit lehké tanky od země [FROM.GetNameDef]" # todo: NEW TRANSLATION
+ ROM_purchase_medium_tanks_from_AXIS: "Zakoupit střední tanky od země [FROM.GetNameDef]" # todo: NEW TRANSLATION
+ ROM_purchase_heavy_tanks_from_AXIS: "Zakoupit těžké tanky od země [FROM.GetNameDef]" # todo: NEW TRANSLATION
+ ROM_set_up_production_of_AXIS_light_tanks: "Zahájit výrobu lehkých tanků země [FROM.GetAdjective]" # todo: NEW TRANSLATION
+ ROM_set_up_production_of_AXIS_medium_tanks: "Zahájit výrobu středních tanků země [FROM.GetAdjective]" # todo: NEW TRANSLATION
+ ROM_set_up_production_of_AXIS_heavy_tanks: "Zahájit výrobu těžkých tanků země [FROM.GetAdjective]" # todo: NEW TRANSLATION
+ ROM_discount_relations_mechanic_modifier_tt: "Zvyšování hodnoty §Y$ROM_diplomacy_category$§! bude denně stát o 25 % méně politické síly." # todo: NEW TRANSLATION
+ ROM_create_trade_treaty: "Podepsat obchodní dohodu se zemí [FROM.GetNameDef]" # todo: NEW TRANSLATION
+ ROM_build_relations: "[ROMGetRelationsBuildingLoc]" # todo: NEW TRANSLATION
+ ROM_build_relations_active: "Přestat budovat vztahy se zemí [THIS.GetName][ROMGetCurrIdea][ROMGetMaxRelationsLoc][ROM_get_decreasing_relation_loc]\nJejich současný názor na nás násobí pokles §Yúrovně spolupráce§! hodnotou [?decay_multiplier]" # todo: NEW TRANSLATION
+ ROM_build_relations_default: "Budovat vztahy se zemí [THIS.GetName][ROMGetCurrIdea][ROMGetMaxRelationsLoc][ROM_get_decreasing_relation_loc]\nJejich současný názor na nás násobí pokles §Yúrovně spolupráce§! hodnotou [?decay_multiplier]" # todo: NEW TRANSLATION
+ ROM_relation_about_to_decrease_loc: "\n\nJsme blízko ztrátě úrovně spolupráce se zemí §Y[THIS.GetNameDef]§!" # todo: NEW TRANSLATION
+ ROM_reduced_cost_loc: "\n\nDosáhli jsme maximální úrovně vztahů, takže udržování této úrovně je nyní levnější." # todo: NEW TRANSLATION
+ ROM_relation_explanation: "Pomocí výše uvedených tlačítek vyberte možnosti spolupráce s jednotlivými zeměmi.\n\nBudování spolupráce nyní stojí §Y[?ROM.ROM_one_country_relations_boosting_cost]§! £GFX_pol_power  politické síly denně za každou zemi. To můžeme provádět nejvýše v 5 zemích současně. V ostatních zemích bude spolupráce pomalu klesat." # todo: NEW TRANSLATION
+ ROM_investments_military_generic: "Podpořit vojenské investice ze země [FROM.GetNameDef]" # todo: NEW TRANSLATION
+ ROM_investments_civilian_generic: "Podpořit průmyslové investice ze země [FROM.GetNameDef]" # todo: NEW TRANSLATION
+ ROM_investments_tt: "$unlocks_decision$§YPodpořit zahraniční investice§!" # todo: NEW TRANSLATION
+ ROM_prezan_warning_tt: "§YMaršál Prezan§! může kvůli §Rpokročilému věku a zhoršujícímu se zdraví§! později znovu odejít do důchodu." # todo: NEW TRANSLATION
+ ROM_prezan_health_upgrade_tt: "§YMaršál Prezan§! dostane specializovanou lékařskou péči, která stabilizuje jeho zdravotní stav." # todo: NEW TRANSLATION
+ ROM_civil_war_category: "Podpořit sovětskou pomoc" # todo: NEW TRANSLATION
+ ROM_request_soviet_guns: "Požádat Sovětský svaz o zbraně" # todo: NEW TRANSLATION
+ ROM_soviet_logistics: "Požádat Sovětský svaz o pomoc s logistikou" # todo: NEW TRANSLATION
+ ROM_soviet_funding: "Požádat Sovětský svaz o finanční podporu" # todo: NEW TRANSLATION
+ ROM_influence_increase: "Počet §Ybodů sovětského vlivu§! se zvýší o §R1§!, nyní jich máme [?ROM_soviet_influence|-G0].\n" # todo: NEW TRANSLATION
+ ROM_at_most_3_soviet_influence: "Nejvýše 3 body §Ysovětského vlivu§!." # todo: NEW TRANSLATION
+ ROM_unlock_increased_soviet_support_tt: "Rozhodnutí o sovětské pomoci bude možné přijímat i po dosažení 3 bodů §Ysovětského vlivu§!. Získáme tím ideu §Y$ROM_soviet_influence_idea$§! a země [SOV.GetNameDef] se rozzlobí, pokud s ní nebudeme udržovat dobré vztahy." # todo: NEW TRANSLATION
+ ROM_diplomacy_category_tt: "V této kategorii rozhodnutí můžeme rozšířit své diplomatické vztahy o omezenou hospodářskou, politickou a vojenskou spolupráci. Každá země, se kterou spolupracujeme, poskytuje jedinečné bonusy, které se zvyšují s úrovní spolupráce. Další možnosti interakce odemknou některá národní zaměření." # todo: NEW TRANSLATION
+ ROM_organize_the_anti_carlist_coalition: "Zorganizovat protikarlistskou koalici" # todo: NEW TRANSLATION
+ ROM_organize_the_anti_carlist_coalition_desc: "$ROM_form_an_unofficial_coalition_desc$" # todo: NEW TRANSLATION
+ ROM_rally_the_farmers: "Zmobilizovat zemědělce" # todo: NEW TRANSLATION
+ ROM_moderate_the_nationalists: "Umírnit nacionalisty" # todo: NEW TRANSLATION
+ ROM_show_democratic_unity: "Mobilizovat naše voliče" # todo: NEW TRANSLATION
+ ROM_counter_fascist_violence: "Postavit se fašistickému násilí" # todo: NEW TRANSLATION
+ ROM_campaign_against_militarization: "Kampaň proti militarizaci" # todo: NEW TRANSLATION
+ ROM_improve_minority_rights: "Slíbit regionální autonomii" # todo: NEW TRANSLATION
+ ROM_activate_polish_romanian_alliance: "Využít polsko-rumunské spojenectví" # todo: NEW TRANSLATION
+ ROM_iron_guard_anti_government_rally_tt: "§YŽelezná garda§! uspořádá shromáždění na protest proti současné vládě" # todo: NEW TRANSLATION
+ ROM_iron_guard_agitation_category: "Činnost Železné gardy" # todo: NEW TRANSLATION
+ ROM_iron_guard_anti_government_rally: "Protivládní shromáždění Železné gardy" # todo: NEW TRANSLATION
+ ROM_raid_iron_guard_hideouts: "Prohledat úkryty Železné gardy" # todo: NEW TRANSLATION
+ ROM_denounced_iron_guard: "Odsoudili jsme Železnou gardu" # todo: NEW TRANSLATION
+ ROM_denounce_the_iron_guard: "Odsoudit Železnou gardu" # todo: NEW TRANSLATION
+ ROM_deal_with_codreanu: "Vypořádat se s Codreanem" # todo: NEW TRANSLATION
+ ROM_iron_guard_retaliation: "Odplata Železné gardy" # todo: NEW TRANSLATION
+ ROM_operation_barbarossa_category: "Operace Barbarossa" # todo: NEW TRANSLATION
+ ROM_seize_odessa_mission: "Dobýt Oděsu" # todo: NEW TRANSLATION
+ ROM_seize_sevastopol_mission: "Dobýt Sevastopol" # todo: NEW TRANSLATION
+ ROM_seize_rostov_mission: "Dobýt Rostov" # todo: NEW TRANSLATION
+ ROM_seize_krasnodar_mission: "Dobýt Krasnodar" # todo: NEW TRANSLATION
+ ROM_seize_stalingrad_mission: "Dobýt Stalingrad" # todo: NEW TRANSLATION
+ ROM_royal_gambit_low_war_participation_tt: "Pokud je naše §Yúčast ve válce§! nižší než §Y20 %§!, dojde k následujícímu:\n\n§Y[ROM.GetNameDefCap]§! dokončí zaměření §Y$ROM_a_red_flag_over_bucharest$§!" # todo: NEW TRANSLATION
+ ROM_royal_gambit_high_war_participation_tt: "\nPokud je naše §Yúčast ve válce§! vyšší než §Y20 %§!, dojde k následujícímu:\n\n§Y[ROM.GetNameDefCap]§! dokončí zaměření §Y$ROM_another_great_game$§!" # todo: NEW TRANSLATION
+ ROM_bulgaria_fully_occupied: "Ovládá všechny výchozí státy země §Y[BUL.GetAdjective]§!" # todo: NEW TRANSLATION
+ ROM_serbia_fully_occupied: "Ovládá všechny státy země §Y[SER.GetAdjective]§!" # todo: NEW TRANSLATION
+ ROM_liberate_the_faithful_of_ukraine_category: "Osvobodit věrné na Ukrajině" # todo: NEW TRANSLATION
+ ROM_infiltrate_large_city_tt: "Po vyhlášení války bude ve státě §Y[FROM.GetName]§! vytvořena jednotka" # todo: NEW TRANSLATION
+ ROM_railway_sabotage_prepared_tt: "Po vyhlášení války budou železnice ve státě §Y[FROM.GetName]§! sabotované" # todo: NEW TRANSLATION
+ ROM_infiltrate_large_population_centers: "Infiltrovat populační centra ve státě §Y[FROM.GetName]§!" # todo: NEW TRANSLATION
+ ROM_prepare_sabotage_of_key_railways: "Připravit sabotáž důležitých železnic ve státě §Y[FROM.GetName]§!" # todo: NEW TRANSLATION
+ ROM_launch_anti_russian_crusade: "Zahájit tažení proti §Y[SOV.GetAdjective]§!" # todo: NEW TRANSLATION
+ ROM_railway_sabotage_prepared: "Železniční sabotéři v §YČernigově§!, §YŽytomyru§!, §YRostově§! a §YKursku§! jsou připraveni." # todo: NEW TRANSLATION
+ ROM_russia_infiltrated: "Populační centra v §YOděse§!, §YKyjevě§!, §YCharkově§!, §YDněpropetrovsku§! a §YStalinu§! jsou infiltrována." # todo: NEW TRANSLATION
+ ROM_the_royal_gambit_category: "Královský gambit" # todo: NEW TRANSLATION
+ ROM_the_royal_gambit: "Královský gambit" # todo: NEW TRANSLATION
+ ROM_a_legionary_balkan_state_category: "Legionářský balkánský stát" # todo: NEW TRANSLATION
+ ROM_integrate_west_banat: "Integrovat západní Banát" # todo: NEW TRANSLATION
+ ROM_integrate_transtisza: "Integrovat Transtiszu" # todo: NEW TRANSLATION
+ ROM_integrate_bulgaria: "Integrovat Bulharsko" # todo: NEW TRANSLATION
+ ROM_integrate_serbia: "Integrovat Srbsko" # todo: NEW TRANSLATION
+ ROM_integrate_macedonia: "Integrovat Makedonii" # todo: NEW TRANSLATION
+ ROM_integrate_central_macedonia: "Integrovat Střední Makedonii" # todo: NEW TRANSLATION
+ ROM_integrate_thrace: "Integrovat Thrákii" # todo: NEW TRANSLATION
+ ROM_establish_legionary_croatia: "Založit legionářské Chorvatsko" # todo: NEW TRANSLATION
+ ROM_controls_rest_of_yugoslavia: "Ovládá celé §YJugoslávské království§!" # todo: NEW TRANSLATION
+ ROM_establish_legionary_greece: "Založit legionářské Řecko" # todo: NEW TRANSLATION
+ ROM_restoration_of_order_category: "Obnovení pořádku" # todo: NEW TRANSLATION
+ ROM_crack_down_on_communist_militias: "Zakročit proti §Y$ROM_communist_militias$§!" # todo: NEW TRANSLATION
+ ROM_crack_down_on_monarchist_paramilitaries: "Zakročit proti §Y$ROM_monarchist_paramilitaries$§!" # todo: NEW TRANSLATION
+ ROM_crack_down_on_democratic_rebels: "Zakročit proti §Y$ROM_pro_democratic_rebels$§!" # todo: NEW TRANSLATION
+ ROM_cracking_down_on_disorder: "již zakročuje proti nepokojům" # todo: NEW TRANSLATION
+ ROM_sideline_codreanu_category: "Odstavit Codreana" # todo: NEW TRANSLATION
+ ROM_bribe_police_officers: "Podplatit policisty" # todo: NEW TRANSLATION
+ ROM_prepare_to_delay_ambulance_attention: "Připravit zdržení příjezdu sanitky" # todo: NEW TRANSLATION
+ ROM_arrange_for_goga_to_arrive_earlier: "Naplánovat dřívější schůzku s §YOctavianem Gogou§!" # todo: NEW TRANSLATION
+ ROM_set_the_plan_in_motion: "Uvést plán do pohybu" # todo: NEW TRANSLATION
+ ROM_making_subversive_preparations: "již připravuje podvratné akce" # todo: NEW TRANSLATION
+ ROM_goga_arrangement_made: "Gogova schůzka domluvena" # todo: NEW TRANSLATION
+ ROM_delayed_ambulance_attention: "Zpožděný příjezd sanitky" # todo: NEW TRANSLATION
+ ROM_bribed_police_officials: "Podplacení policejní úředníci" # todo: NEW TRANSLATION
+ ROM_the_war_in_the_east_category: "Válka na východě" # todo: NEW TRANSLATION
+ ROM_envelop_the_black_sea_mission: "Obklíčit Černé moře" # todo: NEW TRANSLATION
+ ROM_funds_for_the_war_flag: "Již žádáme veřejnost o podporu války" # todo: NEW TRANSLATION
+ ROM_creation_of_an_anti_russian_cossak_state: "Vytvoření kozáckého státu proti [SOV.GetAdjective]" # todo: NEW TRANSLATION
+ ROM_encourage_purchases_of_war_bonds: "Podpořit nákup válečných dluhopisů" # todo: NEW TRANSLATION
+ ROM_divert_industrial_capacity_to_the_military: "Přesměrovat průmyslovou kapacitu na armádu" # todo: NEW TRANSLATION
+ ROM_lease_privately_owned_trucks: "Pronajmout nákladní automobily v soukromém vlastnictví" # todo: NEW TRANSLATION
+ ROM_temporary_expansion_of_draft: "Dočasně rozšířit odvody" # todo: NEW TRANSLATION
+ ROM_fund_retooling_of_factories: "Financovat přestavbu továren" # todo: NEW TRANSLATION
+ ROM_unite_the_caucasus_decision: "Sjednotit Kavkaz" # todo: NEW TRANSLATION
+ ROM_extend_the_operational_timeline: "Prodloužit časový rámec operace" # todo: NEW TRANSLATION
+ ROM_extend_the_operational_timeline_tt: "Prodloužení časového rámce operace přidá k našim právě aktivním cílům §G+60§! dní.\n\nPokud však cíl nesplníme, ztratíme §R-10%§! §Ypodpory války§!." # todo: NEW TRANSLATION
+ ROM_integrate_the_eastern_romanians: "Integrovat východní Rumuny" # todo: NEW TRANSLATION
+ ROM_another_great_game_category: "Další velká hra" # todo: NEW TRANSLATION
+ ROM_petition_the_allies: "Požádat západní Spojence" # todo: NEW TRANSLATION
+ ROM_ask_to_be_allowed_to_leave_russian_faction: "Požádat o povolení opustit §Y[SOV.GetFactionName]§!" # todo: NEW TRANSLATION
+ ROM_propose_russian_favoured_neutrality: "Navrhnout neutralitu výhodnou pro [SOV.GetAdjective]" # todo: NEW TRANSLATION
+ ROM_ask_the_allies_for_intervention: "Požádat západní Spojence o zásah" # todo: NEW TRANSLATION
+ ROM_demand_russia_leave_romania: "Požadovat, aby [SOV.GetAdjective] opustili Rumunsko" # todo: NEW TRANSLATION
+ ROM_not_allowed_to_leave_russian_faction: "[SOV.GetAdjective] odmítli naši žádost o opuštění [SOV.GetFactionName]" # todo: NEW TRANSLATION
+ ROM_allies_did_not_abandon_us: "Západní Spojenci nás neopustili." # todo: NEW TRANSLATION
+ ROM_oust_the_russians: "Vyhnat [SOV.GetAdjective]" # todo: NEW TRANSLATION
+ ROM_reclaim_lost_territory_tt: "$unlocks_decision$§YZnovu získat ztracené území§!" # todo: NEW TRANSLATION
+ ROM_reclaim_lost_territory: "Získat zpět naše území od [FROM.GetNameDef]" # todo: NEW TRANSLATION
+ ROM_secure_the_carpathians: "Zajistit Karpaty" # todo: NEW TRANSLATION
+ ROM_decrease_democracy_requirement_tt: "Snížit požadavek na podporu strany pro §Y$ROM_depose_the_king$§! o 5 %.\nToto se uplatní pouze při prvním přijetí tohoto rozhodnutí." # todo: NEW TRANSLATION
+ ROM_decrease_democracy_requirement_tt_2: "Snížit požadavek na podporu strany pro §Y$ROM_depose_the_king$§! o 5 %." # todo: NEW TRANSLATION

@@ -63,7 +63,7 @@
  MUN_czech.1011.b: "Neutralita je bezpečnější"
  MUN_czech.1012.t: "[FROM.GetName] požaduje naše podrobení"
  MUN_czech.1012.d: "Povzbuzeni nově vytvořenou aliancí dorazili [FROM.GetAdjective] zástupci s řadou požadavků, které by znamenaly ztrátu naší svrchovanosti. Jelikož je za ich zády [SOV.GetName] i se svými zájmy o region, musíme se nyní rozhodnout, zda si můžeme dovolit odmítnout."
- MUN_czech.1012.a: "Odpor by stál [ROOT.GetAdjective] životy"
+ MUN_czech.1012.a: "Odpor by stál [ROOT.GetAdjective] životy" # todo: TERMINOLOGY Resistance -> odboj
  MUN_czech.1012.b: "Raději smrt než hanbu!"
  MUN_czech.1013.t: "[FROM.GetName] nabízí podmíněnou alianci"
  MUN_czech.1013.d: "Po pečlivém zvážení [FROM.GetAdjective] vláda oznámila, že sdílí názor, že aliance by byla výhodná, avšak zároveň uvedla, že nemůže přehlédnout své územní nároky. Proto přišla s návrhem: vstoupí do naší frakce, ale pouze pokud jim postoupíme území, které požadují."
@@ -235,7 +235,7 @@
  MUN_czech.1052.t: "[FROM.GetName] žádá, abychom umožnili průchod [SOV.GetAdjective] vojskům"
  MUN_czech.1052.d: "Po nové diplomatické dohodě, kterou uzavřeli [FROM.GetNameDef] a [SOV.GetNameDef], [FROM.GetNameDef] věří, že je [SOV.GetNameDef] v případě konfliktu ochrání. Jedinou překážkou je absence pozemního spojení mezi oběma zeměmi, a proto se [FROM.GetAdjective] diplomaté obrátili na naši vládu s žádostí, abychom v případě války umožnili průchod [SOV.GetAdjective] vojsk přes naše území."
  MUN_czech.1052.a: "Jejich boj ochrání i nás"
- MUN_czech.1053.t: "[FROM.GetName] na nás tlačí přes [HUN.GetAdjective] nároky"
+ MUN_czech.1053.t: "[FROM.GetName] na nás tlačí přes [HUN.GetAdjective] nároky" # todo: TERMINOLOGY Pressure -> Nátlak
  MUN_czech.1053.d: "Poté, co je [HUN.GetNameDef] pouze klientský stát, požaduje nyní [FROM.GetNameDef], abychom přijali stejný osud. Hrozí, že pokud odmítneme, podpoří [HUN.GetAdjective] nároky na [ROM.GetNameDef]. Musíme si nyní vybrat mezi ztrátou svrchovanosti a možným ohrožením územní celistvosti."
  CZE_cancel_anti_hungary_focus_tt: "Zruší zaměření §Y$CZE_neutralize_the_hungarian_threat$§!"
  MUN_czech.1054.t: "Bude [LIT.GetName] cílem společného útoku?"

@@ -337,7 +337,7 @@
  CAN_neutrality_party: "CCF"
  CAN_neutrality_party_long: "Kooperativní společenství"
  AST_neutrality_party: "AVS"
- AST_neutrality_party_long: "Australská venkovská strana"
+ AST_neutrality_party_long: "Australská venkovská strana" # todo: TERMINOLOGY Country -> země
  AST_colonial_administration: "KS"
  AST_colonial_administration_long: "Koloniální správa"
  AST_house_of_hore-ruthven: "Rod Hore-Ruthvenů"
@@ -451,8 +451,10 @@
  ROM_democratic_party_long: "Partidul National Liberal"
  ROM_fascism_party2: "PNC"
  ROM_fascism_party2_long: "Partidul National Crestin"
- ROM_fascism_party: "Garda de Fier"
- ROM_fascism_party_long: "Garda de Fier"
+ ROM_fascism_party: "VpV" # todo: CHANGED (predtym: Garda de Fier)
+ ROM_fascism_party_long: "Vše pro vlast" # todo: CHANGED (predtym: Garda de Fier)
+ ROM_PNT: "PNT" # todo: NEW TRANSLATION
+ ROM_PNT_long: "Národní rolnická strana" # todo: NEW TRANSLATION
  YUG_communism_party: "KPJ"
  YUG_communism_party_long: "Komunistička partija Jugoslavije"
  YUG_democratic_party: "Demokratska stranka"

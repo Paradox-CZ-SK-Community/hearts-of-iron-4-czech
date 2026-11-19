@@ -15,7 +15,7 @@
  RESEARCH_RESEARCH: "Výzkum"
  RESEARCH_TAB_SLOTS: "Výzkumné sloty"
  RESEARCH_TAB_FACILITIES: "Experimentální zařízení"
- RESEARCH_FOLDER_TAB_CYCLE_TOOLTIP: "£GFX_tab : Přepnout na další záložku.\n£GFX_shift  + £GFX_tab : Přepnout na předchozí záložku."
+ RESEARCH_FOLDER_TAB_CYCLE_TOOLTIP: "£GFX_ctrl + £GFX_tab : Přepnout na další záložku.\n£GFX_ctrl + £GFX_shift  + £GFX_tab : Přepnout na předchozí záložku." # todo: CHANGED (predtym: £GFX_tab : Přepnout na další záložku.\n£GFX_shift + £GFX_tab : Přepnout na předchozí záložku.)
  RESEARCH_FOLDER_TAB_KEY_TOOLTIP: "£GFX_$KEY$ : Přejít na tuto záložku."
  RESEARCH_DONE: "Prozkoumáno"
  RESEARCH_TIME_TO_COMPLETE: "Čas výzkumu: $TIME|H$"
@@ -956,7 +956,7 @@
  improved_naval_mines_desc: "Tato sofistikovaná mina exploduje, když zjistí změny v magnetickém poli způsobeném procházející lodí."
  advanced_naval_mines: "Akustická mina"
  advanced_naval_mines_desc: "Tento typ námořní miny detonuje, když její senzory detekují hluk v blízkosti plavidla."
- modern_naval_mines: "Tlaková mina"
+ modern_naval_mines: "Tlaková mina" # todo: TERMINOLOGY Pressure -> Nátlak
  modern_naval_mines_desc: "Tato vysoce pokročilá mina detekuje malé změny ve vodním tlaku způsobené lodí, která se pohybuje poblíž."
  degaussing: "Demagnetizování"
  degaussing_desc: "Instalací výkonných elektromagnetických cívek lze výrazně snížit magentickou signaturu lodi, takže je mnohem méně zranitelná vůči magnetickým minám."
@@ -1048,13 +1048,13 @@
  advanced_ship_torpedo_launcher: "Pokročilý lodní torpédomet"
  advanced_ship_torpedo_launcher_desc: "Větší průměr trubek umožňuje použití větších torpéd s těžšími hlavicemi.\n\nMontáž tohoto modulu na §YLehké lodě§! nebo §YKřižníky§! umožňuje jim způsobit značné poškození nepřátelským §YHlavním lodím§!."
  modern_ship_torpedo_launcher: "Moderní torpédomet na lodi"
- modern_ship_torpedo_launcher_desc: "Silné komprimované vzduchové náboje umožňují vypouštět těžší torpéda vyššími rychlostmi.\n\nNamontování tohoto modulu na §YLehké lodě§! nebo §YKřižníky§! jim umožňuje způsobit značné škody nepřátelským §YVýznamným lodím§!."
+ modern_ship_torpedo_launcher_desc: "Silné komprimované vzduchové náboje umožňují vypouštět těžší torpéda vyššími rychlostmi.\n\nNamontování tohoto modulu na §YLehké lodě§! nebo §YKřižníky§! jim umožňuje způsobit značné škody nepřátelským §YVýznamným lodím§!." # todo: TERMINOLOGY Capital Ships -> Hlavní lodě
  snorkel_advice_tt: "\nMontáž §Yšnorchlů§! na §YPonorky§! dramaticky snižuje jejich §YOdhalitelnost§!, což je činí obtížně viditelnými a zacílitelnými pro nepřátelské lodě."
  basic_submarine_snorkel: "Základní ponorkový šnorchl"
  basic_submarine_snorkel_desc: "Jednoduchá vzduchová trubice vedoucí ze strojovny do řídicí věže. Po prodloužení umožňuje ponorce provozovat motory a nabíjet baterie i při ponoření.\n\nNamontování tohoto modulu na §YPonorky§! snižuje jejich §YOdhalitelnost§!, díky čemuž jsou hůře detekovatelné."
  improved_submarine_snorkel: "Vylepšený šnorchl ponorky"
  improved_submarine_snorkel_desc: "Vylepšený design zabraňuje nasátí vody do motorů a navíc snižuje radarovou stopu hlavy šnorchlu.\n\nNamontování tohoto modulu na §YPonorky§! snižuje jejich §YOdhalitelnost§!, díky čemuž jsou hůře detekovatelné."
- light_battery_advice_tt: "\n\nNamontování modulů §YLehké baterie§! na §YLehké lodě§! a §YKřižníky§! zlepšuje jejich §YÚtok lehkými děly§!, což pomáhá ničit nepřátelské §YZákladní lodě§!. §YLehké baterie§! obvykle vykazují špatnou výkonnost vůči obrněným lodím, jako jsou §YKřižníky§! a §YTěžké lodě§!"
+ light_battery_advice_tt: "\n\nNamontování modulů §YLehké baterie§! na §YLehké lodě§! a §YKřižníky§! zlepšuje jejich §YÚtok lehkými děly§!, což pomáhá ničit nepřátelské §YZákladní lodě§!. §YLehké baterie§! obvykle vykazují špatnou výkonnost vůči obrněným lodím, jako jsou §YKřižníky§! a §YTěžké lodě§!" # todo: TERMINOLOGY Screen Ships -> Doprovodní lodě / Doprovod
  medium_battery_advice_tt: "\n\nMontáž modulů §YLehká střední baterie§! nebo §YStřední baterie§! na §YKřižníky§! zlepšuje jejich §YLehký útok§! nebo §YTěžký útok§!, čímž je umožňuje bojovat proti nepřátelským §YDoprovodním§! nebo §YHlavním lodím§!. Montáž jakékoliv §YStřední baterie§! určí loď jako §YTěžký křižník§!, zatímco montáž pouze §YLehké střední baterie§! určí loď jako §YLehký křižník§!."
  heavy_battery_advice_tt: "\n\nNamontování modulů §YTěžká baterie§! zvyšuje §YTěžkým lodím§! jejich §YTěžký útok§!, což mu umožňuje angažovat a ničit nepřátelské §YHlavní lodě§!. §YTěžké baterie§! obvykle špatně fungují proti menším plavidlům, jako jsou §YLehké lodě§! a §YLehké křižníky§!."
  basic_battery: "Námořní dělostřelecká střelba"

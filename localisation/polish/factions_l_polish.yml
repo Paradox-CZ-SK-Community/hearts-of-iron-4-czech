@@ -179,7 +179,7 @@
  joining_rule_nordics_only: "Pouze země v severských státech"
  has_nordic_capital_state_tt: "Hlavní město se nachází v severských státech"
  joining_rule_baltics_only: "Pouze země v Pobaltí"
- has_baltic_capital_state_tt: "Hlavní město se nachází v Pobaltí"
+ has_baltic_capital_state_tt: "Hlavní město se nachází v Pobaltí" # todo: TERMINOLOGY State -> stát
  joining_rule_islamic_only: "Pouze islámské země"
  is_islamic_country_tt: "Je islámskou zemí"
  joining_rule_balkans_only: "Pouze země na Balkáně"
@@ -837,7 +837,7 @@
  FACTION_STRAT_REGION_INSTRUCTION: "Přiřadit členy frakce k regionům"
  FACTION_STRAT_REGION_ARMY: "Celkový počet divizí"
  FACTION_STRAT_REGION_NAVY: "Celkový počet úderných skupin"
- FACTION_STRAT_REGION_NOT_OWNER: "§RVálčiště může ovládat pouze jeho vlastník§! ($COUNTRY|H$)"
+ FACTION_STRAT_REGION_NOT_OWNER: "§RVálčiště může ovládat pouze jeho vlastník§! ($COUNTRY|H$)" # todo: TERMINOLOGY Faction -> Frakce
  FACTION_STRAT_REGION_DESC: "$THEATER_NAME|H$\n\nJmenujte §Yvelitele válčiště§! pro dohled nad společnými operacemi ve vybraných regionech, čímž zvýšíte koordinaci a efektivitu armádních i námořních sil.\n\n"
  FACTION_STRAT_REGION_DESC_ENTRY: "- $REGION|H$"
  DELETE_FACTION_THEATER: "§RZrušit§! válčiště frakce"
@@ -963,7 +963,7 @@
  FACTION_GOAL_COMPLETION: "§HK dokončení§!:"
  FACTION_SP_OPEN_RESEARCH_WINDOW: "§GKlikněte§! pro otevření §HVýzkumu frakce§!"
  FACTION_INITIATIVE_TOOLTIP: "§HIniciativa frakce§!\n\nUtrácejte §YIniciativu frakce§! k přetváření frakce změnou §Hcílů§!, nastavováním §Hpravidel§!, vytvářením §HVálčišť frakce§! a dalším."
- FACTION_INITIATIVE_EXPLANATION: "§gIniciativa je získávána primárně dokončováním cílů. Fokusy, události a světové situace ji mohou také příležitostně poskytnout.§!"
+ FACTION_INITIATIVE_EXPLANATION: "§gIniciativa je získávána primárně dokončováním cílů. Fokusy, události a světové situace ji mohou také příležitostně poskytnout.§!" # todo: TERMINOLOGY Focus -> Zaměření
  FACTION_INITIATIVE_PROGRESS_TOOLTIP: "Postup k dalšímu bodu: $PROGRESS|.3H$"
  FACTION_INITIATIVE_PASSIVE_GENERATION_TOOLTIP: "Momentálně se generuje $DAILYPROGRESS|.3H$ za den.\nDalší bod iniciativy obdržíte za $DAYS|.0H$ dní."
  FACTION_INITIATIVE_PASSIVE_GENERATION_DESC: "§gIniciativa frakce se také pasivně generuje na základě postupu manifestu a je rozdělována mezi členy podle jejich vlivu.§!"
@@ -1119,7 +1119,7 @@
  FACTION_THEATER_COUNTRY_TOOLTIP: "Maximálně $MAX|H$ zemí lze přidat do regionu podle §Húrovně dovednosti velitele§!.\n\nZemě lze přidat pouze do jednoho válčiště."
  FACTION_THEATER_SUPPLY_BONUS_TOOLTIP: "Vybrané země ve válčišti získávají bonus $VAL$ k §HSpotřebě zásob§! na základě dovedností velitele $SKILL1|H$ ($SKILL1VAL|H$) a $SKILL2|H$ ($SKILL2VAL|H$).\n\n§Hadmirál§! poskytuje vyšší bonus k námořní spotřebě zásob, §Hpolní maršál§! poskytuje vyšší bonus k pozemní spotřebě zásob."
  FACTION_THEATER_SUPPLY_BONUS_TOOLTIP_ENTRY: "- $COUNTRY|H$"
- FACTION_THEATER_MASTERY_GAIN_TOOLTIP: "Země velitele získává $VAL|.1G%$ £doctrine_mastery §HMastery§! získané ostatními členy frakce ve válčišti, podle dovedností velitele $SKILL1|H$ ($SKILL1VAL|H$) a $SKILL2|H$ ($SKILL2VAL|H$)."
+ FACTION_THEATER_MASTERY_GAIN_TOOLTIP: "Země velitele získává $VAL|.1G%$ £doctrine_mastery §HMastery§! získané ostatními členy frakce ve válčišti, podle dovedností velitele $SKILL1|H$ ($SKILL1VAL|H$) a $SKILL2|H$ ($SKILL2VAL|H$)." # todo: TERMINOLOGY Mastery -> Mistrovství
  THEATER_COMMANDER_MASTERY_SKILL: "$VAL|%0$"
  FACTION_THEATER_SWITCH_TO_FACTION_VIEW_TOOLTIP: "Zobrazit válčiště frakce"
  FACTION_THEATER_SWITCH_TO_THEATER_VIEW_TOOLTIP: "Zobrazit válčiště země"

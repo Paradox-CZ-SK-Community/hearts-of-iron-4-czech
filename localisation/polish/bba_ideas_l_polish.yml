@@ -334,7 +334,7 @@
  ITA_impero_italiano_desc: "Vyhlášení Italského impéria posílilo morálku našich jednotek a legitimizovalo naše nároky v Africe."
  ITA_novus_ordo_modifier: "Novus Ordo"
  ITA_expanded_corporatism_modifier: "Rozšířený korporativismus"
- SWI_spirit_of_resistance_idea: "Švýcarský duch odporu"
+ SWI_spirit_of_resistance_idea: "Švýcarský duch odporu" # todo: TERMINOLOGY Resistance -> odboj
  SWI_swiss_neutrality: "Švýcarská neutralita"
  SWI_werner_risch: "Werner-Risch"
  SWI_eidgenossische_FW: "Eidgenössische F+W"

@@ -100,7 +100,7 @@
  mexico.23.a: "Obchodování s našimi nepřáteli se rovná otevřenému nepřátelství."
  mexico.23.b: "Nedělejme si víc nepřátel, než musíme."
  mexico.24.title: "Útoky německých U-bootů"
- mexico.24.desc: "Mexické tankery „Potrero del Llano” a „Faja de Oro” byly potopeny v Karibiku německými vlčími smečkami, které operují podle doktríny „neomezené ponorkové války”. Tento útok na neutrální plavidla je válečným aktem. Máme právo zaútočit na německá plavidla, která potkáme na moři.\n\nMěli bychom také zvážit připojení se k americké frakci, která bojuje proti Němcům. Tím bychom učinili Yanquis našimi dlužníky a ukázali světu, že Mexiko je mezinárodním hráčem."
+ mexico.24.desc: "Mexické tankery „Potrero del Llano” a ‚Faja de Oro” byly potopeny v Karibiku německými vlčími smečkami, které operují podle doktríny „neomezené ponorkové války”. Tento útok na neutrální plavidla je válečným aktem. Máme právo zaútočit na německá plavidla, která potkáme na moři.\n\nMěli bychom také zvážit připojení se k americké frakci, která bojuje proti Němcům. Tím bychom učinili Yanquis našimi dlužníky a ukázali světu, že Mexiko je mezinárodním hráčem."
  mexico.24.a: "Dostaneš, co ti patří, [From.GetLeader]."
  mexico.24.b: "Co s tím zmůžeme?"
  mexico.25.title: "Mexiko hledá spojenectví"
@@ -327,7 +327,7 @@
  mtg_usa_civil_war_democrats.41.b: "Republika ho stále potřebuje."
  mtg_usa_civil_war_democrats.41.c: "Pan Hilt se zdá být nejlepším kandidátem pro obnovu země."
  mtg_usa_canadian_corridor.1.t: "Kanadský koridor"
- mtg_usa_canadian_corridor.1.desc: "Náš velvyslanec pro [USA.GetNameDef] byl dnes předvolán na ministerstvo zahraničí a bylo mu předloženo ultimátum. Podle předané nóty už [USA.GetAdjective] vláda nemůže přijmout kanadskou svrchovanost nad oblastmi mezi Washingtonem a Aljaškou. \n\nNávrhy uzavřít smlouvu umožňující průchod vojsk a výjimky z některých hraničních kontrol byly rázně odmítnuty. [USA.GetAdjectiveCap] vláda očekává odpověď do půlnoci."
+ mtg_usa_canadian_corridor.1.desc: "Náš velvyslanec pro [USA.GetNameDef] byl dnes předvolán na ministerstvo zahraničí a bylo mu předloženo ultimátum. Podle předané nóty už [USA.GetAdjective] vláda nemůže přijmout kanadskou svrchovanost nad oblastmi mezi Washingtonem a Aljaškou. \n\nNávrhy uzavřít smlouvu umožňující průchod vojsk a výjimky z některých hraničních kontrol byly rázně odmítnuty. [USA.GetAdjectiveCap] vláda očekává odpověď do půlnoci." # todo: TERMINOLOGY State -> stát
  mtg_usa_canadian_corridor.1.a: "Ať jej tedy mají."
  mtg_usa_canadian_corridor.1.b: "Nikdy!"
  mtg_usa_canadian_corridor.2.t: "[CAN.GetNameDefCap] přijímá"
@@ -494,7 +494,7 @@
  mtg_usa_diplomatic_protest.2.a: "Ta území nestojí za válku."
  mtg_usa_diplomatic_protest.2.b: "Vzkažte prezidentovi, ať si hledí svého."
  mtg_usa_diplomatic_protest.3.t: "[From.GetNameDefCap] vrací území"
- mtg_usa_diplomatic_protest.3.desc: "S odkazem na snahu předejít krveprolití souhlasil [From.GetLeader], že nám předá kontrolu nad jejich državami v Americe. Zda těmto územím okamžitě udělit plnou svrchovanost, nebo je ponechat pod naší přímou správou, je teď na ministerstvu zahraničí předmětem diskuse."
+ mtg_usa_diplomatic_protest.3.desc: "S odkazem na snahu předejít krveprolití souhlasil [From.GetLeader], že nám předá kontrolu nad jejich državami v Americe. Zda těmto územím okamžitě udělit plnou svrchovanost, nebo je ponechat pod naší přímou správou, je teď na ministerstvu zahraničí předmětem diskuse." # todo: TERMINOLOGY State -> stát
  mtg_usa_diplomatic_protest.3.a: "Zvážíme své možnosti."
  mtg_usa_diplomatic_protest.4.t: "[From.GetNameDefCap] odmítá ultimátum"
  mtg_usa_diplomatic_protest.4.desc: "[From.GetAdjectiveCap] vláda označila naši nótu za „to, co [From.GetNameDef] považuje za nepřijatelný zásah do svých vnitřních záležitostí“ a kategoricky odmítla diskutovat o své svrchovanosti nad americkými državami."
@@ -531,7 +531,7 @@
  mtg_news.4.c: "Bezpochyby to popohnal jejich vojensko-průmyslový komplex."
  mtg_news.4.d: "Tentokrát obr spát nebude."
  mtg_news.5.t: "[USA.GetNameDefCap] schvalují Zákon o válečných pravomocech"
- mtg_news.5.desc: "Po hlasování formou proklamace v Senátu prezident [USA.GetLeader] okamžitě podepsal Zákon o válečných pravomocech. Zákon dává úřadu prezidenta mnohem větší volnost v použití armády než dříve. Prezident nyní může nasadit vojáky k obraně [USA.GetAdjective] zájmů kdykoli a kdekoli uzná za nutné, a to na neomezenou dobu.\n\nZatímco prezident [USA.GetLeader] tvrdí, že těchto nových pravomocí bude využito jen v krajních situacích, zdroje z ministerstva zahraničí uvádějí, že jde jen o první krok v rozsáhlém programu přetváření globální rovnováhy sil."
+ mtg_news.5.desc: "Po hlasování formou proklamace v Senátu prezident [USA.GetLeader] okamžitě podepsal Zákon o válečných pravomocech. Zákon dává úřadu prezidenta mnohem větší volnost v použití armády než dříve. Prezident nyní může nasadit vojáky k obraně [USA.GetAdjective] zájmů kdykoli a kdekoli uzná za nutné, a to na neomezenou dobu.\n\nZatímco prezident [USA.GetLeader] tvrdí, že těchto nových pravomocí bude využito jen v krajních situacích, zdroje z ministerstva zahraničí uvádějí, že jde jen o první krok v rozsáhlém programu přetváření globální rovnováhy sil." # todo: TERMINOLOGY State -> stát
  mtg_news.5.a: "Naše slova nyní budou mít větší váhu."
  mtg_news.5.b: "Dokud zůstanou ve své sféře vlivu."
  mtg_news.5.c: "Fašisté konečně ukazují svou pravou tvář."

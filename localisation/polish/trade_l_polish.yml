@@ -172,7 +172,6 @@
  TRADE_AUTO_IMPORT_ACCEPTED_SHORTAGE_SUB_DESC: "§HPřijatelný nedostatek§!\nAutomatický dovoz ponechá nedostatek této suroviny nejvýše v uvedeném množství.\n\n§GKliknutím§! snížíš hodnotu o §Y1§!\n§GCtrl+kliknutím§! snížíš hodnotu o §Y5§!\n§GShift+kliknutím§! snížíš hodnotu o §Y10§!"
  TRADE_CIV_FACTORIES: "Civilní továrny"
  TRADE_CIV_FACTORIES_COUNT: "$NUM|G$"
- TRADE_CIV_FACTORIES_USED: "Použito: $USED|Y$"
  TRADE_CIV_FACTORIES_CONSUMER: "$NUM|Y$"
  TRADE_CIV_FACTORIES_TRADE: "$NUM|Y$"
  TRADE_CIV_FACTORIES_AVAIL: "K dispozici: $AVAIL$"

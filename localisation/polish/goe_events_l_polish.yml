@@ -1078,7 +1078,7 @@
  PER_islamic_revolution_events.2.a: "Zakročme proti těmto revolucionářům."
  PER_islamic_revolution_events.2.b: "Okamžitě uklidněme duchovenstvo."
  PER_islamic_revolution_events.2.c: "Ať to zkusí!"
- PER_foreign_policy_events.1.t: "[FROM.GetNameDef] zkouší zastrašování"
+ PER_foreign_policy_events.1.t: "[FROM.GetNameDef] zkouší zastrašování" # todo: TERMINOLOGY Pressure -> Nátlak
  PER_foreign_policy_events.1.desc: "Zdá se, že [FROM.GetAdjective] vláda je stále nervóznější z naší diplomatické pozice. Během uplynulého týdne se [FROM.GetAdjective] velvyslanec a [THIS.GetLeader] setkali nejméně šestkrát a při posledním jednání prakticky předložil ultimátum.\n\nBuď s nima vstoupíme do obranného paktu a přijmeme „určitou míru konzultací ve vnitřních záležitostech“, nebo [FROM.GetNameDef] s největší pravděpodobností přistoupí k vojenské intervenci."
  PER_foreign_policy_events.1.a: "Boj by byl marný."
  PER_foreign_policy_events.1.b: "Ať přijdou!"

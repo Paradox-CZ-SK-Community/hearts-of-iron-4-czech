@@ -1238,7 +1238,7 @@
  SIA_demand_repatriation_desc: "Ti, kdo vstoupili na naši půdu pod záminkou nutnosti, mají jsou našimi dlužníky. Jakmile se naše situace zlepší, měli bychom požadovat návrat toho, co bylo vzato, a tlačit na okupanta, aby splatil cenu svého vpádu."
  SIA_standing_our_ground: "Držet své pozice"
  SIA_standing_our_ground_desc: "Přichází chvíle, kdy ústup a vyjednávání nabízejí jen další ponížení. [ROOT.GetNameDefCap] musí ukázat, že stále má vůli stát, bojovat a vyhnat ty, kdo předpokládají, že nám mohou diktovat osud pod hrozbou zbraní."
- SIA_standing_our_ground_trigger: "Toto zaměření bude automaticky dokončeno, pokud budeme napadeni a v události zvolíme možnost §YOdpor§!."
+ SIA_standing_our_ground_trigger: "Toto zaměření bude automaticky dokončeno, pokud budeme napadeni a v události zvolíme možnost §YOdpor§!." # todo: TERMINOLOGY Resistance -> odboj
  SIA_ask_for_the_release_of_american_commodities: "Požádat o uvolnění amerických komodit"
  SIA_ask_for_the_release_of_american_commodities_desc: "Americké zásoby, stroje a zboží mohou poskytnout prostor k nadechnutí, který náš národ potřebuje. Pečlivou diplomacií můžeme požádat o uvolnění takových komodit, zmírnit nedostatky a posílit materiální základnu našeho válečného úsilí."
  SIA_japanese_fighters: "Japonské stíhačky"
@@ -1893,7 +1893,7 @@
  AST_bring_home_the_farmers_desc: "Během Velké hospodářské krize se naše velká města výrazně vylidnila, když se dělníci přesouvali na venkov za zemědělskou prací. Nyní, když se podmínky začínají zlepšovat, bychom měli návrat naší pracovní síly podpořit pobídkami, abychom mohli znovu spustit továrny a obnovit výrobu."
  AST_reverse_wage_cuts: "Zvrátit škrty mezd"
  AST_reverse_wage_cuts_desc: "Abychom podnikům dali šanci obstát, zavedli jsme v celé ekonomice řadu mzdových škrtů. Nyní, když vidíme známky obnovy, bychom měli změnit směr. Rostoucí mzdy vedou k větší kupní síle, což pomáhá pohánět spotřebu a hospodářský růst."
- AST_the_manpower_directorate: "Ředitelství pracovní síly"
+ AST_the_manpower_directorate: "Ředitelství pracovní síly" # todo: TERMINOLOGY Manpower -> Personál
  AST_the_manpower_directorate_desc: "Jak se naše ekonomika stává stále složitější, čelíme rostoucím problémům v oblasti pracovní síly. Toto ředitelství zajistí, aby byli správní lidé umístěni na správné pozice, se správnými dovednostmi a ve správný čas."
  AST_recovery: "Obnova"
  AST_recovery_desc: "Poprvé náš hrubý domácí produkt překonal úroveň před krizí. Je to okamžik k oslavě, protože jediným směrem naší ekonomiky je nyní růst. Vstupujeme do období silného rozvoje a nastal čas sklízet plody naší obnovené prosperity."

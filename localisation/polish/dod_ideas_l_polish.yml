@@ -22,7 +22,7 @@
  HUN_gusztav_gratz: "Gusztáv Gratz"
  ROM_coastal_defense_navy_designer: "Loděnice Galati"
  ROM_black_sea_dominance_designer: "Loděnice Braila"
- ROM_leonidas_works: "Leonidasovy závody"
+ ROM_leonidas_works: "Atelierele Leonida" # todo: CHANGED (predtym: Leonidasovy závody)
  ROM_flexible_foreign_policy_2: "Flexibilní zahraniční politika"
  ROM_coastal_defense_ships_2: "Plavidla pobřežní obrany"
  ROM_war_preparation: "Přípravy na válku"

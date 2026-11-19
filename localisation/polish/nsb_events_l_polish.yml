@@ -810,7 +810,7 @@
  NSB_soviet_foreign_politics_events.31.desc: "Při slavnostním ceremoniálu ve Fort Sitka převedli [FROM.GetNameDef] suverenitu nad Aljaškou zpět na nás. Ačkoli většina obyvatel Aljašky má ohledně tohoto předání smíšené pocity, doma lidé slaví."
  NSB_soviet_foreign_politics_events.31.a: "Další carský omyl napraven."
  NSB_soviet_foreign_politics_events.32.t: "[FROM.GetNameDefCap] odmítá"
- NSB_soviet_foreign_politics_events.32.desc: "[FROM.GetAdjectiveCap] ministr zahraničí se ani neobtěžoval reagovat na naše požadavky osobně. Místo toho byl na naše velvyslanectví doručen dopis podepsaný náměstkem ministra pro kulturní rozvoj, v němž se uvádí, že ačkoli respektují naši ambici psát ucelenou historickou fikci, ocenili by, kdybychom k tomu nepoužívali oficiální diplomatické kanály."
+ NSB_soviet_foreign_politics_events.32.desc: "[FROM.GetAdjectiveCap] ministr zahraničí se ani neobtěžoval reagovat na naše požadavky osobně. Místo toho byl na naše velvyslanectví doručen dopis podepsaný náměstkem ministra pro kulturní rozvoj, v němž se uvádí, že ačkoli respektují naši ambici psát ucelenou historickou fikci, ocenili by, kdybychom k tomu nepoužívali oficiální diplomatické kanály." # todo: TERMINOLOGY State -> stát
  NSB_soviet_foreign_politics_events.32.a: "Aha, mysleli si, že blafujeme?"
  NSB_soviet_foreign_politics_events.32.b: "Poslední, co potřebujeme, je víc zmrzlé hlíny."
  NSB_soviet_foreign_politics_events.150.t: "[FROM.GetNameDefCap] se podřizuje"

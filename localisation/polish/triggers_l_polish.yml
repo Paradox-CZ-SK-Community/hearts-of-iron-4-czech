@@ -116,8 +116,8 @@
  TRIGGER_HAS_NAVY_SIZE_OF_TYPE_AT_MOST: "Nejméně $AMOUNT|H$ $TYPE|H$ lodí"
  TRIGGER_HAS_DEPLOYED_AIR_FORCE_SIZE_AT_LEAST: "Má nasazeno nejméně $AMOUNT|H$ letadel"
  TRIGGER_HAS_DEPLOYED_AIR_FORCE_SIZE_AT_MOST: "Má nasazeno nejvýše $AMOUNT|H$ letadel"
- TRIGGER_HAS_ANY_WAR_SCORE_AT_LEAST: "Nejméně $VALUE|H$§H%§! z §HÚčasti ve válce§!"
- TRIGGER_HAS_ANY_WAR_SCORE_AT_MOST: "Nejméně $VALUE|H$§H%§! z §HÚčasti ve válce§!"
+ TRIGGER_HAS_ANY_WAR_SCORE_AT_LEAST: "Nejméně $VALUE|H$ §Hválečného skóre§!" # todo: CHANGED (predtym: Nejméně $VALUE|H$§H%§! z §HÚčasti ve válce§!)
+ TRIGGER_HAS_ANY_WAR_SCORE_AT_MOST: "Nejvýše $VALUE|H$ §Hválečného skóre§!" # todo: CHANGED (predtym: Nejméně $VALUE|H$§H%§! z §HÚčasti ve válce§!)
  TRIGGER_HAS_LAND_DOCTRINE_LEVEL_AT_LEAST: "Má prozkoumanou alespoň $VALUE|H$ úroveň pozemní doktríny"
  TRIGGER_HAS_LAND_DOCTRINE_LEVEL_AT_MOST: "Má prozkoumanou nejvýše $VALUE|H$ úroveň pozemní doktríny"
  TRIGGER_HAS_BUILT: "Postaveno $MISSING|H$ nebo více $TYPE|H$"
@@ -458,8 +458,8 @@
  TRIGGER_AUTONOMY_STATE_LESS_THAN: "Je méně autonomní než $NAME|H%$"
  TRIGGER_AUTONOMY_STATE_RATIO_GREATER_THAN: "Pokrok autonomie nad $VALUE|H%$"
  TRIGGER_AUTONOMY_STATE_RATIO_LESS_THAN: "Pokrok autonomie menší než $VALUE|H%$"
- TRIGGER_MORE_THAN_X_SUBJECTS: "Více než $COUNT|Y$ přidružených států"
- TRIGGER_LESS_THAN_X_SUBJECTS: "Méně než $COUNT|Y$ přidružených států"
+ TRIGGER_MORE_THAN_X_SUBJECTS: "Více než $COUNT|Y$ přidružených států" # todo: TERMINOLOGY Subject -> Subjekt
+ TRIGGER_LESS_THAN_X_SUBJECTS: "Méně než $COUNT|Y$ přidružených států" # todo: TERMINOLOGY Subject -> Subjekt
  TRIGGER_HAS_TECH_GROUPS_MORE_THAN: "Členem více než $AMOUNT|Y$ skupin sdílení technologií"
  TRIGGER_HAS_TECH_GROUPS_LESS_THAN: "Členem méně než $AMOUNT|Y$ skupin sdílení technologií"
  TRIGGER_HAS_TEMPLATE: "Má $TEMPLATE|Y$ šablonu divize"
@@ -707,10 +707,10 @@
  TRIGGER_HAS_NOT_ACTIVE_RESISTANCE: "Nemá aktivní odboj"
  TRIGGER_HAS_WAR_OCCUPIED_TAG_IS: "Obsazená země je @$TAG$$COUNTRY|H$"
  TRIGGER_HAS_NOT_OCCUPIED_TAG_IS_NOT: "Obsazená země není @$TAG$$COUNTRY|H$"
- TRIGGER_HAS_OCCUPATION_MODIFIER: "Má okupační modifikátor §H\"$MODIFIER$\"§!"
- TRIGGER_HAS_NOT_OCCUPATION_MODIFIER: "Nemá okupační modifikátor §H\"$MODIFIER$\"§!"
- TRIGGER_HAS_CORE_OCCUPATION_MODIFIER: "Má okupační modifikátor §H\"$MODIFIER$\"§! v $OCCUPIED_COUNTRY|H$"
- TRIGGER_HAS_NOT_CORE_OCCUPATION_MODIFIER: "Nemá okupační modifikátor §H\"$MODIFIER$\"§! v $OCCUPIED_COUNTRY|H$"
+ TRIGGER_HAS_OCCUPATION_MODIFIER: "Má okupační modifikátor §H„$MODIFIER$“§!"
+ TRIGGER_HAS_NOT_OCCUPATION_MODIFIER: "Nemá okupační modifikátor §H„$MODIFIER$“§!"
+ TRIGGER_HAS_CORE_OCCUPATION_MODIFIER: "Má okupační modifikátor §H„$MODIFIER$“§! v $OCCUPIED_COUNTRY|H$"
+ TRIGGER_HAS_NOT_CORE_OCCUPATION_MODIFIER: "Nemá okupační modifikátor §H„$MODIFIER$“§! v $OCCUPIED_COUNTRY|H$"
  TRIGGER_OCCUPATION_LAW: "Aktuální okupační zákon je $MODIFIER|H$"
  TRIGGER_OCCUPATION_LAW_NOT: "Aktuální okupační zákon není $MODIFIER|H$"
  TRIGGER_OPERATIVE_LEADER_MISSION_IS: "Aktuální mise operativce je $MISSION|H$"
@@ -934,7 +934,7 @@
  CONVOYS_WAR_SUPPORT_TRIGGER: "Postih k podpoře války z potopených konvojů"
  TRIGGER_HAS_RESOURCES_RIGHT: "$COUNTRY|H$ má všechna práva na $RESOURCES|H$"
  TRIGGER_HAS_NOT_RESOURCES_RIGHT: "$COUNTRY|H$ nemá všechna práva na $RESOURCES|H$"
- TRIGGER_OVERLORD: "Nadvláda"
+ TRIGGER_OVERLORD: "Nadvláda" # todo: TERMINOLOGY Overlord -> Suzerén
  TRIGGER_PC_IS_INSIDE_INFLUENCE_RANGE: "Je uvnitř maximálního dosahu AI vlivu"
  TRIGGER_PC_IS_OUTSIDE_INFLUENCE_RANGE: "Je mimo maximální dosah AI vlivu"
  TRIGGER_HAS_COMPLETED_CUSTOM_ACHIEVEMENT: "Splnil úspěch $ACHIEVEMENT|H$"
@@ -1029,6 +1029,8 @@
  TRIGGER_HAS_GENERAL_CAPTURED_BY: "$COUNTRY|H$ má zajatého některého nepřátelského velitele"
  TRIGGER_HAS_NOT_GENERAL_CAPTURED_BY: "$COUNTRY|H$ nemá zajatého žádného nepřátelského velitele"
  TRIGGER_ENERGY_RATIO: "Poměr energie"
+ TRIGGER_ANY_WAR_PARTICIPATION: "Účast v jakékoli válce je $COMPARISON$" # todo: NEW TRANSLATION
+ TRIGGER_ANY_WAR_PARTICIPATION_NOT: "Účast v každé válce je $COMPARISON$" # todo: NEW TRANSLATION
  can_unlock_second_track_special_forces_doctrine_yes: "Požadavek na §Hspecializaci větve§! speciálních sil splněn"
  can_unlock_second_track_special_forces_doctrine_no: "Vyžaduje dodatečnou §Hspecializaci větve§! speciálních sil"
  volunteer_target_is_triggered_uprising_tt: "§Y[ROOT.GetNameWithFlag]§! může posílat dobrovolníky pouze do ním vyvolaného povstání."

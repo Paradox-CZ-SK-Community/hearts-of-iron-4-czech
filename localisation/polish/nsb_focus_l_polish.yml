@@ -607,7 +607,7 @@
  POL_complete_the_bermontian_mission_desc: "Naše mise bojovat po boku bělogvardějců a znovu získat Rusko pro cara byla zmařena neúspěšnou invazí Litvy - ale nyní máme mocné Společenství národů pod naším velením. Musíme usednout na koně a spálit SSSR na popel!"
  royal_legitimist: "Královský legitimista"
  POL_cossack_king: "Kozácký král"
- POL_cossack_king_desc: "V roce 1918 byl kníže, kozák a válečník Pavel Bermondt-Avalov pověřen bojem za bělogvardějce v Rusku, ale místo toho obrátil bermontinské armády proti Litvě a Lotyšsku. Ač nepopulární a nekatolík, Bermondt má podporu Němců a možnost opřít se o bělogvardějskou armádu."
+ POL_cossack_king_desc: "V roce 1918 byl kníže, kozák a válečník Pavel Bermondt-Avalov pověřen bojem za bělogvardějce v Rusku, ale místo toho obrátil bermontinské armády proti Litvě a Lotyšsku. Ač nepopulární a nekatolík, Bermondt má podporu Němců a možnost opřít se o bělogvardějskou armádu." # todo: TERMINOLOGY Warlord -> Militarista
  POL_demand_LIT_pavel: "Požadovat Litvu"
  POL_demand_LIT_pavel_desc: "Minule bermontinci nedokázali Litvu anektovat - ale nyní, s polskou armádou za zády, stojí Pavel v takové mocenské pozici, že může Litevce zastrašit, aby se vzdali sami od sebe. Král nežebrá o své království, ale bere si je."
  POL_demand_slovakia_pavel: "Požadovat Slovensko"
@@ -676,7 +676,7 @@
  POL_preserve_bougoise_democracy_desc: "Ačkoli cílem KPP je nakonec šířit socialismus po celém světě, v těchto temných časech vzestupu světového fašismu je nezbytné bojovat po boku kapitalistů za zachování buržoazní demokracie. Jen ve světě bez fašismu jsou materiální podmínky vhodné pro světovou socialistickou revoluci."
  POL_press_for_liberia: "Prosazovat zájmy v Libérii"
  POL_press_for_liberia_desc: "V roce 1932 se polská a liberijská vláda dohodly, že Libérie bude svěřena do polské správy. Američané naši přítomnost v Libérii považují za urážku, ale země je zranitelná a zoufale potřebuje polskou ochranu."
- POL_pressure_for_the_west: "Tlačit na Západ"
+ POL_pressure_for_the_west: "Tlačit na Západ" # todo: TERMINOLOGY Pressure -> Nátlak
  POL_pressure_for_the_west_desc: "Přesné hranice mezi Polskem a Německem byly předmětem debat v desetiletích po Velké válce. V těchto debatách si Němci ponechali většinu svých průmyslových center, zatímco Polsku zůstalo jen málo, co by připomínalo průmysl. Když Východ získal [SOV.GetNameDef], musí být tyto území nahrazeny Slezskem a Pomořanskem."
  POL_pro_allied_government: "Jmenovat prospojeneckou vládu"
  POL_pro_allied_government_desc: "Mnozí poslanci Sejmu jsou již nakloněni pokračování polské orientace na Západ, a povýšením těchto zástupců do vyšších vládních funkcí se otevřeněji přihlásíme k věci Spojenců."
@@ -1389,7 +1389,7 @@
  SOV_increase_state_reserves_ns_tt: "$SOV_modify_fyp_ns_intro$ \nEfektivita získávání zdrojů: §G+10%§!"
  SOV_increase_state_reserves_silo_tt: "\nTři náhodné státy: \nPřidej §G1§! stavební slot. \nPřidej §Y1 sklad paliva§!."
  SOV_shift_to_armaments_production_ns_tt: "$SOV_modify_fyp_ns_intro$ \nRychlost výstavby §Ycivilních továren§!: §R-5.00%§! \nRychlost výstavby §Yvojenských továren§!: §G+10.00%§! \n\n"
- SOV_optimize_production_lines_ns_tt: "$SOV_modify_fyp_ns_intro$ \nVýstup továren: §G+2.00%§! \n£prod_eff Růst efektivity výroby: §G+5.00%§! \nZákladní efektivita výroby: §G+5.00%§! \n\n"
+ SOV_optimize_production_lines_ns_tt: "$SOV_modify_fyp_ns_intro$ \nVýstup továren: §G+2.00%§! \n£prod_eff Růst efektivity výroby: §G+5.00%§! \nZákladní efektivita výroby: §G+5.00%§! \n\n" # todo: CHANGED NUMBER
  SOV_steel_casting_industry_ns_tt: "$SOV_modify_fyp_ns_intro$ \nVýstup továren: §G+5.00%§! \nVýstup loděnic: §G+5.00%§! \n\n"
  SOV_oil_production_ns_tt: "$SOV_modify_fyp_ns_intro$ \nSyntetická ropa: §G+5.00%§! \nZisk paliva z rafinerií: §G+5.00%§! \n\n"
  SOV_fourth_five_year_plan_ns_tt: "$SOV_modify_fyp_ns_intro$ \nPodíl továren na spotřební zboží: §Y-5.0%§! \nRychlost oprav továren: §G+5.00%§! \n£prod_eff_cap limit efektivity výroby: §G+2.00%§! \n\n"
@@ -1407,7 +1407,7 @@
  SOV_estonian_claimed_states_tt: "[ROOT.GetNameDefCap] získá nárok na §Yvšechna [EST.GetAdjective] domovská území§!."
  SOV_latvian_claimed_states_tt: "[ROOT.GetNameDefCap] získá nárok na §Yvšechna [LAT.GetAdjective] domovská území§!."
  SOV_lithuanian_claimed_states_tt: "[ROOT.GetNameDefCap] získává nárok na §Yvšechna [LIT.GetAdjective] území§!."
- SOV_control_scandinavia_decisions_tt: "Aktivuje rozhodnutí §YTlačit na vládu§! a §YPodporovat ideologické shromáždění§! v severských zemích."
+ SOV_control_scandinavia_decisions_tt: "Aktivuje rozhodnutí §YTlačit na vládu§! a §YPodporovat ideologické shromáždění§! v severských zemích." # todo: TERMINOLOGY Pressure -> Nátlak
  SOV_seek_balkan_cooperation_decisions_tt: "Zpřístupní rozhodnutí k §Ynátlaku na vládu§! a §Ypodpoře ideologických shromáždění§! v balkánských zemích."
  SOV_demand_balkan_submission_decisions_tt: "Aktivuje rozhodnutí k §Yposílání ultimát§! balkánským zemím."
  SOV_aid_republican_spain_tt: "\n[SPR.GetFlag] [SPR.GetNameDefCap]: \n"
@@ -1646,7 +1646,7 @@
  SOV_autonomous_soviet_republics_tt: "Umožní udělit nezávislost zemím."
  SOV_international_union_of_soviet_republics: "Mezinárodní svaz sovětských republik"
  SOV_international_union_of_soviet_republics_desc: "Největší možnou zradou naší revoluce byla myšlenka, že socialismus lze - nebo dokonce má - budovat v jediné zemi. Buď jej společně dosáhnou dělníci ve všech zemích, nebo nikdo. Ačkoli je revoluce v různých zemích v různých fázích, budeme sdílet naše zdroje, aby postupovala vpřed ve všech spojeneckých státech, kde dělníci drží vládu."
- SOV_international_union_of_soviet_republics_tt: "Upraví §Y$SOV_factionalism_modifier$§!:\nCena obchodu s nadřízeným: §G-10%§!\nStabilita dle popularity strany: §G+10%§!\n"
+ SOV_international_union_of_soviet_republics_tt: "Upraví §Y$SOV_factionalism_modifier$§!:\nCena obchodu s nadřízeným: §G-10%§!\nStabilita dle popularity strany: §G+10%§!\n" # todo: TERMINOLOGY Overlord -> Suzerén
  SOV_international_union_of_soviet_republics_puppet_tt: "Přidá §Y1 civilní továrnu§! v hlavním státě."
  SOV_the_onslaught_on_colonialism: "Útok na kolonialismus"
  SOV_the_onslaught_on_colonialism_decision_tt: "Odemkne rozhodnutí §YOrganizovat pátou kolonu§! a §YPodnítit proletariát§! v afrických sousedech."

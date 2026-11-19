@@ -156,7 +156,7 @@
  CHL_french_investments_desc: "Jacques Antoine Bernard dorazil do země s finanční podporou francouzských šlechticů nespokojených s republikou, ve které žijí, a doufajících v lepší budoucnost pro [CHL.GetNameDef]."
  CHL_veteran_legionaries: "Veteránští legionáři"
  CHL_veteran_legionaries_desc: "Mnoho příslušníků Francouzské cizinecké legie následovalo Antoina Bernarda na jeho cestě do naší země a budou mu nápomocni při jeho slavných výbojích."
- CHL_popular_resistance: "Lidový odpor"
+ CHL_popular_resistance: "Lidový odpor" # todo: TERMINOLOGY Resistance -> odboj
  CHL_popular_resistance_desc: "Stále existuje mnoho lidí, kteří nevěří v genialitu krále Antoina Bernarda. Je třeba se s nimi vypořádat okamžitě."
  CHL_french_aristocracy: "Francouzská aristokracie"
  CHL_araucanian_aristocracy: "Nová araukánská aristokracie"
@@ -369,7 +369,7 @@
  BRA_aid_operation_bolivar_desc: "$BRA_expand_operation_bolivar_desc$"
  BRA_international_crisis: "Mezinárodní krize"
  BRA_international_crisis_desc: "$BRA_the_international_crisis_desc$"
- BRA_unwilling_subjects: "Nedobrovolní poddaní"
+ BRA_unwilling_subjects: "Nedobrovolní poddaní" # todo: TERMINOLOGY Subject -> Subjekt
  BRA_unwilling_subjects_desc: "S tím, jak monarchie znovu přebírá kontrolu nad politickým systémem země, roste mezi obyvatelstvem nepohodlí a frustrace z opětovného podřízení se autokratovi."
  BRA_federal_republic: "Přijetí federalismu"
  BRA_federal_republic_desc: "$BRA_greater_federalism_desc$"
@@ -651,7 +651,7 @@
  idea_URG_revaluation_law: "Zákon o přecenění"
  idea_URG_import_substitution: "Náhrada dovozu"
  idea_URG_strong_falangist_prescence: "Silná falangistická přítomnost"
- idea_URG_fascist_pressure: "Fašistický tlak"
+ idea_URG_fascist_pressure: "Fašistický tlak" # todo: TERMINOLOGY Pressure -> Nátlak
  idea_URG_ruralism_good: "$URG_ruralism$"
  idea_URG_ruralism_bad: "$URG_ruralism$"
  idea_URG_ruralism_good_2: "$URG_ruralism$"

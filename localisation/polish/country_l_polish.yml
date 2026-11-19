@@ -37,7 +37,7 @@
  MANPOWER_VALUE: "$USAGE$\n\n$CURRENT$\n$GROWTH$"
  MANPOWER_DESC: "Personál je odvozen ze §HNáborové populace§! země a jejích okupovaných území, a představuje muže a ženy dostupné ozbrojeným silám. Zaveďte přísnější §HNáborové zákony§! pro rozšíření náborové populace a zvýšení dostupného personálu."
  MANPOWER_DIVISION: "Divizní personál"
- MANPOWER_DIVISION_DESC: "§THlavní počet vojáků v této §HDivize§!. Jak vojáci umírají, obdrží posily z vaší země §HManpower§! pool.§!"
+ MANPOWER_DIVISION_DESC: "§THlavní počet vojáků v této §HDivize§!. Jak vojáci umírají, obdrží posily z vaší země §HManpower§! pool.§!" # todo: TERMINOLOGY Manpower -> Personál
  MANPOWER_DIVISION_SIZE_DESC: "§TTato §HDivize§! obsahuje $AMOUNT|G$ vojáků. Jak vojáci umírají, obdrží posily z rezerv §Hpersonálu§! vaší země.§!"
  MANPOWER_DIVISION_SIZE_BREAKDOWN_DESC: "§TTato §HDivize§! obsahuje $AMOUNT|G$ vojáků. Má personál z:§!"
  MANPOWER_GARRISON_BREAKDOWN_ENTRY: "$NUMBER|H*$ z $COUNTRY|H$"

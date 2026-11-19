@@ -685,7 +685,7 @@
  DOD_yugoslavia.31.desc: "Před pár dny byl [YUG.GetLeader] odchycen na diplomatickém večírku německým velvyslancem. Upozornil, že po anšlusu Rakouska mají nyní [YUG.GetNameDef] a [GER.GetNameDef] společnou hranici. [YUG.GetLeader] byl velvyslancem ujištěn, že Německo má samozřejmě zájem na přátelských vztazích. \n\nPouze požádal, abychom na to pamatovali při budoucích politických rozhodnutích."
  DOD_yugoslavia.31.a: "Jak milé."
  DOD_yugoslavia.31.b: "Musíme s nimi udržovat dobré vztahy..."
- YUG_wavering_to_GER_pressure_opm: "Váhá pod naším tlakem"
+ YUG_wavering_to_GER_pressure_opm: "Váhá pod naším tlakem" # todo: TERMINOLOGY Pressure -> Nátlak
  YUG_wavering_to_GER_pressure_reverse_opm: "Váhá pod německým tlakem"
  YUG_GER_pressured_us_annoyed_opm: "Rozladěni diplomatickým nátlakem"
  DOD_yugoslavia.32.desc: "Když je [CZE.GetNameDef] vyřazeno ze hry, rovnováha sil se v jihovýchodní Evropě dramaticky změnila. České zbraně a peníze podporovaly řadu zemí, které si nyní musí hledat nové patrony. Možná je čas, aby byl [YUG.GetLeader] na tuto skutečnost upozorněn."
@@ -701,7 +701,7 @@
  DOD_yugoslavia.35.a: "Dochází nám čas."
  DOD_yugoslavia.35.b: "Ne, nesmíme je dál usmiřovat!"
  enemy_of_the_reich_opm: "Nepřítel Reichu"
- YUG_wavering_to_GER_pressure_2_opm: "Váhá pod naším tlakem"
+ YUG_wavering_to_GER_pressure_2_opm: "Váhá pod naším tlakem" # todo: TERMINOLOGY Pressure -> Nátlak
  YUG_wavering_to_GER_pressure_reverse_2_opm: "Váhá pod německým tlakem"
  DOD_yugoslavia.36.t: "Osud Jugoslávie"
  DOD_yugoslavia.36.desc: "Přestože jsme je znovu a znovu nutili, aby si vybrali stranu, [YUG.GetLeader] se pořád drží představy, že Jugoslávie může tento konflikt přečkat jako neutrální země. Teď musí čelit důsledkům své zbabělosti."

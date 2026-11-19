@@ -65,7 +65,7 @@
  INTEL_MIN_MAX_FUZZY_TOOLTIP_TEXT_NO_MIN: "$INTEL_TYPE|H$ : $INTEL_RATIO|H.0%$\n  $MIN|H.0%$ - $MAX|H.0%$ : Přibližné informace\n  Více než $MAX|H.0%$ : Úplné informace"
  INTEL_MIN_MAX_FUZZY_TOOLTIP_TEXT: "$INTEL_TYPE|H$ : $INTEL_RATIO|H.0%$\n  Méně než $MIN|H.0%$ : Žádné informace\n  $MIN|H.0%$ - $MAX|H.0%$ : Přibližné informace\n  Více než $MAX|H.0%$ : Úplné informace"
  INTEL_LEDGER_MANPOWER_TOOLTIP: "Dostupný personál: $RANGE|H$"
- INTEL_LEDGER_FIELDED_MANPOWER_TOOLTIP: "Nasazené síly:"
+ INTEL_LEDGER_FIELDED_MANPOWER_TOOLTIP: "Nasazené síly:" # todo: TERMINOLOGY Manpower -> Personál
  INTEL_LEDGER_FIELDED_ARMY_MANPOWER_TOOLTIP: "  Armáda: $VALUE|H$"
  INTEL_LEDGER_FIELDED_ARMY_MANPOWER_TOOLTIP_WITH_CAP: "  Armáda: $VALUE|H$ (vyžaduje armádní zpravodajství: $MIN|H.0%$)"
  INTEL_LEDGER_FIELDED_NAVY_MANPOWER_TOOLTIP: "  Námořnictvo: $VALUE|H$"

@@ -1,0 +1,128 @@
+﻿l_polish:
+ ROM_harvest_excellent: "Bohatá sklizeň" # todo: NEW TRANSLATION
+ ROM_harvest_good: "Dobrá sklizeň" # todo: NEW TRANSLATION
+ ROM_harvest_bad: "Špatná sklizeň" # todo: NEW TRANSLATION
+ ROM_harvest_terrible: "Sucho a nedostatek" # todo: NEW TRANSLATION
+ ROM_imported_romanian_harvest: "Dovezená rumunská sklizeň" # todo: NEW TRANSLATION
+ ROM_imported_romanian_harvest_desc: "Příliv rumunských zemědělských produktů dočasně ulevil našemu zásobování a zlepšil morálku našeho lidu." # todo: NEW TRANSLATION
+ ROM_vrancea_earthquake_relief: "Pomoc po zemětřesení" # todo: NEW TRANSLATION
+ ROM_vrancea_earthquake_relief_desc: "Zničující zemětřesení ve Vrancei vážně poškodilo naši infrastrukturu. Státní prostředky a civilní továrny jsou nyní využívány na naléhavé záchranné operace a obnovu klíčových staveb." # todo: NEW TRANSLATION
+ ROM_tax_reforms: "Daňové reformy" # todo: NEW TRANSLATION
+ ROM_the_polish_romanian_alliance: "Polsko-rumunská aliance" # todo: NEW TRANSLATION
+ ROM_the_polish_romanian_alliance_desc: "Polsko-rumunská aliance z roku 1921 umožňuje oběma zemím povolat se navzájem do obranné války na svých východních hranicích, které shodou okolností sousedí se zemí [SOV.GetNameDef]." # todo: NEW TRANSLATION
+ ROM_the_polish_romanian_alliance_tt: "§gVe stavu obranné války proti [SOV.GetNameDef]:\n  Odemkne rozhodnutí:§!§Y $ROM_activate_polish_romanian_alliance$§!" # todo: NEW TRANSLATION
+ ROM_anti_extremist_measures: "Protiextremistická opatření" # todo: NEW TRANSLATION
+ ROM_armed_forces: "Rumunské ozbrojené síly" # todo: NEW TRANSLATION
+ ROM_armed_forces_desc: "Armádu, kterou jsme vytvořili po druhé balkánské válce a Velké válce, důkladně přezkoumala v roce 1935 Nejvyšší rada národní obrany. Nyní je na vládě, aby určila, kterým zjištěným problémům a možnostem dá přednost." # todo: NEW TRANSLATION
+ ROM_armed_forces_dynamic_modifier_tt: "Upravit §Y$ROM_armed_forces$§!:" # todo: NEW TRANSLATION
+ ROM_arms_industry_dynamic_modifier_tt: "[ROM_Get_Default_Arms_Industry_Upgrade_Loc]" # todo: NEW TRANSLATION
+ ROM_arms_industry_dynamic_modifier_tt_upgrade: "[ROM_Get_Upgrade_Point_Arms_Industry_Upgrade_Loc]" # todo: NEW TRANSLATION
+ ROM_arms_industry_dynamic_modifier_tt_navy: "[ROM_Get_Navy_Arms_Industry_Upgrade_Loc]" # todo: NEW TRANSLATION
+ ROM_underdeveloped_arms_industry: "Rozvíjející se zbrojní průmysl" # todo: NEW TRANSLATION
+ ROM_underdeveloped_arms_industry_desc: "Naše armáda je silně závislá na dováženém vybavení a i ta skromná domácí výroba často závisí na licencích. Průmysloví giganti země začínají rozšiřovat výrobu o zbraně a vláda pomohla založit výrobce, jako je IAR, ale stále to zdaleka nestačí." # todo: NEW TRANSLATION
+ ROM_underdeveloped_arms_industry_dynamic_modifier_tt: "Upravit §Y$ROM_underdeveloped_arms_industry$§!:" # todo: NEW TRANSLATION
+ ROM_underdeveloped_arms_industry_no_navy: "$ROM_underdeveloped_arms_industry$" # todo: NEW TRANSLATION
+ ROM_replace_ROM_underdeveloped_arms_industry_tt: "Nahradit §Y$ROM_underdeveloped_arms_industry$§! za §Y$ROM_developing_arms_industry$§!\nVýsledná změna:" # todo: NEW TRANSLATION
+ ROM_developing_arms_industry: "Rostoucí zbrojní průmysl" # todo: NEW TRANSLATION
+ ROM_developing_arms_industry_dynamic_modifier_tt: "Upravit §Y$ROM_developing_arms_industry$§!:" # todo: NEW TRANSLATION
+ ROM_developing_arms_industry_no_navy: "$ROM_developing_arms_industry$" # todo: NEW TRANSLATION
+ ROM_replace_ROM_developing_arms_industry_tt: "Nahradit §Y$ROM_developing_arms_industry$§! za §Y$ROM_developed_arms_industry$§!\nVýsledná změna:" # todo: NEW TRANSLATION
+ ROM_developed_arms_industry: "Konkurenceschopný zbrojní průmysl" # todo: NEW TRANSLATION
+ ROM_developed_arms_industry_dynamic_modifier_tt: "Upravit §Y$ROM_developed_arms_industry$§!:" # todo: NEW TRANSLATION
+ ROM_flawed_democracy_dm: "$ROM_a_flawed_democracy$" # todo: NEW TRANSLATION
+ ROM_flawed_democracy_dm_tt: "Upravit §Y$ROM_a_flawed_democracy$§!:" # todo: NEW TRANSLATION
+ ROM_democratic_constitution_dm: "Demokratizovaná ústava" # todo: NEW TRANSLATION
+ ROM_democratic_constitution_dm_tt: "Upravit účinky budoucího §Y$ROM_democratic_constitution_dm$§!:" # todo: NEW TRANSLATION
+ ROM_breadbasket_of_europe_idea_modifier_tt: "Upravit §Y$ROM_breadbasket_of_europe_idea$§!:" # todo: NEW TRANSLATION
+ ROM_the_sentinels: "Strážci" # todo: NEW TRANSLATION
+ ROM_balkan_industry: "Balkánští průmyslníci" # todo: NEW TRANSLATION
+ ROM_balkan_industry_dynamic_modifier_tt: "Upravit §Y$ROM_balkan_industry$§!:" # todo: NEW TRANSLATION
+ ROM_anti_hungarian_operation_plans: "Plány operací proti [HUN.GetAdjective]" # todo: NEW TRANSLATION
+ ROM_anti_soviet_operation_plans: "Plány operací proti [SOV.GetAdjective]" # todo: NEW TRANSLATION
+ ROM_navy_fund: "Fond pro investice do námořnictva" # todo: NEW TRANSLATION
+ ROM_fake_naval_modifiers: "§Y$ship_hull_light$§!:\n   £GFX_production_cost Výrobní náklady:    §R+5.00%§!\n§Y$submarine$§!:\n   £GFX_production_cost Výrobní náklady:    §R+5.00%§!\n§Y$ship_hull_cruiser$§!:\n   £GFX_production_cost Výrobní náklady:    §R+10.00%§!\n§Y$ship_hull_heavy$§!:\n   £GFX_production_cost Výrobní náklady:    §R+20.00%§!" # todo: NEW TRANSLATION
+ ROM_fake_naval_modifiers_removal: "§Y$ship_hull_light$§!:\n   £GFX_production_cost Výrobní náklady:    §G-5.00%§!\n§Y$submarine$§!:\n   £GFX_production_cost Výrobní náklady:    §G-5.00%§!\n§Y$ship_hull_cruiser$§!:\n   £GFX_production_cost Výrobní náklady:    §G-10.00%§!\n§Y$ship_hull_heavy$§!:\n   £GFX_production_cost Výrobní náklady:    §G-20.00%§!" # todo: NEW TRANSLATION
+ ROM_river_fleet_idea: "Rozsáhlé říční loďstvo" # todo: NEW TRANSLATION
+ ROM_river_fleet_idea_bonus_tt: "Všechny pěší jednotky:\n §Y-Řeka:§!\n Pohyb: §G+5%§!\n Útok: §G+5%§!\n Obrana: §G+10%§!" # todo: NEW TRANSLATION
+ ROM_naval_doctrine_experimentation: "Experimentování s námořní doktrínou" # todo: NEW TRANSLATION
+ ROM_military_modernization_program: "Program modernizace armády" # todo: NEW TRANSLATION
+ remove_spirit_effect: "Když je §Ynárodní duch§! §Yodstraněn§!:" # todo: NEW TRANSLATION
+ ROM_military_modernization_program_modifier_tt: "\n$remove_spirit_effect$\n$ROM_armed_forces_dynamic_modifier_tt$\n $theorist_cost_factor_tt$ §G-50%§!\n $land_mastery_gain_factor_tt$ §G+10%§!" # todo: NEW TRANSLATION
+ ROM_mechanization_effort: "Snaha o mechanizaci" # todo: NEW TRANSLATION
+ ROM_motorization_effort: "Snaha o motorizaci" # todo: NEW TRANSLATION
+ ROM_infrastructure_investment: "Investice do infrastruktury" # todo: NEW TRANSLATION
+ ROM_german_economic_retaliation: "Ekonomická odveta [GER.GetAdjective]" # todo: NEW TRANSLATION
+ ROM_treaty_of_moscow: "Smlouva z [SOV.capital.GetCapitalVictoryPointName]" # todo: NEW TRANSLATION
+ ROM_local_development_idea: "Místní rozvoj" # todo: NEW TRANSLATION
+ ROM_appease_the_farmers_idea: "Uklidnění rolníků" # todo: NEW TRANSLATION
+ ROM_reclaim_bessarabia: "Znovuzískání Besarábie" # todo: NEW TRANSLATION
+ ROM_reclaim_transylvania: "Znovuzískání Transylvánie" # todo: NEW TRANSLATION
+ ROM_scouts_of_romania: "Rumunští skauti" # todo: NEW TRANSLATION
+ ROM_carlist_purge_idea: "Čistka karlistů" # todo: NEW TRANSLATION
+ ROM_iron_guard_anti_monarchy_idea: "Železná garda" # todo: NEW TRANSLATION
+ ROM_anti_iron_guard_riots: "Protilegionářské nepokoje" # todo: NEW TRANSLATION
+ ROM_seizure_of_royalist_assets_idea: "Zabavený majetek monarchistů" # todo: NEW TRANSLATION
+ ROM_expanded_clerical_authority_idea: "Rozšířená pravomoc duchovenstva" # todo: NEW TRANSLATION
+ ROM_protector_of_the_orthodox: "Ochránce pravoslavných" # todo: NEW TRANSLATION
+ ROM_communist_militias: "Komunistické milice" # todo: NEW TRANSLATION
+ ROM_monarchist_paramilitaries: "Monarchistické polovojenské oddíly" # todo: NEW TRANSLATION
+ ROM_pro_democratic_rebels: "Prod demokratické povstání" # todo: NEW TRANSLATION
+ ROM_the_war_in_the_east_idea: "Válka na východě" # todo: NEW TRANSLATION
+ ROM_the_final_stand: "Poslední odpor" # todo: NEW TRANSLATION
+ ROM_second_treaty_of_moscow: "Druhá moskevská smlouva" # todo: NEW TRANSLATION
+ ROM_king_carol_spirit: "Král Karel II." # todo: NEW TRANSLATION
+ ROM_neutrality_trade_treaty_arms_market_tt: "Umožní obchod se zbraněmi se zemí §Y[SOV.GetNameDef]§!" # todo: NEW TRANSLATION
+ ROM_bucharest_pact_spirit: "Bukurešťský pakt" # todo: NEW TRANSLATION
+ ROM_bucharest_pact_spirit_desc: "Národy tohoto paktu, sjednocené pod rumunským vedením, jsou pevně zakotveny a připraveny bránit svá domovská území před jakoukoli radikální invazí." # todo: NEW TRANSLATION
+ ROM_royal_shield_idea: "Královský štít" # todo: NEW TRANSLATION
+ ROM_royal_shield_idea_desc: "Královské ozbrojené síly, zuřivě protikomunistické i protifašistické, pohání horlivá touha rozdrtit extremismus, ať se objeví kdekoli." # todo: NEW TRANSLATION
+ generic_mio_trait_diversified_tank_designer: "Rozšíření výroby o konstrukci tanků" # todo: NEW TRANSLATION
+ ROM_mio_trait_american_advisors: "Američtí poradci" # todo: NEW TRANSLATION
+ generic_mio_trait_license_production_focus: "Zaměření na licenční výrobu" # todo: NEW TRANSLATION
+ generic_mio_trait_economical_armor_placement: "Úsporné rozmístění pancéřování" # todo: NEW TRANSLATION
+ generic_mio_trait_improved_ammo_stowage: "Vylepšené uložení munice" # todo: NEW TRANSLATION
+ ROM_tax_exemption_modifier: "Cílené daňové úlevy" # todo: NEW TRANSLATION
+ ROM_breadbasket_of_europe_idea: "Evropská obilnice" # todo: NEW TRANSLATION
+ ROM_breadbasket_of_europe_idea_modifier: "Evropská obilnice" # todo: NEW TRANSLATION
+ ROM_international_relations: "Mezinárodní vztahy" # todo: NEW TRANSLATION
+ ROM_trade_agreement: "Obchodní dohoda mezi [ROOT.GetAdjective] a [ROM.GetAdjective]" # todo: NEW TRANSLATION
+ ROM_communal_farms: "Komunální farmy" # todo: NEW TRANSLATION
+ ROM_modernized_farms: "Modernizované farmy" # todo: NEW TRANSLATION
+ ROM_church_opposition_to_communists: "Odpor církve vůči komunistům" # todo: NEW TRANSLATION
+ ROM_church_opposition_to_communists_desc: "Vzhledem k převážně venkovské společnosti se politické myšlenky v [ROOT.GetNonIdeologyName] jen obtížně šíří z města do města. Výjimkou z této relativní izolace je církev, která má svého zástupce téměř v každém městě a dokonce i v mnoha menších vesnicích. Otevřený odpor vůči církvi by znamenal politickou sebevraždu, protože místní kněz bývá někdy nejdůvěryhodnější osobou v obci." # todo: NEW TRANSLATION
+ ROM_church_opposition_to_communists_2: "Nedůvěra církve vůči komunistům" # todo: NEW TRANSLATION
+ ROM_church_opposition_to_communists_2_desc: "$ROM_church_opposition_to_communists_desc$" # todo: NEW TRANSLATION
+ ROM_border_infrastructure: "Společný projekt pohraniční infrastruktury" # todo: NEW TRANSLATION
+ ROM_housing_investment: "Rostoucí urbanizace" # todo: NEW TRANSLATION
+ ROM_government_infighting: "Vnitřní spory ve vládě" # todo: NEW TRANSLATION
+ ROM_erased_bourgeoisie_reserves: "Reforma leu" # todo: NEW TRANSLATION
+ ROM_joint_fort_program: "Iniciativa [ROM.GetAdjective] na výstavbu opevnění" # todo: NEW TRANSLATION
+ ROM_agitated_farmers: "Nespokojení rolníci" # todo: NEW TRANSLATION
+ ROM_five_year_plan_spirit: "Pětiletý plán [ROOT.GetAdjective]" # todo: NEW TRANSLATION
+ ROM_reservists_deployed: "Nasazení záložníci" # todo: NEW TRANSLATION
+ ROM_reservists_deployed_dynamic_modifier_tt: "Upravit §Y$ROM_reservists_deployed$§! o:" # todo: NEW TRANSLATION
+ ROM_reservists_deployed_dynamic_modifier_tt_2: "Tento modifikátor se aktivuje až po nasazení milice a bude znovu odstraněn při její demobilizaci" # todo: NEW TRANSLATION
+ ROM_soviet_influence_idea: "Sovětský nátlak" # todo: NEW TRANSLATION
+ ROM_soviet_influence_idea_tt: "Rozhněvání [SOV.GetNameDef] může vést k tomu, že budou požadovat změnu kurzu. Odmítnutí jim poskytne válečný cíl a pokud vstoupíme do jejich frakce, vyloučí nás z ní." # todo: NEW TRANSLATION
+ ROM_industrial_subsidies: "Průmyslové dotace" # todo: NEW TRANSLATION
+ SSI_duties_expanded: "Rozšířené povinnosti SSI" # todo: NEW TRANSLATION
+ ROM_womens_suffrage: "$PHI_universal_sufferage$" # todo: NEW TRANSLATION
+ ROM_allied_investments: "Zahraniční investice" # todo: NEW TRANSLATION
+ ROM_supervised_government_buff: "Dohled nad vládou [ROM.GetAdjective]" # todo: NEW TRANSLATION
+ ROM_defender_of_the_balkans: "Obránce Balkánu" # todo: NEW TRANSLATION
+ ROM_czech_weapons_industry_aid: "Pomoc [CZE.GetAdjective] zbrojnímu průmyslu" # todo: NEW TRANSLATION
+ ROM_corruption_investigations: "Vyšetřování korupce" # todo: NEW TRANSLATION
+ ROM_regional_autonomy: "Regionální autonomie" # todo: NEW TRANSLATION
+ ROM_relation_with_THIS: "\n\nV současnosti máme s [THIS.GetNonIdeologyName] úroveň spolupráce [THIS.GetRomaniaRelation]" # todo: NEW TRANSLATION
+ ROM_relation_with_THIS_max: "\n\nNaši spolupráci můžeme zvýšit až na úroveň §GV§!" # todo: NEW TRANSLATION
+ ROM_relation_with_romania_2: "Hospodářská spolupráce s Rumunskem" # todo: NEW TRANSLATION
+ ROM_relation_with_romania_3: "$ROM_relation_with_romania_2$" # todo: NEW TRANSLATION
+ ROM_relation_with_romania_4: "$ROM_relation_with_romania_2$" # todo: NEW TRANSLATION
+ ROM_relation_with_romania_5: "$ROM_relation_with_romania_2$" # todo: NEW TRANSLATION
+ ROM_Malaxa_industrial: "Uzinele MALAXA" # todo: NEW TRANSLATION
+ ROM_CFR: "Caile Ferate Romane" # todo: NEW TRANSLATION
+ ROM_creditul_carbonifer: "Societatea Creditul Carbonifer" # todo: NEW TRANSLATION
+ ROM_atelier_flesch_arad: "Atelier Flesch Arad" # todo: NEW TRANSLATION
+ ROM_sonametan: "SONAMETAN" # todo: NEW TRANSLATION
+ ROM_astra_works_organization: "Závody Astra" # todo: NEW TRANSLATION
+ ROM_malaxa_organization_2: "MALAXA Brasov" # todo: NEW TRANSLATION

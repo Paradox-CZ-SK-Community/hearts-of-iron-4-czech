@@ -1061,7 +1061,7 @@
  STATE_870: "Pilbara-Kimberley"
  STATE_871: "Esperance-Goldfields"
  STATE_872: "Severní Queensland"
- STATE_873: "Channel Country"
+ STATE_873: "Channel Country" # todo: TERMINOLOGY Country -> země
  STATE_874: "Magadan"
  STATE_875: "Čukotský poloostrov"
  STATE_876: "Udačnyj"
@@ -1311,7 +1311,7 @@
  STATE_1073: "Vnitrozemská Papua"
  STATE_1074: "Gibsonova poušť"
  STATE_1075: "Západní Queensland"
- STATE_1076: "Bangkok"
+ STATE_1076: "Bangkok" # todo: TERMINOLOGY State -> stát
  STATE_1077: "Střední Siam"
  STATE_1078: "Východní Siam"
  STATE_1079: "Auckland"
