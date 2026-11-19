@@ -278,7 +278,7 @@
  GER_atlantikwall: "Atlantikwall"
  GER_atlantikwall_desc: "Nyní, když jsme dobyli západní Evropu, musíme se opevnit proti možnému útoku zpoza Atlantiku. Rozsáhlá síť opevnění podél evropských břehů by nám měla poskytnout dostatečnou ochranu."
  atlantikwall_tooltip: "Umístěte §Ypobřežní pevnosti§! v každém z následujících atlantických pobřežních států, které plně ovládáte:\n"
- atlantikwall_tooltip_2: "§YAquitaine§!\n§YPoitou§!\n§YLoire§!\n§YBrittany§!\n§YNormandy§!\n§YPas de Calais§!\n§YVlaanderen§!\n§YHolland§!\n§YFriesland§!\n§YWeser-Ems§!\n§YHannover§!\n§YSchleswig-Holstein§!\n§YJutland§!\n§YOstlandet§!\n§YVestlandet§!\n§YTrondelag§!\n§YNord-Norge§!\n" # todo: ENGLISH TEXT aquitaine, brittany, calais, friesland, holland, loire, normandy, poitou, vlaanderen, weser
+ atlantikwall_tooltip_2: "§YAquitaine§!\n§YPoitou§!\n§YLoire§!\n§YBrittany§!\n§YNormandy§!\n§YPas de Calais§!\n§YVlaanderen§!\n§YHolland§!\n§YFriesland§!\n§YWeser-Ems§!\n§YHannover§!\n§YSchleswig-Holstein§!\n§YJutland§!\n§YOstlandet§!\n§YVestlandet§!\n§YTrondelag§!\n§YNord-Norge§!\n"
  GER_ostwall: "Ostwall"
  GER_ostwall_desc: "Navzdory našim úspěchům na východě musíme zajistit, abychom v případě nepříznivého vývoje dokázali zadržet postup nepřítele. Měli bychom vybudovat linii opevnění, Panther-Wotan stellung, podél řeky Dněpr od Černého moře až k Baltu."
  GER_ostwall_forts: "Umístit §YPohraniční pevnosti§! podél řeky Dněpr k Baltskému moři, ve všech následujících státech, které jsou plně ovládány vaší frakcí:\n"
@@ -1182,7 +1182,7 @@
  ENG_LIMITED_REARMAMENT_HISTORICAL: "Nedávná vzedmutí Německa a dalších fašistických mocností ve světě naznačují, že se v naší době nemusíme těšit z míru. V rámci příprav bychom měli začít připravovat podklady pro naše vlastní přezbrojení, pokud se situace ještě zhorší."
  ENG_LIMITED_REARMAMENT_AHISTORICAL: "Náš nový přístup k domácí politice a mezinárodním vztahům vyžaduje zdravou armádu, která jej podpoří. V rámci příprav bychom měli začít rozšiřovat náš civilní průmysl, aby mohl včas vytvořit stabilní základ pro budoucí rozšíření našeho vojenského průmyslu."
  ENG_motorized_focus: "Motorizovaná armáda"
- ENG_motorized_focus_desc: "Armáda v poslední době experimentuje s plně motorizovanými pěšími jednotkami. Zatím nevytvořila žádnou plně motorizovanou divizi, ale při správném vyjádření ministra války by to mohlo být brzy možné." # todo: TERMINOLOGY State -> stát
+ ENG_motorized_focus_desc: "Armáda v poslední době experimentuje s plně motorizovanými pěšími jednotkami. Zatím nevytvořila žádnou plně motorizovanou divizi, ale při správném vyjádření ministra války by to mohlo být brzy možné."
  ENG_tank_focus: "[Root.GetRoyalTankRegimentName]"
  ENG_tank_focus_desc: "[Root.GetRoyalTankRegimentDesc]"
  ENG_ROYAL_TANK_REGIMENT_NAME_HISTORICAL: "Královský tankový pluk"
@@ -1902,8 +1902,8 @@
  NZL_maori_affairs_act_desc: "Velká část půdy ve vlastnictví Maorů je ekonomicky neproduktivní. Pokud se nám podaří ji zkonsolidovat a dostat více pod kontrolu vlády, můžeme z těchto neúrodných míst vytvořit plodná místa pro průmysl a obchod."
  NZL_social_security_act: "Zákon o sociálním zabezpečení"
  NZL_social_security_act_desc: "O nezaměstnané na Novém Zélandu je třeba se postarat do doby, než se ekonomika zotaví a bude k dispozici více pracovních míst. V roce 1935 jsme začali s vánočními prémiemi, ale nastal čas pro řádnou sociální záchrannou síť pro všechny občany."
- NZL_the_manpower_act: "Zákon o pracovní síle" # todo: TERMINOLOGY Manpower -> Personál
- NZL_the_manpower_act_desc: "Od začátku války přicházejí Maorové do měst v hojném počtu. Zákon o pracovní síle nám umožní nasměrovat tuto vlnu do novozélandských továren." # todo: TERMINOLOGY Manpower -> Personál
+ NZL_the_manpower_act: "Zákon o pracovní síle"
+ NZL_the_manpower_act_desc: "Od začátku války přicházejí Maorové do měst v hojném počtu. Zákon o pracovní síle nám umožní nasměrovat tuto vlnu do novozélandských továren."
  NZL_amend_the_maori_affairs_act: "Změnit zákon o Maorech"
  NZL_amend_the_maori_affairs_act_desc: "Musíme změnit zákon o Maorech tak, aby zvýšil produktivitu nedostatečně využívané půdy, ale aby zbytečně nevytlačoval naše maorské spoluobčany."
  NZL_waitangi_tribunal: "Waitangský tribunál"
@@ -2120,7 +2120,7 @@
  continuous_non_factory_construct_desc: "V našem stavebnictví je stále ještě hodně volna. Zaměříme-li na něj svou pozornost, můžeme dosáhnout výrazného zrychlení výstavby. Bohužel výroba obráběcích strojů se ukázala jako hlavní překážka v expanzi našeho těžkého průmyslu, takže jim úsilí v této oblasti neprospěje."
  continuous_reduce_training_time: "Výcvik armády"
  continuous_reduce_training_time_desc: "Vytvořením specializovaných jednotek pokročilého výcviku v rámci každé divize můžeme na frontu nasadit i divize, které by dříve byly drženy v záloze a dokončovaly výcvik."
- continuous_suppression: "Potlačení odporu" # todo: TERMINOLOGY Resistance -> odboj
+ continuous_suppression: "Potlačení odboje"
  continuous_suppression_desc: "Infiltrací hlavních odbojových skupin na okupovaném území a obracením jejich vůdců můžeme výrazně snížit množství škod, které mohou způsobit."
  continuous_repair: "Oprava stavby"
  continuous_repair_desc: "Vytvoříme specializované opravárenské týmy z pracovníků továren a stavebnictví a budeme centrálně řídit jejich nasazení, abychom zlepšili rekonstrukci poškozené infrastruktury."

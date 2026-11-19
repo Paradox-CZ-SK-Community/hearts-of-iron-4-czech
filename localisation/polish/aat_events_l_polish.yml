@@ -767,7 +767,7 @@
  AAT_Sweden_strike.1.desc: "Hrozba potravinové blokády podobné té z doby Velké války vyvolala protesty mezi [SWE.GetAdjective] pracujícími. Nepokoje, podněcované místními radikály, se rozšířily z továren po celé zemi. Musíme situaci stabilizovat a zajistit, aby byla vláda vnímána jako silná a rozhodná autorita v těchto nejistých časech."
  AAT_Sweden_strike.1.a: "V tuto chvíli nemůžeme dělat nic jiného než čekat"
  AAT_Sweden_strike.1.b: "Musíme investovat do posílení morálky obyvatelstva a uklidnit situaci"
- AAT_Sweden_strike.2.t: "Celostátní nepokoje" # todo: TERMINOLOGY Country -> země
+ AAT_Sweden_strike.2.t: "Celostátní nepokoje"
  AAT_Sweden_strike.2.desc: "Naše snahy potlačit protesty bohužel selhaly. Téměř každý tovární dělník, švadlena i dřevař je nyní v ulicích a protestuje proti vládní politice. Situaci dále zhoršuje skutečnost, že mnoho protestů přerůstá v násilí, při němž jsou zraněni civilisté i příslušníci bezpečnostních složek."
  AAT_Sweden_strike.2.a: "Nakonec se uklidní"
  AAT_Sweden_strike.2.b: "Musíme to okamžitě zastavit"
@@ -1143,7 +1143,7 @@
  denmark_overlord_events.21.t: "Nová vláda"
  denmark_overlord_events.21.desc: "Protože nemáme jinou možnost než vyhovět přání našeho suzeréna, musíme nyní sestavit novou vládu."
  denmark_overlord_events.21.a: "Demokracie zdola"
- denmark_overlord_events.21.b: "Za krále a vlast" # todo: TERMINOLOGY Country -> země
+ denmark_overlord_events.21.b: "Za krále a vlast"
  denmark_overlord_events.21.c: "Komunismus bez revoluce"
  denmark_overlord_events.21.d: "Fašismus bez krveprolití"
  denmark_overlord_events.22.t: "Demokracie a svoboda znamenají mnoho voleb"
@@ -1478,7 +1478,7 @@
  denmark_fascist_event.20.b: "Na to nyní nemáme čas."
  denmark_fascist_event.21.t: "[FROM.GetNameDefCap] přijímá náš návrh"
  denmark_fascist_event.21.desc: "Skvělé zprávy! [FROM.GetNameDefCap] souhlasí se vstupem do společného programu sdílení technologií. To znamená, že získáme přístup k jejich technologickým pokrokům, což nám výrazně pomůže při realizaci našich plánů do budoucna."
- denmark_fascist_event.21.a: "Naše armáda bude závistí celé Skandinávie!" # todo: TERMINOLOGY Nordic -> Severský
+ denmark_fascist_event.21.a: "Naše armáda bude chloubou celé Skandinávie!"
  denmark_fascist_event.22.t: "[FROM.GetNameDefCap] odmítá náš návrh"
  denmark_fascist_event.22.desc: "Navzdory našemu zdvořilému přístupu se [FROM.GetAdjective] vláda rozhodla ponechat si své technologie pro sebe. Je to škoda, protože společně bychom dokázali naše technologické schopnosti posunout mnohem dál, než dokážeme nyní."
  denmark_fascist_event.22.a: "Dobrá tedy, nechte si svá tajemství."

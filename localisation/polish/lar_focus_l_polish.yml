@@ -153,7 +153,7 @@
  SPA_facilitate_pyrenees_freight_transports: "Usnadnit přepravu nákladů přes Pyreneje"
  SPA_facilitate_pyrenees_freight_transports_desc: "Dodávky nového materiálu ze severu musí být dále zefektivněny, abychom uspokojili poptávku. Proto rozšíříme železnice vedoucí přes Pyreneje."
  SPA_facilitate_pyrenees_freight_transports_tt: "Přidá maximální §Yinfrastrukturu§! pro §Y$STATE_41$§!, §Y$STATE_793$§!, §Y$STATE_794$§!, §Y$STATE_165$§!, §Y$STATE_176$§! a §Y$STATE_792$§!."
- SPA_improve_cross_country_railways: "Zlepšit celostátní železnice" # todo: TERMINOLOGY Country -> země
+ SPA_improve_cross_country_railways: "Zlepšit celostátní železnice"
  SPA_improve_cross_country_railways_desc: "Rozšíření naší národní železniční sítě nejenže poskytne tolik potřebná pracovní místa, ale také usnadní přesuny vojáků, zásob a stane se bodem národní hrdosti všech Španělů."
  SPA_support_the_war_industry: "Podpořit válečný průmysl"
  SPA_support_the_war_industry_desc: "Dříve než rozšíříme válečný průmysl, musíme nejprve posílit doplňková odvětví, na nichž bude záviset."
@@ -1067,9 +1067,9 @@
  POR_advanced_artillery_desc: "Vyvineme nové dělostřelecké kusy a vycvičíme jednotky v účinnějších metodách palebných příprav a podpory pěchotního postupu."
  POR_military_research_facilities: "Vojenská výzkumná zařízení"
  POR_military_research_facilities_desc: "Naše snahy o zlepšení zbrojního průmyslu musí doprovázet odpovídající investice do výzkumu, chceme-li udržet moderní a schopnou armádu."
- POR_armor_focus: "Důraz na obrněnou techniku" # todo: TERMINOLOGY Focus -> Zaměření
+ POR_armor_focus: "Důraz na obrněnou techniku"
  POR_armor_focus_desc: "Abychom ovládli bojiště, potřebujeme nejlepší válečné stroje. Musíme rozšířit kapacity pro výrobu obrněných vozidel a investovat do dalšího výzkumu."
- POR_mechanized_focus: "Důraz na mechanizované jednotky" # todo: TERMINOLOGY Focus -> Zaměření
+ POR_mechanized_focus: "Důraz na mechanizované jednotky"
  POR_mechanized_focus_desc: "Mechanizovaná vozidla chrání pěchotu pod nepřátelskou palbou lépe než jiná kola. Výzkum a výroba tohoto typu vozidel může být klíčová."
  POR_light_aircraft_focus: "Důraz na lehké letectvo"
  POR_light_aircraft_focus_desc: "Letectví se neustále vyvíjí a my musíme rozvíjet odpovídající letecký průmysl na podporu naší armády."
@@ -1099,7 +1099,7 @@
  POR_air_naval_research: "Výzkum námořního letectví"
  POR_air_naval_research_desc: "Musíme shromáždit naše nejlepší piloty a námořní důstojníky, abychom vymysleli nové způsoby koordinace našeho rostoucího letectva a námořnictva."
  POR_arsenal_do_alfeite: "Arsenal do Alfeite"
- POR_arsenal_do_alfeite_desc: "Naší prioritou je vybudovat silné námořnictvo schopné chránit naši rozlehlou říši. Musíme mít kapacity i know-how ke stavbě větších lodí. Hlavní námořní loděnice v Lisabonu je třeba rozšířit a najmout odborníky na stavbu lodí." # todo: ENGLISH TEXT i know, know
+ POR_arsenal_do_alfeite_desc: "Naší prioritou je vybudovat silné námořnictvo schopné chránit naši rozlehlou říši. Musíme mít kapacity i know-how ke stavbě větších lodí. Hlavní námořní loděnice v Lisabonu je třeba rozšířit a najmout odborníky na stavbu lodí."
  POR_national_cruiser_production: "Národní výroba křižníků"
  POR_national_cruiser_production_desc: "Měli bychom i nadále soustředit úsilí na stavbu velkých lodí. Moderní křižníky dodají našemu námořnictvu značnou palebnou sílu."
  POR_battleship_effort: "Rozvoj bitevních lodí"

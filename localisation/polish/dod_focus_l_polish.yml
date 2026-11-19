@@ -338,7 +338,7 @@
  ROM_local_development: "Místní rozvoj"
  ROM_local_development_desc: "Budeme se spoléhat na domácí rumunský letecký průmysl při výrobě letadel, která potřebujeme."
  ROM_air_superiority: "Vzdušná převaha"
- ROM_air_superiority_desc: "Ovládnutí vzduchu je základním předpokladem pro vojenské operace a právě na tento aspekt letecké války se musíme zaměřit." # todo: TERMINOLOGY Mastery -> Mistrovství
+ ROM_air_superiority_desc: "Ovládnutí vzduchu je základním předpokladem pro vojenské operace a právě na tento aspekt letecké války se musíme zaměřit."
  ROM_strategic_bomber_force: "Strategické bombardování"
  ROM_strategic_bomber_force_desc: "Vojenské operace jsou až druhotné ve srovnání s likvidací nepřátelského průmyslu a infrastruktury. Strategické bombardování je cestou, jak toho dosáhneme."
  ROM_heavy_bombers: "Těžké bombardéry"
@@ -398,7 +398,7 @@
  ROM_torpedo_bombers: "Torpédové bombardéry"
  ROM_torpedo_bombers_desc: "Naši námořní slabost můžeme vykompenzovat tím, že část našich leteckých sil přidělíme k námořním úkolům. To bude vyžadovat nový model letadla schopného nést torpédo."
  ROM_expand_the_marine_regiment: "Rozšíření námořního pluku"
- ROM_expand_the_marine_regiment_desc: "Ovládnutí Černého moře otevírá nové možnosti útoku. Námořní invaze jsou nyní reálnou možností, která vyžaduje vytvoření nových modelů transportních lodí a také specializovaných námořních divizí, které se mohou na tuto formu války specializovat." # todo: TERMINOLOGY Mastery -> Mistrovství
+ ROM_expand_the_marine_regiment_desc: "Ovládnutí Černého moře otevírá nové možnosti útoku. Námořní invaze jsou nyní reálnou možností, která vyžaduje vytvoření nových modelů transportních lodí a také specializovaných námořních divizí, které se mohou na tuto formu války specializovat."
  CZE_fortification_studies: "Studie opevnění"
  CZE_fortification_studies_desc: "Potřeba posílit naše hranice je zřejmá, ale otázkou je jak? Francouzi nedávno vybudovali neuvěřitelnou vlastní opevněnou linii, Maginotovu linii, a vysláním delegace ke studiu jejich metod by mělo být možné vyřešit naše vlastní problémy s obranou hranic."
  CZE_fallback_line: "Vybudovat záložní linie"

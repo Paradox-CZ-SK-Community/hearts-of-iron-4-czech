@@ -61,7 +61,7 @@
  JAP_incorporate_imperial_way_buddhism_decision: "Začlenit buddhismus Císařské cesty"
  JAP_one_people_united_under_shinto_decision: "Jeden lid sjednocený šintoismem"
  JAP_relentless_divine_nationalism_decision: "Vštípit neoblomný božský nacionalismus"
- JAP_state_shinto_in_education_decision: "Šintoismus ve vzdělávání" # todo: TERMINOLOGY State -> stát
+ JAP_state_shinto_in_education_decision: "Šintoismus ve vzdělávání"
  JAP_the_co_prosperity_sphere_decisions: "Společenská sféra vzájemné prosperity"
  JAP_the_co_prosperity_sphere_decisions_desc: "Náš konečný cíl - ovládnout Asii - je na dosah. Vytvořením panasijské unie posílíme vztahy mezi národy, které chceme vést pod svými křídly. Musíme udělat vše, abychom tento sen uskutečnili."
  JAP_hand_mongol_states_to_mengkukuo_decision: "Předat mongolské státy §Y[MEN.GetAdjective]§! administrativě"
@@ -320,7 +320,7 @@
  CHI_accelerate_urban_tutelage_decision: "Urychlit politické poručnictví v §Y[FROM.GetName]§!"
  CHI_accelerate_rural_tutelage_decision: "Urychlit politické poručnictví v §Y[FROM.GetName]§!"
  CHI_develop_warlord_industry_decision: "Rozvíjet sociální systém a veřejné práce ve státě §Y[FROM.GetNameDef]§!"
- CHI_war_of_resistance_cat: "Válka odporu" # todo: TERMINOLOGY Resistance -> odboj
+ CHI_war_of_resistance_cat: "Válka odporu"
  CHI_war_of_resistance_cat_desc: "Nepřítel opět stojí na naší půdě a válka znovu hoří v našich zemích. Musíme povstat. I když nejsme nejmodernější ani nejlépe vybavená armáda světa, máme prostředky k boji — a k vítězství. Zatlačíme je zpátky na polích, v kopcích i v horách."
  CHI_demonstrate_our_resolve_decision: "Prokázat naše odhodlání ve státě §Y[FROM.GetName]§!"
  CHI_demonstrate_our_resolve_decision_tt: "Aktivuje misi k udržení tohoto státu po určitou dobu. Pokud uspějeme, získáme:\n  -[?demonstrate_resolve_cic_reward] §Y$CIC_BANK_HEADER$§!\n  -[?demonstrate_resolve_art_reward] §YDělostřelecké vybavení§!"
@@ -457,7 +457,7 @@
  CHI_invite_free_countries: "Pozvat [FROM.GetName] do aliance $faction_template_wang_front$"
  CHI_set_up_puppet: "Ustanovit loutkovou vládu v [FROM.GetName]"
  CHI_set_up_puppet_tt: "Vytvoří §Y$autonomy_colony$§! v [FROM.GetNameDef]"
- CHI_tsr_renegotiating_with_warlords_cat: "Nové vyjednávání s válečnými vládci" # todo: TERMINOLOGY Warlord -> Militarista
+ CHI_tsr_renegotiating_with_warlords_cat: "Nové vyjednávání s militaristy"
  CHI_renegotiate_with_warlord: "Znovu vyjednávat s §Y[FROM.GetNameDef]§!"
  CHI_asked_for_separate_peace: "[FROM.GetNameDef] již bolo požádané o separátní mír"
  CHI_request_tank_aid_from_russia_decision: "Požádat Rusko o tankovou podporu"
@@ -626,7 +626,7 @@
  decision_cost_CP_25_army_exp_35: "£command_power  §Y25§!  £army_experience §Y35§!"
  decision_cost_CP_25_army_exp_35_blocked: "£command_power  §R25§!  £army_experience §R35§!"
  decision_cost_CP_25_army_exp_35_tooltip: "Rozhodnutí stojí £command_power §Y25§! a £army_experience §Y35§!"
- PHI_sent_away: "Vypovězen pod [USA.GetAdjective] tlakem" # todo: TERMINOLOGY Pressure -> Nátlak
+ PHI_sent_away: "Vypovězen pod [USA.GetAdjective] nátlakem"
  PHI_american_intervention_is_over: "[USA.GetNameDefCap] souhlasily s neintervencí"
  PHI_repeatable_except_delay: "Toto rozhodnutí je opakovatelné, ale §YAmerická trpělivost§! se prodlouží pouze poprvé."
  PHI_integration_category: "Integrace ostrovů Indického a Tichého oceánu"

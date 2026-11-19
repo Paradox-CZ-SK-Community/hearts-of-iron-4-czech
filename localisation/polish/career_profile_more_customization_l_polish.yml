@@ -56,7 +56,7 @@
  CAREER_PROFILE_SWITCHER_FRIENDS: "Přátelé"
  CAREER_PROFILE_VISIBILITY: "Viditelnost profilu"
  CHAT_ERROR_UNKNOWNSLASH: "Neznámý příkaz, zadejte „/help“ nebo „/?“ pro zobrazení příkazů"
- CHAT_ERROR_SPAM: "Odesíláte zprávy příliš rychle. Počkejte několik sekund." # todo: NEW TRANSLATION
+ CHAT_ERROR_SPAM: "Odesíláte zprávy příliš rychle. Počkejte několik sekund."
  CHAT_ERROR_UNKNOWNCHANNELUSER: "Nebylo možné najít uživatele „$NAME$“ v aktuálním kanálu"
  CHAT_SLAP: "Hráč $SECOND$ dostal od hráče $FIRST$ facku malou jadernou bombou"
  CHAT_ERROR_SLAP_MISSINGARG: "Neplatná syntaxe, očekáváno: /slap <uživatelské jméno>"
@@ -149,7 +149,7 @@
  CAREER_PROFILE_THE_TRUCK_WILL_ALWAYS_GET_THROUGH_DESCRIPTION: "Mějte více než 5000 zásobovacích vozidel dodávajících armádám."
  CAREER_PROFILE_THE_TRUCK_WILL_ALWAYS_GET_THROUGH_QUOTE: "„Říkali, že bombardér se vždy dostane skrz. Ale kamiony už tam byly.“\n\n- Neznámý"
  CAREER_PROFILE_MARE_NOSTRUM: "Mare Nostrum"
- CAREER_PROFILE_MARE_NOSTRUM_DESCRIPTION: "Získejte námořní nadvládu ve šesti hlavních mořských oblastech Středozemního moře, z nichž alespoň jedna je sporná." # todo: TERMINOLOGY Naval Dominance -> Námořní převaha
+ CAREER_PROFILE_MARE_NOSTRUM_DESCRIPTION: "Získejte námořní převahu ve šesti hlavních mořských oblastech Středozemního moře, z nichž alespoň jedna je sporná."
  CAREER_PROFILE_MARE_NOSTRUM_QUOTE: "„Když jsem ztratil pušku, armáda mi účtovala 85 dolarů. To je důvod, proč ve námořnictvu jde kapitán ku dnu i s lodí.“\n\n- Dick Gregory"
  CAREER_PROFILE_BLITZ_THIS: "Zblitzuj tohle..."
  CAREER_PROFILE_BLITZ_THIS_DESCRIPTION: "Zvolte elastickou obranu jako preferovanou strategii u generála, maršála nebo celé země."

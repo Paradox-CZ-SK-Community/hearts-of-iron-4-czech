@@ -209,7 +209,7 @@
  SEA_japan_foreign_policy.56.t: "Mandžuští partyzáni spatřeni na východě"
  SEA_japan_foreign_policy.56.desc: "Mandžuští partyzáni byli spatřeni u Bajantümenu a v dalších částech našeho východu. Zatím nejsou horší než běžní bandité, ale časem se stanou skutečným problémem."
  SEA_japan_foreign_policy.56.a: "Teď už jde o všechno - připravte se na nejhorší!"
- SEA_japan_foreign_policy.57.t: "[FROM.GetNameDef] tlačí na naše podrobení" # todo: TERMINOLOGY Pressure -> Nátlak
+ SEA_japan_foreign_policy.57.t: "[FROM.GetNameDef] tlačí na naše podrobení"
  SEA_japan_foreign_policy.57.desc: "Dnes nám [FROM.GetAdjective] vláda předložila ultimátum. Požadují, abychom se jim podrobili, pokud nechceme, aby byla naše země zničena. Víme však, co pro nás chystají - možná je tedy v našem nejlepším zájmu vzdorovat?"
  SEA_japan_foreign_policy.57.a: "Nemůžeme s nimi bojovat"
  SEA_japan_foreign_policy.57.b: "Musíme bránit revoluci!"
@@ -2007,7 +2007,7 @@
  SEA_warlords.57.t: "[FROM.GetLeader] odmítá naši žádost"
  SEA_warlords.57.desc: "Samolibý zrádce [FROM.GetLeader] odmítl naši žádost zřídit vysunuté stanoviště proti Japoncům, jelikož zjevně nemá nejlepší budoucnost Číny na paměti."
  SEA_warlords.57.a: "Jednou tohoto dne budou litovat..."
- SEA_warlords.58.t: "Tlak vlády na podřízení se [XIC.GetNameDef]" # todo: TERMINOLOGY Pressure -> Nátlak
+ SEA_warlords.58.t: "Nátlak vlády na podřízení se [XIC.GetNameDef]"
  SEA_warlords.58.desc: "[XIC.GetNameDef] a [FROM.GetNameDef] nám zasílají společný požadavek, abychom se podřídili jejich novému plánu na předání [608.GetName] a okolních území Mladému maršálovi, který je má využít jako novou předsunutou základnu pro operace proti Japoncům. Zdá se, že mají v úmyslu ukončit naši autonomii — tak či onak..."
  SEA_warlords.58.a: "Dobrá, náš úkol je splněn"
  SEA_warlords.58.b: "Budou muset [608.GetName] dobýt silou!"

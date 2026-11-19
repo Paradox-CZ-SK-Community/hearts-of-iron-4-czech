@@ -119,7 +119,7 @@
  south_american_events.22.t: "[ECU.GetNameDefCap] odmítá naši mírovou nabídku"
  south_american_events.22.desc: "[ECU.GetNameDefCap] reaguje na naše nabídky bílého míru záporně. Za současného stavu nevidí důvod boj ukončit. Nezanechávají nám jinou možnost než pokračovat ve válce."
  south_american_events.22.a: "To není ideální..."
- south_american_events.30.t: "Tlak, ať je [FROM.GetNonIdeologyName] v izolaci" # todo: TERMINOLOGY Pressure -> Nátlak
+ south_american_events.30.t: "Nátlak, ať je [FROM.GetNonIdeologyName] v izolaci"
  south_american_events.30.desc: "Po nedávném svržení [FROM.GetAdjective] vlády komunistickými silami roste po celé zemi tlak na razantní reakci. Média jsou zaplavena přehnanými zprávami o rudé hrozbě a nebezpečí, které [FROM.GetNonIdeologyName] ideologie představuje pro naše zájmy. Mezitím podnikatelé požadují odvetu za své ztracené investice v této zemi.\n\nMusíme jednat rychle, uklidnit veřejnost a vyslat jasný vzkaz, ať i [FROM.GetNonIdeologyName] uvidí, že tahle polokoule komunismus tolerovat nebude."
  south_american_events.30.a: "Ekonomicky a diplomaticky je izolovat."
  south_american_events.30.b: "Přerušit diplomatické styky."

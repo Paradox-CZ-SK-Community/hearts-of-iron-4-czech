@@ -355,7 +355,7 @@
  SOV_diplomacy_balkan_decision_category: "Balkánská diplomacie"
  SOV_diplomacy_middle_east_decision_category: "Blízkovýchodní diplomacie"
  SOV_diplomacy_asia_decision_category: "Diplomacie v Asii"
- SOV_pressure_country_government_baltic: "Tlačit na [FROM.GetAdjective] vládu" # todo: TERMINOLOGY Pressure -> Nátlak
+ SOV_pressure_country_government_baltic: "Tlačit na [FROM.GetAdjective] vládu"
  SOV_pressure_country_government_baltic_desc: "Budeme vyvíjet nátlak na [FROM.GetAdjective] vládu, aby přijala politiku více odpovídající našim zájmům."
  SOV_promote_ideology_rallies_baltic: "Propagovat ideologické mítinky v [FROM.GetNameDef]"
  SOV_promote_ideology_rallies_baltic_desc: "[ROOT.GetAdjectiveCap] agenti uspořádají v [FROM.GetNameDef] politické mítinky k propagaci [ROOT.GetIdeologyNameWithCaps] mezi [FROM.GetAdjective] masami."
@@ -886,7 +886,7 @@
  SOV_behead_the_snake_mission_desc: "[FROM.GetLeader] pracuje na dokončení zaměření $SOV_behead_the_snake$."
  SOV_polish_territory: "Polské území"
  SOV_polish_territory_desc: "Momentálně kontrolujeme velkou část území, které bylo kdysi součástí takzvané Polské republiky. Pokud bychom část z něj vrátili a [POL.capital.GetCapitalVictoryPointName] by byla sídlem námi dosazeného vedení, mohlo by to posloužit jako důkaz, že je s námi výhodné spolupracovat."
- SOV_return_states_to_poland: "Vrátit území [POL.getname]" # todo: TERMINOLOGY State -> stát
+ SOV_return_states_to_poland: "Vrátit území [POL.GetName]"
  SOV_return_states_to_poland_desc: "Jako gesto dobré vůle - a zároveň ukázka, kdo je tu pánem - bychom měli vrátit veškerá území západně od [95.GetCapitalVictoryPointName], na která si činí nárok [POL.getNameDef], zpět do rukou [POL.GetAdjective] loutkového režimu."
  fought_vaps_flag: "Potlačil Vapsy"
  SOV_integrate_czechoslovakia: "Integrovat Československo"

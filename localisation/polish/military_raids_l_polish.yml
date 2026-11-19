@@ -369,7 +369,7 @@
  ENG_raid_category_fluff_text_land_infiltration_raids: "§LLRDG§!"
  USA_raid_category_fluff_text_air_raids: "§LUSAAF§!"
  USA_raid_category_fluff_text_nuclear_raids: "§LStrategic Air Command§!"
- USA_raid_category_fluff_text_naval_commando_raids: "§LU.S. Army Rangers§!" # todo: TERMINOLOGY Ranger -> Hraničář
+ USA_raid_category_fluff_text_naval_commando_raids: "§LU.S. Army Rangers§!"
  USA_raid_category_fluff_text_paratrooper_raids: "§LOffice of Strategic Services§!"
  USA_raid_category_fluff_text_land_infiltration_raids: "§LOffice of Strategic Services§!"
  FRA_raid_category_fluff_text_air_raids: "§LForces Aériennes Françaises§!"

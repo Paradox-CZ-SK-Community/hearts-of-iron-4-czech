@@ -5,7 +5,7 @@
  amphibious: "Obojživelný"
  snow: "Sníh"
  CURRENT_STRENGTH: "Současná bojová síla: $PER|%0H$\n"
- CURRENT_MANPOWER: " - Aktuální síla: $VAL|*H1$ ($PER|%0H$)\n" # todo: TERMINOLOGY Manpower -> Personál
+ CURRENT_MANPOWER: " - Aktuální personál: $VAL|*H1$ ($PER|%0H$)\n"
  CURRENT_EQUIPMENT_RATIO: " - Aktuální poměr vybavení: $PER|%0H$\n"
  CURRENT_ORGANIZATION: "Organizace: $CUR|0Y$/$MAX|0Y$"
  CLICK_NAVY_SEE_DETAILS: "§GKlikněte§! pro zobrazení podrobností."
@@ -52,9 +52,9 @@
  ATTRITION_UPKEEP: "\n - Udržba jednotky: $VALUE|=-1%0$"
  ATTRITION_UPKEEP_MODIFIERS: "\n - Modifikátory údržby jednotky:"
  ATTRITION_TERRAIN: "\n - $TERR|H$: $ATT|=-1%0$"
- ATTRITION_STATE: "\n - Provincie: $ATT|=-1%0$" # todo: TERMINOLOGY State -> stát
+ ATTRITION_STATE: "\n - Provincie: $ATT|=-1%0$"
  ATTRITION_EQUIPMENT: "\n - Vybavení: $ATT|=-1$"
- ATTRITION_STATE_MODIFIERS: "\n - Modifikátory provincie:" # todo: TERMINOLOGY State -> stát
+ ATTRITION_STATE_MODIFIERS: "\n - Modifikátory provincie:"
  ATTRITION_WEATHER_MODIFIERS: "\n - Modifikátory počasí:"
  ATTRITION_LOOSE_EQ_CHANCE: "Šance na ztrátu vybavení:"
  ATTRITION_LOOSE_EQ_ENTRY: "  - $EQ|G$ Očekávané denní ztráty: $CH|Y1$ ($RE|Y1%$ spolehlivost)"
@@ -675,7 +675,7 @@
  rudder_jammed: "Zaseknuté kormidlo"
  ballast_tanks_inoperable: "Nefunkční balastní nádrže"
  damaged_secondaries: "Vedlejší děla vyřazena"
- leaking_pressure_hull: "Netěsný tlakový trup" # todo: TERMINOLOGY Pressure -> Nátlak
+ leaking_pressure_hull: "Netěsný tlakový trup"
  battery_leak: "Netěsná baterie"
  jammed_torpedo: "Zaseknutý torpédomet"
  broken_diesel: "Poškozené dieselové motory"
@@ -744,7 +744,7 @@
  marines_expeditionary_desc: "Koordinované údery těží z lepšího plánování a logistiky. Rozvoj doktríny a podpora těchto uskupení posílí naši sílu."
  marines_expeditionary_blowtorch: "Autogen a vývrtka"
  marines_expeditionary_blowtorch_desc: "Dokonalé spojení námořních, leteckých a speciálních pozemních sil zajistí dobytí jakéhokoli cíle. Tato kombinovaná taktika se stane projevem naší logistické síly."
- marines_expeditionary_support: "Expediční uskupení" # todo: TERMINOLOGY Task Force -> úderná skupina
+ marines_expeditionary_support: "Expediční uskupení"
  marines_expeditionary_support_desc: "Význam spolupráce mezi složkami už nelze přehlížet. Vyčlenění logistických prostředků pro tyto operace nás činí silou, se kterou je třeba počítat."
  marines_commandos_demolition: "Demoliční experti"
  marines_commandos_demolition_desc: "Demolice je umění, které lze dobře využít. Sabotáže nejsou čistá taktika - ale zato účinná."

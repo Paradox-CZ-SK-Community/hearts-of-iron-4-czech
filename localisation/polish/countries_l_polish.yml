@@ -342,8 +342,8 @@
  ITA_subject_DEF: "$OVERLORDADJ$ Itálie"
  ROM_fascism: "Legionářské Rumunsko"
  ROM_fascism_DEF: "Legionářské Rumunsko"
- ROM_democratic: "Rumunské království" # todo: CHANGED (predtym: Rumunsko)
- ROM_democratic_DEF: "Království Rumunsko"
+ ROM_democratic: "Rumunsko"
+ ROM_democratic_DEF: "Rumunsko"
  ROM_neutrality: "Království Rumunsko"
  ROM_neutrality_DEF: "Království Rumunsko"
  ROM_communism: "Socialistická republika Rumunsko"
@@ -412,7 +412,7 @@
  TUR_ADJ: "tur."
  TUR_subject: "$OVERLORDADJ$ $TUR$"
  TUR_subject_DEF: "$OVERLORDADJ$ $TUR$"
- GRE_fascism: "Helénská říše" # todo: TERMINOLOGY State -> stát
+ GRE_fascism: "Helénská říše"
  GRE_fascism_DEF: "Helénská říše"
  GRE_democratic: "Helénská republika"
  GRE_democratic_DEF: "Helénská republika"
@@ -1259,7 +1259,7 @@
  SLO_fascism_DEF: "Slovenský stát"
  SLO_democratic: "Slovenská republika"
  SLO_democratic_DEF: "Slovenská republika"
- SLO_neutrality: "Svobodné Slovensko" # todo: TERMINOLOGY State -> stát
+ SLO_neutrality: "Svobodné Slovensko"
  SLO_neutrality_DEF: "Svobodné Slovensko"
  SLO_communism: "Slovenská socialistická republika"
  SLO_communism_DEF: "Slovenská socialistická republika"
@@ -1466,7 +1466,7 @@
  SYR_democratic_DEF: "Sýrie"
  SYR_neutrality: "Syrské království"
  SYR_neutrality_DEF: "Syrské království"
- SYR_communism: "Socialistická Sýrie" # todo: TERMINOLOGY State -> stát
+ SYR_communism: "Socialistická Sýrie"
  SYR_communism_DEF: "Socialistická Sýrie"
  SYR_fascism_ADJ: "syr."
  SYR_democratic_ADJ: "syr."
@@ -1910,8 +1910,8 @@
  BAH: "Bahamy"
  BAH_DEF: "Bahamy"
  BAH_ADJ: "baham."
- BAN_fascism: "Bengálsko" # todo: TERMINOLOGY State -> stát
- BAN_fascism_DEF: "Bengálsko" # todo: TERMINOLOGY State -> stát
+ BAN_fascism: "Bengálsko"
+ BAN_fascism_DEF: "Bengálsko"
  BAN_democratic: "Bangladéš"
  BAN_democratic_DEF: "Bangladéš"
  BAN_neutrality: "Bangladéšský sultanát"
@@ -2090,7 +2090,7 @@
  PUE: "Portoriko"
  PUE_DEF: "Portoriko"
  PUE_ADJ: "portor."
- QAT_fascism: "Unitární Katar" # todo: TERMINOLOGY State -> stát
+ QAT_fascism: "Unitární Katar"
  QAT_fascism_DEF: "Unitární Katar"
  QAT_democratic: "Katarská republika"
  QAT_democratic_DEF: "Katarská republika"
@@ -2336,7 +2336,7 @@
  TUN_democratic_DEF: "Tuniská republika"
  TUN_neutrality: "Tunisko"
  TUN_neutrality_DEF: "Tunisko"
- TUN_communism: "Komunistické Tunisko" # todo: TERMINOLOGY State -> stát
+ TUN_communism: "Komunistické Tunisko"
  TUN_communism_DEF: "Komunistické Tunisko"
  TUN_fascism_ADJ: "berber."
  TUN_democratic_ADJ: "tunis."
@@ -2636,7 +2636,7 @@
  GHA_democratic_DEF: "Ghanská republika"
  GHA_neutrality: "Ghana"
  GHA_neutrality_DEF: "Ghana"
- GHA_communism: "Socialistická Ghana" # todo: TERMINOLOGY State -> stát
+ GHA_communism: "Socialistická Ghana"
  GHA_communism_DEF: "Socialistická Ghana"
  GHA_fascism_ADJ: "ghan."
  GHA_democratic_ADJ: "ghan."
@@ -2705,7 +2705,7 @@
  SIE: "Sierra Leone"
  SIE_DEF: "Sierra Leone"
  SIE_ADJ: "sieraleon."
- GNA_fascism: "Svrchovaná Guinea" # todo: TERMINOLOGY State -> stát
+ GNA_fascism: "Svrchovaná Guinea"
  GNA_fascism_DEF: "Svrchovaná Guinea"
  GNA_democratic: "Guinejská republika"
  GNA_democratic_DEF: "Guinejská republika"
@@ -2724,7 +2724,7 @@
  GNB_fascism_DEF: "Diktátorská Guinea-Bissau"
  GNB_democratic: "Republika Guinea-Bissau"
  GNB_democratic_DEF: "Republika Guinea-Bissau"
- GNB_neutrality: "Konstituční Guinea-Bissau" # todo: TERMINOLOGY State -> stát
+ GNB_neutrality: "Konstituční Guinea-Bissau"
  GNB_neutrality_DEF: "Konstituční Guinea-Bissau"
  GNB_communism: "Guinea-Bissau"
  GNB_communism_DEF: "Guinea-Bissau"
@@ -2814,8 +2814,8 @@
  NMB_fascism_DEF: "Namibská říše"
  NMB_democratic: "Namibie"
  NMB_democratic_DEF: "Namibie"
- NMB_neutrality: "Jihozápadní Afrika" # todo: TERMINOLOGY State -> stát
- NMB_neutrality_DEF: "Jihozápadní Afrika" # todo: TERMINOLOGY State -> stát
+ NMB_neutrality: "Jihozápadní Afrika"
+ NMB_neutrality_DEF: "Jihozápadní Afrika"
  NMB_communism: "Namibijská lidově demokratická republika"
  NMB_communism_DEF: "Namibijská lidově demokratická republika"
  NMB_fascism_ADJ: "namibij."
@@ -2948,7 +2948,7 @@
  SOL: "Šalamounovy ostrovy"
  SOL_DEF: "Šalamounovy ostrovy"
  SOL_ADJ: "šalam."
- SAM_democratic: "Nezávislá Samoa" # todo: TERMINOLOGY State -> stát
+ SAM_democratic: "Nezávislá Samoa"
  SAM_democratic_DEF: "Nezávislá Samoa"
  SAM_democratic_ADJ: "samoán."
  SAM_communism: "Samoanská lidová republika"
@@ -3123,7 +3123,7 @@
  SPD_ADJ: "španěl."
  NAV_fascism: "Baskonia"
  NAV_fascism_DEF: "Baskonia"
- NAV_democratic: "Baskicko" # todo: TERMINOLOGY Country -> země
+ NAV_democratic: "Baskicko"
  NAV_democratic_DEF: "Baskicko"
  NAV_neutrality: "Království Navarra"
  NAV_neutrality_DEF: "Království Navarra"
@@ -3133,7 +3133,7 @@
  NAV_democratic_ADJ: "bask."
  NAV_neutrality_ADJ: "navarr."
  NAV_communism_ADJ: "bask."
- NAV: "Baskicko" # todo: TERMINOLOGY Country -> země
+ NAV: "Baskicko"
  NAV_DEF: "Baskicko"
  NAV_ADJ: "bask."
  CAT_fascism: "Katalánský stát"
@@ -3290,7 +3290,7 @@
  BRI_fascism_DEF: "Národní republika Bretaň"
  BRI_democratic: "Bretaňská svobodná republika"
  BRI_democratic_DEF: "Bretaňská svobodná republika"
- BRI_communism: "Socialistická Bretaň" # todo: TERMINOLOGY State -> stát
+ BRI_communism: "Socialistická Bretaň"
  BRI_communism_DEF: "Socialistická Bretaň"
  BRI: "Bretaň"
  BRI_DEF: "Bretaň"
@@ -3773,7 +3773,7 @@
  KOM_SOV_communism_subject: "Komi ASSR"
  KOM_SOV_communism_subject_DEF: "Komi autonomní SSR"
  KOM_SOV_communism_subject_ADJ: "komij."
- ABK_fascism: "Pravoslavní Abcházie" # todo: TERMINOLOGY State -> stát
+ ABK_fascism: "Pravoslavní Abcházie"
  ABK_fascism_DEF: "Pravoslavní Abcházie"
  ABK_democratic: "Abcházie"
  ABK_democratic_DEF: "Abcházie"
@@ -4082,13 +4082,13 @@
  KHA_communism_ADJ: "chak."
  KHA_neutrality_ADJ: "chak."
  AOI: "Africa Orientale Italiana"
- AOI_fascism: "Italská Východní Afrika" # todo: TERMINOLOGY State -> stát
+ AOI_fascism: "Italská Východní Afrika"
  AOI_fascism_DEF: "Italská Východní Afrika"
  AOI_democratic: "Italo-etiopská federace"
  AOI_democratic_DEF: "Italo-etiopská federace"
  AOI_communism: "Východoafrická komuna"
  AOI_communism_DEF: "Východoafrická komuna"
- AOI_neutrality: "Italo-etiopská Východní Afrika" # todo: TERMINOLOGY State -> stát
+ AOI_neutrality: "Italo-etiopská Východní Afrika"
  AOI_neutrality_DEF: "Italo-etiopská Východní Afrika"
  AOI_ITA_fascism_subject: "Italská východní Afrika"
  AOI_ITA_fascism_subject_DEF: "Italská Východní Afrika"
@@ -4323,7 +4323,7 @@
  INU: "Inuité"
  INU_DEF: "Inuité"
  INU_ADJ: "inuit."
- INU_fascism: "Nové Thule" # todo: TERMINOLOGY State -> stát
+ INU_fascism: "Nové Thule"
  INU_fascism_DEF: "Nové Thule"
  INU_fascism_ADJ: "thul."
  INU_democratic: "Federativní inuitské republiky"
@@ -4521,7 +4521,7 @@
  EVE_democratic: "Evenkie"
  EVE_democratic_DEF: "Evenkie"
  EVE_democratic_ADJ: "evenk."
- EVE_neutrality: "Federální Evenkie" # todo: TERMINOLOGY State -> stát
+ EVE_neutrality: "Federální Evenkie"
  EVE_neutrality_DEF: "Federální Evenkie"
  EVE_neutrality_ADJ: "evenk."
  EVE_communism: "Evencká sovětská republika"
@@ -4752,8 +4752,8 @@
  MYS_democratic: "Maisúr"
  MYS_democratic_DEF: "Maisúr"
  MYS_democratic_ADJ: "maisúr."
- MYS_fascism: "Velká Karnátaka" # todo: TERMINOLOGY State -> stát
- MYS_fascism_DEF: "Velká Karnátaka" # todo: TERMINOLOGY State -> stát
+ MYS_fascism: "Velká Karnátaka"
+ MYS_fascism_DEF: "Velká Karnátaka"
  MYS_fascism_ADJ: "karnát."
  MYS_communism: "Rovnostářský Maisúr"
  MYS_communism_DEF: "Rovnostářský Maisúr"
@@ -5343,7 +5343,7 @@
  FOR: "Formosa"
  FOR_DEF: "Formosa"
  FOR_ADJ: "formos."
- TML_fascism: "Nezávislý Timor" # todo: TERMINOLOGY State -> stát
+ TML_fascism: "Nezávislý Timor"
  TML_fascism_DEF: "Nezávislý Timor"
  TML_fascism_ADJ: "timor."
  TML_democratic: "Demokratická republika Východní Timor"
@@ -5692,7 +5692,7 @@
  ATJ_neutrality: "Království Aceh Darussalam"
  ATJ_neutrality_DEF: "Království Aceh Darussalam"
  ATJ_neutrality_ADJ: "acež."
- ATJ_communism: "Revoluční Aceh" # todo: TERMINOLOGY State -> stát
+ ATJ_communism: "Revoluční Aceh"
  ATJ_communism_DEF: "Revoluční Aceh"
  ATJ_communism_ADJ: "acež."
  ATJ: "Aceh"
@@ -5758,7 +5758,7 @@
  TNE: "Ternate"
  TNE_DEF: "Ternate"
  TNE_ADJ: "ternat."
- BOU_fascism: "Melanéský Bougainville" # todo: TERMINOLOGY State -> stát
+ BOU_fascism: "Melanéský Bougainville"
  BOU_fascism_DEF: "Melanéský Bougainville"
  BOU_fascism_ADJ: "bougain."
  BOU_democratic: "Republika Bougainville"

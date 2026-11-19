@@ -69,9 +69,9 @@
  south_pacific_mandate_SUCCEEDED: "Mandát jižního Pacifiku byl opevněn"
  south_pacific_mandate_SUCCEEDED_DESC: "Naši ženisté opevnili ostrovy v Mandátu jižního Pacifiku. Jakýkoli útočník narazí na tuhý odpor."
  demand_indochina_focus: "Vznést požadavek na Francouzskou Indočínu"
- demand_indochina_focus_desc: "Po porážce ve Francii je francouzská kontrola nad zámořskými koloniemi více než chatrná. Přinuťme novou francouzskou vládu, aby poskytla Japonsku plný přístup k základnám v Indočíně. Tento region nám poslouží jako odrazový můstek pro budoucí tažení." # todo: TERMINOLOGY Pressure -> Nátlak
+ demand_indochina_focus_desc: "Po porážce ve Francii je francouzská kontrola nad zámořskými koloniemi více než chatrná. Přinuťme novou francouzskou vládu, aby poskytla Japonsku plný přístup k základnám v Indočíně. Tento region nám poslouží jako odrazový můstek pro budoucí tažení."
  demand_indochina_focus_tt: "France vlastní §YIndočínu§!"
- demand_indochina_focus_short_desc: "§LZatlačte na novou francouzskou vládu, aby se vzdala Indočíny.§!" # todo: TERMINOLOGY Pressure -> Nátlak
+ demand_indochina_focus_short_desc: "§LZatlačte na novou francouzskou vládu, aby se vzdala Indočíny.§!"
  demand_french_indochina_SUCCEEDED: "Požadavky byly odeslány"
  demand_french_indochina_SUCCEEDED_DESC: "Naše jednotky jsou rozmístěny podél hranic Francouzské Indočíny, což jasně ukazuje, že odmítnutí našeho návrhu by mělo vážné následky."
  test_the_ussr_focus: "Posílit sovětskou hranici"

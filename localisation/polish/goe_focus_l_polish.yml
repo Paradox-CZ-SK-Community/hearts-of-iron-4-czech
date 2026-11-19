@@ -298,7 +298,7 @@
  RAJ_indo_centric_curriculum_desc: "[GetRajName] má své vzdělávání dlouho postaveno na [ENG.GetAdjective] světonázoru, co oslabuje naši identitu a redukuje naši historii na příběh podřízenosti. Musíme založit vzdělávací systém na vlastní identitě a učit děti naši historii."
  RAJ_enrollment_of_dali_children: "Zápis dětí dalitů"
  RAJ_enrollment_of_dali_children_desc: "Dalité, takzvaní „nedotknutelní“, nejnižší vrstva kastovního systému, žijí v trvalé chudobě. Tento systém, skvrna na našem národě, lze začít bourat zápisem jejich dětí do škol."
- RAJ_local_resistance_to_land_taxes: "Místní odpor proti pozemkovým daním" # todo: TERMINOLOGY Resistance -> odboj
+ RAJ_local_resistance_to_land_taxes: "Místní odpor proti pozemkovým daním"
  RAJ_local_resistance_to_land_taxes_desc: "Vláda v Dillí je z velké části financována z místních daní. Pokud podnítíme odpor proti jejich placení, ochromíme vládu a zároveň ponecháme větší část bohatství jejím poddaným."
  RAJ_tenancy_reforms: "Reformy nájemního bydlení"
  RAJ_tenancy_reforms_desc: "Bohatí spekulanti ovládají trh s bydlením, zvyšují ceny a snižují životní úroveň obyčejných lidí. Kongres bude důrazně prosazovat nájemní reformy a stanoví strop pro výši nájemného."
@@ -1021,7 +1021,7 @@
  AFG_truck_factory: "Továrna na nákladní vozy Džangalak"
  AFG_truck_factory_desc: "Ve spolupráci s našimi [SOU.GetAdjective] partnery máme možnost vybudovat první velkou továrnu na výrobu vozidel. Vyrobené nákladní automobily by mohly pokrýt domácí poptávku jak v průmyslu, tak v armádě."
  AFG_maintain_quami: "Zachovat Kaumí"
- AFG_maintain_quami_desc: "Systém odvodů Kaumí je po staletí základním kamenem naší obrany. Proč bychom měli zahazovat systém zakořeněný v tradici, který by jeho zrušení prospělo pouze městské elitě v metropoli?" # todo: TERMINOLOGY Resistance -> odboj
+ AFG_maintain_quami_desc: "Systém odvodů Kaumí je po staletí základním kamenem naší obrany. Proč bychom měli zahazovat systém zakořeněný v tradici, který by jeho zrušení prospělo pouze městské elitě v metropoli?"
  AFG_maintain_quami_tt: "§YZachová rozhodnutí $AFG_quami_category$ a schopnost verbovat další nepravidelné divize.§!"
  AFG_quami_intro_tt: "Upravit §Y$AFG_quami_modifier$§! o:"
  AFG_nufus_intro_tt: "Upravit §Y$AFG_nufus_modifier$§! o:"
@@ -1100,7 +1100,7 @@
  AFG_state_industries_tt: "Odemkne rozhodnutí ke zřízení §Yvojenských průmyslových organizací§! a prodlouží časový limit radikalizace absolventů."
  AFG_ideology_on_the_rise_tt: "§R\n\nVelmoci, které mají jinou ideologii než [THIS.GetNameDef], mohou chtít napadnout [ROOT.GetNameDef], pokud jejich vliv nad námi příliš vzroste! (Pokud [THIS.GetIdeologyNameWithCaps] překročí 40 %, ostatní mocnosti nás mohou napadnout!)§!"
  AFG_ideology_on_the_rise_flipped_tt: "§R\n\n[THIS.GetNameDefCap] může chtít zaútočit na [ROOT.GetNameDef], pokud nad námi získá příliš velký vliv jiná země! (Pokud je jiná ideologie než Nezařazená nebo [THIS.GetIdeologyNameWithCaps] vyšší než 40 %, [THIS.GetNameDef] nás může napadnout!)§!"
- AFG_foreign_influence_tt: "Přidá §Y[PREV.GetIdeologyNameWithCaps] na vzestupu§!, který poskytuje (Denní podpora pro [PREV.GetRulingIdeology] ideologii: §G+0.02§!) po dobu §Y365§! dní" # todo: TERMINOLOGY Influence -> Vliv
+ AFG_foreign_influence_tt: "Přidá §Y[PREV.GetIdeologyNameWithCaps] na vzestupu§!, který poskytuje (Denní podpora pro [PREV.GetRulingIdeology] ideologii: §G+0.02§!) po dobu §Y365§! dní"
  AFG_against_kabul: "Proti Kábulu"
  AFG_against_kabul_desc: "Král Záhir a jeho strýcové jsou uzurpátoři trůnu a jejich nelegitimní režim musí být za každou cenu svržen."
  AFG_contact_amanullah_loyalists: "Kontaktovat loajalisty Amanulláha"

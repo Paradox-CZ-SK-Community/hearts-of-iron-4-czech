@@ -95,7 +95,7 @@
  CAREER_PROFILE_TURNING_THE_TIDE_MEDAL: "Obrat ve válce"
  CAREER_PROFILE_TURNING_THE_TIDE_MEDAL_DESCRIPTION: "Během války nasaďte určitý počet divizí v rozmezí 48 hodin. Minimální velikost divize: 5 praporů."
  CAREER_PROFILE_LORD_OF_THE_SEAS_MEDAL: "Pán moří"
- CAREER_PROFILE_LORD_OF_THE_SEAS_MEDAL_DESCRIPTION: "Získejte alespoň 75% námořní nadvlády v určitém počtu sporných námořních oblastí." # todo: TERMINOLOGY Naval Dominance -> Námořní převaha
+ CAREER_PROFILE_LORD_OF_THE_SEAS_MEDAL_DESCRIPTION: "Získejte alespoň 75% námořní převahy v určitém počtu sporných námořních oblastí."
  CAREER_PROFILE_VETERANCY_MEDAL: "Ostřílení veteráni"
  CAREER_PROFILE_VETERANCY_MEDAL_DESCRIPTION: "Mějte v armádě určitý počet veteránských divizí."
  CAREER_PROFILE_SKY_SUPPLIES_MEDAL: "Zásoby z nebes"

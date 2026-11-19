@@ -149,7 +149,7 @@
  alert_resistance_instant: "§HOdboj vůči okupaci!§!"
  alert_resistance_delayed_high_resistance_list: "§HVysoká úroveň odboje v:§!"
  alert_resistance_delayed_countries: "§HZemě:§!"
- alert_resistance_delayed_states: "§HZemě:§!" # todo: TERMINOLOGY State -> stát
+ alert_resistance_delayed_states: "§HZemě:§!"
  alert_outdated_equipment_instant: "§HZastaralé vybavení ve výrobě§!"
  alert_outdated_equipment_delayed: "Vyrábíme následující zastaralé vybavení:\n$LIST|H$"
  ACTIVE_MODIFIER_ALERT_ENTRY_HEADER: "$NAME|H$ je aktivní na:"

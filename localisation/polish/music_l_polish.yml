@@ -5,20 +5,20 @@
  general_war_1: "Bring Forth the Tanks (Přiveďte tanky)"
  axis_peace_1: "Krakow (Krakov)"
  general_war_2: "The Attack (Útok)"
- comintern_war_1: "The Might of the Soviet Union (Moc Sovětského svazu)" # todo: ENGLISH TEXT of the, the
+ comintern_war_1: "The Might of the Soviet Union (Moc Sovětského svazu)"
  comintern_war_2: "Comintern Theme (Téma Kominterny)"
  axis_war_4: "Days of Thunder (Dny hromu)"
  general_peace_1: "Hearts of Men (Srdce mužů)"
  allies_war_2: "The Royal Airforce (Královské letectvo)"
  axis_war_2: "Heavy Water (Těžká voda)"
  comintern_war_3: "The Great Patriotic War (Velká vlastenecká válka)"
- general_peace_3: "A Song For the Children of WW2 (Píseň pro děti druhé světové války)" # todo: ENGLISH TEXT children, for the, the
+ general_peace_3: "A Song For the Children of WW2 (Píseň pro děti druhé světové války)"
  comintern_peace_2: "The Red Army (Rudá armáda)"
  allies_war_1: "We Are Soldiers (Jsme vojáci)"
  comintern_peace_1: "Mother Russia (Matička Rus)"
  axis_peace_2: "Luftwaffe March - Reprise (Pochod Luftwaffe - Repríza)"
  axis_war_3: "Operation Barbarossa (Operace Barbarossa)"
- allies_peace_2: "End of the Tour (Konec cesty)" # todo: ENGLISH TEXT of the, the
+ allies_peace_2: "End of the Tour (Konec cesty)"
  comintern_peace_3: "Russian Victory (Ruské vítězství)"
  general_peace_2: "The War Ends (Válka končí)"
  achtungpanzer: "Achtung Panzer! (Pozor, tanky!)"
@@ -30,9 +30,9 @@
  kriegsgewitter: "Kriegsgewitter (Válečná bouře)"
  leavingshore: "Leaving Shore (Opouštění pobřeží)"
  lullabyofwar: "Lullaby of War (Válečná ukolébavka)"
- marchtothefront: "March to the Front (Pochod na frontu)" # todo: ENGLISH TEXT the, to the
+ marchtothefront: "March to the Front (Pochod na frontu)"
  montgomerysmarch: "Montgomery's March (Montgomeryho pochod)"
- rafheroesofthesky: "R.A.F - Heroes of the Sky (R.A.F - Hrdinové oblohy)" # todo: ENGLISH TEXT of the, the
+ rafheroesofthesky: "R.A.F - Heroes of the Sky (R.A.F - Hrdinové oblohy)"
  stalingradadagioindminor: "Stalingrad - Adagio in D-minor (Stalingrad - Adagio v D-mol)"
  the101stairborne: "The 101st Airborne (101. výsadková divize)"
  war: "War (Válka)"
@@ -45,7 +45,7 @@
  bombingthem: "Bombing Them (Bombardujte je)"
  epicbattle: "Epic Battle (Epická bitva)"
  hoi3maintheme: "Main Theme (Hlavní téma)"
- hymnfortheoneslostatsea: "Hymn for the Ones Lost at Sea (Hymna za ty, kteří se ztratili na moři)" # todo: ENGLISH TEXT for the, the
+ hymnfortheoneslostatsea: "Hymn for the Ones Lost at Sea (Hymna za ty, kteří se ztratili na moři)"
  landactions: "Land Actions (Pozemní akce)"
  lettersfromhome: "Letters from Home (Dopisy z domova)"
  lotsofbattles: "Lots of Battles (Mnoho bitev)"

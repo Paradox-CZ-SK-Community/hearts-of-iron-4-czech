@@ -416,7 +416,7 @@
  JAP_mio_trait_type_94_fire_control: "Řídicí systém protiletadlové palby Typ 94"
  JAP_mio_trait_torpedo_reloads: "Nabíjení torpéd"
  JAP_mio_trait_type_97_torpedo_control_director: "Řídicí systém protiletadlové palby Typ 97"
- JAP_mio_trait_high_pressure_boilers: "Vysokotlaké kotle" # todo: TERMINOLOGY Pressure -> Nátlak
+ JAP_mio_trait_high_pressure_boilers: "Vysokotlaké kotle"
  JAP_mio_trait_army_aircraft_manufacturer: "Konstruktér armádních letadel"
  JAP_mio_trait_unified_research_and_development: "Sjednocený výzkum a vývoj"
  JAP_mio_trait_unified_research_and_development_taken_flag: "$generic_has_already_completed_this_trait$"
@@ -1293,7 +1293,7 @@
  CZE_mio_trait_drum_mags: "Bubnové zásobníky"
  CZE_mio_trait_box_mags: "Skříňové zásobníky"
  CZE_mio_trait_9_mm: "Ráže 9 mm"
- CZE_mio_trait_larger_calibers: "Ráže .45" # todo: CHANGED (predtym: Ráže 45 mm)
+ CZE_mio_trait_larger_calibers: "Ráže 45 mm"
  CZE_mio_trait_maintain_current_firing_mechanism: "Zachovat současné konstrukce spoušťového mechanismu"
  CZE_mio_trait_simplified_firing_mechanisms: "Zjednodušený spoušťový mechanismus"
  CZE_mio_trait_reduce_use_of_wooden_parts: "Omezení použití dřevěné pažby"
@@ -1424,7 +1424,7 @@
  generic_mio_trait_heavy_assault_gun_improvements: "Mobilní palebné základny"
  generic_mio_trait_fully_cast_turret_assault_gun: "Uzavřená nadstavba"
  generic_mio_trait_assault_gun_improved_tracks: "Posílené pásy"
- generic_task_force_ship_organization: "Konstruktér lodí útočných svazů" # todo: TERMINOLOGY Task Force -> úderná skupina
+ generic_task_force_ship_organization: "Konstruktér lodí útočných svazů"
  generic_mio_initial_trait_task_force_ship_builders: "Stavitelé plavidel úderných skupin"
  generic_mio_trait_long_range_cruising: "Velký operační rádius"
  generic_mio_trait_high_speed_cruising: "Vysokorychlostní plavba"
@@ -1497,7 +1497,7 @@
  generic_mio_trait_open_cycle_propulsion: "Pohon s otevřeným cyklem"
  generic_mio_trait_experimental_anechoic_tiles: "Experimentální anechonické obklady"
  generic_mio_trait_improved_torpedo_detonators: "Vylepšené torpédové detonátory"
- generic_mio_trait_simplified_pressure_hull_design: "Zjednodušený design trupu pod tlakem" # todo: TERMINOLOGY Pressure -> Nátlak
+ generic_mio_trait_simplified_pressure_hull_design: "Zjednodušený design trupu pod tlakem"
  generic_mio_trait_advanced_periscope: "Pokročilý periskop"
  generic_mio_trait_emergency_main_ballast_tank_blow: "Nouzové vyfouknutí hlavních vyrovnávacích nádrží"
  generic_mio_trait_radar_warning_receiver: "Přijímač radarových varování"

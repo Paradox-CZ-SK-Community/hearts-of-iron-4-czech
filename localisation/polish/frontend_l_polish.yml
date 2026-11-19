@@ -142,7 +142,7 @@
  FE_DIFFICULTY_NORMAL: "Normální"
  FE_DIFFICULTY_NORMAL_TOOLTIP: "§L„Nepřítel je silný. Může naše síly odrazit. Úspěch nemusí přijít rychle, ale vrátíme se znovu a znovu.“§!"
  FE_DIFFICULTY_HARD: "Veterán"
- FE_DIFFICULTY_HARD_TOOLTIP: "§L„Až za třicet let budeš sedět u krbu s vnukem na klíně a zeptá se tě: ‚Dědo, co jsi dělal ve druhé světové válce?‘ tak nebudeš muset zakašlat a říct: ‚No, dědeček v Louisianě přehazoval lopatou hnůj.‘§!"
+ FE_DIFFICULTY_HARD_TOOLTIP: "§L„Až za třicet let budeš sedět u krbu s vnukem na klíně a zeptá se tě: „Dědo, co jsi dělal ve druhé světové válce?“ tak nebudeš muset zakašlat a říct: „No, dědeček v Louisianě přehazoval lopatou hnůj.“§!"
  FE_DIFFICULTY_VERY_HARD: "Elita"
  FE_DIFFICULTY_VERY_HARD_TOOLTIP: "§L„Nabízím jen krev, námahu, slzy a pot.“§!"
  FE_DIFFICULTY_UNKNOWN: "Tajná obtížnost"

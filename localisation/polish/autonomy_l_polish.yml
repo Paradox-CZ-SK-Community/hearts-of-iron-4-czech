@@ -73,7 +73,7 @@
  autonomy_volkskommissariat: "Lidový komisariát"
  autonomy_eu_member: "Členský stát EU"
  AUTONOMY_NOT_ENOUGH_TIME: "§RÚroveň autonomie lze změnit pouze jednou za §Y$DURATION$ dní§! (§Y Zůstává $REMAINDER$ dní§!)§!"
- autonomy_sea_warlord_subject: "Subjekt válečného vůdce" # todo: TERMINOLOGY Warlord -> Militarista
- autonomy_sea_integrated_warlord_subject: "Integrovaný subjekt válečného vůdce" # todo: TERMINOLOGY Warlord -> Militarista
+ autonomy_sea_warlord_subject: "Subjekt militaristu"
+ autonomy_sea_integrated_warlord_subject: "Integrovaný subjekt militaristu"
  autonomy_taog_indonesian_union_state: "Indonéský svazový stát"
  autonomy_associated_dominion: "Přidružené dominium"

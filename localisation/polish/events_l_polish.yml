@@ -284,7 +284,7 @@
  china.11.a: "Zotavíme se a znovu si získáme důvěru lidí."
  china.12.t: "Vítězství nad Kuomintangem"
  china.12.d: "Naše odhodlané postavení proti ofenzívě Kuomintangu se ukázalo být v náš prospěch. Místně narychlo shromážděné jednotky vyslané proti Rudé armádě nebyly připraveny na naše znalosti chystaného útoku a byly poraženy - což slouží jako varování okolním militaristům, že útok na nás může být velmi nákladný.\n\nNacionalisté jen dokázali, že nás jako nepřítele podceňují, a že Lidová republika je znovu na vzestupu."
- china.12.a: "Politická moc roste z hlavně zbraně." # todo: TERMINOLOGY Political Power -> politická síla
+ china.12.a: "Politická moc roste z hlavně zbraně."
  china.13.t: "Srážka s komunistickými gerillami"
  china.13.d: "Jak my, tak Rudá armáda Číny jsme sotva zvládli předchozí ofenzivu a naše vzájemná přítomnost poblíž hranic konflikt znovu rozdmýchala. Vedle místních militaristů a milicí zvažujeme přesun dalších jednotek z jiných částí země.\n\nAč to nemusí přinést příležitost zničit komunistickou hrozbu jednou provždy, byl by to důležitý ideologický triumf ukázat, že jim nebude umožněno dále expandovat."
  china.13.a: "Teď musíme vytyčit hranici!"
@@ -490,8 +490,8 @@
  france.19.t: "[From.GetName] odmítá francouzské spojenectví"
  france.19.d: "Navzdory našemu maximálnímu úsilí nabídnout Malé dohodě podporu bylo naše poslední oslovení jedné z těchto zemí přijato se skepsí. [From.GetLeader] se odmítl připojit k alianci, snad s pochybnostmi o našich motivech, nebo ze strachu, že těsným sblížením s námi by se stali terčem."
  france.19.a: "Stejně tak už mohou být terčem, aniž by o tom věděli!"
- france.20.t: "Odpor proti příměří" # todo: TERMINOLOGY Resistance -> odboj
- france.20.d: "Po francouzském příměří s Německem a zřízení nové vlády ve Vichistické Francii se skupina vysokých důstojníků vzbouřila proti nové francouzské vládě. Charles de Gaulle pronesl rozhlasový projev vyzývající k odporu proti kolaborantskému vichistickému režimu. De Gaulle fakticky přebírá vedení Svobodných francouzských sil a pokračuje v boji proti Němcům."
+ france.20.t: "Odboj proti příměří"
+ france.20.d: "Po francouzském příměří s Německem a zřízení nové vlády ve Vichistické Francii se skupina vysokých důstojníků vzbouřila proti nové francouzské vládě. Charles de Gaulle pronesl rozhlasový projev vyzývající k odboji proti kolaborantskému vichistickému režimu. De Gaulle fakticky přebírá vedení Svobodných francouzských sil a pokračuje v boji proti Němcům."
  france.20.a: "Boj za Francii pokračuje."
  france.20.a_tt: "§YCharles de Gaulle se stává vůdcem Francie§!"
  france.21.t: "Dělníci hrozí stávkami"
@@ -555,8 +555,8 @@
  soviet.4.t: "[FROM.GetNameDefCap] se vzdává Besarábie"
  soviet.4.d: "[FROM.GetNameDefCap] moudře ustoupilo našim požadavkům a stáhli všechny své síly z Besarábie. Území začleníme do svazu jako Moldavskou sovětskou socialistickou republiku. Její obyvatelstvo si nyní bude užívat výhod socialismu. "
  soviet.4.a: "Skvělé."
- soviet.5.t: "[FROM.GetNameDefCap] odmítá naše požadavky" # todo: CHANGED (predtym: Rumunsko odmítá naše požadavky)
- soviet.5.d: "[FROM.GetAdjective] odmítli vyhovět našim požadavkům! Vypadá to, že jejich okupační síly budeme muset z Besarábie vypudit silou." # todo: CHANGED (predtym: Rumuni odmítli vyhovět našim požadavkům! Vypadá to, že jejich okupační síly budeme muset z Besarábie vypudit silou.)
+ soviet.5.t: "[FROM.GetNameDefCap] odmítá naše požadavky"
+ soviet.5.d: "[FROM.GetNameDefCap] odmítá vyhovět našim požadavkům! Vypadá to, že jejich okupační síly budeme muset z Besarábie vypudit silou."
  soviet.5.a: "Blázni!"
  soviet.6.t: "[FROM.GetNameDefCap] se podrobuje"
  soviet.6.d: "[FROM.GetNameDefCap] se podvolilo našim požadavkům. V Tallinnu jsme nahradili dekadentní vládu Lidovým shromážděním, které jednomyslně odhlasovalo, že [FROM.GetNameDef] bude proměněno na sovětskou socialistickou republiku. Po poradě se Nejvyšší sovět rozhodl tuto žádost přijmout."
@@ -939,7 +939,7 @@
  news.19.b: "Všichni Němci se musí sjednotit."
  news.19.c: "Kéž bychom měli prostředky k odporu..."
  news.19.e: "Správně se uklonili svým pánům!"
- news.20.t: "[FROM.GetAdjective] vláda odmítá [GER.GetAdjective] požadavky"
+ news.20.t: "[FROM.GetAdjectiveCap] vláda odmítá [GER.GetAdjective] požadavky"
  news.20.d: "Přestože [GER.GetAdjective] síly stály seřazené na jejich hranici, [FROM.GetNameDef] odmítla ultimátum z Berlína požadující navrácení území Memel. \n\nMemel kdysi patřil do Východního Pruska, ale po Versailleské smlouvě ho anektovala [FROM.GetNameDef]. [FROM.GetLeader] při oznámení odmítnutí uvedl, že je třeba bránit integritu Versailles.\n\nMezinárodní pozorovatelé nyní očekávají, že se Německo pokusí území získat silou..."
  news.20.a: "Velmi statečné."
  news.20.b: "Podepsali si rozsudek smrti."
@@ -2274,7 +2274,7 @@
  yugoslavia.4.a: "Zvítězíme!"
  yugoslavia.5.t: "Londýnský diktát!"
  yugoslavia.5.d: "Tváří v tvář znovu ožívajícímu Německu, které trhá smlouvy, jež udržovaly mír, nás zbabělci na Západě házejí vlkům v naději, že je to uklidní. Dějiny je nebudou soudit laskavě, ale my teď musíme zvolit svůj osud."
- yugoslavia.5.a: "Odpor povede jen k zbytečným obětem" # todo: TERMINOLOGY Resistance -> odboj
+ yugoslavia.5.a: "Odpor povede jen k zbytečným obětem"
  yugoslavia.5.b: "Budeme bojovat do posledního dechu"
  yugoslavia.6.t: "Londýnská konference"
  yugoslavia.6.d: "Když nás všichni ostatní opustili, stojí při nás jen Itálie. To je nyní náš nejvěrnější přítel a bude s námi bojovat bok po boku."

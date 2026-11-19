@@ -282,7 +282,7 @@
  purchase_ships_sov: "[SOV.GetFlag] Zakoupit staré [SOV.GetAdjective] bitevní lodě"
  purchase_ships_ger: "[GER.GetFlag] Zakoupit staré [GER.GetAdjective] ponorky"
  purchase_ships_usa: "[USA.GetFlag] Zakoupit staré [USA.GetAdjective] torpédoborce"
- purchase_ships_ita: "[ITA.GetFlag] Koupit staré [ITA.GetAdjective] torpédoborce" # todo: NEW TRANSLATION
+ purchase_ships_ita: "[ITA.GetFlag] Zakoupit staré [ITA.GetAdjective] torpédoborce"
  generic_refit_civilian_ships_category: "Vojenská přestavba civilních lodí"
  generic_refit_civilian_ships_category_desc: "Naše flotila se reálně nemůže měřit s mnohem většími námořními silami, které nás ohrožují. Musíme urychleně rozšířit flotilu přestavbou civilních lodí pro vojenské účely."
  refit_to_destroyer: "Předělání lodí na torpédoborce"

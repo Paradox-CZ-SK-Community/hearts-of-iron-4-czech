@@ -75,7 +75,7 @@
  NOR_prepare_state_historical: "Rozvíjet [FROM.GetName]"
  NOR_prepare_state_historical_desc: "Naše průmyslová základna leží v troskách, ale jsme odhodláni vynaložit úsilí nutné ke zlepšení situace obyvatel státu [ROOT.GetName] - i našich šancí na přežití, pokud nastane to nejhorší."
  NOR_prepare_historical_unlock_TT: "Odemkne rozhodnutí §YRozvíjet stát§!, která umožní urychlit §Gcivilní výstavbu§!, ale udělí postihy §Rvojenské výstavbě a obraně§!."
- NOR_prepare_fascist_unlock_TT: "Odemkne rozhodnutí §YBudovat podporu§!, která §Gzvýší podporu fašismu§! a při začátku občanské války poskytnou §Gúzemí a výhody§!, ale udělí postihy §Rcivilnímu průmyslu§!." # todo: TERMINOLOGY State -> stát
+ NOR_prepare_fascist_unlock_TT: "Odemkne rozhodnutí §YBudovat podporu§!, která §Gzvýší podporu fašismu§! a při začátku občanské války poskytnou §Gúzemí a výhody§!, ale udělí postihy §Rcivilnímu průmyslu§!."
  NOR_prepare_communist_unlock_TT: "Odemkne §YBurcovat proletariát§!, což při komunistické revoluci poskytne §Gúzemí a jednotky§!, ale §Rpoškodí budovy§! ve státě."
  NOR_deploy_state_preparation_historical: "[get_deploy_prep_decision_name]"
  NOR_decision_defend_state_title: "Bránit - [FROM.GetName]"
@@ -136,7 +136,7 @@
  NOR_joint_training_exercise_desc: "Pokud chceme zvítězit, naše síly a [FROM.GetNameDef] musí dokonale spolupracovat. Toho lze dosáhnout jen výcvikem a úzkou vojenskou spoluprací."
  NOR_expand_industrial_capacity: "Investovat do průmyslové kapacity"
  NOR_expand_industrial_capacity_desc: "Jsme sice v exilu, ale nejsme bezmocní. Disponujeme jedním z největších obchodních loďstev světa a můžeme jej použít k získání průmyslové kapacity nutné pro budoucí boj o naši vlast."
- NOR_foment_resistance_in_state: "Podnítit odpor - [FROM.GetName]" # todo: TERMINOLOGY Resistance -> odboj
+ NOR_foment_resistance_in_state: "Podnítit odboj - [FROM.GetName]"
  NOR_foment_resistance_in_state_desc: "Obyvatelé [FROM.GetName] mají odbojného ducha a bojují proti našemu nepříteli. Potřebují jen malý impuls, aby jejich odpor byl rozhodující."
  NOR_support_rebellion: "Podpořit povstání - [FROM.GetName]"
  NOR_support_rebellion_desc: "Naše odbojové úsilí se pro [FROM.GetName] vyplatilo. Tamní lid je připraven postavit se svým utlačovatelům. Nechme je odstartovat boj - a jakmile tak učiní, budeme připraveni vrátit se domů a bojovat."
@@ -205,7 +205,7 @@
  SWE_military_matters: "Armáda na prvním místě"
  SWE_rangers: "Jägartrupper"
  SWE_rangers_sabotage: "Sabotovat zásadní nepřátelskou infrastrukturu"
- SWE_rangers_sent_out: "Jägartruppeři se vracejí z mise" # todo: TERMINOLOGY Ranger -> Hraničář
+ SWE_rangers_sent_out: "Jägartruppeři se vracejí z mise"
  SWE_rangers_tt: "Personál (náhodná ztráta mezi): §Y0§! až §R-1300§!"
  SWE_set_up_home_guard_forces: "Zřídit jednotky domobrany"
  SWE_set_up_home_guard_forces_tt: "Zřídí buňku jednotek domobrany, které lze v případě války aktivovat jako nouzové divize.\nTo lze provést třikrát v každém státě, čímž se v případě války zvýší počet divizí.\nÚroveň domobrany: §Y[?FROM.SWE_has_added_home_guard]/3§!"

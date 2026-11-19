@@ -1373,10 +1373,10 @@
  POR_sold_ships: "Prodej lodí"
  POR_bought_ships: "Nakoupili lodě"
  POR_helped_in_civil_war: "Pomoc v občanské válce"
- POR_neutrality_opinion_trade: "Postoj k obchodu" # todo: TERMINOLOGY Opinion -> Názor
- POR_neutrality_opinion_democratic: "Postoj k demokracii" # todo: TERMINOLOGY Opinion -> Názor
- POR_election_opinion_democratic: "Demokratické smýšlení" # todo: TERMINOLOGY Opinion -> Názor
- POR_neutrality_opinion_communism: "Postoj ke komunismu" # todo: TERMINOLOGY Opinion -> Názor
+ POR_neutrality_opinion_trade: "Postoj k obchodu"
+ POR_neutrality_opinion_democratic: "Postoj k demokracii"
+ POR_election_opinion_democratic: "Demokratické smýšlení"
+ POR_neutrality_opinion_communism: "Postoj ke komunismu"
  POR_iberian_summit_diplomatic_approach: "Pyrenejské země se k nám přiklání"
  POR_iberian_summit_working_together: "Pyrenejské země spolupracují"
  POR_anglo_portuguese_alliance: "Anglo-portugalská aliance"
@@ -1726,7 +1726,7 @@
  CZE_i_am_agreeable_to_license: "Nákupní smlouvy Škoda a ČKD"
  indonesia_usa_rejected_renville_modifier: "Odmítli pomoct"
  indonesia_china_trade_modifier: "Čínsko-indonéští migranti"
- ROM_seized_ford_plant: "Obsazení závodu Ford v Rumunsku" # todo: NEW TRANSLATION
- ROM_polish_romanian_alliance: "$ROM_the_polish_romanian_alliance$" # todo: NEW TRANSLATION
- generic_small_trade_agreement: "$ICE_trade_partner$" # todo: NEW TRANSLATION
- ROM_embargoed_our_rival: "Uvalilo embargo na našeho rivala" # todo: NEW TRANSLATION
+ ROM_seized_ford_plant: "Obsazení závodu Ford v Rumunsku"
+ ROM_polish_romanian_alliance: "$ROM_the_polish_romanian_alliance$"
+ generic_small_trade_agreement: "$ICE_trade_partner$"
+ ROM_embargoed_our_rival: "Uvalilo embargo na našeho rivala"

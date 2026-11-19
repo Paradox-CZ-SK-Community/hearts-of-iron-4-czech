@@ -270,7 +270,7 @@
  bftb_greece.103.t: "Venizelističtí generálové propašováni zpět do Řecka!"
  bftb_greece.103.desc: "Krátce po návratu jejich potupeného vůdce jsme obdrželi zprávy, že do země bylo propašováno mnoho bývalých venizelistických generálů. Komunističtí a republikánští pašeráci se spolčili, aby vrátili zneuctěné velitele převlečené mezi zásilkami zboží; odvedli je do úkrytů dřív, než jsme stačili pochopit, co se děje. \n\nBitva s rozháranými povstalci je jedna věc; plnohodnotná občanská válka vedená schopným vojenským velením je věc docela jiná. Mnozí poradci se nyní ptají, zda byl skutečně moudrý krok, když si tak neoblíbený panovník veřejně a okázale přisvojil absolutní moc, ale [ROOT.GetLeader] trvá na tom, že s rebely se rychle vypořádá."
  bftb_greece.103.a: "Museli vyhodit do povětří i přístav?"
- bftb_greece.104.t: "Organizovaný odpor na jihu i severu sílí!" # todo: TERMINOLOGY Resistance -> odboj
+ bftb_greece.104.t: "Organizovaný odboj na jihu i severu sílí!"
  bftb_greece.104.desc: "Úřady informovaly vládu, že fakticky ztrácíme kontrolu nad severem i jihem země. Komunističtí a venizelističtí sympatizanti se beztrestně roztahují v ulicích a šíří lži i propagandu - a místní správa jim v tom nebrání, buď proto, že s nimi sympatizuje, nebo proto, že je zcela bezmocná. \n\nArmáda, vědoma si pasti, která na ni čeká, odmítá oblasti zajistit. Zůstává však v plné pohotovosti a králův kabinet byl ujištěn, že až venizelisté a komunisté vyjdou z úkrytu, armáda neváhá podniknout nezbytné kroky k převzetí kontroly nad zemí. Samozřejmě, mnoho politiků o upřímnosti těchto ujišťování pochybuje - rozšířené jsou zprávy o korupci a zrádných loajalitách v ozbrojených silách."
  bftb_greece.104.a: "Situace se vymyká kontrole!"
  bftb_greece.105.t: "Občanská válka!"
@@ -1210,7 +1210,7 @@
  bftb_bulgaria_rearmament.6.t: "[ENG.GetNameDefCap] ruší omezení naší armády"
  bftb_bulgaria_rearmament.6.desc: "Po náročných jednáních v Sofii s delegací z [ENG.GetNameDef] jsme podepsali dohodu, na jejímž základě [ENG.GetAdjective] vláda ruší omezení naší armády a [ROOT.GetNameDef] může konečně začít s vojenským zbrojením."
  bftb_bulgaria_rearmament.6.a: "Není času nazbyt, začněme se zbrojením!"
- bftb_bulgaria_rearmament.7.t: "[BUL.GetNameDefCap] tlačí na zrušení svých armádních omezení" # todo: TERMINOLOGY Pressure -> Nátlak
+ bftb_bulgaria_rearmament.7.t: "[BUL.GetNameDefCap] tlačí na zrušení svých armádních omezení"
  bftb_bulgaria_rearmament.7.desc: "Do Londýna dorazila [BUL.GetAdjective] delegace s cílem vyvinout tlak na [ROOT.GetAdjective] vládu, aby zrušila vojenská omezení uvalená na [BUL.GetNameDef]. \nS rizikem války, které se znovu vznáší nad Balkánem, ujišťují, že [BUL.GetNameDef] brzy zahájí přípravy na obranu své územní celistvosti - tak či onak."
  bftb_bulgaria_rearmament.7.a: "Nepodlehneme hrozbám!"
  bftb_bulgaria_rearmament.7.b: "Jinak to nepůjde... Zrušme jim omezení!"
@@ -1384,7 +1384,7 @@
  bftb_bulgaria_soviet_influence.3.t: "[SOV.GetNameDefCap] odstupuje od smlouvy o vzájemné pomoci"
  bftb_bulgaria_soviet_influence.3.desc: "[GetBulgarianLeaderToMeetStalin] se dnes vrací do [ROOT.Capital.GetName] ze schůzky, kde on a [SOV.GetLeader] projednávali návrh na podpis smlouvy, která by [SOV.GetNameDef] a [ROOT.GetNameDef] zavazovala ke vzájemné pomoci. Po dlouhém jednání o podmínkách smlouvy se zdá, že [SOV.GetLeader] nebyl přesvědčen o potřebe této smlouvy a rezolutně ji odmítl podepsat. \nPo neúspěchu se zdá, že [ROOT.GetLeader] již zvažuje pro [ROOT.GetNameDef] jiné možné spojence."
  bftb_bulgaria_soviet_influence.3.a: "Je čas hledat nové spojence..."
- bftb_bulgaria_soviet_influence.4.t: "[BUL.GetLeader] tlačí, aby [ROOT.GetLeader] souhlasil se vstupem do frakce [BUL.GetFactionName]" # todo: TERMINOLOGY Pressure -> Nátlak
+ bftb_bulgaria_soviet_influence.4.t: "[BUL.GetLeader] tlačí, aby [ROOT.GetLeader] souhlasil se vstupem do frakce [BUL.GetFactionName]"
  bftb_bulgaria_soviet_influence.4.desc: "[BUL.GetAdjectiveCap] vláda požaduje sjednocení balkánských národů k revoluci proti fašismu, imperialismu a kapitalismu. [ROOT.GetLeader] obdržel výzvu, aby se připojil k frakci [BUL.GetFactionName], čímž vznikne mocný blok odporu proti utlačovatelským evropským státům."
  bftb_bulgaria_soviet_influence.4.a: "Musíme se připojit k našim bulharským a sovětským bratřím."
  bftb_bulgaria_soviet_influence.4.b: "Nepodlehneme bulharskému nátlaku!"
@@ -1719,7 +1719,7 @@
  bftb_news.208.d: "Chceme jen to, co je naše."
  bftb_news.208.e: "Jen vše zhoršují!"
  bftb_news.209.t: "Vzestup Turánu"
- bftb_news.209.desc: "[FROM.GetAdjective] dobývání pokročilo natolik, že [FROM.GetAdjective] vláda považuje za oprávněné prohlásit se za „[FROM.GetNameDef]“. Debut tohoto nového impéria šokoval svět — jen málo pozorovatelů věřilo, že Turecko se dokáže plně zotavit z války za nezávislost a během následujících desetiletí znovu vybudovat impérium přesahující kontinenty. \n\nPokud jsou zprávy pravdivé, nově vzniklé [FROM.GetAdjective] impérium možná ještě neskončilo se svou rychlou expanzí; [FROM.GetLeader] prohlásil, že nepřestane dobývat, dokud nebude každý Turk osvobozen. Svět může jen nervózně sledovat."
+ bftb_news.209.desc: "[FROM.GetAdjectiveCap] dobývání pokročilo natolik, že [FROM.GetAdjective] vláda považuje za oprávněné prohlásit se za „[FROM.GetNameDef]“. Debut tohoto nového impéria šokoval svět — jen málo pozorovatelů věřilo, že Turecko se dokáže plně zotavit z války za nezávislost a během následujících desetiletí znovu vybudovat impérium přesahující kontinenty. \n\nPokud jsou zprávy pravdivé, nově vzniklé [FROM.GetAdjective] impérium možná ještě neskončilo se svou rychlou expanzí; [FROM.GetLeader] prohlásil, že nepřestane dobývat, dokud nebude každý Turk osvobozen. Svět může jen nervózně sledovat."
  bftb_news.209.a: "Jsme nezastavitelní."
  bftb_news.209.b: "Jak...?"
  bftb_news.301.t: "[GRE.GetNameDef] pustoší občanská válka!"

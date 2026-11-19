@@ -374,7 +374,7 @@
  CHL_invest_in_shipping_desc: "Moře neslouží jen armádě. Jako země do značné míry závislá na obchodu a s držbami v zámoří, jako je Rapa Nui, bychom měli rozšířit obchodní loďstvo a investovat prostředky do rozvoje lodního průmyslu."
  CHL_advancements_in_telecommunications: "Pokrok v telekomunikacích"
  CHL_advancements_in_telecommunications_desc: "Naši vědci ve výzkumu a vývoji začali vyvíjet lepší způsoby využití nejen rádia, ale také rozšiřovat možnosti využití televize. Díky tomu můžeme snáze šířit obecné informace mezi obyvatelstvo a lépe komunikovat poznatky mezi vzdálenými vědeckými pracovišti."
- CHL_protect_the_easter_island_tt: "Získáme §Yválečný cíl na svržení vlády§! na §Y[JAP.GetName]§!, §Y[NZL.GetName]§! nebo §Y[AST.GetName]§!, pokud jsou §Ynezávislé§! a §Yfašistické§! nebo §Yneutrální§! a jsou ve válce s §Yamerickou demokracií§!" # todo: TERMINOLOGY Non-Aligned -> Nezařazené
+ CHL_protect_the_easter_island_tt: "Získáme §Yválečný cíl na svržení vlády§! na §Y[JAP.GetName]§!, §Y[NZL.GetName]§! nebo §Y[AST.GetName]§!, pokud jsou §Ynezávislé§! a §Yfašistické§! nebo §Ynezařazené§! a jsou ve válce s §Yamerickou demokracií§!"
  CHL_upgrade_central_bank_tt: "Vylepší §Y$CHL_banco_central_de_chile$§! o:\n $MODIFIER_CONSUMER_GOODS_FACTOR$: §Y-10 %§!"
  right_wing_tt: "K moci se dostává §Ypravicový§! prezident"
  left_wing_tt: "K moci se dostává §Ylevicový§! prezident"
@@ -393,7 +393,7 @@
  CHL_endorse_the_constitution_desc: "Ve 20. letech jsme čelili těžké sociální a ekonomické krizi, která vedla ke ztrátě prestiže staré vládnoucí třídy a k nástupu vlády vedené Arturem Alessandrim. Ten byl roku 1924 svržen převratem, ale v roce 1925 se vrátil a během svého prezidentství sepsal novou ústavu, která nahradila ústavu z roku 1833. Měli bychom se řídit jeho slovy jako zakladatele nového Chile."
  CHL_cooperation_with_the_falange: "Spolupráce s Národní falangou"
  CHL_cooperation_with_the_falange_desc: "Národní falanga je křesťanskodemokratická strana založená roku 1935, složená převážně z progresivních a reformních katolíků. Jelikož se mnoho jejich politik shoduje s našimi, nemělo by být obtížné je přizvat do vlády."
- CHL_denounce_the_anarchy: "Odsoudit anarchii" # todo: TERMINOLOGY State -> stát
+ CHL_denounce_the_anarchy: "Odsoudit anarchii"
  CHL_denounce_the_anarchy_desc: "Skutečnost, že anarchie započatá po krachu na Wall Street dosud nebyla vyřešena, jasně ukazuje na hlubokou slabost současné vlády a jejích pasivních liberálních ideálů. Musíme proti nim veřejně vystoupit a lidem ukázat, že budoucnost je jejich, pokud se za nás postaví."
  CHL_look_to_tradition: "Obrátit se k tradicím"
  CHL_look_to_tradition_desc: "Arturo Alessandri měl svou chvíli slávy a dosud nevyřešil žádný z palčivých problémů, které nad zemí stále visí. Musíme proto ustoupit od liberalismu a vrátit se k osvědčeným tradičním hodnotám, na nichž jsme kdysi stavěli."

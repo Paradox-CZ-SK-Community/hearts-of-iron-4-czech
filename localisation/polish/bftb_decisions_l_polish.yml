@@ -969,7 +969,7 @@
  BUL_fate_of_the_balkans_ultimatum_desc: "Zorganizujeme schůzku s [FROM.GetAdjective] vládou a vyvineme nátlak, aby se připojila k frakci [ROOT.GetFactionName] výměnou za [ROOT.GetAdjective] ochranu. Zároveň dáme jasně najevo, že [FROM.GetAdjective] odmítnutí naše vláda nevezme na lehkou váhu."
  BUL_fate_of_the_balkans_ultimatum_tt: "\nFaktory ovlivňující ochotu [FROM.GetFlag]§Y[FROM.GetNameDefCap]§! přijmout: [ROOT.GetUltimatumOpinion] [ROOT.GetUltimatumStrength] [ROOT.GetUltimatumIdeology] [ROOT.GetUltimatumFaction] [ROOT.GetUltimatumInfluence] [ROOT.GetUltimatumNeighbor] [ROOT.GetUltimatumMajor]"
  BUL_ultimatum_opinion_high: "\n- §GMá vysoké mínění o§! [ROOT.GetFlag]§Y[ROOT.GetNameDefCap]§!"
- BUL_ultimatum_opinion_medium: "\n- §YMínění o§! [ROOT.GetFlag]§Y[ROOT.GetNameDefCap]§!" # todo: TERMINOLOGY Opinion -> Názor
+ BUL_ultimatum_opinion_medium: "\n- §YMínění o§! [ROOT.GetFlag]§Y[ROOT.GetNameDefCap]§!"
  BUL_ultimatum_opinion_low: "\n- §RMá nízké mínění o§! [ROOT.GetFlag]§Y[ROOT.GetNameDefCap]§!"
  BUL_ultimatum_strength_high: "\n- §GVysoká§! [ROOT.GetFlag]§Y[ROOT.GetAdjective]§! §Gvojenská síla§!"
  BUL_ultimatum_strength_medium: "\n- [ROOT.GetFlag]§Y[ROOT.GetAdjectiveCap] vojenská síla§!"

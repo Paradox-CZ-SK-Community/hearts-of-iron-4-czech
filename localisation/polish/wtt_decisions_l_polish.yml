@@ -658,7 +658,7 @@
  JAP_develop_samar_steel_deposits: "Rozvíjet ložiska železné rudy na Samaru"
  JAP_develop_nauru_tungsten_deposits: "Rozvíjet ložiska wolframu na Nauru"
  JAP_develop_shandong_aluminium_deposits: "Rozvíjet ložiska bauxitu v Šan-tungu"
- JAP_develop_sichuan_aluminium_deposits: "Rozvíjet ložiska bauxitu v S„-čchuanu"
+ JAP_develop_sichuan_aluminium_deposits: "Rozvíjet ložiska bauxitu v S'-čchuanu"
  JAP_develop_yunnan_aluminium_deposits: "Rozvíjet ložiska bauxitu v Jün-nanu"
  JAP_develop_suiyuan_steel_deposits: "Rozvíjet ložiska železné rudy v Suej-jüanu"
  develop_tonkin_aluminium_deposits: "Rozvíjet ložiska bauxitu v Tonkinu"
@@ -937,7 +937,7 @@
  CHI_border_clashes_desc: "Terén v Číně nutí každého pečlivě volit místo bitvy. To nám dává příležitost obsadit některá zranitelná území bez zapojení do celkové války."
  CHI_border_clash_with_from: "Pohraniční konflikt s [From.GetNameDef]"
  CHI_border_war_with_opposition: "Pohraniční konflikt s [From.GetNameDef]"
- CHI_warlord_in_opposition: "Vojevůdce v opozici" # todo: TERMINOLOGY Warlord -> Militarista
+ CHI_warlord_in_opposition: "Militarista v opozici"
  improved_worker_conditions: "Zlepšit podmínky dělníků"
  improved_worker_conditions_desc: "Práce v továrně je těžká a plná mnoha nebezpečí. Zlepšení pracovních podmínek pro naše dělníky sice krátkodobě sníží výrobu, ale dlouhodobé přínosy za to stojí."
  promises_of_peace: "Přísliby míru"

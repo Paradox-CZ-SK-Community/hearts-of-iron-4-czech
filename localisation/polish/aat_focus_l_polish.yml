@@ -1262,7 +1262,7 @@
  NOR_the_royal_norwegian_navy_desc: "Mít jedno z nejdelších pobřeží na světě má své výhody, ale také to znamená vynaložit zvláštní úsilí na jeho obranu. Naše námořnictvo bude první linií obrany země."
  NOR_expand_the_dockyards: "Rozšířit loděnice"
  NOR_expand_the_dockyards_desc: "Ačkoli máme jednu z největších obchodních flotil na světě, naše loděnice lze rozšířit a lépe přizpůsobit výrobě válečných lodí - nejen obchodních plavidel a tankerů."
- NOR_battleship_focus: "Soustředit se na bitevní lodě" # todo: TERMINOLOGY Focus -> Zaměření
+ NOR_battleship_focus: "Soustředit se na bitevní lodě"
  NOR_battleship_focus_desc: "Skutečnou vládu nad vlnami zajistí jen obrovské, silně pancéřované kolosy. Už pouhá hrozba, že se naše bitevní loď objeví u jejich břehů, odradí potenciální útočníky."
  NOR_kystvakten: "Kystvakten"
  NOR_kystvakten_desc: "K ochraně rozsáhlého pobřeží potřebujeme početná plavidla a dohled nad každým kouskem obzoru. Vytvořme síť lodí, které budou naši zemi střežit před nepřátelskými plavidly."
@@ -1516,7 +1516,7 @@
  NORDIC_jet_engines: "Vstup do éry proudových motorů"
  NORDIC_jet_engines_desc: "Nové pokroky v proudových motorech mění i nejlepší vrtulová letadla v papírové draky. Pokud spojíme investice, můžeme přeskočit soupeře a vyrábět špičkové proudové stroje."
  NORDIC_machine_tools_research: "Výzkum obráběcích strojů"
- NORDIC_machine_tools_research_desc: "Lidská práce je jen část rovnice. Abychom dokázali nahradit ztráty rychleji než nepřítel, musíme zlepšit stroje, které tyto zbraně vyrábějí — ne jen samotné zbraně." # todo: TERMINOLOGY Manpower -> Personál
+ NORDIC_machine_tools_research_desc: "Lidská práce je jen část rovnice. Abychom dokázali nahradit ztráty rychleji než nepřítel, musíme zlepšit stroje, které tyto zbraně vyrábějí — ne jen samotné zbraně."
  NORDIC_equipment_conversion_focus: "Priorita přestavby vybavení"
  NORDIC_equipment_conversion_focus_desc: "Máme sklady plné staré, odstavené nebo ukořistěné techniky. To vše lze upravit a předělat na moderní platformy, které dnes naše válka požaduje."
  NORDIC_airfields: "Letiště"

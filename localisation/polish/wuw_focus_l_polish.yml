@@ -1263,7 +1263,7 @@
  BEL_british_guarantee: "Britská záruka"
  BEL_british_guarantee_desc: "[ENG.GetNameDef] mělo s námi vždy dobré vztahy, a ani jsme se tím netajili. Proto je formalizujme a rozšiřme na vzájemné vojenské záruky."
  BEL_government_resigns: "Rezignace vlády"
- BEL_government_resigns_desc: "Tlak na vládu narůstal kvůli rozsáhlým obviněním z korupce ze strany fašistické Rexistické organizace, což vedlo k pádu vlády a k přípravám na nové volby." # todo: TERMINOLOGY Pressure -> Nátlak
+ BEL_government_resigns_desc: "Nátlak na vládu narůstal kvůli rozsáhlým obviněním z korupce ze strany fašistické Rexistické organizace, což vedlo k pádu vlády a k přípravám na nové volby."
  BEL_auto_complete_government_resigns_tt: "Toto zaměření je automaticky splněno výsledkem události §YRezignace vlády§!."
  BEL_government_of_national_unity: "Vláda národní jednoty"
  BEL_government_of_national_unity_desc: "Navzdory rostoucí opozici fašistického hnutí se liberální, socialistická a katolická strana znovu sjednotily pod Paulem van Zeelandem a vytvořily novou vládu národní jednoty."
@@ -2044,7 +2044,7 @@
  CONGO_cobalt_mine_tt: "Odemkne rozhodnutí §YRozšířit kobaltové doly§!"
  CONGO_requisition_funds_tt: "Odemkne opakovatelné rozhodnutí pro získání §Ypolitické síly§! výměnou za zvýšenou §Ykonžskou autonomii§!"
  CONGO_gold_and_diamonds_tt: "Odemkne rozhodnutí §YInvestovat konžské zlato a diamanty§! pro §Yinvestice§! a §Yvýstavbu§!"
- CONGO_establish_cometro_tt: "Pokud dojde k §Yválce za nezávislost§! proti našemu vládci, §Y[KAT.GetNameDef]§! se připojí na jeho stranu a získá 2 §Ypěší jednotky§! s 5 prapory v §Y[889.GetName]§!." # todo: TERMINOLOGY Overlord -> Suzerén
+ CONGO_establish_cometro_tt: "Pokud dojde k §Yválce za nezávislost§! proti našemu suzerénovi, §Y[KAT.GetNameDef]§! se připojí na jeho stranu a získá 2 §Ypěší jednotky§! s 5 prapory v §Y[889.GetName]§!."
  CONGO_establish_cometro_2_tt: "Pokud dojde k §Yválce za nezávislost§!, §Y[KAT.GetNameDef]§! se přidá na naši stranu a získá 2 §Ypěší jednotky§! s 5 prapory v §Y[889.GetName]§!."
  CONGO_overseas_department_of_belgium_tt: "§Y[COG.GetNameDefCap]§! již nebude moci §Yzvyšovat svou úroveň autonomie§!"
  CONGO_overseas_department_of_belgium_2_tt: "Již nebudeme moci §Yzvyšovat úroveň autonomie§!"
@@ -2326,7 +2326,7 @@
  GER_atlantic_naval_bases: "Atlantické námořní základny"
  GER_atlantic_naval_bases_desc: "Uvědomujíce si strategický význam atlantických pobřežních oblastí a v rámci našeho úsilí o prosazení dominance nad Atlantským oceánem musíme upřednostnit rozšiřování a modernizaci námořních základen, abychom dosáhli námořní převahy."
  GER_naval_bases_along_atlantic_coast_tt: "Každý stát, který kontroluje §Y[ROOT.GetName]§! nebo německý subjekt s §Y$naval_base$§! podél §Yevropského atlantického pobřeží§!: přidá §G1§! §Y$naval_base$§! a §G1§! §Y$coastal_bunker$§!. Současný efekt:"
- GER_atlantic_naval_dominance: "Atlantická námořní dominance" # todo: TERMINOLOGY Naval Dominance -> Námořní převaha
+ GER_atlantic_naval_dominance: "Atlantická námořní dominance"
  GER_atlantic_naval_dominance_desc: "Abychom si zajistili dominanci v Atlantském oceánu, musíme ještě více rozšířit náš operační dosah a zvýšit naši námořní přítomnost od pobřeží k pobřeží."
  GER_controls_an_atantic_island_tt: "§Y[ROOT.GetName]§! nebo německý subjekt plně ovládá ostrov v severním Atlantském oceánu"
  GER_naval_bases_on_atlantic_islands_tt: "Každý ostrov v §YSeverním Atlantiku§!, který kontroluje §Y[ROOT.GetName]§! nebo německý subjekt s §Y$naval_base$§!: přidá §G1§! §Y$naval_base$§! a §G1§! §Y$coastal_bunker$§!. Současný efekt:"
@@ -2421,10 +2421,10 @@
  GER_demonstration_of_military_achievements: "Ukázka vojenských úspěchů"
  GER_demonstration_of_military_achievements_desc: "Naše historie je prodchnuta velkými vojenskými úspěchy. Uznáním, že současné úspěchy našich vojáků jsou další z těchto velkých úspěchů, bychom mohli zvýšit morálku a posílit jejich loajalitu k nám."
  GER_demonstration_of_military_achievements_trigger: "Musí platit jedno z následujícího:\n   Více než §Y2§! subjekty\n   Více než §Y19§! okupovaných států v §YEvropě§!"
- GER_country_leader_change_blocks_progress_demonstration_military_achievement_tt: "§RZměna Führera po dokončení §Y$GER_demonstration_of_military_achievements$§! zablokuje dokončení §Y$GER_an_invincible_army$§! a §Y$GER_the_supreme_leader$§!§!" # todo: TERMINOLOGY Country -> země
+ GER_country_leader_change_blocks_progress_demonstration_military_achievement_tt: "§RZměna Führera po dokončení §Y$GER_demonstration_of_military_achievements$§! zablokuje dokončení §Y$GER_an_invincible_army$§! a §Y$GER_the_supreme_leader$§!§!"
  GER_an_invincible_army: "Německá armáda, neporazitelná"
  GER_an_invincible_army_desc: "Díky mnoha úspěchům a vítězstvím, kterých naše armáda dosáhla na bojišti, jsme dokázali světu, že navzdory řečem nepřátelských demagogů je [ROOT.GetAdjective] armáda skutečně neporazitelná!"
- GER_country_leader_change_blocks_progress_invincible_army_tt: "§RZměna Führera po dokončení §Y$GER_an_invincible_army$§! zablokuje dokončení §Y$GER_the_supreme_leader$§!§!" # todo: TERMINOLOGY Country -> země
+ GER_country_leader_change_blocks_progress_invincible_army_tt: "§RZměna Führera po dokončení §Y$GER_an_invincible_army$§! zablokuje dokončení §Y$GER_the_supreme_leader$§!§!"
  GER_an_invincible_army_trigger: "Musí platit jedno z následujícího:\n   Více než §Y5§! subjektů\n   Více než §Y49§! okupovaných států v §YEvropě§!"
  GER_the_supreme_leader_trigger: "[ROOT.GetNameDefCap] §Ykapitulovalo§! více než §Y2 významné§! zemím"
  GER_the_supreme_leader: "Nejvyšší vůdce"
@@ -2586,7 +2586,7 @@
  unlock_decision_category_explained: "Odemkne §Y$CATEGORY$§! rozhodnutí. $DESC$"
  GER_integration_of_puppet_economies_decisions_tt: "Tato rozhodnutí nám umožní rozvíjet nebo využívat ekonomiky našich loutek."
  GER_a_strong_successor_trigger_tt: "Všichni §Y3§! prominentní poradci v rámci §YVnitřního kruhu§! dokončili své vrcholné zaměření."
- GER_a_strong_successor_tt: "Spustí událost '§Y$GER_inner_circle.02.t$§!'. \nProminentní $GER_inner_circle_member_title$ z §YVnitřního kruhu§! se může stát novým Führerem. §Y[ROOT.GetLeader]§! tak bude nahrazen." # todo: TERMINOLOGY Country -> země
+ GER_a_strong_successor_tt: "Spustí událost '§Y$GER_inner_circle.02.t$§!'. \nProminentní $GER_inner_circle_member_title$ z §YVnitřního kruhu§! se může stát novým Führerem. §Y[ROOT.GetLeader]§! tak bude nahrazen."
  GER_a_strong_successor_current_advisors_tt: "Současní prominentní poradci: §Y[GetAscendedAdvisorName1]§!, §Y[GetAscendedAdvisorName2]§! nebo §Y[GetAscendedAdvisorName3]§!."
  GER_focus_can_only_be_completed_by_advisor_tt: "Toto zaměření může zahájit pouze §Y$CHARACTER$§! po dokončení zaměření §Y$FOCUS$§!."
  GER_focus_can_only_be_completed_by_advisor_multiple_tt: "Toto zaměření může zahájit pouze §Y$CHARACTER$§! nebo §Y$CHARACTER_2$§! po dokončení zaměření §Y$FOCUS$§! nebo §Y$FOCUS_2$§!."

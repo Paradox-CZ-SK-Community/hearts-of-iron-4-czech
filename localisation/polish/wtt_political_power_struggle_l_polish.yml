@@ -103,7 +103,7 @@
  is_current_leader_of_china: "Je současným vůdcem Číny"
  is_not_current_leader_of_china: "Není současným vůdcem Číny"
  more_political_support_than_current_leader: "Má více §Hpolitických bodů podpory§! než [WTT_current_china_leader.GetNameDef]([?WTT_current_china_leader.total_political_support_points|0H]). Aktuálně máme [?Root.total_political_support_points|+0]."
- enable_power_struggle: "Zahajuje mocenský boj s [WTT_current_china_leader.GetNameDef] o celonárodní vedení\n" # todo: TERMINOLOGY Political Power -> politická síla
+ enable_power_struggle: "Zahajuje mocenský boj s [WTT_current_china_leader.GetNameDef] o celonárodní vedení\n"
  WTT_national_leadership_trigger_before_start: "Má více §Hpolitických bodů podpory§! než [WTT_current_china_leader.GetNameDef]"
  WTT_national_leadership_join_wars_effect: "Připojí se ke všem válkám, ve kterých §H[WTT_current_china_leader.GetNameDef]§! bojuje.\n"
  state_majority_country_rules: "§H[This.GetStateMajorityCountryName]§! má §Hvětšinu ve státě§! a získává [?This.state_political_support_value|+0] §Hpolitických bodů podpory§! dokud jiná země nezíská vyšší §Hmístní podporu§!\n\n"

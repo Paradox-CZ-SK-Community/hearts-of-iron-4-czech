@@ -1341,7 +1341,7 @@
  siberia_unified_ADJ: "sibiř."
  idel_ural_SOV_communism_subject: "Idel-uralská FSSR"
  idel_ural_SOV_communism_subject_DEF: "Idel-uralská federativní SSR"
- idel_ural_neutrality: "Idel-Ural" # todo: TERMINOLOGY State -> stát
+ idel_ural_neutrality: "Idel-Ural"
  idel_ural_neutrality_DEF: "Idel-Ural"
  idel_ural_democratic: "Republika Idel-Ural"
  idel_ural_democratic_DEF: "Republika Idel-Ural"
@@ -1467,7 +1467,7 @@
  horn_of_africa_democratic_DEF: "Velká federace Rohu Afriky"
  horn_of_africa_communism: "Unie východoafrických sovětských socialistických republik"
  horn_of_africa_communism_DEF: "Unie východoafrických sovětských socialistických republik"
- horn_of_africa_fascism: "Unitární Roh Afriky" # todo: TERMINOLOGY State -> stát
+ horn_of_africa_fascism: "Unitární Roh Afriky"
  horn_of_africa_fascism_DEF: "Unitární Roh Afriky"
  horn_of_africa_ADJ: "somál."
  greater_italy_neutrality: "Italské impérium"
@@ -1588,7 +1588,7 @@
  SWE_nordland_DEF: "Nordland"
  SWE_nordland_ADJ: "sever."
  SWE_nordland_ger: "Říšský protektorát Nordland"
- SWE_nordland_ger_ADJ: "nord." # todo: TERMINOLOGY Nordic -> Severský
+ SWE_nordland_ger_ADJ: "nord."
  SWE_nordland_democratic: "Republika Nordland"
  SWE_nordland_democratic_DEF: "Republika Nordland"
  SWE_nordland_communistc: "Severská demokratická republika"
@@ -1699,7 +1699,7 @@
  CHL_hispanic_union_fascism: "Hispánská říše"
  CHL_hispanic_union_fascism_DEF: "Hispánská říše"
  CHL_hispanic_union_fascism_ADJ: "hispán."
- BOL_plurinational_republic_democratic: "Mnohonárodnostní Bolívie" # todo: TERMINOLOGY State -> stát
+ BOL_plurinational_republic_democratic: "Mnohonárodnostní Bolívie"
  BOL_plurinational_republic_democratic_DEF: "Mnohonárodnostní Bolívie"
  BOL_plurinational_republic_democratic_ADJ: "boliv."
  CHL_fascist_kingdom: "Království Chile"
@@ -1781,7 +1781,7 @@
  BRA_union_of_latin_american_socialist_republics_cos_tag_def: "Unie latinskoamerických socialistických republik"
  BRA_union_of_latin_american_socialist_republics_cos_tag_adj: "latin."
  hispaniola_neutrality: "Hispaniola"
- hispaniola_neutrality_DEF: "Hispaniola" # todo: TERMINOLOGY State -> stát
+ hispaniola_neutrality_DEF: "Hispaniola"
  hispaniola_neutrality_ADJ: "hispan."
  hispaniola_fascism: "Nové náčelství Hispaniola"
  hispaniola_fascism_DEF: "Nové náčelství Hispaniola"
@@ -1968,7 +1968,7 @@
  AUS_kingdom_of_austria_neutrality: "Rakouské arcivévodství"
  AUS_kingdom_of_austria_neutrality_DEF: "Rakouské arcivévodství"
  AUS_kingdom_of_austria_neutrality_ADJ: "rak."
- AUS_federal_state: "Spolkové Rakousko" # todo: TERMINOLOGY State -> stát
+ AUS_federal_state: "Spolkové Rakousko"
  AUS_federal_state_DEF: "Spolkové Rakousko"
  AUS_federal_state_ADJ: "rak."
  AUS_union_of_danubian_socialists_communism: "Podunajská socialistická unie"
@@ -2010,7 +2010,7 @@
  COG_belgian_congo_fascism: "Revoluční Kongo"
  COG_belgian_congo_fascism_DEF: "Revoluční Kongo"
  COG_belgian_congo_fascism_ADJ: "konž."
- COG_belgian_congo_communism: "Afrosocialistické Kongo" # todo: TERMINOLOGY State -> stát
+ COG_belgian_congo_communism: "Afrosocialistické Kongo"
  COG_belgian_congo_communism_DEF: "Afrosocialistické Kongo"
  COG_belgian_congo_communism_ADJ: "konž."
  COG_belgian_congo: "[BEL.GetAdjectiveCap] Kongo"
@@ -2064,67 +2064,67 @@
  TRA_szekely_land: "Székelyföld"
  TRA_szekely_land_DEF: "Székelyföld"
  TRA_szekely_land_ADJ: "szék."
- AUS_danubian_state: "Podunajsko" # todo: TERMINOLOGY State -> stát
+ AUS_danubian_state: "Podunajsko"
  AUS_danubian_state_DEF: "Podunajsko"
  AUS_danubian_state_ADJ: "podunaj."
- FRA_AUS_danubian_state: "Podunajská Francie" # todo: TERMINOLOGY State -> stát
+ FRA_AUS_danubian_state: "Podunajská Francie"
  FRA_AUS_danubian_state_DEF: "Podunajská Francie"
  FRA_AUS_danubian_state_ADJ: "franc."
- TUR_AUS_danubian_state: "Podunajské Turecko" # todo: TERMINOLOGY State -> stát
+ TUR_AUS_danubian_state: "Podunajské Turecko"
  TUR_AUS_danubian_state_DEF: "Podunajské Turecko"
  TUR_AUS_danubian_state_ADJ: "tur."
- GRE_AUS_danubian_state: "Podunajské Řecko" # todo: TERMINOLOGY State -> stát
+ GRE_AUS_danubian_state: "Podunajské Řecko"
  GRE_AUS_danubian_state_DEF: "Podunajské Řecko"
  GRE_AUS_danubian_state_ADJ: "řec."
- HOL_AUS_danubian_state: "Podunajské Nizozemsko" # todo: TERMINOLOGY State -> stát
+ HOL_AUS_danubian_state: "Podunajské Nizozemsko"
  HOL_AUS_danubian_state_DEF: "Podunajské Nizozemsko"
  HOL_AUS_danubian_state_ADJ: "nizoz."
- LUX_AUS_danubian_state: "Podunajské Lucembursko" # todo: TERMINOLOGY State -> stát
+ LUX_AUS_danubian_state: "Podunajské Lucembursko"
  LUX_AUS_danubian_state_DEF: "Podunajské Lucemburska"
  LUX_AUS_danubian_state_ADJ: "lucembur."
- BEL_AUS_danubian_state: "Podunajská Belgie" # todo: TERMINOLOGY State -> stát
+ BEL_AUS_danubian_state: "Podunajská Belgie"
  BEL_AUS_danubian_state_DEF: "Podunajská Belgie"
  BEL_AUS_danubian_state_ADJ: "belg."
- MNT_AUS_danubian_state: "Podunajská Černá Hora" # todo: TERMINOLOGY State -> stát
+ MNT_AUS_danubian_state: "Podunajská Černá Hora"
  MNT_AUS_danubian_state_DEF: "Podunajská Černá Hora"
  MNT_AUS_danubian_state_ADJ: "černohor."
- MAC_AUS_danubian_state: "Podunajská Makedonie" # todo: TERMINOLOGY State -> stát
+ MAC_AUS_danubian_state: "Podunajská Makedonie"
  MAC_AUS_danubian_state_DEF: "Podunajská Makedonie"
  MAC_AUS_danubian_state_ADJ: "makedon."
- HUN_AUS_danubian_state: "Podunajské Maďarsko" # todo: TERMINOLOGY State -> stát
+ HUN_AUS_danubian_state: "Podunajské Maďarsko"
  HUN_AUS_danubian_state_DEF: "Podunajské Maďarsko"
  HUN_AUS_danubian_state_ADJ: "maďar."
- CZE_AUS_danubian_state: "Podunajské Československo" # todo: TERMINOLOGY State -> stát
+ CZE_AUS_danubian_state: "Podunajské Československo"
  CZE_AUS_danubian_state_DEF: "Podunajské Československo"
  CZE_AUS_danubian_state_ADJ: "čs."
- SLO_AUS_danubian_state: "Podunajské Slovensko" # todo: TERMINOLOGY State -> stát
+ SLO_AUS_danubian_state: "Podunajské Slovensko"
  SLO_AUS_danubian_state_DEF: "Podunajské Slovensko"
  SLO_AUS_danubian_state_ADJ: "sloven."
- TRA_AUS_danubian_state: "Podunajská Transylvánie" # todo: TERMINOLOGY State -> stát
+ TRA_AUS_danubian_state: "Podunajská Transylvánie"
  TRA_AUS_danubian_state_DEF: "Podunajská Transylvánie"
  TRA_AUS_danubian_state_ADJ: "transylván."
- CRO_AUS_danubian_state: "Podunajské Chorvatsko" # todo: TERMINOLOGY State -> stát
+ CRO_AUS_danubian_state: "Podunajské Chorvatsko"
  CRO_AUS_danubian_state_DEF: "Podunajské Chorvatsko"
  CRO_AUS_danubian_state_ADJ: "chorvat."
- LBV_AUS_danubian_state: "Podunajská Lombardie-Benátsko" # todo: TERMINOLOGY State -> stát
+ LBV_AUS_danubian_state: "Podunajská Lombardie-Benátsko"
  LBV_AUS_danubian_state_DEF: "Podunajská Lombardie-Benátsko"
  LBV_AUS_danubian_state_ADJ: "podunaj."
- SIL_AUS_danubian_state: "Podunajské Slezsko" # todo: TERMINOLOGY State -> stát
+ SIL_AUS_danubian_state: "Podunajské Slezsko"
  SIL_AUS_danubian_state_DEF: "Podunajské Slezsko"
  SIL_AUS_danubian_state_ADJ: "slez."
- BOS_AUS_danubian_state: "Podunajská Bosna" # todo: TERMINOLOGY State -> stát
+ BOS_AUS_danubian_state: "Podunajská Bosna"
  BOS_AUS_danubian_state_DEF: "Podunajská Bosna"
  BOS_AUS_danubian_state_ADJ: "bosen."
- SLV_AUS_danubian_state: "Podunajské Slovinsko" # todo: TERMINOLOGY State -> stát
+ SLV_AUS_danubian_state: "Podunajské Slovinsko"
  SLV_AUS_danubian_state_DEF: "Podunajské Slovinsko"
  SLV_AUS_danubian_state_ADJ: "slovin."
- YUG_AUS_danubian_state: "Podunajská Jugoslávie" # todo: TERMINOLOGY State -> stát
+ YUG_AUS_danubian_state: "Podunajská Jugoslávie"
  YUG_AUS_danubian_state_DEF: "Podunajská Jugoslávie"
  YUG_AUS_danubian_state_ADJ: "jugosláv."
- ROM_AUS_danubian_state: "Podunajské Rumunsko" # todo: TERMINOLOGY State -> stát
+ ROM_AUS_danubian_state: "Podunajské Rumunsko"
  ROM_AUS_danubian_state_DEF: "Podunajské Rumunsko"
  ROM_AUS_danubian_state_ADJ: "rumun."
- BUL_AUS_danubian_state: "Podunajské Bulharsko" # todo: TERMINOLOGY State -> stát
+ BUL_AUS_danubian_state: "Podunajské Bulharsko"
  BUL_AUS_danubian_state_DEF: "Podunajské Bulharsko"
  BUL_AUS_danubian_state_ADJ: "bulhar."
  antilles_neutrality: "Antilská konfederace"
@@ -2971,11 +2971,11 @@
  LAO_kingdom_of_luang_prabang_tag_neutrality: "Království Luang Prabang"
  LAO_kingdom_of_luang_prabang_tag_neutrality_DEF: "Království Luang Prabang"
  LAO_kingdom_of_luang_prabang_tag_neutrality_ADJ: "laos."
- SRL_state_of_ceylon_tag_fascism: "Cejlon" # todo: TERMINOLOGY State -> stát
- SRL_state_of_ceylon_tag_fascism_DEF: "Cejlon" # todo: TERMINOLOGY State -> stát
+ SRL_state_of_ceylon_tag_fascism: "Cejlon"
+ SRL_state_of_ceylon_tag_fascism_DEF: "Cejlon"
  SRL_state_of_ceylon_tag_fascism_ADJ: "cejlon."
- SRL_state_of_ceylon_tag_neutrality: "Cejlon" # todo: TERMINOLOGY State -> stát
- SRL_state_of_ceylon_tag_neutrality_DEF: "Cejlon" # todo: TERMINOLOGY State -> stát
+ SRL_state_of_ceylon_tag_neutrality: "Cejlon"
+ SRL_state_of_ceylon_tag_neutrality_DEF: "Cejlon"
  SRL_state_of_ceylon_tag_neutrality_ADJ: "cejlon."
  JAP_pacific_union_fascism: "Velká panasijská říše"
  JAP_pacific_union_fascism_DEF: "Velká panasijská říše"
@@ -3225,19 +3225,19 @@
  CZE_great_moravia_democratic: "Federace moravských států"
  CZE_great_moravia_democratic_DEF: "Federace moravských států"
  CZE_great_moravia_ADJ: "velkomor."
- ROM_DACIA: "Dácie" # todo: NEW TRANSLATION
- ROM_DACIA_DEF: "Dácie" # todo: NEW TRANSLATION
- ROM_DACIA_ADJ: "Dácký" # todo: NEW TRANSLATION
- ROM_DACIA_democratic: "Dácké království" # todo: NEW TRANSLATION
- ROM_DACIA_democratic_DEF: "Dácké království" # todo: NEW TRANSLATION
- ROM_DACIA_neutrality: "Dácké království" # todo: NEW TRANSLATION
- ROM_DACIA_neutrality_DEF: "Dácké království" # todo: NEW TRANSLATION
- ROM_legionary_balkan_state: "Balkánský legionářský stát" # todo: NEW TRANSLATION
- ROM_legionary_balkan_state_DEF: "Balkánský legionářský stát" # todo: NEW TRANSLATION
- ROM_legionary_balkan_state_ADJ: "Balkánský" # todo: NEW TRANSLATION
- ROM_romanian_bulgarian_ssr: "Rumunsko-bulharská SSR" # todo: NEW TRANSLATION
- ROM_romanian_bulgarian_ssr_DEF: "Rumunsko-bulharská SSR" # todo: NEW TRANSLATION
- ROM_romanian_bulgarian_ssr_ADJ: "Rumunsko-bulharský" # todo: NEW TRANSLATION
+ ROM_DACIA: "Dácie"
+ ROM_DACIA_DEF: "Dácie"
+ ROM_DACIA_ADJ: "dác."
+ ROM_DACIA_democratic: "Dácké království"
+ ROM_DACIA_democratic_DEF: "Dácké království"
+ ROM_DACIA_neutrality: "Dácké království"
+ ROM_DACIA_neutrality_DEF: "Dácké království"
+ ROM_legionary_balkan_state: "Legionářský Balkán"
+ ROM_legionary_balkan_state_DEF: "Legionářský Balkán"
+ ROM_legionary_balkan_state_ADJ: "balkán."
+ ROM_romanian_bulgarian_ssr: "Rumunsko-bulharská SSR"
+ ROM_romanian_bulgarian_ssr_DEF: "Rumunsko-bulharská SSR"
+ ROM_romanian_bulgarian_ssr_ADJ: "rum.-bulh."
  AST_australasia: "Australasie"
  AST_australasia_DEF: "Australasie"
  AST_australasia_ADJ: "australasij."
@@ -3254,11 +3254,11 @@
  AST_independent_DEF: "$AST_DEF$"
  AST_monarchy_neutrality: "Australské království"
  AST_monarchy_neutrality_DEF: "Australské království"
- ROM_CRO_legionary_state: "Chorvatský legionářský stát" # todo: NEW TRANSLATION
- ROM_CRO_legionary_state_DEF: "Chorvatský legionářský stát" # todo: NEW TRANSLATION
- ROM_CRO_legionary_state_ADJ: "Chorvatský" # todo: NEW TRANSLATION
- ROM_GRE_legionary_state: "Řecký legionářský stát" # todo: NEW TRANSLATION
- ROM_GRE_legionary_state_DEF: "Řecký legionářský stát" # todo: NEW TRANSLATION
- ROM_GRE_legionary_state_ADJ: "Řecký" # todo: NEW TRANSLATION
- ROM_republic: "Rumunsko" # todo: NEW TRANSLATION
- ROM_republic_DEF: "Rumunsko" # todo: NEW TRANSLATION
+ ROM_CRO_legionary_state: "Legionářské Chorvatsko"
+ ROM_CRO_legionary_state_DEF: "Legionářské Chorvatsko"
+ ROM_CRO_legionary_state_ADJ: "chorvat."
+ ROM_GRE_legionary_state: "Legionářské Řecko"
+ ROM_GRE_legionary_state_DEF: "Legionářské Řecko"
+ ROM_GRE_legionary_state_ADJ: "řec."
+ ROM_republic: "Rumunsko"
+ ROM_republic_DEF: "Rumunsko"

@@ -280,13 +280,13 @@
  DOCTRINE_MASTERY_UNKNOWN: "£doctrine_mastery ???"
  DOCTRINE_MASTERY_INSUFFICIENT_INTEL: "§RNedostatek zpravodajství pro zobrazení úrovně Mistrovství§!"
  DOCTRINE_BANKED_MASTERY: "£doctrine_mastery $VALUE|0+=$"
- DOCTRINE_CURRENT_MASTERY: "§HSoučasná úroveň:§! £doctrine_mastery $VALUE|H2$" # todo: TERMINOLOGY Mastery -> Mistrovství
- DOCTRINE_CURRENT_BANKED_MASTERY: "§HRezervováno:§! £doctrine_mastery $VALUE|H2$" # todo: TERMINOLOGY Mastery -> Mistrovství
+ DOCTRINE_CURRENT_MASTERY: "§HSoučasná úroveň:§! £doctrine_mastery $VALUE|H2$"
+ DOCTRINE_CURRENT_BANKED_MASTERY: "§HRezervováno:§! £doctrine_mastery $VALUE|H2$"
  DOCTRINE_MONTHLY_MASTERY_GAIN: "Měsíční zisk: £doctrine_mastery $VALUE|H1$"
  DOCTRINE_MONTHLY_MASTERY_BANK: "§HRezervuje se§!: £doctrine_mastery $VALUE|H1$"
  MASTERY_BANK_EXPLANATION_FULL: "§gPo dokončení větve se §!$PERCENT|H%0$§g Mistrovství ukládá do rezervy (max §!$MAX|H0$)."
  MASTERY_BANK_EXPLANATION_EMPTY: "§gDokud není odemknuta dílčí doktrína, ukládá se §!$PERCENT|H%0$§g Mistrovství do rezervy (max £doctrine_mastery §!$MAX|H0$)."
- MASTERY_BANK_CONVERSION_RATE: "Míra převodu rezervy: $PERCENT|H%0$" # todo: TERMINOLOGY Mastery -> Mistrovství
+ MASTERY_BANK_CONVERSION_RATE: "Míra převodu rezervy: $PERCENT|H%0$"
  MASTERY_INITIAL_FROM_RESERVE: "Počáteční Mistrovství z rezervy: £doctrine_mastery $VALUE|H0$"
  SWITCH_GRAND_DOCTRINE_MASTERY_RESET: "§RPřepnutí hlavní doktríny vynuluje veškeré Mistrovství.§!"
  DOCTRINE_MONTHLY_MASTERY_GAIN_FROM_UNITS: "- Z jednotek: $VALUE|H1$"
@@ -295,7 +295,7 @@
  DOCTRINE_MONTHLY_MASTERY_GAIN_FACTION_SHARING: "- Sdílení v rámci frakce: $VALUE|+=1$"
  DOCTRINE_MONTHLY_MASTERY_GAIN_THEATER_COMMANDER: "- $LEADER_NAME|H$ (velitel): $VALUE|+=1$"
  DOCTRINE_MONTHS_UNTIL_NEXT_REWARD: "Další odměna za cca $VALUE|H1$ měsíců"
- DOCTRINE_REWARD_MASTERY: "Odemkne se při £doctrine_mastery $VALUE|H0$" # todo: TERMINOLOGY Mastery -> Mistrovství
+ DOCTRINE_REWARD_MASTERY: "Odemkne se při £doctrine_mastery $VALUE|H0$"
  DOCTRINE_REWARD_ACTIVE_PREVIEW: "§GTato odměna se odemkne okamžitě díky rezervě§!"
  MASTERY_GAIN_CONDITION_HEADER: "§GMistrovství získáváte z:§!"
  MASTERY_GAIN_EXPLANATION: "§gMistrovství přibývá činností jednotek. Výcvik přináší sníženou hodnotu (§!$TRAINING_RATE|%0H$§g).§!"
@@ -315,7 +315,7 @@
  GRAND_DOCTRINE_CONVOY_RAIDING_DESC: "Korsářství moderní doby — Nepřímý přístup k námořní válce zaměřený na dušení nepřátelského námořního obchodu a odříznutí jeho válečného hospodářství od zdrojů."
  GRAND_DOCTRINE_BASE_STRIKE: "Úder na základny"
  GRAND_DOCTRINE_BASE_STRIKE_DESC: "Udeř tvrdě a první — Nové technologie námořního letectva umožňují zasáhnout nepřítele za horizontem, dříve než si uvědomí, že je ve válce."
- DOCTRINE_TRACK_CAPITAL_SHIPS: "Těžké lodě" # todo: TERMINOLOGY Capital Ships -> Hlavní lodě
+ DOCTRINE_TRACK_CAPITAL_SHIPS: "Hlavní lodě"
  DOCTRINE_TRACK_CARRIERS: "Letadlové lodě"
  DOCTRINE_TRACK_SCREENS: "Doprovodné lodě"
  DOCTRINE_TRACK_SUBMARINES: "Ponorky"
@@ -762,7 +762,7 @@
  DOCTRINE_EFFECT_SOURCE_GRAND_DOCTRINE: "$GRAND_DOCTRINE|H$ (hlavní doktrína)"
  DOCTRINE_EFFECT_SOURCE_SUBDOCTRINE: "$SUBDOCTRINE|H$ (dílčí doktrína - $TRACK$)"
  DOCTRINE_EFFECT_SOURCE_MILESTONE: "$GRAND_DOCTRINE|H$ - milník ($TRACK$)"
- DOCTRINE_EFFECT_SOURCE_REWARD: "$SUBDOCTRINE|H$ - £doctrine_mastery $MASTERY|H0$ ($TRACK$)" # todo: TERMINOLOGY Subdoctrine -> Dílčí doktrína
+ DOCTRINE_EFFECT_SOURCE_REWARD: "$SUBDOCTRINE|H$ - £doctrine_mastery $MASTERY|H0$ ($TRACK$)"
  HAS_MASTERY_TRIGGER: "Má alespoň £doctrine_mastery $AMOUNT|H0$. mistrovství v $TRACK|H$"
  HAS_NOT_MASTERY_TRIGGER: "Má méně než £doctrine_mastery $AMOUNT|H0$. mistrovství v $TRACK|H$"
  UNLOCK_TACTIC_EFFECT: "Odemkne taktiku: $NAME|H$"

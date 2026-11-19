@@ -428,7 +428,7 @@
  sp_land_generic_reward_artillery_tech_3: "$sp_land_generic_reward_armor_tech_3$"
  sp_land_generic_reward_option_artillery_tech_bonus_name: "Experimentální výzkum dělostřelectva"
  sp_land_generic_reward_armor_bonus_1: "Vylepšené pancéřování"
- sp_land_generic_reward_armor_bonus_2: "Zlepšení balistické odolnosti" # todo: TERMINOLOGY Resistance -> odboj
+ sp_land_generic_reward_armor_bonus_2: "Zlepšení balistické odolnosti"
  sp_land_generic_reward_armor_bonus_3: "Zlepšené zbrojní slitiny"
  sp_land_generic_reward_engine_bonus_1: "Motory s úspornou spotřebou paliva"
  sp_land_generic_reward_engine_bonus_2: "Zvýšená spolehlivost motoru"
@@ -888,7 +888,7 @@
  sp_nuclear_submarine_eq_bonus_ic_reduction: "Jaderná ponorka - Levnější výroba"
  sp_nuclear_submarine_eq_bonus_quality: "Jaderná ponorka - Zaměření na kvalitu"
  sp_rocket_submarine_eq_bonus_range_increase: "Ponorka s raketami - Prodloužený dosah"
- sp_rocket_submarine_eq_bonus_reliability: "Ponorka vypouštějící střely - Důraz na spolehlivost" # todo: TERMINOLOGY Focus -> Zaměření
+ sp_rocket_submarine_eq_bonus_reliability: "Ponorka vypouštějící střely - Důraz na spolehlivost"
  sp_rocket_submarine_eq_bonus_stealth: "Ponorka s raketami - Zaměření na maskování"
  sp_nuclear_missile_submarine_eq_bonus_stealth: "Jaderná ponorka s raketami - Zaměření na steath"
  sp_nuclear_missile_submarine_eq_bonus_strength: "Jaderná raketová ponorka - Zvýšená odolnost"
@@ -915,7 +915,7 @@
  sp_modern_carrier_eq_bonus_armor: "Moderní letadlová loď - Moderní pancíř letadlové paluby"
  sp_modern_carrier_eq_bonus_anti_air: "Moderní letadlová loď - Moderní protiletadlová obrana"
  sp_modern_carrier_eq_bonus_anti_torpedo: "Moderní letadlová loď - Zvýšená ochrana proti torpédům"
- sp_mega_carrier_eq_bonus_weather: "Ledová letadlová loď - Zvýšená odolnost vůči počasí" # todo: TERMINOLOGY Resistance -> odboj
+ sp_mega_carrier_eq_bonus_weather: "Ledová letadlová loď - Zvýšená odolnost vůči počasí"
  sp_mega_carrier_eq_bonus_strength: "Ledová letadlová loď - Silnější konstrukce"
  sp_naval_escort_carrier_eq_bonus_range: "Eskortní letadlová loď - Zvýšený operační rádius"
  sp_naval_escort_carrier_eq_bonus_strength: "Eskortní letadlová loď - Zesílená konstrukce"

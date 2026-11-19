@@ -26,7 +26,7 @@
  AUS_political_events.3.desc: "Nedávná remilitarizace Porýní vyvolala mezi naším obyvatelstvem velké obavy. Vláda si klade otázku: „Můžeme být další?“ Ačkoli Vůdce opakovaně ujišťoval, že zábor Rakouska není v jeho zájmu, musíme připustit, že takový krok již nelze zcela vyloučit."
  AUS_political_events.3.a: "Měli bychom se připravit na nejhorší..."
  AUS_political_events.3.a_tt: "Odemkne rozhodnutí §Y$AUS_antischluss_category$§!"
- AUS_political_events.4.t: "Změna postoje" # todo: TERMINOLOGY Opinion -> Názor
+ AUS_political_events.4.t: "Změna postoje"
  AUS_political_events.4.desc: "Dříve otevřeně fašistický kardinál Theodor Innitzer v poslední době radikálně změnil svou rétoriku. Z hlasité a veřejné podpory nacismu a [GER.GetAdjective] Vůdce se při mši 7. října jasně postavil proti Vůdci. Namísto obvyklého kázání o tom, že [GER.GetLeader] si zaslouží víru mas, je nyní znovu obrátil k Bohu.\n\n[GER.GetAdjectiveCap] vedení je pobouřeno a žádá, abychom zakročili."
  AUS_political_events.4.a: "Zbavte se toho zrádce!"
  AUS_political_events.4.b: "Herr Innitzer má právo na vlastní názor."
@@ -1072,7 +1072,7 @@
  wuw_HUN_news_events.9.b: "To jim nepatří!"
  wuw_HUN_news_events.9.c: "Zajímavý vývoj"
  ww_BEL_event_political.1.t: "Rezignace vlády a předčasné volby"
- ww_BEL_event_political.1.desc: "Tlak na vládu kvůli probíhajícímu korupčnímu skandálu nakonec způsobil její pád. Vyšetřovatelé vedení Leonem Degrellem, vůdcem fašistického hnutí Rex, zkoumali úplatky ministrů po celé roky, což vedlo k odhalení četných plateb. \n\nVe snaze získat znovu legitimitu vyhlásil oslabený premiér Paul van Zeeland předčasné volby, aby obnovil důvěru voličů - výsledky již dorazily. \n\nParti Ouvrier Belge (Belgická dělnická strana) vedená Émilem Vanderveldem dopadla nejlépe a dokázala využít neoblíbenosti svého politického rivala. Vandervelde může vzít toto vítězství a vytvořit menšinovou vládu, nebo spolupracovat s katolickou stranou Paula van Zeelanda a vytvořit stabilnější většinu - vládu národní jednoty. \n\nJe třeba dodat, že Rexistická strana Leona Degrella si rovněž vedla velmi dobře; jeho protikorupční rétorika se ukázala jako mimořádně populární." # todo: TERMINOLOGY Pressure -> Nátlak
+ ww_BEL_event_political.1.desc: "Nátlak na vládu kvůli probíhajícímu korupčnímu skandálu nakonec způsobil její pád. Vyšetřovatelé vedení Leonem Degrellem, vůdcem fašistického hnutí Rex, zkoumali úplatky ministrů po celé roky, což vedlo k odhalení četných plateb. \n\nVe snaze získat znovu legitimitu vyhlásil oslabený premiér Paul van Zeeland předčasné volby, aby obnovil důvěru voličů - výsledky již dorazily. \n\nParti Ouvrier Belge (Belgická dělnická strana) vedená Émilem Vanderveldem dopadla nejlépe a dokázala využít neoblíbenosti svého politického rivala. Vandervelde může vzít toto vítězství a vytvořit menšinovou vládu, nebo spolupracovat s katolickou stranou Paula van Zeelanda a vytvořit stabilnější většinu - vládu národní jednoty. \n\nJe třeba dodat, že Rexistická strana Leona Degrella si rovněž vedla velmi dobře; jeho protikorupční rétorika se ukázala jako mimořádně populární."
  ww_BEL_event_political.1.a: "Vytvořit vládu národní jednoty"
  ww_BEL_event_political.1.b: "Vandervelde vytvoří menšinovou vládu"
  BEL_paul_van_zeeland_remains_tt: "§Y$BEL_paul_van_zeeland$§! zůstává předsedou vlády a vede širokou koalici §YDemokratických§! stran."

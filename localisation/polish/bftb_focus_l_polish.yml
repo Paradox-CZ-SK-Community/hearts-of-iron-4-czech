@@ -601,7 +601,7 @@
  TUR_entice_the_greeks_desc: "[GRE.GetNameDef] by s námi mělo být v míru. Na tom se velmi snažili pracovat naše vlády již od zhroucení Osmanské říše. Nemáme důvod zahodit desetiletí diplomatického úsilí - ale ocitneme-li se na opačných stranách této války, může se to změnit. Doufejme, že budou naslouchat rozumu a nepromrhají zbytečně svou budoucnost."
  TUR_carve_up_greece: "Rozparcelovat Řecko"
  TUR_carve_up_greece_desc: "K naší nemalé nelibosti se zdá, že neexistuje budoucnost, v níž by [GRE.GetNameDef] vyšlo z této éry stále jako nezávislý stát. Není v tom zášť - děláme jen to, co je nutné pro přežití. V Egeji opět zavládne mír, ale ne v této kruté a nelítostné době."
- TUR_pressure_portugal_to_join: "Přitlačit Portugalsko, aby se přidalo" # todo: TERMINOLOGY Pressure -> Nátlak
+ TUR_pressure_portugal_to_join: "Přitlačit Portugalsko, aby se přidalo"
  TUR_pressure_portugal_to_join_desc: "[POR.GetNameDefCap] sice technicky nehraničí se Středomořím, ale budoucnost regionu se ho bytostně týká. Potřebujeme jeho rozsáhlé impérium - a ono může získat mnoho z přátelství s námi."
  TUR_collaborative_civil_works_programme: "Společný program veřejných prací"
  TUR_collaborative_civil_works_programme_desc: "Kdyby bylo všechno tak, jak chce [ITA.GetNameDef], všichni členové naší aliance by se věnovali pouze dobývání a podmaňování jiných národů. My jsme hlasem rozumu, pokud jde o další aspekty vládnutí: copak nikdo neuvažoval o míře zaměstnanosti nebo poválečné ekonomice? Měli bychom spojit své zdroje a spolupracovat na budování lepší budoucnosti, která bude hodna všeho toho krveprolití."

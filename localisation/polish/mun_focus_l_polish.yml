@@ -76,7 +76,7 @@
  CZE_demand_guarantees_desc: "Navzdory našim stávajícím smlouvám a spojenectvím musíme zajistit, aby nás naši partneři v době nouze neopustili jen proto, že je to pro ně snazší. Potřebujeme něco silnějšího než pouhé záruky."
  CZE_guardian_of_central_europe: "Strážce střední Evropy"
  CZE_guardian_of_central_europe_desc: "Nyní stojíme v pozici stražce demokracie ve středu Evropy. Můžeme být ochráncem národů, které se nedokážou ubránit samy, a zajistit, aby demokracie stála pevných základech."
- CZE_central_european_faction: "Vládce střední Evropy" # todo: TERMINOLOGY Overlord -> Suzerén
+ CZE_central_european_faction: "Vládce střední Evropy"
  CZE_central_european_faction_desc: "Navzdory našemu zaměření na vlastní posílení místo přílišného spoléhání na diplomacii je zásadní, abychom nepřecenili své síly. Možná nastal čas obrátit pohled ven."
  CZE_strike_at_the_heart_of_bolshevism: "[THIS.GetAntiSovietFocusName]"
  CZE_strike_at_the_heart_of_bolshevism_1: "Úder do srdce bolševismu"
@@ -141,8 +141,8 @@
  CZE_limited_cooperation_desc: "Ač ideologicky odlišný, i [SOV.GetNameDef] může uznat naši hodnotu jako partnera a zapojit se do některých pragmatických dohod, i když nás zároveň bude odsuzovat ve svých novinách."
  CZE_denounce_stalinism: "Odsoudit stalinismus"
  CZE_denounce_stalinism_desc: "Pověst komunismu je navždy poskvrněna Stalinovými křivdami. Nastal čas podniknout vojenské kroky k osvobození lidí žijících pod režimy, jako je ten jeho."
- country_leader_has_ideology_tt: "Vůdce země má ideologii §Y$IDEOLOGY$§!" # todo: NEW TRANSLATION
- country_leader_has_ideology_tt_NOT: "Neplatí: $country_leader_has_ideology_tt$" # todo: NEW TRANSLATION
+ country_leader_has_ideology_tt: "Vůdce země má ideologii §Y$IDEOLOGY$§!"
+ country_leader_has_ideology_tt_NOT: "Neplatí: $country_leader_has_ideology_tt$"
  CZE_cooperate_with_tito: "Spolupracovat s Titem"
  CZE_cooperate_with_tito_desc: "[YUG.GetNameDefCap] se snaží o pragmatickou verzi komunismu stejně jako my. Podobně usilují o sjednocení různorodých národů pod rudým praporem. Při těchto výzvách bychom měli spolupracovat ve vojenských i politických otázkách."
  CZE_reduce_divided_nation_cost_tt: "Snižuje cenu a dobu trvání většiny rozhodnutí §Y$CZE_a_divided_nation_category$§!."
@@ -177,10 +177,10 @@
  CZE_jachymov_uranium_mine_desc: "Doly v Jáchymově dlouho sloužily jako zdroj uranu a dalších rud, avšak uran měl až donedávna jen malé využití, než přišel nedávný pokrok ve fyzice."
  CZE_skoda_internal_competition: "Podpořit vnitřní soutěž"
  CZE_skoda_internal_competition_desc: "V podniku tak velkém jako Škoda je těžké udržet všechny na vrcholu pracovního výkonu. Podpora vnitřní soutěže výrazně pomůže zlepšit výkonnost zaměstnanců v našich závodech."
- CZE_skoda_max_optimization_tt: "Maximální úroveň optimalizace §Y$CZE_industry_focus_title_text$§! bude zvýšena na 7." # todo: TERMINOLOGY Focus -> Zaměření
+ CZE_skoda_max_optimization_tt: "Maximální úroveň optimalizace §Y$CZE_industry_focus_title_text$§! bude zvýšena na 7."
  CZE_skoda_increase_cooperation: "Zvýšit spolupráci v rámci Škody"
  CZE_skoda_increase_cooperation_desc: "Abychom se zlepšili, můžeme zvýšit výkon posílením spolupráce mezi závody. To by také mohlo vést ke sdílení odborných znalostí mezi našimi provozy."
- CZE_skoda_fast_optimization_tt: "Rychlost růstu úrovně §Y$CZE_industry_focus_title_text$§! £GFX_prod_eff_cap směrem k maximální úrovni: §G+100.0%§!" # todo: TERMINOLOGY Focus -> Zaměření
+ CZE_skoda_fast_optimization_tt: "Rychlost růstu úrovně §Y$CZE_industry_focus_title_text$§! £GFX_prod_eff_cap směrem k maximální úrovni: §G+100.0%§!"
  CZE_master_of_armaments: "Mistr zbrojení"
  CZE_master_of_armaments_desc: "Škodovy závody jsou největším výrobcem zbraní v naši zemi již od dob Rakouska-Uherska. Jejich odborné znalosti a zkušenosti nemají mezi průmyslovými konglomeráty v naší zemi obdoby. Nastal čas z nich udělat skutečného Mistra zbrojení."
  CZE_only_the_best_is_good_enough: "Jen to nejlepší je dost dobré"
@@ -231,7 +231,7 @@
  CZE_mend_balkan_relations: "Urovnat balkánské vztahy"
  CZE_facilitate_a_strong_hungary: "Podpořit silné Maďarsko"
  CZE_facilitate_a_strong_hungary_desc: "Od získání nezávislosti mělo [HUN.GetNameDef] s námi nestabilní vztahy. S blížícím se konfliktem je však možná dokážeme přivést na naši stranu."
- CZE_subjegate_romania: "Přitlačit na Rumuny pomocí [HUN.GetAdjective] nároků" # todo: TERMINOLOGY Pressure -> Nátlak
+ CZE_subjegate_romania: "Přitlačit na Rumuny pomocí [HUN.GetAdjective] nároků"
  CZE_subjegate_romania_desc: "Nároky našeho [HUN.GetAdjective] subjektu jsou užitečným kladivem na [ROM.GetNameDef]. Hrozbou, že dovolíme, ať si [HUN.GetNameDef] prosadí své nároky na [ROM.GetAdjective] území a my jim pomůžeme je získat, může stačit na to, že se [ROM.GetNameDef] podřídí."
  CZE_demanded_overlordship_HUN: "Podrobeno Maďarsko"
  CZE_demanded_overlordship_ROM: "Podrobeno Rumunsko"
@@ -437,7 +437,7 @@
  CZE_shrink_educational_disparities_desc: "Našim venkovským oblastem se nedostává kvalitního vzdělání, které je běžné ve městech. Musíme tyto rozdíly odstranit rozsáhlými vzdělávacími programy zaměřenými na tyto oblasti."
  CZE_kickstart_rapid_rearmanent: "Spustit rychlé přezbrojení"
  CZE_kickstart_rapid_rearmanent_desc: "Mnozí politici a podnikatelé to mohou považovat za strašné rozhodnutí, ale musíme začít přezbrojovat ihned. Země kolem nás se neodzbrojují, právě naopak, a je to veřejné tajemství. Musíme připravit naši armádu, dokud ještě máme čas."
- CZE_keep_focus_on_weapon_exports: "Zachovat důraz na vývoz zbraní" # todo: TERMINOLOGY Focus -> Zaměření
+ CZE_keep_focus_on_weapon_exports: "Zachovat důraz na vývoz zbraní"
  CZE_keep_focus_on_weapon_exports_desc: "Náš rozsáhlý vývoz zbraní nás vyvedl z hospodářské krize. Obrátit tento trend by bylo politicky i hospodářsky nebezpečné. Pokračovat v dosavadním směru je nyní nejlepší možností. Hrozby proti nám jsou ostatně přehnané."
  CZE_force_the_industrialists_hand: "Přinutit průmyslníky jednat"
  CZE_force_the_industrialists_hand_desc: "Průmyslníci a konglomeráty příliš dlouho brzdili naši schopnost účinně přezbrojit. Je čas rozhodnout za ně v zájmu národa."

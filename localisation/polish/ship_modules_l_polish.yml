@@ -250,7 +250,7 @@
  ship_sonar_3: "Pokročilý sonar"
  ship_sonar_3_desc: "Vylepšené aktivní sonarové pole využívající silnější signální pulzy a směrové skenování."
  ship_sonar_4: "Moderní sonar"
- ship_sonar_4_desc: "Špičkový sonarový systém poskytující vynikající sledování ponořených cílů." # todo: TERMINOLOGY State -> stát
+ ship_sonar_4_desc: "Špičkový sonarový systém poskytující vynikající sledování ponořených cílů."
  ship_radar_1: "Decimetrický vyhledávací radar"
  ship_radar_1_short: "Radar I"
  ship_radar_1_desc: "Jednoduchý radar pracující v pásmu 50 cm umožňuje detekci hladinových lodí i za špatného počasí na vzdálenost přes 10 kilometrů."

@@ -1192,7 +1192,7 @@
  SWI_soviet_spy: "Sovětský špeh"
  constitutional_philosopher: "Konstituční filozof"
  democratic_firebrand: "Demokratický zapálenec"
- communist_orator: "Řečník odporu" # todo: TERMINOLOGY Resistance -> odboj
+ communist_orator: "Řečník odboje"
  harsh_propagandist: "Tvrdý propagandista"
  SWI_brandy_the_st_bernard_trait: "Neschopný poradce"
  evans_deakin_trait: "Pacifická společnost"
@@ -2111,10 +2111,10 @@
  PRC_guerilla_warfare_theorist: "Teoretik guerillového boje"
  MAN_foreign_minister: "Ministr zahraničí"
  MAN_speaker_of_the_senate: "Předseda senátu"
- SIK_communist_in_name_only: "Komunista jen podle jména"
+ SIK_communist_in_name_only: "Komunista jen dle jména"
  KHM_governor_of_sinkiang: "Guvernér Sin-ťiangu"
  XSM_popular_governor: "Oblíbený guvernér"
- XSM_loyal_warlord: "Loajální válečný pán" # todo: TERMINOLOGY Warlord -> Militarista
+ XSM_loyal_warlord: "Loajální militarista"
  SIC_governor_of_sichuan: "Guvernér S'-čchuanu"
  GXC_fierce_leader: "Drsný vůdce"
  GDC_king_of_the_southern_skies: "Král jižních nebes"
@@ -2127,7 +2127,7 @@
  XSM_devout_leader: "Zbožný vůdce"
  KHM_padishah: "Padischáh"
  XIC_young_marshall: "Mladý maršál"
- SND_traitor_warlord: "Zrádný válečný pán" # todo: TERMINOLOGY Warlord -> Militarista
+ SND_traitor_warlord: "Zrádný militarista"
  SND_proven_loyalty: "Prokázaná loajalita"
  SIK_duban: "Duban"
  SIK_the_king_of_sinkiang: "Král Sin-ťiangu"
@@ -2286,7 +2286,7 @@
  steady_statesman: "Rozvážný státník"
  CHI_generallissimo_sea: "Generalissimus"
  CHI_all_china_generalisimo: "Generalissimus celé Číny"
- CHI_winner_of_resistance: "Vítěz Války odporu" # todo: TERMINOLOGY Resistance -> odboj
+ CHI_winner_of_resistance: "Vítěz Války odporu"
  bridgebuilder: "Stavitel mostů"
  CHI_shanghai_financier: "Šanghajský finančník"
  CHI_shanghai_financier_2: "Šanghajský finančník"
@@ -2598,76 +2598,77 @@
  heavy_ship_officer_desc: "§LSloužil jako kapitán těžké lodi.§!"
  carrier_officer: "Kapitán letadlové lodi"
  carrier_officer_desc: "§LSloužil jako kapitán letadlové lodi.§!"
- ROM_industrial_magnate: "Průmyslový magnát" # todo: NEW TRANSLATION
- ROM_emergency_military_mandate: "Nouzový vojenský mandát" # todo: NEW TRANSLATION
- ROM_veteran_liberal_trait: "Zkušený liberální vůdce" # todo: NEW TRANSLATION
- ROM_legionary_commander_trait: "Legionářský velitel" # todo: NEW TRANSLATION
- ROM_womens_rights_advocate_trait: "Zastánce práv žen" # todo: NEW TRANSLATION
- ROM_dignified: "Důstojný monarcha" # todo: NEW TRANSLATION
- ROM_hedonist_2: "Dekadentní hédonista" # todo: NEW TRANSLATION
- ROM_divided_regency_trait: "Rozdělené regentství" # todo: NEW TRANSLATION
- ROM_regency_queen_helen: "Pod vedením královny Heleny" # todo: NEW TRANSLATION
- ROM_regency_patriarch: "Pod vedením patriarchy" # todo: NEW TRANSLATION
- ROM_regency_high_court: "Pod vedením vrchního soudu" # todo: NEW TRANSLATION
- ROM_petrochemical_genius: "Petrochemický génius" # todo: NEW TRANSLATION
- ROM_agrarian_revolutionary: "Agrární kolektivista" # todo: NEW TRANSLATION
- ROM_incompetent_prime_minister: "Neschopný předseda vlády" # todo: NEW TRANSLATION
- ROM_pragmatic_diplomat: "Pragmatický diplomat" # todo: NEW TRANSLATION
- gadget_obsessed: "Posedlý technickými hračkami" # todo: NEW TRANSLATION
- ROM_camarilla_council_member_1: "Člen rady kamarily" # todo: NEW TRANSLATION
- ROM_incorruptible: "Neúplatný" # todo: NEW TRANSLATION
- ROM_reformer_of_the_military: "Reformátor armády" # todo: NEW TRANSLATION
- ROM_stalinist_thug: "Stalinistický rváč" # todo: NEW TRANSLATION
- ROM_stalinist_thug_LaR: "$ROM_stalinist_thug$" # todo: NEW TRANSLATION
- ROM_anti_stalinist_propagandist: "$anti_stalinist_propagandist$" # todo: NEW TRANSLATION
- ROM_anti_stalinist_propagandist_lar: "$anti_stalinist_propagandist$" # todo: NEW TRANSLATION
- ROM_propagandist: "Komunistický řečník" # todo: NEW TRANSLATION
- ROM_staunch_stalinist: "$staunch_stalinist$" # todo: NEW TRANSLATION
- ROM_prince_of_terror: "$prince_of_terror$" # todo: NEW TRANSLATION
- ROM_the_marshal: "Maršál" # todo: NEW TRANSLATION
- ROM_nationalist_symbol: "Symbol nacionalismu" # todo: NEW TRANSLATION
- ROM_anti_iron_guard_proponent: "\n§YOdpůrce Železné gardy§!\nPokud by se §YCorneliu Codreanu§! něco stalo, Železná garda by mohla odpovědět." # todo: NEW TRANSLATION
- turncoat_journalist_dem: "Novinář jako korouhvička" # todo: NEW TRANSLATION
- turncoat_journalist_neutrality: "$turncoat_journalist_dem$" # todo: NEW TRANSLATION
- turncoat_journalist_com: "$turncoat_journalist_dem$" # todo: NEW TRANSLATION
- ROM_socialist_doctor: "Socialistický lékař" # todo: NEW TRANSLATION
- experienced_revolutionary: "Zkušený revolucionář" # todo: NEW TRANSLATION
- ROM_opportunistic: "Oportunista" # todo: NEW TRANSLATION
- council_theorist_1: "Rada pro vojenskou doktrínu" # todo: NEW TRANSLATION
- council_theorist_2: "$council_theorist_1$" # todo: NEW TRANSLATION
- council_organization_1: "Rada pro organizaci armády" # todo: NEW TRANSLATION
- council_organization_2: "$council_organization_1$" # todo: NEW TRANSLATION
- council_recovery_1: "Rada pro obnovu armády" # todo: NEW TRANSLATION
- council_recovery_2: "$council_recovery_1$" # todo: NEW TRANSLATION
- ROM_agitator: "Politický agitátor" # todo: NEW TRANSLATION
- ROM_proponent_of_peasantry: "Zastánce rolnictva" # todo: NEW TRANSLATION
- ROM_camarilla_council_member_2: "Člen rady kamarily" # todo: NEW TRANSLATION
- ROM_patriarch_of_romania_2: "Druhý patriarcha Rumunska" # todo: NEW TRANSLATION
- ROM_patriarch_of_romania_1: "První patriarcha Rumunska" # todo: NEW TRANSLATION
- ROM_arms_industrialist: "Zbrojní průmyslník" # todo: NEW TRANSLATION
- ROM_arms_industrialist_non_aat: "$ROM_arms_industrialist$" # todo: NEW TRANSLATION
- ROM_cultural_colossus: "Kulturní velikán" # todo: NEW TRANSLATION
- ROM_agrarian_economist: "Agrární ekonom" # todo: NEW TRANSLATION
- ROM_regionalist_integrator: "Regionalistický sjednotitel" # todo: NEW TRANSLATION
- ROM_legionary_diplomat: "Legionářský diplomat" # todo: NEW TRANSLATION
- ROM_sphinx: "Sfinga z Badacinu" # todo: NEW TRANSLATION
- ROM_liberal_capitalist: "Liberální kapitalista" # todo: NEW TRANSLATION
- well_connected_spymaster: "Mistr infiltrace" # todo: NEW TRANSLATION
- opportunistic_spymaster: "Oportunistický šéf špionáže" # todo: NEW TRANSLATION
- ROM_queen_mother_trait: "Matka národa" # todo: NEW TRANSLATION
- ROM_party_governor: "Bezohledný správce" # todo: NEW TRANSLATION
- ROM_party_secretary: "Fašistický státník" # todo: NEW TRANSLATION
- ROM_communist_agitator_youth: "Agitátor UTC" # todo: NEW TRANSLATION
- ROM_corporatist_economist: "Korporativistický teoretik" # todo: NEW TRANSLATION
- ROM_cynical_pragmatist: "Cynický pragmatik" # todo: NEW TRANSLATION
- ROM_orthodox_propagandist: "Ortodoxní nacionalista" # todo: NEW TRANSLATION
- ROM_communist_financier: "Architekt plánovaného hospodářství" # todo: NEW TRANSLATION
- ROM_the_white_prince: "Bílý princ" # todo: NEW TRANSLATION
- ROM_cultural_sociologist: "Průkopnický sociolog" # todo: NEW TRANSLATION
- ROM_aviation_technocrat: "Průmyslový vizionář" # todo: NEW TRANSLATION
- ROM_national_doctor: "Zastánce veřejného zdraví" # todo: NEW TRANSLATION
- ROM_financial_wizard: "Bankovní génius" # todo: NEW TRANSLATION
- ARG_anti_unionist_pure_anarchist: "$anti_unionist_pure_anarchist$"
- URG_minister_of_defense: "$SWE_minister_of_defense$"
- ETH_minister_of_the_interior_abate: "$minister_of_the_interior_abate$"
- ROM_the_impaler: "Napichovač" # todo: NEW TRANSLATION
+ ROM_industrial_magnate: "Průmyslový magnát"
+ ROM_emergency_military_mandate: "Mimořádný vojenský mandát"
+ ROM_veteran_liberal_trait: "Zkušený liberální vůdce"
+ ROM_legionary_commander_trait: "Legionářský velitel"
+ ROM_womens_rights_advocate_trait: "Zastánce ženských práv"
+ ROM_dignified: "Důstojný panovník"
+ ROM_hedonist_2: "Dekadentní požitkář"
+ ROM_divided_regency_trait: "Rozdělené regentství"
+ ROM_regency_queen_helen: "Pod vedením královny Eleny"
+ ROM_regency_patriarch: "Pod vedením patriarchy"
+ ROM_regency_high_court: "Pod vedením Nejvyššího soudu"
+ ROM_petrochemical_genius: "Geniální petrochemik"
+ ROM_agrarian_revolutionary: "Agrární kolektivista"
+ ROM_incompetent_prime_minister: "Neschopný předseda vlády"
+ ROM_pragmatic_diplomat: "Pragmatický diplomat"
+ gadget_obsessed: "Posedlý technickými vynálezy"
+ ROM_camarilla_council_member_1: "Člen rady kamarilly"
+ ROM_incorruptible: "Neúplatný"
+ ROM_reformer_of_the_military: "Vojenský reformátor"
+ ROM_stalinist_thug: "Stalinistický násilník"
+ ROM_stalinist_thug_LaR: "*$ROM_stalinist_thug$*"
+ ROM_anti_stalinist_propagandist: "*$anti_stalinist_propagandist$*"
+ ROM_anti_stalinist_propagandist_lar: "*$anti_stalinist_propagandist$*"
+ ROM_propagandist: "Komunistický řečník"
+ ROM_staunch_stalinist: "*$staunch_stalinist$*"
+ ROM_prince_of_terror: "*$prince_of_terror$*"
+ ROM_the_marshal: "Maršál"
+ ROM_nationalist_symbol: "Symbol nacionalismu"
+ ROM_anti_iron_guard_proponent: "\n§YOdpůrce Železné gardy§!\nPokud by se §YCorneliu Codreanu§! něco stalo, Železná garda by se mohla pomstít."
+ turncoat_journalist_dem: "Novinář, který převléká kabát"
+ turncoat_journalist_neutrality: "*$turncoat_journalist_dem$*"
+ turncoat_journalist_com: "*$turncoat_journalist_dem$*"
+ ROM_socialist_doctor: "Socialistický lékař"
+ experienced_revolutionary: "Zkušený revolucionář"
+ ROM_opportunistic: "Oportunista"
+ council_theorist_1: "Rada pro vojenskou doktrínu"
+ council_theorist_2: "*$council_theorist_1$*"
+ council_organization_1: "Rada pro organizaci armády"
+ council_organization_2: "*$council_organization_1$*"
+ council_recovery_1: "Rada pro obnovu armády"
+ council_recovery_2: "*$council_recovery_1$*"
+ ROM_agitator: "Politický agitátor"
+ ROM_proponent_of_peasantry: "Zastánce rolnictva"
+ ROM_camarilla_council_member_2: "Člen rady kamarilly"
+ ROM_patriarch_of_romania_2: "Druhý patriarcha Rumunska"
+ ROM_patriarch_of_romania_1: "První patriarcha Rumunska"
+ ROM_arms_industrialist: "Zbrojní průmyslník"
+ ROM_arms_industrialist_non_aat: "*$ROM_arms_industrialist$*"
+ ROM_cultural_colossus: "Kulturní velikán"
+ ROM_agrarian_economist: "Agrární ekonom"
+ ROM_regionalist_integrator: "Sjednotitel regionů"
+ ROM_legionary_diplomat: "Legionářský diplomat"
+ ROM_sphinx: "Sfinga z Badacinu"
+ ROM_liberal_capitalist: "Liberální kapitalista"
+ well_connected_spymaster: "Mistr infiltrace"
+ opportunistic_spymaster: "Oportunistický šéf špionáže"
+ ROM_queen_mother_trait: "Matka národa"
+ ROM_party_governor: "Nelítostný správce"
+ ROM_party_secretary: "Fašistický státník"
+ ROM_communist_agitator_youth: "Agitátor UTC"
+ ROM_corporatist_economist: "Teoretik korporativismu"
+ ROM_cynical_pragmatist: "Cynický pragmatik"
+ ROM_orthodox_propagandist: "Pravoslavný nacionalista"
+ ROM_communist_financier: "Architekt plánovaného hospodářství"
+ ROM_the_white_prince: "Bílý princ"
+ ROM_cultural_sociologist: "Průkopnický sociolog"
+ ROM_aviation_technocrat: "Průmyslový vizionář"
+ ROM_national_doctor: "Zastánce veřejného zdraví"
+ ROM_financial_wizard: "Bankovní génius"
+ ARG_anti_unionist_pure_anarchist: "*$anti_unionist_pure_anarchist$*"
+ URG_minister_of_defense: "*$SWE_minister_of_defense$*"
+ ETH_minister_of_the_interior_abate: "*$minister_of_the_interior_abate$*"
+ ROM_the_impaler: "Napichovač"
+

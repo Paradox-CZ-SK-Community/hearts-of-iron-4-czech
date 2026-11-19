@@ -699,7 +699,7 @@
  wtt_japan.122.t: "Fašisté prchají do Mandžuska"
  wtt_japan.122.desc: "Po dobytí Tokia padla fašistická vláda a její zbývající stoupenci a vojenské jednotky uprchli do [MAN.GetName], který převzal kontrolu nad odlehlými ostrovy a korejskými i čínskými državami.\n\nObčanská válka je de facto u konce, ale příměří je nanejvýš křehké, protože fašisté nebyli rozhodně poraženi."
  wtt_japan.122.a: "Vypořádáme se s nimi později."
- wtt_japan.123.t: "Fašistický odpor se hroutí" # todo: TERMINOLOGY Resistance -> odboj
+ wtt_japan.123.t: "Fašistický odpor se hroutí"
  wtt_japan.123.desc: "Po dobytí Tokia se fašistická vláda zcela zhroutila. Jejich zbývající stoupenci a vojenské jednotky už nemají se kolem čeho semknout a začali se rozptylovat, což umožňuje snadné obsazení zbývajících a odlehlých teritorií."
  wtt_japan.123.a: "Válka je vyhrána."
  wtt_japan.124.t: "Dobrovolníci se vracejí domů"

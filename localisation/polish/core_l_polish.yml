@@ -329,20 +329,20 @@
  unplanned_offensive: "Neplánovaný útok"
  the_great_wall: "Velká čínská zeď"
  weather_rain_light: "Déšť"
- rain_light_icon: "GFX_modifiers_weather_icons:1" # todo: GLUED
+ rain_light_icon: "GFX_modifiers_weather_icons:1"
  weather_rain_heavy: "Bouře"
- rain_heavy_icon: "GFX_modifiers_weather_icons:2" # todo: GLUED
+ rain_heavy_icon: "GFX_modifiers_weather_icons:2"
  weather_snow: "Sněžení"
- snow_icon: "GFX_modifiers_weather_icons:3" # todo: GLUED
+ snow_icon: "GFX_modifiers_weather_icons:3"
  weather_blizzard: "Vichřice"
- blizzard_icon: "GFX_modifiers_weather_icons:4" # todo: GLUED
+ blizzard_icon: "GFX_modifiers_weather_icons:4"
  weather_sandstorm: "Pouštní bouře"
- sandstorm_icon: "GFX_modifiers_weather_icons:5" # todo: GLUED
+ sandstorm_icon: "GFX_modifiers_weather_icons:5"
  weather_arctic_water: "Arktické vody"
- arctic_water_icon: "GFX_modifiers_weather_icons:7" # todo: GLUED
- water_shallow_sea_icon: "GFX_modifiers_terrain_icons:1" # todo: GLUED
- water_deep_ocean_icon: "GFX_modifiers_terrain_icons:2" # todo: GLUED
- water_fjords_icon: "GFX_modifiers_terrain_icons:3" # todo: GLUED
+ arctic_water_icon: "GFX_modifiers_weather_icons:7"
+ water_shallow_sea_icon: "GFX_modifiers_terrain_icons:1"
+ water_deep_ocean_icon: "GFX_modifiers_terrain_icons:2"
+ water_fjords_icon: "GFX_modifiers_terrain_icons:3"
  weather_extreme_cold: "Extrémní chlad"
  weather_very_cold: "Velmi chladno"
  weather_very_hot: "Velmi horko"
@@ -350,7 +350,7 @@
  weather_ground_snow_medium: "Sníh"
  weather_ground_snow_high: "Hluboký sníh"
  water_modifier_shark_infested_name: "Vody zamořené žraloky"
- water_modifier_shark_infested_icon: "GFX_modifiers_weather_icons:6" # todo: GLUED
+ water_modifier_shark_infested_icon: "GFX_modifiers_weather_icons:6"
  resistance_effect: "§HLokální odboj§!"
  WEATHER_LEVEL_OF_RAINFALL: "$VAL|H$ cm §Hdeště§!"
  WEATHER_LEVEL_OF_SNOWFALL: "$VAL|H$ cm §Hsněhu§!"
@@ -584,10 +584,10 @@
  CURRENT_NO_ACTIVE_TASK_FORCE_FOR_MISSION: "Ale v regionu momentálně žádné nejsou."
  CURRENT_ALL_ACTIVE_TASK_FORCE_FOR_MISSION: "Všechny jsou v současnosti aktivní v oblasti."
  CURRENT_ACTIVE_SHIPS_FOR_NAVAL_INVASION_SUPPORT: "Celkem je $NUM|H$ úderných skupin pro $MISSION_NAME|H$ v této oblasti a aktuálně $NUM2|H$ z nich doprovází invazní armády a $NUM3|H$ z nich podporují pobřežní boje."
- CURRENT_ACTIVE_TASK_FORCE_FOR_DOMINANCE: "Ale pouze $NUM|H$ z nich jsou dost blízko, aby poskytly §Hnámořní nadvládu§!." # todo: TERMINOLOGY Naval Dominance -> Námořní převaha
- CURRENT_NO_ACTIVE_TASK_FORCE_FOR_DOMINANCE: "Ale žádná z nich není dost blízko, aby poskytla §Hnámořní nadvládu§!." # todo: TERMINOLOGY Naval Dominance -> Námořní převaha
+ CURRENT_ACTIVE_TASK_FORCE_FOR_DOMINANCE: "Ale pouze $NUM|H$ z nich jsou dost blízko, aby poskytly §Hnámořní převahu§!."
+ CURRENT_NO_ACTIVE_TASK_FORCE_FOR_DOMINANCE: "Ale žádná z nich není dost blízko, aby poskytla §Hnámořní převahu§!."
  CURRENT_NO_ACTIVE_TASK_FORCE_FOR_NAVAL_INVASION_SUPPORT: "Ale žádná z nich není dost blízko, aby poskytla §Hpodporu námořní invaze§!."
- CURRENT_ACTIVE_TASK_FORCE_FOR_DOMINANCE_WARNING: "§R£mapicon_unit_no_orders  Některé úderné skupiny jsou od této oblasti příliš vzdálené na to, aby poskytly §Hnámořní nadvládu!§!§!" # todo: TERMINOLOGY Naval Dominance -> Námořní převaha
+ CURRENT_ACTIVE_TASK_FORCE_FOR_DOMINANCE_WARNING: "§R£mapicon_unit_no_orders  Některé úderné skupiny jsou od této oblasti příliš vzdálené na to, aby poskytly §Hnámořní převahu!§!§!"
  CURRENT_ACTIVE_TASK_FORCE_FOR_NAVAL_INVASION_SUPPORT_WARNING: "§R£mapicon_unit_no_orders  Některé úderné skupiny jsou od této oblasti příliš vzdálené na to, aby poskytly §Hpodporu námořní invaze!§!§!"
  SHIP_ENGAGEMENT_BUTTON_GENERAL_DESC: "\n--------------\n§GNezapojujte se§! bude fungovat pouze pokud:\n - Úderná skupina nemá žádné rozkazy\n - Úderná skupina hlídkuje\n§GNezapojujte se§! se automaticky aktivuje, pokud byla úderná skupina poražen a vrací se na námořní základnu k opravě."
  SHIP_ENGAGEMENT_MAP_ICON: "Pravidlo zapojení úderné skupiny je: §GNezapojujte se§! do bitev s nepřáteli."
