@@ -307,7 +307,7 @@
  GER_submarine_max_speed_big_tt: "$ship_hull_submarine$ $STAT_NAVY_MAXIMUM_SPEED$: §G+10%§!"
  GER_military_modifier_fascist_desc: "[GER.GetNameDefCap] má dlouhou a hrdou vojenskou historii s tradicí inovativního myšlení a náš generální štáb se od potupné porážky ve Velké válce snaží ozbrojené síly dále zdokonalovat. Vyzbrojeni touto expertizou jsme připraveni zasadit úder každému, kdo by chtěl podrobit náš hrdý národ."
  is_controlled_by_ROOT_or_subject: "Ovládá jej §Y[ROOT.GetNameDef]§! nebo subjekt"
- is_controlled_by_ROOT_or_subject_NOT: "NEOVLÁDÁ jej §Y[ROOT.GetNameDef]§! nebo subjekt"
+ is_controlled_by_ROOT_or_subject_NOT: "NEOVLÁDÁ jej ani §Y[ROOT.GetNameDef]§!, ani subjekt"
  GER_alfred_rosenberg_modifier: "Alfred Rosenberg"
  GER_collect_scrap_metal_ns_desc: "Zahájili jsme celostátní kampaň na sběr co největšího množství šrotu, aby podpořil naše přezbrojení."
  GER_import_tariffs_ns_desc: "Zavedení dovozních cel je nezbytné zlo k podpoře růstu domácí výroby, ale především nám ušetří cenné prostředky, protože nebudeme muset utrácet ten málo dostupný devizový kapitál."
