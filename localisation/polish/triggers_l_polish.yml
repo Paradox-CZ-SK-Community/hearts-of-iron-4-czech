@@ -127,7 +127,7 @@
  TRIGGER_HAS_VOLUNTEERS_MORE_THAN: "Má $VALUE|H$ nebo více dobrovolníků z $COUNTRY2|H$"
  TRIGGER_HAS_VOLUNTEERS_LESS_THAN: "Má méně než $VALUE|H$ dobrovolníků z $COUNTRY2|H$"
  TRIGGER_HAS_WAR_LENGTH_WITH_LESS_THAN: "Je ve válce s $COUNTRY2|H$ kratší dobu než $VALUE|H$ měsíců"
- TRIGGER_HAS_WAR_LENGTH_WITH_MORE_THAN: "Je ve válce s $COUNTRY2|H$ déle než $VALUE|H$ měsíců"
+ TRIGGER_HAS_WAR_LENGTH_WITH_MORE_THAN: "Je ve válce s $COUNTRY2|H$ nejméně $VALUE|H$ měsíců"
  TRIGGER_IS_LEADING_VOLUNTEERS: "Vede dobrovolnickou skupinu"
  TRIGGER_IS_LEADING_VOLUNTEERS_IN_COUNTRY: "Vede dobrovolnickou skupinu v $COUNTRY1|H$"
  TRIGGER_AI_WANTS_DIVISIONS_MORE_THAN: "Chce více divizí než $AMOUNT|H.0$"

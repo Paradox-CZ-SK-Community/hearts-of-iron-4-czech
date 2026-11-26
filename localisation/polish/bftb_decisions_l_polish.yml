@@ -946,7 +946,7 @@
  BUL_persuade_bs_members: "[GetBsName]"
  BUL_persuade_bzns_members: "[GetBznsName]"
  BUL_persuade_nsm_members: "[GetNsmName]"
- BUL_persuade_generic_members: ""
+ BUL_persuade_generic_members: "frakce"
  BUL_draw_up_a_plan_for_regicide: "Vypracovat plán královraždy"
  BUL_draw_up_a_plan_for_regicide_desc: "Je čas učinit finální přípravy a rozhodnout, kdy a kde naše operace proběhne."
  BUL_seek_foreign_support: "Shánět zahraniční podporu"
